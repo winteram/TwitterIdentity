@@ -1,0 +1,20 @@
+1. use survey to find users' group identities, see if we can predict
+identities from tweets; see if we can predict the strength of
+identification.
+
+2. see how information flows in overlapping networks of (e.g.) sports
+networks and political networks, for high- versus low-identifiers
+
+3. Similar clusters in the network are more likely to merge than very
+disparate clusters
+
+4. Reactions to outgroups
+
+To predict:
+
+How someone answers a survey
+What kind of content they produce or share
+Systemic view of reactions to events
+Structural changes in the network
+
+
