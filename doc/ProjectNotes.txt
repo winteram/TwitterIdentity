@@ -18,3 +18,14 @@ Systemic view of reactions to events
 Structural changes in the network
 
 
+
+** Notes, WAM 5/14 **
+
+We should make sure the URLs we give to each user is a unique bit.ly link, so we can track clicks
+
+Give users in 2nd phase the chance to refuse to post the tweet / URL, record that as useful information
+
+Maybe we should do a staged survey: 1. Ask to name one social group they highly identify with. 2. Ask survey questions about that group, political group, and national group.
+
+For political groups, we need to allow for non-U.S. political parties?  Or only ask political ID questions for those who indicate they live in the United States.
+**
