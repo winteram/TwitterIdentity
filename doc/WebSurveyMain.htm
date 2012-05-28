@@ -1,0 +1,360 @@
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script>
+<!-- <script src="jquery.min.js" type="text/javascript"></script> -->
+<script language="javascript">
+$(document).ready(function() {
+	
+	// add years to age question
+	for(i=2000;i>1900;i--)
+	{
+		$("#age").append('<option value="'+i+'">'+i+'</option>');
+	}
+	
+	
+	var order=1;
+	
+	// show demographics questions at beginning
+	
+	var instructions = '<p> You will start by answering some deomgraphic questions </p>';
+	
+		instructions += '<div class="ctr"><input type="button" value="Continue" onclick="getDemographics()"/></div>';
+    $("#instructions-wrapper").html(instructions);
+    $("#instructions-wrapper").show();
+});
+
+function getDemographics()
+{
+	$("#instructions-wrapper").hide(500);
+	$("#demo-wrapper").show(500);
+}
+
+function IsNumeric(input)
+{
+   return (input - 0) == input && input.length > 0;
+}
+
+//Insert political affiliation into sentences with the right noun form
+
+function displayPol(form1, form2)
+{
+	
+	 
+
+	var sents = '<p> I identify with being a ' + form1 + '</p>' + '<p> I identify with other ' + form2 + '</p>'; 
+	$("#displayPol-wrapper").html(sents);
+	//$("#polquest1").prepend(sents)
+	$("#GetPol-wrapper").hide();
+	$("#displayPol-wrapper").show(500);
+	//$("#polquest1").show(500) 
+	
+	
+	
+}
+
+// Need to insert other branches this use the "order" variable to determine sequences as wel 
+function DecideOrder(location)
+{
+	
+	if(location == "United States")
+	{ 
+	$("#GetPol-wrapper").show(500)
+	}
+		
+	
+}
+
+
+function checkPolitics()
+{
+	party =$("#affiliation option:selected").val();
+	
+	var error = false 
+	var errmsg= ""
+	
+	if(party == "unselected")
+	{ error=true;
+      errmsg += "<div class='error'>Please indicate the political party you most identify with</div>";
+	  $('#error-2').html(errmsg)
+	}
+	else
+	{ 
+	   if(party=="Democrat")
+	    { 
+		  var pform1="Democrat"
+	      var pform2="Democrats"
+	     }
+		 
+	   if(party=="Republican")
+	   
+	   { 
+	     var pform1="Republican"
+	     var pform2="Republicans"
+	   }
+	   if(party=="Constitution")
+	    { 
+		  var pform1="Constitution Party member"
+		  var pform2="Constitution Party members"
+		}
+		if(party=="Green")
+		{ 
+		  var pform1="Green Party member"
+		  var pform2="Green Party members"
+		}
+		if(party=="Libertarian")
+		{
+			var pform1="Libertarian"
+			var pform2="Libertarians"
+		}
+		
+		displayPol(pform1, pform2) 
+	}
+	
+	
+}
+
+function checkDemographics()
+{
+    gender = $("input[name=gender]:checked").val();
+    age = $("#age option:selected").val();
+    loc = $("#loc option:selected").val()
+    races = [];
+	$("input[name=race]:checked").each(function() { races.push($(this).val()); });
+    income = $("#income").val();
+    education = $("#edu option:selected").val();
+    
+    // alert(income+"\n"+parseFloat(income)+"\n");
+    // $.get('getLocation.php', 
+    //         { 'q': loc},
+    //         function(data) {
+    //             alert(data);
+    //         });
+    
+	// Do validation of input
+    var error = false;
+    var errmsg = "";
+    
+    if(gender==null)
+    {
+        error=true;
+        errmsg += "<div class='error'>Please choose an option for gender</div>";
+    }    
+	if(age=="unselected")
+    {
+        error=true;
+        errmsg += "<div class='error'>Please state the year you were born</div>";
+    }
+	if(loc  == "unselected")
+    {
+        error=true;
+        errmsg += "<div class='error'>Please indicate your current location</div>";
+    }
+    if(races== null)
+    {
+        error=true;
+        errmsg += "<div class='error'>Please indicate your ethnicity</div>";
+    }
+    if(income==null || $.trim(income) != income.replace(/[^0-9$.,]/g,'') || !IsNumeric(income.replace(/[^0-9.]/g,'')))
+    {
+        error=true;
+        errmsg += "<div class='error'>Please enter a valid number for income</div>";
+    }
+    if(education=="unselected")
+    {
+        error=true;
+        errmsg += "<div class='error'>Please indicate your highest level of education</div>";
+    }
+	// Output error message if input not valid
+    if(error==false)
+    {
+      
+        $("#demo-wrapper").hide(500);
+		DecideOrder(loc)
+		
+        
+    }
+    else
+    {
+        $('#error-1').html(errmsg);
+    }
+}
+
+
+</script>
+<style type="text/css">
+.header {height: 40px; background-color: #BADAE8; color: #FFF; font-family: Helvetica; font-size:2em; padding: 10px 20px; margin: 5px;}
+.wrapper {margin: 0px 20px; display: none;}
+.center {text-align: center;}
+.dice-rolls-frame {margin: 25px; height:auto;}
+.roll {float: left; padding: 10px; width: 50px; text-align: center;}
+.roll-row {clear: left;}
+.error {color: red;}
+
+#likert { text-align:center; }
+#likert td { width: 70px; }
+
+
+	
+</style>
+
+</head>
+<body>
+
+<div class="header" id="header-0">Instructions</div>
+<div id="instructions-wrapper" class="wrapper">
+
+    <div id="base-instructions" class="instructions">
+		
+	</div>
+</div>
+	
+<div class="header" id="header-1">About you</div>
+<div id="demo-wrapper" class="wrapper">
+    <form id="demographics">
+        <ol>
+            <li><p>Gender</p>
+                <p> 
+                    <input id="gender_male" name="gender" type="radio" value="Male"/>
+                    <label for="gender_male">Male</label>
+                <br>     
+                    <input id="gender_female" name="gender" type="radio" value="Female"/>
+                    <label for="gender_female">Female</label>
+                <br>     
+                    <input id="gender_none" name="gender" type="radio" value="none"/>
+                    <label for="gender_none">Decline to answer</label>
+                </p>
+            </li>            
+            <li><p><label for="age">Year of Birth</label></p>
+                <span> 
+                    <select id="age" name="age">
+                        <option value="unselected" selected="selected"></option>
+	 				</select>
+                </span> 
+            </li>         
+            <li>
+              <p> 
+                    <label for="loc">Location</label>        
+                </p> 
+                <p> 
+                     <select id="loc" name="location"> 
+                    <option value = "unselected" selected= "selected" > </option>
+                    <option value = "United States"> United States </option>
+                    <option value = "Other"> Other </option>
+                    </select>    
+                </p> 
+                
+            </li>         
+            <li>
+                <p>Ethnicity</p>
+                <p>      
+                    <input id="race_white" name="race" type="checkbox" value="White"/> 
+                    <label for="race_white">White</label>
+                <br>      
+                    <input id="race_black" name="race" type="checkbox" value="Black"/> 
+                    <label for="race_black">Black, African-American, or Negro</label>
+                <br>    
+                    <input id="race_latino" name="race" type="checkbox" value="Latino"/> 
+                    <label for="race_latino">Hispanic or Latino</label>
+                <br>
+                    <input id="race_indian" name="race" type="checkbox" value="Indian"/> 
+                    <label for="race_indian">Asian Indian</label>
+                <br> 
+                    <input id="race_asian" name="race" type="checkbox" value="Asian"/> 
+                    <label for="race_asian">Other Asian</label>
+                <br>
+                    <input id="race_hawaii" name="race" type="checkbox" value="Hawaiian"/> 
+                    <label for="race_hawaii">Hawaiian, Pacific Islander</label>
+                <br> 
+                    <input id="race_amind" name="race" type="checkbox" value="AmInd"/> 
+                    <label for="race_amind">American Indian or Alaskan Native</label>
+                <br> 
+                    <input id="race_other" name="race" type="checkbox" value="Other"/> 
+                    <label for="race_other">Other</label>
+                </p>
+            </li>         
+            <li>
+                <p> 
+                    <label for="income">Annual Income (in US dollars; click <a href="http://finance.yahoo.com/currency-converter/?u#from=INR;to=USD;amt=1" target="_blank">here</a> for currency conversion)</label>        
+                </p> 
+                <p>
+                    <input id="income" name="income" type="text"/> 
+                </p> 
+            </li>         
+            <li>
+                <p> 
+                    <label for="edu">Highest education level attained</label>        
+                </p> 
+                <p>
+                    <select id="edu" name="edu"> 
+                        <option value="unselected" selected="selected"></option>
+                        <option value="none">No schooling completed, or less than 1 year</option>
+                        <option value="elem">Nursery, kindergarten, and elementary (grades 1-8)</option>
+                        <option value="high">High school (grades 9-12, no degree)</option>
+                        <option value="hs">High school graduate (or equivalent)</option>
+                        <option value="college">Some college (1-4 years, no degree)</option>
+                        <option value="as">Associate's degree (including occupational or academic degrees)</option>
+                        <option value="bs">Bachelor's degree (BA, BS, AB, etc)</option>
+                        <option value="ms">Master's degree (MA, MS, MENG, MSW, etc)</option>
+                        <option value="md">Professional school degree (MD, DDC, JD, etc)</option>
+                        <option value="phd">Doctorate degree (PhD, EdD, etc)</option>
+                    </select>
+                </p> 
+            </li>
+        </ol>
+		<div id="error-1"></div>
+        <input type="button" value="Submit Demographics" onClick="checkDemographics()"/>
+    </form>
+    
+</div>
+
+
+
+
+
+
+
+<div id="GetPol-wrapper" class="wrapper">
+
+
+
+ <p> Which US political party do you most identify with?</p>
+ 
+
+ <label for = "party"> Party </label>
+ <select id ="affiliation" name= "party">
+ <option value= "unselected" selected= "selected"></option>
+ <option value= "Democrat"> Democratic Party </option>
+ <option value = "Republican"> Republican Party </option>
+ <option value = "Constitution"> Constitution Party </option>
+ <option value = "Green"> Green Party </option>
+ <option value = "Libertarian"> Libertarian Party </option>
+ </select>
+ 
+ <div id="error-2"></div>
+ <input type="button" value="Submit Demographics" onClick="checkPolitics()"/>
+ 
+
+ 
+ </div>
+ 
+ 
+ 
+ <div id = displayPol-wrapper class="wrapper">
+ 
+ 
+ 
+ </div>
+ 
+ 
+ 
+ 
+  
+	
+	
+        
+    
+ 
+
+
+
+
