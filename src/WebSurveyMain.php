@@ -10,10 +10,8 @@
 
 <div class="header" id="header-0">Instructions</div>
 <div id="instructions-wrapper" class="wrapper">
-
-    <div id="base-instructions" class="instructions">
-		
-	</div>
+  <div id="base-instructions" class="instructions">
+  </div>
 </div>
 	
 <div class="header" id="header-1">About you</div>
@@ -82,7 +80,7 @@
             </li>         
             <li>
                 <p> 
-                    <label for="income">Annual Income (in US dollars; click <a href="http://finance.yahoo.com/currency-converter/?u#from=INR;to=USD;amt=1" target="_blank">here</a> for currency conversion)</label>        
+                    <label for="income">Annual Income (in US dollars; click <a href="http://finance.yahoo.com/currency-converter/?u#from=GBP;to=USD;amt=1" target="_blank">here</a> for currency conversion)</label>        
                 </p> 
                 <p>
                     <input id="income" name="income" type="text"/> 
@@ -123,35 +121,30 @@
 
 <div id="GetPol-wrapper" class="wrapper">
 
-
-
- <p> Which US political party do you most identify with?</p>
+  <p> Which US political party do you most identify with?</p>
  
 
- <label for = "party"> Party </label>
- <select id ="affiliation" name= "party">
- <option value= "unselected" selected= "selected"></option>
- <option value= "Democrat"> Democratic Party </option>
- <option value = "Republican"> Republican Party </option>
- <option value = "Constitution"> Constitution Party </option>
- <option value = "Green"> Green Party </option>
- <option value = "Libertarian"> Libertarian Party </option>
- </select>
+  <label for = "party"> Party </label>
+  <select id ="affiliation" name= "party">
+    <option value= "unselected" selected= "selected"></option>
+    <option value= "Democrat"> Democratic Party </option>
+    <option value = "Republican"> Republican Party </option>
+    <option value = "Constitution"> Constitution Party </option>
+    <option value = "Green"> Green Party </option>
+    <option value = "Libertarian"> Libertarian Party </option>
+  </select>
  
- <div id="error-2"></div>
- <input type="button" value="Submit Demographics" onClick="checkPolitics()"/>
+  <div id="error-2"></div>
+  <input type="button" value="Submit Demographics" onClick="checkPolitics()"/>
  
 
  
- </div>
+</div>
+ 
+<div id = displayPol-wrapper class="wrapper">
  
  
- 
- <div id = displayPol-wrapper class="wrapper">
- 
- 
- 
- </div>
+</div>
  
  
  

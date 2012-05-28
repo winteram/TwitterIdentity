@@ -13,9 +13,9 @@ $(document).ready(function() {
 	
 	var instructions = '<p> You will start by answering some deomgraphic questions </p>';
 	
-		instructions += '<div class="ctr"><input type="button" value="Continue" onclick="getDemographics()"/></div>';
-    $("#instructions-wrapper").html(instructions);
-    $("#instructions-wrapper").show();
+	instructions += '<div class="ctr"><input type="button" value="Continue" onclick="getDemographics()"/></div>';
+	$("#instructions-wrapper").html(instructions);
+	$("#instructions-wrapper").show();
 });
 
 function getDemographics()
@@ -29,34 +29,54 @@ function IsNumeric(input)
    return (input - 0) == input && input.length > 0;
 }
 
+function createLikert(id_label,name_label)
+{
+    var likert = '<table class="likert"><tr><td><input id="' + id_label +
+    '" type="radio" name="' + name_label + 
+    '" value="1" /></td><td><input type="radio" name="' + name_label + 
+    '" value="2" /></td><td><input type="radio" name="' + name_label + 
+    '" value="3" /></td><td><input type="radio" name="' + name_label + 
+    '" value="4" /></td><td><input type="radio" name="' + name_label + 
+    '" value="5" /></td><td><input type="radio" name="' + name_label + 
+    '" value="6" /></td><td><input type="radio" id="' + id_label + 
+    '" name="' + name_label + 
+    '" value="7" /></td></tr>' +
+    '<tr><td>Strongly Disagree</td>' +
+    '<td></td>' +
+    '<td></td>' +
+    '<td></td>' +
+    '<td></td>' +
+    '<td></td>' +
+    '<td>Strongly Agree</td></tr></table>';
+
+    return likert;
+}
+
+
 //Insert political affiliation into sentences with the right noun form
 
 function displayPol(form1, form2)
-{
-	
-	 
-
-	var sents = '<p> I identify with being a ' + form1 + '</p>' + '<p> I identify with other ' + form2 + '</p>'; 
-	$("#displayPol-wrapper").html(sents);
-	//$("#polquest1").prepend(sents)
-	$("#GetPol-wrapper").hide();
-	$("#displayPol-wrapper").show(500);
-	//$("#polquest1").show(500) 
-	
-	
+{	
+    pol_likert = createLikert("pol_likert","pol_agree");
+    var sents = '<p> I identify with being a ' + form1 + '</p>' + '<p> I identify with other ' + form2 + '</p>'; 
+    $("#displayPol-wrapper").html(sents);
+    $("#displayPol-wrapper").append(pol_likert);
+    //$("#polquest1").prepend(sents)
+    $("#GetPol-wrapper").hide();
+    $("#displayPol-wrapper").show(500);
+    //$("#polquest1").show(500) 
 	
 }
 
 // Need to insert other branches this use the "order" variable to determine sequences as wel 
 function DecideOrder(location)
 {
-	
 	if(location == "United States")
 	{ 
-	$("#GetPol-wrapper").show(500)
+	    $("#GetPol-wrapper").show(500);
+	} else {
+	    $("#GetPol-wrapper").show(500);
 	}
-		
-	
 }
 
 
@@ -164,7 +184,7 @@ function checkDemographics()
     {
       
         $("#demo-wrapper").hide(500);
-		DecideOrder(loc)
+	DecideOrder(loc)
 		
         
     }
