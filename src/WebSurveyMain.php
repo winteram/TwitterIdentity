@@ -1,5 +1,6 @@
 <html>
 <head>
+<?php require_once "locations.php"; ?>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script>
 <!-- <script src="jquery.min.js" type="text/javascript"></script> -->
 <script src="WebSurvey.js" type="text/javascript"></script>
@@ -40,16 +41,16 @@
             </li>         
             <li>
               <p> 
-                    <label for="loc">Location</label>        
-                </p> 
-                <p> 
-                     <select id="loc" name="location"> 
-                    <option value = "unselected" selected= "selected" > </option>
-                    <option value = "United States"> United States </option>
-                    <option value = "Other"> Other </option>
-                    </select>    
-                </p> 
-                
+                <label for="loc">Location</label>        
+              </p> 
+              <p> 
+		<select name="country">
+		  <?php foreach($Countries as $abbr => $country)
+		  echo "<option value=" . $abbr . ">" . $country . "</option>"; 
+		  ?>
+		</select>
+              </p> 
+              
             </li>         
             <li>
                 <p>Ethnicity</p>
