@@ -1,0 +1,50 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script>
+<!-- <script src="jquery.min.js" type="text/javascript"></script> -->
+<script language="javascript">
+$(document).ready(function() {
+
+var i;
+
+form1= Democrat
+form2 = Democrats
+
+var sent = new Arrary();
+sent[1]= 'I feel a bond with ' + form2;
+sent[2]= 'I feel solidarity with ' + form2;
+sent[3]= 'I feel committed to ' + form2;
+sent[4]= 'I am glad to be a ' + form1;
+sent[5]= 'I think that ' + form2 + ' have a lot to be proud of';
+sent[6]= 'It is pleasnat to be a ' + form1;
+sent[7]= 'Being a ' + form1 + ' give me a good feeling';
+sent[8]= 'I often think about the fact that I am a ' + form1;
+sent[9]= 'The fact that I am ' + form1 + ' is an important part of my identity';
+sent[10]= 'Being ' + form1 + ' is an important part of my identity';
+sent[11]= 'I have a lot in common with the average ' + form1;
+sent[12]= 'I am similar to the average ' + form1; // This one is modified slightly
+sent[13]=  form2 + ' have a lot in common with each other';
+sent[14]=  form2 + ' are very similar to each other';
+
+for(i=0; i<sent.length; i++)
+{
+	$("#display").append('<p>'+ sent[i]  + '</p>');
+	}
+	
+	
+});
+
+
+</script>
+
+</head>
+
+<body>
+
+<p id = "display" >
+
+</p>
+
+</body>
+</html>
