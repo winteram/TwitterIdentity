@@ -57,16 +57,41 @@ function createLikert(id_label,name_label)
 
 function displayPol(form1, form2)
 {	
-    pol_likert = createLikert("pol_likert","pol_agree");
-    var sents = '<p> I identify with being a ' + form1 + '</p>' + '<p> I identify with other ' + form2 + '</p>'; 
-    $("#displayPol-wrapper").html(sents);
-    $("#displayPol-wrapper").append(pol_likert);
+
+    var i;
+
+    var sent = new Array();
+    sent.push('I feel a bond with ' + form2);
+    sent.push('I feel solidarity with ' + form2);
+    sent.push('I feel committed to ' + form2);
+    sent.push('I am glad to be a ' + form1);
+    sent.push('I think that ' + form2 + ' have a lot to be proud of');
+    sent.push('It is pleasant to be a ' + form1);
+    sent.push('Being a ' + form1 + ' give me a good feeling');
+    sent.push('I often think about the fact that I am a ' + form1);
+    sent.push('The fact that I am ' + form1 + ' is an important part of my identity');
+    sent.push('Being ' + form1 + ' is an important part of my identity');
+    sent.push('I have a lot in common with the average ' + form1);
+    sent.push('I am similar to the average ' + form1); // This one is modified slightly
+    sent.push(form2 + ' have a lot in common with each other');
+    sent.push(form2 + ' are very similar to each other');
+
+    for(i=0; i<sent.length; i++)
+    {
+	pol_likert = createLikert("pol_likert_"+i,"pol_agree_"+i);
+	$("#displayPol-wrapper").append('<p>'+ sent[i]  + '</p><p>' + pol_likert + '</p>');
+    }
+
     //$("#polquest1").prepend(sents)
     $("#GetPol-wrapper").hide();
     $("#displayPol-wrapper").show(500);
     //$("#polquest1").show(500) 
+
+
 	
 }
+
+
 
 // Need to insert other branches this use the "order" variable to determine sequences as wel 
 function DecideOrder(location)
