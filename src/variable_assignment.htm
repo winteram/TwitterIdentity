@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script>
+<!-- <script src="jquery.min.js" type="text/javascript"></script> -->
+<script language="javascript">
+
+$(document).ready(function() {
+	
+	if(Math.random() >= .5)
+	{ var order= 1}
+	else
+	{ var order= 2}
+	
+if(order==1)
+{
+
+$("#bod").append('<li> stand back ' + 1 + ' willow </li>')
+$("#bod").append('<li> stand back ' + 1 + ' willow </li>')
+
+}
+
+else
+{
+	$("#bod").append('<li> stand back ' + 2 + ' willow </li>')
+	$("#bod").append('<li> stand back ' + 1 + ' willow </li>')
+}
+
+
+
+
+
+});
+
+
+
+</script>
+
+</head>
+
+<body>
+<ol id="bod">
+
+</ol>
+
+</body>
+</html>
