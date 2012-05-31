@@ -10,9 +10,13 @@
 
 $(document).ready(function() {
 	
+	displayPol("Democrat", "Democrats"); 
+}); 
+
+	
 	function createLikert(id_label,name_label)
 {
-    var likert = '<table class="likert"><tr><td><input id="' + 'IDname' +
+    var likert = '<table class="likert"><tr><td><input id="' + id_label +
     '" type="radio" name="' + name_label + 
     '" value="1" /></td><td><input type="radio" name="' + name_label + 
     '" value="2" /></td><td><input type="radio" name="' + name_label + 
@@ -32,6 +36,8 @@ $(document).ready(function() {
 
     return likert;
 }
+
+
 
 function displayPol(form1, form2)
 {	
@@ -60,48 +66,43 @@ function displayPol(form1, form2)
 	$("#displayQ-wrapper").append('<li>'+ sent[i]  + '</li><p>' + pol_likert + '</p>');
     }
 	
-$("#displayQ-wrapper").append('<div> <input type="button" value="Continue" onclick="validateSurvey()"/></div>'); 
+$("#displayQ-wrapper").append('<div> <input type="button" value="Continue" onclick = "surveyValidate()"/></div>'); 
 	// Note I added an ID to all the list items so that I could call them as a whole in JQuery
 	
 }
 
-
-displayPol("Democrat", "Democrats");	
-
-
-
-
-function validateSurvey()
-
+function surveyValidate()
 {
 	
 	
-	errmsg_3='';
+	var j = 0;
+	var errmsg= ''
 	
 	
-	
-	$("input[id:IDname]:checked").each(function(j)
-	{ 
-	
-	if ($(this).val()==null)
+	for(i=0; i <= 13; i++)
 	{
-		error = true;
-		errmsg_3 = 'Please provide an answer to question' + j; 
+		j += 1; 
+		
+		var pol= 'pol_agree_' + i ;
+		
+		qput= 'input[name = ' + pol + ']:checked';
+		
+		Q_input = $(qput).val();
+		
+		
+		
+		//Q_input= $('input[name=pol_agree_+i]:checked').val(); 
+		
+		if(Q_input == null)
+		{
+			errmsg += '<p> Please provide an answer to question ' +j+ '</p>'
+			
+		}
+		
 	}
-	})
-	}
-	
-	
-	if(error== true)
-	
-	{ $("#error3").html(errmsg_3)}
+	$("#error3").html(errmsg); 
+}
 
-	
-	
-})
-
-
-	
 	
 </script>
 
