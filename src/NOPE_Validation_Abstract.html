@@ -66,7 +66,7 @@ function displayPol(form1, form2, iden) // added iden as the third input
 	$("#displayQ-wrapper").append('<li>'+ sent[i]  + '</li><p>' + pol_likert + '</p>');
     }
 	
-$("#displayQ-wrapper").append('<div> <input type="button" value="Continue" onclick = "surveyValidate(' + iden +')"/></div>'); 
+$("#displayQ-wrapper").append('<div> <input type="button" value="Continue" onclick = "surveyValidate(\'' + iden +'\')"/></div>'); 
 	// This may be where the problem is- Here I try to inser the value of iden (in our test case it is "pol" into the survey validate function
 	
 }
