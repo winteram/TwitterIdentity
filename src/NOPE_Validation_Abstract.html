@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script>
+<!-- <script src="jquery.min.js" type="text/javascript"></script> -->
+<script language="javascript">
+
+$(document).ready(function() {
+	
+	displayPol("Democrat", "Democrats", "pol"); // added "pol" as the input for the new variable, iden
+}); 
+
+	
+	function createLikert(id_label,name_label)
+{
+    var likert = '<table class="likert"><tr><td><input id="' + id_label +
+    '" type="radio" name="' + name_label + 
+    '" value="1" /></td><td><input type="radio" name="' + name_label + 
+    '" value="2" /></td><td><input type="radio" name="' + name_label + 
+    '" value="3" /></td><td><input type="radio" name="' + name_label + 
+    '" value="4" /></td><td><input type="radio" name="' + name_label + 
+    '" value="5" /></td><td><input type="radio" name="' + name_label + 
+    '" value="6" /></td><td><input type="radio" id="' + id_label + 
+    '" name="' + name_label + 
+    '" value="7" /></td></tr>' +
+    '<tr><td>Strongly Disagree</td>' +
+    '<td></td>' +
+    '<td></td>' +
+    '<td></td>' +
+    '<td></td>' +
+    '<td></td>' +
+    '<td>Strongly Agree</td></tr></table>';
+
+    return likert;
+}
+
+
+
+function displayPol(form1, form2, iden) // added iden as the third input
+{	
+
+    var i;
+
+    var sent = new Array();
+    sent.push('I feel a bond with ' + form2);
+    sent.push('I feel solidarity with ' + form2);
+    sent.push('I feel committed to ' + form2);
+    sent.push('I am glad to be a ' + form1);
+    sent.push('I think that ' + form2 + ' have a lot to be proud of');
+    sent.push('It is pleasant to be a ' + form1);
+    sent.push('Being a ' + form1 + ' give me a good feeling');
+    sent.push('I often think about the fact that I am a ' + form1);
+    sent.push('The fact that I am ' + form1 + ' is an important part of my identity');
+    sent.push('Being ' + form1 + ' is an important part of my identity');
+    sent.push('I have a lot in common with the average ' + form1);
+    sent.push('I am similar to the average ' + form1); // This one is modified slightly
+    sent.push(form2 + ' have a lot in common with each other');
+    sent.push(form2 + ' are very similar to each other');
+
+    for(i=0; i<sent.length; i++)
+    {
+	pol_likert = createLikert("pol_likert_"+i,"pol_agree_"+i);
+	$("#displayQ-wrapper").append('<li>'+ sent[i]  + '</li><p>' + pol_likert + '</p>');
+    }
+	
+$("#displayQ-wrapper").append('<div> <input type="button" value="Continue" onclick = "surveyValidate(' + iden +')"/></div>'); 
+	// This may be where the problem is- Here I try to inser the value of iden (in our test case it is "pol" into the survey validate function
+	
+}
+
+function surveyValidate(iden)// added iden as an input
+{
+	
+	
+	var j = 0;
+	var errmsg= ''
+	
+	
+	for(i=0; i <= 13; i++)
+	{
+		j += 1; 
+		
+		var intermed= iden + '_agree_' + i ; // Used iden to fill in the pre-fix
+		
+		qput= 'input[name = ' + intermed + ']:checked';
+		
+		Q_input = $(qput).val();
+		
+		
+		
+		//Q_input= $('input[name=pol_agree_+i]:checked').val(); 
+		
+		if(Q_input == null)
+		{
+			errmsg += '<p> Please provide an answer to question ' +j+ '</p>'
+			
+		}
+		
+	}
+	$("#error3").html(errmsg); 
+}
+
+	
+</script>
+
+</head>
+
+<body>
+<ol id="displayQ-wrapper">
+
+</ol>
+<div id= "error3">
+</div>
+
+</body>
+</html>
