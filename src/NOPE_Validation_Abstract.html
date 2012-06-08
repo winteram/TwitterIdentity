@@ -10,7 +10,7 @@
 
 $(document).ready(function() {
 	
-	displayPol("Democrat", "Democrats", "pol"); // added "pol" as the input for the new variable, iden
+	displayQ("Democrat", "Democrats", "pol"); // added "pol" as the input for the new variable, iden
 }); 
 
 	
@@ -39,7 +39,7 @@ $(document).ready(function() {
 
 
 
-function displayPol(form1, form2, iden) // added iden as the third input
+function displayQ(form1, form2, iden) // added iden as the third input
 {	
 
     var i;
@@ -62,8 +62,8 @@ function displayPol(form1, form2, iden) // added iden as the third input
 
     for(i=0; i<sent.length; i++)
     {
-	pol_likert = createLikert("pol_likert_"+i,"pol_agree_"+i);
-	$("#displayQ-wrapper").append('<li>'+ sent[i]  + '</li><p>' + pol_likert + '</p>');
+	likert = createLikert( iden + '_likert_'+i, iden + '_agree_' +i);
+	$("#displayQ-wrapper").append('<li>'+ sent[i]  + '</li><p>' + likert + '</p>');
     }
 	
 $("#displayQ-wrapper").append('<div> <input type="button" value="Continue" onclick = "surveyValidate(\'' + iden +'\')"/></div>'); 

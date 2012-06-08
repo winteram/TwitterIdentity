@@ -55,8 +55,9 @@ function createLikert(id_label,name_label)
 
 //Insert political affiliation into sentences with the right noun form
 
-function displayPol(form1, form2)
+function displayQ(form1, form2, iden) // added iden as the third input
 {	
+   
 
     var i;
 
@@ -78,18 +79,18 @@ function displayPol(form1, form2)
 
     for(i=0; i<sent.length; i++)
     {
-	pol_likert = createLikert("pol_likert_"+i,"pol_agree_"+i);
-	$("#displayPol-wrapper").append('<p>'+ sent[i]  + '</p><p>' + pol_likert + '</p>');
+	likert = createLikert( iden + '_likert_'+i, iden + '_agree_' +i);
+	$("#displayQ-wrapper").append('<li>'+ sent[i]  + '</li><p>' + likert + '</p>');
     }
-
-    //$("#polquest1").prepend(sents)
-    $("#GetPol-wrapper").hide();
-    $("#displayPol-wrapper").show(500);
-    //$("#polquest1").show(500) 
-
-
+	
+$("#displayQ-wrapper").append('<div> <input type="button" value="Continue" onclick = "surveyValidate(\'' + iden +'\')"/></div>'); 
+	// This may be where the problem is- Here I try to inser the value of iden (in our test case it is "pol" into the survey validate function
+	$("#GetPol-wrapper").hide(500);
+	//$("#displayQ-wrapper").show(500);
 	
 }
+
+
 
 
 
@@ -97,6 +98,7 @@ function displayPol(form1, form2)
 function DecideOrder(location)
 {
 	if(location == "United States")
+	
 	{ 
 	    $("#GetPol-wrapper").show(500);
 	} else {
@@ -147,7 +149,7 @@ function checkPolitics()
 			var pform2="Libertarians"
 		}
 		
-		displayPol(pform1, pform2) 
+		displayQ(pform1, pform2, "pol") 
 	}
 	
 	
