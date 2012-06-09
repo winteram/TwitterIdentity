@@ -1,10 +1,10 @@
 <html>
 <head>
-<?php require_once "locations.php"; ?>
+<?php require_once "file:///C|/xampp/htdocs/twitter/locations.php"; ?>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script>
 <!-- <script src="jquery.min.js" type="text/javascript"></script> -->
-<script src="WebSurvey3.js" type="text/javascript"></script>
-<link rel='stylesheet' type='text/css' href='WebSurvey.css' />
+<script src="file:///C|/xampp/htdocs/twitter/WebSurvey3.js" type="text/javascript"></script>
+<link rel='stylesheet' type='text/css' href='file:///C|/xampp/htdocs/twitter/WebSurvey.css' />
 </head>
 <body>
 
@@ -42,7 +42,7 @@
                 <label for="loc">Location</label>        
               </p> 
               <p> 
-		<select name="country">
+		<select name="country" id= "sel_country">
 		  <?php foreach($Countries as $abbr => $country)
 		  echo "<option value=" . $abbr . ">" . $country . "</option>"; 
 		  ?>
@@ -143,7 +143,7 @@
 <ol id="Nation-wrapper" class="wrapper">
 
  <p> Please indicate the nationality you most identify with by completing the following sentences  </p>
- <li> I see myself as a <input id="national1" name="nationality1" type="text"/></li>
+ <li> I see myself as <input id="national1" name="nationality1" type="text"/></li>
  <br />
  <li> I identify with other <input id ="national2" name = "nationality2" type="text"/> </li>
  <div id="error-4" class="error"></div>       
@@ -165,9 +165,18 @@
  
 
 
-<ol id="displayQ-wrapper" class= "wrapper">
+<ol id="displayQ-wrapper_pol" class= "wrapper">
+
+</ol>
+
+<ol id="displayQ-wrapper_nat" class= "wrapper">
+
+</ol>
+
+<ol id="displayQ-wrapper_free" class= "wrapper">
 
 </ol>
 
 <div id="thanks" class="wrapper"> Thanks for participating! <div>
-<div id="tester" class=wrapper></div>
+
+<div id="tester" class="wrapper"></div>

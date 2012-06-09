@@ -7,7 +7,10 @@ $(document).ready(function() {
 	}
 	
 	
-	var order=1;
+	if(Math.random() >= .5)// Randomly assign order of survey questions
+	{ order= 1}
+	else
+	{ order= 2}
 	
 	// show demographics questions at beginning
 	
@@ -59,6 +62,13 @@ function displayQ(form1, form2, iden) // added iden as the third input
 {	
 
     var i;
+	
+	//var clear = ''
+	
+	//$("displayQ-wrapper").html(clear);// reset the display wrapper so it doesn't store previous questions. 
+	
+	var wrapper = "#displayQ-wrapper_" + iden // There is a different wrapper for each survey type.
+	var sent = []; 
 
     var sent = new Array();
     sent.push('I feel a bond with ' + form2);
@@ -75,18 +85,32 @@ function displayQ(form1, form2, iden) // added iden as the third input
     sent.push('I am similar to the average ' + form1); // This one is modified slightly
     sent.push(form2 + ' have a lot in common with each other');
     sent.push(form2 + ' are very similar to each other');
-
-    for(i=0; i<sent.length; i++)
+     
+	 
+    
+	for(i=0; i<sent.length; i++)
     {
 	likert = createLikert( iden + 'likert_' + i, iden + '_agree_' + i);
-	$("#displayQ-wrapper").append('<li>'+ sent[i]  + '</li><p>' + likert + '</p>');
+	
+	$(wrapper).append('<li>'+ sent[i]  + '</li><p>' + likert + '</p>')
+	//$("#displayQ-wrapper").append('<li>'+ sent[i]  + '</li><p>' + likert + '</p>');
     }
 	
-$("#displayQ-wrapper").append('<div id = "error3" class = "error"> </div>'); // put the code for where the error message will go above the button
-$("#displayQ-wrapper").append('<div> <input type="button" value="Continue" onclick = "surveyValidate(\'' + iden +'\')"/></div>'); 
 	
-//$("#GetPol-wrapper").hide(500); // might have to do some conditionals here with "iden" if the current wrapper is not hiding
-$("#displayQ-wrapper").show(500);	
+	
+$(wrapper).append('<div id="error'+ iden +'" class="error"/>')// appends a unique error id for each section
+	
+//$("#displayQ-wrapper").append('<div id = "error3" class = "error"> </div>'); // put the code for where the error message will go above the button
+
+$(wrapper).append('<div> <input type="button" value="Continue" onclick = "surveyValidate(\'' + iden +'\')"/></div>')
+//$("#displayQ-wrapper").append('<div> <input type="button" value="Continue" onclick = "surveyValidate(\'' + iden +'\')"/></div>'); 
+	
+$("#GetPol-wrapper").hide(500); // might have to do some conditionals here with "iden" if the current wrapper is not hiding
+//$("#displayQ-wrapper").show(500);
+
+
+
+$(wrapper).show(500);	
 	
 }
 
@@ -95,8 +119,11 @@ function surveyValidate(iden)// added iden as an input
 	
 	
 	var j = 0;
-	var errmsg= ''
+	var error = false; 
+	var errmsg= ''; 
 	
+	 
+	var error3= '<div id="error'+ iden +'" class="error"/>'
 	
 	for(i=0; i <= 13; i++)
 	{
@@ -107,6 +134,10 @@ function surveyValidate(iden)// added iden as an input
 		qput= 'input[name = ' + intermed + ']:checked';
 		
 		Q_input = $(qput).val();
+		
+		var wrapper = "#displayQ-wrapper_" + iden
+		
+	
 		
 		
 		
@@ -120,10 +151,19 @@ function surveyValidate(iden)// added iden as an input
 		}
 		
 	}
-	$("#error3").html(errmsg); 
+	
+	
+	if(error==true)
+	{
+	
+	
+	$('#error'+ iden).html(errmsg); 
+		
+		
+	}
 	
 	if(error==false)
-	{   $("#displayQ-wrapper").hide(500); 
+	{   $(wrapper).hide(500); 
 		
 		if(iden=="pol")
 		{
@@ -145,7 +185,7 @@ function surveyValidate(iden)// added iden as an input
 			} 
 			else
 			{ 
-				$("GetPol-wrapper").show(500)
+				$("#GetPol-wrapper").show(500)
 			}
 	
         }
@@ -166,28 +206,43 @@ function surveyValidate(iden)// added iden as an input
 
 // Need to insert other branches this use the "order" variable to determine sequences as wel 
 function DecideOrder(location)
-{
-	$("#tester").append('<p>' + location + '<p>');
-	$("#tester").show(500); 
-	
-//if(location == 'us')
-	// {
-		//if(order==1) 
-	    	//{
-			//$("#GetPol-wrapper").show(500);
-			//}
-	    //else 
-	    	//{
-	        //$("#Nation-wrapper").show(500);
-	    	//}
-	// }
 
-//else 
-	// {   order=1
+{
+	
+	/*if( location == 'us' || order== 1)
+	
+	{
+		$("#GetPol-wrapper").show(500);
+	}
+	else
+	{
+		$("#Nation-wrapper").show(500)
+		
+		
+	} 
+	$("#tester").append('<p> Show something please! <p>');
+	$("#tester").show(500);  */
+	
+if(location == "us")
+	{
+		if(order==1) 
+	       {
+			$("#GetPol-wrapper").show(500);
+			}
+	    else 
+	    	{
+	        $("#Nation-wrapper").show(500);
+	    	}
+	}
+
+else 
+	 {   order=1
 	 
-	    //$("#Nation-wrapper").show(500)
-	 //}
-}
+	    $("#Nation-wrapper").show(500)
+	 }
+} 
+
+
 
 
 function checkPolitics()
@@ -232,6 +287,7 @@ function checkPolitics()
 			var pform2="Libertarians"
 		}
 		
+		$("#GetPol-wrapper").hide(500); 
 		displayQ(pform1, pform2, "pol") 
 	}
 	
@@ -243,6 +299,8 @@ function CheckNationID()
 	nform1 = $("#national1").val()
 	nform2 = $("#national2").val()
 	errmsg=''
+	
+	var error = false
 	
 	if(nform1.length < 3)
 	{ error = true
@@ -260,14 +318,20 @@ function CheckNationID()
 	
 	if(error==true)
 	{
-		$("#error-4").html(errmsg)
+		
+		$("#error-4").html(errmsg);
 		
 	}
 	
 	
-	//{	$("#Nation-wrapper").hide(); 
+	//{	 
 	
-		displayQ(nform1,nform2,"nat")
+	if(error==false)
+	{
+	
+	$("#Nation-wrapper").hide(500);
+		displayQ(nform1,nform2,"nat");
+	}
 	//}
 	
 	
@@ -281,6 +345,9 @@ function FreeCheck()
 	nform1 = $("#free1").val()
 	nform2 = $("#free2").val()
 	errmsg=''
+	
+	
+	error = false
 	
 	if(nform1.length < 3)
 	{ error = true
@@ -304,7 +371,7 @@ function FreeCheck()
 	
 	else 
 	 {
-		$("#Nation-wrapper").hide(500)
+		$("#FreeForm-wrapper").hide(500)
 		displayQ(nform1,nform2,"free")
 	 }
 	
@@ -316,7 +383,7 @@ function checkDemographics()
 {
     gender = $("input[name=gender]:checked").val();
     age = $("#age option:selected").val();
-    loc = $("#loc option:selected").val()
+    loc = $("#sel_country option:selected").val()
     races = [];
 	$("input[name=race]:checked").each(function() { races.push($(this).val()); });
     income = $("#income").val();
