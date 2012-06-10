@@ -1,10 +1,10 @@
 <html>
 <head>
-<?php require_once "file:///C|/xampp/htdocs/twitter/locations.php"; ?>
+<?php require_once "locations.php"; ?>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script>
 <!-- <script src="jquery.min.js" type="text/javascript"></script> -->
-<script src="file:///C|/xampp/htdocs/twitter/WebSurvey3.js" type="text/javascript"></script>
-<link rel='stylesheet' type='text/css' href='file:///C|/xampp/htdocs/twitter/WebSurvey.css' />
+<script src="WebSurvey3.js" type="text/javascript"></script>
+<link rel='stylesheet' type='text/css' href='WebSurvey.css' />
 </head>
 <body>
 
