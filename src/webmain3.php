@@ -1,7 +1,9 @@
 <html>
 <head>
 <?php require_once "locations.php"; ?>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script>
+<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script> -->
+<script src="jquery-ui-1.8.21.custom/js/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="jquery-ui-1.8.21.custom/js/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
 <!-- <script src="jquery.min.js" type="text/javascript"></script> -->
 <script src="WebSurvey3.js" type="text/javascript"></script>
 <link rel='stylesheet' type='text/css' href='WebSurvey.css' />
@@ -135,17 +137,15 @@
   </select>
  
   <div id="error-2"></div>
-  <input type="button" value="Submit Demographics" onClick="checkPolitics()"/>
+  <input type="button" value="Submit Political Party" onClick="checkPolitics()"/>
  
  
 </div>
 
 <ol id="Nation-wrapper" class="wrapper">
 
- <p> Please indicate the nationality you most identify with by completing the following sentences  </p>
- <li> I see myself as <input id="national1" name="nationality1" type="text"/></li>
- <br />
- <li> I identify with other <input id ="national2" name = "nationality2" type="text"/> </li>
+ <p> Please indicate the nationalities with which you most identify</p>
+ <div class="ui-widget"> I see myself as <input id="national" name="nationality" size="50"/></div>
  <div id="error-4" class="error"></div>       
 <input type="button" value="Submit" onClick= "CheckNationID()"/>
         
