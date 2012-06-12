@@ -21,7 +21,8 @@ $(document).ready(function() {
 	$("#instructions-wrapper").show();
 	
 	// initialize auto-complete for nationalities
-	$.get("nationalities.txt", function(nationalities) {
+	$.get("nationalities.csv", function(data) {
+		nationalities = data.split(",");
 		function split( val ) {
 			return val.split( /,\s*/ );
 		}
@@ -55,7 +56,7 @@ $(document).ready(function() {
 					terms.push( ui.item.value );
 					// add placeholder to get the comma-and-space at the end
 					terms.push( "" );
-					this.value = terms.join( "-" );
+					this.value = terms.join( "," );
 					return false;
 				}
 			});
@@ -336,8 +337,8 @@ function checkPolitics()
 
 function CheckNationID()
 { 
-	nform1 = $("#national1").val()
-	nform2 = $("#national2").val()
+	nform1 = $("#national").val().slice(0,-1).replace(',','-')
+	nform2 = nform1 + "s"
 	errmsg=''
 
 	var error = false
@@ -346,34 +347,19 @@ function CheckNationID()
 	{ 
 		error = true
 
-		errmsg += '<p> Please provide an appropriate answer to item 1 </p>'
+		errmsg += '<p> Please enter a nationality</p>'
 
-		}// add more to this later
+	}// add more to this later
 
-		if(nform2.length < 3)
-		{ error = true
+	if(error==true)
+	{
 
-			errmsg += '<p> Please provide an appropriate answer to item 2 </p>'
+		$("#error-4").html(errmsg);
 
-		}
-
-		if(error==true)
-		{
-
-			$("#error-4").html(errmsg);
-
-		}
-
-
-		//{	 
-
-			if(error==false)
-			{
-
-				$("#Nation-wrapper").hide(500);
-				displayQ(nform1,nform2,"nat");
-			}
-			//}
+	} else {
+		$("#Nation-wrapper").hide(500);
+		displayQ(nform1,nform2,"nat");
+	}
 
 
 
