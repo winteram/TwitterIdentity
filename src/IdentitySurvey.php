@@ -4,7 +4,7 @@ require_once('core/twitteroauth/twitteroauth.php');
 require_once('core/safe/config.inc');
 require_once 'core/locations.php';
 
-/* 
+ 
 // If the oauth_token is old redirect to the connect page. 
 if (isset($_REQUEST['oauth_token']) && $_SESSION['oauth_token'] !== $_REQUEST['oauth_token']) {
    $_SESSION['oauth_status'] = 'oldtoken';
@@ -40,7 +40,7 @@ if (200 == $connection->http_code) {
   session_destroy();
   header('Location: ./Consent.php?error=1');
 }
-*/
+
 ?>
 <html>
 <head>
@@ -53,10 +53,10 @@ if (200 == $connection->http_code) {
 <body>
 
 <div class="header" id="header-0">Instructions</div>
+<div id="screen-name-test"><?php echo $username; ?></div>
 <div id="instructions-wrapper" class="wrapper">
   <div id="base-instructions" class="instructions">
   </div>
-  <div id="screen-name-test"><?php echo $username; ?></div>
 </div>
 	
 <div class="header" id="header-1">About you</div>
