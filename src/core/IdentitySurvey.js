@@ -134,8 +134,10 @@ function displayQ(form1, form2, iden) // added iden as the third input
 	for(i=0; i<sent.length; i++)
 	{
 		likert = createLikert( iden + 'likert_' + i, iden + '_agree_' + i);
+	
+		// $("divname").css('color','red');
 
-		$(wrapper).append('<div><li>'+ sent[i]  + '</li><p>' + likert + '</p></div>')
+		$(wrapper).append('<div> <li id = "err'+ iden + i + '">' + sent[i]  + '</li> <p>' + likert + '</p></div>')
 		//$("#displayQ-wrapper").append('<li>'+ sent[i]  + '</li><p>' + likert + '</p>');
 	}
 
@@ -165,14 +167,19 @@ function surveyValidate(iden)// added iden as an input
 
 	var j = 0;
 	var error = false; 
-	var errmsg= ''; 
+	$("li").css('color','black')
+	//var errmsg= ''; 
 
 
-	var error3= '<div id="error'+ iden +'" class="error"/>'
+	//var error3= '<div id="error'+ iden +'" class="error"/>'
+	
+	// $("displayQ").children("div").each(function(index) {
+	//	errmsg += '<p> Please provide an answer to question ' + index + '</p>';
+	// });
 
 	for(i=0; i <= 13; i++)
 	{
-		j += 1; 
+		//j += 1; 
 
 		var intermed= iden + '_agree_' + i ; // Used iden to fill in the pre-fix
 
@@ -190,22 +197,23 @@ function surveyValidate(iden)// added iden as an input
 
 		if(Q_input == null)
 		{
-			errmsg += '<p> Please provide an answer to question ' +j+ '</p>'
+			var errorid = '#err' + iden + i; 
 			error = true 
+			$(errorid).css('color','#F00'); 
 
 		}
 
 	}
 
 
-	if(error==true)
+	/*if(error==true)
 	{
 
 
 		$('#error'+ iden).html(errmsg); 
 
 
-	}
+	} */
 
 	if(error==false)
 	{   $(wrapper).hide(500); 
