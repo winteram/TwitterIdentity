@@ -347,9 +347,13 @@ function checkPolitics()
 
 function CheckNationID()
 { 
-	nform1 = $("#national").val().slice(0,-1).replace(',','-')
-	nform2 = nform1 + "s"
-	errmsg=''
+    // take list of nations, split into array
+    nation_list = $("#national").val().slice(0,-1).split(',');
+    nform1 = nation_list.join('-');
+    // create array of exceptions to 's' rule
+    // check if last nation is exception
+    nform2 = nform1 + "s";
+    errmsg=''
 
 	var error = false
 
@@ -367,8 +371,13 @@ function CheckNationID()
 		$("#error-4").html(errmsg);
 
 	} else {
-		$("#Nation-wrapper").hide(500);
-		displayQ(nform1,nform2,"nat");
+	    user_url = $("#user_url").val();
+	    $.get(user_url, function() {
+		    $("#Nation-wrapper").hide(500);
+		    displayQ(nform1,nform2,"nat");
+		}).error(function() {
+			$("#error-4").html("Enter a valid URL");
+		    });
 	}
 
 

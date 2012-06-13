@@ -4,45 +4,43 @@ require_once('core/twitteroauth/twitteroauth.php');
 require_once('core/safe/config.inc');
 require_once 'core/locations.php';
 
-/* If the oauth_token is old redirect to the connect page. */
+/* 
+// If the oauth_token is old redirect to the connect page. 
 if (isset($_REQUEST['oauth_token']) && $_SESSION['oauth_token'] !== $_REQUEST['oauth_token']) {
    $_SESSION['oauth_status'] = 'oldtoken';
    session_destroy();
    header('Location: ./Consent.php?error=1');
 }
 
-/* Create TwitteroAuth object with app key/secret and token key/secret from
-   default phase */
+// Create TwitteroAuth object with app key/secret and token key/secret from default phase 
 $connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET,
    $_SESSION['oauth_token'], $_SESSION['oauth_token_secret']);
 
-/* Request access tokens from twitter */
+// Request access tokens from twitter 
 $access_token = $connection->getAccessToken($_REQUEST['oauth_verifier']);
 
-/* Save the access tokens. Normally these would be saved in a database for
-future use. */
+// Save the access tokens. Normally these would be saved in a database for future use. 
 $_SESSION['access_token'] = $access_token;
 
-/* Remove no longer needed request tokens */
+// Remove no longer needed request tokens 
 unset($_SESSION['oauth_token']);
 unset($_SESSION['oauth_token_secret']);
 
-/* If HTTP response is 200 continue otherwise send to connect page to retry
-*/
+// If HTTP response is 200 continue otherwise send to connect page to retry
+
 $username = "Failure";
 if (200 == $connection->http_code) {
-  /* The user has been verified and the access tokens can be saved for future use */
+  // The user has been verified and the access tokens can be saved for future use 
   $_SESSION['status'] = 'verified';
   $connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, $access_token['oauth_token'], $access_token['oauth_token_secret']);
   $user = $connection->get('account/verify_credentials');
   $username = $user->screen_name;
 } else {
-  /* Save HTTP status for error dialog on connnect page.*/
+  // Save HTTP status for error dialog on connnect page.
   session_destroy();
   header('Location: ./Consent.php?error=1');
 }
-
-
+*/
 ?>
 <html>
 <head>
@@ -192,6 +190,8 @@ if (200 == $connection->http_code) {
  <p> Please indicate the nationalities with which you most identify</p>
  <div class="ui-widget"> I see myself as <input id="national" name="nationality" size="50"/></div>
  <div id="error-4" class="error"></div>       
+  <p> In the box below, please put a website that relates to your identity </p>
+  <li><input id ="user_url" name = "user_url" type="text"/></li>
 <input type="button" value="Submit" onClick= "CheckNationID()"/>
         
 </ol>
