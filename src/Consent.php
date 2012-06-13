@@ -1,5 +1,5 @@
 <?php
-require_once('config.inc');
+require_once('core/safe/config.inc');
 ?>
 <html>
 <head>

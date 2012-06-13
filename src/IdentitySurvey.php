@@ -1,13 +1,11 @@
 <html>
 <head>
-<?php require_once "locations.php"; ?>
-<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script> -->
-<script src="jquery-ui-1.8.21.custom/js/jquery-1.7.2.min.js" type="text/javascript"></script>
-<script src="jquery-ui-1.8.21.custom/js/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
-<!-- <script src="jquery.min.js" type="text/javascript"></script> -->
-<script src="WebSurvey3.js" type="text/javascript"></script>
-<script src="shuffle.js" type="text/javascript"></script>
-<link rel='stylesheet' type='text/css' href='WebSurvey.css' />
+<?php require_once "core/locations.php"; ?>
+<script src="core/jquery-ui-1.8.21.custom/js/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="core/jquery-ui-1.8.21.custom/js/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
+<script src="core/IdentitySurvey.js" type="text/javascript"></script>
+<script src="core/shuffle.js" type="text/javascript"></script>
+<link rel='stylesheet' type='text/css' href='core/IdentitySurvey.css' />
 </head>
 <body>
 
