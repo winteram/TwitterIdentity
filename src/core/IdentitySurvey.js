@@ -428,8 +428,8 @@ function checkDemographics()
 {
     gender = $("input[name=gender]:checked").val();
     age = $("#age option:selected").val();
-    loc = $("#sel_country option:selected").val()
-	races = [];
+    loc = $("#sel_country option:selected").val();
+    races = [];
     $("input[name=race]:checked").each(function() { races.push($(this).val()); });
     income = $("#income").val();
     education = $("#edu option:selected").val();
@@ -460,7 +460,7 @@ function checkDemographics()
 	    error=true;
 	    errmsg += "<div class='error'>Please indicate your current location</div>";
 	}
-    if(races== null)
+    if(races.length==0)
 	{
 	    error=true;
 	    errmsg += "<div class='error'>Please indicate your ethnicity</div>";
