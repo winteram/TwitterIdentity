@@ -128,7 +128,7 @@ digitally signing this document.  You will be asked to authenticate your
 account through Twitter to demonstrate you are the owner of the Twitter
 account with username <?php echo $tw_name; ?></div>
 
-<span onclick="verify"><img src="./images/lighter.png" alt="Sign in with Twitter"/></span>
+<span onclick="verify"><img src="core/images/lighter.png" alt="Sign in with Twitter"/></span>
 
 </form>
 

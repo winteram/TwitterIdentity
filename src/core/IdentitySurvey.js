@@ -21,7 +21,7 @@ $(document).ready(function() {
 	$("#instructions-wrapper").show();
 	
 	// initialize auto-complete for nationalities
-	$.get("nationalities.csv", function(data) {
+	$.get("core/nationalities.csv", function(data) {
 		nationalities = data.split(",");
 		function split( val ) {
 			return val.split( /,\s*/ );
