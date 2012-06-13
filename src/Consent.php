@@ -1,9 +1,11 @@
-<?php
-require_once('core/safe/config.inc');
-?>
+<?php $tw_name="groupidentity" ?>
 <html>
 <head>
 <title>Group Identities on Twitter</title>
+<script src="core/jquery-ui-1.8.21.custom/js/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="core/jquery-ui-1.8.21.custom/js/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
+<script src="core/IdentitySurvey.js" type="text/javascript"></script>
+<link rel='stylesheet' type='text/css' href='core/IdentitySurvey.css' />
 <style type="text/css">
   div { margin: 15px 5px 15px 5px }
   img {border-width: 0}
@@ -113,12 +115,12 @@ Telephone: (201) 216 -5032.</div>
 
 <form name="consent">
 
-<div><input type="checkbox" name="agree"/> By checking this box, I am
+<div><input type="checkbox" id="agree" name="agree"/> By checking this box, I am
 indicating that I have read the above description of a research project; I
 am older than 18 years of age; I have had all of my questions answered to
 my satisfaction; and I agree to participate in this research.</div>
 
-<div><input type="checkbox" name="agree2"/> By checking this box, I agree
+<div><input type="checkbox" id="agree2" name="agree2"/> By checking this box, I agree
 to be contacted by the researchers through a direct message on Twitter; I
 agree to review a tweet and consider posting the message on behalf of the
 researchers.</div>
@@ -126,10 +128,11 @@ researchers.</div>
 <div>By checking the box(es) above and clicking the link below, you will be
 digitally signing this document.  You will be asked to authenticate your
 account through Twitter to demonstrate you are the owner of the Twitter
-account with username <?php echo $tw_name; ?></div>
+account with username @<?php echo $tw_name; ?>.
+</div>
 
-<span onclick="verify"><img src="core/images/lighter.png" alt="Sign in with Twitter"/></span>
-
+<div id="error_consent"></div>
+<img src="core/images/lighter.png" alt="Sign in with Twitter" onClick="verify_consent();"/>
 </form>
 
 

@@ -1,6 +1,51 @@
+<?php 
+session_start();
+require_once('core/twitteroauth/twitteroauth.php');
+require_once('core/safe/config.inc');
+require_once 'core/locations.php';
+
+/* If the oauth_token is old redirect to the connect page. */
+if (isset($_REQUEST['oauth_token']) && $_SESSION['oauth_token'] !== $_REQUEST['oauth_token']) {
+   $_SESSION['oauth_status'] = 'oldtoken';
+   session_destroy();
+   header('Location: ./Consent.php?error=1');
+}
+
+/* Create TwitteroAuth object with app key/secret and token key/secret from
+   default phase */
+$connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET,
+   $_SESSION['oauth_token'], $_SESSION['oauth_token_secret']);
+
+/* Request access tokens from twitter */
+$access_token = $connection->getAccessToken($_REQUEST['oauth_verifier']);
+
+/* Save the access tokens. Normally these would be saved in a database for
+future use. */
+$_SESSION['access_token'] = $access_token;
+
+/* Remove no longer needed request tokens */
+unset($_SESSION['oauth_token']);
+unset($_SESSION['oauth_token_secret']);
+
+/* If HTTP response is 200 continue otherwise send to connect page to retry
+*/
+$username = "Failure";
+if (200 == $connection->http_code) {
+  /* The user has been verified and the access tokens can be saved for future use */
+  $_SESSION['status'] = 'verified';
+  $connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, $access_token['oauth_token'], $access_token['oauth_token_secret']);
+  $user = $connection->get('account/verify_credentials');
+  $username = $user->screen_name;
+} else {
+  /* Save HTTP status for error dialog on connnect page.*/
+  session_destroy();
+  header('Location: ./Consent.php?error=1');
+}
+
+
+?>
 <html>
 <head>
-<?php require_once "core/locations.php"; ?>
 <script src="core/jquery-ui-1.8.21.custom/js/jquery-1.7.2.min.js" type="text/javascript"></script>
 <script src="core/jquery-ui-1.8.21.custom/js/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
 <script src="core/IdentitySurvey.js" type="text/javascript"></script>
@@ -13,6 +58,7 @@
 <div id="instructions-wrapper" class="wrapper">
   <div id="base-instructions" class="instructions">
   </div>
+  <div id="screen-name-test"><?php echo $username; ?></div>
 </div>
 	
 <div class="header" id="header-1">About you</div>

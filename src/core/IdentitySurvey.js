@@ -268,21 +268,21 @@ $("#Nation-wrapper").show(500)
 $("#tester").append('<p> Show something please! <p>');
 $("#tester").show(500);  */
 
-if(location == "us")
-{
-	if(order==1) 
+    if(location == "us")
 	{
-		$("#GetPol-wrapper").show(500);
-	}
-	else 
-	{
-		$("#Nation-wrapper").show(500);
-	}
-} else {   
-		order=1
+	    if(order==1) 
+		{
+		    $("#GetPol-wrapper").show(500);
+		}
+	    else 
+		{
+		    $("#Nation-wrapper").show(500);
+		}
+	} else {   
+	order=1;
 
-		$("#Nation-wrapper").show(500)
-	}
+	    $("#Nation-wrapper").show(500)
+	    }
 } 
 
 
@@ -409,66 +409,82 @@ function FreeCheck()
 
 function checkDemographics()
 {
-	gender = $("input[name=gender]:checked").val();
-	age = $("#age option:selected").val();
-	loc = $("#sel_country option:selected").val()
+    gender = $("input[name=gender]:checked").val();
+    age = $("#age option:selected").val();
+    loc = $("#sel_country option:selected").val()
 	races = [];
-	$("input[name=race]:checked").each(function() { races.push($(this).val()); });
-	income = $("#income").val();
-	education = $("#edu option:selected").val();
+    $("input[name=race]:checked").each(function() { races.push($(this).val()); });
+    income = $("#income").val();
+    education = $("#edu option:selected").val();
 
-	// alert(income+"\n"+parseFloat(income)+"\n");
-	// $.get('getLocation.php', 
-	//         { 'q': loc},
-	//         function(data) {
-		//             alert(data);
-		//         });
+    // alert(income+"\n"+parseFloat(income)+"\n");
+    // $.get('getLocation.php', 
+    //         { 'q': loc},
+    //         function(data) {
+    //             alert(data);
+    //         });
 
-		// Do validation of input
-		var error = false;
-		var errmsg = "";
+    // Do validation of input
+    var error = false;
+    var errmsg = "";
 
-		if(gender==null)
-		{
-			error=true;
-			errmsg += "<div class='error'>Please choose an option for gender</div>";
-		}    
-		if(age=="unselected")
-		{
-			error=true;
-			errmsg += "<div class='error'>Please state the year you were born</div>";
-		}
-		if(loc  == "unselected")
-		{
-			error=true;
-			errmsg += "<div class='error'>Please indicate your current location</div>";
-		}
-		if(races== null)
-		{
-			error=true;
-			errmsg += "<div class='error'>Please indicate your ethnicity</div>";
-		}
-		if(income==null || $.trim(income) != income.replace(/[^0-9$.,]/g,'') || !IsNumeric(income.replace(/[^0-9.]/g,'')))
-		{
-			error=true;
-			errmsg += "<div class='error'>Please enter a valid number for income</div>";
-		}
-		if(education=="unselected")
-		{
-			error=true;
-			errmsg += "<div class='error'>Please indicate your highest level of education</div>";
-		}
-		// Output error message if input not valid
-		if(error==false)
-		{
-
-			$("#demo-wrapper").hide(500);
-			DecideOrder(loc)
-
-
-		}
-		else
-		{
-			$('#error-1').html(errmsg);
-		}
+    if(gender==null)
+	{
+	    error=true;
+	    errmsg += "<div class='error'>Please choose an option for gender</div>";
+	}    
+    if(age=="unselected")
+	{
+	    error=true;
+	    errmsg += "<div class='error'>Please state the year you were born</div>";
 	}
+    if(loc  == "unselected")
+	{
+	    error=true;
+	    errmsg += "<div class='error'>Please indicate your current location</div>";
+	}
+    if(races== null)
+	{
+	    error=true;
+	    errmsg += "<div class='error'>Please indicate your ethnicity</div>";
+	}
+    if(income==null || $.trim(income) != income.replace(/[^0-9$.,]/g,'') || !IsNumeric(income.replace(/[^0-9.]/g,'')))
+	{
+	    error=true;
+	    errmsg += "<div class='error'>Please enter a valid number for income</div>";
+	}
+    if(education=="unselected")
+	{
+	    error=true;
+	    errmsg += "<div class='error'>Please indicate your highest level of education</div>";
+	}
+    // Output error message if input not valid
+    if(error==false)
+	{
+
+	    $("#demo-wrapper").hide(500);
+	    DecideOrder(loc)
+
+
+		}
+    else
+	{
+	    $('#error-1').html(errmsg);
+	}
+}
+
+function verify_consent() 
+{
+    var agree = false;
+    var agree2 = false;
+    if($("#agree").is(':checked'))
+	{ agree = true; }
+    if($("#agree2").is(':checked'))
+	{ agree2 = true; }
+    if(!agree) {
+	$("#error_consent").html("Please indicate you have read the information on this page and agree to participate in the study by checking the first box above");
+    } else {
+	window.location.href = "Authenticate.php?agree=" + (agree ? 1 : 0) + "&agree2=" + (agree2 ? 1 : 0);
+    }
+        
+}
