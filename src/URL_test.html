@@ -1,0 +1,62 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script>
+<!-- <script src="jquery.min.js" type="text/javascript"></script> -->
+<script src="shuffle.js" type="text/javascript"></script>
+
+<script language="javascript">
+
+
+$(document).ready(function() {
+	
+	
+}); 
+
+function CheckURL()
+{
+	var user_url = $("#url").val(); 
+    var is_valid_url = false;
+    is_valid_url = $.get(user_url).success(function() {return true;});
+
+if(is_valid_url == false)
+{
+	alert("this is not a valid url")
+}
+
+else
+{
+	alert("this is not a valid url")
+}
+
+	
+	
+}
+
+
+
+</script>
+</head>
+
+<body>
+
+<ol id="FreeForm-wrapper" class="wrapper">
+
+ <p> Please indicate one thing that you especially identify with. It could be anything. Complete the sentences below with your answer  </p>
+ <li> I see myself as a <input id="free1" name="freeform1" type="text"/></li>
+ <br />
+ <li> I identify with other <input id ="free2" name = "freeform2" type="text"/> </li>
+ <div id="error-5" class="error"></div>  
+ 
+ <p> In the box below, please put a website that relates to your identity </p>
+  <li><input id ="url" name = "user_url" type="text"/></li>
+      
+ <input type="button" value="Submit" onClick= "CheckURL()"/>
+              
+</ol>
+
+</body>
