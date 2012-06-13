@@ -372,12 +372,15 @@ function CheckNationID()
 
 	} else {
 	    user_url = $("#user_url").val();
-	    $.get(user_url, function() {
-		    $("#Nation-wrapper").hide(500);
-		    displayQ(nform1,nform2,"nat");
-		}).error(function() {
+	    $.post("core/validUrl.php", {"user_url":user_url}, function(data) {
+		    alert(data);
+		    if(data==1) {
+			$("#Nation-wrapper").hide(500);
+			displayQ(nform1,nform2,"nat");
+		    } else {
 			$("#error-4").html("Enter a valid URL");
-		    });
+		    }
+		});
 	}
 
 
