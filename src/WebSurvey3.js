@@ -135,23 +135,25 @@ function displayQ(form1, form2, iden) // added iden as the third input
 	{
 		likert = createLikert( iden + 'likert_' + i, iden + '_agree_' + i);
 
-		$(wrapper).append('<li>'+ sent[i]  + '</li><p>' + likert + '</p>')
+		$(wrapper).append('<div><li>'+ sent[i]  + '</li><p>' + likert + '</p></div>')
 		//$("#displayQ-wrapper").append('<li>'+ sent[i]  + '</li><p>' + likert + '</p>');
 	}
 
+    $(wrapper).shuffle(); 
 
 
 	$(wrapper).append('<div id="error'+ iden +'" class="error"/>')// appends a unique error id for each section
 
 	//$("#displayQ-wrapper").append('<div id = "error3" class = "error"> </div>'); // put the code for where the error message will go above the button
+	
 
-	$(wrapper).append('<div> <input type="button" value="Continue" onclick = "surveyValidate(\'' + iden +'\')"/></div>')
+	$(wrapper).append( '<input type="button" value="Continue" onclick = "surveyValidate(\'' + iden +'\')"/>')
 	//$("#displayQ-wrapper").append('<div> <input type="button" value="Continue" onclick = "surveyValidate(\'' + iden +'\')"/></div>'); 
 
 	$("#GetPol-wrapper").hide(500); // might have to do some conditionals here with "iden" if the current wrapper is not hiding
 	//$("#displayQ-wrapper").show(500);
 
-
+    
 
 	$(wrapper).show(500);	
 
