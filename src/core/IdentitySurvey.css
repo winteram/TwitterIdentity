@@ -1,17 +1,17 @@
 // Styling for AboutUs.html
 
 body {
-    min-width: 550px;
+    min-width: 750px;
 }
 
 .header {
     height: 100px;
-    background-color: #F5F2EF;
+    background-color: #F5F3EF;
+    margin-bottom: 10px;
 }
 
 #idproj-title {
-//    width: 99%;
-    margin: 0px auto;
+    margin-left: 110px;
 }
 
 .container {
@@ -25,8 +25,25 @@ body {
 }
 
 .center {
-    width: 100%
-    background-color: #F5F2EF;
+    width: 100%;
+    background-color: #F5F3EF;
+}
+
+.center-section {
+    padding: 15px;
+    font-family: serif;
+    text-align: left;
+}
+
+.center-title {
+    font-weight: bold;
+    font-variant: small-caps;
+    color: #371400;
+}
+
+.center-para {
+    margin-left: 5px;
+    color: #472400;
 }
 
 .left {
@@ -34,16 +51,55 @@ body {
     right: 200px;
     margin-left: -100%;
     background-color: #E7E3E1;
+    font-family: serif;
+    font-style: oblique;
+    font-size: small;
+    color: #472400;
+}
+
+.bio {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 0px 5px 0px 5px;
+}
+
+.headshot {
+    height: 100px;
+    margin: 5px;
+    border: 2px double #472400;
 }
 
 .right {
     width: 150px;
     margin-right: -150px;
-    background-color: #F5F2EF;
+    background-color: #F5F3EF;
+}
+
+#participate-button {
+    background: #FFCC00;
+}
+
+.uni-logos {
+    margin-top: 100%;
+    padding-left: 12px;
+}
+
+.uni {
+    width: 100px;
+    margin: 5px;
+    border: 2px double #472400;
 }
 
 .footer {
     clear: both;
+    text-align: center;
+    background-color: #F0EBE6;
+    padding: 5px;
+}
+
+#contact-info {
+    color: #835930;
+    margin:10px;
 }
 
 /*** IE6 fix ***/
@@ -62,29 +118,23 @@ body {
     margin: 5px;
 }
 
-.wrapper 
-{
+.wrapper {
     margin: 0px 20px; 
     display: none;
 }
 
-.center 
-{
+.center {
     text-align: center;
 }
 
-.error 
-{
+.error {
     color: red;
 }
 
-.likert 
-{ 
+.likert { 
     text-align: center; 
 }
 
-.likert td 
-{ 
+.likert td { 
     width: 70px; 
 }
-
