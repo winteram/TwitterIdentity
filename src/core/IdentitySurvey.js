@@ -373,6 +373,7 @@ function CheckNationID()
 	} else {
 	    user_url = $("#user_url").val();
 	    $.post("core/validUrl.php", {"user_url":user_url}, function(data) {
+		    alert(data);
 		    if(data==1) {
 			$("#Nation-wrapper").hide(500);
 			displayQ(nform1,nform2,"nat");
