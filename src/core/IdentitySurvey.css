@@ -1,13 +1,90 @@
-.header {height: 40px; background-color: #BADAE8; color: #FFF; font-family: Helvetica; font-size:2em; padding: 10px 20px; margin: 5px;}
-.wrapper {margin: 0px 20px; display: none;}
-.center {text-align: center;}
-.dice-rolls-frame {margin: 25px; height:auto;}
-.roll {float: left; padding: 10px; width: 50px; text-align: center;}
-.roll-row {clear: left;}
-.error {color: red;}
+// Styling for AboutUs.html
 
-.likert { text-align:center; }
-.likert td { width: 70px; }
+body {
+    min-width: 550px;
+}
 
+.header {
+    height: 100px;
+    background-color: #F5F2EF;
+}
 
-	
+#idproj-title {
+//    width: 99%;
+    margin: 0px auto;
+}
+
+.container {
+    padding-left: 200px;
+    padding-right: 150px;
+}
+
+.container .column {
+    position: relative;
+    float: left;
+}
+
+.center {
+    width: 100%
+    background-color: #F5F2EF;
+}
+
+.left {
+    width: 200px;
+    right: 200px;
+    margin-left: -100%;
+    background-color: #E7E3E1;
+}
+
+.right {
+    width: 150px;
+    margin-right: -150px;
+    background-color: #F5F2EF;
+}
+
+.footer {
+    clear: both;
+}
+
+/*** IE6 fix ***/
+* html .left {
+    left: 150px;
+}
+
+.section-header 
+{
+    height: 40px; 
+    background-color: #BADAE8; 
+    color: #FFF; 
+    font-family: Helvetica; 
+    font-size:2em; 
+    padding: 10px 20px; 
+    margin: 5px;
+}
+
+.wrapper 
+{
+    margin: 0px 20px; 
+    display: none;
+}
+
+.center 
+{
+    text-align: center;
+}
+
+.error 
+{
+    color: red;
+}
+
+.likert 
+{ 
+    text-align: center; 
+}
+
+.likert td 
+{ 
+    width: 70px; 
+}
+

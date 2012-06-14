@@ -52,14 +52,14 @@ if (200 == $connection->http_code) {
 </head>
 <body>
 
-<div class="header" id="header-0">Instructions</div>
+<div class="section-header" id="section-header-0">Instructions</div>
 <div id="screen-name-test"><?php echo $username; ?></div>
 <div id="instructions-wrapper" class="wrapper">
   <div id="base-instructions" class="instructions">
   </div>
 </div>
 	
-<div class="header" id="header-1">About you</div>
+<div class="section-header" id="section-header-1">About you</div>
 <div id="demo-wrapper" class="wrapper">
     <form id="demographics">
         <ol>
