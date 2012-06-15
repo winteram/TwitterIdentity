@@ -350,9 +350,26 @@ function CheckNationID()
     // take list of nations, split into array
     nation_list = $("#national").val().slice(0,-1).split(',');
     nform1 = nation_list.join('-');
-    // create array of exceptions to 's' rule
-    // check if last nation is exception
+    
+	n_end = nform1.slice(-1)
+	n_ese= nform1.slice(-3)
+	
+	if(n_end == "s" || n_end == "x" || n_end == "h" || n_ese == "ese")
+	{
+		nform2=nform1
+	}
+	else 
+	{
+   
     nform2 = nform1 + "s";
+	
+	}
+	
+	
+	
+	// create array of exceptions to 's' rule
+    // check if last nation is exception
+    //nform2 = nform1 + "s";
     errmsg=''
 
 	var error = false
@@ -363,7 +380,16 @@ function CheckNationID()
 
 		errmsg += '<p> Please enter a nationality</p>'
 
+	}
+	
+	else
+	{
+		$("#Nation-wrapper").hide(500);
+			displayQ(nform1,nform2,"nat");
+		
 	}// add more to this later
+	
+	/*
 
 	if(error==true)
 	{
@@ -383,7 +409,7 @@ function CheckNationID()
 		});
 	}
 
-
+*/
 
 
 
