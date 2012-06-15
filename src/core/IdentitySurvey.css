@@ -8,10 +8,11 @@ body {
     height: 100px;
     background-color: #F5F3EF;
     margin-bottom: 10px;
+    text-align: center;
 }
 
-#idproj-title {
-    margin-left: 110px;
+#idproj-hdr img {
+    height: 100px;
 }
 
 .container {
@@ -105,6 +106,32 @@ body {
 /*** IE6 fix ***/
 * html .left {
     left: 150px;
+}
+
+#consent-form {
+    max-width: 800px;
+    padding: 10px;
+}
+
+#consent-form div {
+    margin: 5px 0px 5px 0px;
+    padding: 5px;
+}
+
+.consent-contact {
+    text-align: center;
+    font-weight: bold;
+}
+
+#consent-form-box {
+    background-color: white;
+    border: solid black 2px;
+    margin: 15px;
+    padding: 10px;
+}
+
+#sign-in {
+    text-align: center;
 }
 
 .section-header 

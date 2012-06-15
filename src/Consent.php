@@ -1,22 +1,24 @@
-<?php $tw_name="groupidentity" ?>
 <html>
 <head>
 <title>Group Identities on Twitter</title>
 <script src="core/jquery-ui-1.8.21.custom/js/jquery-1.7.2.min.js" type="text/javascript"></script>
 <script src="core/jquery-ui-1.8.21.custom/js/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
 <script src="core/IdentitySurvey.js" type="text/javascript"></script>
+<link rel='stylesheet' type='text/css'
+      href='core/jquery-ui-1.8.21.custom/css/pepper-grinder/jquery-ui-1.8.21.custom.css' />
 <link rel='stylesheet' type='text/css' href='core/IdentitySurvey.css' />
-<style type="text/css">
-  div { margin: 15px 5px 15px 5px }
-  img {border-width: 0}
-</style>
 </head>
-<body>
+<body bgcolor="#F5F3EF">
 
-<div style="width:800px">
+<div class="header"> 
+  <span id="idproj-hdr"><img src="core/images/idproj.jpg">
+  <img src="core/images/idproj_title.jpg" alt="The Group Identity
+  Project"></span>
+</div>
 
-<h1>Group Identities on Twitter</h1>
-<h3>Asaf Beasley, Dr. Winter Mason </h3>
+<div id="consent-form">
+
+<h2 style="text-align:center">INFORMED CONSENT</h2>
 
 
 <h4>1. The purpose of this research is:</h4>
@@ -86,18 +88,19 @@ opportunity to preview the tweet and may refuse to tweet it with no
 consequence.</div>
 
 <h4>6. Participation in this research may involve the following risks:</h4>
-<div>There are no anticipated risks from participating in this study.</idv>
+<div>There are no anticipated risks from participating in this study.</div>
 
 <div>The investigators will do everything possible to prevent or reduce
 discomfort and risk, but it is not possible to predict everything that
 might occur. If a participant has unexpected discomfort or thinks something
 unusual or unexpected is occurring, he/she should contact:</div>
 
-<div>
-Dr. Winter Mason<br>
+<div class="consent-contact">
+<span>Dr. Winter Mason<br>
 Stevens Institute of Technology<br>
 (201) 216-3312<br>
-wmason [at] stevens [dot] edu</div>
+wmason [at] stevens [dot] edu</span>
+</div>
 
 <div>The investigators will assure that any data or answers to questions will
 remain confidential with regard to the subject's identity.</div>
@@ -109,10 +112,13 @@ University. In the event of injury resulting from any research procedure,
 the subject may obtain information from:</div>
 
 
-<div>Zvi Aronson, Head, IRB<br>
+<div class="consent-contact">
+<span>Zvi Aronson, Head, IRB<br>
 WJHSTM, Stevens Institute of Technology<br>
-Telephone: (201) 216 -5032.</div>
+Telephone: (201) 216 -5032.</span>
+</div>
 
+<div id="consent-form-box">
 <form name="consent">
 
 <div><input type="checkbox" id="agree" name="agree"/> By checking this box, I am
@@ -127,22 +133,21 @@ researchers.</div>
 
 <div>By checking the box(es) above and clicking the link below, you will be
 digitally signing this document.  You will be asked to authenticate your
-account through Twitter to demonstrate you are the owner of the Twitter
-account with username @<?php echo $tw_name; ?>.
-</div>
+account through Twitter to demonstrate you are the owner of your Twitter
+account and grant us permission to retrieve information about your profile
+and tweets from your account.</div>
 
 <div id="error_consent"></div>
-<img src="core/images/lighter.png" alt="Sign in with Twitter" onClick="verify_consent();"/>
+<div id="sign-in"><img src="core/images/lighter.png" alt="Sign in with Twitter" onClick="verify_consent();"/></div>
 </form>
-
+</div>
 
 <div>The Institutional Review Board of Stevens Institute of Technology has
 reviewed and approved this study on the following
   date:______________.</div>
 
+
 </div>
-
-
 
 </body>
 </html>
