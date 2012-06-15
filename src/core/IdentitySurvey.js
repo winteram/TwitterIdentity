@@ -117,9 +117,9 @@ function displayQ(form1, form2, iden) // added iden as the third input
 	sent.push('I feel a bond with ' + form2);
 	sent.push('I feel solidarity with ' + form2);
 	sent.push('I feel committed to ' + form2);
-	sent.push('I am glad to be a ' + form1);
+	sent.push('I am glad to be ' + form1);
 	sent.push('I think that ' + form2 + ' have a lot to be proud of');
-	sent.push('It is pleasant to be a ' + form1);
+	sent.push('It is pleasant to be ' + form1);
 	sent.push('Being a ' + form1 + ' give me a good feeling');
 	sent.push('I often think about the fact that I am a ' + form1);
 	sent.push('The fact that I am ' + form1 + ' is an important part of my identity');
@@ -350,9 +350,27 @@ function CheckNationID()
     // take list of nations, split into array
     nation_list = $("#national").val().slice(0,-1).split(',');
     nform1 = nation_list.join('-');
-    // create array of exceptions to 's' rule
-    // check if last nation is exception
+    
+	n_end = nform1.slice(-1)
+	n_ese= nform1.slice(-3)
+	n_ch= nform1.slice(-2)
+	
+	if(n_end == "s" || n_end == "x" || n_end == "z" || n_ese == "ese" || n_ch == "ch")
+	{
+		nform2=nform1
+	}
+	else 
+	{
+   
     nform2 = nform1 + "s";
+	
+	}
+	
+	
+	
+	// create array of exceptions to 's' rule
+    // check if last nation is exception
+    //nform2 = nform1 + "s";
     errmsg=''
 
 	var error = false
@@ -363,7 +381,16 @@ function CheckNationID()
 
 		errmsg += '<p> Please enter a nationality</p>'
 
+	}
+	
+	else
+	{
+		$("#Nation-wrapper").hide(500);
+			displayQ(nform1,nform2,"nat");
+		
 	}// add more to this later
+	
+	/*
 
 	if(error==true)
 	{
@@ -383,7 +410,7 @@ function CheckNationID()
 		});
 	}
 
-
+*/
 
 
 
