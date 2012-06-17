@@ -353,9 +353,9 @@ function CheckNationID()
     
 	n_end = nform1.slice(-1)
 	n_ese= nform1.slice(-3)
-	n_ch= nform1.slice(-2)
+	//n_ch= nform1.slice(-2)
 	
-	if(n_end == "s" || n_end == "x" || n_end == "z" || n_ese == "ese" || n_ch == "ch")
+	if(n_end == "s" || n_end == "x" || n_end == "z" || n_end =="h" || n_ese == "ese")
 	{
 		nform2=nform1
 	}
