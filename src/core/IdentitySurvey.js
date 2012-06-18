@@ -114,23 +114,47 @@ function displayQ(form1, form2, iden) // added iden as the third input
 	var sent = []; 
 	
 	
-	form2_c= capitalize(form2);
-
+	form2_c= capitalize(form2); // captilizes first letter, when necessary. 
+    
+	
+	if(iden=="pol")
+	{
 	var sent = new Array();
+	sent.push('I feel a bond with ' + form2);
+	sent.push('I feel solidarity with ' + form2);
+	sent.push('I feel committed to ' + form2);
+	sent.push('I am glad to be a ' + form1);
+	sent.push('I think that ' + form2 + ' have a lot to be proud of');
+	sent.push('It is pleasant to be a ' + form1);
+	sent.push('Being a ' + form1 + ' gives me a good feeling');
+	sent.push('I often think about the fact that I am a ' + form1);
+	sent.push('The fact that I am a ' + form1 + ' is an important part of my identity');
+	sent.push('Being a ' + form1 + ' is an important part of how I see myself');
+	sent.push('I have a lot in common with the average ' + form1);
+	sent.push('I am similar to the average ' + form1); // This one is modified slightly
+	sent.push(form2_c + ' have a lot in common with each other');
+	sent.push(form2_c + ' are very similar to each other');
+	}
+	else
+	{
+		var sent = new Array();
 	sent.push('I feel a bond with ' + form2);
 	sent.push('I feel solidarity with ' + form2);
 	sent.push('I feel committed to ' + form2);
 	sent.push('I am glad to be ' + form1);
 	sent.push('I think that ' + form2 + ' have a lot to be proud of');
 	sent.push('It is pleasant to be ' + form1);
-	sent.push('Being a ' + form1 + ' give me a good feeling');
-	sent.push('I often think about the fact that I am a ' + form1);
+	sent.push('Being ' + form1 + ' gives me a good feeling');
+	sent.push('I often think about the fact that I am ' + form1);
 	sent.push('The fact that I am ' + form1 + ' is an important part of my identity');
 	sent.push('Being ' + form1 + ' is an important part of my identity');
 	sent.push('I have a lot in common with the average ' + form1);
 	sent.push('I am similar to the average ' + form1); // This one is modified slightly
 	sent.push(form2_c + ' have a lot in common with each other');
 	sent.push(form2_c + ' are very similar to each other');
+		
+		
+	}
 
 
 

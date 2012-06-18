@@ -201,8 +201,7 @@ if( isset($_SESSION['agree']) )
  <p> Please indicate the nationalities with which you most identify</p>
  <div class="ui-widget"> I see myself as <input id="national" name="nationality" size="50"/></div>
  <div id="error-4" class="error"></div>       
-  <p> In the box below, please put a website that relates to your identity </p>
-  <li><input id ="user_url" name = "user_url" type="text"/></li>
+  
 <input type="button" value="Submit" onClick= "CheckNationID()"/>
         
 </ol>
@@ -214,6 +213,8 @@ if( isset($_SESSION['agree']) )
  <li> I see myself as a <input id="free1" name="freeform1" type="text"/></li>
  <br />
  <li> I identify with other <input id ="free2" name = "freeform2" type="text"/> </li>
+ <p> In the box below, please put a website that relates to your identity </p>
+  <li><input id ="user_url" name = "user_url" type="text"/></li>
  <div id="error-5" class="error"></div>       
  <input type="button" value="Submit" onClick= "FreeCheck()"/>
               
