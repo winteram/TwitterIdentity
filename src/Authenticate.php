@@ -5,8 +5,8 @@ require_once('core/twitteroauth/twitteroauth.php');
 require_once('core/safe/config.inc');
 
 /* Get survey credentials */
-$agree = $_GET['agree'];
-$agree2 = $_GET['agree2'];
+$_SESSION['agree'] = $_GET['agree'];
+$_SESSION['agree2'] = $_GET['agree2'];
 
 /* Build TwitterOAuth object with client credentials. */
 $connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET);
@@ -24,7 +24,7 @@ switch ($connection->http_code) {
   case 200:
     /* Build authorize URL and redirect user to Twitter. */
     $url = $connection->getAuthorizeURL($token, FALSE);
-    header('Location: ' . $url . '&agree=' . $agree . '&agree2=' . $agree2); 
+    header('Location: ' . $url); 
     break;
   default:
     /* Show notification if something went wrong. */

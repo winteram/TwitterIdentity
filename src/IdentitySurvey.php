@@ -44,6 +44,7 @@ if (200 == $connection->http_code) {
 ?>
 <html>
 <head>
+<title>Group Identity Project</title>
 <script src="core/jquery-ui-1.8.21.custom/js/jquery-1.7.2.min.js" type="text/javascript"></script>
 <script src="core/jquery-ui-1.8.21.custom/js/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
 <script src="core/IdentitySurvey.js" type="text/javascript"></script>
@@ -53,7 +54,17 @@ if (200 == $connection->http_code) {
 <body>
 
 <div class="section-header" id="section-header-0">Instructions</div>
-<div id="screen-name-test"><?php echo $username; ?></div>
+<div id="screen-name-test">Welcome 
+<?php 
+echo $username . "!  "; 
+if( isset($_SESSION['agree']) )
+{
+  echo "You agreed to participate. (" . $_SESSION['agree'] . ")"; 
+} else  {
+  echo "You didn't agree to participate. (" . $_SESSION['agree'] . ")";
+}
+?> 
+</div>
 <div id="instructions-wrapper" class="wrapper">
   <div id="base-instructions" class="instructions">
   </div>
