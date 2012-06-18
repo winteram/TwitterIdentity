@@ -112,6 +112,9 @@ function displayQ(form1, form2, iden) // added iden as the third input
 
 	var wrapper = "#displayQ-wrapper_" + iden // There is a different wrapper for each survey type.
 	var sent = []; 
+	
+	
+	form2_c= capitalize(form2);
 
 	var sent = new Array();
 	sent.push('I feel a bond with ' + form2);
@@ -126,8 +129,8 @@ function displayQ(form1, form2, iden) // added iden as the third input
 	sent.push('Being ' + form1 + ' is an important part of my identity');
 	sent.push('I have a lot in common with the average ' + form1);
 	sent.push('I am similar to the average ' + form1); // This one is modified slightly
-	sent.push(form2 + ' have a lot in common with each other');
-	sent.push(form2 + ' are very similar to each other');
+	sent.push(form2_c + ' have a lot in common with each other');
+	sent.push(form2_c + ' are very similar to each other');
 
 
 
@@ -345,6 +348,12 @@ function checkPolitics()
 
 }
 
+function capitalize(string)
+{
+    return string.charAt(0).toUpperCase() + string.slice(1);
+	
+}
+
 function CheckNationID()
 { 
     // take list of nations, split into array
@@ -421,6 +430,14 @@ function FreeCheck()
 	nform1 = $("#free1").val()
 	nform2 = $("#free2").val()
 	errmsg=''
+	
+	//nform1 = capitalize(nform1) 
+	//nform2 = capitalize(nform2)
+	
+	//nform1 = nform1.charAt(0).toUpperCase() + nform1.slice(1);
+	//nform2 = nform2.charAt(0).toUpperCase() + nform1.slice(1); 
+	
+	
 
 
 	error = false
