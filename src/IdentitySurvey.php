@@ -50,6 +50,8 @@ if (200 == $connection->http_code) {
 <script src="core/IdentitySurvey.js" type="text/javascript"></script>
 <script src="core/shuffle.js" type="text/javascript"></script>
 <link rel="shortcut icon" href="core/images/idproj.ico" type="image/x-icon" />
+<link rel='stylesheet' type='text/css'
+      href='core/jquery-ui-1.8.21.custom/css/pepper-grinder/jquery-ui-1.8.21.custom.css' />
 <link rel='stylesheet' type='text/css' href='core/IdentitySurvey.css' />
 </head>
 <body>

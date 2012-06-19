@@ -138,7 +138,7 @@ account through Twitter to demonstrate you are the owner of your Twitter
 account and grant us permission to retrieve information about your profile
 and tweets from your account.</div>
 
-<div id="error_consent"></div>
+<div id="error_consent" class="error"></div>
 <div id="sign-in"><img src="core/images/lighter.png" alt="Sign in with Twitter" onClick="verify_consent();"/></div>
 </form>
 </div>
