@@ -49,6 +49,7 @@ if (200 == $connection->http_code) {
 <script src="core/jquery-ui-1.8.21.custom/js/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
 <script src="core/IdentitySurvey.js" type="text/javascript"></script>
 <script src="core/shuffle.js" type="text/javascript"></script>
+<link rel="shortcut icon" href="core/images/idproj.ico" type="image/x-icon" />
 <link rel='stylesheet' type='text/css' href='core/IdentitySurvey.css' />
 </head>
 <body>
