@@ -40,6 +40,7 @@ body {
     font-weight: bold;
     font-variant: small-caps;
     color: #371400;
+
 }
 
 .center-para {
@@ -137,13 +138,14 @@ body {
 .section-header 
 {
     height: 40px; 
-    background-color: #BADAE8; 
-    color: #FFF; 
+    background-color: #F5F3EF;
+    color: #371400; 
     font-family: Helvetica; 
     font-size:2em; 
     padding: 10px 20px; 
     margin: 5px;
 }
+
 
 .wrapper {
     margin: 0px 20px; 
@@ -164,4 +166,12 @@ body {
 
 .likert td { 
     width: 70px; 
+}
+
+.center-title1 {
+    font-weight: bold;
+    font-variant: small-caps;
+    color: #371400;
+	text-align:center
+
 }

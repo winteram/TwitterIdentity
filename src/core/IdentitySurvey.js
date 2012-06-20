@@ -2,12 +2,11 @@ function initSurvey(username, agree, agree2) {
     $.post("core/DataWrangler.php", {"page":"new", "username":username, "agree":agree, "agree2":agree2});
 }
 
-$(document).ready(function() {    
-    // add years to age question
-    for(i=2000;i>1900;i--)
-    {
-	$("#age").append('<option value="'+i+'">'+i+'</option>');
-    }
+	// add years to age question
+	for(i=2000;i>1900;i--)
+	{
+		$("#age").append('<option value="'+i+'">'+i+'</option>');
+	}
 
 
     if(Math.random() >= .5)// Randomly assign order of survey questions
@@ -17,59 +16,61 @@ $(document).ready(function() {
 
     // show demographics questions at beginning
 
-    var instructions = '<p> You will start by answering some demographic questions </p>';
+	var instructions = '<p> Welcome to the study! To start you will be asked a few demographic questions. You will then be presented a series of questions about what you identify with. The entire survey should take less than 15 minutes and could greatly help us understand how people express their identities in on-line social networks. Thanks in advance for your participation.  </p>';
 
-    instructions += '<div class="ctr"><input type="button" value="Continue" onclick="getDemographics()"/></div>';
-    $("#instructions-wrapper").html(instructions);
-    $("#instructions-wrapper").show();
+	instructions += '<div class="ctr"><input type="button" value="Continue" onclick="getDemographics()"/></div>';
+	$("#section-header-0").show(); 
+	$("#instructions-wrapper").html(instructions);
+	$("#instructions-wrapper").show();
 	
-    // initialize auto-complete for nationalities
-    $.get("core/nationalities.csv", function(data) {
-	    nationalities = data.split(",");
-	    function split( val ) {
-		return val.split( /,\s*/ );
-	    }
-	    function extractLast( term ) {
-		return split( term ).pop();
-	    }
-	    $( "#national" )
-		// don't navigate away from the field on tab when selecting an item
-		.bind( "keydown", function( event ) {
-			if ( event.keyCode === $.ui.keyCode.TAB &&
-			     $( this ).data( "autocomplete" ).menu.active ) {
-			    event.preventDefault();
-			}
-		    })
-		.autocomplete({
-			minLength: 0,
-			    source: function( request, response ) {
-			    // delegate back to autocomplete, but extract the last term
-			    response( $.ui.autocomplete.filter(
-							       nationalities, extractLast( request.term ) ) );
-			},
-			    focus: function() {
-			    // prevent value inserted on focus
-			    return false;
-			},
-			    select: function( event, ui ) {
-			    var terms = split( this.value );
-			    // remove the current input
-			    terms.pop();
-			    // add the selected item
-			    terms.push( ui.item.value );
-			    // add placeholder to get the comma-and-space at the end
-			    terms.push( "" );
-			    this.value = terms.join( "," );
-			    return false;
-			}
-		    });
+	// initialize auto-complete for nationalities
+	$.get("core/nationalities.csv", function(data) {
+		nationalities = data.split(",");
+		function split( val ) {
+			return val.split( /,\s*/ );
+		}
+		function extractLast( term ) {
+			return split( term ).pop();
+		}
+		$( "#national" )
+			// don't navigate away from the field on tab when selecting an item
+			.bind( "keydown", function( event ) {
+				if ( event.keyCode === $.ui.keyCode.TAB &&
+						$( this ).data( "autocomplete" ).menu.active ) {
+					event.preventDefault();
+				}
+			})
+			.autocomplete({
+				minLength: 0,
+				source: function( request, response ) {
+					// delegate back to autocomplete, but extract the last term
+					response( $.ui.autocomplete.filter(
+						nationalities, extractLast( request.term ) ) );
+				},
+				focus: function() {
+					// prevent value inserted on focus
+					return false;
+				},
+				select: function( event, ui ) {
+					var terms = split( this.value );
+					// remove the current input
+					terms.pop();
+					// add the selected item
+					terms.push( ui.item.value );
+					// add placeholder to get the comma-and-space at the end
+					terms.push( "" );
+					this.value = terms.join( "," );
+					return false;
+				}
+			});
 	});
 	
-    });
+});
 
 function getDemographics()
-{
+{$("#section-header-0").hide();
 	$("#instructions-wrapper").hide(500);
+	$("#demographics_h").show();
 	$("#demo-wrapper").show(500);
 }
 
@@ -249,32 +250,32 @@ function surveyValidate(iden)// added iden as an input
 	{   $(wrapper).hide(500); 
 
 		if(iden=="pol")
-		{
+		{   $("#politics_h").hide();
 			if(order==1)
-			{
+			{   $("#nationality_h").show();
 				$("#Nation-wrapper").show(500);
 			}
 			else
-			{
+			{   $("#free_h").show()
 				$("#FreeForm-wrapper").show(500); 
 			}
 
 		}
 		if(iden=="nat")
-		{
+		{   $("#nationality_h").hide();
 			if(order==1)
-			{
+			{   $("#free_h").show()
 				$("#FreeForm-wrapper").show(500)
 			} 
 			else
-			{ 
+			{   $("#politics_h").show()
 				$("#GetPol-wrapper").show(500)
 			}
 
 		}
 
 		if(iden=="free")
-		{
+		{   $("#free_h").hide()
 			$("#thanks").show(500)
 		}
 
@@ -309,11 +310,11 @@ $("#tester").show(500);  */
     if(location == "us")
 	{
 	    if(order==1) 
-		{
+		{    $("#politics_h").show()
 		    $("#GetPol-wrapper").show(500);
 		}
 	    else 
-		{
+		{   $("#nationality_h").show(); 
 		    $("#Nation-wrapper").show(500);
 		}
 	} else {   
@@ -552,7 +553,7 @@ function checkDemographics()
     // Output error message if input not valid
     if(error==false)
 	{
-
+        $("#demographics_h").hide();
 	    $("#demo-wrapper").hide(500);
 	    DecideOrder(loc)
 
