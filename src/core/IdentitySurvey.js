@@ -208,7 +208,7 @@ function surveyValidate(iden)// added iden as an input
 	// $("displayQ").children("div").each(function(index) {
 	//	errmsg += '<p> Please provide an answer to question ' + index + '</p>';
 	// });
-
+	var qdata = {};
 	for(i=0; i <= 13; i++)
 	{
 		//j += 1; 
@@ -230,9 +230,12 @@ function surveyValidate(iden)// added iden as an input
 		if(Q_input == null)
 		{
 			var errorid = '#err' + iden + i; 
-			error = true 
+			error = true;
 			$(errorid).css('color','#F00'); 
-
+		}
+		else
+		{
+		    qdata[iden + i] = Q_input;
 		}
 
 	}
@@ -248,7 +251,10 @@ function surveyValidate(iden)// added iden as an input
 	} */
 
 	if(error==false)
-	{   $(wrapper).hide(500); 
+	{   
+	    $.post("core/DataWrangler.php", {page:iden, data:qdata});
+	    $(wrapper).hide(500); 
+	    
 
 		if(iden=="pol")
 		{   $("#politics_h").hide();
@@ -554,12 +560,13 @@ function checkDemographics()
     // Output error message if input not valid
     if(error==false)
 	{
-        $("#demographics_h").hide();
+	    $.post("core/DataWrangler.php", {"page":"demog", "data":{"gender":gender,"age":age,"loc":loc,"races":races,"income":income,"edu":education} });
+	    $("#demographics_h").hide();
 	    $("#demo-wrapper").hide(500);
-	    DecideOrder(loc)
+	    DecideOrder(loc);
 
 
-		}
+	}
     else
 	{
 	    $('#error-1').html(errmsg);

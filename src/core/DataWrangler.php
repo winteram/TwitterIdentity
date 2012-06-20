@@ -46,8 +46,8 @@ case 'demographics':
 
   // ensure valid values will be entered
   $gender = isset($demogs['gender']) ? $demogs['gender'] : "NULL";
-  $yob = isset($demogs['yob']) ? $demogs['yob'] : "NULL";
-  $country = isset($demogs['country']) ? $demogs['country'] : "NULL";
+  $yob = isset($demogs['age']) ? $demogs['age'] : "NULL";
+  $country = isset($demogs['loc']) ? $demogs['loc'] : "NULL";
   $ethnicity = isset($demogs['ethnicity']) ? $demogs['ethnicity'] : "NULL";
   $income = isset($demogs['income']) ? $demogs['income'] : "NULL";
   $edu = isset($demogs['edu']) ? $demogs['edu'] : "NULL";
