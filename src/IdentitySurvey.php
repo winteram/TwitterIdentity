@@ -57,6 +57,11 @@ if (200 == $connection->http_code) {
 <body>
 
 <div class="section-header" id="section-header-0">Instructions</div>
+<div class="section-header" id="demographics_h">Demographics</div>
+<div class="section-header" id="politics_h">Politics</div>
+<div class="section-header" id="nationality_h"> Nationality</div>
+<div class="section-header" id="free_h"> Free Response Identity</div>
+
 <div id="screen-name-test">Welcome 
 <?php 
 echo $username . "!  "; 
@@ -201,7 +206,8 @@ if( isset($_SESSION['agree']) )
 
 <ol id="Nation-wrapper" class="wrapper">
 
- <p> Please indicate the nationalities with which you most identify</p>
+ <p> In this section you will be indicating which nationality or nationalities you identify with. In the text box below you will start to type your nationality. As you type, options will appear in a drop down menu below the text box.</p>
+ <p> <b>*Important:</b> for our system to register your choice, you must <b>CLICK</b> on the drop down item corresponding with your nationality/nationalities. When you select a nationality from the menu, a comma (",") will be inserted after it. If you identify with more than one nationality, simply begin typing each additional nationality after the ones you have previously listed. Again, as you type options will appear in the drop menu, please click the one corresponding to the nationality identify with. <p>
  <div class="ui-widget"> I see myself as <input id="national" name="nationality" size="50"/></div>
  <div id="error-4" class="error"></div>       
   
@@ -212,7 +218,7 @@ if( isset($_SESSION['agree']) )
  
 <ol id="FreeForm-wrapper" class="wrapper">
 
- <p> Please indicate one thing that you especially identify with. It could be anything. Complete the sentences below with your answer  </p>
+<p>We all have groups we identify with. In a given moment we may see ourselves as Democrats, or Americans, Germans, Fathers, Mac People, Women, Teachers, Soccer Players, etc. For this part, we would like you to think about something you strongly identify with, something that you feel is important to understanding who you are. We realize you have many identities, but for the sake of this study, please type just one in the box below.</p>
  <li> I see myself as a <input id="free1" name="freeform1" type="text"/></li>
  <br />
  <li> I identify with other <input id ="free2" name = "freeform2" type="text"/> </li>
