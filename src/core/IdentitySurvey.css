@@ -40,6 +40,7 @@ body {
     font-weight: bold;
     font-variant: small-caps;
     color: #371400;
+
 }
 
 .center-para {
@@ -164,4 +165,12 @@ body {
 
 .likert td { 
     width: 70px; 
+}
+
+.center-title1 {
+    font-weight: bold;
+    font-variant: small-caps;
+    color: #371400;
+	text-align:center
+
 }
