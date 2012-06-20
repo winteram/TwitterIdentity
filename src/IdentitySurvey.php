@@ -57,17 +57,19 @@ if (200 == $connection->http_code) {
 </head>
 <body>
 
-<div class="section-header" id="section-header-0">Instructions</div>
-<div class="section-header" id="demographics_h">Demographics</div>
-<div class="section-header" id="politics_h">Politics</div>
-<div class="section-header" id="nationality_h"> Nationality</div>
-<div class="section-header" id="free_h"> Free Response Identity</div>
+<div class="header"> 
+  <span id="idproj-hdr"><img src="core/images/idproj.jpg">
+  <img src="core/images/idproj_title.jpg" alt="The Group Identity
+  Project"></span>
+</div>
 
+<div class="section-header" id="section-header-0">Instructions</div>
 <div id="instructions-wrapper" class="wrapper">
   <div id="base-instructions" class="instructions">
   </div>
 </div>
 	
+<div class="section-header" id="demographics_h">Demographics</div>
 <div class="section-header" id="section-header-1">About you</div>
 <div id="demo-wrapper" class="wrapper">
     <form id="demographics">
@@ -173,6 +175,7 @@ if (200 == $connection->http_code) {
 
 
 
+<div class="section-header" id="politics_h">Politics</div>
 <div id="GetPol-wrapper" class="wrapper">
 
   <p> Which US political party do you most identify with?</p>
@@ -194,6 +197,7 @@ if (200 == $connection->http_code) {
  
 </div>
 
+<div class="section-header" id="nationality_h"> Nationality</div>
 <ol id="Nation-wrapper" class="wrapper">
 
  <p> In this section you will be indicating which nationality or nationalities you identify with. In the text box below you will start to type your nationality. As you type, options will appear in a drop down menu below the text box.</p>
@@ -205,7 +209,7 @@ if (200 == $connection->http_code) {
         
 </ol>
  
- 
+<div class="section-header" id="free_h"> Free Response Identity</div>
 <ol id="FreeForm-wrapper" class="wrapper">
 
 <p>We all have groups we identify with. In a given moment we may see ourselves as Democrats, or Americans, Germans, Fathers, Mac People, Women, Teachers, Soccer Players, etc. For this part, we would like you to think about something you strongly identify with, something that you feel is important to understanding who you are. We realize you have many identities, but for the sake of this study, please type just one in the box below.</p>

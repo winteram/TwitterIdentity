@@ -2,6 +2,7 @@ function initSurvey(username, agree, agree2) {
     $.post("core/DataWrangler.php", {"page":"new", "username":username, "agree":agree, "agree2":agree2});
 }
 
+$(document).ready(function() {
 	// add years to age question
 	for(i=2000;i>1900;i--)
 	{
@@ -9,12 +10,12 @@ function initSurvey(username, agree, agree2) {
 	}
 
 
-    if(Math.random() >= .5)// Randomly assign order of survey questions
-	{ order= 1}
-    else
-	{ order= 2}
+	if(Math.random() >= .5)// Randomly assign order of survey questions
+	    { order= 1}
+	else
+	    { order= 2}
 
-    // show demographics questions at beginning
+	// show demographics questions at beginning
 
 	var instructions = '<p> Welcome to the study! To start you will be asked a few demographic questions. You will then be presented a series of questions about what you identify with. The entire survey should take less than 15 minutes and could greatly help us understand how people express their identities in on-line social networks. Thanks in advance for your participation.  </p>';
 
