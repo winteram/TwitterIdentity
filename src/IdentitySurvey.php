@@ -63,17 +63,6 @@ if (200 == $connection->http_code) {
 <div class="section-header" id="nationality_h"> Nationality</div>
 <div class="section-header" id="free_h"> Free Response Identity</div>
 
-<div id="screen-name-test">Welcome 
-<?php 
-echo $username . "!  "; 
-if( isset($_SESSION['agree']) )
-{
-  echo "You agreed to participate. (" . $_SESSION['agree'] . ")"; 
-} else  {
-  echo "You didn't agree to participate. (" . $_SESSION['agree'] . ")";
-}
-?> 
-</div>
 <div id="instructions-wrapper" class="wrapper">
   <div id="base-instructions" class="instructions">
   </div>
