@@ -2,7 +2,7 @@
 
 $host = "localhost";
 $user = "smalls7_groupid";
-$pass = "letspublish"
+$pass = "letspublish";
 $db   = "smalls7_identity";
 
 

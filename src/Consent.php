@@ -3,7 +3,23 @@
 <title>Group Identities on Twitter</title>
 <script src="core/jquery-ui-1.8.21.custom/js/jquery-1.7.2.min.js" type="text/javascript"></script>
 <script src="core/jquery-ui-1.8.21.custom/js/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
-<script src="core/IdentitySurvey.js" type="text/javascript"></script>
+<script type="text/javascript">
+function verify_consent() 
+{
+    var agree = false;
+    var agree2 = false;
+    if($("#agree").is(':checked'))
+	{ agree = true; }
+    if($("#agree2").is(':checked'))
+	{ agree2 = true; }
+    if(!agree) {
+	$("#error_consent").html("Please indicate you have read the information on this page and agree to participate in the study by checking the first box above");
+    } else {
+	window.location.href = "Authenticate.php?agree=" + (agree ? 1 : 0) + "&agree2=" + (agree2 ? 1 : 0);
+    }
+        
+}
+</script>
 <link rel="shortcut icon" href="core/images/idproj.ico" type="image/x-icon" />
 <link rel='stylesheet' type='text/css'
       href='core/jquery-ui-1.8.21.custom/css/pepper-grinder/jquery-ui-1.8.21.custom.css' />

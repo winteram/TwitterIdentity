@@ -1,68 +1,71 @@
-$(document).ready(function() {
+function initSurvey(username, agree, agree2) {
+    $.post("core/DataWrangler.php", {"page":"new", "username":username, "agree":agree, "agree2":agree2});
+}
 
-	// add years to age question
-	for(i=2000;i>1900;i--)
-	{
-		$("#age").append('<option value="'+i+'">'+i+'</option>');
-	}
+$(document).ready(function() {    
+    // add years to age question
+    for(i=2000;i>1900;i--)
+    {
+	$("#age").append('<option value="'+i+'">'+i+'</option>');
+    }
 
 
-	if(Math.random() >= .5)// Randomly assign order of survey questions
+    if(Math.random() >= .5)// Randomly assign order of survey questions
 	{ order= 1}
-	else
+    else
 	{ order= 2}
 
-	// show demographics questions at beginning
+    // show demographics questions at beginning
 
-	var instructions = '<p> You will start by answering some deomgraphic questions </p>';
+    var instructions = '<p> You will start by answering some demographic questions </p>';
 
-	instructions += '<div class="ctr"><input type="button" value="Continue" onclick="getDemographics()"/></div>';
-	$("#instructions-wrapper").html(instructions);
-	$("#instructions-wrapper").show();
+    instructions += '<div class="ctr"><input type="button" value="Continue" onclick="getDemographics()"/></div>';
+    $("#instructions-wrapper").html(instructions);
+    $("#instructions-wrapper").show();
 	
-	// initialize auto-complete for nationalities
-	$.get("core/nationalities.csv", function(data) {
-		nationalities = data.split(",");
-		function split( val ) {
-			return val.split( /,\s*/ );
-		}
-		function extractLast( term ) {
-			return split( term ).pop();
-		}
-		$( "#national" )
-			// don't navigate away from the field on tab when selecting an item
-			.bind( "keydown", function( event ) {
-				if ( event.keyCode === $.ui.keyCode.TAB &&
-						$( this ).data( "autocomplete" ).menu.active ) {
-					event.preventDefault();
-				}
-			})
-			.autocomplete({
-				minLength: 0,
-				source: function( request, response ) {
-					// delegate back to autocomplete, but extract the last term
-					response( $.ui.autocomplete.filter(
-						nationalities, extractLast( request.term ) ) );
-				},
-				focus: function() {
-					// prevent value inserted on focus
-					return false;
-				},
-				select: function( event, ui ) {
-					var terms = split( this.value );
-					// remove the current input
-					terms.pop();
-					// add the selected item
-					terms.push( ui.item.value );
-					// add placeholder to get the comma-and-space at the end
-					terms.push( "" );
-					this.value = terms.join( "," );
-					return false;
-				}
-			});
+    // initialize auto-complete for nationalities
+    $.get("core/nationalities.csv", function(data) {
+	    nationalities = data.split(",");
+	    function split( val ) {
+		return val.split( /,\s*/ );
+	    }
+	    function extractLast( term ) {
+		return split( term ).pop();
+	    }
+	    $( "#national" )
+		// don't navigate away from the field on tab when selecting an item
+		.bind( "keydown", function( event ) {
+			if ( event.keyCode === $.ui.keyCode.TAB &&
+			     $( this ).data( "autocomplete" ).menu.active ) {
+			    event.preventDefault();
+			}
+		    })
+		.autocomplete({
+			minLength: 0,
+			    source: function( request, response ) {
+			    // delegate back to autocomplete, but extract the last term
+			    response( $.ui.autocomplete.filter(
+							       nationalities, extractLast( request.term ) ) );
+			},
+			    focus: function() {
+			    // prevent value inserted on focus
+			    return false;
+			},
+			    select: function( event, ui ) {
+			    var terms = split( this.value );
+			    // remove the current input
+			    terms.pop();
+			    // add the selected item
+			    terms.push( ui.item.value );
+			    // add placeholder to get the comma-and-space at the end
+			    terms.push( "" );
+			    this.value = terms.join( "," );
+			    return false;
+			}
+		    });
 	});
 	
-});
+    });
 
 function getDemographics()
 {
@@ -561,18 +564,3 @@ function checkDemographics()
 	}
 }
 
-function verify_consent() 
-{
-    var agree = false;
-    var agree2 = false;
-    if($("#agree").is(':checked'))
-	{ agree = true; }
-    if($("#agree2").is(':checked'))
-	{ agree2 = true; }
-    if(!agree) {
-	$("#error_consent").html("Please indicate you have read the information on this page and agree to participate in the study by checking the first box above");
-    } else {
-	window.location.href = "Authenticate.php?agree=" + (agree ? 1 : 0) + "&agree2=" + (agree2 ? 1 : 0);
-    }
-        
-}

@@ -6,10 +6,10 @@ global $dbh;
 
 $errmsg = "Missing data";
 
-if (isset($_SESSION['username']))
+if (isset($_REQUEST['username']))
 {
-  $username = $_SESSION['username'];
-} 
+  $username = $_REQUEST['username'];
+}
 else 
 {
   echo "ERR: username not set";
@@ -25,8 +25,8 @@ $user = $rqst->execute();
 $new = ($user == $username) ? 'error' : 'new';
 
 // put responses to consent form in dB
-$agree1 = isset($_SESSION['agree1']) ? $_SESSION['agree1'] : 0;
-$agree2 = isset($_SESSION['agree2']) ? $_SESSION['agree2'] : 0;
+$agree1 = isset($_REQUEST['agree']) ? intval($_REQUEST['agree']) : 0;
+$agree2 = isset($_REQUEST['agree2']) ? intval($_REQUEST['agree2']) : 0;
 
 // determine what data to be entered to db
 $page = isset($_REQUEST['page']) ? $_REQUEST['page'] : $new;

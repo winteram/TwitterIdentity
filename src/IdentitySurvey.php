@@ -28,13 +28,13 @@ unset($_SESSION['oauth_token_secret']);
 
 // If HTTP response is 200 continue otherwise send to connect page to retry
 
-$username = "Failure";
+$_SESSION['username'] = "Failure";
 if (200 == $connection->http_code) {
   // The user has been verified and the access tokens can be saved for future use 
   $_SESSION['status'] = 'verified';
   $connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, $access_token['oauth_token'], $access_token['oauth_token_secret']);
   $user = $connection->get('account/verify_credentials');
-  $username = $user->screen_name;
+  $_SESSION['username'] = $user->screen_name;
 } else {
   // Save HTTP status for error dialog on connnect page.
   session_destroy();
@@ -49,6 +49,7 @@ if (200 == $connection->http_code) {
 <script src="core/jquery-ui-1.8.21.custom/js/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
 <script src="core/IdentitySurvey.js" type="text/javascript"></script>
 <script src="core/shuffle.js" type="text/javascript"></script>
+<script type="text/javascript">$(document).ready(initSurvey(<?php echo "'" . $_SESSION['username'] . "','" . $_SESSION['agree'] . "','" . $_SESSION['agree2'] . "'"; ?>))</script>
 <link rel="shortcut icon" href="core/images/idproj.ico" type="image/x-icon" />
 <link rel='stylesheet' type='text/css'
       href='core/jquery-ui-1.8.21.custom/css/pepper-grinder/jquery-ui-1.8.21.custom.css' />
@@ -57,17 +58,6 @@ if (200 == $connection->http_code) {
 <body>
 
 <div class="section-header" id="section-header-0">Instructions</div>
-<div id="screen-name-test">Welcome 
-<?php 
-echo $username . "!  "; 
-if( isset($_SESSION['agree']) )
-{
-  echo "You agreed to participate. (" . $_SESSION['agree'] . ")"; 
-} else  {
-  echo "You didn't agree to participate. (" . $_SESSION['agree'] . ")";
-}
-?> 
-</div>
 <div id="instructions-wrapper" class="wrapper">
   <div id="base-instructions" class="instructions">
   </div>
