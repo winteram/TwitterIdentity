@@ -249,6 +249,12 @@ function surveyValidate(iden)// added iden as an input
 
 
 	} */
+	
+	if(error==true)
+	{ 
+	$('#error'+ iden).html("Oops. One or more items has not been filled out. Please complete the item(s) above appearing in red.");
+	   
+	}
 
 	if(error==false)
 	{   
@@ -283,7 +289,8 @@ function surveyValidate(iden)// added iden as an input
 
 		if(iden=="free")
 		{   $("#free_h").hide()
-			$("#thanks").show(500)
+			//$("#thanks").show(500)
+			window.location="ThankYou.htm"; 
 		}
 
 
@@ -326,6 +333,7 @@ $("#tester").show(500);  */
 		}
 	} else {   
 	order=1;
+	$("#nationality_h").show(); 
 
 	    $("#Nation-wrapper").show(500)
 	    }
@@ -340,11 +348,13 @@ function checkPolitics()
 
 	var error = false 
 	var errmsg= ""
+	
 
 	if(party == "unselected")
 	{ error=true;
 		errmsg += "<div class='error'>Please indicate the political party you most identify with</div>";
 		$('#error-2').html(errmsg)
+		$("#GetPol-wrapper").addClass("error"); 
 	}
 	else
 	{ 
@@ -423,7 +433,9 @@ function CheckNationID()
 	{ 
 		error = true
 
-		errmsg += '<p> Please enter a nationality</p>'
+		errmsg += '<p class="error"> Please enter a nationality</p>'
+		$("#nationalityq").css('color','red'); 
+		
 
 	}
 	
@@ -434,14 +446,20 @@ function CheckNationID()
 		
 	}// add more to this later
 	
-	/*
-
 	if(error==true)
 	{
 
 		$("#error-4").html(errmsg);
 
-	} else {
+	} 
+	
+	/*
+
+	
+	
+	
+	
+	else {
 	    user_url = $("#user_url").val();
 	    $.post("core/validUrl.php", {"user_url":user_url}, function(data) {
 		    alert(data);
@@ -476,12 +494,18 @@ function FreeCheck()
 
 
 	error = false
+	
+	$("li").css('color','black');
 
 	if(nform1.length < 3)
 	{ 
 		error = true
 
 		errmsg += '<p> Please provide an appropriate answer to item 1 </p>'
+		
+		//$("#freeq1").addClass("error")
+		$("#freeq1").css('color','red');
+		
 
 		}// add more to this later
 
@@ -489,12 +513,14 @@ function FreeCheck()
 		{ error = true
 
 			errmsg += '<p> Please provide an appropriate answer to item 2 </p>'
+			//$("#freeq2").addClass("error")
+			$("#freeq2").css('color','red');
 
 		}
 
 		if(error==true)
 		{
-			$("#error-4").html(errmsg)
+			$("#error-5").html(errmsg)
 
 		}
 
@@ -526,36 +552,75 @@ function checkDemographics()
     // Do validation of input
     var error = false;
     var errmsg = "";
+	//$("li").addClass("black");
 
     if(gender==null)
 	{
 	    error=true;
 	    errmsg += "<div class='error'>Please choose an option for gender</div>";
-	}    
+		//$("#genderq").addClass("error");
+		$("#genderq").css('color','red');
+		
+	} 
+	else
+	{
+		$("#genderq").css('color','black');
+		
+		
+	}
+	   
     if(age=="unselected")
 	{
 	    error=true;
 	    errmsg += "<div class='error'>Please state the year you were born</div>";
+		$("#ageq").addClass("error");
+	}
+	else
+	{
+		$("#ageq").addClass("black")
+		
 	}
     if(loc  == "unselected")
 	{
 	    error=true;
 	    errmsg += "<div class='error'>Please indicate your current location</div>";
+		$("#locq").addClass("error");
+	}
+	else
+	{
+		$("#locq").addClass("black")
+		
 	}
     if(races.length==0)
 	{
 	    error=true;
 	    errmsg += "<div class='error'>Please indicate your ethnicity</div>";
+		$("#ethnicityq").addClass("error");
+	}
+	else
+	{
+		$("#ethnicityq").addClass("black");
 	}
     if(income==null || $.trim(income) != income.replace(/[^0-9$.,]/g,'') || !IsNumeric(income.replace(/[^0-9.]/g,'')))
 	{
 	    error=true;
 	    errmsg += "<div class='error'>Please enter a valid number for income</div>";
+		$("#incomeq").addClass("error");
+	}
+	else {
+		$("#incomeq").addClass("black");
+		
 	}
     if(education=="unselected")
 	{
 	    error=true;
 	    errmsg += "<div class='error'>Please indicate your highest level of education</div>";
+		$("#educationq").addClass("error")
+	}
+	else
+	{
+		$("#educationq").addClass("black");
+		
 	}
     // Output error message if input not valid
     if(error==false)

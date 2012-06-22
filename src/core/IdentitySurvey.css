@@ -162,6 +162,10 @@ body {
     color: red;
 }
 
+.black {
+	color: black;
+}
+
 .likert { 
     text-align: center; 
 }
