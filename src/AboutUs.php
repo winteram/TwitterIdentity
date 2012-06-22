@@ -1,3 +1,8 @@
+<?php
+// Get flag from input, write to db
+$flag = $_GET['flag'];
+
+?>
 <html>
 <head>
 <title>Group Identity Project</title>
