@@ -1,640 +1,242 @@
-function initSurvey(username, agree, agree2) {
-    $.post("core/DataWrangler.php", {"page":"new", "username":username, "agree":agree, "agree2":agree2});
+<?php 
+session_start();
+require_once('core/twitteroauth/twitteroauth.php');
+require_once('core/safe/config.inc');
+require_once 'core/locations.php';
+
+ 
+// If the oauth_token is old redirect to the connect page. 
+if (isset($_REQUEST['oauth_token']) && $_SESSION['oauth_token'] !== $_REQUEST['oauth_token']) {
+   $_SESSION['oauth_status'] = 'oldtoken';
+   session_destroy();
+   header('Location: ./Consent.php?error=1');
 }
 
-$(document).ready(function() {
-	// add years to age question
-	for(i=2000;i>1900;i--)
-	{
-		$("#age").append('<option value="'+i+'">'+i+'</option>');
-	}
+// Create TwitteroAuth object with app key/secret and token key/secret from default phase 
+$connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET,
+   $_SESSION['oauth_token'], $_SESSION['oauth_token_secret']);
 
+// Request access tokens from twitter 
+$access_token = $connection->getAccessToken($_REQUEST['oauth_verifier']);
 
-	if(Math.random() >= .5)// Randomly assign order of survey questions
-	    { order= 1}
-	else
-	    { order= 2}
+// Save the access tokens. Normally these would be saved in a database for future use. 
+$_SESSION['access_token'] = $access_token;
 
-	// show demographics questions at beginning
+// Remove no longer needed request tokens 
+unset($_SESSION['oauth_token']);
+unset($_SESSION['oauth_token_secret']);
 
-	var instructions = '<p> Welcome to the study! To start you will be asked a few demographic questions. You will then be presented a series of questions about what you identify with. The entire survey should take less than 15 minutes and could greatly help us understand how people express their identities in on-line social networks. Thanks in advance for your participation.  </p>';
+// If HTTP response is 200 continue otherwise send to connect page to retry
 
-	instructions += '<div class="ctr"><input type="button" value="Continue" onclick="getDemographics()"/></div>';
-	$("#section-header-0").show(); 
-	$("#instructions-wrapper").html(instructions);
-	$("#instructions-wrapper").show();
-	
-	// initialize auto-complete for nationalities
-	$.get("core/nationalities.csv", function(data) {
-		nationalities = data.split(",");
-		function split( val ) {
-			return val.split( /,\s*/ );
-		}
-		function extractLast( term ) {
-			return split( term ).pop();
-		}
-		$( "#national" )
-			// don't navigate away from the field on tab when selecting an item
-			.bind( "keydown", function( event ) {
-				if ( event.keyCode === $.ui.keyCode.TAB &&
-						$( this ).data( "autocomplete" ).menu.active ) {
-					event.preventDefault();
-				}
-			})
-			.autocomplete({
-				minLength: 0,
-				source: function( request, response ) {
-					// delegate back to autocomplete, but extract the last term
-					response( $.ui.autocomplete.filter(
-						nationalities, extractLast( request.term ) ) );
-				},
-				focus: function() {
-					// prevent value inserted on focus
-					return false;
-				},
-				select: function( event, ui ) {
-					var terms = split( this.value );
-					// remove the current input
-					terms.pop();
-					// add the selected item
-					terms.push( ui.item.value );
-					// add placeholder to get the comma-and-space at the end
-					terms.push( "" );
-					this.value = terms.join( "," );
-					return false;
-				}
-			});
-	});
-	
-});
-
-function getDemographics()
-{$("#section-header-0").hide();
-	$("#instructions-wrapper").hide(500);
-	$("#demographics_h").show();
-	$("#demo-wrapper").show(500);
+$_SESSION['username'] = "Failure";
+if (200 == $connection->http_code) {
+  // The user has been verified and the access tokens can be saved for future use 
+  $_SESSION['status'] = 'verified';
+  $connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, $access_token['oauth_token'], $access_token['oauth_token_secret']);
+  $user = $connection->get('account/verify_credentials');
+  $_SESSION['username'] = $user->screen_name;
+} else {
+  // Save HTTP status for error dialog on connnect page.
+  session_destroy();
+  header('Location: ./Consent.php?error=1');
 }
 
-function IsNumeric(input)
-{
-	return (input - 0) == input && input.length > 0;
-}
+?>
+<html>
+<head>
+<title>Group Identity Project</title>
+<script src="core/jquery-ui-1.8.21.custom/js/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="core/jquery-ui-1.8.21.custom/js/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
+<script src="core/IdentitySurvey.js" type="text/javascript"></script>
+<script src="core/shuffle.js" type="text/javascript"></script>
+<script type="text/javascript">$(document).ready(initSurvey(<?php echo "'" . $_SESSION['username'] . "','" . $_SESSION['agree'] . "','" . $_SESSION['agree2'] . "'"; ?>))</script>
+<link rel="shortcut icon" href="core/images/idproj.ico" type="image/x-icon" />
+<link rel='stylesheet' type='text/css'
+      href='core/jquery-ui-1.8.21.custom/css/pepper-grinder/jquery-ui-1.8.21.custom.css' />
+<link rel='stylesheet' type='text/css' href='core/IdentitySurvey.css' />
+</head>
+<body>
 
-function createLikert(id_label,name_label)
-{
-	var likert = '<table class="likert"><tr><td><input id="' + id_label +
-	'" type="radio" name="' + name_label + 
-	'" value="1" /></td><td><input type="radio" name="' + name_label + 
-	'" value="2" /></td><td><input type="radio" name="' + name_label + 
-	'" value="3" /></td><td><input type="radio" name="' + name_label + 
-	'" value="4" /></td><td><input type="radio" name="' + name_label + 
-	'" value="5" /></td><td><input type="radio" name="' + name_label + 
-	'" value="6" /></td><td><input type="radio" id="' + id_label + 
-	'" name="' + name_label + 
-	'" value="7" /></td></tr>' +
-	'<tr><td>Strongly Disagree</td>' +
-	'<td></td>' +
-	'<td></td>' +
-	'<td></td>' +
-	'<td></td>' +
-	'<td></td>' +
-	'<td>Strongly Agree</td></tr></table>';
+<div class="header"> 
+  <span id="idproj-hdr"><img src="core/images/idproj.jpg">
+  <img src="core/images/idproj_title.jpg" alt="The Group Identity
+  Project"></span>
+</div>
 
-	return likert;
-}
-
-
-//Insert political affiliation into sentences with the right noun form
-
-function displayQ(form1, form2, iden) // added iden as the third input
-{	
-
-	var i;
-
-	//var clear = ''
-
-	//$("displayQ-wrapper").html(clear);// reset the display wrapper so it doesn't store previous questions. 
-
-	var wrapper = "#displayQ-wrapper_" + iden // There is a different wrapper for each survey type.
-	var sent = []; 
+<div class="section-header" id="section-header-0">Instructions</div>
+<div id="instructions-wrapper" class="wrapper">
+  <div id="base-instructions" class="instructions">
+  </div>
+</div>
 	
-	
-	form2_c= capitalize(form2); // captilizes first letter, when necessary. 
+<div class="section-header" id="demographics_h">Demographics</div>
+<div class="section-header" id="section-header-1">About you</div>
+<div id="demo-wrapper" class="wrapper">
+    <form id="demographics">
+        <ol>
+            <li><p>Gender</p>
+                <p> 
+                    <input id="gender_male" name="gender" type="radio" value="Male"/>
+                    <label for="gender_male">Male</label>
+                <br>     
+                    <input id="gender_female" name="gender" type="radio" value="Female"/>
+                    <label for="gender_female">Female</label>
+                <br>     
+                    <input id="gender_none" name="gender" type="radio" value="none"/>
+                    <label for="gender_none">Decline to answer</label>
+                </p>
+            </li>            
+            <li><p><label for="age">Year of Birth</label></p>
+                <span> 
+                    <select id="age" name="age">
+                        <option value="unselected" selected="selected"></option>
+	 				</select>
+                </span> 
+            </li>         
+            <li>
+              <p> 
+                <label for="loc">Location</label>        
+              </p> 
+              <p> 
+		<select name="country" id= "sel_country">
+		  <?php foreach($Countries as $abbr => $country)
+		  echo "<option value=" . $abbr . ">" . $country . "</option>"; 
+		  ?>
+		</select>
+              </p> 
+              
+            </li>         
+            <li>
+                <p>Ethnicity</p>
+                <p>      
+                    <input id="race_white" name="race" type="checkbox" value="White"/> 
+                    <label for="race_white">White</label>
+                <br>      
+                    <input id="race_black" name="race" type="checkbox" value="Black"/> 
+                    <label for="race_black">Black, African-American, or Negro</label>
+                <br>    
+                    <input id="race_latino" name="race" type="checkbox" value="Latino"/> 
+                    <label for="race_latino">Hispanic or Latino</label>
+                <br>
+                    <input id="race_indian" name="race" type="checkbox" value="Indian"/> 
+                    <label for="race_indian">Asian Indian</label>
+                <br> 
+                    <input id="race_asian" name="race" type="checkbox" value="Asian"/> 
+                    <label for="race_asian">Other Asian</label>
+                <br>
+                    <input id="race_hawaii" name="race" type="checkbox" value="Hawaiian"/> 
+                    <label for="race_hawaii">Hawaiian, Pacific Islander</label>
+                <br> 
+                    <input id="race_amind" name="race" type="checkbox" value="AmInd"/> 
+                    <label for="race_amind">American Indian or Alaskan Native</label>
+                <br> 
+                    <input id="race_other" name="race" type="checkbox" value="Other"/> 
+                    <label for="race_other">Other</label>
+                </p>
+            </li>         
+            <li>
+                <p> 
+                    <label for="income">Annual Income (in US dollars; click <a href="http://finance.yahoo.com/currency-converter/?u#from=GBP;to=USD;amt=1" target="_blank">here</a> for currency conversion)</label>        
+                </p> 
+                <p>
+                    <input id="income" name="income" type="text"/> 
+                </p> 
+            </li>         
+            <li>
+                <p> 
+                    <label for="edu">Highest education level attained</label>        
+                </p> 
+                <p>
+                    <select id="edu" name="edu"> 
+                        <option value="unselected" selected="selected"></option>
+                        <option value="none">No schooling completed, or less than 1 year</option>
+                        <option value="elem">Nursery, kindergarten, and elementary (grades 1-8)</option>
+                        <option value="high">High school (grades 9-12, no degree)</option>
+                        <option value="hs">High school graduate (or equivalent)</option>
+                        <option value="college">Some college (1-4 years, no degree)</option>
+                        <option value="as">Associate's degree (including occupational or academic degrees)</option>
+                        <option value="bs">Bachelor's degree (BA, BS, AB, etc)</option>
+                        <option value="ms">Master's degree (MA, MS, MENG, MSW, etc)</option>
+                        <option value="md">Professional school degree (MD, DDC, JD, etc)</option>
+                        <option value="phd">Doctorate degree (PhD, EdD, etc)</option>
+                    </select>
+                </p> 
+            </li>
+        </ol>
+		<div id="error-1"></div>
+        <input type="button" value="Submit Demographics" onClick="checkDemographics()"/>
+    </form>
     
-	
-	if(iden=="pol")
-	{
-	var sent = new Array();
-	sent.push('I feel a bond with ' + form2);
-	sent.push('I feel solidarity with ' + form2);
-	sent.push('I feel committed to ' + form2);
-	sent.push('I am glad to be a ' + form1);
-	sent.push('I think that ' + form2 + ' have a lot to be proud of');
-	sent.push('It is pleasant to be a ' + form1);
-	sent.push('Being a ' + form1 + ' gives me a good feeling');
-	sent.push('I often think about the fact that I am a ' + form1);
-	sent.push('The fact that I am a ' + form1 + ' is an important part of my identity');
-	sent.push('Being a ' + form1 + ' is an important part of how I see myself');
-	sent.push('I have a lot in common with the average ' + form1);
-	sent.push('I am similar to the average ' + form1); // This one is modified slightly
-	sent.push(form2_c + ' have a lot in common with each other');
-	sent.push(form2_c + ' are very similar to each other');
-	}
-	else
-	{
-		var sent = new Array();
-	sent.push('I feel a bond with ' + form2);
-	sent.push('I feel solidarity with ' + form2);
-	sent.push('I feel committed to ' + form2);
-	sent.push('I am glad to be ' + form1);
-	sent.push('I think that ' + form2 + ' have a lot to be proud of');
-	sent.push('It is pleasant to be ' + form1);
-	sent.push('Being ' + form1 + ' gives me a good feeling');
-	sent.push('I often think about the fact that I am ' + form1);
-	sent.push('The fact that I am ' + form1 + ' is an important part of my identity');
-	sent.push('Being ' + form1 + ' is an important part of my identity');
-	sent.push('I have a lot in common with the average ' + form1);
-	sent.push('I am similar to the average ' + form1); // This one is modified slightly
-	sent.push(form2_c + ' have a lot in common with each other');
-	sent.push(form2_c + ' are very similar to each other');
-		
-		
-	}
+</div>
 
 
 
-	for(i=0; i<sent.length; i++)
-	{
-		likert = createLikert( iden + 'likert_' + i, iden + '_agree_' + i);
-	
-		// $("divname").css('color','red');
 
-		$(wrapper).append('<div> <li id = "err'+ iden + i + '">' + sent[i]  + '</li> <p>' + likert + '</p></div>')
-		//$("#displayQ-wrapper").append('<li>'+ sent[i]  + '</li><p>' + likert + '</p>');
-	}
 
-    $(wrapper).shuffle(); 
 
 
-	$(wrapper).append('<div id="error'+ iden +'" class="error"/>')// appends a unique error id for each section
+<div class="section-header" id="politics_h">Politics</div>
+<div id="GetPol-wrapper" class="wrapper">
 
-	//$("#displayQ-wrapper").append('<div id = "error3" class = "error"> </div>'); // put the code for where the error message will go above the button
-	
+  <p> Which US political party do you most identify with?</p>
+ 
 
-	$(wrapper).append( '<input type="button" value="Continue" onclick = "surveyValidate(\'' + iden +'\')"/>')
-	//$("#displayQ-wrapper").append('<div> <input type="button" value="Continue" onclick = "surveyValidate(\'' + iden +'\')"/></div>'); 
+  <label for = "party"> Party </label>
+  <select id ="affiliation" name= "party">
+    <option value= "unselected" selected= "selected"></option>
+    <option value= "Democrat"> Democratic Party </option>
+    <option value = "Republican"> Republican Party </option>
+    <option value = "Constitution"> Constitution Party </option>
+    <option value = "Green"> Green Party </option>
+    <option value = "Libertarian"> Libertarian Party </option>
+  </select>
+ 
+  <div id="error-2"></div>
+  <input type="button" value="Submit Political Party" onClick="checkPolitics()"/>
+ 
+ 
+</div>
 
-	$("#GetPol-wrapper").hide(500); // might have to do some conditionals here with "iden" if the current wrapper is not hiding
-	//$("#displayQ-wrapper").show(500);
+<div class="section-header" id="nationality_h"> Nationality</div>
+<ol id="Nation-wrapper" class="wrapper">
 
-    
+ <p> In this section you will be indicating which nationality or nationalities you identify with. In the text box below you will start to type your nationality. As you type, options will appear in a drop down menu below the text box.</p>
+ <p> <b>*Important:</b> for our system to register your choice, you must <b>CLICK</b> on the drop down item corresponding with your nationality/nationalities. When you select a nationality from the menu, a comma (",") will be inserted after it. If you identify with more than one nationality, simply begin typing each additional nationality after the ones you have previously listed. Again, as you type options will appear in the drop menu, please click the one corresponding to the nationality identify with. <p>
+ <div class="ui-widget"> I see myself as <input id="national" name="nationality" size="50"/></div>
+ <div id="error-4" class="error"></div>       
+  
+<input type="button" value="Submit" onClick= "CheckNationID()"/>
+        
+</ol>
+ 
+<div class="section-header" id="free_h"> Free Response Identity</div>
+<ol id="FreeForm-wrapper" class="wrapper">
 
-	$(wrapper).show(500);	
+<p>We all have groups we identify with. In a given moment we may see ourselves as Democrats, or Americans, Germans, Fathers, Mac People, Women, Teachers, Soccer Players, etc. For this part, we would like you to think about something you strongly identify with, something that you feel is important to understanding who you are. We realize you have many identities, but for the sake of this study, please type just one in the box below.</p>
+ <li> I see myself as a <input id="free1" name="freeform1" type="text"/></li>
+ <br />
+ <li> I identify with other <input id ="free2" name = "freeform2" type="text"/> </li>
+ <p> In the box below, please put a website that relates to your identity </p>
+  <li><input id ="user_url" name = "user_url" type="text"/></li>
+ <div id="error-5" class="error"></div>       
+ <input type="button" value="Submit" onClick= "FreeCheck()"/>
+              
+</ol>
+ 
 
-}
 
-function surveyValidate(iden)// added iden as an input
-{
+<ol id="displayQ-wrapper_pol" class= "wrapper">
 
+</ol>
 
-	var j = 0;
-	var error = false; 
-	$("li").css('color','black')
-	//var errmsg= ''; 
+<ol id="displayQ-wrapper_nat" class= "wrapper">
 
+</ol>
 
-	//var error3= '<div id="error'+ iden +'" class="error"/>'
-	
-	// $("displayQ").children("div").each(function(index) {
-	//	errmsg += '<p> Please provide an answer to question ' + index + '</p>';
-	// });
-	var qdata = {};
-	for(i=0; i <= 13; i++)
-	{
-		//j += 1; 
+<ol id="displayQ-wrapper_free" class= "wrapper">
 
-		var intermed= iden + '_agree_' + i ; // Used iden to fill in the pre-fix
+</ol>
 
-		qput= 'input[name = ' + intermed + ']:checked';
+<div id="thanks" class="wrapper"> Thanks for participating! <div>
 
-		Q_input = $(qput).val();
-
-		var wrapper = "#displayQ-wrapper_" + iden
-
-
-
-
-
-		//Q_input= $('input[name=pol_agree_+i]:checked').val(); 
-
-		if(Q_input == null)
-		{
-			var errorid = '#err' + iden + i; 
-			error = true;
-			$(errorid).css('color','#F00'); 
-		}
-		else
-		{
-		    qdata[iden + i] = Q_input;
-		}
-
-	}
-
-
-	/*if(error==true)
-	{
-
-
-		$('#error'+ iden).html(errmsg); 
-
-
-	} */
-	
-	if(error==true)
-	{ 
-	$('#error'+ iden).html("Oops. One or more items has not been filled out. Please complete the item(s) above appearing in red.");
-	   
-	}
-
-	if(error==false)
-	{   
-	    $.post("core/DataWrangler.php", {page:iden, data:qdata});
-	    $(wrapper).hide(500); 
-	    
-
-		if(iden=="pol")
-		{   $("#politics_h").hide();
-			if(order==1)
-			{   $("#nationality_h").show();
-				$("#Nation-wrapper").show(500);
-			}
-			else
-			{   $("#free_h").show()
-				$("#FreeForm-wrapper").show(500); 
-			}
-
-		}
-		if(iden=="nat")
-		{   $("#nationality_h").hide();
-			if(order==1)
-			{   $("#free_h").show()
-				$("#FreeForm-wrapper").show(500)
-			} 
-			else
-			{   $("#politics_h").show()
-				$("#GetPol-wrapper").show(500)
-			}
-
-		}
-
-		if(iden=="free")
-		{   $("#free_h").hide()
-			//$("#thanks").show(500)
-			window.location="ThankYou.htm"; 
-		}
-
-
-
-	}
-
-}
-
-
-
-
-// Need to insert other branches this use the "order" variable to determine sequences as wel 
-function DecideOrder(location)
-
-{
-
-	/*if( location == 'us' || order== 1)
-
-{
-$("#GetPol-wrapper").show(500);
-}
-else
-{
-$("#Nation-wrapper").show(500)
-
-
-} 
-$("#tester").append('<p> Show something please! <p>');
-$("#tester").show(500);  */
-
-    if(location == "us")
-	{
-	    if(order==1) 
-		{    $("#politics_h").show()
-		    $("#GetPol-wrapper").show(500);
-		}
-	    else 
-		{   $("#nationality_h").show(); 
-		    $("#Nation-wrapper").show(500);
-		}
-	} else {   
-	order=1;
-	$("#nationality_h").show(); 
-
-	    $("#Nation-wrapper").show(500)
-	    }
-} 
-
-
-
-
-function checkPolitics()
-{
-	party =$("#affiliation option:selected").val();
-
-	var error = false 
-	var errmsg= ""
-	
-
-	if(party == "unselected")
-	{ error=true;
-		errmsg += "<div class='error'>Please indicate the political party you most identify with</div>";
-		$('#error-2').html(errmsg)
-		$("#GetPol-wrapper").addClass("error"); 
-	}
-	else
-	{ 
-		if(party=="Democrat")
-		{ 
-			var pform1="Democrat"
-			var pform2="Democrats"
-		}
-
-		if(party=="Republican")
-
-		{ 
-			var pform1="Republican"
-			var pform2="Republicans"
-		}
-		if(party=="Constitution")
-		{ 
-			var pform1="Constitution Party member"
-			var pform2="Constitution Party members"
-		}
-		if(party=="Green")
-		{ 
-			var pform1="Green Party member"
-			var pform2="Green Party members"
-		}
-		if(party=="Libertarian")
-		{
-			var pform1="Libertarian"
-			var pform2="Libertarians"
-		}
-
-		$("#GetPol-wrapper").hide(500); 
-		displayQ(pform1, pform2, "pol") 
-	}
-
-
-}
-
-function capitalize(string)
-{
-    return string.charAt(0).toUpperCase() + string.slice(1);
-	
-}
-
-function CheckNationID()
-{ 
-    // take list of nations, split into array
-    nation_list = $("#national").val().slice(0,-1).split(',');
-    nform1 = nation_list.join('-');
-    
-	n_end = nform1.slice(-1)
-	n_ese= nform1.slice(-3)
-	//n_ch= nform1.slice(-2)
-	
-	if(n_end == "s" || n_end == "x" || n_end == "z" || n_end =="h" || n_ese == "ese")
-	{
-		nform2=nform1
-	}
-	else 
-	{
-   
-    nform2 = nform1 + "s";
-	
-	}
-	
-	
-	
-	// create array of exceptions to 's' rule
-    // check if last nation is exception
-    //nform2 = nform1 + "s";
-    errmsg=''
-
-	var error = false
-
-	if(nform1.length < 3)
-	{ 
-		error = true
-
-		errmsg += '<p class="error"> Please enter a nationality</p>'
-		$("#nationalityq").css('color','red'); 
-		
-
-	}
-	
-	else
-	{
-		$("#Nation-wrapper").hide(500);
-			displayQ(nform1,nform2,"nat");
-		
-	}// add more to this later
-	
-	if(error==true)
-	{
-
-		$("#error-4").html(errmsg);
-
-	} 
-	
-	/*
-
-	
-	
-	
-	
-	else {
-	    user_url = $("#user_url").val();
-	    $.post("core/validUrl.php", {"user_url":user_url}, function(data) {
-		    alert(data);
-		    if(data==1) {
-			$("#Nation-wrapper").hide(500);
-			displayQ(nform1,nform2,"nat");
-		    } else {
-			$("#error-4").html("Enter a valid URL");
-		    }
-		});
-	}
-
-*/
-
-
-
-}
-
-function FreeCheck()
-{ 
-	nform1 = $("#free1").val()
-	nform2 = $("#free2").val()
-	errmsg=''
-	
-	//nform1 = capitalize(nform1) 
-	//nform2 = capitalize(nform2)
-	
-	//nform1 = nform1.charAt(0).toUpperCase() + nform1.slice(1);
-	//nform2 = nform2.charAt(0).toUpperCase() + nform1.slice(1); 
-	
-	
-
-
-	error = false
-	
-	$("li").css('color','black');
-
-	if(nform1.length < 3)
-	{ 
-		error = true
-
-		errmsg += '<p> Please provide an appropriate answer to item 1 </p>'
-		
-		//$("#freeq1").addClass("error")
-		$("#freeq1").css('color','red');
-		
-
-		}// add more to this later
-
-		if(nform2.length < 3)
-		{ error = true
-
-			errmsg += '<p> Please provide an appropriate answer to item 2 </p>'
-			//$("#freeq2").addClass("error")
-			$("#freeq2").css('color','red');
-
-		}
-
-		if(error==true)
-		{
-			$("#error-5").html(errmsg)
-
-		}
-
-		else 
-		{
-			$("#FreeForm-wrapper").hide(500)
-			displayQ(nform1,nform2,"free")
-		}
-
-}
-
-function checkDemographics()
-{
-    gender = $("input[name=gender]:checked").val();
-    age = $("#age option:selected").val();
-    loc = $("#sel_country option:selected").val();
-    races = [];
-    $("input[name=race]:checked").each(function() { races.push($(this).val()); });
-    income = $("#income").val();
-    education = $("#edu option:selected").val();
-
-    // alert(income+"\n"+parseFloat(income)+"\n");
-    // $.get('getLocation.php', 
-    //         { 'q': loc},
-    //         function(data) {
-    //             alert(data);
-    //         });
-
-    // Do validation of input
-    var error = false;
-    var errmsg = "";
-	//$("li").addClass("black");
-
-    if(gender==null)
-	{
-	    error=true;
-	    errmsg += "<div class='error'>Please choose an option for gender</div>";
-		//$("#genderq").addClass("error");
-		$("#genderq").css('color','red');
-		
-	} 
-	else
-	{
-		$("#genderq").css('color','black');
-		
-		
-	}
-	   
-    if(age=="unselected")
-	{
-	    error=true;
-	    errmsg += "<div class='error'>Please state the year you were born</div>";
-		$("#ageq").addClass("error");
-	}
-	else
-	{
-		$("#ageq").addClass("black")
-		
-	}
-    if(loc  == "unselected")
-	{
-	    error=true;
-	    errmsg += "<div class='error'>Please indicate your current location</div>";
-		$("#locq").addClass("error");
-	}
-	else
-	{
-		$("#locq").addClass("black")
-		
-	}
-    if(races.length==0)
-	{
-	    error=true;
-	    errmsg += "<div class='error'>Please indicate your ethnicity</div>";
-		$("#ethnicityq").addClass("error");
-	}
-	else
-	{
-		$("#ethnicityq").addClass("black");
-	}
-    if(income==null || $.trim(income) != income.replace(/[^0-9$.,]/g,'') || !IsNumeric(income.replace(/[^0-9.]/g,'')))
-	{
-	    error=true;
-	    errmsg += "<div class='error'>Please enter a valid number for income</div>";
-		$("#incomeq").addClass("error");
-	}
-	else {
-		$("#incomeq").addClass("black");
-		
-	}
-    if(education=="unselected")
-	{
-	    error=true;
-	    errmsg += "<div class='error'>Please indicate your highest level of education</div>";
-		$("#educationq").addClass("error")
-	}
-	else
-	{
-		$("#educationq").addClass("black");
-		
-	}
-    // Output error message if input not valid
-    if(error==false)
-	{
-	    $.post("core/DataWrangler.php", {"page":"demog", "data":{"gender":gender,"age":age,"loc":loc,"races":races,"income":income,"edu":education} });
-	    $("#demographics_h").hide();
-	    $("#demo-wrapper").hide(500);
-	    DecideOrder(loc);
-
-
-	}
-    else
-	{
-	    $('#error-1').html(errmsg);
-	}
-}
-
+<div id="tester" class="wrapper"></div>
