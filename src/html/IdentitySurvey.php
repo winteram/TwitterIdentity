@@ -63,6 +63,7 @@ if (200 == $connection->http_code) {
   Project"></span>
 </div>
 
+<div id="username" style="display:none"><?php echo $_SESSION['username']; ?></div>
 <div class="section-header" id="section-header-0">Instructions</div>
 <div id="instructions-wrapper" class="wrapper">
   <div id="base-instructions" class="instructions">
@@ -76,13 +77,13 @@ if (200 == $connection->http_code) {
         <ol>
             <li><p>Gender</p>
                 <p> 
-                    <input id="gender_male" name="gender" type="radio" value="Male"/>
+                    <input id="gender_male" name="gender" type="radio" value="M"/>
                     <label for="gender_male">Male</label>
                 <br>     
-                    <input id="gender_female" name="gender" type="radio" value="Female"/>
+                    <input id="gender_female" name="gender" type="radio" value="F"/>
                     <label for="gender_female">Female</label>
                 <br>     
-                    <input id="gender_none" name="gender" type="radio" value="none"/>
+                    <input id="gender_none" name="gender" type="radio" value="decline"/>
                     <label for="gender_none">Decline to answer</label>
                 </p>
             </li>            
@@ -109,28 +110,28 @@ if (200 == $connection->http_code) {
             <li>
                 <p>Ethnicity</p>
                 <p>      
-                    <input id="race_white" name="race" type="checkbox" value="White"/> 
+                    <input id="race_white" name="race" type="checkbox" value="white"/> 
                     <label for="race_white">White</label>
                 <br>      
-                    <input id="race_black" name="race" type="checkbox" value="Black"/> 
+                    <input id="race_black" name="race" type="checkbox" value="black"/> 
                     <label for="race_black">Black, African-American, or Negro</label>
                 <br>    
-                    <input id="race_latino" name="race" type="checkbox" value="Latino"/> 
+                    <input id="race_latino" name="race" type="checkbox" value="latino"/> 
                     <label for="race_latino">Hispanic or Latino</label>
                 <br>
-                    <input id="race_indian" name="race" type="checkbox" value="Indian"/> 
+                    <input id="race_indian" name="race" type="checkbox" value="indian"/> 
                     <label for="race_indian">Asian Indian</label>
                 <br> 
-                    <input id="race_asian" name="race" type="checkbox" value="Asian"/> 
+                    <input id="race_asian" name="race" type="checkbox" value="asian"/> 
                     <label for="race_asian">Other Asian</label>
                 <br>
-                    <input id="race_hawaii" name="race" type="checkbox" value="Hawaiian"/> 
+                    <input id="race_hawaii" name="race" type="checkbox" value="hawaiian"/> 
                     <label for="race_hawaii">Hawaiian, Pacific Islander</label>
                 <br> 
-                    <input id="race_amind" name="race" type="checkbox" value="AmInd"/> 
+                    <input id="race_amind" name="race" type="checkbox" value="amind"/> 
                     <label for="race_amind">American Indian or Alaskan Native</label>
                 <br> 
-                    <input id="race_other" name="race" type="checkbox" value="Other"/> 
+                    <input id="race_other" name="race" type="checkbox" value="other"/> 
                     <label for="race_other">Other</label>
                 </p>
             </li>         
@@ -151,8 +152,8 @@ if (200 == $connection->http_code) {
                         <option value="unselected" selected="selected"></option>
                         <option value="none">No schooling completed, or less than 1 year</option>
                         <option value="elem">Nursery, kindergarten, and elementary (grades 1-8)</option>
-                        <option value="high">High school (grades 9-12, no degree)</option>
-                        <option value="hs">High school graduate (or equivalent)</option>
+                        <option value="hs">High school (grades 9-12, no degree)</option>
+                        <option value="hsgrad">High school graduate (or equivalent)</option>
                         <option value="college">Some college (1-4 years, no degree)</option>
                         <option value="as">Associate's degree (including occupational or academic degrees)</option>
                         <option value="bs">Bachelor's degree (BA, BS, AB, etc)</option>
@@ -184,11 +185,11 @@ if (200 == $connection->http_code) {
   <label for = "party"> Party </label>
   <select id ="affiliation" name= "party">
     <option value= "unselected" selected= "selected"></option>
-    <option value= "Democrat"> Democratic Party </option>
-    <option value = "Republican"> Republican Party </option>
-    <option value = "Constitution"> Constitution Party </option>
-    <option value = "Green"> Green Party </option>
-    <option value = "Libertarian"> Libertarian Party </option>
+    <option value= "democrat"> Democratic Party </option>
+    <option value = "republican"> Republican Party </option>
+    <option value = "constitution"> Constitution Party </option>
+    <option value = "green"> Green Party </option>
+    <option value = "libertarian"> Libertarian Party </option>
   </select>
  
   <div id="error-2"></div>

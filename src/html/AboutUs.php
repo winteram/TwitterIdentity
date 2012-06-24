@@ -1,6 +1,15 @@
 <?php
+// Get data for accessing database
+require_once('core/safe/db.inc');
+global $dbh;
+
 // Get flag from input, write to db
-$flag = $_GET['flag'];
+$flag = isset($_GET['flag']) ? $_GET['flag'] : "unknown";
+
+$rqst = $dbh->prepare("INSERT INTO visitors SET username=:uname");
+$rqst->bindParam(':uname',$flag, PDO::PARAM_STR);
+$rqst->execute();
+
 
 ?>
 <html>

@@ -1,5 +1,8 @@
 function initSurvey(username, agree, agree2) {
-    $.post("core/DataWrangler.php", {"page":"new", "username":username, "agree":agree, "agree2":agree2});
+    $.post("core/DataWrangler.php", {"page":"new", "username":username, "agree":agree, "agree2":agree2}, function(error) {
+	    if(error == "ERR: username not set") { window.location="Consent.php?error=1"; } 
+	    else if(error == "ERR: invalid page") { alert("Invalid page id sent to DataWrangler"); } 
+	});
 }
 
 $(document).ready(function() {
@@ -178,7 +181,8 @@ function displayQ(form1, form2, iden) // added iden as the third input
 
 	$(wrapper).append('<div id="error'+ iden +'" class="error"/>')// appends a unique error id for each section
 
-	//$("#displayQ-wrapper").append('<div id = "error3" class = "error"> </div>'); // put the code for where the error message will go above the button
+	//$("#displayQ-wrapper").append('<div id = "error3" class = "error"> </div>'); 
+	// put the code for where the error message will go above the button
 	
 
 	$(wrapper).append( '<input type="button" value="Continue" onclick = "surveyValidate(\'' + iden +'\')"/>')
@@ -220,10 +224,6 @@ function surveyValidate(iden)// added iden as an input
 		Q_input = $(qput).val();
 
 		var wrapper = "#displayQ-wrapper_" + iden
-
-
-
-
 
 		//Q_input= $('input[name=pol_agree_+i]:checked').val(); 
 
@@ -625,7 +625,8 @@ function checkDemographics()
     // Output error message if input not valid
     if(error==false)
 	{
-	    $.post("core/DataWrangler.php", {"page":"demog", "data":{"gender":gender,"age":age,"loc":loc,"races":races,"income":income,"edu":education} });
+	    username = $("#username").html();
+	    $.post("core/DataWrangler.php", {"page":"demog", "username":username, "data":{"gender":gender,"age":age,"loc":loc,"races":races,"income":income,"edu":education} });
 	    $("#demographics_h").hide();
 	    $("#demo-wrapper").hide(500);
 	    DecideOrder(loc);

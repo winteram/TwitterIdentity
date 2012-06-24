@@ -1,3 +1,5 @@
+
+
 <html>
 <head>
 <title>Group Identities on Twitter</title>
@@ -33,6 +35,11 @@ function verify_consent()
   Project"></span>
 </div>
 
+<?php
+   if( isset($_GET['error']) ) {
+     echo "<div class='error'> We're sorry, there was a problem with the authentication through Twitter.  Please try again. </div>";
+   }
+?>
 <div id="consent-form">
 
 <h2 style="text-align:center">INFORMED CONSENT</h2>
