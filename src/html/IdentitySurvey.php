@@ -201,10 +201,22 @@ if (200 == $connection->http_code) {
 <div class="section-header" id="nationality_h"> Nationality</div>
 <ol id="Nation-wrapper" class="wrapper">
 
- <p> In this section you will be indicating which nationality or nationalities you identify with. In the text box below you will start to type your nationality. As you type, options will appear in a drop down menu below the text box.</p>
- <p> <b>*Important:</b> for our system to register your choice, you must <b>CLICK</b> on the drop down item corresponding with your nationality/nationalities. When you select a nationality from the menu, a comma (",") will be inserted after it. If you identify with more than one nationality, simply begin typing each additional nationality after the ones you have previously listed. Again, as you type options will appear in the drop menu, please click the one corresponding to the nationality identify with. <p>
- <div class="ui-widget"> I see myself as <input id="national" name="nationality" size="50"/></div>
- <div id="error-4" class="error"></div>       
+ <p> In this section you will be indicating which nationality or
+ nationalities you identify with. In the text box below you will start to
+ type your nationality. As you type, options will appear in a drop down
+ menu below the text box.</p> 
+
+ <p> <b>*Important:</b> for our system to register your choice, you must
+ <b>CLICK</b> on the drop down item corresponding with your
+ nationality/nationalities. When you select a nationality from the menu, a
+ comma (",") will be inserted after it. If you identify with more than one
+ nationality, simply begin typing each additional nationality after the
+ ones you have previously listed. Again, as you type options will appear in
+ the drop menu, please click the one corresponding to the nationality
+ identify with. </p> 
+
+ <div class="ui-widget"> I see myself as <input id="national" name="nationality" size="50"/></div> 
+ <div id="error-4" class="error"> </div>
   
 <input type="button" value="Submit" onClick= "CheckNationID()"/>
         
@@ -226,15 +238,15 @@ if (200 == $connection->http_code) {
  
 
 
-<ol id="displayQ-wrapper_pol" class= "wrapper">
+<ol id="displayQ-wrapper_party" class= "wrapper">
 
 </ol>
 
-<ol id="displayQ-wrapper_nat" class= "wrapper">
+<ol id="displayQ-wrapper_nation" class= "wrapper">
 
 </ol>
 
-<ol id="displayQ-wrapper_free" class= "wrapper">
+<ol id="displayQ-wrapper_own" class= "wrapper">
 
 </ol>
 

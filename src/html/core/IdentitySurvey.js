@@ -122,7 +122,7 @@ function displayQ(form1, form2, iden) // added iden as the third input
     form2_c= capitalize(form2); // captilizes first letter, when necessary. 
     
 	
-    if(iden=="pol")
+    if(iden=="party")
 	{
 	    var sent = new Array();
 	    sent.push('I feel a bond with ' + form2);
@@ -235,10 +235,11 @@ function surveyValidate(iden)// added iden as an input
 
 	if(error==false)
 	{   
-	    $.post("core/DataWrangler.php", {page:iden, data:qdata});
+	    username = $("#username").html();
+	    $.post("core/DataWrangler.php", {"page":iden, "username":username, "data":qdata});
 	    $(wrapper).hide(500); 
 
-	    if(iden=="pol")
+	    if(iden=="party")
 		{   
 		    $("#politics_h").hide();
 		    if(order==1)
@@ -252,7 +253,7 @@ function surveyValidate(iden)// added iden as an input
 			    $("#FreeForm-wrapper").show(500); 
 			}
 		}
-	    if(iden=="nat")
+	    if(iden=="nation")
 		{   
 		    $("#nationality_h").hide();
 		    if(order==1)
@@ -266,7 +267,7 @@ function surveyValidate(iden)// added iden as an input
 			    $("#GetPol-wrapper").show(500);
 			}
 		}
-	    if(iden=="free")
+	    if(iden=="own")
 		{   
 		    $("#free_h").hide();
 		    //$("#thanks").show(500);
@@ -334,36 +335,35 @@ function checkPolitics()
 	}
 	else
 	{ 
-	    if(party=="Democrat")
+	    if(party=="democrat")
 		{ 
 		    var pform1="Democrat";
 		    var pform2="Democrats";
 		}
-	    if(party=="Republican")
+	    if(party=="republican")
 		{ 
 		    var pform1="Republican";
 		    var pform2="Republicans";
 		}
-	    if(party=="Constitution")
+	    if(party=="constitution")
 		{ 
 		    var pform1="Constitution Party member";
 		    var pform2="Constitution Party members";
 		}
-	    if(party=="Green")
+	    if(party=="green")
 		{ 
 		    var pform1="Green Party member";
 		    var pform2="Green Party members";
 		}
-	    if(party=="Libertarian")
+	    if(party=="libertarian")
 		{
 		    var pform1="Libertarian";
 		    var pform2="Libertarians";
 		}
 	    username = $("#username").html();
-	    $.post("core/DataWrangler.php", {"page":"polform", "username":username, "data":{"nform1":pform1,"nform2":pform2} });
-
 	    $("#GetPol-wrapper").hide(500); 
-	    displayQ(pform1, pform2, "pol");
+	    displayQ(pform1, pform2, "party");
+	    $.post("core/DataWrangler.php", {"page":"polform", "username":username, "party":party });
 	}
 }
 
@@ -407,9 +407,9 @@ function CheckNationID()
     else
 	{
 	    username = $("#username").html();
-	    $.post("core/DataWrangler.php", {"page":"natform", "username":username, "data":{"nform1":nform1,"nform2":nform2} });
+	    $.post("core/DataWrangler.php", {"page":"natform", "username":username, "nationality":nform1 });
 	    $("#Nation-wrapper").hide(500);
-	    displayQ(nform1,nform2,"nat");
+	    displayQ(nform1,nform2,"nation");
 		
 	}// add more to this later
 	
@@ -425,7 +425,7 @@ function CheckNationID()
 		    alert(data);
 		    if(data==1) {
 			$("#Nation-wrapper").hide(500);
-			displayQ(nform1,nform2,"nat");
+			displayQ(nform1,nform2,"nation");
 		    } else {
 			$("#error-4").html("Enter a valid URL");
 		    }
@@ -434,10 +434,15 @@ function CheckNationID()
 	*/
 }
 
+function validURL(userURL){
+    return /((http|https):\/\/(\w+:{0,1}\w*@)?(\S+)|)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/.test(userURL);
+}
+
 function FreeCheck()
 { 
     nform1 = $("#free1").val();
     nform2 = $("#free2").val();
+    userURL = $("#user_url").val();
     errmsg='';
 	
     //nform1 = capitalize(nform1) 
@@ -467,6 +472,13 @@ function FreeCheck()
 	    //$("#freeq2").addClass("error")
 	    $("#freeq2").css('color','red');
 	}
+    if(!validURL(userURL))
+	{ 
+	    error = true;
+	    errmsg += '<p> Please provide a valid URL </p>';
+	    //$("#freeq2").addClass("error")
+	    $("#freeq2").css('color','red');
+	}    
     if(error==true)
 	{
 	    $("#error-5").html(errmsg);
@@ -474,9 +486,9 @@ function FreeCheck()
     else 
 	{
 	    username = $("#username").html();
-	    $.post("core/DataWrangler.php", {"page":"freeform", "username":username, "data":{"nform1":nform1,"nform2":nform2} });
+	    $.post("core/DataWrangler.php", {"page":"freeform", "username":username, "data":{"ownform1":nform1,"ownform2":nform2, "ownURL":userURL} });
 	    $("#FreeForm-wrapper").hide(500);
-	    displayQ(nform1,nform2,"free");
+	    displayQ(nform1,nform2,"own");
 	}
 }
 
