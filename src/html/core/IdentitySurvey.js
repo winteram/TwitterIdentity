@@ -111,192 +111,168 @@ function createLikert(id_label,name_label)
 
 function displayQ(form1, form2, iden) // added iden as the third input
 {	
+    var i;
+    
+    //var clear = ''
+    //$("displayQ-wrapper").html(clear);// reset the display wrapper so it doesn't store previous questions. 
 
-	var i;
-
-	//var clear = ''
-
-	//$("displayQ-wrapper").html(clear);// reset the display wrapper so it doesn't store previous questions. 
-
-	var wrapper = "#displayQ-wrapper_" + iden // There is a different wrapper for each survey type.
-	var sent = []; 
+    var wrapper = "#displayQ-wrapper_" + iden; // There is a different wrapper for each survey type.
+    var sent = []; 
 	
-	
-	form2_c= capitalize(form2); // captilizes first letter, when necessary. 
+    form2_c= capitalize(form2); // captilizes first letter, when necessary. 
     
 	
-	if(iden=="pol")
+    if(iden=="pol")
 	{
-	var sent = new Array();
-	sent.push('I feel a bond with ' + form2);
-	sent.push('I feel solidarity with ' + form2);
-	sent.push('I feel committed to ' + form2);
-	sent.push('I am glad to be a ' + form1);
-	sent.push('I think that ' + form2 + ' have a lot to be proud of');
-	sent.push('It is pleasant to be a ' + form1);
-	sent.push('Being a ' + form1 + ' gives me a good feeling');
-	sent.push('I often think about the fact that I am a ' + form1);
-	sent.push('The fact that I am a ' + form1 + ' is an important part of my identity');
-	sent.push('Being a ' + form1 + ' is an important part of how I see myself');
-	sent.push('I have a lot in common with the average ' + form1);
-	sent.push('I am similar to the average ' + form1); // This one is modified slightly
-	sent.push(form2_c + ' have a lot in common with each other');
-	sent.push(form2_c + ' are very similar to each other');
+	    var sent = new Array();
+	    sent.push('I feel a bond with ' + form2);
+	    sent.push('I feel solidarity with ' + form2);
+	    sent.push('I feel committed to ' + form2);
+	    sent.push('I am glad to be a ' + form1);
+	    sent.push('I think that ' + form2 + ' have a lot to be proud of');
+	    sent.push('It is pleasant to be a ' + form1);
+	    sent.push('Being a ' + form1 + ' gives me a good feeling');
+	    sent.push('I often think about the fact that I am a ' + form1);
+	    sent.push('The fact that I am a ' + form1 + ' is an important part of my identity');
+	    sent.push('Being a ' + form1 + ' is an important part of how I see myself');
+	    sent.push('I have a lot in common with the average ' + form1);
+	    sent.push('I am similar to the average ' + form1); // This one is modified slightly
+	    sent.push(form2_c + ' have a lot in common with each other');
+	    sent.push(form2_c + ' are very similar to each other');
 	}
 	else
 	{
-		var sent = new Array();
-	sent.push('I feel a bond with ' + form2);
-	sent.push('I feel solidarity with ' + form2);
-	sent.push('I feel committed to ' + form2);
-	sent.push('I am glad to be ' + form1);
-	sent.push('I think that ' + form2 + ' have a lot to be proud of');
-	sent.push('It is pleasant to be ' + form1);
-	sent.push('Being ' + form1 + ' gives me a good feeling');
-	sent.push('I often think about the fact that I am ' + form1);
-	sent.push('The fact that I am ' + form1 + ' is an important part of my identity');
-	sent.push('Being ' + form1 + ' is an important part of my identity');
-	sent.push('I have a lot in common with the average ' + form1);
-	sent.push('I am similar to the average ' + form1); // This one is modified slightly
-	sent.push(form2_c + ' have a lot in common with each other');
-	sent.push(form2_c + ' are very similar to each other');
-		
-		
+	    var sent = new Array();
+	    sent.push('I feel a bond with ' + form2);
+	    sent.push('I feel solidarity with ' + form2);
+	    sent.push('I feel committed to ' + form2);
+	    sent.push('I am glad to be ' + form1);
+	    sent.push('I think that ' + form2 + ' have a lot to be proud of');
+	    sent.push('It is pleasant to be ' + form1);
+	    sent.push('Being ' + form1 + ' gives me a good feeling');
+	    sent.push('I often think about the fact that I am ' + form1);
+	    sent.push('The fact that I am ' + form1 + ' is an important part of my identity');
+	    sent.push('Being ' + form1 + ' is an important part of my identity');
+	    sent.push('I have a lot in common with the average ' + form1);
+	    sent.push('I am similar to the average ' + form1); // This one is modified slightly
+	    sent.push(form2_c + ' have a lot in common with each other');
+	    sent.push(form2_c + ' are very similar to each other');
 	}
-
-
 
 	for(i=0; i<sent.length; i++)
 	{
-		likert = createLikert( iden + 'likert_' + i, iden + '_agree_' + i);
+	    likert = createLikert( iden + 'likert_' + i, iden + '_agree_' + i);
 	
-		// $("divname").css('color','red');
+	    // $("divname").css('color','red');
 
-		$(wrapper).append('<div> <li id = "err'+ iden + i + '">' + sent[i]  + '</li> <p>' + likert + '</p></div>')
-		//$("#displayQ-wrapper").append('<li>'+ sent[i]  + '</li><p>' + likert + '</p>');
+	    $(wrapper).append('<div> <li id = "err'+ iden + i + '">' + sent[i]  + '</li> <p>' + likert + '</p></div>');
+	    //$("#displayQ-wrapper").append('<li>'+ sent[i]  + '</li><p>' + likert + '</p>');
 	}
 
-    $(wrapper).shuffle(); 
+	$(wrapper).shuffle(); 
+	$(wrapper).append('<div id="error'+ iden +'" class="error"/>'); // appends a unique error id for each section
 
-
-	$(wrapper).append('<div id="error'+ iden +'" class="error"/>')// appends a unique error id for each section
-
-	//$("#displayQ-wrapper").append('<div id = "error3" class = "error"> </div>'); 
+	// $("#displayQ-wrapper").append('<div id = "error3" class = "error"> </div>'); 
 	// put the code for where the error message will go above the button
 	
-
-	$(wrapper).append( '<input type="button" value="Continue" onclick = "surveyValidate(\'' + iden +'\')"/>')
+	$(wrapper).append( '<input type="button" value="Continue" onclick = "surveyValidate(\'' + iden +'\')"/>');
 	//$("#displayQ-wrapper").append('<div> <input type="button" value="Continue" onclick = "surveyValidate(\'' + iden +'\')"/></div>'); 
 
 	$("#GetPol-wrapper").hide(500); // might have to do some conditionals here with "iden" if the current wrapper is not hiding
 	//$("#displayQ-wrapper").show(500);
 
-    
-
 	$(wrapper).show(500);	
-
 }
 
 function surveyValidate(iden)// added iden as an input
 {
-
-
 	var j = 0;
 	var error = false; 
-	$("li").css('color','black')
+	$("li").css('color','black');
+
 	//var errmsg= ''; 
-
-
-	//var error3= '<div id="error'+ iden +'" class="error"/>'
-	
+	//var error3= '<div id="error'+ iden +'" class="error"/>'	
 	// $("displayQ").children("div").each(function(index) {
 	//	errmsg += '<p> Please provide an answer to question ' + index + '</p>';
 	// });
+
 	var qdata = {};
 	for(i=0; i <= 13; i++)
 	{
-		//j += 1; 
+	    //j += 1; 
 
-		var intermed= iden + '_agree_' + i ; // Used iden to fill in the pre-fix
+	    var intermed= iden + '_agree_' + i ; // Used iden to fill in the pre-fix
+	    qput= 'input[name = ' + intermed + ']:checked';
+	    Q_input = $(qput).val();
 
-		qput= 'input[name = ' + intermed + ']:checked';
+	    var wrapper = "#displayQ-wrapper_" + iden;
 
-		Q_input = $(qput).val();
+	    //Q_input= $('input[name=pol_agree_+i]:checked').val(); 
 
-		var wrapper = "#displayQ-wrapper_" + iden
-
-		//Q_input= $('input[name=pol_agree_+i]:checked').val(); 
-
-		if(Q_input == null)
+	    if(Q_input == null)
 		{
-			var errorid = '#err' + iden + i; 
-			error = true;
-			$(errorid).css('color','#F00'); 
+		    var errorid = '#err' + iden + i; 
+		    error = true;
+		    $(errorid).css('color','#F00'); 
 		}
-		else
+	    else
 		{
 		    qdata[iden + i] = Q_input;
 		}
-
 	}
 
-
-	/*if(error==true)
-	{
-
-
+	/*
+	  if(error==true)
+	  {
 		$('#error'+ iden).html(errmsg); 
-
-
-	} */
+	  } 
+	*/
 	
 	if(error==true)
 	{ 
-	$('#error'+ iden).html("Oops. One or more items has not been filled out. Please complete the item(s) above appearing in red.");
-	   
+	    $('#error'+ iden).html("Oops. One or more items have not been filled out. Please complete the item(s) above appearing in red.");
 	}
 
 	if(error==false)
 	{   
 	    $.post("core/DataWrangler.php", {page:iden, data:qdata});
 	    $(wrapper).hide(500); 
-	    
 
-		if(iden=="pol")
-		{   $("#politics_h").hide();
-			if(order==1)
-			{   $("#nationality_h").show();
-				$("#Nation-wrapper").show(500);
+	    if(iden=="pol")
+		{   
+		    $("#politics_h").hide();
+		    if(order==1)
+			{   
+			    $("#nationality_h").show();
+			    $("#Nation-wrapper").show(500);
 			}
-			else
-			{   $("#free_h").show()
-				$("#FreeForm-wrapper").show(500); 
+		    else
+			{   
+			    $("#free_h").show();
+			    $("#FreeForm-wrapper").show(500); 
 			}
-
 		}
-		if(iden=="nat")
-		{   $("#nationality_h").hide();
-			if(order==1)
-			{   $("#free_h").show()
-				$("#FreeForm-wrapper").show(500)
+	    if(iden=="nat")
+		{   
+		    $("#nationality_h").hide();
+		    if(order==1)
+			{   
+			    $("#free_h").show();
+			    $("#FreeForm-wrapper").show(500);
 			} 
-			else
-			{   $("#politics_h").show()
-				$("#GetPol-wrapper").show(500)
+		    else
+			{   
+			    $("#politics_h").show();
+			    $("#GetPol-wrapper").show(500);
 			}
-
 		}
-
-		if(iden=="free")
-		{   $("#free_h").hide()
-			//$("#thanks").show(500)
-			window.location="ThankYou.htm"; 
+	    if(iden=="free")
+		{   
+		    $("#free_h").hide();
+		    //$("#thanks").show(500);
+		    window.location="ThankYou.htm"; 
 		}
-
-
-
 	}
-
 }
 
 
@@ -304,41 +280,40 @@ function surveyValidate(iden)// added iden as an input
 
 // Need to insert other branches this use the "order" variable to determine sequences as wel 
 function DecideOrder(location)
-
 {
 
 	/*if( location == 'us' || order== 1)
-
-{
-$("#GetPol-wrapper").show(500);
-}
-else
-{
-$("#Nation-wrapper").show(500)
-
-
-} 
-$("#tester").append('<p> Show something please! <p>');
-$("#tester").show(500);  */
+	  
+	  {
+	  $("#GetPol-wrapper").show(500);
+	  }
+	  else
+	  {
+	  $("#Nation-wrapper").show(500)
+	  } 
+	  $("#tester").append('<p> Show something please! <p>');
+	  $("#tester").show(500);  */
 
     if(location == "us")
 	{
 	    if(order==1) 
-		{    $("#politics_h").show()
+		{    
+		    $("#politics_h").show();
 		    $("#GetPol-wrapper").show(500);
 		}
 	    else 
-		{   $("#nationality_h").show(); 
+		{   
+		    $("#nationality_h").show(); 
 		    $("#Nation-wrapper").show(500);
 		}
-	} else {   
-	order=1;
-	$("#nationality_h").show(); 
-
-	    $("#Nation-wrapper").show(500)
-	    }
+	} 
+    else 
+	{   
+	    order=1;
+	    $("#nationality_h").show(); 
+	    $("#Nation-wrapper").show(500);
+	}
 } 
-
 
 
 
@@ -346,57 +321,55 @@ function checkPolitics()
 {
 	party =$("#affiliation option:selected").val();
 
-	var error = false 
-	var errmsg= ""
+	var error = false;
+	var errmsg= "";
 	
 
 	if(party == "unselected")
-	{ error=true;
-		errmsg += "<div class='error'>Please indicate the political party you most identify with</div>";
-		$('#error-2').html(errmsg)
-		$("#GetPol-wrapper").addClass("error"); 
+	{ 
+	    error=true;
+	    errmsg += "<div class='error'>Please indicate the political party you most identify with</div>";
+	    $('#error-2').html(errmsg);
+	    $("#GetPol-wrapper").addClass("error"); 
 	}
 	else
 	{ 
-		if(party=="Democrat")
+	    if(party=="Democrat")
 		{ 
-			var pform1="Democrat"
-			var pform2="Democrats"
+		    var pform1="Democrat";
+		    var pform2="Democrats";
 		}
-
-		if(party=="Republican")
-
+	    if(party=="Republican")
 		{ 
-			var pform1="Republican"
-			var pform2="Republicans"
+		    var pform1="Republican";
+		    var pform2="Republicans";
 		}
-		if(party=="Constitution")
+	    if(party=="Constitution")
 		{ 
-			var pform1="Constitution Party member"
-			var pform2="Constitution Party members"
+		    var pform1="Constitution Party member";
+		    var pform2="Constitution Party members";
 		}
-		if(party=="Green")
+	    if(party=="Green")
 		{ 
-			var pform1="Green Party member"
-			var pform2="Green Party members"
+		    var pform1="Green Party member";
+		    var pform2="Green Party members";
 		}
-		if(party=="Libertarian")
+	    if(party=="Libertarian")
 		{
-			var pform1="Libertarian"
-			var pform2="Libertarians"
+		    var pform1="Libertarian";
+		    var pform2="Libertarians";
 		}
+	    username = $("#username").html();
+	    $.post("core/DataWrangler.php", {"page":"polform", "username":username, "data":{"nform1":pform1,"nform2":pform2} });
 
-		$("#GetPol-wrapper").hide(500); 
-		displayQ(pform1, pform2, "pol") 
+	    $("#GetPol-wrapper").hide(500); 
+	    displayQ(pform1, pform2, "pol");
 	}
-
-
 }
 
 function capitalize(string)
 {
-    return string.charAt(0).toUpperCase() + string.slice(1);
-	
+    return string.charAt(0).toUpperCase() + string.slice(1);	
 }
 
 function CheckNationID()
@@ -405,60 +378,47 @@ function CheckNationID()
     nation_list = $("#national").val().slice(0,-1).split(',');
     nform1 = nation_list.join('-');
     
-	n_end = nform1.slice(-1)
-	n_ese= nform1.slice(-3)
-	//n_ch= nform1.slice(-2)
+    n_end = nform1.slice(-1);
+    n_ese= nform1.slice(-3);
+    //n_ch= nform1.slice(-2);
 	
-	if(n_end == "s" || n_end == "x" || n_end == "z" || n_end =="h" || n_ese == "ese")
+    if(n_end == "s" || n_end == "x" || n_end == "z" || n_end =="h" || n_ese == "ese")
 	{
-		nform2=nform1
+	    nform2=nform1;
 	}
 	else 
 	{
-   
-    nform2 = nform1 + "s";
-	
+	    nform2 = nform1 + "s";
 	}
 	
-	
-	
-	// create array of exceptions to 's' rule
+    // create array of exceptions to 's' rule
     // check if last nation is exception
-    //nform2 = nform1 + "s";
-    errmsg=''
+    // nform2 = nform1 + "s";
+    errmsg='';
 
-	var error = false
+    var error = false;
 
-	if(nform1.length < 3)
+    if(nform1.length < 3)
 	{ 
-		error = true
-
-		errmsg += '<p class="error"> Please enter a nationality</p>'
-		$("#nationalityq").css('color','red'); 
-		
-
+	    error = true;
+	    errmsg += '<p class="error"> Please enter a nationality</p>';
+	    $("#nationalityq").css('color','red'); 
 	}
-	
-	else
+    else
 	{
-		$("#Nation-wrapper").hide(500);
-			displayQ(nform1,nform2,"nat");
+	    username = $("#username").html();
+	    $.post("core/DataWrangler.php", {"page":"natform", "username":username, "data":{"nform1":nform1,"nform2":nform2} });
+	    $("#Nation-wrapper").hide(500);
+	    displayQ(nform1,nform2,"nat");
 		
 	}// add more to this later
 	
-	if(error==true)
+    if(error==true)
 	{
-
 		$("#error-4").html(errmsg);
-
 	} 
 	
 	/*
-
-	
-	
-	
-	
 	else {
 	    user_url = $("#user_url").val();
 	    $.post("core/validUrl.php", {"user_url":user_url}, function(data) {
@@ -471,65 +431,53 @@ function CheckNationID()
 		    }
 		});
 	}
-
-*/
-
-
-
+	*/
 }
 
 function FreeCheck()
 { 
-	nform1 = $("#free1").val()
-	nform2 = $("#free2").val()
-	errmsg=''
+    nform1 = $("#free1").val();
+    nform2 = $("#free2").val();
+    errmsg='';
 	
-	//nform1 = capitalize(nform1) 
-	//nform2 = capitalize(nform2)
+    //nform1 = capitalize(nform1) 
+    //nform2 = capitalize(nform2)
 	
-	//nform1 = nform1.charAt(0).toUpperCase() + nform1.slice(1);
-	//nform2 = nform2.charAt(0).toUpperCase() + nform1.slice(1); 
+    //nform1 = nform1.charAt(0).toUpperCase() + nform1.slice(1);
+    //nform2 = nform2.charAt(0).toUpperCase() + nform1.slice(1); 
+    
+    error = false;
 	
-	
+    $("li").css('color','black');
 
-
-	error = false
-	
-	$("li").css('color','black');
-
-	if(nform1.length < 3)
+    if(nform1.length < 3)
 	{ 
-		error = true
+	    error = true;
+	    errmsg += '<p> Please provide an appropriate answer to item 1 </p>';
+	    
+	    //$("#freeq1").addClass("error")
+	    $("#freeq1").css('color','red');
+	    
+	}// add more to this later
 
-		errmsg += '<p> Please provide an appropriate answer to item 1 </p>'
-		
-		//$("#freeq1").addClass("error")
-		$("#freeq1").css('color','red');
-		
-
-		}// add more to this later
-
-		if(nform2.length < 3)
-		{ error = true
-
-			errmsg += '<p> Please provide an appropriate answer to item 2 </p>'
-			//$("#freeq2").addClass("error")
-			$("#freeq2").css('color','red');
-
-		}
-
-		if(error==true)
-		{
-			$("#error-5").html(errmsg)
-
-		}
-
-		else 
-		{
-			$("#FreeForm-wrapper").hide(500)
-			displayQ(nform1,nform2,"free")
-		}
-
+    if(nform2.length < 3)
+	{ 
+	    error = true;
+	    errmsg += '<p> Please provide an appropriate answer to item 2 </p>';
+	    //$("#freeq2").addClass("error")
+	    $("#freeq2").css('color','red');
+	}
+    if(error==true)
+	{
+	    $("#error-5").html(errmsg);
+	}
+    else 
+	{
+	    username = $("#username").html();
+	    $.post("core/DataWrangler.php", {"page":"freeform", "username":username, "data":{"nform1":nform1,"nform2":nform2} });
+	    $("#FreeForm-wrapper").hide(500);
+	    displayQ(nform1,nform2,"free");
+	}
 }
 
 function checkDemographics()

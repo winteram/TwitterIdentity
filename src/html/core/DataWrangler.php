@@ -57,14 +57,6 @@ case 'demog':
   $income = isset($demogs['income']) ? $demogs['income'] : "NULL";
   $edu = isset($demogs['edu']) ? $demogs['edu'] : "NULL";
 
-  echo $gender . "\n";
-  echo $yob . "\n";
-  echo $country . "\n";
-  echo $ethnicity . "\n";
-  echo $income . "\n";
-  echo $edu . "\n";
-  echo $username;
-
   // prepare data to enter into db
   $rqst = $dbh->prepare("UPDATE survey SET gender=:gender, yob=:yob, country=:country, ethnicity=:ethnic, income=:income, edu=:edu WHERE username=:uname");
   $rqst->bindParam(':gender',$gender, PDO::PARAM_STR);
@@ -76,6 +68,11 @@ case 'demog':
   $rqst->bindParam(':uname',$username, PDO::PARAM_STR);
   $rqst->execute();
   break;
+case 'polform': // party affiliation
+case 'pol': // answers to survey for political id
+
+case 'nat': // answers to survey for national id
+case 'free': // answers to survey for free-form id
 
 default:
   echo "ERR: invalid page";
