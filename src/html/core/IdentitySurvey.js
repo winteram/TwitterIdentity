@@ -271,7 +271,7 @@ function surveyValidate(iden)// added iden as an input
 		{   
 		    $("#free_h").hide();
 		    //$("#thanks").show(500);
-		    window.location="ThankYou.htm"; 
+		    window.location="ThankYou.php"; 
 		}
 	}
 }
