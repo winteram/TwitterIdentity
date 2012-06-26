@@ -40,6 +40,8 @@ if (200 == $connection->http_code) {
   // put responses to consent form in dB
   $agree1 = isset($_SESSION['agree']) ? intval($_SESSION['agree']) : 0;
   $agree2 = isset($_SESSION['agree2']) ? intval($_SESSION['agree2']) : 0;
+  $flag = isset($_SESSION['flag']) ? $_SESSION['flag'] : "NULL";
+
 
   // Check if survey exists for username
   $rqst = $dbh->prepare("SELECT username FROM survey WHERE username=:uname");
@@ -49,13 +51,13 @@ if (200 == $connection->http_code) {
 
   // if username exists, it will match
   if ($result['username'] === $username) {
-    $query = "UPDATE authentic SET access_token=:token, access_secret=:secret, agree1=:agree1, agree2=:agree2 WHERE username=:uname";
+    $query = "UPDATE authentic SET access_token=:token, access_secret=:secret, agree1=:agree1, agree2=:agree2, referred_by=:flag WHERE username=:uname";
   } 
   else {
     $rqst1 = $dbh->prepare("INSERT INTO survey SET username=:uname, started=NOW()");
     $rqst1->bindParam(':uname',$username, PDO::PARAM_STR);
     $rqst1->execute();
-    $query = "INSERT INTO authentic SET username=:uname, access_token=:token, access_secret=:secret, agree1=:agree1, agree2=:agree2";
+    $query = "INSERT INTO authentic SET username=:uname, access_token=:token, access_secret=:secret, agree1=:agree1, agree2=:agree2, referred_by=:flag";
   }
 
   $rqst2 = $dbh->prepare($query);
@@ -64,6 +66,7 @@ if (200 == $connection->http_code) {
   $rqst2->bindParam(':secret',$access_token['oauth_token_secret'], PDO::PARAM_STR);
   $rqst2->bindParam(':agree1',$agree1, PDO::PARAM_INT);
   $rqst2->bindParam(':agree2',$agree2, PDO::PARAM_INT);
+  $rqst2->bindParam(':flag',$flag, PDO::PARAM_STR);
   $rqst2->execute();
 
   // Send them to the survey

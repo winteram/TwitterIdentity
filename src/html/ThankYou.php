@@ -25,28 +25,40 @@ session_start();
 <div class="container">
   
     <div class="center-section">
-      <div class="center-para">You are all done with the survey portion of
+      <div class="center-para">You have finished the survey portion of
       the study. We appreciate you taking the time to participate. This
-      potentially high impact research would not be possible without people
-      like you. You have been entered into the drawing. <u>We encourage you
-      to follow us on Twitter</u> so that we can direct message you if you
-      win, however, it is not necessary to follow us to be in the
-      drawing. Should you win, we can always mention you and you can
-      respond to our mention with the address to send the prize to.
-    
+      research would not be possible without your help. 
+
+<?php
+if($_SESSION['agree2'] == 1)
+  echo "<p>To participate in the experimental portion of the study, <u>remember to follow us on Twitter by clicking the link below.</u><br><br>";
+else
+  echo "<p><u>We encourage you to follow us on Twitter</u><br><br>";
+?>
+<a href="https://twitter.com/groupidentity" class="twitter-follow-button" data-show-count="false" data-lang="en" data-size="large">Follow @GroupIdentity</a></p>
+
+<!--
+
+/*       You have been entered into the drawing. */
+/*       so that we can direct message you if you */
+/*       win, however, it is not necessary to follow us to be in the */
+/*       drawing. Should you win, we can always mention you and you can */
+/*       respond to our mention with the address to send the prize to. */
+
 	<p>If you agreed to participate in the experimental portion of the
 	  study, we will be in contact on Twitter. If you would like to
 	  participate in the experiment and did not indicate this on the
 	  initial consent form, you may partipate by clicking on the
 	  following link:</p>
-    
+-->    
 	<h3 class="center-title"> HELP SPREAD THE WORD</h3>
 	<span> We hope you share this study with your followers on
-	Twitter!</span>
-	<a href="https://twitter.com/share" class="twitter-share-button"
+	Twitter!  Click the "Tweet" button to share!</span>
+	
+        <span style="margin-left:10px;"><a href="https://twitter.com/share" class="twitter-share-button"
 	   data-lang="en" data-count="none" data-size="large" 
-	   data-url='http://smallsocialsystems.com/asaf/AboutUs.html?flag=<?php echo $_SESSION["username"]; ?>child'
-	   data-text='I just participated in the Group Identity Project! Check it out: '>Tweet</a>
+	   data-url='http://smallsocialsystems.com/asaf/AboutUs.html?flag=<?php echo $_SESSION["username"]; ?>_child'
+	   data-text='I just participated in the Group Identity Project! Check it out: '>Tweet</a></span>
 
    <p> Thanks again, </br></br> Winter and Asaf. </p>
     </div>

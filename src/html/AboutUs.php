@@ -1,4 +1,5 @@
 <?php
+session_start();
 // Get data for accessing database
 require_once('core/safe/db.inc');
 global $dbh;
@@ -10,6 +11,8 @@ $rqst = $dbh->prepare("INSERT INTO visitors SET username=:uname");
 $rqst->bindParam(':uname',$flag, PDO::PARAM_STR);
 $rqst->execute();
 
+// store referrer in session variable
+$_SESSION['flag'] = $flag;
 
 ?>
 <html>
@@ -18,6 +21,7 @@ $rqst->execute();
 <script src="core/jquery-ui-1.8.21.custom/js/jquery-1.7.2.min.js" type="text/javascript"></script>
 <script src="core/jquery-ui-1.8.21.custom/js/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
 <script type="text/javascript"> $("button").button(); </script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 <link rel="shortcut icon" href="core/images/idproj.ico" type="image/x-icon" />
 <link rel='stylesheet' type='text/css'
       href='core/jquery-ui-1.8.21.custom/css/pepper-grinder/jquery-ui-1.8.21.custom.css' />
@@ -107,7 +111,8 @@ $rqst->execute();
 <div id="contact-info">
   For more information, contact:<br>
   Group Identity Project<br>
-  group.id.project [at] gmail.com<br>
+  group.id.project [at] gmail.com<br><br>
+<a href="https://twitter.com/groupidentity" class="twitter-follow-button" data-show-count="false" data-lang="en" data-size="large">Follow @GroupIdentity</a>
 </div>
 </div>
 

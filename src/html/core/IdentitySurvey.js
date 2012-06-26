@@ -446,7 +446,7 @@ function FreeCheck()
     userURL = $("#user_url").val();
     errmsg='';
 
-    alert(nform1 + ", " + nform2 + ", " + validURL(userURL));
+    //alert(nform1 + ", " + nform2 + ", " + validURL(userURL));
 	
     //nform1 = capitalize(nform1) 
     //nform2 = capitalize(nform2)
