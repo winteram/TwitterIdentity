@@ -22,28 +22,6 @@ $page = $_REQUEST['page'];
 switch($page) 
 {
 case 'new':
-  // put responses to consent form in dB
-  $agree1 = isset($_REQUEST['agree']) ? intval($_REQUEST['agree']) : 0;
-  $agree2 = isset($_REQUEST['agree2']) ? intval($_REQUEST['agree2']) : 0;
-
-  // Check if survey exists for username
-  $rqst = $dbh->prepare("SELECT username FROM survey WHERE username=:uname");
-  $rqst->bindParam(':uname',$username, PDO::PARAM_STR);
-  $user = $rqst->execute();
-
-  // if username exists, it will match
-  if ($user == $username) {
-    $query = "UPDATE survey SET agree1=:agree1, agree2=:agree2 WHERE username=:uname";
-  } else {
-    $query = "INSERT INTO survey SET username=:uname, agree1=:agree1, agree2=:agree2, started=NOW()";
-  }
-
-  $rqst = $dbh->prepare($query);
-  $rqst->bindParam(':uname',$username, PDO::PARAM_STR);
-  $rqst->bindParam(':agree1',$agree1, PDO::PARAM_INT);
-  $rqst->bindParam(':agree2',$agree2, PDO::PARAM_INT);
-  $rqst->execute();
-  break;
 case 'demog':
   // parse data into array
   // print_r($_REQUEST['data']);
@@ -84,12 +62,12 @@ case 'natform':
   break;
 case 'freeform':
   $freeform = $_REQUEST['data'];
-
+  print_r($freeform);
   $ownform1 = isset($freeform['ownform1']) ? $freeform['ownform1'] : "NULL";
   $ownform2 = isset($freeform['ownform2']) ? $freeform['ownform2'] : "NULL";
-  $userURL = isset($freeform['userURL']) ? $freeform['userURL'] : "NULL";
+  $userURL = isset($freeform['ownURL']) ? $freeform['ownURL'] : "NULL";
 
-  $rqst = $dbh->prepare("UPDATE survey SET own_form1=:ownform1, own_form2=:ownform2, user_URL=:userURL WHERE username=:uname");
+  $rqst = $dbh->prepare("UPDATE survey SET own_form1=:ownform1, own_form2=:ownform2, own_URL=:userURL WHERE username=:uname");
   $rqst->bindParam(':ownform1',$ownform1, PDO::PARAM_STR);
   $rqst->bindParam(':ownform2',$ownform2, PDO::PARAM_STR);
   $rqst->bindParam(':userURL',$userURL, PDO::PARAM_STR);

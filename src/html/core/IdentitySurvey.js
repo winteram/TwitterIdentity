@@ -435,7 +435,8 @@ function CheckNationID()
 }
 
 function validURL(userURL){
-    return /((http|https):\/\/(\w+:{0,1}\w*@)?(\S+)|)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/.test(userURL);
+    return /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/.test(userURL);
+    //    return /((http|https):\/\/(\w+:{0,1}\w*@)?(\S+)|)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/.test(userURL);
 }
 
 function FreeCheck()
@@ -444,6 +445,8 @@ function FreeCheck()
     nform2 = $("#free2").val();
     userURL = $("#user_url").val();
     errmsg='';
+
+    alert(nform1 + ", " + nform2 + ", " + validURL(userURL));
 	
     //nform1 = capitalize(nform1) 
     //nform2 = capitalize(nform2)
