@@ -17,7 +17,7 @@ $connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET,
 
 // Request access tokens from twitter 
 $access_token = $connection->getAccessToken($_REQUEST['oauth_verifier']);
-print_r($access_token);
+//print_r($access_token);
 
 // Remove no longer needed request tokens 
 unset($_SESSION['oauth_token']);
@@ -35,6 +35,7 @@ if (200 == $connection->http_code) {
 
   // Keep username in session variables
   $_SESSION['username'] = $user->screen_name;
+  $username = $_SESSION['username'];
 
   // put responses to consent form in dB
   $agree1 = isset($_SESSION['agree']) ? intval($_SESSION['agree']) : 0;
@@ -43,20 +44,27 @@ if (200 == $connection->http_code) {
   // Check if survey exists for username
   $rqst = $dbh->prepare("SELECT username FROM survey WHERE username=:uname");
   $rqst->bindParam(':uname',$username, PDO::PARAM_STR);
-  $user = $rqst->execute();
+  $row = $rqst->execute();
+  $result = $rqst->fetch(PDO::FETCH_ASSOC);
 
   // if username exists, it will match
-  if ($user == $username) {
-    $query = "UPDATE survey SET agree1=:agree1, agree2=:agree2 WHERE username=:uname";
-  } else {
-    $query = "INSERT INTO survey SET username=:uname, agree1=:agree1, agree2=:agree2, started=NOW()";
+  if ($result['username'] === $username) {
+    $query = "UPDATE authentic SET access_token=:token, access_secret=:secret, agree1=:agree1, agree2=:agree2 WHERE username=:uname";
+  } 
+  else {
+    $rqst1 = $dbh->prepare("INSERT INTO survey SET username=:uname, started=NOW()");
+    $rqst1->bindParam(':uname',$username, PDO::PARAM_STR);
+    $rqst1->execute();
+    $query = "INSERT INTO authentic SET username=:uname, access_token=:token, access_secret=:secret, agree1=:agree1, agree2=:agree2";
   }
 
-  $rqst = $dbh->prepare($query);
-  $rqst->bindParam(':uname',$username, PDO::PARAM_STR);
-  $rqst->bindParam(':agree1',$agree1, PDO::PARAM_INT);
-  $rqst->bindParam(':agree2',$agree2, PDO::PARAM_INT);
-  $rqst->execute();
+  $rqst2 = $dbh->prepare($query);
+  $rqst2->bindParam(':uname',$username, PDO::PARAM_STR);
+  $rqst2->bindParam(':token',$access_token['oauth_token'], PDO::PARAM_STR);
+  $rqst2->bindParam(':secret',$access_token['oauth_token_secret'], PDO::PARAM_STR);
+  $rqst2->bindParam(':agree1',$agree1, PDO::PARAM_INT);
+  $rqst2->bindParam(':agree2',$agree2, PDO::PARAM_INT);
+  $rqst2->execute();
 
   // Send them to the survey
   header('Location: ./IdentitySurvey.php');
