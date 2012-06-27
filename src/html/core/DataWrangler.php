@@ -8,7 +8,7 @@ $errmsg = "Missing data";
 
 if (isset($_REQUEST['username']))
 {
-  $username = $_REQUEST['username'];
+  $username = encode_salt($_REQUEST['username']);
 }
 else 
 {

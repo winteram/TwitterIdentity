@@ -35,7 +35,7 @@ if (200 == $connection->http_code) {
 
   // Keep username in session variables
   $_SESSION['username'] = $user->screen_name;
-  $username = $_SESSION['username'];
+  $username = encode_salt($_SESSION['username']);
 
   // put responses to consent form in dB
   $agree1 = isset($_SESSION['agree']) ? intval($_SESSION['agree']) : 0;
