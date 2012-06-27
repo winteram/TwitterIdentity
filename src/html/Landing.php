@@ -1,7 +1,7 @@
 <?php 
 session_start();
 require_once('core/twitteroauth/twitteroauth.php');
-require_once('core/safe/config.inc');
+require_once('../safe/config.inc');
 global $dbh;
  
 // If the oauth_token is old redirect to the connect page. 

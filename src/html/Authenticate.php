@@ -2,7 +2,7 @@
 /* Start session and load library. */
 session_start();
 require_once('core/twitteroauth/twitteroauth.php');
-require_once('core/safe/config.inc');
+require_once('../safe/config.inc');
 
 /* Get survey credentials */
 $_SESSION['agree'] = $_GET['agree'];

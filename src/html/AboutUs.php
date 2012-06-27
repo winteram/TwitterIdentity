@@ -1,7 +1,7 @@
 <?php
 session_start();
 // Get data for accessing database
-require_once('core/safe/db.inc');
+require_once('../safe/config.inc');
 global $dbh;
 
 // Get flag from input, write to db
