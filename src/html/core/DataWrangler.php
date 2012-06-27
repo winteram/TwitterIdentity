@@ -1,7 +1,7 @@
 <?php
 
 // Get data for accessing database
-require_once('safe/db.inc');
+require_once('../../safe/config.inc');
 global $dbh;
 
 $errmsg = "Missing data";
@@ -62,7 +62,7 @@ case 'natform':
   break;
 case 'freeform':
   $freeform = $_REQUEST['data'];
-  print_r($freeform);
+  //print_r($freeform);
   $ownform1 = isset($freeform['ownform1']) ? $freeform['ownform1'] : "NULL";
   $ownform2 = isset($freeform['ownform2']) ? $freeform['ownform2'] : "NULL";
   $userURL = isset($freeform['ownURL']) ? $freeform['ownURL'] : "NULL";
@@ -87,19 +87,18 @@ case 'own': // answers to survey for free-form id
       $ctr += 1;
     }
   $query = substr($query, 0, -2) . " WHERE username=:uname";
-  echo $query . "\n";
+  //echo $query . "\n";
   $dbh->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);  
   $rqst = $dbh->prepare($query);
   $ctr = 1;
   foreach($answers as $key => $response)
     {
-      echo ':' . $page . $ctr . ' = ' . $response . '\n';
+      //echo ':' . $page . $ctr . ' = ' . $response . '\n';
       $rqst->bindParam(':' . $page . $ctr, intval($answers[$key]), PDO::PARAM_INT);
       $ctr += 1;
     }  
   $rqst->bindParam(':uname',$username, PDO::PARAM_STR);
   $rqst->execute();
-  $rqst->debugDumpParams();
   break;
 default:
   echo "ERR: invalid page";

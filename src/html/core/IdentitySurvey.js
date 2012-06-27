@@ -258,8 +258,8 @@ function surveyValidate(iden)// added iden as an input
 	    if(iden=="own")
 		{   
 		    $("#free_h").hide();
-		    //$("#thanks").show(500);
-		    window.location="ThankYou.php"; 
+		    $("#thanks").show(500);
+		    //window.location="ThankYou.php"; 
 		}
 	}
 }
