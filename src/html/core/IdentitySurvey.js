@@ -1,10 +1,3 @@
-function initSurvey(username, agree, agree2) {
-    $.post("core/DataWrangler.php", {"page":"new", "username":username, "agree":agree, "agree2":agree2}, function(error) {
-	    if(error == "ERR: username not set") { window.location="Consent.php?error=1"; } 
-	    else if(error == "ERR: invalid page") { alert("Invalid page id sent to DataWrangler"); } 
-	});
-}
-
 $(document).ready(function() {
 	// add years to age question
 	for(i=2000;i>1900;i--)
@@ -12,19 +5,14 @@ $(document).ready(function() {
 		$("#age").append('<option value="'+i+'">'+i+'</option>');
 	}
 
-
-	if(Math.random() >= .5)// Randomly assign order of survey questions
+	// Randomly assign order of survey questions
+	if(Math.random() >= .5)
 	    { order= 1}
 	else
 	    { order= 2}
 
 	// show demographics questions at beginning
-
-	var instructions = '<p> Welcome to the study! To start you will be asked a few demographic questions. You will then be presented a series of questions about what you identify with. The entire survey should take less than 15 minutes and could greatly help us understand how people express their identities in on-line social networks. Thanks in advance for your participation.  </p>';
-
-	instructions += '<div class="ctr"><input type="button" value="Continue" onclick="getDemographics()"/></div>';
 	$("#section-header-0").show(); 
-	$("#instructions-wrapper").html(instructions);
 	$("#instructions-wrapper").show();
 	
 	// initialize auto-complete for nationalities

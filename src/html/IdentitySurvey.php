@@ -26,8 +26,8 @@ require_once('core/locations.php');
 <div id="username" style="display:none"><?php echo $_SESSION['username']; ?></div>
 <div class="section-header" id="section-header-0">Instructions</div>
 <div id="instructions-wrapper" class="wrapper">
-  <div id="base-instructions" class="instructions">
-  </div>
+<p> Welcome to the study! To start you will be asked a few demographic questions. You will then be presented a series of questions about what you identify with. The entire survey should take less than 15 minutes and could greatly help us understand how people express their identities in on-line social networks. Thanks in advance for your participation.  </p>
+<div class="ctr"><input type="button" value="Continue" onclick="getDemographics()"/></div>
 </div>
 	
 <div class="section-header" id="demographics_h">Demographics</div>

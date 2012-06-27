@@ -7,9 +7,9 @@ X verify landing page -> survey works
 X on Thank You page, build links for following and retweeting on Twitter
 X store referrer in session (AboutUs) & db (Landing)
 X alter message on ThankYou for users who agreed to experimental portion
-
 - put disconnected user back into correct page (pull & check progress var from db?)
 - hash username & access tokens with secret salt (private encode & decode functions)
+
 - pull user profile data in background
 - combine database structure for crawl & survey
 - test server for load?
