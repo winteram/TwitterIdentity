@@ -5,12 +5,14 @@ $(document).ready(function() {
 		$("#age").append('<option value="'+i+'">'+i+'</option>');
 	}
 
+	// Check if order already determined
 	// Randomly assign order of survey questions
 	if(Math.random() >= .5)
 	    { order= 1}
 	else
 	    { order= 2}
 
+	// check what progress has been made
 	// show demographics questions at beginning
 	$("#section-header-0").show(); 
 	$("#instructions-wrapper").show();

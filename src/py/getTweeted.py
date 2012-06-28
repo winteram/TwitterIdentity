@@ -5,7 +5,7 @@
 
 def getTweeted(username):
     message = 'Please consider participating in our short, univerity-affiliated study on how people express \
-their identities on Twitter http:smallsocialsystems.com/asaf/AboutUs/'
+their identities on Twitter http://winteram.com/asaf/AboutUs.php?flag='
 
     message += username
 
