@@ -68,9 +68,13 @@ $_SESSION['flag'] = $flag;
       <div class="center-title">Who Can Participate</div>
       <div class="center-para">
 	Anyone with a Twitter account can participate.  Just click the
-	"Participate" button in the upper right-hand corner!
+	"Participate" button below!
       </div>
     </div>
+    <button id="participate-button" class="ui-button ui-button-text-only ui-widget ui-state-default
+	ui-corner-all" onclick="document.location.href='Consent.php';">
+      <span class="ui-button-text">Participate!</span>
+    </button>
   </div>
   <div class="left column">
     <div class="bio">
@@ -96,10 +100,6 @@ $_SESSION['flag'] = $flag;
     </div>
   </div>
   <div class="right column">
-    <button id="participate-button" class="ui-button ui-button-text-only ui-widget ui-state-default
-	ui-corner-all" onclick="document.location.href='Consent.php';">
-      <span class="ui-button-text">Participate!</span>
-    </button>
     <div class="uni-logos">
       <a href="http://www.stevens.edu/sit/"><img src="core/images/stevens_logo.jpg" class="uni"></a>
       <a href="http://www.iub.edu"><img src="core/images/iu_logo.jpg" class="uni"></a>

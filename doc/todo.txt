@@ -8,9 +8,9 @@ X on Thank You page, build links for following and retweeting on Twitter
 X store referrer in session (AboutUs) & db (Landing)
 X alter message on ThankYou for users who agreed to experimental portion
 X hash username & access tokens with secret salt (private encode & decode functions)
-- put disconnected user back into correct page 
-- verify only allowed entities in nationalities
-- center participate button in AboutUs
+X verify only allowed entities in nationalities
+X center participate button in AboutUs
+/ put disconnected user back into correct page 
 
 - pull user profile data in background
 - combine database structure for crawl & survey

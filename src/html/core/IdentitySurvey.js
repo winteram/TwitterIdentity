@@ -1,3 +1,5 @@
+var nationalities;
+
 $(document).ready(function() {
 	// add years to age question
 	for(i=2000;i>1900;i--)
@@ -365,7 +367,7 @@ function capitalize(string)
 function CheckNationID()
 { 
     // take list of nations, split into array
-    nation_list = $("#national").val().slice(0,-1).split(',');
+    nation_list = $("#national").val().replace(/,+$/,'').split(',');
     nform1 = nation_list.join('-');
     
     n_end = nform1.slice(-1);
@@ -388,40 +390,28 @@ function CheckNationID()
 
     var error = false;
 
-    if(nform1.length < 3)
-	{ 
-	    error = true;
-	    errmsg += '<p class="error"> Please enter a nationality</p>';
-	    $("#nationalityq").css('color','red'); 
+    for( nation in nation_list )
+	{
+	    if($.inArray(nation_list[nation],nationalities)==-1)
+		{
+		    error = true;
+		    errmsg += '<p class="error">Please enter one or more nationalities from the available list</p>';
+		    $("#nationalityq").css('color','red'); 
+		}
 	}
+
+	
+    if(error==true)
+	{
+		$("#error-4").html(errmsg);
+	} 
     else
 	{
 	    username = $("#username").html();
 	    $.post("core/DataWrangler.php", {"page":"natform", "username":username, "nationality":nform1 });
 	    $("#Nation-wrapper").hide(500);
 	    displayQ(nform1,nform2,"nation");
-		
-	}// add more to this later
-	
-    if(error==true)
-	{
-		$("#error-4").html(errmsg);
-	} 
-	
-	/*
-	else {
-	    user_url = $("#user_url").val();
-	    $.post("core/validUrl.php", {"user_url":user_url}, function(data) {
-		    alert(data);
-		    if(data==1) {
-			$("#Nation-wrapper").hide(500);
-			displayQ(nform1,nform2,"nation");
-		    } else {
-			$("#error-4").html("Enter a valid URL");
-		    }
-		});
 	}
-	*/
 }
 
 function validURL(userURL){
