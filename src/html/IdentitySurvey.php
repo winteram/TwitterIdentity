@@ -213,7 +213,7 @@ require_once('../safe/config.inc');
 			else
 				echo "<p><u>We encourage you to follow us on Twitter</u><br><br>";
 ?>
-				<a href="https://twitter.com/groupidentity" class="twitter-follow-button" data-show-count="false" data-lang="en" data-size="large">Follow @GroupIdentity</a></p>
+				<a href="https://twitter.com/GroupID_Project" class="twitter-follow-button" data-show-count="false" data-lang="en" data-size="large">Follow @GroupIdentity</a></p>
 
 <!--
        You have been entered into the drawing. So that we can direct message you if you win, however, it is not necessary to follow us to be in the drawing. Should you win, we can always mention you and you can respond to our mention with the address to send the prize to. */

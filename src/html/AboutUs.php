@@ -112,7 +112,7 @@ $_SESSION['flag'] = $flag;
   For more information, contact:<br>
   Group Identity Project<br>
   group.id.project [at] gmail.com<br><br>
-<a href="https://twitter.com/groupidentity" class="twitter-follow-button" data-show-count="false" data-lang="en" data-size="large">Follow @GroupIdentity</a>
+<a href="https://twitter.com/GroupID_Project" class="twitter-follow-button" data-show-count="false" data-lang="en" data-size="large">Follow @GroupIdentity</a>
 </div>
 </div>
 
