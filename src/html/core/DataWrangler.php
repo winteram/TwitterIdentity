@@ -36,7 +36,7 @@ case 'demog':
   $edu = isset($demogs['edu']) ? $demogs['edu'] : "NULL";
 
   // prepare data to enter into db
-  $rqst = $dbh->prepare("UPDATE survey SET gender=:gender, yob=:yob, country=:country, ethnicity=:ethnic, income=:income, edu=:edu WHERE username=:uname");
+  $rqst = $dbh->prepare("UPDATE Survey SET gender=:gender, yob=:yob, country=:country, ethnicity=:ethnic, income=:income, edu=:edu WHERE username=:uname");
   $rqst->bindParam(':gender',$gender, PDO::PARAM_STR);
   $rqst->bindParam(':yob',$yob, PDO::PARAM_INT);
   $rqst->bindParam(':country',$country, PDO::PARAM_STR);
@@ -48,14 +48,14 @@ case 'demog':
   break;
 case 'polform': // party affiliation
   $party = isset($_REQUEST['party']) ? $_REQUEST['party'] : "NULL";
-  $rqst = $dbh->prepare("UPDATE survey SET party=:party WHERE username=:uname");
+  $rqst = $dbh->prepare("UPDATE Survey SET party=:party WHERE username=:uname");
   $rqst->bindParam(':party',$party, PDO::PARAM_STR);
   $rqst->bindParam(':uname',$username, PDO::PARAM_STR);
   $rqst->execute();
   break;
 case 'natform':
   $nationality = isset($_REQUEST['nationality']) ? $_REQUEST['nationality'] : "NULL";
-  $rqst = $dbh->prepare("UPDATE survey SET nationality=:nationality WHERE username=:uname");
+  $rqst = $dbh->prepare("UPDATE Survey SET nationality=:nationality WHERE username=:uname");
   $rqst->bindParam(':nationality',$nationality, PDO::PARAM_STR);
   $rqst->bindParam(':uname',$username, PDO::PARAM_STR);
   $rqst->execute();
@@ -67,7 +67,7 @@ case 'freeform':
   $ownform2 = isset($freeform['ownform2']) ? $freeform['ownform2'] : "NULL";
   $userURL = isset($freeform['ownURL']) ? $freeform['ownURL'] : "NULL";
 
-  $rqst = $dbh->prepare("UPDATE survey SET own_form1=:ownform1, own_form2=:ownform2, own_URL=:userURL WHERE username=:uname");
+  $rqst = $dbh->prepare("UPDATE Survey SET own_form1=:ownform1, own_form2=:ownform2, own_URL=:userURL WHERE username=:uname");
   $rqst->bindParam(':ownform1',$ownform1, PDO::PARAM_STR);
   $rqst->bindParam(':ownform2',$ownform2, PDO::PARAM_STR);
   $rqst->bindParam(':userURL',$userURL, PDO::PARAM_STR);
@@ -79,7 +79,7 @@ case 'nation': // answers to survey for national id
 case 'own': // answers to survey for free-form id
   $answers = $_REQUEST['data'];
   $varnames = array('bond','solidarity','committed','glad','proud','pleasant','goodfeel','think','identity','seemyself','common_avg','similar_avg','common_oth','similar_oth');
-  $query = 'UPDATE survey SET ';
+  $query = 'UPDATE Survey SET ';
   $ctr = 1;
   foreach($answers as $x)
     {
@@ -99,6 +99,25 @@ case 'own': // answers to survey for free-form id
     }  
   $rqst->bindParam(':uname',$username, PDO::PARAM_STR);
   $rqst->execute();
+  break;
+case 'comments': // comments on survey
+  // Insert comments
+  $comments = $_REQUEST['comments'];
+  $comments = isset($_REQUEST['comments']) ? $_REQUEST['comments'] : "NULL";
+
+  $rqst = $dbh->prepare("UPDATE Survey SET comments=:comments WHERE username=:uname");
+  $rqst->bindParam(':comments',$comments, PDO::PARAM_STR);
+  $rqst->bindParam(':uname',$username, PDO::PARAM_STR);
+  $rqst->execute();
+
+  // Add user to be crawled
+  $rqst = $dbh->prepare("INSERT INTO TwitterAccountNodeEntities SET Id=:userid, twitterId=:twitid, Marked=:mark, CreationDate=NOW(), Seed=:seed");
+  $rqst->bindParam(':userid',$_SESSION['userid'], PDO::PARAM_INT);
+  $rqst->bindParam(':twitid',$_SESSION['twitid'], PDO::PARAM_INT);
+  $rqst->bindParam(':mark',0, PDO::PARAM_INT);
+  $rqst->bindParam(':seed',1, PDO::PARAM_INT);
+  $rqst->execute();
+
   break;
 default:
   echo "ERR: invalid page";

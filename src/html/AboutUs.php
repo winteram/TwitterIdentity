@@ -7,7 +7,7 @@ global $dbh;
 // Get flag from input, write to db
 $flag = isset($_GET['flag']) ? $_GET['flag'] : "unknown";
 
-$rqst = $dbh->prepare("INSERT INTO visitors SET username=:uname");
+$rqst = $dbh->prepare("INSERT INTO Visitors SET username=:uname");
 $rqst->bindParam(':uname',$flag, PDO::PARAM_STR);
 $rqst->execute();
 

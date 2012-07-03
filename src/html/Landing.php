@@ -35,6 +35,7 @@ if (200 == $connection->http_code) {
 
   // Keep username in session variables
   $_SESSION['username'] = $user->screen_name;
+  $_SESSION['twitid'] = $user->id;
   $username = encode_salt($_SESSION['username']);
 
   // put responses to consent form in dB
@@ -44,30 +45,65 @@ if (200 == $connection->http_code) {
 
 
   // Check if survey exists for username
-  $rqst = $dbh->prepare("SELECT username FROM survey WHERE username=:uname");
+  $rqst = $dbh->prepare("SELECT username FROM Survey WHERE username=:uname");
   $rqst->bindParam(':uname',$username, PDO::PARAM_STR);
   $row = $rqst->execute();
   $result = $rqst->fetch(PDO::FETCH_ASSOC);
 
   // if username exists, it will match
   if ($result['username'] === $username) {
-    $query = "UPDATE authentic SET access_token=:token, access_secret=:secret, agree1=:agree1, agree2=:agree2, referred_by=:flag WHERE username=:uname";
+    $query = "UPDATE TwitterConnectionAccount SET AccessToken=:token, AccessTokenSecret=:secret, agree1=:agree1, agree2=:agree2, referred_by=:flag WHERE AccountName=:uname";
+    $rqst2 = $dbh->prepare($query);
+    $rqst2->bindParam(':uname',$username, PDO::PARAM_STR);
+    $rqst2->bindParam(':token',$access_token['oauth_token'], PDO::PARAM_STR);
+    $rqst2->bindParam(':secret',$access_token['oauth_token_secret'], PDO::PARAM_STR);
+    $rqst2->bindParam(':agree1',$agree1, PDO::PARAM_INT);
+    $rqst2->bindParam(':agree2',$agree2, PDO::PARAM_INT);
+    $rqst2->bindParam(':flag',$flag, PDO::PARAM_STR);
+    $rqst2->execute();
   } 
   else {
-    $rqst1 = $dbh->prepare("INSERT INTO survey SET username=:uname, started=NOW()");
+    // Add connection info
+    $query = "INSERT INTO TwitterConnectionAccount SET AccountName=:uname, AccessToken=:token, AccessTokenSecret=:secret, agree1=:agree1, agree2=:agree2, referred_by=:flag";
+    $rqst2 = $dbh->prepare($query);
+    $rqst2->bindParam(':uname',$username, PDO::PARAM_STR);
+    $rqst2->bindParam(':token',$access_token['oauth_token'], PDO::PARAM_STR);
+    $rqst2->bindParam(':secret',$access_token['oauth_token_secret'], PDO::PARAM_STR);
+    $rqst2->bindParam(':agree1',$agree1, PDO::PARAM_INT);
+    $rqst2->bindParam(':agree2',$agree2, PDO::PARAM_INT);
+    $rqst2->bindParam(':flag',$flag, PDO::PARAM_STR);
+    $rqst2->execute();
+    $_SESSION['userid'] = $dbh->lastInsertId();
+
+    // Add Profile information
+    $query = "INSERT INTO Profile VALUES (:userid, :uname, :screenname, :twitid, :location, :created_at, :fav_cnt, :url, :fol_cnt, :lang, :verified, :profile_bgd, :geo, :descrip, :tz, :frnd_cnt, :twt_cnt)";
+    $rqst2 = $dbh->prepare($query);
+    $rqst2->bindParam(':userid',$_SESSION['userid'], PDO::PARAM_INT);
+    $rqst2->bindParam(':uname',encode_salt($user->name), PDO::PARAM_STR);
+    $rqst2->bindParam(':screenname',$username, PDO::PARAM_STR);
+    $rqst2->bindParam(':twitid',encode_salt($user->id), PDO::PARAM_STR);
+    $rqst2->bindParam(':location',$user->location, PDO::PARAM_STR);
+    $rqst2->bindParam(':created_at',$user->created_at, PDO::PARAM_STR);
+    $rqst2->bindParam(':fav_cnt',$user->favourites_count, PDO::PARAM_INT);
+    $rqst2->bindParam(':url',$user->url, PDO::PARAM_STR);
+    $rqst2->bindParam(':fol_cnt',$user->followers_count, PDO::PARAM_INT);
+    $rqst2->bindParam(':lang',$user->lang, PDO::PARAM_STR);
+    $rqst2->bindParam(':verified',$user->verified ? 1 : 0, PDO::PARAM_INT);
+    $rqst2->bindParam(':profile_bgd',$user->profile_background_color, PDO::PARAM_STR);
+    $rqst2->bindParam(':geo',$user->geo_enabled ? 1 : 0, PDO::PARAM_INT);
+    $rqst2->bindParam(':descrip',$user->description, PDO::PARAM_STR);
+    $rqst2->bindParam(':tz',$user->time_zone, PDO::PARAM_STR);
+    $rqst2->bindParam(':frnd_cnt',$user->friends_count, PDO::PARAM_INT);
+    $rqst2->bindParam(':twt_cnt',$user->statuses_count, PDO::PARAM_INT);
+    $rqst2->execute();
+    $rqst2->debugDumpParams();
+
+    // Start survey
+    $rqst1 = $dbh->prepare("INSERT INTO Survey SET Id=:userid, username=:uname, started=NOW()");
+    $rqst1->bindParam(':userid',$_SESSION['userid'], PDO::PARAM_INT);
     $rqst1->bindParam(':uname',$username, PDO::PARAM_STR);
     $rqst1->execute();
-    $query = "INSERT INTO authentic SET username=:uname, access_token=:token, access_secret=:secret, agree1=:agree1, agree2=:agree2, referred_by=:flag";
   }
-
-  $rqst2 = $dbh->prepare($query);
-  $rqst2->bindParam(':uname',$username, PDO::PARAM_STR);
-  $rqst2->bindParam(':token',$access_token['oauth_token'], PDO::PARAM_STR);
-  $rqst2->bindParam(':secret',$access_token['oauth_token_secret'], PDO::PARAM_STR);
-  $rqst2->bindParam(':agree1',$agree1, PDO::PARAM_INT);
-  $rqst2->bindParam(':agree2',$agree2, PDO::PARAM_INT);
-  $rqst2->bindParam(':flag',$flag, PDO::PARAM_STR);
-  $rqst2->execute();
 
   // Send them to the survey
   header('Location: ./IdentitySurvey.php');
