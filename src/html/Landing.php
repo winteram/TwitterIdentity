@@ -75,6 +75,9 @@ if (200 == $connection->http_code) {
     $rqst2->execute();
     $_SESSION['userid'] = $dbh->lastInsertId();
 
+    $verified = $user->verified == 1 ? 1 : 0;
+    $geo = $user->geo_enabled == 1 ? 1 : 0;
+
     // Add Profile information
     $query = "INSERT INTO Profile VALUES (:userid, :uname, :screenname, :twitid, :location, :created_at, :fav_cnt, :url, :fol_cnt, :lang, :verified, :profile_bgd, :geo, :descrip, :tz, :frnd_cnt, :twt_cnt)";
     $rqst2 = $dbh->prepare($query);
@@ -88,15 +91,15 @@ if (200 == $connection->http_code) {
     $rqst2->bindParam(':url',$user->url, PDO::PARAM_STR);
     $rqst2->bindParam(':fol_cnt',$user->followers_count, PDO::PARAM_INT);
     $rqst2->bindParam(':lang',$user->lang, PDO::PARAM_STR);
-    $rqst2->bindParam(':verified',$user->verified ? 1 : 0, PDO::PARAM_INT);
+    $rqst2->bindParam(':verified',$verified, PDO::PARAM_INT);
     $rqst2->bindParam(':profile_bgd',$user->profile_background_color, PDO::PARAM_STR);
-    $rqst2->bindParam(':geo',$user->geo_enabled ? 1 : 0, PDO::PARAM_INT);
+    $rqst2->bindParam(':geo',$geo, PDO::PARAM_INT);
     $rqst2->bindParam(':descrip',$user->description, PDO::PARAM_STR);
     $rqst2->bindParam(':tz',$user->time_zone, PDO::PARAM_STR);
     $rqst2->bindParam(':frnd_cnt',$user->friends_count, PDO::PARAM_INT);
     $rqst2->bindParam(':twt_cnt',$user->statuses_count, PDO::PARAM_INT);
     $rqst2->execute();
-    $rqst2->debugDumpParams();
+    //    $rqst2->debugDumpParams();
 
     // Start survey
     $rqst1 = $dbh->prepare("INSERT INTO Survey SET Id=:userid, username=:uname, started=NOW()");
