@@ -29,7 +29,7 @@ require_once('../safe/config.inc');
 		<div class="section-header" id="section-header-0">Instructions</div>
 		<div id="instructions-wrapper" class="wrapper">
 			<p> Welcome to the study! To start you will be asked a few demographic questions. You will then be presented a series of questions about what you identify with. The entire survey should take less than 15 minutes and could greatly help us understand how people express their identities in on-line social networks. Thanks in advance for your participation.  </p>
-			<div class="ctr"><input type="button" value="Continue" onclick="getDemographics()"/></div>
+			<div class="ctr"><input type="button" value="Continue" onClick="getDemographics()"/></div>
 		</div>
 
 		<div class="section-header" id="demographics_h">Demographics</div>
@@ -192,7 +192,19 @@ require_once('../safe/config.inc');
 		<input type="button" value="Submit" onClick= "FreeCheck()"/>
 
 	</ol>
+    
+      <div class="section-header" id="feedback_h">Feedback</div> </br>
+	<div id="GetFeedback-wrapper" class="wrapper"> </br>
 
+		<center> <p> <font size ="5"> We value any feedback you would like to give us on this study. Please type comments below.</font></p> </center> </br> </br>
+       
+        <center><textarea id="feedback" class= "LargerText" cols="60" rows="20" name="comment"></textarea> </br></center>
+       
+		
+		<center><input type="button" value="Submit Feedback" onClick="Thanks()"/></center>
+
+	</div>
+    
 
 
 	<ol id="displayQ-wrapper_party" class= "wrapper"></ol>

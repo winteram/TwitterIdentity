@@ -262,13 +262,28 @@ function surveyValidate(iden)// added iden as an input
 	    if(iden=="own")
 		{   
 		    $("#free_h").hide();
-		    $("#thanks").show(500);
+			
+			$("#feedback_h").show();
+		    $("#GetFeedback-wrapper").show(500);
 		    //window.location="ThankYou.php"; 
 		}
 	}
 }
 
 
+function Thanks()
+{   
+    comments = $("#feedback").val();
+
+    $.post("core/DataWrangler.php", {"page":"comments", "username":username, "comments":comments });
+	
+	$("#feedback_h").hide();
+	$("#GetFeedback-wrapper").hide(500);
+	
+	$("#thanks").show(500)
+	
+	
+}
 
 
 // Need to insert other branches this use the "order" variable to determine sequences as wel 
