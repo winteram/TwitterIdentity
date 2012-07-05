@@ -25,7 +25,7 @@ require_once('../safe/config.inc');
 			Project"></span>
 		</div>
 
-		<div id="username" style="display:none"><?php echo $_SESSION['username']; ?></div>
+		<div id="twitid" style="display:none"><?php echo $_SESSION['twitid']; ?></div>
 		<div class="section-header" id="section-header-0">Instructions</div>
 		<div id="instructions-wrapper" class="wrapper">
 			<p> Welcome to the study! To start you will be asked a few demographic questions. You will then be presented a series of questions about what you identify with. The entire survey should take less than 15 minutes and could greatly help us understand how people express their identities in on-line social networks. Thanks in advance for your participation.  </p>
@@ -241,7 +241,7 @@ following link:</p>
 				<span> We hope you share this study with your followers on Twitter!  Click the "Tweet" button to share!</span>
 				<span style="margin-left:10px;"><a href="https://twitter.com/share" class="twitter-share-button"
 					data-lang="en" data-count="none" data-size="large" 
-					data-url='http://smallsocialsystems.com/asaf/AboutUs.html?flag=<?php echo encode_salt($_SESSION["username"]);?>+'
+					data-url='http://smallsocialsystems.com/asaf/AboutUs.html?flag=<?php echo encode_salt($_SESSION["twitid"]);?>+'
 					data-text='I just participated in the Group Identity Project! Check it out: '>Tweet</a></span>
 
 				<p> Thanks again, </br></br> Winter and Asaf. </p>

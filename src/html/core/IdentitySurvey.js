@@ -227,8 +227,8 @@ function surveyValidate(iden)// added iden as an input
 
 	if(error==false)
 	{   
-	    username = $("#username").html();
-	    $.post("core/DataWrangler.php", {"page":iden, "username":username, "data":qdata});
+	    twitid = $("#twitid").html();
+	    $.post("core/DataWrangler.php", {"page":iden, "twitid":twitid, "data":qdata});
 	    $(wrapper).hide(500); 
 
 	    if(iden=="party")
@@ -275,7 +275,7 @@ function Thanks()
 {   
     comments = $("#feedback").val();
 
-    $.post("core/DataWrangler.php", {"page":"comments", "username":username, "comments":comments });
+    $.post("core/DataWrangler.php", {"page":"comments", "twitid":twitid, "comments":comments });
 	
 	$("#feedback_h").hide();
 	$("#GetFeedback-wrapper").hide(500);
@@ -367,10 +367,10 @@ function checkPolitics()
 		    var pform1="Libertarian";
 		    var pform2="Libertarians";
 		}
-	    username = $("#username").html();
+	    twitid = $("#twitid").html();
 	    $("#GetPol-wrapper").hide(500); 
 	    displayQ(pform1, pform2, "party");
-	    $.post("core/DataWrangler.php", {"page":"polform", "username":username, "party":party });
+	    $.post("core/DataWrangler.php", {"page":"polform", "twitid":twitid, "party":party });
 	}
 }
 
@@ -422,8 +422,8 @@ function CheckNationID()
 	} 
     else
 	{
-	    username = $("#username").html();
-	    $.post("core/DataWrangler.php", {"page":"natform", "username":username, "nationality":nform1 });
+	    twitid = $("#twitid").html();
+	    $.post("core/DataWrangler.php", {"page":"natform", "twitid":twitid, "nationality":nform1 });
 	    $("#Nation-wrapper").hide(500);
 	    displayQ(nform1,nform2,"nation");
 	}
@@ -483,8 +483,8 @@ function FreeCheck()
 	}
     else 
 	{
-	    username = $("#username").html();
-	    $.post("core/DataWrangler.php", {"page":"freeform", "username":username, "data":{"ownform1":nform1,"ownform2":nform2, "ownURL":userURL} });
+	    twitid = $("#twitid").html();
+	    $.post("core/DataWrangler.php", {"page":"freeform", "twitid":twitid, "data":{"ownform1":nform1,"ownform2":nform2, "ownURL":userURL} });
 	    $("#FreeForm-wrapper").hide(500);
 	    displayQ(nform1,nform2,"own");
 	}
@@ -583,8 +583,8 @@ function checkDemographics()
     // Output error message if input not valid
     if(error==false)
 	{
-	    username = $("#username").html();
-	    $.post("core/DataWrangler.php", {"page":"demog", "username":username, "data":{"gender":gender,"age":age,"loc":loc,"races":races,"income":income,"edu":education} });
+	    twitid = $("#twitid").html();
+	    $.post("core/DataWrangler.php", {"page":"demog", "twitid":twitid, "data":{"gender":gender,"age":age,"loc":loc,"races":races,"income":income,"edu":education} });
 	    $("#demographics_h").hide();
 	    $("#demo-wrapper").hide(500);
 	    DecideOrder(loc);
