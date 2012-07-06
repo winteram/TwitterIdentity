@@ -40,14 +40,12 @@ $_SESSION['flag'] = $flag;
     <div class="center-section">
       <div class="center-title">Group Identities</div>
       <div class="center-para">
-	Every human being, from every walk of life, belongs to a social
-	group.  One belongs to a family, to a city, to a country, to a
-	culture. People join other groups, fraternities, social clubs,
-	activity groups, sports teams.  All of the groups we belong to in
-	some way defines who we are, but not all groups are equally
-	important to our self-identity.  The groups we identify most
-	strongly with have a bigger sway on our behavior&mdash;and this is
-	what we hope to detect through Twitter.
+	Every human being, from every walk of life, belongs to multiple social groups. 
+    We belong to a family, to a city, to a country, to a culture. People join other 
+    groups, fraternities, social clubs, activity groups, sports teams. All of the groups 
+    we belong to in some way defines who we are, but not all groups are equally important
+    to our self-identity. The groups we identify most strongly with have a bigger sway on 
+    our behavior&mdash;and this is what we hope to detect through Twitter.
       </div>
     </div>
     <div class="center-section">
@@ -72,7 +70,7 @@ $_SESSION['flag'] = $flag;
       </div>
     </div>
     <button id="participate-button" class="ui-button ui-button-text-only ui-widget ui-state-default
-	ui-corner-all" onclick="document.location.href='Consent.php';">
+	ui-corner-all" onClick="document.location.href='Consent.php';">
       <span class="ui-button-text">Participate!</span>
     </button>
   </div>
