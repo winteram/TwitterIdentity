@@ -1,6 +1,6 @@
 # Before running this program, make sure there is an empty file called Tweeted.txt and put it in the working directory.
 
-import sys, time, json, os
+import sys, time, json, os, random
 
 from twitter import *
 
@@ -103,10 +103,25 @@ def pullUsername(t):
 
 
 def TweetUser(username,t):
-    
-    message = '@' + username +', Please consider participating in our short experiment on how people express \
-their identities on Twitter http://smallsocialsystems.com/asaf/AboutUs.php?flag=' + username
 
+
+    k = random.randrange(0,3)
+
+    if k == 0:
+        message = '@' + username + ", You have been randomly selected to participate in survey on Group Identity on Twitter. \
+Click here to participate:http://smallsocialsystems.com/asaf/AboutUs.php?1_flag=" + username
+
+    elif k == 1:
+
+        message = '@' + username + ", Please consider participating in our short experiment on how people express their identities on \
+Twitter:http://smallsocialsystems.com/asaf/AboutUs.php?2_flag=" + username
+
+    else:
+
+        message = '@' + username + ", Please consider participating in our short survey on how people express their identities on \
+Twitter: http://smallsocialsystems.com/asaf/AboutUs.php?3_flag=" + username
+
+    
     try:
         result = t.statuses.update(status=message)
     except TwitterHTTPError as e:

@@ -11,14 +11,14 @@ X hash username & access tokens with secret salt (private encode & decode functi
 X verify only allowed entities in nationalities
 X center participate button in AboutUs
 / put disconnected user back into correct page 
-
-- pull user profile data in background
-- combine database structure for crawl & survey
+X pull user profile data in background
+X combine database structure for crawl & survey
 - test server for load?
 
 AutoTweeter
 -------
-- pull random users from stream
-- compose message with random user or from CL
-- create link with username
-- tweet with link
+X pull random users from stream
+X compose message with random user or from CL
+X create link with username
+X tweet with link
+X randomize tweet message
