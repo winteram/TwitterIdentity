@@ -1,5 +1,5 @@
-truncate table Profile;
-truncate table Survey;
-truncate table TwitterAccountNodeEntities;
-truncate table TwitterConnectionAccount;
-truncate table Visitors;
+truncate table profile;
+truncate table survey;
+truncate table twitteraccountnode;
+truncate table twitterconnectionaccounts;
+truncate table visitors;

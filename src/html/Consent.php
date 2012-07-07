@@ -39,7 +39,12 @@ function verify_consent()
 
 <?php
    if( isset($_GET['error']) ) {
-     echo "<div class='error'> We're sorry, there was a problem with the authentication through Twitter.  Please try again. </div>";
+     if( $_GET['error']==1) {
+       echo "<div class='error'> We're sorry, there was a problem with the oAuth in Twitter.  Please ensure you have cookies enabled for this site.  Scroll to the bottom of the page to try again. </div>";
+     }
+     else {
+       echo "<div class='error'> We're sorry, there was a problem with the authentication through Twitter.  Please try again. </div>";
+     }
    }
 ?>
 <div id="consent-form">

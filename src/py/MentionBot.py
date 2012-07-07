@@ -15,29 +15,6 @@ t = Twitter(auth=OAuth(oauth_token, oauth_secret, CONSUMER_KEY, CONSUMER_SECRET)
 
 maxtweeted = 10 # Initially we don't want to send more than 10.
 
-
-
-
-if __name__ == "__main__": #If we're calling the entire module, as opposed to a specific function
-
-    if len(sys.argv) == 1: #If no rate number was input in the call
-        argin = "asaf1" #Just tweet asaf
-
-    else:
-        argin = sys.argv[1] #Corresponds to tweet rate
-
-begin_time = time.time()
-
-
-AutoTweet(argin) # Calls the main function which executes all the elements of the bot. 
-
-
-print "Total time: " + str(time.time() - begin_time)
-
-
-
-
-
 # The code related to command lines still needs to be tested in the AutoTweet function
 
 def AutoTweet(argin): 
@@ -109,17 +86,17 @@ def TweetUser(username,t):
 
     if k == 0:
         message = '@' + username + ", You have been randomly selected to participate in survey on Group Identity on Twitter. \
-Click here to participate:http://smallsocialsystems.com/asaf/AboutUs.php?1_flag=" + username
+Click here to participate:http://smallsocialsystems.com/asaf/AboutUs.php?flag=" + username + "_1"
 
     elif k == 1:
 
         message = '@' + username + ", Please consider participating in our short experiment on how people express their identities on \
-Twitter:http://smallsocialsystems.com/asaf/AboutUs.php?2_flag=" + username
+Twitter:http://smallsocialsystems.com/asaf/AboutUs.php?flag=" + username + "_2"
 
     else:
 
         message = '@' + username + ", Please consider participating in our short survey on how people express their identities on \
-Twitter: http://smallsocialsystems.com/asaf/AboutUs.php?3_flag=" + username
+Twitter: http://smallsocialsystems.com/asaf/AboutUs.php?flag=" + username = "_3"
 
     
     try:
@@ -146,9 +123,16 @@ def appendName(username):
 
 
 
-        
-                        
-                    
-                
-    
-    
+if __name__ == "__main__": #If we're calling the entire module, as opposed to a specific function
+
+    if len(sys.argv) == 1: #If no rate number was input in the call
+        argin = "asaf1" #Just tweet asaf
+
+    else:
+        argin = sys.argv[1] #Corresponds to tweet rate
+
+    begin_time = time.time()
+
+    AutoTweet(argin) # Calls the main function which executes all the elements of the bot. 
+
+    print "Total time: " + str(time.time() - begin_time)

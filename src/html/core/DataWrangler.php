@@ -36,7 +36,7 @@ case 'demog':
   $edu = isset($demogs['edu']) ? $demogs['edu'] : "NULL";
 
   // prepare data to enter into db
-  $rqst = $dbh->prepare("UPDATE Survey SET gender=:gender, yob=:yob, country=:country, ethnicity=:ethnic, income=:income, edu=:edu WHERE Id=:twitid");
+  $rqst = $dbh->prepare("UPDATE survey SET gender=:gender, yob=:yob, country=:country, ethnicity=:ethnic, income=:income, edu=:edu WHERE Id=:twitid");
   $rqst->bindParam(':gender',$gender, PDO::PARAM_STR);
   $rqst->bindParam(':yob',$yob, PDO::PARAM_INT);
   $rqst->bindParam(':country',$country, PDO::PARAM_STR);
@@ -48,14 +48,14 @@ case 'demog':
   break;
 case 'polform': // party affiliation
   $party = isset($_REQUEST['party']) ? $_REQUEST['party'] : "NULL";
-  $rqst = $dbh->prepare("UPDATE Survey SET party=:party WHERE Id=:twitid");
+  $rqst = $dbh->prepare("UPDATE survey SET party=:party WHERE Id=:twitid");
   $rqst->bindParam(':party',$party, PDO::PARAM_STR);
   $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
   $rqst->execute();
   break;
 case 'natform':
   $nationality = isset($_REQUEST['nationality']) ? $_REQUEST['nationality'] : "NULL";
-  $rqst = $dbh->prepare("UPDATE Survey SET nationality=:nationality WHERE Id=:twitid");
+  $rqst = $dbh->prepare("UPDATE survey SET nationality=:nationality WHERE Id=:twitid");
   $rqst->bindParam(':nationality',$nationality, PDO::PARAM_STR);
   $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
   $rqst->execute();
@@ -67,7 +67,7 @@ case 'freeform':
   $ownform2 = isset($freeform['ownform2']) ? $freeform['ownform2'] : "NULL";
   $userURL = isset($freeform['ownURL']) ? $freeform['ownURL'] : "NULL";
 
-  $rqst = $dbh->prepare("UPDATE Survey SET own_form1=:ownform1, own_form2=:ownform2, own_URL=:userURL WHERE Id=:twitid");
+  $rqst = $dbh->prepare("UPDATE survey SET own_form1=:ownform1, own_form2=:ownform2, own_URL=:userURL WHERE Id=:twitid");
   $rqst->bindParam(':ownform1',$ownform1, PDO::PARAM_STR);
   $rqst->bindParam(':ownform2',$ownform2, PDO::PARAM_STR);
   $rqst->bindParam(':userURL',$userURL, PDO::PARAM_STR);
@@ -79,7 +79,7 @@ case 'nation': // answers to survey for national id
 case 'own': // answers to survey for free-form id
   $answers = $_REQUEST['data'];
   $varnames = array('bond','solidarity','committed','glad','proud','pleasant','goodfeel','think','identity','seemyself','common_avg','similar_avg','common_oth','similar_oth');
-  $query = 'UPDATE Survey SET ';
+  $query = 'UPDATE survey SET ';
   $ctr = 1;
   foreach($answers as $x)
     {
@@ -105,7 +105,7 @@ case 'comments': // comments on survey
   $comments = $_REQUEST['comments'];
   $comments = isset($_REQUEST['comments']) ? $_REQUEST['comments'] : "NULL";
 
-  $rqst = $dbh->prepare("UPDATE Survey SET comments=:comments WHERE Id=:twitid");
+  $rqst = $dbh->prepare("UPDATE survey SET comments=:comments WHERE Id=:twitid");
   $rqst->bindParam(':comments',$comments, PDO::PARAM_STR);
   $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
   $rqst->execute();
@@ -113,7 +113,7 @@ case 'comments': // comments on survey
   // Add user to be crawled
   $mark = 0;
   $seed = 1;
-  $rqst = $dbh->prepare("INSERT INTO TwitterAccountNodeEntities SET Id=:twitid, Marked=:mark, CreationDate=NOW(), Seed=:seed");
+  $rqst = $dbh->prepare("INSERT INTO twitteraccountnode SET Id=:twitid, Marked=:mark, CreationDate=NOW(), Seed=:seed");
   $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
   $rqst->bindParam(':mark',$mark, PDO::PARAM_INT);
   $rqst->bindParam(':seed',$seed, PDO::PARAM_INT);
