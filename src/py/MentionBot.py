@@ -3,13 +3,7 @@
 import sys, time, json, os, random
 
 from twitter import *
-
-#Opted to put the variables in the file as the function, rather than importing them from
-
-oauth_token = "563118238-aVS68vGHeiWuoLCHIOudAPa6hmhnwIBsSkUfeBXt"
-oauth_secret = "M6h51pETL8CWkowEeyh6cb7gNpNTyBpl7fLJk45J4Y"
-CONSUMER_KEY = "PCMmY6ERIWJM9tgjIiQRwA"
-CONSUMER_SECRET = "YWeRQPivyjc9ZUSLQbaFj8enJviPZ8cw55mu3qSuJdk"
+from encrypt import *
 
 maxtweeted = 5 # Initially we don't want to send more than 10.
 
@@ -84,11 +78,11 @@ def TweetUser(username,t):
     tweet = ""
 
     if k == 0:
-        tweet = "@" + username + ", you have been randomly selected to participate in a study on identities in Twitter. Click here: http://smallsocialsystems.com/asaf/AboutUs.php?flag=" + username + "_1"
+        tweet = "@" + username + ", you have been randomly selected to participate in a study on identities in Twitter. Click here: http://smallsocialsystems.com/asaf/AboutUs.php?flag=" + encode_salt(username) + "_1"
     elif k == 1:
-        tweet = "@" + username + ", please participate in our short experiment on how people express their identities on Twitter: http://smallsocialsystems.com/asaf/AboutUs.php?flag=" + username + "_2"
+        tweet = "@" + username + ", please participate in our short experiment on how people express their identities on Twitter: http://smallsocialsystems.com/asaf/AboutUs.php?flag=" + encode_salt(username) + "_2"
     else:
-        tweet = "@" + username + ", please participate in our short survey on how people express their identities on Twitter: http://smallsocialsystems.com/asaf/AboutUs.php?flag=" + username + "_3"
+        tweet = "@" + username + ", please participate in our short survey on how people express their identities on Twitter: http://smallsocialsystems.com/asaf/AboutUs.php?flag=" + encode_salt(username) + "_3"
 
     
     try:
