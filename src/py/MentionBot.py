@@ -1,4 +1,4 @@
-# Before running this program, make sure there is an empty file called Tweeted.txt and put it in the working directory.
+# Before running this program, make sure there is an empty file called tweeted.txt and put it in the working directory.
 
 import sys, time, json, os, random
 
@@ -11,67 +11,65 @@ oauth_secret = "M6h51pETL8CWkowEeyh6cb7gNpNTyBpl7fLJk45J4Y"
 CONSUMER_KEY = "PCMmY6ERIWJM9tgjIiQRwA"
 CONSUMER_SECRET = "YWeRQPivyjc9ZUSLQbaFj8enJviPZ8cw55mu3qSuJdk"
 
-t = Twitter(auth=OAuth(oauth_token, oauth_secret, CONSUMER_KEY, CONSUMER_SECRET))
-
-maxtweeted = 10 # Initially we don't want to send more than 10.
+maxtweeted = 5 # Initially we don't want to send more than 10.
 
 # The code related to command lines still needs to be tested in the AutoTweet function
 
-def AutoTweet(argin): 
+def getTweeted():
+    g = open("tweeted.txt")
+
+    names = list()
+
+    for line in g:
+        names.append(line.rstrip('\n'))
+
+    return names
+
+
+def AutoTweet(argin, t): 
 
     already_tweeted = getTweeted()
 
-    N = 3600/min(argin, 320) # Rate to tweet in seconds. 
 
-    usernames = pullUsername(t) # Pull from stream
-
-    if int(argin) == argin:
+    try:
+        argin = int(argin)
+    #If numer, corresponding to twee rate, is input in a command, this can be considered a test sent to Asaf
+    except ValueError:
+        TweetUser(argin,t)        
+    else:
+        N = 3600/min(argin, 320) # Rate to tweet in seconds. 
         numtweeted = 0
-        
+
 	while numtweeted < maxtweeted:
+            usernames = pullUsername(t) # Pull from stream
 
 	    for user in usernames:
 
                 #Don't tweet names that have been tweeted
                 if user not in already_tweeted:
 
-
                     # Make sure that number doesn't exceed max within the loop.
-
                     if numtweeted < maxtweeted:
 
                         time.sleep(N) # Pause for N seconds to ensure desired rate
 
-                        TweetUser(user,t)
-
+                        #TweetUser(user,t)
+                        TweetUser('GroupID_Project',t)
                         numtweeted += 1
-
-
-    #If numer, corresponding to twee rate, is input in a command, this can be considered a test sent to Asaf
-    else:
-
-        TweetUser(argin,t)
-
-
 
     
 
 def pullUsername(t): 
 
-    tweeted=open("tweeted.txt","a")
-    toTweet1 = list()
+    tweeted=open("profiles.txt","a")
+    toTweet = list()
     newstream = t.statuses.public_timeline()
 
     for tweet in newstream:
-        
-        toTweet1.append(tweet['user']['screen_name'])
-        json.dumps(tweet['user'], tweeted)
-        tweeted.close()
+        toTweet.append(str(tweet['user']['screen_name']))
+        tweeted.write(json.dumps(tweet['user'], tweeted) + "\n")
 
-    toTweet = list()
-
-    for i in toTweet1:
-        toTweet.append(str(i)) # take off the leading u in the list, make all elements strings
+    tweeted.close()
 
     return toTweet
 
@@ -83,24 +81,18 @@ def TweetUser(username,t):
 
 
     k = random.randrange(0,3)
+    tweet = ""
 
     if k == 0:
-        message = '@' + username + ", You have been randomly selected to participate in survey on Group Identity on Twitter. \
-Click here to participate:http://smallsocialsystems.com/asaf/AboutUs.php?flag=" + username + "_1"
-
+        tweet = "@" + username + ", you have been randomly selected to participate in a study on identities in Twitter. Click here: http://smallsocialsystems.com/asaf/AboutUs.php?flag=" + username + "_1"
     elif k == 1:
-
-        message = '@' + username + ", Please consider participating in our short experiment on how people express their identities on \
-Twitter:http://smallsocialsystems.com/asaf/AboutUs.php?flag=" + username + "_2"
-
+        tweet = "@" + username + ", please participate in our short experiment on how people express their identities on Twitter: http://smallsocialsystems.com/asaf/AboutUs.php?flag=" + username + "_2"
     else:
-
-        message = '@' + username + ", Please consider participating in our short survey on how people express their identities on \
-Twitter: http://smallsocialsystems.com/asaf/AboutUs.php?flag=" + username = "_3"
+        tweet = "@" + username + ", please participate in our short survey on how people express their identities on Twitter: http://smallsocialsystems.com/asaf/AboutUs.php?flag=" + username + "_3"
 
     
     try:
-        result = t.statuses.update(status=message)
+        result = t.statuses.update(status=tweet)
     except TwitterHTTPError as e:
         print "Http error: ", e
     except TwitterError as f:
@@ -109,14 +101,13 @@ Twitter: http://smallsocialsystems.com/asaf/AboutUs.php?flag=" + username = "_3"
         print "Other error:", sys.exc_info()[0]
     else:
 	#     (function) Append tweeted names to file
-
         appendName(username)
 
 
 
 
 def appendName(username):
-    f=open("Tweeted.txt", "a")
+    f=open("tweeted.txt", "a")
     f.write(username + "\n")
     f.close
     
@@ -132,7 +123,8 @@ if __name__ == "__main__": #If we're calling the entire module, as opposed to a 
         argin = sys.argv[1] #Corresponds to tweet rate
 
     begin_time = time.time()
+    t = Twitter(auth=OAuth(oauth_token, oauth_secret, CONSUMER_KEY, CONSUMER_SECRET))
 
-    AutoTweet(argin) # Calls the main function which executes all the elements of the bot. 
+    AutoTweet(argin, t) # Calls the main function which executes all the elements of the bot. 
 
     print "Total time: " + str(time.time() - begin_time)
