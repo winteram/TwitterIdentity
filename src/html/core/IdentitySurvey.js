@@ -13,6 +13,10 @@ $(document).ready(function() {
 	    { order= 1}
 	else
 	    { order= 2}
+		
+		once = false
+		
+		
 
 	// check what progress has been made
 	// show demographics questions at beginning
@@ -112,27 +116,7 @@ function displayQ(form1, form2, iden) // added iden as the third input
     var sent = []; 
 	
     form2_c= capitalize(form2); // captilizes first letter, when necessary. 
-    
-	
-    if(iden=="party")
-	{
-	    var sent = new Array();
-	    sent.push('I feel a bond with ' + form2);
-	    sent.push('I feel solidarity with ' + form2);
-	    sent.push('I feel committed to ' + form2);
-	    sent.push('I am glad to be a ' + form1);
-	    sent.push('I think that ' + form2 + ' have a lot to be proud of');
-	    sent.push('It is pleasant to be a ' + form1);
-	    sent.push('Being a ' + form1 + ' gives me a good feeling');
-	    sent.push('I often think about the fact that I am a ' + form1);
-	    sent.push('The fact that I am a ' + form1 + ' is an important part of my identity');
-	    sent.push('Being a ' + form1 + ' is an important part of how I see myself');
-	    sent.push('I have a lot in common with the average ' + form1);
-	    sent.push('I am similar to the average ' + form1); // This one is modified slightly
-	    sent.push(form2_c + ' have a lot in common with each other');
-	    sent.push(form2_c + ' are very similar to each other');
-	}
-	else
+    if(iden == "nat")
 	{
 	    var sent = new Array();
 	    sent.push('I feel a bond with ' + form2);
@@ -151,6 +135,26 @@ function displayQ(form1, form2, iden) // added iden as the third input
 	    sent.push(form2_c + ' are very similar to each other');
 	}
 
+	
+    else
+	{
+	    var sent = new Array();
+	    sent.push('I feel a bond with ' + form2);
+	    sent.push('I feel solidarity with ' + form2);
+	    sent.push('I feel committed to ' + form2);
+	    sent.push('I am glad to be a ' + form1);
+	    sent.push('I think that ' + form2 + ' have a lot to be proud of');
+	    sent.push('It is pleasant to be a ' + form1);
+	    sent.push('Being a ' + form1 + ' gives me a good feeling');
+	    sent.push('I often think about the fact that I am a ' + form1);
+	    sent.push('The fact that I am a ' + form1 + ' is an important part of my identity');
+	    sent.push('Being a ' + form1 + ' is an important part of how I see myself');
+	    sent.push('I have a lot in common with the average ' + form1);
+	    sent.push('I am similar to the average ' + form1); // This one is modified slightly
+	    sent.push(form2_c + ' have a lot in common with each other');
+	    sent.push(form2_c + ' are very similar to each other');
+	}
+	
 	for(i=0; i<sent.length; i++)
 	{
 	    likert = createLikert( iden + 'likert_' + i, iden + '_agree_' + i);
@@ -179,8 +183,11 @@ function displayQ(form1, form2, iden) // added iden as the third input
 function surveyValidate(iden)// added iden as an input
 {
 	var j = 0;
-	var error = false; 
-	$("li").css('color','black');
+	var error= false; 
+	
+
+	
+	
 
 	//var errmsg= ''; 
 	//var error3= '<div id="error'+ iden +'" class="error"/>'	
@@ -220,16 +227,13 @@ function surveyValidate(iden)// added iden as an input
 	  } 
 	*/
 	
-	if(error==true)
-	{ 
-	    $('#error'+ iden).html("Oops. One or more items have not been filled out. Please complete the item(s) above appearing in red.");
-	}
-
-	if(error==false)
+	
+	if(error==false || once == true)
 	{   
-	    twitid = $("#twitid").html();
-	    $.post("core/DataWrangler.php", {"page":iden, "twitid":twitid, "data":qdata});
+	    username = $("#username").html();
+	    $.post("core/DataWrangler.php", {"page":iden, "username":username, "data":qdata});
 	    $(wrapper).hide(500); 
+		once = false
 
 	    if(iden=="party")
 		{   
@@ -268,6 +272,17 @@ function surveyValidate(iden)// added iden as an input
 		    //window.location="ThankYou.php"; 
 		}
 	}
+	
+	else
+	{ 
+	    $('#error'+ iden).html('Oops. We noticed you left one or more items blank (shown in red above). Your responses are most useful to us when you answer every question, so we would appreciate it if you fill those in. But if you choose not to answer those specific items you can press "continue" to move on'); 
+	once = true	 
+	
+	}
+	
+	
+	
+
 }
 
 
@@ -275,12 +290,12 @@ function Thanks()
 {   
     comments = $("#feedback").val();
 
-    $.post("core/DataWrangler.php", {"page":"comments", "twitid":twitid, "comments":comments });
+    $.post("core/DataWrangler.php", {"page":"comments", "username":username, "comments":comments });
 	
 	$("#feedback_h").hide();
 	$("#GetFeedback-wrapper").hide(500);
 	
-	$("#thanks").show(500)
+	$("#thanks").show(500); 
 	
 	
 }
@@ -367,10 +382,10 @@ function checkPolitics()
 		    var pform1="Libertarian";
 		    var pform2="Libertarians";
 		}
-	    twitid = $("#twitid").html();
+	    username = $("#username").html();
 	    $("#GetPol-wrapper").hide(500); 
 	    displayQ(pform1, pform2, "party");
-	    $.post("core/DataWrangler.php", {"page":"polform", "twitid":twitid, "party":party });
+	    $.post("core/DataWrangler.php", {"page":"polform", "username":username, "party":party });
 	}
 }
 
@@ -388,6 +403,8 @@ function CheckNationID()
     n_end = nform1.slice(-1);
     n_ese= nform1.slice(-3);
     //n_ch= nform1.slice(-2);
+	
+	//("li").addClass("black")
 	
     if(n_end == "s" || n_end == "x" || n_end == "z" || n_end =="h" || n_ese == "ese")
 	{
@@ -410,23 +427,30 @@ function CheckNationID()
 	    if($.inArray(nation_list[nation],nationalities)==-1)
 		{
 		    error = true;
-		    errmsg += '<p class="error">Please enter one or more nationalities from the available list</p>';
+		    errmsg += '<p class="error"> Oops. Please type your nationality to proceed.</p>'
 		    $("#nationalityq").css('color','red'); 
 		}
 	}
 
+
+	 if(error == false)
+		{
+			
+			once = false
+			username = $("#username").html();
+			$.post("core/DataWrangler.php", {"page":"natform", "username":username, "nationality":nform1 });
+			$("#Nation-wrapper").hide(500);
+			displayQ(nform1,nform2,"nation");
+			
+		}
 	
-    if(error==true)
-	{
-		$("#error-4").html(errmsg);
-	} 
     else
-	{
-	    twitid = $("#twitid").html();
-	    $.post("core/DataWrangler.php", {"page":"natform", "twitid":twitid, "nationality":nform1 });
-	    $("#Nation-wrapper").hide(500);
-	    displayQ(nform1,nform2,"nation");
-	}
+	{   $("#nationalityq").css('color','red'); 
+		$("#error-4").html(errmsg);
+		once = true
+		
+	} 
+    
 }
 
 function validURL(userURL){
@@ -451,7 +475,6 @@ function FreeCheck()
     
     error = false;
 	
-    $("li").css('color','black');
 
     if(nform1.length < 3)
 	{ 
@@ -462,6 +485,11 @@ function FreeCheck()
 	    $("#freeq1").css('color','red');
 	    
 	}// add more to this later
+	else
+	{
+		$("#freeq1").css('color','black');
+		
+	} 
 
     if(nform2.length < 3)
 	{ 
@@ -470,24 +498,37 @@ function FreeCheck()
 	    //$("#freeq2").addClass("error")
 	    $("#freeq2").css('color','red');
 	}
+	else
+	{
+		$("#freeq2").css('color','black');
+		
+	} 
     if(!validURL(userURL))
 	{ 
 	    error = true;
 	    errmsg += '<p> Please provide a valid URL </p>';
 	    //$("#freeq2").addClass("error")
-	    $("#freeq2").css('color','red');
-	}    
-    if(error==true)
+	    $("#freeq3").css('color','red');
+	}  
+	else
 	{
-	    $("#error-5").html(errmsg);
-	}
-    else 
-	{
-	    twitid = $("#twitid").html();
-	    $.post("core/DataWrangler.php", {"page":"freeform", "twitid":twitid, "data":{"ownform1":nform1,"ownform2":nform2, "ownURL":userURL} });
+		$("#freeq3").css('color','black');
+		
+	} 
+	
+	  if(error== false)
+	{   once = false
+	    username = $("#username").html();
+	    $.post("core/DataWrangler.php", {"page":"freeform", "username":username, "data":{"ownform1":nform1,"ownform2":nform2, "ownURL":userURL} });
 	    $("#FreeForm-wrapper").hide(500);
 	    displayQ(nform1,nform2,"own");
+	}  
+    else
+	{
+	    $("#error-5").html(errmsg);
+		
 	}
+  
 }
 
 function checkDemographics()
@@ -497,7 +538,7 @@ function checkDemographics()
     loc = $("#sel_country option:selected").val();
     races = [];
     $("input[name=race]:checked").each(function() { races.push($(this).val()); });
-    income = $("#income").val();
+    income = $("#income option:selected").val();
     education = $("#edu option:selected").val();
 
     // alert(income+"\n"+parseFloat(income)+"\n");
@@ -515,85 +556,67 @@ function checkDemographics()
     if(gender==null)
 	{
 	    error=true;
-	    errmsg += "<div class='error'>Please choose an option for gender</div>";
+	    //errmsg += "<div class='error'>Please choose an option for gender</div>";
 		//$("#genderq").addClass("error");
 		$("#genderq").css('color','red');
 		
 	} 
-	else
-	{
-		$("#genderq").css('color','black');
-		
-		
-	}
+	
 	   
     if(age=="unselected")
 	{
 	    error=true;
-	    errmsg += "<div class='error'>Please state the year you were born</div>";
+	    //errmsg += "<div class='error'>Please state the year you were born</div>";
 		$("#ageq").addClass("error");
 	}
-	else
-	{
-		$("#ageq").addClass("black")
+	
 		
-	}
-    if(loc  == "unselected")
+	
+    if(loc == "unselected")
 	{
 	    error=true;
-	    errmsg += "<div class='error'>Please indicate your current location</div>";
-		$("#locq").addClass("error");
+	    //errmsg += "<div class='error'>Please indicate your current location</div>";
+		$("#locationq").addClass("error");
 	}
-	else
-	{
-		$("#locq").addClass("black")
-		
-	}
+	
     if(races.length==0)
 	{
 	    error=true;
 	    errmsg += "<div class='error'>Please indicate your ethnicity</div>";
 		$("#ethnicityq").addClass("error");
 	}
-	else
-	{
-		$("#ethnicityq").addClass("black");
-	}
-    if(income==null || $.trim(income) != income.replace(/[^0-9$.,]/g,'') || !IsNumeric(income.replace(/[^0-9.]/g,'')))
+	
+    if(income=="unselected" || $.trim(income) != income.replace(/[^0-9$.,]/g,'') || !IsNumeric(income.replace(/[^0-9.]/g,'')))
 	{
 	    error=true;
-	    errmsg += "<div class='error'>Please enter a valid number for income</div>";
+	    //errmsg += "<div class='error'>Please enter a valid number for income</div>";
 		$("#incomeq").addClass("error");
 	}
-	else {
-		$("#incomeq").addClass("black");
-		
-	}
+	
     if(education=="unselected")
 	{
 	    error=true;
 	    errmsg += "<div class='error'>Please indicate your highest level of education</div>";
 		$("#educationq").addClass("error")
 	}
-	else
-	{
-		$("#educationq").addClass("black");
-		
-	}
+	
     // Output error message if input not valid
-    if(error==false)
+    if(error==false || once == true)
 	{
-	    twitid = $("#twitid").html();
-	    $.post("core/DataWrangler.php", {"page":"demog", "twitid":twitid, "data":{"gender":gender,"age":age,"loc":loc,"races":races,"income":income,"edu":education} });
+	    username = $("#username").html();
+	    $.post("core/DataWrangler.php", {"page":"demog", "username":username, "data":{"gender":gender,"age":age,"loc":loc,"races":races,"income":income,"edu":education} });
 	    $("#demographics_h").hide();
 	    $("#demo-wrapper").hide(500);
 	    DecideOrder(loc);
+		once = false
 
 
 	}
     else
 	{
-	    $('#error-1').html(errmsg);
+	    $('#error-1').html('Oops. We noticed you left one or more items blank (shown in red above). Your responses are most useful to us when you answer every question, so we would appreciate it if you fill those in. But if you choose not to answer those specific items you can press "Submit" to move on.');
+		once = true
 	}
+	
 }
 

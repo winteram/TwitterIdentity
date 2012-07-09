@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+
+<select>
+<option></option>
+<option>0-$20,000</option>
+<option>$20,000-$40,000</option>
+<option>$40,000-$60,000</option>
+<option>$60,000-$80,000</option>
+<option>$80,000-$100,000</option>
+<option>$100,000-$200,000</option>
+<option>More than $200,000</option>
+<option>Would rather not say</option>
+</select>
+
+</body>
+</html>

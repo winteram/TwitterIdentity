@@ -72,16 +72,6 @@ def appendName(username):
     f.close
     
 
-
-
-
-
-
-# get already tweeted usernames
-already_tweeted = getTweeted()
-
-
-
 def getTweeted():
     g = open("tweeted.txt")
 
@@ -91,6 +81,16 @@ def getTweeted():
         names.append(line.rstrip('\n'))
 
     return names
+
+
+
+
+# get already tweeted usernames
+already_tweeted = getTweeted()
+
+
+
+
         
 
 
