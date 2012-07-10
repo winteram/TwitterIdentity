@@ -68,9 +68,11 @@ require_once('../safe/config.inc');
 						</select>
 					</p> 
 
-				</li>         
-				<li>
-					<p>Ethnicity</p>
+				</li>  
+				       
+				<li id = "ethnicityq">
+					<p>Ethnicity. Check all that apply</p>
+                </li> 
 					<p>      
 						<input id="race_white" name="race" type="checkbox" value="white"/> 
 						<label for="race_white">White</label>
@@ -96,16 +98,26 @@ require_once('../safe/config.inc');
 						<input id="race_other" name="race" type="checkbox" value="other"/> 
 						<label for="race_other">Other</label>
 					</p>
-				</li>         
-				<li>
+				        
+				<li id ="incomeq">
 					<p> 
-						<label for="income">Annual Income (in US dollars; click <a href="http://finance.yahoo.com/currency-converter/?u#from=GBP;to=USD;amt=1" target="_blank">here</a> for currency conversion)</label>        
+						<label for="income" >Annual Income (in US dollars; click <a href="http://finance.yahoo.com/currency-converter/?u#from=GBP;to=USD;amt=1" target="_blank">here</a> for currency conversion)</label>        
 					</p> 
 					<p>
-						<input id="income" name="income" type="text"/> 
+                        <select id = "income" name ="income">
+                        <option value="unselected" selected="selected"></option>
+                        <option value = "1">0-$20,000</option>
+                        <option value = "2">$20,000-$40,000</option>
+                        <option value = "3">$40,000-$60,000</option>
+                        <option value = "4">$60,000-$80,000</option>
+                        <option value = "5">$80,000-$100,000</option>
+                        <option value = "6">$100,000-$200,000</option>
+                        <option value = "7">More than $200,000</option>
+                        <option value = "8">Would rather not say</option>
+                        </select>
 					</p> 
 				</li>         
-				<li>
+				<li id ="educationq">
 					<p> 
 						<label for="edu">Highest education level attained</label>        
 					</p> 
@@ -126,7 +138,7 @@ require_once('../safe/config.inc');
 					</p> 
 				</li>
 			</ol>
-			<div id="error-1"></div>
+			<div class ="error" id="error-1"></div>
 			<input type="button" value="Submit Demographics" onClick="checkDemographics()"/>
 		</form>
 
@@ -136,7 +148,7 @@ require_once('../safe/config.inc');
 	<div class="section-header" id="politics_h">Politics</div>
 	<div id="GetPol-wrapper" class="wrapper">
 
-		<p> Which US political party do you most identify with?</p>
+		<p> Of these political parties, which do you most identify with?</p>
 
 		<label for = "party"> Party </label>
 		<select id ="affiliation" name= "party">
@@ -147,7 +159,7 @@ require_once('../safe/config.inc');
 			<option value = "green"> Green Party </option>
 			<option value = "libertarian"> Libertarian Party </option>
 		</select>
-
+        <br/>
 		<div id="error-2"></div>
 		<input type="button" value="Submit Political Party" onClick="checkPolitics()"/>
 
@@ -159,7 +171,7 @@ require_once('../safe/config.inc');
 		<p> In this section you will be indicating which nationality or
 			nationalities you identify with. In the text box below you will start to
 			type your nationality. As you type, options will appear in a drop down
-			menu below the text box.
+			menu below the text box. If you are a US citezen, type "American". 
 		</p> 
 
 		<p> <b>*Important:</b> for our system to register your choice, you must
@@ -172,7 +184,7 @@ require_once('../safe/config.inc');
 			identify with. 
 		</p> 
 
-		<div class="ui-widget"> I see myself as <input id="national" name="nationality" size="50"/></div> 
+		<div id="nationalityq" class="ui-widget"> I see myself as <input id="national" name="nationality" size="50"/></div> 
 		<div id="error-4" class="error"> </div>
 
 		<input type="button" value="Submit" onClick= "CheckNationID()"/>
@@ -182,29 +194,35 @@ require_once('../safe/config.inc');
 	<div class="section-header" id="free_h"> Free Response Identity</div>
 	<ol id="FreeForm-wrapper" class="wrapper">
 
-		<p>We all have groups we identify with. In a given moment we may see ourselves as Democrats, or Americans, Germans, Fathers, Mac People, Women, Teachers, Soccer Players, etc. For this part, we would like you to think about something you strongly identify with, something that you feel is important to understanding who you are. We realize you have many identities, but for the sake of this study, please type just one in the box below.</p>
-		<li> I see myself as a <input id="free1" name="freeform1" type="text"/></li>
+		<p>We all have groups we identify with. In a given moment we may see ourselves as Democrats, or Americans, Germans, Fathers, Mac People, Women, Teachers, Soccer Players, etc. For this part, we would like you to think about something you strongly identify with, something that you feel is important to understanding who you are. We realize you have many identities, but for the sake of this study, please one to describe for the questions below</p>
+		<li id = "freeq1"> I see myself as a <input id="free1" name="freeform1" type="text"/> <span> e.g. Democrat </span></li> 
 		<br />
-		<li> I identify with other <input id ="free2" name = "freeform2" type="text"/> </li>
-		<p> In the box below, please put a website that relates to your identity </p>
-		<li><input id ="user_url" name = "user_url" type="text"/></li>
+		<li id = "freeq2"> I identify with other <input id ="free2" name = "freeform2" type="text"/> <span> e.g. Democrats </span> </li> 
+		
+		<li id = "freeq3">
+        <p> In the box below, please put a website that relates to your identity </p>
+        
+        <input id ="user_url" name = "user_url" type="text"/>
+        </li>
 		<div id="error-5" class="error"></div>       
 		<input type="button" value="Submit" onClick= "FreeCheck()"/>
 
 	</ol>
     
-      <div class="section-header" id="feedback_h">Feedback</div> </br>
+    <div class="section-header" id="feedback_h">Feedback</div>
 	<div id="GetFeedback-wrapper" class="wrapper"> </br>
 
 		<center> <p> <font size ="5"> We value any feedback you would like to give us on this study. Please type comments below.</font></p> </center> </br> </br>
        
         <center><textarea id="feedback" class= "LargerText" cols="60" rows="20" name="comment"></textarea> </br></center>
        
+
+
 		
 		<center><input type="button" value="Submit Feedback" onClick="Thanks()"/></center>
 
 	</div>
-    
+
 
 
 	<ol id="displayQ-wrapper_party" class= "wrapper"></ol>
@@ -258,3 +276,4 @@ following link:</p>
 	</div>
 
 	<div id="tester" class="wrapper"></div>
+
