@@ -14,6 +14,6 @@ def encode_salt(sData, sKey='xJp2BpRUSE'):
 		sChar = chr(ord(sChar) + ord(sKeyChar))
 		sResult += sChar
 	hexed = base64.b64encode(sResult)
-	return hexed.replace('+/', '-_')
+	return hexed.replace('+/', '-_').rstrip('=')
 
 	

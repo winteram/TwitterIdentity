@@ -45,7 +45,7 @@ function decode_salt($sData, $sKey='xJp2BpRUSE'){
 
 function encode_base64($sData){
   $sBase64 = base64_encode($sData);
-  return strtr($sBase64, '+/', '-_');
+  return rtrim(strtr($sBase64, '+/', '-_'),'=');
 }
 
 function decode_base64($sData){
