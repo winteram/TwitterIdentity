@@ -12,7 +12,7 @@ if (isset($_REQUEST['twitid']))
 }
 else 
 {
-  echo "ERR: username not set";
+  echo "ERR: twitid not set";
   exit(0);
 }
 
