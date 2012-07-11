@@ -11,12 +11,14 @@ $user = "smalls7_groupid";
 $pass = "letspublish";
 $db   = "smalls7_identity";
 
+
 try {
   $dbh = new PDO('mysql:host='.$host.';dbname='.$db, $user, $pass);
 } catch (PDOException $e) {
   print "Error!: " . $e->getMessage() . "<br/>";
   die();
 }
+
 
 function encode_salt($sData, $sKey='xJp2BpRUSE'){ 
   $sResult = ''; 
@@ -43,7 +45,7 @@ function decode_salt($sData, $sKey='xJp2BpRUSE'){
 
 function encode_base64($sData){
   $sBase64 = base64_encode($sData);
-  return rtrim(strtr($sBase64, '+/', '-_'), '=');
+  return rtrim(strtr($sBase64, '+/', '-_'),'=');
 }
 
 function decode_base64($sData){
