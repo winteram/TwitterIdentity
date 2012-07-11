@@ -28,7 +28,10 @@ require_once('../safe/config.inc');
 		<div id="twitid" style="display:none"><?php echo $_SESSION['twitid']; ?></div>
 		<div class="section-header" id="section-header-0">Instructions</div>
 		<div id="instructions-wrapper" class="wrapper">
-			<p> Welcome to the study! To start you will be asked a few demographic questions. You will then be presented a series of questions about what you identify with. The entire survey should take less than 15 minutes and could greatly help us understand how people express their identities in on-line social networks. Thanks in advance for your participation.  </p>
+			<p> Welcome to the study! To start you will be asked a few demographic questions. You will then be presented a series of questions about what you identify with. The entire survey should take less than 15 minutes and could greatly help us understand how people express their identities in on-line social networks. Thanks in advance for your participation. </p>
+            <p> *Note: Though many questions will appear similar to each other, each question has unique features and is important for our analysis. We encourage you to answer them all. </p>
+            
+            
 			<div class="ctr"><input type="button" value="Continue" onClick="getDemographics()"/></div>
 		</div>
 
@@ -37,7 +40,7 @@ require_once('../safe/config.inc');
 		<div id="demo-wrapper" class="wrapper">
 			<form id="demographics">
 				<ol>
-					<li><p>Gender</p>
+					<li id ="genderq"><p>Gender</p>
 						<p> 
 							<input id="gender_male" name="gender" type="radio" value="M"/>
 							<label for="gender_male">Male</label>
@@ -49,19 +52,21 @@ require_once('../safe/config.inc');
 							<label for="gender_none">Decline to answer</label>
 						</p>
 					</li>            
-					<li><p><label for="age">Year of Birth</label></p>
+					<li id = "ageq"><p><label for="age">Year of Birth</label></p>
 						<span> 
 							<select id="age" name="age">
 								<option value="unselected" selected="selected"></option>
 							</select>
 						</span> 
 					</li>         
-					<li>
+					<li id = "locationq">
 						<p> 
 							<label for="loc">Location</label>        
 						</p> 
 						<p> 
+                            
 							<select name="country" id= "sel_country">
+                            <option value="unselected" selected="selected"></option>
 								<?php foreach($Countries as $abbr => $country)
 							echo "<option value=" . $abbr . ">" . $country . "</option>"; 
 							?>
@@ -159,7 +164,7 @@ require_once('../safe/config.inc');
 			<option value = "green"> Green Party </option>
 			<option value = "libertarian"> Libertarian Party </option>
 		</select>
-        <br/>
+        <p/>
 		<div id="error-2"></div>
 		<input type="button" value="Submit Political Party" onClick="checkPolitics()"/>
 
@@ -180,32 +185,34 @@ require_once('../safe/config.inc');
 			comma (",") will be inserted after it. If you identify with more than one
 			nationality, simply begin typing each additional nationality after the
 			ones you have previously listed. Again, as you type options will appear in
-			the drop menu, please click the one corresponding to the nationality
+			the drop menu, please click the one corresponding to the nationality you
 			identify with. 
 		</p> 
 
 		<div id="nationalityq" class="ui-widget"> I see myself as <input id="national" name="nationality" size="50"/></div> 
 		<div id="error-4" class="error"> </div>
 
-		<input type="button" value="Submit" onClick= "CheckNationID()"/>
+		<p><input type="button" value="Submit" onClick= "CheckNationID()"/></p>
 
 	</ol>
 
 	<div class="section-header" id="free_h"> Free Response Identity</div>
 	<ol id="FreeForm-wrapper" class="wrapper">
 
-		<p>We all have groups we identify with. In a given moment we may see ourselves as Democrats, or Americans, Germans, Fathers, Mac People, Women, Teachers, Soccer Players, etc. For this part, we would like you to think about something you strongly identify with, something that you feel is important to understanding who you are. We realize you have many identities, but for the sake of this study, please one to describe for the questions below</p>
-		<li id = "freeq1"> I see myself as a <input id="free1" name="freeform1" type="text"/> <span> e.g. Democrat </span></li> 
+		<p>We all have groups we identify with. In a given moment we may see ourselves as Democrats, or Americans, Germans, Fathers, Mac People, Women, Teachers, Soccer Players, etc. For this part, we would like you to think about something you strongly identify with, something that you feel is important to understanding who you are. We realize you have many identities, but for the sake of this study, please choose ONE to describe for the questions below. All three questions are intended to be about the SAME identity.</p>
+		<li id = "freeq1"> I see myself as a <input id="free1" name="freeform1" type="text"/> <span><i> e.g. Democrat </i> </span></li> 
 		<br />
-		<li id = "freeq2"> I identify with other <input id ="free2" name = "freeform2" type="text"/> <span> e.g. Democrats </span> </li> 
+		<li id = "freeq2"> I identify with other <input id ="free2" name = "freeform2" type="text"/> <span><i> e.g. Democrats</i> </span> </li> 
 		
 		<li id = "freeq3">
         <p> In the box below, please put a website that relates to your identity </p>
         
         <input id ="user_url" name = "user_url" type="text"/>
         </li>
+        <p>
 		<div id="error-5" class="error"></div>       
 		<input type="button" value="Submit" onClick= "FreeCheck()"/>
+        </p>
 
 	</ol>
     
