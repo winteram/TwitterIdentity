@@ -53,7 +53,7 @@ if (200 == $connection->http_code) {
 
   // if username exists, it will match
   if ($result['twitid'] === $twitid) {
-    $query = "UPDATE twitterconnectionaccounts SET AccessToken=:token, AccessTokenSecret=:secret, Agree1=:agree1, Agree2=:agree2, Referred_by=:flag WHERE Id=:twitid";
+    $query = "UPDATE twitterconnectionaccounts SET AccessToken=:token, AccessTokenSecret=:secret, CreationDate=NOW(), Agree1=:agree1, Agree2=:agree2, Referred_by=:flag WHERE Id=:twitid";
     $rqst2 = $dbh->prepare($query);
     $rqst2->bindParam(':token',$oauth_token, PDO::PARAM_STR);
     $rqst2->bindParam(':secret',$oauth_secret, PDO::PARAM_STR);
@@ -65,7 +65,7 @@ if (200 == $connection->http_code) {
   } 
   else {
     // Add connection info
-    $query = "INSERT INTO twitterconnectionaccounts SET Id=:twitid, AccountName=:uname, AccessToken=:token, AccessTokenSecret=:secret, Agree1=:agree1, Agree2=:agree2, Referred_by=:flag";
+    $query = "INSERT INTO twitterconnectionaccounts SET Id=:twitid, AccountName=:uname, AccessToken=:token, AccessTokenSecret=:secret, CreationDate=NOW(), Agree1=:agree1, Agree2=:agree2, Referred_by=:flag";
     $rqst2 = $dbh->prepare($query);
     $rqst2->bindParam(':twitid',$twitid, PDO::PARAM_STR);
     $rqst2->bindParam(':uname',$username, PDO::PARAM_STR);
