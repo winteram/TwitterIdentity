@@ -116,7 +116,7 @@ function displayQ(form1, form2, iden) // added iden as the third input
     var sent = []; 
 	
     form2_c= capitalize(form2); // captilizes first letter, when necessary. 
-    if(iden == "nat")
+    if(iden == "nation")
 	{
 	    var sent = new Array();
 	    sent.push('I feel a bond with ' + form2);
@@ -230,8 +230,8 @@ function surveyValidate(iden)// added iden as an input
 	
 	if(error==false || once == true)
 	{   
-	    twitid = $("#twitid").html();
-	    $.post("core/DataWrangler.php", {"page":iden, "twitid":twitid, "data":qdata});
+	    username = $("#username").html();
+	    $.post("core/DataWrangler.php", {"page":iden, "username":username, "data":qdata});
 	    $(wrapper).hide(500); 
 		once = false
 
@@ -275,7 +275,7 @@ function surveyValidate(iden)// added iden as an input
 	
 	else
 	{ 
-	    $('#error'+ iden).html('Oops. We noticed you left one or more items blank (shown in red above). Your responses are most useful to us when you answer every question, so we would appreciate it if you fill those in. But if you choose not to answer those specific items you can press "continue" to move on'); 
+	    $('#error'+ iden).html('Oops. We noticed you left one or more items blank (shown in red above). Your responses are most useful to us when you answer every question, so we would appreciate it if you fill those in. But if you choose not to answer those specific items, you can press "Continue" to move on'); 
 	once = true	 
 	
 	}
@@ -290,7 +290,7 @@ function Thanks()
 {   
     comments = $("#feedback").val();
 
-    $.post("core/DataWrangler.php", {"page":"comments", "twitid":twitid, "comments":comments });
+    $.post("core/DataWrangler.php", {"page":"comments", "username":username, "comments":comments });
 	
 	$("#feedback_h").hide();
 	$("#GetFeedback-wrapper").hide(500);
@@ -382,10 +382,10 @@ function checkPolitics()
 		    var pform1="Libertarian";
 		    var pform2="Libertarians";
 		}
-	    twitid = $("#twitid").html();
+	    username = $("#username").html();
 	    $("#GetPol-wrapper").hide(500); 
 	    displayQ(pform1, pform2, "party");
-	    $.post("core/DataWrangler.php", {"page":"polform", "twitid":twitid, "party":party });
+	    $.post("core/DataWrangler.php", {"page":"polform", "username":username, "party":party });
 	}
 }
 
@@ -437,8 +437,8 @@ function CheckNationID()
 		{
 			
 			once = false
-			twitid = $("#twitid").html();
-			$.post("core/DataWrangler.php", {"page":"natform", "twitid":twitid, "nationality":nform1 });
+			username = $("#username").html();
+			$.post("core/DataWrangler.php", {"page":"natform", "username":username, "nationality":nform1 });
 			$("#Nation-wrapper").hide(500);
 			displayQ(nform1,nform2,"nation");
 			
@@ -518,8 +518,8 @@ function FreeCheck()
 	
 	  if(error== false)
 	{   once = false
-	    twitid = $("#twitid").html();
-	    $.post("core/DataWrangler.php", {"page":"freeform", "twitid":twitid, "data":{"ownform1":nform1,"ownform2":nform2, "ownURL":userURL} });
+	    username = $("#username").html();
+	    $.post("core/DataWrangler.php", {"page":"freeform", "username":username, "data":{"ownform1":nform1,"ownform2":nform2, "ownURL":userURL} });
 	    $("#FreeForm-wrapper").hide(500);
 	    displayQ(nform1,nform2,"own");
 	}  
@@ -603,18 +603,21 @@ function checkDemographics()
     // Output error message if input not valid
     if(error==false || once == true)
 	{
-	    twitid = $("#twitid").html();
-	    $.post("core/DataWrangler.php", {"page":"demog", "twitid":twitid, "data":{"gender":gender,"age":age,"loc":loc,"races":races,"income":income,"edu":education} });
+	    username = $("#username").html();
+	    $.post("core/DataWrangler.php", {"page":"demog", "username":username, "data":{"gender":gender,"age":age,"loc":loc,"races":races,"income":income,"edu":education} });
 	    $("#demographics_h").hide();
 	    $("#demo-wrapper").hide(500);
 	    DecideOrder(loc);
-	    once = false;
+		once = false
+
 	}
     else
 	{
-	    $('#error-1').html('Oops. We noticed you left one or more items blank (shown in red above). Your responses are most useful to us when you answer every question, so we would appreciate it if you fill those in. But if you choose not to answer those specific items you can press "Submit" to move on.');
+	    $('#error-1').html('Oops. We noticed you left one or more items blank (shown in red above). Your responses are most useful to us when you answer every question, so we would appreciate it if you fill those in. But if you choose not to answer those specific items, you can press "Submit" to move on.');
 		once = true
 	}
 	
 }
+
+
 
