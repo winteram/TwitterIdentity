@@ -29,7 +29,7 @@ function encode_salt($sData, $sKey='xJp2BpRUSE'){
   return encode_base64($sResult); 
 } 
 
-function decode_salt($sData, $sKey='mysecretkey'){ 
+function decode_salt($sData, $sKey='xJp2BpRUSE'){ 
   $sResult = ''; 
   $sData   = decode_base64($sData); 
   for($i=0;$i<strlen($sData);$i++){ 
@@ -43,12 +43,12 @@ function decode_salt($sData, $sKey='mysecretkey'){
 
 function encode_base64($sData){
   $sBase64 = base64_encode($sData);
-  return substr(strtr($sBase64, '+/', '-_'), 0, -2);
+  return rtrim(strtr($sBase64, '+/', '-_'), '=');
 }
 
 function decode_base64($sData){
   $sBase64 = strtr($sData, '-_', '+/');
-  return base64_decode($sBase64.'==');
+  return base64_decode($sBase64);
 }
 
 ?>
