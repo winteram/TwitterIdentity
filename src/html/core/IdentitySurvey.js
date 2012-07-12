@@ -1,4 +1,4 @@
-var nationalities;
+ var nationalities;
 
 $(document).ready(function() {
 	// add years to age question
@@ -526,7 +526,8 @@ function FreeCheck()
 	    username = $("#username").html();
 	    $.post("core/DataWrangler.php", {"page":"freeform", "username":username, "data":{"ownform1":nform1,"ownform2":nform2, "ownURL":userURL, "ownform3":nform3, "ownform4":nform4, "ownURL2":userURL2, "ownform5":nform5, "ownform6":nform6, "ownURL3":userURL3} });
 	    $("#FreeForm-wrapper").hide(500);
-	    $("#feedback_h").hide();
+		$("#free_h").hide(); 
+	    $("#feedback_h").show();
 		 $("#GetFeedback-wrapper").show(500);
 	}  
     else
