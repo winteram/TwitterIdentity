@@ -197,24 +197,53 @@ require_once('../safe/config.inc');
 	</ol>
 
 	<div class="section-header" id="free_h"> Free Response Identity</div>
-	<ol id="FreeForm-wrapper" class="wrapper">
+	<div id="FreeForm-wrapper" class="wrapper">
 
-		<p>We all have groups we identify with. In a given moment we may see ourselves as Democrats, or Americans, Germans, Fathers, Mac People, Women, Teachers, Soccer Players, etc. For this part, we would like you to think about something you strongly identify with, something that you feel is important to understanding who you are. We realize you have many identities, but for the sake of this study, please choose ONE to describe for the questions below. All three questions are intended to be about the SAME identity.</p>
+		<p>We all have groups we identify with. In a given moment we may see ourselves as Democrats, or Americans, Germans, Fathers, Mac People, Women, Teachers, Soccer Players, etc. For this part, we would like you to think about groups you feel committed to, one's that form an important part of your identity. You will be asked three questions about EACH identity. For each subsection, like "Identity 1", all three questions are asking about the SAME identity. </p>
+        <h3> Idenitity 1</h3>
+        <ol>
 		<li id = "freeq1"> I see myself as a <input id="free1" name="freeform1" type="text"/> <span><i> e.g. Democrat </i> </span></li> 
 		<br />
 		<li id = "freeq2"> I identify with other <input id ="free2" name = "freeform2" type="text"/> <span><i> e.g. Democrats</i> </span> </li> 
 		
 		<li id = "freeq3">
-        <p> In the box below, please put a website that relates to your identity </p>
+        <p> In the box below, please put a website that relates to this identity </p> 
         
-        <input id ="user_url" name = "user_url" type="text"/>
-        </li>
+        <input id ="user_url" name = "user_url" type="text"/> <span><i> e.g. democrats.org </i> </span></li> 
+       </ol>
+        <h3> Identity 2 </h3>
+        <ol>
+        <li id = "freeq4"> I see myself as a <input id="free3" name="freeform3" type="text"/> </li>
+		<br />
+		<li id = "freeq5"> I identify with other <input id ="free4" name = "freeform4" type="text"/> </li>
+		
+		<li id = "freeq6">
+        <p> In the box below, please put a website that relates to this identity </p> </li>
+        
+        <input id ="user_url2" name = "user_url2" type="text"/>
+        </ol>
+        
+        
+          <h3> Identity 3</h3>
+          <ol>
+        <li id = "freeq7"> I see myself as a <input id="free5" name="freeform5" type="text"/> </li>
+		<br />
+		<li id = "freeq8"> I identify with other <input id ="free6" name = "freeform6" type="text"/> </li>
+		
+		<li id = "freeq9">
+        <p> In the box below, please put a website that relates to this identity </p> </li>
+        
+        <input id ="user_url3" name = "user_url2" type="text"/>
+        </ol>
+       
+        
         <p>
 		<div id="error-5" class="error"></div>       
 		<input type="button" value="Submit" onClick= "FreeCheck()"/>
         </p>
+        
 
-	</ol>
+	</div>
     
     <div class="section-header" id="feedback_h">Feedback</div>
 	<div id="GetFeedback-wrapper" class="wrapper"> </br>

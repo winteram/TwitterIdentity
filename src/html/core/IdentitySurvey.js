@@ -263,14 +263,7 @@ function surveyValidate(iden)// added iden as an input
 			    $("#GetPol-wrapper").show(500);
 			}
 		}
-	    if(iden=="own")
-		{   
-		    $("#free_h").hide();
-			
-			$("#feedback_h").show();
-		    $("#GetFeedback-wrapper").show(500);
-		    //window.location="ThankYou.php"; 
-		}
+	   
 	}
 	
 	else
@@ -284,6 +277,7 @@ function surveyValidate(iden)// added iden as an input
 	
 
 }
+
 
 
 function Thanks()
@@ -337,6 +331,9 @@ function DecideOrder(location)
 	    $("#Nation-wrapper").show(500);
 	}
 } 
+
+
+
 
 
 
@@ -463,7 +460,15 @@ function FreeCheck()
     nform1 = $("#free1").val();
     nform2 = $("#free2").val();
     userURL = $("#user_url").val();
-    errmsg='';
+	nform3 = $("#free3").val();
+	nform4 = $("#free4").val();
+	userURL2 = $("#user_url2").val();
+	nform5 = $("#free5").val();
+	nform6 = $("#free6").val();
+	userURL3 = $("#user_url3").val();
+	
+	
+    errmsg = '<p> Oops. In order to proceed we ask that you provide answers for the Identity 1 section. The others are optional.</p>';
 
     //alert(nform1 + ", " + nform2 + ", " + validURL(userURL));
 	
@@ -479,7 +484,7 @@ function FreeCheck()
     if(nform1.length < 3)
 	{ 
 	    error = true;
-	    errmsg += '<p> Please provide an appropriate answer to item 1 </p>';
+	    errmsg += '<p> Please provide an appropriate answer to item 1, shown in red above </p>';
 	    
 	    //$("#freeq1").addClass("error")
 	    $("#freeq1").css('color','red');
@@ -494,7 +499,7 @@ function FreeCheck()
     if(nform2.length < 3)
 	{ 
 	    error = true;
-	    errmsg += '<p> Please provide an appropriate answer to item 2 </p>';
+	    errmsg += '<p> Please provide an appropriate answer to item 2, shown in red above </p>';
 	    //$("#freeq2").addClass("error")
 	    $("#freeq2").css('color','red');
 	}
@@ -506,7 +511,7 @@ function FreeCheck()
     if(!validURL(userURL))
 	{ 
 	    error = true;
-	    errmsg += '<p> Please provide a valid URL </p>';
+	    errmsg += '<p> Please provide a valid URL for the item shown in red above </p>';
 	    //$("#freeq2").addClass("error")
 	    $("#freeq3").css('color','red');
 	}  
@@ -519,9 +524,10 @@ function FreeCheck()
 	  if(error== false)
 	{   once = false
 	    username = $("#username").html();
-	    $.post("core/DataWrangler.php", {"page":"freeform", "username":username, "data":{"ownform1":nform1,"ownform2":nform2, "ownURL":userURL} });
+	    $.post("core/DataWrangler.php", {"page":"freeform", "username":username, "data":{"ownform1":nform1,"ownform2":nform2, "ownURL":userURL, "ownform3":nform3, "ownform4":nform4, "ownURL2":userURL2, "ownform5":nform5, "ownform6":nform6, "ownURL3":userURL3} });
 	    $("#FreeForm-wrapper").hide(500);
-	    displayQ(nform1,nform2,"own");
+	    $("#feedback_h").hide();
+		 $("#GetFeedback-wrapper").show(500);
 	}  
     else
 	{
