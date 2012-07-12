@@ -110,14 +110,28 @@ case 'comments': // comments on survey
   $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
   $rqst->execute();
 
-  // Add user to be crawled
+  // Check if accountnode exists for twitter id
+  $rqst = $dbh->prepare("SELECT Id, Marked, Seed FROM twitteraccountnode WHERE Id=:twitid");
+  $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+  $row = $rqst->execute();
+  $result = $rqst->fetch(PDO::FETCH_ASSOC);
+
   $mark = 0;
   $seed = 1;
-  $rqst = $dbh->prepare("INSERT INTO twitteraccountnode SET Id=:twitid, Marked=:mark, CreationDate=NOW(), Seed=:seed");
-  $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
-  $rqst->bindParam(':mark',$mark, PDO::PARAM_INT);
-  $rqst->bindParam(':seed',$seed, PDO::PARAM_INT);
-  $rqst->execute();
+  if ($result['twitid'] === $twitid) {
+    $rqst = $dbh->prepare("UPDATE twitteraccountnode SET Marked=:mark, Seed=:seed WHERE Id=:twitid");
+    $rqst->bindParam(':mark',$mark, PDO::PARAM_INT);
+    $rqst->bindParam(':seed',$seed, PDO::PARAM_INT);
+    $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+    $rqst->execute();    
+  } else {
+    // Add user to be crawled
+    $rqst = $dbh->prepare("INSERT INTO twitteraccountnode SET Id=:twitid, Marked=:mark, CreationDate=NOW(), Seed=:seed");
+    $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+    $rqst->bindParam(':mark',$mark, PDO::PARAM_INT);
+    $rqst->bindParam(':seed',$seed, PDO::PARAM_INT);
+    $rqst->execute();
+  }
 
   break;
 default:
