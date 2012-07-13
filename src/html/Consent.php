@@ -175,7 +175,7 @@ and tweets from your account.</div>
 
 <div>The Institutional Review Board of Stevens Institute of Technology has
 reviewed and approved this study on the following
-  date:______________.</div>
+  date: June 25, 2012 >
 
 
 </div>
