@@ -129,19 +129,21 @@ case 'comments': // comments on survey
 
   $mark = 0;
   $seed = 1;
-  if ($result['twitid'] === $twitid) {
+  if ($result['Id'] === $twitid) {
     $rqst = $dbh->prepare("UPDATE twitteraccountnode SET Marked=:mark, Seed=:seed WHERE Id=:twitid");
     $rqst->bindParam(':mark',$mark, PDO::PARAM_INT);
     $rqst->bindParam(':seed',$seed, PDO::PARAM_INT);
     $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
     $rqst->execute();    
-  } else {
+  } elseif ($twitid != ''){
     // Add user to be crawled
     $rqst = $dbh->prepare("INSERT INTO twitteraccountnode SET Id=:twitid, Marked=:mark, CreationDate=NOW(), Seed=:seed");
     $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
     $rqst->bindParam(':mark',$mark, PDO::PARAM_INT);
     $rqst->bindParam(':seed',$seed, PDO::PARAM_INT);
     $rqst->execute();
+  } else {
+    echo "ERR: bad id: " .$twitid;
   }
 
   break;
