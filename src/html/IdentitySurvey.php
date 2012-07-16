@@ -176,7 +176,7 @@ require_once('../safe/config.inc');
 		<p> In this section you will be indicating which nationality or
 			nationalities you identify with. In the text box below you will start to
 			type your nationality. As you type, options will appear in a drop down
-			menu below the text box. If you are a US citezen, type "American". 
+			menu below the text box. If you are a US citizen, type "American". 
 		</p> 
 
 		<p> <b>*Important:</b> for our system to register your choice, you must
