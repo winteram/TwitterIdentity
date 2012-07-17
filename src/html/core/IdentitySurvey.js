@@ -21,7 +21,7 @@ $(document).ready(function() {
 		
 
 	// verify they want to leave (if before ThankYou)
-	$(window).bind('beforeunload', function() { return 'Are you sure you want to leave? You will lose any progress you have made on the survey.'; }); 
+	$(window).bind('beforeunload', function() { if(!finished) { return 'Are you sure you want to leave? You will lose any progress you have made on the survey.';} }); 
 
  
 	// show demographics questions at beginning
@@ -287,15 +287,16 @@ function surveyValidate(iden)// added iden as an input
 
 function Thanks()
 {   
+    finished = true;
+	
     comments = $("#feedback").val();
 
     $.post("core/DataWrangler.php", {"page":"comments", "twitid":twitid, "comments":comments });
 	
-	$("#feedback_h").hide();
-	$("#GetFeedback-wrapper").hide(500);
-	
-	$("#thanks").show(500); 
-	finished = true;
+    $("#feedback_h").hide();
+    $("#GetFeedback-wrapper").hide(500);
+
+    $("#thanks").show(500); 
 	
 }
 
