@@ -12,7 +12,6 @@ require_once('../safe/config.inc');
 	<script src="core/IdentitySurvey.js" type="text/javascript"></script>
 	<script src="core/shuffle.js" type="text/javascript"></script>
 	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-	<script>$(window).bind('beforeunload', function() { return 'Are you sure you want to leave? You will lose any progress you have made on the survey.'; }); 
 	<link rel="shortcut icon" href="core/images/idproj.ico" type="image/x-icon" />
 	<link rel='stylesheet' type='text/css'
 	href='core/jquery-ui-1.8.21.custom/css/pepper-grinder/jquery-ui-1.8.21.custom.css' />

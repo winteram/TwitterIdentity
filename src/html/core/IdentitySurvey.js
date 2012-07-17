@@ -1,4 +1,6 @@
- var nationalities;
+var nationalities;
+var finished = false;
+
 
 $(document).ready(function() {
 	// add years to age question
@@ -14,11 +16,14 @@ $(document).ready(function() {
 	else
 	    { order= 2}
 		
-		once = false
+	once = false;
 		
 		
 
-	// check what progress has been made
+	// verify they want to leave (if before ThankYou)
+	$(window).bind('beforeunload', function() { return 'Are you sure you want to leave? You will lose any progress you have made on the survey.'; }); 
+
+ 
 	// show demographics questions at beginning
 	$("#section-header-0").show(); 
 	$("#instructions-wrapper").show();
@@ -290,7 +295,7 @@ function Thanks()
 	$("#GetFeedback-wrapper").hide(500);
 	
 	$("#thanks").show(500); 
-	
+	finished = true;
 	
 }
 
