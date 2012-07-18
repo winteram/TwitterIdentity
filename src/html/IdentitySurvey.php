@@ -295,7 +295,7 @@ following link:</p>
 				<span> We hope you share this study with your followers on Twitter!  Click the "Tweet" button to share!</span>
 				<span style="margin-left:10px;"><a href="https://twitter.com/share" class="twitter-share-button"
 					data-lang="en" data-count="none" data-size="large" 
-					data-url='http://smallsocialsystems.com/asaf/AboutUs.html?flag=<?php echo encode_salt($_SESSION["twitid"]);?>+'
+					data-url='http://smallsocialsystems.com/asaf/AboutUs.php?flag=<?php echo encode_salt($_SESSION["twitid"]);?>+'
 					data-text='I just participated in the Group Identity Project! Check it out: '>Tweet</a></span>
 
 				<p> Thanks again, </br></br> Winter and Asaf. </p>
