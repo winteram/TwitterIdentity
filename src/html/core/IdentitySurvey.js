@@ -291,6 +291,7 @@ function Thanks()
 	
     comments = $("#feedback").val();
 
+    twitid = $("#twitid").html();
     $.post("core/DataWrangler.php", {"page":"comments", "twitid":twitid, "comments":comments });
 	
     $("#feedback_h").hide();
