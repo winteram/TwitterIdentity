@@ -5,7 +5,7 @@ import sys, time, json, os, random
 from twitter import *
 from encrypt import *
 
-maxtweeted = 5 # Initially we don't want to send more than 10.
+maxtweeted = 100 # Initially we don't want to send more than 10.
 
 # The code related to command lines still needs to be tested in the AutoTweet function
 
@@ -48,7 +48,7 @@ def AutoTweet(argin, t):
                         time.sleep(N) # Pause for N seconds to ensure desired rate
 
                         #TweetUser(user,t)
-                        TweetUser('GroupID_Project',t)
+                        TweetUser(user,t)
                         numtweeted += 1
 
     
