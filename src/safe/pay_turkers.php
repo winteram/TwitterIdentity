@@ -47,3 +47,4 @@ foreach($valid_names as $name)
   {
     echo $name . "\n";
   }
+echo "    (" . count($valid_names) . ")\n";
