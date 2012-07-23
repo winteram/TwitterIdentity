@@ -19,22 +19,22 @@ try {
 echo "Twitter Connection Accounts:\n";
 // Get all user names
 $rqst = $dbh->prepare("SELECT Id, AccountName FROM twitterconnectionaccounts;");
-$row = $rqst->execute();
+$rqst->execute();
 
 while($user_ca = $rqst->fetch(PDO::FETCH_ASSOC))
   {
-    echo "ID: " . decode_salt($user_ca['Id']) . "; Account Name: " . decode_salt($user_ca['AccountName']) . "\n";
+    echo "ID: " . $user_ca['Id'] . " = " . decode_salt($user_ca['Id']) . "; Account Name: " . decode_salt($user_ca['AccountName']) . "\n";
   }
 
 echo "\n";
 echo "Survey Respondents:\n";
 // Get all user names
 $rqst = $dbh->prepare("SELECT survey.Id, AccountName FROM survey LEFT JOIN twitterconnectionaccounts tc ON survey.Id=tc.Id;");
-$row = $rqst->execute();
+$rqst->execute();
 
 while($user_s = $rqst->fetch(PDO::FETCH_ASSOC))
   {
-    echo "ID: " . decode_salt($user_s['Id']) . "; Account Name: " . decode_salt($user_s['AccountName']) . "\n";
+    echo "ID: " . $user_s['Id'] . " = " . decode_salt($user_s['Id']) . "; Account Name: " . decode_salt($user_s['AccountName']) . "\n";
   }
 
 
@@ -46,9 +46,9 @@ echo "Seeds:\n";
 $rqst = $dbh->prepare("SELECT ta.Id, AccountName FROM twitteraccountnode ta LEFT JOIN twitterconnectionaccounts tc ON ta.Id=tc.Id WHERE Marked=:mark AND Seed=:seed;");
 $rqst->bindParam(':mark',$mark, PDO::PARAM_INT);
 $rqst->bindParam(':seed',$seed, PDO::PARAM_INT);
-$row = $rqst->execute();
+$rqst->execute();
 
 while($user_seed = $rqst->fetch(PDO::FETCH_ASSOC))
   {
-    echo "ID: " . decode_salt($user_seed['Id']) . "; Account Name: " . decode_salt($user_seed['AccountName']) . "\n";
+    echo "ID: " . $user_seed['Id'] . " = " . decode_salt($user_seed['Id']) . "; Account Name: " . decode_salt($user_seed['AccountName']) . "\n";
   }
