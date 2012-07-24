@@ -1,0 +1,105 @@
+Id
+
+=== DVs ===
+political identity
+political group id factor 1
+political group id factor 2
+political group id factor 3
+political group id factor 4
+political group id factor 5
+political group id overall
+national identity
+national group id factor 1
+national group id factor 2
+national group id factor 3
+national group id factor 4
+national group id factor 5
+national group id overall
+
+=== IVs ===
+--- Demographics ---
+gender
+age
+country
+ethnicity
+income
+education
+
+--- Own profile ---
+Account age
+*Location
+*URL
+Language
+Verified (T/F)
+Profile color (T/F = C0DEED)
+Geo_enabled (T/F)
+*Description
+Time_zone
+Num Favourites
+Num Tweets
+
+--- Own network ---
+Num Friends
+Num Followers
+* Num Reciprocal ties
+* Clustering coefficient
+
+--- Own Tweets ---
+Proportion of words in tweets that match a dictionary (drawn from relevant corpus)
+Proportion of words in tweets with "we" words that match the dictionary
+Proportion of words in tweets with "I" words that match the dictionary
+Valence of words in tweets that contain match to dictionary words
+Proportions of LIWC categories for tweets
+
+--- Friends' Tweets ---
+Average, Median, SD of proportion of words in tweets that match a dictionary (drawn from relevant corpus)
+Average, Median, SD of proportion of words in tweets with "we" words that match the dictionary
+Average, Median, SD of proportion of words in tweets with "I" words that match the dictionary
+Average, Median, SD of valence of words in tweets that contain match to dictionary words
+Average, Median, SD of proportions of LIWC categories for tweets
+
+--- Followers Tweets ---
+Average, Median, SD of proportion of words in tweets that match a dictionary (drawn from relevant corpus)
+Average, Median, SD of proportion of words in tweets with "we" words that match the dictionary
+Average, Median, SD of proportion of words in tweets with "I" words that match the dictionary
+Average, Median, SD of valence of words in tweets that contain match to dictionary words
+Average, Median, SD of proportions of LIWC categories for tweets
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+
+LDA on user's tweets:
+    ? Num topics
+    ? Top k words in topics
+    ? Valence words within topics
+    ? "we" words in topics
+    
+Words in tweets that contain "we" words (TF-IDF)
+Words in tweets that contain "I" words (TF-IDF)
+
+
+<<>>
+For political & national identity, use word counts from predefined
+dictionary to predict (multi-class SVM) identity & (regression) strength of
+identification
+
+For free-form identity, do topic modeling, pick key words from topic(s)
+that have highest intersection with user-supplied terms and URL.  Measure
+of success = jaccard coefficient / cosine similarity / AUC for LDA-words to
+user-supplied terms.
+
+
+Id
+
+=== DVs ===
+own group 1a, 1b
+own group 2a, 2b
+own group 3a, 3b
+Instersection with words in user-supplied URL
+
+=== IVs ===
+k most likely words in LDA topics
+particulary with we words?

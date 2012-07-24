@@ -1,0 +1,9 @@
+SELECT COUNT(Id) FROM survey;
+
+describe survey;
+
+
+select Profile_bgd_color, COUNT(Profile_bgd_color) FROM profile GROUP BY
+Profile_bgd_color;
+
+describe profile;
