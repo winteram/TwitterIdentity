@@ -1,4 +1,6 @@
 import pymysql
+import nltk
+import pyml
 
 # Set up connection
 conn = pymysql.connect(host='smallsocialsystems.com', port=3306, user='smalls7_groupid', passwd='letspublish', db='smalls7_identity')
@@ -49,6 +51,7 @@ demogs = cur.fetchall()
 # Get tweets of participants' friends
 
 # Get tweets of participants' followers
+
 
 ### Predict political identity ###
 
