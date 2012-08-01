@@ -1,0 +1,46 @@
+﻿{title} Remarks by the President at DCCC Hispanic Caucus Reception {/title}
+{event} DCCC Hispanic Caucus Reception {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 13, 2000 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, ladies and gentlemen. Thank you for being here. Thank you for your support for the Congressional Hispanic Caucus. I want to thank Patrick Kennedy for his heroic work in raising money for all our congressional candidates. Thank you, Lucille, for your leadership.
+
+Unlike Congressman Kennedy, I am going to introduce the members of the Hispanic Caucus here -- {APPLAUSE} -- because, unlike Congressman Kennedy, I need them to vote for me several more times this year. {LAUGHTER ; APPLAUSE} So since we're all standing up already, I'd like to ask them to raise their hands as I call their names. If I miss anyone, don't be bashful.
+
+Solomon Ortiz, from Texas, there he is. {APPLAUSE} Xavier Becerra, from Los Angeles, up there. {APPLAUSE} Ed Pastor, from Arizona. {APPLAUSE} Nydia Velazquez, from New York. {APPLAUSE} Bob Menendez, from New Jersey, Bob. {APPLAUSE} Carlos Romero-Barcelo, from Puerto Rico. {APPLAUSE} Ruben Hinojosa, from South Texas, there he is. {APPLAUSE} Silvestre Reyes, from El Paso, there he is. {APPLAUSE} Ciro Rodriguez, from Texas -- Ciro, where are you? {APPLAUSE} Charlie Gonzalez, from San Antonio. {APPLAUSE} Grace Napolitano, from California, there she is back there. {APPLAUSE}
+
+And for me, at this particular moment, most important of all, because day before yesterday he had his first hole in one, Representative Joe Baca, from California. {APPLAUSE} And he is so shameless about it, that if you doubt it, he is carrying the authentic certificate, proving that he is. {LAUGHTER}
+
+Ladies and gentlemen, I will be brief, members have to go to a vote in a few minutes. I want to first of all thank all of them, because without them, nothing that we have accomplished -- the Vice President and I -- in our administration, would have been possible. We carried an economic plan in 1993 by one vote, which set off this economic explosion we've enjoyed in the last eight years. It would not have been possible without the Hispanic Caucus. {APPLAUSE}
+
+And whether it was on our welfare policy, where we said we are for work, but we're also for family; require people to work who can work, but don't take the food stamps and the medical care away from the poor children -- the Hispanic Caucus made it possible for us to hammer out that compromise.
+
+On crime, on education, on every single issue, they were there. And we do -- we have the lowest Hispanic unemployment every recorded; the lowest poverty rate among Hispanics in a generation; a 250 percent increase in SBA loans to Hispanic-owned businesses; and, as it's already been said, the largest number of Hispanics in high positions in our administration and in our courts in history. {APPLAUSE}
+
+Now, what I want to say to you is elections are always about tomorrow, not about yesterday. If we did a good job, after all, it's just what you hired us to do. I remember once I was asking a guy to vote for me for reelection as governor of Arkansas. And I said, well, don't you think I've done a good job? He said, sure you have, but you got a paycheck every two weeks too, didn't you? He said, that's what I hired you to do. {LAUGHTER}
+
+What I want to say to you is that I think the outcome of these elections for Congress and the outcome of the election for the President are every bit as important as the elections of 1992 and 1996. I worked very hard when this country was in trouble to turn it around; to put the economy, to put the people in this country first; to, in the words of my '96 campaign, build a bridge to the 21st century.
+
+Now the great test the American people face is what is it we intend to do with our good fortune, with this moment of possibility. I think we ought to use it to meet the big challenges of the country. I think we ought to use it to keep paying down the debt, to keep the prosperity going; but to extend the prosperity to people and places who have been left behind. I think we ought to give tax incentives to investors who invest in the poor areas of America the same incentives we give them to invest in poor areas in Africa and Asia and Latin America. I think that's important. {APPLAUSE}
+
+I think we ought to make after-school care and preschool universal for all of our children who need it. {APPLAUSE} I think we ought to have -- I think we ought to modernize our schools and ensure they're all hooked up to the Internet. I think we ought to provide more options for working families to get health care. We ought to pass the patients' bill of rights. We ought to allow working families whose children are in our Children's Health Insurance Program to buy into it themselves. We ought to have middle-class tax relief for long-term care, for child care, and to help all families pay for a college education. I think we ought to take on these big challenges.
+
+And while it is now fashionable for both parties to court the Hispanic vote -- indeed, both candidates speak Spanish, and love to do it -- I hope very much that I am the last President in American history who can't speak Spanish. I think from now on everyone will have to speak Spanish. {LAUGHTER ; APPLAUSE} And within a year or two, when I get a little private time, I may be able to speak Spanish, too. I'm going to work on it. {LAUGHTER}
+
+But what I want to say to you is that there is a difference. There is a difference in the Congress, and there is a difference in the race for the White House. One party supports the patients' bill of rights, and the other opposes it. One party is for raising the minimum wage, and the other is not. One party is trying to expand health insurance coverage to poor working families, and the other has not endorsed it. One party wants a big tax cut that will keep us from paying down the debt; the other party -- ours -- we want an affordable, middle-class tax cut that will enable us to continue to pay down the debt and invest in the education and health care and future of our children.
+
+We all say that we favor broad participation, but I'll just give you one example. I named an Hispanic lawyer from El Paso, named Enrique Moreno, to the Federal Court of Appeals. He graduated summa cum laude from his university. He graduated near the top of his class in law school. A panel of state judges in Texas said he was one of the three best lawyers in his part of the state. He got the highest rating from the American Bar Association. But the two Republican judges from Texas -- Senators from Texas -- said he wasn't qualified to sit on the Court of Appeals. And I haven't heard a peep, I might add, out of any of the other elected Republicans in Texas about this.
+
+So I say to you, there's a difference. There is a difference. And sometimes it can be as stern a test of a country's character and judgment, how it handles its prosperity, as how it handles its adversity. After all, when the American people took a chance on me in 1992, we had our backs to the wall, we were in trouble. And people were willing to let us make a few changes. Now, the danger is that people will think, oh, well, this economy has been so good, so long, nobody can mess it up. {LAUGHTER} Or that everybody seems so nice, nobody can do anything too bad. There is a difference. These people should be in the majority in the House. We should hold the White House. We should win the Senate. {APPLAUSE}
+
+And you can go and tell people, look, it's not as if they're taking a big chance -- you've got evidence now. We were divided all the way along on economic policy, on crime policy, on welfare policy, on education policy, on environmental policy. And the evidence is in. And the ideas are out there. The best days of this country are still ahead. The best days for Hispanic America are still ahead. But we have got to make the right choices.
+
+You made a good investment coming here tonight, and I want you now to make your investment good by taking every opportunity, every day, between now and November, to make the same arguments, in your own way, I made to you tonight.
+
+Thank you, and God bless you. {APPLAUSE} 
+
+{/speech}

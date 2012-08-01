@@ -1,0 +1,21 @@
+﻿{title} Remarks By The President At Arrival Of Astronauts To Ellington Field {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 20, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Ladies and gentlemen, I am so glad that I happened to be in Houston and at the airport at the right time. {APPLAUSE} I just want to take a minute -- I know you came to see this fine crew and their families and to celebrate with them -- but I just want to say on behalf of the people of the United States: We are very proud of this mission, proud of this crew. We were thrilled by its success, and we're glad to have them home. {APPLAUSE} 
+
+And let me just make one plug to -- I know that I'm preaching to the saved here -- but I want to make one plug for the space program. You see all of our friends and allies from Japan here celebrating their participation in the person -- where is he -- of Mr. Wakata. We thank him. {APPLAUSE} 
+
+Our space program is an important part of our partnership for world peace. It is an important part of how we relate to and work with the Japanese, the Russians and others in building a more cooperative, safer world for the 21st century. Our space program is also an important part of research we do in trying to solve medical mysteries and environmental mysteries. NASA has been a major, major force in helping us to figure out ways to save our planet Earth as we accommodate more population growth and more economic growth. 
+
+So I ask all of you: Remain steadfast in your support for America's investment in space and in our future together with our friends and allies throughout the world. Thank you. God bless you. Welcome home, gentlemen. Job well done. {APPLAUSE} 
+
+
+
+{/speech} 

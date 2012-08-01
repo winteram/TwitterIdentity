@@ -1,0 +1,83 @@
+﻿{title} Campaign Rally in Greenbay {/title}
+{event} ----- {/event}
+{speaker} Al Gore {/speaker}
+{date} October 30, 2000 {/date}
+{source} http://transcripts.cnn.com {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+... from the special interests who are trying to turn the policies to their own advantage.
+
+You don't mind if I take my coat off, do you? 
+
+{AUDIENCE} No! {/AUDIENCE}
+
+It's chilly, but I'm hot. {APPLAUSE} And I'm telling you, this election is hot. This race is close. Have you noticed? 
+
+{AUDIENCE} Yes! {/AUDIENCE}
+
+Have you noticed that Wisconsin is ground-zero for this election? {APPLAUSE} 
+
+Have you noticed that the Fox Valley is ground-zero for Wisconsin? {APPLAUSE} 
+
+As goes Wisconsin, so goes the nation in this race. This state is one of a handful that holds the destiny of America in the balance. You have the ability to make the difference. And Wisconsin may go exactly the way the Fox Valley goes. The Fox Valley may depend upon you personally and how strongly you feel about the outcome of this race. I need your help. {APPLAUSE} 
+
+I want you to get involved, passionately. {LAUGHTER} 
+
+Look, we face a big choice, just eight days from now. It'll be a long eight days. "Eight Days a Week," as the Beatles sang. This is the time. And we're seeing -- Beatles fans. {APPLAUSE} 
+
+I'm telling you that what you decide will determine what these kids encounter for the rest of their lives. There is so much at stake. Let's start with the economy. We are at a fork in the road. 
+
+Yogi Berra once said, "When you come to the fork in the road, take it." {LAUGHTER} 
+
+We have to decide which direction to take. Here's what I want to see: I want to see us take the road toward more prosperity, more jobs, higher income, include everyone, bring everybody into the American dream, unlock the potential of this country. {APPLAUSE}
+
+I believe that the surplus should be used to balance the budget and pay down the debt so it's not a burden on the backs of these children. {APPLAUSE}
+
+When we do that, we keep interest rates low, we keep on creating more jobs. 
+
+Joe Lieberman talked about -- incidentally, do I have a great running mate in Joe Lieberman or what? {APPLAUSE}
+
+And do you love Hadassah Lieberman? {APPLAUSE}
+
+Joe and Hadassah are great friends. 
+
+And Joe was talking earlier about the successes of the last few years, and it's true we've made progress. But, you know, it's not good enough, I'm not satisfied. My pledge to you is, "You ain't seen nothing yet." We're going to be much better still. {APPLAUSE}
+
+But in order to do much better, we've got to balance the budget and keep fiscal responsibility and then set the priorities in a way that put you first.
+
+Let me give you an example. I believe that we are now in the kind of rapidly changing information age where you deserve an opportunity to be able to get new skills if you've got your eye on a higher paying job, but you know that you need some more skills in order to get that job and earn the higher wages. You ought to an opportunity to go back to school, get some training, get the skills that you need, and then realize your dreams. 
+
+I believe that it is time to treat teachers like the professionals they are and reduce class size and make education the number one priority in America. {APPLAUSE}
+
+I think we need universal, high quality preschool for every child, in every family, all across America.
+
+We've got to reduce the size of each class by recruiting good, new, highly qualified teachers who are tested to make sure they know what they're doing. Teachers, all teachers, should have education and professional development opportunities. 
+
+We ought to modernize the schools and build new schools. A lot of schools now the kids go and there's no playground, the playground's covered up with trailers or portable classrooms. We need to do right by these kids; they're counting on us. This is the largest generation in history; we owe it to them, and we owe it to ourselves. Because if we do the right thing, we'll recognize that knowledge is the key and teachers are the locksmiths who can put that key into the hands of every child and every person of whatever age in the United States of America. {APPLAUSE}
+
+Now, here's the other thing I want to do for education: You elect me president and I will make college tuition tax deductible for middle class families up to $10,000 a year. {APPLAUSE}
+
+You ought to be able to send your kids to college regardless of family income. {APPLAUSE}
+
+Are you with me? 
+
+{AUDIENCE} Yes! {/AUDIENCE}
+
+All right, now let's talk for a little bit about health care. I believe it's an outrage that there are 44 million Americans who have no health insurance. I believe we need to move step-by-step toward universal health care, starting with a commitment to give high- quality, affordable health care to every single child in America within the next four years. We can do that. And we must do that. {APPLAUSE} And then I think we need to address the two issues that have been on the agenda throughout this election year. And I want to use these two issues as an example of the difference in the approach that I have and the approach that Governor Bush has. I want to use these same two issues as examples of why Russ Feingold's campaign finance reform bill is so important.
+
+The first one is prescription drug coverage for our senior citizens. Look, in the last 35 years since Medicare was enacted, prescription drugs have become a much more important part of health care. And thank goodness a lot of wonderful medicines have been innovated. 
+
+But they're expensive. And seniors are charged a higher price than anyone else because they've got nobody standing up for them. If you're in a group health plan, they'll go in and negotiate and bargain for a lower price, but Medicare is not allowed to get into prescription drugs and so nobody stands up for the seniors. They go and get their prescription drugs and the big drug companies charge them often twice as much as other customers. That is wrong.
+
+The drug companies have the highest profits of any industry in America. And we want them to make profits, but they're using those profits now not primarily for research and development; that's being done by the new biotech companies. They're using it for advertising and promotion and lobbying and campaign contributions and efforts to bend the laws to protect their profits, often at the expense of seniors who are choosing between skipping pills and skipping meals. 
+
+Now, why hasn't that been fixed? Herb Kohl, Russ Feingold, Joe Lieberman and I, we've been fighting for a prescription drug benefit under Medicare to cover all seniors. But the drug companies have been able to use their political power and their massive wealth to get a majority in the Congress, through lobbying and campaign contributions and persuasion, to block a prescription drug benefit. That is wrong.
+
+I believe that the will of the people ought to control these kinds of policies. What you need and what you want and what is right ought to decide the outcome. The big drug companies...
+
+
+
+{/speech} 

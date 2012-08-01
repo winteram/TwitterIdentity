@@ -1,0 +1,50 @@
+﻿{title} Remarks by the President on Community Health Centers {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} December 9, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good afternoon, everybody. I am pleased that you could all join us today as we announce three new initiatives to help our community health centers provide better care to people in need all across America. {APPLAUSE}
+
+I want to thank our Secretary of Health and Human Services, Kathleen Sebelius; our Surgeon General, Dr. Regina Benjamin; our Administrator of the Health Resources and Services Administration, Dr. Mary Wakefield; and our Deputy Secretary of HHS, Bill Corr, for being here today and for their outstanding work to support community health centers. There they are. {APPLAUSE} By the way, Regina, it's good to see you in your uniform. {LAUGHTER} We had been waiting for that.
+
+I also want to thank the many members of Congress who are with us today both in the audience and up on the stage, particularly Bernie Sanders and Representative Jim Clyburn. We are grateful for all that you've done. {APPLAUSE}
+
+And I especially want to recognize the leaders here today from health centers across the country for what all of you are doing in your communities every day –- working long hours to provide quality care at prices that people can afford, with the dignity and respect they deserve, and in a way that takes into account the challenges that they face in their lives.
+
+For you folks, health care isn't just about diagnosing patients and treating illness –- it's about caring for people and promoting wellness. It's about emphasizing education and prevention, and helping people lead healthier lives so they don't get sick in the first place.
+
+And it works. Studies show that people living near a health center are less likely to go to the emergency room and less likely to have unmet critical medical needs. CHCs are proven to reduce ethnic and racial disparities in care. And the medical expenses of regular CHC patients are nearly 25 percent lower than those folks who get their care elsewhere -- 25 percent lower.
+
+So you can see why, in a speech marking the first anniversary of the first community health centers in America, Senator Ted Kennedy declared, "You have not only assured the best in health care for your families and neighbors, but you've also begun a minor revolution in American medicine."
+
+Now, unfortunately, today, nearly 45 years later, that care has yet to reach many of the folks in this country who need it most. Today, millions of Americans still have difficulty accessing primary health care, and many of them are uninsured. Many have insurance, but live in underserved areas, whether in urban or rural communities. So they don't get regular checkups, they don't get routine screenings. When they get sick or hurt, they tough it out and hope for the best, and when things get bad enough they head to the emergency room.
+
+So we end up treating complications, crises and chronic conditions that could have been prevented in the first place. And the cost is measured not just in dollars spent on health care, or in lost workplace absences and lower productivity, but in the kind of raw human suffering that has no place in the United States of America in the year 2009.
+
+No matter what party we belong to, or where on the political spectrum we fall, none of us thinks this is acceptable. None of us would defend this system. And that's why we've taken up the cause of health insurance reform this year. It's why many of the folks in this room fought so hard to ensure that the Recovery Act included unprecedented investments –- a total of $2 billion –- to upgrade and expand our health centers –- investments that embody the act's core mission: to help folks hardest hit by this recession, to put people back to work, and to leave a legacy of improvements that will continue to lift up communities for generations to come.
+
+Today, we're well on our way to meeting these goals. We've created or saved up to 1.6 million jobs, according to the CBO -- the Congressional Budget Office -- through the Recovery Act. Our economy is growing again. We're doubling our capacity in renewable energy and rebuilding schools and laboratories, railways, and highways. Yesterday, the Kaiser Family Foundation issued a new report showing the Recovery Act has helped many states keep and improve access to health insurance for families in need.
+
+And so far, we've allocated nearly $1.4 billion to health centers across America so they can get to work building and renovating and hiring new staff this year. And today, I'm pleased to announce that we're awarding more than $500 million to 85 centers in more than 30 states and Puerto Rico that are providing critical care for so many folks with nowhere else to turn. {APPLAUSE}
+
+We're investing in places like Canyonlands Community Health Care in Arizona, that has one facility operating in a building originally constructed as a chicken coop and another in a cramped fire station. We're investing in places like Avis Goodwin Community Health center in Dover, New Hampshire, that's become so overcrowded -- you must be from there. {LAUGHTER} It's become so overcrowded the doctors are using bathrooms and closets as offices. We're investing in Bucksport Regional Health Center in Maine, where doctors are double-booked and the waiting rooms are often standing room only. We're giving places like these the funding they need to upgrade and expand their facilities so they can meet the skyrocketing demand for services that's come with this economic downturn.
+
+But we won't just want our health centers to provide more care for more patients; we want them to provide better care as well. So starting today, we're making $88 million in funding available for centers to adopt new health information technology systems to manage their administrative and financial matters and transfer old paper files to electronic medical records. {APPLAUSE} These investments won't just increase efficiency and lower costs, they'll improve the quality of care as well –- preventing countless medical errors, and allowing providers to spend less time with paperwork and more time with patients.
+
+That's the purpose of the final initiative I'm announcing today as well -– a demonstration project to evaluate the benefits of the "medical home" model of care that many of our health centers aspire to. The idea here is very simple: that in order for care to be effective, it needs to be coordinated. It's a model where the center that serves as your medical home might help you keep track of your prescriptions, or get the referrals you need, or work with you to develop a plan of care that ensures your providers are working together to keep you healthy.
+
+So taken together, these three initiatives –- funding for construction, technology, and a medical home demonstration –- they won't just save money over the long term and create more jobs, they're also going to give more people the peace of mind of knowing that health care will be there for them and their families when they need it.
+
+And ultimately, that's what health insurance reform is really about. That's what the members of Congress here today will be voting on in the coming weeks. {APPLAUSE}
+
+Now, let me just end by saying a little bit about this broader effort. I know it's been a long road. {LAUGHTER} I know it's been a tough fight. But I also know the reason we've taken up this cause is the very same reason why so many members from both parties are here today –- because no matter what our politics are, we know that when it comes to health care, the people we serve deserve better.
+
+The legislation in Congress today contains both Democratic ideas and Republican ideas, and plenty of compromises in between. The Senate made critical progress last night with a creative new framework that I believe will help pave the way for final passage and a historic achievement on behalf of the American people. I support this effort, especially since it's aimed at increasing choice and competition and lowering cost. So I want to thank all of you for sticking with it, for all those late nights, all the long weekends that you guys have put in. With so much at stake, this is well worth all of our efforts.
+
+It is now my pleasure to sign the memo that will direct Secretary Sebelius to get started on that medical home demonstration. So let's do that. {APPLAUSE} 
+
+{/speech}

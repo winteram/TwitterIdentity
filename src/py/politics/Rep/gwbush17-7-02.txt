@@ -1,0 +1,30 @@
+﻿{title} President Bush Welcomes President of Poland for State Visit {/title}
+{event} Arrival Ceremony, The South Lawn {/event}
+{speaker} George W. Bush {/speaker}
+{date} July 17, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} Remarks by President Bush and President Kwasniewski in Arrival Ceremony {/description}
+
+{speech} 
+
+Mr. President, Madam First Lady, members of the Polish delegation, distinguished guests, on behalf of the American people, it is my great honor to welcome you to the United States. {APPLAUSE}
+
+This is the -- only the second state visit of my administration, and it symbolizes the high importance America places on our friendship with Poland. This friendship is rooted in our common history and sustained by our common values.
+
+This generation of Poles has written a story of courage and determination that has inspired America and has inspired the world. {APPLAUSE} Out of a past filled with pain and oppression, Poland is constructing a future defined by greater freedom, good relations with its neighbors, and increasing influence throughout Europe.
+
+And today, Mr. President, we meet as leaders of two strong, mature democracies, ready to shape a new era of freedom and security. Together, Poland and America are standing and fighting side by side in the war against global terrorism. {APPLAUSE} From military forces -- from military forces to law enforcement, terrorist financing and intelligence, Poland's support and solidarity in this great struggle has been unqualified. And America is deeply grateful. {APPLAUSE}
+
+Our nations are determined to lead the way in NATO's efforts to develop new capabilities to meet new threats. We're united in our determination that our children will inherit a world defined not by fear and chaos, but by tolerance and freedom.
+
+Together, Poland and America are building that freedom on the continent of Europe. Today, a new Europe is within our grasp, one that is whole and free, and at peace for the first time in its history. {APPLAUSE}
+
+In November, the President and I will join other NATO leaders in Prague to decide on inviting new members into -- into the alliance. On this issue, Poland and America stand united. We believe in NATO membership for all European democracies ready to share in NATO's responsibilities. {APPLAUSE} Our aim is for freedom and security to span the European continent from the Atlantic and the Mediterranean to the Baltic Sea and the Black Sea.
+
+Together, Poland and America are also building our common prosperity. The trade and investment that flows between our countries creates jobs and lifts lives on both continents. We're determined to bring the benefits of trade and markets to all our citizens.
+
+Today, Poland and America are forging a new strategic relationship, but the friendship between our people is very old. Nine million Americans claim Polish descent. Over two centuries ago, when Americans were fighting for our independence, Poles fought alongside us. In the century just passed, as Poles reclaimed their independence, America stood by Poland. {APPLAUSE}
+
+And today, Poland and America stand and fight together for our common freedom, and for bringing the hope of freedom to all who seek it in the world. 
+
+{/speech}

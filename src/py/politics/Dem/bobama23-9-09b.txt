@@ -1,0 +1,18 @@
+﻿{title} Toast Remarks By The President at Un Secretary General Ban's Lunch For Heads Of State And Government {/title}
+{event} Secretary General Ban's Lunch {/event}
+{speaker} Barack Obama {/speaker}
+{date} September 23, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, thank you very much, Mr. Secretary General. On behalf of the United States, and on behalf of the extraordinary city of New York, we want to welcome all of you. We also want to encourage you to do some shopping while you're here. {LAUGHTER} There are wonderful restaurants.
+I've talked enough this morning, so I'm going to be very, very brief. But, Mr. Secretary General, I just wanted to thank you for your unwavering commitment to the ideals upon which this body was founded. In your tenure at the United Nations you've shown your dedication to the pursuit of peace and security, to protection of human rights, the promotion of democracy and development, and the advancement of international justice.
+Over the past year, your leadership has directly helped to prevent the use and spread of nuclear weapons. It's improved this institution's peacekeeping efforts, to battle hunger and increase food security, and as we saw yesterday, you are reminding all the world of the urgency and magnitude of our climate challenge. And on this, I think you've led by example, and spurred all of us on towards the common goal of saving our common home. And we're very grateful to you for that.
+The institution that you lead was founded decades ago in a different world that faced different threats and different challenges. And yet, the size and the scope of the challenges we currently face are immense. And the United Nations has never held more promise than it does today. Whether we realize that promise is far from certain. As I said this morning, the magnitude of our challenges has yet to be met by the scope of our action. But days like this offer renewed hope that we will find it within ourselves the courage and the determination to meet our responsibilities to ourselves, to our citizens, and to future generations.
+It falls to us. Progress will not come without setbacks, and cooperation does not come without debate and disagreement. And this institution will be what we make of it. So on this September day, I would like to offer a toast to what can be in the years to come -- a place where we forge common ground and recognize our common humanity, a source of moral authority, a force for peace, and above all, an indispensible institution in helping all of us build a better future for our children and our grandchildren.
+To the United Nations.
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

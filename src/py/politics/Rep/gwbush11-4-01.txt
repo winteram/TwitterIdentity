@@ -1,0 +1,127 @@
+﻿{title} Remarks by the President at Greenville, North Carolina Welcome Event {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} April 11, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. Thank you very much. {APPLAUSE} Okay. Richard, thank you very much for your kind hospitality. {APPLAUSE} I'm proud -- I am proud to be an honorary member of the East Carolina Baseball Team. {APPLAUSE} I am proud to be on this campus. {APPLAUSE} I am proud to be in East Carolina. {APPLAUSE} And I'm proud I've got so many friends in this great state. {APPLAUSE} 
+
+It is such an honor to be here, and I want to thank you all for coming. I understand that some good folks spent the night last night to be here. {APPLAUSE} I promise not to speak so long so you will fall asleep. {LAUGHTER} But I'm really thankful that you're here. I'm thankful to be out of Washington, D.C. -- {APPLAUSE} -- with the good, hard-working people of this part of our country. {APPLAUSE} 
+
+And I'm pleased to report -- I'm pleased to report that a commercial charter airplane is close to landing on Hainan Island. {APPLAUSE} 
+
+{AUDIENCE} USA! USA! USA! USA! {/AUDIENCE} 
+
+The plane is expected to leave that island in a couple of hours, bound for Guam and then for Hawaii. {APPLAUSE} Earlier today I had the privilege and honor to meet fellow North Carolinians, Bob and Sandra Blocher, the parents of one of the 24 crew members, Petty Officer Third Class Steven Blocher. They are, of course, as you can imagine, thrilled to know that the servicemen and women are returning home. {APPLAUSE} 
+
+These have been difficult days for all the families. And these days are a reminder of the sacrifices all our men and women in uniform and their family make every single day for freedom. {APPLAUSE} And so we're proud and thankful for the service of folks, we're proud and thankful for their parents, and we can't wait for them to get home. {APPLAUSE} 
+
+I am pleased -- I am pleased to be here with the Senior Senator from the great state of North Carolina. {APPLAUSE} 
+
+{AUDIENCE} Jesse! Jesse! Jesse! Jesse! {/AUDIENCE} 
+
+He's a strong ally in the United States Senate. 
+
+{AUDIENCE-MEMBER} Big time. {/AUDIENCE-MEMBER} 
+
+I am pleased to be here -- {LAUGHTER} Quit quoting the Vice President. The man yelled, "big time." {LAUGHTER} 
+
+I am pleased to be here with your Congressman, Walter Jones. {APPLAUSE} As well as Congressmen from around your state: Howard Coble, Robin Hayes, Charles Taylor. {APPLAUSE} 
+
+Let me tell you -- now, you all may be aware that I laid out a budget recently. {APPLAUSE} I like to call it, the people's budget. {APPLAUSE} Because it says first and foremost, in Washington, we understand that we're not spending the government's money, we are spending the people's money. {APPLAUSE} And the five people I just introduced stood strong with the people of North Carolina when they voted for a responsible budget. {APPLAUSE} I can't say that was the case for every member of the North Carolina delegation. 
+
+{BOOING} 
+
+I just want to remind you as these votes keep coming down, when we get to choose between bigger government and the people, you're only one e-mail away of reminding reluctant members of the Congress that your point of view matters. {APPLAUSE} 
+
+And mark my words, having been up there for a period of time, I can assure you that there is a struggle between whose money it is and where it ends up. 
+
+I want to describe to you the budget I laid out, just to put your mind at ease. We increase discretionary spending in the budget -- that means programs other than entitlement programs -- by 4 percent. Many of you work hard to get along, and you haven't had a 4 percent pay raise lately. Inflation is lower than 4 percent. So I thought it would be reasonable to ask the federal government to live on a 4 percent increase in the discretionary spending account. {APPLAUSE} Four percent increase in discretionary spending increases federal assistance to North Carolina education programs to more than $947 million a year. {APPLAUSE} 
+
+A 4 percent discretionary budget means that North Carolina's Head Start programs will receive $127 million a year. {APPLAUSE} The budget provides $78 million in funding for water resource projects along North Carolina rivers and waterways. {APPLAUSE} It provides a 366 percent increase of federal monies to help conserve North Carolina natural resources. It expands the number of community health centers all across the country. 
+
+A 4 percent increase -- a 4 percent increase doubles the Medicare budget, so that we fulfill the promise to the elderly. {APPLAUSE} A 4 percent increase helps keep priorities to the military. We must pay our military folks more money. {APPLAUSE} A 4 percent increase means we're going to spend $100 billion additional dollars next year. That's a lot of money. But for those who want to increase the size and scope of the federal government, it's not enough. 
+
+Now, I want you all to understand where the trade-offs come when it comes to budgeting. The money either ends up in federal programs or it ends up in the people's pocket. And my point of view I make in Washington, and that I want you to help me on is, we can meet priorities: we can fund education and good conservation programs; we can fulfill our commitment to the elderly; we can make Social Security is safe and secure today and around tomorrow for the younger folks. We can do all that -- {APPLAUSE} -- by growing the discretionary account at 4 percent and still have meaningful tax reductions. {APPLAUSE} 
+
+So when somebody tells you, when you hear the excuse, oh, we're not meeting our needs, you need to get them to look at the numbers; you need to get them to understand what a 4 percent growth means. You also ought to remind them that if they do what some in the Senate want done -- which is to grow the budget 8 percent -- we're going to roar right through any projected surplus. 
+
+If we grow that budget 8 percent, we come from the school of thought that it's going to serve as a huge drag on our economy. You see, there's trade-offs that have to be realized. The trade-off -- the fundamental trade-off, though, is who do we trust? Who do we trust with the money? Do we trust the government, or do we trust the people? 
+
+{AUDIENCE} The people! {/AUDIENCE} 
+
+That's what this debate is about. That's what the fundamental debate is about. {APPLAUSE} 
+
+Now, I can remember campaigning all across the states like Carolina, and people kept saying during the course of the campaign, oh, he's just talking, because there's not going to be any tax relief, people don't want tax relief. I kept saying, well, you may be talking to different people I am. Everywhere I went, once I can convince the people that we meet the basic needs of government, people seem to understand that they'd want some of their money back. That's what they seem to understand. {APPLAUSE} 
+
+But the skeptics, they weren't listening. The skeptics weren't listening. But let me tell you where we are. Because of the hard work of the North Carolina congressional delegation, we passed $1.6 trillion of tax relief. {APPLAUSE} The Senate is at $1.2 trillion of tax relief. Now, they are trying to reconcile the differences, but either way you cut it, tax relief is on the way. {APPLAUSE} 
+
+And I want to remind you all, it has nothing to do about me. It's everything to do about the people. That's what this is all about. {APPLAUSE} This is the people's budget. It's the people's budget. The tax relief plan that I hope is finally adopted must incorporate these principles: one, anybody who pays taxes ought to get relief. {APPLAUSE} 
+
+Some of the good folks in Washington, D.C., they support what they call targeted tax relief. 
+
+{BOOING} 
+
+That means some people targeted in and some people are targeted out. The fairest way -- the fairest way -- the fairest way is to say that if you pay taxes, you get relief. {APPLAUSE} 
+
+So I hope the plan that says everybody pays taxes gets relief is what ends up on my desk. I think it will, with your help. I think it will. {APPLAUSE} We need to drop -- I want to tell you something about the current tax code, to make sure you understand the facts. 
+
+First of all, if you're struggling to get ahead in America, this tax code is unfair. It's unfair to people at the bottom end of the economic ladder, because our code is structured this way. For example, if you're a single mother in the state of North Carolina, trying to raise two children -- first of all, you've got the toughest job in your state. {APPLAUSE} It's the hardest work in the state of North Carolina. 
+
+And, by the way, for all you folks who go to East Carolina University -- {APPLAUSE} -- if you're fortunate enough to become a dad, you love your children with all your heart and all your soul. {APPLAUSE} The most important job you'll ever have is to be a dad. {APPLAUSE} If that lady is making $22,000 a year, she's living on the outskirts of poverty. Under the code we have today, for every additional dollar she makes or earns, she pays a higher marginal rate than someone who is Wall Street successful. And that's not right, folks. That's not what America is about as far as we're concerned. 
+
+Our code ought to say, the harder you work, the more money you have in your pocket. {APPLAUSE} This is a tax code that ought to make it easier for people to realize their dreams, not harder. And so, therefore, we drop the bottom rate from 15 percent to 10 percent, and increase the child credit from $500 to $1,000 per child. {APPLAUSE} 
+
+We need to make the code more fair. We also need to make the code more fair to small businesses. {APPLAUSE} There are 488,000 small businesses in your state of North Carolina who will benefit from tax relief when you cut marginal rates. Because the truth is, by far, the vast majority of small businesses -- who, by the way, create 75 percent of the new jobs in America -- they don't pay corporate income taxes, they pay personal income taxes, because they're either sole proprietorships or Subchapter S corporations. That's reality. 
+
+Reality is small business people pay personal income tax rates. And so, when we drop the top rate from 39.6 percent to 33 percent, really what we're saying is, we want to encourage the growth of the small business sector in America. {APPLAUSE} 
+
+Oh, I've heard all the rhetoric about how only certain people benefit. But the Congress must understand the importance of small business in America, and the Congress must understand that by dropping that top rate, we stimulate growth in the private sector. The role of government is not to create wealth, the role of government is to create an environment in which the entrepreneur can flourish in America. {APPLAUSE} 
+
+Ours is the tax code that penalizes marriage. And that's not fair. And that's not right. That's bad public policy. We ought to reward marriage and family in America. {APPLAUSE} And the current tax code -- the current tax code taxes people's assets twice. You see, we've got a system where folks work all their life and they dream about passing their farm or their ranch or their small business on to a son or daughter. 
+
+And, yet, the tax code -- and, yet, the tax code makes it difficult to do so. There are thousands of farmers and ranchers who worry about having to sell their farm or their ranch early because of the death tax. Folks, we need to get rid of the death tax in America. {APPLAUSE} 
+
+You'll hear every excuse in the book about why we can't drop all rates or why the death tax, you know, can't be eliminated. But you know how I view those excuses? I view those excuses -- I view those as excuses to keep your money in Washington. That's what I view. I view those as excuses to expand the size of the federal government. 
+
+I'm here to tell you I've looked at the numbers: we've got enough money to meet priorities. But as important, we've got enough money to let you keep your own money. {APPLAUSE} And we need to do so for two reasons. The first reason has to do with our economy. It's slowing down a little bit. And one way for us to give our economy a second wind is to give people their own money back so they can spend it in the private sector. {APPLAUSE} Is to cut the rate so small businesses have more cash flow to invest. Is to understand that more money circulating in the private sector will create economic growth. And so tax relief is important for economic purposes. 
+
+{AUDIENCE-MEMBER} Retroactively. {/AUDIENCE-MEMBER} 
+
+But there is -- retroactively, too. {APPLAUSE} It sounds like we've got an economist in the crowd -- a right-thinking kind of economist. What the man is saying is, we need to get money in your pockets as quickly as possible, and we agree. {APPLAUSE} 
+
+But there is a second reason why we need tax relief -- a second reason why. And this comes to the heart of the debate. It has to do with people and who do we trust, and families. Today, I'm proud to be joined by Larry and Kristi Bryan, right up there. {APPLAUSE} And Jennifer and Jeffrey and Katie June. {APPLAUSE} Calm down. {LAUGHTER} You didn't tell me you were going to bring your whole neighborhood. 
+
+Let me tell you why I asked them to come. Because, you know, oftentimes in the political arena, we're always talking about numbers and budgets and growth and all that business. But behind tax relief are real-life families. That's what this is all about. I hope that's the reason why everybody who decides to run for office does so, to help families, to understand the importance of people in our society. 
+
+These good folks now pay $3,570 in federal income taxes. Under the plan that passed the House and the plan that I submitted, they would save $1,830 when this tax relief is fully implemented. {APPLAUSE} 
+
+Oh, I know for some of the sophisticates, they say that's nothing. But for this family, it's a lot. And the fundamental question that I want the members of the Congress to address when we start dealing with the people's money is, who do we want to spend that extra $1,830? That's what this debate is about, folks. Who should our government trust? And I'm going to tell you as plainly as I can. I'd rather the Bryans be spending that money than the federal government. {APPLAUSE} 
+
+Oh, I know some of the projects -- remember, this is money after we've met basic needs. This is money after we've grown the 4 percent discretionary spending. There will be some high-falutin' words and great programs. But the fundamental question is, who should our government trust. And we need to trust the people, because the people are the great strength of America -- the people of this country. {APPLAUSE} 
+
+It is the people of this country that make America great. I love getting outside of Washington and traveling to places like Greenville, Sou -- North Carolina, because I'm able. I'm able. 
+
+{BOOING} 
+
+I caught you. {LAUGHTER} I love coming to see the people -- the people that line the roads, the people that are waving. That's what I love. Because it reminds me of how strong this country is. {APPLAUSE} It reminds me -- it reminds me -- it reminds me that in Greenville, North Carolina, good people live. {APPLAUSE} 
+
+And why is that important? I'll tell you why it's important. Because the great hope for the country comes when people turn to a neighbor and says what can I do to help, turns to a neighbor in need. That's the strength of America. Our great strength is not necessarily found in our halls of government, it's found in hallways and schools, where teachers dedicate themselves to teaching a child. {APPLAUSE} 
+
+It is found in hallways of churches and synagogues where folks hear -- {APPLAUSE} -- where folks hear the universal call to love a neighbor just like they would be loved themselves. {APPLAUSE} No, the strength of this country -- the strength of this country in the hearts and souls of our people. It's when a Boy Scout leader says to a young child -- says to a young child, you know, there's right decisions to make and wrong decisions, and I want to help you understand a right decision. {APPLAUSE} 
+
+It happens when somebody -- somebody takes time out of their life to mentor a child. I hope -- I hope when you hear of a mentoring program right here in Eastern North Carolina that you say, I'd like to help. There are some children in our society who wonder whether or not the American Dream is meant for them. And that's going to require a loving soul, putting their arm around that child and saying, somebody cares about you, somebody wants you to know -- {APPLAUSE} -- somebody wants you to know that there is love in our society. {APPLAUSE} 
+
+The problem is, everybody expects the federal government to do it. But the governments can't make people love one another. No, government can hand out money, but we cannot put love in people's hearts, or hope in people's lives. That's done when loving citizens take time out of their lives to help make their communities and their neighborhoods as strong as it possibly can be. 
+
+This debate in Washington, D.C. on taxes is fundamental to the country. It not only talks about economic vitality, but it really speaks to we ought to trust the people. We ought to trust the people with their own money, and we ought to trust the people of America to provide the compassion necessary to make sure this great land fulfills its promise for every citizen who is lucky enough to be an American citizen. {APPLAUSE} 
+
+I'm honored that you let me come and share my hopes for our country with you. I call upon you that when senators start to vote, for example, on budgets, you might remind them of whose money they're spending. {APPLAUSE} 
+
+And I want to conclude by telling you what a huge honor it is to be the President of the greatest land on the face of the earth. Thank you for coming. God bless. And God bless America. {APPLAUSE} 
+
+{/speech} 

@@ -1,0 +1,24 @@
+﻿{title} Toast Remarks by the Presidentat Luncheon in Honor of the Leaders of the Millennium Summit {/title}
+{event} North Delegates Lounge, The United Nations, New York, New York {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 6, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. Secretary General, Mr. Security Council President; to the Presidents of Finland and Namibia, the co-Presidents of this remarkable Millennial Summit. First, let me say again on behalf of the American people, we are deeply honored to host each and every one of you in this largest ever gathering of world leaders. For many of you, this has been a long and difficult journey and I thank you for coming.
+
+Mr. Secretary General, I think I speak for all here when I thank you for your hospitality, your leadership, your vision and your inspiration. A year ago at this luncheon, you looked ahead to the Millennial Summit and said the following: It must go beyond a series of statements. "It must make decisions, setting the agenda for the United Nations in the new century." You have helped to set that agenda by publishing your Millennium Report and the report on U.N. peace operations.
+
+You have raised the hardest questions about the U.N.'s responsibilities in this new era, and given some of the hard answers. And you have reminded us that the final answers must come from those with the authority and the resources to help the United Nations fulfill its mission. In the final analysis, all of us in this room, and those whom we represent must be up to the challenge if the U.N. is to succeed.
+
+This morning I had the opportunity to address the Assembly in terms of the challenge of making peace and of making the U.N. a more effective instrument of peace. Peace always needs champions who will stand for it because it will always have enemies who will stand against it.
+
+Cervantes once said, every man is as heaven made him -- and sometimes a great deal worse. {LAUGHTER} Mr. Secretary General, you are a man as heaven made you, and sometimes a great deal better. {APPLAUSE} You have made the United Nations a trusted champion of the values it was founded to defend on the rough terrain of the real world. Some have called your hope and optimism, your lofty goals idealistic. I say, good for you. Unless we first imagine the world we want to build, we cannot achieve it.
+
+And so, Mr. Secretary General, we thank you for your idealism. We are glad you are here in this position at this important time in history. The world needs you.
+
+I ask all here to join me in a toast to the Secretary General of our United Nations. {APPLAUSE} 
+
+{/speech}

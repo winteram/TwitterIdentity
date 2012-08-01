@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President at Earth Day Reception {/title}
+{event} Earth Day Reception {/event}
+{speaker} Barack Obama {/speaker}
+{date} April 22, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody! {APPLAUSE} How are you? This is a good-looking crowd. {LAUGHTER} Thank you so much, everybody, for coming.
+
+Today we celebrate 40 years of Earth Day. Now, obviously Earth has been around longer than that. {LAUGHTER} But we have been celebrating Earth Day for 40 years -– which was a bright moment in our nation's history and a milestone in the ongoing fight to protect our environment.
+
+Many of you know the history. In 1970, a senator from Wisconsin named Gaylord Nelson -- {APPLAUSE} -- hired a young graduate student named Dennis Hayes –- who is with us today. Where's Dennis? There he is. {APPLAUSE} He still looks like a young graduate student. {LAUGHTER} And so Dennis helped to coordinate the first Earth Day. And together, they raised their voices and called on every American to take action on behalf of our environment.
+
+And in the four decades since, millions of Americans have heeded that call and joined together to protect the planet. And we've made immense progress since that day –- from the landmark legislation of the 1970s, the Clean Air and the Clean Water Act, to the conservation of America's precious landscapes.
+
+I know that many of you have played an important role at one stage or another in these victories, and their impact can be felt today and will be felt tomorrow. And as a parent, I'm grateful for the good fight that so many of you have fought because it means that I'm going to be able to pass on to Malia and Sasha and maybe some grandchildren down the line this incredible bounty not only of the United States of America, but the world as a whole.
+
+And along the way, Earth Day has become much more than a date on the calendar. It's come to represent the simple truth that with each challenge comes the opportunity to make the world a better place.
+
+So since taking office, we have seized that opportunity. With your help, we've made a historic investment in clean energy that will not only create the jobs of tomorrow, but will also lay the foundation for long-term economic growth. We've continued to invest in innovators and entrepreneurs who want to unleash the next wave of clean energy. We've strengthened our investment in our most precious resources -- the air we breathe, the water we drink, and the parks and public spaces that we enjoy.
+
+And together, we've also renewed our commitment to passing a comprehensive energy and climate bill that will safeguard our planet, and spur innovation and help us to compete in the 21st century. {APPLAUSE}
+
+So looking out into the Rose Garden today, we see a lot of people who will help us achieve these goals: the business owners who know that protecting our environment is good for business; the members of Congress who are helping to carry us along in the House and the Senate; the members of my Green Cabinet who are helping to shape the policies that we're fighting for; and the environmental leaders who are on the ground fighting each and every day because they understand what's at stake.
+
+So together, you represent what I believe is most inspiring about Earth Day, and that is the belief that each of us individually, from different backgrounds and different walks of life, have the capacity to make an enormous difference.
+
+I think we all understand that the task ahead is daunting; that the work ahead will not be easy and it's not going to happen overnight. It's going to take your leadership. It's going to take all of your ideas. And it will take all of us coming together in the spirit of Earth Day -- not only on Earth Day but every day -- to make the dream of a clean energy economy and a clean world a reality. I'm confident, though, that we can do it. And I want to thank all of you for your support, your counsel, your occasional grumbling -- {LAUGHTER} -- and your dedication, because without you we couldn't accomplish everything that needs to be accomplished.
+
+So thank you very much, everybody. Enjoy the Rose Garden. Thank you. {APPLAUSE} 
+
+{/speech}

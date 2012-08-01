@@ -1,0 +1,48 @@
+﻿{title} President Bush Welcomes Romania to NATO {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} November 23, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Salut! {APPLAUSE} Thank you all. Thank you, Mr. President. Thank you for being out here in the rain. Thank you for such a warm welcome. Laura and I are honored to be in this great country. {APPLAUSE} As we started speaking, a rainbow appeared. {APPLAUSE} God is smiling on us today. {APPLAUSE} 
+
+I'm proud to stand in this great square and to bring the good wishes of the American people. {APPLAUSE} Today we reaffirm the friendship between your country and mine. I'm honored to carry a message to the people of Romania: We proudly invite you to join NATO, the great alliance of freedom. {APPLAUSE} 
+
+All around us are reminders of Romania's history and the culture we share. Close by is a church, three centuries old, a symbol of the faith that overcomes all oppression. In this square we see monuments of Romanian patriots who lost their lives in liberty -- for the liberty of your nation. {APPLAUSE} And here, in December of 1989, you broke the silence of your captivity. From that balcony, the dictator heard your voices and faltered -- and fled. Two generations of bitter tyranny ended, and all the world witnessed the courage of Romania, the courage that set you free. {APPLAUSE} 
+
+Since those days of liberation, Romania has made an historic journey. Instead of hatred, you have chosen tolerance. Instead of destructive rivalry with your neighbors, you have chosen reconciliation. Instead of state control, you have chosen free markets and rule of law. And instead of dictatorship, you have built a proud and working democracy. {APPLAUSE} 
+
+The path of freedom you've chosen is not easy, but it's the only path worth taking. I know that your hardship did not end with your oppression. America respects your labor, your patience, your daily determination to find a better life. Your effort has been recognized by an offer to NATO membership. We welcome Romania into NATO. {APPLAUSE} 
+
+NATO's invitation to join was also a vote of confidence that you will continue the hard work of political, economic and military reform. And as you do, you will have partners in all the nations of NATO. 
+
+The promises of our Alliance are sacred, and we will keep our pledges to all the nations that join us. Should any danger threaten Romania -- should any nation threaten Romania, the United States of America and NATO will be by your side. {APPLAUSE} As a NATO ally, you can have this confidence -- no one will be able to take away the freedom of your country. {APPLAUSE} 
+
+NATO membership will make Romania more secure. And Romania will add to the strength of the NATO Alliance as we face unprecedented new dangers. Already, our troops are serving side by side in Afghanistan. Already, Romania has joined the global coalition against terror. And we thank you very much. {APPLAUSE} 
+
+The world has suffered enough from fanatics who seek to impose their will through fear and murder. The NATO Alliance and the civilized world are confronting the new enemies of freedom, and we will prevail. {APPLAUSE} 
+
+Your country also brings moral clarity to our NATO Alliance. You value freedom because you have lived without it. You know the difference between good and evil because you have seen evil's face. The people of Romania understand that aggressive dictators cannot be appeased or ignored; they must always be opposed. 
+
+An aggressive dictator now rules in Iraq. By his search for terrible weapons, by his ties to terror groups, by his development of prohibited ballistic missiles, the dictator of Iraq threatens the security of every free nation, including the free nations of Europe. The United Nations Security Council, and now NATO have spoken with one voice: the Iraqi regime will completely disarm itself of weapons of mass murder, or we, the United States, will lead a coalition of willing nations and disarm that regime in the name of peace. {APPLAUSE} 
+
+Every nation must confront danger. Every free nation has a responsibility to play its full and responsible role. And together, Mr. President, we will preserve our freedoms and we will work together to keep the peace. {APPLAUSE} 
+
+
+In the peaceful future we're building, Romania will strengthen our lives in another way -- as a bridge to a new Russia. For centuries, Romania's geography was a source of danger. Now, you can help our Alliance to extend a hand of cooperation across the Black Sea. 
+
+Russia has nothing to fear from the growth of NATO, because Russia needs peaceful, stable neighbors, like Romania. As I told President Putin yesterday, a Russia that is fully part of Europe needs no buffer zone separating it from Europe. America and Romania are friends to the Russian people, and so it the NATO Alliance. {APPLAUSE} 
+
+Mr. President, citizens of Romania, Laura and my visit to your beautiful country has been short; but the friendship, and soon the alliance between our countries will endure. {APPLAUSE} 
+
+On this historic square, among the monuments to Romania's greatness, there's also a building left in ruins -- the former offices of the secret police. It is a fitting reminder of all the cruelties done there, and the justice that rose up against oppression. That grim monument also recalls the many brave Romanians who did not live to see this day. Our prayers are for them and their families. {APPLAUSE} 
+
+Yet, today, their hopes are being fulfilled. The nation they love is rising. Romania has won its freedom. Romania is resolute in difficulty and moving toward greater prosperity. And Romania is finding its place in the greatest -- history's greatest alliance for freedom. {APPLAUSE} 
+
+I have come to tell you that the world, and my country, knows the character of the people of this great country. We respect your country. We love the fact that you love freedom. May God bless you and your families. May God bless Romania. And may God bless America. Thank you all. {APPLAUSE} 
+
+{/speech} 

@@ -1,0 +1,104 @@
+﻿{title} Remarks by the President Concerning the Year 2000 Conversion {/title}
+{event} Speech by President on Y2K Conversion {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 14, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President on Y2K Conversion {/description}
+
+{speech} 
+
+Thank you very much, Mr. Vice President, Dr. Alberts, to all of our platform guests, Senator Bennett, Senator Dodd, Congressmen Horn, Kucinich, LaFalce, and Turner, and members of the administration who are here, and all the rest of you who are committed to dealing with this challenge.
+
+This is one of those days that I never thought would ever arrive, where Al Gore has to listen to me give a speech about computers. {LAUGHTER} Being President has its moments. {LAUGHTER}
+
+I have to ask your indulgence because this is my only opportunity to appear before the press today, and I need to make a brief comment about something that is also of importance to all of you, and that is the agreement that was reached yesterday between Russia and the International Monetary Fund to stabilize the Russian economy.
+
+I think all of us understand that a stable and democratic and prosperous Russia is critical to our long-term national interests. Ever since the fall of communism there, there has been a strong bipartisan consensus in our national government, and I believe in our country, to working toward that end.
+
+The commitments that Russia made in connection with yesterday's agreement will substantially advance economic reform and stability there. Now it is critical that those commitments be implemented to strengthen confidence in their economy.
+
+It is clear, I think, to all of us now that our prosperity here at home in America is deeply affected by the economic conditions elsewhere in the world. About a third of our economic expansion that the Vice President referred to, which has given us 16 million new jobs and the lowest unemployment rate in 28 years with the lowest inflation rate in 32 years, has come from our exports and our economic relations with the rest of the world. We, therefore, have a clear interest in playing a leading role to advance freedom and prosperity and stability.
+
+One of the most cost effective ways of doing that is through the International Monetary Fund, the world's financial firefighter. For the first time in 20 years now, the IMF has had to draw on special emergency reserve to underwrite this Russian financial package, because its resources were stretched dangerously thin due to the financial difficulties throughout Asia, principally.
+
+To protect our economic strength, therefore, it is imperative that Congress act now to promote global economic stability by paying in America's share to the IMF. Earlier this year the Senate, in an overwhelming bipartisan vote, endorsed legislation to strengthen the IMF and to pay our fair share into it. Since then, the legislation has languished in the House. If we fail to act responsibly at a time when there is so much financial uncertainty in the world, we will be putting our farmers, our workers, and our businesses at risk. This is a time to put progress ahead of partisanship, and I ask Congress to proceed to do so. {APPLAUSE} Thank you.
+
+Let me also say at the outset, I want to say a special word of thanks, as the Vice President did, to John Koskinen and his whole team for the work they are doing and to all the people that are working with them. We have just on this platform representative people from utilities, from transportation, from finance, from telecommunications, and from small business. And this really is a joint effort we are all making.
+
+But I thank you, John. You know, before I became President, John Koskinen was a personal friend of mine -- I doubt if he still is now that I got him to do this. {LAUGHTER} But what's a friendship to save the country's wires, so I thank him. {LAUGHTER}
+
+I asked Bruce Alberts this -- I remembered that Richard Berks' magnificent statue of Albert Einstein is right outside here, and I wish we could bring him to life for this moment. But I'll drive by it on the way out for inspiration.
+
+It seems unbelievable that it's only 535 days from now, at the stroke of midnight, when we will usher in a New Year, a new century, a new millennium. It will be, to be sure, an astonishing age of possibility, of remarkable advances in science and technology, a time when information clearly will widen the circle of opportunity to more people in the world than ever before, and when technology will continue to shrink our small planet and require us to deal with challenges together, including that climate change challenge that Dr. Alberts referred to.
+
+It is fitting, if more than a little ironic, that this same stroke of midnight will pose a sharp and signal test of whether we have prepared ourselves for the challenges of the Information Age. The Vice President discussed the design flaw in millions of the world's computers that will mean they will be unable to recognize the year 2000. And if they can't, then we will see a series of shutdowns, inaccurate data, faulty calculations.
+
+Because the difficulty is as far flung as the billions of microchips that run everything from farm equipment to VCRs, this is not a challenge that is susceptible to a single government program or an easy fix. It is a complex test that requires us all to work together -- every government agency, every university, every hospital, every business, large and small.
+
+I came here today because I wanted to stress the urgency of the challenge to people who are not in this room. So often one of the wry and amusing aspects of the nature of my work is that when I give a speech like this I am typically preaching to the choir, as we say back home. But hopefully the sermon is heard beyond the four walls of this room because, clearly, we must set forth what the government is doing, what business is doing, but also what all of us have yet to do to meet this challenge together. And there is still a pressing need for action.
+
+The consequences of the millennium bug, if not addressed, could simply be a rash of annoyances, like being unable to use a credit card at the supermarket, or the video store losing track of the tape you have already returned -- has that ever happened to you? It really is aggravating. {LAUGHTER} It could affect electric power -- I just want to remind you that I used to have a life and I know about things like that. {LAUGHTER} It could affect electric power, phone service, air travel, major governmental service.
+
+As the Vice President said, we're not just talking about computer networks, but billions of imbedded chips built into everyday products. And it's worth remembering that the typical family home today has more computer power in it than the entire MIT campus had 20 years ago. An oil drilling rig alone may include 10,000 separate chips.
+
+The solution, unfortunately, is massive, painstaking, and labor intensive. It will take a lot of time to rewrite lines of computer code in existing systems, to buy new ones or put in place backup plans so that essential business and government services are not interrupted.
+
+With millions of hours needed to rewrite billions of lines of code and hundreds of thousands of interdependent organization, this is clearly one of the most complex management challenges in history. Consider just one major bank, Chase Manhattan. It must work through 200 million lines of code, check 70,000 desktop computers, check 1,000 software packages from 600 separate software vendors.
+
+The government's Health Care Financing Administration, known affectionately by the governors and others as HCFA, which runs Medicare, processes almost 1 billion transactions a year. It' s computer vendors must painstakingly renovate 42 million lines of computer code.
+
+All told, the worldwide cost will run into the tens, perhaps the hundreds of billions of dollars, and that's the cost of fixing the problem, not the cost if something actually goes wrong.
+
+Already extraordinary efforts are underway by the people on the platform -- many of you out here and others -- but more must be done. We know first we have to put our own house in order, to make certain that government will be able to continue to guard our borders, guide air traffic, send out Social Security and Medicare checks, and fulfill our other duties. We've worked hard to be ready. I set a government-wide goal of full compliance by March of 1999. John Koskinen is heading our council on the Y2K problem. I've met with the Cabinet and charged them personally to produce results and report quarterly to OMB on progress. We're working with state and local governments to do the same thing.
+
+We have made progress. As has already been said, the Social Security Administration has more than 90 percent of its critical systems ready. Other agencies, like EPA, FEMA, and the VA, are well on their way to meeting our goal. But not every agency is as far along as it should be. I have made it clear to every member of my Cabinet that the American people have a right to expect uninterrupted service from government and I expect them to deliver.
+
+I want to thank the thousands of individuals who are working to prepare our government and to make sure we can stay open for business. I especially want to thank the Vice President and John Koskinen and the people who are working with them at OMB and elsewhere. And I very much appreciate these members of Congress who are here and the extraordinary bipartisan interest and support meeting this challenge has engendered.
+
+In my proposed balanced budget for 1999, I asked Congress to fund this initiative on a one-time basis, because it is literally a once-in-a-lifetime challenge. I urge the Congress to fully fund it and to provide contingency funding so that we can respond the unforseen difficulties that are sure to arise as we near January of 2000. We have worked closely with Senators Bennett and Dodd and Congressman Horn and Congressman Kucinich and the other members who are here -- Congressmen LaFalce and Turner and others in the Congress. As I said, there has been a heartening amount of interest in this by people who actually know quite a lot about it in the Congress, and that's a very good thing.
+
+I think we all understand that this is a case where we cannot allow, even in this election season, any shred of partisanship to impinge on the national interest. We, after all, only have 17 months to go.
+
+I believe we also have a role to play in helping to meet this challenge around the world. Surely we can't be responsible for the preparedness of other countries, but I can make the same argument I just made about the IMF and Russia -- if increasingly our prosperity is tied to the well-being of other nations, it would obviously have adverse consequences for us here at home if a number of our trading partners had major malfunctions.
+
+When I was meeting with the world's major industrial organizations in Birmingham, England, a few months ago, I brought this up and I found that we had become far more invested in this and involved in this than some other major nations. When I was in Santiago, Chile, at the Summit of the Americas, I brought it up in our private meeting and a number of countries had literally only begun just to think about the problem.
+
+So I think it is important that the United States recognize that the more we can do to help other countries meet this challenge in a timely fashion, the better off our own economy is going to be and the more smoothly our own businesses will be able to function as we pass over into the new millennium. The United States, to try to help, will provide $12 million to support the World Bank Year 2000 fund for developing countries.
+
+I also want to say what we all know and what you can see from the platform, which is this is not a government problem alone. By far the most significant potential risks fall in the private sector. Large firms already have spent hundreds of millions of dollars to make sure their systems are ready. Many have spearheaded remarkable efforts to make sure their firms and their whole industries are ready. We're encouraged that dozens of firms and thousands of people on Wall Street last night began a simulation to test whether they are ready. And the telecommunication, banking, electric power, and airline industries all deserve praise for the seriousness with which they are taking the challenge.
+
+I want to compliment one person back here in particular. Steve Wolf came all the way back from Africa, got here at 3:00 a.m. in the morning to show up to manifest his understanding of the importance of this challenge to the airline industry, and he is still breathing the rarefied era of Kilimanjaro, so we thank him especially for doing that. {APPLAUSE}
+
+But let me say, in spite of all this progress, in the business sector just as in the government sector, there are still gaping holes. Far too many businesses, especially small- and medium-sized firms, will not be ready unless they begin to act. A recent Walls Fargo bank survey shows that of the small businesses that even know about the problem, roughly half intend to do nothing about it. Now, this is not one of the summer movies where you can close your eyes during the scary parts. {LAUGHTER} Every business, of every size, with eyes wide open, must face the future and act.
+
+So today I would issue three challenges to our business community. First, every business must take responsibility for making sure it is ready. Any business that approaches the New Year armed only with a bottle of champagne and a noisemaker is likely to have a very big hangover on New Year's morning. {LAUGHTER} Every business should assess its exposure, asks vendors and suppliers to be ready as well, and develop contingency plans, as we are, in case critical systems or systems of vendors fail as we move into the year 2000.
+
+I want to especially thank Aida Alvarez and the Small Business Administration and its supporters in Congress. And I thank you, Mr. LaFalce, in particular, for the work that has been done to spread the message in the small business community.
+
+And I'd like to salute one firm represented here, the Torrington Research Company, which makes fans for cars and computers. It has only 55 employees, but they've taken the time to check their system and by the end of this year they will be ready --by the end of this year. I want every small business in America to follow their lead. {APPLAUSE}
+
+As the Vice President said, we need literally an army of programmers and information technology experts to finish the task. Many of the computers involved are decades old; some of them use programming language no longer used or even taught. There is a wealth of knowledge in America's tens of thousands of retirees who once worked in the computer industry or government as programmers or information technology managers. I'm pleased to announce that the Department of Labor will expand its jobs bank and talent bank to help to meet this challenge. And I thank Secretary Herman and Deputy Secretary Higgins for that.
+
+The AARP has also agreed to help out. And we're reaching out to civilian and military retirees who did this work for government before. I will ask these older Americans to set aside their well-earned rest and help our nation to meet this challenge.
+
+Second, businesses should exchange and pool information among themselves. It makes no sense for every firm to have to reinvent the digital wheel. Businesses should be able to benefit from the experiences of other firms in the same situation that have found solutions or identified new obstacles.
+
+Today, too many businesses are understandably reluctant to share information, fearing legal complication. We have to take prudent steps to clear away any legal barriers to effective action. Earlier this month the Justice Department stated that competitors who merely share information on how to solve this problem are not in violation of the nation's anti-trust laws. We need to get that message out there loud and clear: no one should be afraid to help another company to deal with this challenge.
+
+There is more we can do. This week I will propose good Samaritan legislation to guarantee that businesses which share information about their readiness with the public or with each other, and do it honestly and carefully, cannot be held liable for the exchange of that information if it turns out to be inaccurate. And here, too, time is of the essence.
+
+Our third challenge to business is that you should take responsibility to accurately and fully tell your customers how you're doing and what you're doing. By letting customers know they are on top of the problem, businesses can help to maintain confidence and override overreaction. This is very important. It is important that we act and not be in denial; it is also very important that we avoid overreaction from people who hear, oh my goodness, this problem is out there. And so we have to do both things.
+
+The proposed Good Samaritan law will give companies the confidence they need to ensure that they keep their customers informed. If ordinary citizens believe they're being told the full story, they'll be far less likely to act in ways that could themselves hurt our economy.
+
+We can do more to help businesses reach these goals. Later this month our Council on the Year 2000 Conversion will launch a national campaign for year 2000 solutions, to promote partnerships between industry groups and government agencies, with the goal of sharing information about what actually works and to prod organizations at every level to get ready, making certain government services are not interrupted, minimizing disruption to commerce, encouraging businesses to share with each other and report honestly to customers, and above all, every business in America taking responsibility for being a part of the solution in the year 2000 conversion. These are the ways we, the American people, can be prepared to meet this challenge.
+
+Now, no one will ever find every imbedded microchip, every line of code that needs to be rewritten. But if companies, agencies, and organizations are ready, if they understand the threat and have backup plans, then we will meet this challenge.
+
+The millennium bug is a vivid and powerful reminder of the ways that we are growing ever more independent as we rise to the challenges of this new era. When our founding fathers urged us to form a more perfect union, I don't think they had this in mind, but they might be quite pleased. The powerful forces of change that have created unimagined abundance also bear within them, as is consistent with human nature, the possibilities of new and unexpected challenges.
+
+But if we act properly, we won't look back on this as a headache, sort of the last failed challenge of the 20th century. It will be the first challenge of the 21st century successfully met. That is the American way, and together we can do it.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

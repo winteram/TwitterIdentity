@@ -1,0 +1,57 @@
+﻿{title} President Commemorates Cinco de Mayo {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 3, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all very much. Sientase. {LAUGHTER} Bienvenidos. Welcome to the White House. This is the casa para todos. {APPLAUSE} I'm honored you all have come to celebrate Cinco de Mayo. It's a pleasure to have you here. The victory we commemorate today is a source of tremendous pride to the people of Mexico, and a source of inspiration to the people of America. 
+
+I want to thank mi esposa, Laura, for her -- {LAUGHTER ; APPLAUSE} -- mi amore. {APPLAUSE} I want to thank Sara for her passion for the education of Latino children. She is a -- well, she's unique. She's smart, she's capable. After all, she's a tejana. {LAUGHTER} But I really do appreciate her focus, her willingness to work hard to make sure that every child has got the opportunity to realize his or her dreams in America. 
+
+I want to thank el Embajadora de Mexico, mi amigo, Juan Jose Bremer, and his esposa. Thank you all for coming. And I appreciate all the Mexicans who are here today. I'm glad you're here to celebrate a special day in your country here in the White House. It's an indication of our friendship. 
+
+I want to thank members of my administration who are here, too many to name. I will name the Cabinet Secretary, Mel Martinez. I appreciate Mel's service. {APPLAUSE} I see the Treasurer. Mi abogado Gonzales. The new surgeon general nominee, Rick Carmona. Thank you, Rick, I appreciate you being here. {APPLAUSE} I better stop now, before I forget somebody. 
+
+I want to thank Ed Pastor, the congressman from the state of Arizona. Thank you for coming. {APPLAUSE} 
+
+I want to thank Ana Maria for your being here. I really appreciate you coming. You did a great job as the emcee and I know a lot of Americans watch your TV show and we're honored you're here. I really want to thank Pedro Fernandez. Pedro, you're awesome. {APPLAUSE} I'm not sure how you say that in Spanish. {LAUGHTER} Or Mexicano. Brillante. {LAUGHTER ; APPLAUSE} But I want to thank you and your tres hombres for being here. {LAUGHTER} 
+
+Al, thank you for leading the Pledge. Al is the director of the Selective Service. He wears the Medal of Honor. {APPLAUSE} And, again, thank you all for coming. We're so honored to have you. Cinco de Mayo commemorates a great victory in the Battle of Puebla. I remember when I went down, Jose, to -- the guest of the previous President, President Zedillo, to see a reenactment of the battle in Puebla. It was exciting, and it was able to see firsthand the great courage, and the victory in the battle for freedom that was fought against overwhelming odds. 
+
+That victory continues to inspire liberty-loving people all across the globe. It reminds us that the cost of freedom is always high, but it is never too high. Brave and determined people, committed to a great cause, can do great good. That was true 140 years ago, and it certainly remains true today. 
+
+Just before September the 11th, I welcomed my good friend, President Vicente Fox, aqui, in Washington, D.C., as the guest of honor at the very first State Dinner I hosted as the President. When he arrived, I said this at the beautiful arrival ceremony we have on the South Lawn. I said, "The United States has no more important relationship in the world than the one we have with Mexico." I meant it then; I mean it now. {APPLAUSE} 
+
+In the past eight months, our relationship has grown even stronger. The people of Mexico stand with the American people in the war on terror. This is a decisive decade in the history of liberty, a decisive moment in our history. And the United States is grateful we can count on the strong support of Mexico. 
+
+America's strong relationship with Mexico is built on common values and shared culture. We both value families; we both value communities -- the places where character is formed and traditions are passed from one generation to the next. 
+
+Americans appreciate the strong faith of the Mexican people, a faith that provides hope and inspiration and unity, even in the darkest of times. People on both sides of the Rio Grande value independence, and value freedom and opportunity. People on dos lados de Rio Bravo appreciate the ability to work hard to achieve dreams and to become successful as a result of hard work. By their strong values and their determination to create a better life for themselves and their children, immigrants from Mexico enrich American life. {APPLAUSE} 
+
+My relationship with President Fox is similar to the relationship between our nations. It is built on the solid ground of respect and trust and friendship. President Fox is a great Mexican patriot, a man who -- a man of honest talk and convictions, who is passionately concerned for his people's welfare. I know firsthand. I've heard him speak clearly about the welfare of the people of Mexico. 
+
+We're both deeply committed to helping the entire American familia achieve prosperity and, as importantly, to live in peace. Mexico and America share a continent and we are dedicated to common goals. We are working together to create a smart border, one that will speed the safe flow of people and commerce, but protect our two nations from terrorism and crime. 
+
+We are working together on a partnership for prosperity to better focus the creativity and resources of the private sector on the critical task of development. We're working together to address the important issue and challenging issue of immigration. I've asked our Congress to pass an extension of Section 245(i) of our immigration law to allow families to stay together while they become permanent residents. {APPLAUSE} There is no reason why this law should not be passed. 
+
+We're working together to improve conditions for people living along the border. It's really important that we do so. 
+
+We're working together to create an entire hemisphere that lives in liberty and trades in freedom. And I appreciate President Fox's leadership in our hemisphere. I rely upon his advice and good counsel, I appreciate his vision. 
+
+Our two nations will succeed together. We will succeed together, because our futures are bound to each other. Geography made us neighbors, but our shared values and rich cultures have made us the closest of friends. 
+
+The great Mexican leader Benito Juarez had a strong bond with President Abraham Lincoln. Juarez said, "Between individuals, as between nations, 'el respecto al derecho ajeno es la paz' -- respect for the rights of others is peace." The United States and Mexico have a relationship of respect. It is the foundation of our enduring peace and lasting friendship. 
+
+I want to thank you all again for coming to the White House to celebrate Mexico's strong and vibrant culture, its extraordinary history, our common future. May God bless the people of Mexico, and may God continue to bless the people of the United States. 
+
+Thank you for coming. {APPLAUSE} 
+
+
+
+
+
+{/speech} 

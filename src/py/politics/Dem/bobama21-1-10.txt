@@ -1,0 +1,57 @@
+﻿{title} Remarks by the President and the Vice President to the U.S. Conference of Mayors {/title}
+{event} U.S. Conference of Mayors {/event}
+{speaker} Barack Obama {/speaker}
+{date} January 21, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you, everybody. Thank you so much. Thank you. Thank you, everybody. Please sit down. Thank you very much. Please have a seat. Have a seat. Well, welcome to the White House, everybody. And let me, first of all, say what a outstanding job that the Vice President has done not just on a whole range of issues in this administration, but in working with the mayors to make sure this Recovery Act works the way it should. So please give Joe Biden a big round of applause. {APPLAUSE}
+
+A couple of other acknowledgements I have to make. First of all, I want to say congratulations to Elizabeth Kautz, the new president. Congratulations. Give Elizabeth a big round of applause. {APPLAUSE} I have to acknowledge my own mayor, Mayor Richard Daley, for the outstanding work he's done in Chicago. {APPLAUSE}
+
+I want to say thank you to Joe Riley of Charleston not only for creating one of the greatest -- helping to make one of greatest cities in the country bloom, but also for giving us David Agnew. So give him a big round of applause. {APPLAUSE}
+
+Mayor John Hickenlooper of Denver, who also is running for the governor of Colorado. I hope you all talk to him still even when he becomes governor. {APPLAUSE} And I've got to acknowledge Mufi Hannemann because he was such a great host for me and my family when we were there in Honolulu. {APPLAUSE}
+
+I have to say, Rich, the weather was a lot better -- {LAUGHTER} -- in Honolulu. I just want to let you know. {LAUGHTER}
+
+Now, I know all of you met the First Lady yesterday to begin an important -- {APPLAUSE} -- begin an important national discussion on our national childhood obesity epidemic. I hate following my wife. {LAUGHTER} She's more charming, smarter, tougher, better looking. But I am looking forward to a productive discussion with all of you on the urgent need to create jobs and move our metropolitan areas forward.
+
+I always enjoy meeting with mayors because it reminds me of where I got my start -- working with folks at the local level, doing our best to make a real impact on the lives of ordinary Americans -- and that's what each of you does every single day. You're the first interaction citizens have with their government when they step outside every morning. The things that make our cities work and our people go -- transit and public safety, safe housing, sanitation, parks, recreation -- all these tasks fall to you. It was President Johnson who once said, "When the burdens of the presidency seem unusually heavy, I always remind myself it could be worse. I could be a mayor." {LAUGHTER ; APPLAUSE} 
+So it's why we organized this meeting today. I look at all of you and I say I'm doing fine. {LAUGHTER} It's just not easy being a mayor. But rarely, if ever, has it been more difficult than it is today. Your constituents are feeling the pain of the greatest economic crisis since the Great Depression -- not to mention an economy that wasn't working for a lot of them long before this particular crisis hit.
+
+Many have lost jobs; many have lost their health care; some maybe even have lost their homes. And they're looking to you and all of us to regain some sense of economic security. And just when they need more from you, you're stuck with falling revenues, leaving you with impossible choices that keep mounting up -- putting projects on hold or having to furlough key employees. I know some of you have had the heartbreak of laying folks off. I also know that each and every one of you is 100 percent resolved to pick your city up and move it forward.
+
+And that's why, even as we worked to rescue our broader economy last year, we took some steps to help. We cut taxes, as Joe mentioned, for workers and small businesses. We extended unemployment insurance and health benefits for those who lost their jobs. We provided aid to local governments so you could keep essential services running and keep cops and firefighters and teachers who make your cities safe places to grow and to learn on your payroll.
+
+We invested in proven strategies like the COPS program and the Byrne Grants that you rely on to bring down crime and boost public safety. We funded and awarded more than 1,800 of the Energy Efficiency and Conservation Block Grants that you conceived -- flexible products that reduce energy use, put people back to work and save taxpayers' money.
+
+We increased funding for the Summer Youth Employment Program, helping more than 300,000 young people hit especially hard by the recession. That did more than just give them a chance to earn money -- it gave them the critical chance to gain experience in good jobs that build good skills, so that they can come out of this crisis in a better position to build a life for themselves.
+
+And we're working every day to get our economy back on track and put America back to work. Because while Wall Street may be recovering, you and I know your Main Streets have a long way to go. Unemployment in your cities is still far too high. And because our metropolitan areas account for 90 percent of our economic output, they are the engines that we need to get started again.
+
+Last month, I announced some additional targeted steps to spur private sector hiring and boost small businesses by building on the tax cuts in the Recovery Act and increasing access to the loans they desperately need to grow. I said we'd rebuild and modernize even more of our transportation and communication networks across the country, in addition to the infrastructure projects that are already scheduled to come online this year. I called for the extension of emergency relief to help hurting Americans who've lost their jobs. And you can expect a continued, sustained and relentless effort to create good jobs for the American people. I will not rest until we've gotten there. {APPLAUSE}
+
+But I also know that each of you worries about the longer-term effects this economy might have on your children, on your families, and on workers. You worry about what shape everything will be in once we emerge from this crisis. So you're focused on addressing the pressing problems we face today, but you've got a vision for your city. And no matter what party you belong to or where you've traveled here from, that vision is one I share -- of vibrant communities that provide our children with every chance to learn and to grow; that allow our businesses and workers the best opportunity to innovate and succeed; that let our older Americans live out their best years in the midst of all that metropolitan life has to offer. All of us have an obligation to make sure that even as we work to rescue and rebuild our economy, we don't lose sight of that. Because job creation and investing in our communities aren't competing priorities -- they're complementary.
+
+Two years ago, I addressed your gathering and I outlined a new strategy for urban America that changed the way Washington does business with our cities and our metropolitan areas. And since taking office, my administration has taken a hard look at that relationship -- from matters of infrastructure to transportation, education to energy, housing to sustainable development. My staff has traveled around the country to see the fresh ideas and successful solutions that you've devised. And we've learned a great deal about what we can do -- and shouldn't do -- to help rebuild and revitalize our cities and metropolitan areas for the future.
+
+So the budget that I'll present next month will begin to back up this urban vision by putting an end to throwing money after what doesn't work -- and by investing responsibly in what does.
+
+Our strategy to build economically competitive, environmentally sustainable, opportunity-rich communities that serve as the backbone for our long-term growth and prosperity -- three items: First, we'll build strong regional backbones for our economy by coordinating federal investments in economic and workforce development -- because today's metropolitan areas don't stop at downtown. What's good for Denver, for example, is usually good for places like Aurora and Boulder, too. Strong cities are the building blocks of strong regions, and strong regions are essential for a strong America.
+
+Second, we'll focus on creating more livable and environmentally sustainable communities. Because when it comes to development, it's time to throw out old policies that encouraged sprawl and congestion, pollution, and ended up isolating our communities in the process. We need strategies that encourage smart development linked to quality public transportation, that bring our communities together. {APPLAUSE}
+
+That's why we'll improve our Partnership for Sustainable Communities by working with HUD, EPA, and the Department of Transportation in making sure that when it comes to development, housing, energy, and transportation policy go hand in hand. And we will build on the successful TIGER discretionary grants program to put people to work and help our cities rebuild their roads and their bridges, train stations and water systems. {APPLAUSE}
+
+Third, we'll focus on creating neighborhoods of opportunity. Many of our neighborhoods have been economically distressed long before this crisis hit -- for as long as many of us can remember. And while the underlying causes may be deeply-rooted and complicated, there are some needs that are simple: access to good jobs; affordable housing; convenient transportation that connects both; quality schools and health services; safe streets and parks and access to a fresh, healthy food supply.
+
+So we'll invest in innovative and proven strategies that change the odds for our communities -- strategies like Promise Neighborhoods, neighborhood-level interventions that saturate our kids with the services that offer them a better start in life. Strategies like Choice Neighborhoods, which focuses on new ideas for housing by recognizing that different communities need different solutions. And, by the way, we're also expanding the successful Race to the Top competition to improve our schools and raise the bar for all our students to local school districts that are committed to change. {APPLAUSE}
+
+That's what we're doing to bring jobs and opportunity to every corner of our cities and our economy -- focusing on what works. And that's what all of you do each and every day. You're not worried about ideology. Obviously all of you are elected so you think about politics, but it's not in terms of scoring cheap political points; you're going to be judged on whether you deliver the goods, or not. You focus on solving problems for people who trusted us with solving them. And that's a commitment that all of us who serve should keep in mind.
+
+As long as I'm President, I'm committed to being your partner in that work. We're going to keep on reaching out to you and listening to you and working with you towards our common goals. And I want to start that right now by taking some of your questions. But first I think all these cameras are going to move out, so you can tell me the truth. {LAUGHTER} All right? Thank you. {APPLAUSE} 
+
+{/speech}

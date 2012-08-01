@@ -1,0 +1,43 @@
+﻿{title} Kerry Addresses Latino Officials at National Leadership Luncheon {/title}
+{event} National Leadership Luncheon {/event}
+{speaker} John Kerry {/speaker}
+{date} June 26, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+... gasoline prices are up 41 percent, so the bills are going up. So more and more Latinos who find themselves at the lower end of the economic ladder are working 24/7, some of them working two jobs, three jobs, and they are still not getting ahead. 
+
+And to add insult to injury, their hard-earned tax dollars, your hard-earned tax dollars are actually paying corporations to export American jobs overseas. 
+
+Now 20 years ago, 20 years ago only in America, a middle class family with one working parent used to be able to buy a home, pay for college. But today, two incomes barely cover that. And if one of those two incomes loses the job with the commitments that you have on the mortgage, on the car, on the house, you're in trouble. And that's why personal bankruptcies are higher than they've ever been in America. If anything goes wrong at all, an illness or a temporary layoff, most families can't pay the bills so they risk losing everything that they've built and saved for. 
+
+In America, my friends, a rising tide is supposed to lift all boats. But today, the middle class boat is taking on water. And like most Americans, I believe that we can do better than 1.9 million lost private sector jobs. We can do better than rising costs and shrinking incomes. 
+
+I believe in the American economy and in American workers. And I think we deserve a president who believes in them as much as the workers believe in those possibilities. {APPLAUSE}
+
+We all know that the middle class built this country. Franklin Roosevelt understood that. So did Bill Clinton. But for nearly four years now, Washington has ignored the middle class, putting wealth ahead of work, something for nothing ahead of responsibility. What's right for the few ahead of what's right for America. 
+
+I believe in building up the great middle class, and especially the millions of Hispanic Americans who are fighting to come into the middle class, who are coming into the middle class, respecting their work, honoring their values and lifting them up in the toughest of times. 
+
+I am running for president because I want an economy that strengthens and expands the middle class, not squeezes it the way it is today. 
+
+I am running for president... {APPLAUSE}
+
+And I'll tell you exactly how we're going to do it. This isn't rhetoric. Politics are about choices. Every day American families make choices. Can we buy a car? Can we take a vacation? Can we pay for this tuition? Where will I go to college? All of these choices. These are the choices of responsible life. 
+
+Washington is running up the biggest deficits in the history of our nation. Washington has been fighting over these last years to make tax cuts permanent for the wealthiest people in the country, and communities are suffering, locally. 
+
+Well, I'm going to give America a choice, it's a very simple choice. We can either have those tax cuts for the wealthiest Americans, or we can roll them back and invest in education and health care. We can pay attention to the investment of this country. And I'm going to cut taxes for the middle class, and we're going to roll back the Bush tax cut for those who make more than $200,000 a year, and we're going to lower the cost of health care and pay for the cost of education in America. And we will cut the deficit in half. {APPLAUSE}
+
+I want middle class taxes to go down so your incomes can actually go up. 
+
+Let me tell you something. We need a president who fights for your jobs as hard as he fights for his own. And I think I -- I have a plan. They've had four years to put a plan in place. I have a plan that will put good paying jobs at the heart of our economy. And when I'm president, American taxpayers will never again subsidize the loss of their own job going overseas. We're going to close those loopholes and make that 17,000-page tax code fair for all Americans. That's essential. {APPLAUSE}
+
+You ought to go look at it one day. I mean, you can pull it up on the Web site, but go look at the tax code, 17,000 pages, and just ask yourself, now wait a minute, where's my page? As you leaf through there? Look at it and say, you know, Enron has a page. Exxon has got a few pages. I think Halliburton has got its own chapter, ladies and gentlemen. 
+
+It's time to make this fair for all Americans. So we're going to close the loopholes. 
+
+{/speech} 

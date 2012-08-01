@@ -1,0 +1,22 @@
+﻿{title} Vice President's Remarks at the American Patriot Award Dinner Honoring President George Herbert Walker Bush {/title}
+{event} Ronald Reagan Building, Washington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} December 6, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+It looks like the old team is ready to go at a moment's notice. {LAUGHTER} But I'm delighted to be here tonight and to be included with such a distinguished group and to share the evening with so many old friends and colleagues who were part of -- I thought -- a very good national security team some years ago.
+
+And we're here, of course, for a special reason. And I want to congratulate the directors of the National Defense University Foundation on tonight's event and thank everybody who participated. The foundation does extremely important work in promoting educational excellence at the National Defense University. And those of us who have been associated with the Department of Defense and national security issues over the years have come to value it highly.
+
+The NDU is one of America's leading centers for studying and thinking about national security issues. And the foundation's mission is to make certain that the university has the teaching and the research capabilities it needs to prepare students for tomorrow. I am deeply honored tonight to present the National Defense University Foundation's American Patriot Award to my former boss, the 41st President of the United States, George Herbert Walker Bush.
+
+The American Patriot Award recognizes -- and this is a direct quote from the citation -- "exceptional Americans who have profoundly demonstrated a deep and abiding love of country and whose inspirational leadership and selfless dedication to national security and to world peace has significantly advanced our nation's ideals, values and democratic principles."
+
+I'm sure everyone here will agree that that is a remarkably accurate thumbnail sketch of our 41st President, of his selfless character, his love of country, his inspired leadership, and his enduring contributions to the security of our nation and the peace of the world. George Bush comes from a family where service to country is a way of life. The son of a Senator, the father of a governor and a President, George Bush was a war hero, a congressman, an ambassador to the United Nations, chairman of the Republican National Committee, liaison to the People's Republic of China, director of the CIA, Vice President and President of the United States -- one of the architects of America's victory in the Cold War and of America's unique position in the post-Cold War world.
+
+I had the great privilege of serving as his secretary of defense. I always thought it was the best job in the administration. And I know what the men and women of America's armed forces knew, that he was a great commander-in-chief. He knew that loyalty ran up and down the chain of command. He understood - - as well as any man who ever held the office -- his obligation to the men and women who went in harm's way on dangerous missions at his command. Then, just as today, we had a commander-in-chief they could respect. And it's my privilege now, Mr. President, to present to you the American Patriot Award, to the 41st President of the United States, George Herbert Walker Bush. {APPLAUSE} 
+
+{/speech}

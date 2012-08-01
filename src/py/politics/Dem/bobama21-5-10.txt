@@ -1,0 +1,48 @@
+﻿{title} Remarks by the President at Signing of Presidential Memorandum on Fuel Efficiency Standards {/title}
+{event} Signing of Presidential Memorandum on Fuel Efficiency Standards {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 21, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning, everybody. Good morning. Everybody, please have a seat. It is wonderful to have you all here. Welcome to the White House.
+
+I want to introduce some of the folks who are onstage who have been integral in making today possible. You've already heard about the wonderful team here at the White House -- Carol Browner, Ray LaHood, and Lisa Jackson. But in addition, we have onstage a number of people who were absolutely critical. Martin Daum, the CEO of Daimler Trucks; Mr. Anthony Dunkley, who is a driver for Waste Management; Mr. G. Tommy Hodges, chairman of the board, American Trucking Association; Mr. Alan Reuther, legislative director for the UAW; Mr. Dennis Slagle, CEO of Volvo; Mr. Tim Solso, CEO of Cummins; and Mr. Daniel Ustian, CEO of Navistar. Please give them a big round of applause. {APPLAUSE}
+
+We also have with us some legislative leaders who have been champions of not only the auto industry but also the environmental movement, and I want to thank them for being here. One of the deans of the House of Representatives, Representative John Dingell -- please give him a big round of applause. {APPLAUSE} Representative Ed Markey is here from Massachusetts. {APPLAUSE} Representative Chris Van Hollen is here. {APPLAUSE} And Representative Henry Waxman. {APPLAUSE}
+
+Now, it was one year ago today that I stood here in the Rose Garden on a similarly beautiful day with some of the same folks to announce a historic agreement to help break America's dependence on oil, to protect the planet that we'll leave to our children, and to spur jobs and growth in the industries of the future. It was an agreement –- the first of its kind –- to raise the fuel efficiency and reduce the greenhouse pollution for cars and light trucks sold in the United States of America.
+
+A lot of people thought such an agreement was impossible. After all, for decades we had made little headway in improving the fuel efficiency of our cars. We'd hear a lot of urgent talk in Washington when oil prices went up, then we'd see politicians rush to the local gas stations -– I remember going to gas stations -- holding press conferences, announcing new legislation. But the impetus for action would fade when gas prices started to go back down. Meanwhile, progress was mired in a lot of old arguments traded across entrenched political divides: left versus right, management versus labor, business leaders versus environmental advocates.
+
+But what we showed here one year ago today is that we could do something different. We proved that these were false choices. We brought together all the stakeholders, including former adversaries, to support a policy that would benefit consumers, workers, and the auto industry -– while strengthening the economy and protecting the planet. One year later, we're beginning to see the results. Instead of fighting higher standards, auto manufacturers are engaged in a race to meet them. And over the next five years, we expect fuel efficiency standards in cars and light trucks to reach an average of 35.5 miles per gallon.
+
+As a result, everybody wins. The typical driver will save roughly $3,000 over the life of the vehicle. We'll reduce our dependence on oil by 1.8 billion barrels and cut nearly a billion tons of greenhouse gas emissions. This is the equivalent of taking 50 million cars off the road -– lowering pollution while making our economy more secure. And by setting a single standard in place, rather than a tangle of overlapping and uncertain rules, auto companies will have the clear incentive to develop more efficient vehicles. This, in turn, will foster innovation and growth in a host of new industries.
+
+So that's what we set in motion one year ago. And today, we're going even further, proposing the development of a national standard for medium- and heavy-duty trucks, just as we did for cars and light trucks. In a few moments, I'm going to sign a presidential memorandum, coordinated by my chief energy advisor, Carol Browner. It directs my administration, under the leadership of Transportation Secretary Ray LaHood and EPA Administrator Lisa Jackson, to develop a standard to improve fuel efficiency and reduce harmful emissions for trucks, starting with the model year 2014.
+
+This is the first time we'll have such a standard. And as a sign of the broad support behind this plan, we are joined by the representatives from more than a dozen car and truck manufacturers, as well as fleet operators, auto workers, labor leaders, environmental groups, and officials from California and other states.
+
+This is going to bring down the costs for transportating -- for transporting goods, serving businesses and consumers alike. It will reduce pollution, given that freight vehicles produce roughly one fifth of the greenhouse gas emissions related to transportation. We estimate, for example, that we can increase fuel economy by as much as 25 percent in tractor trailers using technologies that already exist today. And, just like the rule concerning cars, this standard will spur growth in the clean energy sector.
+
+We know how important that is. We know that our dependence on foreign oil endangers our security and our economy. We know that climate change poses a threat to our way of life -– in fact we're already seeing some of the profound and costly impacts. And the disaster in the Gulf only underscores that even as we pursue domestic production to reduce our reliance on imported oil, our long-term security depends on the development of alternative sources of fuel and new transportation technologies.
+
+But we also know that our economic future depends on our leadership in the industries of the future. Around the globe, countries are seeking an advantage in the global marketplace by investing in new ways of producing and saving energy. From China to Germany, these countries recognize that the nation that leads in the clean energy economy will lead the global economy. And I want America to be that nation.
+
+And that's why, when we fashioned the Recovery Act to get our economy moving again, we emphasized clean energy. Today, we're supporting the development of advanced battery technologies. We're doubling the capacity to generate renewable electricity. We're building a stronger, smarter electric grid, which will be essential to powering the millions of plug-in hybrids -- cars and trucks that we hope to see on the roads. It's estimated that through these investments, we'll create or save more than 700,000 jobs. And these investments will help businesses develop new technologies that vehicle makers can use to meet higher fuel efficiency standards.
+
+In addition, the standard we set last year for cars and light trucks runs through 2016. I'm proposing we start developing right now a new and higher standard to take effect beginning 2017, so that we can make more and more progress in the years to come. {APPLAUSE}
+
+Through the directive I'm signing, we're also going to work with public and private sectors to develop the advanced infrastructure that will be necessary for plug-in hybrids and electric vehicles. And we're going to continue to work to diversify our fuel mix, including biofuels, natural gas, and other cleaner sources of energy. I believe that it's possible, in the next 20 years, for vehicles to use half the fuel and produce half the pollution that they do today. But that's only going to happen if we are willing to do what's necessary for the sake of our economy, our security, and our environment.
+
+Today's announcement is an essential part of our energy strategy. But it's not a substitute for other necessary steps to ensure our leadership in a new clean energy economy. I'm heartened by the good work that's been done by Senator Kerry and Lieberman on a comprehensive energy and climate bill to reduce our dependence on foreign oil, to prevent the worst consequences of climate change, and foster the millions of new jobs that are possible if we rise to this challenge. And this follows the passage of comprehensive legislation through the House last June.
+
+So as I've said before, I intend to work with members of both parties to pass a bill this year. {APPLAUSE} In the meantime, I'm going to take every sensible, responsible action that I can use -- that I can take using my authority as President to move our country in the right direction. That's what we've done today. That's what we're going to continue to do in the days, weeks and months ahead.
+
+So thank you very much for being here, everybody. And I'm going to now sign this memorandum. {APPLAUSE}
+
+{COMMENT="The memorandum is signed"} 
+
+{/speech}

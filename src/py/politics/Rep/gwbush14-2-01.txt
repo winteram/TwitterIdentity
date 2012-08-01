@@ -1,0 +1,63 @@
+﻿{title} Remarks by the President to National Guard Personnel {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 14, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you, all. Sit down, please. Well, thank you very much, General. I appreciate those kinds words and I appreciate your warm welcome. I'm glad I came back to West Virginia. {APPLAUSE} This is a state of good people. {APPLAUSE} Good folks. Down to earth folks. {APPLAUSE} And I'm glad to be in your midst again. 
+
+I particularly want to say thanks to General Tackett for his leadership. He's one of the finest Guard Generals in the United States of America. {APPLAUSE} All you've got to do is look at his record. 
+
+Secretary Rumsfeld and I, we're looking at the General's record. It's because of your service that he looks good. {LAUGHTER} Because of his leadership that the record is good. So Secretary Rumsfeld and I say thank you, General, for your leadership. It's an honor for us to be here in your midst. {APPLAUSE} 
+
+I appreciate the good Governor of this state's kind words. Good luck to you, Governor. He asked me today if he had any advice -- if I had any advice to him about his State of the State Address tonight. I said I did: just keep it short. {LAUGHTER} But I want to thank you for your hospitality, Governor. 
+
+I'm honored to be traveling from the nation's capital with one of the most eloquent public servants our nation has had in a long time; somebody who not only represents the great state of West Virginia well, but cares deeply about our country, its standing in the world; a guarding of what is right; protector of the grand traditions in the United States Senate. And that's, of course, the great United States Senator, Senator Robert Byrd. {APPLAUSE} 
+
+You all sent somebody who is plenty capable to take the Governor's place in the halls of Congress, somebody who will represent West Virginia well in the House of Representatives, somebody who brings a lot of class to the office. And that is Shelly Moore Capito. {APPLAUSE} 
+
+And traveling with us are two members of the United States Senate, Senators Stevens and Inouye, as well as Chairman Jerry Lewis. And I want to thank those members for traveling with us. It just goes to show how powerful -- {APPLAUSE} -- it just goes to show how powerful Senator Byrd is. {LAUGHTER} He said, I think you fellows may need to come over and pay a visit to West Virginia. All of us said, yes, sir, we're on our way. {LAUGHTER} 
+
+I also want to thank Command Master Sergeant Leonard, the senior enlisted man for the Guard and Reserves. Sergeant Leonard, thank you for coming. {APPLAUSE} 
+
+Finally, I don't want to embarrass the fellow, but I'm going to. In 1968, July of '68, I was stationed in Lackland Air Force Base, San Antonio, Texas. 
+
+{AUDIENCE-MEMBER} Hooah. {/AUDIENCE-MEMBER} {LAUGHTER} 
+
+You don't sound old enough to have been there. {LAUGHTER} 
+
+But today when I got off the airplane, Master Sergeant David Eshbaugh, from West Virginia, was there to greet me. He and I shared the same dorm in Lackland Air Force Base, Texas. And, David, I want to thank you from the bottom of my heart for greeting me at the foot of the stairs when I got off the airplane. And thank you for your service, too. {APPLAUSE} 
+
+There is an old saying that example is the true language of men. The example of this state speaks of duty and honor. The people of West Virginia have always answered the call to military service. There are an awful lot of mountaineers who have made this country proud. {APPLAUSE} 
+
+And the men and women of the West Virginia National Guard and Reserves continue that tradition. When it comes to readiness, as the Governor mentioned, the state's Army and international Guard units are ranked at the top of our nation. And the West Virginia National Guard has more people than openings. It's a darn good sign that things are right in the ranks here in this important state. {APPLAUSE} 
+
+I also want to recognize the employers of the National Guardsmen and Reservists, especially those that are here today. Citizen soldiers have always depended on selfless employers. The generosity of the employers in West Virginia wasn't learned in MBA textbooks or in business schools. It was learned because these folks are patriotic. They care about their state and they care about their country. You put love of country above love of profit. And you have the gratitude of our nation. 
+
+This is the National Guard's Year of the Employer, and it's a recognition that the employers of the Guardsmen and the Reservists justly deserve. National Guardsmen and Reservists are a part of a great and enduring American tradition. The National Guard, itself, is the oldest part of America's Armed Forces, with a history reaching back more than three and a half centuries. 
+
+During the American Revolution, volunteers and Minute Men earned our freedom. Today, our Guard and Reserve help preserve it. The National Guard has a unique role. It serves America within our borders and beyond our borders. You assist your neighbors in times of natural disaster, in flood and storm and fire. The West Virginia National Guard, for example, has been activated for disaster relief 15 times in the last six years. All Americans have learned to count on the National Guard in times of crisis, to lend a strong and helping hand. 
+
+The Guard Reservists also provide for the common defense. This has always been so. But it has never been more important than today. During the last few years, American active forces have been reduced in size, even as American commitments have increased. The Guard and Reserves have stepped up to the challenge. 
+
+More than ever, you find yourselves a part of overseas missions, serving with your active duty counterparts. In Bosnia and Kosovo, Reservists make up 15 to 20 percent of the force. You know firsthand. Less than two months ago, a number of airmen from the 130th Airlift Wing came home from Operation Joint Force after flying missions from Germany to the Balkans. 
+
+During my tenure as Governor of Texas, hundreds of National Guardsmen and Reservists were sent to Bosnia, and I was enormously proud of them. They did what they always do -- they performed their duty, just as you perform your duty. 
+
+As threats to America change, your role will continue to change. The National Guard and Reservists will be more involved in homeland security, confronting acts of terror and the disorder our enemies may try to create. I welcome the important part you will play in protecting our nation and its people. 
+
+The National Guard and Reserves are a vital part of America's national defense. And I want you to know that you not only have a former Guardsman in the White House, you have a friend. {APPLAUSE} 
+
+Beyond the role you play in the Armed Forces, America's citizen soldiers display values that are central to our nation: character, courage and sacrifice. You demonstrate the highest form of citizenship. And while you may not be full-time soldiers, you are full-time patriots. 
+
+In his book, "Citizen Soldier," the distinguished historian, Steven Ambrose, wrote this: "At the core, the American citizen soldiers knew the difference between right and wrong. And they didn't want to live in a world in which wrong prevailed. So they fought, and they won. And we, all of us living and yet to be born, must be forever profoundly grateful." 
+
+Professor Ambrose was writing about the soldiers of World War II. But his words apply to this audience and to the men and women around the world who proudly wear the uniform. Your uniform shows that you are living your life for others, for your fellow West Virginians in time of suffering and crisis; for your fellow Americans when our safety is threatened; and for the values and ideals our country represents when our allies and friends ask for help. 
+
+All Americans benefit from your service, and we'll always be grateful. Thank you for coming, and God bless. {APPLAUSE} 
+
+{/speech} 

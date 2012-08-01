@@ -1,0 +1,76 @@
+﻿{title} President Shares Thanksgiving Meal with Troops {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} November 21, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all very much. At ease. Thank you all very much. Laura and I are proud, really proud, to be with the men and women of the finest Army in the whole world. {APPLAUSE} This Thanksgiving, Americans are especially thankful for our freedom. And we are especially thankful to you, the people who keep us free. {APPLAUSE}
+
+I want to thank your General, "Commander Cody" -- {APPLAUSE} -- for his hospitality and for his leadership. I took a good look at him. I'm glad he's on my side. {APPLAUSE} And I'm glad you are as well. {APPLAUSE} I want to thank General Ellis. General Ellis has got a huge job. We've called upon a good man to accomplish that job.
+
+I want to thank Sergeant Major Clifford West. {APPLAUSE} I want to thank the Governors from the states represented here at Fort Campbell: Governor Paul Patton and Governor Don Sundquist from Kentucky and Tennessee. {APPLAUSE}
+
+I want to thank the Senators who are here with us from the two states: Senator Mitch McConnell, my good friend. I hope to see him in D.C. for a lot of years coming. And I want to thank Jim Bunning. He was telling me he thought my fast ball, when I threw it at Yankee Stadium, had a little zip on it. {APPLAUSE} Nothing like his fast balls. {LAUGHTER}
+
+I want to thank Senator Fred Thompson and Senator Bill Frist, two fine United States Senators from Tennessee. {APPLAUSE} I want to thank Congressman Ed Bryant from Tennessee for being here as well. All of these men respect and support the United States military and they represent the best of our country in the halls of our Congress.
+
+Congressman Ed Whitfield, who represents this district, wanted to be here today -- but he's spending the holiday with the U.S. servicemen and women from Kentucky who are stationed in Kosovo. {APPLAUSE} They're in our prayers this Thanksgiving, as are all the troops overseas.
+
+And I want to thank Congressman Whitfield's dad, Mr. E.O. Whitfield, for coming here in his stead. {APPLAUSE} Sounds like E.O. brought his wife. {LAUGHTER ; APPLAUSE} We're honored to be at the home of the 101st Airborne. {APPLAUSE} I've got two words I want to say to you: air assault. {APPLAUSE} I met some of you all when I visited Camp Bondsteel in Kosovo, and some of you invited me to your home. I came, and I'm glad I'm here. {APPLAUSE}
+
+I will always remember this as the day I ate turkey with the Screaming Eagles. {APPLAUSE} More than 3,000 soldiers from this post have been deployed to Kosovo for six-month rotations. They kept supplies away from rebels in Macedonia, made the recent election in Kosovo possible. I'm glad to report that all of them from this base will be home by Thanksgiving. {APPLAUSE}
+
+And all the fine units that call Fort Campbell home: the 160th Special Operations Aviation Regiment. {APPLAUSE} The 5th Special Forces Group. {APPLAUSE} Other essential groups -- {APPLAUSE} -- that shall remain nameless. {LAUGHTER}
+
+All Americans are especially grateful -- especially grateful -- for the sacrifice of our military families; the husbands and wives and sons and daughters, the mothers and dads. Some of you have loved ones that are deployed, or will be deployed far from home in a war against terror and evil. And our nation and the world are counting on your loved ones. They're making us secure and they are making us proud.
+
+Men and women of Fort Campbell, your country and your President are proud of you, as well. The 101st Airborne -- the 101st Airborne is living out its motto. Once again, you have a rendezvous with destiny. {APPLAUSE} And so does our country; we're freedom's home and defender. {APPLAUSE} And today we're the target of freedom's enemies.
+
+Our enemies are evil and they're ruthless. They have no conscience. They have no mercy. They have killed thousands of our citizens,and seek to kill many more. They seek to overthrow friendly governments to force America to retreat from the world.
+
+They seek weapons of mass destruction. But we're seeking them. {APPLAUSE} We're fighting them. And one by one, we're bringing them to justice. {APPLAUSE} We fight now -- this great nation fights now -- to save ourselves and our children from living in a world of fear.
+
+We fight now because we will not permit the terrorists, these vicious and evil men, to hijack a peaceful religion and to impose their will on America and the world. We fight now, and we will keep on fighting until our victory is complete. {APPLAUSE} We cannot know every turn this war will take. But I'm confident of the outcome. I believe in the strong resolve of the American people. I believe good triumphs over evil. And I believe in the fearless hearts of the United States military. {APPLAUSE}
+
+We fight the terrorists and we fight all of those who give them aid. America has a message for the nations of the world: If you harbor terrorists, you are terrorists. {APPLAUSE} If you train or arm a terrorist, you are a terrorist. {APPLAUSE} If you feed a terrorist or fund a terrorist, you're a terrorist, and you will be held accountable by the United States and our friends. {APPLAUSE}
+
+The Taliban know that. Our military forces and the forces of our allies and many Afghans seeking a better future, are liberating Afghanistan. And the Afghan people are celebrating. Today, 27 of 30 Afghanistan provinces are no longer under Taliban control. {APPLAUSE} We've got the Taliban and terrorists' lines of communications, and they're on the run. {APPLAUSE}
+
+We've made a good start in Afghanistan; yet, there is still a lot to be done. There are still terrorists on the loose in Afghanistan, and we will find and destroy their network, piece by piece. The most difficult steps in this mission still lie ahead, where enemies hide in sophisticated cave complexes, located in some of the most mountainous and rugged territory. These hideouts are heavily fortified and defended by fanatics who will fight to the death.
+
+Unlike efforts to liberate a town or destroy Taliban equipment, success against these cells may come more slowly. But we'll prevail. We'll prevail with a combination of good information, decisive action, and great military skill. {APPLAUSE}
+
+The enemy -- the enemy hopes they can hide until we tire. But we're going to prove them wrong. We will never tire. And we will hunt them down. {APPLAUSE} The Afghan people deserve a just and stable government. And we will work with the United Nations to help them build it. Our diplomats in the region, in Europe, in New York and in Washington, are in communications with all parties. We're urging them to move quickly toward a government that is broadly-based, multi-ethnic, and protects the rights and dignity of all Afghan citizens, including women.
+
+Winter is coming. And years of drought and Taliban misrule have placed many Afghans on the brink of starvation. We will work with the world to bring them food and medicine. While we fight evil, this great country will help those who suffer.
+
+Afghanistan is just the beginning on the war against terror. There are other terrorists who threaten America and our friends, and there are other nations willing to sponsor them. We will not be secure as a nation until all of these threats are defeated. Across the world and across the years, we will fight these evil ones, and we will win. {APPLAUSE}
+
+Great causes are not easy causes. It was a long way from Bunker Hill to Yorktown. It was a long way for the 101st from Normandy to final victory over fascism in Europe. When wronged, our great nation has always been patient and determined and relentless. And that's the way we are today. We have defeated enemies of freedom before. And we will defeat them again. {APPLAUSE}
+
+And this struggle must be won at home, in our own cities, on our own soil. A lot of good people -- police officers, FBI agents, intelligence agents and health officials -- are working hard to protect Americans from new threats. And Americans are being vigilant, themselves. No matter what lies ahead, we'll be alert, we'll be careful and we'll never be intimidated. {APPLAUSE} We're proud Americans and we'll live like Americans: we'll travel, we'll build on our prosperity, we'll live the lives of free people.
+
+Yet, make no mistake about it: wars are not won on the home front alone. Wars are won by taking the fight to the enemy. {APPLAUSE} America is not waiting for terrorists to try to strike us again. Wherever they hide, wherever they plot, we will strike the terrorists. {APPLAUSE}
+
+This mission will require sacrifice by our men and women in uniform. America appreciates that sacrifice. And I make a promise in return: our military will have everything you need to win in the long battle that lies ahead. You'll have every resource, every weapon, every possible tool to ensure full victory for the cause of freedom. {APPLAUSE}
+
+These have been hard months for Americans. Yet, this Thanksgiving we have so much to be thankful for. We're thankful for the love of our families. We're thankful for the goodness and generosity of our fellow citizens. We're thankful for the freedoms of our country. And we're so very thankful to you, the men and women who wear our uniform.
+
+Thanks to you, the people of Afghanistan have the hope of a better life. Thanks to you, many Afghan women are walking in public again, and walking with dignity. Thanks to you, eight humanitarian aid workers -- including two Americans -- are free today, instead of sitting in a Taliban jail. {APPLAUSE} 
+
+Thanks to you, every nation is seeing what will happen if you cast your lot with the terrorists. {APPLAUSE} Thanks to you, there is less fear in the world and more freedom, and more hope, and a better chance for peace.
+
+Every one of you is dedicated to something greater than yourself. You put your country ahead of your comfort. You live by a code and you fight for a cause. And I'm honored to be your Commander-in-Chief. {APPLAUSE} 
+
+{AUDIENCE} U.S.A.! U.S.A.! U.S.A.! {/AUDIENCE}
+
+I want to thank you all for such a warm greeting. I want to thank your service to a great nation.
+
+May God bless the men and women who wear our uniform, and may God bless America. {APPLAUSE}
+
+
+{/speech} 

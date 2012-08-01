@@ -1,0 +1,62 @@
+﻿{title} Remarks of President Barack Obama at POET Biorefining in Macon, Missouri {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} April 28, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody! Hello, POET! Thank you so much. {APPLAUSE} Thank you, everybody. Please have a seat. It is wonderful to be here. It is wonderful to be in Missouri. It is wonderful to be this close to my house. {LAUGHTER}
+
+I want to thank POET for their great hospitality today. I want to make a few acknowledgements. We've got some special guests: first of all, your outstanding governor of the great state of Missouri -- Jay Nixon. {APPLAUSE} The mayor of Macon, Doug Bagley. {APPLAUSE} One of my favorite people who I believe is going to be doing outstanding things, has already done great work as Secretary of State and I think is going to be an outstanding -- eventually -- United States senator as well, Robin Carnahan. {APPLAUSE} Your Attorney General, Chris Koster, is here. {APPLAUSE} The Missouri Director of Agriculture, Dr. John Hagler, is here. {APPLAUSE}
+
+The CEO of POET, Jeff Broin, is here. Where's Jeff? {APPLAUSE} The president of POET-Macon, John Eggleston. {APPLAUSE} And the general manager, who gave me an outstanding tour, Steve Burnett. Where did Steve go? There he is, back there. {APPLAUSE}
+
+Also in the house is the Secretary of Agriculture for the United States of America, former governor of Iowa, Tom Vilsack. {APPLAUSE}
+
+Well, thank you so much for the warm welcome. It is good to be in Missouri. It is good to be with all of you here at POET.
+
+Steve just gave Secretary Vilsack and myself a tour of this outstanding facility, and I know Steve is very proud of the anniversary that's going to be coming up -- 10 years ago next month, this plant produced its first gallon of ethanol. And Steve was there and -- {APPLAUSE} -- and others were there, and that's something to be very proud of. Today, you've got 45 employees who are producing 46 million gallons a year. So that means one of you is overachieving. {LAUGHTER} Congratulations to all of you.
+
+I came here today, and I visited Iowa yesterday, because there's a lot that towns here in the heartland, here in Middle America, can teach the rest of the country. There's certainly a lot that you can share with Washington, including some common sense. So I wanted to talk with you about your community, what you're going through, what you're experiencing –- not only the economic pain, which I think a lot of us have heard about and experienced, but also the economic opportunity, the economic possibilities.
+
+Lately, we've seen some welcome news around the country. After two hard years, our economy is growing again and our markets are climbing again and our businesses are beginning to create jobs again. But when you come out to Macon and surrounding areas, whether it's in Iowa or Illinois or Missouri or Kansas or other parts of the heartland, you understand that the recovery hasn't reached everybody yet. Times are tough out here. In some places, times have been tough for a very long time.
+
+In the two years that I spent running for President and visiting towns like Macon, a lot of folks talked about how the American Dream seemed like it was starting to slip away. It was getting harder and harder to reach. Families were having a tougher time getting ahead. Farmers were having a tough time getting by. Worse yet, many young people had been convinced that the only way that they could make a go of it was if they moved someplace else.
+
+But success stories like POET, what you've achieved here, prove that that doesn't have to be the case. And I believe that your company and companies like yours can replicate this success all across the country.
+
+Since I took office, we had to take a series of steps to rescue our economy from the immediate crisis. We were going through the worst crisis since the Great Depression and we had to make sure that we didn't slip into a second Great Depression. And some of those decisions we made weren't popular, but they were the right ones. And now the economy is stabilizing.
+
+Here's the thing, though. I didn't run for President just to get back to where we were; I ran for President so that we could move forward and finally start dealing with some of the problems that we've had for a very long time. I want our economy to be on a new foundation for long-term growth and prosperity, and to create the kinds of conditions so that folks can work hard to finally get ahead.
+
+That means making our schools more competitive, and our colleges and our community colleges more affordable to young people. That means health insurance reform that gives families and businesses more choice, and more competition, and better protection from some of the worst abuses of the insurance industry. It means common-sense reforms that prevent the irresponsibility of a few people on Wall Street wreaking havoc all across Main Street, all across America. And it means igniting a new, clean-energy economy that generates good jobs right here in the United States and starts freeing ourselves from dependence on foreign oil. {APPLAUSE}
+
+Now, for decades, we've talked about doing this. For decades, we've talked about how our dependence on oil from other countries threatens our economy. But usually our will to act kind of rises or falls depending on the price at the pump. We talked about how it threatens future generations, even as we witnessed some funny things going on in terms of our climate change, and recognizing the environmental costs of relying on fossil fuels, but, frankly, we always said we'll get to it tomorrow. We talked about how it threatened our security, but we've grown actually more dependent on foreign oil every single year since Richard Nixon started talking about this danger of dependency on foreign oil.
+
+And as we talked about it, other nations were acting -- China, Spain, countries that recognized that the country that leads the clean-energy economy will be the country that leads the 21st century economy. And they've made serious investments to win that race and the jobs that come with it.
+
+Well, I've said before I don't accept second place for the United States of America. I want us to be first in wind power, first in solar power, and I want us to be first when it comes to biodiesel and the technologies that are being developed in places like POET.
+
+And that's why my energy security plan has been one of the top priorities of my administration since the day I took office. We began early last year by making the largest investment in clean energy in our nation's history. It's an investment that we expect will create or save up to 700,000 jobs across America by the end of 2012 -– jobs manufacturing next-generation batteries for next-generation vehicles; jobs upgrading a smarter, stronger power grid; jobs doubling the capacity to generate renewable energy from sources like sun and wind and biofuels, just like you do here.
+
+And that investment was part of the Recovery Act. It included $800 million in funding for ethanol fueling infrastructure, biorefinery construction, advanced biofuels research to help us reach the goal that I've set, which is to more than triple America's biofuels production in the next 12 years. That is a goal that we can achieve, and it's being worked on right here at POET. And we're very proud of that. {APPLAUSE}
+
+I've also created a biofuels working group led by Secretary Vilsack; our Energy Secretary, Steven Chu; and our EPA Administrator, Lisa Jackson. And they're working to promote this generation of biofuels and help you deliver on the next generation of biofuels.
+
+And I was talking to your CEO about the incredible progress that's already being made around cellulosic ethanol and how potentially we can have facilities that are producing cellulosic right here, right next to the existing plant; and create overall energy efficiencies that we just have not seen before and effectively compete with biofuels from anyplace in the world, using brand new technologies, in part that are being developed right here.
+
+So, I may be the President these days, but I want to remind everybody I was the senator from Illinois. I didn't just discover the merits of biofuels like ethanol when I first hopped on the campaign bus. I was telling Steve this was not the first ethanol plant I visited. And I believe in the potential of what you're doing right here to contribute to our clean energy future, but also to our rural economies.
+
+By the way, so does our military. Some of you may have seen just last week, the Navy tested a fighter jet, which was named the Green Hornet. It is the first plane ever to fly faster than the speed of sound while running on a mix of half biofuel. I actually saw the plane myself when I visited Andrew's Air Force Base, and I have to say it's pretty cool.
+
+So there shouldn't be any doubt that renewable, homegrown fuels are a key part of our strategy for a clean-energy future -- a future of new industries, new jobs in towns like Macon, and new independence.
+
+Here at POET, I believe that you're doing more than just helping stake America's claim on our future, you're staking Macon's claim on America's future. And I'm committed to making sure that communities like this one have a bright future of opportunity going forward. And I pledge to work with you, and the great folks at the state level, like Governor Nixon, our Secretary of Agriculture -- all of us are going to be collaborating day in and day out to make sure that you're successful and that we continue to build on the outstanding work.
+
+Ten years from now, I want us to look back and say that the first 10 years were nothing, that the next 10 years were even better. All right?
+
+Thank you very much, everybody. God bless you. Thank you. {APPLAUSE} 
+
+{/speech}

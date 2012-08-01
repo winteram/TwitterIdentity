@@ -1,0 +1,24 @@
+﻿{title} Remarks at the 17th Annual Susan G. Komen Breast Cancer Foundation, National Race for the Cure Pre-Race Program {/title}
+{event} Washington, DC {/event}
+{speaker} Condoleezza Rice {/speaker}
+{date} June 3, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. I am absolutely delighted and honored to join you here today for the Race for the Cure. I want to thank my good friend Nancy Brinker for her dedication and her commitment and her spirit. She just inspires us all. Her personal story is one that is inspiring and her work is deeply inspiring. Nancy, thank you for what you do. {APPLAUSE}
+
+I'd like to thank Mayor Williams as well. It's wonderful to see you here, Mayor Williams. And I think he's going to race, too, so we look forward to that. I heard the choir. Aren't they great? Thank you. {APPLAUSE} And I'm just thrilled and inspired to see all that pink out there. {APPLAUSE}
+
+There are very few people in America or across the world that haven't been touched by breast cancer in some very personal way and I'm no different. My mother was a breast cancer survivor for 15 years. {APPLAUSE} When she first was diagnosed with breast cancer in 1970, there weren't that many treatment options and there certainly wasn't that much prevention. And what I remember most as a kid of 15 was the kind of terror associated with finding that your mother had breast cancer.
+
+I'm very grateful to those who took the limited treatment options that she had. I'm grateful to God that she survived that she survived that 15 years because it made the difference between a kid at 15 losing her mother and a woman of 30. It meant that my mother knew me not just as a high school student but as a college professor at Stanford, and I'm very grateful for her struggle. I'm very grateful she inspired me as she still inspires me every day. {APPLAUSE}
+
+But of course, we want the story of survivors to be longer and one day we want the stories not to be of survival but to be of cure. And that's why we're here. We're here to make the case for better options for women, for treatment, for prevention and also for a cure. I know that many of you, you survivors out there, struggle with the daily knowledge of what you have gone through and what you are still going through. But this group that supports says that you're not alone and you inspire us, and you inspire us to make every day a day when we pray for and work for the day when there will be no breast cancer on this earth. {APPLAUSE}
+
+And I want to just underscore something that Nancy said. There are women who are not lucky enough to live in places or to have the access to the kind of treatment options and to the kind of prevention that we here in America have and we need to remember them, too. And indeed, around the world the United States of America is a leader in providing better health care and better health services, to underprivileged people. And that's a part of our mission as a country that believes in the noble cause of democracy and prosperity for all, as the President calls it, "the non-negotiable demands of human dignity."
+
+Thanks again for what you do. Thanks for being here. And now, go and race. Thank you. {APPLAUSE} 
+
+{/speech}

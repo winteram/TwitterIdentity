@@ -1,0 +1,27 @@
+﻿{title} Remarks By The President, the Vice President and Archbishop Demetrios to Commemorate Greek Independence Day {/title}
+{event} Greek Independence Day {/event}
+{speaker} Barack Obama {/speaker}
+{date} March 25, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Well, what a great honor. I will tell Michelle that I've been compared to Alexander the Great. {LAUGHTER} I will see whether that gets me a little more respect -- {LAUGHTER} -- at home. She knows she's still the boss.
+Your Eminence, it is a great honor to have you here. And I want to mention a few others who are here that deserve acknowledgment. Father Alex Karloutsos -- Father Alex, where did you go? There he is. {APPLAUSE} The Greek Minister of Justice is here. Where -- there he is. {APPLAUSE} Dendias -- did I say that properly? We also have the Greek Ambassador Mallias. {APPLAUSE} And we have the Cypriot Ambassador Kakouris. {APPLAUSE}
+Thank you, all. And I see a lot of good friends -- a few from Chicago; we've got the Chicago contingent in the house. {APPLAUSE} Wonderful supporters, great friends of mine, welcome to the White House.
+It is a great honor to be here with His Eminence as we mark the 10th anniversary since he became Archbishop. {APPLAUSE} And it is a privilege to join all of you as we celebrate the contributions of Greece and those of Greek heritage to this country and to the world.
+Today, we commemorate the 188th anniversary of Greek independence -- and we reaffirm a bond between our two nations born through struggle but also through shared ideals.
+It is a bond that's on display today in towns and cities across the United States. In Chicago, we have a thriving Greek American community centered around a neighborhood known as Greektown. There's a parade marking independence each year. In fact, at this very moment, you might find young people in Chicago's streets paying tribute to their Greek heritage by wearing the traditional foustanellas. {LAUGHTER ; APPLAUSE} I notice some of you aren't dressed appropriately. {LAUGHTER} I haven't seen any around the White House today, but I'm keeping an eye out.
+{AUDIENCE-MEMBER} Maybe next year. {/AUDIENCE-MEMBER} 
+Next year? Alexi, where's yours? {LAUGHTER} Because, as you know, there are many proud Greek Americans in my administration.
+And this bond we share dates to our founding. America's revolutionaries imagined a new system of government, but they drew upon an ancient precedent. It's no coincidence that the leaders of the American Revolution -- Jefferson and Madison, Adams, Hamilton -- were students of Greek history and Greek philosophy. As a boy, Thomas Jefferson, the author of the Declaration of Independence, was said to prefer spending time with his Greek grammar books than with his classmates.
+In our darkest days -- when our revolution was a fading hope, when friends were few and victories were rare -- these leaders found allies in ancient texts.
+And just as America's founders sought guidance and inspiration from Greece, Greek revolutionaries drew strength and support from the United States, as was just mentioned by His Eminence. In fact, these leaders appealed directly to the American people, offering respect and seeking support. They wrote, "It is your land" -- "It is in your land that liberty has fixed her abode. In imitating you, we shall imitate our ancestors and be thought worthy of them if we succeed in resembling you."
+In a message to Congress soon after the inception of fighting, President Monroe affirmed our kinship with the Greeks who were "contending in favor of their liberties." He spoke of a "strong hope ¼ that these people will recover their independence and resume their equal station among the nations of the Earth."
+Of course, it's been a difficult and long-enduring struggle, both in the many centuries before the call for independence and in the nearly two centuries since. It's perhaps the cruelest of ironies that a people who first tested a free and democratic form of government were doomed to live so long without it.
+But it's also one of history's great triumphs that even in the darkest periods, the light of those ideals were never extinguished: Through brutal wars, instead people who were inspired by the ideals met them with bravery; through occupations that were met with defiance; through hardship met with incredible character -- and character of a people that never lost hope in the values Greece has always represented.
+Today, Greece stands as a testament of that unflinching character -- as does the steadfast allegiance between our two nations. And I am proud to welcome so many Greek citizens and Greek Americans to the White House as we celebrate this occasion and our continued partnership in the years ahead.
+So thank you, Your Eminence. Thanks, all of you, for taking the time to be here. Thank you. {APPLAUSE} 
+
+{/speech}

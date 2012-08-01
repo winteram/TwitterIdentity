@@ -1,0 +1,33 @@
+﻿{title} President Celebrates Cinco de Mayo {/title}
+{event} The Rose Garden {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 4, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Bienvenidos. {APPLAUSE} Laura and I are honored to host so many distinguished Hispanic Americans, and Mexican leaders here in the Jardin de Rosa. {LAUGHTER} Welcome to the White House. The way I see it is mi casa es su casa. {LAUGHTER ; APPLAUSE} I always look forward to Cinco de Mayo, especially because it gives me a chance to practice my Spanish. My only problem this year is I scheduled the dinner on quatro de Mayo. {LAUGHTER} Next year I'm going to have to work on my math. {LAUGHTER}
+
+I want to thank you all for coming. I particularly want to thank the Attorney General of the United States, Alberto Gonzales, for joining us. {APPLAUSE} The Secretary of Commerce, Carlos Gutierrez, and Edi. {APPLAUSE} SBA Administrator Hector Barreto, and his wife Robin. {APPLAUSE} Anna Cabral, and Victor. Anna Cabral is the Treasurer of the United States. Welcome, Anna. {APPLAUSE} Eduardo Aguirre, who is the Director of the U.S. Citizenship and Immigration Services. {APPLAUSE}
+
+These guys said they want to get to know you, Eduardo. {LAUGHTER} By the way, Eduardo has been announced, and upon Senate confirmation will become the U.S. Ambassador to Spain. {APPLAUSE}
+
+Mi amigo y Juez -- de Texas, Ricardo Hinojosa. {APPLAUSE} U.S. Surgeon General, and his wife Diane, Dr. Richard Carmona. {APPLAUSE} El Embajador de Mexico. Welcome. {APPLAUSE} El Embajador de Estados Unidos a Mexico, Tony Garza. {APPLAUSE} Y su esposa nueva, Maria. Welcome. {APPLAUSE}
+
+I want to thank Congressman Henry Bonilla and Sheryl for joining us today. Welcome, Congressman. {APPLAUSE} Congressman Henry Cuellar, de Texas. Welcome. {APPLAUSE} Josefina Vasquez Mota, Mexico's Secretary for Social Development, welcome. {APPLAUSE}
+
+I want to thank Christian Castro, recording artist who is going to perform tonight. I appreciate Jaci Velasquez -- where's Jaci? Jackie is somewhere. {APPLAUSE} There she is. Thanks. She's going to emcee. I want to thank Mariachi Sol de Mexico. {APPLAUSE}
+
+Cinco de Mayo commemorates a joyful moment in Mexican history. Tonight we're proud to celebrate that moment together. The United States and Mexico are united by ties of family, faith in God, and a deep love for freedom.
+
+More than 25 million men and women of Mexican origin now make their homes in the United States. And they're making our nation more vibrant and more hopeful every day. Mexican Americans have enriched the American experience with contributions to music and dancing and the arts. Latino entrepreneurs are starting their own businesses all across America, and are creating jobs and trading in freedom with businesses across borders. More Hispanic Americans own their own homes today than ever before. And Mexican Americans are firmly committed to leaving no child behind in America.
+
+Mexican Americans are also strengthening our country with their patriotism and service. Thousands of Mexican Americans have sacrificed in the Armed Services for our freedom. And more than 8,700 men and women born in Mexico now wear the uniform of the United States military. {APPLAUSE} These dedicated men and women are making America safer, and they're making the world safer. And they're carrying on the courage and devotion that inspired an outnumbered band of Mexican soldiers to victory in the Battle of Pueblo on the cinco de Mayo, 1862.
+
+
+Here at the White House, the triumph of Cinco de Mayo was recognized by President Abraham Lincoln. And through the generations, Americans have continued to look on our neighbor to the south with fondness and deep respect. Tonight we look to the future with confidence in our warm and growing friendship. And so now it is my pleasure to offer a toast: May God bless the people of Mexico, and all the sons and daughters of Mexico who call America home. Que Dios los bendiga.
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

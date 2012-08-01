@@ -1,0 +1,23 @@
+﻿{title} Remarks By The President Honoring The 2008 Wnba Champions The Detroit Shock {/title}
+{event} Honoring The 2008 Wnba Champions The Detroit Shock {/event}
+{speaker} Barack Obama {/speaker}
+{date} July 27, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hey, guys. Hello, hello, hello. {APPLAUSE} Please, everybody, be seated. Be seated. Well, welcome to the White House, everybody. And we are so pleased to have the Detroit Shock here. We want to congratulate them and all your fans for your third WNBA Championship in six years. Give them a big round of applause. {APPLAUSE}
+We've got some special fans from Capitol Hill here who take great pride in Detroit -- Senator Carl Levin is in the house. {APPLAUSE} Representative Sandy Levin is in the house. {APPLAUSE} And Representative Carolyn Kilpatrick is in the house. {APPLAUSE}
+I want to thank Donna Orender, the president of the WNBA, who's here today. Donna is right back -- there she is, right there. {APPLAUSE} Congratulations on the success of this league and the inspiration it provides to young women everywhere.
+I also want to thank the owner of the Detroit Shock and the Detroit Pistons, Karen Davidson, for coming. Your husband -- go ahead, give her a round of applause. {APPLAUSE} Your husband Bill had a great impact not just in the NBA and the WNBA, but also on countless individuals who benefit from his giving spirit.
+Now, I have to say, everybody knows I'm a Chicago Bulls fan. {LAUGHTER} And a few years ago, when the Bulls and the Pistons were thick in the middle of their rivalry, I never imagined that I'd be saying: Congratulations, Bill Laimbeer. {LAUGHTER} Or, congratulations, Rick Mahorn. {LAUGHTER} If I knew I was President then, to think that I'd be inviting them to the White House is hard to take. {LAUGHTER} But let's face it, these guys are winners. They always have been. They know how to win. And I want to congratulate the Finals MVP Katie Smith -- {APPLAUSE} -- team captain Cheryl Ford -- {APPLAUSE} -- and all the other women that make this such an outstanding team.
+I also want to salute this organization and this team for donating so much time and energy to lifting up the Detroit community. They've given free tickets to underprivileged youth, mentored abused women and children, donated backpacks filled with school supplies to foster kids, restored a rundown library into a safe, clean place for kids to play and to grow.
+And I want to thank them for participating in our United We Serve summer of service. Earlier today, these players took time to host a WNBA Fit Clinic for young boys and girls at a local Boys and Girls Club, to teach fitness and nutrition and self-confidence -- and I understand they brought some of the young participants along with them to the White House. I suspect it must be these young people here today. {APPLAUSE}
+Let me also say something as a father -- I was mentioning it to the team before we came out. It's hard to believe the WNBA has already been around for 12 years. And that means that my daughters have never known a time when women couldn't play professional sports.
+They look at the TV and they see me watching SportsCenter and they see young women who look like them on the screen. And that lets them and all our young women, as well as young men know that we should take for granted that women are going to thrive and excel as athletes. And it makes my daughters look at themselves differently; to see that they can be champions, too.
+So, as a father, I want to say thank you. {APPLAUSE} And thank you to all the WNBA athletes who work hard each day to set a positive example to which all our daughters can aspire.
+Congratulations again on your championship season. Good luck this year. And, Coach, congratulations. {APPLAUSE}
+All right, thank you. 
+
+{/speech}

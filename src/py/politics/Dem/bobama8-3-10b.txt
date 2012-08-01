@@ -1,0 +1,152 @@
+﻿{title} Remarks by the President on Health Insurance Reform {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} March 8, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, Pennsylvania! {APPLAUSE} Thank you. Thank you very much. Thank you. This is a nice crowd. {APPLAUSE} Thank you very much. Thank you. Well, what a wonderful crowd.
+
+{AUDIENCE-MEMBER} I love you! {/AUDIENCE-MEMBER} 
+
+Love you back. {APPLAUSE} I am -- I'm kind of fired up. {APPLAUSE} I'm kind of fired up. {APPLAUSE} So, listen, we -- this is just an extraordinary crowd and I --
+
+{AUDIENCE-MEMBER} We love you! {/AUDIENCE-MEMBER} 
+
+I love you back. {APPLAUSE} I want -- there's some people I want to point out who are here who've just been doing great work. First of all, give Leslie a great round of applause for her wonderful introduction. {APPLAUSE}
+
+Somebody who's been working tirelessly on your behalf, doing a great job -- the Secretary of Health and Human Services, Kathleen Sebelius is in the house. {APPLAUSE} One of the finest governors in the country, Ed Rendell is in the house. {APPLAUSE} Everybody notice how good Ed is looking, by the way? He's been on that training program, eating egg whites and keeping his cholesterol down. {LAUGHTER}
+
+Your senior senator who has just been doing outstanding work in the Senate, Arlen Specter is in the house. {APPLAUSE} One of my great friends, somebody who supported me when nobody could pronounce my name, Bob Casey is in the house. {APPLAUSE} Your congressman, the person who gave me confidence that I could win even though nobody could pronounce my name -- Chaka Fattah is in the house. {APPLAUSE} I figured if they could elect a "Chaka" -- {LAUGHTER} -- then they could elect a "Barack." {LAUGHTER}
+
+A couple other outstanding members of Congress -- first of all, from Pennsylvania, Allyson Schwartz is in the house. {APPLAUSE} Somebody who rendered outstanding service to our nation before he was in Congress, Joe Sestak is in the house. {APPLAUSE} One of the sharpest members of Congress -- technically not his state but he's just from right next door, New Jersey, so he's practically -- {APPLAUSE} See, we've got some Jersey folks here. {APPLAUSE} Rob Andrews is in the house. {APPLAUSE} And the great mayor of Philadelphia, Mike Nutter. {APPLAUSE}
+
+It's a little hot, I think. {APPLAUSE} And to Arcadia University -- {APPLAUSE} -- thank you, thank you guys for hosting us. {APPLAUSE}
+
+I was asking about that castle on the way in, by the way. {APPLAUSE} That's a -- I thought the White House was pretty nice, but that castle, that's -- {LAUGHTER}
+
+Well, it is great to be back here in the Keystone State. It's even better to be out of Washington, D.C. {LAUGHTER} First of all, the people of D.C. are wonderful. They're nice people, they're good people; love the city, the monuments, everything. But when you're in Washington, folks respond to every issue, every decision, every debate, no matter how important it is, with the same question: What does this mean for the next election? {LAUGHTER} What does it mean for your poll numbers? Is this good for the Democrats or good for the Republicans? Who won the news cycle?
+
+That's just how Washington is. They can't help it. They're obsessed with the sport of politics. And so that's the environment in which elected officials are operating. And you've seen all the pundits pontificating and talking over each other on the cable shows, and they're yelling and shouting. They can't help themselves. That's what they do.
+
+But out here, and all across America, folks are worried about bigger things. They're worried about how to make payroll. They're worried about how to make ends meet. They're worried about what the future will hold for their families and for our country. They're not worrying about the next election. We just had an election. {APPLAUSE} They're worried about the next paycheck, or the next tuition payment that's due. {APPLAUSE} They're thinking about retirement.
+
+You want people in Washington to spend a little less time worrying about our jobs, a little more time worrying about your jobs. {APPLAUSE}
+
+Despite all the challenges we face -- two wars, the aftermath of a terrible recession -- I want to tell everybody here today I am absolutely confident that America will prevail; that we will shape our destiny as past generations have done. {APPLAUSE} That's who we are. We don't give up. We don't quit. Sometimes we take our lumps, but we just keep on going. That's who we are. But that only happens when we're meeting our challenges squarely and honestly. And I have to tell you, that's why we are fighting so hard to deal with the health care crisis in this country; health care costs that are growing every single day.
+
+I want to spend some time talking about this. The price of health care is one of the most punishing costs for families and for businesses and for our government. {APPLAUSE} It's forcing people to cut back or go without health insurance. It forces small businesses to choose between hiring or health care. It's plunging the federal government deeper and deeper and deeper into debt.
+
+The young people who are here, you've heard stories -- some of you guys still have health care while you're in school, some of you may still be on your parents' plans, but some of the highest uninsurance rates are among young people. And it's getting harder and harder to find a job that's going to provide you with health care. And a lot of you right now feel like you're invincible so you don't worry about it. {LAUGHTER} But let me tell you, when you hit 48 -- {LAUGHTER} -- you start realizing, things start breaking down a little bit. {LAUGHTER}
+
+And the insurance companies continue to ration health care based on who's sick and who's healthy; on who can pay and who can't pay. That's the status quo in America, and it is a status quo that is unsustainable for this country. We can't have a system that works better for the insurance companies than it does for the American people. {APPLAUSE} We need to give families and businesses more control over their own health insurance. And that's why we need to pass health care reform -- not next year, not five years from now, not 10 years from now, but now. {APPLAUSE}
+
+Now, since we took this issue on a year ago, there have been plenty of folks in Washington who've said that the politics is just too hard. They've warned us we may not win. They've argued now is not the time for reform. It's going to hurt your poll numbers. How is it going to affect Democrats in November? Don't do it now.
+
+My question to them is: When is the right time? {APPLAUSE} If not now, when? If not us, who?
+
+Think about it. We've been talking about health care for nearly a century. I'm reading a biography of Teddy Roosevelt right now. He was talking about it. Teddy Roosevelt. We have failed to meet this challenge during periods of prosperity and also during periods of decline. Some people say, well, don't do it right now because the economy is weak. When the economy was strong, we didn't do it. We've talked about it during Democratic administrations and Republican administrations. I got all my Republican colleagues out there saying, well, no, no, no, we want to focus on things like cost. You had 10 years. What happened? What were you doing? {APPLAUSE}
+
+Every year, the problem gets worse. Every year, insurance companies deny more people coverage because they've got preexisting conditions. Every year, they drop more people's coverage when they get sick right when they need it most. Every year, they raise premiums higher and higher and higher.
+
+Just last month, Anthem Blue Cross in California tried to jack up rates by nearly 40 percent -- 40 percent. Anybody's paycheck gone up 40 percent?
+
+{AUDIENCE} No! {/AUDIENCE} --
+
+I mean, why is it that we think this is normal? In my home state of Illinois, rates are going up by as much as 60 percent. You just heard Leslie, who was hit with more than a hundred percent increase -- 100 percent. One letter from her insurance company and her premiums doubled. Just like that. And because so many of these markets are so concentrated, it's not like you can go shopping. You're stuck. So you've got a choice: Either no health insurance, in which case you're taking a chance if somebody in your family gets sick that you will go bankrupt and lose your home and lose everything you've had -- or you keep on ponying up money that you can't afford.
+
+See, these insurance companies have made a calculation. Listen to this. The other day, there was a conference call that was organized by Goldman Sachs. You know Goldman Sachs. You've been hearing about them, right? {LAUGHTER} So they organized a conference call in which an insurance broker was telling Wall Street investors how he expected things to be playing out over the next several years, and this broker said that insurance companies know they will lose customers if they keep on raising premiums, but because there's so little competition in the insurance industry, they're okay with people being priced out of the insurance market because, first of all, a lot of folks are going to be stuck, and even if some people drop out, they'll still make more money by raising premiums on customers that they keep.
+
+And they will keep on doing this for as long as they can get away with it. This is no secret. They're telling their investors this: We are in the money; we are going to keep on making big profits even though a lot of folks are going to be put under hardship.
+
+So how much higher do premiums have to rise until we do something about it? How many more Americans have to lose their health insurance? How many more businesses have to drop coverage? All those young people out here, after you graduate you're going to be looking for a job. Think about the environment that's going to be out there when a whole bunch of potential employers just tell you, you know what, we just can't afford it. Or, you know what, we're going to have to take thousands of dollars out of your paycheck because the insurance company just jacked up our rates.
+
+How many years -- how many more years can the federal budget handle the crushing costs of Medicare and Medicaid? That's the debt you're going to have to pay, young people. When is the right time for health insurance reform?
+
+{AUDIENCE} Now! {/AUDIENCE} 
+
+Is it a year from now or two years from now or five years from now or 10 years from now?
+
+{AUDIENCE} No! {/AUDIENCE} 
+
+I think it's right now. And that's why you're here today. {APPLAUSE}
+
+Leslie is a single mom -- just like my mom was a single mom -- trying to put her daughter through college. She knows that the time for reform is now.
+
+Natoma Canfield -- self-employed cancer survivor from Ohio -- she wrote us a letter. Last year her insurance company charged her over $6,000 in premiums; paid about $900 worth of care. Now they've decided to jack up her rates 40 percent next year. So she's had to drop her insurance, even though it may cost her the house that her parents built. Natoma knows it's time for reform.
+
+Laura Klitzka -- this is a friend of mine, somebody I met when I was campaigning in Wisconsin -- Green Bay, Wisconsin. She's a young mother; she's got two kids. She thought she had beaten her breast cancer but later discovered it had spread to her bones. She and her husband had insurance, but their medical bills still landed them with tens of thousands of dollars worth of debt. And now she spends her time worrying about that debt when all she wants to do is spend time with her children. I just talked to Laura this past weekend, and let me tell you, she knows that the time for reform is right now.
+
+So what should I tell these Americans? That Washington is not sure how it will play in November? That we should walk away from this fight, or do something -- do something like some on the other side of the aisle have suggested, well, we'll do it incrementally; we'll take baby steps; we'll do --
+
+{AUDIENCE} No! {/AUDIENCE} 
+
+So they want me to pretend to do something that doesn't really help these folks.
+
+We have debated health care in Washington for more than a year. Every proposal has been put on the table. Every argument has been made. I know a lot of people view this as a partisan issue, but both parties have found areas where we agree. What we've ended up with is a proposal that's somewhere in the middle -- one that incorporates the best from Democrats and Republicans, best ideas.
+
+Think about it along the spectrum of how we could approach health care. On one side of the spectrum there were those at the beginning of this process who wanted to scrap our system of private insurance and replace it with a government-run health care system, like they have in some other countries. {APPLAUSE} Look, it works in places like Canada, but I didn't think it was going to be practical or realistic to do it here.
+
+On the other side of the spectrum, there are those who believe that the answer is just to loosen regulations on insurance companies. This is what we heard at the health care summit. They said, well, you know what, if we had fewer regulations on the insurance companies --
+
+{BOOING} 
+
+-- whether it's consumer protections or basic standards on what kind of insurance they sell, somehow market forces will make things better. Well, we've tried that. I'm concerned that would only give insurance companies more leeway to raise premiums and deny care. {APPLAUSE}
+
+So the bottom line is I don't believe we should give government or insurance companies more control over health care in America. I believe it's time to give you, the American people, more control over your own health insurance. {APPLAUSE}
+
+And that's why my proposal builds on the current system where most Americans get their health insurance from their employer. If you like your plan, you can keep your plan. If you like your doctor, you can keep your doctor. But I can tell you, as the father of two young girls, I don't want a plan that interferes with the relationship between a family and their doctor. So we're going to preserve that.
+
+Essentially, my proposal would change three things about the current health care system. Listen up. First, it would end the worst practices of insurance companies. Within the first year of signing health care reform, thousands of uninsured Americans with preexisting conditions would suddenly be able to purchase health insurance for the very first time in their lives, or the first time in a long time. {APPLAUSE}
+
+This year, insurance companies will be banned forever from denying coverage to children with preexisting conditions. {APPLAUSE} This year, they will be banned from dropping your coverage when you get sick. {APPLAUSE} And they will no longer be able to arbitrarily and massively hike your premiums -- just like they did to Leslie or Natoma or millions of others Americans. Those practices will end. {APPLAUSE}
+
+If this reform becomes law, all new insurance plans will be required to offer free preventive care to their customers starting this year -- free check-ups so that we can catch preventable illnesses on the front end. {APPLAUSE} Starting this year, there will be no more lifetime or restrictive annual limits on the amount of care that you can receive from your insurance companies. There's a lot of fine print in there that can end up costing people hundreds of thousands of dollars because they hit a limit.
+
+If you're a young adult, which many of you are, you'll be able to stay on your parents' insurance policy until you're 26 years old. {APPLAUSE} And there will be a new, independent appeals process for anybody who feels they were unfairly denied a claim by their insurance company. So you'll have recourse if you're being taken advantage of. {APPLAUSE} So that's the first thing that would change and it would change fast –- insurance companies would finally be held accountable to the American people. That's number one.
+
+Number two, second thing that would change about the current system is this: For the first time in their lives -- or oftentimes, in a very long time -- uninsured individuals and small business owners will have the same kind of choice of private health insurance that members of Congress get for themselves. {APPLAUSE} If it's good enough for Congress, it should be good enough for the people paying Congress its salary -- that's you. {APPLAUSE}
+
+Now, the idea is very simple here, and it's one -- {SPONTANEOUS-DEMONSTRATION} -- I'm sorry, go ahead. {APPLAUSE} Let me explain how this would work, because it's an idea that a lot of Republicans have embraced in the past. What my proposal says is that if you aren't part of a big group, if you don't work for a big company, you can be part of a pool which gives you bargaining power over insurance companies. It's very straightforward. Suddenly, just like the federal employees -- there are millions of them so they can drive a harder bargain with insurance companies -- you, as an individual or a small business owner, could be part of this pool, which would give you more negotiating power with the insurance companies for lower rates and a better deal. {APPLAUSE} Right?
+
+Now, if you still can't afford the insurance that's offered -- even though it's a better deal than you can get on your own, but you still just can't get it, then what we're going to do is give you a tax credit to do so. And these tax credits add up to the largest middle-class tax cut for health care in history. {APPLAUSE} Because the wealthiest among us, they can already afford to buy the best insurance there is; the least well off are already covered through Medicaid. It's the middle class that gets squeezed. That's who we need to help with these tax credits. {APPLAUSE} That's what we intend to do. {APPLAUSE}
+
+Now, I want to be honest. Let's be clear. This will cost some money. It's going to cost about $100 billion per year. Most of this comes from the nearly $2.5 trillion a year that America already spends on health care. It's just that right now a lot of that money is being wasted or it's being spent badly. So with this plan, we're going to make sure that the dollars we spend go to making insurance more affordable and more secure.
+
+So I'll give you an example. We're going to eliminate wasteful taxpayer subsidies that currently go to insurance and pharmaceutical companies. {APPLAUSE} They are getting billions of dollars a year from the government, from taxpayers, when they're making a big profit. I'd rather see that money going to people who need it. {APPLAUSE}
+
+We'll set a new fee on insurance companies that stand to gain as millions of Americans are able to buy insurance. They're going to have 30 million new customers; there's nothing wrong with them paying a little bit of the freight. And we'll make sure that the wealthiest Americans pay their fair share of Medicare, just like everybody else does. {APPLAUSE}
+
+So the bottom line is this: Our proposal is paid for. All the new money generated in this plan goes back to small business owners and individuals in the middle class who right now are having trouble getting insurance. It would lower prescription drug prices for seniors. {APPLAUSE} It would help train new doctors and nurses to provide care for American families and physicians assistants and therapists. I know there are -- got great programs here at Arcadia. {APPLAUSE} I was hearing about the terrific programs you have at Arcadia in the health care field. Well, you know what, we're going to need more health care professionals of the sorts that are being trained here, and we want to help you get that training. And that's in this bill. {APPLAUSE}
+
+So I've mentioned two things now: insurance reform and making sure the people who don't have health insurance are able to get it.
+
+Finally, my proposal would bring down the cost of health care for millions -– families, businesses, and the federal government. {APPLAUSE} As I said, you keep on hearing from critics and some of the Republicans on these Sunday shows say, well, we want to do more about cost. We have now incorporated almost every single serious idea from across the political spectrum about how to contain the rising cost of health care –- ideas that go after waste and abuse in our system, including in programs like Medicare. But we do this while protecting Medicare benefits, and we extend the financial stability of the program by nearly a decade.
+
+Our cost-cutting measures mirror most of the proposals in the current Senate bill, which reduces most people's premiums and brings down our deficit by up to $1 trillion over the next decade because we're spending our health care dollars more wisely. {APPLAUSE} Those aren't my numbers. Those aren't my numbers --they are the savings determined by the Congressional Budget Office, which is the nonpartisan, independent referee of Congress for what things cost.
+
+So that's our proposal: insurance reform; making sure that you can have choices in the marketplace for health insurance, and making it affordable for people; and reducing costs. {APPLAUSE}
+
+Now, think about it. I think -- how many people would like a proposal that holds insurance companies more accountable? {APPLAUSE} How many people would like to give Americans the same insurance choices that members of Congress get? {APPLAUSE} And how many would like a proposal that brings down costs for everyone? {APPLAUSE} That's our proposal. And it is paid for, and it's a proposal whose time has come. {APPLAUSE}
+
+The United States Congress owes the American people a final, up or down vote on health care. {APPLAUSE} It's time to make a decision. The time for talk is over. We need to see where people stand. And we need all of you to help us win that vote. So I need you to knock on doors. Talk to your neighbors. Pick up the phone. When you hear an argument by the water cooler and somebody is saying this or that about it, say, no, no, no, no, hold on a second. And we need you to make your voices heard all the way in Washington, D.C. {APPLAUSE}
+
+They need to hear your voices because right now the Washington echo chamber is in full throttle. It is as deafening as it's ever been. And as we come to that final vote, that echo chamber is telling members of Congress, wait, think about the politics -- instead of thinking about doing the right thing.
+
+That's what Mitch McConnell said this weekend. His main argument was, well, this is going to be really bad for Democrats politically. Now, first of all, I generally wouldn't take advice about what's good for Democrats. {LAUGHTER} But setting aside that, that's not the issue here. The issue here is not the politics of it.
+
+But that's what people -- that's what members of Congress are hearing right now on the cable shows and in the -- sort of the gossip columns in Washington. It's telling Congress comprehensive reform has failed before -- remember what happened to Clinton -- it may just be too politically hard.
+
+Yes, it's hard. It is hard. That's because health care is complicated. Health care is a hard issue. It's easily misrepresented. It's easily misunderstood. So it's hard for some members of Congress to make this vote. There's no doubt about that. But you know what else is hard? What Leslie and her family are going through -- that's hard. {APPLAUSE} The possibility that Natoma Canfield might lose her house because she's about to lose her health insurance -- that's hard. {APPLAUSE} Laura Klitzka in Green Bay having to worry about her cancer and her debt at the same time, trying to explain that to her kids -- that's hard. {APPLAUSE} What's hard is what millions of families and small businesses are going through because we allow the insurance industry to run wild in this country. {APPLAUSE}
+
+So let me remind everybody: Those of us in public office were not sent to Washington to do what's easy. We weren't sent there because of the big fancy title. We weren't sent there to -- because of a big fancy office. We weren't sent there just so everybody can say how wonderful we are. We were sent there to do what was hard. {APPLAUSE} We were sent there to take on the tough issues. We were sent there to solve the big challenges. And that's why we're there. {APPLAUSE}
+
+And at this moment -- at this moment, we are being called upon to fulfill our duty to the citizens of this nation and to future generations. {APPLAUSE}
+
+So I'll be honest with you. I don't know how passing health care will play politically, but I do know that it's the right thing to do. {APPLAUSE} It's right for our families. It's right for our businesses. It's right for the United States of America. And if you share that belief, I want you to stand with me and fight with me. {APPLAUSE} And I ask you to help us get us over the finish line these next few weeks. {APPLAUSE} The need is great. The opportunity is here. Let's seize reform. It's within our grasp. {APPLAUSE}
+
+Thank you very much, everybody. God bless. {APPLAUSE} 
+
+{/speech}

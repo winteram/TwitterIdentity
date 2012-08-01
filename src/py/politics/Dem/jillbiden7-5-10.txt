@@ -1,0 +1,29 @@
+﻿{title} Remarks by The First Lady and Dr. Biden to the Women's Leadership Forum Issues Conference {/title}
+{event} Leadership Forum Issues Conference {/event}
+{speaker} Jill Biden {/speaker}
+{date} May 7, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. {APPLAUSE} Thank you very much. Thank you, Denise, for that warm introduction. And thank you to the Women's Leadership Forum conference hosts and organizers who have worked so hard to make this event possible. It's great to be with you here today.
+It's been an incredible journey since the last time Michelle and I were with you in Chicago. {APPLAUSE} I remember being so inspired by the tremendous spirit of the amazing women in that room -- women who played a critical role in the 2008 election. There's no question that we would not be here today without each of your efforts. {APPLAUSE} No, I should thank you. {APPLAUSE}
+No doubt, many things have changed since October of 2008. But what brings us back here together today is our collective commitment to improving the lives of all Americans.
+And I can tell you, all over this country, every day, women are making extraordinary efforts to improve their lives and the lives of others.
+Last week, I met Carla Mannes at a community college meeting I was hosting in Arizona. Carla is a single mom who spent the last 25-plus years raising four children, working around the clock and successfully putting them through school. Over the years Carla tried to return to school herself, but the timing was never quite right.
+She confessed to me that she thought of herself as -- she didn't think of herself as very smart because she didn't have a degree, and the last 10 years have really been a difficult financial struggle for her and her family.
+Last summer, Carla gave it another shot and enrolled in classes at her local community college, this time with an undeniable passion and commitment to finish.
+Carla is on the path towards a degree in Social Work, and her goal is to mentor young women who feel unloved and discarded.
+Last semester, Carla earned a 4.0. {APPLAUSE}
+I also recently met two young women from California, Kaylei Deakin and Moranda Hern. Both are high school seniors and daughters of National Guardsmen.
+Together, they formed the “Sisterhood of the Traveling Battle Dress Uniforms” -- {LAUGHTER} -- I know, it's cute -- a support network for young women going through similar experiences of sadness and loss while their fathers and mothers are deployed. But that wasn't enough. They went on to organize a conference for daughters of military members, focusing on issues ranging from self-esteem, self-image, career plans, and relationships.
+I am profoundly moved by the women I meet, whether in my travels or in my classroom each day, by their determination to learn, and their quest to make a better life for themselves and their families.
+And, I know we are all here today because we believe in the efforts of this administration, along with the dedication of groups like WLF, will support these women and their families.
+And, speaking of incredible women, I am here to introduce a woman whom I am fortunate enough to call my friend, Michelle Obama. {APPLAUSE}
+I really believe that fate brought the two of us together, and I am so grateful to have the opportunity to partner with Michelle on many of the critical issues facing this country today.
+We all know that Michelle is a dedicated and devoted mother, wife, a brilliant lawyer, and a groundbreaking First Lady. In the short time we have been in office, she has opened up the White House to tens of thousands of Americans and given new meaning to the phrase: “the People's House.”
+Both domestically and on the world stage, she is a role model and mentor to women and men alike.
+Please join me in welcoming my dear friend, the First Lady of the United States, Michelle Obama. {APPLAUSE} 
+
+{/speech}

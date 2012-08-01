@@ -1,0 +1,71 @@
+﻿{title} Remarks by the President to the People of Warwick {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 9, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you so much. Thank you. Thank you, Senator Pell, Congressman Reed, Governor Sundlun. And thank you, ladies and gentlemen, for such a wonderful welcome. It's good to be back in Rhode Island and to see so many of you here. {APPLAUSE} 
+
+Governor Sundlun thanked me for our quick approval of Rhode Island's plan to extend health care to pregnant women and to young children. I thank him and the people of Rhode Island for putting this plan together. 
+
+Our administration has granted more initiatives for more states than any in history, but few as good as the one from Rhode Island to try to help the health care of your little children. And I congratulate you on that. {APPLAUSE} 
+
+I also want to say a special word of thanks to Senator Pell for his leadership of the Senate Foreign Relations Committee and his work with me on some of the most difficult issues of our time. In the last year, we have succeeded in opening up the United States in trade areas, investment areas, in ways that were literally not even thought of just a little while ago. 
+
+We also have continued our work to make the world safer. When I became President there were four countries in the former Soviet Union with nuclear weapons. Now three have agreed to give them up and are giving them up, and the nuclear arsenal in Russia is no longer pointed at the United States, nor are our missiles pointed at them. I thank Senator Pell for his support of that. {APPLAUSE} 
+
+Finally, I want to thank your Congressman for his leadership in the Goals 2000 legislation that I signed a few weeks ago, which establishes national standards for our public schools, and supports grass-roots reforms to achieve those standards for the first time in American history; and for his courage in leading the United States House of Representatives to vote to ban the 19 serious assault weapons that are used for killing people on our streets. {APPLAUSE} 
+
+I want to thank your Lieutenant Governor, your State Treasurer, your Attorney General, the State Democratic Chairman and the Mayor of Providence Lincoln Chafee -- all of them for being here today. What? 
+
+{OTHER-SPEAK} The Mayor of Warwick. {/OTHER-SPEAK} 
+
+The Mayor of Warwick -- I'm sorry. 
+
+{OTHER-SPEAK} He's John Chafee's son. {/OTHER-SPEAK} 
+
+Yes -- the Governor says he's John Chafee's son -- I know that. And I want to thank John Chafee for having a health care bill that covers all Americans. I'm going to work with them and we're going to have a bipartisan health care reform this year if I can possibly get it done. {APPLAUSE} 
+
+Ladies and gentlemen, I ran for President because I wanted to change the country, working with you; because I wanted it moved beyond the politics of gridlock in Washington -- all the partisan rhetoric, all the arguing over left and right; all the politics of delay and distraction and destruction -- to try to move this country forward again and pull our country together again. I thought we could do it with three simple words: a commitment to opportunity for all Americans; and insistence on responsibility from all Americans; and a belief that we were one community, that we are all in this together. 
+
+I thought we could do it be rebuilding the value of work and the strength of our families, by pulling together at the national level and at the grass roots. And we have made a good beginning. 
+
+Last year, in a very tough fight, the United States Congress had the courage to pass our economic program which brought down the deficit, kept interest rates down, got investments up. I'm happy to report that in the first four months of this year, we've seen a million new jobs come into this economy -- three million in all in the first 15 months of this administration. {APPLAUSE} Eight thousand new jobs in Rhode Island -- the first job growth in four years in this state. {APPLAUSE} We are well on our way to meeting our goal of eight million jobs in this four-year period. 
+
+We also, if the Congress passes the budget I have presented this year, will not only increase funding for education, training, technology and medical research, we will reduce overall domestic spending and defense spending for the first time since 1969. And we will have three years of reduction in the deficit for the first time since Harry Truman was President. No more rhetoric; action for the American people. {APPLAUSE} 
+
+Our administration is breaking new ground in education. We've reformed the college loan program to lower interest rates and to improve the repayment schedule for our young people. We passed the bill to have national standards for schools. We passed a bill to set up a network in every state in the country for the young people who graduate from high school who don't go on to four-year colleges, but do need further education and training. And we are going to reform the unemployment system in this country to make it a reemployment system. And we're going to change the welfare system to end welfare as we know it. We can do these things if we keep working ahead. {APPLAUSE} 
+
+I'm proud of the work our administration has done to strengthen the American families that are out there struggling to make ends meet and raise their children with the Family and Medical Leave Act, with the earned income tax credit increase in this year's tax year which will dramatically enable more and more working people on modest wages to stay out of poverty, to stay off welfare by cutting their taxes. One in six working families in America will be eligible for a reduction in income taxes this year, so they can support their children and be successful workers at the same time. That is the kind of thing we ought to be doing in this country. {APPLAUSE} 
+
+Finally, let me say we are trying to rebuild the bonds of the American community in many ways, but with two great initiatives. The first one you can see by the signs over here: The National Service Program. {APPLAUSE} Ladies and gentlemen, this fall when school starts, 20,000 young Americans will be eligible to earn money for furthering their education after high school by working at the grass-roots level in their communities in programs to solve the problems of America at the grass roots. National service will sweep America. The year after next, we will have 100,000 young Americans earning money on their education, solving the problems of America at the grass-roots level. {APPLAUSE} 
+
+The other thing we're trying to do, which will be done in a few weeks to strengthen our American communities is to pass the most sweeping, most effective, most comprehensive crime bill in the history of the United States: 100,000 more police officers for our streets, innovative forms of punishment, real funds for prevention to help our young people avoid crime, to have something to say yes to as well as something to say no to. And, finally, after that tough battle, finally a ban on those assault weapons which are meant to kill people, not go hunting with. {APPLAUSE} 
+
+My fellow Americans, we are changing the landscape in America by moving beyond rhetoric to reality in dealing with the real problems and the real opportunities of the real people in this country. {APPLAUSE} But we will never do what we need to do to rebuild community, to support family, to have a responsible budget and to build a responsible future until we guarantee health care security to all the American people. {APPLAUSE} 
+
+We are spending 40 percent more on health care than any other country in the world. We are the only advanced country in the world that does not cover all of its citizens. We have 100,000 Americans a month losing their health insurance for good. We have 58 million Americans in any given year who don't have health insurance part of the year. We have 81 million Americans who live in families where there is a child with diabetes, a mother with premature cancer, a father with an early heart condition, and they can never get health insurance or they pay more than they can afford, or they can never change their jobs because of the cursed preexisting conditions which are paralyzing family life for tens of millions of Americans. {APPLAUSE} Three quarters of American people have health insurance policies that have lifetime limits so that if anything should happen to them or their children, when they need it most they might lose their coverage. 
+
+Small businesses pay 35 to 40 percent more for their health insurance premiums than those of us insured by government or big business. My fellow Americans, no one can justify an administrative system which costs tens of billions of dollars in sheer paperwork more than any other system in the world. Why? Because we are the only country in the world that has -- in spite of the best doctors, the best nurses, the best health care, the best research and the best technology -- 1,500 separate companies writing thousands and thousands and thousands of policies on little bitty groups, and employing hundreds of thousands of people in doctors' offices and hospitals and insurance companies to see who is not covered and what is not covered. We are spending billions of dollars to figure out how not to provide health care to our people, when we ought to be covering all Americans. If other countries can do it, the United States can do it as well. {APPLAUSE} 
+
+Our goal is simple. By the end of the year, I expect to sign a law that guarantees Americans -- every American -- private health insurance that can never be taken away. {APPLAUSE} 
+
+My wife and I have received about a million letters from people all over the country. They're people just like those of you in this audience. They may be some of you in this audience. Most of them aren't organized in any way, so they can't make their voices heard in Washington. But they're out there in every community and every workplace. I received a letter from Anthony Catuto and his wife, a young disabled couple whose Medicare coverage doesn't pay for the prescription drugs they need. They come from Rhode Island, and they just met me on the tarmac. They deserve the ability to take care of their children. {APPLAUSE} 
+
+I just met, out there on the tarmac, a relatively new resident of Rhode Island, Anne Hood, and her wonderful child. She was a self-employed writer from New York. And when she and her husband moved to Providence and had a baby, her insurance company dropped her coverage without even letting her know. 
+
+Let me tell you -- let me tell you, I'm going to wait for the plane to go by. {LAUGHTER} I just met three people in New York who had written me these letters. One of them, no health insurance for their child; another with a dangerous medical diagnosis, not pursuing the diagnosis even though it could be a life-threatening illness because they had no health insurance. 
+
+I was in Columbus, Ohio, the other day. I met a wonderful woman who ran a delicatessen with 20 part-time employees and 20 full-time employees. And she said, I am the embodiment of everything that is not right with this system, and I have a good insurance person who's done a good job of giving me the most inexpensive insurance they can get. I had cancer five years ago. I insure my full-time employees. We pay way too much in our deductibles, and our co-pays are too high. I cannot afford to insure my part-time employees. I feel guilty that I don't insure my part-time employees, and I'm mad that none of my competitors insure their full-time employees. I'm paying for them, as well as for my own. We can do better. 
+
+Hundreds and hundreds of businesspeople have told me that sort of thing. Today, in New York, I was in the 10th largest retail grocery chain in the United States of America, and every one of their employees has comprehensive health benefits. And they said, if we can do it, why can't all the other people in our business? That's the kind of attitude we need in this country -- people taking responsibilities for themselves, their employees and their future. {APPLAUSE} 
+
+Ladies and gentlemen, this is not going to be easy. Six Presidents have tried over 60 years to solve the health care crisis in America, and we have not done it. But this year we can do it with the same kind of courage that finally turned the deficit around; with the same kind of courage in the Congress that finally took on the interest groups for the assault weapons ban; with the same kind of courage that broke a seven-year deadlock for family and medical leave, a seven-year deadlock for the Brady Bill, a five-year deadlock on this crime bill. Let's do it in one year for health care, and finally put this issue behind us. 
+
+Thank you very much, and God bless you all. 
+
+{/speech} 

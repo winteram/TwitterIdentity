@@ -1,0 +1,28 @@
+﻿{title} President Bush and Prime Minister Martin's Remarks in An Exchange of Toasts {/title}
+{event} Canadian Museum of Civilization, Ottawa, Canada {/event}
+{speaker} George W. Bush {/speaker}
+{date} November 30, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. {APPLAUSE} Thank you very much. {APPLAUSE} Thank you all very much. Thank you. {APPLAUSE} The Prime Minister just said, it's good to be home. I'm here to tell you, it's good to be in Canada. {APPLAUSE} I want to thank you for the warm reception, and I was pleased to see when I opened up the menu that we'll be eating Alberta beef. {APPLAUSE}
+
+Mr. Prime Minister, Madam First Lady, former Prime Ministers, distinguished leaders of Canada, distinguished guests, and ladies and gentlemen, Laura and I are really honored to be here in this great nation. Canada is an old friend. Canada is an honored ally of America. {APPLAUSE}
+
+On this magnificent museum's coat of arms is a motto: Many cultures in one country. In your nation, and in mine, people of many cultures, races, and religions embrace a set of ideals that proclaim the liberty and equality of all. These principles are the source of great unity in our diverse lands. And they are the foundation of a close and warm friendship between our two nations.
+
+Our common bond of values and mutual respect have created an alliance that is unsurpassed in strength and depth and potential. {APPLAUSE} Ours is one of the largest trading relationships in the world. We depend on each other to secure the energy resources that help our economies expand. We work together to protect the land and waters of our beautiful continent. Most importantly, our nations work together to protect our people from harm.
+
+For nearly 50 years, the military personnel of your nation and mine have worked together as a single unit at NORAD to monitor the air approaches to North America, and to protect us from attack. On September the 11th, it was a Canadian general, holding the chair at NORAD, who gave the order to initiate our defenses. In an era of new threats, American and Canadian law enforcement and intelligence agencies are working more closely than ever before, and our peoples are more secure because of it. {APPLAUSE}
+
+We also share the mission of spreading the blessings of liberty around the world. In October of this year, millions of Afghans, including millions of women, voted peacefully to elect a leader of moderation. We're working together for stability and prosperity in Haiti and the Sudan. With Canada's generous contribution, the reconstruction of Iraq will help that nation become a peaceful democracy.
+
+Our efforts in these troubled regions are driven by our faith -- faith in the ability of liberty to unite different cultures, races and religions; and faith in the ability of liberty to lift up people, to offer an alternative to hate and violence, and to change the world for the better. {APPLAUSE}
+
+And so, Mr. Prime Minister, in admiration for all you've done to create a world governed by liberty and justice and friendship, I offer a toast to you, to the people of Canada, and to the friendship of our two peoples.
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

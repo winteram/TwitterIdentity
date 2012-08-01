@@ -1,0 +1,77 @@
+﻿{title} President Bush Meets with Military Personnel at Fort Campbell {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} March 18, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+I'm glad to be back. {APPLAUSE} Thanks for having me. {APPLAUSE} Thanks for inviting Laura. {APPLAUSE} I am proud to be here once again with the Screaming Eagles of the 101st. {APPLAUSE} With the Green Berets of the 5th Special Forces group. {APPLAUSE} And with the Night Stalkers. {APPLAUSE} 
+
+Many of you have seen action in the global war on terror. Some of you have just returned to Fort Campbell from your deployments. Thank you for a job well done. Welcome home. {APPLAUSE} 
+
+Laura and I are honored to be with all the personnel at Fort Campbell, and with all the family members who live here. Each one of you serves our nation by giving your love and support to our soldiers. Here, at one of America's vital military bases, you've built a strong community of people who care about each other, and share the challenges and rewards of army life. America is grateful. America is proud of our military families. {APPLAUSE} 
+
+All who serve at Fort Campbell, and all who wear the uniform of the United States are serving at a crucial hour in the history of freedom. In the first war of the 21st century, you're defending your fellow citizens against ruthless enemies, and by your sacrifice, you're making our country more secure. {APPLAUSE} You have delivered justice to many terrorists, and you're keeping the rest of them on the run. {APPLAUSE} You've helped to remove two of the most violent regimes on Earth. With daring and skill and honor, you've held true to the Special Forces motto: To liberate the oppressed. {APPLAUSE} 
+
+America is indebted to you. And we're also indebted to the men and women of the National Guard and the Reserves who are serving abroad, and those called up for homeland security assignments. Hundreds of Guard and Reserve units across America have been activated in this time of war. These fine citizens and their families and their employers have put duty first. And our nation is grateful to them, as well. {APPLAUSE} 
+
+We've got a lot of veterans with us today, veterans who have served our Armed Forces worldwide and who now live near Fort Campbell. Thank you for the great example you've set for today's soldiers. Thank you for your service to our nation. 
+
+I want to thank General Petraeus for being such a strong leader and a good man. {APPLAUSE} I want to thank General Ellis for being with us today -- oh, I forgot. I want to thank Holly Petraeus, as well. She has done a -- {APPLAUSE} She deeply cares about the men and women from this base. It's clear when you talk to her, she's got a lot of love in her heart. 
+
+General Ellis is with us, Commanding General of the U.S. Armed Forces Command. General Ellis, thank you for being here. Today I traveled down from Washington with two members of the United States Congress who care a lot about the people stationed at Fort Campbell and who live around the Fort Campbell area. That would be Congressman Ed Whitfield from Kentucky and Congresswoman Marsha Blackburn from Tennessee. Thank you all for coming. {APPLAUSE} 
+
+Laura and I regret the fact we didn't get here in time for the entertainment. We want to thank Lane Brody and Mark Wills and Darryl Worley and Jaci Velasquez, for your work, your care, and your support of the United States military. {APPLAUSE} 
+
+I had the privilege of saying hello to a fellow named Billy Colwell. Billy has, by the way, served for 20 years in the 101st. He served our nation during two tours of duty in Vietnam. You're probably wondering why I'm bringing up Billy. I'll tell you why. A lot of times, people say, well, America is strong because of our military. And that's one reason we're strong, and by the way, we're going to keep our military strong. {APPLAUSE} Or they say, well, we're strong because we've got a great economy. And the economy is strong and it's getting stronger. But the true reason we're strong is because of the hearts and souls of the American people. That's why we're strong. We're a compassionate, decent country, where neighbors care for neighbors. 
+
+Billy volunteers at the Fort Campbell YMCA. He takes time out of his life to help junior enlisted officers, or people who are getting deployed. Billy is there to help welcome people home, and to wish people well as they leave. Billy takes time out of his life to love a neighbor, just like you would like to be loved yourself. No, the strength of this country is the fact that we've got citizens from all walks of life who care deeply about our fellow citizens. 
+
+Billy, thank you for your service. Thank you for what you do. {APPLAUSE} 
+
+Fort Campbell was the first army post I visited in the weeks after our country was attacked. It was around Thanksgiving. I will never forget eating turkey with the Screaming Eagles. {APPLAUSE} I remember telling you that the men and women of Fort Campbell -- that you once again had a rendezvous with destiny. That's what I said when I was here last. And when the orders came, you carried out your missions. You made history once again. 
+
+Since we last met, you deployed over 5,000 vehicles, 254 aircraft, and 18,000 soldiers in Kuwait, in the fastest deployment in the history of the 101st. {APPLAUSE} Since we last met, the 101st liberated the cities of Najaf, Karbala, and Hilla. You secured southern Baghdad, and sent 1,600 soldiers by helicopter to Mosul, in the longest air assault in military history. {APPLAUSE} 
+
+Since we last met, the sons of the dictator went into hiding, until they were found and dealt with by the 101st and Special Operations. {APPLAUSE} Since we last met, soldiers from Fort Campbell have helped to organize the first truly free local election in Iraq in 30 years. {APPLAUSE} Since we last met, you helped to build medical clinics and to rebuild schools. By your decency and compassion, you are helping the Iraqi people to reclaim their country. Because you care, you're helping the Iraqis live as free people. {APPLAUSE} 
+
+One year ago tomorrow, the Armed Forces of the United States entered Iraq to end the regime of Saddam Hussein. After his years of defiance, we gave the dictator one final chance. He refused. And so in one year's time, Saddam Hussein has gone from a palace, to a bunker, to a spider hole, to jail. {APPLAUSE} 
+
+Because America and our allies acted, one of the most evil, brutal regimes in history is gone forever. The dictator of Iraq committed many atrocities and he had many more in mind. This was a regime that tortured children in front of their parents. This was a regime that used chemical weapons against whole villages. This was a country in which millions of people lived in fear, and many thousands disappeared into mass graves. That was the life in Iraq for more than a generation, until the Americans arrived. {APPLAUSE} Because America and our allies acted, a state sponsor of terror was put out of business. The Iraqi regime gave cash rewards to the families of suicide bombers and sheltered terrorist groups. But all that's over. When Saddam Hussein went down, the terrorists lost an ally forever. {APPLAUSE} Because America and our allies acted, an aggressive threat to the security of the Middle East and to the peace of the world is now gone. 
+
+September the 11th, 2001 taught a lesson I will never forget. America must confront threats before they fully materialize. In Iraq, my administration looked at the intelligence information, and we saw a threat. Members of Congress looked at the intelligence, and they saw a threat. The United Nations Security Council looked at the intelligence, and it saw a threat. I had a choice to make, either take the word of a madman, or take such threats seriously and defend America. Faced with that choice, I will defend America every time. {APPLAUSE} 
+
+Because America and our allies acted, it is clear to everyone, when America makes a pledge, we keep our word. By speaking clearly, by speaking consistently, and by meaning what we say, it is more likely the world will be more peaceful. Because America and our allies acted, all the world is now seeing democracy rising in the heart of the Middle East. A year ago, Iraq was ruled by the whims of one cruel man. Today, Iraq has a new interim law that guarantees basic rights for all: freedom of religion, the right to cast a secret ballot, and equality under the law. And these historic changes are sending a message across the region from Damascus to Tehran: Freedom is the future of every nation. {APPLAUSE} 
+
+The Iraqi people are achieving great things and serving and sacrificing for their own future. Today, more than 200,000 Iraqis, including 78,000 new police, are protecting their fellow citizens. They're building a country that is strong and free, and America is proud to stand with them. All over Iraq today, as that nation moves closer to self-government, Iraqis can be certain that in the United States of America, they have a faithful friend. And our military -- and in our military, they're seeing the good heart of America. 
+
+They see people like PFC Amanda Thompson Cummings, who volunteered to serve in Iraq. She's an Army cook who also works on security patrol. She said this to a reporter: "They know I can shoot. I'm one of the best in my battalion. But, hey, I'm a redneck, what do you expect?" {LAUGHTER ; APPLAUSE} Those are her words, not mine. {LAUGHTER} 
+
+This soldier also describes how the children of Iraq look at her, especially the young girls. As Amanda puts it, "When those girls look at a female soldier, they think, maybe I can be something, too." PFC Cummings says, "We made a difference in their lives. And their faces, when they look at us, that made it all worthwhile right there." 
+
+Soldiers of Fort Campbell, every one of you is making a difference. You've seen hard duty, and the defense of freedom is always worth it. Because of your service, because of your bravery, because of your dedication, the world is better off and the American people are more secure. {APPLAUSE} 
+
+You have done your duty. America owes those who do their duty, our military, our gratitude. We owe you more than gratitude. We also owe you the material support you need to do your job. As Commander-in-Chief, I've been proud to sign into law three pay increases for the military. {APPLAUSE} You deserved every one. We've increased support for base housing and schools. We have a duty in Washington, D.C. to make sure our families are taken care of. {APPLAUSE} 
+
+Our military has had strong supporters in the House and the Senate. I want to thank the Congress for standing up. I want to thank every member of Congress who voted in favor of the $87 billion supplemental that is meeting the needs of our troops in the field right now. {APPLAUSE} When your government gives you a mission, we must accept serious responsibility of our own. And here's my pledge: I'll work to make sure you have every resource and every tool you need to fight and win the war on terror. {APPLAUSE} 
+
+The war continues. It's a different kind of war, but it goes on. As we saw again yesterday, the terrorists are fighting desperately to undermine Iraq's progress toward freedom. That attack showed once again the cruelty of our enemies. The terrorists and Baathist holdouts know that a free and stable Iraq will be a major defeat to the cause of hatred and terror. They can't stand the thought of a free society. They know that the rise of democracy and hope in the Middle East will mean the decline of their appeal and influence. So the terrorists understand that Iraq is the central front in the war on terror. They're testing our will. And, day by day, they are learning, our will is firm, their cause will fail. We will stay on the offensive. Whatever it takes, we will seek and find and destroy the terrorists, so that we do not have to face them in our own country. {APPLAUSE} 
+
+Not long ago, we intercepted a planning document being sent to the leaders of al Qaeda by a terrorist named, Zarqawi. He's in Iraq. Along with the usual threats, he had a complaint. "Our enemy," said Zarqawi, "is growing stronger, and his intelligence data are increasing day by day. This is suffocation." Zarqawi is getting the idea. For the terrorists in Iraq, we're making sure there is less oxygen every day. {APPLAUSE} 
+
+The terrorists hate and target a free Afghanistan and a free Iraq. They also hate and target every country that stands for democracy and tolerance and freedom in the world. The murderers in Madrid have revealed once again the agenda and the nature of the terrorist enemy. They kill the innocent; they kill children and their mothers on a commuter train, without conscience, without mercy. They cause suffering and grief and they rejoice in it. This terrorist enemy will never be appeased, because death is their banner and their cause. 
+
+There's no safety for any nation in a world that lives at the mercy of gangsters and mass murderers. Eventually, there's no place to hide from the planted bombs, or the far worse, weapons that terrorists seek. For the civilized world, there's only one path to safety: We will stay united, and we will fight until this enemy is broken. {APPLAUSE} 
+
+The United States is committed to defeating terrorism around the world. It's a solemn commitment. We lead in this cause; we're fighting in this cause; and we are sacrificing in this cause. The 101st Airborne has known greater losses than any other division-sized unit. Each of these Americans brought pride to our country. We pray for their families. We will honor their names forever. {APPLAUSE} 
+
+The 101st Airborne Division has earned its place in the history of our country. Sixty years ago, on the night before D-Day, General Eisenhower went down to the airfield where the 101st was loading into C-47s for their flight to Normandy. Eisenhower told the men not to worry because they had the best leaders and equipment. One of them looked at him and said, "Hell, General, we ain't worried. It's Hitler's turn to worry." {APPLAUSE} That spirit carried the American soldier across Europe to help liberate a continent. It's the same spirit that carried you across Iraq to set a nation free. {APPLAUSE} 
+
+Like your fathers and grandfathers before you, you have liberated millions from oppression. You've added to the momentum of freedom across the world. You have helped keep America safe. You make us all proud to be Americans, and you have made me proud to be your Commander-in-Chief. {APPLAUSE} 
+
+May God bless you, and may God continue to bless the United States. Thank you all. {APPLAUSE}
+
+{/speech} 

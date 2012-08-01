@@ -1,0 +1,41 @@
+﻿{title} Speech at Cleveland State University in Ohio {/title}
+{event} ----- {/event}
+{speaker} Al Gore {/speaker}
+{date} September 6, 2000 {/date}
+{source} http://www.pbs.org/newshour {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+I'm here today, in America's heartland, to talk specifically, concretely, about an issue that lies at the heart of America's progress in the years ahead-- a growing economy that enriches all our families. And I'm releasing this new economic plan here in Cleveland today, and I'm doing it because 
+
+I don't want you to have to read the tea leaves, or read between the lines of a press release or position paper, to know exactly what a Gore-Lieberman administration would mean for families. Today I am setting out, in black and white, ten goals for the future of America's economy, and the specific steps that we will take to achieve these goals. 
+
+First of all, let's make Social Security financially sound into the second half of this new century -- {APPLAUSE} -- and make Medicare financially sound for at least another 30 years. {APPLAUSE} 
+
+Second, second, let's double the number of families with family savings over $50,000. We can do it. 
+
+Third, let's also take specific steps that will raise real family incomes by one-third, so families can not only save more but also earn more. And let's lift millions out of poverty, so that within the next four years -- {APPLAUSE} -- here is the specific goal, within the next four years, fewer than one in ten Americans will live in poverty. Isn't that a worthy goal? Let's reach the lowest level of poverty in recorded history during the next four years. {APPLAUSE} 
+
+Fifth, let's cut the wage gap between men and women. In fact, let's cut it in half. {CHEERS ; APPLAUSE} And then let's keep going until we achieve the ideal of an equal day's pay for an equal day's work. {CHEERS ; APPLAUSE} 
+
+Sixth, let's enable seven out of ten Americans to own their own homes, a new record high. Let's raise employment levels, by adding ten million new high- tech, high-skilled jobs across every sector of our economy, while making the new investments that also protect our environment. 
+
+Eight, let's fight for and win targeted tax cuts for middle-class families, so that within two years -- {APPLAUSE} -- a typical family, within two years, will have the lowest tax burden in half a century. Let's open the doors to college wider than ever before, with a specific goal that three- quarters of all high school graduates will be attending college, and half will go on to graduate from college. {APPLAUSE} 
+
+
+Now... and, as we do these things, let's reduce the national debt year after year, every single year, until it is completely eliminated by the year 2012. {APPLAUSE} 
+
+In fact, I am proposing to go even further than a balanced budget that pays down our national debt each year. The other side believes it's okay to spend more than the entire surplus, and then hope the economy does far better than anyone expects, so the numbers will somehow add up. Well, Joe Lieberman and I have a different approach. 
+
+Today, I am announcing that we will under spend the surplus, rather than over promise our way into an economic hole. Our approach is simple common sense. Our national government should do what so many families have done for years, namely, set aside some money for a rainy day, to be absolutely certain that we never spend money that we don't have. {APPLAUSE} 
+
+
+Again, let me be specific: I propose to take one out of every six dollars of the budget surplus, and put it aside, so that it will not be used for new spending. It will not be used for new tax cuts. It will not be spent on promises or proposals of any kind. So if today's economic forecasts fall short, this new reserve fund will guarantee that even if they do fall short, we will not have to cut education or health care. {APPLAUSE} 
+
+And unlike the promises made on the other side, we will not be running deficits or endangering America's prosperity. My plan wasn't built on the cross-your-fingers economics that says we can give more to the people who already have the most, and then just hope that the benefits trickle down to the middle-class. 
+
+The Gore-Lieberman economic plan has one guiding purpose: To help the middle-class families who have always been America's purpose and pride, the people who pay the taxes, bear the burdens, and live the American dream {APPLAUSE} -- the people who create the jobs, drive our economy, and just need a little more opportunity to achieve what they want for their families. That's who I'm fighting for in this election. And that's who I'll work for each and every day if you elect me President of the United States of America. {APPLAUSE} 
+
+{/speech} 

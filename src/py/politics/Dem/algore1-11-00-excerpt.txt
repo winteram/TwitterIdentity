@@ -1,0 +1,16 @@
+﻿{title} On Social Security {/title}
+{event} ----- {/event}
+{speaker} Al Gore {/speaker}
+{date} November 1, 2000 {/date}
+{source} http://www.pbs.org/newshour {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+So often, too many people think of Social Security as a budget program or a program that's only for seniors, when actually Social Security is so much more than that. It embodies our values as a people. It links each American generation to the next with commitments of love and caring. Social Security is how we care for our mothers and fathers. It's how we give younger workers a bedrock of retirement savings that they can build on no matter what. It is a compact. It is a sacred trust. {CHEERS ; APPLAUSE} And it truly is a compact that makes all our families stronger and undergirds the financial security of each generation in every family. My opponent talks about a commitment to today's retirees, but let's be clear on this. Soothing words don't pay the rent, much less buy prescription medicine. {CHEERS ; APPLAUSE} And even the sharpest campaign sound bite cannot bring into focus fuzzy conclusions that flow from fuzzy math. {CHEERS ; APPLAUSE} I'm going to tell it like it is. He... Governor Bush is promising to take a trillion dollars out of Social Security, and he's promising it to younger workers for investments in private accounts. And to many, that sounds pretty good, but the problem is, that's the same money that he's promising to seniors to pay their current benefits. The "Wall Street Journal" looked at his plan and concluded that he couldn't possibly keep both promises. So which promise is he going to break? Who gets left out or left behind? The American Academy of Actuaries looked at his plan and concluded that it would lead to catastrophic results in these financial matters. He said that he... I heard him last night. He said he rejects their premise. Well, which premise, addition or subtraction? {CHEERS ; APPLAUSE} Eight Nobel-prizewinning economists looked at his plan and said the numbers just do not add up. When he was asked to clarify how he could possibly make his numbers add up, Governor Bush refused and said that he would provide additional details after the election. That's fine; we're going to win Florida and it won't matter. {CHEERS ; APPLAUSE} 
+
+With your help, we are going to win Florida. You know, you might say that on Tuesday, six days from now, Social Security itself is on the ballot. You will vote and you will choose, and I ask you to save Social Security when you vote on Tuesday. It is very much on the ballot. Governor Bush often says you should support him because he'd get along with people in Washington. And that's all well and good. We need less partisanship in Washington. But the real question is, who is it that he wants to get along with? {CHEERS ; APPLAUSE} The special interests? The special interests who don't need Social Security and are perfectly happy to see it drained away? The HMO's, the insurance industry, the oil companies, the drug companies? Sometimes a President has to stand up and say "no" so that our families can have a better life. {CHEERS ; APPLAUSE} 
+
+
+{/speech} 

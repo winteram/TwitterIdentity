@@ -1,0 +1,26 @@
+﻿{title} Vice President and Mrs. Cheney's Remarks in Sioux City, Iowa {/title}
+{event} Sioux City Convention Center, Sioux City, Iowa {/event}
+{speaker} Lynne Anne Vincent Cheney {/speaker}
+{date} October 28, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, thank you all so much. Please have a seat. Thank you for that warm welcome. It is such a pleasure to be here in Iowa. I'm sorry --
+
+{COMMENT="Technical difficulties"} 
+
+Now try it. It is a pleasure to be here, just have to smack this mike every once in a while. What a beautiful day -- is it always 71 degrees in Sioux City at this time of year? {LAUGHTER ; APPLAUSE} 
+
+Well, as Dick and I travel across the country and we see beautiful places, like the place where you live, you're all so lucky to live here, beautiful blue skies and great schools. I've been interested in education for so long I know how good your schools are and how proud you are.
+
+I think as Americans, we have so much to be proud of. And sometimes I think I should make a list of everything we need to be proud of. If I were doing it today, right at the top of my list would go our President, George W. Bush. {APPLAUSE}
+
+He has been a magnificent leader for us these past four years, and if you don't mind my saying so, the Vice President is no slouch either. {APPLAUSE}
+
+Well, I get to introduce Dick. And I've had the pleasure of doing this all across the country, I've been given this assignment because I have known him for so long. {LAUGHTER} I have known him since he was 14 years old, and his job that summer was sweeping out the Ben Franklin store in our home town, Casper, Wyoming. And I've known him through many a job since. I've known him since he was digging ditches at the Central Wyoming Fair and Rodeo Grounds. And I've known him since he was loading bentonite -- 100-pound sacks of bentonite onto railroad cars. And I've known him since he was building power line all across the West to pay his way through school. And I like to tell about those jobs because when you grow up working hard, you learn some really important lessons. And one of them is how important it is for the hard working people of this country to get to keep as much of their paychecks as possible. {APPLAUSE}
+
+Well, I'm a mom and I'm a grandma. I don't see too many grandmas here today, actually. Oh, oh, good -- there is grandma power here. I'm glad to know that. But I think there are so many issues in this election that are important to me, and I suspect it's true for you, too, but when I think about it, the first thing I think about are my kids and my grandkids, and having them be safe, and having them be secure. And you all know as well as I do, as well as anybody does, that the terrorists will try to come after us again. They will try. So the question I ask myself is, who do I want standing in the doorway, who do I want protecting us when that happens. And I'll tell you it is not John Kerry. And It is not John Edwards. It is George Bush. {APPLAUSE} And it George Bush, and it is my husband, Dick Cheney, the Vice President of the United States. {APPLAUSE} 
+
+{/speech}

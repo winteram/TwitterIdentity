@@ -1,0 +1,52 @@
+﻿{title} Mrs. Bush's Remarks at a Preserve America Event {/title}
+{event} Cannon House Office Building, Washington, D.C. {/event}
+{speaker} Laura Bush {/speaker}
+{date} March 9, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+It's great to be here on Capitol Hill, one of our nation's most historic places, to recognize communities that honor their history and their heritage. Preserve America now has three separate programs to help communities preserve their past and promote heritage tourism.
+
+Today, we recognize the newest Preserve America Communities, the first Preserve America Neighborhoods, and the first Preserve America Grant recipients.
+
+I want to recognize Secretary Norton, Secretary of the Interior. Thank you very much, Madam Secretary. Thanks for everything that you've done. We really, really appreciate your good work. And especially to our co-hosts, Congressman Michael Turner and Congressman Brad Miller. These men are the founders and chairs of the Congressional Historic Preservation Caucus, and thanks very much to both of you. {APPLAUSE}
+
+I want to also recognize the other members of Congress that are here with us in the hall; two congressional members will be receiving the awards for their communities, as well. Lynn Scarlett, the Deputy Secretary of the Interior and the co-chair of the Preserve America Steering Committee is here with us. Where is Lynn? Maybe she isn't here with us. John Nau, Chairman of the Advisory Council on Historic Preservation, thank you very much, John. {APPLAUSE} Fran Mainella, the Director of the National Park Service; Fran is here. {APPLAUSE} Many historic communities are also lucky enough to have a national park in their neighborhood that we all treasure. We treasure our national parks everywhere. I also want to recognize Alan Hantman, the Architect of the Capitol. {APPLAUSE}
+
+Congressman Miller talked about what it was like to come to work here every day in one of the most historic places in our whole country. And certainly I feel that every single day, having the privilege to live in the White House, to live in those and walk the halls of those very same rooms that every one of our presidents lived in, except for our first, because, of course, the White House wasn't built until John Adams was President, although President Washington picked the site for the house -- to live with the furnishings and the art and all of the things that belonged to different presidents. Of course, we have the Lincoln Bedroom, with all the Lincoln furniture. In the President's upstairs office, the Treaty Room, he has a desk that belonged to many, many presidents. He has furniture that belonged to Grant.
+
+And really, in every single room of the White House, there are pieces of furniture or paintings that remind us of other presidents and other presidents' families, which then reminds us of all the challenges that our country has faced over the years, and the way we've overcome those challenges, and how crucial each time in our history has been as we now look at the challenges that we face at this very important historic time in our nation, as well.
+
+I want to welcome all the officials and the volunteers from communities and historic preservations and organizations across America. You bring educational, cultural and economic benefits of preservation to your communities and your states and our nation, and we're grateful for that.
+
+In January, 2004, we announced the first eight Preserve America Communities. And since then, more than 362 communities have been designated in 46 states. Today, we recognize 14 new Preserve America Communities, and we expect hundreds more of our communities to join their ranks in the coming years.
+
+Preserve America also has two new components -- Preserve America Community Neighborhoods and Preserve America Grants -- the first of which are being announced today.
+
+Last July, we met in Nashville, Tennessee, to announce the Preserve America Community Neighborhood program and to open the application process. The United States has 90 metropolitan areas with 200,000 or more residents. These areas are essentially collections of neighborhoods, many of them former rural towns or historic suburbs that were absorbed into a larger urban government. Distinct historic neighborhoods in these urban areas can now become Preserve America Community Neighborhoods -- not in competition with their larger urban area but in partnership with it.
+
+The first five Preserve America Community Neighborhoods are represented here. I'm especially pleased that The District in Nashville, where we made the announcement last summer, took up our challenge and is one of the areas we recognize today.
+
+The citizens of Nashville do a great job of preserving and promoting their heritage. The Shelby Street Bridge, completed in 1909, still carries traffic. And it's so well-maintained that there are no weight limitations. The District gets plenty of use out of the Union Gospel Tabernacle, today called the Ryman Auditorium. Once a church, the building was converted in 1897 into what was then the largest assembly hall in the South. It served as the first home of the Grand Ole Opry and it still features great musical acts today.
+
+Another of the five neighborhoods we recognize today is also familiar to me. Two years ago I visited Louisville, Kentucky, to recognize Kentucky's leadership in the Preserve America Community effort. Kentucky has 66 Preserve America Communities and Neighborhoods, more than any other state by a considerable margin. {APPLAUSE} So it's not surprising that three of the first five Preserve America Neighborhoods are from Kentucky.
+
+Louisville's historic Portland neighborhood developed along the falls of the Ohio River to help commerce and travelers heading both east and west. This great neighborhood is not only one of our first Preserve America Community Neighborhoods; it will also receive one of our first Preserve America Grants.
+
+Today we'll award 45 Preserve America Grants. These new matching grants help local communities promote their cultural resources through heritage tourism. The first grant recipients are receiving a total of nearly $3.5 million and represent 28 states from every region of our nation.
+
+Both the Louisiana and Mississippi state historic preservation officers are receiving grants to help them rebuild their heritage tourism industry in the wake of last summer's hurricanes. This is in addition to President Bush's $3 million supplemental funding request for the state historical preservation offices in those states and others affected by the storms. The Gulf Coast is a richly historic part of our country, and we all want to see its treasures restored, refurbished, and reopened for visitors. {APPLAUSE}
+
+Another $1.5 million is available for a second round of Preserve America Grants in 2006. They'll be awarded in August. The second round application period begins today, and the deadline is May 15, 2006, so communities should contact Preserve America or go on the website as soon as possible.
+
+While I'm on Capitol Hill -- this is for all the senators and congressmen who are here -- I also want to mention that the President's budget requests $10 million for Preserve America Grants in 2007. {APPLAUSE} And it's money well spent. The investments communities make in their history result in tremendous benefits in terms of tourism, revitalization, business and residential areas, and civic pride and knowledge.
+
+Preserve America Communities, Neighborhoods, and Grant recipients know the importance of historic preservation to the economic, educational, esthetic, and cultural life of America, as well as to their residents, their visitors, and especially to their children.
+
+President Bush and I urge all Americans to explore and enjoy our shared heritage, and to join our efforts to preserve America.
+
+Congratulations, and thanks to the communities and the neighborhoods recognized today. Now please welcome a fellow Texan, a historian and a great friend, John Nau, the Chairman of the Advisory Council on Historic Preservation. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,40 @@
+﻿{title} Remarks by the President in Announcement on Normalization of Diplomatic Relations with Vietnam {/title}
+{event} Announcement on Normalization of Diplomatic Relations with Vietnam {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 11, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President on Normalization of Relations with Vietnam {/description}
+
+{speech} 
+
+Thank you very much. I welcome you all here, those of you have been introduced and distinguished members of Congress and military leaders, veterans, others who are in the audience.
+
+Today I am announcing the normalization of diplomatic relationships with Vietnam. {APPLAUSE}
+
+From the beginning of this administration, any improvement in relationships between America and Vietnam has depended upon making progress on the issue of Americans who were missing in action or held as prisoners of war. Last year, I lifted the trade embargo on Vietnam in response to their cooperation, and to enhance our efforts to secure the remains of lost Americans and to determine the fate of those whose remains have not been found.
+
+It has worked. In seventeen months, Hanoi has taken important steps to help us resolve many cases. Twenty-nine families have received the remains of their loved ones and at last have been able to give them a proper burial. Hanoi has delivered to us hundreds of pages of documents shedding light on what happened to Americans in Vietnam. And Hanoi has stepped up its cooperation with Laos, where many Americans were lost.
+
+We have reduced the number of so-called discrepancy cases, in which we have had reason to believe that Americans were still alive after they were lost to 55. And we will continue to work to resolve more cases.
+
+Hundreds of dedicated men and women are working on all these cases, often under extreme hardship and real dangers in the mountains and jungles of Indochina. On behalf of all Americans, I want to thank them. And I want to pay a special tribute to General John Vessey, who has worked so tirelessly on this issue for Presidents Reagan and Bush and for our administration. He has made a great difference to a great many families. And we as a nation are grateful for his dedication and for his service. Thank you, sir. {APPLAUSE}
+
+I also want to thank the presidential delegation, led by Deputy Secretary of Veterans Affairs Hershel Gober, Winston Lord, James Wold, who have helped us to make so much progress on this issue. And I am especially grateful to the leaders of the families and the veterans organizations who have worked with the delegation and maintained their extraordinary commitment to finding the answers we seek.
+
+Never before in the history of warfare has such an extensive effort been made to resolve the fate of soldiers who did not return. Let me emphasize, normalization of our relations with Vietnam is not the end of our effort. From the early days of this administration I have said to the families and veterans groups what I say again here: We will keep working until we get all the answers we can. Our strategy is working. Normalization of relations is the next appropriate step. With this new relationship, we will be able to make more progress. To that end, I will send another delegation to Vietnam this year. And Vietnam has pledged it will continue to help us find answers. We will hold them to that pledge.
+
+By helping to bring Vietnam into the community of nations, normalization also serves our interest in working for a free and peaceful Vietnam in a stable and peaceful Asia. We will begin to normalize our trade relations with Vietnam, whose economy is now liberalizing and integrating into the economy of the Asia-Pacific region. Our policy will be to implement the appropriate United States government programs to develop trade with Vietnam consistent with U.S. law.
+
+As you know, many of these programs require certifications regarding human rights and labor rights before they can proceed. We have already begun discussing human rights issues with Vietnam, especially issues regarding religious freedom. Now we can expand and strengthen that dialogue. The Secretary of State will go to Vietnam in August where he will discuss all of these issues, beginning with our POW and MIA concerns.
+
+I believe normalization and increased contact between Americans and Vietnamese will advance the cause of freedom in Vietnam, just as it did in Eastern Europe and the former Soviet Union. I strongly believe that engaging the Vietnamese on the broad economic front of economic reform and the broad front of democratic reform will help to honor the sacrifice of those who fought for freedom's sake in Vietnam.
+
+I am proud to be joined in this view by distinguished veterans of the Vietnam War. They served their country bravely. They are of different parties. A generation ago they had different judgments about the war which divided us so deeply. But today they are of a single mind. They agree that the time has come for America to move forward on Vietnam. All Americans should be grateful especially that Senators John McCain, John Kerry, Bob Kerrey, Chuck Robb and Representative Pete Peterson, along with other Vietnam veterans in the Congress, including Senator Harkin, Congressman Colby and Congressman Gilchrist, who just left, and others who are out here in the audience have kept up their passionate interest in Vietnam, but were able to move beyond the haunting and painful past toward finding common ground for the future. Today, they and many other veterans support the normalization of relations, giving the opportunity to Vietnam to fully join the community of nations and being true to what they fought for so many years ago.
+
+Whatever we may think about the political decisions of the Vietnam era, the brave Americans who fought and died there had noble motives. They fought for the freedom and the independence of the Vietnamese people. Today the Vietnamese are independent, and we believe this step will help to extend the reach of freedom in Vietnam and, in so doing, to enable these fine veterans of Vietnam to keep working for that freedom.
+
+This step will also help our own country to move forward on an issue that has separated Americans from one another for too long now. Let the future be our destination. We have so much work ahead of us. This moment offers us the opportunity to bind up our own wounds. They have resisted time for too long. We can now move on to common ground. Whatever divided us before let us consign to the past. Let this moment, in the words of the Scripture, be a time to heal and a time to build.
+
+Thank you all. And God bless America. {APPLAUSE} 
+
+{/speech}

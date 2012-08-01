@@ -1,0 +1,52 @@
+﻿{title} Remarks by the President in Final Plenary Session {/title}
+{event} James L. Knight Center, Miami, Florida {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 11, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Your excellencies, distinguished guests, ladies and gentlemen, let me begin by thanking the members of the host committee and the people of the city of Miami and the state of Florida.
+
+I am very, very pleased that we made the decision to come to Miami. I thank Governor Chiles and Lieutenant Governor MacKay -- {APPLAUSE} -- and all those who made the case that we should be here. Our hosts have done a tremendous job of hosting this historic event. At this extraordinary moment of opportunity and responsibility, they have made our work easier and, especially last evening, much more enjoyable.
+
+The Summit of the Americas has more than fulfilled our expectations. Future generations will look back on the Miami Summit as a moment when the course of history in the Americas changed for the better. We worked hard to arrive at this point. Yesterday, we achieved agreement on the many issues before us. Our talks were lively, open and wide-ranging. They were filled with the spirit of democracy and mutual respect, and a deep determination to increase the jobs and incomes of our people, improve the quality of their lives, and protect their freedoms.
+
+Meanwhile, the First Lady's Summit on Children, all of our spouses working together, looking toward the future of our children in this hemisphere, in many ways captured what the spirit of this meeting is all about, for all of our efforts will fall more to the benefit of our children than to our generation. {APPLAUSE}
+
+Now I would like to ask the representatives of each of the major geographical regions of the Americas -- the Caribbean, North America, Central America and South America -- to report on the agreements we have forged. In addition, we will hear from the leaders of two dynamic and vital institutions that are serving our hemisphere and that will loom large in our plans for the future -- the Inter-American Development Bank and the Organization of American States. Then President Aristide of Haiti, who embodies our hemisphere's determination to uphold the sovereign rule of the people, will speak.
+
+Let us begin the plenary. {APPLAUSE}
+
+First let me thank all those who have spoken before. I thank the Prime Minister and the Presidents, distinguished President of the Inter-American Development Bank, Secretary General of the Organization of American States. I thank especially President Aristide for his moving remarks. And I thank all of you here present who have supported the multinational effort to restore democracy to Haiti.
+
+We come here to begin a new era, an era of real promise. When Vice President Gore and I asked the American people to give us a chance to serve we relied upon two phrases that we said over and over again. One was "put people first." the other was "don't stop thinking about tomorrow." In this meeting, for these days, we have put our people first, and we have thought about tomorrow.
+
+We are bound together by geography, by history, by culture, but most important, now by shared values -- a ferocious devotion to freedom, democracy, social justice; a determination to improve the lives of all our people; a determination to preserve the natural world we have inherited and that we must pass on.
+
+We have tried to give life to these values at this summit by agreeing to create a free trade area throughout our hemisphere, to bring together our nations to improve the quality of life for our people, and to strengthen and make permanent the march of democracy. These achievements have been given concrete expression by our commitment to negotiate with specific steps of free trade agreement for a free trade area of the Americas by 2005.
+
+This is more than words; this is a commitment to deeds. Free trade in our hemisphere has been talked about for years, but because of this process we've launched this weekend it will now become a reality. Free trade will yield dramatic benefits in terms of growth and jobs and higher incomes. It will permit us to pursue economic opportunities, and at the same time, to reaffirm our commitment to promote the rights and interests of our workers so that all our people have the chance to benefit from free trade.
+
+I couldn't help thinking, when President Figueres was talking about the gross national product measuring everything but what is important to us, that that is true; but that unless we attend to the health of our economy, the thing that are most important to us are more difficult to achieve.
+
+If you think about how many millions of people in this hemisphere, including in our country, are working harder today than they were just a few years ago for lower income; if you think about how many millions of people have less security in the face of the bewildering changes in the world we live in, what it means is they have less time for their families, for raising their children, less time for leisure, less time for citizenship, less time for learning in a calm and open atmosphere what the major issues of the day are. And there is not so much room in their spirit for the clear head and the generosity it takes to be an effective citizen in a strong democracy.
+
+So all these things we care about, that we want for our people, require us to do our best to make sure that they can be victors in this great cauldron of change that is bringing on the next century.
+
+We also vowed to do our best to make our governments work better; to protect our democracies by making sure we could do the job we're supposed to do well, and that we stop doing things we shouldn't be doing; to protecting human rights; to fighting illicit drugs and international crime; to rooting out corruption. And we agreed to pursue vigorously sustainable development.
+
+In a way, sustainable development is an unfortunate phrase because it has so little poetry about it. But the meaning is very profound. It means to me that we must pursue short-term goals, consistent with our enduring values. It means we must pursue individual opportunity, consistent with our responsibility to our larger communities. It means we must share in the Earth's bounty, without breaking our bonds with Mother Nature. It means we must take for ourselves in ways that leave more for our children. It means we must expand the circle of those who are able to live up to their God-given capacities -- the women, the indigenous people, the minorities, the poor children of this hemisphere.
+
+For all these commitments, I thank you, all of you who have come here representing all these nations. The agenda we have embraced is ambitious and worthy. We have actually committed ourselves to 23 separate and specific initiatives and more than 100 action steps protecting the diversity of plant and animal species, phasing out lead and gasoline, reducing infant immortality, improving education and health care. Our goal is to create a whole new architecture for the relationship of the nations and the peoples of the Americas to ensure that dichos become echos, that words are turned into deeds.
+
+So as we come to the end of this historic Summit of the Americas, as we proclaim the dawn of this new partnership, as we say we have done this to put our people first and we have kept our eye on tomorrow, let us remember that the road ahead will be full of challenges and difficulties, and that beyond all of the specifics of what we have done, perhaps most enduring is the friendship, the spirit of trust that has been built here. There is truly a spirit of Miami. {APPLAUSE}
+
+And in future years when the difficulties mount up, when it is difficult to sustain the hope about which President Aristide spoke so beautifully, may future leaders remember the spirit of Miami. O espirito de Miami. L'esprit de Miami. El espiritu de Miami. The spirit of Miami. Thank you all, and God bless you. {APPLAUSE}
+
+Now we will sign the Declaration -- if they will bring it to us.
+
+{COMMENT="The Declaration is signed"} 
+
+{/speech}

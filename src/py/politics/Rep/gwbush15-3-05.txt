@@ -1,0 +1,83 @@
+﻿{title} President's Remarks at National Republican Congressional Committee Dinner {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} March 15, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you for the warm welcome. It is great to be here with good friends and great allies, the Republican members of the United States Congress. {APPLAUSE} 
+
+I'm here to thank the members of the Congress for their service to our nation. I appreciate your courageous decision to enter the arena, to put your name on the ballot, to lay out an agenda, and to campaign for what you believe. I appreciate your hard work, and I appreciate working with you. See, we came to Washington to make a difference, not to mark time. {APPLAUSE} 
+
+I am honored to have been introduced by one of the nation's greatest Speakers ever, Speaker Denny Hastert. {APPLAUSE} Solid as a rock, tenacious as a wrestler -- {LAUGHTER} -- and capable as all get-out. Mr. Speaker, Laura and I are proud to call you friend. {APPLAUSE} 
+
+We got a lot of work to do. We're going to continue to pursue a positive agenda, an optimistic agenda for a stronger America and a safer world. We're going to continue to expand opportunity for all who live here in America. And we're going to continue to advance the cause of freedom and peace. {APPLAUSE} On issue after issue, we will do what Americans have always done, to build a better world for our children and our grandchildren. 
+
+And I'm honored to be sharing my responsibilities with a fantastic women, a great mom, a great wife, a fabulous First Lady, Laura Bush. {APPLAUSE} 
+
+And I'm proud of my running mate and Vice President, from the great state of Wyoming, Dick Cheney. {APPLAUSE} Mine is a job that requires making a lot of decisions, which means I must listen to capable, smart people, people who are able to give good advice when times are good and times aren't so good. Vice President Cheney has been that steady advisor, the solid rock. And what a decent man he is. I'm proud to be serving with him for four more years. {APPLAUSE} 
+
+I appreciate other leaders of the United States Congress -- my friend from the great state of Texas, Tom DeLay. {APPLAUSE} And from Missouri, Roy Blunt. {APPLAUSE} I want to thank Congresswoman Deborah Pryce from Ohio, and Jack Kingston from Georgia, and John Doolittle from California, and John Shadegg from the state of Arizona. {APPLAUSE} I particularly want to pay homage to Congressman Tom Reynolds, who has done a fabulous job as the Chairman of the NRCC. {APPLAUSE} And the Chairman of the Spring Dinner, Spencer Bachus from the great state of Alabama. {APPLAUSE} Good job, Spence. It's nice to be up here with Linda, too. Like you -- yes, you married well. {LAUGHTER} 
+
+Anyway, I appreciate the Reverend Steve Gaines and his wife, Donna. Patti Labelle, honored that she is here. I want to thank all the members of Congress who have joined us tonight. Looking forward to working with you. {APPLAUSE} 
+
+Laura and I just had a chance to say hello to Buck Fowler and his daughters. He's the husband of the late Congresswoman Tillie Fowler. We extend our greatest respect for the Fowler family and our prayers for Buck and his family as they -- as they yearn and long for Tillie. {APPLAUSE} 
+
+In the last four years, we've shown that we know how to set an agenda and that we know how to work together to achieve that agenda. Republicans are driving the debate on all key domestic and foreign policy issues of our time. {APPLAUSE} And because we've done a lot of work together, because we have achieved a lot, we are the party of reform and optimism, we are the party of progress and ideas. {APPLAUSE} We have shown a willingness to confront and solve difficult problems. We went to the voters and told them what we would do if elected. And when we got elected, we did what we promised we would do -- and that's why we are in the majority in the United States Congress. {APPLAUSE} 
+
+Consider what we did together. Our economy faced a recession and war. We worked together to unleash the entrepreneurial spirit of America with the largest tax relief in a generation. {APPLAUSE} Our economic policies are working. This country has created more than 3 million new jobs since May of 2003, and today more Americans are working than ever before in our nation's history. {APPLAUSE} 
+
+Our party stands for educating every child, so we passed a No Child Left Behind Act. It's one of the most important federal education reforms in our nation's history. We believe in high standards. We believe in stopping this process of just moving kids through schools without them learning the basics of reading and math. And because we worked together, an achievement gap in America is closing so that never child is left behind in this country. {APPLAUSE} 
+
+We believe in ownership. We want more people to own a home or a business. We worked together to expand ownership for all Americans, not just a handful of Americans. Today, because we acted, the home ownership rate in America is at an all-time high. {APPLAUSE} Small businesses are growing and expanding. And for the first time, Americans can own their own health savings accounts, so they can have a health care plan of their own when they change jobs, and so that they're in charge of their health care decisions. {APPLAUSE} 
+
+After our nation was attacked, we worked together to create the Department of Homeland Security. Because we acted to safeguard the ports and borders and better protect the American people, this country is safer than ever before. {APPLAUSE} We went after an enemy that attacked America, and I want to thank the United States Congress for providing our servicemen and women with the resources they need to win this war against the terrorists. {APPLAUSE} 
+
+In each case, we were successful because we stayed true to our principles. We pushed forward with our ideas. And now, in the start of a new term, we must continue to provide bold leadership that the Americans have come to expect. 
+
+In the 2004 elections, we ran on large issues; we campaigned on a platform of big ideas; we discussed those ideas at every campaign stop. And the American people responded. And now it is our turn to respond and do what they expect. We campaigned and said that we will be wise with the taxpayers' money. I have submitted a budget. Congress is now working on that budget to make sure that when we spend money, we do it wisely or not spend it at all. {APPLAUSE} To keep the economy growing and creating new jobs, we must make tax relief permanent. {APPLAUSE} 
+
+We campaigned on legal reform. The scales of justice are not balanced in America. We must free our entrepreneurs and small businesses from those junk and frivolous lawsuits that run up the cost of doing business and make it hard for people to find work. {APPLAUSE} 
+
+I appreciate the hard work of the Speaker and the leadership in getting a class-action reform piece of legislation to my desk. I was proud to sign it. We need to take action now on asbestos legal reform, and we need to make sure that health care is available and affordable, and do something about the junk lawsuits that are running good doctors out of practice. We need medical liability reform now. {APPLAUSE} 
+
+Our party has a clear agenda: to make health care more affordable, and give families greater coverage and more control over their health decisions. We must move forward with improved information technology to prevent medical error and to reduce cost. We must expand health savings accounts. We must allow small businesses to pool together so they can buy insurance at the same discounts that big companies are able to do. {APPLAUSE} In all we do, we will make sure health care decisions are made by doctors and patients, not by officials in Washington, D.C. {APPLAUSE} 
+
+We will continue our education reforms to make sure our high schools function well. We want to make sure a high school diploma means something. And also, we understand that in order to make sure this economy continues to grow, our employees in America must be skilled with the jobs of the 21st century. That is why we are such strong backers of the community college system here in America. {APPLAUSE} 
+
+This party understands that to keep our economy growing, we need reliable supplies of affordable energy. We need to pass legislation this year that makes this country more secure and less dependent on foreign sources of energy. {APPLAUSE} 
+
+I'm looking forward to working with the Congress on all these matters, and I'm also looking forward to working with Congress to save Social Security. {APPLAUSE} I told the people when I ran for office that if given a second term, I would make Social Security a top legislative priority. And that's exactly what I have done since I was sworn in for the second term. I have been to 15 states so far on this issue, and I'm just warming up. {APPLAUSE} On every visit I'm assuring seniors and those nearing retirement that their Social Security benefits will not change. No matter what the propaganda says, no matter what the partisans say, our seniors will get their checks. {APPLAUSE} 
+
+I'm also making the case to the American people that the Social Security system is insolvent and heading toward bankruptcy. I say "insolvent" -- it isn't today, but it will be soon. You see, baby boomers like me are getting ready to retire. {LAUGHTER} And there's a lot of us. In my case, the retirement age is in 2008, which is a convenient year. {LAUGHTER ; APPLAUSE} And we're living longer. And we have been promised greater benefits than the previous generation. And yet the problem is there are fewer workers paying into the system. More people living longer, getting greater benefits, with fewer people paying into the system is math that will not work for the younger generations of Americans. In other words, for younger workers, the current system has made promises it cannot keep. 
+
+And every year we wait to address this problem will make any solution more painful and more drastic. In other words, we will leave our children and grandchildren with a greater burden. And this isn't fair, and this isn't right, and that's not how leaders lead. Now is the time to confront the Social Security issue. {APPLAUSE} 
+
+Social Security has worked well for many of our seniors. Our job is to make sure it works well for the next generation. And as we fix Social Security permanently, we must also make it a better deal for younger workers. I propose allowing workers to set aside a part of their payroll taxes in personal retirement accounts. These accounts would be voluntary. The money would go into a conservative mix of stocks and bond funds that would allow the younger worker to earn a higher rate of return on anything the current system could provide. That money would provide a nest egg to supplement their traditional Social Security checks, a nest egg they would call their own, a nest egg the government could not take away, and a nest egg they could pass on to their children. {APPLAUSE} 
+
+With the exception of raising the payroll tax rate, all options are on the table for strengthening Social Security. I am willing to listen to any good idea. The Social Security debate has only just begun, but I'll tell you what I believe and what I hear: Those on the side of reform are going to win. {APPLAUSE} The American people want solutions and not empty partisan bickering. The American people expect people to come to the table and negotiate in good faith. The American people want this problem solved now and permanently, and our party will lead on this vital issue for generations to come. {APPLAUSE} 
+
+On these and other issues, we're empowering individuals as we reform important institutions of our government. And we do so because we believe in the American people. We empower people through our policies because we trust the judgment of the people we represent. And we can be confident in our policies; and we can be confident in our progress because we share the values and ideals of the American people. We've given the people of this country a clear choice and we have performed. We did that in the 2002 elections; we did that in the 2004 elections. The American people have responded to a party which sets a clear agenda, a party which doesn't want to mark time, a party which understands that we must confront problems now and not pass them on to future Presidents and future Congresses. {APPLAUSE} 
+
+In those elections, the American people have made it clear they want a President and Congress that understand the role of courts in our democracy. As I campaigned across this country last year, the judges was an issue that I raised at every single stop. Everywhere I went, I heard the same message: The American people want judges who faithfully interpret the law, not legislate from the bench. I will continue to find men and women -- {APPLAUSE} -- I will continue to nominate men and women who will strictly interpret the Constitution. And my judicial nominees deserve an up or down vote on the floor of the United States Senate. {APPLAUSE} 
+
+I want to thank the leadership of the Congress and members of Congress for clearly understanding the power of freedom in the world in which we live. We will stay on the hunt for those who want to hurt our country. We will support our troops around the world as they hunt down the terrorists so they can never inflict harm on us. But we also understand that the way to defeat terror in the long run, the way to defeat hopelessness and despair, is to spread freedom and democracy. We understand that freedom is not America's gift to the world; freedom is the Almighty God's gift to each man and woman in this world. {APPLAUSE} 
+
+And freedom is on the march. Think about what happened in Afghanistan. Millions went to the polls, after we helped liberate that country from the Taliban. And the first voter, the first person to stand up and say, I want a democracy, was a young woman. It didn't take long for freedom to manifest itself in that war-torn country. When people are given a chance -- just given a chance -- they will exercise their right as free men and women. See, freedom exists deep in the soul of every man and woman on the face of the Earth. 
+
+You know, in Iraq, the terrorists used bombs and beheadings and torture to try to prevent people from exercising their God-given right, but they couldn't stop the march of freedom. Millions went to the polls in defiance of the terrorists. Millions said, we want to be free. And the United States of America will stand with our allies and friends to help freedom movements, whether it be in Lebanon or Iraq or all around the world, because freedom will lead to the peace we all long for. {APPLAUSE} 
+
+In this new term, I look forward to working with you, Speaker, and the leaders and members of Congress. And as we do, as we work with you, we'll stick with our ideals. We'll make our case to the American people as plainly as we can possibly make it. And we're going to get the job done. That's why we're here. We're in Washington, D.C. to serve the people of this country, to reform institutions that need to be reformed, to stand by principles. We are the party of Lincoln. We are the party for Lincoln at home, and we are the party for Lincoln abroad. We believe every citizen should live in a free society. 
+
+By expanding freedom at home, we will provide our citizens, all our citizens, the path of greater opportunity and more control over their own lives. And by expanding liberty abroad, we'll provide our citizens with security -- the security they need to build a prosperous and peaceful future for their children. 
+
+We're living in historic times. It's an incredibly exciting time to be serving our great nation. I'm so honored to hold the position I hold, and I'm so honored to be able to work with such decent men and women of the United States Congress. 
+
+I want to thank all of you who have come tonight for supporting the Republican Party in the United States Congress. You're making a wise investment about the future of this country, an investment made upon principle, an investment based upon freedom, an investment that will help us stay a prosperous nation, and an investment that will allow each and every American to rise to his or her own God-given talents. 
+
+I love my country. I love working with Congress. Thank you for coming tonight, and may God bless you all. {APPLAUSE} 
+
+{/speech} 

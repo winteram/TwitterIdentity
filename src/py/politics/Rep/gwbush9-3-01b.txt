@@ -1,0 +1,111 @@
+﻿{title} Remarks by the President in Lafayette, Louisiana Send Off {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} March 9, 2001 {/date}
+{source} http://www.ssa.gov/history/gwbushstmts.html {/source}
+{description} ----- {/description}
+
+
+{speech}
+
+Thank you all very much. I'm sure glad I came here to Louisiana; thank you for coming. {APPLAUSE} I want to thank you all for coming. I want to thank the thousands of people who lined the road on the way in here. I wish the hangar were ten times bigger, but thank you all so much for being here. 
+
+First, I want to thank my friend, and your Governor, Mike Foster. I appreciate his friendship. One thing you can say about him is, you know where he stands. {APPLAUSE} And I know he stands as my friend, and I appreciate that so very much. 
+
+I appreciate John Cooksey, the Congressman who is here. {APPLAUSE} I appreciate Susie Terrell, who is here. {APPLAUSE} I want to thank Senator Michot for being here. {APPLAUSE} Ernie Alexander, my friend, is here, I want to thank him. {APPLAUSE} My friend, Ernest Johnson, who heads the Louisiana NAACP is with us today; and I want to thank you, Ernest, for coming. {APPLAUSE} 
+
+There is one other fellow, a man who stuck his neck out in the course of the campaign. You see, he doesn't happen to have the Republican label by his name -- his name is Dan Morrish, he's a Democrat. {APPLAUSE} He put party aside and did what he thought was right for the country. And, Dan, I'm honored to have your support, I thank you for your friendship. {APPLAUSE} 
+
+And it's great to be here. I tell you, it is important for me to make sure I get outside the nation's capital on a regular basis. I love people in Louisiana. {APPLAUSE} I like the idea of coming to bring my message to you. I hope by now the people of the country are beginning to realize that we all have adopted a common-sense message. It's a message of the people. It's a message that understands that the most important element of politics are the people of this country -- the hardworking Americans who make the country go. {APPLAUSE} 
+
+I get proposed things in Washington -- I don't get to vote on them. I'm not a member of the legislative branch. But the biggest influence in our government is the people, and I know that. So I'm here today in Lafayette, Louisiana to explain a common-sense budget. And if you like what you hear, you might decide to maybe e-mail or call some of those who represent you and let them hear from you. {APPLAUSE} 
+
+If you like the common-sense approach to how we spend your money, it may make sense to pick up the phone or drop a note to people who may not see it our way. That's what politics is all about, as far as I'm concerned -- it's the people's will. And I'm here to talk about the people's business. And the people's business is to bring some fiscal sanity to the budgeting process in Washington, D.C. {APPLAUSE} 
+
+It starts with understanding this important principle: that the surplus is not the government's money. {APPLAUSE} The surplus is the people's money. {APPLAUSE} And so what makes sense? Well, what makes sense is to set priorities. That's what makes sense. Here's some of my priorities: education is a priority. {APPLAUSE} Making sure children learn is a priority. 
+
+So we increase spending at the Education Department. It's a priority of the country, but in case you might think that I forgot where I came from, I'll understand that the people who can run the schools best in Louisiana are not people in Washington, D.C., but the folks of Louisiana. {APPLAUSE} 
+
+So we're spending a little more at the federal level, but we're going to work with Congress to pass power out of Washington, to empower the local folks, to empower parents and teachers to make the right decision for the children of the great state of Louisiana. {APPLAUSE} 
+
+The people's health is a priority. Today, I talked about expanding a number of community health centers around America to make sure that the poor are able to get primary care. I also want to make it crystal clear in the budget I submitted to the Congress that we have doubled Medicare spending over a 10-year period of time, that we're going to make the commitment that we have made to the elderly. 
+
+It not only requires more spending, which we will do, it also requires an attitude of reform that says we'll trust seniors to make choices for themselves, seniors to match their needs with a variety of programs, all of which include prescription drugs. {APPLAUSE} 
+
+And I want to praise one of your senators from Louisiana. John Breaux and I are going to work on this issue. We will spend a lot of time making sure that Medicare is properly reformed, so that the promise we have made to our seniors will be a promise that will be kept. {APPLAUSE} 
+
+There's a lot of talk about Social Security, as there should be. The message to the Congress is loud and clear: we're not going to spend payroll taxes on anything other than Social Security. We're not going to take the money aimed for Social Security and spend it on anything else. {APPLAUSE} 
+
+There's money in my budget to make sure that we're able to keep the peace by making sure we pay our military folks a good wage. {APPLAUSE} There's money in the budget for priorities. As a matter of fact, we increased what's called the discretionary spending by 4 percent. That's greater than the rate of inflation. 
+
+But it's not enough for some in Washington. Because, you see, they're used to spending a lot of money up there. The last session, they spent your money to the tune of 8 percent. It's like they had a bidding contest to see who could get out of town. Those days are over with. {APPLAUSE} 
+
+We will set priorities and fund them. But we'll be wise about how we spend your money. We don't want the federal government exploding in growth. We want the federal government to be lean and efficient and focused with your money. And that's exactly what's going to happen with new leadership in Washington. {APPLAUSE} 
+
+There's a lot of discussion about paying down debt. I want to remind you, there are two types of debt -- there are a lot of types of debt, but there are two types of debt that I worry about. One is debt at the national level. And under the plan I submitted to the Congress, we pay down $2 trillion in national debt over 10 years -- $2 trillion. It's the biggest amount of debt repayment ever. 
+
+There's also consumer debt, the credit card debt that burdens many of the working families in America. Yes, we talk about national debt, and we're paying a lot down. But you're fixing to hear me tell you part of the remedy for people who have got a lot of credit card debt is to make sure people get some of their own money back. {APPLAUSE} 
+
+We have met priorities. We grew the budget at a reasonable rate; not this fantastic rates that exploded during the last session. We pay down debt, we protected Social Security. We have also set aside $1 trillion over 10 years for contingencies. 
+
+Who knows what will happen. And so, we put $1 trillion aside. That makes sense. That's common sense to do that, it seems like, to me. We may need money for our farmers. And I'm going to tell you something about agriculture in America. It is an incredibly important part of our economy. Who knows what we'll need money for. 
+
+So we set aside money to do so but, guess what? There's still money left over. The fundamental question is: what do we do with that money? The fundamental question that I want Congress to hear from you about is what to do with the money. Do we increase the size and scope of the federal government? 
+
+{AUDIENCE} No! {/AUDIENCE} 
+
+Or do we trust you with your own money? 
+
+{AUDIENCE} Yes! {/AUDIENCE} {APPLAUSE} 
+
+There's a lot of discussion about how to get tax relief. I worry about what's called targeted tax cuts. I worry about people sitting around Washington saying, you're targeted in; but, oh, by the way, you're targeted out. It seems like to me the fairest way to handle the people's money is to say that everybody who pays taxes ought to get relief. {APPLAUSE} The federal government ought not to try to play favorites. It's likely people in Louisiana may not be considered a favorite. You will be, as far as this President is concerned. {APPLAUSE} 
+
+So the plan that was passed out of the House -- and, John, thank you for your support -- is fair. It reduces all rates on everybody that pays taxes, and it simplifies the code. It drops the bottom rate from 15 percent to 10 percent. It increases the child credit from $500 to $1,000 per child. And let me explain to you why. Let me explain to you why this tax code we have is unfair. 
+
+One of the things that the people must stand for is fairness in life. If you're a single mother in the state of Louisiana trying to raise two children, and you're making twenty-something thousand dollars a year, under the code that's written today, for every dollar you earn above $22,000, you pay a higher marginal rate on that dollar than someone who is successful. You pay nearly 50 percent on that dollar. And that's not right, and that's not what America is all about. 
+
+No, this country stands for rewarding hard work, not penalizing it. And we must understand -- {APPLAUSE} -- and when we find people working the hardest job in America, which is the single moms in this country, and they're struggling to get ahead, we ought to have a tax code that welcomes hard work and says, you can access the middle class, and you can realize your dreams. 
+
+This plan that passed the House yesterday makes this code imminently more fair. It also reduces the top rate. And oh, I know there's a lot of discussion about that, dropping the top rate, but let me tell you why. First, there ought to be some principle involved in the tax code. And this principle is, the federal government ought to take no more than a third of anybody's check. {APPLAUSE} 
+
+But there's another principle. And that is, our nation must understand that the small businessman and the small businesswoman is the backbone of job creation. Our nation must never forget. {APPLAUSE} We must never forget that good public policy will encourage entrepreneurial spirit in America, encourage the growth of the small business owner. 
+
+And we must also realize that many small businesses are unincorporated. They're sole proprietorships. They're Sub-chapter S's. They pay the high marginal rate. And by cutting the rates from 39.6 percent to 33 percent, we send a clear signal that we encourage entrepreneurship and small business growth, that we understand. {APPLAUSE} 
+
+That we send a loud message to Washington that the role of government is not to create wealth, but the role of government is to create an environment in which American risk-takers and dreamers and people willing to work for a dream have got a better opportunity to realize those dreams. {APPLAUSE} 
+
+The plan that we've submitted to the United States Congress recognizes that the death tax is unfair to Louisiana farmers and small business owners, and we need to get rid of the death tax. {APPLAUSE} The plan that I submitted to the United States Congress recognizes that when you penalize marriage, we send a bad signal about families and the role of families in our society. {APPLAUSE} 
+
+We've submitted a good plan, and it's working its way through the system. It came -- a major portion came out of the House, and I want to thank the 10 Democrats that stood with a hundred percent of the Republicans that spoke on your behalf. {APPLAUSE} 
+
+And now it's headed to the Senate, and it's time for your voices to be heard. Now, I want to give you some ammunition if you agree with what I'm saying. Not only have we got a common-sense budget -- in other words, we can afford what I'm telling you, we can afford it -- but that makes economic sense to give people their own money back. You see, our economy is beginning to sputter a little bit. There are some places around the country where people are beginning to get laid off; economic growth is slowing down. 
+
+It is important to act quickly to get people their own money back, so you can spend it and serve as a second wind for our economy. It makes sense. {APPLAUSE} It makes sense. We need it now. And so I appreciate the fact that the plan that came out of the House will make some of the tax cut retroactive, which means when it passes, it's as if it took effect of January of this year. {APPLAUSE} 
+
+But there's another reason why this tax plan is important -- because it sends a signal about the priorities of our government. And the priorities of our government is to trust people with their own money. We must send a clear message that once we meet our priorities, the people who can best handle the people's money is the people, themselves. {APPLAUSE} 
+
+Today, I've asked the Anderson family to join us here from Lafayette. We've got Richard and Jenifer and first, I want to say to their teachers, and you can't thank teachers enough for being a teacher. {APPLAUSE} And with Richard and Jenifer are Jane, Noah, and Sam, their three children, who they love more than life. 
+
+And the reason I've asked them to join us is to help make my point -- that when we're talking about taxes and budgets, it's more than numbers that we're talking about. We're talking about people's lives. We're talking about the fact that this is a plan that understands that there are a lot of folks working hard to get ahead. 
+
+Remember, we haven't had an energy policy for a while. And anybody that understands that is the people of this part of the world. {APPLAUSE} There's a lot of people paying high energy bills in America now. It's like a new tax on American families. By the way, we're going to have an energy policy, and it starts with finding more energy here in America. {APPLAUSE} 
+
+But I'm worried about hardworking folks like the Andersons. I'm worried about the fact that people all across America are paying high energy bills. I'm worried about the fact that a lot of folks have got credit card debt. I'm worried about the folks -- folks who are working longer hours. And it seems like to me that if you've got a little extra money in Washington, instead of spending it on programs, why don't we let people spend their own money. {APPLAUSE} 
+
+And so, here are the facts -- here are the facts. These good folks now pay $4,300 in federal income taxes on an annual basis. Under our plan, they will save $2,600. {APPLAUSE} Oh, that may not sound like a lot to some -- it's a lot to me, and it's a lot to the Andersons. 
+
+You see, the principle is, do we want that $2,600 that's their money to begin with to go to excess federal spending? Or do we think it's better spent by them? Would we rather have the government spend it, or would we rather have it for them to save for their children, to meet their priorities? {APPLAUSE} 
+
+I want to tell you what a grandmother said the other day in Council Bluffs, Iowa -- you see, I've been moving around the country, making our case. And she said -- she's had a lot of children and grandchildren go through her house. And when you bake cookies and you leave them on the table, sure enough, they'll be eaten. {LAUGHTER} That's kind of how I view that $2,600. If you leave it on the table, sure enough, it will be spent. {APPLAUSE} 
+
+The right thing to do, the fair thing to do, the thing to do that's based upon common sense, is to understand whose money it is to begin with, and to trust the good people of America to spend their own money to meet their own priorities. {APPLAUSE} 
+
+I have great trust in the American people. I can't tell you what an honor it is to be your President, and to travel our land, and to see people come out and wave. It reinvigorates my spirit, because it helps me understand yet again the spirit of America. The true greatness of this country does not lie in the halls of our governments; the true greatness of our country lies in the hearts and souls of the American people. {APPLAUSE} 
+
+My job is to represent the folks in Washington and to fight for sound budget and tax relief. But my job also is to call upon the spirit of this country, is to say to the moms and dads of America, your most important job is to love your children with all your heart and all your soul. {APPLAUSE} It's to thank the Boy Scouts and Girl Scouts and Boys and Girls Club leaders who are teaching our children common-sense values, the difference between right and wrong. {APPLAUSE} It's to thank those folks who, when they see a neighbor in need, put their arm around them and say, what can I do to help you, brother or sister? What can I do to help you on your walk? 
+
+No, the greatness of America is our people. It's important to trust the people. It's important to trust the people with their own money. But it's also important for our President to understand that by rallying the spirit of America, we can trust the people to make America a compassionate, decent place for all of us who are fortunate enough to live in this land. 
+
+I'm proud to be your President. Thank you for coming. God bless. {APPLAUSE} 
+
+{/speech}

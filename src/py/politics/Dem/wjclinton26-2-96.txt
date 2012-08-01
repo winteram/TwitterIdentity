@@ -1,0 +1,47 @@
+﻿{title} Remarks by the President to the 1995 World Series Champion, The Atlanta Braves {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 26, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Senator Nunn, Congressman Lewis, Congressman Bishop, Terry McGuirk, Harvey Schiller, Bill Bartholomay, Stan Kasten, John Schuerholz, and to Bobby Cox and the coaches, the staff, and of course, the Atlanta Braves: Let me welcome you all to the White House. We are delighted to have you here. 
+
+Secretary Riley is relocating from South Carolina to Georgia as a result of the outcome of the World Series. {LAUGHTER} We're glad to see you here. 
+
+This is a happy day for all of us. Three years ago, shortly after I became President, I had occasion to meet the Canadian Prime Minister when he hosted a meeting in Vancouver between President Yeltsin and me. And he wanted to have all this high-flowing policy discussion, and I said, "Now, before anything else, I want to tell you that my number one objective in our relations with Canada is to win the World Series back." {LAUGHTER} And I want to thank the Atlanta Braves for helping my foreign policy with Canada to succeed. {APPLAUSE} 
+
+It was a great season, and it was a magnificent World Series victory. Since 1990 this team has been the winningest team in baseball, with three National League pennants and four division titles and an absolutely extraordinary level of performance, which for every baseball fan in America has been a thrilling thing to watch. 
+
+Your victory is very well-deserved, not only because you have been there before, but throughout the season you were dogged by doubts and second-guessing. I can identify with that. {LAUGHTER} You proved your critics wrong, and you achieved baseball's highest goal by overcoming adversity and criticism. 
+
+Casey Stengel once said, good pitching beats good hitting and vice versa. {LAUGHTER} Well, the Braves proved that last year. You had great hitting, great fielding, and great pitching. Tom Glavine and Greg Maddux have won every Cy Young Award for the past five years. You may have an antitrust suit on your hands, even with baseball's exemption. {LAUGHTER} 
+
+We were all thrilled by Dave Justice's play and his solo home run in the final game, which put the Braves on top. And we were -- I think all of us who grew up around baseball were literally stunned -- I think "stunned" is the only word -- by the success of your entire pitching staff. We may never see a performance like that in my lifetime. And I want to compliment all of them, especially since Senator Nunn told me on the way in they were all good golfers, as well. {LAUGHTER} 
+
+I think the Braves have shown us the best side of professional sports -- perseverance and hard work and commitment, and a commitment that has endured over seasons. There really does seem to be a spirit of teamwork that has worked for this team. At a time when so many people wondered whether the team spirit and the ties to community still characterize professional athletics, the Braves have demonstrated beyond doubt that in Atlanta and with the Braves that is still the truth, and that it has been richly rewarded by consistent performance year in and year out and, finally, by the World Series victory. 
+
+For all of that I say on behalf of our entire country, congratulations. Welcome to the White House. It is an honor to have you here. And if you keep doing what you've been doing I expect you'll be here for several more years, and I hope I'm around for a few of them to welcome you back. Thank you very much. {APPLAUSE} 
+
+{COMMENT="Gifts are presented to the President"} {APPLAUSE} 
+
+Thank you very much. I looked in here hoping I could find out how many strokes I would get from each player. {LAUGHTER} 
+
+Let me say again to all of you, I welcome you here. We're going to take a little picture now and then have a receiving line next door so we can bring everyone in. It occurred to me that I ought to make one more point since the team is here and we were forced to delay this once because of the operation in Bosnia. 
+
+This room is a good reminder of why teams and why this country should never say die. And I think I should tell you this. It was in this room in 1814, 182 years ago, that symbolically the light of liberty in America almost went out. This room was all set up for a fancy banquet, and unbeknownst to the people who were planning to come, in the War of 1812, the British had actually landed a few miles from here. 
+
+And our President, James Madison, was the last President of the United States that actually was the operating Commander in Chief of the Armed Forces. He was out of the White House, and his wife, Dolly, was basically going to host this dinner they were having. And so James Madison sent his wife word that the British were coming and that she should get out of here before she was killed. 
+
+But she had to save that picture of George Washington, which was painted in 1797, 200 years ago next year, by Gilbert Stewart. And we bought it for $500 in 1797. It's worth a dollar or two more today. {LAUGHTER} She cut that picture out of a frame, rolled it up, and just before the British rolled in here she cleared out, along with all the party-goers. 
+
+They came in and had the gaul to eat all of our food, and then they burned the house down. And a lot of people thought the next day that America's days were numbered. It didn't turn out that way. 
+
+And I think if we all remember that we can do more in our own lives to help our country, our team, our families and our communities. And that's the sort of spirit you have exhibited. I hope you'll -- when times get tough, you'll remember that story. That was a long time ago, and we're still here. 
+
+God bless you, and thank you. {APPLAUSE} 
+
+{/speech} 

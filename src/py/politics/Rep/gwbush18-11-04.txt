@@ -1,0 +1,32 @@
+﻿{title} President George W. Bush's Remarks at the Clinton Presidential Center Dedication {/title}
+{event} William J. Clinton Foundation {/event}
+{speaker} George W. Bush {/speaker}
+{date} November 18, 2004 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+President Clinton, Senator Clinton, President Carter and Mrs. Carter, President Bush and Mother -- {LAUGHTER} -- Governor and Mrs. Huckabee, distinguished guests, ladies and gentlemen: Laura and I are really pleased to be a part of this happy and historic occasion. On this day of dedication, we honor the man from Hope, Arkansas, who became the 42nd President of the United States. Mr. President, congratulations. {APPLAUSE}
+
+This presidential library chronicles a vivid era in American history, for the benefit of future generations. It will contribute to the vitality of this fine city and to the great state of Arkansas. The collections here record the dedication and hard work of thousands, who brought talent and idealism to public service. And at the center of that era, at the head of that administration, was an able and energetic American. President Bill Clinton led our country with optimism and a great affection for the American people, and that affection has been returned. He gave all to his job, and the nation gave him two terms.
+
+In the early 1990s, the American people saw a young, well-spoken, relatively unknown governor rise to national prominence. Yet for decades here in Arkansas, the signs of destiny were clear. When young William entered a new school in the 4th grade, a classmate recalls, "He didn't mean to, but he just took the place over." {LAUGHTER} When Governor Clinton declared his candidacy for President in this city, his close friends were not surprised in the least. They'd always known that Bill Clinton's moment in history would come.
+
+Arkansas is a state that knows political skill when you see it. A fellow in Saline County was asked by his son why he liked Governor Clinton so much. He said, son, he'll look you in the eye, he'll shake your hand, he'll hold your baby, he'll pat your dog -- all at the same time. {LAUGHTER}
+
+Over the years, Bill Clinton showed himself to be much more than a good politician. His home state elected him governor in the 1970s, the 1980s, and the 1990s, because he was an innovator, a serious student of policy, and a man of great compassion. In the White House, the whole nation witnessed his brilliance and mastery of detail, his persuasive power, and his persistence. The President is not the kind to give up a fight. His staffers were known to say, "If Clinton were the Titanic, the iceberg would sink." {LAUGHTER}
+
+During his presidency, Bill Clinton seized important opportunities on issues from welfare to free trade. He was a tireless champion of peace in the Middle East. He used American power in the Balkans to confront aggression and halt ethnic cleansing. And in all his actions and decisions, the American people sensed a deep empathy for the poor and the powerless. Shortly before leaving office, President Clinton said, "Christ admonished us that our lives will be judged by how we do unto the least of our neighbors." Throughout his career, Bill Clinton has done his best to live up to that standard. And Americans respect him for it.
+
+At every stage of his remarkable life, President Clinton has made and kept countless friends, who share in the joy of this day. And three people in particular have the largest part in this remarkable story. One day more than 30 years ago, inside the Yale Law Library, a fellow student walked over to Bill Clinton and said, "If you're going to keep staring at me, and I'm going to keep staring back, we ought to at least know each other's name. Mine's Hillary Rodham. What is yours?" {LAUGHTER} That was a good day for both of them, and the beginning of a partnership unique in American history. So today, we honor the former First Lady of Arkansas, the former First Lady of America, the United States Senator from New York, Senator Hillary Rodham Clinton. {APPLAUSE}
+
+Perhaps the Clintons' greatest achievement is their daughter, who moved into the White House as a young girl, and left as an accomplished young lady. It's not easy to be a teenager in the White House, but it's a lot easier when you have a loving mother and a loving father that Chelsea Clinton had.
+
+This magnificent presidential library, and the American life it celebrates, would not have been possible without the love and sacrifice of a special lady. Among his heroes, President Clinton always includes his mother, Virginia Kelley, "a working woman and a widow." Virginia was there when her son took the oath of office, and we know that she would be incredibly proud of this day.
+
+The story that began in a little house on Hervey Street in Hope, Arkansas is the kind of story that inspires people from every background, all over America. In this great nation, it is always possible for a child to go as far as their talent and vision can take them. Visitors to this place will be reminded of the great promise of our country, and the dreams that came true in the life of our 42nd President. The William J. Clinton Presidential Library is a gift to the future by a man who always believed in the future. And today, we thank him for loving and serving America.
+
+God bless. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,40 @@
+﻿{title} Remarks by the First Lady at National Youth Services Ceremony {/title}
+{event} National Youth Services Ceremony {/event}
+{speaker} Hillary Rodham Clinton {/speaker}
+{date} April 20, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. {APPLAUSE} I want to thank Eli Segal for all of the work that he is doing in leading the charge to translate into reality the belief that national service is something that young people and not-so-young people -- all of us -- want to be a part of. And I want to thank all of you who have gathered here at the White House for this celebration.
+
+Now, this is how campaign promises -- {LAUGHTER} -- sort of take on a new life. {LAUGHTER} A year ago, I have to confess, I never had any doubt that my husband would be President because I believed it was the right thing and I thought that the country was ready for the kind of change that he was advocating. So when, in a moment of careless aside -- {LAUGHTER} -- I told Vanessa, this is such a great program and we believe in it so much; why don't we do it in the Rose Garden next year -- {LAUGHTER ; APPLAUSE} -- I assumed that she was busy, she had a lot on her mind. {LAUGHTER} It didn't rank way up there with recruiting more people to be part of Public Allies. And I, frankly, didn't remember it either. {LAUGHTER}
+
+So when our collective memory kicked in and we all remembered that I had invited all of you to come, I was very excited. But then, as often happens with campaign promises, you get to the small print. The small print is that I think specifically, Vanessa, I said, next year we'll do this in the Rose Garden. But then there were too many of you to fit in the Rose Garden, and so we fulfilled the campaign promise, but not exactly. So you're here at the White House and we're delighted you're here. And we're excited by what your being here represents.
+
+We've already heard three of the most eloquent testimonies to service that anyone could hear when we heard from Carl and Sarah and Maria, because each in his and her ways talked about how service is not a one-way street. Service is not doing something for somebody else and that's the end. Service is being committed and being part of the community in which you live. And it means then that you get as well as you give.
+
+There's a young man named Matthew whose life has been changed because of Carl, just as Matthew has changed Carl's life. {APPLAUSE} There are 20 children in a classroom whom I wish you had brought with you whose lives are being changed on a daily basis because someone named Sarah decided that teaching and using her education to help other people was something that would not only be good for her to do, but something she would be educated because she had done.
+
+And then there are a lot of people like Maria who now feel part of our country because they have voted and because they have convinced other people to vote and because they now see that they have a stake in helping to change what goes on around them. {APPLAUSE}
+
+When I talk about service, I often quote my friend, Marian Edelman, with that wonderful line from her in which she said that service is the rent we pay for living. And service is a very fundamental way we connect with one another while we live. It is the way that we find meaning in our lives, both individually and collectively, because we see what we are capable of and we watch it being reflected in the faces of others.
+
+We see it in the houses we build. We see it in the neighborhoods we help reclaim. We see it in the lives we touch. And then we come home and look in the mirror and know that we've been reclaimed, we've been touched, we've been served. And that is why this whole concept of national service that my husband believes in so passionately is at the root of what he sees as the need to rebuild and reclaim America.
+
+And it is founded on very simple core values. And I'd like to talk about those core values, because community, opportunity, responsibility and education are really at the core. And the more we can expand the idea that we are interconnected and interdependent, that we need one another in order to be fully whoever we were intended by God to be, the more we understand the role that service has to play in an individual's life, in a community's life, in a nation's life.
+
+So arrayed behind me are young people who are being honored for what they have done and what they represent. But also arrayed behind me are lives that have been changed because of service.
+
+I am very hopeful that the decade of the '80s in which individuality and selfishness and greed were viewed as virtues is over. {APPLAUSE} And I am particularly hopeful that the promise of the '90s will be fulfilled. Now, will it be easy? Of course, it won't. As Eli said, I've been doing service in some way or another for many, many years. And has it always been a success? No, it hasn't. Have I always felt that maybe I helped to change something? Not always. But on balance in my life it has enriched my life and it has given me an opportunity to give back what I've been blessed with.
+
+But it is not going to be easy on a national level to translate those very personal values into widely spread concepts and programs that will take root and grow, no matter who is President, no matter what Vanessa does next year, no matter who is the esteemed Senator from Pennsylvania or Illinois. Translating that kind of value into action and then making sure that action lives beyond the actors is what is behind our commitment to national service. {APPLAUSE} Because we believe the American social contract, the American Dream, America itself, as we love it and understand it and believe in it, is at stake.
+
+As we move forward from this day and this occasion, where we take a few minutes out to not only say thank you, but to celebrate the accomplishments of these young people, let's use the energy and the feeling that is gathered here to fuel us for the struggles that lie ahead, which are not really over a program called national service, but over the future of a country -- over what kind of people we are and will be, what kind of opportunities our children will have, what responsibilities all of us will feel for one another.
+
+Service goes far beyond what we can even put into words. But those of us who have done it and believe in it know that it is part of what makes life meaningful and makes it possible for us to look each other in the eye, as Carl has done in his own face, and say I can be somebody, I can do something, I can make a contribution. And that's about the best definition of an American I've ever heard. {APPLAUSE}
+
+Thank you all very much. {APPLAUSE} 
+
+{/speech}

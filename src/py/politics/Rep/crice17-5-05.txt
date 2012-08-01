@@ -1,0 +1,28 @@
+﻿{title} Remarks at the 2005 Global Classrooms: Washington, D.C. Model United Nations Conference {/title}
+{event} Dean Acheson Auditorium, Washington, DC {/event}
+{speaker} Condoleezza Rice {/speaker}
+{date} May 17, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Thank you. Thank you. Well, it's great to be here with you, the participants in Model United Nations. Thank you Ambassador Luers, Superintendent Janey, thank you Mr. Fakahany and thank you Jattna -- where did she go -- for that terrific introduction. Thank you very much.
+
+I just want to take a couple of minutes and then perhaps some of you can ask some questions. We can have a little bit of a dialogue. And I think this is a wonderful program. I am so happy that you've decided to participate to get a sense for how international relations really unfolds, how diplomacy is done.
+
+I know that when I used to teach my own classes in International Politics at Stanford I always at the end of the quarter, we would have a simulation where students got to actually participate in decisionmaking about some crisis in the world. And the reason that that's important is unless you participate in those kinds of decisionmaking activities, you really don't think that people who make decisions are really smart. How come they just don't get it? Well, after you've had to actually try and do it, I think you have a better sense of how hard it is to make all of the tradeoffs in diplomacy, how hard it is to reconcile the interests of their different parts. And perhaps you have a little bit more understanding for people who are trying to make good decisions in international relations.
+
+And so I think this is a wonderful program and I'm glad that you're all involved in it. It also gives you an opportunity to see what it might be like to have a future in public service. Public service is enormously important to our country, to the United States, where the participation in democracy is a key to making democracy work. But it is increasingly an important issue around the world because we are seeing the rise of democracy in places that no one ever thought possible. How could you not be impressed with the changes that have been taking place around the world, the Orange Revolution in Ukraine or the Rose Revolution in Georgia, or the Cedar Revolution in Lebanon, where the Lebanese people are just about to have an election at the end of this month. Where the people of Afghanistan in a place that is not a very developed country, where along dusty roads people stood in line for many, many hours just to cast a vote, where in Iraq people vote -- people faced down terrorism and threat in order to be able to cast their votes. And where just yesterday Kuwait decided to grant the franchise to women to vote. {APPLAUSE}
+
+So it's an exciting time for the march of democracy. But it brings a very special responsibility to those of us who are fortunate enough to be living on the right side of freedom's divide and that is not to forget people who are still on the other side of freedom's divide. It is all too easy to take for granted that which we have: the right to say what you think; the right to worship as you wish; the right to educate children, boys and girls; the right to be free from the knock of the secret police at night. Those are elements of human dignity that we can all take for granted because we've been fortunate enough to grow up in societies where that is respected.
+
+But never forget that there are people who still live in tyranny. Never forget that it is the obligation of people who live on the right side of freedom's divide to speak up for those people who live in tyranny. And never, ever give in to a very patronizing thought that is sometimes out there -- that there is somehow people who either don't deserve freedom or who don't care about freedom or whose cultures are incompatible with freedom. It is absolutely not the case. Freedom is a universal value. The desire for liberty is a universal value. And those of us who are fortunate enough to be born into societies that respect it have an obligation to speak up for those who do not.
+
+So with those remarks and the sense that this is a very exciting time in international politics and I'm awfully glad that I decided not to major in music after all. {LAUGHTER}
+
+I'm happy to take your questions.
+
+{APPLAUSE} 
+
+{/speech}

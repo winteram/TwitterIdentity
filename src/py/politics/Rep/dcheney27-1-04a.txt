@@ -1,0 +1,44 @@
+﻿{title} Remarks by the Vice President to Troops and Families {/title}
+{event} ----- {/event}
+{speaker} Dick Cheney {/speaker}
+{date} January 27, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all very much. I'd like to thank all of you for this warm welcome. This isn't quite the sunny Italy we thought we were going to have. {LAUGHTER} This is my first trip to Italy as Vice President -- and when we put the itinerary together, I wanted to make certain we had the priority stop here at Aviano. {APPLAUSE}
+
+I'm proud to be with members of the 16th Air Force -- {APPLAUSE} -- the 31st Fighter Wing, family members and all our Italian friends.
+
+America's presence at this air base dates back to the Second World War, and you're living up to its proud history. You play a vital role in the defense of our country. And you're serving far from home, but millions of Americans are thinking about you every day. I'm honored to express the nation's gratitude, and to convey the personal regards of our Commander-in-Chief, President George W. Bush. {APPLAUSE}
+
+Every unit at this base is performing with distinction. Squadrons from the 510th and 603rd are flying key missions over Iraq and Afghanistan, keeping watch over our people there. Just over a month ago, F-16s out of Aviano were overhead when our soldiers on the ground found Saddam Hussein in a hole. {APPLAUSE} This base is also helping us to meet our commitments in the Balkans, where the 555th is carrying out support missions over Bosnia.
+
+And here on the base, you work very closely every day with our Italian allies -- military personnel, fire department, Carabinieri and medical support, we're grateful to all of them. I especially want to thank Colonel Scarpolini for his fine leadership and professionalism. {APPLAUSE} The teamwork here at Aviano is a daily reminder of the superb relationship between our two countries. Italy is a great friend and ally of the United States.
+
+Members of our military depend, above all else, on the support of their families -- and I want to thank them, the family members who are with us today. You're a close-knit community; you look out for each other. The spirit of volunteerism at the base is strong. America is proud of each and every one of our military families. {APPLAUSE}
+
+Today's generation of our military has been called to fight in the first war of the 21st century -- a war that began on September 11th, 2001, when enemies struck the United States and murdered thousands of our fellow citizens. On that morning, America awakened to new dangers, and we accepted new responsibilities.
+
+That day changed everything. In the space of a few hours, we saw the violence and the grief that terrorists can inflict. And we had a glimpse of the even greater harm they wish to do to us. The terrorists hate our country and everything we stand for in the world. They seek even deadlier weapons, and they would use them against us. In the face of this danger, we have only one option, and that's to take the fight to the enemy.
+
+We are breaking up cells and disrupting plots. And we are staying on the offensive -- tracking al Qaeda around the world. Many skilled and determined military personnel are on a manhunt -- and one by one, we will bring the terrorists to justice. {APPLAUSE}
+
+As President Bush made clear from the very beginning, America is also determined to confront the regimes that support terror and could supply them with ever deadlier weapons. That's why we went into Afghanistan, and took down the regime, and shut down the al Qaeda camps. And now, with the help of our coalition, the Afghan people are building a decent and a just society -- and the Taliban is gone forever. {APPLAUSE}
+
+In Iraq, where a dictator cultivated ties to terror and sought to arm himself with deadly weapons, America led a mission to make the world safer, and liberate the Iraqi people. Saddam Hussein defied the demands of the civilized world and he has experienced the consequences. At the start of 2003, just a year ago, he controlled the lives and the future of 25 million people. Now at the beginning of 2004, he's in jail. {APPLAUSE} He will never again brutalize his people, never again threaten the United States of America.
+
+The combat operations in Afghanistan and Iraq showed the great power and precision of America's modern military. We destroyed terrorist camps, military training facilities, air fields, air defenses, ammunition storage areas, and command and control facilities. With our air power, including unmanned combat vehicles and precision weapons, it has been possible to strike the enemy and spare innocent lives.
+
+We will invest in these and other capabilities in the years ahead. To carry out any mission that may come, you deserve the very best, in terms of weapons, equipment, and training and support. And you will have them.
+
+Important work goes on in Iraq and Afghanistan. Having liberated more than 50 million people from cruel oppression, we are now helping them to establish free and stable societies in a troubled region of the world. Freedom still has enemies in those countries, and these enemies are using the tactics of terror against our coalition forces and against innocent civilians. They hope to intimidate us, but they won't succeed. We will confront and defeat them at the heart and the center of their power, so we do not have to face them on the streets of our own cities.
+
+The mission going forward is still difficult, and the enemy is still dangerous. We have lost some brave Americans -- and our Italian allies have also sacrificed in this cause. America does not take for granted our freedom, or those who put their lives on the line for the security of us all. We remember every life lost, and we honor every name.
+
+All the members of our military are engaged in a great and honorable cause. You are protecting innocent life, and defending human freedom against determined enemies. You can be proud of the uniform you wear, the oath you've taken, and the code you live by every day. In this time of testing for our country, much has been asked of you. And I can assure you, on behalf of the President and all Americans: This nation has confidence in your abilities, we are certain of your success, and we are grateful for your brave service to the United States of America.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

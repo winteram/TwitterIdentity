@@ -1,0 +1,46 @@
+﻿{title} Remarks by the President at Reception Celebrating Asian American and Pacific Islander Heritage Month {/title}
+{event} Asian American and Pacific Islander Heritage Month {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 24, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, everybody. Thank you. {APPLAUSE} Thank you so much. It is wonderful to see all of you -- some of you back for the second time. Some of you work for me, so you're here all the time. {LAUGHTER}
+
+I want to, before I start off, acknowledge that we've got just some outstanding members of Congress who are always fighting the good fight for the AAPI community. It starts at the top, though, and I want to give a huge welcome and big round of applause for somebody who will go down as one of the greatest Speakers in our history -- Speaker Nancy Pelosi. {APPLAUSE}
+
+I want to thank Father Vien for his introduction. He's led Mary Queen of Vietnam Church in Louisiana through some pretty hard days. After Katrina, he served not only as a spiritual advisor but also as a community organizer, making sure his parishioners got the help that they needed. In fact, shortly after returning to New Orleans, when much of the city was dark, he convinced the utility company to divert electricity to the neighborhood around his church. So nobody messes with Father Vien. {LAUGHTER} He tends to get what he wants.
+
+Today, as communities in the Gulf face new hardships as the result of this ongoing oil spill, he's once more taken up the cause of his community. He's advocating on behalf of the many Vietnamese and Cambodian Americans and others who make their living shrimping and fishing. And I want him to know that we are going to be tireless in working to do everything we can to support the community and everybody whose livelihoods have been imperiled down in the region. {APPLAUSE}
+
+I want to not only thank all the members of Congress who are here -- I think Ric Shinseki may be here; has he made it yet? He may be late. Give Ric Shinseki a round of applause anyway because he's doing a great job as our Secretary of Veterans Affairs. {APPLAUSE} I want to thank DJ Rekha who's been spinning a little East Room Bhangra for everybody -- {APPLAUSE} -- mixing a hip-hop beat with the sounds of her heritage; making a uniquely American sound that may not have been heard in the White House before. {LAUGHTER}
+
+But, you know, that speaks to the promise of this country -– a nation that welcomes contributions from all peoples, all colors, all creeds. We draw strength from the rich tradition that everybody can call America home because we all came from somewhere else except for the first Americans. “E pluribus unum.” Out of many, one. And there's no better example of this than the communities that are represented in this room. Your role in America's story has not always been given its due. And many Asian Americans and Pacific Islanders have known tremendous unfairness and injustice during our history.
+
+But we also know that generations of Asian Americans and Pacific Islanders helped to build this country, defend this country, and make America what it is today: from the Chinese laborers who scaled cliffs and laid ties to connect our coasts by rail, to the members of the 442nd Regimental Combat Team who fought and bled overseas while their families were interned back home; from the hundreds of thousands who bore hardship and sacrifice on the journey to Angel Island a century ago, to the more than 16 million Asian Americans and Pacific Islanders whose talents and efforts strengthen our economy and protect our security and enliven our communities each and every day. And obviously this is personal for me, since you need to look no further than my family -- my sister Maya, and brother-in-law Konrad, and my two mischievous nieces -- {LAUGHTER} -- Suhaila and Savita -- to know that it is part of America's past but is also going to be part of America's future.
+
+And for this reason, we are here today to celebrate these contributions. But we're also holding this event because I want to make sure that we are hearing from you -– so that the government does its part on your behalf, just as you're doing your part on America's behalf.
+
+And that's why I signed an executive order to reestablish the White House initiative on Asian Americans and Pacific Islanders. {APPLAUSE} It's chaired by my Commerce Secretary, Gary Locke, and my Education Secretary, Arne Duncan. Are they here? There's Arne. {APPLAUSE} It's easier to spot Arne than Gary. {LAUGHTER} That's why we're always welcoming your input -– from meetings with Sikh Americans to Native Hawaiians. The goal is to make sure that our government is successfully working to address disparities in health care, in education, and economic opportunity that exists within various AAPI communities.
+
+Sometimes these disparities don't get the attention they deserve. People get lumped into one category, and obviously so many Asian Americans are doing so well that the fact of disparity is lost and forgotten. But as you know, beneath the label of “AAPI” are dozens of communities, and each is facing their own unique challenges. And that's part of what this education effort within government is all about, to make sure we're not making generalizations but rather we're thinking in very particular terms about how we can help to give everyone in this country the opportunity they deserve.
+
+I'm also going to fight -- have been fighting and will keep on fighting for comprehensive immigration reform that respects our nation's heritage. {APPLAUSE} We have to respect our heritage as a nation of laws and a nation of immigrants. And that means that everybody is going to have to take responsibility. Government has a responsibility to secure the border and enforce laws. Washington has an obligation to set clear, common-sense rules, including rules that no longer punish and divide families that are doing the right thing and following the law. That's why addressing the backlogs problem in our immigration system is an important part of reform. Business has to be held accountable when they exploit undocumented workers. Individuals who are here illegally, they have to take responsibility by paying a fine and back taxes, learning English, and going to the back of the line so that they take a legal path towards citizenship.
+
+These are the essential elements of comprehensive reform, and I'm going to work with members of both parties to get it done. It may not be the easiest thing to do politically. But I also know that it is the right thing to do for our country.
+
+In addition, we've sought to honor AAPI heritage –- commemorating Hmong New Year, marking -- good to see you. {LAUGHTER} I know, I remember you. {APPLAUSE} How's your kid? She's doing good? Good, good, good. {LAUGHTER} Didn't know we were going to have that little colloquy, but -- {LAUGHTER}
+
+We've marked Diwali in the White House. {APPLAUSE} And with my appointments and nominations, I've worked to make sure that we've got a government that is reflective of all America, including Americans of Asian descent and Pacific Islanders.
+
+But I think it's also important to stress that while you confront some specific challenges to AAPI communities, everybody here understands that nobody is immune from the problems that our country is confronted with as a whole.
+
+As small business owners, Asian Americans and Pacific Islanders know how important it is that we continue to spur growth after a long and brutal recession. As parents, everybody here is concerned about the quality of our education system, and making college more affordable and accessible. As Americans, we want to make sure that we're giving our children the same opportunities that were given to us. And you know that it's up to each generation of Americans to pass on that legacy –- to make sure that America is living up to its promise; a place where all things are possible if you're willing to put in a lot of hard work.
+
+Asian Americans and Pacific Islanders have helped to fulfill that promise for generations now. And because of the leadership of all of you in this room and people all across the country, I'm confident that that will continue into this century.
+
+So thank you so much, everybody, for being here. God bless you. God bless America. Thank you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,24 @@
+﻿{title} Remarks by the PresidentDuring Welcoming Ceremony With Caribbean Leaders {/title}
+{event} Opening of Barbados Conference {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 10, 1997 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+To our host, Prime Minister, if I had known earlier in my life that George Washington came here as a young man, I would have been here before. {LAUGHTER} I thank you for the warm welcome that you have given to me and to my wife, to Secretary Albright and our delegation.
+
+I wanted to make the important point last night, and I would like to make it again, that while we have gathered as a group before in the White House and in Port-au-Prince, this is the first time an American President has actually held a summit with the Caribbean heads of government in the region itself. But the point I wish to make is that this is not a meeting between Caribbean nations and the United States, but rather a meeting among Caribbean nations including the United States. {APPLAUSE}
+
+Puerto Rico and the American Virgin Islands lie at the heart of this region. We are joined today by the Governor of the Virgin Islands, Governor Roy Schneider; the congressional delegate from Puerto Rico and former Governor, Carlos Romero-Barcello. Last night the delegate from the Virgin Islands, Donna Christian-Green, was here with us and we also have Congresswoman Maxine Waters from California here.
+
+The United States is very much aware that millions of our fellow citizens trace their heritage to these islands and that we have benefitted immeasurably from them. More than ever before we are linked economically and politically. Every nation but one in the Caribbean has chosen free elections and free markets. I am proud that the United States has long been a beacon for freedom in this hemisphere. But I am proud that so many of the other nations represented around this table have also been long beacons for freedom.
+
+And, like all the rest of you, we are especially gratified to be joined by the second democratically elected President of Haiti -- and, President Preval, we're glad you're here and we wish you well and we're with you all the way. {APPLAUSE}
+
+We have a lot of work to do today and I will try to be brief. We have to work on means to expand the quality of our lives by expanding trade, by helping small economies compete in a global economy, by strengthening the education of our children and deepening our cooperation against crime and drugs. If we work together we can bring the benefits of change to our citizens and beat back the darker aspects of it. We can meet the new threats to our security and enhance our prosperity.
+
+I want this summit to be the start of an ongoing and deeper process of Caribbean cooperation. We have worked very hard, all of us have, to make this summit productive. We have a rich and full document to which we are all going to commit ourselves. But, still, we must be committed to working over the months and years ahead for our people and our Caribbean community, and that is my commitment to you. This summit should be the beginning, not the end of this process. Thank you. 
+
+{/speech}

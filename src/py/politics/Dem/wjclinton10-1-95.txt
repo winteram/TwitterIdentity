@@ -1,0 +1,72 @@
+﻿{title} Speech to Galesburg High School Students {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 10, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Wow -- thank you. Thank you very much. I don't know where everybody else in Galesburg is today, but I'm glad you're here -- I'm glad to see you all. {APPLAUSE} Thank you. Thank you. Thank you so much. 
+
+I would like to begin by paying my compliments to the band. Didn't they do a good job? I thought they were terrific. {APPLAUSE} 
+
+I also want to thank -- I understand that you all heard the speech I gave -- is that right? {APPLAUSE} No, yes? No? Somebody is saying yes; somebody is saying no. Anyway, I was over at the community college, as you know, and I met there with about 20 people who had either been students there or are now students there, or who taught there or who hired people who graduated from there. And I went there to talk about education with the Secretary of Labor, who is not here with me, and the Secretary of Education Dick Riley -- the former Governor of South Carolina, who is here with me -- {APPLAUSE} -- and your fine Congressman Lane Evans. I'm glad to see him. Give him a hand. {APPLAUSE} 
+
+I would like to say, first of all, on behalf of myself and all of those who came with me from Washington today, we have had a wonderful welcome in this terrific community. And we're very grateful to all of you for that. {APPLAUSE} 
+
+I must say, when I landed at the airport and they told me that I couldn't take the helicopter to Galesburg, I'd have to drive, I was actually kind of happy because I got to drive across the farmland. And I looked at all the land and it kind of made me feel -- no, I liked it. It made me feel right at home. That's where I grew up. {APPLAUSE} 
+
+I would like -- I want to say a couple things about what I came here to talk about today, since some of you heard what I said and some of you didn't. I'll be brief, but I want to talk about it because I think it's important. 
+
+When I ran for President in 1992 and I came here to Illinois and I went up and down the state -- 
+
+{AUDIENCE-MEMBER} To Peoria. {/AUDIENCE-MEMBER} 
+
+Yes, to Peoria and other places -- {APPLAUSE} -- I always knew it was a very big state, but when I visited Southern Illinois University in the southern part of the state, I looked at a map and I realized I was south of Richmond, Virginia. And I said, this is a very big state and a very beautiful one and, of course, my wife's home; so I like it a lot. {APPLAUSE} 
+
+I believed then and I believe now that we are going through a time of great change, which, if we do the right thing, will lead us to America's greatest days. I think the young people here in this school can live in the most peaceful, most exciting, most prosperous, most exhilarating times this country has ever known if we do the right thing. 
+
+And if you look at what's going on in America today, it just reinforces in my mind the things I have always wanted to do. I worked as a governor for 12 years and I knew what my mission was in this global economy -- I had to improve the schools; improve education for people of all ages; and get more jobs into my state. 
+
+If you look at where we are as a country now, I ran for President committed to doing three things. I wanted a new economic policy so that the government would be working with ordinary working people and with business so that we would be able to compete and win in a global economy; we'd be able to get good jobs and keep them. {APPLAUSE} I wanted to change the way the federal government works. I wanted the government to be smaller, but more effective. I wanted it to be able to solve people's problems, but to be flexible and creative and not waste money. And I thought we could do that, and I've come back to that. I think we've done a good job of making those changes. {APPLAUSE} 
+
+And the third thing I wanted to do was to institute what was my version of the "contract with America." I called it the New Covenant. I believe that we need a new sense in this country that the government's job is to do what it can to provide more opportunity. But we need more responsibility from our citizens as well. If we're going to rebuild the American community, we have to have more rights and responsibility. And you can't have one without the other. 
+
+If people go around being responsible and no opportunities ever come their way, they get tired and quit. But if you just give people things and they never act like responsible citizens, the whole country comes apart at the seams. What we need is more of both -- more opportunity and more responsibility. And if we have it, we can rebuild America. {APPLAUSE} 
+
+Now, after two years, I can make this progress report to you. We had to first work on the economy; we had to bring the deficit down. We had to open some markets around the world to our goods and services because we were seeing people selling things to America who worked for wages we couldn't live on. We saw people losing jobs here and losing incomes. We had to open those markets around the world. Well, after two years, we've reduced the deficit by $700 billion. That's $11,000 a family in less debt for you and your future -- $11,000 a family. {APPLAUSE} 
+
+And we've had more opening of markets to American products and services than in any period in our history. So we're moving. What have we got to show for it -- 5.6 million new jobs; the lowest unemployment rate in Illinois in two years. We are moving in the right direction. {APPLAUSE} 
+
+Now, we've changed the way the government works. There are 100,000 fewer people working for the federal government today than there were working for the federal government on the day I became President. We are going to reduce the government now by over 300,000. It will be the smallest it's been since John Kennedy was President, but it's doing things. It's doing things. When you had the terrible floods here, the Federal Emergency Management Agency, which had been condemned for years as an ineffective agency, showed up here and was ready to serve the people in the middle of the worst emergency you've had in a long time. It delivered; it worked. That's the kind of government we need -- smaller, but effective and strong and there. {APPLAUSE} 
+
+Third, and maybe most important, we tried to expand opportunities for communities and individuals in a way that would enable people to take responsibility for their own lives. That's what our crime bill is all about. The crime bill that Lane* voted for will reduce the size of the federal government by 270,000 over five years and take every penny of that money and give it back to you and your local community to hire more police; to have drug treatment and drug education programs; to do things that will lower the crime rate. And everywhere I go in America, law enforcement officers or mayors come up to me and say, we're going to lower the crime rate because of that crime bill; thank you very much. That's the kind of thing we ought to be doing. {APPLAUSE} 
+
+And I hope -- let me say, I hope when the new Congress gets around to debating welfare reform, that's what I hope they'll do with welfare reform. The problem with welfare is not that it is so costly -- it's only about 3 percent of our national budget -- the problem is that it encourages dependence instead of independence, encourages welfare instead of work. What we want is not a program that punishes poor people, but that requires poor people to take those steps that will enable them to move from welfare to work, to be responsible parents and responsible workers; not punishment, but reward. {APPLAUSE} 
+
+So we did that for two years, but there's still a real problem in America. Why are a lot of people not very happy? Because most Americans still have not felt any personal benefit from this economic recovery. This is a new thing in our history and all the young people here should listen to this. We created all these new jobs in America with these productive American industries. Why aren't people happy? Because their wages aren't going up, right? {APPLAUSE} And because a lot of people still feel uncertain about their jobs and because another million Americans lost their health insurance last year who are in working families -- {APPLAUSE} -- and because millions of Americans are worried about their pensions. All these changes are going on and people don't feel secure even when we create more jobs. 
+
+Now, how do you raise wages? There are only three ways to raise wages. You have to get more high-wage jobs in the economy. You can take less out of the pocketbooks of middleclass wage earners and let them keep more of the money they do earn. Or you can increase the education and skill level of people. {APPLAUSE} 
+
+Now, let me say, we're getting more high-wage jobs into the economy and I want to support a middle-class tax cut like the one I have outlined in the Middle Class Bill of Rights that will -- {APPLAUSE} -- that will give people more take-home pay. But the most important thing of all is to do it in a way that will support the mission of education and training, not only for our school children, but for the adults I met at that community college today because we know now that for the first time in history, we're going to have economic recovery and job creation that don't benefit ordinary people unless we can raise the education levels of all the people in the United States in the work force -- the adults. 
+
+That means we've got to get more people to the colleges, more people back to the community colleges, we've got to help people work and train and raise their kids at the same time. That's what I talked about today. {APPLAUSE} 
+
+Whether you are a Democrat or a Republican, I hope you will support these ideas because they're American ideas. Let's give a tax deduction for the educational expenses that people have after high school, whether they're in a college or a community college. {APPLAUSE} 
+
+Let's let working people invest in an IRA, an individual retirement account, but be able to withdraw money from that tax fee for education, for health care, for caring for their folks. {APPLAUSE} 
+
+Let's give tax relief to working people for their children in their homes so they can help be successful parents and successful workers. 
+
+And finally, I propose to take all these government programs that are paid to train people and consolidate the money. And if you qualify because you're unemployed or because you're a low-income person, if you want to go to school, I propose, in effect, letting you send a check to the local community college and not having to go through all these government programs and red tape. Just go to school, get the education, go forward. Just do it. {APPLAUSE} 
+
+Now, folks, these are good ideas. They're American ideas. I don't care who gets credit for it, but I want us to do them. There is no party label that will change the reality that the most important thing we can do for Americans is to give everybody a good education, give people the skills to compete and win in this global economy and give not only our school children, but their parents and their grandparents if they need it the ability to 
+give people the skills to compete and win in the global economy; and give not only our schoolchildren, but their parents and their grandparents, if they need it, the ability to go back to these community colleges and get the skills to have a better life and a stronger life, and do a better job for themselves and the rest of this country. That is the most important thing we can do -- to lift the income of the American people. {APPLAUSE} 
+
+So, that's what I said over there, but I took about five minutes longer to say it. {LAUGHTER} I care about you and your future. My job is to make sure that when all these young people get out of this high school the American Dream is alive and well, this is still the strongest country in the world, we are still a force for peace and freedom and opportunity. But in order to do it, you -- every single one of you -- has got to make a commitment that we are going to develop the capacity of our people. That's how we're going to win. That's how we're going to get wages up. That's how we're going to bring security back. That's how we're going to bring this country together again. That's how we're going to do it. And we can with your help. {APPLAUSE} 
+
+Thank you, and God bless you all. {APPLAUSE} 
+
+{/speech} 

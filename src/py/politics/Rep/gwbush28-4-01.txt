@@ -1,0 +1,33 @@
+﻿{title} Remarks by the President at White House Correspondents Dinner {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} April 28, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you, Arlene. Laura and I are delighted to be here, with all the major leaguers. {LAUGHTER} Tonight I've decided to do something a little different. See, my mother, over the years, has put together at least 70 scrap books about our life as a family. What I've done is pulled out some of the actual, never-before-seen photos, from these scrapbooks and created a little slide show. {LAUGHTER} 
+
+And so, Gordon, if everybody's cell phones are turned off -- {LAUGHTER} -- you can hit the lights. Tonight I present a Bush family album. What you may not realize is that I grew up at a time in Texas history when it was still a rough and tumble frontier. {LAUGHTER} We were ranchers back then. {LAUGHTER} This was my favorite horse. He was sure-footed, steady. I trusted that horse totally. And here's the really weird part, his name was Dick Cheney. {LAUGHTER} 
+
+But times were hard back then. {LAUGHTER ; APPLAUSE} This of course was during the great drought of 1953. {LAUGHTER} Dad, Neil, Doro, Marvin and Jeb. In my family, with all those kids in the tub, it's not arsenic in the water I'd be worried about. {LAUGHTER ; APPLAUSE} Personally, I've always preferred a private bath. {LAUGHTER} This is my actual first grade report card. Up top, it says, George W. Bush. And then notice the final grades on the right. Writing, A; Reading, A; Spelling, A; Arithmetic, A; Music, A; Art, A. So my advice is, don't peak too early. {LAUGHTER ; APPLAUSE} 
+
+Here I am with my 5th grade science project. {LAUGHTER} Built it myself. And it's still meeting our energy needs. {LAUGHTER} I went on to college, and graduate school. But somehow, the press has gotten the wrong idea, that I was a smart aleck party guy. {LAUGHTER} This is an unfair perception. See, in college, I actually did a lot of independent reading. {LAUGHTER} 
+
+After graduation, I joined the Texas Air National Guard. I'm the one who committed the state of Texas to defend Taiwan from attack. {LAUGHTER ; APPLAUSE} Speaking of pilots, I'm so proud and honored to welcome to our nation's capital, Lieutenant Shane Osborn and crew member Lieutenant j.g. John Comerford. {APPLAUSE} I hope you and your crew will be coming to the White House soon. I think you'll like it there. {LAUGHTER} I know I've said this to you personally on the phone, but I'm proud to say it publicly, welcome back, Lieutenant. {APPLAUSE} 
+
+Some people wondered, and I'm sure there might have been a few out here, how I would handle the recent incident in China. Truth is, I have long been a serious student of the Orient. {LAUGHTER} My mom and dad, of course, were in China when dad was the U.S. liaison there. People have asked me, is it difficult trying to follow in the footsteps of a man who was President, Vice President, U.N. Ambassador, a man who held so many other important jobs? Is it hard being such a man's son? Not really. {LAUGHTER} 
+
+Most people don't realize it, but dad has had some tough times. {LAUGHTER} Back in the '50s, he went through a period where he thought aliens were trying to contact him. {LAUGHTER} So he built this contraption to receive their signals. {LAUGHTER} 
+
+As for my mom, after bearing six children, she herself became a bit stressed. {LAUGHTER} She took to acting very strangely. {LAUGHTER} For a while, she thought she was too tall, and walked like this. {LAUGHTER} As if that weren't strange enough, next she wrote a book with that damn, mangy ill-tempered dog. {LAUGHTER} I hated that dog. {LAUGHTER} My mother treated the dog better than she treated me. {LAUGHTER} She never helped me write my book. {LAUGHTER} 
+
+I will say this, however, my mom always stuck up for us kids. Here's mom replying to a reporter's question about something Barbara Streisand said recently. {LAUGHTER} Fortunately, I've got great brothers and a great sister. Some people have asked me, however, if the vote recount left any hard feelings between my brother Jeb and me. Not a bit. In fact, here's a picture of the Governor of Florida. {LAUGHTER ; APPLAUSE} 
+
+All this brings me to a serious point. Eventually, I met a woman named Laura Welch. {APPLAUSE} She changed my life. She has given me as an adult, what I enjoyed as a child, and that is a loving family. The defining moments in the Bush family are not when my father was elected President, or when I was elected President. The defining moments have been family moments. Ladies and gentlemen, I've been blessed with a family that is full of love, and I pray the same for you. 
+
+Good evening. {APPLAUSE} 
+
+{/speech} 

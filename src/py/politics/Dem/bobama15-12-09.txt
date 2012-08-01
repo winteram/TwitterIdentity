@@ -1,0 +1,72 @@
+﻿{title} Remarks by The President on Energy Efficiency and Job Creation {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} December 15, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. Hello! Hello! {APPLAUSE} Thank you guys. Thank you. Everybody, please have a seat.
+
+We've got a couple of special guests here today. First of all, the outstanding senator from the great Commonwealth of Virginia, Senator Mark Warner is here. Where's Mark? Right there. {APPLAUSE} We've got a couple of champions for job creation here in Northern Virginia -- Gerry Connolly and Jim Moran. {APPLAUSE}
+
+Can I just ask, how come they got the Home Depot thing and you guys don't have it? {LAUGHTER} What, the senators are too cool to put it on? What's going on here? {LAUGHTER}
+
+Working to jumpstart our retrofit efforts around the country, Senator Jeff Merkley and Congressman Peter Welch are here as well. {APPLAUSE} We've got Alexandria Mayor William Euille. Where's William? There he is. Good to see you, Bill. {APPLAUSE} And we've got Frank Blake and his team here at Home Depot. Where's Frank? There he is. {APPLAUSE}
+
+So seeing how Christmas is just around the corner, and we're at Home Depot, I thought I might knock out some of my holiday shopping. {LAUGHTER} I figure my Energy Secretary wants a few million energy-efficient light bulbs. {LAUGHTER} My Press Secretary wants something that will prevent leaks.
+
+{AUDIENCE} Oh! {/AUDIENCE} 
+
+Come on, guys. {LAUGHTER} It took a while there for -- {LAUGHTER} But I've also come here to spend some time with workers and contractors and manufacturers and small business owners who've been especially hard hit by our economic downturn. A few of us just spent some time at a roundtable talking about the role they want to play in job creation and in our economic recovery, and how government can best help to give them a boost.
+
+I don't need to remind them or any of you about the situation we found ourselves in at the beginning of this year. The economy was in a freefall. As a result of our financial crisis, folks couldn't access affordable credit to run their businesses, or take out an auto loan or a student loan or, in some cases, pay their mortgages. Home values were plummeting. And we were hemorrhaging about 700,000 jobs per month.
+
+Today, the economy is growing for the first time in more than a year, and November's job report was the best that we've had in nearly two years.
+
+But the fact is, even though we've stopped the rapid job losses that we were seeing just a few months ago, more than seven million Americans have lost their jobs in the two years since this recession began. Unemployment still stands at 10 percent. So we're not finished with our task -- far from it. We've got a lot of work to do. And I promise you, in the White House we're hard at work every single day, until every single person who wants a job can find a job.
+
+That's why last week, I announced some additional targeted steps to spur private sector hiring and give an added boost to small businesses by building on the tax cuts in the Recovery Act and increasing access to the loans desperately needed for small businesses to grow. We'll rebuild and modernize even more of our transportation and communication networks across the country. And I called for the extension of emergency relief like unemployment insurance and health benefits to help those who've lost their jobs, while boosting consumer spending and promoting job growth.
+
+We also want to take some strategic surgical steps in areas that are going to generate the greatest number of jobs while generating the greatest value for our economy. From the moment we took office, even as we took immediate steps to deal with the financial crisis, we began investing in newer, stronger foundations for lasting growth -- one that would free us from the cycle of boom and bust that has been so painful; one that can create good jobs and opportunities for a growing middle class. That's at the heart of our efforts, and clean energy can be a powerful engine for creating that kind of growth.
+
+That's why the Recovery Act included the single biggest investment in job-creating clean energy in our history: in renewable sources of energy; in advanced manufacturing; in clean vehicle technology; in a bigger, better, smarter electric grid that can carry clean, homegrown energy from the places that harness it to the places that need it.
+
+And after these investments have been given the better part of a year to take root, a picture of their impact is starting to emerge. I just received a report from Vice President Biden that confirms that as a result of the steps that we've taken, a major transformation of our economy is well underway. We are on track to double renewable energy production, and double our capacity to manufacture clean energy components like wind turbines and solar panels right here in the United States by the year 2012 -- doubling it. {APPLAUSE}
+
+But there's a lot more that we can do, and that's what I've come to Home Depot to talk about.
+
+In our nation's buildings -- our homes and our office consume almost 40 percent of the energy we use and contribute almost 40 percent of the carbon pollution that we produce and everybody is talking about right now in Copenhagen. Homes built in the first half of the last century can use about 50 percent more energy than homes that are built today. And because most of our homes and office aren't energy-efficient, much of that energy just goes to waste, while costing our families and businesses money they can't afford to throw away.
+
+The simple act of retrofitting these buildings to make them more energy-efficient --insulation new windows and doors, insulation, roofing, sealing leaks, modernizing heating and cooling equipment -- is one of the fastest, easiest and cheapest things we can do to put Americans back to work while saving families money and reducing harmful emissions.
+
+As a result of a variety of investments made under the Recovery Act, including state and local energy grants, we're on pace to upgrade the homes of half a million Americans by this time next year -- half a million Americans: boosting the economy, saving money and energy, creating clean energy jobs that can't be outsourced. But this is an area that has huge potential to grow. That's why I'm calling on Congress to provide new temporary incentives for Americans to make energy-efficiency retrofit investments in their homes. And we want them to do it soon.
+
+I know the idea may not be very glamorous -- although I get really excited about it. We were at the roundtable and somebody said installation is not sexy. I disagree. {LAUGHTER} Frank, don't you think installation is sexy stuff? {APPLAUSE} Here's what's sexy about it: saving money. Think about it this way: If you haven't upgraded your home yet, it's not just heat or cool air that's escaping -- it's energy and money that you are wasting. If you saw $20 bills just sort of floating through the window up into the atmosphere, you'd try to figure out how you were going to keep that. But that's exactly what's happening because of the lack of efficiency in our buildings.
+
+So what we want to do is create incentives that stimulate consumer spending, because folks buy materials from home improvement stores like this one, which then buys them from manufacturers. It spurs hiring because local contractors and construction workers do the installation. It saves consumers money -- perhaps hundreds of dollars off their utility bills each year -- and it reduces our energy consumption in the process.
+
+In other words, most of this stuff is going to pay for itself. You put in the insulation, you weatherize your home now, you will make up that money in a year or two years or three years, and then everything after that is just gravy. But the challenge for a lot of people is getting that money up front. They know that this is a smart thing to do, but times are tight right now and it's hard to afford making that capital investment. And that's where the government can come in to provide the incentive to help people make that initial investment so that they can recover that money over the long term.
+
+These incentives will build on the work that my administration is doing to eliminate existing barriers to retrofitting millions of homes across the country. My Middle Class Task Force and the Council on Environmental Quality recently released a report titled "Recovery Through Retrofit," that explains some of these hurdles and how we can overcome them: providing homeowners with straightforward and reliable information on retrofitting their homes, reducing their costs to do it, and ensuring that we've got a well-trained workforce ready to make it happen.
+
+So I think this is an extraordinary idea. All the ideas that we've discussed were talked about at the jobs forum we held at the White House a couple of weeks ago. And in fact, Frank Blake was there and mentioned that 30 percent of Home Depot's business is made up of small contractors of five or fewer employees who often do this kind of work. And they and the folks that I met with earlier know just how important a program like this could be.
+
+The economic downturn hit both small contractors and our broader construction industry especially hard. Construction unemployment reached 21 percent in the beginning of this year. The investments we made under the Recovery Act has helped, but obviously there's a lot more work to do to put construction workers and millions of other Americans who are ready and eager to help rebuild America and move our recovery forward back on the job again. And we're not going to rest until we do it.
+
+So it's fitting that we're here today at Home Depot with folks who play a vital role in helping America's families build strong homes and strengthen the ones that they've got, because that's exactly what we're trying to do -- rebuild our -- rebuild America's house on a stronger foundation of growth and prosperity. It's not going to be easy, but we've got the concrete poured. And one thing is clear: We're moving in the right direction. So I promise you we are going to get this job done. Together, we can leave something for future generations that makes America that much stronger.
+
+And I just want to emphasize one last point. There's a lot -- a lot of times there's an argument about economic growth versus the environment. And in the debate that's going on about climate change right now, a lot of people say we can't afford to deal with these emissions to the environment. But the fact of the matter is energy efficiency is a perfect example of how this can be a win-win. Manufacturers like Owens Corning, whose CEO is here today, they win because they produce this stuff. And those are American jobs. And right now -- I just heard from the CEO, because Australia put an incentive to do exactly what we're talking about, they've seen a huge increase in their volume of experts -- exports to Australia. Well, why can't we do the same thing here?
+
+When it comes to contractors, contractors all around the country know that this is work they can do, they can do effectively, they can do well, and it's a reliable business. It's not going to be subject to as many of the vacillations as home sales are in the current environment where you've got a soft housing market. So this can help fill the void in a major industry that's taken a big hit.
+
+And the workers, we have somebody who just got trained and is already on the job crawling through attics and putting all this stuff together. Over the course of six months or a year, somebody can get trained effectively. And LIUNA is doing terrific work with this -- its apprenticeship program. And what this means is that people who are unemployed right now, they can get a marketable skill that they can take anywhere.
+
+So this is a smart thing to do, and we've got to get beyond this point where we think that somehow being smart on energy is a job destroyer. It is a job creator. But it's going to require some imagination and some foresight, and it requires us to all work together. That's what this White House is committed to doing. I know that's what all of you are committed to doing.
+
+We are going to generate so much business for you, Frank. We are going to generate so much work for you guys from LIUNA. We're going to create so much business -- so many business opportunities for contractors here that over the course of the next several years, people are going to see this I think as an extraordinary opportunity, and it's going to help America turn the corner when it comes to energy use.
+
+I'm excited about it. I hope you are, too. See, I told, insulation is sexy. Thank you very much, everybody. {APPLAUSE} 
+
+{/speech}

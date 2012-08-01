@@ -1,0 +1,186 @@
+﻿{title} Vice President Cheney Delivers Remarks at the Federalist Society Annual Convention Dinner {/title}
+{event} Mayflower Hotel, Washington DC {/event}
+{speaker} Dick Cheney {/speaker}
+{date} November 15, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much.
+
+{APPLAUSE}
+
+Enough already.
+
+{APPLAUSE}
+
+Thank you. I appreciate that very much, and I appreciate being introduced by Elaine Chao. I've known Elaine for a long time. She is a great Cabinet member and a great addition to the team. And I want to thank all of you for having me here tonight. And I also especially want to thank you for adjusting your schedule to accommodate my time. We had to move it up a little bit because I've got another meeting yet to do tonight, but I do appreciate the fact that you were that flexible.
+
+It's good to see a member of the Cabinet in person.
+
+{LAUGHTER}
+
+It is usually through the electronic wonders of the videoconferencing. It's good to see anybody in person these day, actually.
+
+{LAUGHTER}
+
+Lynne and I don't get many visitors at the cave.
+
+{LAUGHTER}
+
+This is the second time I have had the privilege of addressing the Federalist Society. I was here as secretary of defense in 1990. Then, as now, filling the role as your token non-lawyer. Not that I have anything against lawyers. Looking around the room, I'd guess that about half of you a year ago were in Florida.
+
+{LAUGHTER}
+
+And I can assure you we do deeply appreciate all those lawyers who went to Florida.
+
+A lot has changed since my last appearance here. I've been a corporate CEO now, a national candidate, vice president and now, of course, a recurring character on "Saturday Night Live."
+
+{LAUGHTER}
+
+I've been watching a tape of the guy who plays me on the show, Darrell Hammond. He's got the voice down. He's pretty good at the mannerisms, but he's not quite there yet. And I doubt that he'll ever capture the real me. I mean you just can't fake charisma. {LAUGHTER ; APPLAUSE} 
+
+I do have a lot of friends here this evening. And it nice to see all of you. And I do bring with me as well the good wishes and greetings of a man we're all very proud of, President George W. Bush.
+
+{APPLAUSE}
+
+There are many members of the Federalist Society in our administration. We know that because, of course, they were quizzed about it under oath.
+
+{LAUGHTER}
+
+We're especially proud to have two of your founders at the Department of Energy, the general counsel, Lee Lieberman Otis, and, of course, Secretary Spence Abraham.
+
+{APPLAUSE}
+
+The Federalist Society was formed to bring balance to the debate in our law schools and in the legal profession. You were founded on the conviction that the state exists to preserve freedom, that the separation of powers is essential to the operation of our government, and that judges are charged with interpreting the law, not inventing it.
+
+In advancing this principles, you have changed the debate while gaining the respect of people all across the ideological spectrum.
+
+The Federalist Society has been a model of thoughtful, reasoned dialogue. You've helped bring a spirit of civility to Washington, D.C. And even more remarkably, you've managed to bring it to some of the law schools.
+
+{LAUGHTER}
+
+Your spirit of honest, fair-minded debate has not always prevailed, as Judge Bork can attest. But against great odds, this organization has become one of the most influential in the world of law and public policy. I commend you for it.
+
+{APPLAUSE}
+
+Tomorrow at this conference, our solicitor general will inaugurate an annual lecture named for his wife. Barbara Olson will always be remembered for her sharp mind, for her kindness, for her cheerful presence. It's hard to think of Barbara and not see her smiling. We miss her. And we will always remember the grace and the courage of Ted Olson from that day to this.
+
+{APPLAUSE}
+
+America will never forget what happened on September 11, and who was responsible. Nor will we lose sight of what is at stake. We are the target of enemies who rejoice in the murder of innocent, unsuspecting people. We are fighting now to defend freedom and law against force and tyranny. We are fighting to save ourselves and our children from living in a world of fear.
+
+We are fighting and we are winning because we will not permit a small group of vicious, violent men to impose their will on America and on the world.
+
+{APPLAUSE}
+
+The president and I have often said that the war on terrorism will be fought on many fronts. The government of the United States is fully engaged in this battle, and let me tell you how. We have given intelligence and law enforcement officials the new tools they need to hunt, capture and punish terrorists. We are tracing terrorist communications and movements as never before, with new statutes that take account of modern communications that terrorists use.
+
+These new laws met with overwhelming bipartisan agreement in Congress because they uphold and respect the civil liberties guaranteed in our Constitution.
+
+We are fighting the terrorists' financial supporters and we are stopping them. Already we have blocked millions of dollars in assets of persons and organizations involved in supporting terrorism.
+
+A new federal task force is at work tracking foreign terrorists. We will deny them entry into our country, detain those who are here, prosecute as needed and deport the rest. Those who plot against our country will not be allowed to abuse our protections or our freedom.
+
+{APPLAUSE}
+
+Furthermore, as the president deems necessary, non-U.S. citizens suspected of terrorist activity, whether captured here or abroad, will face trial by military commission.
+
+{APPLAUSE}
+
+The mass murder of Americans by terrorists or the planning thereof is not just another item on the criminal docket. This is a war against terrorism. Where military justice is called for, military justice will be dispensed.
+
+{APPLAUSE}
+
+On the civil defense front, we are taking every measure to improve both our prevention capability and our response capability. Under Governor Tom Ridge, the Office of Homeland Security is leading the effort to detect and frustrate the plans of terrorists. In everything we do, we have to be realistic. We have to proceed on the expectation that those who have already harmed our country will try again.
+
+The terrorists who gave the orders on September 11 have themselves promised it. They have called for the killing of Americans, Christians and Jews. Whenever the president has evidence of a credible threat, he will alert state and local authorities. And the American people will know so as well.
+
+But a terrorism alert is not a signal to lock down your life. It is a sign that we must be vigilant. When Americans hear of an alert they can know that the government is on watch and taking action against the threat. That is how we work to protect our citizens.
+
+But wars are not won on the defensive. Wars are won by taking the fight to the enemy.
+
+{APPLAUSE}
+
+America is not waiting for terrorists to strike. In the places where they hide and plot, we are striking the terrorists. There is a price for aiding and abetting terrorists and the Taliban regime is paying it in full.
+
+{APPLAUSE}
+
+Our military has destroyed training camps. Their communication and air defenses are in ruins. Their defenses are being systematically eliminated. Whole cities are free again. A large portion of the country of Afghanistan can now celebrate the Taliban's departure from their lands and from their lives.
+
+{APPLAUSE}
+
+And the rest of the country of Afghanistan is counting the hours until they too are free.
+
+But this is not a battle over Afghanistan. There's still a long way to go. As we speak, the Taliban are high-tailing it to safer ground. They will find none. No matter how long it takes, Afghanistan will cease to be a haven to tyranny and for terror.
+
+{APPLAUSE}
+
+Success in Afghanistan is only the beginning of our efforts in the world. We are going to find the leadership of the Taliban and the Al Qaeda network and we are going to stop them. This is not about one country, and in this struggle there is no neutral ground.
+
+As the Bush doctrine makes clear, those who harbor terrorists share guilt for the acts they commit.
+
+It bears repeating that ours is not a campaign against the Muslim faith. Indeed, the innocent victims of these terrorists include many Muslims.
+
+This is a struggle against the evil of a few. That is why people in every part of the world and of all faiths stand together against this foe. We cannot know every turn in the battles to come, yet we know our cause is just. We have seen enemies like this before, and we have defeated them before, and we will defeat them again.
+
+{APPLAUSE}
+
+This crisis has brought our country together, uniting the political parties and elected branches of government in ways few would have believed possible. There are still honest disagreements on domestic priorities and the war has not eased on those; it has not erased those. But this is a moment of real opportunity, with the leadership of both parties sincerely looking for common ground.
+
+We hope Congress will act and act soon to pass an economic stimulus package. President Bush's plan gives immediate help to those out of work, reduces income tax rates and will create new jobs throughout the economy.
+
+We hope Congress will attend to America's energy needs as well. It is even more urgent now that we find new supplies and make this country less dependent on foreign oil.
+
+{APPLAUSE}
+
+And we hope the United States Senate will speed up the confirmation of federal judges.
+
+{APPLAUSE}
+
+There's a dual responsibility that I think we all understand. The president has discharged his duty by nominating well- qualified men and women to the federal district and circuit courts. Yet there are today more vacancies on the federal bench than there were the day we were inaugurated. The pace of new vacancies is actually growing faster than the pace of confirmations.
+
+Barely one in four of President Bush's nominees have been given a hearing and a vote. This should be unacceptable to anyone concerned about the administration of justice in our country.
+
+{APPLAUSE}
+
+Some reply this is merely the normal state of affairs regardless of who is president and who controls the Senate. History does not support that claim.
+
+Traditionally, a new president's judicial nominees during his first year are confirmed almost as fast as their nominations reach the Senate. In 1993, for example, 19 judges were confirmed on a single day in November, many just a few weeks after their names had been submitted. In each of the previous three administrations, almost all judicial nominations submitted before the first August recess were confirmed by the end of the year. That was held true regardless of whether the Senate and the White House were controlled by opposing parties. The only exception to the rule is a single Clinton nominee who was confirmed the following year.
+
+In 2001, President Bush submitted 44 nominations prior to the August recess. By all rights, each of these should come to a vote by the end of next month, yet almost half of them have not even begun their journey to a floor vote.
+
+Overall, President Bush has submitted 64 judicial nominations. That's more in the first year than any other recent president. And this has been done for a reason: There are at present more than 100 vacancies on the federal bench, 38 of which have been classified as judicial emergencies by the nonpartisan U.S. Judicial Conference.
+
+Another vacancy is expected next month in the Sixth Circuit Court of Appeals, which serves four states and one in every nine Americans. At that point the Sixth Circuit will have eight judges and eight vacancies, a 50 percent vacancy rate; the highest anyone can remember on a federal circuit court.
+
+Here, again, the president has fulfilled his responsibility. He's already submitted six nominations for that court and all six still await a hearing. The deliberate slowing of the confirmation process is unworthy of the United States Senate.
+
+{APPLAUSE}
+
+And it is an injustice to the men and women whose names have been presented. These are good people, each and every one of them selected with care by the president himself. The president announced his initial 11 nominees on May 9, more than six months ago. Yet of these, only three have even had hearings.
+
+Those still awaiting include his choices for the D.C. circuit. The first is John Roberts, the former deputy solicitor general and a lawyer of the highest reputation. The second is Miguel Estrada, who, as a boy, came to America from Honduras, graduated with honors from Harvard Law School and served in the Justice Department under presidents of both parties.
+
+These nominations are not being held up for lack of support. On the contrary, few doubt they would be swiftly confirmed by the entire Senate if only given the chance. By any standard of judicial merit they are fully qualified to serve, and by any standard of fairness they deserve a hearing.
+
+{APPLAUSE}
+
+In that spirit, simple fairness and in the interest of the nation, I appeal to the Senate Judiciary Committee to proceed without further delay in filling the vacancies on our federal courts.
+
+{APPLAUSE}
+
+I am hopeful that this matter will be resolved and the interests of the nation will be served in the months to come. As I said, this is a moment of opportunity. All of us have been given a new perspective on old differences, and perhaps a better sense of the great things we can achieve together.
+
+America is passing through a time of testing. We have every right to be proud of our fellow citizens, proud of the great heroism we have seen, proud of the honorable conduct of our military. In so many ways, adversity has brought out the best in our nation.
+
+The attacks brought terrible grief down upon us, but we love our country only more when she is threatened. And instead of weakening us, our enemies have only made us stronger.
+
+In ways too numerous to mention, President Bush and I have counted on the friendship and good counsel of many in this room tonight. We have never been disappointed. You have our respect and our gratitude.
+
+Thank you very much.
+
+{APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,24 @@
+﻿{title} Standing Fast {/title}
+{event} ----- {/event}
+{speaker} Dick Cheney {/speaker}
+{date} October 10, 2003 {/date}
+{source} http://www.pbs.org/newshour {/source}
+{description} This is an excerpt. Vice President Dick Cheney capped the first week of the new Bush administration public relations offensive on Iraq in an address to the Heritage Foundation. {/description}
+
+
+{speech} 
+
+In the post 9/11 era, we could not accept the grave danger of Saddam Hussein and his terrorist allies turning weapons of mass destruction against us or our friends and allies. And gradually we are learning the details of his hidden weapons program. Even as more evidence is found of Saddam's weapons programs, critics of our action in Iraq continue to voice other objections, and the arguments they make are helping to frame the most important debate of the post-9/11 era. Some claim we should not have acted because the threat from Saddam Hussein was not imminent. Yet, as the president has said, since when have terrorists and tyrants announced their intentions, politely putting us on notice before they strike? 
+
+I would remind the critics of the fundamental case the president has made since September 11: Terrorist enemies of our country hope to strike us with the most lethal weapons known to man, and it would be reckless in the extreme to rule out action and save our worries until the day they strike. 
+
+As the president told Congress earlier this year, if threats from terrorists and terror states are permitted to fully emerge, all actions, all words and all recriminations would come too late. That is the debate; that is the choice set before the American people. And as long as George W. Bush is President of the United States, this country will not permit gathering threats to become certain tragedies. {APPLAUSE}
+
+Another criticism we hear is that the United States, when its security is threatened, may not act without unanimous international consent. To accept the view that action by America and our allies can be stopped by the objection of foreign governments that may not feel threatened, is to confer undue power on them while leaving the rest of us powerless to act in our own defense. Yet we continue to hear this attitude in arguments in our own country so often and so conveniently, it amounts to a policy of doing exactly nothing. 
+
+Had the United States been constrained by the objections of some, the regime of Saddam Hussein would still rule Iraq, his statues would still stand, his sons would still be running the secret police, dissidents would still be in prison, the apparatus of torture and rape would still be in place, and the mass graves would be undiscovered. We must never forget the kind of man who ran that country and the depravity of his regime. We are fighting this evil in Iraq so we do not have to fight it on the streets of our own cities. {APPLAUSE} 
+
+The current debate over America's national security policy is the most consequential since the early days of the Cold War and the emergence of a bipartisan commitment to face the evils of communism. All of us now look back with respect and gratitude on the great decisions that set America on the path to victory in the Cold War and kept us on that path through nine presidencies. I believe that one day, scholars and historians will look back on our time and pay tribute to our 43rd president, who has both called upon and exemplified the courage and perseverance of the American people. {APPLAUSE} 
+
+
+{/speech} 

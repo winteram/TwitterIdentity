@@ -1,0 +1,24 @@
+﻿{title} VP's Remarks at Public Safety Officer Awards {/title}
+{event} Public Safety Officer Awards, Room 450, Eisenhower Executive Office Building {/event}
+{speaker} Dick Cheney {/speaker}
+{date} February 14, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech}
+
+Thank you. {APPLAUSE} Thank you, very much. Well, thank you very much, John. And I -- like you -- am humbled by the people we're sharing the stage with this afternoon. It's obviously a historic ceremony for all of us.
+
+As Americans we know that each human life is precious. We believe those who place their own lives at risk to save or protect others deserve to be recognized and honored by their grateful fellow citizens. That's why in May of 2001, President Bush signed into law the Public Safety Officer Medal of Valor Act. And that's why we're gathered here today to confer, for the first time, this high honor, the Medal of Valor, on 10 exceptionally heroic public servants.
+
+The firefighters and law enforcement officers whom we honor today have all exhibited exceptional courage, extraordinary decisiveness and remarkable presence of mind. Each of them faced and overcame life-threatening dangers. Each of them made split-second decisions in situations where there was not the slightest room for error. And each of them risked his life without hesitation on behalf of total strangers. In honoring these outstanding individuals, we also honor their colleagues, the public safety officers who serve us every day, all across America. The contributions that these dedicated public servants make to their communities and to the country are beyond measure. And the courage they exhibit in carrying out their hazardous duties every day is also beyond measure.
+
+In these challenging times, the heroic efforts made by our public safety officers are an inspiration to us all. It's been said that America is a nation that empowers ordinary individuals to do extraordinary things. The 10 public safety officers we're honoring today are ordinary only in the sense that they're not celebrities -- at least not yet. {LAUGHTER} But when it comes to willingness to answer the call to service, to go above and beyond the call of duty, to be there when life itself hangs in the balance, today's Medal of Valor recipients are anything but ordinary. They are some of the finest, bravest, most admirable Americans of our time. And we are very fortunate to have such heroes in our midst. Now it's my very special privilege to present each of them with the Public Safety Officer Medal of Valor.
+
+John, if you'll join me up here.
+
+{COMMENT="Awards presented"}
+
+{APPLAUSE}
+
+{/speech}

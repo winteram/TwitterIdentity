@@ -1,0 +1,66 @@
+﻿{title} Remarks during global feeding event {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 28, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Good morning, everyone; please be seated. First, I want to thank Senator Dole and Senator McGovern for joining me and for their leadership. I thank Senator Dorgan and Senator Leahy for being here; Representatives Hall and McGovern; Catherine Bertini, the Executive Director of the UN World Food Program; Jacque Diouf, Director-General of the UN Food and Agriculture Organization; Sven Sandstrom, the Acting President of the World Bank; representatives of non-governmental organizations and all those who have worked to make this global feeding initiative a reality. 
+
+I also want to especially thank Secretary Summers, Jack Lew and the White House staff who worked so hard on this in what, in Washington time, is a very short period of time to put this all together. {LAUGHTER} 
+
+This morning, we gather, just three days after Christmas, the second day of Eid Al-Fitr, a few hours before the last night of Hanukkah; a time sacred to men and women of faith who share a belief in the dignity of every human being; a time to give thanks for the prosperity so many enjoy today, but also a time to remember that much of humanity still lives in astonishing poverty. 
+
+Nearly half the human race struggles to survive on less than $2 a day; nearly a billion live in chronic hunger; half the children in the poorest countries are not in school. That is not right, necessary or sustainable in the 21st century. 
+
+The most critical building block any nation needs to reap the benefits of the global era is a healthy population with broad-based literacy. Each additional year spent in school increases wages by 10 to 20 percent in the developing world. Today, however, 120 million children get no schooling at all; 60 percent of them girls. So this year in Dakar, Senegal, 181 nations joined to set a goal of providing basic education to every child in every country by 2015. At the urging of the United States, the G-8 nations later endorsed this goal at our summit in Okinawa. 
+
+Experience has shown here at home, and around the world, that one of the best ways to get parents to send their children to school is a healthy meal. That's why today I'm very pleased that we are announcing the grant recipients who are going to help us put in place our $300 million pilot program to provide nutritious meals to school children in developing countries. 
+
+The program will provide a free breakfast or a free lunch to some 9 million children in 38 developing nations. It will work closely with some 14 private volunteer organizations, many of whom are represented here, with the UN World Food Program, and with recipient nations and farm groups so we don't disrupt local farm economies. The result will be increased school enrollment and attendance, especially among girls; and real improvement in these children's nutritional well-being and ability to learn. 
+
+We know from experience that this approach works. In Cameroon, for example, efforts led by the World Food Program and USAID are feeding almost 50,000 school children, helping to increase school enrollment by over 50 percent, and cutting the drop-out rate for girls to virtually zero. We also know we can take that kind of success and extend it across Asia, Africa, the Balkans and beyond, because a little funding goes a very long way, indeed. 
+
+Under this pilot program, for example, we will start providing nutritious food to more than 500,000 children in Vietnam. We will start providing high protein bread and milk each day to some 60,000 students in 170 schools in Eritrea. And in Kenya, we will start giving some 1.4 million elementary school children a nutritious meal every single day. 
+
+Of course, this initiative by itself is not a solution to the global hunger problem, but it's a downpayment and a beginning. Now it's up to Congress, the United Nations, other developed countries, the NGOs represented here and the next administration to continue this fight. We're going to need the World Bank to implement its pledge to increase lending for education by 50 percent. Developing countries need to make basic education a real priority. 
+
+We need to mobilize private sector resources, something we've worked hard to do, by raising awareness of this issue among foundations. In addition to the $300 million for school feeding, we have also fought hard for, and won, a new $37 million initiative called School Works to support basic education in developing countries and an overall 50 percent increase for all international basic education programs, including the fine education work being now done at USAID. 
+
+Finally, we secured $45 million this year for the U.S. funding for the International Program to Eliminate Child Labor, a 15-fold increase since 1998. 
+
+The fight for better education is only part of the battle we must wage to make the global economy work for everyone; implementing landmark trade agreements we've reached with Africa and the Caribbean is a part of it; leading the worldwide fight against infectious diseases, like HIV and AIDS, is important; removing the crushing burden of debt from impoverished nations that will, in turn, invest those savings in their people and their future is fundamental. We must also continue to offer more micro-credit loans and close the digital divide. 
+
+We've worked hard these last few years to put the battle against abject poverty higher on the world's agenda, and America must keep it there. This is not just about our moral obligation to help the needy -- although, it is great -- it's also part of the answer to what kind of world we want our children to inhabit a generation from now; what do we want to avoid. The world is becoming more and more interdependent and America needs strong and healthy partners. We need to invest in future markets and we need to do it in every part of the world. We want to avoid a world that is hopelessly and violently divided between the rich and the poor; a future in which hundreds of millions of people decide that they have no stake in a peaceful and open global society because there's nothing in it for them and their children. 
+
+If we can prevent that from happening, it will be good for our economy, for our security and for our souls. 
+
+We are greatly honored today to be joined by two leaders who clearly understand this. George McGovern and Bob Dole served their country in war and peace with uncommon courage, candor and commitment to their principles. Springing from the soil of our nation's heartland, they have long believed that America has global responsibilities and must, therefore, have a global vision. 
+
+Over 30 years ago, these two leaders strongly supported the creation of the domestic school lunch program. Last May, they both advanced the idea of an international school feeding program. Today, we're putting that into practice. The country will always be strong as long as we have leaders like them -- leaders with their energy and vision, willing to reach across party lines to build a common future. 
+
+Following their example, I am convinced we can put together the kind of bipartisan and international public/private coalition needed to build the global economy in a way that leaves no one behind and, in the process, creates a new century of unprecedented peace and prosperity. It's a great opportunity and a great responsibility. 
+
+Now, I'd like to ask Senator McGovern to say a few worlds. {APPLAUSE} 
+
+{COMMENT="Senator McGovern speech removed"}
+
+Let me make two brief comments. First of all, on the way in here, the young man who was advancing this event pulled out a copy of a picture of me escorting Senator McGovern across an airport tarmac in 1972. And Senator Dole saw it and he knew immediately that if he had had that picture in 1996, the outcome of the entire election would have been changed. {LAUGHTER} 
+
+My hair was rather long and my sideburns look like Burnside, I look like one of those Civil War generals. {LAUGHTER} But we were able to cover it up, thank goodness. {LAUGHTER} 
+Let me make a serious point, if I might. First of all, I feel very indebted to all the people who are here. Senator Leahy and Senator Dorgan have long been advocates of fighting hunger. Congressman McGovern came to me with Senator McGovern -- no relation, I might add -- with this and worded me to death on it. {LAUGHTER} And my good friend, Tony Hall, has been the foremost advocate of dealing with the problems of the poor and the hungry in the world, in Congress, and all of us acknowledge that. 
+
+But let me just sort of say one thing we did not explicitly say, that I think we should say before we leave. I was talking to Senator McGovern about it. What we would like, as Senator McGovern and Senator Dole said, is to prove through this pilot program that A, we can make this work and, B, we can do it without disrupting local farm economies. 
+
+If we can do that, then the goal is to provide this sort of meal at breakfast or lunch, depending on which works better in each country, to every child in the world that needs it. And I think Senator Dole said that we reckon about 400 million. The estimate is it would cost between $6 and $7 billion to do that. So if we were to go that route and the United States were to pay its fair share, it would be about $1.5 billion, give or take, over the next few years, a year. 
+
+But if you think about -- if you think about being able to give a meal to 300 million kids a year every single day of the year for an aggregate international cost of somewhere between $6 and $7 billion a year, and you think about all the hundreds of billions -- indeed, the trillions of dollars that are spent by governments around the world, I mean, it's just walking around money; it's such a tiny amount of money compared to the aggregate expenditures of the governments of the world on everything else they spend money on. 
+
+I wanted just to do this, we've worked very hard this year to get this off. I'm not trying to saddle the future administration or a future Congress with an unbelievable burden -- this is a relatively small new commitment that I think the United States should embrace in cooperation with its allies and friends and others around the world, and one that I hope and pray will be embraced, and it can be funded in any number of creative ways. But I just wanted to say that I believe 10 years from now this will have been done. And I believe when that happens we will be profoundly indebted to these people who have come here today to advance this idea. 
+
+Thank you very much. {APPLAUSE} 
+
+{/speech} 

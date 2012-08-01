@@ -1,0 +1,59 @@
+﻿{title} Senator Edwards Addresses Supporters {/title}
+{event} ----- {/event}
+{speaker} John Edwards {/speaker}
+{date} January 19, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+I came here a year ago with a belief that we could change this country, with a belief that the politics of what was possible -- the politics of hope could overcome the politics of cynicism.
+
+I have been all over the state of Iowa. I have been on main streets, in cafes, in people's homes. The people of Iowa tonight confirmed that they believe in a positive, uplifting vision to change America. {APPLAUSE}
+
+And not only that, tonight we started a movement to change this country that will sweep across America. {APPLAUSE}
+
+Tonight we began it. {APPLAUSE}
+
+You know, we still live in a country where, in so many ways, there are two separate Americas: one for those in positions of privilege; one for everybody else. It doesn't have to be that way. 
+
+We have two health care systems: one for those who can afford the best health care money can buy; one for everybody else, rationed out by insurance companies and HMOs. It doesn't have to be that way.
+
+We have two public school systems: One for those who live in the most affluent communities; one for everybody else.
+
+We have two tax systems: one for those who have lawyers and accountants and can take care of every tax loophole and every tax advantage that comes down the pike; then one for everybody else, folks who just work hard every single day and pay their taxes.
+
+We have two economies in America: one for all of those families who have everything they need, security; their kids, their grandkids are all going to be OK and they know it. And then there's one for all of those families who work paycheck to paycheck. They save nothing. They go into debt. They struggle every single day to build a better life for themselves and their families. We also have 35 million Americans who, every single day, live in poverty in America. I know the politicians don't talk about this much. The reason is these folks usually don't vote -- doesn't come up high in polls. 
+
+We should talk about lifting these Americans out of poverty, because it is wrong to have 35 million people living in our country... {APPLAUSE}
+
+... living in poverty every single day. {APPLAUSE}
+
+Not in the America you and I are going to build together. {APPLAUSE}
+
+We have a moral responsibility to lift these families out of poverty. We have children in a country of our wealth going to be bed hungry. We have children who don't have the clothes to keep them warm. We have millions of Americans who are working hard every single day for minimum wage, living in poverty in America.
+
+You and I will build together. We will say, "no," to kids going to bed hungry, "no," to kids who don't have the clothes to keep them warm, and "no" forever, for any American working full time and living in poverty, "not in our America, not in our America." {APPLAUSE}
+
+We still have two governments in Washington, D.C.: one for the insiders, the lobbyists, those powerful lobbyists that are there every single day; and then one for the rest of this country.
+
+America still has two images around the world: the one we used to have of America, this great shining light, this beacon of freedom, democracy and human rights that everyone looked up to. And instead, the image we have today: America acting on its own, unilaterally using its power when it chooses to, ignoring and disrespecting its allies.
+
+It doesn't have to be that way. You and I can build an America and an image of America that we will be proud of. {APPLAUSE}
+
+This campaign, this cause, this movement is about bringing real change to America. It's about lifting up the American people and making them believe again.
+
+And I want to say a word about some of the other folks who were involved in this race here in the state of Iowa. First, my congratulations to Senator John Kerry for running a very good campaign in the state of Iowa. {APPLAUSE} 
+
+To Governor Dean and Congressman Kucinich, both of whom are very good people, good leaders, who also ran a good campaign. 
+
+But I want to particularly take a moment to say a word about Congressman Dick Gephardt, a man I have so much personal respect and affection for. Here is a man who has stood up and fought for working people every single day of his life. And he deserves to be lifted up by us tonight, for all of the work he has done... {APPLAUSE}
+
+... over his entire life for the kind of people that deserve a champion. {APPLAUSE}
+
+We should be proud of what he's done. {APPLAUSE}
+
+I also want to say a thank you to my team here in the state of Iowa. {APPLAUSE}
+
+{/speech} 

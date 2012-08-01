@@ -1,0 +1,24 @@
+﻿{title} Remarks by President Clinton And King Hassan of Morocco upon Arrival {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 15, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Your Majesty, Your Royal Highnesses, members of the Moroccan delegation, distinguished guests: On behalf of the United States, it is my honor to welcome back to Washington a good friend of America, and one of the Islamic world's most respected leaders, King Hassan II. {APPLAUSE}
+
+Your Majesty, the ties that link our two nations go back to the dawn of our independence. Before the cornerstone of this White House was laid, President George Washington and your ancestor, Sultan Mohammad III, signed a treaty of peace and friendship.
+
+In the decades since, our two nations have sought to live up to that treaty's ideals by building on our friendship and working for peace and prosperity in your region and throughout the world. Now, much of what we have labored for and dreamed of is closer than ever to becoming reality -- thanks, in good measure, to your wisdom and to your vision.
+
+Your Majesty, you have worked tirelessly to secure a lasting and comprehensive peace in the Middle East, from helping to arrange President Sadat's historic journey to Jerusalem, to building trust through quiet diplomacy, from establishing ties with Israel, to hosting the Casa Blanca Economic Summit. Now, we must accelerate the momentum for peace in the Middle East, the momentum which you have done so much to nurture and sustain.
+
+As Morocco and the United States work for peace, we are also forging stronger bonds of commerce between our peoples. Morocco has embraced free markets, and today, your economy stands poised to reap the benefits of this wise decision. Your Majesty, I look forward to discussing new opportunities for trade and investment which will support good jobs and create wealth in both our nations.
+
+Your Majesty, under your leadership, Morocco has served as a force for tolerance and progress rooted in Islamic values. At a time when cooperation and moderation are taking hold in more countries than ever before, but when violence and extremism still threaten all that we are working for, your example and your commitment to peace are more important than ever before.
+
+Your Majesty, the United States is glad to have you as a friend, honored to have you as a partner as we work to shape the world for the better. Welcome to the White House. Welcome to America. {APPLAUSE} 
+
+{/speech}

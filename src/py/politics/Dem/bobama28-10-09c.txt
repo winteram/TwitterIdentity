@@ -1,0 +1,54 @@
+﻿{title} Remarks by the President at the Signing of the National Defense Authorization Act for Fiscal Year 2010 {/title}
+{event} Signing of the National Defense Authorization Act for Fiscal Year 2010 {/event}
+{speaker} Barack Obama {/speaker}
+{date} October 28, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Please, everybody be seated.
+
+Good afternoon. I have often said that meeting our greatest challenges would require not only changing policies in Washington but changing the way business is done in Washington; that it would require a government that's more efficient and effective and less influenced by lobbyists and parochial politics. And I'm pleased to say that when it comes to the defense bill I'm about to sign into law, we've taken some important steps towards that goal.
+
+I want to acknowledge my outstanding Vice President, Joe Biden. {APPLAUSE} Attorney General Eric Holder is here. {APPLAUSE} And all members of Congress who are joining us here today, thank you very much for your outstanding work. You can give members of Congress a round of applause. {APPLAUSE}
+
+As Commander-in-Chief, I will always do whatever it takes to keep the American people safe, to defend this nation. And that's why this bill provides for the best military in the history of the world. It reaffirms our commitment to our brave men and women in uniform and our wounded warriors. It expands family leave rights for the family members of our troops and veterans. And it makes investments in the capabilities necessary to meet 21st century challenges.
+
+But I have always rejected the notion that we have to waste billions of dollars of taxpayer money to keep this nation secure. In fact, I think that wasting these dollars makes us less secure. And that's why we have passed a defense bill that eliminates some of the waste and inefficiency in our defense process -- reforms that will better protect our nation, better protect our troops, and save taxpayers tens of billions of dollars.
+
+Now, at the outset, let me just say that this effort would not have been possible without an extraordinary Secretary of Defense. And so I want to thank publicly Bob Gates for his service to our nation. {APPLAUSE}
+
+Having served under eight Presidents of both parties, this is a man who understands that our defense budget isn't about politics, it's about the security of our country, and who knows that every dollar wasted is a dollar we can't spend to care for our troops or protect the homeland.
+
+And over the last several months, he took that fight to Congress. He challenged conventional thinking, and he emerged with several critical victories. So on behalf of the American people, I want to thank you, Bob, for your extraordinary efforts. {APPLAUSE}
+
+Now, Bob couldn't have been successful had it not been for the next person I want to introduce -- Admiral Mike Mullen, the Chairman of the Joint Chiefs of Staff. He provided wise counsel and stood with us in our efforts to initiate reform, even though it probably occasionally caused some heartburn inside of the Pentagon as well, because change is hard. And so I'm very grateful for his leadership and excellent work. Please give -- {APPLAUSE}
+
+And finally, I want to thank the members of Congress, particularly Senators Carl Levin and John McCain, and Congressmen Ike Skelton and Buck McKeon. As the chairmen and ranking members of their respective committees, they did an outstanding job.
+
+Now, this bill isn't perfect. This bill is an important step forward, but it's just a first step. There's still more waste we need to cut. There are still more fights that we need to win. Changing the culture in Washington will take time and sustained effort. And that's why Secretary Gates and I will continue waging these battles in the months and years ahead.
+
+But I will say that when Secretary Gates and I first proposed going after some of these wasteful projects, there were a lot of people in this town who didn't think it was possible, who were certain we were going to lose, who were certain that we would get steamrolled, who argued that the special interests were too entrenched, and that Washington was simply too set in its ways.
+
+And so I think it's important to note today we have proven them wrong. Today we're putting an end to some wasteful projects that lawmakers have tried to kill for years. And we're doing this because Secretary Gates and I both know that we can't build the 21st century military we need unless we fundamentally reform the way our defense establishment does business. The Government Accountability Office, the GAO, has looked into 96 major defense projects from the last year, and found cost overruns that totaled $296 billion, an amount of money that would have paid our troops' salaries and provided benefits for their families for more than a year.
+
+And we all know where this kind of waste comes from -- indefensible, no-bid contracts that cost taxpayers billions and make contractors rich; special interests and their exotic projects that are years behind schedule and billions over budget; entrenched lobbyists pushing weapons that even our military says it doesn't want and doesn't need -- the impulse in Washington to win political points back home by building things that we don't need at costs we can't afford. This waste would be unacceptable at any time, but at a time when we're fighting two wars and facing a serious deficit, it's inexcusable. It's unconscionable. It's an affront to the American people and to our troops, and it has to stop.
+
+And already I've put an end to unnecessary no-bid contracts. I signed bipartisan legislation to reform defense procurement so weapons systems don't spin out of control. And even as we made critical investments in the equipment and weapons our troops do need, we're eliminating tens of billions of dollars in waste we don't need. So no longer will we be spending nearly $2 billion to buy more F-22 fighter jets that the Pentagon says they don't need. This bill also terminates troubled and massively over budget programs such as the Future Combat Systems, the Airborne Lasers, the Combat Search and Rescue helicopter, and a new presidential helicopter that costs nearly as much as Air Force One. I won't be flying on that.
+
+At the same time, we accelerated or increased weapons programs needed to confront real and growing threats -- the Joint Strike Fighter, the Littoral Combat Ship, and more helicopters and reconnaissance support for our troops at the front.
+
+And this bill also reduces waste and fraud in our contracting system, as well as our reliance on private contractors for jobs that federal employees have the expertise and the training to do.
+
+So today I'm pleased to say that we have proved that change is possible. It may not come quickly, or all at once, but if you push hard enough, it does come eventually.
+
+Now, speaking of that, there is one more long-awaited change contained within this legislation that I'll be talking about a little more later today. After more than a decade of opposition and delay, we've passed inclusive hate crimes legislation to help protect our citizens from violence based on what they look like, who they love, how they pray, or who they are. {APPLAUSE}
+
+I promised Judy Shepard, when she saw me in the Oval Office, that this day would come, and I'm glad that she and her husband Dennis could join us for this event. I'm also honored to have the family of the late Senator Ted Kennedy, who fought so hard for this legislation. And Vicki and Patrick, Kara, everybody who's here, I just want you all to know how proud we are of the work that Ted did to help this day -- make this day possible. So -- and thank you for joining us here today. {APPLAUSE}
+
+So, with that, I'm going to sign this piece of legislation. Thank you all for doing a great job. All right.
+
+{COMMENT="The Act is signed"} {APPLAUSE} 
+
+{/speech}

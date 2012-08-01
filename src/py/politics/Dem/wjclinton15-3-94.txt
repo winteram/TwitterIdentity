@@ -1,0 +1,66 @@
+﻿{title} Remarks By The President To The Employees Of Markhem Corporation {/title}
+{event} Markhem Corporation, Keene, New Hampshire {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 15, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Remarks by President to Markhem Corp Employees Keene NH {/description}
+
+{speech} 
+
+Thank you very much. First, thank you, Jan. She did a it like a real pro, didn't she, just as if she'd been there her whole life. Give her a hand. {APPLAUSE}
+
+I want to thank Jim Putnam for that fine tour and for his remarks. I also want to recognize your Congressman, Dick Swett, who is with me, who's made the tour with me and he's been a real friend to this company. He's been telling me about Markem for a long time and telling me that I should come here. And I'm very glad I took the suggestion. I had a great time today, and I thank you for that. {APPLAUSE}
+
+I want to thank Jim for the tour and all of you who welcomed me along the way and showed me the work you're doing. It's very, very impressive. I appreciate the message that was read from Tom Putnam and the fact that he's opening new markets for you in another part of the world.
+
+I know there are other leaders of this company --Jim Baute who I met today, and Dave Putnam who's not here -- and I thank all of you for giving me a chance to see something that is very important for America to think about today, which is how people work together in partnership and win in a tough global economy.
+
+Mayor Lynch, I want to say I'm very glad to be back in Keene today, and with you, Senator, and all the other people that are here. This community and this county have been very good to me. Chesser County gave me more votes than anybody else on the ballot in the primary here in 1992 and in the general election. {APPLAUSE} And so I'm indebted to the people of this community and this county.
+
+Yesterday I was in Detroit, the center of our country's automobile industry, a place that is full of change where, first, thousands and thousands of jobs were lost in the car industry, and now, automobiles are coming back and other industries are coming back in and around there. We had leaders of the world's seven large industrial nations meeting there -- Canada, France, Germany, Great Britain, Italy, Japan and the United States -- talking about an interesting phenomenon which is the difficulty all the wealthy countries are having creating jobs in a tough global economy, even when their economies are growing. It's not a problem confined to America.
+
+And I asked for this meeting last summer so that we could begin to plan together what we could do to reward the work of our people and to try to cooperate more with one another even as we compete.
+
+One of the things that we know is that there are some things that work, and you live it here every day. This is an old company that, as Jim said to me on the tour, keeps young by looking always to the future, being always willing to change. A company that's had, as I understand it, no layoffs in four decades, and that goes through a long recession in the 1980s. That's something you can be proud of. Would that every company would do that. {APPLAUSE}
+
+And it's obvious that you have a combination here of good management, strong workers, good partnership between the people who work here and the folks in management. You're keeping on the cutting edge of technology. I saw the computer change the two different labels for my visit here today, not with any plates or anything, but with simple software.
+
+And a real commitment to open markets. I thank Jim and his company for their support of our attempts to open more markets to American products through the North American Free Trade Agreement with Mexico, through the new worldwide trade agreement, through the outreach we're conducting to Asia.
+
+One of the things we know is that a rich country can't grow richer unless it finds more customers for its goods and its services. And I am committed to finding more customers and to making sure that we have a chance to sell in every market in the world. I was encouraged at the Japanese that, after years of conversation and controversy you've finally worked out an arrangement to give our cellular telephone companies, and Motorola, specifically, access to the entire Japanese market.
+
+We don't want any favors, we just want a chance to sell American wherever people are willing to buy American. I think that's what we ought to want and what we ought to insist on. If we let other countries have access to our markets, we should ask for the same thing in return, and give you a chance to compete in the global economy. {APPLAUSE}
+
+Since I became President, I have worked on a coordinated economic strategy designed to give you a chance to do well -- by opening more markets to exports, because exportrelated jobs pay 22 percent more on average than jobs that have no connection to the global economy by trying to improve the economic climate in this country, bringing interest rates down and increasing investment, by bringing our deficit down.
+
+Last year, the Congress approved a deficit reduction plan to reduce our deficit by $500 billion. This year's plan has just been approved in its outlines by the House of Representatives. And if it passes -- and I believe it will -- we'll have three years of constant reduction in our government deficit for the first time since Harry Truman was the President of the United States. And it's paying rich dividends for the economy of America and New Hampshire. The unemployment rate in this state has dropped 1.5 percentage points since the election of 1992, 30,000 more jobs in New Hampshire. {APPLAUSE}
+
+But there is a lot more to do, and I ask you to work with me to make sure we do these things properly. And I just would mention three things, if I might. First of all, we have to continue to harness technology to the future, and make the best technologies available to all of our people.
+
+One of the ways we're doing that which has benefitted some in New Hampshire already is by taking some of the money that we're reducing defense spending by and putting into domestic technology development so that a lot of the defense companies can find ways to hold onto their jobs by making nondefense products.
+
+Another thing we're trying to do that Jim Putnam has been an expert about -- in fact, he's closer to Vice President Gore than I am in what he knows about it -- and that is the information superhighway. We want to hook in companies like this one, but also every library and every public school and every hospital in the United States of America into a vast information network, fueled by high technology to make information readily, quickly, inexpensively accessible to all the American people. This can explode our economic opportunities and improve our quality of life. And your company and your leader are on the cutting edge of that. We intend to continue to push it. {APPLAUSE}
+
+Second thing we want to do is try to improve the continuous training opportunities for America's workers. Unfortunately, as you know, very few companies have no layoff policies, and a lot of companies in a dynamic economy simply don't make it at all. Most of the new jobs being created in America are being created by smaller employers, but they have a record of not only coming into business in a hurry, but often going out of business.
+
+That means that we need to change the whole unemployment system, because, frankly, companies pay unemployment taxes into a fund designed for an economy that doesn't exist anymore. Most people who lose their jobs today don't get their old jobs back the way they used to. They have to find new jobs, which means, instead of maintaining people in idleness for a protracted period on unemployment payments that are inadequate anyway, we should use that money immediately, as soon as people lose their jobs, to begin to immediately retrain them so that they can get jobs in companies that are growing with a better future that require higher skill levels. We should turn the unemployment system into a reemployment system. That will be a heavy priority for the Congress this year. {APPLAUSE}
+
+The last thing I'd like to talk about briefly is health care -- for a couple of reasons. First of all, I know this company has a good health care package and, therefore, that you all feel secure in your health care. And I honor you for that and I'm glad you do. But you should know that every major company in America like this one that provides good health care to its employees is paying more for that health care than it should because so many Americans don't have any health insurance and when they show up at the hospital at the emergency room, their health care gets absorbed by the hospitals and they pass the cost on to the companies that do have health insurance. That adds to the cost of doing business.
+
+It also means that a lot of Americans are at risk of losing their health insurance all the time. So what we're committed to doing this year is to -- preserving the plans that are good, like yours; preserving what works in the American health care system, but fixing the system of finance which has led a lot of people into very difficult circumstances.
+
+I just left a town hall meeting in Nashua, where I talked to a woman who lost her health insurance because she had a sick child and because she lost her job, and now nobody will hire her because they don't want to take her son's insurance on because the child is sick. In any other country they would have a broad, big pool in which people like that could be insured, so no company would be unduly burdened by hiring an employee.
+
+With people changing jobs seven or eight times in a lifetime, we have to make it possible for all American families to work and to have access to health care. And we can't stop people from moving in the job market just because they had a child or a parent who was sick. And furthermore, it is not right when we are trying to export our products all over the world to punish good companies that provide good health insurance benefits by making them pay more than they should just because some people don't pay anything.
+
+So we're going to try to provide health security for all Americans in a way that preserves what is right about our system, but fixes what is wrong. It will be good for the economy, and I can also tell you it'll be very good for this budget deficit, because every year, now the only thing that's really growing in the entire federal budget are health care costs going up and two and three times the rate of inflation for reasons directly related to the fact that we're the only advanced industrial country that doesn't provide health care to everyone. So we have to do that, and I hope you will support that. {APPLAUSE}
+
+Finally, let me say that one of the things that I'm trying to do as your president, with mixed results, I guess, is to bring the same sort of values and method of operation that made this company great into the operation of the national government.
+
+So many of the problems that we have today are people problems. They don't fit neatly within the partisan political categories of the past. So much of what we have to do today is to get people to work together in teams to develop human potential and to exalt human dignity and give people a chance to live up to the fullest of their God-given ability. That is our job -- to get people together, to get things done, to help people make the most of their lives.
+
+And I think that we do very well in Washington, D.C. to remember the model that we see here. The model that puts people first. No layoff policy, heavy emphasis on productivity, use technology, but never forget people are the most important thing. Sell to the whole world. Keep the competition in mind. Those are things I wish we could be driven by in Washington. And I promise you, every day I'm trying to bring Washington a little closer to that way of doing business -- your way.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

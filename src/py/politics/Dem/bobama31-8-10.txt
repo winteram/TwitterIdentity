@@ -1,0 +1,54 @@
+﻿{title} Remarks by the President During Fort Bliss Army Base Visit {/title}
+{event} Fort Bliss Army Base Visit {/event}
+{speaker} Barack Obama {/speaker}
+{date} August 31, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. {APPLAUSE} Everybody have a seat. Well, listen, I am extraordinarily honored to be with all of you today, and I want to thank General Pittard, I want to thank Command Sergeant Major Dave Davenport, who have shown such extraordinary leadership here.
+
+I wanted to come down to Fort Bliss mainly to say thank you and to say welcome home.
+
+I'm going to make a speech to the nation tonight. It's not going to be a victory lap. It's not going to be self-congratulatory. There's still a lot of work that we've got to do to make sure that Iraq is an effective partner with us. But the fact of the matter is that because of the extraordinary service that all of you have done, and so many people here at Fort Bliss have done, Iraq has an opportunity to create a better future for itself, and America is more secure.
+
+Now, I just met with some Gold Star families, and yesterday I was at Walter Reed. And there are no moments when I feel more keenly and more deeply my responsibilities as Commander-in-Chief than during those moments. I know we lost 51 fellow soldiers from here in Fort Bliss. A lot more than that were injured, some of them very severely. A million men and women in uniform have now served in Iraq. And this has been one of our longest wars.
+
+But the fact of the matter is that there has not been a single mission that has been assigned to all of you in which you have not performed with gallantry, with courage, with excellence. And that is something that the entire country understands.
+
+There are times where, in our country, we've got political disagreements. And appropriately we have big debates about war and peace. But the one thing we don't argue about is the fact that we've got the finest fighting force in the history of the world. {APPLAUSE}
+
+And the reason we have it is because of the men and women in uniform, in every branch of service, who make so many sacrifices, and their families make those sacrifices alongside them.
+
+And so the main message I have tonight and the main message I have to you is congratulations on a job well done. The country appreciates you. I appreciate you. And the most pride I take in my job is being your Commander-in-Chief.
+
+It also means that as we transition in Iraq, that the one thing I will insist upon for however long I remain President of the United States is that we serve you and your families as well as you served us.
+
+So we spent a lot of time over the last couple of years making sure that we're increasing our support of veterans: that we are making sure that our wounded warriors are cared for; that some of the signature injuries of our war, like post-traumatic stress disorder, traumatic brain injury, that we are devoting special services there; that we've got a post-9/11 GI bill that ensures that you and your family members are able to come back and fully contribute and participate in our economy; that our veterans are constantly getting the care and honor that they have earned.
+
+So that's part of my message to the country. And one of the great things about the last several years has been to see how unified the country is around support of our veterans and of our men and women who are currently serving.
+
+Now, I know that, as I said at the beginning, our task in Iraq is not yet completed. Our combat phase is over, but we've worked too hard to neglect the continuing work that has to be done by our civilians and by those transitional forces, including some folks who are going to be deploying I understand today. And I'm going to be talking to them later.
+
+The work that continues is absolutely critical: providing training and assistance to Iraqi security forces because there's still violence in Iraq, and they're still learning how to secure their country the way they need to. And they've made enormous strides thanks to the training that they've already received. But there's still more work to do there.
+
+We're going to have to protect our civilians, our aid workers and our diplomats who are over there, who are still trying to expand and help what's going to be a long road ahead for the Iraqi people in terms of rebuilding their country.
+
+We're still going to be going after terrorists in those areas. And so our counterterrorism operations are still going to be conducted jointly. But the bottom line is, is that our combat phase is now over. We are in transition. And that could not have been accomplished had it not been for the men and women here at Fort Bliss and across the country.
+
+The other thing that I'm going to talk about this evening is the fact that we obviously still have a very tough fight in Afghanistan. And a lot of families have been touched by the way in Iraq. A lot of families are now being touched in Afghanistan. We've seen casualties go up because we're taking the fight to al Qaeda and the Taliban and their allies.
+
+It is going to be a tough slog, but what I know is that after 9/11, this country was unified in saying we are not going to let something like that happen again. And we are going to go after those who perpetrated that crime, and we are going to make sure that they do not have safe haven.
+
+And now under the command of General Petraeus, we have the troops who are there in a position to start taking the fight to the terrorists. And that's going to mean some casualties and it's going to mean some heartbreak. But the one thing that I know from all of you is that when we put our minds to it, we get things done. And we're willing to make some sacrifices on behalf of our security here at home.
+
+So to all of you, and to your families, I want to express my deepest gratitude, the gratitude of Michelle, the First Lady, and our entire family. But also I just want to say thank you on behalf of the country, because without you we couldn't enjoy the freedoms and the security that are so precious. And all of you represent that long line of heroes that have served us so well generation after generation.
+
+You know, when I was talking to the Gold Star families there, there were some widows dating back to World War II, and then there was a young woman who had just had a baby and had just lost her husband. And that describes the arc of heroism and sacrifice that's been made by the men and women in uniform for so many generations. You're part of that line, part of that tradition, part of that heroism.
+
+So what I'd like to do is just to come around and shake all of your hands personally, to say thank you to all of you, to say thank you for a job well done, and to know that you are welcome home with open arms from every corner of this country. People could not be prouder of you, and we are grateful.
+
+Thank you very much, everybody. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,44 @@
+﻿{title} Remarks at the Department of State Reception to Honor the Long-Standing Partnership with the United States Marine Corps {/title}
+{event} State Reception to Honor the Long-Standing Partnership with the United States Marine Corps {/event}
+{speaker} Condoleezza Rice {/speaker}
+{date} September 14, 2006 {/date}
+{source} http://www.state.gov/secretary/rm/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, General Huly, for that fine introduction. We say at Stanford that, well, somebody had to go to Cal after all. {LAUGHTER} I want to thank you all for coming tonight. I appreciate very much the opportunity to recognize this very special relationship and this important contribution of our Marine Corps to our nation and to the Department of State. It's a pleasure to host so many supporters of the Marine Corps Heritage Foundation. By preserving the history of the Marine Corps, you educate future generations of the sacrifice necessary to protect our freedom.
+
+Thank you very much for what you do. General Christmas, you gave a fine introduction for that Marine Corps Museum. I can hardly wait to see it. And thank you, Griff, for the work that you do to make our men and women around the world safe. And we've got great partners here in the Marines.
+
+
+For the past 57 years, Marine Corps security guards have served our nation with distinction and with honor. They've stood watch over the men and women of American diplomacy with vigilance and with courage. And in many times of testing, when lives were on the line and danger was most threatening, Marines have made the ultimate sacrifice so that America's mission could succeed. Today, more than 1,200 Marines are serving shoulder to shoulder with America's diplomats in 149 of our embassies and consulates around the globe. Marines are the first people to greet our diplomats when they arrive for work in the morning and the last to greet them when they go home at night. In a world where an enemy can strike at any time, it is comforting to know that no matter the hour, no matter the place, our Marines will be there to greet the enemy too.
+
+
+{APPLAUSE}
+
+
+Today, our Marine Security Guards are vital partners in a new diplomatic mission, a mission that we call transformational diplomacy. The goal of this mission is to build the political foundations of freedom for all people; justice and opportunity and tolerance and equality, and the rule of law and the rights of man. This mission requires our diplomats to serve in different places, in different conditions, and in difficult circumstances. And more and more, it calls us to work more closely than ever with America's men and women in uniform.
+
+
+Ladies and gentlemen, in my year and a half as Secretary, I have visited dozens of countries and spoken with many of our Marine security guards abroad. It's a wonderful thing when I go and take that photograph with the Marine guards, because I just want to say one thing to them: Without the Marines, the men and women of the State Department could not succeed in our mission and I just want to thank them for their service to our country and to the cause of freedom.
+
+
+Today, we recognize and give thanks for the vital role that all American Marines have always played and continue to play in the safety and the success of our nation. America trusts in the Marine Corps to protect our lives and our liberties. It's a lofty charge, I know, but it is one that the Marine Corps has upheld for its entire history. From the shores of Tripoli to the halls of Montezuma, we all know those words.
+
+
+We know that Marines are always the first to the fight. This was no different in the days five years ago when America prepared to answer the terror attacks on our nation. When that answer finally came, it was our Marines who led the way. They were the first to fight to liberate the peoples of Afghanistan from the Taliban, and they were there to fight to rid the people of Iraq of Saddam Hussein's tyranny. Because our men and women in uniform in Afghanistan and Iraq today, because of their sacrifice, because of their valor, because of their skill, and because of their commitment, 55 million men, women, and children now have an opportunity to live in freedom.
+
+
+Of course, these gains have not come without struggle and without setbacks. When our country calls them to serve, America's Marines always give us the full measure of their devotion. And in the five years since September 11th, 809 Marines have laid down their lives in the war on terrorism. Our grateful nation mourns each and every one of these souls and our hearts go out to their friends and their families. We will never forget our fallen heroes and we will honor their memory by completing the mission they so nobly began.
+
+
+America has always been at its best when it leads from power and from principle. The Marines are a fine example of power and principle. You represent our country so well. You have defended it before it was a country. I want to thank the Marine Corps for your service on the frontlines in the war on terror and on the forefront of our nation's diplomacy. America is stronger for the Marine Corps' commitment to the men and women of the State Department, but America is just stronger for the commitment and the dedication of the Marines.
+
+
+I'd like to now turn the program back over to General Christmas, and then I'd like you to go and enjoy the reception. Thank you very much.
+
+
+{APPLAUSE} 
+
+{/speech}

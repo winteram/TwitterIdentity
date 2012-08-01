@@ -1,0 +1,44 @@
+﻿{title} Remarks by the President to the National Boy Scout Jamboree {/title}
+{event} Fort AP Hill, Bowling Green, Virginia {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 30, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. {APPLAUSE} Are those Arkansas flags I see back there? {APPLAUSE} Thank you for waving them.
+
+Let me say to all of you, I want to begin by thanking John Kates for that introduction. Congratulations for passing the Board of Review for the Eagle Scout rank. I didn't notice whether John had a public speaking merit badge on his sash, but I'd say he earned one tonight standing up in front of all of you to introduce me. I think he did a great job. Let's give him a hand. {APPLAUSE}
+
+I want to say to Jere Ratcliffe, Roy Roberts, Jack Creighton, to all the officials of the Boy Scouts here -- thank you for what you do with our young people. I'm happy to be joined tonight by the Secretary of the Navy, John Dalton; the Secretary of the Air Force, Sheila Widnall; the Under Secretary of the Army, Joe Reeder; and the Chief of Naval Operations, the top ranking Naval Officer in the United States and a proud Eagle Scout, Admiral Jay Johnson. They're right over here, and we're all glad to be with you tonight. {APPLAUSE}
+
+Again let me say to Major General Dennis Malcor, the Commander of the National Scout Jamboree Task Force, to all the Scout leaders, and to the men and women of the Armed Forces who are helping with this Jamboree, I am grateful to you for supporting these fine young Americans. It's a great privilege for me to be here to celebrate the 60th anniversary of the first National Scout Jamboree, a pleasure to serve and an honor to serve as your honorary President.
+
+As has already been said, ever since 1910, when William Boyce founded the Boy Scouts of America, every President has proudly served as your honorary President. For every President has recognized what a great contribution Scouting has made and is making to the character of our young people, and therefore to the character and future of the United States of America.
+
+I, like many members of our administration, was exposed to scouting at a young age. I began as a Cub Scout in Hot Springs -- Pack 1, Ramble Elementary School, Ouachita Area Council. And those are the guys that are waving those flags back there. So don't boo them too hard. They're just sticking up for one of their own.
+
+When I was preparing to come out here to visit you, I was reminded of how the Boy Scouts got its start in our country as the result of a good turn. I reviewed once again the classic story of how William D. Boyce lost his way in a dense London Fog and received help from a British Scout who refused to accept a tip. Just think about how that one good turn set in motion millions upon millions of other good turns over the years.
+
+I know that John Kates, the Scout who introduced me, and the other young Eagle Scouts whom I met before coming up here, have done their good turns. John, his for many older people in his hometown of Detroit, where he's mobilized more than three dozen volunteers -- {APPLAUSE} -- to bring hot meals to elderly folks who don't have families to help them during the holidays.
+
+Just yesterday, Scout Master Andrew Leahy of Brentwood, Missouri, did a good turn on pure instinct and reflex -- {APPLAUSE} -- with an impressive tackling form as well. Surely you have heard that Andrew helped the Capitol Police apprehend a man who almost ran down several pedestrians, including a member of the United States Congress, in his car. I believe that he is here tonight. And if he is, I want to thank him personally for that good turn. {APPLAUSE} I don't know if there's a Scout merit badge for tackling dangerous people who are violating the law, but if there is one, I think he ought to get it.
+
+You may know that last April, I and all former Presidents and General Colin Powell sponsored a Presidents' Service Summit in Philadelphia. At that summit, we said that we wanted every young person in America -- every single one -- to have the benefit of five things: a safe childhood; a healthy childhood; a childhood with a good education; a childhood with an adult mentor; and the chance for every child, himself or herself, to serve in every community in the country. In other words, what we said was we challenged all the adults in America to engage in citizen service -- another way of doing a good turn.
+
+The Boy Scouts of America, as much or more than any other organization in this country, has answered our call, for the Boy Scouts committed after the Presidents' Service Summit to provide 200 million hours of community service through the year 2000. I thank you for that commitment. {APPLAUSE}
+
+Building community and character is what the Boy Scouts have always been about. So today I ask all of you to help spread the word about doing good turns. All of you here, each in your own way, are future leaders of this country. When you return home from the Jamboree, please encourage your classmates and your friends to join you in committing to community service. If every young person in America would give back to their community in the way you do, just imagine what we could do. Imagine how many fewer problems we could have. So many times I have wished that every young person in America had the chance to be a part of Scouting. And tonight I see why more clearly than ever. So I hope you'll go home and help others to serve and learn the joy that you share by the service you do. {APPLAUSE}
+
+And the next time you recite the Scout Oath, I hope you will remember that it's not just your fellow Scouts, your parents and the people you know well, but your whole nation that is counting on you. We need you to remain focused on the strong values you learned in Scouting; to remember that character counts and service counts.
+
+We need you if we're going to build our communities and bring our people together across all the lines that divide us. We need you if we're going to lead our country into the 21st century, still the world's strongest force for peace and freedom and democracy and prosperity. We need you if we're going to have a country where every person, without regard to race or station in life, who is responsible enough to work for it, can live out his or her dreams. We need you to keep this country coming together and coming ever closer to the ideals on which we were founded -- that we are one nation under God, all created equal. We have to work harder and harder and harder to build that one America, strong and united and good.
+
+Over 150 years ago, the astute French observer, Alexis de Toqueville said, "America is great because America is good." You help to keep America good. And I know you will throughout your lives.
+
+Thank you for what you do. Thank you for what you are. And thank you for what you will become. Good luck and God bless you all. {APPLAUSE}
+
+{COMMENT="President receives award"} {APPLAUSE} 
+
+{/speech}

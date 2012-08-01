@@ -1,0 +1,43 @@
+﻿{title} Remarks by the President at Democratic National Committee Dinner {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 1, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Ladies and gentlemen, let me, first of all, say when Steve Grossman was standing up here bragging on everyone else, I thought to myself, when he took over our party, when we were $18 million in debt, it didn't seem like a very sound decision on his part. Not a sound political decision, not a sound business decision -- because he had to stop doing other things -- probably not a good thing for his family. And we wouldn't be here if he hadn't put in all the long hours and long days and long weeks and long months. He never got tired. 
+
+People talk about how I don't -- I do get tired. I plead guilty, I get tired. Steve Grossman never got tired. {LAUGHTER} And I think we ought to tell him that we know that and we thank him so much. {APPLAUSE} Thank you. 
+
+Let me say tonight is a special night for all of us because we're joined by three of our new senators, and I'm very proud of all of them. Hillary and I have known Evan and Susan Bayh for a long time. They're both my golfing partners; they used to be my jogging partners back when I was young like they still are. And we served as governors together, we've done a lot of things together for years. And I was absolutely thrilled to see the great success that they enjoy. 
+
+I met John Edwards in North Carolina when he and Elizabeth were down there. We went to a very hot rally one night and I went away -- and Erskine Bowles went down with me; it was the day we had the -- we celebrated America's Heritage Rivers, and we did the New River in North Carolina. And then we went to this big event where John was the featured speaker. And we walked out, and Erskine and I had to go back to Washington. I said, Erskine, I'll swear I believe that guy can be elected. This is months beforehand. {LAUGHTER} And sure enough, he was, thanks to a magnificent effort in North Carolina. 
+
+And all of you know that Hillary and I virtually moved to New York state in the Schumer campaign. And I saw Chuck and Iris and their daughters up close on many occasions, campaigning. I thought I knew New York real well, but Chuck Schumer taught me a few things and showed me a few people and a few places and a few neighborhoods that I had not known before then. 
+
+And I really believe that these people embody not just the future of our party, but the future of our country. And I am honored to serve with them and I am very much looking forward to it. {APPLAUSE} 
+
+Let me be very brief. All of you are here, this is sort of a year end celebration, the last of a long series of efforts. I want to tell you also that it may be true, as Steve said and as many of our friends in the Republican Party have said since the election in which they outspent us by more than $100 million -- it may be true that money is trumped by message. And it must be true at some level because they did out-spend us by more than $100 million. 
+
+But I also think it's important to remember that the message has to get out. And if you hadn't been willing to come to so many of these events, hear me give the same speech over and over again, and be there for us in the bad times as well as the good, it wouldn't have been the same on Election Day. I have done this now for quite a long time and I will never do it again on my own behalf, so I can tell you from a lifetime of experience that it is quite possible to win an election in which you are outspent, but only if you have enough to be heard. 
+
+And so you gave our people a chance to be heard. And you gave our people a chance, as Steve never tires of saying, to be organized, to show up, to be counted. And I want you to know I am very grateful. 
+
+The last thing I want to say is we now have a heavier responsibility going into next year and the next year than we would otherwise have had because of the gains that were made, because of the elections that were won against all the odds; because the American people said so loudly, so clearly, so unmistakably, we like the way we're changing, we like the path we're on, we want to keep on, we want to keep moving economically, we want to keep moving toward greater social harmony, we want to keep tackling our problems and solving them and getting them out of the way and going on. We want to keep reaching out to the rest of the world in a positive way. 
+
+Because they said that, because they did say, we choose progress over partisanship and people over politics and unity over division, we have a higher responsibility. Elections are not simply the choices of people to sit in slots until the next election, they are a mandate for certain kinds of action or inaction, certain kinds of direction or changes of direction. 
+
+And so I say to you, we have a responsibility to lead and to try in good faith to work with the Republicans to save Social Security for the 21st century; to give every child in this country an excellent, world-class education; to deal with the challenges of the health care system -- including the patients' bill of rights -- to do whatever it takes to maintain our leadership for peace and freedom around the world, and to stabilize the global financial system so that we can continue to have long-term prosperity and opportunity here at home and for our friends and neighbors in other countries. 
+
+And down deep, beneath it all, we have a responsibility to keep working to reconcile the American people to one another, to really stand up for the best kind of unity, to stand against the politics of division, to prove that we have more in common than what divides us. 
+
+That is what I believe the voters asked us to do a month ago, and that is what I intend to spend two years doing. And I am profoundly grateful that these three magnificent public servants are going to be in the United States Senate to carry their load and then some. 
+
+Thank you very much. {APPLAUSE} 
+
+
+
+{/speech} 

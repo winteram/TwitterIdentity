@@ -1,0 +1,46 @@
+﻿{title} Vice President's Remarks at the 2006 Korean War Veterans Armistice Day Ceremony {/title}
+{event} Korean War Veterans Memorial, Washington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} July 27, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. {APPLAUSE} Thank you very much. Well, good morning to you all, and welcome to the Nation's Capital. Secretary Kempthorne, Admiral Kuhn, Director Reinert, Colonel Deckert, Colonel Wiedhahn, members of the armed forces, veterans, distinguished guests, ladies and gentlemen: It's a privilege for me to stand here today with all of you.
+
+I want to extend a special welcome to Ambassador Lee and to General Park -- friends of the United States, and representatives of a great and free nation, the Republic of Korea. Gentlemen, we're proud to have you with us. {APPLAUSE}
+
+I'd also like to acknowledge the members of the Korean War Veterans Foundation. You worked hard to help create this memorial to the troops who never again saw the Golden Gate Bridge from the West, as well as the soldiers from other nations who served in the Korean War. America is grateful for the vision and the perseverance of the Korean War Veterans Foundation.
+
+On this anniversary, gathered at this place of remembrance and reflection, our thoughts turn to a generation of Americans who lived and breathed the ideals of courage and honor, service and sacrifice. Our Korean War veterans heard the call of duty, stepped in to halt the advance of totalitarian ideology, and fought relentlessly and nobly in a brutal war. With us this morning are some of the very men and women who served under Harry Truman and Dwight Eisenhower, and went into battle under the command of Douglas MacArthur, Matthew Ridgway, and Raymond Davis. It is an honor to be in your company. To all the veterans of the Korean War, I bring the gratitude of your fellow citizens, and good wishes from the President of the United States, George W. Bush. {APPLAUSE}
+
+These Americans served in a war that has seldom received the attention it really deserves. Nearly a half-century came and went before a proper monument to the Korean War was constructed here on the Mall. But the Korean War Veterans' Memorial has done a great deal to reacquaint the nation with the history of that war. Americans already familiar with the heroism of World War II and Vietnam are now learning the story of Korea -- of what was gained, and what was lost, and of the decisions made so long ago that have a continuing significance to this day.
+
+I am told that a visitor to this memorial once asked a Korean War veteran if he liked its depiction of 19 ground troops, fitted out for battle, moving toward the American flag. He did. But, he said, "If you want to know what Korea was like," come back and "look at them when it's 10 degrees, snowing and sleeting."
+
+When the war began in the summer of 1950, our military had been through years of demobilization and was scarcely prepared for what lay ahead. The South Korean units were even worse off. The first units on our side in the battle area went in without tanks and were severely outgunned. General Ridgway said it was as if a few troops of Boy Scouts with hand weapons had tried to stop a German Panzer column. Another soldier remembers Korea as "a war of fists and rifle butts." Yet our troops fought valiantly. In early battles, American and South Korean combat forces were often outnumbered -- sometimes by as much as 20 to one. It was, said President Truman, one of the most heroic rearguard actions on record.
+
+Over time, the forces of freedom gained the firepower to match their bravery. And in three years of fighting, our armed forces helped to write some of the most notable chapters in military history -- including MacArthur's brilliantly conceived landing at Inchon, the intense struggle at Pork Chop Hill, and the successful withdrawal from the deathtrap at Chosin Reservoir -- an event that has been termed "the most violent small unit fighting in the history of warfare."
+
+Throughout the conflict, American and South Korean forces found themselves in some of the most difficult conditions any army could face. Their weapons rusted in the monsoons of summer, and froze solid during the coldest Korean winter in a hundred years. Many of our men who fell into enemy hands were treated with cold-blooded cruelty. By the time the fighting ceased and the armistice was signed, 131 Americans had earned the Medal of Honor -- and of those, 94 died while earning it.
+
+In the space of just 37 months, the United States of America lost a total of more than 36,000 of our soldiers, sailors, airmen, and Marines. More than 90,000 others returned home wounded. And even today -- 53 years after the guns went silent -- some 8,000 of our men remain unaccounted for. These brave Americans were last seen doing their duty. We know their names. We honor their service. And this nation will persist in the effort to gain a full accounting for every last one of them. {APPLAUSE}
+
+The cause America stood for in Korea -- joined by forces from many countries -- was noble and just. It was the cause of human freedom. It was a battle to determine, as General Ridgway put it, "Whether the rule of men who shoot their prisoners, enslave their citizens, and deride the dignity of man shall displace the rule of those to whom the individual and his individual rights are sacred."
+
+In the course of the struggle, our good ally, South Korea, sustained horrendous losses, both military and civilian, at the hands of the communist forces. Yet so much of the suffering that came to South Koreans in that period of war has been the daily experience of their brothers and sisters in the North for the more than 50 years since. North Korea is a scene of merciless repression, chronic scarcity and mass starvation, with political prisoners kept in camps the size of major cities. President Bush has observed that satellite photos of the Korean Peninsula at night show the North in almost complete darkness. South Korea, on the other hand, is bathed in light -- a vibrant, enterprising society, a prosperous democracy sharing ties of commerce and cooperation with many nations, a peaceful and talented people who have built the third-largest economy in Asia. In the words of President Roh, South Korea, "once an aid-receiving country, has now been transformed into an aid-giving country that is contributing to world peace." {APPLAUSE}
+
+All of us look to the day when the light of freedom and progress covers all of Korea, and stability on the peninsula rests on a foundation of peaceful reconciliation. Until then, stability and peace will be maintained by our great military alliance. Tens of thousands of American troops proudly serve in Korea today. We will maintain our presence there. America's commitment to peace in the region, and to the security of our friends, is unbreakable. The United States and South Korea will continue to stand together in defending civilization against global terror, and building the peace that freedom brings.
+
+{COMMENT="Sound of helicopter"} Must be the President. {LAUGHTER}
+
+Our people stationed in South Korea today follow in the finest of traditions, going back to the 1.8 million Americans who fought there during the war -- and the millions of others who have honored this country by their military service. In these early years of the 21st century, the American people have been inspired once again by the bravery and the selflessness of our armed forces. Freedom is not free -- and all of us are deep in the debt of the men and women who go out and pay the price for our liberty.
+
+As President Eisenhower said 53 years ago, Americans who fought in Korea "proved once again that only courage and sacrifice can keep freedom alive upon this Earth." By that courage and sacrifice, the United States and our allies held off the aggressive expansion of communism, and helped make possible the freedom and the great prosperity today enjoyed by some 48 million South Koreans. Decades after he left the military, one of our veterans said this: "I was glad to have served my country, and I've never heard Korean veterans complain. In fact, if we had to do it all over again, we would."
+
+Ladies and gentlemen, there could be no more eloquent testimony to the character of our country than those words from an American who served in that war. And it is fitting that every year, on the 27th of July, we honor them all and offer the respect of a grateful nation.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

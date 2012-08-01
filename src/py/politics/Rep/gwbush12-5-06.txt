@@ -1,0 +1,26 @@
+﻿{title} President Celebrates Asian Pacific American Heritage Month and Presents President's Volunteer Service Awards {/title}
+{event} The East Room {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 12, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. Welcome. Please be seated. Welcome to the White House. I like to call it the People's House. I'm glad you could join us today to celebrate Asian Pacific American Heritage Month. This is the month we recognize the many accomplishments of Americans who trace their origins to the Asian Pacific region, and we honor the contributions they make to our great land.
+
+Across our country, Asian Pacific Americans are making their mark in all walks of life, including business and law and politics and education, community service, the arts, and science. Today more Asian Pacific Americans serve in my administration than in any other administration in history, and two of them serve in my Cabinet. {APPLAUSE} And I am delighted to recognize Secretary Elaine Chao and Secretary Norm Mineta, and thank them for their great work for our country. {APPLAUSE}
+
+I want to thank Rudy Pamintuan -- he is the Chairman of the President's Advisory Commission on Asian Americans and Pacific Islanders. And I want to thank all the other Commission members who are here. I enjoyed my visit. Thank you for serving. {APPLAUSE}
+
+I want to thank the members of the 442nd Regimental Combat Team who are here today. Thank you all for coming. God bless you. {APPLAUSE} Veterans who have set such a fine example for those who wear the uniform today. And I would like to welcome the men and women in uniform who have joined us today. Thank you all for being here. Thank you for your service. {APPLAUSE}
+
+These men and women are on the front line of defending the United States of America, and in so doing, they're laying the foundation of peace for generations to come. And we're really proud of your service. {APPLAUSE}
+
+Fourteen million Americans can claim ancestry from the Asian Pacific region. Through a commitment to educational excellence you help raise standards and show that the American Dream is within reach for all who study hard and persevere. Through your love of family and community you help unite us as a people. Through entrepreneurship and innovation you have strengthened our economy, creating jobs for other and thereby contributing to the opportunity of this nation.
+
+In 2004 I created the President's Advisory Commission on Asian American and Pacific Islanders to improve the opportunities for small business development. And to keep this good work moving forward, I signed an executive order this morning that renews the commission for another year. {APPLAUSE}
+
+America has thrived as a nation because we've always welcomed newcomers, who, in turn, embrace our values and our way of life. Every immigrant who lives by these values makes our country better and makes our future brighter as "one nation under God." {APPLAUSE}
+
+{/speech}

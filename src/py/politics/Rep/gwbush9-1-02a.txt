@@ -1,0 +1,49 @@
+﻿{title} Remarks by the President at Jeb Bush 2002 Fundraiser {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 9, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. First, it's good to be at the old family reunion. {LAUGHTER} I want to thank Marv and Doro for hosting this reception for our brother. My big little brother. {LAUGHTER} I want to thank the Chairman and Vice Chairman of the Republican Party for being here. I want to thank the Chairman of the Florida Party. I want to thank Al Cardenas, and I want to thank you all for coming. 
+
+These are serious times that face our nation. And these serious times require serious leaders. And you're here to support a really good, serious man. {APPLAUSE} 
+
+I was reminded about how serious these times are today when we lost a KC-135 refueler in Afghanistan. Our hearts and prayers go out to the families of the soldiers. But I want to remind them that the cause that we are now engaged in is just and noble. The cause is freedom. And this nation -- {APPLAUSE} And this nation will not rest until we've achieved our objectives. {APPLAUSE} 
+
+I have explained to the American people that we must be patient -- and I'm proud to report the Americans are patient; that we're entering into a dangerous phase in our war against terror; that we've achieved a lot of objectives, thanks to a fabulous military; that we have routed out the government that was the host to the parasitical al Qaeda. And in so doing, this great nation liberated women and children from one of the most repressive, evil regimes history has ever known. {APPLAUSE} 
+
+My favorite scenes of this conflict have been the joy on the faces of Afghan women, as our soldiers and our allies have swept into these villages where women were so incredibly impressed. It's just hard for our country to imagine the brutality and the backwardness of the Taliban. They are no longer in power, thanks to the great United States of America. {APPLAUSE} 
+
+Those who struck America think they can run and hide. It's interesting -- I find it amazing that the al Qaeda leaders are more than willing to convince some of their brethren to commit suicide; yet, they, themselves hide in caves. {LAUGHTER} And that's why this phase of the war is dangerous -- because we're going to hunt them down. They think they can hide, but this patient nation will do whatever it takes to bring them to justice. And when we do, the world will be better for it. {APPLAUSE} 
+
+We have got a job to do here at home, and I appreciate working with Governor Bush on protecting our homeland. We've got a job to make sure that we take every threat seriously. And make no mistake about it, the enemy still wants to harm America. But what they don't realize is that this nation is alert and we're ready. And anytime we find any hint of anybody who will try to harm the innocents of our country, we will give them the chance to share information with us. {LAUGHTER} We will bring them to justice, as well. 
+
+But the best homeland defense, of course, is to be successful overseas. We're in the first theater. But wherever terror exists, this great nation will hunt it down. It's the calling of our time. {APPLAUSE} 
+
+I appreciate so very much the spirit of unity here in Washington, D.C. on this war. {LAUGHTER} But we showed what's possible in Washington, what can happen in Washington, in the last couple of days. I had the honor of traveling our country with George Miller of California, John Boehner of Ohio, Judd Gregg of New Hampshire, and Senator Ted Kennedy of Massachusetts. 
+
+I signed an education bill that is a really good piece of legislation. It's a good piece of legislation because it enables and empowers governors like Jeb Bush of Florida to continue to strive for excellence for every child. And it's a good piece of legislation because it shows what's possible in Washington, D.C. Political parties are important, but they're not nearly as important as doing the nation's business. And making sure every child is educated is a heck of a lot more important than the political parties that make up our political system. {APPLAUSE} 
+
+I've worked hard to change the tone in Washington, to focus on big matters, and to bring people together to achieve those matters. I hope that one of the legacies of my administration will be that results matter more than rhetoric; and that as we achieve results, it's important to share credit with people. 
+
+I jested with Ted Kennedy when I told him that the folks at the coffee shop in Crawford, Texas will be amazed when they see me standing up there saying nice things about him. {LAUGHTER} But I mean them. I meant them, because this bill never would have happened had he not made up his mind to help it happen. 
+
+And that's exactly the spirit that Jeb has taken to the governorship of Florida. You see, he, too, is a proud Republican, like me, but he also understands the children of Florida are more important than political parties. And he said he stole ideas from me -- he didn't steal ideas from me. He had the idea of every child being educated ingrained deeply in his heart. 
+
+He is -- today I signed an Everglades agreement with the state of Florida. It's legislation that passed prior to my time. My job then was to certify that the Floridians were honoring their obligation to make sure there was enough water to the Everglades park. 
+
+That was easy to sign because I know that deeply ingrained in Jeb's heart is a desire to protect the natural beauty of the state of Florida. He can also -- he's a deeply compassionate man, but he's plenty tough -- just ask the crooks of Florida. {LAUGHTER ; APPLAUSE} 
+
+I want to thank you all for making his campaign more viable. But what's going to make it really viable is that he is a man who has done in office what he said he would do. He speaks straight with the Florida voters; he tells them what he believes. He's not one of these kind of fellows that walks around with his finger in the sea breeze trying to figure out which way the political winds blow. He says what's on his mind -- not based upon polls or focus groups, but based upon conviction. And there's no doubt in my mind that he is not only one of the great governors of Florida's history, he's one of the great governors of our nation. And he deserves a second term. {APPLAUSE} 
+
+We not only share a last name, but we share the fact that we both married above ourselves. {LAUGHTER} It's great to be here with Columba, as well. {APPLAUSE} Both Jeb and Columba understand there's a calling when you hold a high office that there's an awesome responsibility that comes with that office. And that's, first and foremost, to bring honor and dignity to the office. And that's exactly what this couple has done. 
+
+They may not agree with Jeb in Florida on every issue, but when they look at that office, when they look at the office of Governor of Florida, they know they've got a man there who will tell them the truth, a man who's there for the right reason, and a man who brings honor to the great state of Florida. 
+
+Thank you all for coming. May God bless. 
+
+{/speech} 

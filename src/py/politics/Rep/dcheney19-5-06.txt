@@ -1,0 +1,66 @@
+﻿{title} Vice President Delivers the Commencement Address at Louisiana State University {/title}
+{event} Pete Maravich Assembly CenterBaton Rouge, Louisiana {/event}
+{speaker} Dick Cheney {/speaker}
+{date} May 19, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Chancellor O'Keefe, President Jenkins, members of the LSU Board of Supervisors, distinguished guests, members of the faculty, parents and families, and members of the Class of 2006. Don't hold back. {LAUGHTER}
+
+Thank you all for the very warm welcome. I am pleased to be in the great city of Baton Rouge, on this magnificent campus, and to be a part of LSU's 259th commencement ceremony. I've been looking forward to visiting LSU, and to sharing this happy occasion with the graduating seniors. It's a real honor to be here. And I bring congratulations to each and every one of you from the President of the United States, George W. Bush. {APPLAUSE}
+
+On graduation day I also want to congratulate the men and women who devote their professional lives to making this institution a place of excellence and achievement -- the outstanding faculty of Louisiana State University. {APPLAUSE}
+
+And I want to join the graduates in saying thanks to the people who did so much to make this day possible -- the ones who rooted for you, believed in you, prayed for you, and paid for you -- {LAUGHTER} -- the parents of the class of 2006. {APPLAUSE}
+
+I know you will always carry with you the LSU spirit, and fond memories of your time here. You'll remember your first look around the campus, watching your first game in Tiger Stadium, and the first time you met those people who would make these years so special, and who will be your friends for the rest of your life. You'll remember your time in the classroom, paying attention to the lectures -- {LAUGHTER} -- and occasionally working the Reveille's crossword puzzle. {LAUGHTER} You'll remember those late nights in the lab and the library; and breakfast at Louie's; and all the hours you spent driving around the campus, looking for a place to park. {LAUGHTER ; APPLAUSE} 
+
+Something tells me you'll also remember the outstanding basketball teams -- both the men's and the women's -- who went to the Final Four. {APPLAUSE} Of course, the men went there on the strength of a man called "Big Baby." And the women's team was led by Seimone Augustus, who recently drafted into the WNBA. {APPLAUSE} And of course who can forget the 2003 national co-champion LSU Tigers football team? {APPLAUSE} Around here I imagine you drop the "co." {APPLAUSE}
+
+In addition to those of you receiving your bachelor's degrees this morning, I'm told we have many men and women who have earned graduate degrees -- including a number who have earned their PhD's. Their presence here reminds me that I was once in a PhD program myself, and met all the requirements except for the dissertation. {LAUGHTER} I'll get started as soon as I think of a topic to write about. {LAUGHTER}
+
+On your final day at LSU, I imagine you're experiencing a mix of emotions. There is excitement at setting a high goal and reaching it -- and then moving forward to new adventure. There is also, perhaps, a bit of sadness at leaving behind this university, and this very special time in your lives. But you will always remain part of the LSU family -- and as the years pass, this university will always give you reason to be proud.
+
+Since the middle of the 19th century, LSU's alumni have gone on to lives of high achievement in Louisiana, and well beyond. And year after year LSU attracts men and women of extraordinary talent to study, to teach, and to do research. Your chancellor, Sean O'Keefe, is a former administrator of NASA and an old friend of mine. He pointed out to me that America's early space capsules were designed by an LSU alum, and that one of our astronauts has recently been hired to join your faculty.
+
+The people of Louisiana are rightly proud of this historic school, its continuing excellence in many fields, and its far-reaching influence on the life of this state and of our nation. LSU is truly one of the great universities in the United States. {APPLAUSE}
+
+I especially want to recognize the tradition of service that is so much a part of the LSU character. We've seen it on display so many times on this campus over the years, and never more than in the aftermath of Hurricane Katrina. After a storm that directly affected a region of some 90,000 square miles, the people of LSU stepped up to the challenge with confidence, with skill, and with kindness. You sheltered evacuees, fed the hungry, cared for the elderly, and enrolled students who had to flee universities around New Orleans. In all, it's estimated that some 30,000 storm victims came through the campus -- including 6,000 or more needing medical attention. The very building in which we gather today became a medical unit; in fact it has been said that LSU had the largest acute-care hospital ever established in a contingency situation.
+
+The storm that hit New Orleans and many other communities was among the greatest natural disasters in our nation's history, and our country is engaged in an unprecedented effort to help the Gulf Coast to be rebuilt and to prosper. The American people are showing extraordinary generosity in this enterprise, with more than $85 billion in federal appropriations so far and more pending Congressional approval. We will not forget the great difficulty and suffering that came to so many of our fellow citizens in the path of the storm. And we look with tremendous respect to what happened on the LSU campus. This community stood together as one, and provided an example of teamwork and compassion that impressed the entire nation. And on behalf of the nation, I thank you. {APPLAUSE}
+
+LSU also has a lengthy tradition of military honor and service. This week nine members of the ROTC class of 2006 will receive their military commissions. I want to thank all of them for the commitment they've made. And as we gather for this ceremony, we are thinking of all the men and women in our armed forces -- the ones who are defending America, confronting freedom's enemies, protecting the innocent, and bringing new hope to the people of a troubled region. Their cause is right, their performance is superb. They are winning the war on terror. We are proud of their brave service to the United States of America. {APPLAUSE}
+
+After putting in these years of hard effort as students at LSU, something tells me you're probably not up for another lecture before you leave -- so I'm going to keep this short. I know that it's the custom for graduation speakers to draw from their experiences and share some of the lessons they've learned along the way. So as you begin this new chapter in your life, let me offer a few thoughts of my own.
+
+There's one very practical lesson that comes immediately to mind. It goes back to the year 2000, when then-Governor Bush called to ask if I would help him find a running mate to be Vice President. The lesson I want to share with you is this: If you ever get asked to head up an important search committee, say yes. {LAUGHTER ; APPLAUSE} 
+
+That decision six years ago set me on a path I had not expected to take. I believed that my time in public office had passed. And looking back, this seems to be a pattern in my life -- the unexpected turns, the opportunities that come suddenly and change one's plans overnight.
+
+On the day of my own graduation at the University of Wyoming, I had no ambition for public life. If you'd asked me at the time what I planned on doing, I could have described in some detail what I believed the next 10 years would be like. First would be graduate school, then completing that PhD, and down the road, with some luck, a faculty position at a university. It all worked out very differently.
+
+Within a few years, my wife, Lynne, and I were living in Washington, D.C., and beginning a journey in government and public life that neither of us ever imagined. We count ourselves fortunate things turned out the way they did, and as you begin your careers I want to encourage all members of the class to consider public service. Participating in government, at any level, carries its own challenges and sacrifices, but the country needs capable men and women to make that choice. And if you ever hear the call to serve, I hope you'll say yes.
+
+Many of you will leave LSU today with definite plans of your own. Setting a plan for your life can be a good thing -- it keeps you focused on the future, and gives you a standard against which you can measure your progress. Yet I'll wager that 10 years from now, many of you will find yourselves following a very different course, all because of an opportunity that came to you out of the blue.
+
+Be on watch for those certain moments, and certain people, that come along and point you in a new direction. I think, for example, of the first time I met my friend and colleague Don Rumsfeld. It was back in the 1960s, when he was a congressman and I was interviewing for a fellowship on Capitol Hill. Congressman Rumsfeld agreed to talk to me, but things didn't go all that well. In fact, he pretty much threw me out of his office. {LAUGHTER} Don had the impression of me that I was kind of a detached, theoretical, impractical academic type. And I thought he was a brash young politician with attitude. We were both right. {LAUGHTER}
+
+We didn't click that day, but a few years later it was Don Rumsfeld who noticed my work and offered me a position in the executive branch. Later on, when Gerald Ford became President and made Rumsfeld his chief of staff, it was once again Don who gave me a position of great responsibility in the White House. Standing here today, I can promise that there will be people like this in your own life -- who keep an eye on you, and reward your efforts, and help bring out your strengths. Sometimes others know better than we do just what our talents are, and how we can best use them. For all the plans we make in life, sometimes life has other plans for us.
+
+Those of us who've been around a while can also recall a few times when life took an unexpected turn, not always in a positive direction. As I mentioned a moment ago, I received my undergraduate degree from the University of Wyoming. My college experience, though, began at a place called Yale -- but I didn't finish there. Instead, I dropped out after a few semesters. Actually, dropped out isn't quite accurate -- "asked to leave" would be more like it. {LAUGHTER} Twice. {LAUGHTER} The second time around, they said, don't bother coming back.
+
+You, too, may face some disappointing turns of your own -- times when you fall short, knowing you could have done better. And when that happens, don't give up or let your doubts get the best of you. I have met some very successful people in my day -- men and women of talent and character who have risen to the top of their fields. And it's the rare one who hasn't had a taste of failure, or a false start along the way. Setbacks in life can stop you dead in your tracks, or they can inspire you to move forward. Either way, you'll look back on them as turning points. They are crucial days in your life, when you see the starkest kind of choice, and know that it belongs to you alone.
+
+One of the things I love most about our country is that we have such opportunities. America is still the country of the second chance. Most of us end up needing one. And when we've gone on to accomplish something, we can be that much more grateful.
+
+Gratitude, in general, is a good habit to get into. It is usually a correct appraisal of our situation. Most of us are able to succeed and rise in the world because someone helped out along the way -- whether it was a memorable teacher, or a boss who handed us a great opportunity, or the person who took a chance and gave us the first big break in our career. A grateful heart is an honest understanding of all that we have been given, and all that is expected in return.
+
+There is always the temptation to forget this -- to carry ourselves with an air of entitlement, as if good things come to us by right. They rarely do. And life has a way of working out better when we don't take things for granted, when we have a long memory for what others have given us, when we look for the blessings, great and small, that come with every day we're alive on this Earth.
+
+For all of you, this day of ceremony in the P-MAC will stand out forever -- as a marker of gifts well used, aspirations fulfilled, hard work rewarded. It's been my privilege to share it with you and your families. Once again, my congratulations on a job well done. Good luck and Godspeed to the LSU Class of 2006.
+
+Thank you very much. 
+
+{/speech}

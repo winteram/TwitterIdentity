@@ -1,0 +1,50 @@
+﻿{title} Vice President's Remarks at the Swearing-In Ceremony for Steve Preston as Administrator of the Small Business Administration {/title}
+{event} Small Business Administration, Washington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} July 26, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. {APPLAUSE} At ease, please.
+
+Well, thank you all very much. Thank you, Liza. And I appreciate that warm welcome. It's almost enough to make me want to run for office again. {LAUGHTER} Almost.
+
+My duty today is to help administer the oath of office to your new administrator. I know it's a proud moment for Steve Preston and his family, and he's got a great family. And we're glad to have all of them with us here today. Steve, of course, was recently confirmed by the United States Senate -- and I note that the nomination got through without requiring me to cast a tie-breaking vote -- {LAUGHTER} -- which is a good indicator. In fact, the Senate approved the nomination by unanimous consent, and that is a reflection of the high confidence that all of us have in Steve Preston for this important assignment.
+
+Steve comes to the office with the great respect of current and former colleagues. He's a strong executive with a superb track record in the private sector. He understands the world of commerce and free enterprise from every angle; he's a man who focuses on results; and he's deeply committed to this agency and to its mission. The President and I are very pleased he has accepted this opportunity to serve the country.
+
+Under Steve's leadership, the Small Business Administration will maintain its critical role in strengthening the free enterprise system in the United States. Americans are, by nature, an entrepreneurial people -- and we have filled a continental nation with small firms that create the majority of our economy's new jobs and export their products to the world. The incredible strength, vibrancy, and flexibility of our economy spring from the creative gifts of men and women striving in freedom. So every step that government takes to encourage free enterprise adds not just to the wealth of our society, but also to its character.
+
+So the President has taken important steps to assist small business owners and their employees by reducing taxes, encouraging investment, and removing obstacles to their growth. Under tax relief signed by President Bush, 25 million small business owners have received tax cuts averaging $3,600 a year just last year alone. We increased the annual deduction for equipment purchases for small businesses, from $25,000 to $100,000. And we began to phase out the unfair federal death tax.
+
+Because small and medium sized companies make up the vast majority of U.S. exporters, we've also expanded free trade opportunities for the nation's entrepreneurs. We're also working to make health care more affordable for small businesses and for their employees. We are urging Congress to enact Association Health Plans -- so that small firms can pool together to have the same negotiating leverage as larger companies.
+
+An effective, proactive Small Business Administration is part of our administration's comprehensive agenda to promote free enterprise. And this agency is well equipped for the task. For a half-century the SBA has come through for small businesses with everything from start-up loans, to venture capital, to contracting opportunities. The beneficiaries of SBA assistance have numbered in the millions, and the good impact on our economy would be nearly impossible to overstate.
+
+I also want to offer a word of gratitude to the men and women who work at SBA, not just here in Washington but in the regional offices all across the country. Each one of you is part of an agency that makes a real difference for entrepreneurs and families across the nation. You're helping to make possible the investment and enterprise that generates jobs, strengthens communities, and improves the lives of your fellow citizens. Whether it's aiding an inventor as he turns out a new idea, or coming up to help a shop owner rebuild after a natural disaster, SBA employees are engaged in effective, worthwhile, and very important work. You do it well, and we appreciate it.
+
+Now it is my honor to administer the oath of office to the new Administrator of the SBA. He assumes this important office with all the trust and good wishes of all of us. I know this agency will benefit from his leadership, and the nation will benefit from his service. So, Steve, if you'd step forward, I'll be happy to administer the oath.
+
+Raise your right hand. It's the first test is to make sure they -- {LAUGHTER} -- use the right hand.
+
+{COMMENT="The oath is administered"} 
+
+{OTHER-SPEAK} Well, Vice President Cheney; my wife, Molly, family out here, ladies and gentlemen, and partners at the SBA, thank you all for being here. This is just a terrific turn-out. I really appreciate it.
+
+Mr. Vice President, having you take the added time to come to the SBA is just a terrific honor for all of us. And I want everyone here to know that it was the White House's idea to do it here so employees could participate, so we are thrilled. We're honored, and this is just great for us.
+
+I've actually had a chance to be with the Vice President in a few settings over the last few months, and it has really reinforced so much of what I thought to be true before coming into this role, and that is that he is a leader who brings tremendous wisdom, tremendous depth of experience, and tremendous intellectual horsepower to the decisions that guide our country every day, and I'm so thankful for that.
+
+I'd also like to thank the President. I'm just so proud to be serving a President who stands tall in tough decisions, who manages on principle and not on polls, and who has done so much to help create an environment where not only businesses can flourish but also small businesses can thrive. His tenacity in pursuing a less onerous tax environment, fewer regulatory burdens, better access to health care, and fair access to federal contracts has just helped millions of small businesses in real and tangible ways be more effective at what they do every day, and it is just so important.
+
+Now when I began to consider a possible role in public service, there were a few things that were really important to me. I was looking for an opportunity that would help me have the opportunity to serve people directly. I was hopeful that I could find something that would allow me to use my business experience in a very relevant way. And it was important to me that it was something that I could be really passionate about. Well, it doesn't get much better than this. The people of the SBA play a role in expanding our ownership society by opening the door of opportunity to millions of Americans through training, through counseling, through access to capital, through access to federal contracts, through advocacy. And we have the opportunity to help Americans in their most dire time of need, following a natural disaster.
+
+The small businesses that we serve, they help drive our economy. They create jobs. They help people realize their dreams. And as I've seen in the Gulf -- I was down there this past week; I've had a chance to go down there a couple of other times -- they're the first ones in there to transform communities because they take risks that other people won't take. And as I like to say, with every dollar of equity they put into that business, they match it with $10 of sweat equity. And we all get to play a part in helping these people along that path, not by giving them hand-outs, but by giving a little support so that they can make it happen.
+
+So I'm blessed by the opportunity to serve this great mission alongside of all of you. And once again, I just thank you for coming. And thank you, Mr. Vice President, for doing this. {/OTHER-SPEAK} 
+
+You're welcome. {APPLAUSE} 
+
+{/speech}

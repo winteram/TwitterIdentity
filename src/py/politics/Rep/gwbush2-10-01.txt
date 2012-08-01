@@ -1,0 +1,45 @@
+﻿{title} Remarks by the President at Announcement of Reopening of Reagan National Airport {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} October 2, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. Governor, thank you very much. I am here to make an announcement that this Thursday, ticket counters and airplanes will fly out of Ronald Reagan Airport. {APPLAUSE} 
+
+The ticket counters will be open for business. We will start a schedule of airplane flights that will reflect the new and tight security concerns that all Americans share. Ronald Reagan Airport is very important for our local economy, but it's also a national symbol, as the Governor mentioned. So Thursday flights will resume. 
+
+I want to thank all the Captains, and flight attendants and maintenance folks, and ticket counter personnel, people who make this good airport run, for your patience and understanding. 
+
+We're doing the right thing. We've taken our time. We can assure the American public as best as we can, that we're taking the necessary safety precautions. Now it's time to start flying again. {APPLAUSE} 
+
+I want to thank the Governor of Virginia for his hard work and concern about the working people in this part of the state. I want to thank Secretary Norm Mineta, the Transportation Secretary, for working hard to bring people together, to bring sensible policy to airports all across America. He's been working overtime. That's what we expect from the Secretary of Transportation during this period of time. And I'm proud of the work he's done. 
+
+I want to thank the Mayor of Washington, D.C. for being here. The Mayor's a good, solid man. {APPLAUSE} I want to thank Delegate Eleanor Holmes Norton from Washington, D.C., for being here, as well. {APPLAUSE} Two United States Senators from the state of Virginia, John Warner and George Allen, have been deeply concerned about this airport. {APPLAUSE} Members of the congressional delegation, Tom Davis, Jim Moran and Frank Wolf, as well, have been working hard with us to come up with reasonable, sound policies to get the Reagan Airport started. I'm glad you all are here, as well as Connie Morella from the neighboring state of Maryland. {APPLAUSE} 
+
+There really is no greater symbol that America's back in business than the reopening of this airport. {APPLAUSE} After all, this is the airport that brings our nation's leaders to Washington to do the people's business. It's the airport that welcomes millions of tourists to our Nation's Capital. And of course, the Mayor would want me to say, we want the tourists coming back to see our great monuments. {APPLAUSE} 
+
+But one of the things those of us who live in the area understand, this airport is really important for the local economy, as well. There's a lot of people, a lot of small business people, a lot of people who service the airport, obviously a lot of people who work here, depend upon this airport being open. And I understand that. And I appreciate once again your patience and understanding, as our nation obviously is dealing with a tragedy, the likes of which we never envisioned. 
+
+I also know full-well that the nation is asking this question: are we taking the necessary safety precautions as we open not only Ronald Reagan Airport, but other airports? The answer is, you bet. We sure are. We're spending a lot of time consulting with local officials to make sure that the security that all of us expect is in place. Not only have we worked with members of the Congress to develop what we hope is a security plan that will enhance confidence from the traveling public, but we work with local officials, as well, to make sure this airport has got the toughest security measures possible. 
+
+We also, as you well know, are increasing the number of air marshals, armed marshals on airplanes. They'll be undercover -- let me rephrase that -- they'll be wearing civilian clothes. {LAUGHTER} They will blend in. But we'll have many more air marshals on flights. It should send two signals, one to the American public that there will be protection; and to somebody who thinks they can disrupt America, we're watching for you, we're paying attention to you. {APPLAUSE} 
+
+Every person who gets on an airplane, who goes to work, who takes their family to visit relatives, is taking a stand against terrorism. You see, the terrorists, they want to intimidate America. The terrorists, by conducting their evil deeds, wanted our nation to stop. But they underestimated our spirit, didn't they? 
+
+{AUDIENCE} Yes, they did. {/AUDIENCE} 
+
+Yes, they made a mistake. And the spirit is strong in America. Our confidence is strong. {APPLAUSE} 
+
+We've put together a coalition of nations that says terrorism won't stand. We've got our military alert -- on alert for a reason: terrorism won't stand. We're cutting off their money, because we're saying terrorism won't stand. 
+
+And we're saying that at home, as well. People who travel say terrorism is not going to intimidate us. Tonight I've asked the Mayor to go out to dinner with me, on a Washington -- here in the District. He said he's going so long as I pay. {LAUGHTER ; APPLAUSE} You've got a deal. {LAUGHTER} 
+
+When people go to ball games, they're sending a signal. I mean, we got struck hard on September 11th. All of us know that. But you can't strike the American spirit. It's strong, it's vibrant, it's united. And by opening this airport, we're making yet another statement to the terrorists: You can't win. 
+
+Thank you all for being here. God bless you. 
+
+{/speech} 

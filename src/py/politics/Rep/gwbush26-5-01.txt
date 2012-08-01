@@ -1,0 +1,53 @@
+﻿{title} Remarks by the President after Passage of the Tax Plan {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 26, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Please be seated. Well, thank you all very much for joining me here at the people's house on this historic occasion. I asked all of you to join me here to be able to publicly thank the members of the House and the Senate for working so diligently to give Americans another important reason to celebrate this holiday weekend. 
+
+I first want to thank House Speaker Dennis Hastert and Senate Majority Leader Trent Lott for there strong and effective leadership -- leadership that was instrumental in delivering significant tax relief for the American people. I thank the incoming Majority Leader of the Senate, Tom Daschle, for working with us to schedule today's vote promptly. I very much appreciate Senator Daschle's willingness to allow the will of the majority of the Senate to prevail, even though he, himself, did not agree. 
+
+I thank all the members of the conference committee, especially Chairman Chuck Grassley and Chairman Bill Thomas, Senator Max Baucus and Senator John Breaux, who worked tirelessly to make tax relief a reality. I also want to especially thank Don Nickles, Phil Gramm, Olympia Snowe, and House Majority Leader Dick Armey, and all who helped make tax relief possible. And while I'm thanking people, I want to thank all those who voted aye. And so do the taxpayers of America. {APPLAUSE} 
+
+Today, for the first time since the landmark tax relief championed 20 years ago by President Ronald Reagan, and 40 years ago by President John F. Kennedy, an American President has the wonderful honor of letting the American people know significant tax relief is on the way. 
+
+What is especially significant about the tax relief passed by the United States House and Senate today is that it cuts income taxes for everyone who pays them. Nothing could be more profound, and nothing could be more fair. No more wondering whether you're targeted in, or whether you meet all the fine print requirements to qualify for one special tax break or another. No, this tax relief is straightforward and fair -- if you pay income taxes, you get relief. {APPLAUSE} 
+
+And for this year's first installment of the tax cut, the check will literally be in the mail. {APPLAUSE} Late this summer and into the fall, every single American who pays income taxes will receive a check. Single taxpayers will receive a check of $300. Single parents who are heads of household will receive a check of $500. And married couples will receive a check of $600. 
+
+That immediate tax relief will provide an important boost at an important time for our economy. And what is more is you can feel comfortable using it because more tax relief is on the way. {APPLAUSE} The checks are the first installment of lasting, long-term reductions in tax rates. As a result, when this tax relief plan is fully implemented, a typical family of four will see their taxes cut by about half. {APPLAUSE} 
+
+The check you will receive in the mail represents your benefit from the newest lowest rate, which drops from 15 percent to 10 percent. Starting in July and continuing next January, the federal government will begin reducing the amount it withholds from paychecks to reflect the first phase of new and lower tax rates. 
+
+Ultimately, tax rates will be reduced from the current 28 to 25; from 31 down to 28; from 36 to 33; and from 39.6 to 35 percent. Over the next 10 years, the child credit will double, from last year's $500 per child to $600 per child this year, to $1,000 by the year 2010. The marriage penalty will be dramatically reduced. And the unfair death tax will be completely abolished by the year 2010. {APPLAUSE} 
+
+This tax relief helps all taxpayers. It especially helps those at the low end of the economic ladder. It helps American workers by letting them keep more money. And it helps small businesses, so that family-owned restaurants and start-up software companies can hire more workers and provide more jobs for Americans. 
+
+The tax relief package honors marriage and family by reducing the unfair marriage penalty and doubling the credit for children. It does away with one of the most unfair aspects of the tax code -- a death tax, that taxes earnings when you make them, the interest when you save them, and one more time when you die. 
+
+As many of you know, throughout my campaign, I met tax families all across the country -- diverse people from all walks of life who represented the hopes and dreams of American families. Joining us today is one of those families -- the Petersons, Paul and Deborah, and Juliette and Sarah Kate. {APPLAUSE} 
+
+They work hard. Paul works during the day at Ukrops Supermarket in downtown Richmond, Virginia. At night he's working on an MBA at Avery College. Deborah works at home, caring for their daughters. The Peterson family was here last February, when the prospects for tax relief were not exactly what they were -- like they are today. 
+
+Well, Paul and Deborah, I'm delighted to let you know that your family will receive $800 in tax relief this year -- $600 from the check and another $200 from the immediate increase in the child credit. 
+
+I have even more good news for the Petersons, and folks like them all across America. When you were here in February, we calculated that your ultimate tax savings would be $1,100 a year. Well, when all aspects of the plan are phased in, you will receive not $1,100 a year, but $1,700 a year. {APPLAUSE} That is $1,700 more for this good family to spend on their children and on their dreams. {APPLAUSE} I'm confident about one thing -- these good folks can spend the $1,700 better than the federal government can. {APPLAUSE} 
+
+Tax relief was the right thing to do, and it is the responsible thing to do, for the American people and for our economy. 
+
+I, once again, thank and applaud the members of Congress, both Republicans and Democrats, who joined together to get results on behalf of the American people. The tax relief package that was voted on today was agreed on last night, after this week's change in the balance of power in the United States Senate. And it can be a model for the work that is ahead. Tax relief was based on important principles -- principles that are compassionate and conservative, and principles that were preserved during the legislative process of give-and-take. 
+
+We listened to the voices of those in my party and in the Democratic Party who wanted additional help for those at the lowest end of the economic ladder. We listened, and as a result, this plan has even more help for lower-income Americans. The earned income credit is expanded for low-income married couples, and the child credit is refundable for parents, providing the most help for those who earn between $10,000 and $25,000 a year. 
+
+We acted on principle. We worked together to build consensus and to get results. This is significant -- and this is only the beginning. The Peterson family, and families like them all across America, need more than just a tax cut. The Petersons want us to work together to improve public education, strengthen their retirement security, modernize Medicare, and strengthen and modernize our national defenses. 
+
+Again, thanks to the members of Congress. I hope you enjoy your Memorial Day recess. And then, let's work together to complete the great progress we are making on legislation to improve America's public schools. 
+
+Again, I want to thank you all for coming. This is an historic day. It explains the art of the possible; it shows what can happen when good people come together with the intention of doing what's right for the American people. And we have done right by the American people today. God bless you. {APPLAUSE} 
+
+{/speech} 

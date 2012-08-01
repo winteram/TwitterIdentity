@@ -1,0 +1,53 @@
+﻿{title} Speech by President on Disabilities Initiative {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 13, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Wow. Wasn't she great? Let's give her another hand. She was great. Thank you. {APPLAUSE} 
+
+On behalf of all of us in our administration, many of whom are here, I want to thank all the advocates for persons with disabilities in our audience. I thank especially Tony Coelho; Becky Ogle; Paul Marchand; my great friend, Justin Dart; Paul Miller and others. I want to thank all the people in the administration, those in the Cabinet who are here with me and the agency heads and the others in the White House who have done so much to help to sensitize me and the Vice President and others to the challenges and our obligations. 
+
+I say a special word of thanks to Tom Harkin, who has personally taught me a lot about the issues we discuss today; to Senator Ted Kennedy and to Senator Jeffords. I knew if I listened long enough that Republican rhetoric would finally sound good around one issue. {LAUGHTER} And you did it today, and I thank you. You were just great. It was great. 
+
+I'd also like to thank two great friends of this cause who are in the audience: Senator Jack Reed from Rhode Island, and Congressman Ben Cardin from Maryland. We thank them for being here. {APPLAUSE} 
+
+You know, a lot of things have already been said, and I would like to say something not in my notes. I hope nobody will take this the wrong way, because everybody knows what a great enthusiast I am of athletics. Most of the cameras at this hour are somewhere else, and I want to say, on behalf of my wife -- from Chicago -- and myself, that we wish Michael Jordan well. We admire him, we like him very much, and we thank him for years of thrilling exploits. 
+
+In my life, I don't know that I ever saw another athlete with such a remarkable set of qualities of mind, body and spirit -- not only somebody who had a body that would do things no one else's would do, but who always expected to do whatever it was he tried to do. And I think it's appropriate that the sports fans around America take a day or two to "ooh" and "aah" and hold their breath again, and be glad again. But the courage of Karen Moore, and all the people like her, is greater still by far. {APPLAUSE} 
+
+I remember once, many years ago, after I lost an election and became the youngest former governor in American history -- {LAUGHTER} -- with very dim future prospects, a wise old country lawyer wrote me a letter. And he said, Bill, you know, it takes a little bit of strength to sustain a terrible setback; but the real courage in life is living through the grind of day-to-day existence with dignity and nobility and charity. 
+
+How much more true is that for people with disabilities, for whom daily existence can be a greater grind, for whom charity is harder to muster of the spirit because so many of the rest of us have been so blindly insensitive to things which would enable all of us to get through that daily life better. 
+
+A lot of good things have happened since the '70s -- Senator Kennedy talked about it -- since these gentlemen and others passed the Americans With Disabilities Act. We did have a great renewal of the IDEA a year or so ago. But 75 percent of Americans with disabilities are still unemployed. You just heard why. Millions are forced to make the impossible choice between going to work and keeping their health insurance. Millions more lack the tools and services that could make the difference between dependence and independence. 
+
+We all know working is a fundamental part of what we say is the American Dream. Maya Angelou once said that work is "something made greater by ourselves, and in turn, that makes us greater." You heard Karen, you heard what she said -- how I'm working, how I love being at work, oh, by the way, my family life is better and I don't get sick as much. That is not an accident. Every single one of us, we want to be fully engaged in life. And we ought to have the chance to do so. 
+
+I like what Senator Jeffords said about how the Congressional Budget Office might or might not estimate this initiative, and I had that argument before and lost it, so I'm not going to get into that. But let me ask you this. When we've got the largest surplus in our history, the longest peacetime expansion in our history, perhaps the strongest economy we've ever had, if we cannot address this issue now, then when will we ever address it? Now is the time. {APPLAUSE} 
+
+So here is what we propose to do. First, you've already heard about the landmark legislation by Senators Jeffords, Kennedy, Roth, and Moynihan, to assist millions of Americans with disabilities who want to work. Today I am pleased to announce that the balanced budget I will present to Congress fully funds this vitally important initiative. {APPLAUSE} Americans should never have to choose between the dignity of work and the health care they need. With this legislation they'll have a ticket to work, not an impossible choice. 
+
+I will also continue to work with Congress to pass legislation I know is very important to the disability community, a strong, enforceable patients' bill of rights. {APPLAUSE} And to strengthen Social Security for the 21st century, not just for retirees, but also for people with disabilities -- and we ought to do it this year, with no excuses. {APPLAUSE} 
+
+Second, we must make it easier for people with disabilities to get to work. As anyone with a disability can tell you, it takes more than a job to enter the work force. Often, it takes successful transportation, specialized technology or personal assistance. And the cost can be prohibitively high. Today, I am pleased to announce a new $1,000 tax credit so hundreds of thousands of people with disabilities will be helped to meet these critically important expenses. {APPLAUSE} 
+
+Finally, we have to give people with disabilities the tools they need to succeed -- we all need that. I hope all of you had a chance to experience and see the amazing displays out there in the Grand Foyer -- from a portable computer kiosk that helps people with disabilities vote or find a job, to the latest voice recognition software that lets you use a computer without touching a keyboard, to a new generation of mobile telephones that connect directly to hearing aids, to a device to immediately translate music into braille. 
+
+This kind of "assistive technology," as it is called, will empower people as never before. Today, I am pleased to announce that my budget will double our investment in this sort of technology, to make it more available to people with disabilities. {APPLAUSE} 
+
+We also will help states to expand low-income loan programs to help more people afford these promising products. The federal government will become a model user of assistive technology; we will increase our commitment to research and development to continue our progress. 
+
+Increased access to health care, more assistance at home and in the workplace, remarkable new technologies made more available: This is how we can make sure that all Americans can take their rightful place in our 21st century workplaces. 
+
+Last summer the Vice President announced our plan to build at the FDR Memorial a new statue of President Roosevelt in the wheelchair, from which he led our nation -- the wheelchair he then felt compelled to hide because of the negative attitudes of his time. Well, we've come a long way since those days and, even though we in public life get to make the speeches, I think it's clear to all of us that you deserve the credit -- all of the work you have done. {APPLAUSE} 
+
+People with disabilities are increasingly a powerful presence in America, from our schools to our businesses to the halls of government -- but maybe equally important, increasingly a welcome, comfortable, normal presence. President Roosevelt said, "No country, no matter how rich, can afford to waste its human resources." This is really all about living up to that objective. 
+
+Thank you, Karen. Thank you, ladies and gentlemen. Let's go out and pass this legislation. Thank you. {APPLAUSE} 
+
+{/speech} 

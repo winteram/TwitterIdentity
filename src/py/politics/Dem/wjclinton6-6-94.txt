@@ -1,0 +1,35 @@
+﻿{title} Remarks by the President at Utah Beach Ceremony {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 6, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Thank you very much, General Talbott, Secretary Perry, Secretary Brown. Let me begin by asking all the veterans here present, their families, their friends, the people from France who have been wonderful hosts to us, to acknowledge those who worked so hard to make these D-Day ceremonies a great success -- General Joulwan, the SAC here, and his European command, 2,700 members of Armed Forces who worked to put these events together; and the Secretary of the Army's World War II commemorative committee, General Mick Kicklighter and all of his committee. Let's give them a big hand; they have done a wonderful job. {APPLAUSE} 
+
+My fellow Americans, we have gathered to remember those who stormed this beach for freedom who never came home. We pay tribute to what a whole generation of heroes won here. But let us also recall what was lost here. We must never forget that thousands of people gave everything they were, or what they might have become, so that freedom might live. {APPLAUSE} 
+
+The loss along this coastline numbs us still. In one U.S. company alone, 197 of 205 men were slaughtered in just 10 minutes. Hundreds of young men died before they could struggle 20 feet into the red-tinged tide. Thousands upon thousands of American, Canadian and British troops were killed or wounded on one brutal day. 
+
+But in the face of that mayhem emerged the confident clarity borne of relentless training and the guiding light of a just cause. Here at Utah Beach, with the Army's 4th Division in the lead, the Allies unleashed their democratic fury on the Nazi armies. 
+
+So many of them landed in the wrong place, they found their way. When one commanding officer, Russell "Red" Reeder, discovered the error, he said, "It doesn't matter. We know where to go." 
+
+Here to help point the way were the fighters of the French resistance. We must never forget how much those who lived under the Nazi fist did to make D-Day possible. For the French, D-Day was the 1,453rd day of their occupation. {APPLAUSE} Throughout all those terrible days, people along this coast kept faith. Whether gathering intelligence, carving out escape routes for Allied soldiers or destroying enemy supply lines, they, too, kept freedom's flame alive with a terrible price. 
+
+Thousands were executed. Thousands more died in concentration camps. Oh, the loved ones of all who died, no matter what their nationality, they all feel a loss that cannot be captured in these statistics. Only one number matters -- the husband who can never be replaced, the best friend who never came home, the father who never played with his child again. 
+
+One of those fathers who died on D-Day had written a letter home to his wife and their daughter barely a month before the invasion. He said, "I sincerely pray that if you fail to hear from me for a while you will recall the words of the Gospel: 'A little while and you shall not see me, and again a little while, and you shall see me.' But in your thoughts I shall always be, and you in mine." He was right. They must always be in our thoughts. To honor them, we must remember. {APPLAUSE} 
+
+The people of this coast understand. Just beyond this beach is the town of St. Mere Eglise. There, brave American paratroopers floated into a tragic ambush on D-Day, and there the survivors rallied to complete their mission. The Mayor's wife, Simone Renaud, wrote the families of the Americans who had fought and died to free her village. And she kept on writing them every week for the rest of her life until she died just six years ago. Her son, Henri-Jean Renaud carries on her vigil now. And he has vowed never to forget, saying, "I will dedicate myself to the memory of their sacrifice for as long as I live." 
+
+We must do no less. We must carry on the work of those who did not return and those who did. We must turn the pain of loss into the power of redemption so that 50 or 100 or 1,000 years from now, those who bought our liberty with their lives will never be forgotten. 
+
+To those of you who have survived and come back to this hallowed ground, let me say that the rest of us know that the most difficult days of your life brought us 50 years of freedom. Thank you, and God bless you all. {APPLAUSE} 
+
+
+
+{/speech} 

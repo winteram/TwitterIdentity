@@ -1,0 +1,80 @@
+﻿{title} Remarks by the President to the Pine Ridge Indian Reservation Community {/title}
+{event} Pine Ridge Reservation {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 7, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Pine Ridge Reservation {/description}
+
+{speech} 
+
+Thank you very much. Thank you. Thank you, Mr. President, and thank you to all of you here from Pine Ridge and all the other tribal leaders who are here for HUD's Shared Vision Conference. I am profoundly honored to be in Pine Ridge and in the Lakota Nation. In fact, to try to demonstrate my appreciation and respect, I would like to try -- to try to say something in Lakota. {APPLAUSE} Mitakuye Oyasin. {APPLAUSE}
+
+My neighbors, my friends, we are all related. {APPLAUSE} Consider those who have come here today to join hands with you, along with Secretary Cuomo, Secretary Glickman, your great congressional delegation, our Democratic leader, Tom Daschle in the United States Senate and Senator Johnson, Congressman Thune. You don't know this, but we have members of Congress from all over America who have come here to express their support and their commitment to join you in building a better tomorrow.
+
+Congressman Ed Pastor from Arizona; Congressman Dale Kildee, from the state of Michigan; Congressman Jim Clyburn, from South Carolina; and Congressman Paul Kanjorski, from Pennsylvania, he has come all the way from Pennsylvania to be here. {APPLAUSE}
+
+I want to thank the other people from the administration, especially Assistant Secretary of the Interior, Kevin Gover and Lynn Cutler, in the White House, who work with all of our Native American leaders around America, for what they do. {APPLAUSE} I want to thank the CEO of Fannie Mae, Frank Raines; the CEO of Northwest, Mark Omen; the PMI President, Roger Horton; Mortgage Bankers Association President Don Lang; Champion Homes CEO Walter Young -- for all the work that they are prepared to do in building a better future and they're here today. {APPLAUSE}
+
+I want to thank my good friend, Jesse Jackson, for never letting us forget our common obligations. {APPLAUSE} I thank the other members of our delegation today -- Bart Harvey, from Enterprise; Al From, from the Democratic Leadership Council. I'd like to thank the young AmeriCorps volunteers who are here today for all the work they do. {APPLAUSE}
+
+I would like to finally say a word of appreciation to all the people who live here on this reservation, who welcomed me into their homes, who talked to me today as I walked down their streets. I thank especially Geraldine Bluebird, who Secretary Cuomo mentioned -- she let me sit on her porch and she told me how she tries to make ends meet for the 28 people that share her small home and the house trailer adjoining.
+
+I thank the children who stopped their playing and shook hands with me and listened to me while I encouraged them to stay in school and to go onto college and to live out their dreams. {APPLAUSE} I want to bring you greetings from two people who are not here -- first, from Vice President Gore, who has headed our empowerment zone effort that Pine Ridge became a part of today. {APPLAUSE} And, second, just a little over an hour ago, I talked to the First Lady, and Hillary has spent more time in Indian Country than any First Lady in history. She is intensely committed to this effort, and she asked me to say hello to you. {APPLAUSE}
+
+President Saulway said today I was the only President ever to come to an Indian reservation for a nation to nation business meeting. I remember back in 1994, I invited all the tribal leaders in America to the White House, and it was the first such gathering since the presidency of James Monroe in the 1820s. Now, I know that Calvin Coolidge came to Pine Ridge in the 1920s, and that President Roosevelt visited another Native American reservation, but no American President has been anywhere in Indian Country since Franklin Roosevelt was President. That is wrong, and we're trying to fix it today. {APPLAUSE}
+
+I was profoundly moved by the pipe ceremony, just as I was when your congressional delegation took me last night not only to Mount Rushmore, but to the Crazy Horse Memorial, and to the museum that is there with it.
+
+But I ask you today, even as we remember the past, to think more about the future. We know well what the failings of the present and the past are. We know well the imperfect relationship that the United States and its government has enjoyed with the tribal nations. But I have seen today not only poverty, but promise.
+
+And I have seen enormous courage. I came here today for three reasons. First of all, to celebrate the empowerment zone and the housing projects that are going on here now. Second, to talk about my New Markets Initiative and what else we can do. But, third, with the business leaders who are here -- and I've already introduced them, but I'd like to ask the business leaders I just mentioned to stand up. We want to send a message to America that this is a good place to invest. Good people live here. Good people live in Indian country, they deserve a chance to go to work. {APPLAUSE} Thank you. Thank you. {APPLAUSE}
+
+You've already heard President Saulway and Secretary Cuomo recite the statistics. It's a hot day out here and I know you're suffering in the sun. But I want to send a message to America. So I just want to say a few things, and I want you to think about this. Think about the irony of this. We are in the longest period of economic growth in peacetime in our history. {APPLAUSE}
+
+We have in America almost 19 million new jobs. We have the lowest unemployment rate ever recorded for African Americans and Hispanics. For over two years our country has had an unemployment rate below 5 percent. But here on this reservation, the unemployment rate is nearly 75 percent. That is wrong, and we have to do something to change it, and do it now. {APPLAUSE}
+
+When we are on the verge of a new century and a new millennium where people are celebrating the miracles of technology, and the world growing closer and closer together, and our ability to learn from and with each other and make business partnerships with each other all across our globe, and there are still reservations with few phones and no banks, when still three or four families are forced to share two simple rooms, where communities where Native Americans live have deadly disease and infant mortality rates at many times the national rate, when these things still persist, we cannot rest until we do better. And trying is not enough; we have to have results. We can do better. {APPLAUSE}
+
+Our nation will never have a better chance. When will we ever have this kind of opportunity where unemployment is low, inflation is low, there's a lot of money in our country, the value of our stock market has tripled and then some. Business people are looking for new places to invest, and people who have done well feel a moral obligation to try to help those who are less fortunate, who have not fully participated.
+
+And we see it from Appalachia to the Mississippi Delta to the inner cities of our country, to the Native American communities. If we can't do this now, we will never get around to doing it. So let us give ourselves a gift for the 21st century -- an America where no one is left behind and everyone has a chance. {APPLAUSE}
+
+We will do our part. You have suffered from neglect, and you know that doesn't work. You have also suffered from the tyranny of patronizing inadequately funded government programs, and you know that doesn't work. We have tried to have a more respectful, more proper relationship with the tribal governments of this country to promote more genuine independence, but also to give more genuine support. And the empowerment zone program, as the Vice President and I designed it six years ago, is designed to treat all communities that way. We're not coming from Washington to tell you exactly what to do and how to do it, we're coming from Washington to ask you what you want to do, and tell you we will give you the tools and the support to get done what you want to do for your children and their future. {APPLAUSE}
+
+President Saulway and a number of tribal leaders came to me at the White House a couple of months ago. You may have heard in the national press that I repeatedly referred to this profoundly emotional meeting. I have given a great deal of thought to what was said then and what I heard now. We can do better. I would like to mention just a few specific things, for you have all heard years of pretty words.
+
+There is no more crucial building block for a strong community and a promising future than a solid home. Today, I want to talk about a number of things the government and the private sector are going to do to increase homeownership. Our whole team visited those new homes that are being built not far from here. We talked to the families that are moving into those homes. I had a little boy take me through every room in the home, tell me exactly where every closet was, tell me what his sister's room had that he didn't have, and why it was all right, because she was older and she needed such things.
+
+This is important. So what are we going to do? Private lenders, like Bank of America, Northwest, Bank One, Washington Mutual, are going to work with the Mortgage Bankers Association and HUD, to more than double the number of government-insured or guaranteed home mortgages in Indian country in each of the next three years. {APPLAUSE}
+
+Right here in Pine Ridge, Fannie Mae, under Frank Raines' leadership, has set aside millions of dollars to help you buy those homes at below-market rates. And they are spending hundreds of millions of dollars all across this country to help people just like you become homeowners for the first time. {APPLAUSE} And Secretary Cuomo's Partnership for Housing is giving financial incentives and counseling to help families figure out how to actually get this done, how to buy their own homes and pay for them.
+
+But, as I heard over and over today, even if we went in and tried to repair or rebuild or build new homes for every family here, and in every Indian community throughout the United States, we must have jobs if we want these communities to work. {APPLAUSE} Adults need to have something to look forward to every morning when they get up. And if they want their kids to stay in school, and stay out of trouble, and look to tomorrow, their lives have to be evidence that looking to tomorrow pays off. It is appalling that we have the highest growth rate in peacetime in our history; that we have an unemployment rate below 5 percent for two years, and the unemployment rate on this hallowed reservation is almost 75 percent. That is appalling, and we can do better. {APPLAUSE}
+
+No community in America, can grow, however, without basic blocks. No community in America should be without safe running water and sewer systems. So the Department of Agriculture will put nearly $16 million in water projects throughout Indian country, including two right here in Pine Ridge, that will also help you get jobs, as well as improve the quality of life. {APPLAUSE}
+
+As you can see, in this Big Sky country, it is rather warm and it gets windy from time to time, as the Natives will attest. The Department of Energy will help you harness the power and profits of wind and solar energy, to save money and make money. {APPLAUSE} Owens Corning and North American Steel Framing Alliance will provide skills training and the promise of quality jobs. And Citibank and Gateway Computer Company will work with Oglala Lakota College and other schools to help Native American students get the computer skills that will allow them to get 21st century jobs. {APPLAUSE}
+
+And our Federal Communications Commission will work with you to improve telephone service throughout Indian Country, an absolute prerequisite for getting any new business in here.
+
+Let me just say that one of the things that we have learned is that the computer and the Internet make it possible for many people to do many kinds of work in any community, anywhere in the United States; indeed, increasingly, anywhere in the world. The fact that this reservation is a long way from an urban center would have been an absolute prohibitive barrier to a lot of economic development just 10 or 15 years ago.
+
+The explosion of computer technology and the Internet, if you know how to use it and you know how to deliver for others with it, has literally made the distance barrier almost insignificant for many kinds of economic activity. So I want to implore you to use your tribal college and work with these companies and make the most of the skills they are offering, and we can get the jobs to come here once you can do them. {APPLAUSE}
+
+Finally, we must seize the vast potential of tourism right here in Pine Ridge by building a Lakota Sioux heritage cultural center. Every year, millions of families travel long, long distances to see Mt. Rushmore -- 2.7 million last year. The Crazy Horse Memorial, about a million and a half, even though only the head has been finished. The Crazy Horse Memorial last year had 1.5 million visitors; only the head has been finished. I went there late last night. And the Badlands National Park.
+
+Now, if you look at that, you have to ask yourself: How can you have -- how many people, if you did everything right down here, if we built this cultural center, of all the people that go to see Crazy Horse, of all the people that go to see Mt. Rushmore, of all the people that go to Badlands National Park, how many would come here. I'll tell you -- a whole lot. An enormous percentage, if you give them something to come and see. That is nothing more than the simple, profound, powerful story of your eloquent past and your present, of your skills and your heritage and your culture and your faith.
+
+These commitments that we are making today are just the beginning. Thirty-one years ago this spring, Senator Robert Kennedy came to Pine Ridge. Many of you probably still remember that visit. Senator Kennedy, seeking medical care for his child, lying sick in the back of an abandoned car, refusing to sit and begin an important meeting until all of the tribal leaders had their proper seats.
+
+You may remember his message of hope. Let me say that all across America, people were watching that. I have to say, on a purely personal note, one of the most touching things about this day for me is that the wife of our HUD Secretary is Robert Kennedy's daughter, and she is here today and this is a proud day. I'd like to ask her to stand. Kerry, please stand. Thank you. {APPLAUSE}
+
+We lost all those years. There were a lot of reasons, and a lot of things are better than they were 30 years ago. But this is the first time since the early 1960s when we had this kind of strong American economy, and we have no excuse for walking away from our responsibilities to the new markets of America.
+
+I have asked the members of Congress to go back and pass legislation that will give major tax breaks and government-guaranteed loans to people who will put their money in Indian Country, to lower the risk of taking this chance. {APPLAUSE} We are going to do everything we can to make your empowerment zone work. But remember -- there is nothing that we can do except to help you to realize your own dreams.
+
+So I say to every tribal leader here: The name of the conference you are attending is Shared Visions. We must share the vision, and it must be, fundamentally, yours -- for your children and their future. If you will give us that vision and work with us, we will achieve it.
+
+Thank you, and God bless you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,68 @@
+﻿{title} Remarks by the Presidenton Equal Pay {/title}
+{event} Equal Pay Event {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 11, 2000 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Let me welcome you all here today. And before I acknowledge the members of Congress and our participants, I need to say just a few words about the terrible fire that has surrounded and engulfed part of Los Alamos, New Mexico. I have been briefed on the situation. The fire is continuing to blaze. The residents have been evacuated. We have taken steps to protect our lab and the assets there. And most important, I just want to give my sympathies to the people who have lost their homes.
+
+Yesterday I declared an emergency for the area, making them eligible for disaster assistance, and today our FEMA Administrator, James Lee Witt, Secretary Richardson, our Forest Service Chief Mike Dombeck, and the Director of the National Park Service Bob Stanton are all there, or will be shortly, to assess the situation and to monitor our efforts.
+
+This is a very, very difficult situation and I know that the prayers and support of all Americans will be with the people out there.
+
+I'd like to welcome Senator Harkin, Senator Finestein, Representative DeLauro, Representative Eleanor Holmes Norton, Representative Mink, Woolsey, Moore, Jackson Lee, and Eddie Bernice Johnson -- all of whom are here today. With Secretary Herman and Martin Baily, the Chair of our Council of Economic Advisors; Janice Lachance; our EEOC Chair, Ida Castro; and all the other people who are here representing working families.
+
+In just a few moments, I'll introduce the woman to my left, who will speak after me and is really what this day is all about.
+
+The first Mother's Day of the 21st century is shaping up to be a time of commitment and action, led by women in America. On Sunday, mothers from around the nation will march for safer communities free of gun violence. Today, women and men are coming together to uphold core American values of equality, dignity, and justice.
+
+This has been designated Equal Pay Day. It marks the fact that the average woman had to work more than four months into this year just to earn what the average man earned last year. But equal pay is about more than dollars and cents. It's about right and wrong, because it's wrong when women still earn about 75 cents for every dollar earned by a man in the same line of work; it's wrong that average female workers have to work an extra 17 weeks to catch up to the wages of average male workers.
+
+It's true, of course, that some of these differences can be explained by education, age, and occupation. But even after adjusting for these factors, there remains a sizable pay gap. As women grow older, the gap grows wider. It is widest for women of color. African American women earn 64 cents for every dollar earned by white men. In other words, they'd have to work all of last year and into July of this year before they earned as much as the average white male earned in 1999. For Hispanic women -- listen to this -- equal pay day won't come until late October.
+
+Equal pay is about all our mothers and sisters, our wives and daughters. It's about fathers and brothers and sons and husbands. It's a family issue. When women aren't paid equally, the entire family pays the price.
+
+We also know the cost extends far beyond one's work life. If you're making less, you'll get less Social Security. You'll have less to put aside for retirement. The average woman who's about to retire -- if she even gets a pension -- can expect about half the pension benefits of the average man who retires.
+
+Now is the time to close the wage gap. {APPLAUSE} You have often heard me ask this question in the context of other national challenges, but if we have the lowest unemployment in over 30 years, and the longest economic expansion in history, and over 21 million new jobs, with the lowest poverty rate in 20 years, and the lowest African American and Hispanic unemployment rates ever recorded, the lowest female unemployment rate in 40 years and the lowest female household poverty rate on the record, if we can't solve this problem now, when in the world will we ever get around to it? Now is the time to deal with this.
+
+Wages for women are up, and the pay gap has narrowed since the passage of the Equal Pay Act. But the gap is still far, far too wide, and women and their families are paying a terrible price.
+
+Today, I received a report from the Council of Economic Advisors on opportunities for women in the new economy, particularly in information technology fields -- jobs such as computer scientists and programmers. Information technology now accounts for about a third of our growth, although only 8 percent of direct employment. But these are high-wage jobs that pay about 80 percent above the national average.
+
+The CEA study shows that overall employment in information technology has grown by more than 80 percent since 1993. That's amazing. Overall employment has nearly doubled since 1983. But fewer than one of three of these high-tech, high-wage jobs are filled by women. Moreover, women are most under-represented in new economy jobs where the pay is highest. For example, electrical engineering is just 10 percent female today. That is another digital divide.
+
+The report also found that after accounting for education and age and occupation, the pay gap in information technology jobs is, unfortunately, about the same as it is in other occupations. If we're going to make the most of the new economy we have to close the door on discrimination wherever it exists, and open the door for higher opportunities for all women who wish to work and are qualified to do so.
+
+Today, I'm announcing a number of steps to do just that. First, our budget for the coming year includes a new $20 million initiative for the National Science Foundation for grants to universities to remove barriers to career advancement for women scientists and engineers, and encourage more women to pursue these fields.
+
+This is especially important because we know the pay gap narrows sharply for women who have higher levels of education. When only one out of 10 engineers is a woman, and only 30 percent of those in math and computer science jobs are women, we simply have to do more. It's important for reasons of fairness and justice. It's also important for our leadership in the global economy.
+
+Second, I'm establishing an equal pay task force at the Equal Employment Opportunity Commission to ensure that our EEOC field staff have the full range of support they need to effectively investigate charges of pay discrimination. {APPLAUSE}
+
+Third, and perhaps most important, again today I renew my call to Congress to send the clear message that wage discrimination against women is just as unacceptable as discrimination based on race or ethnicity. {APPLAUSE}
+
+The best way to do that is by acting this year: Support legislation to strengthen existing wage discrimination laws. Support our Equal Pay Initiative in next year's budget to provide $10 million for EEOC efforts to help in wage discrimination, and $17 million for Secretary Herman's efforts to train women in non-traditional jobs, including those in high-tech fields. {APPLAUSE}
+
+Thirty-five years ago, when President Kennedy signed the Equal Pay Act -- now more than 35 years ago -- he said, I quote, "It adds to our laws another structure basic to democracy." For over seven years now, the Vice President and I have tried to build on that basic idea, to include more women in every aspect of our administration's life, and to create more opportunities for all Americans, women and men equally. We have not succeeded in closing the pay gap. We need the help of Congress to do it. It is very, very important.
+
+We all say we want to support work and family. We all say we want to open new doors of opportunity. Now's our chance and we ought to take it.
+
+I'd like to introduce now someone who knows about the equal pay challenge because she has lived with wage discrimination. She has fought against wage discrimination and, thankfully, she has won.
+
+She came here from Baltimore today to tell her story. Ladies and gentlemen, Karen Simmons-Beathea. {APPLAUSE}
+
+***
+
+I just wanted to say one final thing; some of the members have alluded to it. But because of the way we introduced each other, seriatim, I don't think we adequately expressed our appreciation to Karen Simmons-Beathea who really represents what this is all about, and I think we ought to give her another hand. {APPLAUSE}
+
+And I will just leave you with this thought. There are a few issues that we're working on today that, unfortunately, tend to get cast in Washington, D.C. in terms of a partisan divide. But out in the country there isn't one. You know, when I was a young boy, I lived with a working grandfather and a working grandmother; I was raised by a working mother. Nobody has lived in one of these families for any period of time without having at least one encounter with some kind of problem we're talking about. And if it ever happens to you, especially when you are a child, you never get over it.
+
+If you go out and talk to Americans around this country, Republicans and Independents and Democrats will all tell you more or less the same thing about this issue. This is not a political or a partisan issue anywhere else. Now, you heard Eleanor Holmes Norton saying if somebody doesn't like our bills or they want to talk about the practical impact, well, we can talk about how to word the language and deal with the practical consequences. But whether we do something or not and whether what we do is meaningful or not is not a political or a partisan issue in America, and it shouldn't be here.
+
+And if all of the people who have ever experienced anything like what Karen talked about today, they'll talk to all of the members of Congress about it, we would get something done, something meaningful this year. Thank you, and God bless you all. {APPLAUSE} 
+
+{/speech}

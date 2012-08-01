@@ -1,0 +1,46 @@
+﻿{title} Remarks by The President at School Safety Event {/title}
+{event} School Safety Event {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 19, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at School Safety Event {/description}
+
+{speech} 
+
+Thank you very much, Superintendent Berg; Madam Attorney General; Senator Robb, thank you so much for your efforts. Congressman Castle, thank you. Mayor Donnelly, welcome and I want to say a special word of welcome to all of the students. I'm glad you're here today and I thank you for the example you're setting for students throughout our country.
+
+I also want to commend the students who were the winners of the state math and science award earlier this month. This school is proving that by taking the right kind of action -- working with law enforcement, enforcing zero tolerance for guns and drugs, involving parents, establishing discipline and order as primary goals. We can keep our schools safe and give our children the chance to reach their highest potential.
+
+Now, in less than 650 days, all of us will enter a new century and a new millennium. At a time when we're doing everything we can to prepare our children for the opportunities of that new century, at a time when we know that the body of knowledge that human beings have is doubling every five years and, therefore, education will be more important than ever before, we cannot let violence, guns, drugs stand between our children and the education they need.
+
+For more than five years, we've worked now to make our schools places of learning, not fear. We have worked to strengthen and expand the Safe and Drug-Free Schools Program, to enforce zero tolerance for guns in schools, to encourage communities to crack down on truancies, to support those who wish to adopt school uniform policies. Wearing uniforms instead of gang colors in many places is helping to keep our children safe.
+
+It was just a little over two years ago that I went to Long Beach, California, the first large school district to adopt a school uniform policy. Since then, Secretary Riley and the Department of Education have worked to help those schools that wanted to do that. Yesterday, the New York City School Board announced that it would adopt a school uniform policy in all its elementary schools. I applaud them for taking this important step, and I predict it will have very beneficial consequences.
+
+Our budget makes an unprecedented commitment as we are moving into balance for the first time in 30 years to invest for our future, by raising standards and improving education for all our children, and to make our schools safer. We know schools with the biggest discipline problems also have the highest rates of violence. Very often, there are simply too many students and too few classrooms with not enough teachers. Our budget, as Senator Robb said, will help that, will help to reduce class sizes to an average of 18 students per class in the 1st, 2nd and 3rd grades, with 100,000 more teachers and funds to build or rehabilitate 5,000 schools.
+
+Perhaps even more important in the short run on the violence issue -- and I was glad to hear Mr. Berg talk about this --it will quadruple federal support for after-school programs to keep children in school in wholesome, positive environments. We know that most children who get in trouble do so between the time school lets out and their folks get home from work. So I applaud you for what you're doing and I hope now if this budget passes there will be many, many more schools, until every school in America will offer this kind of community support to our young people and their families. {APPLAUSE}
+
+The fundamental issue here is that we do not need to and we must not ever have to make a choice between safety and high standards, between crime-free schools and modern classrooms. We must do both. I regret that the present budget, reported out by the Majority in Congress, does not embody that kind of commitment to education in our future, does not embody the recommendations I made in the State of the Union Address.
+
+Today, I ask the Republican leadership to join with the leaders of the other party to get with the Democrats and to work with the White House so that we can once again, as we have in the past, pass a bipartisan budget that puts education beyond politics and says yes to safer schools, yes to new teachers and smaller classes, yes to modernizing our schools, yes to investing in high standards. We need to have a budget that says yes to our children's future.
+
+The Nationwide Report on School Safety that is being released today by the Attorney General and the Secretary of Education shows clearly that the majority of our schools are safe, free of violent crime. That is good news. It also shows, however, that too many of our children face a far more frightening reality every time they walk through the schoolhouse door. In 1996 alone there were more than 10,000 physical attacks or fights with weapons in schools; 7,000 robberies; 4,000 rapes and sexual assaults. The threat of such violence hangs over children's heads and closes their minds to learning. When children have to worry more about guns and drugs than math and science, when teachers are more concerned with maintaining discipline than achieving excellence, when parents would rather keep their children at home than risk their safety at school, then we know we must do more; and if there is even one school in America where that is the case, we must all be committed to change it. We already know the difference community policing makes.
+
+Since we began to help our local communities to put 100,000 more community policy officers on our streets, crime has dropped to record lows all over our country. Indeed, in the nation overall, crime is at a 24-year low. I thank Senator Robb for his sponsorship for the $17.5 million in the balanced budget bill which is now being awarded today in grants to communities, parents and law enforcement groups to put these community policing strategies to work in our schools, to stop violence before it starts.
+
+The more we know about school violence, the more we can do to ensure our children's safety. Last December, I asked the Attorney General and Secretary Riley to develop an annual report on school safety. Today, I'm pleased to accept their framework for these reports. From now on at the beginning of every school year, parents and principals, lawmakers and law enforcement will have a valuable tool that tracks school violence, gives examples of school programs that are working, and suggests actions parents can take to make their children's lives safer at school.
+
+We know one of the best ways to reduce violence is to involve the young people themselves. In the last several years, AmeriCorps volunteers particularly have helped hundreds of students to resolve their conflicts peacefully. This adds to AmeriCorps' remarkable record of helping improve our schools and communities through volunteer service.
+
+Parenthetically, I want to say that today we had an announcement up on the Hill with the First Lady participating that we are sending legislation to Congress to extend our national service program into the 21st Century; I hope Congress will support AmeriCorps as it has in the past. {APPLAUSE}
+
+Let me say, finally, as Mr. Berg said so eloquently, we know that all of our schools need parents to play the primary role in their children's safety, both in the school and in the home, and when necessary, in the neighborhood.
+
+Today, I ask all our parents who are concerned about this to become involved in your communities and your children's schools; to join a community policing partnership. Senator Robb got the budget, we're releasing the funds, we can talk about what works; but in the end, real live American citizens are going to have to show up in every school in this country to make this work.
+
+You know, if you look at these young people here today, if you think about the remarkable achievements of this fine school we honor, if you imagine the interesting, fascinating lives they can have, and you remember that, as they have good lives it will make all the rest of our lives better, it is clear that we all have a responsibility to ensure that their educations will be safe. We can do this and America's future in the 21st Century depends upon it.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

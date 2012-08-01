@@ -1,0 +1,22 @@
+﻿{title} Remarks by the President During Special Olympics Dinner {/title}
+{event} The South Lawn Pavilion, The White House {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 14, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Senator. {APPLAUSE} Trying to get in practice, guys. I want to thank Victor and Katy and Barry, and all the Special Olympics global messengers. Let's give them all a big hand again. {APPLAUSE} Actually, I don't know whether I want to thank Victor or not. I understand that the very first time you played golf, you hit a ball 250 yards. {APPLAUSE} And I want to know the secret before we go any further with this friendship of ours.
+
+I also want to thank our friend, Jamie Lee Curtis, who has been a great master of ceremonies and has walked us all through this tonight. Let's give her a big hand. {APPLAUSE} And all the wonderful performers who have graced this stage tonight because they believe in Special Olympics. Hillary and I have been proud supporters of Special Olympics for many, many years. And we're proud to be part of this very special evening.
+
+Special Olympics is a program of sports, training and competition, but ultimately it's a strong statement of optimism about human life. It says that every human being can learn and grow and contribute to the society we all share. It casts a spotlight on the dignity of human life and the beauty of the human soul.
+
+Special Olympics teaches us that when people with disabilities gain skill and confidence, we all win from their abilities. When Special Olympic athletes from America meet their counterparts from places like China and Botswana, people all over the world are enriched. And in this century, we have just begun. If we help Special Olympics establish global networks for families, create new health programs for athletes, and open new opportunity for 2 million athletes around the world, every one of us will be better off.
+
+Special Olympics began as a small flicker in the heart of one remarkable women, Eunice Kennedy Shriver. {APPLAUSE} We miss her tonight, and we thank Sarge and her whole family for being here. Special Olympics enters a new century, not a small flicker, but a bursting flame of pride and a beacon of inspiration for every one of us.
+
+So, tonight, we celebrate what has been accomplished, and even more, we look forward to the future with determination and confidence. And now, I want all of our artists to get a big hand. They're back on the stage and they're going to sing us -- you know, I only have just a few days left -- {LAUGHTER} -- so I'm going to take every opportunity I can to ask for everything I can. I want one more song. {APPLAUSE} Merry Christmas, everybody. {APPLAUSE} 
+
+{/speech}

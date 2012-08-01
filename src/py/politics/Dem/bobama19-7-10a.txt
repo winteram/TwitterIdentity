@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President in Honor of the WNBA Champion Phoenix Mercury {/title}
+{event} Honoring the WNBA Champion Phoenix Mercury {/event}
+{speaker} Barack Obama {/speaker}
+{date} July 19, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+All right, everybody, have a seat now, have a seat. Well, it is just wonderful to welcome all of you here to the White House. And congratulations to the Phoenix Mercury on winning your second WNBA title in the last three years. {APPLAUSE}
+
+Now, I noticed my Department of Homeland Security Secretary -- {LAUGHTER} -- is kind of horning in on our event here. {LAUGHTER} She has been a huge fan of Mercury ever since her days as governor of Arizona. She's -- I didn't know you'd been a guest coach. That is cool. Did you guys win that game? Nice, nice, nice. So I'm impressed.
+
+I want to congratulate head coach Corey Gaines. He won a ring as assistant coach -- now he's got a ring as head coach. So congratulations. {APPLAUSE}
+
+I know how much hard work goes into a championship -- {COMMENT="Reacts to a noise"} -- you guys all right back there? {LAUGHTER} I know how much hard work goes into a championship season. But I hear that one of the real keys to the Mercury's title is sitting in the audience. For those of you who don't know, assistant coach Julie Hairgrove and her kids are the lucky charms of this team. Where are they? Sleeping? Not that excited to see the President. {LAUGHTER}
+
+My understanding, when the Mercury won their first title in 2007, Julie was pregnant with her second child. Where's Julie by the way? Nice. When they won their second title, Julie was pregnant with her third child, Grace, who's now three months old. And I understand the team is trying to talk Julie and her husband into their fourth. {LAUGHTER} One more? {LAUGHTER}
+
+But beyond your lucky charms, the sacrifice, the dedication, and the heart that all of you have put into this sport is obvious. Team captain Diana Taurasi was named regular season and WNBA Finals MVP this year. That's pretty good. {APPLAUSE} Last week, she won the ESPY Award for Best WNBA Player of 2010. Congratulations. {APPLAUSE}
+
+Tangela Smith became only the fourth player in WNBA history to score 4,500 career points and rack up 2,000 rebounds. Congratulations, Tangela. {APPLAUSE} Nice! Nice!
+
+But this is a true team. When Diana was named Finals MVP, she turned around and gave the trophy to her teammates. She said, “It's not one player that makes an MVP. It never has been…and it never will be.”
+
+And this team set a new WNBA scoring record with 92.8 points per game. They made their way onto a box of Wheaties, I understand. {LAUGHTER} But they have managed to keep themselves pretty grounded. I hear that rookies Taylor Lilley and Sequoia Holmes are still doing luggage duty -- is that true? {LAUGHTER} You guys didn't even -- {LAUGHTER} -- rooks, huh? That's rough. That's rough. {LAUGHTER}
+
+This team also goes above and beyond in serving the Phoenix community -– from putting on basketball camps for children of veterans to collecting clothes for the homeless. And today, they're bringing that commitment here to the White House. After we're done here, they'll be holding a clinic as part of Michelle's “Let's Move!” initiative to help our young people live healthy and active lives.
+
+So I want to thank all of you guys for your extraordinary service as well as your championship spirit. And I want to thank you for setting a wonderful example -- because I live with three tall, good-looking women -- {LAUGHTER} -- who are quite competitive and push me around under the boards all the time. {LAUGHTER} But I want Malia and Sasha to know that there is absolutely no contradiction between women who are beautiful and healthy and contributing, and good athletes and competitive. And when they see you guys every day, that helps them in a way that -- I think if you heard from Michelle, sometimes she feels like when she was coming up she didn't always have that. And I think that is just so important to everybody.
+
+So as a basketball fan, I congratulate you on your second championship. As a father, I thank you for being great role models. And good luck with the rest of the season. All right. {APPLAUSE} 
+
+{/speech}

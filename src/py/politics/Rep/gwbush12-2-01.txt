@@ -1,0 +1,51 @@
+﻿{title} Remarks by the President to the Troops of Fort Stewart {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 12, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Thank you, General Sharp. Before I begin my remarks today, I want to ask for your prayers for those still missing after the tragic accident involving one of our naval submarines and a Japanese fishing vessel off the coast of Hawaii. Please join me in a moment of silence for those missing, their families, and our friends, the people of Japan. 
+
+{COMMENT="A moment of silence was observed"} 
+
+Amen. 
+
+Major General, thank you for your kind introduction and your outstanding leadership. Secretary Rumsfeld, Senator Cleland, and Senator Miller -- of the great state of Georgia -- {APPLAUSE} -- other members of the United States Senate; Representative Kingston, and other members of the House, thank you all for traveling with me today. 
+
+General Hendrix, Major General Poythress, Command Sergeant Major McFowler, Command Sergeant Major Ruo, soldiers of the 3rd Infantry Division -- {APPLAUSE} -- the 48th Infantry Brigade -- {APPLAUSE} -- as importantly, family members -- {APPLAUSE} -- and all those who make up the Fort Stewart home. It's a great privilege for me to be here today. 
+
+You're among the first in the Army to hear me extend "Hooah!" {APPLAUSE} I proudly do so, for there is no greater duty for the President, and no higher honor than to serve as the Commander in Chief. {APPLAUSE} 
+
+I'm especially honored to be here at Fort Stewart, with the dog-faced soldiers of the 3rd Infantry Division. {APPLAUSE} You've written history with your courage, from the forests of the Marne to the front lines of the Cold War; from Casablanca to the Balkans; from Korea to Kuwait. 
+
+Today, you carry on this proud tradition, ready to project American power wherever America's interests are threatened. You've been called the most highly trained and rapidly deployable mechanized force in the world. {APPLAUSE} That is high praise, and you have earned it. 
+
+I deeply respect your service. I appreciate your sacrifice. And I know what your service and sacrifice achieve for our nation. In a dangerous world, our men and women in uniform give America safety. In a world of fast changing threats, you give us stability. Because of you, America is secure. Because of you, the march of freedom continues. 
+
+The freedom and security you make possible improve the quality of our life every day. Our nation can never fully repay our debt to you. But we can give you our full support, and my administration will. {APPLAUSE} 
+
+We owe you and your families a decent quality of life. {APPLAUSE} We owe you the training and equipment you need to do your jobs. {APPLAUSE} And when we send you into harm's way, we owe you a clear mission, with clear goals. {APPLAUSE} You and your families are the foundation of America's military readiness. 
+
+But while you're serving us well, America is not serving you well enough. {APPLAUSE} Many in our military have been over-deployed and underpaid. {APPLAUSE} Many live in aging houses and work in aging buildings. {APPLAUSE} You see some of this right here at Fort Stewart. {APPLAUSE} Twenty-four thousand troops have been processed through Hunter Airfield in the last 12 months, deploying everywhere, from Bosnia to the Bahamas. 
+
+Some members of the 3rd Infantry Division are now in Bosnia for a second, or even third, time. In a few months, the 48th Infantry Brigade of Georgia's National Guard will also deploy there. Others in the 3rd Infantry are getting ready to deploy to Kosovo. {APPLAUSE} 
+
+You are among the most deployed units in the Army. But you live on a base that has some of the least developed infrastructure. {APPLAUSE} Two-thirds of your barracks need renovation. {APPLAUSE} Some of your workshops are housed in wood buildings built in 1941, buildings that were designed to last 10 years, which are now having their 60th birthday. {LAUGHTER} 
+
+These problems, from low pay to poor housing, reach across our military and the result is predictable. Frustration is up; morale, in some places, is difficult to sustain; recruitment is harder. This is not the way a great nation should reward courage and idealism. {APPLAUSE} It's ungrateful, it's unwise and, it is unacceptable. {APPLAUSE} 
+
+We will do better. You deserve a military that treats you and your families with respect. And America needs a military where our best and brightest are proud to serve, and proud to stay. I have great goals for our military, to advance its technology, to rethink its strategy. But as always, our strength begins with our people. {APPLAUSE} 
+
+Today, I'm announcing that our proposed 2002 budget will add $5.7 billion in new spending on the people of our military. {APPLAUSE} Our budget will include $1.4 billion for military pay increases. {APPLAUSE} Pay increases on top of the increases the Congress passed the last couple of budget cycles, $400 million in funds to improve military housing -- {APPLAUSE} -- and $3.9 billion to improve military health benefits. {APPLAUSE} 
+
+If our military is to attract the best of America, we owe you the best. You volunteered for this job. You decided to serve a cause greater than yourself. And I'm proud to lead you. And I'm committed to serve you. In the years ahead, I will have the opportunity to visit with thousands of our men and women in uniform. And I look forward to each opportunity to express my thanks on behalf of our nation. 
+
+I'll never forget that my first visit as Commander in Chief was here, to Fort Stewart, home of the dog-faced soldiers. {APPLAUSE} You are the Rock of the Marne, and America is rock-solid behind you. 
+
+God bless you, and God bless America. {APPLAUSE} 
+
+{/speech} 

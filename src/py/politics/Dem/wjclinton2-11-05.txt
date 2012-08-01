@@ -1,0 +1,86 @@
+﻿{title} President Clinton Delivers Remarks at Funeral of Rosa Parks {/title}
+{event} Detroit, Michigan, Greater Grace Temple {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 2, 2005 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much.
+
+Judge Keith and I have been friends a long time. And I think sometimes my memory is going. But he's a little bit older than I am, and I can't believe he remembers the roses story, but it happened just like he said.
+
+Bishop, the assembled bishops and clergy and Governor, members of Congress, mayors, other officials, I'd like to say a special word of thanks on this occasion to Congressman John Conyers for giving Rosa Parks that job so long ago and giving her a chance to come here.
+{APPLAUSE}
+
+I must begin by begging your forgiveness. You know why? I'm happy here, and I don't want to go anywhere.
+{APPLAUSE}
+
+But months ago -- months ago -- I promised to be in New York City before I can get there, to talk about what we can do to give health care to the Americans who don't have it. And I think I have to go back. I hope you'll forgive me.
+{APPLAUSE}
+
+I want to stay and hear the preachers preach and Santita and Aretha sing. And I feel down right cheated, because I've heard me give a speech before, and I apologize.
+
+And I apologize to you, Rosa.
+
+The world knows of Rosa Parks because of a single simple act of dignity and courage that struck a lethal blow to the foundations of legal bigotry.
+
+But 50 years and 29 days ago, when Rosa Parks refused to give up her seat to a white man in the south where segregation extended even to the close confines of the city bus, she was just taking the next step on her own long road to freedom.
+
+It began when she was just 11, when she moved to Montgomery because there was no school that admitted African-Americans beyond the sixth grade in her little town of Pine Level, Alabama.
+
+It continued when she was 19, when she married Raymond Parks, a strong NAACP member who worked for the defense of the Scottsboro boys.
+
+At 30, she joined the NAACP; one of the first women to do so. In the same year, she made her first attempt to register to vote. And this highly articulate intelligent, literal woman was judged to have failed the literacy test. In fact, the authorities failed the humanity test.
+{APPLAUSE}
+
+And in the same year she had a prophetic run-in with a bus driver, who threw her off the bus because she insisted on getting on the front door and paying at the front place. And black folks were supposed to get on at the back and pay there.
+
+At 33, she finally got to vote. They couldn't figure out how to flunk her the third time on the literacy test.
+
+At 42, after attending a workshop on integration at the Highlander Folk School in Tennessee, she got on that bus with the same old driver and refused to give up her seat to a white man in a region where gentlemen are supposed to give up their seats to ladies.
+{APPLAUSE}
+
+Rosa Parks ignited the most significant social movement in modern American history to finish the work that spawned the Civil War and redeem the promise of the 13th, 14th, and 15th amendments.
+
+For 50 more years, she moved beyond the bus, continuing her work on that promise.
+
+It was my honor to present her with the Presidential Medal of Freedom and to join the leaders of Congress in presenting her with a Congressional Gold Medal.
+{APPLAUSE}
+
+I remember well when she sat with Hillary in the box of the first family at the State of the Union Address in 1999 and how the entire Congress, Democrats and Republicans alike, rose as one to recognize that she had made us all better people in a better country.
+
+When I first met Rosa Parks, I was reminded of what Abraham Lincoln said when he was introduced to Harriet Beecher Stowe, the author of "Uncle Tom's Cabin." He said, "So this is the little lady who started the great war."
+{LAUGHTER}
+
+This time, Rosa's War was fought by Martin Luther King's rules, civil disobedience, peaceful resistance.
+{APPLAUSE}
+
+But a war nonetheless for one America in which the law of the land means the same thing for everybody.
+
+Rosa Parks, as we saw again today, was small in stature with delicate features. But the passing years did nothing to dim the light that danced in her eyes, the kindness and strength you saw in her smile, or the dignity of her voice.
+
+To the end, she radiated that kind of grace and serenity that God specially gives to those who stand in the line of fire for freedom and touch even the hardest hearts.
+
+I remember, as if it were yesterday, that fateful day 50 years ago. I was a 9-year-old southern white boy who rode a segregated bus every single day of my life. I sat in the front. Black folk sat in the back.
+
+When Rosa showed us that black folks didn't have to sit in the back anymore, two of my friends and I, who strongly approved of what she had done, decided we didn't have to sit in the front anymore.
+{APPLAUSE}
+
+It was just a tiny gesture by three ordinary kids. But that tiny gesture was repeated over and over again millions and millions of times in the hearts and minds of children, their parents, their grandparents, their great grandparents, proving that she did help to set us all free.
+{APPLAUSE}
+
+And that great civil rights song that Nina Simone did so well: "I wish I knew how it would feel to be free. I wish I could break all the chains holding me. I wish I could fly like a bird in the sky."
+
+At the end it says: "I wish that you knew how it feels to be me. Then you'd see and agree that everyone should be free."
+{APPLAUSE}
+
+Now that our friend Rosa Parks has gone on to her just reward, now that she has gone home and left us behind, let us never forget that in that simple act and a lifetime of grace and dignity, she showed us every single day what it means to be free.
+
+She made us see and agree that everyone should be free.
+
+God bless you, Rosa.
+{APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,101 @@
+﻿{title} Vice President's Remarks at 7 Flags Event Center {/title}
+{event} ----- {/event}
+{speaker} Dick Cheney {/speaker}
+{date} August 10, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all very much. {APPLAUSE} Thank you. That's your spot back there, Lynne -- {LAUGHTER}
+
+But I'm delighted to be here, back in Iowa today. It's great to be back and to have an opportunity to bring you best wishes from our President, George W. Bush. {APPLAUSE}
+
+It's always a pleasure to share the stage with a great member of the United States Senate, and a close friend of mine for years, Chuck Grassley. {APPLAUSE} And I might add that the tax policies that we've been able to put in place, the tax cuts, the reforms that we put through over the last three-and-a-half years wouldn't have happened without Chuck's leadership as Chairman of the Senate Finance Committee. {APPLAUSE}
+
+Now, this -- I always get a chance to talk about Lynne last. She gets to introduce me, but I always get an opportunity to even things up when -- {LAUGHTER} -- when it comes my turn to talk. But it's true, she did -- she met me -- she knew who I was when I was 14 years old. She didn't have anything to do with me until I was about 17, actually. {LAUGHTER} Wise woman, exactly. {LAUGHTER}
+
+But I like to tell the story that we owe our marriage to a great Republican victory in 1952 when Dwight Eisenhower got elected President. In that year, I was living in Nebraska, in Lincoln, with my folks. Dad worked for the Soil Conservation Service. Eisenhower came in, got elected, reorganized the Agriculture Department. Dad got transferred to Casper, Wyoming. And that's where I met Lynne. We grew up together, went to high school together. And we'll mark our 40th wedding anniversary here in a couple of weeks. {APPLAUSE} But I explained to a group of folks the other night that if it hadn't been for Eisenhower's election victory in 1952, Lynne would have married somebody else. {LAUGHTER} And she said, right, and now he'd be Vice President of the United States. {LAUGHTER ; APPLAUSE} 
+
+And as you might have heard, at that political gathering in Boston last week -- or two weeks ago, I guess, now, they did some important business. It's now official - - I have an opponent. {LAUGHTER} No, I really do. I have an opponent. People keep telling me Senator Edwards got the job because he's good looking, charming, sexy, has great hair. {LAUGHTER} I said, "How do you think I got the job?" {LAUGHTER ; APPLAUSE} 
+I want to thank some good friends of mine, your congressmen, for being here today -- Jim Nussle, Steve King. The President and I are tremendously grateful for our many strong supporters here in Iowa. We ran hard in this state in 2000 -- we came within a few votes of victory. You're going to see plenty more of us over the next few months. And come November, with your help, Iowa is going to be part of our nationwide victory. {APPLAUSE}
+
+And I know we've got Stan Thompson running for the seat as the third district congressman. {APPLAUSE} The President and I are proud to be on the ballot with Chuck and Stan and the other members of the delegation. And we look forward to working with them for many years to come.
+
+This election, of course, could not come at a more crucial time in our history. Today we face an enemy every bit as bent on destroying us as were the Axis powers in World War II, or the Soviet Union during the years of the Cold War. This enemy, in the words of the 9/11 Commission report filed just a couple of weeks ago, is "sophisticated, patient, disciplined, and lethal."
+
+What this enemy wants, as the 9/11 report explains, is to do away with democracy, to end all rights for women, to impose their way of life on the rest of us. And as we saw on the morning of 9/11, this enemy is perfectly prepared to slaughter anyone -- man, woman, or child -- who stands in their way.
+
+This is not an enemy we can reason with or negotiate with or appease. This is, to put it quite simply, an enemy that we must destroy. {APPLAUSE} And with President George W. Bush as our Commander-in-Chief, that is exactly what we're going to do. {APPLAUSE}
+
+In the weeks following the terrorist attacks on America, people in every part of the land, regardless of party, took great comfort and pride in the conduct of our President. They saw a man calm in a crisis, comfortable with responsibility, and determined to do everything necessary to protect our people.
+
+Under the President's leadership, we removed the Taliban from power in Afghanistan and closed down the camps where terrorists trained to kill Americans. {APPLAUSE}
+
+Under the President's leadership, we removed the regime of Saddam Hussein. {APPLAUSE} He was a man who had developed and used weapons of mass destruction, started two wars, and provided sanctuary and safe haven for terrorists. Saddam Hussein once controlled the lives and the future of nearly 25 million people. Today, he's in jail. {APPLAUSE}
+
+Freedom still has enemies in Afghanistan and Iraq, but we will defeat those enemies. The rise of democracy in that troubled region of the world will be a crucial setback for the terrorists. Because we have been strong and resolute, these nations will not go back to the camp of tyranny and terror. And America will never go back to the false comfort of the world before 9/11. Terrorist attacks are not caused by the use of strength -- they are invited by the perception of weakness. {APPLAUSE}
+
+From the beginning, America has sought -- and received -- international support for our operations in Iraq and Afghanistan. But as the President has made very clear: There is a difference between leading a coalition of many nations and submitting to the objections of a few. The President will never seek a permission slip to defend the security of the United States. {APPLAUSE}
+
+We've gone on offense in the war on terror -- and the President's opponent, Senator Kerry, doesn't seem to approve. He looks at the progress we've made and charges that somehow we're helping terrorists recruit new members. That is a deep and a dangerous misunderstanding of the war we're engaged in. As President Bush said recently, "It is a ridiculous notion to assert that because the United States is on the offense, more people want to hurt us. We are on the offensive because people do want to hurt us." The murderous acts of 9/11 made very clear -- because we took the fight to the enemy, the terrorist training camps are now closed. Because we have taken the fight to the enemy, we've been able to uncover critical information about terrorists' plots, including preparations that have been made to attack the United States. The specific terror alert that Secretary Ridge recently issued came in large part from information we captured abroad. Our fight against the enemy overseas is improving our security here at home. {APPLAUSE} Anyone who does not understand that going on offense in the war on terror is absolutely vital to defending the nation cannot make America safer.
+
+Our nation is extremely fortunate during these times of testing to have the dedicated service of our men and women in uniform. {APPLAUSE} These men and women defending our country represent the very best of the United States of America. And I want to thank all the veterans here today, as well, from earlier wars, for the tremendous service they've gave, as well. {APPLAUSE} One of the most important commitments that George W. Bush and I made during the last campaign was that our armed forces would be given the resources they need and the respect they deserve -- and we have kept our word to the United States military. {APPLAUSE}
+
+Now, we do have some important differences with the folks you saw at that big political gathering up in Boston a couple weeks ago. There's one story that makes that about as clear as anything could be. It starts with Senators Kerry and Edwards voting yes when the President asked the Congress to authorize the use of force against Saddam Hussein. But then, when it came time to vote for funds that would provide our fighting men and women with body armor, ammunition, jet fuel, and spare parts, Senators Kerry and Edwards voted no.
+
+{BOOING} 
+
+Only 12 members of the United States Senate opposed the funding that would provide vital resources for the troops. Only four senators voted for the use of force and against the resources our men and women in uniform needed once they were in combat. Only four. And Senators Kerry and Edwards were two of those four.
+
+{BOOING} 
+
+At first Senator Kerry said he didn't really oppose the funding. He both supported and opposed it. {LAUGHTER} He said, and I quote, "I actually voted for the $87 billion before I voted against it." That sure clears things up. {LAUGHTER} But lately he's been saying he's proud that he and John Edwards voted no, and he explains that his decision was "complicated."
+
+But funding American troops in combat should never be a complicated question. {APPLAUSE} It's simply wrong to vote to commit our troops to combat and then refuse to provide them with the resources they need. We need a President who will back our troops 100 percent, and that's exactly what we've got in George W. Bush. {APPLAUSE}
+
+These are not times for leaders who shift with the political winds, saying one thing one day and another, the next. Our country requires strong, consistent leadership for our actions overseas, and the same is true for our policies here at home. When President Bush and I stood on the inaugural platform on the west front of the Capitol and took the oath of office, our economy was sliding toward recession. Then, on 9/11, terrorists struck our nation and shook the economy once again. We faced a basic decision -- to leave more money with families and businesses, or to take more of the American people's hard-earned money for the government. President Bush made his choice. He proposed and delivered tax savings to the American people -- not once, not twice, but three times. {APPLAUSE}
+
+The Bush tax cuts have helped our national economy create jobs for 11 consecutive months. We've added about 1.5 million new jobs since last August. Here in Iowa, more than 11,000 jobs have been created over the past year. Your unemployment rate is 4.3 percent -- down from 4.7 percent last July, and more than a full point below the national average. Mortgage rates, interest rates, and inflation are all low. Consumers are confident, businesses are investing, and families are taking home more of what they earn. {APPLAUSE} We know there are still challenges in some parts of America, especially in our manufacturing communities. The President and I will not be satisfied until every American who wants to work can find a job. But this is a strong economy; it will growing stronger. The Bush tax cuts are working. {APPLAUSE}
+
+The President has also worked hard for our farmers and ranchers. We worked with Congress to pass a farm bill to help the rural economy through tough times. We phased out the death tax, so America's family farms and ranches can stay in the family. We're opening up foreign markets for American crops and other products. And now we're seeing the results of our agenda: In the last three years, America's farmers and ranchers have posted record net cash income, record farm equity, and record land values. We made the success of America's farmers and ranchers a priority, and we will make certain that government stays on their side. {APPLAUSE}
+
+These past four years have brought historic progress in other areas, as well. Under the President's leadership, we passed Medicare reform, gave senior citizens more affordable access to modern medicine and prescription drugs. Under the President's leadership, we passed the Healthy Forests Act, and helped reduce the risk of catastrophic wildfires.
+
+Under the President's leadership, we have also taken unprecedented steps to protect the American people here at home. To give law enforcement the tools they need to track down terrorists, we passed the Patriot Act. To focus our government on the mission of protecting the American people, we created the Department of Homeland Security. To fund cutting edge drugs and other defenses against catastrophic attack, we passed Project BioShield. Today, under the President's leadership, every American can be certain we are doing everything in our power to defend the nation against a terrorist attack on our homeland. {APPLAUSE}
+
+Our accomplishments these past four years have made America safer, stronger, and better. They also demonstrate something about the character of our President. He didn't go to the White House to mark time, or to spend his energy on small goals. He went to take on the big issues, and to make serious reforms. He has led with confidence, with clear vision, and with unwavering purpose. He's made hard choices, and kept his word. And that's exactly how he will lead the country for the next four years. {APPLAUSE}
+
+In our second term, we will keep moving forward with a pro-growth, pro-jobs agenda. We will work to make the Bush tax cuts permanent. {APPLAUSE} We will work to end lawsuit abuse because we know that it's a lot easier for America's businesses to hire workers if they don't have to hire lawyers. {APPLAUSE} We will work for medical liability reform. America's doctors should be able to spend their time healing patients, not fighting frivolous lawsuits. {APPLAUSE}
+
+In our second term, we will continue to move forward on a comprehensive energy policy that supports alternative sources of fuel like ethanol and biodiesel, so we can make this nation less dependent on foreign sources. {APPLAUSE}
+
+Our opponents have a very different vision for the country. They talk about jobs, yet they never explain how they will put a single American back to work. They opposed our tax relief, and now they're proposing massive increases in federal spending. They helped block the energy plan in the Senate -- it failed by two votes, and they couldn't bother to show up for the vote that was so essential to passing that legislation. They oppose effective reform of our legal system, and they're against medical liability reform. Their big idea for the economy: raise your taxes.
+
+{BOOING} 
+
+Don't hold back. It's all right. {LAUGHTER}
+
+What we're hearing from the other side is the failed thinking of the past -- and we're not going back. {APPLAUSE}
+
+President Bush and I will also continue to defend our society's fundamental rights and values. We stand for a culture of life, and we reject the brutal practice of partial birth abortion. {APPLAUSE} We believe strongly in the Second Amendment, and we'll defend the individual right of every American to bear arms. {APPLAUSE} We believe that our nation is "one nation under God." {APPLAUSE} And we believe that Americans ought to be able to say "under God" when they pledge allegiance to their flag. {APPLAUSE}
+
+We have a situation in the United States Senate where Democrats -- including Senators Kerry and Edwards -- are using the filibuster to block the President's sensible, mainstream nominations to the federal bench.
+
+{BOOING} 
+
+Recently, Democrats used their obstructionist tactics to keep the Senate from voting on four nominees put forward by the President. One of them is Bill Myers, a friend of mine, a special kind of man with widespread bipartisan support, great personal integrity, judicial temperament and legal experience. If Bill Myers had made it to an up-or-down vote on the Senate floor, that is if there had been no filibuster, he had the votes to be confirmed to the Ninth Circuit Court of Appeals, which, by the way, is the circuit that decided we should not be allowed to say "under God" when we pledge allegiance to the flag.
+
+{BOOING} 
+
+Sounds to me like they could use some new judges on the Ninth Circuit. {APPLAUSE} What the Democrats are doing is simply outrageous, and that's another good reason to make certain that we send Chuck Grassley back to the United States Senate. {APPLAUSE}
+
+We're asking for your vote so we can move this great country forward. And we're asking you to give us Republicans in the Congress to support us in that effort.
+
+Abroad, we'll use America's great power to serve great purposes, to protect our homeland by turning back and defeating the forces of terror, and to spread hope and freedom around the world. Here at home, we'll continue building prosperity that reaches every corner of the land so that every child in America has a chance to learn, to succeed, and to rise in the world.
+
+The President and I are honored by your confidence in us, by your commitment to the cause we all share. We're grateful for our many friends across the great state of Iowa. Thanks for this tremendous welcome today. We're proud to have you on the team. And together, on November 2nd, we'll see our cause forward to victory.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

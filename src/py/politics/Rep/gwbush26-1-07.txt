@@ -1,0 +1,48 @@
+﻿{title} President Bush Speaks to the House Republican Conference {/title}
+{event} Hyatt Regency Chesapeake Bay, Cambridge, Maryland {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 26, 2007 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I appreciate the warm applause, thank you very much. It's good to be with you again -- twice in one week, and I'm better off for it. Laura sends her very best to those of you who've run and won, and to your families. I want to say something about the families -- I know how hard it is to be in a political family, and I know the sacrifices that the spouse and children make. So on behalf of a grateful nation, I thank you for standing by your loved one as he or she serves a noble cause, and that is the cause of democracy here in the greatest country on the face of the earth, the United States. {APPLAUSE}
+
+I am glad to be among friends. I count a lot of you as personal friends. I particularly count the leadership as friends. I've gotten to know John Boehner and Roy Blunt over the past six years; I value their friendship, I look forward to working with them. And I know that the Republican Party is in good hands in the House of Representatives with these fine leaders.
+
+I, of course, have known Kay a long time. She and I were blessed, like old Judge Carter, to be raised in Texas. For those of you from Texas, you know what I'm talking about, being blessed to be raised there -- for the rest of you, come on down and visit us sometime.
+
+I've come to admire Adam Putnam. You call him Adam, I call him "Red." {LAUGHTER} But, nevertheless, he is a strong leader and good friend. I appreciate Tom Cole and Thaddeus McCotter, as well. These two gentlemen are new to the leadership, but I'm confident they'll be able to provide a lot of good direction to the caucus. And so I'm looking forward to working with you all, and I appreciate you taking on big responsibilities.
+
+I want to spend a little time talking about the state of the union. I want to remind you that as a result of our philosophy, this economy of ours is strong. {APPLAUSE} I said to the country the other night, we're a country with low inflation, low unemployment and increasing wages. We've got people working, and they're putting more money in their pocket. And one of the reasons this economy is strong is because we had the wisdom to cut the taxes on the working people. And we need to keep them low. {APPLAUSE}
+
+I'm looking forward to working with you on balancing the budget. Your old colleague Rob Portman, who is now the head of the OMB, will be submitting a budget that shows we can balance this budget within the next five years without raising taxes on the American people. {APPLAUSE}
+
+I want to work with you on earmarks. I know many of you are concerned about these spending items that just show up in bills that you didn't vote on and you didn't discuss. I want to work with you on entitlement reform. There's a lot of discussion about the budget, and there ought to be. There's focus on whether or not we can balance the budget in the short-term; but the truth of the matter is the bigger problem we've got is unfunded liabilities inherent in programs like Medicare and Social Security. And in my judgment, now is the time to fix this problem and now pass them on to future Congresses and future Presidents. {APPLAUSE}
+
+I know it sounds counterintuitive for a Texan to say that we're too dependent on oil -- but we are. And we need to do something about it. And the amazing thing is, we're on the verge of technological breakthrough that will enable us to power our cars in different ways, starting with ethanol derived from corn, and eventually, ethanol derived from wood chips, corn stalks, all kinds of stuff. It's called cellulosic ethanol, and I ask you to join me in continuing to spend taxpayers' money on research that will be necessary to develop new technology so we become less dependent on foreign sources of oil. {APPLAUSE}
+
+I want to work with you on health. I'm a big believer in No Child Left Behind. I think it needs to be reauthorized. I want to work with you on immigration reform, and I want to work with you on health care reform. These are big ideas, and it's going to require us working together to get the job done on behalf of the American people.
+
+And I also appreciate your understanding that we're still a nation at war. You know, when I talked to the country the other night, I wish I could have reported differently. But it's not the truth, and it's not the reality. There's an enemy out there that would still like to strike us. And as I said, and I know most of you believe, the best way to defend this country is to stay on the offense and bring the enemy to justice before they hurt us again. {APPLAUSE}
+
+I talked about the progress, the advance that democracy was making around the Middle East. And then the fact that the enemy struck back, and they struck back against these young democracies, because they cannot stand the thought of freedom. You see, the best way to defeat totalitarianism in the long run is to offer a more hopeful ideology. And that's what we offer through the ideology based on human rights and human dignity, the central theme of which is, all people desire to be free. And it's in the interests of the United States to not only defend ourselves against the enemy in the short term, but it's in the interests of our children and grandchildren to spread freedom so that we can live in peace in the long term. {APPLAUSE}
+
+I've spent time talking about Iraq, and I'll talk with you a little bit later on. But my message to the American people was, I thought about all kinds of ideas about Iraq. And I told the American people I fully understand there are differences of opinion. But one of the things I have discovered is, in Washington, D.C. most people understand the consequences of failure. And if failure is not an option, then it's up to the President to come up with a plan that is more likely to succeed. And I spent a lot of time on the subject, because I understand how serious the issue is. And the plan I outlined to the American people is one that I believe can succeed.
+
+Today I had the honor of welcoming David Petraeus to the Oval Office. He had just been confirmed by the United States Senate without one dissenting vote. {APPLAUSE} And as I looked at that General, who is willing to go back into the war zone to represent our country, it reminded me, as the President, I must make sure he has everything he needs -- that he thinks he needs to succeed in the mission that we have sent him on. And I look forward to working with you to make sure that our generals and our troops that we put into harm's way have the support of the United States Congress.
+
+I talked about the need to have a foreign policy that's more than just military, a foreign policy that's got active diplomacy, which we do all around the world. I mentioned in my speech that the United States does not stand alone. As a matter of fact, our troops are in Iraq based upon a United Nations mandate. We're working with the countries in the neighborhood to support this young democracy and making it clear the stakes of the ideological struggle we're in.
+
+I talked about the fact that we've encouraged and worked with NATO to be an active participant in Afghanistan -- it's the first time that alliance has deployed outside of Europe in the history of its existence. I talked about the fact that we will never forget the importance of freedom, whether it be in our hemisphere, in Cuba, or in Burma, or in Belarus; and when we call a human tragedy "genocide," like in Darfur, we'll continue to rally the world to solve the problem. {APPLAUSE}
+
+I want to thank members of the Congress for supporting the HIV/AIDS initiative on the continent of Africa. It gave me great pleasure to tell the American citizens that because of your actions, because you acted, 50,000 people -- what was once 50,000 people receiving life-saving drugs has increased to 800,000 people in three short years. I firmly believe what I said: To whom much is given, much is required. A lot has been given to the United States, and it's in our interests to help people who suffer from disease and hunger. And I thank you for your support. And the next great initiative is to eliminate malaria in countries on the continent of Africa, and I ask you to join me.
+
+I said, finally, introducing the people that were there, something I believe: I believe the state of this union is strong, and it's strong because the character and decency of the American people remain strong.
+
+And so I'm looking forward to serving with you this year and next year. I thank you for your sacrifices. I have confidence in the future of this country, because we're a country full of such decent and courageous and loving people.
+
+Thanks for having me. {APPLAUSE} 
+
+{/speech}

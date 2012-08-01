@@ -1,0 +1,24 @@
+﻿{title} Remarks By The President Honoring The 2008-2009 Ncaa Women's Basketball Champions, University Of Connecticut Women's Basketball Team {/title}
+{event} Honoring The 2008-2009 Ncaa Women's Basketball Champions {/event}
+{speaker} Barack Obama {/speaker}
+{date} April 27, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. Please have a seat. Have a seat -- except you guys. You guys can't sit. {LAUGHTER} It is just wonderful to be here on this beautiful day. Congratulations to Coach Geno on just the incredible season that took place as a consequence of these extraordinary young women.
+I want to just say it is a thrill. This is one of my favorite things about the job. I am a big fan. I want to congratulate everybody who runs the UCONN program -- from the assistants to the trainers, to the students to the ticket-takers, and of course, the UCONN fans everywhere -- you should all be extraordinarily proud.
+And I want to thank again Coach, and his wife Kathy, for being here. Congratulations also on being Coach of the Year -- although when you're winning by an average of 30 points, it's not that hard of a selection to make. {LAUGHTER} And we are thrilled that you're going to be coaching the Women's Basketball team in the 2012 Olympics. You're going to do a great job. {APPLAUSE}
+Under Coach Auriemma's leadership, this Huskies program has redefined excellence again and again: Six of the last 15 NCAA Titles, five undefeated regular seasons, three undefeated championship seasons, two 39-0 seasons. But for this team, an undefeated season just wasn't enough -- they became the first team in NCAA history, men or women's, to win every single game by double digits, which is just an unbelievable, unbelievable statistic. {APPLAUSE}
+I want to congratulate also Maya, who is here -- Maya Moore -- there you are. Raise your hand. Naismith Award, National Player of the Year, and an equally impressive achievement -- Maya was one of only five players chosen nationwide as first-team Academic All-American. So give it up for Maya. {APPLAUSE}
+Renee Montgomery -- where's Renee? There you are, Renee, holding the ball -- for winning the Honda Sports Award that recognizes the top women's player in the country not just for athletics, but also academics, leadership, and willingness to give back to her community; and to all the players who make a true team.
+It's clear these women have a competitive streak -- from what I understand, they have trouble sometimes turning off that competitive streak. I've heard that "Movie Pictionary" gets pretty fierce among the women here. {LAUGHTER}
+But Coach Geno and each of these women also understands that being champion doesn't stop when you step off the court. Just last week, these ladies were recognized by the NCAA for top academic performance as a team. And over the course of 24 seasons, Coach Auriemma's teams have a 100-percent graduation rate. That is worthy of some applause. {APPLAUSE}
+They also spend time off the court in service to others. "Geno's Cancer Team" -- and I'm wearing a bracelet that I just got, right here, I want to show it off -- raises money to fight cancer. And these young women visit pediatric patients, mentor at-risk youth to show they can make something of themselves, and give their time to folks in the communities who need it most.
+All of this makes the Storrs community stronger; it makes the state of Connecticut stronger; it makes our country stronger -- and I know this team gets a lot out of it in return.
+I also want to say something as a father. You know, it was this program in the mid-1990s as much as anything that helped propel women's basketball into the national consciousness. And thanks to players like each of these women and those who came before them, our young women today look at themselves differently, especially tall young women, like my daughters. My girls look at the TV when I'm watching SportsCenter and they see women staring back. That shows them that they can be champions, too. And so, as a father, I want to thank all of you. Thank you to all the NCAA female athletes who work hard day in, day out to set a positive example to which our daughters can all aspire -- to be healthy and active, to be part of a team.
+Finally, I understand that Coach Auriemma has promised to go 40-0 next season. {LAUGHTER} So, Coach, if that happens, I guarantee you that you will be welcome back at the White House. {LAUGHTER}
+All right, give them a big round of applause. {APPLAUSE} 
+
+{/speech}

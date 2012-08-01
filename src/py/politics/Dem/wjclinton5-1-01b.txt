@@ -1,0 +1,75 @@
+﻿{title} Remarks by the president at armed forces presidential tribute {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 5, 2001 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much, ladies and gentlemen. First, I would like to thank Secretary Cohen for his kind and generous remarks, and even more for his outstanding leadership of the Department of Defense. 
+
+I must say, Bill, when I asked you to become Secretary of Defense, in an attempt to strengthen the bipartisan or, indeed, nonpartisan support for the Defense Department among the American people and the Congress, I didn't know that I was the first President in history to ask an elected official of the opposite party to hold that job. Shoot, I might not have done it if I had known that. {LAUGHTER} 
+
+It's one of those occasions where ignorance was wisdom, because you brought to the challenge a sharp mind, a fierce integrity, a loving heart for the men and women in uniform. You wife, Janet, touched people who serve in our military forces all around the world in a unique and special way. And I'm glad that you believe this is the most important service of your 31-year career. But on this, sir, you gave as good as you got and we thank you. {APPLAUSE} 
+
+And, General Shelton, I want to thank you. I will never forget the day when General Shelton, in his previous command post, stepped out of the boat, into the water, onto the beach in Haiti -- in his boots and his beret. I think he could have gone alone and prevailed just as well as he did with the help of the others who went with him. 
+
+I'll never forget the time I came to your office, sir, in your previous job. I looked on the wall and there was a picture of Stonewall Jackson. And I said to myself, I wonder if Stonewall Jackson would be a Democrat or a Republican if he were alive today. I've often commented to General Shelton that we have made -- he, Secretary Cohen and I -- an unpredictable but, I think, quite a successful team. And you have been a great Chairman of the Joint Chiefs of Staff, sir -- a great Chairman, and we thank you. {APPLAUSE} And we thank Carolyn for her leadership, as well. 
+
+I thank Deputy Secretary Rudy De Leon, for the many capacities in which he has served since the first days of this administration. Thank you, Secretary Slater, today, for what you have done as Secretary of Transportation with the Coast Guard. I thank the Service Secretaries, General Myers, the Service Chiefs, the other officers here and enlisted personnel. 
+
+I thank especially the members of the White House: my Chief of Staff, John Podesta; my National Security Advisor, Sandy Berger, for the work that they have done with me on issues relating to the Armed Forces. 
+
+And I thank you for the medals you gave to Hillary and me. We were honored to receive them, but far more honored to spend the last eight years in contact with the 1.4 million men and women on active duty, the more than 850,000 men and women serving in the Guard and Reserves -- those who keep us secure, and advance the cause of peace and freedom. 
+
+There is no greater honor in being President than to be Commander in Chief of these magnificent people, so many of them so very young. They are at the disposal of the President to defend our interests, to advance our values, to realize our vision. Most of the time, they do it with all the gusto and fervor of youth, all the discipline that long training brings. But on occasion, they do it at the cost of their all too young lives. We saw it most recently in the USS Cole; but every year, in ways that don't make the headlines, about 200 of these young people give their lives just doing their jobs. 
+
+No one who has not held this job can possibly understand the awesome sense of humility and honor and the sense of strength and capacity it brings to any President, to know that there are people like these who have sworn their lives and fortunes in sacred honor for the United States. 
+
+In July of 1776 our first Commander in Chief, George Washington, ordered American troops to assemble on Manhattan Island in New York, to hear the Declaration of Independence read aloud -- in full view, I might add, of the British forces then landing in Staten Island. He did it because he knew how important it was that our troops understand that the survival of our new nation depended upon their success. For over 220 years now, the survival of our nation has depended upon the military's success; and for over 220 years, our military has succeeded. 
+
+For these last eight years, as Secretary Cohen chronicled in a very different time, in a world after the Cold War, more interdependent than ever before, with new conflicts and old demons, the American military has again succeeded, and succeeded brilliantly. 
+
+Thanks to you, the world is safer, and America stands taller. Thanks to you, working with our Korean allies, there is peace in the Korean Peninsula and new hope for reconciliation across the last dividing line in the Cold War. 
+
+Thanks to you, arm in arm with an expanded NATO, ethnic cleansing and slaughter in the former Yugoslavia, in Bosnia and Kosovo has ended. Refugees have returned to their homes. Freedom has a chance to flower. 
+
+Thanks to you, we are closer than ever before to building a Europe for the first time in history as peaceful, undivided and democratic, a Europe where it is far less likely that young Americans will have to fight and die in this new century. 
+
+Thanks to you, Iraq has not regained the capability that threatened the world or its neighbors with weapons of mass destruction. Thanks to you, Haiti is free of dictators, East Timor free of oppression, Africa is beginning to prepare itself to solve more of its own problems. Latin America has been aided in natural disasters and against narco traffickers. And the United States has led the world in removing more land mines than any other nation by far without sacrificing the safety and security of our troops in battle. 
+
+And, yet, those are only the headlines. On Christmas Eve, as I do, or have done, every Christmas Eve for the last eight years, I telephoned a number of our men and women in uniform serving a long way from home, doing critical work, unknown to most, but benefitting all Americans. I thanked Navy Petty Officer Second Class Mario Solares, who serves in Bahrain, making sure we have the piers, the bridges, the towers our vessels need as they protect peace in the Persian Gulf. 
+
+I thanked Air Force Staff Sergeant Erin McKenzie, who serves with the 607th Air Support Operations Group at Osan Air Base, making sure members of the 7th Air Force get a paycheck every two weeks as they guard the skies over South Korea. 
+
+I thanked U.S. Army Specialist Jeremy Kidder, who serves on a very remote Pacific island, an atoll, 800 miles west of Hawaii, working to destroy our Cold War stock of chemical weapons. 
+
+I thanked Marine Staff Sergeant Robert Sheridan, who guards our Embassy in Belarus. He was named Marine Security Guard of the Year in 2000 -- and we know how tough the competition is because, unfortunately, we have been reminded how dangerous that job can be. 
+
+I thanked Petty Officer Michael Sandwith, who serves in the Bering Seas on the Coast Guard Cutter Midgett -- and was recently forced to give chase to a vessel illegally fishing in our waters in the middle of a snowstorm with gale force winds and 24-foot swells. 
+
+There are another 1.4 million stories like this: Americans in uniform with compelling missions, serving in places and doing jobs our fellow citizens don't hear much about. Behind the desk in the Oval Office, I have a now famous rack of coins from the military units, commanders and senior enlisted personnel I have visited these past eight years. There are almost 500 of them, not counting the duplicates. 
+
+Whenever I look at them, I remember the faces of the service members I've met, men and women of every race, creed, religion, who trace their ancestry to every region on Earth, yet are still bound together by the common mission of defending freedom and the common faith in the American creed: E pluribus unum -- out of many, one. It is not only inscribed on our coins, it is inscribed in the hearts of America's service men and women, and it is the coin of America's moral authority in the world. 
+
+I can tell you, after eight years of traveling the world and dealing with the world's problems at the dawn of a new millennium, people elsewhere marvel at it. Our ability to live and work together in the military forces, in spite of all those differences, is by itself a powerful force for peace and reconciliation throughout the world. You are America's finest. And America must always be prepared to give you what you need to do your job. We can never pay you enough, but we can always pay you more. 
+
+I am proud that a year ago we put in place the biggest increase in military pay and retirement in a generation; proud that we reversed a decade of decline in defense budgets, and now can point to four straight years of growing investment in our future security. No one should think for a moment that investing in the strength of our military is less important in times of peace. The strength of our military is a major reason for our peace. We live in peace in no small measure because your courage and strength makes peace a wiser choice than war for other adversaries. 
+
+History will record triumphs in battle, as General Shelton said. But no one can ever write a full account of the wars that were never fought, the losses that were never suffered, the tears that were never shed because the men and women of the United States Military risked their lives for peace. None of us should ever forget that. 
+
+Last year I visited a refugee camp in Macedonia, full of Kosovar Albanians who had been driven from their homeland. As I walked through the camp, young children picked up a chant, "USA, USA, USA." Kids everywhere I turned, chanting "USA," children who did not speak English, but knew enough, with their small voices, to thank America for giving them the chance to reclaim their land and their dreams. 
+
+I had the same response when I saw elderly people in Normandy in 1994, on the 50th Anniversary of D-Day. There, American veterans were approached by French citizens who told them that no matter how young they were when it happened, or how old they might be then, they could never forget what America did for them. 
+
+Years from now, I hope some of our young veterans who served in the Balkans will have a chance to go back and see in person the fruits of their service. Years from now, I hope some of our veterans who served in Korea during this period of historic change, or in the Gulf, when nations there were under such stress, will have a chance to return and find grateful people. I hope some of our veterans who served in Africa or Asia or Latin America or Eastern Europe will be able to return to where they helped to keep the peace, to relieve suffering, to set an example for a fledgling democracy. 
+
+If they do, I think they will find people who will still be wise and kind enough to say, "God bless you. You gave us a future." 
+
+And I hope that your nation understands whatever you have done to the rest of the world, you have done that tenfold for America. For by helping to advance the cause of peace and freedom around the world, you have made freedom more secure here at home. May it always be so. 
+
+I thank you for the honor of doing my part these last eight years. God bless you and God bless America. {APPLAUSE} 
+
+{/speech} 

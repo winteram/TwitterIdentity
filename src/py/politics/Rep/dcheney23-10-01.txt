@@ -1,0 +1,92 @@
+﻿{title} The Vice President Receives the International Republican Institute's 2001 Freedom Award {/title}
+{event} The Capital Hilton, Washington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} October 23, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, it's nice to get out now and then. {LAUGHTER}
+I said the other night up in New York, the Capitol Hilton's much nicer than our cave.
+
+{LAUGHTER}
+
+But I'm delighted to be here and have the opportunity to accept this award, especially in view of the caliber of the prior recipients, people like Natan Sharansky, Colin Powell, Ronald Reagan, Lynne Cheney. {LAUGHTER ; APPLAUSE} 
+
+I'm sure many of you have read, as I have, David McCullough's wonderful biography of our first vice president, John Adams. If you read it you know that Adams had many talents, but the real brains in the family belonged to his wife, Abigail. That started a tradition among vice presidential families that continues to this day. {LAUGHTER ; APPLAUSE} 
+
+I also want to thank my old friend and fellow Westerner, John McCain, for his very kind words. John and I were colleagues in the House back in the early '80s, but I knew him years before that, as all America did, as a man who defended our country in an hour of need, endured brutal captivity and returned with honor.
+
+And, John, if you had offered me the vice presidency, I would have accepted. {LAUGHTER ; APPLAUSE} 
+
+For an organization so crucial to advancing democratic values around the globe, I can't think of a better chairman than John McCain.
+
+{APPLAUSE}
+
+And I want to thank all of you here tonight for supporting the work of IRI. Ronald Reagan said, "Democracy is not a fragile flower, but it needs cultivating." Your support is cultivating democracy across continents and cultures.
+
+Right now, IRI staff and volunteers are working in more than two dozen countries, teaching citizens about the ideals of democracy and the daily work of democracy: active citizenship, fair elections, responsive legislatures and energetic political parties.
+
+This work carries out a basic commitment of our country and its people. Americans have never believed that freedom and democracy belong to us alone. We have gained so much from our commitment to free institutions, the dignity of the individual, the spirit of enterprise, and we feel an obligation to help others trying to make their way along the same path.
+
+Americans also believe, and history has shown, that every advance for democratic values is an advance for the cause of peace. By their very nature, democracies recognize the right of people to lead their own lives, to resolve differences peacefully, and to live in a culture of their own choosing. Democracies operate not by terror or coercion, but by the consent of the governed.
+
+Those ideas are a threat only to those who would seek to destroy free institutions, and regard human beings as mere instruments in the quest for power.
+
+We have just completed a century in which militant ideologies were thrown back by the forces of freedom and democracy. We face that kind of threat once again tonight, and once again, we will prevail. {APPLAUSE}
+Since the hour of the attacks on September 11, our country has been fighting a war on many fronts, and it is proceeding on course.
+
+Terrorists and their supporters are, for the first time, beginning to worry about their own safety. They are being swept up in a worldwide roundup that is operating 24 hours a day. We have clearly disrupted their operations and no doubt prevented some planned attacks.
+
+We are untangling the complex financing network that funds terrorist activity, finding the wealthy patrons of terrorism and freezing their assets.
+
+And in the effort, we have found great support in every part of world. Different nations will be helping out in different ways as we go along.
+
+They are helping because they understand that they too are vulnerable, that terrorism now threatens every civilized nation and that every civilized nation must work to destroy it.
+
+On the military side, joined by British forces, we have acted decisively and with considerable success against the Taliban regime in Afghanistan. We have struck terrorist camps, military training facilities, air fields, air defenses, ammunition storage areas and command and control facilities. The success of our air campaign has cleared the way for further action, such as the raids this past weekend by U.S. Rangers and our special operations forces.
+
+As military action continues it's important for to us remember that the military aspect will not always be as visible as it has been over the last several weeks, with video showing guided munitions finding their targets. Other successes will come from covert operations that are not seen or heard about beyond a very small circle.
+
+But at all times we will act with precision. We do not act indiscriminately or rashly. Unlike the terrorists, we value human life and we do not target civilian populations. Indeed, we have delivered many tons of food supplies to people of Afghanistan.
+
+But in dealing with the terrorists themselves, we are going to be relentless.
+
+The world understands that we do not fight a religion. Ours is not a campaign against the Muslim faith. As the president said in Shanghai, this is a fight to save the civilized world and values common to the West, to Asia and to Islam. This is a struggle against evil, against an enemy that rejoices in the murder of innocent, unsuspecting human beings. That is why people in every part of the world and of all faiths stand together against this foe.
+
+The president has made very clear that in this conflict there is no neutral ground; those who harbor terrorists share guilt for the acts they commit.
+
+Under the Bush doctrine, a regime that harbors or supports terrorists will be regarded as hostile to the United States of America.
+
+The direct attack on our nation has put us on notice that the enemy is resourceful and ruthless. We have to assume there will be more attacks. That is the only safe way for to us proceed.
+
+In this conflict, for the first time in our history, we will probably suffer more casualties here at home than will our forces overseas. But in the face of these dangers, Americans can be assured that we are doing absolutely everything we know how to do.
+
+For the first time ever, the country has a broad strategy of homeland security and Cabinet officer to carry it out. We have greatly increased our readiness to respond to the threat of bioterrorism. We are enhancing protection of vulnerable points, beginning with airports and planes.
+
+Equally important, we must continue working to anticipate potential threats and prepare accordingly with changes in how we collect intelligence, investigate suspected criminals and screen immigrants and foreign visitors.
+
+These last six weeks have the brought a good deal of uncertainty and many changes into people's lives. Many of these changes are probably permanent, at least in the lifetime of most of us.
+
+Vigilance against the new threat is a responsibility we all share, but it should not keep us from the ordinary business of life. No one becomes safer by living in a state of generalized undirected fear. All that is required is that each of us show vigilance and common sense and patience.
+
+We did not choose this struggle, but it has come and we have no option but to see it through. And at this time of testing for our nation, all Americans can be proud of the kind of leadership that we have in the White House.
+
+{APPLAUSE}
+
+President Bush understands, as future presidents must also understand, that with this new century, have come new necessities to guarantee our security.
+
+In our own lifetimes, the only grave threat to America came from a rival super power. This we handled with summit meetings, arms control treaties and a policy of deterrence.
+
+In the terrorist, however, we have enemies with nothing to defend. A group like Al Qaeda cannot be deterred or placated or reasoned with at a conference table.
+
+For this reason, the war against terror will not end in a treaty. There will be no summit meeting or negotiations with terrorists. The conflicts can only end with their complete and permanent destruction and in victory for the United States and the cause of freedom.
+
+{APPLAUSE}
+
+Our country has always stood for human freedom and never before has this cause has more friends around the world. We now face a determined enemy. But we will go forward, clear in our purposes, confident in the rightness of our cause and certain of the victories to come.
+
+{APPLAUSE} 
+
+{/speech}

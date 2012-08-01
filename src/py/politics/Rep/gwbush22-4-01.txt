@@ -1,0 +1,43 @@
+﻿{title} Remarks by the President in Greeting with the U.S. Mission {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} April 22, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. I used to call him "Governor," I now call him "Ambassador." I'll always call him friend. I appreciate you very much, Ambassador, and it's great to see your beautiful bride here, too. 
+
+I first want to say something about your immediate boss, and that's the Secretary of State. As you're going to find out, he is a man who respects the job you do. He's a man who loves his country, a man who is going to be a fabulous Secretary of State for America. {APPLAUSE} And I think the other three Cabinet Secretaries up here might do a pretty good job, too. {LAUGHTER ; APPLAUSE} 
+
+We've had a very interesting stay here in Quebec City. It turns out that Quebec City has now hosted three history-making summits. The first two in 1943 and 1944 involved only three world leaders. Therefore, they had it in one hotel. {LAUGHTER} This one was a little more complex, it turns out. {LAUGHTER} 
+
+When I see how much work it is to organize a presidential visit, it surprises me sometimes that I'm welcome anywhere. {LAUGHTER} And so, I want to thank you very much for the job the U.S. Mission did in preparing for our arrival, not only making sure that the arrival was well-prepared, that when we're here, that it went smoothly, and it did, and you're to be congratulated. 
+
+We have no more important bilateral relationship than that with Canada. It's true the relationship doesn't always make the headlines in the United States. That's a good sign. {LAUGHTER} Generally, when we make the news, it's because there is a dysfunctional relationship at hand. It shows what a good job you all are doing at relaying our priority to your fellow folks in the foreign service or civil service in Canada that we care about our relationship, that America knows how important it is. 
+
+And it's a vital relationship. As the Ambassador noted, the statistics are strong -- 200 million border crossings a year. Canada is our biggest trading partner. Canada is the biggest exporter of energy to the United States. It's an important relationship. This administration will keep it that way, and I know you will join us in doing so. 
+
+I just finished an interesting luncheon with Prime Minister Jean Chretien and President Vicente Fox about how to expand the unique relationship our three countries have. It's called NAFTA, as you know. But it's an incredibly important relationship. I first came -- became aware of the relationship as the Governor of Texas. I saw how important it was for us to understand that family values don't stop at the Rio Bravo River. That family values -- that there are people in Mexico who are hungry and worry about their children; who, if they can make a better living somewhere else, will do so. Oftentimes it was in my state, occasionally it was in -- more than occasionally it was in other people's state. 
+
+But I also saw the hope and promise of what trade could mean, and good relations between the three of us. It meant better jobs in Mexico. It meant a mother or a dad might be able to find work closer to home, which is the aspiration of people in Mexico. It also means we've got to -- that it helps enable -- to keep closer ties with Canada. And for that I'm grateful. 
+
+And so our discussions today was how to expand and strengthen NAFTA. And one way we can do so is through energy. America is short on energy, Canada is long on energy. America is short on energy. Mexico, with the right policy, could be long on energy. And so our discussions today were not only on other subjects, but we talked about establishing an energy group for the hemisphere, which we will do. 
+
+And the reason I bring this up is that it's an indication of why this future -- our relationship is just as strong in the future as it is today. And it makes eminent sense for us to continue to work with our friends and allies in our hemisphere. 
+
+I leave the summit very optimistic about what took place here. Because I want you to think about this interesting fact. We had all but one country represented here, because all but one country in our hemisphere has embraced democracy. For some of you old-timers -- I'm trying to find a few -- there looks like a guy who might be an old-timer. {LAUGHTER} You know, we couldn't have said that long ago. It's an amazing fact. It's a wonderful testimony to freedom and democracy. So I'm very optimistic about what took place here. It gives us a great chance to expand the opportunities around our hemisphere, knowing that it will help our own country. 
+
+I've always believed that it's -- the best foreign policy is one that improves your own neighborhood first. And so when I say a priority of ours is this hemisphere, it's not idle chit-chat. It's reality, as witnessed by the fact that my first summit was a summit with leaders from our own neighborhood. 
+
+I want to say something about your Ambassador. He is a -- you'll find him to be a good listener, a strong American. He is going to be a thoughtful manager. He's really a good guy. He's a good guy. {LAUGHTER} And he married, like me, above his head. {LAUGHTER} I, too, want to thank the Deputy Chief of Missions, Steve Kelly. I want to thank the acting -- the Consul General in Quebec City. 
+
+I want to thank Nick Nixon as well. I want to thank Roberta Smolik -- Robin Smolik -- Robert Smolik. {LAUGHTER} I want to thank the guy who wrote this on the card wrong. {LAUGHTER ; APPLAUSE} Knowing how the presidency works, there's a card writer somewhere pulling his hair out now. {LAUGHTER} I want to thank Marina Nalli. Did I get it right? {APPLAUSE} 
+
+I want to thank you all very much on the American side for your hard work. I also want to thank Reggie Tremblay. {APPLAUSE} He made sure I got to my meetings on time. {LAUGHTER} I hope word has filtered out of Washington that I believe on starting meetings on time. {LAUGHTER} I don't believe in making people wait. I want to make sure that Lori Fortin gets thanks as well. {APPLAUSE} Not one member of this huge delegation had to sleep on a couch, thanks to you. {LAUGHTER} I want to thank Fred Bishop. {APPLAUSE} He's known as "Emergency Guy." {LAUGHTER} He fixed problems before they became emergencies. 
+
+I want to tell you all how much I appreciate your service to the country. It's more than just making sure the mission works -- however, this mission worked well -- it's to make sure the mission always works. I want to thank you for understanding that there is something greater than yourself in life, and that's the greatest country on the face of the earth. God bless. {APPLAUSE} 
+
+{/speech} 

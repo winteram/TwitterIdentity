@@ -1,0 +1,22 @@
+﻿{title} Senator Clinton's Prepared Remarks {/title}
+{event} Little Rock, Arkansas {/event}
+{speaker} Hillary Rodham Clinton {/speaker}
+{date} November 18, 2004 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you so much for your forbearance and your extraordinary patience today as we celebrate the dedication of this extraordinary institution. {LAUGHTER} Thank you.
+
+Well, I'm going to cut my remarks short and you can read them all on the clintonfoundation.org Web site. But what I want to make is just three points.
+
+First, I'm thrilled to have everyone here on this stage who represents the past, the present and the future of our country. And this is a special moment where people come together and make it clear that we are unified as Americans. And I'm grateful for this moment and I thank the former presidents and President Bush and the first ladies for being here.
+
+Secondly, I want to thank all of you and millions more who have been so kind in supporting us during the recent weeks following Bill's surgery. I thank you for your prayers and your good wishes. And I think you can see that he's back and strong and going forward. But all of that support meant the world to Chelsea and me, and I'm grateful to you.
+
+Finally, I cannot wait for you to see this and to tour this museum. The building is like my husband; it's open, it's expansive, it's welcoming, it's filled with light. And the exhibits tell a story of someone who loves his fellow man, who cares deeply about the future of all of our children, who recognizes our common humanity. And for all those reasons and many, many more, I'm so proud to introduce the 42nd president of the United States, William Jefferson Clinton!
+
+{APPLAUSE} 
+
+{/speech}

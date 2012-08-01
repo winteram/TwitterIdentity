@@ -1,0 +1,22 @@
+﻿{title} President Discusses Strengthening & Improving Health Care in State of the Union {/title}
+{event} State of the Union {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 28, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Our second goal is high quality, affordable health care for all Americans. {APPLAUSE} The American system of medicine is a model of skill and innovation, with a pace of discovery that is adding good years to our lives. Yet for many people, medical care costs too much -- and many have no coverage at all. These problems will not be solved with a nationalized health care system that dictates coverage and rations care. {APPLAUSE}
+
+Instead, we must work toward a system in which all Americans have a good insurance policy, choose their own doctors, and seniors and low-income Americans receive the help they need. {APPLAUSE} Instead of bureaucrats and trial lawyers and HMOs, we must put doctors and nurses and patients back in charge of American medicine. {APPLAUSE}
+
+Health care reform must begin with Medicare; Medicare is the binding commitment of a caring society. {APPLAUSE} We must renew that commitment by giving seniors access to preventive medicine and new drugs that are transforming health care in America.
+
+Seniors happy with the current Medicare system should be able to keep their coverage just the way it is. {APPLAUSE} And just like you -- the members of Congress, and your staffs, and other federal employees -- all seniors should have the choice of a health care plan that provides prescription drugs. {APPLAUSE}
+
+My budget will commit an additional $400 billion over the next decade to reform and strengthen Medicare. Leaders of both political parties have talked for years about strengthening Medicare. I urge the members of this new Congress to act this year. {APPLAUSE}
+
+To improve our health care system, we must address one of the prime causes of higher cost, the constant threat that physicians and hospitals will be unfairly sued. {APPLAUSE} Because of excessive litigation, everybody pays more for health care, and many parts of America are losing fine doctors. No one has ever been healed by a frivolous lawsuit. I urge the Congress to pass medical liability reform. {APPLAUSE} 
+
+{/speech}

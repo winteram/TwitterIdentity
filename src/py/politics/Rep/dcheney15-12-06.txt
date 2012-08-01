@@ -1,0 +1,40 @@
+﻿{title} Vice President's Remarks at the Armed Forces Full Honor Review in Honor of Secretary of Defense Donald Rumsfeld {/title}
+{event} The Pentagon {/event}
+{speaker} Dick Cheney {/speaker}
+{date} December 15, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, Thank you very much. Mr. President, General Pace, Mr. Secretary, Joyce and the Rumsfeld family, my fellow citizens:
+
+In a moment I'll have the high honor of presenting our Commander-in-Chief. But first, I hope you'll permit me a few personal observations as we gather in tribute to the nation's 21st Secretary of Defense.
+
+It is well known that Don Rumsfeld and I are longtime friends and associates. And our experiences in Washington have been very similar. We've both served as members of Congress. Both of us have been Secretary of Defense. Both of us have been White House Chief of Staff. But there's one instructive experience I've had that he hasn't: I know what it's like to work for Don Rumsfeld. {LAUGHTER ; APPLAUSE} 
+
+I don't think it's revealing classified information to point out that Don has an intensity about him. He's often told the story of an acquaintance who asked Joyce how she managed to put up with a guy like him for so many years. Joyce replied, "He travels a lot." {LAUGHTER}
+
+My association with Don goes back to the spring of 1969. I was a graduate student, pursuing a Ph.D., when Don asked me to join his staff. From the first day, he kept me busy enough to forget all about that dissertation I'd been working on and active enough to drop any notion of returning to academia.
+
+Don was the toughest boss I had ever had -- the most demanding, and the most commanding. If you've been on his staff, you know that Don has an incredibly sharp eye for detail. He has near-perfect recall of everything he's told you, and everything you've told him. He has a way of asking you the one question you're not prepared for. And apparently he does not sleep. {LAUGHTER}
+
+Yet as much as he might push you, Don never demands more of others than he does of himself. I've never worked harder for a boss -- and I've never learned more from one, either. Don is a superb executive who knows how to cut through to an issue at once. He embodies the adage that a statesman should act as a man of thought, and think as a man of action. "Set careful goals," he says, "then do the best job possible, let the flak pass and work toward those goals." He never forgets that we're here not to accumulate titles and honors but to do our jobs. "Public servants," he said, "are paid to serve the American people. Do it well." To his very core Don is a man of rectitude, with a sense of honor that defines him, and a sense of fairness and perspective that has never failed him.
+
+For these reasons and more, I have always considered Don Rumsfeld to be the very ideal of a public servant. And thus, those of us who know Don are extremely fortunate to have his friendship, and all that goes with it -- the wisdom, the humor, and the great personal decency of the man. In a lifetime one meets only a few people of such caliber and character. And so my first association with Don Rumsfeld was one of life's great turning points, both professionally and personally. On the professional side: I would not be where I am today, but for the confidence that Don first placed in me those many years ago. And on the personal side: It's enough to say that I have no better friend, and ask for none.
+
+Throughout this country and especially within the military, you'll find people who have never met Don Rumsfeld, but who look up to him as a role model. Even to the casual observer, this man emanates loyalty, integrity, and above all love for this country and a devotion to its cause. The record of the years 2001 to 2006 only confirms the good qualities and the gift for leadership that Don Rumsfeld has shown all his life.
+
+The attacks of September 11th, 2001 found Don Rumsfeld at his post, and then sprinting to the rescue. Under his leadership, even as this great building burned, the men and women of the Pentagon moved immediately to protect the country, and to prepare the response to acts of war. When the Commander-in-Chief gave his orders, the Department of Defense was ready. And today, even after more than five years of unrelenting action, this Department continues to wage the war on terror systematically and decisively.
+
+Under Secretary Rumsfeld, we have struck major blows against the al Qaeda network that hit America. We've removed two dictatorships that sponsored terror; liberated 50 million people from tyranny; and stood by young democracies as America always does.
+
+The work goes on, because the set of challenges that arrived on 9/11 is unlike any this nation has ever faced. In the depth of their hatred, the technologies they seek, and the ambitions they have announced, these enemies threaten civilization itself. They are hidden, dispersed, asymmetrical in their methods, and unconstrained by the laws of warfare or the rules of morality. Unlike other conflicts, this war is not a matter of finding an opposing army and engaging it, or finding a navy and sinking it. There's no manual for how to wage this fight, and not even much guidance from military history. Yet the stakes are as high as can be imagined, and the margin for error is exceedingly small.
+
+Our former boss, President Gerald Ford, said recently that holding the office of Secretary of Defense in times like these requires a certain amount of steel. Don Rumsfeld has that steel in him. As one general recently said, Don is a man who "leads from the front," and that's something our people in uniform relate to, and appreciate. It's no surprise to me when I see images of uniformed men and women crowding around Secretary Rumsfeld, welcoming him to bases from middle America to the desert in Iraq, and cheering their hearts out for him at the Army-Navy game. Don respects them and cares for them as much as he does for the nation itself. They soldier for him; he soldiers for them. They know it, they feel it, and that's why they'll miss him. In his regard for our people in uniform; in his unwavering strength through unprecedented challenges; in his example of leadership and patriotic service -- I believe the record speaks for itself: Don Rumsfeld is the finest Secretary of Defense this nation has ever had. {APPLAUSE}
+
+In this hour of transition, every member of our military, and every person at the Pentagon, can be certain that America will stay on the offensive in the war on terror. The President of the United States and his national security team understand the threat -- the enemy's changing tactics and its unchanging nature. We're not dealing with adversaries that will surrender or come to their senses. They hit us first. They hit us right here on this ground at this building. And as the President has assured the American people, we will stay in the fight until this threat is defeated, and our children and grandchildren can live in a safer world. {APPLAUSE}
+
+As we go forward, the people defending this country can be confident: Our President is committed to closing every window of vulnerability, and to giving our troops the training and support they need to carry out the missions and to achieve victory. The years of President George W. Bush have been a time of purpose and pride for the United States Armed Forces. And so I count it a privilege, here at the Pentagon, to turn the proceedings over to our Commander-in-Chief. Ladies and gentlemen, I give you the President of the United States. 
+
+{/speech}

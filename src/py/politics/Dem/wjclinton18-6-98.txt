@@ -1,0 +1,42 @@
+﻿{title} Remarks by the President on Nomination of Ambassador Bill Richardsonas Secretary Of Energy,and Richard Holbrooke as Ambassador to the United Nations {/title}
+{event} Nomination of Ambassador Bill Richardsonas Secretary Of Energy,and Richard Holbrooke as Ambassador to the United Nations {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 18, 1998 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Senator Bingaman and Congressman Becerra, ladies and gentlemen, I welcome you all here today as I announce my intent to nominate Ambassador Bill Richardson to become our Secretary of Energy, Ambassador Richard Holbrooke to assume the portfolio of America's Representative to the United Nations. I'm especially pleased that their families could join me and the Vice President, and as you can see, our entire national security team.
+
+Over the last two years, Bill Richardson's experience, energy and tenacity have made a real difference in advancing our interest in the United Nations and around the world. With diplomatic skills honed in one of the most diverse congressional districts in our country, negotiating ability tested in some of the toughest hot spots on our planet, and a personal touch evidenced from his first day on the job, Bill Richardson has brought creativity and drive to our leadership at the U.N.
+
+He has served the Secretary of State and me by tackling some of the toughest negotiating challenges from the Congo to Zaire to Afghanistan. He helped to rally the international community to speak and act as one in the crisis in Iraq. Today, the international inspectors are back on the job, working to end Iraq's nuclear, chemical, and biological weapons threat -- thanks in no small measure to his efforts. He has been a vigorous and articulate proponent of our engagement around the world and the importance of leveraging that engagement by living up to our United Nations obligations.
+
+In short, if there's one word that comes to mind when I think of Bill Richardson, it really is energy. But that is hardly the only reason I am appointing him to this job. {LAUGHTER} For 14 years representing New Mexico, an energy-rich state that is home to two of our national Department of Energy labs, and his long service as an active member of the House Energy and Commerce Committee, he has gotten extensive, firsthand experience in issues ranging from deregulating the oil and gas industries, to promoting alternative sources of energy, to ensuring that energy development meets tough standard of environmental safety. I thank him for his willingness to serve.
+
+Let me also say that Secretary Pena has left a very impressive legacy upon which to build. I appreciate his five years of service to our nation as both Secretary of Transportation and Secretary of Energy, where he surprised, I might say, even his greatest admirers with the speed with which he mastered the incredible complex issues of the Department and the leadership he demonstrated in supporting the Comprehensive Test Ban Treaty, in coming out with an electricity deregulation plan that will safe consumers $20 billion a year, in helping to open all kinds of opportunities for energy conservation and a clean energy future for America.
+
+Let me also thank him as Secretary of Transportation for his service there in advancing mass transit more than at any point in recent history, and for opening up our air commerce with 40 other nations.
+
+With Congress' support, Bill Richardson will do his part now to secure our energy future, at a time when that is inextricably bound up with our obligation as Americans to do our part to deal with the problem of climate change, and our obligations as Americans to build a secure future for our country that allows economic growth and protection of the planet.
+
+I believe that this challenge will require the greatest energy from our labs, from our scientists and technology, from an Energy Department that can work clearly with the private sector on what plainly will be one of America's most important priorities for years and years to come.
+
+Ambassador Holbrooke, my new United Nations designate, is already a familiar face all around the globe. His remarkable diplomacy in Bosnia helped to stop the bloodshed, and at the talks in Dayton, the force of his determination was a key to securing peace, restoring hope, and saving lives. His ongoing service in the Balkan region has helped to keep Bosnia's peace on track through some difficult moments.
+
+He has helped to advance our efforts to break the stalemate in Cyprus, and he's worked to diffuse the alarming tensions and violence still brewing in Kosovo. His expertise rests on an outstanding career of diplomatic service, from his early days as one of the youngest ever Assistant Secretaries of State for Asia, an area where he has continued to be actively involved and which is very important today. Then he worked as my Ambassador to Germany and as Assistant Secretary of State for Europe.
+
+His long experience in the private sector has given him a keen eye for the bottom line, economically and politically. He will help us to shape a U.N. that is leaner, more efficient, better equipped, that fulfills the best ideals of its founders and meets the challenges of the 21st century.
+
+Ambassador Holbrooke understands, as do all the members of our national security team, the important role the United Nations can play in supporting our goals around the world -- pursuing peace and security, promoting human rights; fighting drugs and crime, helping people lift themselves from poverty to dignity and prosperity. Our nation will always be prepared to act alone if necessary, but joining our strength with our U.N. partners, we maximize our reach and magnify our effectiveness while sharing costs and risks.
+
+In a world where developments beyond our borders have dramatic implications within them, from rogue states seeking nuclear weapons and chemical and biological weapons to pollution corroding the atmosphere, international cooperation is clearly more important than ever. I urge Congress to send my legislation, therefore, without unrelated issues to live up to our legacy of leadership, and pay our debt to the United Nations.
+
+In closing, let me say that the Vice President and I feel very fortunate every day to have such a strong national security team -- men and women of vision, of judgment, of commitment. We have worked closely together to make sure that our nation remains the world's leading force for peace and freedom, for prosperity and security.
+
+The line-up I announce today maintains that exceptional standard. I thank all of them for their willingness to serve. I especially thank Ambassador Holbrooke and Ambassador Richardson for their willingness to take on these important new tasks.
+
+And now, I'd like to turn the floor over to them. 
+
+{/speech}

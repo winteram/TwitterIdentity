@@ -1,0 +1,108 @@
+﻿{title} Remarks by the Vice President to Technology Industry Leaders {/title}
+{event} San Jose, California {/event}
+{speaker} Dick Cheney {/speaker}
+{date} February 21, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, and thank you for that warm welcome to San Jose. It's been a few years since I've been here, but I used to travel to this part of the country when I was on the House Intelligence Committee and Secretary of Defense, and always deeply appreciated the great work that you did here, in terms of supporting national security.
+
+I've spent the week in California -- visiting the Marines at Miramar, talking about foreign policy and international affairs at the Nixon Library in Yorba Linda, meeting with folks from agriculture and ranchers in the Central Valley, and even put in an appearance on the Tonight Show with Jay Leno. I never thought I'd be the opening act for a rock band called "Creed", but it seemed like an appropriate role for a Vice President.
+
+San Jose is my last stop during this tour of California, and I've been looking forward to having this opportunity this morning to talk with all of you. President Bush, of course, has visited this area a number of times, and I want to bring you his good wishes as well.
+
+I've just completed a tour of the Tech Museum on Innovation. You can't walk about a place like the Tech Museum without being optimistic about the future of American enterprise, and the part that technology has played and will play in our future. You see in one snapshot how far we've come, and how fast, and how even the boldest predictions can fall short of what actually comes to pass.
+
+When I was a small boy in the late 1940s, Popular Mechanics had a story about computers. The magazine described the advances in computing power, and confidently predicted that one day, far in the future, a computer might have "only 1000 vacuum tubes and perhaps weigh 1.5 tons."
+
+I won't venture any of my own predictions today about just how far technology will progress over the next generation. Human ingenuity always has a way of exceeding expectations, especially in a country as free as ours. This is a source of pride for America, and gratitude as well. There is hardly a person among us whose life is not decidedly better because of that ingenuity and all that it has produced. Mine is certainly better, thanks to a wide array of technology I depend on, from the defibrillator that monitors my heart, to the secure communications I use every day in my undisclosed location. {LAUGHTER}
+
+For all of the achievements we can point to, these are not the best of times for many high-tech companies, or for our economy. There is no doubt that things will turn around, however. And the high-tech industry is a fundamental strength of this country, and it's going to be even more essential over in the decades ahead. The United States faces great challenges -- winning the war on terrorism, safeguarding the nation against further attacks, revitalizing our economy. To meet each one of these goals, we will need the energy and the creative power of your industry.
+
+In our first challenge, winning this war, the enemy has already seen and felt our decisive technological advantage. During my time as Secretary of Defense, people spoke of the Persian Gulf War as a high-tech conflict, mainly because of our precision-guided munitions that everyone saw on CNN. But precision-guided munitions were actually a small part of Desert Storm, only about 10 percent of the munitions we used. In most respects was a conventional conflict, waged with heavy armored formations and artillery.
+
+That war gave us just the first glimpse of military technologies that are now an even more significant part of our capabilities. In Afghanistan, we were able to use the Predator, an unmanned aerial vehicle that can stay aloft for hours, be controlled remotely from thousands of miles away. The Predator sends back real-time images to virtually anyplace on the globe -- information that is used to call in air strikes, which can then be observed as they occur.
+
+We also have significant capability against mobile targets, which is a major and recent advance in warfare. And of course, the percentage of precision munitions we used in Afghanistan was about 60 percent, as compared with 10 percent only ten years ago. Advanced technologies were in the hands of our Special Forces on the ground, who carried laser designators to mark targets, and communicated by satellite to call in precision-guided munitions. This gave us the memorable image of American troops carrying the most advanced military technology while riding horseback with an 18th-century Afghan cavalry charge.
+
+Before we engaged the enemy in Afghanistan, there were some concerns expressed about the forbidding terrain and distance involved, the stealth of enemy forces, the risk to American soldiers, and the prospect of heavy civilian casualties. We succeeded -- routing the Taliban in fairly brisk fashion -- because of the skill of our soldiers, the care and deliberation of the orders given to them, and the superior technology we placed in their hands.
+
+Equipment of this kind, and every other material advantage of a modern military, takes a long time to develop. Former Defense Secretary Weinberger, also a northern Californian, used to say that you don't just go to the store and buy high-tech weapons the day you decide they'd be useful. Time frames run very long in the military. The forces that defend you five, ten, or twenty years down the road will come from research and development that we undertake today.
+
+The war against terror requires that we find our enemies wherever they are, that we shut down their operations, and that we bring them to justice. In this objective, we will continue to need forces ready to deploy on short notice, having all of the training and equipment they need to achieve victory. To that end, President Bush has asked the Congress for a $48 billion increase in the defense budget, the largest in a generation.
+
+The President's budget looks far into the future, continuing the transformation of our military to maintain our decisive technological advantage. It maintains a long-held commitment to research and development, including defenses against ballistic missiles.
+
+The enemy has shown the capacity to inflict great damage on the United States, and the only safe way to proceed is for us to assume there will be more attacks. So our second great challenge is homeland security. The term covers all the things we need to do to reduce our vulnerability to attack -- to make America a harder target against future strikes, while at the same time improving our ability to respond if any attacks should come.
+
+The President's budget request for homeland security is $38 billion -- double the pre-September 11 amount -- and all of it is going to a sustained, long-term strategy to protect our people. Many of the steps required will involve the best efforts of your industry, because much of what we are talking about, in the end, is the gathering, the analysis, and the sharing of information.
+
+Where possible, we'll move away from the stovepipe approach to information, in which data travels up and down within an organization, but is not shared with other agencies or jurisdictions. We now know that bits of information about some of the hijackers may have been in some federal, state, and local databases prior to 9/11. Yet there was no practical, agreed-upon way of tying it all together. We need a comprehensive, secure system that allows intelligence to be shared among the relevant officials, while safeguarding the privacy and the civil liberties of our people.
+
+Another major objective is to find connections with huge volumes of seemingly disparate information. This, too, can only be done with computers, and only then with the very latest in data-mining and link-analysis technology.
+
+The President's homeland security budget contains significant funding for bio-defense. Here again, much of what we are seeking involves gathering and sharing information -- for example, careful monitoring to spot disease outbreaks and biological threats; real-time communications that signal a crisis; and a plan in place to deliver a swift, coordinated response.
+
+On the border, and in our airports, we'll be making greater use of advanced technology to track entries and departures from the United States. Steps are also being taken to tighten our ports of entry, and to safeguard the nation's infrastructure -- everything from water supplies to power plants to dams.
+
+The information infrastructure needs protection as well, and President Bush has made cyber-security an urgent priority. He created a new Critical Infrastructure Protection Board last October, and named a Special Advisor for Cyberspace Security. We recognize that cyberspace security is not a matter for government alone. The private sector is absolutely critical to the effort as well. We welcome the recent statements by major companies that security will now be an integral part of product development.
+
+The President's budget includes a new Cyberspace Warning Intelligence Network, to speed up both detection and response when viruses and other invasive programs have entered the system. There will be significant new funding for the nation's cyber-threat response center, to be located within the FBI. And we will continue doing everything we can to ensure that essential government operations are never interrupted.
+
+On September 11, we all learned that in times of a major crisis, wireless communications can jam up. We're working to develop a wireless priority access program, to ensure that first responders have priority for cell phone coverage during emergencies.
+
+A number of the measures we take for homeland security will have the added benefit of strengthening our economy. And that brings me to the third goal President Bush has set for America: to defeat the recession, and set our economy on a path to even more rapid growth in the years ahead.
+
+Many speak of a new economy, and with good reason. Information technology was the engine of growth throughout the 1990s. Even in this recession, productivity is up at an annual rate in the last quarter of 2.3 percent, whereas in the last three recessions productivity actually fell. The continued rise in productivity is a direct consequence of the creative energy and innovation of your industry.
+
+In a new economy, we need to recognize the concerns that are specific to technology companies. But we do not need a new theory about how to promote growth and create jobs. Those of us with a background in business understand that government doesn't create prosperity. All it can do is help create an environment in which entrepreneurs want to invest and hire new employees. President Bush and I proceed from the basic principle that government should leave as many resources as possible in the hands of the people themselves. {APPLAUSE} Only that way can the private sector create ideas, and jobs, and wealth.
+
+As growth is restored and jobs are added, the revenues of government will rise. The return path to budget surpluses is not higher taxes on the American people. {APPLAUSE} It is faster growth in the American economy, and fiscal responsibility in Washington, D.C. {APPLAUSE}
+
+The tax cut enacted last year was intended to ensure the long term prosperity of our economy by stimulating savings and investment, and by limiting the total amount of our national wealth devoted to government. It was also well-timed, anticipating the recession and helping to counter the short-term effects of the economic downturn.
+
+A few have suggested that tax relief might be making matters worse. Some have even urged its repeal. But I've yet to hear anyone explain exactly how higher taxes would help the economy grow. {APPLAUSE} Any added tax burden today would throw the economy back into reverse. As Alan Greenspan has put it, "All taxes are a drag on the economy. It's only a question of degree."
+
+Far from withdrawing tax relief, we should speed it up, and make it permanent. {APPLAUSE} The effects will be strongly felt, especially in the small business community. A full phase-in of the President's tax cut will reduce taxes on more than ten million sole proprietorships and partnerships. In addition, to promote investment in this sector and throughout the economy, we support accelerated expensing for new equipment purchases, including computers, software, and telecommunications equipment. {APPLAUSE}
+
+Our administration has strongly opposed access taxes that would increase the cost of Internet services for consumers. And, as promised, President Bush signed into law an extension of the Internet Tax Moratorium. {APPLAUSE}
+
+The research and experimentation tax credit has been a tremendous incentive for innovation in everything from software to pharmaceuticals. It is scheduled to expire in 2004, and some companies are holding off research projects that might go beyond that time. President Bush has asked Congress to end the uncertainty, and to make this tax credit a permanent part of the code.
+
+Several other features of the President's agenda will affect your industry directly. I've already mentioned some of the proposed investments in research and development. All told, our investments in science and technology -- which includes basic and applied research in all federal agencies -- will reach a record amount next year, exceeding $111 billion.
+
+The President's budget commits $52 billion to information technology systems all across the federal government. The federal government has clearly lagged behind industry in making services available over the Internet. That will change next week, when we re-launch the Firstgov website. Many services will soon be offered online, saving money and taking response times down from weeks to days or even minutes.
+
+We also recognize the great potential of high-speed broadband networks to increase productivity and add to growth. The possibilities are tremendous; as George Gilder has noted, "More information can be sent over a single cable in a second than was sent over the entire Internet in 1997 in a month."
+
+Many businesses are already using broadband to revolutionize their processes and methods, and to increase productivity. Broadband also has the potential to revolutionize many other sectors, from education to health care.
+
+While a handful of households and some small and medium-sized businesses already have and use broadband, the majority does not. As this technology progresses, we're committed to keeping America the world's leader in developing new broadband technology and applications.
+
+Our long-term competitiveness also depends on the quality of our schools. Under President Bush's leadership, we have in place the most significant education reform in 35 years, bipartisan reform that finally demands results in exchange for federal dollars. {APPLAUSE}
+
+In the crucial areas of science and math, we've committed new resources to improve course offerings in the public schools. At the same time, we're addressing the shortage of science and math teachers with stepped-up loan forgiveness for college graduates who go teach in these fields.
+
+One of the most fundamental conditions of long-term growth is energy -- a reliable and affordable supply of the fuels that make our economy go. I have no doubt that America will one day move beyond fossil fuels. We are working toward that goal with research into alternative and renewable energy sources. But for the foreseeable future, we must increase energy production here at home. And in addition, our energy strategy must promote and will promote the cutting-edge technologies that help us use energy more efficiently and more cleanly. {APPLAUSE}
+
+The technology sector has a tremendous record on energy conservation, from fuel-efficient cars to the low-power technology in many portable and wireless devices. New technology is proving that we can save energy without sacrificing our standard of living. And we're going to encourage it in every way possible. The President has proposed the first comprehensive energy plan in a generation. That plan has already passed in the House. We hope the Senate will follow the President's lead and pass a comprehensive energy plan in the coming weeks.
+
+It's appropriate, here in the nation's number one exporting state, to say a word about trade. Trade already accounts for 26 percent of our national economy. Exports alone support more than 12 million American jobs, and these tend, on average, to be well-paying jobs. Trade is critical to your industry as well, which is why President Bush is committed to reforming the high-tech export control system. As an interim step, he has already raised the control levels for computers and microprocessors, to remove the burden of outdated licensing requirements and keeping our technology industry competitive.
+
+This week, the President is visiting China, the largest emerging market for American exports. His leadership made it possible for China to gain permanent normal trade relations with the U.S., as well as to enter the WTO. The President helped launch the new round of WTO talks in Doha last fall. It was at Doha that American representatives secured an extension of the moratorium on customs duties for electronic communications, preserving the Internet as a duty-free zone.
+
+We're working with nations in Central and South America to establish a Free Trade Area of the Americas by January of 2005. And we have made great progress towards completing a free trade agreement with Chile this past year.
+
+Still, out of 130 free trade agreements in the world today, the United States is party to only three. Our administration is ready to go out and reach good agreements on behalf of the American people -- getting a fair shot at world markets while we defend the intellectual property of our entrepreneurs. The whole effort, however, will depend on Trade Promotion Authority -- the ability of a President to negotiate a trade agreement on behalf of the United States, and submit it to Congress for an up or down vote. Once again, the House has already given its approval. It remains only for the Senate to pass Trade Promotion Authority, and we hope they will act very soon. {APPLAUSE}
+
+Probably no single issue is more important to this state's economy and the technology sector than the approval of Trade Promotion Authority. To help bring it to passage, we would ask that you make your voice heard in the Congress of the United States. {APPLAUSE}
+
+If there is one word for our position on trade, that word is confidence. The President and I have a basic faith in this nation and its people. We believe American entrepreneurs and workers, farmers and ranchers, are the most productive and creative in the world. "Here in this land," said Ronald Reagan, "we have unleashed the energy and individual genius of man to a greater extent than has ever been done before."
+
+There is every reason for confidence in the future of your industry, of our economy, and of this great country of ours. As the President has said, for all of our challenges -- recession, war, and emergency -- we have never been stronger. It will be noted of our generation that we passed through a difficult and dangerous time, that we answered with courage and creativity, and that America revived, and prospered, and prevailed.
+
+Thank you very much. 
+
+{/speech}

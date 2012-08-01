@@ -1,0 +1,52 @@
+﻿{title} Remarks by the President on Children And Handgun Safety {/title}
+{event} Speech by President on Children and Handgun Safety {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 8, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President on Children and Handgun Safety {/description}
+
+{speech} 
+
+I would like to begin by thanking Suzanne Wilson for making the long trip up here from Arkansas, with her sister, to be with us today, so soon after that terrible tragedy. Most people wouldn't feel like going out of the house, much less coming all the way to Washington, and I think it is a real credit to her and to her devotion to her daughter that she is here today. {APPLAUSE}
+
+I want to thank Colonel Mitchell and Lt. Governor Kathleen Kennedy Townsend, and in his absence, Governor Glendening, for the path-breaking work being done in Maryland on this important issue. I thank Secretary Rubin and Mr. Johnson and Mr. Magaw for being here, and the work the Treasury Department is doing. Thank you, Secretary Riley, for the work you've done to have zero tolerance for guns in schools. Thank you, Attorney General Reno, for the steady work now we have done for six years to try to bring this issue to the American people.
+
+I thank Senator Durbin, Senator Chafee, Senator Kohl, and a special word of thanks to Representative Carolyn McCarthy. And to all the advocates out here, I welcome you here and I thank you, and especially to the law enforcement officers.
+
+I think that this recent series of killings in our schools has seared the heart of America about as much as anything I can remember in a long, long time. I will always personally remember receiving the news from Jonesboro because it's a town I know well. I know the local officials, I know the school officials. I've spent large numbers of days there. I've been in all the schools and answered the children's questions. And once you know a place like that, you can't possibly imagine something like this occurring.
+
+But it's happened all over the country. I was in Springfield, Oregon, as you know, in the last couple of weeks, meeting with the families there. I think every American has sent out prayers to Suzanne and the other parents and the other spouses and people who were so wounded by this. But in a fundamental way, our entire nation has been wounded by these troubled children with their guns.
+
+As has already been said, these events have been even more difficult for us to understand because they're occurring at a time when we've had the lowest crime rate in America in 25 years and, for the first time in a decade, a steady drop in the juvenile crime rate. So we struggle for answers. We say, well, does the popular culture have anything to do with this? Does good parenting have anything to do with this? And we know that probably everything we consider has something to do with this. But no matter how you analyze this, it is clear that the combination of children and firearms is deadly. As parents, public officials, citizens, we simply cannot allow easy access to weapons that kill.
+
+For five years now, our administration has worked to protect our children, and we are making progress, as has been said. A great deal of the credit goes to far-sighted leaders at the city level and at the state level -- people like Lt. Governor Kathleen Kennedy Townsend and Superintendent Mitchell, Governor Glendening.
+
+We're well on our way toward putting 100,000 police on the street. About a quarter of a million people have not been able to buy guns in the first place because of the Brady law, because of their criminal background or their mental health history. We have banned several types of assault weapons and have struggled to preserve the integrity of that law against a commercial assault from importers.
+
+School security is tighter; anti-gang prevention is better; penalties are stronger. We promoted discipline in schools with anti-truancy and curfew and school uniform policies, and, in various ways, they have worked marvelously in many communities. And we have a national policy now in all our schools of zero tolerance for guns in schools. Over 6,000 students with guns were disarmed and sent home last year, doubtless preventing even more terrible acts of violence.
+
+But it is not enough if children have access to guns. In Springfield, Oregon, the young man in custody was sent home the day before because he had a gun in the school.
+
+So, yes, our laws must be strong, our enforcement resolute. At home, parents must teach their children the difference between right and wrong and lead them away from violence. But recent events remind us that even if all this is done, it is still too easy for deadly weapons to wind up in the hands of children -- by intent or by accident -- and then, to lead to tragedy -- by intent or by accident.
+
+We can't shrug our shoulders and say, well, accidents will happen, or some kids are just beyond hope. That is a cop-out. Instead, every one of us must step up to our responsibility, that certainly includes gun owners, gun purchasers, and gun dealers. Today, we say to them, protecting children is your responsibility too, and there are penalties for the failure to fulfill it.
+
+In response to the directive I issued to Secretary Rubin in June of last year, all federal gun dealers will now be required to issue written warnings and post signs like that one over there. The sign makes it plain for all to see in simple, direct language, that it's illegal to sell, deliver or transfer a handgun to a minor, period. From now on, no customer or employee can avoid personal responsibility by pleading ignorance of the law.
+
+Responsibility at gun shops, of course, must be matched by responsibility at home. Suzanne talked movingly about that. Guns are kept in the home for many purposes, from hunting to self-defense. That is every family's right and, as she said more eloquently than I, that is not in question. The real question is every parent's responsibility, every adult's responsibility to make sure that unsupervised children cannot get a hold of the guns. When guns are stored carelessly, children can find them, pick them up, court danger. Most will put them back where they found them. Others, as we know now from hard experience, will touch the trigger by accident; a troubled few will take guns to school with violence in mind.
+
+Too many guns wielded in rage by troubled adolescents can be traced back to an irresponsible adult. As has been previously said, in Maryland now, and now in 14 other states, parents have a legal responsibility to keep guns locked and out of reach of young hands. That should be the law in all 50 states. There are 35 more that ought to follow Maryland's lead. It should be the practice in every home.
+
+There is also a proper federal role in preventing children's access to firearms, and Congress should pass a tough, targeted child access prevention law with new penalties to punish the most egregious offenders.
+
+I applaud Senators Chafee and Durbin for their legislation, starting us down the road toward making this the law of the land. I thank Senator Kohl and Representative McCarthy for their strong support. They are doing the right thing. And during the last days of this legislative session, this is how we should move forward -- again I say, with progress, not partisanship.
+
+There is much we must do in public life to fulfill our obligation to our children. More than a year ago, we directed all federal law enforcement agencies to issue child safety locks to federal officers so that their guns could not be misused. A majority of our gun manufacturers have joined us voluntarily in this effort, and that has been successful. I hope all other gun manufacturers will follow suit.
+
+The real work, of course, must still be done in our homes -- beyond law and policy -- to the most basic values of respect, right and wrong, conscience and community, and violence rejected in favor of nonviolence and communication. Only parents can remedy what ails children in their heart of hearts. But the rest of us must do our part to help, and must do our part to contain the potential for destructive violence when things fail at home.
+
+So I say again, this is an issue that has wounded every American in one way or the other. Of the four women standing to my right, three have lost members of their immediate family because of gun violence. All of us have grieved with them. We can do better. This is one big first step.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

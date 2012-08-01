@@ -1,0 +1,79 @@
+﻿{title} Remarks by the President in Gallaudet University Commencement Address {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 13, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Thank you so much for the warm reception and for the honorary degree. 
+
+I must tell you at the beginning that I have been deeply moved by the wonderful statements of your students, Jeanette and Andre. I think they have already said everything I could hope to say as well or better. And I wish only that I could say it to you in their language as well. {APPLAUSE} 
+
+I'm delighted to be here with Dr. Jordan, whom I have admired so much; and Dr. Anderson, a native of my home state; with my great friend and your champion, Senator Tom Harkin -- {APPLAUSE} ; with many members of Congress, including Major Owens, who will receive an honorary degree; Congressman David Bonior; Congressman Steve Gunderson; and your own representative in Congress, Eleanor Holmes Norton. {APPLAUSE} 
+
+I honor, too, here the presence of those in the disability rights community, the members of our own administration, but most of all, you the class of 1994, your families and your friends. You have come to this extraordinary moment in your own life at a very special moment in the life of your country and what it stands for. 
+
+Everywhere, nations and peoples are struggling to move toward the freedom and democracy that we take for granted here. Our example is now over 200 years old, but it continues to be a powerful magnet, pulling people toward those noble goals. This week we all watched and wondered as a former prisoner stood shoulder to shoulder with his former guards to become a president of a free and democratic South Africa. {APPLAUSE} 
+
+Yet, each day across the -- from Bosnia to Rwanda and Burundi, and here in America in neighborhood after neighborhood, we wonder whether peace and progress will win out over the divisions of race and ethnicity, of region and religion, over the impulse of violence to conquer virtue. Each day we are barraged in the news as mutual respect and the bonds of civility are broken down a little more here at home and around the world. 
+
+It is not difficult to find in literature today many who suggest that there are large numbers of your generation who feel a sense of pessimism about the future. People in my generation worry about that. They worry whether young people will continue to try to change what is wrong, continue to take responsibility for the hard work of renewing the American community. 
+
+I wish everyone who is worried about America could see your faces today and could have heard your class speakers today. Our whole history and our own experience in this lifetime contradict the impulse to pessimism. For those who believe that nothing can change I say, look at the experience of Rabin and Arafat as the police representing the Palestinians begin to move into Gaza and to Jericho. {APPLAUSE} 
+
+For those who proclaim there is no future for racial harmony and no hope in our common humanity, I say look at the experience of Mandela and de Klerk. For those who believe that in the end people are so vulnerable to their own weakness they will not have the courage to preserve democracy and freedom, I say look to the south of our borders where today of almost three dozen nations in Latin America, all but two, are ruled by democratically-elected leaders. {APPLAUSE} 
+
+Here at home, with all of our terrible problems, for every act of craven violence, there are 100 more acts of kindness and courage. To be sure, the work of building opportunity and community of maintaining freedom and renewing America's hope in each and every generation is hard. And it requires of each generation a real commitment to our values, to our institutions and to our common destiny. 
+
+The students of Gallaudet University who have struggled so mightily, first for simple dignity and then for equal opportunity -- you have built yourselves and in the process, you have built for the rest of us, your fellow citizens of this country and the world, a much better world. You have re-given to all of us our hope. Gallaudet is a national treasure. 
+
+It is fitting, as Dr. Anderson said, that President Lincoln granted your charter because he understood better than others the sacrifices required to preserve a democracy under diversity. And ultimately, Lincoln gave his life to the cause of renewing our national rights. He signed your first charter in the midst of the Civil War where he had the vision to see not just farmland and a tiny school, but the fact that we could use education to tear down the walls between us, to touch and improve lives and lift the spirits of those who for too long had been kept down. 
+
+Over the years, pioneers have built Gallaudet -- sustained by generations of students and faculty, committed to the richness and possibility of the deaf community, and the fullness of the American Dream. This school stands for the renewal that all America needs today. {APPLAUSE} 
+
+Lincoln's charter was an important law. But let me refer to another great president to make an equally important point -- that just as important as laws are the attitudes that animate our approach to one another. The president that I'm referring to is your president, King Jordan. {APPLAUSE} When the Americans with Disabilities Act passed, he said -- and I quote -- we now stand at the threshold of a new era for all Americans -- those of us with disabilities and those of us without. He went on to say that in this pursuit, as in every pursuit of democracy, our task is to reach out and to educate each other about our possibilities, our capabilities and who we are. 
+
+I ran for President because I thought we were standing on the threshold of a new era, just as President Jordan says. I felt we were in danger of coming apart when we ought to be coming together; of arguing too much about going left or right, when we ought to be holding hands and going forward into the future together. {APPLAUSE} 
+
+I grew weary of hearing people predict that my own daughter's generation would be the first generation of Americans to do less well than their parents. I was tired of hearing people say that our country's best days were behind us. I didn't believe it in 1992, and I sure don't believe it after being here with you today. {APPLAUSE} 
+
+My responsibilities to you and your generation are significant. That's why all of us have worked hard to restore the economy, to reward work, to bring down the deficit, to increase our trade with other nations, to create more jobs; why we've worked to empower all Americans to compete and win in a global economy through early education and lifetime training and learning, through reforming the college loan program, to open the doors of college to all Americans; why we have worked to strengthen the family through the Family and Medical Leave Act; why we have worked to create a safer America with the Brady Bill, and the ban on assault weapons, and putting more police on the street, and punishing and preventing more crime as well. {APPLAUSE} 
+
+But I say to you that, in the end, America is a country that has always been carried by its citizens, not its government. The government is a partner, but the people, the people realize the possibility of this country and ensure its continuation from generation to generation. 
+
+I think there is no better symbol of this than the program which I hope will be the enduring legacy of our efforts to rebuild the American community, the National Service Program. Six Gallaudet students, including four members of this class, will be part of our National Service Program, Americorps' very first class of 20,000 volunteers. I am very proud of you for giving something back to your country {APPLAUSE} 
+
+By joining the Conversation Corps and committing yourselves to rebuild our nation, by exercising your freedom and your responsibility to give something back to your country and earning something for education in return, you have embodied the renewal that America must seek. As King Jordan reminded us, government can make good laws, and we need them. But it can't make good people. In the end, it's our values and our attitudes that make the difference. Having those values and attitudes and living by them is everyone's responsibility and our great opportunity. 
+
+Look at the changes which have occurred through that kind of effort. Because previous generations refused to be denied a place at the table simply because others thought they were different, the world is now open to those of you who graduate today. Most of you came here knowing you could be doctors, entrepreneurs, software engineers, lawyers or cheerleaders. {LAUGHTER} 
+
+Because over the years, others spoke up for you and gave you a chance to move up. And you have clearly done your part. You have made a difference. You have believed in broadening the unique world you share with each other by joining it to the community at large and letting the rest of us in on your richness, your hearts, your minds and your possibilities. For that, we are all in your debt. 
+
+Perhaps the greatest moment in the history of this university occurred in 1988 when the community came together and said, we will no longer accept the judgment of others about our lives and leadership in this university -- these are our responsibilities and we accept the challenge. In days, what was known as the "Deaf President Now" movement changed the way our entire country looks at deaf people. The nation watched as you organized and built a movement of conscience unlike any other. You removed barriers of limited expectations. And our nation saw that deaf people can do anything hearing people can, but hear. {APPLAUSE} 
+
+That people's movement was a part of the American disability rights movement. Just two months after King Jordan took office, the Americans with Disabilities Act was introduced with the leadership of many, including my friend, Tom Harkin. In two years it became law, and proved once again that the right cause can unite us. Over partisanship and prejudice we can still come together. 
+
+For the now more than 49 million Americans who are deaf or disabled, the signing of the ADA was the most important legal event in history. For almost a billion persons with disabilities around the world it stands as a symbol of simple justice and inalienable human rights. 
+
+I believe that being deaf or having any disability is not tragic, but the stereotypes attached to it are tragic. Discrimination is tragic. {APPLAUSE} Not getting a job or having the chance to reach your Godgiven potential because someone else is handicapped by prejudice or fear is tragic. It must not be tolerated because none of us can afford it. We need each other and we do not have a person to waste. {APPLAUSE} 
+
+The ADA is part of the seamless web of civil rights that so many have worked for so long to build in America -- a constant fabric wrapped in the hopes and aspirations of all right-thinking Americans. As your President I pledge to see that it is fully implemented and aggressively enforced -- in schools, in the work place, in government, in public places. It is time to move from exclusion to inclusion, from dependance to independence, from paternalism to empowerment. {APPLAUSE} 
+
+I mention briefly now only two of the many tasks still before me as you President, and you as citizens. Our health care system today denies or discriminates in coverage against 81 million Americans who are part of families with what we call preexisting conditions, including Americans with disabilities. It must be changed. {APPLAUSE} If we want to open up the workplace, and if we are serious about giving every American the chance to live up to his or her potential, then we cannot discriminate against which workers get health care and how much it costs. If you can do the job, you ought to be able to get covered. It's as simple as that. {APPLAUSE} 
+
+And that simple message is one I implore you to communicate to the Congress. We have fooled around for 60 years. Your time has come. You are ready. You are leaving this university. You want a full, good life and you do not wish to be discriminated against on health care grounds. Pass health care reform in 1994. {APPLAUSE} 
+
+The last thing I wish to say that faces us today also affects your future. The Vice President has worked very hard on what is called the information superhighway. We know that America is working hard to be the technological leader of the information age. The technologies in which we are now investing will open up vast new opportunities to all of our people. But information, which will be education, which will be employment, which will be income, which will be possibility, must flow to all Americans on terms of equal accessibility without regard to physical condition. And we are committed to doing that. {APPLAUSE} 
+
+Finally, let me just say today a personal word. A few days ago when we celebrated Mother's Day, it was my first Mother's Day without my mother. And so I have been thinking about what I should say to all of you, those of you who are lucky enough still to have your parents and perhaps, some of you who do not. 
+
+On graduations, it is important for us to remember that none of us ever achieves anything alone. I dare say as difficult as your lives have been, you are here today not only because of your own courage and your own effort, but because someone loved you and believed in you and helped you along the way. I hope today that you will thank them and love them and, in so doing, remember that all across this country, perhaps our biggest problem is that there are too many children, most of who can hear just fine, who never hear the kind of love and support that every person needs to do well. And we must commit ourselves to giving that to those children. {APPLAUSE} 
+
+So I say, there may be those who are pessimistic about our future. And all of us should be realistic about our challenges. I used to say that I still believed in a place called Hope, the little town in which I was born. Today I say, I know the future of this country will be in good hands because of a place called Gallaudet. {APPLAUSE} 
+
+For 125 years, young people have believed in themselves, their families, their country and their future with the courage to dream and the willingness to work to realize those dreams. You have inspired your President today and a generation. And I say to you, good luck and Godspeed. {APPLAUSE} 
+
+{/speech} 

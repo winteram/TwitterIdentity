@@ -1,0 +1,40 @@
+﻿{title} President Bush Welcomes President Clinton and Senator Clinton {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 14, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning. Thank you, Henry. Laura and I appreciate you all coming. President Clinton and Senator Clinton, welcome home. {APPLAUSE} All who live here are temporary residents; the portraits that are presented today will be held permanently in the White House collection for all the ages. And so beginning today, the likenesses of President William Jefferson Clinton and First Lady Hillary Rodham Clinton will take their place in a line that began with George and Martha Washington. {APPLAUSE}
+
+Laura and I are pleased to welcome members of the Clinton and Rodham family, thank you all for coming. It's great to see Chelsea. The fact that you survived your teenage years in the White House -- {LAUGHTER} -- speaks to the fact that you had a great mom and dad {APPLAUSE}
+
+We are pleased that Mrs. Dorothy Rodham is here. Welcome, we're glad you're here. {APPLAUSE} And those two boys you're still trying to raise. {LAUGHTER} Hugh and Tony, thank you for coming, we're glad you're here. {APPLAUSE} It's good to see so many who served our nation so ably in the Clinton administration. Thank you all for coming back. Thanks for your service to the country, and welcome back to the White House. We're really glad you're here and I know the President is, as well.
+
+As you might know, my father and I have decided to call each other by numbers. {LAUGHTER} He's 41, I'm 43. It's a great honor to -- it's a great pleasure to honor number 42. We're glad you're here, 42. {APPLAUSE} The years have done a lot to clarify the strengths of this man. As a candidate for any office, whether it be the state attorney general or the President, Bill Clinton showed incredible energy and great personal appeal. As chief executive, he showed a deep and far-ranging knowledge of public policy, a great compassion for people in need, and the forward-looking spirit the Americans like in a President. Bill Clinton could always see a better day ahead -- and Americans knew he was working hard to bring that day closer.
+
+Over eight years, it was clear that Bill Clinton loved the job of the presidency. He filled this house with energy and joy. He's a man of enthusiasm and warmth, who could make a compelling case and effectively advance the causes that drew him to public service.
+
+People saw those gifts very early in Bill Clinton. He is remembered in Hope, Arkansas, and other places along the way, as an eager, good-hearted boy who seemed destined for big things. I was particularly struck by the story of a nun at St. John's School in Hot Springs who decided that Billy Clinton should get a C in deportment. That was a rare grade for the future Rhodes Scholar and President. {LAUGHTER} So Bill's mother gave the nun a call to see what was wrong. The sister replied, "Oh, nothing much. But let me tell you, this boy knows the answer to every question and he just leaps to his feet before anyone else can." {LAUGHTER} She went on, you know, "I know he'll not tolerate this C, but it'll be good for him. And I promise you, if he wants to be, he will be President someday."
+
+People in Bill Clinton's life have always expected him to succeed -- and, more than that, they wanted him to succeed. And meeting those expectations took more than charm and intellect -- it took hard work and drive and determination and optimism. And after all, you've got to be optimistic to give six months of your life running the McGovern campaign in Texas. {LAUGHTER ; APPLAUSE} 
+
+He won his first statewide office at age 30, sworn in as governor at 32. He was a five-time governor of Arkansas, the first man from that state to become the President. He's also the first man in his party since Franklin Roosevelt to win a second term in the White House. And I could tell you more of the story, but it's coming out in fine bookstores all over America. {LAUGHTER ; APPLAUSE} 
+
+At every stage in the extraordinary rise of Bill Clinton, from the little ranch house on Scully Street to 1600 Pennsylvania Avenue, he and Roger had a wonderful, loving mother. And I am certain that Virginia Kelley would be filled with incredible pride this morning. {APPLAUSE}
+
+And so would Hugh Rodham, Senior. Mr. Rodham did have the joy of seeing his only daughter become America's First Lady. And I know he would not be surprised to see her as she is today, an elected United States Senator, and a woman greatly admired in our country. From the earliest days of her youth in Park Ridge, Illinois, Hillary Rodham impressed her family and friends as a person of great ability and serious purpose. At Maine Township High School South, at Wellesley College, and at Yale Law School, classmates saw her not just an achiever, but as a role model and as a leader. She inspires respect and loyalty from those who know her, and it was a good day in both their lives when they met at the library at Yale Law School Library.
+
+Hillary's commitment to public service continued when she left this house. Listen, New York politics is a serious business -- {LAUGHTER} -- it's rough business. It takes an extraordinary person to campaign and win the United States Senate. She has proven herself more equal to the challenge. And she takes an interesting spot on American history today, for she is the only sitting senator whose portrait hangs in the White House. {APPLAUSE}
+
+The paintings of the Clintons are the work of a fine American artist, Simmie Knox. Mr. Knox has rendered portraits of a Supreme Court Justice, a Cabinet minister, a mayor and members of Congress. And today we thank him for putting his skilled hand to the portraits that are about to be unveiled.
+
+More than 40 years have passed since a boy of 16 came here to the White House with a group from the American Legion Boys Nation. On that day in the summer of 1963, Bill Clinton of Arkansas looked into the face of John F. Kennedy, and left the Rose Garden feeling very proud that he had shaken the hand of a President. Today he can be even prouder of decades of service, and effort, and perseverance that brought him back to this place as the 42nd President of the United States.
+
+My congratulations to you both. And now will you to join me on stage for the presentation. {APPLAUSE}
+
+{COMMENT="The portraits are unveiled"} {APPLAUSE} 
+
+{/speech}

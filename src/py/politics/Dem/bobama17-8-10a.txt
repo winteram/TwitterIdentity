@@ -1,0 +1,131 @@
+﻿{title} Remarks by the President at DCCC Finance Event {/title}
+{event} DCCC Finance Event {/event}
+{speaker} Barack Obama {/speaker}
+{date} August 17, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. {APPLAUSE} What a spectacular evening. Let's just hang out. {LAUGHTER} We don't need to make speeches. {LAUGHTER}
+
+Well, it is wonderful to see all of you. There are a lot of friends here. There are a couple of people I've got to make special mention of.
+
+First of all, obviously, thanks to John and Marilyn for their incredible hospitality. Thank you very much. Please give them a big round of applause. {APPLAUSE}
+
+To the best Speaker of the House that I can imagine working with. She has just been a fighter day in and day out. I couldn't have a better partner in Washington than Nancy Pelosi. Please give her a big round of applause. {APPLAUSE}
+
+My Secretary of Labor is here, California's own Hilda Solis. {APPLAUSE}
+
+Democratic Congressional Committee Chairman, a thankless job, and he is handling it with grace, Chris Van Hollen. {APPLAUSE}
+
+All of the members of California's Congressional Delegation who are here, I want to just say thank you for your outstanding work.
+
+I'm going to make mention of one person who is not yet member of the Congressional Delegation, but is going to be soon, the former Speaker of the House who is soon going to be the congresswoman from this district, Karen Bass, is here. Give Karen a big round of applause. {APPLAUSE}
+
+The mayor of Los Angeles, Antonio Villaraigosa, is here. {APPLAUSE} We're not going to let him on a bike any time soon. {LAUGHTER}
+
+City Council President Eric Garcetti is here. Please give him a round of applause. {APPLAUSE}
+
+And there are at least -- just at least two members of Congress who are here that I just want to make special mention of: Barbara Lee because she is the chairwoman of the Congressional Black Caucus and is doing outstanding work -- {APPLAUSE} -- and Howard Berman who is helping to guide us through so many difficult foreign policy challenges, and I'm so grateful to him for his leadership. Please give Howard a big round of applause. {APPLAUSE}
+
+So it is wonderful to be back in Los Angeles. And I look out on this crowd and I see so many friends who helped me to get to the White House.
+
+I am reminded of Lincoln's story. He used to tell a story about a guy who showed up at the White House. Security was a little more lax at that time. {LAUGHTER} He insists on seeing the President during his office hours. Says, I am the guy who got Lincoln elected. And he kept on badgering whoever was at the door. And finally Lincoln lets him in. And Lincoln says, so, sir, I understand you are responsible for me having this job. He says, that's right. And Lincoln says, I forgive you. {LAUGHTER}
+
+It is obviously an extraordinary honor to be the President, and an extraordinary privilege to be the President at this moment in history. A lot of people have said to me, I just can't imagine all the things that you're juggling right now. We've got two wars, coming out of this extraordinary recession that we've gone through. And I say this is exactly when you want to be President. This is why I ran, because we have the opportunity to shape history for the better, to create an America that will serve our children, our grandchildren, our great, great grandchildren well for -- if we are taking the right steps, if we recognize this is an inflection point.
+
+And that means it's difficult. That means it's contentious. And that means there's going to be passions that are stirred up that a quieter, more stable time might not. But it's also exactly when I'd want to be in Washington, because I think we have the opportunity to make such a difference for so many people who need that help right now. And I know Nancy feels the same way about being Speaker of the House.
+
+Now, I want to make special mention of what Congress has done and the House of Representatives have done. When you're President, you've got the bully pulpit. And when you're President, you've got four years. And as a consequence, I think there are a lot of things I'm very proud of that we've done over the last two years. But the pressures on me are different than the pressures on some of these congressional members.
+
+Nancy has experienced the same thing that Harry Reid has experienced on the Senate side, which is just constant, nonstop opposition on everything. There hasn't been an item that has come up in which there has not been just uniform insistence on the other side that it was a bad idea, that it was going to wreck the country, and that we shouldn't be doing it.
+
+And so for people like Nancy and Chris and all the members here to have stood up again and again and again under just fierce, withering criticism and opposition, and to do so with a smile on Nancy's face and with the grace with which she's done it, and for the members who have taken tough vote after tough vote over the course of the last two years, because they knew it was the right thing to do even when it wasn't the popular thing to do, that's why we're here tonight.
+
+That's my focus over the next several months, because when I ran for the presidency, my firm belief was if you did the right thing, then eventually that was going to be good politics. It might not be good politics in the short term, but it was going to be good politics in the long term. I believe that now, just like I believed it then. But we've got to make sure that all those members in the House of Representatives who believed it and took a lot of big political risks over the last two years are rewarded for it.
+
+So I hope you understand why we're here tonight. It's not to take a picture with the President. You know, I'm a lot grayer now. {LAUGHTER} But we're here because we want to make sure that those folks who have taken the tough votes are supported.
+
+I want to just remind everybody, because sometimes we've got short memories, of where we've been; the journey we've traveled over the last 20 months. When I was sworn in, a few of you were there, it was very cold that day, in January of 2009 -- do you remember, it was cold, yes -- that same month, we lost 750,000 jobs. In the six months leading up to my inauguration, we had lost 3 million jobs. In subsequent months, we were losing 600,000; 500,000. Before any of the steps we could take were put into place, we had already seen 8 million jobs lost. The worst financial crisis since the Great Depression. The entire financial system on the verge of meltdown.
+
+And I think it's a good thing that we tend not to remember how worried everybody was. But people were worried. In March, when the stock market was dropping 300, 400 points, people were not sure whether or not we were going to be dipping into a Great Depression.
+
+And so we had to take action, and we had to take action quickly. And not everything we did was popular. But we knew that if we didn't act, if we were thinking about the next election instead of the next generation, then we were putting the country at risk.
+
+So immediately we took steps to shore up the economy, to lift up demand, to make sure that people who were vulnerable got support, to make sure that states like California were getting enough help that they didn't have to lay off teachers and firefighters and police officers across the board. And it worked. We were able to stabilize the economy.
+
+But that still left all the damage that had already occurred. Eight million jobs had still been lost. And more than that, it still left undone the task that I had been running on as President, which was to create the kind of foundation for economic growth that had been missing for 10 years.
+
+Part of what has made this recession so tough is middle-class families were struggling before the crisis hit. They were hurting before the storm struck. They had seen a decade of sluggish growth. They had seen a decade of sluggish job growth. Incomes and wages had gone down for most families when you factored in inflation, at the same time that health care and tuition were all skyrocketing.
+
+So people felt less secure than they'd ever felt. And they kept on seeing jobs moving overseas. And they had a sense that nobody was thinking about them. And you know what? They were right. They were right.
+
+The previous administration and the Republican Congress that had been in charge, they had a simple philosophy. They put a fancy name on it. They called it the “Ownership Society.” But when it came down to it, the philosophy was simple: We are going to cut taxes for millionaires and billionaires, folks who don't need it and weren't even asking for it. We're going to cut regulations and rules that provide some check on special interests. And then we're going to cut loose ordinary folks and tell them, you're on your own. You don't have health care? Tough luck, you're on your own. You're a young person and you didn't choose your parents properly -- {LAUGHTER} -- and so you're poor. Maybe can't afford college? Too bad, you're on your own. You got laid off just short of retirement; you don't know what to do? Too bad, you're on your own.
+
+That was the reigning philosophy before this recession hit. And that's why I went to Washington -- to change that. So our job wasn't just to make sure that we didn't go into a depression. Our job was to figure out how are we going to put this economy back on track so it works for everybody -- not just some, but for everybody.
+
+So every kid here in California is able to say to themselves, if I work hard, if I'm studying, I'm going to be able to afford to go to college. And if I go to college, then I'm going to be able to get a job that pays me a decent wage. And if I've got a job, I'm going to be able to get health care and protect my family. And if I do those right things during the course of my life I'm going to be able to retire with some dignity and some respect.
+
+That's why we went to Washington. That's why so many of you worked so hard to send me there. And so we had a tough task. We had to rescue the economy, but we also had to remind ourselves that we've got to put this country on a different trajectory than we've been on. And we went about the business of doing that, with the help of Nancy, with the help of Chris, with the help of every member of Congress here -- but with no help from the other side.
+
+And as a consequence we have been able to deliver the most progressive legislative agenda; one that helps working families in not just one generation, maybe two, maybe three. So we were able to deliver on health care reform so that we enshrine the principle in this country, the wealthiest on Earth, that nobody should be bankrupt when they get sick. And we were able to make sure that we've got a financial system in which everybody follows the basic rules of the road and you don't make money by cheating people; you make money by offering them decent services.
+
+And then we said, you know what, we're going to make sure that college is accessible to every young person in America. And so we transformed how our student loan program works, so that millions more kids are able to get health -- able to get help on their student loans and their tuition.
+
+Item after item after item when you look at what Nancy and the House have done in combination with Harry Reid in the Senate, what we've delivered is a package of changes that are going to help bolster security for middle-class families. And then we looked at the long term, and we said, look, what are we going to do about energy? And as a consequence invested -- made the biggest investments in clean energy in our history, building solar panels and wind turbines and advanced battery manufacturing plants, and biodiesel all across the country. And we said, we're going to make the biggest investment in research and development in our history, and we did that. All designed to make sure that we are competitive in a 21st-century economy. And we did all this without any help from the other side.
+
+Now, here's the challenge that we've got. We've got a long way to go. People are still hurting. All across America I meet folks or I read letters that are sent to me every night: single moms who are sending out application after application and getting no response from potential employers; people who have been laid off their jobs and have been out of work for a year, year and a half, and now they've depleted all their savings and don't know where to turn.
+
+And so in that environment, you can talk about saving the economy from a potential depression, and you can talk about the long-term vision that makes me so optimistic about America, but right here, right now we've still got a lot of work to do. And that's what makes this election so challenging.
+
+But having said that, I am absolutely confident that we will do well in this election as long as we understand what this election is about, and that is we have a choice between the policies that got us into this mess and the policies that are getting us out of this mess. It's a very simple choice. It's pretty straightforward.
+
+I've used this analogy before. You had a group of folks who drove the economy, drove the country, drove our car into the ditch. And so Nancy and Chris and Barbara and Howard and me, we put on our boots and walked down into the ditch -- it's muddy, and hot, and dusty, and bugs everywhere -- {LAUGHTER} -- we're pushing, and got our shoulders up, and we're slipping and sliding and sweating, and the other side, the Republicans, they're standing there with their Slurpees -- {LAUGHTER} -- watching us. “You're not pushing fast enough!” {LAUGHTER} “That's not how you do it! Do it this way!” And so every once in a while we'd offer, “Why don't you guys come down here, help us push?” “No, no, no.”
+
+Finally we get this car to level ground. Finally we're ready to move forward, go down that road once again of American prosperity, and what happens? They want the keys back. {LAUGHTER} And what this election is about is saying to them, you cannot have the keys back. You do not know how to drive. You don't know how to drive. We're not going to let you take us in the ditch again. {APPLAUSE}
+
+I would make this observation. When you are driving and you want to go forward, what do you do? You put your car in D. {LAUGHTER} You want to go backwards? You put your car in R. {APPLAUSE} We can't afford to reverse back into the ditch. We've got to go forward. That's what this election is about. That's what this election is about. {APPLAUSE}
+
+Now, the Republicans don't have an affirmative agenda. They're counting on two things. They're counting on fear and they're counting on amnesia. They understand the very legitimate fears that people have about the future. And so rather than offer solutions, practical solutions about how we are going to rework our energy policies so that we can deal not only with our national security challenges, not only with our economic challenges, but also create jobs right here in the United States of America, and, by the way, maybe save the planet in the process -- they don't have an answer for that; just more of the same. Same policies. Drill more. That's, I think, basically all we've heard from them.
+
+When it comes to education, we haven't heard new ideas out of them. When it comes to how we're going to spur on innovation in research and development, they're not talking about that. That's not what they are talking about.
+
+When it comes to supposedly their signature issue -- if they want to do something about the big-spending Democrats, we're going to do something about the deficit -- and you keep on asking them, okay, well, what are you going to do? Well, we're going to cut, waste, fraud and abuse. Okay, what exactly waste, fraud and abuse are you going to cut? Well, we'll get to that later.
+
+They're offering fear and they're offering amnesia. They are counting on the notion that you won't remember what happened when they were in charge.
+
+I think the American people do remember. I think they understand exactly what happened when Republicans were in charge. And they've also been watching over the last several months, over the last two years.
+
+My campaign, you'll recall, our slogan was, “Yes, we can.” Their slogan is, “No, we can't.” On every item. On health care, how many times, Nancy, did we reach out to them and say, you know what, we are willing to work with you to come up with some sort of cooperative way to make sure that people aren't prohibited from getting health care because of preexisting conditions and to take seriously how we're going to cut costs in our health care system and strengthen Medicare and make sure that people aren't having unnecessary tests when their results could just be emailed to doctors because of electronic medical records? All kinds of ideas that we kept on offering up, and, “No, we can't.”
+
+On energy, we're willing to compromise on a whole host of different issues, but we've got to have a strategy that starts reducing carbon because we want those clean energy jobs built here in the United States, not in China, not in Germany. {APPLAUSE} What did they say, “No, no, we can't.”
+
+When the auto crisis struck, and we said we can't afford to lose a million jobs in the Midwest in the midst of this huge downturn, and rather than just write checks to the auto companies -- which is what had been happening before our administration took over -- what we said was, we're going to force the auto companies to restructure and hold them accountable and make sure management is producing the kinds of cars and trucks that speak to the future and not just the past. And we raised fuel efficiency standards on cars and trucks for the first time in 30 years. {APPLAUSE}
+
+And we said to the Republicans this represents something iconic about America, the fact that we make things right here in the United States of America. Help us. “No, we can't.”
+
+On issue after issue, they've just said no. Mitch McConnell was quoted I think last week -- maybe it was this week. He said, if we could have obstructed even more, we would have. Is that even possible? {LAUGHTER} How could you obstruct more?
+
+And so that's what the choice in this election is going to be all about. Tax policy is going to be a major issue next year. The Democrats, Nancy, Chris, we want to stop giving tax breaks to companies that ship jobs overseas and give those tax breaks to companies that are creating jobs right here in the United States of America. That's common sense. {APPLAUSE}
+
+And we've got a track record. Right now we've got a bill pending to provide tax breaks, including the elimination of capital gains for small start-up businesses. We've been debating this thing how long now? Six months, a year. And these guys still aren't going for it. The Chamber of Commerce is for it. {LAUGHTER} You know? Now, they usually don't side with me on a lot of things -- although they sided with me on the Recovery Act and they've conveniently forgot about that.
+
+So on issue after issue, the choice is going to be, are we moving forward or are we moving backwards. Now, I think that the American people want to move forward. I'm positive of it. And one of the things I've been saying as I travel around the country is, as tough as these times have been, we've been through tougher times. Our grandparents, our great grandparents, the parents before them, they've gone through Revolutionary War, Civil Wars, slavery and segregation, World War II, Great Depressions. This country has been through some tough stuff. There have been times where the naysayers and the cynics and the pessimists said, our better days are behind us. There have been times where the main currency of politics was making people afraid, trying to divide them, not offering up a way forward and a way to bring people together, but rather trying to point out who is to blame. We've seen that before.
+
+But time after time, decade after decade, somehow we've always found it in ourselves to reach for what's best in us. We've always been able to set our sights on the future. And as tough and sometimes depressing as our politics can get, in opposition to this notion that we can't, somebody said we can.
+
+That's the choice in this election. And if all of you who two years ago or four years ago or six years ago, if all of you remember why we worked so hard and what's at stake, and understand that our task is not yet done, but also recognize the enormous progress that we've made because of the leadership of these members of Congress right here, then we're going to do just fine. And this country is going to be just fine.
+
+While I was taking photos, a woman came up to me. She said, thank you for health care because my child has Type 1 diabetes, couldn't get health insurance once he graduated, and now I know that he's going to be covered.
+
+Today, I was in an advanced battery plant outside of Milwaukee where they are adding manufacturing jobs stamping green technology, “Made in America”. Across the country we're seeing states suddenly reforming their education systems to make sure that we're lifting up those who are underperforming because we know that we've got to have the best possible workforce to compete in the 21st century. We are making progress. We are moving forward.
+
+And so even as the other side wants to offer fear, we're going to offer hope. And I want to make sure everybody here understands, don't bet against the American worker. Don't bet against American businesses. Don't bet against Nancy Pelosi. {LAUGHTER ; APPLAUSE} 
+We are going to move this country forward with your help. We're going to move this country forward with your help, but we are going to need your help. We're going to need your phone calls. We are going to need your knocking on doors. We need your enthusiasm. We need your spirit. We need your confidence that we can continue to make this country even better than it already is. All right?
+
+And if everybody here is able to marshal that spirit once again, I'm absolutely positive we're not just going to do well in this election, we're going to do right by the next generation. {APPLAUSE}
+
+Thank you very much, everybody. God bless you. God bless the United States of America. {APPLAUSE} Thank you. {APPLAUSE} 
+
+{/speech}

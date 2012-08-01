@@ -1,0 +1,40 @@
+﻿{title} Remarks by the President to Women's World Cup Soccer Champions {/title}
+{event} Speech by President to World Cup Soccer Champions {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 19, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President to World Cup Soccer Champions {/description}
+
+{speech} 
+
+Good morning. Please be seated. Hillary and Al and Tipper and I are delighted to welcome all of you here, the members of the team, the members of Congress who are here. We want to welcome Marla Messing, the President of the Women's World Cup; Donna de Varona, the Chairman of the Women's World Cup Organizing Committee. Thank you and -- yes, give them a hand. {APPLAUSE} And we want to welcome this remarkable team -- they are all here, but two, today. That's an amazing turnout. Give them a hand. {APPLAUSE}
+
+We all know this is both a moment of celebration and a moment of sadness for the United States, and our thoughts and prayers are with the families of John Kennedy and Carolyn and Lauren Bessette. It is at times like this that we really stop to recognize that, as big and diverse as our country is, we can come together as a national family. We can come together in sorrow or in joy if it reflects the values that we honor most.
+
+This is one of those moments. The Women's World Cup Champions, here at the White House, brought America to its feet, had us screaming our lungs out with pride and joy. They also didn't spare us the suspense. {LAUGHTER} But their triumph has surely become America's triumph. We are all proud of them and we are thrilled to have them here at the White House today.
+
+As someone who got to watch the game at the Rose Bowl, who sat so far on the edge of my seat I actually almost fell out of the sky box, I can't help recalling just a few moments of that game. Kristine Lilly heading away what would have been a game-winning goal for the other side. {APPLAUSE} She's not here, but I have to mention Michelle Akers charging up and down until she collapsed from shear exhaustion. {APPLAUSE} The perfectly- timed leap Brianne Scurry made to the left to block China's third penalty kick. {APPLAUSE}
+
+I might say, I saw the last three games, and I concluded that if I had to do it all over again, I'd like to be a goalie. {LAUGHTER} No pressure. {LAUGHTER}
+
+And, of course, Brandi Chastain's perfect shot right into the top right corner of the goal to win the World Cup. {APPLAUSE}
+
+The day after the game, a lot of us who aren't so young anymore were trying to search the whole cluttered attic of our memories to try to think if there was ever a time when there had been a more exciting climax to an athletic event that meant as much to so many. I'm not sure that in my lifetime there has been. It's no wonder that so many young girls like Stephanie Howell here are following the lead of our World Cup champions.
+
+Over a half million girls and young women have begun playing soccer in the eight years since America won the World Cup in 1991. Thanks to these women, America's passion for women's soccer and women's sports in general is growing, and we owe them a lot for that. {APPLAUSE}
+
+I also can't help mentioning briefly, again, the role that Title IX has played in all this, and for all of you who have supported it, I thank you very much. {APPLAUSE} I can say this: For the Clintons and the Gores, the proud parents of daughters, it is always a wonderful thing to see women finding new ways of expressing their God-given talents and abilities. Because what we want for our children is what I think all Americans want for all of our children, whether they're girls or boys, which is a chance to find their way and to follow their dreams.
+
+These women have sent a signal loud and clear to millions and millions and millions of girls that they can follow their dreams. And I thank them for that. {APPLAUSE}
+
+Now, you will be happy to know I have exercised some leadership today -- it's over 90 degrees out here and I cut my speech in half. {LAUGHTER ; APPLAUSE} I don't know who's next -- I think Hillary is next, the First Lady. {LAUGHTER ; APPLAUSE} 
+
+--------------------------------------------------------------------------------
+
+You have all been very patient in this warm, hot sun. I want to, again, say thank you all for coming. Thank you for supporting America's soccer team. I want to thank the women on the team. I would be remiss if I did not say, also, how profoundly impressed I was at the quality of their opposition.
+
+You know, when we had the last NCAA Men's Basketball Championship, and UConn beat Duke, the Duke coach said something I think every coach would like to say. He said, we did not lose this game, we were defeated. The German team, the Chinese team, the Brazilian team -- they can honestly say that, too. And this is something happening all over the world, for which I am very grateful. And, again, I am very grateful that our women are leading the way.
+
+Thank you very much. Thank you. {APPLAUSE} 
+
+{/speech}

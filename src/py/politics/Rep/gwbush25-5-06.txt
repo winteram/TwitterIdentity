@@ -1,0 +1,54 @@
+﻿{title} President Attends Change of Command Ceremony for the Commandant of the United States Coast Guard {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 25, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. Thank you for the warm welcome. I'm delighted to be here with you at Fort McNair. I'm pleased to join you in celebrating an historic moment for the United States Coast Guard. This morning we mark a change of command at the helm of America's oldest continuous maritime service. 
+
+Our nation thanks a fine patriot, Admiral Tom Collins, for his leadership these past four years. And we thank his wife, Nancy, and their family for joining us today. We also congratulate Admiral Thad Allen, as he begins his duties as the 23rd Commandant of the United States Coast Guard. And we appreciate the love and support of his wife, Pam, and their fine family, as well. 
+
+I want to thank Michael Chertoff for his distinguished service to our country. I appreciate the other members of my Cabinet who have joined to celebrate Thad Allen beginning his duties as the Commandant: Secretary Elaine Chao, and Secretary Norm Mineta and Secretary Sam Bodman and Acting Secretary Lynn Scarlet. 
+
+I'm honored to be on stage with General Pete Pace, Chairman of the Joint Chiefs, and I welcome his wife, Lynne, as well. I want to thank the members of Congress who have joined us today. I appreciate Master Chief Frank Welch, who is the Master Chief Petty Officer of the United States Coast Guard. I want to thank Captain Wilbur Douglass for his fine invocation. I appreciate the members of the diplomatic corps who are here. Thank you all for coming. 
+
+The history of the Coast Guard dates back more than two centuries, to the Revenue Cutter Service, established by Alexander Hamilton during the presidency of George Washington. Or as I call him, the first George W. {LAUGHTER ; APPLAUSE} 
+
+Through the generations, the men and women of the Coast Guard have stepped forward to defend our nation, to protect our waterways and ports, to enforce maritime law, to safeguard commerce and natural resources, and to rescue those in peril on the seas. Now the Coast Guard is carrying out those missions during a new kind of war. The Coast Guard is vital to our nation's security, and the American people are grateful to stand behind your shield of freedom. 
+
+The Coast Guard is also the world's premier lifesaving service, and the whole world saw your skill and bravery during the hurricanes last year. They saw Coast Guard rescuers plunging from helicopters, lifting people from rooftops, hoisting them to safety. In all, more than 4,000 Coast Guard personnel came to the aid of their fellow Americans and rescued more than 33,000 citizens. One of those saved said this about her rescuers: "They're my guardian angels. I couldn't be here if it wasn't for them." 
+
+Countless others who lived through last year's hurricanes feel the same way. When Americans were at their most desperate, they looked to the skies for help, and they knew their prayers were answered when they saw those rescue choppers from the United States Coast Guard. The Coast Guard performed with courage and distinction, and your response to Hurricane Katrina will go down as one of the finest hours in the Coast Guard's 216-year history. {APPLAUSE} 
+
+In all your work over the past four years, the Coast Guard has benefited from a superb leader in Admiral Tom Collins. Admiral Collins assumed his duties as Commandant shortly after September the 11th, 2001, and has worked tirelessly to transform the Coast Guard for this war on terror. Admiral Collins has led the men and women of this service with honor and respect and devotion to duty. And he's made recruitment and retention a top priority. Thanks to his leadership, recruitment is up and the Coast Guard's retention rate is at its highest level since World War II. 
+
+Admiral Collins has a right to be proud of all that he accomplished in his time as Commandant. Now he has the right to take some time off. {LAUGHTER} Maybe even spend a few afternoons at Fenway Park. {LAUGHTER ; APPLAUSE} Today Admiral Collins will mark the end of a distinguished 38-year career in the Coast Guard. He retires with the admiration and gratitude of the United States. And Laura and I wish him and Nancy all the best in the next chapter of their lives. {APPLAUSE} 
+
+In a few moments, Admiral Collins will pass the duties of commandant to an outstanding successor in Admiral Thad Allen. I came to know Admiral Allen well last September, when he directed recovery efforts after hurricanes Katrina and Rita. We surveyed damage together. We sat one evening on the deck of the USS Iwo Jima, talking about how we could help the folks in that region recover. He gave me regular updates on what was taking place -- an incredibly devastated part of our country. 
+
+It didn't take long to recognize his ability or his integrity or his ability to lead. I knew I could count on Admiral Allen to give me candid judgment. I relied on his steady nerves and his presence of mind in trying conditions. I was impressed by his compassion and his determination to help those who had lost so much. 
+
+Admiral Allen brings his experience with Hurricane Katrina to his new post, and he brings much more. The Admiral is a graduate of the Coast Guard Academy, where he was a star football player -- he still looks like he could hold his own on the gridiron. {LAUGHTER ; APPLAUSE} He spent his life around the Coast Guard officers and enlisted personnel. Admiral Allen's father, Clyde, with us today, served in the Coast Guard. That means Thad followed in his father's footsteps -- I see nothing wrong with that. {LAUGHTER ; APPLAUSE} 
+
+
+At every stage of his career, Admiral Allen has inspired those around him with energy and dedication to service. One of his former colleagues likened Admiral Allen to the Energizer bunny. {LAUGHTER} Another said, "He brings out the best in people, especially in times of crisis." I want to thank Admiral Allen for his willingness to take on this incredibly important responsibility, and I look forward to calling him Commandant of the Coast Guard. {APPLAUSE} 
+
+One of Admiral Allen's most important tasks as Commandant will be to help ensure the federal government is ready for the hurricane season, which begins a week from today. The Coast Guard performed heroically during last year's hurricanes, and other agencies of our government can look to you for example. 
+
+We're determined to learn the lessons of Katrina, and we're doing everything possible to be prepared for the next storm. The Department of Homeland Security has reviewed emergency plans for all 50 states and America's 75 largest cities. The Department is working closely with communities to identify any weaknesses in their plans and to find ways to improve them now. 
+
+Secretary Chertoff has taken steps to reform FEMA, improve partnerships with the Red Cross and the Department of Defense, expand the amount of supplies the federal government has on hand. We're also making it clear that all able-bodied Americans should have the resources necessary to sustain themselves for 48 to 72 hours after a disaster so that emergency personnel can focus on saving those who cannot help themselves. 
+
+I appreciate the many dedicated Americans who are working to prepare for this hurricane season, and I'm confident that if danger arrives, whether from nature or man, the United States Coast Guard will be ready. {APPLAUSE} 
+
+The Coast Guard has always been ready to defend our people and our freedom, and I thank you for your dedicated service. Semper Paratus. {APPLAUSE} 
+
+And now, in recognition of your exceptional service during Hurricane Katrina, I will present the Presidential Unit Citation to the United States Coast Guard. {APPLAUSE} 
+
+May God bless you all. {APPLAUSE} 
+
+{/speech} 

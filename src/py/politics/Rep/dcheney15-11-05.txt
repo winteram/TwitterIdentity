@@ -1,0 +1,46 @@
+﻿{title} Vice President's Remarks at a Groundbreaking Ceremony for the Howard HR Baker, Jr. Center for Public Policy {/title}
+{event} Thompson-Boling Assembly Center and ArenaUniversity of TennesseeKnoxville, Tennessee {/event}
+{speaker} Dick Cheney {/speaker}
+{date} November 15, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. {APPLAUSE} Thank you very much. Well, thank you, I've been looking forward to this visit to East Tennessee, and to your fine university. And I appreciate the warm welcome.
+
+Let me thank John Petersen, of course, the President of UT, for hosting us today. And I want to thank the Baker Center staff, Governor Bredesen, Senator Alexander, Jimmy Duncan, the other officials and supporters of the University of Tennessee present today. It's a delight to be here, and I bring good wishes to all of you -- especially to Nancy and Howard Baker -- from the President of the United States, George W. Bush.
+
+Howard Baker, of course, is a statesman that I first encountered in the late '60s, soon after I arrived in Washington, D.C., and began work as an aide for a congressman. I've greatly admired him now for many, many years. And as many of you know, Howard and I have both served as White House Chief of Staff to the President, but Howard has got a better story about how he was offered the job. The call came from out of the blue, and Howard wasn't at home to receive it. Joy Baker answered the telephone and heard the voice of President Ronald Reagan. She told the President that Howard wasn't home -- he was with their grandson, visiting the zoo. Reagan said, "Wait till he sees the zoo I have in mind for him." {LAUGHTER}
+
+This is a happy occasion for all of us, and we honor Howard on his 80th birthday, and break ground for this great new facility. The Howard H. Baker Jr. Center is an institution of academic excellence and public programs on vital issues of the day, and it's a place where students can gain special insight into the workings of our political system.
+
+It's more than fitting that such a senator be named for a great son of Tennessee -- because all who look for the best qualities in that system, and for the highest standards of integrity in public service, will find it in the life of Howard Henry Baker, Jr.
+
+I feel like I've known Howard forever. We're good friends and I delight in his company. I'm especially grateful to him, as is President Bush, for his recent service as our Ambassador to Japan. We work together on many issues, and Lynne and I have had the pleasure of visiting Howard and Nancy in Tokyo. The United States could not have asked for better representatives for our nation's interests than Ambassador and Mrs. Howard Baker.
+
+Howard's posting to Japan is only the latest chapter in a lifetime of service that reaches back six decades, to the day he put on the Navy uniform during World War II. In every season of his life, he has been the kind of man who commands instant respect. He has a razor-sharp intellect, a well stocked mind, and an unusually retentive memory. He can spot a critical issue and argue his point with the skill of the finest trial lawyer. He's a superb judge of character in others. And when it comes to building consensus, breaking logjams, or simply calming a room, you will never find a man so naturally gifted as Howard Baker. He lives by an inner compass, and by a set of basic rules that have characterized his entire career, which include: listen more than you speak; have a genuine respect for differing points of view; tell the truth -- whether you have to or not; and be patient; be civil.
+
+Howard went to Washington in 1967, as the first popularly elected Republican senator from this great state. Though young, Senator Baker was quickly judged to be wise beyond his years, and gained the kind of respect usually reserved for an elder statesman. The great journalist Theodore H. White once said this about the senior senator from Tennessee: "Seated, he was the tallest man in the room. He was as smooth and well spoken as anyone in a high place, a political professional in the best sense of the word."
+
+It's also the case that Howard Baker does not have a big ego -- and that's a rare quality in the United States Senate. As Howard advanced in the ranks of Senate leadership, nothing could ever take away his good nature or his humility.
+
+Howard Baker became the majority leader just as Ronald Reagan was arriving in Washington, and Reagan's first term would not have been nearly as successful without Howard's steady hand in the Senate. He was simply irreplaceable, and when he announced in 1984 that he was retiring from the Senate, President Reagan said, "I'm not going to let myself think about it because it hurts too much."
+
+It was in his second term that Ronald Reagan asked Howard Baker to return to government service as his chief of staff. At the time, many Americans, myself included, regarded Howard as a strong candidate for the presidency in his own right. If he was to accept the President's offer, he would also have to lay aside any personal ambitions. But it was a critical moment in the Reagan presidency, and the President wanted Howard Baker at his side. So Howard did as he's always done -- he put the country's interests above all else, and took leadership of a White House staff that greatly needed him. The very announcement of Howard's appointment was enough to get things started on the right track. As a former colleague once put it, "When you see Howard coming you start to feel better."
+
+As chief of staff, Howard Baker worked well with a Congress controlled by the other party, and kept the Reagan agenda moving forward at home and abroad. It was during Howard's time at the White House that the INF Treaty was completed, ratified, and signed; and President Reagan made the historic trip where he challenged the Soviet Union to tear down the Berlin Wall. Howard succeeded in that job, as in every stage of his career, because he led by example, instilled confidence throughout the government, and conducted himself with rectitude and honesty and kindness.
+
+It would be an understatement to say that Howard Baker is from a political family. By marriage and by birth, he has an extraordinary lineage in the politics of the 20th century. Many of us fondly recall his late wife, Joy, the daughter of Senator Everett McKinley Dirksen of Illinois. And the wonderful lady in Howard's life today, of course, is Nancy Kassebaum, who served three terms in her own right as a U.S. senator from Kansas, the daughter of our Republican candidate for President in 1936, Governor Alf Landon.
+
+Howard Baker is himself the son of a congressman, Howard Henry Baker, Sr., who ably served Tennessee for many years, and who was succeeded in office by his wife, Irene. And if that isn't impressive enough, let it be noted that Howard's grandmother, Lillie "Mother Ladd" Mauser, was the first woman sheriff in the state of Tennessee. {LAUGHTER}
+
+With that kind of background, Howard Baker has never been afraid to be called an insider. He was born into politics -- and very fortunately for the country, he made politics his calling. He is certainly one of the most accomplished citizens of our time, and has a wonderful perspective on life and public service. Howard is a man who has always counted his blessings, and he speaks with great feeling and eloquence about the endless opportunities of life in America, and about his sense of obligation in giving something back to his country.
+
+Howard once said, "In return for being very fortunate all my life, I try to contribute the best I can of my ideas about how to make the system better; how to contribute to the future welfare of our country; and how to make sure that we remain free, independent, sovereign, and prosperous."
+
+Howard, you've done all that -- and much, much more. And your country thanks you for it.
+
+Howard Baker's family has produced four generations of UT alumni, and I know how much this school means personally to him. It's obvious today how much Howard means to the University of Tennessee. This gentleman from the town of Huntsville has brought tremendous credit to this university, to this state, and to the nation. It's good to know that far into the future, people will come to this place and learn of Howard's career, and of his deep belief in the nobility of public service. And all of us can be proud to have been here on this groundbreaking day, joined in tribute to a great career, a great name, and a great American. {APPLAUSE} 
+
+{/speech}

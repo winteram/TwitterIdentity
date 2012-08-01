@@ -1,0 +1,46 @@
+﻿{title} Remarks by President Obama and President Preval of the Republic of Haiti {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} March 10, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Please be seated. Good afternoon, everybody. And on behalf of the American people, I want to welcome President Préval, the First Lady, and their delegation to the United States.
+
+The President and I have just concluded a very productive meeting in the Oval Office on the urgent and overriding challenges before us -- helping the people of Haiti as they recover and rebuild after one of the most devastating natural disasters ever to strike our hemisphere.
+
+Mr. President, as I did when I spoke to you in those first days after the earthquake, I again want to express to you and to the Haitian people the deepest condolences of the American people. Your grief is shared by our strong and vibrant Haitian American community, some of whom join us here today and who continue to mourn the loss of their loved ones back in Haiti. To you, and to our fellow Americans, please know that you remain in our thoughts and in our prayers.
+
+The United States joins in mourning the loss of American citizens, as more than 100 Americans died in this earthquake -- and our hearts also go out to their loved ones. We also remember that this natural disaster was an international tragedy, taking the lives of Dominicans and Canadians, French, Brazilians, and people from dozens of nations around the world.
+
+President Préval and his delegation offered an update on the status of relief, recovery and reconstruction efforts -- the progress so far and the daunting challenges ahead in a disaster that, even now, defies comprehension. To offer just some perspective on the awful scale of Haitian loss, it's as if the United States, in a terrible instant, lost nearly 8 million people; or it's as if one-third of our country -- 100 million Americans -- suddenly had no home, no food, or water. That gives you a sense of, relative to the populations, what has happened in Haiti. No nation could respond to such a catastrophe alone. It would require a global response. And that's exactly what we have seen these past two months.
+
+Mr. President, even as you and other Haitian leaders have endured your personal tragedies -- losing your own homes, your loved ones -- you have carried on with great courage and determination. You've persevered, leading an international effort with critical support from the United Nations, many partner nations and countless nongovernmental organizations. Representatives of some of the NGOs are here today, and for the extraordinary work that you've done to uplift lives every day -- in Haiti and around the world -- often at great risk to your own lives, we salute you as well.
+
+In this international response, the United States has been proud to play a leading role. Mr. President, we are joined today by men and women representing all the Americans who answered Haiti's call in its hours of need, including members of Congress, and many state and local officials who we thank for their support, and leaders from across my administration -- the Department of State, USAID, Homeland Security, FEMA, Health and Human Services, Transportation, and the Department of Defense, including our great folks at Southern Command. Today I want to thank all of them for leading a swift and coordinated response during one of the most complex humanitarian efforts ever attempted.
+
+We're joined by Ambassador Ken Merten and some of our heroic embassy staff who worked around the clock. We're joined by our disaster response teams, who were on the scene within 24 hours; our military personnel who quickly reopened the airport and the port, making way for a massive humanitarian effort; our search and rescue teams, who crawled into the rubble to pull survivors out to safety, Haitian and American; the volunteer physicians and nurses and paramedics who treated tens of thousands of patients with life-threatening injuries; and all our men and women in uniform who have helped to distribute desperately needed food and water and medicine to millions of people -- our remarkable soldiers, sailors, airmen, Marines and Coast Guardsmen.
+
+I just want to personally say how extraordinarily proud I am of each and every one of you, because I think you represent what's best in America. And I could not be prouder of the response that all of you were engaged in during this humanitarian crisis.
+
+Now, no relief effort of this magnitude is without its difficulties, but there should be absolutely no doubt in anybody's mind, along with their Haitian and international partners, these men and women made a difference. They saved lives -- countless lives -- of men and women and children.
+
+So, Mr. President, if you will permit us this moment to briefly express once again our admiration for all those who stepped forward, who volunteered, who represent the true character of our country and who projected to the world the best face of America -- a face of compassion and generosity. Each and every one of you can take enormous pride at your service, and every single American thanks you for making us so proud. {APPLAUSE}
+
+I also want to acknowledge the enormous generosity of so many individual Americans, who gave what they could to support Haiti even in difficult economic times. That help makes possible an extraordinary response from the courageous and capable nongovernmental organizations that have been at the scene, and that support all kinds of efforts that the government is engaged in. And I know that the support of the American people will continue to be essential as Haiti tries to recover and rebuild.
+
+As President Préval and I discussed, the situation on the ground remains dire, and people should be under no illusions that the crisis is over. Many Haitians are still in need, desperate need in some cases, of shelter and food and medicine. And with the spring rains approaching, those needs will only grow. The challenge now is to prevent a second disaster.
+
+And that's why, at this very moment, thousands of Americans, both civilian and military, remain on the scene at the invitation of the Haitian government. And that's why, even as the U.S. military responsibly hands off relief functions to our Haitian and international partners, America's commitment to Haiti's recovery and reconstruction must endure and will endure. This pledge is one that I made at the beginning of this crisis and I intend for America to keep our pledge. America will be your partner in the recovery and reconstruction effort. {APPLAUSE}
+
+Toward that end, the international donors conference at the United Nations later this month will be an opportunity, an important opportunity, for all parties. Haiti can lead the way, and will lead the way, with a strong vision for its future. The international community can pledge the resources that will be necessary for a coordinated and sustained effort. And working together, we can ensure that assistance not simply delivers relief for the short term, but builds up Haiti's capacity to deliver basic services and provide for the Haitian people over the long term.
+
+So, Mr. President, in the face of devastation that shocked the world, the people of Haiti responded with resolve and faith that inspired the world -- in song and in prayer, and in the determination to carry on. As you declared during last month's national day of mourning, it is time to wipe away the tears; it is time for Haiti to rebuild.
+
+And to you, and to the Haitian people, I say today, as you embark on the heavy work ahead, you will continue to have a steady and reliable partner in the United States of America. {APPLAUSE}
+
+So with that, let me turn this over to President Préval. 
+
+{/speech}

@@ -1,0 +1,38 @@
+﻿{title} Remarks by the President Upon Arrival {/title}
+{event} Cleveland-Hopkins International Airport, Cleveland, Ohio {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 30, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, first, let me thank all of you for coming out to see Hillary and me. We are delighted to be back in Ohio and glad to be back in Cleveland. And I know I started the baseball season here, so I know you're all really thrilled at how well the Indians are doing. {APPLAUSE} And I -- {COMMENT="Inaudible"} -- hope there won't be a strike.
+
+Is it working now?
+
+Let me just say a -- {COMMENT="Inaudible"} It keeps dying. Can you hear it now? All right, we'll try again.
+
+As you know, I'm here on behalf of Joel Hyatt's campaign. I'm proud to be here helping him. {APPLAUSE} I also want to say how delighted I am to be here with Congressman Louis Stokes, Sherrod Brown, and Eric Fingerhut. {APPLAUSE}
+
+And I want to make just a couple of points. When I came here seeking the presidency, and Ohio gave me the votes first to be nominated -- {APPLAUSE} -- and then to be elected, I knew that this was a state which was really the heartland of America, where people were more or less evenly divided by party, but where everybody wanted this country to work again for ordinary Americans. And I made some commitments to you, that I'd work on restoring the economy, bringing the American people together instead of dividing us, making the government work for ordinary people again, and strengthening our communities and our families at the grass roots.
+
+And let me just say that if you look at what has happened, we have worked very hard, often against bitter, bitter opposition, to make this country work. We adopted a plan to reduce the deficit, after the other party had the White House for 12 years and quadrupled the debt, without a single solitary vote from the other side, we passed the biggest deficit reduction plan in history -- reduced spending by $255 billion; gave tax cuts to 500,000 working families in the state of Ohio alone; asked 47,000, who can afford it, to pay higher taxes to pay the debt down.
+
+Now, what has happened? We, the Democrats alone, without any help unfortunately from Congress from the other party and reduced the federal government to its lowest size since Kennedy was President. {APPLAUSE}
+
+We have taken $700 billion off the national debt that would have been there before we came in and passed our economic plan. And what has been the result -- 3.8 million new jobs; a 1.5 percent drop in the unemployment rate; the largest number of new businesses in any year since the end of World War II. This plan is working and we need to keep Sherrod and Eric and Lou in the Congress and elect Joel Hyatt to keep America's economy going. {APPLAUSE}
+
+The other party, they always talked about how tough they were on crime. But for six years under two administrations there is no crime bill. Last week, the members of the Senate and the House voted for -- to put on the floor of this Congress this week the toughest anti-crime bill in the history of the United States. {APPLAUSE} So those are two reasons that I ran for President on -- restoring the economy, helping to deal with crime.
+
+I just want to say one last thing. This last week was a great week for America. The King of Jordan and the Prime Minister of Israel came to Washington to end their war and to pledge to work for peace. {APPLAUSE} And we've been working hard on that. {APPLAUSE} Peace for our children -- {COMMENT="Inaudible"} 
+
+After working hard on it for a year and a half, the President of Russia called me and told me that Russian troops would get out of Central and Eastern Europe for the first time since World War II, making the world more peaceful for these children here. {APPLAUSE}
+
+But I'm telling you, what we owe these kids is not just peace in the world, but peace on our streets and peace of mind. That means we need to pass the crime bill. We need to provide health care for all Americans. And we need to do it now. {APPLAUSE}
+
+Let me say to you, I went to Washington hoping against hope and against all the evidence that I could work with people of both parties to make this country a better place. And I have done everything I could to overcome the kind of inertia and opposition we have faced. And I just want you to know, if you like the fact that the American economy's recovering; if you like the fact that we're going to finally do something serious about crime; if you like the fact that after years we voted family leave, we voted for the Brady Bill, we voted to make the American people safer, then you ought to keep these people in Congress and send Joel Hyatt to the Senate so we can do things, not stop things. This is a country that's can-do. And we're going to do if you put people in the Congress who believe in making America a better place.
+
+Thank you, and God bless you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,105 @@
+﻿{title} President Discusses War on Terrorism in Address to the Nation {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} November 8, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all very much. Thank you so very much. We meet tonight after two of the most difficult -- and most inspiring -- months in our nation's history. We have endured the shock of watching so many innocent lives ended in acts of unimaginable horror. We have endured the sadness of so many funerals. We have faced unprecedented bioterrorist attack delivered in our mail. 
+
+Tonight, many thousands of children are tragically learning to live without one of their parents. And the rest of us are learning to live in a world that seems very different than it was on September the 10th. 
+
+The moment the second plane hit the second building -- when we knew it was a terrorist attack -- many felt that our lives would never be the same. What we couldn't be sure of then -- and what the terrorists never expected -- was that America would emerge stronger, with a renewed spirit of pride and patriotism. {APPLAUSE} 
+
+I said in my speech to a Joint Session of Congress that we are a nation awakened to danger. We're also a nation awakened to service, and citizenship, and compassion. None of us would ever wish the evil that has been done to our country, yet we have learned that out of evil can come great good. 
+
+During the last two months, we have shown the world America is a great nation. {APPLAUSE} Americans have responded magnificently, with courage and caring. We've seen it in our children, who have sent in more than $1 million for the children of Afghanistan. We have seen it in the compassion of Jewish and Christian Americans who have reached out to their Muslim neighbors. We have seen it as Americans have reassessed priorities -- parents spending more time with their children, and many people spending more time in prayer and in houses of worship. 
+
+We have gained new heroes: Those who ran into burning buildings to save others, our police and our firefighters. {APPLAUSE} Those who battled their own fears to keep children calm and safe -- America's teachers. {APPLAUSE} Those who voluntarily placed themselves in harm's way to defend our freedom -- the men and women of the Armed Forces. {APPLAUSE} 
+
+And tonight, we join in thanking a whole new group of public servants who never enlisted to fight a war, but find themselves on the front lines of a battle nonetheless: Those who deliver the mail -- America's postal workers. {APPLAUSE} We also thank those whose quick response provided preventive treatment that has no doubt saved thousands of lives -- our health care workers. {APPLAUSE} 
+
+We are a different country than we were on September the 10th -- sadder and less innocent; stronger and more united; and in the face of ongoing threats, determined and courageous. {APPLAUSE} 
+
+Our nation faces a threat to our freedoms, and the stakes could not be higher. We are the target of enemies who boast they want to kill -- kill all Americans, kill all Jews, and kill all Christians. We've seen that type of hate before -- and the only possible response is to confront it, and to defeat it. {APPLAUSE} 
+
+This new enemy seeks to destroy our freedom and impose its views. We value life; the terrorists ruthlessly destroy it. We value education; the terrorists do not believe women should be educated or should have health care, or should leave their homes. We value the right to speak our minds; for the terrorists, free expression can be grounds for execution. We respect people of all faiths and welcome the free practice of religion; our enemy wants to dictate how to think and how to worship even to their fellow Muslims. 
+
+This enemy tries to hide behind a peaceful faith. But those who celebrate the murder of innocent men, women, and children have no religion, have no conscience, and have no mercy. {APPLAUSE} 
+
+We wage a war to save civilization, itself. We did not seek it, but we must fight it -- and we will prevail. {APPLAUSE} 
+
+This is a different war from any our nation has ever faced, a war on many fronts, against terrorists who operate in more than 60 different countries. And this is a war that must be fought not only overseas, but also here at home. I recently spoke to high school students in Maryland, and realized that for the first time ever, these seniors will graduate in the midst of a war in our own country. We've added a new era, and this new era requires new responsibilities, both for the government and for our people. 
+
+The government has a responsibility to protect our citizens -- and that starts with homeland security. The first attack against America came by plane, and we are now making our airports and airplanes safer. We have posted the National Guard in America's airports and placed undercover air marshals on many flights. I call on Congress to quickly send me legislation that makes cockpits more secure, baggage screening more thorough, and puts the federal government in charge of all airport screening and security. {APPLAUSE} 
+
+The second attack against America came in the mail. We do not know whether this attack came from the same terrorists; we don't know the origin of the anthrax -- but whoever did this unprecedented and uncivilized act is a terrorist. 
+
+Four Americans have now died from anthrax, out of a total of 17 people who have been infected. The Postal Service has processed more than 30 billion pieces of mail since September the 11th, and so far we've identified three different letters that contained anthrax. We can trace the source of infection for all but one of the individuals, and we are still trying to learn how a woman who died in New York was exposed. 
+
+I'm proud of the way our health care and postal workers -- and the American people -- are responding with calm in the face of this deadly new threat. {APPLAUSE} Public health officials have acted quickly to distribute preventive antibiotics to thousands of people who may have been exposed. The government is purchasing and storing medicines and vaccines as a precaution against future attacks. We are cleaning facilities where anthrax has been detected, and purchasing equipment to sanitize the mail. Thousands of law enforcement officials are aggressively investigating this bioterrorism attack -- and public health officials are distributing the most accurate, up-to-date information we have to medical professionals and to the public. 
+
+To coordinate our efforts we've created the new Office of Homeland Security. Its director, my good friend and former Governor, Tom Ridge, reports directly to me -- and works with all our federal agencies, state and local governments, and the private sector on a national strategy to strengthen our homeland protections. For example, the Coast Guard has taken on expanded duties to protect our shores and our ports. The National Guard has increased -- an increased role in surveillance at our border. We're imposing new licensing requirements for safer transportation of hazardous material. 
+
+We've passed a new antiterrorism law which gives our law enforcement officers the necessary tools to track terrorists before they harm Americans. A new terrorism task force is tightening immigration controls to make sure no one enters or stays in our country who would harm us. {APPLAUSE} We are a welcoming country, we will always value freedom -- yet we will not allow those who plot against our country to abuse our freedoms and our protections. {APPLAUSE} 
+
+Our enemies have threatened other acts of terror. We take each threat seriously. And when we have evidence of credible threats, we will issue appropriate alerts. 
+
+A terrorism alert is not a signal to stop your life. It is a call to be vigilant -- to know that your government is on high alert, and to add your eyes and ears to our efforts to find and stop those who want to do us harm. 
+
+A lot of people are working really hard to protect America. But in the long run, the best way to defend our homeland -- the best way to make sure our children can live in peace -- is to take the battle to the enemy and to stop them. {APPLAUSE} 
+
+I have called our military into action to hunt down the members of the al Qaeda organization who murdered innocent Americans. I gave fair warning to the government that harbors them in Afghanistan. The Taliban made a choice to continue hiding terrorists, and now they are paying a price. {APPLAUSE} 
+
+I'm so proud of our military. {APPLAUSE} Our military is pursuing its mission. We are destroying training camps, disrupting communications, and dismantling air defenses. We are now bombing Taliban front lines. We are deliberately and systematically hunting down these murderers, and we will bring them to justice. {APPLAUSE} 
+
+Throughout this battle, we adhere to our values. Unlike our enemy, we respect life. We do not target innocent civilians. We care for the innocent people of Afghanistan, so we continue to provide humanitarian aid, even while their government tries to steal the food we send. When the terrorists and their supporters are gone, the people of Afghanistan will say with the rest of the world: good riddance. {APPLAUSE} 
+
+We are at the beginning of our efforts in Afghanistan, and Afghanistan is only the beginning of our efforts in the world. No group or nation should mistake Americans' intentions: Where terrorist group exist of global reach, the United States and our friends and allies will seek it out and we will destroy it. 
+
+After September the 11th, our government assumed new responsibilities to strengthen security at home and track down our enemies abroad. And the American people are accepting new responsibilities, as well. 
+
+I recently received a letter from a 4th-grade girl that seemed to say it all: "I don't know how to feel," she said, "sad, mad, angry. It has been different lately. I know the people in New York are scared because of the World Trade Center and all, but if we're scared, we are giving the terrorists all the power." In the face of this great tragedy, Americans are refusing to give terrorists the power. {APPLAUSE} Our people have responded with courage and compassion, calm and reason, resolve and fierce determination. We have refused to live in a state of panic -- or a state of denial. There is a difference between being alert and being intimidated -- and this great nation will never be intimidated. {APPLAUSE} 
+
+People are going about their daily lives, working and shopping and playing, worshiping at churches and synagogues and mosques, going to movies and to baseball games. {LAUGHTER ; APPLAUSE} Life in America is going forward -- and as the 4th-grader who wrote me knew, that is the ultimate repudiation of terrorism. {APPLAUSE} 
+
+And something even more profound is happening across our country. The enormity of this tragedy has caused many Americans to focus on the things that have not changed -- the things that matter most in life: our faith, our love for family and friends, our commitment to our country and to our freedoms and to our principles. 
+
+In my inaugural address, I asked our citizens to serve their nation, beginning with their neighbors. This fall, I had planned a new initiative called Communities of Character, designed to spark a rebirth of citizenship and character and service. The events of September the 11th have caused that initiative to happen on its own, in ways we could never have imagined. 
+
+Flags are flying everywhere -- on houses, in store windows, on cars and lapels. Financial donations to the victims' families have reached more than a billion dollars. Countless Americans gave blood in the aftermath of the attacks. New Yorkers opened their homes to evacuated neighbors. We are waiting patiently in long security lines. Children across America have organized lemonade and cookie sales for children in Afghanistan. 
+
+And we can do more. Since September the 11th, many Americans, especially young Americans, are rethinking their career choices. They're being drawn to careers of service, as police or firemen, emergency health workers, teachers, counselors, or in the military. And this is good for America. {APPLAUSE} 
+
+Many ask, what can I do to help in our fight. The answer is simple. All of us can become a September the 11th volunteer by making a commitment to service in our own communities. So you can serve your country by tutoring or mentoring a child, comforting the afflicted, housing those in need of shelter and a home. You can participate in your Neighborhood Watch or Crime Stoppers. You can become a volunteer in a hospital, emergency medical, fire or rescue unit. You can support our troops in the field and, just as importantly, support their families here at home, by becoming active in the USO or groups and communities near our military installations. 
+
+We also will encourage service to country by creating new opportunities within the AmeriCorps and Senior Corps programs for public safety and public health efforts. We'll ask state and local officials to create a new modern civil defense service similar to local volunteer fire departments, to respond to local emergencies when the manpower of governments is stretched thin. We will find ways to train and mobilize more volunteers to help when rescue and health emergencies arise. 
+
+Americans have a lot to offer, so I've created a task force to develop additional ways people can get directly involved in this war effort, by making our homes and neighborhoods and schools and workplaces safer. And I call on all Americans to serve by bettering our communities and, thereby, defy and defeat the terrorists. 
+
+Our great nation -- national challenge is to hunt down the terrorists and strengthen our protection against future attacks. Our great national opportunity is to preserve forever the good that has resulted. Through this tragedy, we are renewing and reclaiming our strong American values. {APPLAUSE} 
+
+Both Laura and I were touched by a recent newspaper article that quoted a little four-year-old girl, who asked a telling and innocent question. Wondering how terrorists could hate a whole nation of people they don't even know, she asked, "Why don't we just tell them our names?" {LAUGHTER} Well, we can't tell them all our names -- but together we can show them our values. {APPLAUSE} 
+
+Too many have the wrong idea of Americans as shallow, materialistic consumers who care only about getting rich or getting ahead. But this isn't the America I know. Ours is a wonderful nation, full of kind and loving people; people of faith who want freedom and opportunity for people everywhere. One way to defeat terrorism is to show the world the true values of America through the gathering momentum of a million acts of responsibility and decency and service. {APPLAUSE} 
+
+I'm encouraging schoolchildren to write letters of friendship to Muslim children in different countries. Our college students and those who travel abroad for business or vacation can all be ambassadors of American values. Ours is a great story, and we must tell it -- through our words and through our deeds. 
+
+I came to Atlanta today to talk about an all-important question: How should we live in the light of what has happened? We all have new responsibilities. Our government has a responsibility to hunt down our enemies -- and we will. Our government has a responsibility to put needless partisanship behind us and meet new challenges -- better security for our people, and help for those who have lost jobs and livelihoods in the attacks that claimed so many lives. I made some proposals to stimulate economic growth which will create new jobs, and make America less dependent on foreign oil. {APPLAUSE} And I ask Congress to work hard and put a stimulus plan into law to help the American people. {APPLAUSE} 
+
+Our citizens have new responsibilities. We must be vigilant. Obviously, we must inspect our mail, and stay informed on public health matters. We will not give in to exaggerated fears or passing rumors. We will rely on good judgment and good, old common sense. We will care for those who have lost loved ones, and comfort those who might at times feel afraid. 
+
+We will not judge fellow Americans by appearance, ethnic background, or religious faith. {APPLAUSE} We will defend the values of our country, and we will live by them. We will persevere in this struggle, no matter how long it takes to prevail. {APPLAUSE} 
+
+Above all, we will live in a spirit of courage and optimism. Our nation was born in that spirit, as immigrants yearning for freedom courageously risked their lives in search of greater opportunity. That spirit of optimism and courage still beckons people across the world who want to come here. And that spirit of optimism and courage must guide those of us fortunate enough to live here. 
+
+Courage and optimism led the passengers on Flight 93 to rush their murderers to save lives on the ground. {APPLAUSE} Led by a young man whose last known words were the Lord's Prayer and "Let's roll." {APPLAUSE} He didn't know he had signed on for heroism when he boarded the plane that day. Some of our greatest moments have been acts of courage for which no one could have ever prepared. 
+
+We will always remember the words of that brave man, expressing the spirit of a great country. We will never forget all we have lost, and all we are fighting for. Ours is the cause of freedom. We've defeated freedom's enemies before, and we will defeat them again. {APPLAUSE} 
+
+We cannot know every turn this battle will take. Yet we know our cause is just and our ultimate victory is assured. We will, no doubt, face new challenges. But we have our marching orders: My fellow Americans, let's roll. 
+
+{/speech} 

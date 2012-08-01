@@ -1,0 +1,22 @@
+﻿{title} Remarks by the PresidentHonoring the Super Bowl Champion Denver Broncos {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 16, 1998 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good afternoon. Thank you very much. Commissioner Tagliabue, Mr. Bowlen, Coach Shanahan, friends of the Broncos, I'm delighted to see all of you here. I want to especially acknowledge the presence here of Governor Romer and Senators Allard and Campbell and Hatch, Representatives DeGette, Schaefer and Schaffer, and Mayor Webb, Ms. Martinez. And I'd like to say a special word of appreciation to Secretary Federico Pena and his wife, Ellen. He has been Mayor of Denver, the Secretary of Transportation, and now the Secretary of Energy. And this is his last public event before going into the private sector, and he is going out on a high. So, thank you very much, Mr. Secretary. {APPLAUSE}
+
+Let me say to all of you, I think every football fan loved the last Super Bowl. Denver had one of the toughest roads to the Super Bowl in history, winning as a wild card team and a 12-point underdog, and won a magnificent game.
+
+I learned that -- where's Terrell, where are you? {LAUGHTER} I asked him if he thought I would look good in that five-button coat. {LAUGHTER} And he said it wasn't presidential. {LAUGHTER} He was -- I learned in doing a little research for this event that he's the only person to ever win the MVP Award in his hometown, and the only person ever to score three rushing touchdowns. And not only that, he sat out a quarter, as you remember, with a migraine. So that's a pretty impressive performance -- running behind the lightest, but maybe the best offensive line in pro football -- as you can look up here, light is a relative term. {LAUGHTER}
+
+There are a lot of things about this team I like. Three of the players actually have connections to my home state, which made me feel very happy. But I can tell you that maybe the most remarkable thing is loyalty of the community, the steadfastness of John Elway. We're sorry he couldn't be here and we're glad he's okay. Fifteen seasons, over 48,000 yards, and he's the oldest person ever to score a touchdown in the Super Bowl. That's like being light -- old is a relative term. {LAUGHTER}
+
+And, Coach Shanahan, you've only been there three years, which is a remarkable tribute to your ability, and also to the teamwork of this team. I'm sure that every 1,000-yard receiver or 1,500-yard rusher, or star quarterback who's ever been part of a Super Bowl team would say that it's teams that win championships. And a great team won this championship. We're honored to have them in the White House today.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

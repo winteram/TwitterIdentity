@@ -1,0 +1,32 @@
+﻿{title} Remarks by the President and the Vice President to the People of Monroe, Michigan {/title}
+{event} Loranger Square, Monroe, Michigan {/event}
+{speaker} Bill Clinton {/speaker}
+{date} August 15, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Are you ready to win this election for Al Gore and Joe Lieberman? {APPLAUSE} Let me begin by thanking Mayor Cappuccilli and his whole family for meeting me and Hillary and Al and Tipper. I thank you for coming out here today.
+
+When we were riding in here, Hillary and Chelsea and I came in in a separate car from Al and Tipper, but we were looking at all the fields along the way, and then we looked at this really beautiful community that you live in. And it reminded us so much of all the places we visited on our bus tour in 1992, when we all got on the bus together and rode across America. The people who live here are the kind of people we ran to change the future for. {APPLAUSE}
+
+The kind of people that work in our auto plants, and I thank Steve Yogich and the UAW for being here. {APPLAUSE} The kind of people represented in Congress by John Dingell, who is recovering from surgery, but his wife Debbie is here -- and Marcy Kaptur over in Ohio. {APPLAUSE}
+
+And miraculously for us, the people of Michigan and the people of Ohio twice gave us a chance to serve. Al Gore and I have worked for nearly eight years now to put you first, never to forget about you, to get the economy going again and to get our society moving in the right direction, to make us a more united nation, a stronger, a better nation.
+
+I got to talk about that a little last night, and say -- {APPLAUSE} -- I imagine there were some people out there in the country that didn't like it, because when they met a couple of weeks before, they didn't follow that old Joe Friday maxim -- I just gave you the facts last night. {APPLAUSE} And one of the facts that I want to reiterate is that every good thing that has happened that came out of our administration in the last eight years, Al Gore was at the heart of it. {APPLAUSE} He has been a leader for the new economy, a leader for welfare reform, a leader for education, a leader for lowering the crime rates.
+
+The Mayor talked about the brownfield program. That's a program that Al Gore took the lead in initiating that helped this community. {APPLAUSE} You've got a community college here -- we have 10 million Americans taking advantage of the HOPE Scholarship tax credit, which makes community college virtually free in every state in the country. {APPLAUSE} You got it, right? He got it right there, Exhibit A.
+
+When we took office in January of 1993, the unemployment in this community was 8.8 percent. Today, it is 2.2 percent, one-quarter of what it was before. {APPLAUSE}
+
+Now, I want to make just a couple of points and bring on the Vice President. Number one, this wasn't a matter of chance, it was a matter of choice. Not just us -- nothing we did in Washington would have amounted to anything if you weren't doing your part out here -- the working people, the business people, the local leaders of all kinds. I know that. But our job was to create the conditions and give you the tools to live your own dreams and make your own future. And I think the record is clear, this country is better off than it was eight years ago. {APPLAUSE}
+
+Here's the second thing, and I hope you'll take my word for this, because I spent most of my adult life studying economics and the development of our country. The things that have happened in the last eight years, the good things, are nothing compared to the good things that can happen in the next eight years. Nothing. {APPLAUSE}
+
+But we've got to make the right choice. And you, all of you who came out here today, what you owe yourselves and your family and your future is to make sure that every single citizen you know in this country, all your friends and neighbors here, understand exactly what the choice is; what are the differences in the leaders and the parties; on the economy; on crime; on welfare; on civil rights; on choice; on all the issues that will shape our future.
+
+I can tell you that as we move into the future, the nominee of the Democratic Party, my partner and friend for the last eight years, understands where we are, where we're going and how it will affect ordinary citizens more than any other public figure in this country over the last 20 years. He is the right person to be the first President of the 21st century, Al Gore! {APPLAUSE} 
+
+{/speech}

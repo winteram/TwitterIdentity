@@ -1,0 +1,33 @@
+﻿{title} Senator John Edwards Addresses Supporters {/title}
+{event} ----- {/event}
+{speaker} John Edwards {/speaker}
+{date} January 27, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+Look at what we've done. This momentum is extraordinary! {APPLAUSE}
+
+And now, and now, and now, and now, we're going to take this energy and momentum that we saw in Iowa, this extraordinary energy and momentum that we have seen in New Hampshire, and we're going to take it right through February 3, and we're going so to see great victories on February 3. {APPLAUSE}
+
+Yes, we are. 
+
+{AUDIENCE} Edwards! Edwards! Edwards! {/AUDIENCE} 
+
+But we're going to take not only this momentum and this energy, but we're going to take this message, this positive, uplifting vision of hope that has captivated Iowa, has captivated New Hampshire, and will captivate the rest of the country. 
+
+We have so much work to do. We still live in a country where there are two different Americas, one for all those families, all those families who never have to worry about a thing and then one for everybody else. It doesn't have to be that way. You and I can build an America, one America, where we don't have two health care systems, one for families that can afford the best health care money can buy in a country that has it, and one for everybody else, rationed out by insurance companies, drug companies, millions of Americans, who have no health care coverage at all. 
+
+We shouldn't have two public school systems in America, one for the most affluent communities, one for everybody else. We shouldn't have two tax systems, one for the special interests, the big corporations, many of whom pay no taxes at all, and one for all of those families who just work hard every year and pay their taxes and carry the tax burden in America. 
+
+We shouldn't have two economies in America, one for all those families who struggle every single day to get by, to pay their bills. It takes every dime they make just to pay their bills. They can't save anything, because in fact, they're going into debt. 
+
+We can do something for those families and the other families who never have to worry about a thing. We should not have two different economies in America. 
+
+One other thing, an issue you don't hear much about around America today, which is 35 million Americans who live in poverty every single day. I know why politicians don't talk about it. It's not high on any poll, and those folks for the most part don't vote. Here is why we should not only talk about 35 million Americans who live in poverty, but do something about it, because it is wrong, and you and I together have a moral responsibility to lift these families out of poverty. {APPLAUSE}
+
+We can do it. You and I together. Yes, we can. 
+
+{/speech} 

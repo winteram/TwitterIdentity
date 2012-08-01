@@ -1,0 +1,68 @@
+﻿{title} Remarks by the President on Education Technology and Connecting Classrooms {/title}
+{event} The Rotunda of The Exploratorium, San Francisco, California {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 21, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. First of all, I'd like to thank Mr. Delecourt and all of the people who hosted us here. To Mayor Jordan and your outstanding California Commissioner of Education Delaine Eastin and to all of the others who are gathered here today -- thank you very much for being here with us. {APPLAUSE}
+
+I want to say to all the students here that the Vice President and I are delighted to see you. Normally, we would not want to be responsible for taking you out of class, but today we think maybe we have a good reason, and we hope we have a chance to shake hands with a lot of you as soon as this brief ceremony is over.
+
+I want to say to all of the executives of the information companies that we just met with how very grateful I am to you and I'll say a few words about them in a moment.
+
+I came here to San Francisco today to issue a challenge to America to see to it that every classroom in our country -- every classroom in our country is connected to the Information Superhighway. To demonstrate that this is possible, we are all here today to announce a giant step toward that future.
+
+By the end of this school year, every school in California, 12,000 of them, will have access to the Internet and its vast world of knowledge. By the end of this school year, fully 20 percent of California's classrooms, 2,500 -- kindergartens, elementary, middle and high schools, from one end of this state to the other, will be connected for computers. If that can be done in California, we can do it in the rest of America.
+
+But the key is to have the kind of partnership that we are celebrating here. The job of connecting California schools will be undertaken by a wide alliance of private sector companies -- among them, Sun Microsystems, Apple, Xerox Parc, Oracle, 3Com, Silicon Graphics, Applied Materials, TCI, Cisco Systems and others.
+
+Our administration has brought these companies together, we have set goals, but they are doing the rest. Just as the connecting of our classrooms is a model for the 21st century, so is the way we are doing it here today -- with government as a catalyst, not a blank check.
+
+So today, I challenge business and industry and local government throughout our country to make a commitment of time and resources so that by the year 2000, every classroom in America will be connected.
+
+Tens of millions of parents all across our nation have watched their children play every kind of video game from Mortal Kombat and Primal Rage to Killer Instinct and Super Streetfighter. But the really important new computer game in America is learning. And we are going to put it at the disposal of every child in this country by the end of the century.
+
+Last month, I announced a broad initiative to stop our children from being addicted to tobacco because it was bad for them. Today I hope to encourage a good habit -- a lifelong commitment to learning. I want to get the children of America hooked on education through computers.
+
+Our country was built on a simple value that we have an obligation to pass better lives and better opportunities on to the next generation. And we see them all here. Education is the way we make this promise real. Today, at the dawn of a new century, in the midst of an information and communications revolution, education depends upon computers. If we make an opportunity for every student, a fact in the world of modems and megabytes, we can go a long way toward making the American Dream a reality for every student. Not virtual reality -- reality for every student.
+
+The facts speak for themselves. Children with access to computers learn faster and learn better. Scores on standardized tests for children taught with computers, according to "Apple Classrooms of Tomorrow," a 10-year report that is coming out in a few days, caused scores to go up by 10 to 15 percent. Children mastered basic skills in 30 percent less time than would normally have been the case. Also, they stayed in school. Absenteeism dropped from over eight percent to under five percent.
+
+I cannot emphasize how important this is at a time when we want people to stay in school and get as much education as they possibly can. Technology enriches education, it teaches our children how to learn better, as the Vice President and I saw with the young people who walked in with us in their three different exhibitions of learning, and we thank them for that today.
+
+We must make technological literacy a standard. Preparing our children for a lifetime of computer use is now just as essential as teaching them to read and write and do math. With this effort, we are also reinforcing the core convictions that have stood us so well for so long. Computers offer a world that lives up to our highest hopes of equal opportunity for all. And look what we need equal opportunity for all for.
+
+Computers give us a world where people are judged not by the color of their skin or their gender or their family's income, but by their minds, how well they can express themselves on those screens. If we can teach our children these values, if they can learn to respect themselves and each other, then we can be certain we'll have stronger families, stronger communities, and a stronger America in the 21st century.
+
+I could think of no better place for us to begin than here in California -- the state that leads the world in technological innovation. Until now, this leadership too often has stopped at the schoolroom door, for California ranks 45th in the nation in the ration of students to computers. While suburban children often have access to computers in their homes, other children in rural areas and inner cities pass their school years without coming close to the Information Superhighway. The longer they're kept away, the less chance they have of building good lives in a global economy.
+
+Well, thanks to the dedicated Americans gathered here today, all that is going to change. These companies who compete vigorously every day in the marketplace have come together in the classroom. We shared with them our vision, and they shared with us their ideas, their resources, and their know- how. Every company represented here today is making a different contribution, but they're all committed to the goal of connecting California because they know the future depends upon it.
+
+Sun Microsystems is organizing a coalition of companies and volunteering in Net Day, an effort to install networks in at least 2,000 schools. And the number is growing with each new company joining the effort. In the morning, volunteers will arrive at each school. By noon they will have wired the library, the labs, the classrooms. By nightfall, those schools will have the technology they deserve.
+
+Smart Valley, a coalition of Silicon Valley companies, has contributed $15 million to putting technology in our schools. Smart Valley has agreed to develop 500 model technology schools over the next two years.
+
+America Online has offered Internet services for a year. Even those phone companies that are always going after each other on TV have joined forces in this cause. AT & T will provide Internet access and voice mail to all California schools. Sprint will help to connect the schools. MCI will provide software for entry into the Internet and help to connect the schools. And Pacific Bell, which has led the way in linking California schools, is accelerating its efforts this school year by hooking them up to high-speech phone lines.
+
+I want to thank them all, and I'd like to ask the leaders of these companies here to stand, and I hope the children will give them a hand, because they've done a great thing for your future.
+
+Please stand up, all of you who met with me earlier today. Thank you so much. {APPLAUSE}
+
+This is an enormous effort. It will take the same spirit and tenacity that built our railroads and highways. It will take leadership and dedication of groups like the advisory council I have appointed on the Information Superhighway. So let us begin. Let today mark the start of our mission to connect every school in America by the year 2000.
+
+If we can connect 20 percent of the schools in the largest state in the nation in less than a year, we can surely connect the rest of the country by the end of the decade. In the coming days, I will announce the winners of our Technology Learning Challenge. And over the next several weeks, I will put forward a public-private partnership plan that lays out how we can move our entire nation toward the goal of technological literacy for every young person in America.
+
+Here are its guiding principles: Modern computers in every classroom, accessible to every student from kindergarten through 12th grade, networks that connect students to other students, schools to other schools, and both to the world outside. Educational software that is worthy of our children and their best aspirations and, finally, teachers with the training and the assistance they need to make the most of these new technologies.
+
+Make no mistake: You can count on us for leadership, but the goal we have set cannot be set and cannot be achieved by government alone. It can only be met the way these companies are doing it -- with communities, businesses, governments, teachers, parents and students all joining together -- a high-tech barn-raising.
+
+What we are doing is the equivalent of going to a dusty adobe settlement in early 19th century California and giving every child a slate and a piece of chalk to write with. It's akin to walking into a rough-hewn classroom in the Sierras of the 1860s and wiring it for electricity for the first time. It's like going to the Central Valley in the 1930s to the canvas classrooms of the Dust Bowl refugees and giving every child this book. Chalk boards, electricity, accessible books -- there was a time, believe it or not, when all these were rare. Now, every one is such a familiar part of our lives that we take them for granted.
+
+If we stay on course, we'll soon reach a day when children and their parents and their teachers will walk into a classroom filled with computers, and not even give it a second thought. Let's go to work. Our future depends upon it, and these children's lives will be better for it.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,59 @@
+﻿{title} Remarks by the President at the Democratic National Committee Gala {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 2, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Mr. Vice President, thank you for that overly generous introduction. I loved every word of it. {LAUGHTER} That five minutes was the best five minutes I ever lost in my presidency. He hasn't been the same person since. 
+
+I want to thank Tipper and Al and Hillary, all of them in their various ways for being unique parts of our rather unique team. I want to thank Tommy Lee Jones for coming here tonight and for giving that fine speech and being loyal to his old friend, Al Gore. {APPLAUSE} 
+
+You know, I'm not as mobile as I normally am, and I've been in this big old awkward chair, and I heard Tommy Lee's voice sort of booming out, you know, and I couldn't decide whether I was the fugitive and I ought to be on the run, whether I was Batman and I should duck -- I didn't know what I should do. You know, I really enjoyed watching Tommy and Al's friendship; they have a lot in common. They sort of like to shoot the bull, and when they get around each other -- they've been friends so long, their accents get thicker, you know. And the stories get more embellished. Just like any other two rednecks from Harvard you ever met. {LAUGHTER ; APPLAUSE} 
+
+I want to thank our distinguished leaders, Governor Romer and Steve Grossman, and the dinner chairs, Abe Pollin, Tommy Boggs, Morty Barr, Janice Griffin, Bob Johnson. Thank you, Alan Solomont and Dan Dudko and Carol Pinskey. Thanks to the entertainers. But I'd like to ask you all to give a special hand to our dinner chairs -- they worked like crazy to bring this off for us tonight and I thank them for it very much. {APPLAUSE} 
+
+I won't take long tonight, but I want to just reinforce a couple of things the Vice President said. Tomorrow, we're going to dedicate this memorial to Franklin Roosevelt -- a man who believed in bold, persistent experimentation; a man who became President at the country's lowest ebb in this century and whose faith and optimism and determination carried us a very long way. When Al Gore and I sought your support and the votes of the American people in 1992, we were, thankfully, in nowhere near that much trouble. But it was clear that we were in the midst of drift and division and deadlock. It was clear that we were going through a period of profound change, moving into a new century, a new millennium and a new way of living together, and that we had, as a nation, no clear strategy to pursue. 
+
+And I had a simple idea that I wanted my daughter and her children to grow up in an America in the 21st century where everyone willing to work for it had opportunity; where all citizens recognize that there were no rights without responsibility; where we cherish our diversity, instead of being torn asunder by it; and we grew together, closer as one America; and where we embrace the world, instead of running away from it; and we're glad to be still the leading force for peace and freedom and prosperity. That is what I want, that is what I wanted, and that is what we are going to have in the 21st century, thanks to you and millions of Americans like you all across this country. {APPLAUSE} 
+
+And I thought to do it, we would have to experiment. I had some ideas that people said were nutty, and they weren't appropriately pure. They were not perfectly liberal, or perfectly conservative. I had this crazy idea that you could reduce the deficit and still increase investment in people, in education; that you could actually reduce the size of government, but put more money into the things people needed; that you could actually help business and labor; that you could actually grow the economy and preserve and even improve the environment. 
+
+Now, we started this economic program and all of our friends in the other party voted against it and said it was crazy and it would never work. Well, sooner or later, the posturing has to not count nearly as much as the results. We had a record number of new jobs, a record number of new businesses; we have the strongest, healthiest economy in 30 years; and wages are going up and inequality in this country is going down among working families for the first time in over 20 years. And you should be proud of that because you made it happen. I'm proud of it, and I want you to be proud of it. 
+
+I had this idea that crime was not a political football that you should position yourself around in Washington with a bunch of rhetoric, that it really would make a difference if we put community policing back into America's streets, and we put more police on the street. Not just Dwayne and Eddie, the two that Al put when he was President, but -- {LAUGHTER} -- 999,998 more. And we're well on the way. 
+
+And I thought it was silly to say that an American citizen couldn't favor the right of sports people and hunters to use their weapons and not be for sensible, restrained gun ownership and acquisition by criminals, and dangerous people and people who were incompetent should not have them. I thought that was wrong. {APPLAUSE} 
+
+When we passed the crime bill, they said, well, it didn't fit into anybody's little box. All I know is crime is still going down every year; there are more police on the street, America is a safer place today because we were interested in what would work to fulfill our values. And if people are not secure in America they are not fully free. We were right, and you should be proud of that. I want you to be proud of it. {APPLAUSE} 
+
+Well, I could go through a lot of other issues. I'm proud of what we did in Haiti and Bosnia, and the Middle East and Northern Ireland. I'm proud of the way we reached out to Russia and to expand NATO. I'm proud of the fact that we said we are going forward as one country and we started the AmeriCorps program, to give young people a chance to serve their country and earn some money to go to college. {APPLAUSE} 
+
+And as I look back on it, I would have to say that, thanks to all those things and the Family and Medical Leave law, the initiative on tobacco and a lot of other things, this country has more opportunity, more responsibility, a closer knit community and is stronger in the world in its leadership role than it would have been if we'd stayed the course that was dominant in 1992. You were right, and you should be proud of it -- {APPLAUSE} -- and a whole lot better off than we'd have been if the Contract with America had not been stopped in 1995. {APPLAUSE} 
+
+Now, in the first hundred days of this administration, Democrats and Republicans are working in good faith in the hope that we can reach a budget agreement. But what we want is simple and clear: we want to balance the budget and invest more in education, extend health care to children. Yes, we didn't win the health care fight, but Franklin Roosevelt was for experimentation. I'm glad I tried to give the hard-working families in this country health insurance. I'm not sorry I tried to do that. I think we were right to try, and we ought to at least give it to the children of America in this term. We can do that. {APPLAUSE} 
+
+We ought to continue to clean up the environment. Now that we're requiring people on welfare who are able-bodied to go to work, we ought to make darn sure the jobs are there for them. And we ought to stop the punishment, unjust, of legal immigrants in this country who work hard and do their part to make our country strong. {APPLAUSE} 
+
+We've got that kind of budget, and I hope we've got that kind of budget negotiations going. We've got 20 percent of the country committed already in the first 100 days to embracing national standards for learning, and for the first time ever in America, having an examination of 4th and 8th graders in reading and math. We have got hundreds of businesses -- hundreds and hundreds -- committed to helping us move a million people from welfare to work. 
+
+We had Hillary's Conference on Early Childhood and the Brain and the magnificent Summit of Service in Philadelphia last weekend. That embodies what I think America is at its best. Putting people first, putting our country's future first, not taking cheap shots. And after a long fight, we also ratified the Chemical Weapons Convention, which will take us a lot way toward eradicating the threat of chemical weapons from the face of the Earth. {APPLAUSE} We are moving in the right direction. 
+
+What I want to say to you tonight in closing are two brief points: First of all, it bothers me that members of both parties, at this moment of America's greatest influence, most profound economic and social renovation, when we are in the greatest position of all to try to bring the people of the world together in economic cooperation and competition, advancing democracy and human rights, finding ways globally to preserve our little planet's environment -- that people in both parties somehow feel afraid of the future and afraid of the rest of the world, and don't want to eagerly embrace it. 
+
+If you believe for a moment that we can fulfill the legacy of Franklin Roosevelt and continue to lead the world by hunkering down, withdrawing, turning our backs on a waiting world that longs for what we now almost take for granted, that is wrong. The Democratic Party at the end of World War II under Franklin Roosevelt and Harry Truman said to the rest of the world, come on, we'll all get together and go forward together, and I want you to be a part of that kind of Democratic Party for the 21st century. {APPLAUSE} 
+
+And the last thing I want to say is that Franklin Roosevelt was an awfully good politician. After all, he managed to get himself elected four times. He managed to always look happy and strong and confident no matter what personal pain he might have endured. And he was marvelously successful because he liked people and he liked politics. 
+
+And I hope you're here tonight because you like politics. And I hope you never stop liking politics. And I wish that we could have had this event tonight in the Lincoln Bedroom, but we did not have enough coffee in the White House. {APPLAUSE} 
+
+Now, the next time somebody asks you why you're helping us, tell them the stories I told you tonight and think about the people you know whose lives have been changed by what we have done in moving the AIDS drugs more rapidly to market, in coming out for the Family and Medical Leave law, in making college more affordable for people, in creating all these jobs to give people the chance to work in dignity, and having the biggest drop in welfare reform in the history of the country. Now, you think about that. All that was made possible by the American political system. 
+
+I am proud of you. I want you to be proud of you. And I want you to get up tomorrow and say, I'm glad I was part of that. America is better than it was four years ago. It's going to be better four years from now. And the most important thing is my grandchildren will live in a 21st century that is worthy of America's glorious past. 
+
+Thank you and God bless you all. {APPLAUSE} 
+
+{/speech} 

@@ -1,0 +1,18 @@
+﻿{title} Courting the Middle Class {/title}
+{event} ----- {/event}
+{speaker} Al Gore {/speaker}
+{date} September 18, 2000 {/date}
+{source} http://www.pbs.org/newshour {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+Just seven weeks from tomorrow, Americans go to polls to choose a new future. Seven short weeks from tomorrow, we face a choice, not of politics or personality, but of priorities. What are we going to do with our nation's prosperity? What are we going to do with those budget surpluses that have been built up? What are we going to say is most important when we talk to our kids and follow up our words with our actions? Will we squander this chance on a huge tax cut for the wealthy at the expense of the middle class that hurts our prosperity and progress, or will we fight for middle class families and men and women who are paying the bills, making mortgage payments and house payments and car payments -- I mean, and doing right by their kids? I'll tell you, it makes a huge difference whether or not you have somebody who will fight for you, and I want to fight for you! That's why I am running. That's what this race is all about. {APPLAUSE} 
+
+Together, let's make sure that our prosperity enriches not just the few, but all of our families. Let's support parents and strengthen families. Let's invest in education, middle-class tax cuts, health care, and a secure retirement. This election... this election isn't about me or my opponent. It's about you. It's about your future. It's about our country and what kind of nation we are and what kind of nation we wish to become. And so setting priorities in this election makes the stakes much higher than they've been at many times in the past. We need to make it a priority to cut taxes for working families and the middle class, not just to pay for college and job training, but for health insurance and child care and long-term care. That's very different from what the other side is proposing. The other side has proposed a giant tax cut mainly for the wealthy. 41% of all of their tax cut would go to the wealthiest 1%. For every $10 that goes to the top 1%, middle class families would get one dime and low- income families would get one penny. 
+
+Let me say, I'll never go along with a big tax cut like that for the wealthy that hurts the middle class and stops our prosperity and progress. Are you with me? {CHEERS ; APPLAUSE} I know one thing about the job of President: The presidency is the only position in the Constitution that's filled by someone who is given responsibility to fight not just for one state or one district, or for the wealthy and powerful, but for all of the people, especially those who have the hardest time fighting back against special interests who have the advantage over them. So having a President in the White House who will care about you and who will fight for you can make all the difference in balancing things out and giving you a chance to realize your dreams and do right by your family, because I will fight any interest that gets in your way and has an unfair approach to holding you back. {APPLAUSE} 
+
+
+{/speech} 

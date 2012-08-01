@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President to the People of the San Diego Area {/title}
+{event} Organ Pavilion of Balboa Park, San Diego, California {/event}
+{speaker} Bill Clinton {/speaker}
+{date} October 16, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, San Diego. Thank you for being here tonight. {APPLAUSE} Thank you for your support and your concern for our country. You had a pretty good seat at the debate, didn't you? {APPLAUSE}
+
+The first thing I want to say is, I hope you were proud of your fellow Californians who were the citizens on that debate. They did a good job. They asked good questions and it made me feel good about it. {APPLAUSE}
+
+I want to thank the people who are here with us tonight. Thank you, Deputy Mayor Valerie Stallings, for your comments and for being here. Thank you, Lieutenant Governor Gray Davis. Thank you, Congressman Bob Filner, the best advocate this county ever had. {APPLAUSE} If you had any idea how much time Bob Filner spends burning my ear about something for this area, you would double his pay and cut his hours. It's amazing what he does. {APPLAUSE} I also want to say a special word of appreciation to Peter Navarro, who is also running for Congress, and I want you to help him get elected. Stand up, Peter. {APPLAUSE}
+
+We have some other congressional candidates in the audience. I know Dan Farrell, Rita Tamarius, Gary Westley. Are they here still? Good for you. Thank you for running. {APPLAUSE} Thank you, Howard Wayne, for running for the Assembly. I know you're here. {APPLAUSE} Thank you, Representative Richard Katz, for being here. {APPLAUSE} And Susan Davis, thank you for being here. {APPLAUSE} Thank you, State Senator and the leader of the State Senate, Senator Lockyer. Thank you for being here. And thank you, Kathleen Connell, for your leadership in the State Controller's office.
+
+Ladies and gentlemen, I want you to join me in thanking the people who provided our music -- the Lincoln High School Gospel Choir. Where are they? {APPLAUSE} The Scripps Ranch High School Marching Band. {APPLAUSE} That's how we build a crowd, you know. You bring a band and all their relatives come and their friends. It's great. And Little Feat, weren't they great? Give Little Feat a hand. They were terrific. {APPLAUSE}
+
+Folks, I'm so glad to see you here tonight. I'm so glad to see so many young people here tonight. It's your future we're fighting for. {APPLAUSE}
+
+You know, I have had a lot of good and some very moving days in California since I have been President. I've had a lot of great days in this county since I first started coming here as a candidate. And I was thinking tonight -- hoping that I would get some questions about it -- but I want to say to you, the people of this county have worked with our administration and that's why we've been able to double the border guards here, why we've been able to invest in cleaning up the environment here, why we've been able to help put more police on the street here, why we've been able to guarantee that there will be more contracts with that shipyard here, so that those folks who asked me not to forget them will have jobs into the 21st century. And I thank all of you who had anything to do with that. {APPLAUSE}
+
+You know, tonight you heard two very different visions of our future. And what you also heard was what I think is the last debate I'll ever be in as a candidate -- unless I run for the school board some day. {LAUGHTER} But while it was my last debate, I hope it was the beginning of a lot of conversations that all of you will have about what our country is going to be like in the 21st century. There are enormous tactical consequences to the ideas that we have -- whether you really believe that we're better off on or own, or whether we're better off when we work together to give each other the tools to make the most of our lives and our families and our communities.
+
+There's a lot of significance to whether you believe we should build a bridge to the future we can all walk across, or just show people the Valley and say, I hope you can find some way to get over it; whether you believe that we're out there on our own because the government is intrinsically our enemy or whether you think that the government is just another part of this great partnership we call America, and Hillary was right, it does take a village to raise a child and build a community and build a future. {APPLAUSE}
+
+I want all of you to know, especially the young people that -- {APPLAUSE} -- I want you to know that, as someone who is not so young anymore, I am more idealistic today about the promise of this country than I was the day I took the oath of office as President. {APPLAUSE} I have more confidence today in our ability to work together to make good things happen for America than I did the day I took the oath of office. I have more conviction today that our best days are still ahead. And I know that 20 days from now, if we decide that together we're going to build that bridge, that our best days are still ahead, and your best days are still ahead and America will still be the greatest country in human history in the 21st century. {APPLAUSE}
+
+Will you help me build that bridge? Will you help me do it for 20 more days? {APPLAUSE}
+
+Thank you and God bless you all. Thank you. {APPLAUSE} 
+
+{/speech}

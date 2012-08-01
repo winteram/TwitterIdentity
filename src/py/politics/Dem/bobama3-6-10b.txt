@@ -1,0 +1,54 @@
+﻿{title} Remarks by the President at U.S.-India Strategic Dialogue Reception {/title}
+{event} U.S.-India Strategic Dialogue Reception {/event}
+{speaker} Barack Obama {/speaker}
+{date} June 3, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Good evening, everyone. Namaste. I want to thank Secretary Clinton for your outstanding leadership. And I want to thank Minister Krishna for both the kind words and the incredible work that you've put in to try to strengthen even more and deepen even more the relationship between the two largest democracies in the world.
+
+Secretary Clinton, I think as you may be aware, is a great admirer of India, and I know the sentiment is shared in return. In fact, I'm told that one of the Secretary's favorite restaurants in Delhi added a new item to the menu —- the “Hillary Platter.” {LAUGHTER} This is true. What does it have -- chapati?
+
+{OTHER-SPEAK} It's got all kinds of things. {/OTHER-SPEAK} {LAUGHTER}
+
+{AUDIENCE-MEMBER} Mr. President, you must try -- {/AUDIENCE-MEMBER} 
+
+I will try that, too. {LAUGHTER}
+
+Now, it's been said -- and Hillary alluded to this -- that there are two kinds of people in the world —- those who do the work and those who take the credit. There's a corollary to the saying: Try to be in the first group because there's much less competition. {LAUGHTER} It's a lot less crowded. {LAUGHTER}
+
+Well, Prime Minister Singh and I are very proud to take credit for our two nations forging an unprecedented partnership through this Strategic Dialogue. But tonight I wanted to come by and express my gratitude to all of you —- not only Secretary Clinton and Minister Krishna, but also everybody in attendance, who are actually doing the hard work of advancing the goals that Prime Minister Singh and I set forward in our bilateral meetings. I want to not only thank Minister Rao -- Minister Krishna, but I also want to thank Secretary Rao and members of the Indian delegation; our two wonderful ambassadors, Meera Shankar -- where did she go? There she is -- as well as my great friend, Tim Roemer; and leaders from across my administration.
+
+And I want to thank everybody who's here, from India and the United States, who works every day to bring our countries even closer together -— leaders in business, in civil society, academia, faith groups, especially our many friends from our very strong, very proud, very vibrant Indian American community.
+
+I was just telling Minister Krishna that right before I came here I was congratulating the National Spelling Bee champion, who was a young Indian American young lady. And her parents could not have been prouder. And it just was a wonderful reminder of how strong the bonds between our two countries are.
+
+Michelle and I were honored to welcome Prime Minister Singh and Mrs. Kaur to the White House for the very first official state visit of my presidency. It was a state visit that demonstrated that our relations with India are at the highest of priorities for my administration, and for me personally as President of the United States.
+
+I said then that India is a leader in Asia and around the world. It's a rising power and a responsible global power. That's why I firmly believe that the relationship between the United States and India will be a defining partnership in the 21st century.
+
+The new National Security Strategy that I released last week makes this absolutely clear: A fundamental pillar of America's comprehensive engagement with the world involves deepening our cooperation with 21st century centers of influence -— and that includes India.
+
+Moreover, the relationship between the United States and India is fundamentally unique -- because, as our strategy explains, we share common interests, but we also share common values, as the world's two largest democracies, and as countries that are rich in diversity, with deep and close connections among our people.
+
+In other words, the United States values our partnership not because of where India is on a map, but because of what we share and where we can go together. India is indispensable to the future that we seek -- a future of security and prosperity for all nations. That's why a third of my Cabinet has already visited India -- not only for the chapatis. {LAUGHTER} That is why officials from across my administration are part of this Strategic Dialogue. That's why I want to thank you for the progress that we've made together since Prime Minister Singh's visit.
+
+We're deepening our economic cooperation -- on finance and investment and the trade that creates jobs in both of our countries. And I look forward to working with Prime Minister Singh and our fellow G20 partners this month in Toronto as we work to foster economic growth that is both balanced and sustained.
+
+With our agreement on fuel reprocessing, we're moving ahead with our civil nuclear agreement. We're expanding our Green Partnership to promote green buildings, energy efficiency and the sustainable development that creates jobs and reduces poverty. And as we strive to implement our Copenhagen commitments, we'll be working together to ensure a successful climate conference in Mexico later this year.
+
+We're cooperating more closely than ever before against transnational threats. This includes, as Minister Krishna alluded to, making progress for the Afghan people and preventing terrorism, whether it's in Manhattan or in Mumbai. It includes securing vulnerable nuclear materials, a goal we advanced at our Nuclear Security Summit, where I thanked Prime Minister Singh for committing India to building a new center of excellence for nuclear energy and security. And our efforts include a stronger global nonproliferation regime where all nations live up to their obligations.
+
+We're broadening partnerships between our people, especially in science, technology and global health. More students are taking advantage of our expanded Fulbright-Nehru program. We're working to expand ties between our universities and community colleges. And we're partnering on agriculture and research to reduce global hunger and to share India's incredible progress with other countries.
+
+Finally, as global partners, we're going to sustain this momentum at the highest levels. During his state visit, the Prime Minister graciously invited me and my family to visit India this year, and I happily accepted. And as I confirmed to him when we spoke last week, I am delighted to announce tonight that I plan to visit India in early November. {APPLAUSE} I look forward to advancing our partnership, to experiencing all that India and its people and its incredible ancient culture have to offer —- and I intend to create an “Obama Platter.” {LAUGHTER}
+
+As I look ahead to my visit, I've got another quote that matches up pretty well with Mark Twain's. There's a scholar from Europe who traveled to India more than a century ago, and he said, “Whatever sphere of the human mind you may select for your special study, whether it be language, or religion, or mythology, or philosophy, whether it be law or customs, primitive art or science, you have to go to India.” Because, he said, “some of the most valuable and instructive material of the history of man are treasured up in India and India only.”
+
+So when it comes to the sphere of our work —- building a future of greater prosperity, opportunity and security for our people, there is no doubt: I have to go to India. But even more, I am proud to go to India, and I look forward to the history that we will make together —- progress that will be treasured not just by this generation but by generations to come.
+
+Thank you very much, everybody. 
+
+{/speech}

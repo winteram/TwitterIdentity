@@ -1,0 +1,62 @@
+﻿{title} Remarks by the President at Meeting with Mayors {/title}
+{event} Meeting with Mayors, State Dining Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 5, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Let me say, first of all, welcome to the White House. Mayor Jackson, I saw your brother earlier today at the signing of the Family and Medical Leave Act and he was bragging on you; said you're now as thin as he is. {LAUGHTER} I assured him I would still be able to recognize you when I saw you. {LAUGHTER}
+
+This has been a wonderful day here at the White House. Congress adjourned -- {LAUGHTER} -- but only after passing the Family and Medical Leave Act; we had a great signing this morning. {APPLAUSE} It was a great bipartisan effort, about a third of the Republicans in the Senate voted for it. And it was a really good way to start the day.
+
+I'm glad you're here. I know you've been meeting with Secretary Cisneros, who's one of your own. There are times when we meet when I can't tell whether he's changed positions or not -- {LAUGHTER ; APPLAUSE} -- which I suppose from your point of view is a good thing.
+
+Most of you in this room I know well. I've spent a lot of time in your communities, and you have played a major role in my political education. I assure you that I think every day about many of the places we've been and the things we've seen and the things I have learned from you. I think that the time I spent in our country's cities in this last election that was in many ways the most instructive time that I spent. And one of the things that impressed me so much is that so many things against all the odds are being done that work. And I want you to help me now figure out how to make those things that work the rule rather than the exception in American life.
+
+I told the governors when they came in here and spent some time with me earlier this week on the subject of health care impressed me so much is that so many things against all the odds are being done that work. And I want you to help me now figure out how to make those things that work the rule rather than the exception in American life.
+
+I told the governors when they came in here and spent some time with me earlier this week on the subject of health care that if somebody asked me to name my greatest failing as a governor after 12 years, it was that I never could quite figure out a way to make the exception the rule; to take those things that worked and make them work everywhere.
+
+In that connection, I have been working with Secretary Cisneros and have sent, after working it out with him, a directive to him today to deal with a number of specific things that I know are important to all of you: First, to establish a weekly mechanism for communication with the state and local leaders of our country on issues of housing and urban development. And I hope we'll have a chance to talk about both of them because they are related; but they aren't the same.
+
+Second, to try to expedite the programs that are already there now, to unclog some $6 billion that have been in inexplicably tied up in the pipeline of the federal government that have already been appropriated; to speed up by three to four months the processing of the over $3 billion in public housing funds that are available and to try to accelerate the real implementation of the home program where there's $2.5 billion in largely unmoved funds because of the administrative system of this department has been largely paralyzed.
+
+I told Henry when I asked him to take this position that there was some risk because of the pall which had been cast over HUD and the problems of past years and because there had been a lot of rhetoric but not enough action out of the department in recent years. We're going to do what we can to marry rhetoric and action. We don't promise to shut up, but we promise to try to do some things.
+
+I also want to tell you that I'm going to do the best I can in this upcoming stimulus and economic package to do what I said I would do -- to bring down the deficit but to increase investment at the same time in ways that will make available more funds for the cities.
+
+I remember Mayor White, when we were in Cleveland with Congressman Stokes, you said you thought we ought to increase the community development block grant funds because you could move those more quickly to create jobs. And there will be a fairly sizable increase in that in the proposed stimulus package to try to help you create jobs.
+
+Let me just make a couple of general remarks about where we are on this whole economic approach, and then I'd like to hear from you and I'd like to just be as informal in conversation as possible.
+
+The economic news is good but mixed and incomplete. That is, starting in the last quarter we have begun to have two pieces of good economic news: one is that productivity is increasing, and that's good. Companies are making more money, they're figuring out how to compete in a tough international environment. Two is that there's a lot more economic activity around housing as low interest rates finally are letting millions of Americans refinance their home mortgages, others get into buying homes; and that's all been good.
+
+Then since the election, there have been two good pieces of economic news that I think the election can fairly claim some credit for. One is that consumer confidence started going up in November and exploded in December, and it's going to be strong in January. The second is that the financial markets generally are upbeat about the direction that our administration has outlined, which means they take us seriously, that we're going to try to do what many say is impossible, which is to increase investment and reduce the debt at the same time.
+
+So, that's the good news. The bad news is that in this economy, the downsizing of big firms is continuing apace. It started in the 1980s, when every year of the 1980s, the Fortune 500 together reduced employment in the United States by about 400,000 people per year -- big, big reductions in employment.
+
+In most years, that was offset by job increases in small and medium-sized companies. Now, that is not happening, even though this recovery is in place. So you have this strange thing where the economic indicators are going up in the last quarter like crazy, but the unemployment rate is higher than it was at the depth of the recession. And for 14 months we've had a national unemployment rate over 7 percent. Why is that?
+
+I think there are several reasons, but let me just say there are plainly three. One is that small business cannot afford to hire new workers and make up the slack from big business cuts because of the exploding costs of health care. Two is that small businesses that want to hire workers can't get credit because of the credit crunch, which is more heavily concentrated in some places than others, and particularly in California and southern Florida -- in Texas, but generally across the country. The third is that the defense cutbacks have accelerated the loss of high-wage manufacturing jobs without any offsetting industrial strategy or conversion strategy in America, which has been particularly devastating for Southern California, for Connecticut and for one of two other places, but has been generally felt across the country.
+
+So the first thing I've got to try to figure out how to do is how to keep this economic recovery with all these big numbers going, but to actually help real people out of it. How are we going to generate some more jobs? One way is to put some more money into basic construction, which would affect you. We're going to try to accelerate the funding of ISTEA, which would help you. We're going to try to put some money into this stimulus package. It will be modest, because we don't want to be accused of ignoring the economic indicators, but it will be substantial to several areas.
+
+And the other is to outline a five-year investment plan which will increase our investment in infrastructure, which will have a defense conversion plan and which will attempt to address these very serious problems that are killing small business -- namely controlling health costs and providing basic health care to all Americans and trying to break open the credit crunch.
+
+If you think about it, two best things I could do for you are both indirect. If we could bring health costs in line with inflation and get banks to lending again, economic activity would pick up among people who would then pay taxes to your local government, and you could take that money and do what you need to do.
+
+The best thing I could do for the private sector, if we could bring health costs in line with inflation between now and the year 2000, we would save the private sector two-and-a-half times as much as the public purse creating -- freeing hundreds of billions of dollars a year to be reinvested in the economies of this country.
+
+So, what I'm going to try to do is just that. It's never been done before in this country; having to bring down the deficit and increase investment at the same time. It's going to require some very tough choices. I spent two hours yesterday trying to cut the budget in areas that I thought were inessential in order to free up monies that would be invested; and obviously most of our investment money goes to directly back to state and local government.
+
+I'm sure that a lot of you will wish we were spending more, but let me say that it is critical, I'm convinced, that we show some discipline in bringing down this deficit because at every point we drop long-term interest rates, freeze up $50 billion for new investment in this economy.
+
+So I'm going to try to spend more in terms of investment and reduce the deficit, which means I'm going to have to cut consumption even more. And we're working on it. And I hope we can work together closely and we can do a very good job together.
+
+One of the things that I've been impressed with --Secretary Cisneros's work over at the Department -- is he came back saying what a lot of our secretaries have been saying; he said, this thing's not working very well. We got all this money out there that's not even being spent. We've got $6 billion in the pipeline. We got $3.1 billion that's been approved that's going to take four months too long to get out there. We've got this home program --nobody can access the money because of the administrative problems. So, we can keep you busy for a year or so if we just run the department right.
+
+And we're going to do our best to do that. I think the floor is now yours. Thank you. {APPLAUSE} 
+
+{/speech}

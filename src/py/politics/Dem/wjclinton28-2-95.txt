@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President at the Brady Law One-year Anniversary Commemoration {/title}
+{event} Brady Law One Year Anniversary Event {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 28, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Mr. Vice President, Mr. Secretary, Madam Attorney General, Commissioner Lovitt, and my friend, Jim. Congratulations. Happy anniversary.
+
+You know, I'd like to begin by saying a special word about Jim Brady. He dedicated his life to public service. In no small measure because of that dedication, 14 years ago his life was in danger and his life changed forever. In spite of all the hardship and the pain that followed, he never looked back, but instead decided he should fight on, determined to do his part to prevent the tragedy that struck him from striking other people. More than any other person in the United States, we celebrate today the courage and determination of Jim Brady, and we are in his debt. Thank you, sir.
+
+{OTHER-SPEAK} Thank you, sir. {/OTHER-SPEAK} 
+
+You know, Jim and Sarah Brady represent in so many ways the kind of citizen action I talked about in the State of the Union Address -- the New Covenant: moral responsibility along with more opportunity, and people sparking grass roots movements across this country.
+
+I am committed to this law and committed to what it represents. You know, our big problems here in Washington often stem from the fact that we don't think about what promotes responsibility and what creates opportunity, and what enables people to make the most of their own lives. The Brady Bill does all that.
+
+A crucial part of our job here in Washington is to help arm the American people through our police officers to fight crime and violence. The Brady Law, in that sense, is one of the things that I'm proudest of that has happened since I have been President. We put an end to seven years of politics as usual, of people saying one thing and doing another when the Brady Law passed. It's not a complex piece of legislation, but it took seven years -- seven years -- to pass the Congress.
+
+And all the naysayers talked about how terrible it would be. Well, now we know that, as the Secretary said, over 40,000 convicted felons, fugitives, drug dealers, gang members, stalkers, were prevented from purchasing handguns in the Brady Law's first eleven months. I should point out that the real national number is bigger than that because, as you know, there are some states that have companion laws that go along with that, and the estimates are that, nationwide in the states with Brady-like laws and the Brady Law, the total is more like 70,000.
+
+A recent study says that, as the Secretary said, that that's only 3.5 percent of all the people who buy handguns. And as he said, it's kind of like airport metal detectors. I think 97 percent of us should be willing to wait a while, so that the three percent of us who are trying to buy guns for the wrong reasons can be stopped. Three percent of the American people buying guns for the wrong reasons can do a phenomenal amount of damage, and stopping them can do a phenomenal amount of good, can keep a lot of citizens alive, and it can keep an awful lot of law enforcement officials alive.
+
+There are thousands of examples around the country, but let me just cite one or two. In March of 1994, the Brady Law stopped a handgun purchase by a man in Kansas under a restraining order for allegedly stalking his wife and threatening to kill her. In April, the law led to the arrest of a suspected drug dealer in Texas, without standing warrants for possession of cocaine and heroine, with intent to distribute. In November, it helped to catch two gang members, both convicted felons, who traveled all the way from California to Nevada to purchase weapons.
+
+These are the people the law was meant to stop. Lawabiding people are those the law was meant to protect. The test was simple: Will it save a life? Will it protect one child walking home from school, so he or she could feel a little safer? Will it spare one woman from abuse? If it could, we all thought the law would be a success. Now, we know that it has done that thousands of times over in just one year. The Brady Bill has become the Brady Law with flying colors.
+
+After years of the same old politics as usual, the last Congress stood up to the special interests and stood up for the American people. They heard the pleas of the victims, and they thought through to the end past all the rhetoric that was in their way. When they passed this bill and when they banned 19 deadly assault weapons and their copies, many of them paid a terrible price. Some of them laid down their seats in Congress to stand up with the law enforcement officials of this country and with Jim Brady. But America is safer because of their courage. And I think now, after one year of the Brady Law's impact, the entire American electorate will see that those who attacked it were wrong, and those who stood up for it were right.
+
+You know, today there's a lot of concern in our country and a lot of interest in the news media about the balanced budget, and next week there will be another issue, and the week after that, there will be another issue. In six months after that, there will be another issue. And people may forget what Jim Brady went through for seven years, and people may forget why some of those members of Congress lost their seats last November. But from now until the end of this country's existence, every year there will be more people alive, because of Jim Brady and because of what the Congress did.
+
+And so I just want to say this: For all the other things that will be debated, you can mark my words -- the Brady Law and the assault weapons bill are here to stay. They will not be repealed. Thank you, Jim, and thank you, ladies and gentlemen. {APPLAUSE} 
+
+{/speech}

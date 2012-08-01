@@ -1,0 +1,30 @@
+﻿{title} Remarks by the President at Gore 2000 Mix and Mingle Reception {/title}
+{event} Hay Adams Room, Hay Adams Hotel, Washington. D.C. {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 22, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. You have to give me two seconds to recover myself -- Ann Richards just told me a joke. {LAUGHTER} I've got collect myself here. {LAUGHTER}
+
+I'll be quite brief tonight, first because I'm hoarse, and secondly because you're all hungry, and thirdly because I want to listen to the Vice President. But I want to say a few things, beginning with thank you -- thank you for being here; thank you for supporting his campaign; thank you for giving the good things that we have done these last eight years a chance to be the springboard for positive change in America.
+
+You know, a lot of people have forgotten that when Vice President Gore and I went out across the country in 1992, we were in the worst recession since the Great Depression. We had a lot of division in our society that was complicated by the previous administration's vetoes of the Brady bill, which is now the law, and the Family and Medical Leave bill, which is now the law.
+
+And we asked the American people to give us a chance to put them first, and to take a new direction. And the results are clear: We've had the lowest unemployment, welfare rolls, and crime rates in a generation, and the longest peacetime expansion in history.
+
+So the question facing the American people now is not, as it is often put, do we need a change? The answer is: yes, we do. The question is not, will we change? The question is, how are we going to change? Are you going to build on the good things that are going on in America now, to face the unmet challenges of the country in the 21st century? Or will we basically go back to the approach that got us in so much trouble in the first place? That is the choice before the American people.
+
+And I want you to know three things about Al Gore. Number one, he's done more with the job he's had the last six and a half years than any person in history. Whether it was something very public and visible -- like breaking the tie to give our economic plan the chance to bring the American economy back; or breaking the tie to stand up for closing the gun show loophole, so the background check law really works -- to things you may not see -- like taking the lead in giving us the smallest federal government in 35 years; hooking up every classroom in this country to the Internet; managing big chunks of our foreign relations; being the main person in the administration in the drafting of the Telecommunications Act, which has already created 300,000 high-tech jobs in this country. The American people ought to know that.
+
+The second thing that I think is very important is, he has really told you what he would do if he got to be President. And I'll let him speak for himself on that, but I think one of the principal reasons for the success we had in the last six and a half years is that I was forced to sit down and think through precisely what I would do if the American people gave me this job. And then when he joined the ticket, we sat down together and we reissued a blueprint. He's done that in greater detail than anybody else.
+
+The third thing I want you to know is, I believe -- having done this job now, I have some sense of what it takes to succeed, and who would be good at it. He has the character, the integrity, the experience, the intelligence, the energy, and the ideas necessary to lead this country into the new millennium.
+
+He can only do it if you help him. I hope you will keep helping him, because America needs him, and I thank you for being here.
+
+The Vice President. {APPLAUSE} 
+
+{/speech}

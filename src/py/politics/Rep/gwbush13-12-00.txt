@@ -1,0 +1,102 @@
+﻿{title} Speech at Chamber, Texas House of Representatives {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} December 13, 2000 {/date}
+{source} http://www.gwu.edu {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. {APPLAUSE} 
+
+Thank you very much. Thank you. Thank you very much. Good evening, my fellow Americans. I appreciate so very much the opportunity to speak with you tonight. 
+
+Mr. Speaker, Lieutenant Governor, friends, distinguished guests, our country has been through a long and trying period, with the outcome of the presidential election not finalized for longer than any of us could ever imagine. 
+
+Vice President Gore and I put our hearts and hopes into our campaigns. We both gave it our all. We shared similar emotions, so I understand how difficult this moment must be for Vice President Gore and his family. 
+
+He has a distinguished record of service to our country as a congressman, a senator and a vice president. 
+
+This evening I received a gracious call from the vice president. We agreed to meet early next week in Washington and we agreed to do our best to heal our country after this hard-fought contest. 
+
+Tonight I want to thank all the thousands of volunteers and campaign workers who worked so hard on my behalf. 
+
+I also salute the vice president and his supports for waging a spirited campaign. And I thank him for a call that I know was difficult to make. Laura and I wish the vice president and Senator Lieberman and their families the very best. 
+
+I have a lot to be thankful for tonight. I'm thankful for America and thankful that we were able to resolve our electoral differences in a peaceful way. 
+
+I'm thankful to the American people for the great privilege of being able to serve as your next president. 
+
+I want to thank my wife and our daughters for their love. Laura's active involvement as first lady has made Texas a better place, and she will be a wonderful first lady of America. {APPLAUSE} 
+
+I am proud to have Dick Cheney by my side, and America will be proud to have him as our next vice president. {APPLAUSE} 
+
+Tonight I chose to speak from the chamber of the Texas House of Representatives because it has been a home to bipartisan cooperation. Here in a place where Democrats have the majority, Republicans and Democrats have worked together to do what is right for the people we represent. 
+
+We've had spirited disagreements. And in the end, we found constructive consensus. It is an experience I will always carry with me, an example I will always follow. 
+
+I want to thank my friend, House Speaker Pete Laney, a Democrat, who introduced me today. I want to thank the legislators from both political parties with whom I've worked. 
+
+Across the hall in our Texas capitol is the state Senate. And I cannot help but think of our mutual friend, the former Democrat lieutenant governor, Bob Bullock. His love for Texas and his ability to work in a bipartisan way continue to be a model for all of us. {APPLAUSE} 
+
+The spirit of cooperation I have seen in this hall is what is needed in Washington, D.C. It is the challenge of our moment. After a difficult election, we must put politics behind us and work together to make the promise of America available for every one of our citizens. 
+
+I am optimistic that we can change the tone in Washington, D.C. 
+
+I believe things happen for a reason, and I hope the long wait of the last five weeks will heighten a desire to move beyond the bitterness and partisanship of the recent past. 
+
+Our nation must rise above a house divided. Americans share hopes and goals and values far more important than any political disagreements. 
+
+Republicans want the best for our nation, and so do Democrats. Our votes may differ, but not our hopes. 
+
+I know America wants reconciliation and unity. I know Americans want progress. And we must seize this moment and deliver. 
+
+Together, guided by a spirit of common sense, common courtesy and common goals, we can unite and inspire the American citizens. 
+
+Together, we will work to make all our public schools excellent, teaching every student of every background and every accent, so that no child is left behind. 
+
+Together we will save Social Security and renew its promise of a secure retirement for generations to come. 
+
+Together we will strengthen Medicare and offer prescription drug coverage to all of our seniors. 
+
+Together we will give Americans the broad, fair and fiscally responsible tax relief they deserve. 
+
+Together we'll have a bipartisan foreign policy true to our values and true to our friends, and we will have a military equal to every challenge and superior to every adversary. 
+
+Together we will address some of society's deepest problems one person at a time, by encouraging and empowering the good hearts and good works of the American people. 
+
+This is the essence of compassionate conservatism and it will be a foundation of my administration. 
+
+These priorities are not merely Republican concerns or Democratic concerns; they are American responsibilities. 
+
+During the fall campaign, we differed about the details of these proposals, but there was remarkable consensus about the important issues before us: excellent schools, retirement and health security, tax relief, a strong military, a more civil society. 
+
+We have discussed our differences. Now it is time to find common ground and build consensus to make America a beacon of opportunity in the 21st century. 
+
+I'm optimistic this can happen. Our future demands it and our history proves it. Two hundred years ago, in the election of 1800, America faced another close presidential election. A tie in the Electoral College put the outcome into the hands of Congress. 
+
+After six days of voting and 36 ballots, the House of Representatives elected Thomas Jefferson the third president of the United States. That election brought the first transfer of power from one party to another in our new democracy. 
+
+Shortly after the election, Jefferson, in a letter titled "Reconciliation and Reform," wrote this. "The steady character of our countrymen is a rock to which we may safely moor; unequivocal in principle, reasonable in manner. We should be able to hope to do a great deal of good to the cause of freedom and harmony." 
+
+Two hundred years have only strengthened the steady character of America. And so as we begin the work of healing our nation, tonight I call upon that character: respect for each other, respect for our differences, generosity of spirit, and a willingness to work hard and work together to solve any problem. 
+
+I have something else to ask you, to ask every American. I ask for you to pray for this great nation. I ask for your prayers for leaders from both parties. I thank you for your prayers for me and my family, and I ask you to pray for Vice President Gore and his family. 
+
+I have faith that with God's help we as a nation will move forward together as one nation, indivisible. And together we will create and America that is open, so every citizen has access to the American dream; an America that is educated, so every child has the keys to realize that dream; and an America that is united in our diversity and our shared American values that are larger than race or party. 
+
+I was not elected to serve one party, but to serve one nation. 
+
+The president of the United States is the president of every single American, of every race and every background. 
+
+Whether you voted for me or not, I will do my best to serve your interests and I will work to earn your respect. 
+
+I will be guided by President Jefferson's sense of purpose, to stand for principle, to be reasonable in manner, and above all, to do great good for the cause of freedom and harmony. 
+
+The presidency is more than an honor. It is more than an office. It is a charge to keep, and I will give it my all. 
+
+Thank you very much and God bless America. {APPLAUSE} 
+
+
+{/speech} 

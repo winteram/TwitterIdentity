@@ -1,0 +1,21 @@
+﻿{title} Clinton Global Initiative Workshop Summation and Action Plan Plenary {/title}
+{event} New York, NY {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 17, 2005 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Participants:President William J. Clinton, Former President of theUnited StatesDavid Sandalow – Climate Change PanelLael Brainerd – Governance PanelGayle Smith – Poverty PanelRob Malley – Religion Panel {/description}
+
+{speech} 
+
+You can probably see why I always enjoyed the briefings that she gave me in the White House. I was always afraid I was going to be subject to a test as soon as they were over.
+
+Ladies and gentlemen, I want to announce two more commitments in the area of governance. First I'd like to ask Hakam Kanafani and any other representatives of the Young Arab Leaders who are here who want to come up. This is – first I want to promote these people a little bit. This is an astonishing group of young people that first met late last year, I think, in Dubai, under the sponsorship of Mohammed Gergawi. There are quite a number of them now. They are going to have a meeting of about 500 in December, their first anniversary in Dubai. They aspire to have 5,000 soon. The reason I'm taking a little time on this is, I think that one of the problems that all of us have with the Arab world is that we know they produce a lot of oil and they've got a lot of problems, and some of them have something to do with religion, we think. And that's about all people know. We don't know enough about the good people and the good stories and the good things and the stunning potential. And I think all of us have an obligation who came here to acquaint ourselves with the good things that are happening and to realize that we all should do more to make good things happen there. I predict to you that you will hear more from the young Arab leaders in the years ahead and you will like just about everything you hear.
+
+So the present commitment they have made for this conference is to continue to reduce poverty by accelerating economic development and stimulating and expanding investment by helping to create something they call the Arab Business Plan award, through which young Arabs will be invited to present a business plan to a jury of established entrepreneurs. Upon selection the newly created Arab business network will match winners with established business leaders from around the world so they can implement their plan.
+
+What this little piece of paper I'm given doesn't say is what they propose to do to lay the ground work for this is to train a large number of young Arabs in what a business plan is, how to put one together, what it means, and how to participate in the entrepreneurial economy. This is a great first step for a great group, and I thank you for your commitment. Thank you very much. {APPLAUSE}
+
+Now I'd like to invite to the stage Kathy Bushkin, executive vice president of the UN Foundation, who is involved in a project with Energy Future Cooperation, the Brookings Institution, the Center for American Progress, to develop global development bonds that will be used to reduce poverty in developing countries through accelerated economic development. A meeting will be held in October, just next month, to facilitate the launch of these global development bonds to catalyze development in developing countries. We need more financial instruments, and I am excited about what's going to happen with the development bonds, and I may even want to invest in them. Thank you, Kathy Bushkin, and thank your partners as well.
+{APPLAUSE} 
+
+{/speech}

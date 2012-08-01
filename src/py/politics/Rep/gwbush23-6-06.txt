@@ -1,0 +1,32 @@
+﻿{title} President Attends White House Tee Ball Game {/title}
+{event} The South Lawn {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 23, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Seth, thank you very much. Good job. Welcome to the South Lawn. Laura and I are thrilled you're here for opening day. It is an honor for me, and the Commissioner, General Pete Pace, to welcome you all here for what is going to be an exciting ball game between the Yankees -- {APPLAUSE} -- from McGuire Air Force Base -- {APPLAUSE} -- yes, right from New Jersey. Welcome. Glad you all are here. And they're going to be playing the Dolcom Little League Indians from Groton, Connecticut -- {APPLAUSE} -- representing the Naval Submarine Base of New London. Thank you all for coming. {APPLAUSE} Welcome.
+
+We want to welcome the coaches and the players. We want to welcome the moms and dads and grandparents here to this historic ballpark. And we're glad you're here to help us kick off the 2006 Tee Ball on the South Lawn season. General Pace and I expect there to be some pretty good competition today.
+
+I do want to welcome the Mayor of Groton, Connecticut, Mayor Harry Watson. Mr. Mayor, thank you for coming; proud you're here. {APPLAUSE} Thanks for serving. Thanks for joining us. I welcome Captain Sean Sullivan, who will be the First Base Coach. Captain, thanks for serving. Proud you're here. {APPLAUSE} Good luck. You've got some awesome duties today. And Colonel Rick Martin, from McGuire, good to see you, Colonel. {APPLAUSE} Thanks for coming, Colonel. Proud you're here.
+
+We're proud to welcome Steve Keener, who is the President and CEO of Little League International, and his wife Cheryl. Steve, thanks for coming back. Thanks for helping. {APPLAUSE} For those of you who want to be a Major League player, Mike O'Connor is with us, from the mighty Washington Nationals. Mike, thank you for coming, buddy. Mike is a pitcher for the Nationals. Glad you're here, Mike. We welcome Seth Fallon. We just heard from Seth. Thanks. And I want to thank the Navy Sea Cadets Corps, who happen to be the color guard.
+
+Zane Ellingwood is about to put the first ball on the first tee for the first game. {APPLAUSE} But not quite yet. I do want to welcome Tim Brant. Where are you, Tim? There he is. Tim, thanks for coming, buddy.
+
+{OTHER-SPEAK} Thank you, pal. {/OTHER-SPEAK} 
+
+A national baseball announcer here to call opening day. We really appreciate you coming. Thanks.
+
+And finally, I do want to welcome representatives from the Armed Forces Foundation, the Fisher House, and our military kids. Thank you for serving our families. {APPLAUSE} After the game, it's my honor to be able to present the balls to each of the players on the team. And I will also be able to welcome Dave Erbe, who is a youth volunteer. He volunteers to help the wounded and injury military personnel at Walter Reed. David, thank you in advance for doing what you're doing. Thanks for serving your generation and our country. You're a good man. {APPLAUSE}
+
+And now, before we put the first ball on the tee, I do want you to join me in the Little League Pledge. Are you ready? All players ready? Doesn't look like it. {LAUGHTER} Are you ready?
+
+{COMMENT="The pledge is recited"} 
+
+Play ball. {APPLAUSE} 
+
+{/speech}

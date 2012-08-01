@@ -1,0 +1,30 @@
+﻿{title} Remarks by the President, the Vice President, Mrs. Clinton And Mrs. Gore,And Billy Payne, President And Ceo for the Atlanta Committee for the Olympic Games  at Ceremony for the Departure of the Olympic Torch {/title}
+{event} Departure of Olympic Torch {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 21, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning. I want to begin by thanking Lang Brown, not only for what he has done this morning in bringing the torch up here, but for what he does every day. He gives his best to help troubled teenagers, to teach them how to live responsible lives and to know that they are not alone as they do their best.
+
+Today, we honor that spirit -- the spirit of the Olympics, as we send forth the Olympic Torch to light the way to Atlanta. Thank you, Lang Brown. {APPLAUSE}
+
+This torch has seen more of America than most of us Americans will see in a lifetime, and much of America has seen the torch, cheered it, and the people bearing it. The torch, burning bright and strong, stands for the joy of athletic competition and more -- for the importance of international cooperation and more, for the price we feel when our strong young Americans win the told and more. For this Olympic flame also calls upon each of us to be our very best as individuals, to do our best to build strong families and strong communities and a strong country. It tells us that victory comes to the united, not to the divided. Every Olympian has reached within and worked hard to be the fastest, the strongest, the most graceful.
+
+We all have hurdles to leap -- to finish high school or college, to be a good parent, a good worker, a good neighbor. Every one of us must summon that spirit of responsibility and best effort in our own lives. Every Olympian stands at the starting block or at the beginning of a great game alone. But they do not win alone. They draw strength from a lifetime of support from family and friends, coaches and role models. And every one of us must summon that spirit of community to meet our challenges.
+
+Every Olympian is proof that for all of our differences, we are one America. We cheer our athletes not because they are men or women, not because of the color of their skin, we cheer them because they are Americans. They represent us all and they fill us with pride. And every one of us must summon that spirit of unity, to embrace those things that bind us together, and never to succumb to those things that would keep us apart.
+
+My fellow Americans, in the last several months, we have had to deal with some different kinds of flames. But it is this flame that represents the best of the United States of America. {APPLAUSE}
+
+The Olympic spirit is the spirit of personal responsibility and best effort, the spirit of community, the spirit of unity. The people who carried this torch all across America show us exactly how that spirit can lift all our lives every day. This torch has been carried by a 74-year-old woman in Nevada who has cared for more than 100 abandoned children, by a New York businessman who has put thousands of disadvantaged young people through college, by a North Carolina teacher who organized students in 48 states against violence. This torch has been carried by America's best. They are everyday Olympians.
+
+Now, this torch will be carried by someone who is America's best, who is both an everyday Olympian and a member of our Olympic team. Eight years ago, Carla McGhee was in a car accident. She almost died. Her body was broken, but her spirit was whole. She fought her way back to a promising basketball career that most people thought had been lost forever. She went on to return to the University of Tennessee and to help her team win a national basketball championship. The Vice President is particularly proud of that achievement. {LAUGHTER} And now we hope that she will help to work the same magic for our Olympic women's team; a miraculous road back for a wonderful young woman. {APPLAUSE}
+
+May the Olympic flame always carry the ideals that burn in athletes and citizens like Carla McGhee, that burn in people like our torchbearers, the community heroes, the veterans of war and the keepers of peace, and all of those who have run with it, walked with it, wheeled with it, and set eyes on it. And may these ideals cast light on every shadow and brighten every dream on America's road to tomorrow.
+
+May God bless America. And to Carla and all our Olympians, Godspeed. {APPLAUSE} 
+
+{/speech}

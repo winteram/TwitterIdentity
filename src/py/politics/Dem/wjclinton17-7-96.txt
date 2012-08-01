@@ -1,0 +1,56 @@
+﻿{title} Remarks by the President at Community Policing Event {/title}
+{event} Community Policing Event {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 17, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Community Policing Event {/description}
+
+{speech} 
+
+Thank you very much. Thank you, Matt, for your introduction and for your years of community leadership, for doing this before it was popular and making sure it becomes more popular. We are grateful to you.
+
+I thank all of those who have come today. I'm especially glad to see Senator Heflin and Congressman Kennedy, Congresswoman Lofgren, Secretary Kantor, and Joe Brann who runs our COPS program at the Justice Department. He told me that we have now funded 44,000 of those 100,000 police officers, so we're ahead of schedule and we intend to stay that way.
+
+I thank Tom Wheeler for being here, and the Community Policing Consortium Executive Director Bill Matthews, and all the rest of you.
+
+Before I begin my remarks today I just have to take a moment to express my outrage and I know the outrage of all Americans at the Nazi swastikas which were painted on the doors of African Americans living in the Army Special Forces barracks at Fort Bragg. No one in America should be subject to such vile acts. But these men and women of our Armed Forces have committed themselves to the highest level of dedication to our security. They dedicate their lives to protecting our freedom. They embody our commitment to tolerance and liberty. And they do not deserve this kind of abuse.
+
+We are taking immediate action to get to the bottom of this incident. We intend to punish those who are responsible. We have a zero tolerance for racism in our military, and make no mistake, we intend to apply it. I know that I will have your support and the support of all Americans in maintaining this position.
+
+We are joined today by another group of courageous Americans who are taking responsibility in their own communities to protect the American way of life. There are about 100 neighborhood watch leaders with us here today. They represent all the neighborhood watch participants all across America. In the last 15 years, as you've just heard, neighborhood watches have sprung up on block after block. Every time another American puts on an orange hat, our streets become a little safer.
+
+Today there are more than 20,000 neighborhood watch groups in America. They're in every state, and they all make a difference. Just before coming in I saw some very impressive statistics from Salt Lake City and Chicago and Dade County. I recently had the opportunity to visit with neighborhood watch activists in San Diego, and they have been extremely instrumental in giving that community one of the lowest crime rates of any major city in the United States.
+
+When I lived in Little Rock we had a very active neighborhood watch group in my neighborhood. And it was fascinating because if the crime rate got too low and the neighborhood watch folks got a little relaxed, the crime rate went up. But as soon as they went back on the street it went back down again, which was, I guess, the ultimate test of the success of the neighborhood watch.
+
+As the Vice President said, as a nation we have finally begun to push crime back. When I ran for President I was struck by two things that seem to me directly in conflict. I was struck by how many Americans just had taken for granted that we'd have to put up with an unacceptable crime rate forever; how many people just sort of assumed that we could never make our streets safe again, that our kids could never feel secure walking to and from school again, that we would always be worried about being the victims of violent crime. They just sort of took it for granted.
+
+But underneath that it was clear to me as I traveled around the country, that in community after community after community, with community policing strategies, with prevention efforts, with neighborhood watches, the crime rate was actually beginning to go down; in some places, dramatically. And it was the experience that I saw manifested in all these communities that led us to the Crime Bill, with its commitment to 100,000 police, with its commitment to tougher punishment for repeat offenders, with its commitment to prevention programs, with its commitment to the assault weapons ban and the Brady Bill, and all the other things which have come out of our initiatives.
+
+All of those ideas were not born in the brain of some Washington thinker -- they were manifested on the streets of America by people who proved to me that we could take our streets back, that we could make America safe again. One day, as I have said many times, I'll know we've got the crime problem in the right position when you flip on the evening news and if the lead story is a crime story, you're shocked instead of numb to it. That will be the test. And I believe we can find that day in America again.
+
+I believe we can only do it, however, when crime prevention and crime detection is a community enterprise in every community. When every citizen believes that he or she has a responsibility to support the police, to be involved in it, to identify suspicious circumstances, to try to help kids who are coming up in troubled homes on troubled streets stay out of trouble themselves and build better lives -- when every single citizen believes that he or she is responsible for that.
+
+Those of you who work with the police in these community watch programs, you are leading the way. And I think we need to do more to help you. I appreciated Matt mentioning that at Penn State -- I challenged another million Americans to join these community crime watch programs. I had just seen the difference that you are making and people in your communities feel the difference.
+
+You know, if you think about it, if you don't feel safe in your homes and on your streets, in your schools and in your places of work, most of the rest of the things that happen in life don't amount to much. But if you do feel safe, if you feel secure, then very often you feel that you can conquer the world even if things aren't going so well. This is the first condition of a civilized society, and you are helping to guarantee it in a difficult and challenging time.
+
+The announcement that we have to make today is designed to help you do your work. Today a coalition of telecommunications leaders is determined to join forces with you and with our police. The Cellular Telecommunications Industry Association has actually pledged to provide every neighborhood watch patrol in America with a cellular phone to use on the beat and free air time to go with it. That is a remarkable commitment. {APPLAUSE}
+
+They have set aside an initial 50,000 phones and have promised to make sure that every patrol that needs a phone gets what it needs. Their board of directors is here today. They met with the Vice President not very long ago who issued this challenge and discussed it with them. But they made the decision to do it entirely on their own. It is an astonishing act of good citizenship and generosity.
+
+So I'd like to ask the board to stand and I think we should all give them the hand they deserve. Please stand up. {APPLAUSE} Thank you. And I want to thank you, too, Tom Wheeler, for doing a great job in so many, many ways.
+
+Communities on phone patrol will connect citizens on the beat to the police, the fire, the medical support they need in an emergency. These phones will be pre-programmed to local emergency numbers determined by local law enforcement officials. To get a phone, established volunteer groups will contact the local police chief or the local sheriff. A one-page application and 72 hours later, the cell phone should be on its way.
+
+Now, when drug dealers wear pagers and gang members have cell phones, I think it's time we put high technology on the side of law and order. {APPLAUSE} This will help our citizens to have stronger links with law enforcement as they work to take back our streets. In the right hands these cell phones will save lives and stop crimes. When citizens are on patrol, the cell phone will help to keep them safer. When they see something suspicious, the cell phone can bring the police. When they see a medical emergency, a cell phone can connect them to the ambulance service immediately. From now on help will be just a phone call away.
+
+From San Francisco to San Antonio, citizens with cell phones are already making a difference in the fight against crime. In Dade County, Florida, the citizens with cell phones are helping to bring down burglaries, robberies and thefts. In Albany, Oregon, parents are using cell phones on patrolling school grounds. San Francisco police chief Fred Lau says cellular phones help citizens on patrol -- quote -- "feel safe" and help police officers arrive at the scene quickly, make arrests when appropriate.
+
+Today is a good day for our country. With the support from our businesses, commitments from our citizens, and the constant courage of our police officers, we're taking another step toward a safer future for our children, our families, and our communities. We all know we will never be able to eliminate crime completely, but we can -- we can -- make it the exception, not the rule again. We can create conditions in which Americans are literally shocked when they hear of serious crimes, not simply numb to it. And we must keep working together until we create that kind of America for our children.
+
+Now let me say, right now, I have the privilege of asking a neighborhood watch volunteer to come up here and receive the very first phone which has the COPP logo on it -- Communities on Phone Patrol -- COPP with two Ps. And they also put the presidential logo on it -- {LAUGHTER} -- proving that the Vice President is not the only person that can handle a piece of high-tech equipment in this administration. {LAUGHTER}
+
+So I'd like to ask Sandy Sparks from Baltimore to come up here. I want to thank her for her dedication and make her the first recipient of this incredible gift that these folks in the telecommunications industry have provided to the citizens of America. Thank you. 
+
+{/speech}

@@ -1,0 +1,45 @@
+﻿{title} Remarks by the President to Medical Personnel, Walter Reed Army Medical Center {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} December 18, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} President Bush Meets with Wounded Soldiers at Walter Reed {/description}
+
+
+{speech} 
+
+Thank you all very much. Thanks for the warm welcome. Laura and I are thrilled to be here at the Army Medical Center. We're thrilled because this is a place of love and healing and great compassion. This center has a great history, and an important mission, and that is you are serving those who serve our country. 
+
+In this time of war -- and we are at war with an enemy that hates what America stands for -- the good people of Walter Reed are giving the best of care to the men and women who have been wounded in action. During a difficult time in their lives, they count on you. You give them the kind, professional care and decency and hope they deserve. And on behalf of America, I thank you for your service. {APPLAUSE} 
+
+Laura and I have had, we've had a great visit here. I know I'm not supposed to get out of my lane and give medical reports -- {LAUGHTER} -- but I can report that Colin Powell received great health care here and he is doing very well. {APPLAUSE} 
+
+I want to thank General Kiley and Babs for your hospitality again. I appreciate Colonel Jaffin. I appreciate Colonel B.J. Mielcarek. She is -- she's been kind of looking after my body on occasion, too. {LAUGHTER} Fortunately, she's got a lot to work with. {LAUGHTER} But she's in charge of the physical therapy services. We've just come from her department where we saw some incredible work being done, and some brave soldiers who are working hard to get to a hundred percent. 
+
+I appreciate Colonel Saulsbery, Deputy Commander for Nursing; Colonel Greenwood; Colonel Fitzpatrick. And thank you all. I really appreciate the hardworking staff -- the docs, the nurses, the people who make this fantastic facility operate in a way that makes me pride, and in a way that will make every American proud when they learn your story. 
+
+Each one of you has got a demanding job. It's a tough job here. I've seen your work firsthand. I know how tough it is. But I also know that you count it as a privilege to look after some exceptional Americans, people who are willing to sacrifice for their country. When I spend time with members of our military, I'm impressed by the idealism and the concern for each other, and their strong sense of duty that our soldiers feel. 
+
+Members of the Armed Forces are now serving in a great cause, serving in an historic time. the peace and security of our fellow citizens depend upon their bravery and their willingness to serve. In so doing, our soldiers accept the dangers and the hardships that this cause sometimes requires. You know them well, I'm coming to know them. They're the finest of our citizens. {APPLAUSE} 
+
+If you spend any time with these young men and women, you know that whether it's on the battlefield or in the hospital, our men and women are always thinking of one another. Even after being wounded, they often speak about returning to their units. And these aren't idle words. These are words that come from people who have seen the true nature of combat. I'm proud to be their Commander-in-Chief. I'm proud to lead such fine men and women who are willing to sacrifice for their country. {APPLAUSE} 
+
+There's something else the wounded say, and they say it often and they say it clearly. They praise you all, and they praise the incredible health care they receive here at Walter Reed. The doctors and nurses here are superb and dedicated and tireless. The administrative staff and the patient advocates and the chaplains are incredibly committed Americans and compassionate souls. You show concern for the patients, and you love their families, as well. You give attention to the medical needs, to the emotional needs, and to the spiritual needs of those recently removed from the battlefield. 
+
+I want to thank the volunteers at Walter Reed. Many of you are veterans. Many of you have known war injuries of your own. You're a source of inspiration and your good advice for people who are in recovery. The country is grateful for your service in the past, and your country is very grateful for your continued service to help lift the spirits of those who have been wounded on the battlefield. 
+
+Military medicine is a model of professionalism and organization. It starts with the combat medic. The combat medic who is on the scene, the first health care a wounded soldier receives within moments of the injury. Patients are then treated by forward surgical teams and at combat support hospitals. I found it interesting that Walter Reed has more than 60 of its staff serving in the Iraqi theater today. You've moved your great medicine from this fantastic facility to the battlefront, so that our soldiers get instant, professional care. 
+
+Our wounded troops might next go to Landstull Medical Center in Germany, where they receive fine medical treatment, before being delivered in your hands. Our fellow citizens must understand that every stop that a soldier makes, from battlefield to Walter Reed, is manned by a staff trained in every skill of trauma medicine. 
+
+This morning, I had a chance to visit, as I said, B.J.'s shop, which is the physical and occupational therapy facilities. Walter Reed is second to none in this kind of medicine. You're using the latest prosthetic technology to help patients overcome great challenges and resume their lives. I know firsthand -- I remember coming here a couple of months ago to pin the Purple Heart on a fellow who lost both legs and one arm. Today, I saw him walking. {APPLAUSE} What makes this story even more profound is he lost both legs and one arm not as a citizen of the United States, but as a soldier fighting for the United States. Today, I saw a citizen of the United States walking. {APPLAUSE} 
+
+Americans would be surprised to learn that a grievous injury, such as the loss of a limb, no longer means forced discharge. In other words, the medical care is so good and the recovery process is so technologically advanced, that people are no longer forced out of the military. When we're talking about forced discharge, we're talking about another age and another army. This is a new age, and this is a new army. {APPLAUSE} Today if wounded service members want to remain in uniform and can do the job, the military tries to help them stay. 
+
+This country takes -- asks a great deal of the men and women who serve our military; we're asking a lot of them, particularly in the first war of the 21st century. We put a lot of fine troops into harm's way to make this country more secure and the world more free and the world more peaceful. We ask them to face great dangers to meet a national need. In return, we have made a commitment. We have made a commitment to the troops, and we have made a commitment to their loved ones, and that commitment is that we will provide excellent health care -- excellent care -- to anybody who is injured on the battlefield. 
+
+Here at Walter Reed, all of you are making good on that commitment. You're saving the lives of liberators. You're healing the defenders of our country. You're comforting the champions of freedom. For that, every single person who works here has the respect and the gratitude of our entire nation. 
+
+All of you here today are engaged in a great cause, a noble cause, an important cause for our country, and for freedom and peace. By your good work, you're helping to protect America. And for that, your Commander-in-Chief says, God bless and thank you. Happy holidays. {APPLAUSE} Thank you all. 
+
+{/speech} 

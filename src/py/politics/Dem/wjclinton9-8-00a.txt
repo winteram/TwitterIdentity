@@ -1,0 +1,188 @@
+﻿{title} Remarks by the President in Presentation of Medal of Freedom Awards {/title}
+{event} The East Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} August 9, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Good afternoon, welcome to the White House. I want to join Hillary in welcoming all those who have been acknowledged, and all the other family and friends of our honorees today. And I want to thank her for many things, but especially for the conversations that we had leading up to this day about people who should be selected and the reasons there. Some of them reflect, now that we've been here eight years and been involved in public life for nearly three decades, a lot of personal experiences that we have had. And we had a lot of good times talking about who should be here today and why.
+
+More than 60 years ago, President Franklin Roosevelt said, "Freedom cannot be bestowed, it must be achieved." From the founding of our nation, it has been the duty of each generation to achieve freedom all over again; to expand it, to deepen its meaning; to widen the circle of those who are included as full citizens.
+
+Today we honor 15 men and women who have done exactly that. They have helped America to achieve freedom. It is my honor, on behalf of a proud nation, to award each of them the Presidential Medal of Freedom, our highest civilian honor. In the words of our Constitution, they have helped us to secure the blessings of liberty by acts of bravery, conscience and creativity. I am grateful for those who are here, and for those who are being honored who are not here today.
+
+When Jim Burke was just starting out in business, his boss called him into the office and told him to shut the door. He had just made a mistake and he was convinced he was about to be fired. Instead, his boss congratulated him, saying his mistake meant he was making decisions and taking risks. Over the years, his willingness to make the tough call in times of crisis and to put the public interest above all else has placed a higher premium on candor and corporate citizenship in the business world.
+
+In an age when many look only to the bottom line, he draws his values from a deeper well. Jim took a risk when he became chairman of the Partnership For A Drug-Free America. Most people think that's a problem you can talk about, but not much you can do about. There are clearly few challenges tougher and few more vital than teaching our young people about the dangers of drugs, helping more to avoid them, helping more to overcome addiction once they have become involved.
+
+Like every other challenge in his life, he met it head on. Among other things, he's raised billions of dollars in private resources to help do the job. He has worked closely with administrations, both Democratic and Republican; with the Office of National Drug Control and Prevention.
+
+Last year, the teen drug use rate fell substantially, thanks in no small measure to years and years and years of passionate devotion by Jim Burke. Thanks to him, our families are healthier, our communities are safer, our nation is stronger.
+
+Commander, read the citation.
+
+{COMMENT="The citation is read"} {APPLAUSE}
+
+In the fall of 1951, in the mountains of North Korea, a young Marine made himself a promise: whatever he faced in battle, he would strive to act just as his commander would act. His commander's name -- John Chafee.
+
+Captain Chafee set the standard for bravery, decency and integrity not only in war, but later in a long and distinguished career, first as governor of Rhode Island; later, Secretary of the Navy; then in 1976, by election of the people of Rhode Island, a United States senator, where he would serve with distinction until his death nine months ago. All of us who love public service and believe in America still miss him very much.
+
+Senator Chafee took on the tough issues, from health care to child care to, most of all, the environment -- even when it meant that he had to take on people in his own party. He proved that politics can be an honorable profession. He embodied the decent and vital center that puts progress in the public interest above partisanship.
+
+Today, we offer this tribute to the man most people called Senator, but whose riflemen still proudly called Captain. His wonderful wife, Ginny, and his whole family are here on his behalf. We welcome them all.
+
+Commander, read the citation.
+
+{COMMENT="The citation is read"} {APPLAUSE}
+
+In March of 1999, as Slobodan Milosevic unleashed his army and police on the people of Kosovo, General Wesley Clark, NATO's Supreme Commander, was given the first military mission of its kind -- directing the forces of a 19-nation alliance to end a brutal campaign of ethnic cleansing.
+
+The stakes were monumental. Almost a million people had been driven from their homes solely because of their ethnic and religious backgrounds. Success would save lives, strengthen NATO, advance the cause of freedom, democracy and unity in Europe. Failure would leave much of the continent awash in a sea of refugees, and end the 20th century on a note of helpless indignation in the face of evil.
+
+Wes Clark well understood the perils of the Balkans, for he had already played a vital role in ending the war in Bosnia and beginning the long process of building a stable, multiethnic democracy in that country. He summoned every ounce of his experience and expertise as a strategist, a soldier and a statesman to wage our campaign in Kosovo. He prevailed, miraculously, without the loss of a single combat casualty.
+
+At the apex of a long and distinguished military career that goes back to his outstanding performance as a cadet at West Point over 30 years ago, he was assigned a challenge many experts thought was "mission impossible." Instead, thanks to General Clark, we now can declare it "mission accomplished."
+
+Commander, read the citation.
+
+{COMMENT="The citation is read"} {APPLAUSE}
+
+As a young officer, Bill Crowe seemed to seize every opportunity for a non-traditional Navy career. He took a leave to earn a master's in education. He passed up an invitation to join the nuclear submarine program so he could earn a Ph.D. in politics at Princeton. A few years later, when Dr. Crowe found himself named Rear Admiral Crowe, he was quite surprised. Only later did he learn that Admiral Zumwalt that year had ordered all naval promotion boards to consider -- and I quote -- "iconoclasts."
+
+Bill Crowe has always been an innovative and independent thinker. He was the first Chairman of the Joint Chiefs with a mandate to promote greater cooperation among the Armed Forces, along with the power to reshape their respective roles and missions. He used that power to build a military more agile and efficient for the global age.
+
+From that chairmanship to his ambassadorship at the Court of St. James in our administration, Bill Crowe has been the right leader for changing times. Even more, he has, himself, helped to change the times, to enhance our strength, advance the peace, and quicken the march of freedom. He is an iconoclast, but an immensely patriotic one.
+
+Commander, read the citation.
+
+{COMMENT="The citation is read"} {APPLAUSE}
+
+Her namesake is Marian Anderson, one of the greatest American singers of all time. The power and range of this Marian's voice is even greater. It brought Robert Kennedy to Mississippi, helped to organize the Poor People's Campaign, inspired Hillary and thousands of other citizens, young and old, to join her through the years in the crusade that has become known as the Children's Defense Fund, the base from which she has changed the future for millions of America's children, by grassroots actions and successful lobbying in Congress, for health care, child care, education and so much more.
+
+Marian Wright Edelman has lived a life of giving. In the process, she has built a family of distinguished citizen givers. She is a tireless advocate, a driving force, a crusader of conscience. Like her namesake, Marian's voice is always strong and true, singing that we are all children of God and, therefore, must protect all our children.
+
+Commander, read the citation.
+
+{COMMENT="The citation is read"} {APPLAUSE}
+
+The first thing you notice about John Kenneth Galbraith is neither his wit, nor his intellect -- those are the second and third things. First, you notice his height -- {LAUGHTER} -- which, like his passion for public service, is a legacy of his father. The elder Galbraith once told him, "We are obliged because of our enormous size to alter the world to our specifications." {LAUGHTER}
+
+That is just what Professor Galbraith has spent a lifetime doing. From the lecture halls of Harvard to wartime Washington to a diplomatic post in India, he has altered our world, making it better, nobler, more just.
+
+It is ironic that John Kenneth Galbraith actually coined the term "conventional wisdom," since he spent his entire life challenging it. {LAUGHTER} He once said he always suspected President Kennedy sent him to India just to be free of his political advice and policy ideas. {LAUGHTER} Actually, President Kennedy drew a lot from those ideas, as have generations of American leaders and thinkers ever since.
+
+Professor Galbraith writes with such eloquence and clarity that his ideas are accessible to all of us, helping us not just to understand the economy, but also to remember that it is the providence of more than a privileged few.
+
+Commander, read the citation.
+
+{COMMENT="The citation is read"} {APPLAUSE}
+
+Monsignor George Higgins believes in the dignity of work, and he's not shy about fighting for it. For more than 60 years now, he has organized, marched, prayed and bled for the social and economic justice of working Americans.
+
+He spoke a fundamental truth when he said, work is an important way in which we exercise our humanity. In return, society offers us not only our daily bread, but a sense that we, ourselves, are honored for the contributions we make.
+
+Today we honor Monsignor Higgins for his work, for defending the right of working Americans to organize in factories, foundries and fields, and to better their own lives through collective action. His faith and his courage has strengthened not only our nation's labor unions, but our American union.
+
+Commander, read the citation.
+
+{COMMENT="The citation is read"} {APPLAUSE}
+
+You are now about to witness one of the best things about this ceremony -- for a change, I don't have to follow Jesse Jackson. {LAUGHTER} But the truth is, America has followed Reverend Jackson, as he marched with Dr. King, walked the picket lines, ran for our nation's highest office, instilling hope and inspiring millions, beginning with his own remarkable family.
+
+From the streets of Watts to the hollows of Appalachia, as my Special Envoy to Africa, and the leader of Rainbow PUSH, he has walked the walk of freedom. When I think of Rainbow PUSH, I think of two things -- rainbow means we've all got a place at the table; push is what Jesse does when he thinks I'm not doing right. {LAUGHTER}
+
+He has used his legendary prowess at persuading people to do things they are otherwise disinclined to do to free innocents imprisoned around the world, including American servicemen from the Middle East to the Balkans. With his Wall Street Project, he is forging the next frontier of freedom -- economic freedom -- reminding us that when we limit opportunities for some Americans, we limit possibilities for all Americans.
+
+His work for years has been an inspiration to the New Markets Initiative that I have undertaken, along with the Republican and Democratic leaders of the House and Senate, and when it becomes law it will be in no small measure the result of the powerful example that he has set year after year.
+
+Dr. King said, human progress never rolls on the wheels of inevitability, it comes through the tireless efforts of those willing to be coworkers with God. The cause of justice has no greater coworker than Jesse Jackson. It's hard to imagine how we could have come as far as we have without the creative power, the keen intellect, the loving heart, and the relentless passion of Jesse Louis Jackson. And God isn't done with him yet.
+
+Commander, read the citation.
+
+{COMMENT="The citation is read"} {APPLAUSE}
+
+As a Catholic schoolgirl, Millie Jeffrey dodged the stones of neighborhood bigots and watched the Klansmen march through town with a burning cross. As a union organizer in Mississippi, she stood bravely as company men snapped bullwhips at her feet. Clearly, they didn't know whom they were up against.
+
+She may be small in stature and humble in manner, but she is very strong. She worked for Walter Reuther and counseled the Kennedys, influencing all with her courage and her unflagging commitment to social justice. To meet the need for more women in public office, she started the National Women's Political Caucus, and sparked the effort to nominate Geraldine Ferraro 16 years ago.
+
+For countless women around the world, she remains an inspiration. Her impact will be felt for generations, and her example never forgotten.
+
+Commander, read the citation.
+
+{COMMENT="The citation is read"} {APPLAUSE}
+
+Nearly 20 years ago, very few researchers even knew what AIDS was. Even fewer had the courage to speak out about it. Dr. Mathilde Krim was one of the first to grasp its terrible implications. But she was not content simply to raise the alarm. She marshalled others to establish the American Foundation for AIDS Research, raising awareness, raising millions for research, and raising the hopes of countless people bravely confronting this deadly disease.
+
+Despite some promising scientific breakthroughs, we know the fight against AIDS is nowhere near won. As she reminds us, we must not grow complacent. She said recently, we're about halfway on a long road. Thanks to her vision, her ability to inspire, her enduring compassion for those in need, we now travel that road united and determined to prevail.
+
+Commander, read the citation.
+
+{COMMENT="The citation is read"} {APPLAUSE}
+
+His roots lie deep in the South Dakota soil. In small-town farms and the faith of his father, a Methodist pastor. After more than a half-century in public life, George McGovern still draws on those teachings and traditions, and he's still imparts them to the rest of us by the power of his example, the courage of his convictions, and his proud legacy of public service.
+
+Long before he became a congressman or senator or a U.S. ambassador, he became a hero. His brave exploits in the skies above Europe earned him the Distinguished Flying Cross, and more important to him, the gratitude of the men he brought safely to ground. Returning home, he taught history, and then set out to make a little history himself -- first, winning a seat in Congress, then a few years later creating the Food For Peace program, one of the great achievements of the Kennedy era.
+
+By the time he ran for President in 1972, Senator McGovern was not only a hero in war, but a stalwart voice for peace in Vietnam. Hillary and I and several others in this room, including the National Security Advisor, Mr. Berger, and Eli Segal, who started AmeriCorps and our welfare-to-work partnership, were honored to embrace his conviction that we could move our country forward.
+
+For decades, his conviction never wavered. Nor has his early commitment to bringing food to the hungary. Today he serves as our Ambassador to the U.N. Food and Agriculture Organization, and he has pledged to feed half a billion of the world's ill-fed.
+
+Senator McGovern and Senator Dole have come together to persuade me, along with Congressman McGovern and Senator McGovern's Senator, Tom Daschle, that the United States should lead the world to get one nutritious meal to every child in every poor country in the world. And I just announced a couple of days ago our first $300 million contribution to that goal. {APPLAUSE}
+
+This initiative could not only feed hungry children, but lead to the enrollment of millions of children not now in school, especially girls in poor countries. So, George McGovern's work continues.
+
+Commander, read the citation.
+
+{COMMENT="The citation is read"} {APPLAUSE}
+
+On the wall of his Senate office are two framed magazine covers. One says, "Moynihan: The Conscience of a Neo-conservative." The other says: "Moynihan: Neo-liberal." {LAUGHTER} I think he suspects that a great deal of his success in life has come as a result of keeping the rest of us slightly confused. {LAUGHTER} But whatever label is assigned to him, not a day goes by when Daniel Patrick Moynihan is not brilliantly, dynamically, uniquely himself.
+
+He is Hell's Kitchen and the London School of Economics; a sailor in uniform and a professor in tweeds; a subtle, sophisticated wit, and a tough, blunt critic of social injustice; a man of ideas, and a man of action. By this dazzling collection of qualities, Pat Moynihan has served and survived four successive presidencies, the only American ever to have done so. Most of the people who work for me are glad to have survived one. {LAUGHTER}
+
+He represented American interests in India. He has stood up for our ideals powerfully in the United Nations. New York sent him to the Senate in America's bicentennial year, and in the quarter-century since, he has championed diversity and waged without relent the War on Poverty he helped to launch.
+
+I was interested to learn, as Hillary said, that Senator Moynihan actually helped to create the Medal he is about to receive. President Kennedy charged him with that task. And as the President decreed, the standard of achievement was set very high, indeed. I know that every American will agree that in the four decades since, Senator Moynihan has exceeded the standards set by every conceivable measure.
+
+Commander, read the citation.
+
+{COMMENT="The citation is read"} {APPLAUSE}
+
+Cruz Reynoso is the son of Mexican immigrants who spent summers working with his family in the fields of the San Joaquin Valley. As a child, he loved reading so much, his elementary school classmates called him, El Profe -- the Professor.
+
+Later, some told him to put aside his dreams of college, saying bluntly, they will never let you in. But with faith in himself and the values of our country, Cruz Reynoso went on to college and to law school, but never forgot his roots. He worked for the Equal Employment Opportunity Commission and led the pioneering California Rural Legal Assistance Program. In 1976, he was appointed Associate Justice of the California Court of Appeals, and rose to become the first Latino to serve on the state's highest court.
+
+Today he continues to labor in the fields of justice, serving as vice chair of the U.S. Civil Rights Commission, opening new doors for Latino lawyers, and teaching a new generation of students the world of law. Not long ago, the person his classmates once called El Profe was voted by his own students Professor of the Year.
+
+Commander, read the citation.
+
+{COMMENT="The citation is read"} {APPLAUSE}
+
+In the New Testament Book of Romans it is written: "And how shall they hear without a preacher?" The Lord may have had that passage in mind the day Gardner Taylor was born. Or once again, years later, when a terrible car accident convinced him to abandon law school and enter the ministry. His eloquence has inspired generations, helping us to see the hard challenges of life in the revealing light of Scripture.
+
+As founder of the Progressive National Baptist Convention, Reverend Taylor helped to galvanize black churches all across America in the struggle for human rights. As a pastor in Brooklyn, he has worked to repair the breach, whether racial, political, or economic. He speaks not just from the Scriptures, but from his soul. The gift God gave him he, in turn, has shared with us.
+
+For at least 20 years now, if anyone made a list of the five or six greatest preachers in America, Gardner Taylor would always be at the top. For those of us who heard him preach, and those of us whom he has counseled in his private wisdom, we know we have been in the presence of not only a man of God, but a great American citizen.
+
+Commander, read the citation.
+
+{COMMENT="The citation is read"} {APPLAUSE}
+
+"When millions were murdered, why was I allowed to live?" For more than half a century, Simon Wiesenthal has asked himself this question, again and again. To those who know his story, one of miraculous survival and of relentless pursuit of justice, the answer is apparent. From the unimaginable horrors of the Holocaust, only a few voices survived, to bear witness, to hold the guilty accountable, to honor the memory of those who were killed. Only if we heed these brave voices can we build a bullwark of humanity against the hatred and indifference that is still all too prevalent in this world of ours.
+
+I'm struck by another question Mr. Wiesenthal once posed: How does one explain to a young person what freedom means when he has been born to freedom? Answering this question is our common moral responsibility and our enduring challenge.
+
+Mr. Wiesenthal is 91 years old now, and he had a little fall last week, and regrettably, couldn't be here with us today. He's all the way over in Europe, in Vienna. But he is listening to us by telephone. Rabbi Marvin Hier will receive the award on his behalf. We thank him for a lifetime of service and example and reminder, and for the astonishing work of the Wiesenthal Center. And after the citation has been read, I want you to have a little extra umphf in your applause so he'll be able to hear it all the way over in Europe.
+
+Commander, read the citation.
+
+{COMMENT="The citation is read"} {APPLAUSE}
+
+You know, today's honorees come from an astonishing array of backgrounds. Their experiences and their service are remarkably different. Yet they share in common a devotion to freedom and, its expansion, to being good citizens, to serving their fellow human beings. Everyone in our country has been enriched by the service of everyone on this stage.
+
+President Johnson said when he first presented this award that no words could add to the distinction of the men and women being honored today; rather, their names add distinction to this award. Even more, I believe, that is true today. They have added distinction, richness, depth, and freedom to American life. For that, the rest of us are proud, ennobled, and grateful.
+
+Hillary and I again want to thank you all for coming. We ask you to join us now in the State Dining Room for a reception. But first I ask you to express your support and gratitude once more for this remarkable group of citizens. {APPLAUSE} 
+
+{/speech}

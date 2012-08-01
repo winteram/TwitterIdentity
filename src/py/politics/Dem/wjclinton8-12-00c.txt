@@ -1,0 +1,44 @@
+﻿{title} Remarks by the President to the People of the Omaha Community {/title}
+{event} Offutt Air Force Base, Bellevue, Nebraska {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 8, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Thank you. One of my critics once said it would be a cold day when I came to Nebraska. {LAUGHTER} But I think I got a pretty warm welcome here today and I thank you very, very much. {APPLAUSE}
+
+I want to thank all of those who welcomed me, but especially, thank you, Brigadier General Power; thank you, Admiral Mies. I thank the officers and enlisted personnel here.
+
+I want to thank Senator Bob Kerrey for being, first, my colleague -- we were governors together -- and we have been friends for a long time and he has superbly served the people of Nebraska and the United States in the Senate. I know you'll miss him and I thank him. {APPLAUSE}
+
+I also want to congratulate his successor, with whom I also served as governor. Thank you very much for running and serving, Senator-elect Ben Nelson and Mrs. Nelson; thank you very much. {APPLAUSE}
+
+I brought with me today former Nebraska Congressman Peter Hoagland, and I thank him -- {APPLAUSE} -- Secretary of State Moore; Mayor Daub; Acting Mayor Sorensen of Bellevue and the other elected officials who are here.
+
+You know, earlier today I went to Kearney, to speak at the University of Nebraska there, to the young people about an American foreign policy for the 21st century. And I made a pretty simple argument -- that the world is getting smaller and smaller, that people and goods and ideas and information are crossing national borders more freely and faster than ever before; and that, therefore, it was quite necessary, even here in the heartland of America, that every citizen of our country care about what goes on beyond our borders and support the next President and the next Congress across party lines in making the kinds of decisions that will make America safer and more prosperous and a better partner in an interdependent world.
+
+Now, one of the things that I wanted to do in coming here is to say that none of that would be possible if our foreign policy was not backed by the finest military in the entire world. {APPLAUSE}
+
+I was told a couple of weeks ago, you know, since I'm a short-termer, as you might say -- {LAUGHTER} -- all the statisticians are coming up to me and saying, well, did you know this, did you know that, did you know the other thing? And I was told a couple of weeks ago by one of the people who is supposed to look at all the White House records that I have now visited more military units than any President in the history of the country. {APPLAUSE}
+
+Having said that, I do not believe my service in that regard would have been complete if I hadn't come to Offutt Air Force Base -- {APPLAUSE} -- to see the people of the Fighting 55th and the Strategic Command. Many of those serving in the 55th couldn't be with us today. You heard the General say the sun never sets on the 55th; they are now serving on this day from Okinawa to Mildenhall to Saudi Arabia, keeping a watchful eye so the rest of us can be secure.
+
+For decades now, for a full decade in the Persian Gulf, the 55th has helped check the ambitions of Saddam Hussein and guard peace in the region. In Bosnia, in Kosovo, you risk your lives to help stop genocide. The days of winter may be short here, but it is really true that the sun never sets on you and your work.
+
+I also want to honor the men and women of the Strategic Command. For every minute of every day during the past 50 years, you and your predecessors at the Strategic Air Command have never let down our guard. The Cold War may be over, but we still need you. You are the cornerstone of our deterrence and our security.
+
+I also want to recognize the other units who serve here: The Defense Finance and Accounting Service, out of Omaha. {APPLAUSE} The U.S. Air Force Heartland of America Band. {APPLAUSE} The 311th Airlift Flight, the 343rd Air Force Recruiting Squadron, and the U.S. Air Force Weather Agency. {APPLAUSE} Would someone please ask them to turn up the heat a little bit? {LAUGHTER}
+
+Let me just say one other thing. These last eight years have been a great honor for me. And it has been a joy to serve. But the one thing that I will leave office feeling more strongly than I did even on the day I took the Oath of Office, almost eight years ago, is that the true greatness of America resides not in its leaders, but in its citizens. And, yes, it's important who wins; and, yes, it's important that we all believe that the system is truly democratic and fair. But our system is premised on the hard work, the innovation, the values and the devotion to freedom of our citizens. And especially, of course, those who serve us in uniform.
+
+America is a different and better place than it was eight years ago. {APPLAUSE} We've had all kinds of economic progress, but a lot of social progress, as well. And I would just like to say to you that as you look ahead in this new century, we will become more and more interdependent on each other and on people beyond our borders. It will become more and more important, therefore, that every person has a chance, that every person carries his or her own load, and that we always remember we do better when we work together.
+
+We have a great future out there. But we've got some challenges. If you look at where we are now compared to where we were eight years ago, we're here because, as a people, we worked hard, we worked more closely together, we thought about the future and we decided to pay the price for that future. That's why we're still around here after over 224 years.
+
+So you stay with it. Stay with it here at Offutt, stay with it here in Nebraska. Keep looking toward tomorrow. And remember that I may have been late, but I sure was glad when I got here.
+
+Thank you, and God bless you all. {APPLAUSE} 
+
+{/speech}

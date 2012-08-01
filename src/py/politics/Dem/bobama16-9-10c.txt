@@ -1,0 +1,52 @@
+﻿{title} Remarks by the President at Meeting with President's Export Council {/title}
+{event} Meeting with President's Export Council {/event}
+{speaker} Barack Obama {/speaker}
+{date} September 16, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Everybody, please have a seat. Have a seat. Well, good morning, everybody. And I want to thank all of you for being here today. This is a terrific kickoff on the President's Export Council. And I want to thank the Cabinet Secretaries, the senior officials in my administration who are here and have helped to pull this together, the members of my Export Council -- I appreciate all of you being here to discuss next steps in growing America's exports and our economy. And I want to thank Jim McNerney and Ursula Burns, who are serving as chair and vice chair of this council, for their outstanding work.
+
+From the day that I took office, my administration's highest priority has been to pull our economy out of the deepest recession of our lifetimes, to put people back to work, and to position our economy on a path of long-term and sustainable growth.
+
+In the immediate term, we've had to act across many fronts to get folks back on their feet and get our economy moving again. And one of the things that we've been trying to do is to help create the conditions necessary for our small businesses to grow and to hire. And a few hours from now, after months of delay, the Senate will finally have an up or down vote on a package of tax cuts and lending initiatives to help small businesses -– some of which will be exporters.
+
+Reinvigorating our economy in the short run and rebuilding it over the long term is not a one-step process; there are going to be many steps we have to take in the months and years ahead. But this is a critically important one. And I am grateful to those senators on the Republican side of the aisle willing to take this vote on behalf of America's small business owners.
+
+But even as we're working to get our economy moving today, we are also laying a new foundation for growth tomorrow. And that's where you come in. We've been working to increase America's competitiveness in a global economy. After all, one of the reasons we got into the mess we've been in over the last couple of years is because, let's face it, we grew complacent. We allowed too much of our prosperity to be based on fleeting bubbles of consumption and risk and artificial gain. We spent too much; we saved too little. We allowed our economy to become bloated with debt both in the private sector and public sectors. We failed to fully harness the talents and skills and creativity of the American people. And we put off investments in technology and innovation that are critical to helping our businesses compete in the 21st century.
+
+That's not a path we could afford to continue down. And that's why we've been working so hard to try to reverse those trends. We're upgrading our national infrastructure for tomorrow. We're investing in science and technology, research and development, and clean energy projects that will strengthen our global leadership. We're reforming our schools, making college more affordable, and investing in the skills and education of our people.
+
+In fact, later today, I'll be meeting with CEOs of a hundred of America's biggest companies who've joined together in common cause to make sure we're preparing all our students today with the science, technology, engineering, and math skills that they'll need for the high-tech jobs of today's high-tech industries. And by the way, Ursula is participating in that. And she is almost as overexposed as me today. {LAUGHTER}
+
+Because the best way we know to compete and win in the global marketplace is by doing what we do best: harnessing the talents and ingenuity of our people to lead the world in new industries. And we're building an economy where America's businesses and American workers once again do what they do best, which is build great products and sell them around the world.
+
+We were just talking before we came in, and one of the things that I think is so critical is to realign the interests of business and workers here in America so that everybody is fighting on the same side; everybody is out there with a united front competing to make sure that America succeeds.
+
+In this year's State of the Union address, I set a goal for America: We will double our exports of goods and services over the next five years. Because the more American companies export, the more they produce. And the more they produce, the more people they hire. And that means more jobs -– good jobs that often pay as much as 15 percent more than average. The world wants to buy goods and services made in the United States and our workers are ready to produce them.
+
+That's why, six months ago, we launched the National Export Initiative -– the first-ever government-wide export promotion strategy with focused attention at the presidential and Cabinet level.
+
+America is going to bat as a stronger partner and a better advocate for our businesses abroad. We're increasing trade missions. We're removing barriers to help businesses gain a foothold in new markets. We're increasing export financing for small and medium-sized businesses. We hope to move forward on new trade agreements with some of our key partners in a way that doesn't just advance the interests of our businesses, workers and farmers, but also upholds our most cherished values. And finally, we continue to coordinate with other nations around the world to promote strong, balanced, and sustainable growth.
+
+So we're six months into what's going to be a five-year-long process. And despite some strong economic headwinds this year, we've already seen some progress. Obviously working off a low baseline given the crisis last year, exports are expected to be up, but we're very pleased to see that they're up 18 percent to where they were a year ago. And manufacturing exports are up 20 percent. And that's helping put a lot of our people back to work.
+
+And there's more we can do to keep that growth going. Yesterday, my Export Cabinet submitted a report detailing the progress that's been made and additional steps that our agencies intend to take to deliver on our goals. And I look forward to seeing these steps implemented.
+
+It's also why, two months ago, I announced the formation of this council, to seek the expertise of private sector business and labor leaders who know what it takes to succeed. Earlier this morning, in a meeting with Vice President Biden as well as Jim and Ursula about some of the recommendations you've devised, we were encouraged that we think we can move forward rapidly on some of these fronts. And we're pleased to see the fresh and innovative strategies that we can pursue to help small and medium-sized companies sell their goods and services abroad.
+
+With companies like yours in mind, we've been looking at our export control system and working to streamline the process in a manner that helps our high-tech companies stay competitive. We're also working to resolve outstanding issues with our free trade agreements with our key partners, like Korea, and to seek congressional approval as soon as possible.
+
+And as our troops come home from Iraq and Afghanistan, and re-enter the workforce, I think it's terrific that we are going to look at a veterans retraining initiative that would help them translate their remarkable leadership skills but also their technology skills, skills they've honed in the military, into careers in the high-demand science and technology fields that will keep America economically strong and globally competitive well into the future.
+
+So these are some of the steps we'll pursue to double America's exports over the next five years. When I made this initial announcement, some were skeptical, but the truth of the matter is, is that if we are increasing our exports by 14, 15 percent per year -- something that is achievable -- then we can meet our goal. And that's one of the ways that we're going to make this economy in the 21st century what it was in the 20th century -- an unparalleled force for opportunity and prosperity for all our people.
+
+So I look forward to seeing your recommendations and our continued work together to make that happen. I am very grateful -- because this is a group of very busy people -- that you're willing to invest the time and energy that you already have and will continue to invest in the future to make sure that this council is productive as possible. This is one of my top priorities. I'm going to be paying close attention to it. My Cabinet and my economic team are going to be working diligently on this.
+
+So I am very confident this is going to be a worthwhile endeavor that may indirectly help your companies but is certainly going to help the country and the American people.
+
+Thanks very much, everybody. {APPLAUSE} 
+
+{/speech}

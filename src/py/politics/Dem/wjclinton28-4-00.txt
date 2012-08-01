@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President And His Majesty King Harald of Norway at Nordic Lunch {/title}
+{event} Nordic Lunch {/event}
+{speaker} Bill Clinton {/speaker}
+{date} April 28, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Nordic Lunch {/description}
+
+{speech} 
+
+Ladies and gentlemen, welcome to the White House. Let me also say that we are very honored to be a part of the opening of this magnificent exhibition at the Museum of Natural History. I am grateful to the Nordic Council, to all the museums and the nations represented in the exhibit, and especially grateful to the extraordinary assemblage of dignitaries who have joined us today from all the Nordic nations.
+
+There are quite a few competing answers to the question, who discovered America. And by the way, when and exactly what America was. Some would say, is. {LAUGHTER} Now, Italian Americans revere Columbus and point out the word "America" comes from the famed map maker, Amerigo Vespucci. Anglo-Americans argue for the primacy of Jamestown and Plymouth as the first colonies in the original United States. Franco-Americans remind us to honor Champlaign, Cartier and LaSalle alongside all others. And, of course, our Native Americans consider all these people insignificant latecomers.
+
+With the opening of this important exhibit we expand the debate and learn more about ourselves. The remarkable explorations across the North Atlantic at the turn of the last millennium constituted a crucial first step. These brave voyages under perilous conditions brought a dawning awareness on both sides of the Atlantic that our world is, in fact, many worlds.
+
+There was something profoundly heroic about their desire and their ability to make the crossing -- to go across the Atlantic to Vinland was as earth-shaking and expansive an achievement as the most expansive, ambitious space launch today. It is indeed fitting that our first expedition to Mars in 1976 consisted of two spacecraft called Viking 1 and Viking 2.
+
+All Americans should know more about this fascinating early chapter of our history. The Viking voyages are an essential part of the long process by which all of us in our different ways came to be here. The legacy of the Vikings has always been with us, from scattered archaeological evidence to the legends that thrilled poets like Longfellow.
+
+These legends have been nurtured especially by the descendants of the Vikings. I don't suppose I can use the term "Viking-Americans", but I do means people from Norway and Sweden and Finland and Denmark and Iceland, who showed the same courage when they immigrated here in the modern period to build new worlds for themselves. The settlers of places like New Sweden in Delaware; Oslo, Minnesota; Denmark, Iowa; or Holland, North Dakota all brought a deep love of democracy and freedom stemming from their own egalitarian traditions.
+
+In fact, a new National Geographic cites a case where the Prince of the Franks sent an envoy to parlay with a group of invading Vikings, and came back saying, "I found no one to talk with. They said they were all chiefs." {LAUGHTER}
+
+Now our awareness of our Nordic past will go far beyond legends and traditions. This exhibition will deepen our knowledge of the rich history we share. It will shape our future by strengthening the bonds between Americans and their kin in the Nordic nations.
+
+I am grateful for all that we have done together in the last decade, from our support for the peaceful expansion of democracy and freedom in Central and Eastern Europe, to our concerted actions in Bosnia and Kosovo. Europe's future has never looked brighter, thanks in no small measure to your contributions.
+
+When we entered the new millennium a few months ago, it was reassuring to dramatize our progress by portraying the year 1000 as a dark time in human history, a time then dominated by fear and superstition. But this exhibition helps to tell a fuller story -- that for all the challenges and superstitions men and women faced 1000 years ago, they still have the daring and enterprise to look beyond the horizon, to begin to build a world that measured up to their imagination. This is an old lesson that always offers fresh inspiration.
+
+It is amazing to me to look at the Viking ships and imagine that they made it all this way 1000 years ago. And I am so glad that, with the leaders of all these nations here today, you have clearly decided to make this a tradition. And you're welcome back in the year 3000. {LAUGHTER} We are delighted to have you. Welcome. Thank you. {APPLAUSE}
+
+I'd like to now invite His Majesty, the King of Norway, to come and make a few remarks on behalf of all the Nordic nations. 
+
+{/speech}

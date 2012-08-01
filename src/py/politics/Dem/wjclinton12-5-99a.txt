@@ -1,0 +1,50 @@
+﻿{title} Remarks by the President at DCCC Taste of the States Reception {/title}
+{event} DCCC Taste of the States Reception {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 12, 1999 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you so much. Thank you. Ladies and gentlemen, I want to join those who have spoken before and thank everyone, from our entertainers to the caterers to the servers, everyone who made this wonderful evening possible.
+
+I want to thank Senator Torricelli for taking on the leadership of the Democratic Senate Campaign Committee. It is often a thankless task; but we have to recruit good candidates and then they have to be able to get their message out. If it weren't for you, the second part couldn't occur. I want to thank Senator Murray, who won a heroic battle for reelection in the last election season, when many people thought it would not happen and she won and won big, and she deserved to. {APPLAUSE}
+
+And I want to thank our leader, Tom Daschle. It is in no small measure because of the way he held our Democrats together -- {APPLAUSE} -- and the way he spoke for and to ordinary Americans from his position in the Senate that we did so well in the last election and we'll do even better in 2000. I am honored every day I get to work with him in our leadership effort.
+
+Now, you've all had a good time tonight and the last thing you need is another long speech. But I would like to try to emphasize something Senator Torricelli said and make a real point that I hope you can leave with.
+
+Tomorrow morning, when you're doing whatever else you're doing, if someone asks you why you were here tonight you could say, well, I wanted to hear the band; or, I wanted to taste the food; or, I work for somebody that made me go -- {LAUGHTER} -- or whatever else. I would hope you could give a better answer. And I would hope you could tell people why you believe it's important that our party continue to do well and that we win more seats in the Senate until we win the majority back.
+
+You know, I'm gratified by what Senator Torricelli said about our record. I'm gratified that we've got the longest peacetime expansion in history and over 18 million new jobs, and that millions of children are getting health insurance, and 90 percent of our kids are immunized against serious diseases for the first time, and we've set aside more land in permanent protection than any administration, except those of Franklin and Theodore Roosevelt. I'm gratified by all that.
+
+But what you must understand is that even when we have been in the minority in the Congress, most of what has been achieved in this administration would not have been possible without the support of the Democrats in the Senate and the House of Representatives. They deserve a full measure of credit for every good thing that has happened in the last six and a half years. {APPLAUSE}
+
+The second thing I want to say is, it's very flattering now that I can't run for reelection anymore for Senator Torricelli or someone else to say that I did a pretty good job leading our country. But what we did in 1993, as a result of the vote in 1992, was to bring back old values and to bring new ideas to the American people.
+
+And it was the combination of reaffirming our devotion to opportunity for all, for responsibility from all citizens, for the idea of an American community in which every good person could be a part; and the new ideas to prove we could reduce the deficit and balance the budget and still double spending on education and the environment; to prove that we could improve the economy and improve the environment at the same time; to prove that we could value the individual and still say what brings us together across all the lines that divide us is more important, our community is what makes us great; to give entrepreneurs a chance to make a lot money and the stock market a chance to grow and still say that we can't rest until we've given every American community a chance to be a part of the American Dream.
+
+It was those ideas that brought America back and that's why in the year 2000, when I will not be on the ballot, it will be as important as it has ever been for the Democrats to do better and better and better so that those ideas can be made real in the lives of every American citizen. {APPLAUSE}
+
+We've got a lot on our plate this year and next year: saving Social Security and Medicare; paying our debt down so we can keep interest rates down; continuing to strive for educational excellence and education opportunity; many other things. But because of the traumas that we have been through in America in the last few weeks, and because of the conflict in Kosovo, I would like to ask you to think about one thing as I close.
+
+And that is this: It is supremely ironic, particularly for all these young people here, that when we dream about the 21st century, we dream about a time when people of all ethnic and racial and religious configurations will be working together in our country and around the world. We dream about capitalizing on this fabulous explosion of technology. You can have pen-pals in Mongolia, in Cameroon and wherever else. We think the world will be stronger and smaller and at our fingertips, and how wonderful it will be.
+
+And, yet, the only real cloud looming over the world today is the oldest demon of human society -- the weakness of people when together to fear and hate and harm those who are different from us, by race or ethnicity or religion or in some other way.
+
+Now, what we have to do is to say to ourselves, we will be purged of that. That's why it's important that we pass this hate crimes legislation. That's why it's important that we pass the employment and nondiscrimination act. That's why it's important that we move in Washington to take sensible steps to protect all our children from the dangers of guns. I'm very disappointed that the Senate today did not vote to have background checks at these gun shows, like the people of Florida voted to do it. {APPLAUSE} That's part of our community.
+
+In a world in which America is so blessed with so much wealth and so much power it is very easy for others to resent us and to mistake our motives, as we have seen in recent days. If we want to be in a position to stand up against ethnic cleansing, against genocide, against bigotry abroad, we must be good at home. We must reaffirm the fundamental value of community to the Democratic Party and the American people. {APPLAUSE} And we must acknowledge that our own history has given us plenty of humility -- because of our history of slavery, and because we, too, are guilty of cleansing when the American people pushed the Native American tribes off their lands without adequate compensation and without any concern for how they would govern themselves and make their way in life so long ago. {APPLAUSE} And we are still living with the consequences of that.
+
+But I will close with this story to make this point -- if this doesn't make you proud to be an American, nothing will. Today, at the request of Senator Daschle and his colleague, Senator Johnson, and Senator Conrad and Senator Dorgan from North Dakota, and Senator Baucus from Montana -- {APPLAUSE} -- and Representative Pomeroy from North Dakota -- I met with 19 tribal leaders from Native American tribes from the high plains of America. Even more than most other Native American tribes, they have struggled economically. They have not felt the wonderful rush of all this economic opportunity and this very low unemployment rate. Their educational system still needs improvement. Their health care needs advances. And I met with them and listened to them.
+
+But at the end of the presentations, the person who was their spokesperson stood up and he said, Mr. President, we have seen America's long journey and we have been a part of it, from the unfortunate beginnings of our relationship to where we are today, meeting with the President. And today we signed a proclamation, all of us tribal leaders, supporting the United States stand against ethnic cleansing and the murder of innocents in Kosovo and I want you to know that. {APPLAUSE} It gets better.
+
+And then another man stood up and he said, Mr. President -- another tribal leader -- he said, I have two uncles, one was on the beach at Normandy in World War II, the other was the first Native American fighter pilot in American military history. My great-great-grandfather was slaughtered by the 7th Calvary at Wounded Knee. And I only have one son. But I have seen America's journey and I would gladly have my son go fight to protect the Kosovar Albanian Muslims from the fate that we should never see any people endure again. {APPLAUSE}
+
+Remember, look around the room tonight. It's the America we want and the world we will work for. And I think you should have no doubt about which party is more likely to give you that future.
+
+Thank you and God bless you. {APPLAUSE} 
+
+{/speech}

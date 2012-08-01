@@ -1,0 +1,18 @@
+﻿{title} Remarks by the President at Breakfast with Former President Carter, General Colin Powell, Senator Sam Nunn and Congressional Leaders {/title}
+{event} State Dining Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 19, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning, ladies and gentlemen. Let me -- before we sit for breakfast, let me just make a couple of points very briefly. First of all, our deepest thanks as a nation should go to President Carter, General Powell and Senator Nunn. They have had about four hours' sleep in the last two or three nights. They have worked very hard, and they have, I think, made a major contribution toward helping us find a peaceful solution to the problem in Haiti.
+
+I also want to say to you, I think that a significant measure of credit goes to the United States military forces for their preparation, their readiness, and their imminence. And finally, let me say that we have, this morning, the first peaceful introduction of our forces there to begin to carry out the mandate of the United Nations.
+
+So it has been, so far, a good day, thanks in no small measure to the extraordinary labors of this delegation. I know that you join me in thanking them for all they've done. {APPLAUSE}
+
+We're going to have a press conference in just a minute, so there's no point in having two. {LAUGHTER} Thank you. 
+
+{/speech}

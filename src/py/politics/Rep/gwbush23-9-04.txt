@@ -1,0 +1,42 @@
+﻿{title} President Honors the National Museum of the American Indian {/title}
+{event} The East Room {/event}
+{speaker} George W. Bush {/speaker}
+{date} September 23, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all for coming. {APPLAUSE} Thank you all. Please be seated. Welcome to the White House. Laura and I are so honored that you're here, and we're honored to be with you.
+
+This week, during one of the largest gatherings of American Indians in our nation's history, we celebrate the legacy of the first people to call this land home. And we celebrate the opening of the National Museum of the American Indian, a unique and beautiful place that will introduce generations of visitors to a strong and living tradition. {APPLAUSE} That museum is a long time in coming, but it now stands in a place of honor, exactly where it belongs, on the National Mall in Washington, D.C. {APPLAUSE}
+
+I'm honored to call Ben Nighthorse Campbell a friend. He is a strong, strong leader. He is a proud Indian and a proud American. He represents the best of public service. And I appreciate his wife, Linda, being here, as well. Thank you, friend. {APPLAUSE} Plus, he's a pretty fine athlete. {LAUGHTER}
+
+I appreciate Secretary Gale Norton, Secretary of the Interior, for being here. {APPLAUSE} And other members of my administration involved in Indian affairs who are here -- and they should be here. After all, there with the leaders of sovereign tribes.
+
+Dave Anderson, Assistant Secretary of Indian Affairs, Department of Interior. {APPLAUSE} Vickie Vasquez, Assistant Deputy Secretary of the Office of Indian Education. Dr. Charles Grim, Director, Indian Health Service, Department of Health and Human Services. Thank you all for coming. {APPLAUSE}
+
+I'm proud to be here with Senator Ted Stevens -- Senator Stevens, Chairman of the Senate Appropriations Committee. Strong backer of the American Indian, as is Senator Domenici, and all the other Senators who are here. I appreciate you all coming.
+
+I'm honored the members of the House are here -- Richard Pombo, Chairman of the House Resources Committee; J.D. Hayworth, Co-Chairman of the Native American Caucus; along with Dale Kildee of Michigan, Co-Chairman of the Native American Caucus; Congressman Tom Cole from Oklahoma, and other members of the Congress. Proud you're here, and thank you for coming. {APPLAUSE}
+
+I'm honored to have distinguished tribal leaders here today. Thank you all for coming to Washington, D.C. We're proud you're here. I appreciate Sheila Burke, the Deputy Secretary of the Smithsonian Institute. I thank Rick West, the Director of the National Museum of the American Indian, for being here, as well. I want to thank the Indian members of our United States military for joining us today. Thank you for your service. {APPLAUSE} Finally, I want to thank the Cherokee Choir for filling the East Room with such beautiful music. Thank you all, and welcome to the White House. {APPLAUSE}
+
+The museum's location on the Mall is fitting, because the American Indian experience is central to the American story. That story has involved great injustice against native peoples, and great contribution by native peoples.
+
+We remember Sacagawea's presence with Lewis and Clark. What a heroic woman she was. We remember the patriotism and bravery of the Code Talkers in World War II. We're still looking for Clarence Wolf Guts. {LAUGHTER} We also remember all the Native Americans who fought to defend America, including the 17 American service personnel we just recognized here.
+
+Native Americans have supported this country during its times of need. And their contributions have made America stronger and better. Decades ago, there were some who viewed American Indians as the vanishing Americans, people on the margins of our national life. Yet, the exhibits in the new museum, and the museum, itself, carry a different message. Many of its staff and curators are Native Americans, and the exhibits are created in close consultation with the tribes.
+
+The National Museum of the American Indian shows how your ancestors once lived, and it does much more than that. It affirms that you and your tribal governments are strong and vital today, and provides a place to celebrate your present achievements and your deepest hopes for the future. It allows all Americans to experience the rich culture of the American Indian.
+
+Native American cultures survive and flourish when tribes retain control over their own affairs and their own future. That is why, earlier this morning, I signed an executive memorandum to all federal agencies reaffirming the federal government's longstanding commitment to respect tribal sovereignty and self-determination. {APPLAUSE} My government will continue to honor this government-to-government relationship.
+
+Long before others came to the land called America, the story of this land was yours, alone. Indians on this continent had their own languages and customs, just as you have today. They had jurisdiction over their lands and territories, just as you have today. And these sovereign tribal nations had their own systems of self-governance, just as you have today. {APPLAUSE}
+
+The National Museum of Indian Affairs affirms that this young country is home to an ancient, noble and enduring native culture. And all Americans are proud of that culture. Like many Indian dwellings, the new museum building faces east, toward the rising sun. And as we celebrate this new museum and we look to the future, we can say that the sun is rising on Indian country.
+
+Welcome to the White House. May God bless you. Thanks for coming. {APPLAUSE} 
+
+{/speech}

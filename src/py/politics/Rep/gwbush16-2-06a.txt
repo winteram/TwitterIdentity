@@ -1,0 +1,40 @@
+﻿{title} President Participates in Panel Discussion on Health Care Initiatives {/title}
+{event} U.S. Department of Health and Human Services, Washington, D.C. {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 16, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Oh, he's in Florida. Okay. Surfing. {LAUGHTER} Actually, I saw him this morning -- don't make excuses for him. He's doing a heck of a job, he really is, and I hope you enjoy working for him. {APPLAUSE}
+
+I am really pleased that Nancy Johnson is here. Madam Congresswoman, thank you for coming. {APPLAUSE} If you want to meet somebody in Congress who knows something about health care, talk to Nancy; she is a tireless advocate for making sure the health care systems are efficient and compassionate. And I really want to thank you for coming. It's a joy to work with you on these big issues.
+
+I thank all the folks here at HHS. Thank you for working hard on behalf of our fellow citizens. You've got a tough and important job, and you're doing it well. One of the reasons why is because, you know, we've clearly defined the roles of government -- with the role of government in health care. And one of the roles is to make sure our seniors have a modern, reformed Medicare system. And I want to thank those of you who are working on making sure that the Medicare system is explained to and available for seniors all across the country.
+
+We did the right thing when it came to saying that if we're going to have a program for seniors, let's make sure it works as good as possible. And part of that meant modernizing the system so it included a prescription drug benefit. It's not easy to sign up millions of people in a quick period of time to a new program, and there were some glitches. The good thing about this Department, and the good thing about Mike and Mark is that they have prioritized problems to be fixed, and have gone around the country fixing them.
+
+Millions of folks -- about 25 million people have signed up for the new Medicare benefit. I don't know if you remember when we first had the discussions about the Medicare benefit, and people said, it will cost about $37 a month per beneficiary. One of the interesting reforms is not only making sure that medicine was modernized, but seniors actually were given choices to make in the program. And Mark has done a fine job of encouraging providers to be the markets. And as a result of choice in the marketplace, the average anticipated cost is $27 a month.
+
+In other words, giving people a decision to make is an important part of helping to keep control of cost. We have a third-party system -- a third-party payer system. When somebody else pays the bills, rarely do you ask price or ask the cost of something. I mean, it seems kind of convenient, doesn't it? You pay your premium, you pay your co-pay, you pay your deductible, and somebody pays the bills for you.
+
+The problem with that is, is that there's no kind of market force. There's no consumer advocacy for reasonable price when somebody else pays the bills. And one of the reasons why we're having inflation in health care is because there is no -- there is no sense of market. We're addressing the cost-drivers of health care, and this discussion today is a part of helping to make sure health care is affordable. And as it becomes affordable, it becomes more available, by the way.
+
+A couple of ideas other than the subject at hand to make sure health care is affordable is -- and we'll talk a little bit about information technology; I know there's a great initiative here at HHS to help bring the health care industry into the modern era by implementing information technology reforms. And for those of you working on the project, thanks, and we take it very seriously at the White House, and I know you take it seriously here.
+
+Secondly, I want to thank those of you who are working on community health centers. One way to help control costs is to help people who are poor and indigent get costs in places that are much more efficient at delivery of health than emergency rooms. And so we're committed to expansion of community health centers. Again, thanks on that, Nancy, for helping in Congress. They work. We're measuring results and the results are good results.
+
+Thirdly, lawsuits are running up the cost of medicine. The practice of -- the defensive practice of medicine or the practice of defensive medicine -- I'm a Texan. {LAUGHTER} It costs about $28 billion a year when doctors over-prescribe, to make sure that they kind of inoculate themselves against lawsuits. It runs up federal budgets. It costs the economy about $60 billion to $100 billion a year.
+
+And so we've got to do something about these junk lawsuits. I mean, they're running good people out of practice. I said a statistic the other day in the State of the Union that's got to startle you if you're involved with the health care delivery in America: 1,500 counties don't have an OB/GYN because lawsuits have driven a lot of good docs out of those counties. And that's not right.
+
+And so we've got to get medical liability reform. The House has done a good job of passing it. It's stuck in the Senate. So for the sake of affordable and available health care, is to get a good, decent bill passed.
+
+One other way to help control costs is to interject market forces, as I mentioned. And one way to do that is through what's called health savings accounts. Health savings accounts are an innovative product that came, really, to be as a result of the Medicare bill that I was honored to sign. They're an innovative account that combines savings on a tax-free basis with a catastrophic health care plan. We'll have some consumers here of health savings accounts that will describe how they work and whether or not they're working worth a darn.
+
+But the key thing in a health savings account is you actually put a patient in charge of his or her decisions -- which we think is a vital aspect of making sure the health care system is not only modern, but a health care system in which costs are not running out of control. And part of making sure consumers, if they have a decision to make, can make rational decisions is for there to be transparency in pricing. In other words, how can you make a rational decision unless you fully understand the pricing options or the quality options. When you go buy a car, you know, you're able to shop and compare. And, yet, in health care, that's just not happening in America today.
+
+And so one of the -- this discussion is centered around encouraging consumer-based health care systems and strengthening private medicine through transparency and pricing and quality. And I hope you find this as interesting a discussion as I will.
+
+{/speech}

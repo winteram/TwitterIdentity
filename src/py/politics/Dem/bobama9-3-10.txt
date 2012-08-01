@@ -1,0 +1,44 @@
+﻿{title} Remarks by the President Honoring Greek Independence Day {/title}
+{event} Greek Independence Day {/event}
+{speaker} Barack Obama {/speaker}
+{date} March 9, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you so much. Well, good evening, everybody, and welcome to the White House. I can't imagine a better way to celebrate the independence of Greece than with the Prime Minister of Greece. {LAUGHTER} So, Prime Minister Papandreou, to your lovely wife, Mrs. Papandreou, we are honored by your presence here today. And we are pleased that you were able to bring your extraordinary delegation from Athens.
+
+Now, like his father and his grandfather before him, the Prime Minister is leading Greece through challenging times. But as I told him during our meeting in the Oval Office today, whether in good times or in bad times, the people of Greece will always have a friend and a partner in the United States of America. {APPLAUSE}
+
+Thank you, Your Eminence, for your very kind introduction, and for the wisdom and compassion that has always defined your ministry. Archbishop Demetrios marks his second decade guiding the Greek Orthodox Church and community in America, four decades as a bishop, and, recently, his 82nd birthday. And he is looking really good. {APPLAUSE} I need to find out what he's eating. {LAUGHTER}
+
+Last year, His Eminence tried to compare me with Alexander the Great. I thought this would get me more respect from Michelle and the girls. {LAUGHTER} It did not. {LAUGHTER} They reminded me instead that Greek literature is full of very strong women. {LAUGHTER}
+
+I want to acknowledge the fact that we're joined by leaders who have strengthened the bonds between us, including our Ambassador Kaskarelis, and from Cyprus, Ambassador Kakouris. Please stand up. {APPLAUSE}
+
+We have some outstanding members of Congress who are here, and we've got at least one potential member of Congress -- Alexi, stand up -- from the state of Illinois. {APPLAUSE} We've got in fact, in addition to Alexi, we've got a lot of Greek American friends here who've been great friends and supporters of mine, including folks here from Chicago. I think we've got just about all of Greektown here. {LAUGHTER} And we also have some of the outstanding Greek Americans who are serving in my administration.
+
+Now, Greek Independence Day isn't for another few weeks. But I'll be on a trip to Asia, so I appreciate you coming early -- not that Greeks have ever needed an excuse to celebrate, let's face it. {LAUGHTER} But on that day, we'll remember how 189 years ago another bishop stood up, in a monastery in the mountains, raised the Greek flag, declared independence and began the struggle to restore democracy to its birthplace.
+
+But on that day we'll not only celebrate a singular moment in time, we'll be reminded of the spirit that has defined Greece and its people for all time. There's a concept that captures it, and it doesn't translate easily; it doesn't really have an equivalent in English. But it's a virtue that all of you know well, because it's the very essence of being Greek -- and you will forgive if my pronunciation is just so-so -- philotimo. {APPLAUSE} Right? Philotimo. Literally, it translates as “love of honor.” I love that concept -- love of honor. But, of course, it means much more than that.
+
+It's a sense of love, to family, and to community, and to country -- the notion that what we're here on this Earth to do is to be all in this together. We all have obligations to each other and to work together. And so it was that the democratic example of a small group of city states more than 2,000 years ago could inspire the founding generation of this country, that led one early American to imagine that “the days of Greece may be revived in the woods of America.”
+
+It's the sense of nobility and morality written in the pages of those timeless Greek texts, which have instructed students -- and tormented them -- {LAUGHTER} -- down the ages, in every corner of the world. Indeed, when I was living in Indonesia as a child, when my mother would wake me up early in the morning to teach me, among the books that she used to pull off the shelf were the legends of Greek mythology.
+
+Philotimo -- it's a sense of right and wrong and a duty to do what's right. And so, 189 years ago, Americans of Greek origin crossed the oceans and fought for Greek independence. Greek Americans, in turn, served and fought to preserve our Union. And through two world wars and a long Cold War, America stood with our Greek allies and friends.
+
+And since the Prime Minister is here, let me acknowledge Greece's efforts to extend the security and stability in our time -- toward a just and final settlement in Cyprus, fully integrating the Balkans into Europe, and the Prime Minister's personal work to improve relations with Turkey. We thank you for your leadership. {APPLAUSE}
+
+And let me commend Greece, our close NATO ally, for standing up for the security and opportunity of people around the world -- from the Balkans to Afghanistan, where Greek service members are helping to give people who have know too much war the chance to live in peace and security.
+
+This solidarity continues today —- whether it's the close counterterrorism efforts between our governments or the deep partnerships between our people. Indeed, as the Prime Minister and I discussed this afternoon, Greece's participation in the Visa Waiver Program will strengthen security in both our countries -- and whether it's to do business or visit family and friends, it will now be easier for our Greek friends to visit the United States. {APPLAUSE}
+
+And philotimo is a sense of dignity and respect, as well. It's the determination that has driven generations of Greek Americans, like those here tonight, to struggle and sacrifice for the same things that all Americans want -- to pursue our dreams, to realize our God-given potential, and to give our children an even better life.
+
+That's the simple hope that caused a bishop to raise that flag on a mountaintop so many years ago. That's the profound sense of friendship that will guide our work in the years ahead. Because what one patriot of Greek independence wrote to John Quincy Adams nearly 200 years ago remains true today: We are “friends, co-patriots and brothers.”
+
+So thank you all for coming. God bless you. God bless America. And zito I ellas. {APPLAUSE} 
+
+{/speech}

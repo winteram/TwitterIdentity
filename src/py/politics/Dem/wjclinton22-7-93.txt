@@ -1,0 +1,52 @@
+﻿{title} Remarks by the President at Girls Nation Event {/title}
+{event} Girls Nation Event {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 22, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President to Girls Nation {/description}
+
+{speech} 
+
+Thank you very much. Thank you. Please be seated. It's wonderful to have you in the Rose Garden today. As I think all of you probably know, I, myself, owe a great deal to the American Legion for sponsoring this wonderful program that teaches our young people so much about our country and the responsibilities of citizenship.
+
+Boys Nation made a major impact on my life, and very much inspired the career that I subsequently pursued in public service. Like many of you, I was just a high school student from a fairly small town. I had never been to Washington before, and I never knew whether I'd ever get to come when I stood here, right over there in that corner 30 years ago this week and had the opportunity to hear President Kennedy speak.
+
+I was reviewing an article in a paper from that week before I came out here to speak with you, and I noted that when President Kennedy spoke to our group, he actually got into some hot water by saying that our group, in adopting a civil rights resolution in the early '60s had acted more responsibly than the nation's governors who were meeting at the same time. He said we had shown more initiative than the governors.
+
+Well, we loved it, but somehow the governors didn't. {LAUGHTER} And so I would say to you, I don't want to make any other group mad, but I hope you today will leave here with a real sense of initiative. It's very important not only that we have convictions and feelings and concerns, but that we act on them.
+
+Every program that I have pursued, every challenge I have laid down has been animated by a desire to get the American people to assume more responsibility for themselves and their neighbors, to offer more opportunity to all people, and to rebuild a sense of community, a sense that we are all in this together, that we share a common destiny, and that we will be more likely to achieve our individual capacities if we work together.
+
+With the help of young people all across the country, we were able to pass -- and we had a wonderful signing ceremony -- on the motor voter bill, which many of you will be familiar with, which makes it much easier for people to register and vote. Together, with other groups of young people, again from all over America, we are on the verge of passing an historic bill for national service that will make it possible for millions of young people to get much lower-interest college loans and pay them back on more favorable terms, and over the next few years for hundreds of thousands of them to work off a portion of their loans by giving some service to their community -- either before, during or after college.
+
+This will help to build America by strengthening the bonds of community, offering people the chance to take more responsibility for their own lives and really creating opportunity that wasn't there before. We're also trying to improve your future by cutting the federal deficit by $500 billion over the next five years.
+
+In 1980, the entire debt of our country amassed since George Washington became President was $1 trillion. From 1980 to 1992, that debt grew to about $4 trillion; quadrupling in only 12 years.
+
+Now, when a problem like this gets that severe, you can't solve it all at once. The spending cuts and tax increases it would take just to do away with the debt -- deficit in four years, would be so severe as to undermine our economic recovery. But we're in a box. If we don't move on the deficit now, we can't have any economic recovery, either. And because of the progress which has been made, interest rates are coming down and we're moving forward.
+
+You should know that you're not only moving into a time when the global economy offers you unparalleled, exciting opportunities, but where it also presents some mysteries to us that no one quite understands. For example, almost all of the wealthy countries are having difficulty creating new jobs, even when their economy is growing, and certainly when the economy is not. And so this economic program that I have offered not only seeks to reduce the deficit by cutting spending and raising taxes -- 70 percent of which will fall on people with incomes above $200,000 -- it also seeks to help people to create jobs.
+
+Ninety percent of the small businesses in America will be eligible for a tax cut under this plan if they invest more money in their businesses to create jobs. New opportunities for people to avoid higher income taxes, but only if they invest in companies that will create jobs. We have got to find a way to make sure that if all of you go to college and all your classmates go to college and everybody plays by the rules, there will be something for them to do when the effort is over.
+
+Thirty years ago, when the delegates from Girls Nation came to the White House in the same summer that I was here, my next door neighbor represented our state at Girls Nation. It was a great thrill for me, and she's still one of my closest friends. Just last week when I went home she got some of our high school friends together, and they and all their children. There must have been 30 of us in her home having dinner together.
+
+And when she was here where you are, President Kennedy told the young women there assembled that it might be possible for one of them to become president, but it was not likely. And almost as a consolation prize, he said at least I'm sure I'm talking to a future first lady. Well, today a lot of things have changed. First of all, I think that it is a very honorable thing to be the first lady. Some day there will be a first man. And I think it is not unlikely that 30 years from now the delegates from Girls Nation may well be in the Rose Garden being addressed by a woman president who is in this crowd today. {APPLAUSE}
+
+Again, let me wish you well and thank you for coming here. Let me tell you that the 30 years that have passed since I sat where you are today have passed in the flash of an eye. That I hope for all of you a rich and full life and I would encourage you to focus on the point I made earlier. You came here to learn about your country, your history, your opportunities and your responsibilities as citizens. None of it matters very much unless you not only think and feel, but also act.
+
+Good luck and God bless you. {APPLAUSE}
+
+Let me also say, I'm going to embarrass somebody who's here maybe a little bit. There are other things in life after a Girls Nation or Boys Nation than being president. I just learned that my military aide came to Girls Nation.
+
+Raise your hand. This Major Michelle Johnson, the United States Air Force. {APPLAUSE} She is from Iowa, graduate of the Air Force Academy, Rhodes Scholar, terrific athlete. I told her someday I was sure I'd be saluting her and calling her "General." So that also is something that you might do with your life, that you couldn't have done perhaps a few years ago.
+
+I'd like to now ask Joanne Cronin to come up and take over the program.
+
+{COMMENT="Gifts are presented to the President"} 
+
+I saw the first resolution was the sex education one. That's one I said I was for. You may know that tomorrow, the hearing begins on the appointment I made of an African American doctor, the Director of the Department of Health in my home state, to be the Surgeon General of the United States. And we caused a lot of controversy, because we tried to promote comprehensive family education, parenting education, and we did our best to reduce the scourge of teenage pregnancy in our state not by denying it, but by embracing the challenge, and I appreciate the resolution that you sent. I will also review the other resolutions. On Saturday -- you mentioned 30 years from now -- Saturday your counterparts from Boys Nation will be here, and we're going to have a 30-year reunion of my class Saturday at noon when they're here. So I'm looking forward to it.
+
+One of the things that happens when you run for president is that the people you haven't seen in a long time show up. {LAUGHTER} And that's mostly good. So I'm looking forward to it. Now, are we going to take a picture? Is that the way we're going to do it? And then, aren't we going to take a group photo also? Okay. Great. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,58 @@
+﻿{title} Remarks by the President at Wreath-laying Ceremony {/title}
+{event} Tomb of the Unknown Soldier, Arlington National Cemetery {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 11, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Secretary Brown, for your introduction and for your remarkable service on behalf of the veterans of the United States. General Foley, Commander Liwak, distinguished leaders of all our veterans organizations, Secretary Brown, Secretary Perry, General Shalikashvili, Attorney General Reno, Senator Simpson; especially to my friend, Congressman Montgomery. I want to join the remarks that were earlier made and thank you, sir, for your lifetime of service to the United States and for your unparalleled service to the veterans of the United States. We will all miss you and we thank you. {APPLAUSE}
+
+To our men and women in uniform and their families here today, and most of all, of course, to all of our veterans and their families, and to the Gold Star mothers and wives, their survivors who are here today; my fellow Americans:
+
+On this day that marked the end of World War I, we close the 50-year commemoration of the end of World War II. Together on this day we offer a prayer for peace and a tribute to those who defend it. All across this land a symphony of 50 bells will soar. Together on this day we say thank you to those who stepped forward to safeguard our security and our ideals. Today, this day, our grateful nation is united to honor America's veterans.
+
+This year we have paid special homage to the World War II generation. From the windswept beaches of Normandy to the craggy rocks of Corregidor, meeting the Americans who fought in that struggle has been one of the great privileges I have had as your President. Later today we will honor all of them in dedicating the site of the World War II memorial, ensuring that we will never, never forget those who suffered and sacrificed so that future generations of Americans might be free.
+
+They followed in the footsteps of others who came before them, from those who battled for our independence to those who braved the trenches in the war to end all wars. And clearly they inspired successive generations of heroes -- men and women who fought in Korea, Vietnam and the Persian Gulf; who steadily won the Cold War; who served with such skill and compassion in Haiti; who saved so many lives in more than one place in Africa; who halted the Bosnia Serb attacks against innocent civilians. And the men and women who, even as we gather here, safeguard the frontiers of freedom with their courage, their commitment and their confidence.
+
+Our nation has obligations to all those who wear our uniform, ensuring that our military remains the strongest in the world, leaving no stone unturned in the search for the fullest possible accounting for Americans who never came home; supporting our citizen soldiers -- the Guard and the Reserves -- whom we call on increasingly to serve overseas; and ensuring that when our men and women in uniform leave the service we do not leave them. From education to employment, from buying a home to getting quality medical care, our veterans deserve and must have their nation's unfaltering support. For our peace, our freedom, our prosperity is surely the legacy of their service.
+
+Much of this responsibility still falls upon our federal government. We must uphold the commitment established first by President Franklin Roosevelt to give veterans preference for federal jobs, and we are. Even as we shrink the work force of the national government to its lowest level since President Kennedy served here, the percentage of permanent jobs in the government going to our veterans has grown over the last three years.
+
+We must rally the resources for veterans benefits, and we are. Even as we cut government spending -- and, my fellow Americans, our annual deficit as a percentage of our income is now lower than that of any other industrial country in the entire world except for Norway -- even as we do that, I have sought more than a $1-billion increase in health funding for the VA so that we can provide better care for even more veterans. {APPLAUSE}
+
+And even as we enjoy a 15-year high in homeownership among Americans, we must not forget that there are too many homeless Americans, and an extraordinary percentage of them are veterans.
+
+Later today, a group of distinguished American entertainers will attempt to make America laugh to raise funds and increase awareness of the problems of the homeless. And they do it on this Veterans Day to remind us that it is a national disgrace that people who are willing to lay down their lives for this country do not have a roof over which they will lay down their heads tonight. And we must continue to fight that. {APPLAUSE}
+
+We are committed to active communication with our veterans. We have to do more to bring the men in on the decisions that affect their lives. We will continue to pursue answers and provide relief for Gulf War veterans with unexplained illnesses. Just three days ago, we launched a major study to help address the concerns of Persian Gulf veterans about their health and that of their spouses and their children. And we are working hard to meet the special concerns of women veterans, the needs of disabled veterans, and the precious debt we owe to veterans' families.
+
+But government cannot and should not do this job alone. Supporting our veterans is not the government's job, it's America's job. Over the last three years, I have visited our troops all around the world. I have stood in the desert of Kuwait with our vigilant warriors who stopped Iraqi aggression this time before it could start. I have met our fliers in Ramstein, Germany, who delivered supplies and hope to Bosnia in the largest humanitarian airlift of all time. I have visited the men and women of Operation Uphold Democracy who ended the terror and turned on the lights for the freedom-loving people in Haiti. I have been to Korea, where the steady presence of our Americans in uniform has been indispensable to our successful efforts to end the nuclear threat and maintain the peace there.
+
+Wherever I go, I see firsthand the dedication, the skill, the ingenuity of our men and women in uniform. I see the legacy of World War I, World War II, Korea, Vietnam, the Cold War, Desert Storm, all of our other encounters, in these young people who get better and better and better at what they do.
+
+Every year, more than 275,000 of these talented Americans finish their military service and return to civilian life. The strength they bring to our Armed Forces can and, indeed, must fortify our nation's civilian economy and fiber of civic life. So, on this Veterans Day, let me urge every employer in America in the public and the private sector to tap the invaluable source of America's veterans, to recognize their loyalty and their commitment. After all, they volunteered, sometimes for jobs of great danger and risk. To recognize their skill, their creativity, their dedication. There are so many ways in which we can now say nobody does it better.
+
+America's veterans are leaders and winners, and they can help America to compete and win. But they must be given the opportunity to serve and to work.
+
+As we reflect on the challenges that these veterans have met so successfully in the recent and in the distant past, my fellow Americans, let us today rededicate ourselves to meet the new challenges we face today. Because of the work of our veterans, our nation remains the world's strongest force for peace and freedom, for democracy and prosperity. And the world is moving in our direction.
+
+We can be very thankful that on this Veterans Day, for the first time since the dawn of the nuclear era, there are no Russian missiles pointed at the children of the United States. We can be thankful for that. {APPLAUSE}
+
+But as the painful events of recent days have reminded us, the forces of darkness and division have not been destroyed. Threats like the proliferation of weapons of mass destruction; violence rooted in ethnic, religious and racial hatred; organized crime and drug trafficking, and especially, terrorism call upon us to respond. Just as our veterans faced down the threats of a previous era, so now we must confront these challenges of this time. Just as Congress and the President join in bipartisan spirit over the last 50 years to protect our nation's security, so we must join today.
+
+I am proud of the work our military is doing in the fight to keep illegal drugs out of America, and the fight to break the terrible drug cartels of the world. I am proud of the work our law enforcement people have done here at home and abroad to combat terrorism, from bringing terrorists to justice from all across the world, to actually stopping terrorists plots in the United States before they succeed.
+
+But as we saw in the World Trade Center and at Oklahoma City, and as we saw so recently in the tragic, tragic murder of Israel's great leader and military hero, Prime Minister Rabin, there is more to be done. Giving our officials the tools they need to defeat terrorism is now a part of our national security mission, just as maintaining a strong national defense is. This matter must be beyond party. All of us must rise to the challenge to meet it.
+
+As we close this commemoration of World War II, let me thank again General Licklighter and all those who helped to make it possible, and let me urge all of us to summon the spirit that joined that generation, that stood together and cared for one another. The ideas they fought for are now ours to sustain. The dreams they defended are now ours to guarantee. In war they crossed racial and religious, sectional and social divisions to become one force for freedom.
+
+Now, in a world where lives are literally being torn apart all over the globe by those very divisions, let us again lead by the power of example. Let us remember their example. Let us live our motto, E pluribus unum -- from many, one. Let us grow strong together, not be divided and weakened. Let us find that common ground for which so many have fought and died.
+
+On this hillside of honor and respects, let us once again humbly thank our veterans for answering the call to duty for what they did in times of crisis and war and what they did to preserve the peace. Let us remain ever grateful for all they have done. And for what we owe them, let us never be forgetful. We must and we will meet our obligations and secure our future if we remember all of that. My fellow Americans, that is our mission, and we must fulfill it.
+
+Thank you. God bless you, and God bless America. {APPLAUSE} 
+
+{/speech}

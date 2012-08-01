@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President to the People of Nicaragua {/title}
+{event} Jose Dolores Toruno Lopez High School, Posoltega, Nicaragua {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 8, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. President Aleman, Mayor Zeledon, Mayor Palcio, Bishop Vivas. To our school director, Julio Martinez Toruno, and all the children who are here. To the members of the government of Nicaragua and the National Assembly. To the Chinandaga Boys Choir and to the young woman who sang the National Anthems of both nations, the granddaughter of former President Violeta Chamorro, and to all the people of Nicaragua, thank you for making us feel so very welcome today. {APPLAUSE}
+
+My fellow Americans and I are moved and humbled to be here in Posoltega, where the terrible mudslide took so many sons and daughters, mothers and fathers, neighbors and friends. I have come to pay my respects to those who lost their lives and to reaffirm the support of the American people for those who were spared, and for your rebuilding. In this decade, with courage and strength, you have created a new Nicaragua. You have earned the world's admiration and now you deserve the world's support in this moment of need. {APPLAUSE}
+
+Somos humanos nos ayudamos. {APPLAUSE} We are brothers and sisters, neighbors and friends. We must help each other. {APPLAUSE}
+
+I thank President Aleman for recognizing the work of the United States to provide food, shelter and health care; to renew the farms and small businesses; to rebuild the roads and bridges and homes. I thank our Armed Forces for all they have done, including building a new health center in Wiwili, north of here. Now our Agency for International Development will provide equipment, training and immunizations for this health center, and others in Nicaragua, so that your people can get back on their feet and stay healthy as they rebuild their lives. {APPLAUSE}
+
+Today we have brought 3,000 pounds of school supplies for the children of Posoltega, donated by organizations all across America, and by our own workers at the White House. {APPLAUSE} I know that you need more temporary shelters until permanent homes can be built. I know you need to speed the discovery and removal of land mines left from the war, because the hurricanes may have moved them and made them more dangerous. With these tasks, too, we will help. {APPLAUSE}
+
+I know that more is needed, and urgently. I have asked our Congress for $956 million to support our reconstruction effort here. I am grateful that leaders in our Congress from both political parties have expressed support, and I thank the members of the United States Congress who have come to Nicaragua with me and are sitting over here -- Senator Graham and Congressman Becerra, Deutsch and Reyes. {APPLAUSE}
+
+This aid will help to speed the rebuilding of homes, farms, businesses and roads. It will help your government to deliver aid better. It will allow us to send more Peace Corps volunteers. And I would like to thank the Peace Corps volunteers. And I would like to thank the Peace Corps volunteers who are here today for their service in Nicaragua. {APPLAUSE}
+
+As we see the dust in the wind today, it reminds us that you must rebuild in a way that helps you to manage the environment better -- by preserving trees that can help prevent a mudslide, or curbing pollution that can cause temperatures to rise. We can avoid or lessen future catastrophes. We can manage the land and water, and grow your economy, and I know you want to do that.
+
+To help you focus on reviving your economy, my aid package would also defer or forgive much of Nicaragua's -- and Honduras's debts to our government. And I have asked our Congress to reduce trade barriers between the two of us so that all the people of Central America can work and grow their way back to prosperity and normal life. {APPLAUSE}
+
+We have provided temporary immigration protection for Central Americans in our country, and I will seek a fair solution to all the immigration issues this tragedy has heightened.
+
+In times past, there was conflict, turbulence and distrust between our two nations. But now, we are bound together in our common commitment to democracy. And democracy will light the way to a brighter future for Nicaragua -- through government, through voluntary organizations, through local officials working with citizens who are participating in decisions that affect their lives; through leaders working to see that no one exploits this tragedy for personal gain and no one is left behind. And we will work with you every step of the way. {APPLAUSE}
+
+A hurricane, a mudslide -- they can destroy lives, they can destroy homes. They can destroy a life's work. But they must not be allowed to destroy hope. Not so long ago, your country overcame a terrible war, and emerged even stronger. You will overcome this adversity as well. And we will work with you every day until the task is done.
+
+Thank you. God bless you. Muchas gracias. 
+
+{/speech}

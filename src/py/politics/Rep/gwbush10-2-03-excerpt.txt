@@ -1,0 +1,36 @@
+﻿{title} Presidential Remarks 2/10/03 {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 10, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} This is an excerpt {/description}
+
+{speech} 
+
+We face an outlaw regime in Iraq that hates our country. A regime that aids and harbors terrorists and is armed with weapons of mass murder. Before September the 11th, 2001, there's a lot of good folks who believe that Saddam Hussein can be contained. Before September the 11th, 2001, we thought oceans would protect us forever; that if we saw a gathering threat somewhere else in the world, we could respond to it if we chose -- so chose to do so. But that all changed on that fateful day.
+
+Chemical agents, lethal viruses, and shadowy terrorist networks are not easily contained. Secretly, without fingerprints, Saddam Hussein could provide one of his hidden weapons to terrorists, or help them develop their own. Saddam Hussein is a threat. He's a threat to the United States of America. He's a threat to some of our closest friends and allies. We don't accept this threat. {APPLAUSE}
+
+As a matter of fact, the world saw this as a threat 12 years ago. Twelve years ago, Saddam Hussein was told to disarm -- for a reason: he's a dangerous man. And he hadn't disarmed. We've tried economic sanctions; he hasn't changed. Over the years, we've tried limited strikes against military facilities. It didn't work. We've offered Iraq the path of voluntary disarmament and inspections. The Iraqi regime is rejecting it.
+
+Saddam Hussein has broken every promise to disarm. He has shown complete contempt for the international community. Last fall the international community spoke, with united voice. It said: this is your last chance, Mr. Saddam Hussein, to do what you said you would do, which is, in the name of peace, disarm; destroy your weapons of mass destruction. The role of the inspectors is not to play hide-and-seek, in a country the size of California, with 104 people. The role of inspectors is to verify whether or not Mr. Saddam Hussein is keeping his word; whether or not he's showing up with his weapons and destroying them. The weapons, by the way, he says he doesn't have.
+
+My attitude is that we owe it to future generations of Americans and citizens in freedom-loving countries to see to it that Mr. Saddam Hussein is disarmed. {APPLAUSE} It's his choice to make as to how he will be disarmed. He can either do so -- which it doesn't look like he's going to -- for the sake of peace, we will lead a coalition of willing countries and disarm Saddam Hussein. {APPLAUSE}
+
+If war is forced upon us -- and I say "forced upon us," because use of the military is not my first choice. I hug the mothers and the widows of those who may have lost their life in the name of peace and freedom. I take my responsibilities incredibly seriously about the commitment of troops. But should we need to use troops, for the sake of future generations of Americans, American troops will act in the honorable traditions of our military and in the highest moral traditions of our country.
+
+We will try in every way we can to spare innocent life. The people of Iraq are not our enemies. {APPLAUSE}
+
+The true enemy of the Iraqi people, Saddam Hussein, has a different strategy. In violation of the Geneva Conventions, Saddam Hussein is positioning his military forces within civilian populations in order to shield his military and blame coalition forces for civilian casualties that he has caused. Saddam Hussein regards the Iraqi people as human shields, entirely expendable when their suffering serves his purposes.
+
+America views the Iraqi people as human beings who have suffered long enough under this tyrant. {APPLAUSE} And the Iraqi people can be certain of this: the United States is committed to helping them build a better future. If conflict occurs, we'll bring Iraq food and medicine and supplies and, most importantly, freedom. {APPLAUSE}
+
+As I said in my State of the Union, liberty is not America's gift to the world. Liberty is God's gift to every human being in the world. {APPLAUSE} America has great challenges; challenges at home and challenges abroad. We're called to extend the promise of this country into the lives of every citizen who lives here. We're called to defend our nation and to lead the world to peace, and we will meet both challenges with courage and with confidence. {APPLAUSE}
+
+There's an old saying, "Let us not pray for tasks equal to our strength. Let us pray for strength equal to our tasks." {APPLAUSE} And that is our prayer today, for the strength in every task we face.
+
+I want to thank each of you for your prayers. I want to thank you for your faithfulness. I want to thank you for your good work. And I want to thank you for loving your country.
+
+May God bless you all, and may God bless America. {APPLAUSE} 
+
+{/speech}

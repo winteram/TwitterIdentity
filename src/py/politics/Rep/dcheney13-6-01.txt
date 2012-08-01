@@ -1,0 +1,66 @@
+﻿{title} Remarks by the Vice President to U.S. Energy Association Efficiency Forum {/title}
+{event} Washington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} June 13, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{APPLAUSE} Thank you. Thank you very much. And thank you, Jim. I appreciate having the opportunity to be here today, back at the Press Club. You know, I used to spend a lot of time in this town. When I came here and stayed 25 years and then left eight years ago, I thought my tour was up.
+
+And I'm often asked why I left government after 25 years and went into the private sector. I explain that two things happened, really. First, we lost an election. {LAUGHTER} That didn't help. But also, I also reached the point after all that time where I was mean-spirited, short-tempered, intolerant of those who disagreed with me. And they said, "Hey, you'd make a great CEO." {LAUGHTER}
+
+So I was happy to find work in the private sector, but I'm delighted now to be back and to have some time to share in this administration with President Bush. He asked me about a year ago to sign on and become part of his administration, and it's one of the better decisions I've ever made. We've really enjoyed it. It's been a tremendous experience. And wrestling with some of the problems we're wrestling with, some of these were problems 30 years ago and they're still problems today. But it's a privilege for me to be here today on his behalf and on behalf of the administration.
+
+Clearly, this is one of the most important forums every year on energy efficiency and on the general subject of energy. I know you've had a very full agenda today and a fine group of speakers during the conference. What I'd like to do is take a little bit of time and try to give you the administration perspective on some of these issues, and then I'll be happy to take some questions, as well.
+
+During the campaign last year, when then-Governor Bush and I were campaigning, we had identified our potential energy problems as one of the possible storm clouds on the horizon of the economy. We looked down the road and tried to identify something that might adversely affect our nation and lead to significant economic difficulties. We thought that the fact that we didn't have a coherent energy policy at that point and there were beginning to be some problems out there was significant.
+
+We were not intending to speak as prophets but, rather, as realists. Since then, of course, we've seen the energy challenges grow significantly into a very serious hardship now for people in California and many places in the West. Across the country, millions of families have had their budgets squeezed by energy costs. From the late '70s to the late '90s, the share of the average family budget devoted to energy had declined, but since 1998, it's actually now on the rise.
+
+Against that background, four days after we were sworn in, the president asked me to sign on as the chairman of a committee of the Cabinet, the National Energy Policy Development Group, to pull together a set of options and some proposals for him that would begin to address what we perceived to be some of the serious problems out there. It was the first comprehensive approach, or attempt to be comprehensive with respect to energy policy for quite some time.
+
+The report we issued last month presented more than 100 recommendations covering virtually the entire range of concerns that face the American people. One of the concerns, obviously, is the aging power grid and the growing problem that we have in getting electricity from the power plant to the light switch. It's clear that we must upgrade and expand the power grid. If we put more connections in place, we'll go a long way towards avoiding future blackouts. Another broad aim is to increase energy supplies from diverse sources; from oil and gas, renewables, coal, hydro and nuclear. This is the kind of balanced approach we think is essential if we're going to meet the country's energy needs down the road and take care of many of our other concerns, especially with respect to the environment.
+
+Good stewardship is a public value in 21st century America. By far, most of us believe in showing due consideration for the air, the water, the land and natural life around us. The president and I believe very deeply that more energy can be acquired while at the same time we provide for a safe, clean environment.
+
+Indeed, an energy shortage is bad for the environment, as we've seen in California, where dirtier plants are now running longer in order to keep the lights on and where competition and efforts to deal with some of the environmental problems have led to a refusal to build plants are now creating demands, for example, for using the water in the dams and reservoirs in the Northwest in a way that may, in fact, damage the salmon population.
+
+It is possible to have more energy and a cleaner environment. Technology allows us to do it, and as we've already seen with the incredible advances in technology that have been employed in locating and producing energy and in using it. This is one of the primary themes of the energy policy we've put forward: to make better use of the latest technology of what we take from the earth. On the production side, it's everything from clean coal technology, which we support, to alternative clean energy sources. It also includes the highly effective new methods that allow much oil production to go forward with minimal impact on the environment. But it's not just a matter of cleaner use. We must become much more efficient in our energy use as well.
+
+For a family or business, energy efficiency can mean lower energy bills. For the country, efficiency helps us make the most of our resources, lowers our reliance on energy imports, and softens the impact of high prices and reduces pollution. Here we seek to continue a path of uninterrupted progress in many fields. Home refrigerators use about one-third of the electricity they used in 1972. Compact fluorescent lights use about 25 percent of the incandescent bulbs that they replace. Today's automobiles use roughly 40 percent less fuel per mile driven than they did 30 years ago. The latest computer screens use a fraction of the power needed on older models. Low power technology has been perfected for many portable and wireless devices.
+
+For the country as a whole our progress in energy efficiency has been nothing short of remarkable. Since the Nixon administration our economy has grown by 126 percent; our use of energy has grown only by 26 percent. Under the president's plan our country will continue to build on this very successful history. We can and we will make even greater strides in energy efficiency going forward.
+
+While such advances cannot alone solve America's energy problems, they can and will continue to play a vitally important role in our energy future. New technologies are proving that we save energy without sacrificing our standard of living, and we're going to encourage these technologies in every way possible.
+
+In pursuing energy efficiency, we must be clear about our purposes. As the president has said, conservation does not mean doing without. Thanks to new technology, it can mean doing better, smarter, cheaper.
+
+With that distinction in mind, we are advancing a number of specific ideas for improving efficiency throughout the economy. First, we'll seek higher federal efficiency standards for appliances wherever this is feasible and economically justified. At present, all refrigerators, freezers, clothes washers, and dishwashers have energy guide levels to let consumers know just how much energy is consumed. The president's also asked the Energy Department to hold other appliances to these standards, wherever it makes sense to do so.
+
+We will also provide better information to consumers by expanding the government's Energy Star program, which identifies the most energy-efficient appliances.
+
+On the consumption of energy, the government is going to lead by example. The federal government is the single largest energy consumer in the United States. Energy use in many federal buildings has already been reduced by 30 percent from 1990 levels, largely by installing energy-efficient technologies. The government has also reduced vehicle and equipment energy use 35 percent.
+
+Our administration will continue this progress under an executive order recently signed by the president which ordered all federal agencies to take extra steps to conserve energy. Military and federal agencies are already exceeding expectations.
+
+Third, we're going to help industry conserve energy by investing in energy-efficient technologies. Everyone here is familiar with combined heating and power, or CHP, systems. For many companies with large needs for both heat and electricity, CHP systems are the way to go. We're asking Congress to give these systems the same depreciation incentives the tax code now gives to power plants.
+
+Fourth, we've directed the secretary of Transportation to review and provide recommendations on establishing CAFE standards with due consideration of the National Academy of Sciences study to be released next month. We don't know yet whether or not any adjustment will be justified, but we're going to eagerly await the secretary's report once the NAS has completed its work. Any new standards should consider efficiency, but also safety, economic concerns and what the impact might be on the automobile industry. We've also called for tax incentives for new kinds of fuel-efficient vehicles, which offer greatly improved fuel economy and sharply reduced emissions.
+
+Fifth, the president has asked the secretary of Energy, Spence Abraham, to conduct a thorough review of energy efficiency R&D programs in light of our national energy policy. It's the nature of things to find that some programs and methods work better than others. We will look for the approaches that hold the most promise for savings in the use of energy. Just yesterday, at the direction of the secretary, meetings were held in Chicago and Atlanta to evaluate performance-based efficiency programs. Five similar meetings are going to be held in different parts of the country in the weeks ahead. When the study is completed, the secretary will then recommend appropriate levels of funding for the most effective of these programs.
+
+As we pursue greater energy efficiency throughout our society as part of a comprehensive energy policy, the gains will be more than economic. Every step we take toward wiser use of energy and more diverse supplies at home will make us that much less dependent on overseas suppliers and less vulnerable to supply shocks imposed on us from abroad.
+
+Then there's the matter of global climate change, which concerns people in every nation. We're the world's largest economy and also the largest producer of man-made greenhouse emissions. Before departing for Europe on Monday, the president called on Congress to fully implement our clean energy technology proposals so that our country can reduce greenhouse gas emissions by significant amounts in coming years.
+
+There's still a great deal to be learned about global climate change. The United States spends more than any other country on climate change research, more than the combined expenditures of Japan and all 15 countries in the EU. And we will continue to lead the scientific effort to find answers.
+
+I have no doubt that we will also be the country that masters the technology to reduce greenhouse gases.
+
+This country has met many great tests over our history. Some have imposed prolonged difficulty and major sacrifice; others have demanded only resolve, ingenuity and clarity of purpose. Such is the case with energy today. We have it within our power to make great strides and to reap great rewards in new jobs, a healthier environment, a stronger economy and a brighter future.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

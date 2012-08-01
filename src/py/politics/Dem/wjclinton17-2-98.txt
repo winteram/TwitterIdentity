@@ -1,0 +1,26 @@
+﻿{title} Remarks by the President at Reception for World Series Champion Florida Marlins {/title}
+{event} Reception for Florida Marlins, The East Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 17, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, welcome to the White House. Mr. Smiley, Mr. Leyland. Glad to be joined by the Executive Director of the Players Association, Don Fehr; Congressman Deutsch, Congressman Foley, Congressman Wexler. I think I should also say -- I see my EPA Administrator, Carol Browner, here. You should know that this administration has three members, along with Carol Browner, Attorney General Janet Reno and the Secretary of the Treasury Bob Rubin who all grew up in South Florida. They're fairly happy about the outcome of the World Series. {APPLAUSE}
+
+You can tell that I am not running for office anymore -- I might not have said that here. {LAUGHTER} But we are delighted.
+
+When I was first elected President I never could have dreamed that a lot of the things that would occur in the last five years have occurred. I didn't imagine then that millions of people would be using the Internet every day. When I was first elected President, there were only 50 sites, and they were all the province of physicists. I couldn't have imagined that the deficit would come from $300 billion to zero in five years. And I could not have predicted that the Florida Marlins would be here because they hadn't even played a game yet. {LAUGHTER} That is a truly astonishing achievement. {APPLAUSE}
+
+But what you did in a short time was a gift to your magnificent leader, Jim Leyland, for a lifetime in professional baseball. And all of us who are baseball fans of whatever team had to be happy about that.
+
+And, of course, a manager can't win without talented players and without teamwork. Livian Hernandez dazzled us with his pitching and became only the second rookie ever to win the World Series MVP Award. Charles Johnson's defense earned him the Gold Glove as catcher for the third year in a row. Edgar Renteria's name will live in baseball history forever for ending one of the most exciting World Series in history with his two-out single in the bottom of the 11th. You know, those games got so long, some of us really did want them to go on forever after a while. {LAUGHTER}
+
+Baseball I think made a huge comeback as America's national pastime in this World Series, thanks to the magnificent competition which you won deservedly.
+
+You know, a lot of the players on this team are newcomers to our country, and so are many of the fans of the Florida Marlins. I suppose it's only right that the capital of the Americas would take its turn as the baseball capital of the world. But even more importantly, we should be proud of the example this team set, proving once again that people of very different ethnic backgrounds can play together and win together. Now, it may not be the precise same Marlin team that played the Indians last year that takes the field on opening day, but if the players keep the same spirit they'll be sure to be in the hunt again when the season comes to a close.
+
+Congratulations. For all of us who grew up with baseball as a national pastime, you gave America a great gift last year that none of us will ever forget. Thank you. {APPLAUSE} 
+
+{/speech}

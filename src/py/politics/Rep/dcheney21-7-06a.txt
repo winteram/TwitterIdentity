@@ -1,0 +1,82 @@
+﻿{title} Vice President's Remarks at a Rally for the Troops at Fort Stewart, Georgia {/title}
+{event} Fort Stewart, Fort Stewart, Georgia {/event}
+{speaker} Dick Cheney {/speaker}
+{date} July 21, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{APPLAUSE} Mercy. {LAUGHTER} Well, thank you very much. And, General Lynch, General Rodeheaver, distinguished guests, family members, soldiers of the Third Infantry Division and the 48th Infantry Brigade.
+
+{AUDIENCE} Whooa!
+{/AUDIENCE} 
+Thank you for a warm welcome. It's great to be with all of you, and to visit one of the finest military installations in America -- Fort Stewart, in the great State of Georgia.
+
+{AUDIENCE} Whooa! {/AUDIENCE} 
+
+I want to thank General Lynch for the kind words of introduction, and all those who have arranged for us to come by this afternoon. I also want to recognize the state and local officials who came here today. We're joined by some fine members of Congress who support our military -- Phil Gingrey, John Barrow, and Jack Kingston. Don't hold back.
+
+{AUDIENCE} Whooa! {/AUDIENCE} 
+
+They pay the bills. {APPLAUSE} And it's always an honor to be joined by another strong supporter of our military, the Governor of the great state of Georgia, Sonny Perdue. {APPLAUSE}
+
+Soldiers and families of Fort Stewart are reminded every day that you live in a hard-working, patriotic part of the United States. Throughout Coastal Georgia you find remarkable community spirit for the military, and I know it means everything to our people in uniform and to their loved ones. So I want to thank the cities of Hinesville, Savannah, and this entire region for standing behind our military families. {APPLAUSE}
+
+This is not my first visit to Fort Stewart. I remember coming here almost exactly 16 years ago, as Secretary of Defense, when we were getting ready to deploy forces to Desert Storm and to fight the Persian Gulf War. Then, as now, I was impressed by the work that is carried out here, by the caliber of soldiers posted here. The Stewart/Hunter complex is the largest Army installation east of the Mississippi, and it plays an absolutely vital role in the defense of this nation. Your duties are not easy, but you carry them out with skill and honor. You've made a tremendous difference for this nation. So I'm proud to be in your company. I bring gratitude and good wishes from our Commander-in-Chief, President George W. Bush. {APPLAUSE}
+
+America has always counted on the Army to defend our country and to man the watchtowers of freedom. And in our own time, soldiers of the United States are repaying that confidence every day as we fight the global war on terror. When we were attacked on a terrible September morning nearly five years ago, President Bush said that the struggle would be lengthy and difficult, and would require our best effort and unfailing resolve. It's tough; it's dangerous to fight enemies who dwell in the shadows, who target the innocent, who plot destruction on a massive scale. And in this fight some of the hardest duties have come to the men and women of the United States Army.
+
+Today we take special pride in recognizing some of our best -- the Third Infantry Division. {APPLAUSE} The Third I.D., of course, has one of the most successful combat records of any division in Army history. {APPLAUSE} More than three years ago, at the beginning of Operation Iraqi Freedom, the Third I.D. was the spearhead unit into Baghdad.
+
+{AUDIENCE} Whooa! {/AUDIENCE} 
+
+And you've continued to carry out difficult and dangerous missions in support of the rising democracy in Iraq. On your most recent deployment you conducted thousands of combat and supply route patrols, convoy security missions, cordon and search operations. Soldiers and aviators of the Third I.D. supported millions of pounds of cargo and evacuated thousands of medical patients. You carried out raids and air assaults against our enemies, provided security and humanitarian aid for innocent people, and worked closely with Iraqi Security Forces. Every day you went about your jobs with tremendous focus and skill, regardless of the conditions -- and I know the desert over there can make a Georgia summer look pretty mild.
+
+{AUDIENCE} Whooa! {/AUDIENCE} 
+
+The Third I.D.'s performance in the field -- not just the progress you've made, but also your character as men and women -- has left a lasting impression on people up and down the chain of command. Once again, the United States is grateful to the Third Infantry Division -- the Rock of the Marne -- for a job well done. {APPLAUSE}
+
+We're grateful as well to members of a superb unit that returned home in May -- the 48th Brigade Combat Team of the Georgia National Guard. {APPLAUSE} From helping to stand-up the new Iraqi government, to cordon and search operations, to combat patrol and checkpoint security, to the capture and detention of suspected terrorists -- the 48th has shown toughness, great ability, and endurance. You saw heavy combat and logged countless miles in thousands of vehicles. It was a hard deployment; you did a superb job. Members of the 48th, welcome home. {APPLAUSE}
+
+In their conduct overseas, the men and women who wear this nation's uniform have reminded people everywhere of America's purposes. For the sake of our own security, and that of our friends, we've undertaken a lot of serious work in the world. Yet when we use our military, it's not to conquer, but to liberate. And after we throw back tyrants, we stand by our friends to ensure that democratic institutions can take hold, and to help build freedom that leads to peace in the long run.
+
+Five years ago Iraq and Afghanistan were both in the grip of violent, merciless regimes. Now they have democratically-elected governments, the dictators are gone, and 50 million people are awakening to a future of hope and freedom. And Americans who return home from that part of the world can be proud of their service for the rest of their lives. {APPLAUSE}
+
+We maintain forces in those countries because we're a nation that keeps its word, and because we understand what is at stake in that part of the world. The terrorists understand it, as well. The terrorists know that as freedom takes hold, the ideologies of hatred and resentment will weaken, and the advance of free institutions in the broader Middle East will produce a safer world for our children and grandchildren. The war on terror is a battle for the future of civilization. It's a battle worth fighting. And it is a battle we are going to win. {APPLAUSE}
+
+The terrorists have made Iraq the central front in this war. And we wage this fight with good allies at our side, including an Iraqi Security Force growing in size and ability. We'll continue to train the Iraqi forces so they can defend their own country and make it a source of stability in a troubled region. When it comes to our own troop levels, the President will listen to the recommendations of commanders on the ground. And he'll make the call based on what is needed for victory, not according to the polls, and not by artificial time lines set by politicians in Washington, D.C. {APPLAUSE}
+
+In our own country, we take democratic values seriously -- and so we always have a vigorous debate on the issues. That's part of the greatness of America. We wouldn't have it any other way. But there is a difference between healthy debate and self-defeating pessimism. We have only two options in Iraq -- victory or defeat. And I want you to know, as members of the United States military, that the American people do not support a policy of retreat or defeatism. {APPLAUSE} We want to complete the mission, to get it done right, and return with honor.
+
+Although we have been in the struggle against terrorism for nearly five years now, the terrorists were actually at war with this country long before 2001. And they were the ones on the offensive. Over time, they came to believe that they could strike America without paying a price -- because they did so many times in the 1980s and '90s. And eventually, of course, they hit us here in the United States on September 11th, 2001.
+
+That day changed everything -- and the United States will never go back to the false comforts of the world before 9/11. Terrorist attacks are not caused by the use of strength. They are invited by the perception of weakness. And this nation has made a decision: We will engage these enemies -- facing them far from home, so we do not have to face them on the streets of our own cities. {APPLAUSE}
+
+That effort includes a home front -- and the home front is every bit as important as the battlefields overseas. To protect Americans, the President also signed the Patriot Act, which is helping us to disrupt terrorist activity, and break up terror cells within the United States, and to protect the lives of Americans.
+
+Another vital step the President took in the days following 9/11 was to authorize the National Security Agency to intercept a certain category of terrorist-linked international communications. There are no communications more important to the safety of the United States than those related to al Qaeda that have one end in the United States. If you'll recall, the report of the 9/11 Commission focused criticism on our inability to uncover links between terrorists at home and terrorists abroad. The authorization the President gave after September 11th helped address that problem in a manner that is fully consistent with his constitutional responsibilities and legal authority and with the civil liberties of the American people.
+
+As people who know first-hand what this war really involves, you can be certain of this: The President will not relent in tracking the enemies of the United States with every legitimate tool at his command. This is not a war we can win on the defensive. Our only option against these enemies is to monitor them, to find them, to fight them, and to destroy them. {APPLAUSE}
+
+I'm afraid that as we get farther and farther away from September 11th, 2001, there is a temptation to let up in the fight against terror. We're all grateful this nation has gone four years and 10 months now without another 9/11. Obviously, no one can guarantee that we won't be hit again. But getting through these years of wartime took a lot more than just luck. We've been protected by sensible policy decisions by the President, by decisive action at home and abroad, and by round-the-clock efforts on the part of people in the armed forces, in law enforcement, in intelligence, and homeland security.
+
+The enemy that struck on 9/11 is weakened and fractured, yet still lethal and still determined to hit us again. We've never had a fight like this -- and we have a lot more to do before it's finished. Either we are serious about fighting this war or we are not. And the enemies of America need to know: We are serious, and we will not let down our guard. {APPLAUSE}
+
+Everywhere I go in this country, I am struck by the depth of gratitude and admiration that Americans have for our men and women serving in the military. We do not take freedom for granted because we know it came with a price. Many based at Fort Stewart, including a good number here today, have been decorated for acts of bravery for outstanding performance. You have also had to say a last farewell to some devoted comrades in arms. And the families left behind need to know that their loved ones served in a noble and a necessary cause. Their sacrifice has made our nation and the world more secure. We will honor their memory forever. {APPLAUSE}
+
+In this war we have seen the highest military decoration of them all, the Medal of Honor, presented to a member of the Third I.D.
+
+{AUDIENCE} Paul! {/AUDIENCE} 
+
+In April of '03, a task force led by Sergeant Paul Ray Smith came under surprise attack near Baghdad by Saddam Hussein's Republican Guard. Under constant enemy fire, with his unit pinned down and a number of men wounded, Sergeant Smith climbed onto a damaged vehicle and manned a 50-caliber machine gun. Though in a completely exposed position, Sergeant Smith started fighting. To another soldier he called out, "feed me ammunition whenever you hear the gun get quiet." He fired at the enemy and went through three boxes of ammunition until he took a fatal round. After the firefight, the Army concluded that this one soldier had personally killed as many as 50 Republican Guard and saved the lives of more than 100 of his fellow soldiers. Sergeant Smith's wife said, "Paul loved his country. He loved the Army, he loved his soldiers." {APPLAUSE}
+
+For as long as citizens step forward to serve in uniform, Americans soldiers will be inspired by this man's exceptional bravery under fire, and by the honor he reflected on the Third I.D.
+
+In this new generation we are seeing once again that the American soldier in battle places the mission first, never accepts defeat, never quits, never leaves a fallen comrade. {APPLAUSE} The spirit of the American soldier is to be honorable and just, and, even amid the cruelties of battle, to be decent and humane. By their courage, members of our military are taking the fight to the enemy and winning the war on terror. And by their openness and their kindness to others in thousands of interactions every day, members of our military have built permanent bonds of friendship between the United States and the nations we've liberated.
+
+By defending ourselves, and by standing with our friends, the United States of America is meeting its responsibilities as freedom's home and defender. {APPLAUSE}
+
+We're a nation founded on the ideals of liberty, equality, and justice. We uphold those ideals at home, and we defend those ideals where they are threatened. Standing here on Cottrell Field, I want to thank each and every one of you for the vital work you're doing, and for your daily example of skill, and perseverance, and honor. I came here today to thank you for what you're doing for all of us. It's a privilege to be with you. You've made this nation very proud. {APPLAUSE} 
+
+{/speech}

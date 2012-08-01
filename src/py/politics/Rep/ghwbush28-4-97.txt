@@ -1,0 +1,28 @@
+﻿{title} Remarks by President Ford, President Bush And President Clinton at Luncheon {/title}
+{event} Luncheon {/event}
+{speaker} George H. W. Bush {/speaker}
+{date} April 28, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President Luncheon with Bush Ford {/description}
+
+{speech} 
+
+Thank you, Gerry. Thank you very much. {APPLAUSE} Thank you all -- Mr. President, Hillary, distinguished guests. Thank you, President Ford. I can now call him Gerry. I called him "sir" for all the years we served in the Congress, and then when he became President even better than that.
+
+Looking out at this group, I refuse to give advice to all the leaders assembled here. Remember when President Kennedy went to the group of business guys? He said, "If I weren't President, I'd be buying stocks right now." A guy in the back said, yes, "If you weren't President, I'd be buying stocks right now." {LAUGHTER} So I'm not going to give any advice to this crowd.
+
+Seeing Tipper and the Vice President here, I remember getting advice from my mother once right after a State of the Union message. President Reagan was speaking and I get home to the V.P. house; phone rings; it's mother, who gave me advice until the day she died. And said, "George, I watched the State of the Union message, and I noticed that during the message, you were talking to Tip O'Neill." {LAUGHTER} I said, "He started it." {LAUGHTER}
+
+So, you might say, what is that apropos of? Nothing, I know I messed up last night, and I'd like to blame the TelePrompTer guy, except everybody did it well with that TelePrompter Man. {LAUGHTER} So I will simply say, thank you to those who I know did a lot, and in doing this, I'm going to risk forgetting a lot of people here. I'm going to forget a lot of people which I shouldn't.
+
+Of course, Colin, my friend and pal, with whom I was so proud to serve and who really has given of his heart. You know, you read all the political stuff and all of that -- this comes from his gut, from his heart. And I know it and I've been around him a lot and I have great respect. And if you don't believe he's been committed, ask Alma; she hasn't seen him in months. {LAUGHTER}
+
+So, no, but he's wonderful. And Colonel Smullen, who works with him, unsung guy behind the scenes with whom my office has worked, I want to thank him. Ray Chambers you've heard about. Ray is an inspiration. I'm getting along in years, and I've got several inspirations yet to come, I'm sure; but one of them is Ray Chambers. He came up to see me early on up in Maine. We talked about all of this, and then he delivered. Active, busy in business and all, he's just carved out an awful lot of his life to helping other people -- long before this summit, I might add. And we owe him a vote of thanks.
+
+And, of course, Stewart Shapiro, perhaps the unsung hero of all of this who we heard from in the beginning. And then Marion Heard and Bob Goodwin.
+
+Harris Wofford, I hadn't known. But President Clinton, you chose a good one when you picked him. He has been fantastic and he's just done a great job for all of us. {APPLAUSE}
+
+And there are many others -- there are many others. I hope you would excuse me if I single out Gregg Petersmeyer, who if I ever got forgetful about this concept of A Thousand Points of Light when I was in the White House, Gregg was my conscience, and he did a great job for us. So I know I'm leaving out some, but I want to say thanks to all. {APPLAUSE} 
+
+{/speech}

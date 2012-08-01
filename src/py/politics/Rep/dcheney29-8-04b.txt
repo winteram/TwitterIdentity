@@ -1,0 +1,48 @@
+﻿{title} Vice President's Remarks at a Welcome Rally at Ellis Island {/title}
+{event} Liberty State Park, Jersey City, New Jersey {/event}
+{speaker} Dick Cheney {/speaker}
+{date} August 29, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. {APPLAUSE} Thank you very much. Thank you for the warm welcome. It's a pleasure to see so many friends here this morning. And I've got family with me. Lynne is here with me. {APPLAUSE} And you saw our three granddaughters run off the stage. {LAUGHTER} If we leave them up here, they steal the show during my speech, so we get rid of them. {LAUGHTER} But our daughters are here, as well, too. And it's great to see so many families here, as well, today.
+
+It's an honor to be in New York, and New York harbor with the Governor of New York, George Pataki. He does a superb job for everybody here in the state, his wife Libby. {APPLAUSE} And of course with who everybody refers to as their favorite mayor, Rudy Guiliani. {APPLAUSE} And I also want to thank Mayor Bloomberg, who couldn't be with us today, but he has done a superb job of helping the city get ready for an outstanding convention. {APPLAUSE}
+
+All of us are gathering this week for one reason and one reason only, and that is make certain that George W. Bush is President for the next four years. {APPLAUSE}
+
+And it's a special honor to kick things off here this morning, on this island, at such an important place in American public life. Obviously, this was the gateway to America for millions of people. They came from many parts of the world, all of them seeking better lives for themselves and their children and all of them sure that they would find it here.
+
+One Italian grandmother told her grandson as she put him on a ship for America, "The gold you will find will not be in the streets, it will be in the dreams you will realize, in the golden dreams of the future." {APPLAUSE}
+
+America is still the land of golden dreams, and it's the duty of our generation to make sure that our children and our children's children have all the opportunities that we have enjoyed -- and more.
+
+That effort has to begin with keeping our nation safe, and a sure reminder of that is the skyline of this great city, which was altered so violently on September 11, 2001. There are those in this world who have set themselves against the freedoms we enjoy, fanatics who hate the idea of equality, who want everyone to live the way they do, and who are willing to murder innocents to accomplish their goals. They have attacked our nation and they wish to do us further harm, and it is from them that we must protect our children, our country, and our future. {APPLAUSE}
+
+The election that brings us here on this August day could not be more important, given the challenges our nation faces, and my job here this week and in the two months ahead, is to tell people all across America about how strong and steadfast our President is -- how compassionate and concerned. He is exactly the leader we need for these times. And we need him for four more years. {APPLAUSE}
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+In the weeks following the terrorist attacks on America, people in every part of the country, regardless of party, took great comfort and pride in the conduct and the character of our President. They saw a man calm in a crisis, comfortable with responsibility, and determined to do everything necessary to protect our people.
+
+We all remember when the President came to New York City to visit with Mayor Guiliani and Governor Pataki, and when the workers at Ground Zero shouted that they could not hear him, he shouted back, "I can hear you. And the people who knocked these buildings down will soon hear from all of us." {APPLAUSE}
+
+He is a man of his word, as the Taliban were the first to find out. Under the President's leadership, we drove them from power in Afghanistan and closed down the camps where terrorists trained to kill Americans. {APPLAUSE}
+
+Under the President's leadership, we rid the world of a gathering threat by eliminating the regime of Saddam Hussein. Sixteen months ago, Saddam controlled the lives and the future of nearly 25 million people. Today, he is in jail. {APPLAUSE}
+
+At the very heart of these efforts have been the fine men and women who wear the uniform of the United States of America, and all of us here today and across the nation owe them an enormous debt of gratitude. {APPLAUSE}
+
+{AUDIENCE} USA! USA! USA! {/AUDIENCE} 
+
+Let it be recorded for generations to come that they defended freedom with great bravery, just as their forefathers did in earlier times. And let it be recorded that they treated the men, women, and children whom they liberated with compassion, just as Americans always have.
+
+One of the finest accounts of the immigrant experience was written by a woman named Mary Antin, who came to this country from Russia as a child. In her autobiography, she remembered the great thrill of finding out that she was going to what she called The Promised Land. "So at last I was going to America!" she wrote. "Really, really going, at last! The boundaries burst. The arch of heaven soared. A million suns shone out for every star. The winds rushed in from outer space, roaring in my ears, 'America! America!'"
+
+Mary Antin found her dream in this country, as millions of others have, and as millions more will. With the leadership of this President and the resilient spirit of the American people, we will meet the challenges of our time and carry the gift of freedom forward to the future.
+
+May God bless America. {APPLAUSE} 
+
+{/speech}

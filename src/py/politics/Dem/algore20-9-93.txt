@@ -1,0 +1,28 @@
+﻿{title} Remarks by the President, the First Lady, the Vice President, Mrs. Gore and Dr. C. Everett Koop to Physicians and Supporters {/title}
+{event} The East Room {/event}
+{speaker} Al Gore {/speaker}
+{date} September 20, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Distinguished guests, ladies and gentlemen. I want to thank the First Lady for her introduction and leadership in this whole initiative. This is the week that was, as they say. And it's wonderful to see so many physicians who are here and who are so strongly supportive of the President's efforts to reform our health care system.
+
+I might say that it's a special honor to be with Dr. Koop. I look forward to his comments later. He and I had a chance to work together on a number of projects in the last several years. And it is always refreshing to hear his views.
+
+It's very interesting to take stock of how much things have changed in so short a period of time. The debate on health care is now dominating our national debate about where we go as a country. No one any longer doubts that we are going to reform our nation's health care system. Now the debate is about exactly how and what kinds of changes. It's very refreshing.
+
+I heard kind of a throwback in the last couple of days from someone who is resisting change who made a point that I haven't heard in quite a while. He said, we have the finest health care system in the world. And in many ways, of course we do. But he said, we have to resist tinkering with it because it's just -- it's great. Well, when I heard that I thought about an event last week when the President and I went over to Children's Hospital. The First Lady was out at Mayo Clinic and leading a number of events in Minnesota that day. Tipper was talking with mental health care groups. The President and I went over to Children's Hospital and talked with doctors and nurses there about the current system and what it means to them just in terms of the sheer paperwork and bureaucracy and red tape.
+
+As is often the case when a big change comes, people suddenly realize they have not allowed themselves to feel the weight of how bad things were until they can see the hope for change. Well, that's the message that we heard over there, as these doctors and nurses were saying. Since we sat down and really measured this, we didn't realize what we were doing. One patient comes in here under Medicare, and we have to fill out 26 different forms for that one patient.
+
+We went to the file room, the stack of paperwork is growing six and a half feet per day -- just in one hospital. And one doctor said that in adding up the amount of time that he spent on paperwork, he could have seen an extra 500 patients per week -- I believe it was per week -- per year, I'm sorry. {LAUGHTER} I don't want to get carried away with this. No, I don't think it was per year. I think it was more than one per day.
+
+{OTHER-SPEAK} It was one and a half per day. {/OTHER-SPEAK} 
+
+In any event, it was a lot. {LAUGHTER ; APPLAUSE} The main point is, the paperwork and the red tape and the bureaucracy is so overwhelming, when people now finally let themselves look at it and realize what they've been doing -- now, I believe I've got this statistic right. A pediatrician said that she was spending 25 hours -- believe it or not -- 25 hours per week just filling out forms for her patients. Is that right? Okay. {LAUGHTER} The heads are nodding yes on that one. {LAUGHTER} Well, that's crazy. 
+And we have been in the midst of this effort to reinvent government and we've been spotlighting the ways in which the system is very inefficient across the board. And there are so many similarities between what needs to be done government-wide and what needs to be done in the health care system. 
+This new approach is going to be simple -- one form per patient. It is going to be effective. It is going to extend health care coverage. And it's going to eliminate the waste and inefficiency. And we are all very excited about it and very pleased that you are here to help start this important week. Thank you. {APPLAUSE} 
+
+{/speech}

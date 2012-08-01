@@ -1,0 +1,78 @@
+﻿{title} Remarks by the President at United Negro College Fund Dinner {/title}
+{event} United Negro College Fund Dinner, Sheraton Hotel and Towers, New York, New York {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 10, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. I want to begin by expressing my appreciation for being able to join the honorees here tonight and all the distinguished Americans who are here, the presidents of the 41 UNCF colleges. Given my roots, I couldn't help noticing, of the 41 UNCF colleges, all but Wilberforce are located in the south. {APPLAUSE} And sometimes I'm not so sure about Ohio and where it is. {LAUGHTER} For any of you who are from there, that was a compliment from me. {LAUGHTER}
+
+You know, Bill Gray once came to Arkansas to give a speech for me, and I thanked him profusely. He was then the Chairman of the House Budget Committee, perhaps the most powerful member of the House at that time, except the Speaker. And he was exhausted, and he came down there. I said, I cannot tell you how much I appreciate it. And he said, well, one of these days I'll give you a chance to demonstrate it. {LAUGHTER} At the time, he knew more about my future than I did, I assure you. {LAUGHTER}
+
+I've been terribly impressed with the people who have been recognized here tonight -- Stephen Wright and Arthur Fletcher; my longtime friend, Vernon Jordan. You could chronicle his demise up there -- his hair's going gray and he's relegated to playing golf with me. {LAUGHTER}
+
+I want to say a special word of recognition to Christopher Edley, Sr. because he has not only rendered great service to this organization, but he has given me his son to be the Associate Director of the Office of Management and Budget. {APPLAUSE} Now, the younger Mr. Edley was not so fortunate in his education. He was consigned to Swarthmore and Harvard. {LAUGHTER} But he got over it, and he's doing quite nicely now in the federal government. {LAUGHTER}
+
+I enjoyed the presentation to your distinguished alumni, Pearline Cox and --
+
+{AUDIENCE} Yes! {/AUDIENCE} 
+
+Cheer again. That's all right. Don't be shy, go ahead. {APPLAUSE}
+
+And I was very impressed with Mrs. Trent not only for representing her husband's work, but for setting the record straight on the way out. {APPLAUSE} If it's all the same to you, ma'am, if you don't think you're too old to undertake a new challenge, I'd like to have you come to the White House and help me set the record straight, starting Monday morning. {LAUGHTER ; APPLAUSE} 
+
+I'd also like to say that every President since Franklin Roosevelt has supported this fine work, but it was an especially important cause for my predecessor, George Bush, and I'd like to thank him in his absence for the support he gave to the UNCF, and thank his brother for the leadership he has given. {APPLAUSE} Thank you, Mr. Bush, for your leadership, sir. {APPLAUSE}
+
+You know, when Bill Gray resigned from the Congress to take this job, I had an extended conversation with him, and I virtually cried when he told me he was leaving. But I now can look at him and his wonderful wife, and see that there is life after politics -- {LAUGHTER} -- which is quite a wonderful thing because I can assure you there is less and less life in politics now than there used to be. {LAUGHTER}
+
+I never will forget the lesson Bill Gray gave all of us as Chairman of the House Budget Committee when he believed that you actually could bring the deficit down and increase our investment in our people at the same time. That is what we are trying to do, and that is the path that he blazed. He also educated a reluctant national government on the meaning of freedom when he got Congress to pass sanctions against South Africa and helped to put America on the right side of the struggle for freedom and democracy. {APPLAUSE}
+
+Six weeks from now, South Africa will hold the first free elections in its history -- {APPLAUSE} -- and one of the great, beautiful and painful ironies in history -- the jailed, Nelson Mandela; and the jailer, Mr. de Klerk, who set him free, in an election where people will freely choose the course of their future. And you had something to do with that, quite a bit, Bill Gray, and America thanks you and the world thanks you. {APPLAUSE}
+
+I think we all ought to know that that election will not be the end of South Africa's struggles, it will just be the beginning of a new phase -- a phase in which free people will be called upon to overcome the legacy of their own past, a struggle in which we are still engaged in this country.
+
+One thing that the UNCF has always known is that the more free you are, the more you need to know. One of our administration's principal initiatives will be to try to support higher education in South Africa and to try to foster stronger linkages between your institutions and the institutions of higher education in South Africa, so that together we can march into the future. {APPLAUSE}
+
+Today Bill Gray was notified by the Director of the Agency for International Development, Brian Atwood, in our administration, that the UNCF and the Hispanic Association of HIgher Education are now going to work together to try to guarantee more participation in international aid programs for historically black colleges and universities throughout our country. {APPLAUSE}
+
+We have made a lot of progress since Dr. Patterson started his work and Franklin Roosevelt was President; a lot of progress since Benjamin Davis led soldiers in World War II simply to fight for their basic rights as citizens to defend this country. All the way along, those of you have been part of the heart and soul of this administration have known that learning was the key to liberation.
+
+I have been blessed in my administration with people who have graduated from the member schools of this distinguished group -- the Energy Secretary Hazel O'Leary, graduate of Fisk -- {APPLAUSE} -- my wonderful Presidential Assistant for Public Liaison Alexis Herman, who graduated from Xavier and is here with me tonight -- {APPLAUSE} -- the Chief of Staff to the First Lady Maggie Williams, and the Presidential Assistant for Personnel Veronica Biggins, both graduated from Spelman -- Dr. Cole. {APPLAUSE} And my dear friend from Arkansas, our nation's distinguished Surgeon General, Joycelyn Elders, graduated from Philander Smith. My state's contribution to this distinguished organization. {APPLAUSE}
+
+We have named the most distinguished and the most diverse group of federal judges of any group in our history, and many of those who are African Americans started their educational lives at UNCF schools. Today, 17 of the 40 members of Congress who are African Americans and members of the Congressional Black Caucuses came from your schools. {APPLAUSE}
+
+In November, I signed an executive order on Historically Black Colleges and Universities, and committed our administration to their collective progress under the leadership of Catherine LeBlanc, who is here tonight with me. Since then, we have proposed putting more money into programs like Upward Bound, increasing funding for Pell Grants, guaranteeing a new $375 million Historically Black Colleges and Universities Capital Financing Program, and creating a whole new system of college loans so that our young people can borrow money to go to college at lower interest rates and pay it back on better terms; so that young people will never be discouraged from borrowing money to go to college because of the burden of repaying it, and never be discouraged from taking a more public service-oriented job when they get out because their salaries will be insufficient to cover the cost of the loan. Now they can elect to pay it back as a percentage of their income over a long period of time. {APPLAUSE}
+
+And finally, we have, I hope and believe, at long last lifted the cloud that had been hanging over scholarship for minorities, and said we will support them and we believe in them. {APPLAUSE} Because learning is the key to liberation.
+
+What I want to say to you in closing is this, my friends: If learning is the key to full freedom in America, it must necessarily be true also that people must be free to learn. And too many of our young people are no longer truly free to learn.
+
+I had an astonishing experience today in Brooklyn before I came here, where I met at Brooklyn College with several hundred young students there and young volunteers in community service programs all across the country, and we heard presentations from nine people who painted a stark portrait of America as it is.
+
+A wonderful woman from Detroit whose two sons had been shot down in a gang fight, one of them dying, who channeled her heartbreak into building a program, the acronym of which is SOSAD, to try to give young people the chance to avoid the fate that her son met.
+
+We met there today a young teenager from Oakland, California, who had been caught in a cross-fire and had his body shattered. He lost an eye. He was paralyzed from the waist down. One of his legs had been amputated. He was confined to a wheelchair. And do you know, he is spending his life telling people who are the victims of violence, of gunshot wounds and knife wounds, not to be full of vengeance and bitterness, and trying to convince them and their families not to shoot back, not to stab back, not to fight back, but instead to build back their lives. This young man riveted that crowd.
+
+There were many others who came there. A young man from New Jersey who left a corporate career in New York and instead took his necktie off and put on a t-shirt and decided to devote the rest of his life to building one-on-one relationships with kids in trouble, to give them a chance to get to the point where they would be free to learn. {APPLAUSE} These are the kinds of people that I met.
+
+But what I find is, even though there are hundreds, indeed, thousands of these stories all across America. You and I know that we're still losing an awful lot of our children. 
+
+When the UNCF started -- you think about this --when the UNCF started, just about everybody associated with its creation believed two things: number one, if you could make everybody free of discrimination; and number two, if you could give everybody the chance to get a good education, we could have real freedom and real opportunity and real community in America. We assume that.
+
+If anybody had told anyone 50 years ago that after 50 years there would be 2,000 people a year killed by gunshot wounds in New York City alone, no one would have believed that. If anybody had told the founders of this organization 50 years ago that the out-of-wedlock birthrate in many of our cities would be in excess of 50 percent, and that it gets worse and worse and worse as people are driven more and more and more into poverty, no one would have believed that.
+
+If anyone had said 50 years ago, what we're going to do with all this freedom in 50 years is have a flowering African American middle class, an enormous explosion of entrepreneurs, unparalleled achievement by hoards of young professionals and a dark flip side in which people are killing each other with reckless abandon and people's lives are being lost, and more and more young people are living in chaos, and gangs which people have feared have been created, I am convinced, to do nothing more than fill the vacuum which has been created by the absence of family and community, of effective schooling and strong community organizations and hope -- no one would have believed it.
+
+And so I say to you, as we celebrate all the achievements that we see around this room tonight, as we celebrate all the achievements we know that are to come, we must recognize the inherent limits on the programs I just outlined and the support I just mentioned and the work that you are doing, unless we can also go back and pick up the rest of our brothers and sisters who are beyond the reach of these efforts. {APPLAUSE}
+
+And so I ask you to honor your past by creating a new freedom for those who have been left behind in this brave new world in which there is so much good and so much bad existing side by side. All these other kids count, too. The ones that will never get to your doors unless you and all of your schools participate in this National Service Program and have your kids out there tutoring these kids; turning these kids away from violence; teaching people in our schools that there are nonviolent ways to resolve your angers, your frustrations, your disappointments, the thwarting we all feel every day in our lives. You can do that.
+
+You can teach the illiterate to read. You can teach the frustrated to be peaceful. You can raise the children up when they are very young. You can help to implant values into children who aren't getting them in other places. You have a larger, a different, a more profound mission than ever before.
+
+I want to support you in that mission, too, because I know, I know, if we can get back to the point where the promise of all those ads we saw tonight -- from the very first to Maya Angelou's magnificent poem -- if we can do that, then this country's going to be all right. But if you want to hear somebody singing that poem over and over in their head, "and still I rise and still I rise and still I rise," it has to be true not just for the best of us, but for all the rest of us. That is our challenge. Let us do our best to meet it.
+
+Thank you and God bless you all. {APPLAUSE} 
+
+{/speech}

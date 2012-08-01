@@ -1,0 +1,86 @@
+﻿{title} President Bush Salutes Veterans at White House Ceremony {/title}
+{event} White House Reception for Veterans, The East Room {/event}
+{speaker} George W. Bush {/speaker}
+{date} November 11, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning, and welcome to the White House. Thank you for joining us in observing Veterans Day. On this holiday, the 11th day of the 11th month, Americans reflect on the great sacrifices of military service. And we honor every man and every woman who has accepted those sacrifices.
+
+In Veterans Day gatherings across America, we think first of those who fell and never lived to be called veterans. We remember those whose fate is still undetermined. We look around us to all the veterans and retired members of the military with admiration and with respect.
+
+Especially in this time of war, we see in our veterans an example of courage and selfless sacrifice and service that inspires a new generation and will lead this country to victory. I want to thank Tony Principi and Elizabeth for their service to our country. {APPLAUSE}
+
+Our veterans have had no better friend and no more able administrator than Tony Principi as the head of the Department of Veterans Affairs. {APPLAUSE}
+
+I want to thank the Chairman of the Joint Chiefs for joining us, General Richard Myers. Thank you. {APPLAUSE} I appreciate members of the mighty Virginia delegation for being here -- {LAUGHTER} -- anchored by two incredibly able United States senators: John Warner and George Allen. {APPLAUSE} The Chairman.
+
+I appreciate Congressman Jim Moran for joining us, as well. Thank you for being here, Jim, we're honored you're here. {APPLAUSE} Congressman Chris Smith, from New Jersey, is with us as well. Thank you for coming, Chris. {APPLAUSE}
+
+I want to thank our Secretary of the Navy, Gordon England, for joining us. Mr. Secretary, we're honored you're here. {APPLAUSE} Leo Mackay, who is the Deputy Secretary of Veterans Affairs is with us today. I thank you for coming, Leo; appreciate you being here. {APPLAUSE}
+
+Members of our Joint Chiefs are here: General John Jumper and General Eric Shinseki. Thank you all for coming. {APPLAUSE} Major General James Jackson, Commanding General of U.S. Army Military District of Washington is here, with his wife. Thank you for coming. {APPLAUSE}
+
+I want to thank the Sergeant Majors who are here, representing the fine enlisted folks all around our country. Thank you guys for coming. {APPLAUSE}
+
+I appreciate the Medal of Honor recipients who are with us today: Nick Bacon and David Dolby, Wesley Fox and Howard V. Lee. We're honored you're here. Thank you all for coming. {APPLAUSE}
+
+I want to thank the leadership of the National Veterans Service Organizations who are with us today. I appreciate your hard work and concern for our veterans all across the country. Thank you for coming. {APPLAUSE} I'm honored -- so honored to welcome to the White House World War II allied forces, veterans from one of our strongest friends, Great Britain. I'm honored you guys are here. Thank you for coming. {APPLAUSE}
+
+We've got veterans from the United States who are in this fantastic room, as well as veterans from Great Britain. And we're honored you all are here. It's my pleasure to welcome you to the people's house. {APPLAUSE}
+
+The veterans in this room are among 25 million living men and women who have served this country in uniform. Certain experiences bind veterans from every branch of the service. All have known the life of answering to superiors, following orders and observing a code.
+
+From the hour you repeated the oath, to the day of your honorable discharge, your time belonged to America and your country came before all else. There are still veterans among us who march to the orders of General Pershing, served in the army of Eisenhower, sailed in the fleet of Nimitz. Many more served with honor during the conflicts in Korea, Vietnam, the Persian Gulf and throughout the vigil of the Cold War.
+
+For some veterans, service in the military fulfilled a dream. For others, military service was an unexpected honor. For most veterans will tell you that it was the defining experience in their lives. A veteran named Jim Shenton writes, returning home from service in Europe at the age of 20, here's what he had to write.
+
+He'd been in the army for nearly three years and he saw action from Normandy to the liberation of Buchenwald. When he arrived home he said, "it has been a long journey home. I was a thousand years older." Many war veterans share in that experience. You carry memories of great heroism and great suffering. You've seen the worst that men can do to one another and the best that men can do for one another. And whether their service came abroad or at home, every veteran has shared the responsibility of keeping America strong.
+
+On Veterans Day, the American people take pride in every citizen who has defended America, in times of calm and in times of danger. We live today in a time of danger; war has come once again to America. Our nation is called to meet great challenges and our military is called to the defense of our people and to the defense of our freedoms.
+
+The enemies of America have killed thousands of our citizens -- and they desire to kill thousands more. They're discovering, as others before them, the fierce resolve of this great nation. We will not forget the harm that was done to us. We will not be distracted from the task before us. No enemy that threatens our security or endangers our people will escape the patient justice and the overwhelming power of the United States of America. {APPLAUSE}
+
+That justice and that power have been demonstrated in Afghanistan. And our work in that country goes on. More than a year after the campaign began, our troops remain engaged in a difficult and dangerous mission. We must not permit Afghanistan ever again to become a base for the training of terrorists and for the export of murder.
+
+The people of Afghanistan still face many hardships. Yet they are free from tyranny. And as a result, more than 2 million Afghan refugees have returned home to a free land. The Afghan people with a new government are building a future of hope. And they have a committed friend in the American people. We are helping to build roads and bridges, sharing the methods of modern agriculture. We're providing textbooks for classrooms. We're building clinics and bringing medicine to the sick.
+
+Recently, Afghan children were dying of whooping cough. Yet they were in a region so remote that the vaccine would lose potency before it could arrive by horse. So the United States acted. We sent helicopters to deliver those vaccines, and as a result, saved more than 100 children every week. {APPLAUSE}
+
+Defeating our enemy and defending our freedoms is the best tradition of our military. And so is helping the innocent. We're making good progress in this, the first war of the 21st century. For years, the terrorists trained in the camps of Afghanistan. Those camps no longer exist. Some of the terrorists met their fate in caves and mountains of that country. Others were a little luckier, and they're now in custody, answering questions. Yet many trained killers are still scattered amongst 60 nations.
+
+And ridding the world of this threat requires a different kind of strategy. We're in a different kind of war. The global terrorist threat is not met on a single conventional battlefield. The terrorists find allies in outlaw regimes, but themselves have no land or capital or standing army to defend. They send other people's children on missions of suicide and murder. That's how they operate. They accept no rule of morality or law of war.
+
+But we now know the nature of this enemy. We know what they're all about. And they will be pursued and they will be found and they will be defeated, no matter where they hide.
+
+Shortly after September the 11th, 2001, I announced a doctrine that said: either you're with the United States and those of us who love freedom or you're with the enemy. And that doctrine still stands today. And today, more than 90 other governments are actively cooperating with us in the war on terrorism.
+
+Justice has been brought to terrorists in countries from Spain to the Philippines to Pakistan to Indonesia. And we're still on the hunt. Sometimes you'll see successes, and sometimes you won't. But one thing is certain, an enemy that conspires in the shadows will not be safe in the shadows. Terrorists who plot to kill Americans and our friends should know this, no matter how long it takes, their day of justice will come. {APPLAUSE}
+
+Success in the war on terror is measured in the safety of innocent people from sudden and catastrophic violence. And we must oppose the threat of such violence from any source. We oppose the terror network and all who harbor and support terrorists.
+
+And we oppose a uniquely dangerous regime that possesses the weapons of mass murder, has used the weapons of mass murder, and could supply those weapons to terror groups. The dictator in Iraq has had a long history of aggression and a deep hatred of America. The United States government, and once again the United Nations Security Council, share a determination: the Iraqi regime must not produce or possess chemical, biological or nuclear weapons. Iraq pledged to disarm more than a decade ago. It's been a decade of systematic deception, unmet obligations, unpunished violations.
+
+Those games are now over. Saddam Hussein will fully disarm and prove that he has done so, or America will lead a coalition to disarm him.
+
+This is an urgent task for America and the world, because the events of September the 11th clearly demonstrate that a threat that gathers on the other side of the earth can bring suffering to the American homeland. The danger from Iraq is clear and it's multiplied a thousand times over by the possibility of chemical or biological or nuclear attack. The time to confront this threat is before it arrives, not the day after.
+
+I have no greater responsibility than protecting the American people. Should military action become necessary for our own security, I will commit the full force and might of the United States military, and we will prevail. {APPLAUSE}
+
+In whatever lies ahead, the United States will remain a friend to the Iraqi people. They have suffered years of brutal repression, years of domestic terror from their own rulers. A new regime would bring deliverance for them.
+
+Iraqi resources are abundant, its culture is rich, its citizens are talent -- talented. And given a chance, there is no limit to what the Iraqi people can achieve. Their hopes are the same as all people in every land: to lead lives of dignity in a nation at peace. And America will help them.
+
+As many veterans have seen in countries around the world, captive people have greeted American soldiers as liberators. And there is good reason. We have no territorial ambitions, we don't seek an empire. Our nation is committed to freedom for ourselves and for others. We and our allies have fought evil regimes and left in their place self-governing and prosperous nations.
+
+And in every conflict, the character of our nation has been demonstrated in the conduct of the United States military. Where they have served, America's veterans are remembered by civilians with affection, not fear.
+
+One veteran recalls the closing days of the second world war. In the spring of 1945, he said, "around the world, the sight of a 12-man squad of teenage boys armed in uniform brought terror to people's hearts. But there was an exception: a squad of GIs, a sight that brought the biggest smiles you ever saw to people's lips, and joy to their hearts. GIs meant candy and cigarettes, C-rations and freedom." "America," he said, "has sent the best of her young men around the world, not to conquer, but to liberate; not to terrorize, but to help."
+
+As the Commander in Chief of Veterans Day, 2002, I see that same spirit in our military. These men and women are still the best of America. They are prepared for every mission we give them, and they are worthy of the standards set for them by America's veterans. Our veterans from every era are the finest of citizens. We owe them the life we know today. They command the respect of the American people, and they have our everlasting gratitude.
+
+May God bless America's veterans. {APPLAUSE} 
+
+{/speech}

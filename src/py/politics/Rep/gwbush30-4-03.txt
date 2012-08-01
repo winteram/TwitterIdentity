@@ -1,0 +1,60 @@
+﻿{title} President Signs PROTECT Act {/title}
+{event} President's Remarks Upon Signing of S. 151, the Protect Act  {/event}
+{speaker} George W. Bush {/speaker}
+{date} April 30, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} For Immediate ReleaseOffice of the Press Secretary {/description}
+
+{speech} 
+
+Thanks a lot for the warm welcome, and welcome to the Rose Garden in the White House. What a beautiful day. I'm glad you all are here and I'm pleased that you could join us on a day a vital piece of legislation becomes the law of the land.
+
+I appreciate the hard work of the Congress. I want to thank the members of the Congress, the Senate, who are here and the members of the House of Representatives who are here. I want to thank you all for your very hard work in getting this bill to my desk as quickly as you did. {APPLAUSE}
+
+This law, the Protect Act of 2003, will greatly assist law enforcement in tracking criminals who would harm our children, and will greatly help in rescuing the youngest victims of crime. With my signature, this new law will formally establish the federal government's role in the Amber Alert system and will make punishment for federal crimes against children more severe.
+
+This law carries forward a fundamental responsibility of public officials at every level of government to do everything we can to protect the most vulnerable citizens from dangerous offenders who prey on them.
+
+I want to thank our Attorney General, John Ashcroft, for his leadership on this issue. He is strong, he is steady and he will see to it that this law is executed in its fullest. {APPLAUSE}
+
+I appreciate so very much Congressman Jim Sensenbrenner, Chairman of the House Judiciary Committee, who worked hard to make sure this bill encompassed a lot; that it fulfilled a lot; that it met the aspirations of those who are anxious to make sure our children are protected. Chairman, you did fine work; thank you very much. {APPLAUSE}
+
+I appreciate the members of your committee who are here today, and I appreciate the fact that Chairman, Senator Orrin Hatch is with us, as well, who shepherded the bill through the United States Senate in record time. Mr. Chairman, thank you for your hard work, as well. {APPLAUSE}
+
+I appreciate my friend, the governor of Connecticut, Johnny Rowland, being with us today. Johnny, thank you; thank you for your concerns about the children of the state of Ohio -- of Connecticut. {APPLAUSE}
+
+The Attorney General, Jerry Kilgore, is here from the Commonwealth of Virginia. Attorney General, thanks for coming. {APPLAUSE}
+
+Of course it's always good to see the mayor. The mayor of Washington, D.C., Anthony Williams. There are no potholes in front of the White House today. {LAUGHTER ; APPLAUSE} It's good to see you, Mr. Mayor.
+
+Also with us today are some families who understand better than most the need for this law. In your great suffering and loss, you have found the courage to come to the defense of all children. Because of you, this critical measure is now becoming law. Because of you, children and parents you may never meet will be spared from the harm and anguish your families have known. We are honored to have you all here today. {APPLAUSE}
+
+When a child is reported missing, that case becomes the matter of the most intensive and focused efforts by law enforcement. Entire communities join in the search. And through unrelenting efforts, many children have been saved.
+
+Amber Alerts have become an increasingly important tool in rescuing kidnapped children, by quickly getting key information about the missing child and information about the suspect out into the public through radio broadcasts or highway signs or other means. An Amber Alert adds thousands of citizens to the search in the crucial early hours.
+
+At present, statewide Amber Alert systems exist in 41 states. The bill I will sign this afternoon authorizes matching grants to those and other states to help ensure that we have effective Amber Alerts wherever they are needed.
+
+Last year, at my direction, Attorney General John Ashcroft appointed an Amber Alert coordinator to oversee this nationwide effort. This new law formally establishes that position and empowers the coordinator to set clear and uniform voluntary standards for the use of Amber Alerts across our country.
+
+It is important to expand the Amber Alert systems so police and sheriffs' departments gain thousands or even millions of allies in the search for missing children. Every person who would think of abducting a child can know that a wide net will be cast. They may be found by a police cruiser, or by the car right next to them on a highway. These criminals can know that any driver they pass could be the one that spots them and brings them to justice.
+
+This is exactly what happened last summer in California, when several drivers heard an Amber Alert over the radio and soon passed a vehicle meeting the description they heard. Within hours, two teenage girls were rescued, and their abductor cornered by the police. We're so happy these two young ladies are healthy and with us today, Tamara Brooks and Jacqueline Marris. {APPLAUSE}
+
+Tamara's brother is somewhere around here. He showed me -- guess what happened to him today? One, he brings his little sister to the White House. And, secondly, today he was accepted to West Point. {APPLAUSE} He's following in the footsteps of two older sisters. {APPLAUSE}
+
+The new law also confronts an evil that is too often a cause of child abuse and abduction in America -- the evil of child pornography. In the past, prosecutors have been hindered by not having all the tools needed to prosecute criminals who create child pornography. Under the Protect Act, we've seen images of children, even those created with computer technology, will now be illegal, giving prosecutors an important new tool. {APPLAUSE} Obscene images of children, no matter how they are made, incite abuse, raise the dangers to children and will not be tolerated in America. {APPLAUSE}
+
+The new law will also strengthen federal penalties for child kidnapping and other crimes against the young. Judges will now have the authority to require longer supervision of sex offenders who are released from prison. And certain repeat sex offenders in our society will now face life behind bars, so they can never do harm again. {APPLAUSE}
+
+In addition, this law creates important pilot programs to help nonprofit organizations which deal with children to obtain quick and complete criminal background information on volunteers. Listen, mentoring programs are essential for our country, and we must make sure they are safe for the children they serve. {APPLAUSE}
+
+Amber Hagerman, whose mom is with us today -- a good Texan, I might add -- {APPLAUSE} -- was nine years old when she was taken away from her parents. We are acting today in her memory, and in the memory of so many other girls and boys who lost their lives in innocence and acts of cruelty.
+
+No child should ever have to experience the terror of abduction, or worse. No family should ever have to endure the nightmare of losing a child. Our nation grieves with every family that has suffered unbearable loss. And our nation will fight threats against our children.
+
+This law marks important progress in the protection of America's children. And now it is my honor to sign the Protect Act of 2003. {APPLAUSE}
+
+{COMMENT="The Protect Act of 2003 was signed"} {APPLAUSE} 
+
+{/speech}

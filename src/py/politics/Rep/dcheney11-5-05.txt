@@ -1,0 +1,48 @@
+﻿{title} Vice President's Remarks at "A Nation Honors Nancy Reagan" {/title}
+{event} The Ronald Reagan Building and International Trade CenterWashington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} May 11, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Thank you, Diane. And I'd like to respond to Diane's introduction. {LAUGHTER} But Lynne is here tonight, and I'd better not. {LAUGHTER}
+
+But I'm delighted to be with all of you this evening on a very special occasion for Lynne and me to pay tribute to a great and beloved American, Nancy Reagan.
+
+We're pleased as well to be joined by the congressional leadership; by members of the Reagan administration; current and former members of the Cabinet; and President Reagan's first appointee to the Supreme Court of the United States, Justice Sandra Day O'Connor. {APPLAUSE}
+
+So many of you here this evening have worked at the White House, or have been guests there from time to time. And you'll recall that one of the first rooms that visitors see is called the Vermeil Room, just off the corridor on the Ground Floor. If you go into the room, you see Aaron Shikler's portrait of Jacqueline Kennedy -- a painting that calls to mind a period of elegance and renewal in the White House. And just a few steps away you see another portrait -- equally stunning, painted by the same artist -- of a lady in red. She is Nancy Davis Reagan, and she, also, defined the beauty and the style of an entire era. {APPLAUSE}
+
+To this day our whole nation admires the wife of our 40th President for her graciousness and good taste, for the respect she held for the presidency and for the symbols of that office, for the causes she has served so generously and, above all, for the personal courage she has displayed in all the seasons of her life.
+
+Nancy Reagan has never been one to speak of her own accomplishments, but her entire life is a story of great talent, of persevering character, and many successes. She is a graduate of Smith College who decided to become an actress, then made her own way in show business. The woman we honor this evening has appeared on Broadway, performed with touring companies, and starred in motion pictures with Gary Cooper, Ava Gardner, Barbara Stanwyck, Fredric March, Gene Kelly, and Ronald Reagan.
+
+In fact, long before she ever met her husband, Nancy Davis had a contract with Metro-Goldwyn-Mayer, and her beautiful face was familiar to millions of Americans.
+
+Nancy had extraordinary, loving parents, and they both lived long enough to see their only daughter become a movie star, a devoted wife and mother, First Lady of California, and First Lady of the United States.
+
+Her father, Loyal Davis, M.D., was chairman of the department of surgery at Northwestern University Medical School. For many decades, Dr. Davis was one of the most respected physicians in the United States, and he is remembered, professionally and personally, as the finest of men.
+
+Nancy's mother was Edith Luckett Davis -- also a beautiful and kind-hearted woman, a former actress, and by all accounts a person of unlimited warmth and humor. A Catholic priest once told Nancy about the day he introduced Nancy's mother to the Bishop of Phoenix. He said he very cordially presented Mrs. Davis to the Bishop, and she curtsied in a very proper fashion. Then she turned to the priest and said, "Well, aren't you and I going to kiss? -- we always do that when the bishop isn't here." {LAUGHTER}
+
+The Davis family included a devoted son-in-law. And every year on his wife's birthday, Ronald Reagan sent Edith Davis a bouquet of flowers, to thank her for giving birth to Nancy -- the woman who, in his words, "made my life complete."
+
+The future President and First Lady of the United States were married at the Little Brown Church in Los Angeles. And ever after, both Nancy and Ronald Reagan would refer to the 4th of March, 1952 as the day their lives truly began.
+
+For 52 years Nancy Reagan was at the side of this great man -- and she has shared with us so many wonderful stories of their life together. In her memoir Nancy explains that Ronald Reagan was not an early riser. She tells of the time in 1980 when her husband complained about campaign events being scheduled way too early in the day. A member of the staff said, "You'd better get used to it, Governor. If you become President, that fellow from the NSC is going to come in to brief you at 7:30 a.m. each morning." Reagan said, "Yeah, then he's going to have a hell of a long wait." {LAUGHTER}
+
+As the Reagan presidency unfolded, our leader and his wife faced many challenges -- among them, of course, the shooting of the President and serious illnesses for both of them. Yet, perhaps because of the great strength they gained from each other, neither the President nor Nancy seemed to get older. Once somebody asked Ronald Reagan, "How come when I keep seeing new pictures of you on horseback, you always look younger?" The President replied, "That's easy, I just keep riding older horses." {LAUGHTER}
+
+To think back on the Reagan years is to recall a time of rising prosperity in our country, and rising hopes for freedom in our world. In that era our national confidence was revived, our faith in the presidency was renewed, and the White House itself never looked better.
+
+For eight years as First Lady of our land, Nancy Reagan was the very ideal of grace, and loyalty, and compassion. It wasn't just Ronald Reagan that she helped. She is the First Lady who gave new life to the Foster Grandparents Program, which has meant so much to older Americans and to children in need. She is the First Lady who enlisted herself in the fight against drugs and kept at it year after year, and without a doubt deserves a lot of the credit for a serious decline in drug use among teenagers. She now brings that same spirit to the cause of defeating Alzheimer's Disease -- not for any gain that could come to her, but because she is a woman of deep understanding and feeling.
+
+I am very fortunate to know Mrs. Reagan, and to have known her husband. It has always seemed to me that no photograph could ever capture the true closeness of the Reagans. But if you spent any amount of time in their company, you could sense just how much Nancy meant to him, and how proud she made him every day. She once wrote, "I have never doubted for one single instant that Ronnie and I belong together." Our whole nation has always felt the same way. When we think of President Reagan, we always see Nancy beside him, and our respect for their service to America only grows with time.
+
+Nearly a quarter century has passed since this remarkable woman stepped into American history as First Lady. Yet Nancy Reagan is still giving to our country, and still bringing happiness into the lives of others. She is a warm and familiar presence in American life. She remains one of the most admired women of our time. And we are joyful to be in her presence this evening.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

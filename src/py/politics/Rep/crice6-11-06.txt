@@ -1,0 +1,26 @@
+﻿{title} Remarks at the 2006 Award for Corporate Excellence Ceremony {/title}
+{event} Benjamin Franklin Room, Washington, DC {/event}
+{speaker} Condoleezza Rice {/speaker}
+{date} November 6, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Thank you. Thank you, Josette. Thank you very much for the kind introduction and also for your very hard work on behalf of business and its support of goals of democracy and empowerment abroad.
+
+I'm very pleased to have everyone join us here, and a special welcome to those who are joining us via satellite. I'm also very pleased to see Brazil's Minister of Development, Industry and Trade, Luiz Furlan. Thank you very much for being here. There are also a number of members of the Diplomatic Corps. Welcome.
+
+Today is my great pleasure to present the State Department's 2006 Award for Corporate Excellence. This award honors American companies operating abroad that have the vision to build lasting bridges in their host countries. In doing so, they embody the principles that the United States seeks to promote around the world, innovation and leadership, conscience and compassion, freedom and opportunity. Through their efforts, the companies we honor today are nurturing democratic institutions and strengthening the foundations of freedom, the ability to earn a living, to support a family, to educate a new generation and to build a robust economy.
+
+Perhaps nowhere is the compassion of American business having a greater impact than here in our hemisphere in Latin America. As Josette noted, almost half of our finalists this year are companies working in Latin America. Our relationship with the people of Latin America is based on shared values and enduring ties of culture and family. So today we honor not only three American companies that are doing extraordinary work in Latin America, we are also honoring the partnership in our entire hemisphere. Together we are building what President Bush has called a hemisphere that delivers hope and opportunity for every citizen. And with that, I would like to announce this year's winners.
+
+This year's small or medium-sized enterprise winner is Sambazon of Brazil. Sambazon is an outstanding example of the positive impact that a small company can make to the economy, the environment and the society of its host country. Sambazon was selected for its efforts to promote sustainable development in the Brazilian rainforest while improving the conditions of indigenous people through creative marketing of the açaí fruit.
+
+Last year, Sambazon's purchases of açaí supported nearly one thousand grower families who worked more than 66,000 acres within the Amazon estuary, but the company is doing even more for these people. It has created training workshops for growers of this unique fruit, and it offers them guaranteed contracts and micro-credit programs. In addition, the company is supporting social, environmental and scientific programs that preserve the Amazon and benefit the people of Brazil.
+
+I am pleased to recognize Sambazon with the 2006 Award for Corporate Excellence and I'd like to ask Sambazon's CEO, Ryan Black, to step forward. {APPLAUSE}
+
+{COMMENT="The Award is presented"} 
+
+{/speech}

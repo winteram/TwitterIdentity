@@ -1,0 +1,29 @@
+﻿{title} Clinton Global Initiative Workshop Summation and Action Plan Plenary {/title}
+{event} New York, NY {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 17, 2005 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Participants:President William J. Clinton, Former President of theUnited StatesDavid Sandalow – Climate Change PanelLael Brainerd – Governance PanelGayle Smith – Poverty PanelRob Malley – Religion Panel {/description}
+
+{speech} 
+
+One of the great ironies of my presidency was that Gayle Smith was, in my second term, my principal aide for Africa, and whenever we went to Africa, we were known as the only people on the continent whose hair was whiter than our skin.
+{LAUGHTER} But when she was a young woman, she trekked several hundred miles across Africa with a warring army, as a young reporter and a very brave and devoted friend of the continent. So I thank you all.
+
+I want to read a couple of the deliverables now. Beginning with one involving the Acumen Fund, and I'd like to ask I think Tay Yu of Cisco Systems and Chris Anderson, the Sapling Foundation to come up. If anyone else is here that I'm supposed to recognize, you come too. I'm doing the best I can here.
+
+The Acumen Fund is a global non-profit venture fund that serves people living on less than $4 a day. It strives to create a blueprint for building financially sustainable and scalable organizations to deliver affordable, critical goods and services to elevate the lives of the poor. These folks have committed up to $1 million to deliver clean water, health, and housing to the poor. Cisco and the Sapling Foundation will match dollar-for-dollar contributions to the Acumen Fund during the Clinton Global Initiative up to $1 million to support the Global Initiative on moving from talking to action. So if anybody else wants to help them with clean water, they'll match your money. Thank you very, very much.
+{APPLAUSE}
+
+I'd like to ask Karen Tramontano with the Global Fairness Initiative to come up. This is a commitment by the Global Fairness Initiative, something called the Synapse Market Access Fund, to address the problem of global poverty by funding training networks to bridge the gap between poor producers and markets. Synapse makes investment-grade grants and cultivates long-term financial relationships with scalable initiatives, helping to build the strength and capacity of grassroots producers in rural communities.
+
+Now let me just say two things. First of all, one of the most important things I learned listening to Jeffrey Sachs at this conference, and I want to start by saying that I too support the reduction of American agricultural subsidies, and I think we ought to do it. One of the most important things I learned listening to Jeffrey Sachs in his argument for adopting villages at $50 a villager for health, education and economic development is that there is a dramatic amount of untapped agricultural income in Africa and other poor countries right now to be earned, regardless of the subsidies of Europe and America, by increasing productivity and sales within countries and across national lines within the continents where the developing countries are. So I want to thank Karen for that. The second thing I want to say is, I am very indebted to the Global Fairness Initiative and to Karen in particular because they have supported an important initiative we took in Cambodia in 1999, to try to raise the labor standards in the factories, the textile factories of Cambodia, which she has helped to monitor. We have labor rights there, the right to join unions in a country with a terrible record on human rights. And I hope next year we'll have better representation from Southeast Asia here because when the multi-fiber agreement expired and all these other countries are losing textile jobs, Cambodia didn't because their American purchasers and partners kept the jobs in Cambodia so they could say to the customers in America, we are supporting jobs in a developing country where the workers are treated decently in the workplace and adults are in the workplace, children are in school, and a stable society is developing. So I really honor the work you are doing, and I thank you for this $1.5 million project. Thank you.
+{APPLAUSE}
+
+Now we go to the next – oh, I have one more to read. I won't bring anybody up. I just got this one in my own hot little hand here. I think he's gone, but the prime minister of Mauritius committed his country to host and sponsor an international meeting on poverty elimination in 2006. Is he here? Come on up, Navinchandra Ramgoolam of Mauritius. Thank you very much.
+{APPLAUSE}
+
+We have been blessed by having many world leaders come to this conference, sir, but no one has stayed so long and been so devoted as you. We look forward to participating and helping you put your conference together, and having you bring people from your part of the world. Thank you so much. Give him a big hand. Thank you.
+{APPLAUSE} 
+
+{/speech}

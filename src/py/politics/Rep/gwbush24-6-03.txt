@@ -1,0 +1,40 @@
+﻿{title} President Recognizes Black Music Month {/title}
+{event} Remarks by the President in Celebration of Black Music Month, The East Room {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 24, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I'm feeling pretty energized. {LAUGHTER} Thank you all, welcome to the White House. Laura and I are thrilled you're here as we celebrate Black Music Month.
+
+This is an annual event and we always try to celebrate it in style, and we did. {APPLAUSE} Thank you all so very much for coming. The White House is feeling pretty joyous right now. {LAUGHTER}
+
+We've got some wonderful guests here today. We've got a lot of educators and athletes, and got the mayor of Hempstead, New York. We've got the President -- my friend, the President of Panama is with us today. Madam President, thank you for coming, we're honored you're here. {APPLAUSE} We want to thank your Minister of Foreign Relations and your Ambassador for coming, as well.
+
+And, of course, joining us as well are two members from my Cabinet: a fabulous Secretary of State, Colin Powell, thank you, Mr. Secretary. {APPLAUSE} The Secretary of Education, Rod Paige. Thank you for coming, Mr. Secretary. {APPLAUSE} Condoleezza Rice is with us. Condi, thank you for coming. {APPLAUSE} We've got other members from my administration. I want to thank you for coming. I know Sam Brownback is here, the senator from Kansas.
+
+I want to thank so very much Stanley Crouch. It's wonderful to see you again, sir; we're honored you're here. He brightened up one of the book festivals that Laura gave a while ago. It's a joyous time to hear him read -- you haven't lost your touch. {LAUGHTER}
+
+I want to thank so very much the Cast of Harlem Song for coming. You're fantastic artists. {APPLAUSE} Loren, thank you very much, as well, sir, for you being here, and the Harlem Jazz Museum Artists. You really are great, thanks for coming. {APPLAUSE}
+
+We've got a lot of other great musicians with us today and I want to thank you all for gracing the White House. Thanks for coming back.
+
+The artists with us today are known and admired for high achievement in many musical forms. And the commemoration of this month expresses our nation's pride in the music that black Americans have created and have shared with the world.
+
+Some of the finest performances by black Americans have been heard right here in the White House and in this room. Lionel Hampton played here many times over half a century. {APPLAUSE} Laura and I were honored to host him on his last visit to the White House in 2001.
+
+Duke Ellington performed in the East Room in 1969. He was familiar with the place because, after all, his dad worked here as a butler. The Steinway grand piano in the foyer has been played by Ellington and Earl Hines, by Hank Jones and by Billy Taylor. And when Franklin Roosevelt wanted to show the King and Queen of England the finest music in America, he brought them to this room, to hear Marian Anderson sing "Ave Maria." {APPLAUSE}
+
+Those White House performances were moments of triumph for artists who loved this country, even when this country did not make them feel fully welcomed. And the grace and dignity of their lives is part of the story of black music in America. In so many different ways, the artistry of black musicians has conveyed the experience of black Americans throughout our history. From the earliest generations of slaves came music of sorrow and patience, of truth and righteousness and of faith that shamed the oppressor and called upon the justice of Almighty God and praised His holy name.
+
+Out of this heritage has come a tremendous variety of music, expressed in gospel and jazz, in rhythm and blues and in rock and roll. Lyrics first heard in the country churches in the Mississippi Delta and songs first played in the clubs of Harlem and Chicago and Memphis are now recognized and loved in every part of America and throughout the world. The music we honor this month could have only come from the unique experience of black Americans. {APPLAUSE}
+
+Yet, at its best, this music speaks to every heart. Your day is a little better when you hear Nat King Cole sing "Unforgettable." {APPLAUSE} Or Aaron Neville, "Tell it Like it Is" -- {LAUGHTER} -- or Diana Ross singing "Reflections," or B.B. King lamenting, "The Thrill is Gone." {LAUGHTER} Or how about when James Brown proclaims, "I Feel Good"? {LAUGHTER} Or Mahalia Jackson praising, "Our Precious Lord."
+
+This is some of the greatest music America has ever produced. America is thankful to the men and women who have shared this gift with us all. And so today I've signed a proclamation designating June 2003 as Black Music Month in the United States of America.
+
+May God bless your talents, and may God continue to bless the United States of America. Thank you for coming. {APPLAUSE} 
+
+{/speech}

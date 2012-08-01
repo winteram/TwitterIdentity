@@ -1,0 +1,50 @@
+﻿{title} Remarks by the President on Signing Executive Order on Historically Black Colleges and Universities {/title}
+{event} Signing Executive Order on Historically Black Colleges and Universities {/event}
+{speaker} Barack Obama {/speaker}
+{date} February 26, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, everybody. Please have a seat. {APPLAUSE} Thank you very much. Well, it is wonderful to be here. And thank you for the outstanding introduction by Mr. Smart. And I was complimenting him on his bowtie -- {LAUGHTER} -- as well as the excellent scholarship that he's showing. I want to thank all the student leaders from HBCUs and some of the fantastic men and women that I've named to serve on my HBCU advisory board. So thank you, all of you, for what you are contributing to this important cause.
+
+I have a few members of Congress that are in the audience that I want to acknowledge. At least I think they're here. I haven't spotted everybody. First of all, one of our outstanding leaders in the House of Representatives, and the whip in the House of Representatives, James Clyburn -- James Clyburn is right here. {APPLAUSE} One of the deans of the Congress and the chairman of the Judiciary Committee, John Conyers is in the house. {APPLAUSE} A great friend from the great state of Maryland, Elijah Cummings. {APPLAUSE} The chair of the Congressional Black Caucus, Barbara Lee. {APPLAUSE} A champion on behalf of D.C. statehood -- or at least voting rights -- Representative Eleanor Holmes Norton. {APPLAUSE} Congressman Bobby Scott from the great state of Virginia. {APPLAUSE} And one of our foremost exports -- experts on foreign policy, Congressman Donald Payne from New Jersey. {APPLAUSE}
+
+I also want to acknowledge Dr. Earl Richardson, who is finishing tenure as President of Morgan State University. Please, sir. {APPLAUSE} And a great friend, President of Hampton University for more than 30 years, Dr. William Harvey. {APPLAUSE} I promised him I'd come back to Hampton, so I'm going to be speaking at his commencement this year. {APPLAUSE}
+
+And then the Trojan Explosion Drum Line from Virginia State University. {APPLAUSE} I'm told this is the first time there's been a drum line in the White House. {LAUGHTER} This is what I've been told. {LAUGHTER}
+
+Before the Civil War and the creation of what we now call the Historically Black Colleges and Universities, an education –- much less a higher education -– just wasn't possible for most African Americans. Where it was happening, reading and writing were often taught in secret. But as the Civil War ended and the 13th and 14th and 15th amendments were signed, a freed people demanded a freed mind. And the war on illiteracy and ignorance began.
+
+There were some, like Booker T. Washington, a freed slave who walked 500 miles from the mines of West Virginia to study at Hampton, who argued that these colleges should focus on teaching blacks skilled trades and vocations. There were others, like W.E.B. DuBois, who studied at Fisk and became the first African American to earn a doctorate from Harvard, who advocated for education in the arts and the sciences to cultivate the leaders and teachers of the next generation.
+
+Today, at America's 105 Historically Black Colleges and Universities, our young men and women prepare to do both. They're the campuses where a people were educated; where a middle class was built; where a dream took hold. They're places where generations of African Americans have gained a sense of their heritage, their history, and their place in the American story.
+
+But like all colleges and universities, HBCUs face tough challenges today. Endowments and state budgets are shrinking, too many facilities are deteriorating, enrollment is falling -– and the cost of education keeps going up. And these schools feel the pain more acutely –- they do more with less, and they enroll higher proportions of low- and middle-income students. And that's why the Recovery Act that was passed last year invested in their infrastructure and technology and nearly doubled the Pell Grant award. And that's why the budget I've proposed this year increases HBCU funding by nearly $100 million at the Department of Education alone.
+
+But helping HBCUs chart a new path in this new century will require much more on all of our parts. And that's why today I'm signing an executive order strengthening the White House Initiative on Historically Black Colleges and Universities. {APPLAUSE}
+
+This initiative originated in President Carter's administration; it expanded under President Reagan; and its been renewed by each President since, to help these schools give their students every chance to live up to their full potential. And I've asked Dr. John S. Wilson, a Morehouse man, to lead it under my administration, and Dr. Harvey to serve as chairman of its advisory board.
+
+And I want to be clear: Strengthening America's Historically Black Colleges and Universities isn't a task that falls to these men or to the Department of Education alone –- I expect agencies across the federal government to help support this mission.
+
+We're not doing this because these schools -- well, we're not only doing this because these schools are a gateway to a better future for African Americans; we're doing it because their success is vital to a better future for all Americans. We know that Americans with college degrees far out-earn those without. We know that our businesses too often can't find qualified candidates for open positions. We know that other countries are out-educating their kids to out-compete ours. And yet, year after year, a stubborn gap persists between how well African Americans are doing compared to their white classmates. Year after year, American students trail their foreign peers in too many areas. And year after year, those students who do make it to college often find themselves unprepared for its rigors.
+
+That's why education reform has been a top priority of my administration. We launched a national competition to improve our schools by investing only in reform that closes the achievement gap, and inspires students to excel in math and science, and turns around failing schools that steal the future from too many young Americans. We're working with states and governors to develop and implement standards that better position all our students to graduate high school prepared for college and careers.
+
+I've urged the Senate to pass a bill that will make college more affordable by ending unnecessary taxpayer subsidies that go to financial intermediaries for student loans, revitalize our community colleges that serve as career pathways for the children of so many working families, and invest more than $2 billion in Minority Serving Institutions, including HBCUs. All of this will help achieve our goal of ensuring that America once again has the highest proportion of college graduates in the world by 2020 -– and keeping our HBCUs strong is vital to achieving that goal.
+
+Still, there are some who question the continued relevance of HBCUS; who say that they've fulfilled their purpose; who say that after all the progress that we've made, their reason for being is now somehow obsolete. But it was because of these schools that a young prankster discovered the sense of purpose that led him ultimately to sit on the Supreme Court. It was because of these schools that a young broadcaster with a funny name –- Oprah –- {LAUGHTER} -- could make that name into an empire. It was because of HBCUs that a young preacher grew into a king that shared his dream with all of America.
+
+It was because of these schools that America's middle class was filled with black doctors and educators and judges and lawyers and engineers and entrepreneurs. And today, it's because of these schools that one out of every two wide-eyed freshmen who who arrives on their campuses with big backpacks and bigger dreams is the first in his or her family to go to college.
+
+And that's why we're here today -– to ensure that these schools remain the beacons that they've been for more than a century and a half: Crucibles of learning where students discover their full potential and forge the character required to realize it; catalysts of change where young people put their hands on the arc of history and move this nation closer to the ideals of its founding; and the cradles of opportunity where each generation inherits the American Dream -– and keeps it alive for the next.
+
+That's what HBCUs are about, and that's why I'm proud to now sign this executive order. {APPLAUSE}
+
+{COMMENT="The executive order is signed"} 
+
+There we go. {APPLAUSE} 
+
+{/speech}

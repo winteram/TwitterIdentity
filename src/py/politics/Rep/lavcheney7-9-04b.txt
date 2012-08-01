@@ -1,0 +1,20 @@
+﻿{title} Vice President and Mrs. Cheney's Remarks and Q&A at a Town Hall Meeting {/title}
+{event} Town Hall Meeting  {/event}
+{speaker} Lynne Anne Vincent Cheney {/speaker}
+{date} September 7, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, thank you very much. Great crowd, Dick. It's a real pleasure to be here this afternoon in New Hampshire. And I have the job of introducing my husband. And I've had this job for four years now. I was assigned it in the beginning because I have known him for so long.
+
+I have known him since we were 14 years old, and we were growing up together in Casper, Wyoming. And when I first knew Dick, he had a summer job -- or an after school job, and it was sweeping out the Ben Franklin store in Casper, Wyoming. And I've known him through many jobs since. I've known him since he was digging ditches at the Central Wyoming Fair and Rodeo Grounds, which is right outside our hometown in Casper. And I've known him since he was loading sacks -- 100-pound sacks of bentonite onto railroad cars. And I've known him since he was building power line all across the West to pay his way through school. And I like to mention all those jobs because I think when you grow up working hard, you learn some very significant lessons. And one of those lessons is how important it is for the hard working men and women of this country to get to keep as much of their paychecks as possible. {APPLAUSE}
+
+And I think you also learn when you grow up working hard, you learn how competent and strong the American people are. And you learn that what we need is not a government that runs our lives, but a government that provides us opportunities to make our lives better. And that has become I know a central guiding philosophy of Dick's life. And I was so pleased to hear so many people talking about it at our convention. And I thought Arnold Schwarzenegger did an especially terrific job. {APPLAUSE}
+
+I left that convention thinking how proud -- how much pride we can all take in what we saw over those two days. And if I were to make a list of things I would be proud of, right at the top would be our President, George W. Bush. {APPLAUSE} And let me just say that the Vice President is no slouch either. {APPLAUSE}
+
+And so, ladies and gentlemen, my husband, Dick Cheney, the Vice President of the United States. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President and Vice President at Memorial Service for Upper Big Branch Miners {/title}
+{event} Memorial Service for Upper Big Branch Miners {/event}
+{speaker} Joe Biden {/speaker}
+{date} April 25, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Governor; the families of the miners that we lost, and the President and I had the pleasure to meet.
+
+I learned about the courage and valor and gumption of miners sitting around my grandfather's kitchen table in Scranton, Pennsylvania, hearing stories -- stories of men they knew and lives that were lost. But I actually learned more from Robert C. Byrd, who is here -- serving with him so many years. {APPLAUSE} His incredible pride in his state and his miners is only matched by his loyalty. And it is good he was here today.
+
+The men we remember today went into the darkness so that we could have light. They embraced a life of hard work and a career full of peril. It was dangerous -- it was dangerous work and they knew it, but they never flinched. What amazed me is how they saddled up every day, squeezed in side by side for a cramped journey into the heart of darkness. Many of them loved it; some of them dreaded it. But all of them, all of them approached it with dignity, resolve, and strength.
+
+They went into the mines, as been referenced earlier, not only to provide for themselves and their families but, in a very direct way, for all of us. And though -- and though this work defined them, it did not describe them.
+
+As Nick Rahall said, they were fathers, grandfathers, sons, nephews, husbands, and fiancés. They loved hunting, fishing, riding horses and four-wheelers. They hated the way Coach Rodriguez left West Virginia for Michigan. {APPLAUSE} They rebuilt cars. They loved motorcycles. And they practiced random acts of kindness. They had their given names, but as we all learned today, they answered to Cuz, and PeeWee, and Smiley. Some had -- some had been mining for decades, some for months. One was planning a wedding; one was planning for retirement. As individuals, these men were strong; they were proud; they were providers. Collectively, they represent what I believe is the heart and soul and the spine of this nation. {APPLAUSE} And, ladies and gentlemen, the nation mourns them.
+
+To every member of every family that has been touched by this tragedy, I can say that I know what it's like to lose a spouse and a child. And I also know when the tributes are done and the flags are once again flying at full-staff, once the miners you see today go back to work, that's when it will be the hardest for you all. When life has moved on around us, but is yet to stir within you, that's when you're most going to need one another.
+
+Because for other people, for the lucky ones, life gets to go on -- but as a community, and as a nation, we would compound tragedy if we let life go on unchanged. Certainly nobody should have to sacrifice their life for their livelihood. {APPLAUSE}
+
+But as the Governor and Senator Rockefeller said, we'll have that conversation later. But before that, the rest of us bear responsibility as well. And that responsibility is to be aware of, to recognize, to respect, to honor those who risk their lives so that we can live ours, and those who will continue to do this hard and dangerous work.
+
+So often when we're met with this kind of sorrow and pain we search, as the clergy here today can tell you, for meaning and purpose where there seems to be none. We look for answers to questions that are literally hard to ask, and even when answered at this moment they provide little relief.
+
+To paraphrase a communion hymn in my church, I have a wish for all of you, all of your families: May He raise you up on eagle's wings and bear you on the breadth of dawn, and make the sun to shine upon you. And until you're reunited with those you lost, may God hold you in the palm of His hand. For you know this band of 29 roughneck angels watching over you are doing that just now, as they sit at the right hand of the Lord today -- and they're wondering, is all that fuss about me? {APPLAUSE}
+
+You know, folks, there is a famous headstone in an Irish cemetery in Ireland, and it reads this -- it says, “Death leaves a heartache no one can heal. Love leaves a memory no one can steal.” I can tell you from my own personal experience that eventually the painful heartache you feel will be replaced by the joyful memory of the ones you love so dearly. My prayer for you is that that day will come sooner than later.
+
+May God bless you all, and may God protect all miners. {APPLAUSE} 
+
+{/speech}

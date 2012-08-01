@@ -1,0 +1,32 @@
+﻿{title} Vice President's Remarks Upon Receiving the Congressional Distinguished Service Award {/title}
+{event} Statuary HallThe United States Capitol {/event}
+{speaker} Dick Cheney {/speaker}
+{date} May 10, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, thank you very much, Mr. Speaker, Leader Pelosi, Mr. Chairman, and ladies and gentlemen. I'm delighted to be here today, of course. And it's a very special honor to share the Distinguished Service Award with three very special people -- Lindy Boggs, Porter Goss, and Father Drinan.
+
+Seeing so many of my former House colleagues today brings back a great many memories and just one regret because as the Speaker mentioned my one ambition as a congressman was to one day preside over the House as Speaker. And as it's been pointed out, I had to settle for second best and preside over the Senate. {LAUGHTER ; APPLAUSE} 
+
+But I do enjoy serving as Vice President, and it's a humbling experience obviously to be elected to national office and then be sworn in on -- to that office on the steps of the Capitol.
+
+But I still remember the House of Representatives and think of it as my political home. And as members and former members of Congress, we all share a special bond, and each of us has favorite memories and favorite people. I often think back to that time shortly after we arrived here as freshmen members of the House in the class of '78. Like all freshmen, we were convinced that now that we'd been elected we would straighten things out here in the United States Congress, that they were just waiting for our advice and guidance. And we were ready to take on the powers that be to see to it that all of the problems that we'd cited during the course of our campaign were addressed by the senior members of the Congress.
+
+But I remember early in my first term being at the back of the House one day, leaning over the rail watching as one of my colleagues down in the well -- special orders -- was making rather strong and forceful statements, kind of like the ones Nancy mentioned in her early speech, about the then Democratic leadership of the Congress. And he was pounding on the stand and carrying on at great length and making some rather strong statements. And one of the older members watched this period for a while, and then he walked over, put his arm around me, said, you know what I like about you, Cheney, he said, you're the only member of your whole class who doesn't drool when he speaks. {LAUGHTER} I always took that as high praise, as a sign that I'd arrived.
+
+But in truth, the Class of '78 was notable on both sides of the aisle with names that included, of course, Jerry Lewis, Newt Gingrich, my friend Dan Lungren, who is here with us today, Bill Thomas, Jerry Solomon, Carroll Campbell, Martin Sabo, Jim Courter, Bill Nelson, Tom Loeffler, Bill Gray, Phil Gramm, Richard Shelby, Geraldine Ferraro, Tony Coelho, and of course, Tom Daschle. We also remember our three classmates who passed away in office -- Julian Dixon, Bob Matsui, and Mickey Leland.
+
+I counted it as a privilege to be part of that class and to work over the years under this dome with so many fine people from all across the country. There are two men -- former members both -- who had a huge impact on my own career in Congress, Jerry Ford and Bob Michel.
+
+They both loved and revered the House of Representatives and all that it represents, and they both gave me tremendous opportunities and responsibilities that changed my life. Even now I think of winning that first election and taking my place in the Congress of the United States as an experience unlike any other. It was a great moment, as I know it was for each of you, and we wouldn't trade it for anything.
+
+In every Congress, there are strong differences of principle and of personality. But every member has one thing in common, and we respect each other for it. The quality was best summed up by Speaker Sam Rayburn many years ago when he heard someone talking about some very bright intellectuals now serving at the other end of Pennsylvania Avenue. Well, Speaker Rayburn said, you may be right, and they may be every bit as intelligent as you say, but I'd feel a whole lot better about them if just once one of them had run for sheriff. {LAUGHTER}
+
+If you've been a member of the House, you've run for sheriff. You know what it's like to go out and get your name on the ballot, to make your case to the public and to earn the vote, and a seat in the House, as Father Drinan said, places you among the 12,000 or so men and women who've served since the first session of the very first Congress.
+
+Whether you're here for a single term, or for 10, to be a member of this body is an honor and an achievement. And when you leave you take away more than a title and a few mementos. You'll also carry many friendships -- friendships that are not term-limited or confined to one party. We are so fortunate, each and every one of us, to have held constitutional office, to have serve the people of the greatest nation on Earth. And once again, I'm grateful to receive this honor and to accept it in such distinguished company. {APPLAUSE} 
+
+{/speech}

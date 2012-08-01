@@ -1,0 +1,32 @@
+﻿{title} Remarks by President Clinton and President Vaclav Havel of the Czech Republic at Official Dinner {/title}
+{event} The East Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 16, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good evening, ladies and gentlemen, President Havel, Mrs. Havlova, friends from the Czech Republic, my fellow Americans. Welcome to the White House, Mr. President.
+
+As a playwright, you could hardly have written a more dramatic scenario than the one you have in fact lived over the last 10 years. Your presidency has reminded people around the world that words do matter; that creativity has a place in politics; that a nation's strength is measured not by its ability to control people, but rather by the opposite -- its success in moving and empowering them.
+
+As you showed us in the press conference today, you have never lost the honesty, spontaneity, the contagious friendliness of your writing. I feel quite certain no other head of state would have appointed Frank Zappa as a cultural ambassador. {LAUGHTER} Or taken our favorite Czech-American, Madeleine Albright, out on the town in New York to hear some good music. Or given the President of the United States a personally inscribed tenor saxophone and forced him to play it. {LAUGHTER}
+
+Since you became President, you have brought back democracy and civil society. You have led the Czech Republic to a place of prominence in the new Europe, and we look forward to your becoming a member of NATO.
+
+Together we have been partners in Bosnia and in other Balkan trouble spots, working to repair the ravages of intolerance and injustice. And together we will be partners to build a peaceful, prosperous, and free Europe in the 21st century.
+
+We value our ties to the Czech people. The first Czechs arrived in the New World in the 17th century, and many more came in the wake of the revolution of 1848. Dvorak composed his magnificent, "New World Symphony," borrowing the rhythms he heard during his travels across the United States, especially from African-American folk music. The flag of the Czech Republic was designed and first flown in New York to honor a visit by the great patriot Tomas Masaryk.
+
+From athletes to artists, from actors to astronauts, from secretaries to Secretaries of State, Czech-Americans, many of whom are here tonight, have lent their gifts to our grateful nation.
+
+We shared the world's sadness when Czechoslovakia lost its freedom 50 years ago. We felt a similar sense of loss when the Prague Spring was followed by Soviet invasion in 1968. But you and your comrades, Mr. President, taught us again that all seasons are cyclical, that spring always returns. In 1989, your Velvet Revolution rejuvenated the entire world.
+
+There is an old Czech-American saying that too much wisdom does not produce courage. That's a nice way of saying, I think, that too much time spent in books may keep people too much away from the active world. Mr. President, you have lived a life of the mind and a life of action. You have shown us wisdom and courage. You have made us believe that we can not only dream our dreams, but redeem them.
+
+Ladies and gentlemen, I ask you to join me in a toast to the President of the Czech Republic, to Mrs. Havlova and to the people of the Czech Republic.
+
+{COMMENT="A toast was offered"} {APPLAUSE} 
+
+{/speech}

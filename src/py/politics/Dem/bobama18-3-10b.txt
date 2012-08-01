@@ -1,0 +1,66 @@
+﻿{title} Remarks by the President, the Vice President and the Taoiseach of Ireland at St. Patrick's Day Reception {/title}
+{event} St. Patrick's Day Reception {/event}
+{speaker} Barack Obama {/speaker}
+{date} March 18, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good evening, everybody.
+
+{AUDIENCE} Good evening. {/AUDIENCE} 
+
+Welcome to St. Patrick's Day at the White House, on a day when springtime is in the air –- and this is -- even though the Taoiseach hasn't even shared his shamrocks yet, but we can feel spring coming.
+
+Before I say anything else let me just say that I could not have a better partner in a difficult job than the Vice President of the United States, Joe Biden; he does a great job each and every day. {APPLAUSE} And I couldn't have a better partner in life than the First Lady of the United States, Michelle Obama. {APPLAUSE}
+
+Welcome back, Mr. Prime Minister, First Lady. We are thrilled to have you.
+
+The Irish and Irish-Americans are out in force tonight. I believe, if I'm not mistaken that Supreme Court Justice Anthony Kennedy is here. {APPLAUSE} A couple of my Cabinet Secretaries are here, as well –- Secretary of Health and Human Services Kathleen Sebelius, and Secretary of Homeland Security Janet Napolitano. {APPLAUSE} I would love to acknowledge all the members of Congress who are here tonight, but there are a few dozen of you, including three or four Murphys. {LAUGHTER} There's one right there. {LAUGHTER} You're everywhere.
+
+Governor Martin O'Malley -- {APPLAUSE} -- who's been known to be the lead in an Irish rock band. Governor Bob McDonnell is here, of the great Commonwealth of Virginia. And Mayor Tom Menino shipped down from Boston. {APPLAUSE} My dear friend, the United States Ambassador to Ireland and the person who is singly responsible for converting the entire country to become Steelers' fans, Dan Rooney. {APPLAUSE} And his counterpart, the Irish Ambassador to the United States, Michael Collins. {APPLAUSE} So welcome, everybody.
+
+This has been a wonderful day filled with good reminders of just how deeply woven the ties between our two countries are. We welcomed back a friend, the Taoiseach. He and I remarked once again of our shared ties to County Offaly. {APPLAUSE} He was born there, and when I was running for President, it was brought to my attention that -- I want to make sure I get this straight -- it was my great-great-great-great grandfather on my mother's side who hailed from Moneygall. I wish I knew about this when I was running in Chicago. {LAUGHTER}
+
+I also had the pleasure of welcoming back First Minister Peter Robinson and Deputy First Minister Martin McGuinness of Northern Ireland -- {APPLAUSE} -- two men who have stood together with conviction to chart a historic path towards peace. They are here tonight. We were thinking about sending them up to Congress tomorrow -- {LAUGHTER} -- to see if they can share some of their secrets. {LAUGHTER}
+
+I also just met with Andrew Sens and Brigadier General -- I want to make sure I get this right -- Tauno Niemenen, who, because of their successful leadership, are winding down the work of the Independent Commission on Decommissioning after 12 years. {APPLAUSE} And Matt Baggott, the Chief Constable of the Police Service of Northern Ireland, whose fairness and impartiality is keeping the peace across all of Northern Ireland's communities. So thank you. {APPLAUSE}
+
+Twelve years ago, America was inspired by the brave men and women who found the courage to see past the scars of a troubled past so that their children would know a better future. And we are watching you and continue to be inspired by your extraordinary work.
+
+It's wonderful to have everybody here at the White House here tonight. During his last visit, the Taoiseach mentioned that the Irish Diaspora is some 70 million strong -- which is obviously impressive for a small island. And it's even more impressive that they all find their way to America for St. Patrick's Day. {LAUGHTER} I can make that joke as somebody of Irish heritage. {LAUGHTER}
+
+I should mention by the way that -- we were discussing this with my mayor from Chicago, Mayor Daley, and I told him that I had this Irish heritage. And he said that he had actually Kenyan blood in him also. {LAUGHTER}
+
+It just goes to show that in recent decades it has become cool to be Irish. {LAUGHTER} It's the phenomenon the Irish poet, and Joe Biden's favorite poet, Seamus Heaney, once described in stunned fashion as “the manifestation of sheer, bloody genius -– Ireland is chic.” {LAUGHTER}
+
+And obviously we know, though, that that wasn't always the case. After centuries of oppression, the Irish began coming to America -– even before America had been won. Many came with no family, no friends, no money -– nothing to sustain their voyage but faith. Faith in the Almighty. Faith in a better life over the horizon. And faith that in America, you can make it if you try.
+
+And in the wake of a Great Hunger, that migration intensified. And the Irish carved out a place for themselves in our nation's story -– America and Ireland, our brawn and our blood, side by side in the making and remaking of this nation; pulling it westward, pushing it skyward, moving it forward -– even if it was a nation that was not always as welcoming as it could be.
+
+But with hard work and toughness and loyalty and faith, the Irish persevered. And in the process they secured the future for generations of Irish-Americans free to live their lives as they will -– and today, free to argue openly and proudly about who is more Irish than whom. {LAUGHTER}
+
+So it can be easy to forget that there was a time when “No Irish Need Apply.” Particularly when it was half a century ago this year that John F. Kennedy walked through the doors of this house as the first Irish Catholic President of the United States. {APPLAUSE}
+
+One person who never forgot this history -– someone who frequently recalled his grandfather's vivid stories of those days; who through his office window could see the Boston Harbor steps where his eight Irish grandparents first set foot in America –- was the President's youngest brother and our dear friend, Ted Kennedy. {APPLAUSE}
+
+He knew, as we do, that our nation is infinitely richer for not only the contributions of the Irish throughout history -– but the contributions of people from around the world. That's why I'm pleased that there's bipartisan progress being made in an area that I know was close to his big heart -– and that's fixing our broken immigration system. {APPLAUSE} And that's why my own commitment to comprehensive immigration reform remains unwavering.
+
+In this and every other battle for progress, Ted was a tireless warrior. And I know that we could use him this week. I am so glad that we're joined tonight by his wife Vicki; his daughter, Kara; his son, Congressman Patrick Kennedy; and his sister-in-law, Ethel Kennedy, as well as a whole bunch of nieces and nephews. Please give them a big round of applause. {APPLAUSE}
+
+Both of our nations are down one friend, a champion, and peacemaker. But it wouldn't be Irish mourning without some undercurrent of joy. So while Teddy's laughter may not shake the walls of this house tonight, as it did so many times over the past half-century, ours will not be diminished. While his singing may not fill these rooms, I suspect that won't stop some of you from trying. {LAUGHTER} You don't have to try, though -- that's why we brought in the entertainment. {LAUGHTER}
+
+This is rightly a day for celebration and good cheer between America and one of her oldest friends -– and it's a partnership that extends to our earliest days as a Republic. So before I turn it over to the Taoiseach, let me leave you with all the words from those early days that speak to why this has been such an incredible relationship between our two countries. These are words spoken by the father of our country, George Washington:
+
+“When our friendless standards were first unfurled, who were the strangers who first mustered around our staff? And when it reeled in the light, who more brilliantly sustained it than Erin's generous sons? Ireland, thou friend of my country in my country's most friendless days, much injured, much enduring land, accept this poor tribute from one who esteems thy worth, and mourns thy desolation. May the God of Heaven, in His justice and mercy, grant thee more prosperous fortunes, and in His own time, cause the sun of Freedom to shed its benign radiance on the Emerald Isle.”
+
+To all of you from near and far, and over all the years and tests ahead, may America and Ireland forever brilliantly sustain one another's sons and daughters.
+
+And with that, to our guest, the Taoiseach of Ireland, on behalf of the American people we want to thank you for your presence here. We are proud to call you a friend this day and every day. And we are looking forward to planting this little piece of Ireland in the garden here in the White House.
+
+Happy St. Patrick's Day, everybody. {APPLAUSE}
+
+The Taoiseach, the Prime Minister of Ireland, Brian Cowen. {APPLAUSE} 
+
+{/speech}

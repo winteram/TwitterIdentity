@@ -1,0 +1,40 @@
+﻿{title} President's Remarks at Special Olympics Holiday Reception {/title}
+{event} Remarks by the President in Holiday Reception/Special Olympics, State Floor {/event}
+{speaker} George W. Bush {/speaker}
+{date} December 13, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good evening. Good evening, everyone. Laura and I are so pleased to welcome you to the White House, as we pay tribute to a great organization and the really good people behind it.
+
+In a moment, we will hear from Eunice Kennedy Shriver, who has made the Special Olympics her life's work. If you ever had any doubt about how much good that one person can bring into the world, look no farther than this kind and gracious lady. {APPLAUSE} And she married pretty well, too. Sure glad you're here, Sargent. {APPLAUSE} And they've done a good job of raising their family.
+
+We are so pleased to welcome the -- I hate to say the word "children" -- the offspring of Sargent and Eunice Shriver. Obviously, you've done a good job of instilling the sense of public service in your children, and they're compassionate people. I particularly want to thank Tim for being the President of Special Olympics. {APPLAUSE}
+
+With us as well is Eunice's little brother -- well, younger brother. {LAUGHTER} A man I have grown to admire as a fine United States senator. And Orrin Hatch, another fine senator, is here, as well. Thank you both for coming. {APPLAUSE}
+
+I appreciate my Commerce Secretary, Donny Evans, for being here. And I want to thank the Surgeon General, David Satcher, for coming, as well.
+
+I also want to welcome the co-chairs of the Campaign for the Special Olympics, Steve Case and Peter Lynch, and all of those who support this fine organization. Thank you for coming tonight. {APPLAUSE}
+
+And the highest title of all is held by the King of the Blues, B.B. King. Thank you for coming. {APPLAUSE}
+
+We gather here to celebrate achievement of the Special Olympics, itself, and those who compete. Before we lived here, Laura and I were fortunate to be involved with the Special Olympics in Texas. And I'll never forget being a hugger at Texas Memorial Stadium. Such a wonderful experience. We're so grateful for the Special Olympics.
+
+And so is America because America at its best upholds the values of every person and the possibilities of every life. And Special Olympics is an example of America at its best, sharing with the entire world a spirit of joy and kindness.
+
+The story of our country is an ever-widening circle, a society in which everyone has a place and everyone has something to give. You brought that spirit into the lives of more than a million children and adults across the world, and I thank you for that.
+
+Most of all, I congratulate the global messengers and athletes with us this evening: Cindy Bentley, Henry Moretti, Mohammad Nassar, Jia Sirui, Victor Stewart, Katy Wilson, Loretta Claiborne, and Ricardo Thornton. Each one of you has been recognized for giving your best, for sharing your many gifts with others, and for living out the Special Olympics oath, "Let me win; but if I cannot win, let me be brave in the attempt." Each one of you has set high goals and you have met them through hard work and courage.
+
+We are all so proud to have you with us tonight, and ask all of our guests to join me in toasting the brave and generous spirit of the Special Olympics.
+
+{COMMENT="A toast was offered"}
+
+And now it is my honor to welcome Mrs. Eunice Shriver.
+
+{APPLAUSE} 
+
+{/speech}

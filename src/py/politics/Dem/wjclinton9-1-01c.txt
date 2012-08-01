@@ -1,0 +1,23 @@
+﻿{title} Speech at Private Party {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 9, 2001 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+We had a rally upstairs. You heard them, didn't you? In the ballroom. A little loud. And I hope we didn't interrupt you. So there's an overflow crowd in the lobby. And they said they have to go through the edge of another ballroom. {LAUGHTER} So here I am. {LAUGHTER ; APPLAUSE} 
+
+So I've invaded your dinner. {LAUGHTER} Well, thank you for the wonderful, warm welcome. I'm in Chicago today to basically say goodbye to the people of Chicago and Illinois as President. 
+
+It's a very happy day for me in many ways. This hotel, since you're here for that, I should tell you, this hotel plays a huge role in my life. And I have two pictures of this hotel. That's what I told them upstairs, I have two pictures of this hotel which I look at every day of my life. One is of the lobby on St. Patrick's Day of 1992; Hillary and I are standing there with green graffiti -- not graffiti, what do you call it -- confetti, not graffiti, confetti -- {LAUGHTER ; APPLAUSE} -- it's been a long day. And a long eight years. {LAUGHTER} Confetti coming down, because that's the night that we won the Democratic primary in Illinois, which basically sealed my nomination. {APPLAUSE} 
+
+The second picture was my mother and my father dining here in 1946. {APPLAUSE} And that's in my private office in the Residence of the White House. I look at it every night -- every single night. So I've seen those two pictures of this place every day for eight years. This is also where I basically kicked off my campaign in Illinois in December of 1991, and so I'm very happy to be here. 
+
+And I wanted to come here for my last appearance in Chicago as President. And I want to tell all of you that it's been an honor to serve. I'm glad my country is in better shape than it was eight years ago. {APPLAUSE} I thank all of you for the role that you've played in revitalizing our country. And I wish only the best for the future. 
+
+I've said many times and I'll say again, America may find people who do this job better than I have, but you will never find anybody who loved doing it any more. Thank you very much. {APPLAUSE} 
+
+{/speech} 

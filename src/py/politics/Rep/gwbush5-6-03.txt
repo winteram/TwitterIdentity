@@ -1,0 +1,66 @@
+﻿{title} President Talks to Troops in Qatar {/title}
+{event} Camp As Sayliyah, Qatar  {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 5, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} For Immediate ReleaseOffice of the Press Secretary {/description}
+
+{speech} 
+
+Thanks for coming out to say hello. {APPLAUSE} Thanks for your introduction, Tommy. I appreciate this warm welcome. I have a question for you: Can you hear me now? {APPLAUSE}
+
+I've been on the road for a while, and I hope you didn't mind us stopping by. {APPLAUSE}
+
+We've seen a lot of fine sights, but there's no finer sight than to see the men and women who wear the uniform of the United States of America. {APPLAUSE}
+
+I am happy to see you, an so are the long-suffering people of Iraq. America sent you on a mission to remove a grave threat and to liberate an oppressed people, and that mission has been accomplished. {APPLAUSE}
+
+Each one of you is a credit to the uniform you wear, and I bring a message from home: your families are proud of you, and so is America. {APPLAUSE}
+
+I want to thank Tommy for his leadership. {APPLAUSE} I don't know if you know this, but First Lady Laura Bush and Tommy Franks went to high school together. {APPLAUSE} Midland Lee High School. She didn't think he'd amount to much. {LAUGHTER} He has done a fantastic job. {APPLAUSE}
+
+I'm also honored to be traveling with a fantastic Secretary of State. {APPLAUSE}
+
+I want to thank the allied forces. I want to thank the Brits, the Australians -- {APPLAUSE} -- I want to thank our friends from Poland -- {APPLAUSE} -- for your service to your countries and to the cause of freedom, and for your courage.
+
+I want to thank the members of the armed forces of Qatar and I want to thank the Amir of Qatar, with whom I just met, for his hospitality and for his friendship to the United States of America. {APPLAUSE}
+
+But most of all, I'm here to thank you. {APPLAUSE} We are in a war on global terror, and because of you, we're winning the war on global terror. {APPLAUSE} When we sent you into combat, you performed brilliantly. In Afghanistan, forces directed from here from Qatar, and headquartered in Tampa, you delivered decisive blows against the Taliban and against al Qaeda. And now the people of Afghanistan are free. {APPLAUSE}
+
+We have made it clear that we'll hunt the terrorists down. There's no place they can hide from the justice of the United States of America and our friends. And right now we've got -- we're on the hunt in the Horn of Africa. And of course, in the battle of Iraq, you set an example of skill and daring that will stand for all time. {APPLAUSE} The very first strike in the liberation of Iraq started from right here, and many others followed. Missions of mercy are directed from here.
+
+Our actions sent a long, clear message that our nation is strong and our nation is compassionate. And we also sent another clear message: Dictators can no longer shield themselves behind innocent people. {APPLAUSE} Those who threaten the security of others now need to worry about their own. {APPLAUSE}
+
+As you know, in the Battle of Iraq, we had some fine, fine soldiers at our side. Great Britain, Poland and Australia sent some of their finest to work with ours. America will always remember their service and their important role in our victory, and we're grateful.
+
+Neighbors in this neighborhood -- nations in this neighborhood also gave critical assistance to this coalition, for which we're grateful. Of course, Qatar, the host of CENTCOM, a great friend to the United States. And Kuwait always said yes when we asked. They also kept their oil flowing when it looked like there wasn't going to be enough. {APPLAUSE}
+
+Our friends in Bahrain and the UAE and the rest of the Gulf contributed valuable assistance to our cause, for which we're thankful.
+
+It was from this place that our commanders executed one of the most innovative war plans in the history of armed conflict. And the man who designed those plans was Tommy Franks. {APPLAUSE} I want to thank Tommy and his staff. I also want to thank Command Sergeant Major Dwight Brown. {APPLAUSE} I was going to say, "and his staff," but you're his staff. {APPLAUSE}
+
+Under Tommy's leadership, CENTCOM forces have shown the true might of America, the strength of our country. You've also shown the humanity and decency of your country, as well. You see, this country, our country does not seek the expansion of territory. We're not interested in more territory. Our goal is to enlarge the realm of liberty. {APPLAUSE}
+
+We believe that liberty is God's gift to every individual on the face of the earth. {APPLAUSE} We believe people have the right to think and speak and worship in freedom. That's what we believe in America. And that's what you showed the world. {APPLAUSE}
+
+No, our military fights for the security, American people. And we fight for freedom. And we sacrifice for freedom and we have lost some of our finest. And this nation will never forget and will always honor their memories for the sacrifices they made. And it's not only serving our nation, but serving a cause greater than themselves. May God rest their souls. {APPLAUSE}
+
+Not only does the war on terror go on, but we've got a lot of work to do in Iraq. And we're going to stay the course until the job gets done. We will stand with them as they build a stable democracy and a peaceful future.
+
+Our forces are taking aggressive steps to increase order throughout the country. We are moving those Baathist officials that are trying to hang on to power. There are still pockets of criminality. Remember, the former leader of Iraq emptied the jail cells of common criminals right before the action took place. And they haven't changed their habits and their ways. They like to rob and like to loot. We'll find them. {APPLAUSE}
+
+Criminal courts are now reopening. Day by day, the United States and our coalition partners are making the streets safer for the Iraqi citizens. We also understand that a more just political system will develop when people have food in their stomachs, and their lights work, and they can turn on a faucet and they can find some clean water -- things that Saddam did not do for them.
+
+See, he spent more time building luxurious palaces than he did in building an infrastructure to take care of the Iraqi citizens. And the United States and our friends and allies will first take care of the Iraqi citizens. {APPLAUSE} And they'll have some money to help themselves. After all, oil is now flowing. But this time the revenues are not going to be used and skimmed off by greedy gangsters. It's going to be used in a special account on behalf of the people who own the oil -- the citizens of Iraq. {APPLAUSE}
+
+One thing else we've done is we made sure that Iraq is not going to serve as an arsenal for terrorist -- for terrorist groups. We recently found two mobile biological weapons facilities which were capable of producing biological agents. This is a man who spent decades hiding tools of mass murder. He knew the inspectors were looking for them. You know better than me he's got a big country in which to hide them. We're on the look. We'll reveal the truth.
+
+But one thing is certain: no terrorist network will gain weapons of mass destruction from the Iraqi regime, because the Iraqi regime is no more. {APPLAUSE}
+
+As people who liberated Iraq, I know you're proud of what you have done. {APPLAUSE} You see, the world is now learning what many of you have seen. They're learning about the mass graves, thousands of people just summarily executed. They're learning about the torture chambers. Because of you, a great evil has been ended. Because of you, the dignity of a great nation is being restored.
+
+Because of you, America and our friends and allies, those of us who love freedom are now more secure. You have justified the confidence that your country has placed in you. You've served your country well. Your Commander-in-Chief is grateful. And as importantly, more importantly, millions of American citizens are grateful for what you have done. You believe in America and America believes in you. {APPLAUSE}
+
+It is our tremendous honor to be here today with you. Keep doing what you're doing. You're making a huge difference in the peace and security and freedom in this world. May God bless you. May God bless your families. And may God continue to bless America. Thank you. {APPLAUSE} 
+
+{/speech}

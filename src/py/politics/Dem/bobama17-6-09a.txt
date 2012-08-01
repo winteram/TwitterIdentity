@@ -1,0 +1,25 @@
+﻿{title} Remarks By The President at The Signing Of A presidential Memorandum regarding Federal Benefits And Non-discrimination {/title}
+{event} Signing Of A presidential Memorandum regarding Federal Benefits And Non-discrimination {/event}
+{speaker} Barack Obama {/speaker}
+{date} June 17, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, today I'm proud to issue a presidential memorandum that paves the way for long-overdue progress in our nation's pursuit of equality.
+Many of our government's hard-working, dedicated, and patriotic public servants have long been denied basic rights that their colleagues enjoy for one simple reason -- the people that they love are of the same sex.
+Currently, for example, LGBT federal employees can't always use sick leave to care for their domestic partners or their partners' children. Their partners aren't covered under long-term care insurance. Partners of American Foreign Service officers abroad aren't treated the same way when it comes to the use of medical facilities or visitation rights in case of an emergency.
+These are just some of the wrongs that we intend to right today.
+In consultation with Secretary of State Clinton, as well as OPM Director John Berry, my administration has completed a long and thorough review to identify a number of areas where we can extend federal benefits to the same-sex partners of Foreign Service and executive branch government employees.
+I'm requesting that Secretary Clinton and Director Berry do so where possible under existing law -- and that the heads of all executive departments and agencies conduct reviews to determine where they may do the same.
+Hundreds of Fortune 500 companies already offer such benefits not only because it's the right thing to do, but because they recognize that it helps them compete for and retain the best possible talent -- and we need top talent serving their country right now more than ever.
+Now, under current law, we cannot provide same-sex couples with the full range of benefits enjoyed by heterosexual married couples.
+That's why I'm proud to announce my support for the Domestic Partners Benefits and Obligations Act, crucial legislation that will guarantee these rights for all federal employees.
+I want to thank Representative Tammy Baldwin, who is behind me somewhere -- there she is, right there -- for her tireless leadership on this bill and in the broader struggle for equality. I want to thank Senator Joe Lieberman -- Joe is here -- as well as Susan Collins for championing this bill in the Senate; and Representative Barney Frank for his leadership on this and so many other issues -- in fact, this is his second trip to the White House today. {LAUGHTER}
+It's a day that marks a historic step towards the changes we seek, but I think we all have to acknowledge this is only one step. Among the steps we have not yet taken is to repeal the Defense of Marriage Act. I believe it's discriminatory, I think it interferes with states' rights, and we will work with Congress to overturn it.
+We've got more work to do to ensure that government treats all its citizens equally; to fight injustice and intolerance in all its forms; and to bring about that more perfect union. I'm committed to these efforts, and I pledge to work tirelessly on behalf of these issues in the months and years to come.
+Thank you very much everybody, and with that I am going to sign this executive order.
+{COMMENT="The memorandum is signed"} {APPLAUSE} 
+
+{/speech}

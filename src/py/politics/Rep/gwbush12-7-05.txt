@@ -1,0 +1,43 @@
+﻿{title} President Congratulates 2004 and 2005 NCAA Sports Champions {/title}
+{event} The South Lawn {/event}
+{speaker} George W. Bush {/speaker}
+{date} July 12, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. Please be seated. Not you. Welcome to the South Lawn of the White House for Championship Day. {APPLAUSE} Today we have the largest group of NCAA champs ever gathered at the White House, and we want to thank you all for coming. I am honored to be joined on stage by the captains of the 15 teams that we're honoring today. Thank you all for being here. Congratulations for being such strong leaders.
+
+I appreciate the members of Congress who have come today. Welcome -- we're proud you're here. I want to thank the coaches and athletic directors who are here today. But most of all, I want to congratulate the men and women who have conducted themselves in the field of play in such a manner that they're called champions. Welcome. {APPLAUSE}
+
+UCLA has won more NCAA championships than any school in the nation -- {APPLAUSE} -- so it's fitting that three of the champs here today wear the uniform of the Bruins. Back in December, the UCLA men's water polo team won the national championship with an overtime victory against Stanford. Congratulations, and welcome. {APPLAUSE} This spring the UCLA women's water polo team beat Stanford to win the national championship. Welcome to the UCLA women's polo team. {APPLAUSE} And finally, the UCLA men's team won the national championship. I had an honor to meet all three teams. I'm glad you're here. Thanks for coming. Congratulations on a job well done.
+
+And then we have the Georgia Bulldogs, who are well represented today. {APPLAUSE} It's the South Lawn; behave yourself. {LAUGHTER} The Georgia men's golf team posted a wire-to-wire victory at the NCAA champions. In the final round, interestingly enough, all five of Georgia's golfers shot the same score, even par. That's called consistency. The Georgia women's swimming and diving team brought home their fourth NCAA championship. Interestingly enough, the Lady Bulldogs won all five of the relay races. And finally, the Georgia women's gymnastics team is with us today. They started the championship meet seeded number 12 and came out number one. Congratulations to the teams from Georgia. {APPLAUSE}
+
+Two of the teams here made history by winning their schools' first national championships in their respective sports. The Northwestern's women's lacrosse team posted an undefeated season. {APPLAUSE} Twenty-one straight victories got them here to the White House. Congratulations to you all.
+
+And then the Michigan women's softball team is here today. {APPLAUSE} One of the women asked me if I wanted to hit against her, I said, I don't think so. {LAUGHTER} This will interest you: the first 33 games that the Michigan women's softball team played were on the road. It turns out it's a little chilly in Michigan about softball time. They won 32 of the 33. It was an auspicious beginning to a championship season. Welcome to the Michigan women's team. {APPLAUSE}
+
+Two of the teams here are celebrating a championship for the second year in a row. The Stanford women's tennis team -- {APPLAUSE} -- finished with an undefeated season and a repeat national championship. They beat the Texas Longhorns in the finals. {LAUGHTER}
+
+The Minnesota women's hockey team. {APPLAUSE} The Gophers beat Harvard last year to come to the White House; they beat Harvard this year to come to the White House. Congratulations to the mighty Gophers of Minnesota. {APPLAUSE}
+
+The Auburn men's swimming and diving team is celebrating a three-peat. Congratulations. {APPLAUSE} Glad you all are here. Thanks for the Speedo. {LAUGHTER} I'm not going to wear it. {LAUGHTER} In public that is. {LAUGHTER}
+
+The Duke women's golf team is here to celebrate the national championship in -- {APPLAUSE} They were -- in 2002, they're back. Coach Brooks of the Duke women's golf team has now won three national championships with the Blue Devils. That ties him with Coach K. Therefore, he shall be known as Coach B. Not bad. {LAUGHTER}
+
+The Johns Hopkins men's lacrosse team is with us today. {APPLAUSE} And Congressman Elijah Cummings is here to honor them. Johns Hopkins compiled a perfect record and pulled out a 9-8 victory to win the first championship they've had in almost two decades. Congratulations to Johns Hopkins.
+
+The Pepperdine men's volleyball team is with us today. {APPLAUSE} They're brought the championship trophy back to Malibu in the first time in more than a decade. I want to thank them for the gift -- Surfboard One. {LAUGHTER}
+
+And finally, we honor the Oklahoma men's gymnastics team. {APPLAUSE} It's the third national championship they've won in the past four years.
+
+It's such an honor to have you all here. I want to thank you for being champs on the field; I want to thank you for being champs off the field. I know you know this, but there's a lot of boys and girls who watch -- watch you all to determine what it means to be a champ. You probably don't realize it, but when you're in the field of play, there's a lot of kids wondering what it takes.
+
+And therefore, when you serve your community, you're teaching a kid to read, or when you take the extra time to set a good example, you really are affecting people's lives. See, you have a responsibility as a champ, not only to win contests for your respective schools and set personal goals and achieve them, but I think you have a responsibility as a champ to set a good example. And I've read about the mentoring programs and the hospital work and all the good works that you have done, and I want to thank you for setting such a good example.
+
+
+Again, welcome to the White House. If you're a junior or a sophomore, work hard and come back. I'll be here to greet you. In the meantime, may God bless you all and your families. Thanks for coming. {APPLAUSE} 
+
+{/speech}

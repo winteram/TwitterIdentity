@@ -1,0 +1,38 @@
+﻿{title} Remarks by the President at Signing Ceremony {/title}
+{event} Kilimanjaro Airport, Arusha, Tanzania {/event}
+{speaker} Bill Clinton {/speaker}
+{date} August 28, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, Secretary Slater, Minister Nyanda, members of the Tanzanian and American delegations, ladies and gentlemen. First, Mr. President, thank you for your warm welcome, and will save your speech. {LAUGHTER} And thank you for your thoughtful and deep remarks.
+
+I'd like to begin by also thanking you for the warm welcome that you gave to Chelsea and to Hillary when they were here. They both fell in love with your country, and Hillary asked me to give you her regards. Since you've just started a campaign, you will understand that she is otherwise occupied. {LAUGHTER}
+
+I am honored to be here in a place of peace, to visit a champion of peace. Tanzania's story is too often not the stuff of headlines. For that I say, congratulations. Think of the headlines you have avoided. {APPLAUSE} Because you have avoided headlines about repression, famine and war, and instead focused on the steady progress of democracy and development, being generous to your neighbors, and being a cause of peace and cooperation across the region, too many people in our country do not know enough about your country. I hope very much that my visit here, with so many members of the United States Congress who are here with me, will help to change that.
+
+I look forward, Mr. President, to joining you and President Mandela and the other regional leaders shortly in your efforts to bring a lasting peace to Burundi, just the last chapter in the distinguished history that you have already made in such a short time.
+
+One of the tragic ironies of life is sometimes the most terrible things happen to those who try to do the most good. You mentioned it was just over two years ago that the terrorist bombs went off at our American embassies not far north of here in Nairobi, and not far south in Dar es Salaam. They claimed hundreds of Tanzanian, Kenyan and American lives.
+
+I believe the terrorists went after Tanzania, Kenya and the United States precisely because we are dedicated to tolerance, understanding and cooperation across frontiers and lines of division. They took a lot of our loved ones, but as you pointed out, they failed utterly to deter us from advancing our common principles.
+
+So, two years later, I would like to say again to the Tanzanian families and the victims who survived, we still share your sorrow and your determination to see justice done. But we are grateful that your nation has stayed on the course of peace and reconciliation. {APPLAUSE}
+
+We also want to continue to support you during the current drought. We have already provided substantial food assistance, and will continue to do what is needed. We are also trying to help both Tanzania and Kenya deal with your significant refugee problems, which we had a chance to discuss in our meeting just a moment ago. We will keep working with you, Mr. President, to promote education and health, to bring the benefits of the global information economy to your nation and to the developing world.
+
+I am glad that we were able to support Tanzania as one of the first three African countries to qualify for debt relief under the heavily indebted poor countries initiative. So long as these economic reforms continue they will be worth the freeing of $100 million a year, which Tanzania can now invest in its greatest resource, your people. {APPLAUSE}
+
+And I might say, Mr. President, I was very moved by what you said in our meeting about how you intend to invest that money. And I hope that the members of our Congress will take home the powerful example that you have set as a good reason for us to fully fund our part of the global initiative to relieve the debt of highly indebted poor countries.
+
+I also want to do more to encourage foreign investment here. When I last met with you, Mr. President, you were just finishing a very successful tour of the United States to promote American investment here. It has doubled in the last five years. The Open Skies agreement, just signed, will strengthen our economic ties further, giving both our countries' airlines unrestricted international access from any airport to any airport in either country, so that more people can travel and market their products to more places at lower cost.
+
+It was the first of six such agreements we have negotiated with African nations, and I am honored that the first was here in Tanzania. {APPLAUSE}
+
+We will keep working with you, Mr. President, on all these issues, not only because your success is important in its own right, and because your people deserve a chance to live their dreams, but because you inspire all those around you who are struggling to achieve freedom and peace and reconciliation. I urge you to continue to inspire them.
+
+I thank you for the power of your example. I support the work you do. And again let me say on behalf of all the American delegation, we are delighted and honored to be here. Thank you very much. {APPLAUSE} 
+
+{/speech}

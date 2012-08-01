@@ -1,0 +1,52 @@
+﻿{title} Remarks by the President in Faa Announcement {/title}
+{event} Presidential Hall, Dwight D. Eisenhower Executive Office Building {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 7, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, Keith, thank you for telling everybody why I'm trying so hard to get something done about this. {LAUGHTER} Thank you very much for the work you do and for being here with us today, as Exhibit A.
+
+I want to thank Secretary Slater and our Administrator Jane Garvey for all they have done in these last several years. And I want to thank John Cullinane and Sharon Patrick for being here, and our NTBS Chairman, Jim Hall -- thank you very much, Jim for your work.
+
+As Secretary Slater said, when the Vice President and I took office in 1993, among other things that were troubled in this economy, we found a very troubled airline industry. And in my first -- Rodney mentioned the trip I made to Everett, Washington, to meet with the leaders of the airline industry at the Boeing plant near Seattle. That was the first trip I took outside Washington as President. I did it because I knew that we had to turn the airline industry around if we wanted to turn the American economy around.
+
+Out of that meeting was born the Baliles Commission, headed by the former governor of Virginia, Governor Jerry Baliles, and a set of recommendations that helped to power the airline industry back to health. Thanks to those recommendations and to a booming economy, the airline industry is strong again, and I think have benefitted from the work that has been done in this administration by the Vice President and Secretary Slater and Administrator Garvey.
+
+We have basically pursued a three-pronged approach: First, we want to preserve and enhance domestic competition so that our people continue to reap the benefits of deregulation. Second, we want to open more foreign markets so that our airlines can compete better internationally. And third, we want to improve the efficiency of our infrastructure, particularly air traffic control, to keep pace with the phenomenal growth in air travel. Now, that's what were here to talk about today, because, frankly, we haven't been able to do it.
+
+Our infrastructure is just as important to us today as the railroads were in the 1800s, or the interstate highway system was in the second half of the 20th century. Just as those advancements made us competitive in the 19th and 20th century economies, a modernized air traffic control system will help determine our ability to compete in the 21st century.
+
+The fact is, the FAA's 20-year effort to modernize its air traffic control technology simply has not been able to keep pace with either the emergence of new technology or the growth and demand for air travel. And while we've made significant progress, as the horrendous -- and I don't know how else to say it -- just the horrendous flight delay statistics demonstrate, we have not done nearly enough.
+
+This is no reflection, I don't hesitate to say, on the leadership of the FAA or the dedication of its employees; they are very, very good. They operate the largest, busiest and safest air travel system in the world. It orchestrates 93,000 flights every day, more than one every second. They also oversee the safety of the entire system, which has a remarkable record, as all of you who are involved in it knows.
+
+Despite the extraordinary efforts of these people, however, the rapid growth in air travel is simply racing ahead of the limits of the FAA's aging infrastructure. Flight delays have increased by more than 58 percent in the last five years; cancellations by 68 percent. In addition to widespread passenger frustration and anger, which I hear about wherever I go, these delays are costing airlines and passengers more than $5 billion ever year.
+
+Part of the problem is due to outdated technology. We're working with Congress to speed up the upgrade of facilities and equipment at airports and air traffic control centers. But a more fundamental problem is also how the FAA operates. It must be better structured to manage the high-tech, high-demand operations of a 21st century air traffic control system.
+
+David Osborne, who popularized the phrase "reinventing government," when he wrote a book by that title, sums up the problem in his new book, the Reinventor's Field Book. In it, he says -- and I quote -- "air traffic control is a massive, complex technology intensive service business, operating within a conventional U.S. government bureaucracy. It's like putting a Ferrari engine into a dump truck body, and still expecting it to win races."
+
+We need to put the Ferrari engine of FAA excellence into a new, more streamlined, more efficient body. To accelerate our efforts to reduce passenger delays and improve air traffic control efficiency, I am taking, therefore, the following actions. First, I am directing the FAA to create a performance-based organization, the Air Traffic Services Organization, to manage the operation of air traffic control. This semiautonomous organization, located within the FAA, will have the incentives and tools necessary to operate more effectively and efficiently.
+
+Second, Secretary Slater is designating five outstanding business and management leaders for appointment to the Air Traffic Services sub-committee. The group will function as a board of directors to oversee the management of the FAA's air traffic control organization, to make sure it operates more efficiently.
+
+They are, former United States Senator and Chairperson of the sub-committee on aviation, Nancy Kassebaum Baker; John Cullinane, who's here with us today, President of the Cullinane Group and a pioneer in the computer software industry; Leon Lynch, the international Vice President for Human Affairs at the United Steel Workers; Sharon Patrick, President and Chief Operating Officer of Martha Stewart Living Omnimedia, Inc. is here with us; and John Snow, a former Department of Transportation administrator and current Chairman, President and Chief Executive Officer of CSX corporation. It is a distinguished group, and I think they'll do a fine job.
+
+I am also directing the Department of Transportation and the FAA to review the impediments to the use of airport congestion pricing and other market mechanisms to reduce airport delays. Let me say, I asked about this years ago, and it turns out there are a couple of federal laws which make it hard to do.
+
+But if you think about how much business travel there is, and how much travel travel there is, and how much flexibility we might build in the system if we just had some market mechanisms to more uniformly use the airplane and airport infrastructure that we have out there, I think that we really missed a big opportunity not to try to take more advantage of this. And I think we could rather quickly level out and maximize the use of our facilities and our planes in ways that would dramatically reduce delays and cancellations.
+
+But there are some, apparently, some actual statutory impediments to doing it. So we're going to do what we can to identify them and leave them in good shape for the next administration, and given the level of anxiety about this in the country, I think we could get some pretty quick action. I hope it will happen next year.
+
+I hope that all these actions will accelerate much-needed reform of the air traffic control system. But they are not enough. Congress still has to reform the way air traffic control service is financed, and move from a system financed by passenger taxes to one in which commercial users pay the costs of the services they use.
+
+The airline industry is at a crossroads. We can continue on the current course and continue to experience crowded airports, flight delays, and even higher passenger frustration. But if we act decisively now to improve our infrastructure, we can ensure that air travel in the 21st century is the safest, most cost effective, most efficient in the world.
+
+I can hardly think of anything else the government does now that the consumers feel more directly. And I certainly hope that what we're doing today will help. I believe it will. And I will try to wait patiently in those lines next year for Congress to do its part.
+
+Thank you very much. {LAUGHTER ; APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,51 @@
+﻿{title} Remarks by the President to the Senior Executive Service {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} October 15, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. {APPLAUSE} I order you to stop. {LAUGHTER} Thanks for the kind introduction, and thanks for such a warm welcome. These are extraordinary times, times of testing for our government and for our nation. Yet all of us can be proud of the response of our government, and the exceptional character of the nation we serve. I've never felt more certain about America's goodness, or more confident about America's future. 
+
+I have come to Constitution Hall today to express my appreciation for your dedication and integrity, your commitment to excellence, and your love of our country. The work of both career and political employees during the last nine months has been outstanding. We've accomplished a great deal together. And since September 11th, federal employees have acted with remarkable professionalism and purpose. And on behalf of the American people, I thank you. {APPLAUSE} 
+
+I want to thank my old college roommate and friend, Clay Johnson, for thinking of this idea of coming to Constitution Hall to speak to you. I want to thank Ruth Sanchez-Way for her warm introduction and her work on behalf of the American people. I want to thank my friend, Kay James, for being here, as well. I want to thank the Navy Band. Every time you play, I step a little lighter. {LAUGHTER} I'm really proud of my Cabinet. I want to thank the members of my Cabinet who are here. And I'm proud of you all, as well. {APPLAUSE} 
+
+I want to start by recognizing 65 winners of the Presidential Rank of Distinguished Executive, who are seated behind me. Congratulations. {APPLAUSE} And I want to congratulate the Meritorious Executives who are here in the audience with us, as well. {APPLAUSE} All career members of the Senior Executive Service, and today we honor their exceptional performance. Their work covers a tremendous range of issues, yet they share some things in common: an outstanding work ethic, commitment to public service, and pride in a job well done. 
+
+One person who was chosen to receive a Presidential Rank Award is not with us today. Bryan Jack headed the Defense Department's Programming and Fiscal Economics Division. He was a brilliant mathematician and top budget analyst. A native Texan, a graduate of Stanford Business School, and newly married, Bryan was a passenger on American Airlines Flight 77, when it crashed on September 11th. Bryan's wife, Barbara Rachko, is with us today. I know how proud you are, Barbara, of your husband. And in this hour of grief -- in your hour of grief, the nation is on bended knee with you. Where is Barbara? {APPLAUSE} 
+
+Since September 11th, we've seen America more united and resolute than at any point in our lifetimes. We've seen a nation that is generous and patriotic, and a nation that is determined to see justice be done. We've also seen acts of great sacrifice and heroism. And many of those acts were performed by people who serve in government at the local, state and federal level -- the police and firefighters, medics, FEMA employees, members of the military and civilian employees of government. They've worked past exhaustion. They have risked their lives. And some gave their lives, as well. Our nation is grateful for all these men and women who have shown the meaning of duty and public sacrifice. 
+
+In times of war, the American people look to the government, more than they do in times of peace. They count on government to help protect them, and we will. They count on the government to defeat those who are trying to destroy us, and we will. Yet while our government is focused on the war against terrorism, it continues to have vital responsibilities in other areas. We will give our best to America in war effort, in all other areas of responsibility, as well. 
+
+In doing so, we must resist pressure to unwisely expand government. We need to affirm a few important principles, that government should be limited, but effective; should do a few things and do them well. It should welcome market-based competition wherever possible. It should respect the role and authority of state and local governments, which are closest to the people. And government should do everything it can to strengthen families, which are the cornerstone of our society. 
+
+Today we're seeing one of the highest levels of trust in government since the mid-'60s, which is due partly to the surge of national pride that has swept our country since the terrorist attacks. But it's also because of how you've performed your jobs, particularly during the last month. The American people have placed their trust in us, and we will honor that trust. 
+
+Let me say a few words about important values we must demonstrate while all of us serve in government. First, we must always maintain the highest ethical standards. We must always ask ourself not only what is legal, but what is right. There is no goal of government worth accomplishing if it cannot be accomplished with integrity. 
+
+Second, I want us to set an example of humility. As you work for the federal government there is no excuse for arrogance, and there's never a reason to show disrespect for others. A new tone in Washington must begin with decency and fairness. I want everyone who represents our government to be known for these values. 
+
+Third, we must confront the tough problems, not avoid them and leave them for others. This is never easy, but it's what conscience demands and what leadership requires. We must keep the long view, and remind ourselves that we're here to serve the public's long-term interests. 
+
+Fourth, I hope you'll never take the honor of public service for granted. Some of us will serve in government for a season; others will spend an entire career here. But all of us should dedicate ourselves to great goals: We are not here to mark time, but to make progress, to achieve results, and to leave a record of excellence. 
+
+Fifth, we should never forget that we're part of the same team. The American people do not distinguish between political and career employees. They don't hold us to separate standards. The public has high expectations for the entire government, and together we will meet those expectations. 
+
+And sixth, we should always remember, every dollar we spend is the taxpayer's money. {APPLAUSE} People worked hard to earn it, and so we should spend it wisely, and reluctantly. That will take discipline and creative leadership, and I urge all of us to show that kind of leadership. 
+
+I know that you face barriers in trying to lead creatively. Some of them are imposed by Congress, including barriers to hiring people you need, rewarding men and women of merit, and contracting services which would save the taxpayers money. And that's why, last August, my administration released a strategy for improving the performance of the federal government. And that is why, shortly, we will be sending to Congress the Freedom to Manage Act, and the Managerial Flexibility Act, which will allow you to manage more efficiently and serve the public in better fashion. 
+
+Those of you in high places of government are more than administrators and experts. You hold the ideals and hopes of the nation in trust. And I want to thank you for your willingness to serve our great nation. 
+
+It is an incredible honor for me to be the leader of such a strong team, on behalf of the American people -- a team of men and women who could be doing something else, but have decided, I want to serve the greatest land on the face of the Earth. 
+
+Let's do our duty. Let's hold ourselves to the highest of standards. And we'll leave this city and this government better than we found it. 
+
+Thank you for having me. May God bless your work, and may God bless America. {APPLAUSE} 
+
+{/speech} 

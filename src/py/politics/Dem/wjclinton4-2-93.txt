@@ -1,0 +1,75 @@
+﻿{title} Remarks By The President At The New Jersey Chamber Of Commerce Dinner Honoring The New Jersey Congressional Delegation {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 4, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Good evening. Thank you. I know we're not, really, but it feels like it's nice to be back in New Jersey. {APPLAUSE} And I'm glad to have you here in the Nation's Capital. You may or may not be able to see this, but on the way in tonight, Bill Ferrity gave me a New Jersey tie, which I have proudly donned. {LAUGHTER ; APPLAUSE} They even had a mirror outside for me to be able to tie it in a straight and appropriate fashion. {LAUGHTER} 
+
+I want to tell you how very glad I am to be here tonight with the State Chamber, how much I want to welcome you to our Nation's Capital. I've just been here as President two weeks and a day, and I'm already hoping we can keep an infusion of people from the heartland coming in to keep us in touch with reality. 
+
+I'm glad to see all the members of the House here -- Senator Bradley and Senator Lautenberg are voting tonight as the United States Senate attempts to work out the family leave bill. {APPLAUSE} I do want to say a special word of appreciation to both of them in front of their constituents for not only the support they have given me, but for the genuinely good advice across a whole wide range of issues. 
+
+I have the sort of relationship with them which I really respect, and which I hope the members of Congress here will take to heart. Either one of them is liable to call me at any time of the day or night from places unknown. Always all right places, but -- {LAUGHTER} -- I mean, when they're around, you know. And I'm very, very grateful to both of them, not only for their support in the recent election, but for their involvement in the great issues of this time. 
+
+I've been working hard for the last two weeks to try to be worthy of the trust of the voters of this country who gave me a chance to become President -- {APPLAUSE} -- including the people of New Jersey who voted for a Democrat for the first time in 28 years. {APPLAUSE} 
+
+I have -- I know you haven't always been able to tell it from the news, but I spent virtually all of my time working on the economy, the jobs issue, the deficit, meeting in long periods with my staff, with people from around the country who know about these matters, with members of the United States Congress, working with people in both parties to try to end the gridlock and to reach agreement so that we can move forward. 
+
+We've had, as all of you know now, an economic upturn in the last few months, and we hope that we are coming out firmly of the longest recession we've had in a good, long while. There is much to be encouraged about in two or three areas. First of all, interest rates have been down for a good long while now, and millions of Americans have refinanced their homes, or been able to buy new homes in ways that have generated significant economic activity. 
+
+Second, and even more encouraging over the long run, there has been a big increase in the productivity of American businesses and workplaces. That is, after all, the key to our economic future. And finally, beginning in December, with a little bit in November, but a bit increase in December, in consumer confidence, which has strengthened the consumer market in our country -- something we hope will carry through for the next few months. 
+
+Still, there are clear challenges before us. With all these good numbers coming in, very few new jobs have been created in America yet in this recovery. Most big businesses that are doing better are still downsizing as a part of their productivity. That happened all during the 1980s -- when, in every year of the 1980s the Fortune 500 companies reduced employment in total by more than a quarter of a million in the United States. But throughout much of the '80s, that reduction was more than offset by the creation of jobs in the small business sector. 
+
+In the last couple of years and, regrettably, even in the last few months, small business is not taking up the slack because of the crushing burden of health care cost and because of the credit crunch, which is much more severe in some states and regions than others, but which is a very serious problem for our economy. 
+
+We also have a deficit that next year is projected to be $50 billion bigger as of December than we were told in August, and is growing exponentially even though the congressmen who are here can tell you that they made a good-faith effort in 1990 to rein the deficit in, with spending cuts and tax increases they thought would do it. It didn't happen because the taxes didn't bring in as much money as they thought. But even more importantly, because health care costs have continued unabated, rising at breathtaking rates, so that at the end of this year -- those of you who pay health insurance will know this, but we now, alone of all the advanced countries in the world are spending 14 percent of our income on health care. No other country except Canada is over nine. 
+
+That is a terrific competitive disadvantage. It is costing you a great deal of money, not only as taxpayers, for what you pay for government health care, but in the private sector. And the hemorrhage is such that about 100,000 Americans a month are now losing their health insurance; many of them finding their way on to the public rolls and leading to explosive increases in the government's health care burden. 
+
+So as we look ahead to our challenges and as I look ahead to this speech I have to give on February 17th to the Joint Session of Congress, I still believe in the fundamental themes on which I ran for President: We have to increase job growth and income growth without increasing inflation. We have to face the serious problem of our urban area and the serious problems of the underclass in ways that liberate the ability of all people to perform at high levels in this economy if we want to continue the increase in productivity. 
+
+That means that we have to shift away in the money that you give us to spend -- away from consumption, more toward investment. We have to increase investment in new technologies and education and training, in infrastructure and the things that will grow this economy. It also means that we have to provide more incentives in our tax code for investment in the private sector. And it means we have to act at long last to bring health care costs in line with inflation. 
+
+If we did that, it would do more to free up private sector dollars to invest in economic growth than any tax cut I could sign into law or any spending increase that Congress and I together can enact. 
+
+So we will begin in earnest as soon as this break is over to do those things that your national government has never had to do simultaneously before -- we will attempt to increase investment and reduce the deficit at the same time. It will require an enormous amount of discipline and a willingness to try some new things and to cut some things in ways that we have not done before. 
+
+I hope you will all wish us well, and I hope you will tell every member of your congressional delegation up here, without regard to party that you know they're going to have to cast some difficult votes in order for this country to face its problems. And if they do it in good conscience and explain to you why you did it, you will not hold it against them. That's what they were hired to do, and you'll stick with them if they can do it. {APPLAUSE} 
+
+You know, when I was Governor -- and I did that job for a dozen years and I had a good time doing it -- there were many times when I had to cut spending five or six times in a given year. And people would be a little disconcerted at first, but we never got into debt. And I was always proud of the fact that my state had such a disciplined system. 
+
+We paid a terrible price for it during the '80s when times were tough, but because we rode them out last year, we ranked first or second in job growth in virtually every month when I was off running for President -- not because of anything happened last year, but because of the foundations that were laid -- in investments, in being competitive, and in fiscal integrity, in keeping those books balanced. Those are the kind of difficult decisions we're going to have to make now. 
+
+Not so long ago, you elected a governor who had to make some of those decisions. And let me say that -- {APPLAUSE} -- again, without attempting to be too partisan, the truth is that if you live in a state, you don't get to print your own money. You can't get in the mess that your national government is in, because you can't run that long without having the brakes come on, without throwing people through the collective windshield that keeps us all in the same boat. And I have to tell you that, for all the pain that the decisions made by Governor Florio and the legislature then caused him and them, the truth is that your house is in order now, New Jersey is going to have a balanced budget without a tax increase, and you even have a rainy day fund at a time when many states are going bankrupt. {APPLAUSE} 
+
+Sooner or later, we all have to face the music. And when we do, we are normally rewarded. So New Jersey is being rewarded. Look at your credit rating. Look at the overall health of the economy. Look at the trends in the state. I hope that, together, with the Senate and the House, with the Republicans and the Democrats in this great capital of yours, we can come to grips with our problems in ways that the American people will understand and embrace; perhaps with less political fallout, but I hope at the end with the same sort of stability and success that you have achieved with Governor Florio. And I hope you're proud of it, because I am. {APPLAUSE} 
+
+Let me just mention one other thing. I happened to think of this -- and I was not -- it really hadn't occurred to me, but I think I ought to mention it. I asked Governor Florio through the Trade Ambassador, Mickey Kantor, to serve on our intergovernmental advisory committee, because there's so much relationship now between our national trade policies and the policies followed at the state and local level for growth. I think he'll do a good job on that, but I wanted to emphasize it, because a big part of our economic strength is in our capacity to export. 
+
+And while our administration has found it necessary to take some pretty tough positions on trade issues in the last two weeks, I want to emphasize to you -- I do not take those positions in the hope of provoking a trade war or raising trade barriers in this country, but only so that we can have expanded trade on fair terms for ourselves and for all nations. 
+
+We cannot grow this economy, and no wealthy nation can grow unless there is global economic growth. And I want to pledge to you that I will do my best to help all the world-class companies headquartered in New Jersey -- have an environment in which they can grow and flourish in the international economy, with a trade system that is constantly expanding, but expanding on terms that are genuinely fair not only to ourselves, but to our trading partners as well. 
+
+I ask you all without regard to your party to wish us well. And I ask you one more time to give the members of Congress here a pat on the back at the end of the dinner tonight. We're going to have a very challenging few months ahead of us. But it is an exciting time, and it is a fabulous opportunity for us to put our house in order and to deal with these problems and to move this country ahead. 
+
+We are now positioned better than we have been in more than a decade to reassert the leadership of the United States, economically and politically in the world in a way that is very positive, if we will ensure future growth, get job growth along with economic growth, and put our financial house in order. I think we can do it if all the American people, again without regard to party, agree generally on the goal. We will disagree on the details, but in the end, we will come to the people's business with a resolution. That's what you need, and, most importantly, it's what your children need. We cannot afford to permit the government to go on out of control, leaving our children with a legacy of debt and diminished living standards when we can do so much better now. 
+
+And I want to thank you for what you have done -- all of you in the private sector -- to restore America's productivity at the breathtaking rates we've seen in this last quarter. We're going to try to give you that kind of productivity in your national government. Thank you very much. {APPLAUSE} 
+
+{COMMENT="A gift is presented"} 
+
+I just want to say, if I ever heard a chamber of commerce speech in my life, it was -- it said, "This is a Parker pen, it's for your wife. It's the nicest one they make." {LAUGHTER} And then he said, "And this other one's for you." {APPLAUSE} 
+
+{COMMENT="A gift is presented"}
+
+Let me say, I wish she were here to thank her personally. But this is a gift for the White House, for the American people. And I hope a lot of you from New Jersey will see this when you come in and know that it is yours. We'll leave it there for all time from the people of New Jersey. Thank you. {APPLAUSE} 
+
+
+
+{/speech} 

@@ -1,0 +1,30 @@
+﻿{title} Remarks by President Lech Walesa of Poland in Exchange of Toasts with President Clinton {/title}
+{event} Exchange of Toasts {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 6, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} President and Walesa Toast {/description}
+
+{speech} 
+
+President and Mrs. Walesa, ladies and gentlemen, it is a tremendous honor for me and for our party of Americans, and for my family to be here with you in Poland. In this short time, we have felt already your hospitality and friendship. And we see that, just as you rebuilt this wonderful city after World War II, you are now rebuilding this magnificent country after communism.
+
+You have enshrined freedom and democracy, and after a difficult beginning, you have achieved a high rate of economic growth. These are tributes to both your people and your leaders.
+
+Mr. President, your personal struggle ever since the events in Gdansk more than a decade ago have inspired people everywhere in the world. In a very real sense, Poland is the birthplace of the new Europe. And in so many ways, you are the father of that wonderful child.
+
+You and many other of your countrymen and women have proved that individual acts of courage can change the world. And in a time when ordinary people all over the world feel helpless in the face of forces shaping and changing their lives, you have proved that ordinary working people can transform their own lives.
+
+Poland has the moral support of all the American people, but of two groups especially: first, the millions of Polish Americans who share your heritage and the love of your soil and your history; and second, the members of the American labor movement who have supported your struggle from the beginning. And I might say, we are especially glad tonight to have the leader of our labor movement, who has been your supporter from the beginning, Mr. Lane Kirkland, with us. Welcome, sir. {APPLAUSE}
+
+As you said, Mr. President, it is now for us to build on what has been done. In Poland, that means a stronger economy and greater security, and more concern for those who have been left behind. We know the path of reform is difficult, and special steps must be taken to help those who have not yet seen its benefits. Beyond Poland, it means building a truly united Europe -- a Europe united economically and in its common support for democracy and freedom and territorial integrity.
+
+These things are important to the United States for many reasons. We are on our own journey of renewal at home. But we know that in the end, our success depends upon your success. We seek to be free in a world more free. We know to be prosperous, the world must be more prosperous. We know to be secure, those who believe in the things that we believe in must also be secure.
+
+So tonight I urge the people of Poland to take pride in your achievements, and not to lose hope. The road to the future is not smooth, but you have known difficulties in the past far greater. The United States will stand with you. Our partnership will grow, and Poland will triumph.
+
+And so I raise my glass, Mr. President, in a toast to you and Mrs. Walesa, and to the people of Poland.
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

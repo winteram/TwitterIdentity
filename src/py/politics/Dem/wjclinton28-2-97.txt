@@ -1,0 +1,38 @@
+﻿{title} Remarks by the President During Tobacco Regulations Announcement {/title}
+{event} Tobacco Regulations Announcement {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 28, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Anna Santiago, for the power of your example and for that very fine introduction. I want to thank all the young people who are here, the advocates who are here, the members of Congress who are here who have championed this battle for so long. Especially, I thank the Vice President, Secretary Shalala for what they have done. And, of course, I want to have a special word of thanks to David Kessler. I think he's had a bigger impact on the lives and health and the future of the American people than any person who ever held the job of FDA Commissioner before him, and I thank him very much.
+
+Because of David Kessler, we have been able to undertake this initiative to protect our young people from tobacco. Because of your actions over the last six years, more AIDS and cancer patients are getting better drugs faster, as well; more people are getting better information on their food labels; every American can go to bed knowing that the food on their tables, the medicines in their cabinets are safe. You've left us a great legacy. All Americans should be grateful to you and we'll do our best to replace you. The Vice President and I would like to be invited to Yale from time to time to give a speech. {LAUGHTER}
+
+Let me say that the reason we're all here today is to ensure that Anna and all the young people behind me, and the young people all across America for whom they stand today, have a chance to live out their dreams. They can only do that if they choose positive and healthy lifestyles and if we give them the support they need to make those choices. That's why the number one goal of the drug strategy we announced earlier this week is to motivate our children to reject illegal drugs.
+
+Most of us have an instinctive urge to protect our young people from danger. We teach them to look both ways before crossing the street. We tell them not to touch a hot stove. We make sure they bundle up before going out in the cold. We should wrap that same protective arm around them when it comes to resisting smoking and the advertising and marketing of cigarettes.
+
+More Americans die every year from smoking-related diseases than from AIDS, car accidents, murders, suicides and fires combined. Today it's estimated that 4.5 million of our children and adolescents smoke. Another 1 million use smokeless tobacco. The problem is getting worse. Smoking rates among 8th graders have risen 50 percent in the last six years. One out of every three young people who picks up this deadly habit will have their lives shortened from the terrible diseases caused by smoking. As parents, as leaders, as citizens, all of us have a moral obligation to do what we can to protect them. That's why last August the FDA took bold action to protect our children from the dangers of tobacco.
+
+We knew it would be a tough battle, but the health and well-being of our children are worth that. We set a goal of reducing tobacco use by children and adolescents by 50 percent over seven years. To do that, we initiated the nation's first ever comprehensive effort to restrict access and limit the appeal of tobacco to children.
+
+Today is the first day that some of these rules take effect -- quite appropriately on David Kessler's last day on the federal payroll. First, we're making the law of the land what is already the law in every state: no sale of tobacco products to anyone under age 18. Second, we're now requiring age verification by photo ID for anyone under the age of 27 for the purchase of tobacco products.
+
+From now on, in every store in America, our children will be told: No ID, no sale. By requiring ID checks for people under 27, store clerks and managers will no longer have to guess the age of those seeking to by cigarettes.
+
+Studies show that minors succeed in buying cigarettes over the counter nearly 70 percent of the time. That simply must stop. With these new requirements, we'll help to keep cigarettes out of reach for our young people while giving store clerks and managers a tool they need to make sure they're not inadvertently violating the law by selling to minors.
+
+Before we came out here, Secretary Shalala asked Anna if all of her efforts and all of these efforts were having any impact in reducing the tendency of her peers to smoke. And she said, yeah, a lot of them are quitting because it's too much hassle now. {LAUGHTER} That's the idea. {LAUGHTER} That's good.
+
+Over the last three weeks, we've conducted massive education campaigns to let retailers know how they can comply with these new rules. We've even prepared this new guide, A Retailer's Guide to the New Federal Regulations -- appealing advertising, multi-color. {LAUGHTER} This has been made available to 500,000 retailers around the country. I want every retailer and every community across our nation to join with us in this important effort.
+
+Parents must continue to be the first line of defense, but all the rest of us have to make these rules work, and the retailers can play a major role. I honestly believe the overwhelming majority of them want to do so, and most of them are parents too. They have children too. We have a common interest in doing this job together. And we hope this guide will help them to achieve that goal.
+
+Cigarettes are still legal for adults. If they want to smoke, they can do so. But we have now clear as a nation drawn a line where our children are concerned. We have done it together. We are committed together. And now we must make it real together.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

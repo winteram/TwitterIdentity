@@ -1,0 +1,71 @@
+﻿{title} Speech in Philadelphia {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 28, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much, Rosemary Greco. You know, she's the sort of person that I ran for President to support -- a person who started out as a bank teller and became the president of a bank. That's the American Dream. {APPLAUSE} 
+
+I want to say how glad I am to be here, back in Philadelphia, a city that has been so good to me for so long now. {APPLAUSE} With your Mayor and Senator Wofford and with the members of the House delegation who are up here on the platform with me, and with your State Treasurer Catherine Baker Knoll -- I'm glad to be here with all of them. Give them a hand, will you? {APPLAUSE} 
+
+My fellow Americans, since I became President I have been working to break the gridlock in Washington, to prove that government could work for you again. And there have been some impressive examples of success in that regard. The Congress, after eight years of rankling with the President and two vetoes, voted to pass the Family and Medical Leave Act to guarantee working people a little time off when the baby was born or a parent was sick. {APPLAUSE} And eventually, after years of haggling, voted to pass the motor voter bill to open up the voter registration rolls to millions of Americans and bring them into the political process. {APPLAUSE} 
+
+But the real issue was whether we had the courage to come to grips with the economic problems which have paralyzed this country. After years and years of years of gridlock, after years of leaders talking about economic problems and not doing much about them, after years in which we ran our national debt from $1 trillion to $4 trillion and reduced our investment in our people, their jobs and their future at the same time, last night the House of Representatives gave the American people a victory for economic growth over gridlock. {APPLAUSE} 
+
+The plan cuts the deficit by $500 billion, cuts $1 trillion -- a quarter of a $1 trillion in government spending, asks the wealthy who can best afford to pay their fair share, invests in education and jobs, and rewards work instead of welfare. 
+
+{SPONTANEOUS-DEMONSTRATION} 
+
+Let me tell you something -- wait a minute. You know one things that's wrong with this country? Everybody gets a chance to have their fair say. My budget did more to fight AIDS than any in history, and we're having to put up with this. {APPLAUSE} Tell them to let me talk. {APPLAUSE} If you want to give a speech -- go out there and raise your own crowd. We'll be glad to listen to you. {APPLAUSE} 
+
+So there were those -- I'll make you a deal. I'll ignore them if you will. {APPLAUSE} 
+
+There were a lot of people who said we could never change the way things were in Washington -- the same sort of people who picked the Phillies to finish last this year. {APPLAUSE} By the way, I think the Phillies are looking pretty good, even that big fellow, Kruk, you know, is a big bat. I wonder who cuts his hair? {LAUGHTER ; APPLAUSE} 
+
+Let me tell you something, folks, make no mistake about it, this national capital of yours is beginning to change. After years in which our House was coming apart with higher deficits and less investment, a government by special interests instead of the national interests, middle class working harder for less -- things are really beginning to change. {APPLAUSE} 
+
+After years of a lot of hot air and no responsibility and no willingness to take the tough decisions, yesterday the House began to throw out the economic program that ran our debt to $4 trillion, ran the middle class into the ground, created a new class of poverty and robbed our country of opportunity and any sense of community. We are now moving forward with a plan that reduces the deficit, asks the wealthy who can pay their fair share, gives the middle class the chance of having a future with real economic growth, and provides profound incentives to prefer work over welfare. These are the kinds of things you elected me to do. {APPLAUSE} 
+
+And I want to say one of the most rewarding things is the people who supported the program -- I mean, after all, this is a program which asks that 75 percent of the money raised in taxes be paid for by people with incomes above $100,000. Any yet, among the strongest supporters were people who had that income who believe their country was more important than their own pocketbook. And we ought to reward that. {APPLAUSE} 
+
+We had not just labor leaders and small businesspeople and mayors of small and big cities and governors for this program. There were people who led some of the biggest -- lead some of the biggest companies in this country out there working to give our country a better chance and a brighter future -- because they know that we have to stop reducing our investment and running up our debt. We need to reverse our priorities, and now we're on the way to doing it. {APPLAUSE} 
+
+A lot of these decisions were not easy, but they had to be made. I tried to set a good example. I reduced my own staff. We've had a reduction in this budget in the federal work force by attrition, not by laying people off -- but we're going to reduce the federal government by 150,000 over the next four years. That's a lot. That's a lot of government spending cuts. {APPLAUSE} We cut more than 200 specific programs. We cut $2 in spending for every $1 in new investments and education and jobs and technology. 
+
+There were things that had never been really seriously dealt with before -- the budget's sacred cows; everything from agricultural subsidies to the REA to other problems that affect the cities. Demonstration projects that had never been seriously reviewed; cuts in the Medicare program that couldn't be justified. And the federal employees perhaps took the biggest hit of all, foregoing a pay raise and having a budget that lowers their raises below the cost of living for four years, because most of them agreed that they couldn't ask any of you to pay more -- even the wealthiest Americans -- unless they took less. That's the kind of spirit it's going to take to turn this country around and move the country forward. {APPLAUSE} 
+
+I'll tell you something else. Every dollar in taxes and all the budget cuts have to go into a deficit reduction trust fund. There will be no taxes without the budget cuts and all the money will go to bringing the debt down. And we will have some left over to do things that need to be done. Here in Philadelphia, you know, because of defense cuts, we need to invest some money to help move our country from a defense to a domestic economy. New technologies for new jobs and new opportunities in the future. {APPLAUSE} 
+
+Because this debt turned out to be bigger even than we knew before the election, I did ask the Congress to adopt an energy tax, some of which will be paid by middle-class Americans. But I want you to know exactly how it works and you've got to decide whether you think it's worth it. 
+
+First of all, we have income tax reductions to protect family incomes below $30,000 from the impact of the energy tax. For people above $30,000 up to $100,000, here's what it costs: $1 a month next year; $7 a month the year after; and if you've got a family of four, $17 a month after that. But consider this: Look how much interest rates have gone down. If we keep interest rates down and people can refinance their homes, get car loans at lower rates, get consumer loans at lower rates, get lower business loans from good bankers like Rosemary, you will save more in interest rates than you'll ever pay in the energy tax, and you'll have a healthier economy and a lower deficit. {APPLAUSE} 
+
+Just for example: If someone had $100,000 home mortgage that was financed at 10 percent and they refinanced it at 7.5 percent, they'd save $175 a month -- a month, not a year. This is going to be good economics. If we can keep interest rates down by bringing the debt down, that will release another $100 billion into this economy this year to put the American people back to work. {APPLAUSE} 
+
+Yesterday was a historic day, but it was just the beginning. Now the bill goes onto the Senate. And we must work to pass the bill that meets these principles: The wealthy must pay their fair share. We have to reduce the deficit by $500 billion. We have to keep the incentives for people to invest in our jobs and in our cities. And we've got to give people incentives to move from welfare to work, not the other way around. That's the kind of bill that needs to come to my desk. {APPLAUSE} 
+
+There are 80,000 lobbyists in Washington. Many of them don't want Washington to change. Think of that. Maybe some of you all are in the wrong line of work -- 80,000. Special interests that work in the Senate who have now proposed that we cut Social Security and put more of a burden on the middle class in order to relieve the burden on the wealthiest Americans, when many of them are leading the crusade for change. I think we can do better. I think we can do better. And we're going to do better in the United States Senate with your help. {APPLAUSE} 
+
+The process of changing is not easy, not even and not quick. But we are moving in the right direction. The budget is on the way to being realized. There is a program now in the United States Congress with broad bipartisan support to fulfill the commitment I made to you to open the doors of college education to all Americans and give our young people a chance to pay off their college through national service through their communities here at home. {APPLAUSE} 
+
+Very soon the national commission on health care, which my wife has chaired will present their plan to provide affordable health care to all Americans and bring down the cost of health care that threatens our economic stability. {APPLAUSE} How many millions of Americans not only lack health insurance, but have it and are terrified of losing it because somebody in their family has been sick and they think they'll never be able to change jobs. We can do better, and we will with your support. {APPLAUSE} 
+
+Finally, there are bills in the Congress which will help to change the very way your national government works. a bill that will require every lobbyist to register and to say how much money they spend lobbying all the rest of us and report it to you -- I think that would be a good thing -- already passed the Senate; can pass the House. {APPLAUSE} 
+
+And Mayor Rendell was talking about the campaign finance reform bill, which at long last will lower the cost of congressional campaigns, limit the influence of political action committees, and open the airwaves to candidates so they can have an honest debate. That bill is in the Congress and we ought to pass it this year. {APPLAUSE} 
+
+When I was running for President, I was profoundly influenced by the series in the Philadelphia Inquirer by Donald Bartlett and James Steele. The stories they made into a book called "America, What Went Wrong?" They said that after 50 years, the middle class and small business had been helped for 50 years, but things began to change about a dozen years ago. About a dozen years ago, the national government adopted tax policies and economic policies that rewarded those who shut jobs down in America and sent them somewhere else; rewarded those who laid their workers off and bailed out with golden parachutes to better lives. We stopped rewarding responsibility and work and rigged the game of economic life against the broad American middle class. They were right, but we're fighting to change that. 
+
+And Americans from all walks of life are helping. I will say again, to me the most moving thing of all has been how many genuinely successful Americans, people this country has been good to, people who have made a lot of money, have come forward and said, go ahead and raise my taxes if it will bring the deficit down and put the American people back to work and get this country going again. That's the kind of statesmanship we need everywhere in this country. {APPLAUSE} 
+
+Yesterday we began the process of saying no to gridlock, no to special interests, no to the spiraling deficit, no to increased unemployment, no to the conditions which lead so many of you to work harder for lower wages every year. We said yes to a brighter future to America. Yes to lower deficits. Yes to more jobs. Yes to higher incomes. Yes to a future in which we have a real chance to compete and win. 
+
+Things are going in the right direction. Stay with us, fight with us, help to lift this country up, and believe in its future. And we can do it. 
+
+Thank you, and God bless you all. {APPLAUSE}
+
+{/speech} 

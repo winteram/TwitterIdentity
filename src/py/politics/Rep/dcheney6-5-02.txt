@@ -1,0 +1,86 @@
+﻿{title} The Vice President Delivers Remarks to The Council of The Americas Conference {/title}
+{event} The Loy Henderson Room, The Department of State, Washington, D.C {/event}
+{speaker} Dick Cheney {/speaker}
+{date} May 6, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{APPLAUSE} Thank you very much. I appreciate the warm welcome. I damaged an Achilles tendon -- I always have to explain that -- {LAUGHTER} -- so that's why I'm on the cane today. But it's improving; I'm better off than I was. So -- and I'm still trying to recover from what the president did to me at the White House Correspondents Dinner the other night. {LAUGHTER} But it's nice to come to an event where you can be treated with a certain amount of respect instead of the target of everybody's humor. {LAUGHTER}
+
+So -- but I'm delighted to be here today, and especially to bring you greetings from the president. And we have many friends, obviously, with respect to the council. And I know President Ford's been active in the organization over the years. But I especially want to express my appreciation being here today with David Rockefeller. I've known David for many years. And as a founding member of the council, he's rendered yeoman duty to the nation. The family has a long history of strengthening the bonds of friendship throughout the Western Hemisphere. And, of course, my predecessor, Nelson Rockefeller, served as assistant secretary of State for Latin America in this department back in the 1940s. In organizing the council in 1965, David and his colleagues were among the first to grasp the enormous consequences and possibilities for the economic and political progress throughout the Americas. In the 37 years since then, many of those possibilities have been realized. In 1965, Latin America had very few free-market economies and only a handful of democracies.
+
+Today 34 of the 35 nations in the hemisphere have elected leaders. Just one dictator remains, and the world long ago lost all interest in his five-year plans and four-hour speeches.
+
+Progress in the Americas has often come slowly and at times painfully, yet in two generations' time, the direction of history has changed fundamentally and for the better. Where dictatorships failed throughout Latin America, the institutions of freedom are succeeding. Where state-directed economies once improved life only for elite classes, free markets are bringing new hope and rising incomes to millions.
+
+Our administration's central goal for the Americas is to continue the momentum of progress, to build a hemisphere that lives in liberty, trades in freedom and grows in prosperity.
+
+The future of our nation is closely tied to the success and the security of our closest neighbors. Their problems, from the drug trade to poverty, create problems for America, and their prosperity contributes to our own as well.
+
+This hemisphere is the neighborhood we live in, and as the president has said, the best foreign policy begins with making sure your own neighborhood is free and democratic and peaceful. That policy rests upon close, cooperative, respectful relations among our countries. President Bush has made this a priority. After our inauguration, his first trip abroad was to Mexico. As you know, he and President Fox have worked closely together since both were governors, and over the past 15 months they've made the bilateral relationship between the United States and Mexico as close as it's ever been.
+
+President Bush has also met with leaders from every democracy in the hemisphere, including more than two dozen White House meetings. He was in Latin America just a few weeks ago, becoming the first sitting president ever to visit Peru.
+
+Relationships we are building in the Americas arise from common values and common interests. These will only grow in importance, and they set an agenda for the decades ahead.
+
+Throughout the hemisphere, our values and interests come together in democratic government. The spread of democracy is no longer just an inspiration; it is the commitment of every member of the Organization of American States under the Democratic Charter signed in Lima last September.
+
+There we declared, and I quote, "The peoples of the Americas have a right to democracy, and their governments have an obligation to promote and defend it." This has very clear meaning for the United States and for all countries in the hemisphere. And we've stated it many times without equivocation. In Venezuela and everywhere else, we are pledged to support only those changes in government that come about by democratic, constitutional and peaceful means. Regimes that come to power by violence or rule by force or survive by corruption do grave harm to their own people. And such regimes have no place in the free and democratic future of the Americas.
+
+That future also depends on the right of every person to work, to produce, to own property and enjoy the fruits of their own efforts. We must continue to encourage and reward reforms that advance economic opportunity through fiscal discipline, free markets, low taxes, private enterprise and open trade. Some nations are well along on this path. Even considering flat growth list year, the Mexican economy has grown dramatically since its financial crisis in the mid- '90s. El Salvador has made a dramatic transition from a country devastated by years of civil war to a model of free-market reform. Economic growth in Chile has enabled that country to cut its poverty rate by half, to expand literacy and to reduce child mortality.
+
+These nations know the difficulties of reform, and they are also learning the opportunities. Wherever serious reform is pursued, there will always be the temptation to fall back on protectionism or populism or the hollow promise of statism.
+
+Yet these are the very causes of so much stagnation and human mystery -- human misery throughout the history of the Americas. Market-based reforms that generate vigorous, private-sector growth are critical to the creation of jobs and the eradication of poverty. This is not always the easy path, but it is the right path, and governments that see it through are transforming the lives of their people.
+
+We are all watching the situation in Argentina. And for its part, the United States stands ready to help. What is crucial there is to avoid the short-term responses that will only bring worse trouble. Our administration has pledged to help Argentina through the international financial institutions in carrying out a sustainable, economic plan. Argentina is America's friend and ally, and we can help return that nation to a position of strength and stability.
+
+For all countries that receive our aid, the United States has the same objective of helping to build wealth and security for their people. We are assisting the Andean nations in their fight against narcotics and terrorism. Those countries that -- many others also receive our support for judicial reforms, developmental projects and agricultural programs. America will continue to be the most generous provider of aid, especially for the poorest nations of the world.
+
+Through the new Millennium Challenge Account, America will increase aid over the next three years, rising up to $5 billion in fiscal year '06, which is a 50 percent increase over current programs. But experience with foreign aid has shown that we must set standards so that the resources we provide are actually helping people. The Millennium Challenge Account will reward nations that are working towards good governance, expanding economic freedom, and investing in the health and the education of their people. We can share our wealth with developing nations -- that's our duty. But now we must take the next step by sharing with them the sources of that wealth: free enterprise, political liberty, the rule of law, and human rights.
+
+Our administration will work for open trade at every opportunity. All the nations of this hemisphere stand to gain a great deal from wider trade, particularly the less-developed countries. For them the stakes are even higher. Short-term grants and aid can only go so far and will always be small in comparison to the benefits of trade. In the long term, trade and investment can bring their people first real hope for material uplift, all the more when economic reform is joined with political freedom.
+
+The model to follow, we believe, is NAFTA, which has fueled one of the most successful, dynamic trading relationships in the world. In the first seven years of the agreement, total trade among Canada, Mexico and the United States has more than doubled. In the 1990s, exports have counted for one-quarter of total economic growth in the U.S. Our trade with Mexico now stands at $700 million every day, creating opportunities for sellers, buyers and workers on both sides of the border.
+
+The United States strongly supports a new round of global trade negotiations. In this hemisphere, our trade agenda is moving forward on several tracks. Negotiations with Chile have brought us to the threshold of a bilateral trade agreement, which we hope to complete soon and present to the Congress. We are working, as well, to renew and expand the Andean Trade Preference Act, this legislation enacted 11 years ago to provide solid economic alternatives to the production of illegal drugs. It's done so by giving Peru, Ecuador Colombia and Bolivia far greater access to American markets and generating many thousands of jobs in those countries.
+
+The House of Representatives voted five months ago to renew the Andean Trade Preference Act. We're still awaiting action in the Senate, and the matter is now becoming urgent. If the ATPA is not renewed prior to May 16th -- that's just 10 days now -- 90 days' worth of import duties will also come due, hitting both American consumers and the region's economic development.
+
+We again ask the Senate to complete work on this vital matter as soon as possible.
+
+The president's also announced an effort to pursue a free-trade agreement with the nations of Central America. Success here will further strengthen our economic ties with those countries and reinforce the economic and political progress they've made over the last decade.
+
+Free trade with Central America will also move us toward an even broader aim: a Free Trade Area of the Americas up and running by January of 2005. The president's strongly committed to this goal, and all of our trade efforts are pointed in this direction. The free- trade zone we seek would facilitate commerce among nations with a combined GDP exceeding $10 trillion and lift the lives of more than 800 million people.
+
+Later this year the United States and Brazil will assume co- chairmanship of trade negotiations at the hemispheric level. We look forward to the partnership, to the important work ahead and to the great opportunities in store for all the democracies of the region. Our trade agenda, however, depends on trade promotion authority -- on the ability of the president to negotiate a trade agreement on behalf of the United States and to submit it to the Congress for an up or down vote. Over the years, five presidents of both parties have had trade promotion authority, and the resulting trade agreements have improved living standards for us and for our trading partners. Yet trade promotion authority was allowed to lapse nearly a decade ago.
+
+And it's fair to say our country has missed a great many opportunities since that happened. Out of more than 150 regional free-trade and customs agreements in the world today, the European Union is party to more than 30, including the recently sealed agreement with Chile. Mexico is party to 10 agreements, and the United States, the largest economic in the world, is party to only three. Here again, the House of Representatives voted its approval some months ago. It's time now for the Senate to act. The earlier the Senate passes trade promotion authority, the faster the president can put it to work for the good of America and all the democracies in the hemisphere.
+
+As we keep our sights on these great goals -- on free governments, free economies and free trade, we must deal also with the threats to our security in every form they take. One of the most persistent threats, of course, comes from the trade in illegal drugs and all of the corruption and the violence that goes with it.
+
+The United States remains committed to fighting the drug trade, and we understand that it's a two-way proposition. We must reduce the demand for illegal drugs here at home while helping our friends halt production and oppose narco-terrorism in their own countries. Only the most uncompromising law enforcement here and throughout the hemisphere can defeat this industry of addiction and death.
+
+All the cocaine that reaches the United States is from Bolivia, Peru and Colombia. Three-quarters of the heroin that comes here is produced in Colombia and Mexico. We will continue working with our friends in the region to break drug rings, to destroy illegal crops and to support alternative crop programs.
+
+In Colombia, which has faced particularly fierce and powerful drug traffickers, President Pastrana has shown great determination and courage in defending his people, and we want to help in every way we can.
+
+Close cooperation among nations is also proving critical in our global war against terror, from joint military operations to law enforcement to intelligence gathering and sharing. We're on the watch for terrorist activity in Latin America, particularly in the tri- border region of Argentina, Brazil and Paraguay. Argentina in the 1990s suffered two bombings directly linked to Hezbollah and Hamas. Terror groups are now trying to expand and enlist other groups in the region. In throwing back this menace, the nations of Latin America have an unwavering ally in the United States. Terror groups attempting to gain a foothold in the hemisphere will be found, resisted and defeated.ong the many who suffered in the aftermath of September 11th were people whose livelihoods depend on commerce across borders. In the weeks after the attack, the United States closed our borders almost entirely. Commerce all but stopped.
+
+This was a temporary necessity, but now, with Canada and Mexico as partners, we are applying new methods to keep our common borders more secure. We are sharing information and applying new technology to the inspection of cargos. Entire trucks and shipping containers will be inspected by X-ray in the fraction of time that it was required to do hand searches. In the future, transponders attached to every shipment will allow us to track them, to make sure they are sealed, on time and on course. We will work together in every way possible to prevent the shipment of cargo from becoming a channel for drugs or tools for terror.
+
+The nations that border the United States are also among the best friends we have, and in this time of real danger, President Bush's response has been decisive and measured.
+
+The borders of the United States must always be open to people who come here legally and with good and honest intentions.
+
+They must also be shut and barred tight to criminals and drug dealers and terrorists.
+
+The United States will not allow progress to be undone or friends to be shut out as we pursue the security of our homeland. In the struggle we've entered against terrorism, we will hold to the vision that we all shared before this war. The hopes of hundreds of millions of people across these continents and across generations depend upon our success.
+
+The nations of this hemisphere have the power and, therefore, the duty to make the coming years an era of steady progress, peaceful change and rising prosperity throughout the Americas. The Council of the Americas has been crucial to bringing us to this moment, and I know that we can count on your wisdom and your commitment in completing the great work that lies ahead.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

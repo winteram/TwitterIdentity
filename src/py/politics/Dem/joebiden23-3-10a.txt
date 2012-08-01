@@ -1,0 +1,26 @@
+﻿{title} Remarks by the President and Vice President on Health Insurance Reform at the Department of the Interior {/title}
+{event} ----- {/event}
+{speaker} Joe Biden {/speaker}
+{date} March 23, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. {APPLAUSE}
+
+{AUDIENCE} Yes, we can! Yes, we can! Yes, we can! {/AUDIENCE} 
+
+Yes, he did. {APPLAUSE} Thank you all for being here, ladies and gentlemen. Please be seated.
+
+Ladies and gentlemen, to state the obvious, this is truly a historic day. But as all of you know, history is not merely what's printed in our textbooks. It doesn't begin or end with a stroke of a pen. History is made. History is made when men and women decide that there's a greater risk in accepting the situation we cannot bear than in steeling our spines and embracing the promise of change. History is made when a leader's passion is matched with his principle in service of his country.
+
+Mr. President, your passion to make the lives of ordinary Americans better has been on display. And the principles that guided your public service, beginning when you were a community organizer, have led this nation to this moment. Mr. President, 30 minutes ago, by the stroke of your pen, you began the process of making life better for tens of millions of Americans today and for evermore. {APPLAUSE}
+
+For much too long, for much too long, Americans have been denied what every human being is entitled to -- decent, affordable health care. Starting with Teddy Roosevelt straight through to you, Mr. President, everyone else tried. They were great men, they gave it their best, but they came up short. But you succeeded, Mr. President, and we owe you for that. {APPLAUSE}
+
+As I said just before the President signed the health care bill, I quoted Virgil, the classic Greek poet, who once said, “The greatest wealth is health.” The greatest wealth is health. Mr. President, you've made us a nobler and wealthier nation by providing for the health of your fellow citizens.
+
+Ladies and gentlemen, the President of the United States of America, Barack Obama. {APPLAUSE} 
+
+{/speech}

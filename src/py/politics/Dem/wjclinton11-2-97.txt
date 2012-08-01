@@ -1,0 +1,26 @@
+﻿{title} Remarks by the President at the Thomas Jefferson Movie Screening {/title}
+{event} Thomas Jefferson Movie Screening {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 11, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. First of all, I know I speak for all us when I thank Ken Burns and all of those who made this magnificent film possible. Thank you especially, Jack Smith, for your work in making it possible and sponsoring it.
+
+If you think about what Ken Burns has given to America with the Civil War, the West, Baseball, and Thomas Jefferson, I think Mr. Jefferson would be very proud of you, Mr. Burns. And I know we all are and we thank you so much. {APPLAUSE}
+
+I think every American President has been inspired by Jefferson's ideals, affected by his decisions, fascinated by his character. Two of my most prized personal possessions are an original printing of the notes on Virginia and a printing of Daniel Webster's marvelous eulogy to John Adams and Thomas Jefferson delivered in Faneuil Hall in August of 1826. And from time to time when I feel some sense of despair, just for the heck of it, I take them down and open the pages and start reading.
+
+I always thought that the fact that both of them died on the 50th anniversary of the Declaration of Independence was the best evidence the modern world has on the question of whether God is. It is impossible to believe this happened by accident.
+
+And so, I ask all of you to leave here tonight with a sense of gratitude to Thomas Jefferson but also with the firm conviction that the thing he was most right about was in leaving us a system that would always be in the act of becoming, that his unshakable belief that the future could be better than the present extended even to himself and to his contemporaries -- to their failures and to their successes.
+
+And that is what we must always believe. You make a better present if you think about the future being brighter and if you really believe in the potential of every single human spirit. Thomas Jefferson did and so should we.
+
+I hope you'll now join us in the State Dining Room and you'll all be able to talk about what you liked most about the movie. But let me say again, we're gratified to have you all here. Hillary and I have looked forward to this evening for a long time and we are especially grateful for all of you who had any part in this magnificent gift to the people of the United States.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

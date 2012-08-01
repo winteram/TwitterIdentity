@@ -1,0 +1,24 @@
+﻿{title} Remarks by the President Upon Arrival, Tyndall Air Force Base, Florida {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} March 12, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Well, thank you all very much. General Ryan, thank you for your hospitality. I want to thank your base commander. I want to thank the command sergeant who greeted me at the stairs of the Air Force plane that flew me here. {APPLAUSE} The good news is, those pilots know what they're doing. 
+President Bush shakes hands with troops at Tyndall Air Force Base in Florida. 
+
+It is such an honor to be the Commander-in-Chief of the greatest nation on the face of the earth. {APPLAUSE} I'm proud of the men and women who wear our uniform. My job is to set a clear mission for the United States military. The mission of the military would be to be well prepared, to fight and win war, and therefore prevent war from happening in the first place. {APPLAUSE} 
+
+Today I'm going to speak to a Rotary Club and Chamber of Commerce event that will detail parts of my budget that I submitted to the Congress. One part of my budget that I submitted to the Congress will be to make sure we house our military folks better. {APPLAUSE} 
+
+One part of the budget I submitted to Congress is a pay raise for those who wear the uniform. {APPLAUSE} I believe by focusing our mission, we can improve morale. But I know by paying folks more we can improve morale, as well. {APPLAUSE} 
+
+I look forward to shaking your hands and looking you in the eye and thanking you for serving America. For those of you who I don't get to look in the eye and say, thanks for serving America: thanks for serving America. {APPLAUSE} We're counting on you. Our nation relies upon you to keep the peace, and we will do so. 
+
+God bless you all, and God bless America. {APPLAUSE} 
+
+{/speech} 

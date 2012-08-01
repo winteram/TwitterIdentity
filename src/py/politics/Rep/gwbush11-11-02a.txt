@@ -1,0 +1,43 @@
+﻿{title} Remarks by the President to Commemorate Veterans Day at Arlington National Cemetery {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} November 11, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Thank you for that warm welcome. Mr. Secretary, thank you for your leadership. Members of my Cabinet who are here, distinguished members of Congress, members of the United States military, Joe Burns, veterans organizations which are represented here, our veterans, my fellow Americans, thank you for coming. 
+
+We gather this morning to show our gratitude to the veterans of the United States Armed Forces. Here and across the nation, Americans are marking this day with expressions of respect for all who have warn the uniform of our country. 
+
+This is a day of honor. Yet every day in this National Cemetery, family members visit the graves of loved ones, and veterans come to honor their lost friends. And nearly every day, in solemn ceremony, another veteran is laid to rest at Arlington. This is a place of national mourning and national memory. We remember those who served America by fighting and dying on the field of battle. And we remember those veterans who lived on for many decades to serve America in many ways. 
+
+Not every marker in this cemetery bears a name. Near us are the graves of Americans from three wars, men known only to God, but honored by their country and by the guards who stand watch. If you're a veteran, you also stand watch over the memory of great events and of brave young Americans. You're witnesses to what was gained in our wars and what was lost. You carry the fine traditions and values of our military, and you share them by example. You have a special place in the life of America, and America is proud of you. 
+
+One veteran, a company commander in the Normandy invasion, returned many decades later to the cemetery overlooking Omaha Beach. He said, "Standing there in appreciation and sadness and long-postponed grief, I could only wonder, why not me?" Millions of veterans have asked themselves that same question, and it has helped to shape the course of their lives. 
+
+Veterans do not take life for granted. They know that duty and sacrifice are more than words. And they love America deeply, because they know the cost of freedom, and they know the names and faces of men and women who paid for it. 
+
+The term "veteran" conveys more than a rank held in the past. Military service forms priorities and commitments that last for a lifetime. Every person who has put on the uniform, whether in time of war or in time of peace, has also felt a new sense of responsibility. 
+
+Dwight Eisenhower once recalled the day he began his military career. "The feeling came over me," he said, "that the expression 'the United States of America' would now and henceforth mean something different than it had ever before. From here on, it would be the nation I would be serving, not myself." 
+
+Long after their honorable discharge, our veterans still symbolize what it means to be a citizen. Go to any community in this country and you will find veterans in positions of service and leadership. In so many ways, veterans live out the meaning of patriotism and idealism and concern for others. Those of us who are the children and grandchildren of veterans have seen those qualities up close -- each of us is better because of the influence of a veteran. And so is America. {APPLAUSE} 
+
+America must, and will, keep its word to those men and women who have given us so much. Veterans have been promised good health care when they are sick and disabled; they must be treated with fairness and respect. {APPLAUSE} And to families across this land with loved ones whose fate is still undetermined, America owes the fullest possible accounting of our prisoners of war and those missing in action. {APPLAUSE} 
+
+Every veteran once stood ready to give all for our country, and they know that a true soldier never welcomes war. This nation loves peace. We work and sacrifice for peace. Yet America must always be prepared to confront and defeat the enemies of human freedom. {APPLAUSE} And when war is forced upon us, we will see it through to victory. {APPLAUSE} 
+
+At this hour, members of our military are serving on the scattered battlefields of a new kind of war. In Afghanistan and beyond, they're on the trail of killers who brought death to the innocent and war to our country. That mission will go on until the terrorists who struck America are fully and finally defeated. {APPLAUSE} 
+
+This new kind of war also requires us to confront outlaw regimes that seek and possess the tools of mass murder. We will not permit a dictator who has used weapons of mass destruction to threaten America with chemical, biological, or nuclear weapons. This great nation -- {APPLAUSE} -- this great nation will not live at the mercy of any foreign plot or power. The dictator of Iraq will fully disarm, or the United States will lead a coalition and disarm him. {APPLAUSE} 
+
+Over the generations, Americans in uniform have defended this nation without seeking to dominate any nation. American troops do not come as conquerors, but as liberators. {APPLAUSE} We believe in self-government for every land; and we believe that freedom is the hope of people of all cultures. {APPLAUSE} 
+
+By standing for freedom today our military follows in a great tradition of courage and faithful service. Free nations are in debt to the long, distinguished line of American veterans, and all Americans owe our veterans our liberty. 
+
+On this Veterans Day, we honor veterans and we honor their families, and we offer the thanks of a grateful nation. May God bless our veterans, and may God continue to bless the United States of America. {APPLAUSE} 
+
+{/speech} 

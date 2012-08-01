@@ -1,0 +1,32 @@
+﻿{title} Remarks by the President Honoring the 2009 BCS National Champion Alabama Crimson Tide {/title}
+{event} Honoring the 2009 BCS National Champion Alabama Crimson Tide {/event}
+{speaker} Barack Obama {/speaker}
+{date} March 8, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody! {APPLAUSE} Please, have a seat, have a seat. Have a seat, Crimson Tide. Go Tide. {LAUGHTER} Well, welcome to the White House, and congratulations on your 13th -- let me check that -- 13th National Championship –- the first in 17 years. I think it's safe to say that the Tide is back.
+
+I've got to tell you, everyone was really excited about this team coming today -– except for my Press Secretary, Robert Gibbs -- {LAUGHTER} -- because he was born and raised in Auburn. He's hiding in his office right now. {LAUGHTER} But we do have some Tide fans here that are worth a little bit of acknowledgment.
+
+I want to start by thanking Robert Witt, the president of the University of Alabama. I also want to acknowledge the mayor of Tuscaloosa, Walter Maddox. You can give them a round of applause. {APPLAUSE} I want to recognize Senator Shelby and Senator Sessions, who are here. Stand up, please. {APPLAUSE} And our terrific Surgeon General who's an Alabama native, Regina Benjamin is in the house. Where's Regina? There she is over there. {APPLAUSE}
+
+And to all those who make this program what it is -– the students and the trainers and the staff and the ticket takers, fans in Tuscaloosa and all across the country, you should all be very proud, and I want to congratulate you.
+
+Obviously I want to congratulate Coach Saban and thank him and his wife Terry for being with us today. There's no question that this team is here in large part because of what Coach Saban has done. There aren't too many coaches in the country who have the knowledge, the motivational skills, the program discipline to win two national championships in six years –- let alone at two different schools. And I think it's a testimony to his incredible skills as a coach. {APPLAUSE}
+
+I've got to congratulate Mark Ingram for becoming the first Heisman Trophy winner in Alabama history. {APPLAUSE} Mark rushed for over 1,500 yards last season -- the most ever by a Crimson Tide running back. And I know his selflessness and dedication has made his team and his family very, very proud.
+
+I also want to recognize your captains -– Rolando McClain, Mike Johnson, and Javier Arenas –- and all the upperclassmen for their leadership on this team. Congratulations to all of you. {APPLAUSE} I especially want to congratulate Rolando for winning the Butkus Award as the nation's top linebacker. And I know that part of Rolando's talent comes from his intelligence and his judgment. In fact one of his teammates was asked to describe him -- he said, "Just picture Coach Saban being huge and being able to play football." {LAUGHTER}
+
+Now, one of the trademarks of this team has always been its unwavering focus on what's important. And I know shortly after the 2008 season ended, Coach hung a picture of the Florida Gators winning the national championship in the locker room -- not too subtle what he was saying. He asked his players if they wanted to work hard enough to beat their teammates in a drill, or if they wanted to work hard enough to be the best team in the country. And it's pretty clear what choice they made.
+
+That's the kind of tone this team sets, both on and off the field. It's why these young men -- and this is something I'm very proud of -- had the second highest graduation rate of any team ranked in the top 25. It shows that these guys have their priorities straight. {APPLAUSE} Together, they contributed more than 3,500 hours of community service that Alabama students -- student athletes performed last year.
+
+And that spirit continued earlier today, when the team met with a group of kids from one of D.C.'s roughest neighborhoods, and helped teach them about the importance of staying in school and making healthy choices. That's how champions act -– in football and in life. As Coach Bryant once said, "I think the most important thing of all for any team is a winning attitude." I think this team would make him proud, because they've got that winning attitude.
+
+So congratulations to all of you. The best of luck next season. I know spring practice starts on Friday -- woo, man. {LAUGHTER} Next Friday, huh? So enjoy these last few days off. And congratulations to all of you for just an extraordinary season. Roll Tide. {APPLAUSE} 
+
+{/speech}

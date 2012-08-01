@@ -1,0 +1,57 @@
+﻿{title} President Bush Speaks on Parental Empowerment in Education {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} April 12, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Please, be seated. 
+
+Well, Reverend Flake, thank you very much. It's an honor to be with you again. This city really misses Floyd Flake. But Jamaica, Queens is better off for him being there. {LAUGHTER} He's a visionary. He understands a different kind of power than politics. And the community in which he is associated is better off and I'm honored he's here and I want to thank all the leaders who are here, as well. And I want to thank you all for coming. 
+
+I really appreciate the contributions toward educational excellence that the folks on this stage are making and that you all are making all across the country. It's an honor to have you at the White House. 
+
+I believe this -- and I know we share the same principle -- that no child, whatever their parents' income or whatever their background, should be condemned to a failing school. {APPLAUSE} Our public schools have put generations of the disadvantaged and generations of immigrants on the path to a better life. They are essential institutions. But too many are in trouble. 
+
+Just a week ago we learned that less than a third of the nation's 4th grade students are proficient at reading. And there is a growing gap between the highest achieving readers and those who scored the lowest on the test. Students who score in the top 10 percent of the NAEP, the National Assessment of Educational Progress exams, scored slightly higher than in 1992; while those in the bottom 10 percent scored lower. 
+
+This is a serious problem that requires serious focus and a serious effort of change. We have spent $125 billion of Title I money over 25 years -- money spent on low income students. And if the truth be told, we have little to show for it. This is not just wasted money; more importantly, it is wasted potential and wasted hope. 
+
+America's schools are increasingly separate and unequal. And that is unacceptable in our great land. {APPLAUSE} We must do more than tinker around the edges. We must all come together and fight for real reform and real change. Effective education reform requires both pressure from above and competition from below. {APPLAUSE} 
+
+We must challenge schools with higher standards and arm parents with better options. {APPLAUSE} I'm asking that every state have a real accountability system, meaning that they test every child, every year, in grades three through eight, on the basics of reading and math. 
+
+Without yearly testing, we don't know -- we don't know who's falling behind, and who needs help. Without yearly testing, too often, we don't find failure until it is too late to fix. One of the greatest benefits of testing is the information it gives to parents. Given that information, more parents will be involved, becoming participants, not spectators in the education of their children. Armed with that information, parents will have leverage to force reform. 
+
+Yes, we also need to empower parents by giving them more options and more influence. {APPLAUSE} And my administration, with the help of a lot of folks -- some of them Republicans, a lot of them Democrats -- {LAUGHTER} -- are pushing toward that goal. {APPLAUSE} Are pushing toward that goal. I don't view this as a partisan issue. I view this as incredibly important public policy, that rises above politics. {APPLAUSE} 
+
+People on the Hill who will decide the shape of the federal legislation must understand that supporting parents and giving them options is not a partisan issue. It's a people issue. {APPLAUSE} And here's some ideas that I hope the Congress listens to. First, I'm an enthusiastic supporter of charter schools. {APPLAUSE} Charter schools are beginning to change our understanding of public education, no question about it. These schools are public, because they're publicly funded, and publicly accountable for results. The vision of parents and teachers and principals determines the rest. 
+
+And the competition charter schools oftentimes provide can serve as an agent to strengthen other schools. You see, you hear a lot of talk about, well, we can't have charter schools or choice because some school is going to be left behind. That's got it backwards. {LAUGHTER} Excellence in neighborhoods means excellence in another neighborhood. It means raising the bar. {APPLAUSE} 
+
+Ours is an administration that wants the Congress to provide funding to assist charter schools with start-up costs, facility costs, and other -- {APPLAUSE} -- and other needs associated with high quality schools. My budget offers $150 million in additional funding next year, for the priority of encouraging the growth of charter schools all around the country. 
+
+Secondly, the education proposal I submitted to Congress gives alternatives for students trapped in persistently dangerous schools. States must report to parents whether or not the schools are safe. And if safety does not improve, students must get the option of attending another public school. {APPLAUSE} 
+
+Third, Congress is considering legislation that would allow Title I funding to follow children after a failing school has failed to improve after a reasonable period of time. If a child -- if a school receives Title I funding and progress is not being made -- in other words, the school refuses to change, the school child is trapped in failure -- then the money, the federal money attributable to that child should follow the child. And the parent should be able to make a choice of any kind of school that he or she wants to send her child to. {APPLAUSE} 
+
+I vigorously campaigned on this idea, because I think it is right. And it's an idea that I remain strongly committed to. I don't believe the federal government should fund persistent failure. I think there's a role for federal government in funding education. But we need to do better than we've done in the past. We need to encourage accountability. And when we find success, we need to thank the teachers and principals. {APPLAUSE} When we find failure, we must give parents different options; different options. {APPLAUSE} 
+
+We've also submitted a plan to increase education savings accounts, to expand them from $500 to $5,000 a year. And parents will be able to use these funds for any educated-related expense, from kindergarten to college and beyond. {APPLAUSE} 
+
+The goal of these reforms is to ensure that every child in every school receives a quality education. That's the goal. And it's time we moved beyond the old arguments and old divides, to make sure that we fulfill our duty that no child in America is left behind. It is time to set aside the old partisan bickering and finger-pointing and name-calling that comes from freeing parents to make different choices for their children. We can do better in America, we can do better. {APPLAUSE} 
+
+I realize that all the differences between parties and people on different sides of the choice issue will not dissolve overnight. I understand that, and so do you. But that doesn't mean we shouldn't continue to fight for good ideas and herald a philosophy that is eminently fair and hopeful and optimistic for every single child, regardless of their neighborhood or their income status. 
+
+That's what this is all about. It's really about the promise of America, what America should be about. And that's providing hope and opportunity for every single citizen, regardless of where you're from. There are some encouraging signs, there are. Slowly but surely, people are beginning to understand the logic behind accountability, the understanding that we can't accept failure, the need to trust individuals to make right decisions for their children. Slowly but surely, people are hearing that message. And I want to thank you for your help. 
+
+I have come to realize that ordinary folks can have a big influence on the process in Washington, D.C. That ours is a responsive democracy. {APPLAUSE} And that you're only one e-mail away -- {LAUGHTER} -- from telling somebody how you think. And it's helpful, it's helpful. We're doing the right thing. We're doing the right thing for our country. 
+
+I believe we can get positive results out of the Congress. I believe we can make progress toward reforming a system that is working in some places and not working in others. I know we can have quality education for every child. And when we do, this great land of ours -- by the way, the greatest nation on the face of the earth -- will be even greater. We'll be even greater. 
+
+Thank you for coming, and God bless. {APPLAUSE} 
+
+{/speech} 

@@ -1,0 +1,50 @@
+﻿{title} President Bush Welcomes World Series Champion St. Louis Cardinals to the White House {/title}
+{event} East Room {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 16, 2007 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thanks for coming. It's great to welcome the 2006 World's Series Champs, the mighty St. Louis Cardinals, to the White House. {APPLAUSE}
+
+I appreciate the fact that members of the United States Congress have joined us. I see members from Missouri. {LAUGHTER} Senators, members of the Congress and House. I see a senator from Kentucky, Hall of Famer, Big Jim Bunning, glad you're here. Appreciate you all coming, thanks and welcome. {APPLAUSE} I'm glad to see the former Attorney General, John Ashcroft. Thanks for joining us, John, appreciate you coming. {APPLAUSE} Mr. Secretary, I thought you were a Texan.
+
+{OTHER-SPEAK} I am a Texan, but I lived in St. Louis. {/OTHER-SPEAK} 
+
+Oh, you lived in St. Louis. {LAUGHTER} Alphonso Jackson, Secretary of Housing and Urban Development is with us. Thanks for coming, A.J. I appreciate very much that the Lieutenant Governor, Peter Kinder, has joined us today. Thanks for coming, Governor, appreciate you coming. {APPLAUSE}
+
+Rob Portman, I thought he was a Cincinnati Reds fan -- it's amazing what victory does to the -- {LAUGHTER} Everybody likes a winner. {LAUGHTER} I appreciate you coming. Last time that Tigers and Cardinals -- the first time they met in a World Series was in 1934, Franklin Roosevelt was the President, Dizzy Dean was the star. {LAUGHTER}
+
+And now the Cardinals are back after an unbelievable season. You know, I featured myself as a baseball guy at one time. The Cardinals now have won 10 World Series. That's 10 more than the Texas Rangers have ever won. {LAUGHTER} Fortunately, it doesn't depend on ownership -- well, I take that back. {LAUGHTER}
+
+They say in baseball in order to become the World Series champ, you can't have losing streaks of over two or three games. {LAUGHTER} This club had losing streaks of -- one eight-game losing streak; another eight-game losing streak; and a seven-game losing streak -- which really speaks to the character of the baseball team, doesn't it? I mean, it's a team that -- {APPLAUSE} And I think it speaks to the character of the manager, Tony LaRussa, and his staff. {APPLAUSE}
+
+When you're on one of those losing streaks, it's easy to get down and to forget the goal. So, like, I'm sure the sports pages were a little rough on you for a while there, you know? How can they possibly endure yet another eight-game losing streak? Well, you endure it as the result of character and leadership.
+
+I had the honor of welcoming Tony and Dave Duncan and DeWitt and some of the other ones to the White House in August. And I was kind of looking at them, and they were looking at me, and I was trying to figure out whether I was looking at the winning team. And after they left -- I haven't had a chance to share this with Tony LaRussa -- I was convinced the Cardinals were going to go all the way. You know why? Because he was. Because he believed it. And I appreciate good leadership. And I appreciate the fact that not only is LaRussa a fine manager and a fine man, I appreciate what he does for the community in St. Louis, as well.
+
+Character in the dugout is one thing, character in a community is another. I don't know if you still do this program, but somebody told me the other day that there is a program where they match a -- you know, dogs that need an owner with somebody that needs help, from having a pet around. It turns out, a pet can help somebody deal with a mental illness. And Tony LaRussa has combined his love of animals with his deep concern about people who suffer for the embetterment of the community.
+
+And so this is a team of character. And it's got a team of really good owners, too. How do I know? Some of them were my business partners at the Texas Rangers. If you ever need a good, honest business partner, pick Bill DeWitt. He knows something about baseball. He was raised in baseball. But he is one of the sharpest business minds in the United States of America, and I'm really proud for him and his family to be here today to receive the accolades.
+
+I want to thank the other owners that have joined us today. Fred Hanser and the Ambassador. Thank you, Ambassador, for being here -- Brauer. I appreciate my friend, Mercer Reynolds, joining us, too, as well. I congratulate you all.
+
+DeWitt would be the first to say that the owners support a good front office, and you can win, and that's why Mark Lamping and Walt Jocketty are important to recognize, as well. And I appreciate the leadership they've had. {APPLAUSE}
+
+I appreciate the players. Let me say something about the MVP. They said, he can't hit. {LAUGHTER} They said, he can't throw. Listen, David, I've made a career out of people underestimating me. {LAUGHTER ; APPLAUSE} Or as I like to sometimes say to keep them on their toes, misunderestimating me. {LAUGHTER} But I do congratulate David and the team.
+
+When you overcome the odds this team overcame, you've got to play as a team. And they did. And I appreciate not only what you did on the field, I appreciate the character you also show off the field. I appreciate the charity events that you attend. I thank you very much for supporting the Cardinals organization's efforts to be good community partners in St. Louis and greater St. Louis.
+
+You've got a huge fan following, as you know. Matter of fact, when I was growing up in Texas, the only games we used to get were St. Louis Cardinals games. That was in the '50s -- see that was before your time. {LAUGHTER} It made me a baseball fan. {LAUGHTER} It made me a Stan Musial fan. {APPLAUSE}
+
+But it also made me appreciate the value of the St. Louis Cardinals. And the Cardinals have got a fantastic fan base. And you maintain a fan base by being good citizens and winning games. And this club knows how to do both.
+
+Before I bring somebody else up here to the microphone, I had the honor of going to Walter Reed the other day to thank our soldiers. I ran into Lance Corporal Chad Watson of the United States Marine Corps. He was wearing a Cardinals hat -- I think you were wearing a Cardinals hat. And I said, first, thanks for serving, and thanks for giving of yourself to secure this country. I then said, are you a Cardinals fan -- kind of one of those, no-duh questions. {LAUGHTER} Kind of running out of something to say. And he said, yeah, I am. I said, well, I'm going to have the Cardinals to the White House, and if you're a Cardinals fan, why don't you come and join us. And he kind of looked at me like, "check is in the mail, isn't it?" {LAUGHTER}
+
+But I was serious and so was he, and I'm proud to welcome Chad Watson and his mother, Gina. {APPLAUSE} You never know where you're going to find a St. Louis Cardinal fan. {LAUGHTER}
+
+And now it's my honor to bring to the podium, DeWitt -- Bill DeWitt. He doesn't like to give speeches -- do you? 
+
+{/speech}

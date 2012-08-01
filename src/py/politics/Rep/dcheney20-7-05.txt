@@ -1,0 +1,32 @@
+﻿{title} Vice President's Remarks at the Malcolm Baldrige Awards {/title}
+{event} Omni Shoreham HotelWashington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} July 20, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you, Secretary Gutierrez, and thanks for the kind words, and also, Carlos, for your great service. And I appreciate very much the chance to be here today to recognize the Baldrige honorees.
+
+It's been said that more than any other program, the Baldrige Quality Award is responsible for making quality a national priority, and disseminating best practices all across the United States. To receive this honor is to become a role model and standard-setter for organizations of every kind, as well as becoming a source of pride to our entire country. You have earned the admiration of all of us, and I count it a privilege to present these awards on behalf of our President, George W. Bush.
+
+This honor is named, of course, for our 26th Secretary of Commerce, Malcolm Baldrige. I was proud to know Secretary Baldrige when I was a member of Congress back in the 1980s and he was part of the Reagan Cabinet. I want to thank his wife, Midge, his sister Letitia and other members of the Baldrige family who are here with us today.
+
+Mac was a terrific guy who led one of the truly great American lives. Not only did he achieve great success as an industry leader, but Mac was also the only person I'm aware of who was both a member of the Council on Foreign Relations and the Professional Rodeo Cowboys Association. {LAUGHTER} He was rightly described as a man who had an individual identity that could not be swayed or otherwise affected by the glories of office. As a government official and as a human being, Mac Baldrige sat tall in the saddle, and he is still held in the highest regard here in Washington.
+
+Mac Baldrige served in the Cabinet of Ronald Reagan during a time of serious economic challenges to our nation. We had gone through devastatingly high inflation, weak productivity, and slow growth in the 1970s. Then, as the recovery of the 1980s began, American companies faced unprecedented, aggressive competition from abroad. And government and business had a fundamental decision to make -- either to turn inward and try to shield ourselves from fair competition, or to stay in the game, with renewed confidence in the free market and in the American spirit of enterprise.
+
+Secretary Baldrige, like President Reagan, was one of the optimists. He knew that the free enterprise system, and the qualities of character it brings out, had made America the wealthiest, most innovative nation in the world. He believed, and argued, that a renewed focus on quality would restore this nation's competitiveness, and lead directly to greater productivity, higher sales, and a better standard of living in the long run.
+
+The optimists have been proven correct. Because we accepted the challenge of global competition, this nation is far better off today than we might otherwise have been -- wealthier, more productive, and with bright hopes for the future.
+
+The Baldrige Quality Awards have a place in this great story, because for the last 17 years this competition has inspired organizations in every part of the country to strive for excellence across the board. It has become a tradition in America to set Baldrige goals, to apply Baldrige principles, and to seek Baldrige recognition.
+
+The selection process for the Award is highly detailed, and is carried out by a dedicated Board of Examiners whose service we appreciate very much. As we've seen and heard this morning, the newest group of honorees is highly diverse -- yet each has shown the same basic understanding of how to deliver high value to the customer, and how to improve the functioning of their enterprises. None of this would be possible without a team effort, a problem-solving mindset, and trusting relationships throughout the operation. And so credit for receiving this honor is shared by every man and woman who works at the Bama Companies, at Kenneth W. Montfort College of Business, at the Robert Wood Johnson University Hospital Hamilton, and the Texas Nameplate Company -- which is a second-time recipient of the Baldrige Award.
+
+As we gather for this annual presentation, we're reminded that for all the changes that come along in a dynamic, free-market economy, some things must never change -- the drive to excel, the character to persevere against difficulty, and the willingness to outwork and outperform the competition, whether it's across town or around the globe. Becoming a Baldrige honoree represents far more than simply winning a prestigious prize in a single year. It represents an ongoing commitment, year in and year out, to delivering a good product or service, following a good plan, and putting good people in place to get the job done. Once again, we found four organizations that are meeting the challenge in absolutely superb fashion. The nation is proud of their efforts, and again we want to congratulate all of them.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

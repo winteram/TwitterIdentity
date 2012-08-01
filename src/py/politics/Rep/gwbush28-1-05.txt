@@ -1,0 +1,39 @@
+﻿{title} President Speaks at 2005 "Congress of Tomorrow" Luncheon {/title}
+{event} The Greenbrier, White Sulpher Springs, West Virginia {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 28, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. Please be seated. {APPLAUSE}
+
+Deborah, thanks for the kind introduction. I'm kind of warming up for the State of the Union -- {LAUGHTER} -- some verbal jumping jacks. Thanks for letting me come by. I'm going to have a few remarks, then I'll answer questions for a while.
+
+Mr. Speaker, thank you for your leadership, thank you for your friendship. This country has had no better Speaker than Denny Hastert. {APPLAUSE}
+
+Appreciate Senator Ted Stevens -- thank you for your tenure and your leadership, as well. I'm glad you're here. {APPLAUSE} I thank my friend from the great state of Texas Tom DeLay for his leadership. I appreciate you, Mr. Leader. {APPLAUSE} Mitch McConnell, the Senate Majority Whip -- Senator McConnell, thank you, sir, appreciate you. {APPLAUSE} Congressman Blunt, the House Whip. Thank you, Congressman, glad you're here, appreciate you. {APPLAUSE} How is your son doing?
+
+{OTHER-SPEAK} He's doing great. {/OTHER-SPEAK} 
+
+Good, huh?
+
+{OTHER-SPEAK} He's taking a page out of your book. {/OTHER-SPEAK} 
+
+Yes, I like a guy who follows in his father's footsteps. {LAUGHTER ; APPLAUSE} 
+
+Senator Kyl, the chairman of the Republican policy committee. Thank you, sir. {APPLAUSE} Deborah Pryce, who you know, and Rick Santorum. Thank you both for organizing this event. {APPLAUSE} Thank the members of my Cabinet who are here -- John Snow and Josh Bolten. I'm looking forward to working with you.
+
+As you know, David Hobbs has handled legislative affairs for my administration for a couple of years. He's worked very closely with the leadership and the members of both the House and the Senate. He has decided to move on. He will be replaced by Candi Wolff. I know you look forward to working with Candi. She is a fine soul. And we're going to miss David Hobbs, and I appreciate him for his -- I appreciate his long service. {APPLAUSE}
+
+A couple points I'd like to make. First, I think we've proven to the country we know how to set an agenda and work together to achieve it. In other words, people -- people ought to view this team we've put together, the relationship between the executive branch and the legislative branch, as people who are -- come to Washington, D.C. to solve problems. And we have done so over the last four years, and we will continue to do so for the next four years. {APPLAUSE}
+
+I look forward to addressing the nation. I will remind the country we're still at war. And I want to thank the Congress for providing the necessary support for our troops who are in harm's way. I will also tell the people once again that I strongly believe that the way to defeat hatred and terrorism is to spread freedom. And I believe everybody in the world deserves to be free. {APPLAUSE}
+
+I look forward to discussing ways to keep this recovery going so people can find work. I look forward to talking to the country about the need to address big reforms like Social Security. I will continue to articulate the faith-based agenda, the compassion agenda, so that people can find hope in our country. I'll remind the people we're a great nation. We can achieve anything we set our mind to. And I will tell them like I'm telling you, it's such an honor to be the President of the United States.
+
+
+Thank you for letting me come. I look forward to answering your questions. 
+
+{/speech}

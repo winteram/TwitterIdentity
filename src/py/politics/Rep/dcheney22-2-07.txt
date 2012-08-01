@@ -1,0 +1,60 @@
+﻿{title} Vice President's Remarks at a Rally for the Troops {/title}
+{event} Hangar One Andersen Air Force Base, Guam {/event}
+{speaker} Dick Cheney {/speaker}
+{date} February 22, 2007 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. {APPLAUSE} Thank you very much. {APPLAUSE} And a warm hafa adai to all of you.
+
+Governor Camacho, Delegate Bordallo, Admiral Leidig, General Goldhorn, Chief Master Sergeant Wicks, distinguished guests and fellow Americans, thank you for the warm welcome. And, General Owens, thank you for your introduction.
+
+I appreciate this chance to stop and say hello. I'm on a long journey that began Monday at Andrews Air Force Base, and then Elmendorf in Alaska, and then on to Tokyo. Tonight, we'll arrive in Sydney. At this point, we're about 8,000 miles and 15 time zones from Washington, but we're on American soil. And you've made us feel right at home here on the island of Guam. {APPLAUSE}
+
+I want to thank the men and women of Andersen Air Force Base for all that you've done to arrange our visit today. And along with Naval Base Guam, you show the confident spirit of the United States military, our devotion to the cause of peace, and our commitment to the security of our friends and allies in this part of the world. Andersen is a fine American installation that has received the outstanding unit award six times since 1994. Congratulations.
+
+I last visited Guam as Secretary of Defense. I've been looking forward to returning today. And on this beautiful Pacific afternoon, it's my great honor to bring good wishes to each and every one of you from our Commander-in-Chief, President George W. Bush.
+
+Guam is in the heart of a strategic area where the distances are great, and the responsibilities are many. By positioning forces on Guam, the United States can move quickly and effectively to protect our friends, to defend our interests, to bring relief in times of emergency, and to keep the sea lanes open to commerce and closed to terrorists. This island may be small, but it has tremendous importance to the peace and security in the world. And our whole country appreciates the patriotic, welcoming spirit of our fellow Americans, the citizens of Guam.
+
+Guam continues to grow in strategic importance. Last year it hosted Exercise Valiant Shield, one of the largest military exercises in the western Pacific. In the years ahead, more personnel will be stationed here, all with the job of maintaining a first-rate, forward operating base.
+
+This is a place of high standards, and I want to thank all the units of Team Andersen, starting with the 36th Wing of the United States Air Force. You go by the motto "Prepared to Prevail," and that's the very spirit this country needs in a challenging time.
+
+America is also grateful to the Island Knights in Helicopter Sea Combat Squadron 25. {APPLAUSE} You're the ones who carry out vertical replenishment of the Seventh Fleet, along with 24-hour search and rescue and medivac in this region. A lot of people count on you to get the job done, and you've always gotten it done. You've never let them down.
+
+We're grateful to the recent arrivals, the Second Bomb Wing from Barksdale Air Force Base in Louisiana. {APPLAUSE} We wish you the best as you begin your four-month deployment here at Andersen. Each one of you has seen the impact of military training and discipline in your own lives, and you can never be sure just when or where your skills might make the difference between life and death.
+
+Less than a month ago, at Taragi Beach, here in Guam, one of our officers saw a group of swimmers struggling in the water subject to severe rip tides and crashing waves and razor sharp coral. He responded instantly to the trouble, and along with a civilian went in to save the swimmers' lives and to administer first aid. For these actions today, it will be my honor to present the Airman's Medal to Lieutenant Colonel Christopher Greiman. I'll also present the exceptional service award to the woman who took part in that daring rescue, Tracy McVay. We're proud of both of you. {APPLAUSE}
+
+I also want to say a word of gratitude to our fellow Americans from Guam who serve in the Armed Forces of the United States. They know the heritage of this island, liberated by American forces in World War II. They understand the need to stand up for freedom, to stay strong to defend ourselves against the dangers of this world. And we deeply appreciate their service to our country, as well. {APPLAUSE}
+
+All of you wear the uniform during a time of great consequence for the United States. The last six years have brought events none of us could have imagined and many tests of military skill and national resolve. September 11th, 2001 changed everything for our country as we began fighting a new kind of war against determined enemies.
+
+Most mornings President Bush and I receive an intelligence briefing that includes a review of the threats we face. The enemy that appeared on 9/11 has been wounded, is off balance and on the run, yet still very active, still seeking new recruits, still trying to kill Americans. Since the war began, we've struck major blows against the al Qaeda network that attacked America. We've removed two dictatorships that sponsored terror, liberated 50 million people from tyranny and stood by young democracies, as America always does.
+
+The work goes on because this war is not a matter of finding an opposing army and engaging it, or finding a Navy and sinking it. The terrorist enemies are hidden and dispersed, and they view the entire world as a battlefield.
+
+They are determined to commit indiscriminate murder against innocent, unsuspecting men, women, and children. They serve an extreme hateful ideology that rejects tolerance and demands total obedience. They want to seize control of a country in the Middle East, so they can acquire a base for launching attacks, and oil wealth to finance their ambitions. They want to target and overthrow other governments in the region, and eventually to establish a totalitarian empire that encompasses the region from Spain, across North Africa, through the Middle East and South Asia, all the way around to Indonesia.
+
+To serve that goal, the terrorists have declared an intention to arm themselves with chemical, biological and even nuclear weapons, to destroy Israel, to intimidate all Western countries and to cause great harm to the United States. We are their prime target. They hate us, they hate our country, they hate the liberties for which we stand. They want to destroy our way of life, so that freedom no longer has a home and a defender in this world. That leaves us only one option: to rise to America's defense, to take the fight directly to the enemy, and to accept no outcome but victory.
+
+The terrorists have made Iraq the central front in the war. Right now our new force commander, General Dave Petraeus, is carrying out a new strategy. We're moving in to help Iraqis clear and secure Baghdad, to help Iraqis protect the local population, and to ensure that the Iraqi forces will be capable of providing the security necessary in the capital city of Iraq. As General Petraeus said, "The way ahead will be neither quick nor easy, and there will undoubtedly be tough days. We face a determined, adaptable, barbaric enemy. He will try to wait us out. In fact, any such endeavor is a test of wills, and there are no guarantees."
+
+The General has it exactly right. The terrorists know they cannot beat us in a stand-up fight. They never have. The only way they can win is if we lose our nerve and abandon our mission. So they continue committing acts of random horror, believing they can intimidate the civilized world and break the will of the American people. Bin Laden continues to predict that the people of the United States simply do not have the stomach to stay in the fight against terror. He refers to the fight in Iraq as the "third world war," and he knows the stakes as well as we do.
+
+If the terrorists were to succeed, they would return Iraq to the rule of tyrants, they would make it a source of instability in the Middle East, and they would use it as a staging area for more attacks. The terrorists also know that as freedom takes hold, the ideologies of hatred and resentment will lose their appeal, and the advance of liberty, equality and self government in the broader Middle East will lead to a much safer world for our children and our grandchildren.
+
+This nation has learned the lessons of history. We know that terrorist attacks are not caused by the use of strength; they are invited by the perception of weakness. We know that if we leave Iraq before the mission is completed, the enemy is going to come after us. Having seen our interests attacked repeatedly over the years, and knowing the ambitions of the terrorists, this nation has made a decision: We will engage these enemies. We will face them far from home, so we do not have to face them on the streets of our own cities.
+
+Every member of our military can be certain that America will stay on the offensive in the war on terror. The President of the United States and his national security team understand the threat -- the enemy's changing tactics and its unchanging nature. We're not dealing with adversaries that will surrender or someday come to their senses. We'll be flexible. We'll do all we can to adapt to conditions on the ground. We'll make every change necessary to do the job. And I want you to know that the American people do not and will not support a policy of retreat. We want to complete the mission. {APPLAUSE} We want to get it done right, and then we want to return with honor.
+
+You serve in a time of great need, and we're fortunate every day to have you on duty for America. I want you to know that President Bush is committed to taking care of you and your families. We're asking Congress for significant increases in funding to enhance the quality of life on our bases. Our country doesn't take freedom for granted, and we shouldn't take our military for granted either.
+
+Ladies and gentlemen, President Ronald Reagan used to remind us that for America, there is always a bright dawn ahead. Standing here in Guam, where America's day begins, you can look to the future with confidence and pride. America is a great and a powerful nation. But more than that, it's a fair and decent country, worthy of our devotion, defended by your courage.
+
+I want you to be proud of your service. The uniform you wear stands for honor and faithfulness. The flag you wave stands for freedom. And the nation you serve is grateful to each and every one of you. Thank you for what you do for all of us. {APPLAUSE} 
+
+{/speech}

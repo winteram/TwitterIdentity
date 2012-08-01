@@ -1,0 +1,22 @@
+﻿{title} Remarks by the President at Millennium Lecture Series {/title}
+{event} Millennium Lecture Series {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 6, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. And Dr. Hawking, you'll have to forgive me, I'm a little hoarse. I hope for some genetic improvement sometime in the next year or so. {LAUGHTER}
+
+Ladies and gentlemen, this was a stunning event for me and I hope for all of you. Yesterday, Stephen and Elaine came by the White House to see Hillary and me and, as you can imagine, like Hillary, I had reread A Brief History of Time and I was utterly terrified -- {LAUGHTER} -- that he would say something like, you know, I went to University College Oxford, too, and then he would ask me some incredible comparative academic question about our experiences there. Instead, he said, was the food just as bad when you were there -- {LAUGHTER} -- which was a wonderful relief. {LAUGHTER}
+
+Albert Einstein once said, because politics is for the present, but an equation is something for eternity, equations were more important than politics. I don't know about the politics part, but Professor Hawking's insights into equations have altered our notions of time and the very nature of eternity itself. Tonight he's given us a lot to think about, even the ability to imagine a future in which we as humans will have finally captured the Holy Grail of Physics, reconciling the infinitesimal with the infinite; presenting the world with the Ultimate Theory of Everything. Now, when a physicist does that, he can totally ignore politics and buy a newspaper. {LAUGHTER}
+
+The one thing I liked most about thinking about the future in Professor Hawking's term is that even when we reach the era of Star Trek, which will make a lot of our children very happy, it won't be so static. It will still be human and dynamic. And according to the visuals accompanying the lecture, it will still matter whether you can bluff at poker, which is encouraging. {LAUGHTER}
+
+I want to get on with the questions now. And again, I want to thank Professor Hawking for the extraordinary clarity and vigor of his presentation and for sharing his time with us tonight, and for placing this particular moment in the larger spectrum of time -- which I think if we all could do more and more clearly every day, we would live happier, more productive lives. Thank you, Professor.
+
+Ellen, would you like to take over and bring in the questions? {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,103 @@
+﻿{title} Remarks by the President to a Special Session of the German Bundestag {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 23, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} President Bush Thanks Germany for Support Against Terror {/description}
+
+
+{speech} 
+
+President, thank you very much for your kind introduction. And thank you for giving me this chance to be here today. President Rau, thank you very much; Chancellor Schroeder. I understand former Chancellor Kohl is here. I want to thank the members of the Bundestag. How are you, sir? 
+
+I was a little nervous when the President told me that you all are on vacation. {LAUGHTER} I can just imagine how my Congress would react if I called them back to hear a speech of mine when they were on vacation. {LAUGHTER} But thank you for coming. I'm so honored to be here. And my wife, Laura, and I really appreciate the hospitality that you've shown us. {APPLAUSE} 
+
+I've had the pleasure of welcoming your Chancellor to Washington three times, and we have established a strong relationship. Mr. Chancellor, I'm grateful. 
+
+And now I am honored to visit this great city. The history of our time is written in the life of Berlin. In this building, fires of hatred were set that swept across the world. To this city, Allied planes brought food and hope during 323 days and nights of siege. Across an infamous divide, men and women jumped from tenement buildings and crossed through razor wire to live in freedom or to die in the attempt. One American President came here to proudly call himself a citizen of Berlin. Another President dared the Soviets to "tear down that wall." {APPLAUSE} And on a night in November, Berliners took history into their hands, and made your city whole. 
+
+In a single lifetime, the people of this capital and this country endured 12 years of dictatorial rule, suffered 40 years of bitter separation, and persevered through this challenging decade of unification. For all these trials, Germany has emerged a responsible, a prosperous and peaceful nation. More than a decade ago, as the President pointed out, my father spoke of Germany and America as partners in leadership -- and this has come to pass. A new era has arrived -- the strong Germany you have built is good for the world. 
+
+On both sides of the Atlantic, the generation of our fathers was called to shape great events -- and they built the great transatlantic alliance of democracies. They built the most successful alliance in history. After The Cold War, during the relative quiet of the 1990s, some questioned whether our transatlantic partnership still had a purpose. History has given its answer. Our generation faces new and grave threats to liberty, to the safety of our people, and to civilization, itself. We face an aggressive force that glorifies death, that targets the innocent, and seeks the means to matter -- murder on a massive scale. 
+
+We face the global tragedy of disease and poverty that take uncounted lives and leave whole nations vulnerable to oppression and terror. 
+
+We'll face these challenges together. We must face them together. Those who despise human freedom will attack it on every continent. Those who seek missiles and terrible weapons are also familiar with the map of Europe. Like the threats of another era, this threat cannot be appeased or cannot be ignored. By being patient, relentless, and resolute, we will defeat the enemies of freedom. {APPLAUSE} 
+
+By remaining united -- 
+
+{SPONTANEOUS-DEMONSTRATION} 
+
+By remaining united, we are meeting -- we are meeting modern threats with the greatest resources of wealth and will ever assembled by free nations. Together, Europe and the United States have the creative genius, the economic power, the moral heritage, and the democratic vision to protect our liberty and to advance our cause of peace. 
+
+Different as we are, we are building and defending the same house of freedom -- its doors open to all of Europe's people, its windows looking out to global challenges beyond. We must lay the foundation with a Europe that is whole and free and at peace for the first time in its history. {APPLAUSE} This dream of the centuries is close at hand. 
+
+From the Argonne Forest to the Anzio beachhead, conflicts in Europe have drawn the blood of millions, squandering and shattering lives across the earth. There are thousands, thousands of monuments in parks and squares across my country to young men of 18 and 19 and 20 whose lives ended in battle on this continent. Ours is the first generation in a hundred years that does not expect and does not fear the next European war. And that achievement -- your achievement -- is one of the greatest in modern times. {APPLAUSE} 
+
+When Europe grows in unity, Europe and America grow in security. When you integrate your markets and share a currency in the European Union, you are creating the conditions for security and common purpose. In all these steps, Americans do not see the rise of a rival, we see the end of old hostilities. We see the success of our allies, and we applaud your progress. 
+
+The expansion of NATO will also extend the security on this continent, especially for nations that knew little peace or security in the last century. We have moved cautiously in this direction. Now we must act decisively. 
+
+As our summit in Prague approaches, America is committed to NATO membership for all of Europe's democracies that are ready to share in the responsibilities that NATO brings. {APPLAUSE} Every part of Europe should share in the security and success of this continent. A broader alliance will strengthen NATO -- it will fulfill NATO's promise. 
+
+Another mission we share is to encourage the Russian people to find their future in Europe, and with America. {APPLAUSE} Russia has its best chance since 1917 to become a part of Europe's family. Russia's transformation is not finished; the outcome is not yet determined. But for all the problems and challenges, Russia is moving toward freedom -- more freedom in its politics and its markets; freedom that will help Russia to act as a great and a just power. A Russia at peace with its neighbors, respecting the legitimate rights of minorities, is welcome in Europe. {APPLAUSE} 
+
+A new Russian-American partnership is being forged. Russia is lending crucial support in the war on global terror. A Russian colonel now works on the staff of U.S. Army General Tommy Franks, commander of the war in Afghanistan. And in Afghanistan, itself, Russia is helping to build hospitals and a better future for the Afghan people. 
+
+America and Europe must throw off old suspicions and realize our common interests with Russia. Tomorrow in Moscow, President Putin and I will again act upon these interests. 
+
+The United States and Russia are ridding ourselves of the last vestiges of cold War confrontation. {APPLAUSE} We have moved beyond an ABM treaty that prevented us from defending our people and our friends. Some warned that moving beyond the ABM treaty would cause an arms race. Instead, President Putin and I are about to sign the most dramatic nuclear arms reduction in history. Both the United States and Russia will reduce our nuclear arsenals by about two-thirds -- to the lowest levels in decades. {APPLAUSE} 
+
+Old arms agreements sought to manage hostility and maintain a balance of terror. This new agreement recognizes that Russia and the West are no longer enemies. {APPLAUSE} 
+
+The entire transatlantic alliance is forming a new relationship with Russia. Next week in Rome, Chancellor Schroeder, NATO allies, and I will meet as equal partners with President Putin at the creation of the NATO-Russia Council. The Council gives us an opportunity to build common security against common threats. We will start with projects on nonproliferation, counterterrorism, and search-and-rescue operations. Over time, we will expand this cooperation, even as we preserve the core mission of NATO. Many generations have looked at Russia with alarm. Our generation can finally lift this shadow from Europe by embracing the friendship of a new democratic Russia. {APPLAUSE} 
+
+As we expand our alliance, as we reach out to Russia, we must also look beyond Europe to gathering dangers and important responsibilities. As we build the house of freedom, we must meet the challenges of a larger world. And we must meet them together. 
+
+For the United States, September the 11th, 2001 cut a deep dividing line in our history -- a change of eras as sharp and clear as Pearl Harbor, or the first day of the Berlin Blockade. There can be no lasting security in a world at the mercy of terrorists -- for my nation, or for any nation. {APPLAUSE} 
+
+Given this threat, NATO's defining purpose -- our collective defense -- is as urgent as ever. America and Europe need each other to fight and win the war against global terror. My nation is so grateful for the sympathy of the German people, and for the strong support of Germany and all of Europe. 
+
+Troops from more than a dozen European countries have deployed in and around Afghanistan, including thousands from this country -- the first deployment of German forces outside of Europe since 1945. German soldiers have died in this war, and we mourn their loss as we do our own. German authorities are on the trail of terrorist cells and finances. And German police are helping Afghans build their own police force. And we're so grateful for the support. 
+
+Together, we oppose an enemy that thrives on violence and the grief of the innocent. The terrorists are defined by their hatreds: they hate democracy and tolerance and free expression and women and Jews and Christians and all Muslims who disagree with them. Others killed in the name of racial purity, or the class struggle. These enemies kill in the name of a false religious purity, perverting the faith they claim to hold. {APPLAUSE} In this war we defend not just America or Europe; we are defending civilization, itself. {APPLAUSE} 
+
+The evil that has formed against us has been termed the "new totalitarian threat." The authors of terror are seeking nuclear, chemical and biological weapons. Regimes that sponsor terror are developing these weapons and the missiles to deliver them. If these regimes and their terrorist allies were to perfect these capabilities, no inner voice of reason, no hint of conscience would prevent their use. 
+
+Wishful thinking might bring comfort, but not security. Call this a strategic challenge; call it, as I do, axis of evil; call it by any name you choose, but let us speak the truth. {APPLAUSE} If we ignore this threat, we invite certain blackmail, and place millions of our citizens in grave danger. 
+
+Our response will be reasoned, and focused, and deliberate. We will use more than our military might. We will cut off terrorist finances, apply diplomatic pressure, and continue to share intelligence. America will consult closely with our friends and allies at every stage. But make no mistake about it, we will and we must confront this conspiracy against our liberty and against our lives. {APPLAUSE} 
+
+As it faces new threats, NATO needs a new strategy and new capabilities. Dangers originating far from Europe can now strike at Europe's heart -- so NATO must be able and willing to act whenever threats emerge. This will require all the assets of modern defense -- mobile and deployable forces, sophisticated special operations, the ability to fight under the threat of chemical and biological weapons. Each nation must focus on the military strengths it can bring to this alliance, with the hard choices and financial commitment that requires. We do not know where the next threat might come from, we really don't know what form it might take. But we must be ready, as full military partners, to confront threats to our common security. 
+
+One way to make ourselves more secure is to address the regional conflicts that enflame violence. Our work in the Balkans and Afghanistan shows how much we can achieve when we stand together. We must continue to stand for peace in the Middle East. That peace must assure the permanent safety of the Jewish people. {APPLAUSE} And that peace must provide the Palestinian people with a state of their own. {APPLAUSE} 
+
+In the midst of terrorist violence in the Middle East, the hope of a lasting accord may seem distant. That's how many once viewed the prospect of peace between Poland and Germany, Germany and France, France and England, Protestant and Catholic. Yet, after generations of traded violence and humiliation, we have seen enemies become partners and allies in a new Europe. We pray the same healing, the same shedding of hatred, might come to the Middle East. And we will be unrelenting in our quest for that peace. {APPLAUSE} 
+
+We must recognize that violence and resentment are defeated by the advance of health, and learning, and prosperity. Poverty doesn't create terror -- yet, terror takes root in failing nations that cannot police themselves or provide for their people. Our conscience and our interests speak as one: to achieve a safer world, we must create a better world. 
+
+The expansion of trade in our time is one of the primary reasons for our progress against poverty. At Doha, we committed to build on this progress, and we must keep that commitment. {APPLAUSE} Trans-Atlantic nations must resolve the small, disputed portion of our vast trading relationship within the rules and settlement mechanisms of the World Trade Organization -- whether those disputes concern tax law, steel, agricultural or biotechnology. 
+
+For all nations -- for all nations to gain the benefit of global markets, they need populations that are healthy and literate. To help developing nations achieve these goals, leaders of wealthy nations have a duty of conscience -- {APPLAUSE} We have a duty to share our wealth generously and wisely. Those who lead poor nations have a duty to their own people -- but they have a duty as well: to pursue reforms that turn temporary aid into lasting progress. 
+
+I've proposed that new American aid be directed to nations on that path of reform. The United States will increase our core development assistance by 50 percent over the next three budget years. {APPLAUSE} It will be up to a level of $5 billion a year, above and beyond that which we already contribute to development. 
+
+When nations are governed justly, the people benefit. When nations are governed unjustly, for the benefit of a corrupt few, no amount of aid will help the people in need. {APPLAUSE} When nations are governed justly -- when nations are governed justly, investing in education and health, and encouraging economic freedom, they will have our help. And more importantly, these rising nations will have their own ability and, eventually, the resources necessary to battle disease and improve their environment, and build lives of dignity for their people. 
+
+Members of the Bundestag, we are joined in serious purpose -- very serious purposes -- on which the safety of our people and the fate of our freedom now rest. We build a world of justice, or we will live in a world of coercion. The magnitude of our shared responsibilities makes our disagreements look so small. And those who exaggerate our differences play a shallow game and hold a simplistic view of our relationship. {APPLAUSE} 
+
+America and the nations in Europe are more than military allies, we're more than trading partners; we are heirs to the same civilization. The pledges of the Magna Carta, the learning of Athens, the creativity of Paris, the unbending conscience of Luther, the gentle faith of St. Francis -- all of these are part of the American soul. The New World has succeeded by holding to the values of the Old. 
+
+Our histories have diverged, yet we seek to live by the same ideals. We believe in free markets, tempered by compassion. We believe in open societies that reflect unchanging truths. We believe in the value and dignity of every life. {APPLAUSE} 
+
+These convictions bind our civilization together and set our enemies against us. These convictions are universally true and right. And they define our nations and our partnership in a unique way. And these beliefs lead us to fight tyranny and evil, as others have done before us. 
+
+One of the greatest Germans of the 20th century was Pastor Dietrich Bonhoeffer. {APPLAUSE} -- who left the security of America to stand against Nazi rule. In a dark hour, he gave witness to the Gospel of life, and paid the cost of his discipleship, being put to death only days before his camp was liberated. 
+
+"I believe," said Bonhoeffer, "that God can and wants to create good out of everything, even evil." 
+
+That belief is proven in the history of Europe since that day -- in the reconciliation and renewal that have transformed this continent. In America, very recently, we have also seen the horror of evil and the power of good. In the tests of our time, we are affirming our deepest values and our closest friendships. Inside this chamber, across this city, throughout this nation and continent, America has valued friends. {APPLAUSE} And with our friends we are building that house of freedom -- for our time and for all time. 
+
+May God bless. {APPLAUSE} 
+
+{/speech} 

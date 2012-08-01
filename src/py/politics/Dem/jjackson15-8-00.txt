@@ -1,0 +1,178 @@
+﻿{title} The Reverend Jesse Jackson Delivers Remarks at Democratic Convention {/title}
+{event} Democratic Convention {/event}
+{speaker} Jesse Jackson {/speaker}
+{date} August 15, 2000 {/date}
+{source} http://www.cnn.com/ELECTION/2000/conventions/democratic/transcripts/u060815.html {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+The long arm of justice reaches neither for the political left nor the political right, but for the moral center. Vanity asks the question, Is it popular? Politics asks the question, Will it work? Can I win? Morality and conscience ask the question, Is it right? In the end, if it is morally right, politics and popularity has to adjust to the unyielding power of the moral center. There was a left and right in slavery but no moral center, a left and a right in denying women the right to vote but no moral center. 
+
+Tonight we gather here in Los Angeles, home to dream makers who entice the world, but also home of the janitors and sanitary workers who clean up your world. Los Angeles, home of a handful of America's richest people and hundreds of America's poorest workers. 
+
+This Democratic convention is set in that great divide between Beverly Hills and South Central, between the dream makers and dream breakers. And we commit ourselves today to make America better, to stand with the janitors who had to strike to get a dollar more an hour, to stand with the hotel workers who work every day but don't get health care. We are on your side. 
+
+Two weeks ago, in Philadelphia, the nation was treated to a staged show -- smoke, mirrors, hired acts the Republicans called inclusion. That was the inclusion illusion. 
+
+In Philadelphia... 
+
+{APPLAUSE} 
+
+... diversity ended on that stage. They could not mention the words "Africa," "Appalachia" or "AIDS" once. 
+
+So it's good to be in Los Angeles, to look over this great assembly and see the real deal, the quilt with many patches that is America. There are 1,000 union workers here... 
+
+{APPLAUSE} 
+
+... a thousand African Americans, 1,000 Latinos and Asian Americans. As many women as men... 
+
+{APPLAUSE} 
+
+America's working families are here, headed by a Southern Baptist and an Orthodox Jew. This is America's dream team, the Democratic Party. 
+
+{APPLAUSE} 
+
+In this diversity is our strength. Mr. Bush stood with Jefferson Davis and the Confederate flag in South Carolina and Abe Lincoln and the American flag in Baltimore, but Mr. Gore and Lieberman can say: One America, one flag. 
+
+{APPLAUSE} 
+
+Last week, when Al Gore chose Joe Lieberman as his running mate, he stood up for justice. He appealed to the best in America. In selecting Joe Lieberman, Al Gore has brought the sons and daughters of slaves and slave master together with the sons and daughters of Holocaust survivors, women fighting for self-determination, workers fighting for wage security and dignity. 
+
+Al Gore has raised the moral chin bar. When a barrier falls to one of the locked out, it opens doors for all. 
+
+I've devoted much of my life striving to bring light to dark places. Four decades ago, on July 17, 1960, I was jailed with several of my classmates, trying to use a library in Greenville, South Carolina. On July 17, 1984, I addressed you in San Francisco. 
+
+We've come a long way. We are making America better. 
+
+I know something about the tides of change. I moved with it when the tide was coming in, and labored against it when it was flowing out. I've seen enough and done enough to know when the moment is right for history to be made again. 
+
+My fellow Americans, we face such a moment today. This is a moment pregnant with possibility, a moment that we have waited for more than a generation to come our way. 
+
+Remember the dream of Dr. King, the dream of genuine economic opportunity for all. It has been deferred for too long, deferred by the assassination of Dr. King, by the Vietnam War, by the Cold War, by stagnant deficits. Our imaginations have been shackled. 
+
+Now, America has no global military rival, deficits that become surpluses, promises to keep. This economy has enjoyed record growth, but America's working families are still struggling to get by. Jobs are plentiful, but less secure. Wages are up but haven't made up ground lost over the last 25 years. 
+
+Forty-five million Americans have no health insurance. They're one illness away from bankruptcy. We cannot rest until every American is covered with health insurance. 
+
+{APPLAUSE} 
+
+In the midst of great wealth, one in five children still grow up in poverty. It's a moral disgrace we cannot accept. A coal miner dies every six hours from black lung disease. 
+
+In Mud Creek, Kentucky; in Hazzard, in Nelsonville, Ohio, in Big Stone Gap, children live in trailers and go to school in trailers. 
+
+Think of Appalachia and remember most poor people are not on welfare, they work every day. They do their heavy lifting. They take the early bus. They work the late shift. Most poor people are neither brown nor black. They're white. They're female. They're young. They're invisible. But they're all God's children. 
+
+Let's have a one big tent America. 
+
+{APPLAUSE} 
+
+On this November, there'll be two teams on the field, two plans and two directions. On the right side, the Republican team is trying to change its uniform colors to blur the differences. But don't be fooled. Just look at the team. 
+
+It's not just Bush and Cheney, but the grizzled old veterans such as Jesse Helms, and Dick Armey, and Tom DeLay, and Bob Barr, and Strom Thurmond, and Trent Lott, and Pat Robertson, and Ralph Reed. This grizzly old team wants to take the surplus and give it away in tax breaks to benefit those who already are wealthy just to pay for their party. 
+
+But then, there's another team, the team of Gore and Lieberman... 
+
+{APPLAUSE} 
+
+...and Gephardt, and Bonior, and Daschle, and Wellstone, and Jackson, Jr... 
+
+{APPLAUSE} 
+
+... and Charlie Rangel, and John Lewis, and Jim Clyburn, Luis Gutierrez, Velasquez, Sanchez, Wu. This is the all-American team. 
+
+{APPLAUSE} 
+
+They want to use the surplus to bolster Medicare, their prescription drug benefit. The question is clear. What shall we do with the surplus? 
+
+How shall we make America better? Bush and Cheney says give it to those who are already doing just fine. The Gore-Lieberman team says that money should make America stronger. That's our choice. George W. says, tell us, we should look into his heart. But whatever is in his heart, the question is what is in his budget. 
+
+{APPLAUSE} 
+
+He says, "Leave no one behind." But this contest is not about race or religion, it's about resource distribution and budget priorities. 
+
+{APPLAUSE} 
+
+It's about the airport security workers who have no health insurance. It's about cooks at schools. It's about farm workers. It's about chicken plant workers who get carpal syndrome bending their wrists. It's about cab drivers, hotel maids. It's about janitors. This land is our land. 
+
+{APPLAUSE} 
+
+It's our land. 
+
+George Bush says -- George Bush says, don't mess with Texas. That's fair. I just left Houston where I visited a children's hospital. 
+
+In Texas, 1.5 million children live in poverty. Ten percent of the nation's poor, 500,000, are eligible for the Children's Health Insurance Program but can't get it because of bureaucracy. Six hundred thousand eligible for Medicare but they can't get it. 
+
+Don't mess with Texas. Last in children's health care, last in environmental protection, third worst state to raise a child, the fourth worst drop-out rate, and 38th in teacher's salary. Don't mess with Texas any more. Don't mess with New York and California. Don't mess with Illinois. 
+
+{APPLAUSE} 
+
+Don't mess with America. 
+
+{APPLAUSE} 
+
+Don't mess with America. 
+
+{APPLAUSE} 
+
+Let us go forward. 
+
+{APPLAUSE} 
+
+{AUDIENCE} Jesse! Jesse! {/AUDIENCE} 
+
+What {COMMENT="Inaudible"} it is, a one big tent and there are struggles within our party. We cannot duck the challenge of making the global economy work for working people, or fair trade, protecting labor rights and the environment so we lift wages at home and abroad, not just drive them down at home. 
+
+We affirm protest. We must make room for protesters and turn their idealism and creative energy into progress; build on their tradition. 
+
+In 1960, public accommodations was a protest; in '64 it was a law. In '64, the right to vote was a protest; in '65 it was a law. 
+
+{APPLAUSE} 
+
+In '88, affirming PLO and Israel talking was a protest; today it is law. Free Mandela was a protest; today it is law. 
+
+{APPLAUSE} 
+
+We must fight for protest and progress to make America better. 
+
+{APPLAUSE} 
+
+We must fight to include all Americans. We can not keep fighting a failed war on drugs; it must be a war against drug addiction. We can't keep spending more on prisons than on colleges. 
+
+When Governor Ryan of Illinois can -- says because those who are dying are mostly black, brown, poor, don't have a lawyer, mistaken identity or wrongful convictions, we must not risk killing innocent people. There must be a moratorium on the death penalty until there is fairness for everybody. 
+
+{APPLAUSE} 
+
+As I close my friends, one thing I'm convince of, within our party we can fight for the right to do what's right. We can change. We can challenge. We can agree to disagree. We can agree to be agreeable. But we're a family. 
+
+When I look at these two teams and these two choices, Papa Bush gave us Clarence Thomas. 
+
+Baby Bush gave us an end to affirmative action and women's right for self-determination in Florida. George W. will not stand against -- for hate crime legislation. I say, America, stay out the Bushes. Stay out the Bushes. Stay out the Bushes. 
+
+{APPLAUSE} 
+
+Stay out the Bushes. Stay out. 
+
+{AUDIENCE} Stay out the Bushes. Stay out the Bushes. Stay out the Bushes {/AUDIENCE} 
+
+My brothers and my sisters, your vote counts. And you count, and you matter. In 1960, Kennedy beat Nixon by 112,000 votes, less than one vote per precinct. Every vote counts. 
+
+In 1960, we won by the margin of our hope. In '68, Dr. King was killed, Robert Kennedy killed, explosion in Chicago, we were in despair, we lost to Nixon by 500,000 votes. We lost by despair. 
+
+In '76, again, we came together. Carter beat Ford by 1.7 million. Every vote counts, and everybody counts. 
+
+One vote decided that America would speak English rather than German in 1776. One vote kept Aaron Burr, later charged with treason, from becoming our president. One vote made Texas part of the United States of America in 1845. One vote changed France from a monarchy to a republic. One vote has the power to change our course. 
+
+And so tonight, I say, America, if we don't have a prosperity deficit disorder, there's more with Gore, more health care with Gore, more education with Gore, more health with Gore, more wages with Gore, more freedom with Gore, more strength with Gore, more security with Gore, more prosperity with Gore, it's more and Gore. 
+
+It's more and Gore. Keep hope alive. Keep hope alive. Keep hope alive. Louder. 
+
+{AUDIENCE} Keep hope alive. Keep hope alive. Keep hope alive. {/AUDIENCE} 
+
+Louder. 
+
+{AUDIENCE} Keep hope alive. Keep hope alive {/AUDIENCE} {APPLAUSE} 
+{AUDIENCE} Jesse. Jesse. Jesse. {/AUDIENCE}
+
+{/speech}

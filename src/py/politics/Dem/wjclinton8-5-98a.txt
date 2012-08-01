@@ -1,0 +1,57 @@
+﻿{title} Remarks by the President to Dover Air Force Base Personnel and Families {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 8, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Thank you, Mr. Secretary, for your wonderful remarks and your sterling leadership of the Department of Defense, to Governor Carper and Congressman Castle, Colonel Grieder, Colonel Keitel, Mayor Hutchinson, to the Secretary of Education, Dick Riley, who is here with me today, to all the members of the United States Air Force, their families, their friends, and thank you especially for bringing the children today. And I'd like to say a special word of thanks to the Dover High School Band for their welcome and their music. {APPLAUSE} 
+
+I don't know if the recruiting officer has been to see them, but they have sufficient enthusiasm to be in our military service. Great job. 
+
+I am delighted to be here, back at Dover Air Force Base, home of the 436th Military Airlift Wing and the 512th Reserve Wing, those of you who work around the clock to support and defend our freedom. I've already had a chance to be on a C-5 and speak with some of you individually. I'd like now to say a few words to all of you. 
+
+Delaware calls itself "Small Wonder." It's not too small, however, to have two leading United States senators, Bill Roth and Joe Biden, who play very important roles in our national security -- most recently in leading the struggle in the Senate to make Europe a safer place by guiding NATO and offering membership to Poland, Hungary, and the Czech Republic. The people of Delaware can be very proud that they have two senators playing a leading role in such an important national security area. {APPLAUSE} 
+
+And Delaware is not too small to house these mammoth C-5s, who do so much of America's heavy lifting, not too small for a new 60,000-pound Tunner loader, moving heavy cargo on and off the giant planes. I know it's hard for the logistics people here to wrestle with those pallets, but hopefully the new loader will make things just a little easier. 
+
+Your efforts are essential. We live in a time of enormous promise, but you know from your own work that there is also a tremendous responsibility for the United States out there both to take advantage of the promise and to meet the challenges of the post-Cold War era. 
+
+From Guatemala to Mozambique, from Bosnia and now to Ireland, peace is taking hold in countries and regions that have endured terrible violence. Revolutions in technology and communications are spurring enterprise and opportunity all across the globe. Today we saw that the unemployment rate in America has dropped to 4.3 percent, the lowest since 1970. And that's good news for America. {APPLAUSE} 
+
+But one-third of our growth, one-third of the over 15.2 million jobs the American people have enjoyed -- new jobs -- since 1993, comes from our trading relations with other countries. Like it or not, our future and the future of every child in this audience today is bound up with our ability to maintain leadership for peace and freedom and security and opportunity throughout the world. 
+
+In March, I was in Africa. I visited Uganda, not so long ago run by a brutal dictator, now a country with strong economic growth and a commitment to educating all its children. I was in Senegal, where American soldiers are working with African soldiers to establish new peacekeeping units run by Africans, in Africa, to support their continent's security. I was in South Africa, where citizens are building a strong, multiracial democracy. 
+
+And guess what? On my whole trip, you provided the transportation, you provided the helicopters, and you provided the communications. I thank you. The trip to Africa was good for America. {APPLAUSE} 
+
+Last month, I was in Chile, once ruled by terror, now a thriving open society, at the second Summit of the Americas, after the first one I convened in 1994 in Miami. Thirty-four of the thirty-five nations of the Americas are now democracies, and we plotted a common future in the area where our trade is growing the most and where freedom has taken deepest hold. And guess what? You provided my transportation and communication, and I thank you. {APPLAUSE} 
+
+In a few days I will leave for Europe, where the powerful yearning of the people for liberty has provided the chance not only to end the war in Bosnia, but, through expanding NATO and making an agreement between NATO and Russia, and NATO and Ukraine, we've now got the chance to build a Europe that is peaceful, undivided, and free for the first time in all of history. It will be a very important meeting, and if nothing happens to the chain of command, you're going to provide my transportation and communication, and I thank you for that. {APPLAUSE} 
+
+Because freedom is on the march and because of all the changes going on in the world, the 21st century in which these children will grow up will be America's greatest time, if we do our part to protect freedom and security, to stand for human rights, and to stand for our interests and our values around the world. For the world is still not free of dangers -- not by a long shot. 
+
+All of you know that, clearly. In fact, all of the openness, the communications revolution, what all you can find on the Internet, all of the things that have given so much opportunity in the world and brought us so much closer together have created a new vulnerability to the organized forces of destruction, to the terrorists, the organized criminals, the narco traffickers. We still see the incredible power -- the flaming power of religious, ethnic, and regional conflicts and hatreds. We know that not all of our democracies are solid. We know that natural disasters, environmental destruction, the spread of disease, can cross national borders and threaten the lives and welfare of the American people. 
+
+In this environment, our leadership is more important than ever. In order to make the American people safe at home and give them all a brighter future, the United States must continue to lead in the world, and that means we need you more than ever. 
+
+Here at Dover, you are leading the way. A strategic airlift capacity is crucial to our strategy of global engagement, and you are responsible for a full 25 percent of America's strategic airlift. You supply our troops in the Persian Gulf, and Saddam Hussein knows we're serious because our diplomacy is backed by the finest military in the world. We could not send them there and keep them there if you couldn't supply them. 
+
+You lead the way by helping to prevent the spread of weapons of mass destruction. Just three weeks ago, two of your C-5s and their crews secured dangerous nuclear material in the Republic of Georgia and transported it for safekeeping to the United Kingdom. The material could have posed a tremendous risk if it had come into the wrong hands. You made sure that it didn't. And now you know it's someplace safe and we're all more secure because of it. I thank you for that. {APPLAUSE} 
+
+You supply our troops in Bosnia, where, with a remarkable lack of violence, we have been able to see the end of a conflict and the beginning of a peace taking hold. If our troops hadn't been there, the war would still be raging. They couldn't be there without you, and you should be very, very proud of helping to end the bloodiest conflict in Europe since the end of World War II. I hope you are. {APPLAUSE} 
+
+You lead the way in providing humanitarian relief to people in the Former Soviet Union. When a ferocious typhoon struck Guam, you brought water and blankets and electricity to people there. When flooding destroyed or damaged 90 percent of the homes around Grand Forks, North Dakota, you brought relief and comfort to the victims there. For all that, for the many sacrifices you make, I want to say a profound thank you. 
+
+As most of you know, this Tunner loader that everybody talked to me about today is not called a Tunner because it lifts a lot of tons. It was named for the late General William Tunner, who commanded three historic airlifts -- the airlift of supplies and personnel over the Himalayan Hump, from India to China in World War II; the massive Berlin airlift in 1948 and '49, 277,000 flights that supplied food and fuel to the people of West Berlin during Stalin's blockade; and the Korean War Combat Cargo Command, which airdropped supplies to our troops trapped in North Korea. General Tunner said we can carry anything, anywhere, anytime. 
+
+Now, next week, by coincidence, I will be in Germany to commemorate the 50th anniversary of the Berlin airlift. Like you, the people who were involved in that effort used airlifts to protect freedom. When the Soviet leaders finally abandoned the blockade, it might have been because they had witnessed our staggering capabilities to airlift supplies to the people in West Berlin. Perhaps it was because they read what General Tunner said about his supply line: "We can keep pouring it on for 20 years if we have to." That kind of confidence I know invigorates the work you do here. I know you are ready for any challenge anytime, whenever America calls for your help. 
+
+So let me just say this in closing. When your joints ache from muscling pallets, when you've stared at one load plan too many, when you fly all night through turbulent skies, when you're too far from home and you wonder sometimes what you are doing it for, please remember, in ways large and small, you are making a huge difference in making the world a better place for the children that share this roof with us today. Children all over the world have food to eat, clothes to wear, safe streets to walk, all because you at Dover make it happen. You deliver. You are essential to America's security. You make this a better country and you make us all very proud. 
+
+Thank you very much and God bless you. {APPLAUSE} 
+
+{/speech} 

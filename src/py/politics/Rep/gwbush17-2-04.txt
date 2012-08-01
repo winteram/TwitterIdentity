@@ -1,0 +1,79 @@
+﻿{title} President Meets with US Military Personnel at Fort Polk, Louisiana {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 17, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. What a week. First, NASCAR -- {APPLAUSE} -- and today, Fort Polk, Louisiana. {APPLAUSE} Thank you for the warm welcome. It is an honor to be here with the soldiers and families of Fort Polk. {APPLAUSE} This post is home to some of the Army's oldest and finest units. All of you are living up to the motto of our Second Armored Calvary Regiment -- {APPLAUSE} -- "Always ready." {APPLAUSE} 
+
+The Second Calvary is now deployed in Iraq. So is the mighty Warrior Brigade from Fort Polk. {APPLAUSE} This post has long been vital to the defense of America. And today, the men and women of Fort Polk are serving with skill and bravery in the war on terror. Since our nation was attacked on September the 11th, 2001, this post has trained and deployed more than 10,000 troops to fight the terrorist enemy. 
+
+The JRTC Operations Group is providing superb training for America's soldiers. And with people like you -- {APPLAUSE} -- people like you in the fight against terror, there is no doubt that the enemy will be defeated and freedom will prevail. {APPLAUSE} 
+
+In the war, America depends on our military to meet the dangers abroad and to keep our country safe. The American people appreciate this sacrifice. And our government owes you more than gratitude. We must always make sure that America's soldiers are well-equipped and well-trained to fight this war on terror. {APPLAUSE} 
+
+Every person in uniform also depends on the faithful support of their family. {APPLAUSE} Military families have faced many hardships in this time of testing, and you have faced them together. Every military installation is a strong and caring community. You look out for each other. You accept the sacrifices of service to America. And I want you to know, our whole nation is grateful to our military families. {APPLAUSE} 
+
+I appreciate General Kamiya for his introduction. When I was walking here from Marine One, somebody told me he just got promoted. Congratulations, General. {APPLAUSE} Les Brownlee, the Acting Secretary of the Army, is with us. General Pete Schoomaker, who is the Army Chief of Staff, is with us today. General, thank you for coming. General Ellis, I appreciate you being here. Colonel Woolfrey, Command Sergeant Major Christian; Command Sergeant Major Savusa is with us, as well. I'm honored that you men are here. 
+
+Today, I had the privilege of traveling with Senator Mary Landrieu, from the state of Louisiana; Congressman David Vitter, and Congressman Rodney Alexander. I want to thank all the state and local officials who are with us today. I appreciate so very much Kevin Sharp and John Berry, for taking time out to provide the entertainment for the troops and families today. {APPLAUSE} 
+
+I just met Margie Nobles. Margie volunteered more than 1,400 hours helping families of soldiers during their transition to Fort Polk and during times of deployment. People often talk about the strength of America being our military, and it is strong, and I intend to keep it that way. {APPLAUSE} But the real strength of the country lies in the hearts and souls of our citizens; people like Margie, who are willing to help somebody who hurts; people who are willing to take time out of their busy lives to love a neighbor just like you'd like to be loved yourself. 
+
+For those of you who are soldiers in the army of compassion, I want to thank you for your service to your community and to your country. 
+
+The Fort Polk community is also home to thousands of veterans and retired military. Our veterans defended our nation and served the cause of freedom in the great struggles of the 20th century. Many veterans from the area are with us today, and we honor your faithful service to America. {APPLAUSE} 
+
+Our servicemen and women today follow in a great tradition of achievement and courage. You're living up to that tradition in hard missions and decisive victories. This generation of our military has been called to duty, to fight and to win the first war of the 21st century. {APPLAUSE} 
+
+The struggle began on a September morning, when terrorists murdered thousands of our fellow citizens. We saw the violence and grief that terrorists can inflict. We had a glimpse of a far worse harm that the terrorists intend for us. And on behalf of this nation, I made a pledge: Whether we bring our enemies to justice, or bring justice to our enemies, justice will be done. {APPLAUSE} 
+
+Life in America in many ways has returned to normal, and that's a good thing. And I want every American to know that I understand my job as your President. I have a duty to protect the American people, and my resolve is the same today as it was on the morning of September the 12th, 2001. My resolve is the same as it was on the day when I walked in the rubble of the Twin Towers. I will not relent until this threat to America is removed. {APPLAUSE} And neither will you. {APPLAUSE} 
+
+In the past 29 months, many terrorists have learned the meaning of justice. Nearly two-thirds of al Qaeda's known leaders have been captured or otherwise dealt with. {APPLAUSE} The terrorists are on the run, with good reason to fear what the night might bring. Thousands of very skilled and determined military personnel are on an international manhunt, going after remaining killers who hide in caves and in cities. When they attacked our country, the terrorists chose their own fate, and they are meeting that fate, one by one. {APPLAUSE} 
+
+Success in the war on terror also requires that we confront regimes that might arm terrorists with the ultimate weapon. There's no greater danger before this nation and humanity than the possibility of secret and sudden attack with a nuclear or chemical or biological weapon. We must confront this danger with open eyes and unbending purpose. I made clear the policy of this country: America will not permit terrorists and dangerous regimes who threaten us with the world's most deadly weapons. {APPLAUSE} 
+
+So to get allies on our side, we have shown this resolve in decisive action to liberate two nations once ruled by terror regimes. The first to see our determination was the Taliban, who made Afghanistan the primary base of al Qaeda. That was where the training camps operated. That is where the attacks of September the 11th were conceived. And that's where we first took the fight to the enemy. 
+
+Two years after we liberated Afghanistan, our troops continue to face danger. Our coalition is leading aggressive raids to rout out surviving members of the Taliban and al Qaeda. The new Afghan army is adding to the stability of that country. Afghanistan still has challenge, but that nation is a world away from the nightmare of the Taliban. {APPLAUSE} 
+
+As of last month, Afghanistan has a new constitution, guaranteed free elections and full participation by women. {APPLAUSE} Businesses are opening, health care centers are being established, and the children of Afghanistan are back in school -- boys and girls. {APPLAUSE} The people of Afghanistan are building a nation that is free, that is proud, and that is fighting terror. And America is honored to be their friend. {APPLAUSE} 
+
+The former regime in Iraq also witnessed America's resolve to confront dangers before they fully materialize. My administration looked at the intelligence information and we saw danger. Members of Congress looked at the same intelligence, and they saw danger. The United Nations Security Council looked at the intelligence, and it saw a danger. We reached a reasonable conclusion that Saddam Hussein was a danger. We remembered his history: He waged aggressive wars against neighboring countries and aspired to dominate the Middle East. He cultivated ties to terrorists. He built weapons of mass destruction. He used weapons of mass destruction against his own people. He hid those weapons. 
+
+In 1998, the President and the Congress made it the policy of the United States to change the regime in Iraq. In September of 2001, America made a decision: We will not live in the shadow of gathering threats. In 2003, after 12 years of deception by Saddam Hussein, he was given one final chance. The U.N. Security Council demanded a full accounting of his weapons programs, or face serious consequences. Saddam Hussein chose defiance. And we had a choice of our own: Either take the word of a madman, or take action to defend America and the world. Faced with that choice, I will defend America every time. {APPLAUSE} 
+
+Having broken the Baathist regime in Iraq, we face a remnant of violent Saddam supporters. Men who ran away from our troops in battle are now dispersed and attack from the shadows. These killers are joined by foreign terrorists. Recently in Iraq, we intercepted a letter sent by a terrorist named Zarqawi, a man well-known to our intelligence services. Zarqawi operated in and out of Saddam Hussein's Iraq. He ordered the murder of an American diplomat in Jordan. He fought against our troops in Afghanistan. And now, in a letter we intercepted, Zarqawi is urging al Qaeda members to wage terrorist war on our coalition in Iraq. 
+
+In the document, Zarqawi describes the terrorist strategy, lays it all out: Tear the country apart with ethnic violence; to undermine Iraqi security forces; to demoralize our coalition; to prevent the rise of a sovereign democratic government. This terrorist outlined his efforts to recruit and train suicide bombers. He boasts of 25 attacks on innocent Iraqis and coalition personnel. 
+
+Zarqawi, and men like him, have made Iraq the central front in our war on terror. The terrorists know that the emergence of a free Iraq will be a major blow against the worldwide terrorist movement. And in this, they are correct. But we've seen this enemy before, and we know how to deal with them. Fighting alongside the people of Afghanistan, we are defeating the terrorists in that country. And fighting alongside the people of Iraq, we will defeat the terrorists there, as well. Iraq, like Afghanistan, will be free. {APPLAUSE} 
+
+We're making good progress against these enemies, by staying on the defensive, with hundreds of patrols and swift and precision raids every single day. Thanks to our military, thanks to our brave soldiers, Iraq citizens do not have to fear the dictator's secret police, or ending up in a mass grave. The torture chambers are closed. Of the top 55 officials of the former regime, we have captured or killed 46. {APPLAUSE} And as for the once all-powerful ruler of Iraq, we found him hiding in a hole. {APPLAUSE} 
+
+At the same time, we're helping Iraqis make daily progress toward democracy. A year ago, Iraq's only law was the whim of one brutal man. Today our coalition is working with the Iraqi Governing Council to draft a basic law with a bill of rights. But we're now working with Iraqis in the United Nations to prepare for a transition to full Iraqi sovereignty. As democracy takes hold in Iraq, the enemies of freedom will do all in their power to spread violence and fear. They're trying to shake the will of our country and our friends. But they don't understand America. They don't understand the nature of our troops. This country and our military will never be intimidated by a bunch of thugs and assassins. {APPLAUSE} 
+
+It is the nature of terrorism that a few evil people can bring grief to many. Here in the Fort Polk community, you have sent brave men and women to confront this evil, and you have said farewell to some of your best. One of them was Private First Class Rey David Cuervo, who was killed in Baghdad. Private Cuervo was born in Mexico and is one of several non-citizens in the military who have given their lives in the defense of America. At my direction, each of them has been posthumously granted a title to which they have brought great honor: Citizen of the United States. {APPLAUSE} 
+
+Last month, PFC Cuervo was laid to rest under a marker with these words: "All gave some, and some gave all." We do not take freedom for granted in America, and we do not take for granted the courage of those who face the danger and do the fighting. May God comfort the families of the lost. May He keep this nation always grateful for their sacrifice. 
+
+All the men and women we have sent to Iraq and Afghanistan have given vital service in the war on terror. By liberating these countries, we and our coalition have delivered more than 50 million people from cruel oppression. We've removed sources of violence and instability from the greater Middle East. We've removed from power enemies of this country. We have made America more secure. {APPLAUSE} 
+
+We face a clear choice in the greater Middle East, either freedom will advance, or that region will continue to export violence to the world. The work of building democracies in nations that have endured decades of tyranny is hard. It's hard work. It will require the kind of sustained commitment that won the Cold War. We accept that duty. We accept that duty in our time because our cause is right. 
+
+Even governments that did not join in the removal of Saddam's regime now understand that democracy in Iraq must succeed. And that work will succeed, because the appeal of freedom is universal. Freedom is not America's gift to the world; freedom is the Almighty God's gift to every man and women in this world. {APPLAUSE} 
+
+The will of this country is strong. The will of our coalition is strong. And what we have begun, we will finish. {APPLAUSE} 
+
+For all Americans, the last three years have brought tests we didn't ask for, and for achievements shared by all. And by our actions we have shown what kind of nation we are. We're a nation with a mission, and that mission comes from our most basic beliefs. We believe that freedom is the right of every single person in the world. By the unselfish dedication of Americans in uniform, people in our own country and in lands far away, people can live in freedom and know the peace that freedom brings. 
+
+America has been given great responsibilities, and they have come to the right country. We don't shirk from any challenge. We're rising to the call of history. Now and in the future, this great republic will lead the cause of freedom and peace. 
+
+May God bless you all, and may God continue to bless our country. {APPLAUSE} Thank you all. {APPLAUSE} 
+
+{/speech} 

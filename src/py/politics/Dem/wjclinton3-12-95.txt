@@ -1,0 +1,52 @@
+﻿{title} Remarks by the President at Kennedy Center Honors Reception {/title}
+{event} The East Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 3, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I am delighted to see you here. I am delighted to see you here on this, what is really the first day of our Christmas season. It is true that Hillary saw these decorations a couple of hours ago, but I went up and crashed. You saw them all before I did. {LAUGHTER}
+
+This is a happy time at the White House, and this is an appropriate way to begin. As all of you know, we've just come home from Europe -- from a trip to London, Belfast, Dublin, to see our forces in Germany, and to Madrid.
+
+I was especially moved again, as I think every person who goes to Ireland is, by the incredible power of the art of Ireland. The Irish playwright, John Milington Synge wrote of artists that they know the stars, the flowers and the birds, and converse with the mountains, moors and ferns.
+
+Today we honor five such artists, and I am delighted to see so many more in the audience tonight joining us. I think all of us know that our nation and our world are in a period of profound change, perhaps the most sweeping period of change in the way we work and live and relate to one another in a hundred years. We know that there is an enormous amount of possibility in this period, and still a great deal to trouble the soul.
+
+At such a time we have to do everything we can to imagine the right kind of future and to remember what is best and constant about human nature throughout all ages. And so at this time we need our artists in a special way, in a profound way. And so, especially at this Christmas season, I welcome all of you to the White House.
+
+Joseph Jacques d'Amboise was a natural athlete and a tough street kid in New York City. He discovered his true gift one day when he took his sister to ballet class and discovered the new sport of dance. Ever since that day he has taken ballet into the neighborhoods and consciousness of America in a way that no other performer has. He has made ballet strong, as well as beautiful. Through his performances in Carousel, Seven Brides for Seven Brothers, and Stars and Stripes -- a distinctively American ballet created especially for him.
+
+He danced until he was 50, which may be young in some careers, but not in ballet -- I'm not so sure it's young in others, as well. {LAUGHTER} Today we thank you for sharing your talents by teaching dance to a whole new generation of performers. We thank you for your work as a performer and choreographer, and for giving new dimension to the world of ballet.
+
+Marilyn Horne made her professional debut at the age of four when she sang at a fundraiser for President Roosevelt -- that's Franklin Roosevelt -- {LAUGHTER} -- and it was very late in his term of service. {LAUGHTER} Showing good judgment in art and politics, she still had a glitch or two in the road. Her career didn't exactly take off in a straight line; in fact, she was rejected from her grade school glee club because her voice was too powerful.
+
+By age seventeen, however, she was back on track giving a solo recital in the Hollywood Bowl and dubbing the music for the title role in the film Carmen Jones. She went on to form a legendary partnership with Joan Sutherland, to record remarkable Christmas carols and, most of all, to light up the opera houses of the world with a spirit as magnificent as her songs. And today as she continues to perform, she is passing on her sheer love of music and her generous spirit.
+
+In addition, Marilyn, to thanking you on behalf of the American people, let me thank you again for your several years of friendship to me and to Hillary, and for gracing our inauguration with your beautiful voice. Thank you.
+
+Riley B. King was known during his days on Memphis's Beale Street as "the blues boy." Eventually he became known to all America simply as B.B. King. For generations of Americans the music and the man are synonymous.
+
+Like nearly everyone else my age, I grew up listening to Three O'Clock Blues. B.B. King was a troubadour on the American road. He spent decades touring, perfecting and inventing. The sounds he created became the soul of a new music, with Jerry Garcia, Eric Clapton and the Rolling Stones all modeling their music after his.
+
+He has traveled the world to represent our country, and set hands clapping from London to Lagos. He still averages -- listen to this -- 275 performances a year. Music is his life; and, yes, the blues is B.B. King.
+
+When Sidney Poitier left Cat Island in the Bahamas for Miami at the age of 15, he was stunned at the signs of segregation -- signs that read "colored" and "white." More than any other person, he would remove those signs from the world of film.
+
+He broke these barriers by sheer force of his powerful presence on screen. From the start he was a leading man, and his performances have become landmarks in America's consciousness of itself. When he filmed "Cry, The Beloved Country" he had to enter South Africa as an indentured servant to the director.
+
+But we are all grateful to him and in his service for the way he has graced the screen with films like "To Sir, With Love," Guess Who's Coming To Dinner," "A Raisin In The Sun," and many, many others. He has captivated us with his performances and reminded us that excellence comes in all colors. Thank you for entertaining and educating America with dignity, strength and grace, Sidney Poitier.
+
+Marvin Neil Simon's humor distills the essence of his life and our lives -- sometimes whether we like it or not. {LAUGHTER} He has written the lines behind the laughs of Phil Silver, Victor Borge, Buddy Hackett and Jackie Gleason. He collaborated with Sid Caesar on what many people hailed as "the best show ever on television." He has written a string of magnificent hit plays unprecedented in the history of the American theater.
+
+Audiences found them so funny that at first, that few people noticed the gentle, deep and sometimes sharp truths behind the comedy. Felix and Oscar became American archetypes. We saw what it was to grow up in "Brighton Beach Memoirs" and to grow older in "The Sunshine Boys." We saw flaws, foibles, faults; but always, through them all, the indominability of the human spirit.
+
+Neil Simon takes his work seriously, but he challenges us and himself never to take ourselves too seriously. Thank you for the wit and the wisdom.
+
+Today we meet at the summit of five lives of artistic grace and greatness. Jacques D'Amboise, Marilyn Horne, B.B. King, Sidney Poitier and Neil Simon -- we are pleased to honor all of you for your work. But more importantly, we honor you for your spirit and your hearts.
+
+Thank you and congratulations. {APPLAUSE} 
+
+{/speech}

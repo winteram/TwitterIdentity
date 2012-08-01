@@ -1,0 +1,41 @@
+﻿{title} Speech at NARAL Pro-Choice America Dinner {/title}
+{event} ----- {/event}
+{speaker} Howard Dean {/speaker}
+{date} January 21, 2003 {/date}
+{source} http://www.gwu.edu {/source}
+{description} ----- {/description}
+
+
+{speech}
+
+Thank you. I saw Rev. Sharpton in a restaurant in New York the other day and I was very pleased he offered me a vice presidential spot on his ticket, and I really appreciate Reverend very very much. {LAUGHTER} 
+
+You know we all have our reasons for running. I'm running because I don't like extremism, and I think extremism has taken over our country. {APPLAUSE} 
+
+I'm going to talk to you as a governor and as a doctor tonight, but I was thinking as I was listening to the four speakers how much is at stake. It's not just abortion rights or reproductive freedoms. Title IX is under attack by this administration {APPLAUSE} and I think if one of us doesn't win, next thing girls won't be able to go to school in America, you watch. {LAUGHTER} 
+
+Now Vermont is the promised land for you folks {LAUGHTER} . I'm the governor, I was the governor up 'til last week. I served on the board of Planned Parenthood of Northern New England for five years. {CHEERS ; APPLAUSE} When I became governor I had to resign because all--we contracted all our family planning services through Planned Parenthood in Vermont. 
+
+We do not hearken to the term "partial birth abortion" in my state because {APPLAUSE} because partial birth abortion is like the word quota. The President used it six times last night. It's a code word. It's designed to appeal to people's fears, to divisiveness. Partial birth abortion is the same thing. {CHEERS ; APPLAUSE} 
+
+The truth is I went and checked and tried to figure out, because I was running against a conservative person the last two times I ran. I checked, because I knew this would come up, how many late, third trimester abortions had been done in the state of Vermont in the last four years. The number was--. Zero. 
+
+This is an issue about nothing; it's an issue about extremism; it's an issue about appealing to people's fears. It is the wrong thing to do and people who use the term partial birth abortion are leading an America in a bad place. {APPLAUSE} They are trying to divide us people of conscience; it is the wrong thing to do. It's no more honorable for the President of the United States using the word quota, because he knows it divides us by race and use of the word partial birth abortion divides us by conscience. {CHEERS ; APPLAUSE} 
+
+There are many good people who on moral grounds are opposed to abortion. I respect them. I do not respect the people who defend the throwing of bombs and murders of doctors however. And some of those exist in our very administration, people who have not stood up against violence; they thought it would be better for their political careers if they didn't say too much about it. The chairman of the Judiciary Committee, last year, who refused to allow the banking bill to go through 'cause it outlawed terrorism at abortion clinics. That is a shameful act {APPLAUSE} and the American people ought to be ashamed of that. {APPLAUSE} 
+
+Let me tell you a story. As many of you know I'm a doctor. I'm an internist, and I take care of all ages pretty much from five to 105, and one time I was sitting in my office, and it was not unusual for young kids to come and talk to me because I knew the whole family, and one time a young lady came into my office who was 12 years old and she thought she might be pregnant. And we did the tests and did the exam and she was pregnant. She didn't know what to do. And after I had talked to her for a while I came to the conclusion that the likely father of her child was her own father. You explain that to the American people who think that parental notification is a good idea. {CHEERS ; APPLAUSE} 
+
+I will veto parental notification. {CHEERS ; APPLAUSE} 
+
+In Vermont we don't have parental notification bills, but you know what, 85 percent of all minors that seek an abortion bring their parent with them voluntarily. {APPLAUSE} It is the right thing to do. When I was practicing medicine, if a young lady came to me and she was pregnant, I'd sit with her in her office and the first thing I'd do is try to convince her she ought to tell her folks, 'cause I know her folks; I usually treated them too. And sometimes she'd even say, I don't dare, I don't dare. My father'll kill me. In a small percentage of the cases that's true, and that's why we don't want the government telling us how to practice medicine. {CHEERS ; APPLAUSE} 
+
+Abortion is connected to civil rights, because the government is so impressed with itself in promoting individual freedom they can't wait to get into your bedroom and tell you how to behave. {APPLAUSE} And I don't think, as a physician--people ask me what's your position on abortion. It's very simple; it's a single sentence. The practice of medicine is none of the government's business and they ought to stay out of it. {CHEERS ; APPLAUSE} This is a private relationship, this is a private relationship between the physician, the patient and whoever the patient chooses to involve in that position. 
+
+If you become pregnant unexpectedly and it's an unwanted pregnancy, you have three choices. And you have to live with those choices for the rest of your life. You can give that baby up for adoption, and you can talk to women who have done that and they wonder for the rest of their lives what, where that child might be and what might have become of that child. You can have the baby and keep that child. Sometimes that works out. Sometimes with 14- and 15-year olds it doesn't work out very well. A teenager who has a child below the age of 18 has an 80 percent chance of being on welfare for the forseeable future. We can do better than that. {APPLAUSE} 
+
+And the last choice is to have an abortion. And for those who have had abortions that is also a very difficult decision, and also a decision that you will wonder about for the rest of your life. This is an extraordinarily difficult decision; it's certainly a decision that has to be lived with by the patient for the rest of your life, and what in the world can the government be thinking about for the president of the United States and nine old folks on the Supreme Court, five of whom are so far to the right that we can't see them any more {CHEERS} , what in the world, what in the world can they be thinking that they have the right to decide the life a young woman who has the choice of adopting, keeping or aborting. They have to live with that decision for the rest of their life. President Bush can go cut brush on his ranch in Crawford and not give it a second thought. {CHEERS ; APPLAUSE} 
+
+We can do better. We can do better. We -- can -- do -- better. {CHEERS ; APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,49 @@
+﻿{title} President Speaks at Veterans Day Prayer Breakfast {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} November 11, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. At ease. 
+
+{AUDIENCE-MEMBER} Let's roll! {/AUDIENCE-MEMBER} 
+
+Let's roll. {APPLAUSE} 
+
+Thank you so much, Commissioner. I'm so pleased to be back in New York City to pay honor to our veterans, those from the New York State and New York City area, and those all around America. It's such an honor to say on behalf of the American people, thanks for your service. {APPLAUSE} 
+
+It's such an honor to be in the presence of Cardinal Egan, a man who brings such comfort and solace to those who mourn, and hope to those of us who live. So, Cardinal Egan, thank you so much for your leadership and your strength. 
+
+I also am so pleased and thrilled to be with my friend, the Governor, who is doing a fabulous job for the people of New York. {APPLAUSE} 
+
+And you know something, I'm going down to Crawford next Wednesday -- that's Crawford, Texas, that is. There you go. {LAUGHTER} And there's a new household name down there -- Rudy. What a great job Rudy has done. {APPLAUSE} He's done a fabulous job. And I agree with Rudy, he's being replaced by a really good man, Michael Bloomberg. Michael, good luck. Congratulations, and we appreciate you running. {APPLAUSE} 
+
+Leo, thank you for being here. You represent the best of those who came from the private sector to serve our government. I want to thank you for your leadership at the VA. 
+
+I also want to recognize a person who I became friends with in a very difficult moment, and that's Ms. Arlene Howard. Arlene, would you stand up for a second, please? {APPLAUSE} Good to see you, Arlene. Arlene is a veteran. She served in the United States Navy, as did her late husband Robert. And she's a veteran of September the 11th in a sad way. Her son George was at the World Trade Center. She gave me something that I showed the nation a while ago, the badge of George. It's a reminder of the wrong done to our country, Arlene. Thank you for that reminder. {APPLAUSE} It is also a reminder of the great purpose of our great land, and that is to rid this world of evil and terror. {APPLAUSE} 
+
+The evil ones have roused a might nation, a mighty land. And for however long it takes, I am determined that we will prevail. And prevail we must, because we fight for one thing, and that is the freedom of our people, and the freedom of people everywhere. {APPLAUSE} 
+
+And I want to thank the Commissioner, who is a veteran as well -- a veteran in the military, and a veteran of a new kind of war, one fought here on the home front. He represents the fabulous men and women who wear the uniform of the police and fire and rescue units, the Port Authority here in New York City, people who serve with such distinction and such courage that whenever an American hears the word police or fire we think differently. We think differently about the job. We think differently about the character of those who serve on a daily basis. We think differently about those who go to work every single day to protect us and save us and comfort us. 
+
+What a noble profession the Commissioner represents. And what a great job he's done for New York City. {APPLAUSE} 
+
+And in a time of war, we look a little differently at our veterans, too. We pay tributes on Veterans Day, today, and they're made with a little greater feeling, because Americans have seen the terrible harm that an enemy can inflict. And it has left us deeply grateful for the men and women who rise strongly in the defense of our nation. We appreciate the sacrifices that our military is making today. We appreciate the sacrifices that their families make with them. 
+
+When the call comes to defend our country, our military is ready, and is making us proud. {APPLAUSE} Al Qaeda and the Taliban have made a serious mistake. And because our military is brave and prepared and courageous, they will pay a serious price. {APPLAUSE} 
+
+America has always needed such bravery and such people, and we have always found them amongst us. Generations of our servicemen and women have not only fought for our country in the past, they have upheld our honorable traditions, and represented our country with courage and honor. And wherever our military has gone, they have brought pride to our own people and hope to millions of others. 
+
+One veteran of World War II recalled the spirit of the American military and the relief it brought to suffering peoples. America, he said, has sent the best of her young men around the world, not to conquer, but to liberate; not to terrorize, but to help. 
+
+And this is true in Afghanistan today. And this has always been true of the men and women who have served our nation. This nation is freedom's home, and freedom's defender. And we owe so much -- so much -- to the men and women, our veterans, who step forward to protect those freedoms. {APPLAUSE} 
+
+Our veterans gave America some of the best years of their lives, and stood ready to give life itself. For all that, America's 25 million veterans have the deep respect of their fellow citizens, and the enduring gratitude of a nation they so nobly served. 
+
+May God bless our veterans, and may God continue to bless America. {APPLAUSE} 
+
+{/speech} 

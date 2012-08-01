@@ -1,0 +1,43 @@
+﻿{title} President's Remarks Via Satellite to the Southern Baptist Convention {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 15, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. Thank you very much, Jack. Thank you all, very much. Thank you all. Thanks a lot. I appreciate that kind introduction from a fellow Texan. And I'm grateful for the chance to speak to this annual meeting of the Southern Baptist Convention. Jack, you've done a great job, and I'm proud to call you, friend. 
+
+Laura and I are also thankful for your prayers. I have felt them at crucial hours. Your convention has a proud tradition going back to your first gathering in Augusta, Georgia almost 160 years ago. You represent more than 16 million Southern Baptists and congregations all across our country, and many others who serve as missionaries far from home. And all of you are living out the high-calling of spreading the good news and proclaiming the Kingdom of God. 
+
+Since I spoke to this convention two years ago, our country has been meeting great challenges. To defend our nation, we have continued to pursue terrorists wherever they hide and plan. And one by one, we are bringing them to justice. {APPLAUSE} In Afghanistan, we are standing with the Afghan people as they move toward free elections. In Iraq, America and our allies have set an entire nation free from the rule of a dictator. And at the end of this month, the world will see a sovereign government in Baghdad. {APPLAUSE} 
+
+The rise of free societies in Afghanistan and Iraq will provide a powerful example of liberty in a troubled region, and it will make the American people more secure. There are tough challenges remaining in both these nations. In Afghanistan and Iraq, we will finish the job. {APPLAUSE} 
+
+I appreciate your strong support for our efforts in the war on terror. I understand, as you do, that freedom is not America's gift to the world. Freedom is the almighty God's gift to every man and woman who lives in this world. {APPLAUSE} 
+
+We are grateful for the blessing to live in a free nation with the strength to defend our nation. And we will always be grateful to the brave men and women of the United States military who volunteer to defend us all. {APPLAUSE} 
+
+Here at home, we're making tremendous progress, and we've made tremendous progress over the past few years. We've reduced the tax burden on America's families and small businesses, leaving more money in the hands that earned it, and therefore, adding momentum to the growth of our economy. We've created more than 1.4 million jobs since last August. And over the past year, our economy has grown at its fastest rate in nearly 20 years. {APPLAUSE} 
+
+We brought high standards and accountability to the public schools so that no child is left behind. We've kept the commitments of Medicare by extending the benefits of modern health care and prescription drugs to millions of America's seniors and people with disabilities. 
+
+We will build on our achievements in other areas, as well. I will keep working to build a culture of life in America. {APPLAUSE} I've been proud to sign the Born-Alive Infants Protection Act, and legislation supporting maternity group homes. {APPLAUSE} Earlier this year, I signed the Unborn Victims of Violence Act. Common sense and conscience tell us that when an expectant mother is killed two lives are ended, and the criminal should answer for both crimes. {APPLAUSE} 
+
+Last November, I signed a law to end the brutal practice of partial-birth abortion. {APPLAUSE} This law is not only valid and constitutional, it is compassionate and urgently needed, and my administration will fight to uphold it. {APPLAUSE} 
+
+We will also continue our support for crisis pregnancy centers, incentives for adoption and parental notification laws. I propose to double federal funding for abstinence programs in schools and community-based programs. {APPLAUSE} And I will work with Congress to pass a comprehensive and effective ban on human cloning. {APPLAUSE} Life is a creation of God, not a commodity to be exploited by man. {APPLAUSE} 
+
+My administration is defending the sanctity of marriage against activist courts and local officials who want to redefine marriage forever. {APPLAUSE} The union of a man and woman is the most enduring human institution, honored and encouraged in all cultures and by every religious faith. And government, by strengthening and protecting marriage, serves the interests of all. So I am calling for funding for healthy marriage programs, and I support a constitutional amendment to protect marriage as a union of a man and a woman. {APPLAUSE} 
+
+I will continue our efforts to defend the liberty of religious organizations. Faith-based charities have a right to provide publicly-funded social services, just like any other group. You see, our government should welcome faith. So I have signed an executive order allowing religious charities who seek government support to compete for funding on a level playing field. I call on Congress to codify my faith-based initiative into law, so that people of faith can know government will never discriminate against them again. {APPLAUSE} 
+
+It is my responsibility as your President to make sure the judicial system runs well, and I am meeting that duty. I have nominated superb men and women for the federal courts, people who will strictly interpret the law, not legislate from the bench as activist judges. Some members of the Senate are resorting to unprecedented tactics to block votes on my good nominees. This is unfair to the nominees, and damaging to the judicial system. Every nominee deserves a fair hearing and a timely vote on the Senate floor. It is time for those senators to stop playing politics with American justice. {APPLAUSE} 
+
+These years have brought trials we did not ask for, and challenges we never expected to face. We have worked together, and we are rising to meet the duties of our time. Now we look forward with confidence and faith toward greater security and wider prosperity and a stronger culture of life. We pray always for God's guidance and strength in our lives and for this great nation. 
+
+I thank you for the opportunity to speak to this convention. I'm sorry I couldn't be there in person. May God bless all of you, and may God continue to bless the United States of America. {APPLAUSE} 
+
+{/speech} 

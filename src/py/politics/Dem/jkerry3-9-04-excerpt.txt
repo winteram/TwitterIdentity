@@ -1,0 +1,71 @@
+﻿{title} speech in Springfield {/title}
+{event} ----- {/event}
+{speaker} John Kerry {/speaker}
+{date} September 3, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+... unfit for duty. Misleading our nation into war in Iraq makes you unfit to lead our country. {APPLAUSE}
+
+Doing nothing while this nation loses millions of jobs makes you unfit to lead this country. {APPLAUSE}
+
+Letting 45 million Americans go without health care for four years makes you unfit to lead this country. {APPLAUSE}
+
+Letting the Saudi royal family control the price of oil for Americans makes you unfit to lead this country. {APPLAUSE}
+
+Handing out billions of dollars in contracts without a bid to Halliburton while you're still on the payroll makes you unfit to lead this country. {APPLAUSE}
+
+That, my friends, is the record of George Bush and of Dick Cheney and that only begins to scratch the surface. I think that you believe, as John and I do, that it's time for us to have a different kind of conversation in this nation of ours. 
+
+This president has misled American works and misled the American people. And I think all of you out there, you watched our convention. Four days -- I want you to just think about what Barack Obama said to our country as he stood up and spoke about one nation and about the positive vision that we offered.
+
+Four years ago, George Bush offered America a plan for our economy. But, once again, he misled America, because he told you four years that, if we had these great big tax cuts, he was going to create 5.6 million jobs. He told you that he was going to create -- he was going to create 266,000 jobs right here in Ohio. Ohio lost 230,000 jobs. Ohio lost 112,000 jobs from the date after the recession ended, after he had promised a new round of a million jobs. My friends, it's too late two months before an election to come leaping into a convention and make a bunch of promises when you haven't even kept the promises that you made before. {APPLAUSE}
+
+And I'll tell you what John Edwards and I know. I've met workers out here in Ohio who've not only lost their jobs and watched them go overseas, but who've actually had to unbolt the equipment that they worked on and put it in a crate and send it to follow the job that went overseas. 
+
+You didn't hear anything about that tonight, but let me tell you something: When John Edwards and I get in there with your help we're going to take that tax code that you're paying for and we're going to change what they're supporting and encouraging which is asking you to actually reward those companies that take the jobs overseas.
+
+When John Edwards and I are in there, we're not only not to reward the companies that take the jobs overseas, we're going to close that loophole. No American worker will ever be asked to subsidize the loss of their own job. {APPLAUSE}
+
+And you know what else we're going to do? We're going to do something that makes common sense, which is what we need to restore to the main street of America. We're going to actually take the money that now goes to the companies that go overseas and we're going to reward the companies that create the manufacturing jobs right here in the United States of America. That makes sense. {APPLAUSE}
+
+Let me tell you what else we're going to do. We're going to start to do what America does best. Every single one of you knows the power of our country comes from our spirit, from the American spirit of ingenuity, of creativity, of exploration, of science. 
+
+And John and I are going to recommit America to the discovery and the creation of those new jobs that pay you more than the $9,000 less for the jobs that are going overseas. We need a president who fights as hard for your jobs as he fights for his own job, and that's exactly what we're going to do over the course of these next years. {APPLAUSE}
+
+We're going to -- we've gone four years -- you've gone four years, and all across America, as John and I travel with Elizabeth and Teresa, we're meeting families who look us in the eye and say, "I can't afford it anymore. We can't get health care. There's no way to continue to pay the increasing premiums that have gone up 50 percent." 
+
+Tuitions have gone up 35 percent. Gas prices up 31 percent. And wages have gone down. I'll tell you this: When I'm president of the United States, that tax code that belongs to you, that's 17,000 pages long today and you don't have a page of it, we're going to put that back in the scrutiny of all Americans and we are going to make America's workplace fair again so it works for the average American. {APPLAUSE}
+
+And George Bush talked about health care four years ago. He talked about health care for the last four years, talked and talked. But the fact is that, on the last year, 1.4 million Americans lost their health care. In the last four years, 5 million Americans have lost their health care. We're now up to $45 million Americans who go to bed at night worried, don't know what to do, pray they won't get sick, don't know where to turn.
+
+And only John Edwards and John Kerry have put before America a plan that says your family's health care is just as important as any politician in Washington, D.C. We're going to provide health care to all Americans.
+
+We've also seen George Bush make America more dependent, not less, on fuel oil that comes from other countries. God only gave three percent of the world's oil reserves, folks. That didn't change during the time George Bush has been president. And we import 61 percent of our oil.
+
+Yet, we're still not moving down the road of discovery which would create millions of new jobs in this country. We need to change the president and have a president who understands no young American in uniform should ever be held hostage to America's dependence on oil in the Middle East. We're going to liberate ourselves. We're going to make ourselves energy independent. {APPLAUSE}
+
+And, finally, there is this issue of Iraq. We deserve a president -- this is the most serious issue we face right now. And this is not an issue -- this is not an issue that ought to be the subject of Democrat, Republican. That's not where it comes from.
+
+This comes from the heart, the gut and from the head, the common sense of Americans. This president misled America into this war. This president told Americans that Iraq had reconstituted a nuclear plan, but they hadn't. He told Americans there were those weapons of mass destruction, and people believed him. There weren't.
+
+He told Americans that this war would cost us $1 billion and the oil from Iraq would pay for it. $200 billion later, and tragically, tragically, too many lives later, Iraq is a mess and the world is not at the side of the United States of America.
+
+I pledge to you, I defended this country as a young man and I will defend it as president of the United States of America. {APPLAUSE}
+
+{AUDIENCE} Kerry. Kerry. Kerry. {/AUDIENCE} 
+
+Our soldiers are doing an extraordinary job. These are the best and the brightest, the most remarkable people in the military that I've ever seen. I visited a hospital the other day and met a couple of young soldiers that'd been wounded. I've never seen spirit like that. They're amazing.
+
+But they deserve leadership that helps them to do the job right, that helps America to reduce the cost to the American taxpayer, that helps America to have allies at our side so we're not carrying 90 percent of the casualties and 90 percent of the cost. We need to get this war out of the pocket of the American taxpayer and we need to get the target off of the front and back of the American soldier. And I will do that. {APPLAUSE}
+
+So I don't think the agenda has ever been as clear as it is today. And I think that's why so many of you have come out here tonight. And wherever we've gone across this country, John and I have met people who just want simple things like the truth. 
+
+They just want people to stand up and talk to them about real things that make a difference, like how we raise the wages of workers, how we make the workplace fair, how we don't go backwards on a 40-hour work week and continue to pay people overtime that they deserve, how we create the jobs of the future. 
+
+People just want to know that health care isn't reserved for the wealthy, and the connected, and the elected. It's not a privilege in America. It's a right. And when John Edwards and I are there, we'll make it a right that's available to every single American.
+
+{/speech} 

@@ -1,0 +1,29 @@
+﻿{title} Remarks by the President at Pageant of Peace {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 6, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you so much. To John Betchkal, the Pageant of Peace Chairman; Reverend John Tavlarides. To the Sherando High School Choir, congratulations. You guys were great tonight. To Brendan and Bridget Walsh, the Washington Ballet; to Denise Graves and Jack Jones and Kathy Lee Gifford, and the Navy Band; and of course, to Santa Claus. I would come here every year just to see Santa Claus. 
+
+We gather to begin our nation's celebration of the Christmas season with the lighting of this magnificent tree -- a symbol, as evergreens have always been, of the infinite capacity of nature and people to renew themselves. We give gifts and we count our blessings. 
+
+My fellow Americans, I have just returned from a very moving trip to Europe -- to England and to Northern Ireland and the Republic of Ireland; to Germany to see our troops, and to Spain. And I can tell you that among the things that I feel most grateful for at this Christmastime is the way people around the world look at our America. They see a nation graced by peace and prosperity; a land of freedom and fairness. And even though it imposes extra burdens on us, they trust us to work with them to share the blessings of peace. 
+
+This is my second Christmas tree lighting of the season, for just a few days ago I was in Belfast with the people of Northern Ireland, Protestant and Catholic alike, searching, yearning, longing for peace -- celebrating their second Christmas of peace. I'm proud that I was introduced there by two children -- a little Catholic girl named Catherine Hamill, and a young Protestant boy named David Sterrett, who joined hands and told the world of their hopes of the future; a future in which the only barriers they face are the limits of their dreams. That is the future we should want for our children and for all the children of the world. 
+
+I'm very pleased that Catherine Hamill, who touched the whole world with the story of her suffering and her family's losses in Northern Ireland, and her family are here with us tonight to celebrate this lighting of the Christmas tree. And I'd like to ask her to stand up right down here and ask all of you to give her a fine hand. She has come all the way from Northern Ireland. {APPLAUSE} 
+
+Remember at this Christmastime we celebrate the birth of a homeless child, whose only shelter was the straw of a manager, but who grew to become the Prince of Peace. The Prince of Peace said, "Blessed are the peacemakers." Let us bless the peacemakers at this Christmastime from the Middle East to Northern Ireland to our own troops in Bosnia. Let us pray especially for our peacemakers, those who will go to Bosnia and those who are soon to come home from Haiti. 
+
+And let us resolve, my fellow Americans, to be peacemakers. For just as so many nations around the world and so many children around the world cry for peace, so do we need peace here at home in our toughest neighborhoods, where there are children, so many children who deserve to have their childhood and their future free and peaceful. 
+
+And let us remember from the example of the Prince of Peace how even the humblest of us can do through acts of goodness and reconciliation extraordinary things. And as we light this wonderful Christmas tree, let us all remember that together a million small lights add up to make a great blaze of glory -- not for ourselves, but for our families, our nation and the world, and for the future of our children. 
+
+Merry Christmas, and blessed are the peacemakers. {APPLAUSE} 
+
+{/speech} 

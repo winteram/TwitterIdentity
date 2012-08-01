@@ -1,0 +1,46 @@
+﻿{title} Remarks by the President at Signing of the Iran Sanctions Act {/title}
+{event} Signing of the Iran Sanctions Act {/event}
+{speaker} Barack Obama {/speaker}
+{date} July 1, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Please have a seat, everybody. Good evening, everybody. As President, one of my highest national security priorities is to prevent the spread of nuclear weapons. That's why my administration has aggressively pursued a comprehensive agenda of non-proliferation and nuclear security.
+
+Leading by example, we agreed with Russia to reduce our nuclear arsenals through the New START Treaty —- and I've urged the Senate to move forward with ratification this year. And with allies and partners, we've strengthened the global non-proliferation regime, including the cornerstone of our efforts -—the Nuclear Non-Proliferation Treaty.
+
+Now, in the entire world, there is only one signatory to the NPT -— only one -— that has been unable to convince the International Atomic Energy Agency that its nuclear program is for peaceful purposes. One nation. And that nation is Iran. For years, the Iranian government has violated its commitments, defied United Nations Security Council resolutions, and forged ahead with its nuclear program —- all while supporting terrorist groups and suppressing the aspirations of the Iranian people.
+
+Since taking office, I've made it clear that the United States was prepared to begin a new chapter of engagement with the Islamic Republic of Iran. We offered the Iranian government a clear choice. It could fulfill its international obligations and realize greater security, deeper economic and political integration with the world, and a better future for all Iranians. Or it could continue to flout its responsibilities and face even more pressure and isolation.
+
+To date, Iran has chosen the path of defiance. That's why we have steadily built a broader and deeper coalition of nations to pressure the Iranian government. Last month, we joined with our partners at the U.N. Security Council to pass the toughest and most comprehensive multilateral sanctions that the Iranian government has ever faced. {APPLAUSE} And I want to specifically single out our tireless -- and I mean tireless -- Ambassador to the United Nations, Susan Rice, for her terrific -- {APPLAUSE}
+
+As I said last month, we are going to make sure that these sanctions are vigorously enforced. At the same time, we'll work with our allies and friends to refine and enforce our own sanctions on Iran. And that's exactly what we've been doing. Here in the United States —- thanks to the efforts of my Treasury Secretary, Tim Geithner, and Under Secretary Stuart Levey —- {APPLAUSE} -- they have been terrific on this effort; Stuart has been just outstanding -- we have imposed sanctions against more institutions, more individuals involved with Iran's nuclear and missile programs.
+
+Other nations are now acting alongside us -- nations like Australia, which announced new sanctions, including those against a major Iranian bank and Iran's shipping company. The European Union is moving ahead with additional strong measures against Iran's financial, banking, insurance, transportation, and energy sectors, as well as Iran's Revolutionary Guard. Other countries, like Canada, have indicated they will also be taking action. In other words, we are ratcheting up the pressure on the Iranian government for its failure to meet its obligations.
+
+And today, we're taking another step —- a step that demonstrates the broad and bipartisan support for holding Iran accountable. I'm pleased to sign into law the toughest sanctions against Iran ever passed by the United States Congress -— the Comprehensive Iran Sanctions, Accountability, and Divestment Act. {APPLAUSE}
+
+I want to thank all the members of Congress who worked on behalf of this legislation, including another tireless person, but who never seems to break a sweat -- the Speaker of the House, Nancy Pelosi. {APPLAUSE} I want to thank Representatives Steny Hoyer and Eric Cantor for doing outstanding work. {APPLAUSE} Although they weren't able to join us, I want to acknowledge Senators Harry Reid, Jon Kyl and Richard Shelby. And I want to thank those who led the effort to forge a final bill that received overwhelming bipartisan support —- Senator Chris Dodd and Representative Howard Berman. Thank you for your good work. {APPLAUSE}
+
+Consistent with the Security Council mandate, this legislation strengthens existing sanctions, authorizes new ones and supports our multilateral diplomatic strategy to address Iran's nuclear program. It makes it harder for the Iranian government to purchase refined petroleum and the goods, services and materials to modernize Iran's oil and natural gas sector. It makes it harder for the Revolutionary Guards and banks that support Iran's nuclear programs and terrorism to engage in international finance. It says to companies seeking procurement contracts with the United States government -— if you want to do business with us, you first have to certify that you're not doing prohibited business with Iran.
+
+In short, with these sanctions -— along with others —- we are striking at the heart of the Iranian government's ability to fund and develop its nuclear program. We're showing the Iranian government that its actions have consequences. And if it persists, the pressure will continue to mount, and its isolation will continue to deepen. There should be no doubt —- the United States and the international community are determined to prevent Iran from acquiring nuclear weapons.
+
+Finally, even as we increase pressure on the Iranian government, we're sending an unmistakable message that the United States stands with the Iranian people as they seek to exercise their universal rights. This legislation imposes sanctions on individuals who commit serious human rights abuses. And it exempts from our trade embargo technologies that allow the Iranian people to access information and communicate freely. In Iran and around the world, the United States of America will continue to stand with those who seek justice and progress and the human rights and dignity of all people.
+
+So, again, this is not a day that we sought -— but it is an outcome that was chosen by the Iranian government when it repeatedly failed to meet its responsibilities. And the government of Iran still has a choice. The door to diplomacy remains open. Iran can prove that its intentions are peaceful. It can meet its obligations under the NPT and achieve the security and prosperity worthy of a great nation.
+
+It can have confidence in the Iranian people and allow their rights to flourish. For Iranians are heirs to a remarkable history. They are renowned for their talents and their contributions to humanity. Here in the United States, Iranian-Americans have thrived. And within Iran, there's great potential for the Iranian people to forge greater prosperity through deeper integration with the international community, including with the United States.
+
+That's the future we do seek -– one where Iran's leaders do not hold their own people back by failing to live up to Iran's international obligations, and where Iran can reclaim its place in the community of nations and find greater peace and prosperity.
+
+That is the Iranian government's choice. And it remains our hope that they choose this path, even as we are clear-eyed and vigilant about the difficult challenges ahead.
+
+So, with that, I will sign this legislation into law. {APPLAUSE}
+
+{COMMENT="The bill is signed"} {APPLAUSE} 
+
+{/speech}

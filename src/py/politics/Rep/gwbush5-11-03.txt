@@ -1,0 +1,37 @@
+﻿{title} President Bush Signs Partial Birth Abortion Ban Act of 2003 {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} November 5, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Good afternoon. I'm pleased that all of you have joined us as the Partial Birth Abortion Ban Act of 2003 becomes the law of the land. {APPLAUSE} For years, a terrible form of violence has been directed against children who are inches from birth, while the law looked the other way. Today, at last, the American people and our government have confronted the violence and come to the defense of the innocent child. {APPLAUSE} 
+
+I want to thank you all for coming. Many of you have worked long and hard to see this bill come to fruition, and we thank you for your efforts. 
+
+{AUDIENCE-MEMBER} Thank you, Mr. President. {/AUDIENCE-MEMBER} {APPLAUSE} 
+
+I see some members of my Cabinet have come. I appreciate the good work of the Attorney General, John Ashcroft. {APPLAUSE} Secretary of the Department of Health and Human Services, Tommy Thompson, is here. Thank you, Tommy. {APPLAUSE} There are a lot of members of the Senate and House here today, I want to thank you all for passing this important legislation. I'm glad you're here. {APPLAUSE} 
+
+The primary Senate sponsor is with us, Senator Rick Santorum. {APPLAUSE} Senator Orrin Hatch and Senator Mike DeWine helped, as well, in the Senate. Thank you all very much. {APPLAUSE} Steve Chabot was the primary House sponsor, and Steve is with us. Thanks for coming, Steve. {APPLAUSE} I'm thankful that our Speaker is with us today. Mr. Speaker, I appreciate you coming. {APPLAUSE} The Majority Leader, Tom DeLay, as well. Thank you for coming, Tom. {APPLAUSE} 
+
+I'd like to mention three other members of the House. Henry Hyde is with us today. Mr. Chairman, we appreciate you coming. {APPLAUSE} Jim Oberstar is with us. Jim, thank you for being here, sir, I appreciate you coming. {APPLAUSE} Bart Stupak, from Michigan, is with us, as well. Thanks for coming, Bart, glad you're here. {APPLAUSE} 
+
+I appreciate His Eminence, Cardinal Egan, is with us today. Thank you very much, sir. {APPLAUSE} 
+
+In passing this legislation, members of the House and Senate made a studied decision based upon compelling evidence. The best case against partial birth abortion is a simple description of what happens and to whom it happens. It involves the partial delivery of a live boy or girl, and a sudden, violent end of that life. Our nation owes its children a different and better welcome. {APPLAUSE} The bill I am about to sign protecting innocent new life from this practice reflects the compassion and humanity of America. 
+
+In the course of the congressional debate, the facts became clear. Each year, thousands of partial birth abortions are committed. As Doctor C. Everett Koop, the pediatrician and former Surgeon General has pointed out, the majority of partial birth abortions are not required by medical emergency. As Congress has found, the practice is widely regarded within the medical profession as unnecessary, not only cruel to the child, but harmful to the mother, and a violation of medical ethics. {APPLAUSE} 
+
+The facts about partial birth abortion are troubling and tragic, and no lawyer's brief can make them seem otherwise. {APPLAUSE} By acting to prevent this practice, the elected branches of our government have affirmed a basic standard of humanity, the duty of the strong to protect the weak. The wide agreement amongst men and women on this issue, regardless of political party, shows that bitterness in political debate can be overcome by compassion and the power of conscience. And the executive branch will vigorously defend this law against any who would try to overturn it in the courts. {APPLAUSE} 
+
+America stands for liberty, for the pursuit of happiness and for the unalienable right of life. And the most basic duty of government is to defend the life of the innocent. Every person, however frail or vulnerable, has a place and a purpose in this world. Every person has a special dignity. This right to life cannot be granted or denied by government, because it does not come from government, it comes from the Creator of life. {APPLAUSE} 
+
+In the debate about the rights of the unborn, we are asked to broaden the circle of our moral concern. We're asked to live out our calling as Americans. We're asked to honor our own standards, announced on the day of our founding in the Declaration of Independence. We're asked by our convictions and tradition and compassion to build a culture of life, and make this a more just and welcoming society. And today, we welcome vulnerable children into the care and protection of Americans. {APPLAUSE} 
+
+The late Pennsylvania Governor Robert Casey once said that: when we look to the unborn child, the real issue is not when life begins, but when love begins. {APPLAUSE} This is the generous and merciful spirit of our country at its best. This spirit is reflected in the Partial Birth Abortion Ban Act of 2003, which I am now honored to sign into law. God bless. {APPLAUSE} 
+
+{/speech} 

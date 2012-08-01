@@ -1,0 +1,41 @@
+﻿{title} speak at the GOP national convention {/title}
+{event} ----- {/event}
+{speaker} Gerald Ford {/speaker}
+{date} August 12, 1996 {/date}
+{source} http://www.pbs.org/newshour/convention96/floor_speeches/ford.html {/source}
+{description} ----- {/description}
+
+{speech}
+
+Thank you. Thank you. Thank you, Governor Bush. Delegates, all Americans, welcome to the 36th Republican National Convention. It's definitely not true that I've seen them all. I have seen most of them since 1940, when I was the young rebel among others who stormed onto the convention floor in Philadelphia shouting, "We want Wilkie!" That was my first whiff of political campaigning. I'll tell you a secret: I did inhale. {LAUGHTER} 
+
+And I still love it. Ask my wife, Betty. We're on our honeymoon, I took her to a political rally for Tom Dewey in Owasso, Michigan. And frankly, I haven't heard the last of that yet. A few years ago, when I suddenly found myself president, I said I was a Ford, not a Lincoln. Today, what we have in the White House is neither a Ford or a Lincoln. What we have is a convertible Dodge. {LAUGHTER ; APPLAUSE}
+
+Isn't it time we have a trade-in? {APPLAUSE}
+
+As we gather here this week, our Republican hearts and minds are in the hospitable city of San Diego, and our FBI files are in the White House. 
+
+{BOOING} 
+{APPLAUSE} 
+
+What is it, in a very few words, that all Republicans really believe in? We believe, along with millions of Democrats and Independents, that a government big enough to give you everything you want is a government big enough to take from you everything you have. {APPLAUSE} 
+
+What we all want is an across-the-board change in Washington. Let's complete the fundamental federal reform the American voters mandated for Congress two years ago. {APPLAUSE} 
+
+Above all, we desperately need a leader of principle, proven integrity who believes as we do, an expert at building consensus, a commander-in-chief who has earned his salute -- {APPLAUSE} -- a president who would rather tackle tough problems than talk and talk and talk and talk about them. We want President Bob Dole and Vice President Jack Kemp. {APPLAUSE} 
+
+Never forget, my friends, the primary purpose of a political party is to win. Since I first ran for Congress in 1948, we have generally won when we practiced a policy of inclusion, of expanding our Republican tent to welcome every American who believes in liberty and justice for all -- {APPLAUSE} -- special privilege for none, and a decent respect for the convictions of others. We have won on merit, on character and on performance. Ours is the Republican party of Abraham Lincoln, who lived and died for the proposition that all Americans, indeed, all people, are created equal, with unalienable, God-given rights. {APPLAUSE}
+
+Ours is the Republican party of Dwight D. Eisenhower, who reminded us that America is not good because she is great, but rather, America is great because she is good. {APPLAUSE} 
+
+Ours is the Republican party of Ronald Reagan and George Bush -- {APPLAUSE} -whose persistence in building and maintaining Americals military and industrial superiority finally persuaded the Communists they could never hope to defeat us, and thus ended the Cold War. {APPLAUSE} 
+
+Ours is the Republican party of Bob Dole -- {APPLAUSE} -- another plain-speaking son of the American heartland who persevered in the service of his Kansas neighbors to be a congressman, a senator, our party's nominee for vice president, minority and majority leader of the United States Senate. And God willing, with your help and mine, the next president of the United States of America. {APPLAUSE} 
+
+My friends, I know a thing or two about Bob Dole, and if there was anything I didn't find Bob Dole fit to be president; I find him even more qualified today. {APPLAUSE} Refresh your memories, recall, when you read today's national polls, Ford and Dole came from thirty points behind, that August, to win 49.9 percent of the actual ballots cast; we lost a cliffhanger. The only poll that counts this year is still three months away. {APPLAUSE} 
+
+Our second president, John Adams, was the first to move into the White House. It was on a hilltop where sheep gazed and citizens walked up to the door, no fence, no concrete road block, and the roof leaked. Adams wrote home to his wife, telling her about a prayer he had composed for the president's house. For all his successors, Adams wrote, "May none but honest and wise men ever rule under this roof." I say, amen. 
+
+God bless our country and all Americans. Thank you, and good night.
+
+{/speech}

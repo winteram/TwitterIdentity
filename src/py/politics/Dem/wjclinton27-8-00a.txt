@@ -1,0 +1,16 @@
+﻿{title} Remarks by the President to People of Ushafa Village {/title}
+{event} Ushafa Village, Nigeria {/event}
+{speaker} Bill Clinton {/speaker}
+{date} August 27, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, thank you very much. Let me say, first of all, I want to thank your Chief for making me feel so welcome, and all the elected officials. I want to thank the people who danced for us and played for us. They were very good, yes? {APPLAUSE} And I want to thank all those who made the gifts you gave me and my daughter and our family. And I want to thank the school children who walked down here with me and sang the beautiful songs.
+
+I came to Nigeria to express the support of the people of the United States. We support your democracy. We want to help you build your economy, educate your children, and build a better life in all the villages of this country.
+
+Thank you very, very much. {APPLAUSE} 
+
+{/speech}

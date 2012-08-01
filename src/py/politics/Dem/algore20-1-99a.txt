@@ -1,0 +1,18 @@
+﻿{title} Remarks by the President and Vice President to Audience in Harbor Room {/title}
+{event} Marine Midland Arena, Buffalo, New York {/event}
+{speaker} Al Gore {/speaker}
+{date} January 20, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech}
+
+Hello, Buffalo! Ladies and gentlemen, if this is the overflow crowd, I can't imagine what's waiting in the other room. {APPLAUSE} Thank you for being here.
+
+We're going to deliver remarks in the other part of the auditorium, and I know they've set it up so that you can see it here. But we wanted to come here first and say hello to you, personally. {APPLAUSE}
+
+Did you all see the President's State of the Union address last night? {APPLAUSE} Well, we're going to be talking about some of the themes and issues that he talked about in that speech. But before presenting it to you, I just want to say, on behalf of the President, the First Lady and Tipper and myself, we love you and we appreciate your warmth and support. It is so great to be here. {APPLAUSE}
+
+And now, ladies and gentlemen, please welcome the President of the United States, Bill Clinton. {APPLAUSE}
+
+{/speech}

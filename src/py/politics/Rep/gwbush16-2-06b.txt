@@ -1,0 +1,34 @@
+﻿{title} President Participates in Panel Discussion on Health Care Initiatives {/title}
+{event} U.S. Department of Health and Human Services, Washington, D.C. {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 16, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+An insurance plan with a health savings account is a high-deductible catastrophic plan coupled with a tax-free health savings account to pay routine medical costs up to the deductible. That's the way they're structured now. Many employees -- I was at Wendy's yesterday; Wendy's has now got 9,000 employees using health savings accounts. The company pays for part of the premium, as well as the contribution into the cash account to be paid by the customer for routine medical expenses.
+
+If you don't spend all your money in your cash account, you can save it tax-free, and roll it over to next year, and then you contribute again. Wendy's premiums rose this year, I think, at less than 2 percent -- maybe even less than 1 percent, if I'm not mistaken. And they were increasing at double-digit rates -- I hope I'm not exaggerating -- they were going up quite dramatically, let me put it to you that way. And now their premiums were significantly lower. And the savings enabled them to put additional money into their employees' accounts, additional contributions.
+
+It's an interesting concept, because all of a sudden it puts an individual in charge of health care decisions. There's an incentive, by the way, for people to make rational choices about what they consume -- like, if you don't smoke and drink, it's more likely you'll stay healthy and not spend money in your account. If you exercise -- I'd strongly urge mountain biking -- {LAUGHTER} -- it helps you stay healthy. And by staying healthy, you actually save money. There's a remuneration for good choice.
+
+And what Bruce is saying is that it has helped his business afford health care. It has helped a lot of small businesses. If you're a small business owner, please look into health savings accounts for the good of your employees.
+
+Interestingly enough, about a third of those who've purchased the new health savings accounts were uninsured. Many of the uninsured in America are young people, kind of the bullet-proof syndrome -- you're never going to get sick, so, therefore, why buy insurance. Now there's an incentive to buy insurance because it means you can save tax-free.
+
+And so Bruce has used -- and he reports that he's able to better control his costs, which is really important for the small business sector. And it's also important for the large business sector to say to their employees, here is something that's really beneficial for you and your families because when -- you save the money, it's your money. Savings in health care doesn't go to a third party entity, it goes to the consumer. It's a new concept that's just coming to be.
+
+In order for it to work, there has to be transparency. How can you expect somebody to make rational decisions in the marketplace if they don't see price and quality? It's going to be a very important -- what we're talking here is a very important reform to really fit into a -- making sure the private medicine aspect of our medical system remains the center of medicine.
+
+There's a debate here in Washington about who best to make decisions. Some up here believe the federal government should be making decisions on behalf of people. I believe that consumers should be encouraged to make decisions on behalf of themselves. And health savings accounts and transparency go hand-in-hand.
+
+There are some things we need Congress to do to make health savings accounts work even better than they are. One is to make sure that one's contributions into the health savings account is -- can be -- will be equal to the deductible, plus any co-pays that may have to be made. In other words, we shouldn't cap the contribution, cash contribution where it is. It needs to be raised.
+
+Secondly, we need to make sure the tax code treats employees in large companies and employees in small companies equally when it comes to purchasing health savings accounts. And, thirdly, and a key component of making sure health savings accounts works, that addresses one of the real concerns in our society, and that is people changing jobs but fearful of losing health care as they do change jobs is to make sure health savings accounts are portable in all aspects, a health care plan that encompasses health savings accounts. Today the rules enable one to take with them the cash balances in their health savings accounts, but not the insurance in their health savings accounts. In order to make these plans truly portable, so as to bring peace of mind to people, we've got to make sure that health savings accounts are genuinely portable accounts.
+
+I look forward to working with Congress to strengthen, not weaken, but strengthen these very important products that puts the doctor and the patient in the center of the health care decision. Today, we've heard some interesting, innovative ideas that are taking place from the insurance industry, to the providers, to the federal government. And we will continue to implement transparency. And it's just the beginning. And I predict that when this -- as this society becomes more transparent, as the consumers have more choice to make, you'll see better cost containment. And as we're able to contain costs, we achieve some great national objectives: one, is to make sure health care is affordable and, two, make sure it's available.
+
+I want to thank you all for coming to join us. It was an interesting discussion. I appreciate your time. God bless. {APPLAUSE} 
+
+{/speech}

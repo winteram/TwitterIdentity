@@ -1,0 +1,105 @@
+﻿{title} Address at the Democratic National Convention {/title}
+{event} ----- {/event}
+{speaker} Jesse Jackson {/speaker}
+{date} July 28, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Tonight the pendulum swings from pain to possibilities. From hurt to hope, from darkness to light, the line of progress is unbroken. In 1944, my father's generation served in the war, segregated battalions, duty without honor. 
+
+Ten years later, 1954, 335 years of legal race supremacy was ended, Brown v. Board of Education. 
+
+And 10 years later, Dr. King; the Public Accommodations Bill; Fannie Lou Hamer knocking on the door of Atlantic City. 
+
+Ten years later, 1984, the Rainbow presidential campaign in San Francisco, and we came alive; 1984, 2 million new voters; the Senate in '86; Bill Clinton in '92 and '96. 
+
+And now, 2004, Barack Obama symbolizes the line of progress and growth. {APPLAUSE}
+
+These movements enabled Presidents Kennedy and Johnson, Carter and Clinton to be great. {COMMENT="Inaudible"} generation of youth, Mayor Kilpatrick of Detroit, Congressman Harold Ford and Congressman Jackson Jr., and Congresswoman Lee and Congressman Meeks and Alicia Reece and Al Sharpton and Mabel Tang, Bobby Rush and Senator Tony Hill and Paul Wellstone... {APPLAUSE}
+
+Seeds sown, became fruits of joy. The pendulum swings, the morning cometh. In the darkness of 2000, the winners lost and the losers won. Jewish voters in West Palm Beach, immigrants stopped at the polls, a million black votes cast but not counted. This must never, ever happen again. {APPLAUSE}
+
+In the dark, our nation's record budget surplus turned into a $500 billion dollar deficit. 
+
+In the dark, a net loss of jobs in every state. 
+
+They ignored the genocide in the Sudan, and induced coup in Haiti.
+
+And yet as the darkness abounds, hope abounds even more. 
+
+For the 44 million with out health care insurance, help is no the way.
+
+For parents afraid to call the doctor for their children, because they cannot pay the bills, help is on the way.
+
+For our seniors whose Social Security is at risk, who must choose between paying their rent or paying for the soaring costs of their prescription drugs, hold on, help is on the way.
+
+The president speaks of leaving no child behind, but leaves 2 million children behind to protect the tax cuts for the top one percent.
+
+Millions of youth today cannot afford tuition and cannot get a job. Every child, red, yellow, brown, black and white, deserves a constitutional right to an equal, high-quality public education.
+
+Help is on the way. {APPLAUSE}
+
+In the dark, a president chooses tax cuts for millionaires, but job cuts for steelworkers, firefighters and police. The president talks of homeland security, but wants to let AK-47s and Uzis back on the street. 
+
+Hope comes in the morning for those Appalachia, where coal miners are dying every six hours from black lung disease. Hold on, hope cometh in the morning for our children who were sent to war in Iraq on bad intelligence and worse leadership. {APPLAUSE}
+
+Sent to fight a war that's foreign to our values, that leaves us weaker and less secure, sent to a war in Iraq -- the wars of mass deception are more apparent than weapons of mass destruction.
+
+It is a moral disgrace, a moral disgrace. America deserve better. {APPLAUSE}
+
+It is a moral disgrace. {APPLAUSE}
+
+But a new day is dawning, a new America is turning pain to power because beyond the extreme right wing is a beautiful rainbow of all of God's children.
+
+Out of the darkness of the bushes, we see the soaring of an authentic American eagle on the horizon. 
+
+When I campaigned for John Kerry's Senate seat in 1996, he was resolved in his convictions. He was cool under fire. 
+
+Dr. King said you measure the character of leaders in the fire of crisis. John Kerry stood in the valleys and shadows of death in the Mekong Delta. Though wounded, shot and bleeding, a lesser man might have said, "I'm lucky." and speed away when your comrades have fallen. He led his men back to the delta to save them. That's what leaving no one behind really means -- when you put your life on the line. {APPLAUSE}
+
+That's what it really means. No greater love than love of a fallen comrade. 
+
+John Kerry had the faith and God had the power in the exalted realm of valor under fire. In this campaign of courage and faith and leadership and honor, John Kerry stands alone. He deserves to be our next president. He deserves it. {APPLAUSE}
+
+John Kerry sees a new miracle through a door, not through a keyhole. 
+
+With studied intellect and keen insight, he saw talent and strength in John Edwards, a man from the South with hope and courage in his message; a man, John Edwards, whose journey is the best of American folklore. He inherited little, but worked hard and earned much, embodying hope and inspiration.
+
+John Edwards dares to stand in the gap between rich and poor, black and white, urban and rural, a vision of a new America.
+
+The Bible speaks of the difficulties of rich young rulers getting into the kingdom. It's because they are intoxicated by the {COMMENT="Inaudible"} of privilege. But John Edwards understands using wallpaper for a windbreaker, not for decoration. He understands peanut-butter sandwiches and Kool-Aid. {APPLAUSE}
+
+He understands grits and gravy. He understands the fear of {COMMENT="Inaudible"} . He understands you and me. 
+
+We thank God that John Kerry chose John Edwards on that ticket. It makes hope and healing come alive... {APPLAUSE}
+
+... come alive, come alive.
+
+John Kerry and John Edwards will reinvest in America and put America back to work. 
+
+They represent hope and healing for a new America. John Kerry and Edwards will fight for health care for all, for an environment where we can breathe free. 
+
+As I close, in 96 days, dark clouds will roll away. Children can rejoice; Lady Liberty will be unmasked and unshackled; we can sing again, "My country, 'tis of thee, sweet land of liberty, I sing. Land where my fathers died, land of the pilgrims' pride, from every mountain side, let freedom ring." She can sing that song again. {APPLAUSE}
+
+Ray Charles can sing from the heavens, "America the Beautiful." Ray Charles can sing again. 
+
+The shackles will leave her arms. She can stretch forth in all of her splendor, free of crippled civil rights and civil liberties. She can proclaim again, "Give me your tired, give me your poor, your huddled masses who yearn to breathe free." 
+
+Come November, let the eagles fly to Washington. It's peace time. It's justice time. It's homecoming time. It's home-going time. It's time to bring our troops home and send Bush back to Texas. {APPLAUSE}
+
+Early as possible, bring the troops home. Send Bush to Texas. 
+
+It's time to send John Kerry and John Edwards to the White House this November. Keep hope alive. Keep hope alive. Keep hope alive.
+
+{AUDIENCE} Keep hope alive. {/AUDIENCE} 
+
+Louder.
+
+{AUDIENCE} Keep hope alive. Keep hope alive. Keep hope alive. {/AUDIENCE}
+
+I love you.
+
+{/speech} 

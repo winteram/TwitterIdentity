@@ -1,0 +1,26 @@
+﻿{title} Radio Address of the President to the Nation {/title}
+{event} The Oval Office {/event}
+{speaker} Bill Clinton {/speaker}
+{date} October 12, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Mr. Vice President.
+
+This new law reflects our commitment to manage wisely our nation's water resources and preserve the environment even as we balance the budget, but our work is not done. Today, I am also announcing my intention to sign the parks bill which Congress has approved. This bill will create or improve almost 120 national parks, trails, rivers, or historical sites in 41 of our states. It will preserve the historic Presidio, a former army post in San Francisco, by creating a non-profit trust to run it as a national park.
+
+This bill will save the Sterling Forest on the New York and New Jersey border, just 40 miles from midtown Manhattan where families go for recreation and which millions of people depend upon for clean water. This forest was denuded a century ago by industry, but it grew back and we must protect it.
+
+This bill will help to restore 11,000 acres of the tall grass prairie in Kansas, an ecosystem of grass as tall as nine feet, trees, flowers, birds, and other wildlife. This bill will bring back other overlooked natural sites all around our nation.
+
+These are our national treasures. When we maintain our national parks, nourish our wildlife refuges, protect our water, and preserve places like The Everglades, we are standing up for our values and our future, and that is something all Americans can be proud of. God created these places but it is up to us to care for them. Now we are and we're doing it the right way, by working together.
+
+I'm pleased that Congress turned aside confrontation to enact these laws in a bipartisan manner and in the public interest. Five hundred years ago, no one could have imagined the greatness that would bloom between our shores, nor foreseen that the nation born here would become the model for people of all kinds working together for the common good. Preserving our environment and restoring its wonders are for our common good.
+
+Let us truly celebrate this day as a day of rediscovery, a day in which we pledge to keep working across the lines that divide us to make America more beautiful and better than ever. Thanks for listening. Now I will sign the Water Resources Development Act.
+
+{COMMENT="The bill is signed"} {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,64 @@
+﻿{title} Vice President's Remarks at the Air Force Academy Commencement {/title}
+{event} Air Force Academy Commencement, Air Force Academy, Colorado Springs, Colorado {/event}
+{speaker} Dick Cheney {/speaker}
+{date} May 30, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech}
+
+Secretary Delaney, General Ryan, General Dallager, General Scott, General Welsh, General Wagie, Chief Ensor, Academy staff and faculty, Ambassador Kracun, Bill Hibble, distinguished guests, officers, cadets and graduates, thank you all. It's a real pleasure to be back at the United States Air Force Academy. My recent return to public life has brought many opportunities, and the one I'm most grateful for is the chance to serve once again the men and women of our military.
+
+Of course, it's a special honor to be part of this particular gathering of the Mitchell class. I am reliably told that you're a pretty exuberant bunch. As a matter of fact, someone informed me that if I say just the right words, you'll shout back so loud they'll hear it all the way to Boulder. So I'm going to put you to the test. Congratulations, class of '01. {CHEERS ; APPLAUSE}
+
+The Academy will long remember this class. When they think of the great General Billy Mitchell, they'll think of you. When they hear boasts of the toughest recognition in Academy history, it'll be you they're thinking of. {CHEERS} And for ages, they'll remember you, and you alone, whenever they go up the main stairway inside the library and gaze upon a certain statue. {CHEERS}
+
+I bring greetings on this special day from the Commander-in-Chief of the Armed Forces of the United States, President George W. Bush. He, too, is very proud of the class of '01. {APPLAUSE}
+
+There is one small matter the President and I discussed before I came here today. We realize that the academic year may be over, but there are still members of the wing on restrictions and tours for minor conduct violations. Now we're compassionate conservatives -- {LAUGHTER} -- so the question was just how much compassion the Air Force Academy needed this year. It turned out to be a lot. {LAUGHTER} So, for all minor violations, and by direction of the Commander-in-Chief, I hereby grant a full pardon, in honor of the class of '01. {CHEERS ; APPLAUSE}
+
+I know most of you have been up all night participating in commissioning ceremonies, among other celebrations less decorous and official. You have certainly earned that right after four very challenging years. You are about to collect a degree that will command respect everywhere you go, for the rest of your life.
+
+Of all who aspire to a commission in the United States Air Force, only a small fraction ever achieve it. It is a calling, and here you answered it. Every day has brought tests of mental discipline, tests of physical endurance, tests of moral character. Along the way, you may even have surprised yourselves. You found strength you didn't know you had. You pushed on through the toughest moments. You showed yourself, and others, what you're really made of.
+
+It didn't start with the basic training, either. It didn't start when you stepped off the bus and heard those sweet words of welcome. It started as all great achievements begin: well before in-processing day, you set a goal, and you never wavered from it. You had some help along the way. The people who helped you the most, believed in you the most, are watching from the stands. This is a glorious day for them as well. So let me ask the parents to rise, and receive the thanks they deserve. {APPLAUSE}
+
+As of this hour, you take your place in the unbroken line that has stood in the defense of our country for more than 200 years. You take that place at a crucial moment in the life of our country, and of its armed services. You arrived here during one century and you are leaving here in another. A young person entering the military at the start of the last century could scarcely have imagined what was to come, the advent of air power, world wars and weapons of mass destruction, satellites and space flight, the rise of militant ideologies, and the great democratic alliances formed to defeat them. For the American military, it was a tough century. Its losses were of a kind never before seen. Its acts of heroism were of the kind never to be forgotten.
+
+The good that was achieved can be measured in a history that was never written -- in horrors that were avoided. For all the suffering and death it caused, Naziism did not go on to conquer all of Europe. For all the grief it brought into the world, imperial communism never achieved its aim of ruling the world. And the Cold War ended, not in nuclear conflict, but in the sudden disappearance of the Soviet empire and the liberation of captive nations.
+
+For all of this, history will honor the statesmen and diplomats who set the policies and made the decisions. But even more, history will honor the ones who flew the planes, and manned the ships, and carried the rifles -- the millions who came before you, wearing the uniform of the United States of America.
+
+Wherever you are posted, wherever your career leads you, I trust you will never forget how others see that uniform. You might find yourself in the most stable place in the quietest of times, but that uniform is a reminder of what assures stability and keeps the peace. And in every corner of the earth, to people who struggle and suffer, the sight of an American in uniform has brought relief, hope, and deliverance.
+
+That was true even when we had 16 million people in arms fighting a global war in two theaters. The historian Stephen Ambrose relates one soldier's memories of that time and those men. In the spring of 1945, he said, around the world, the sight of a 12-man squad of teenage boys, armed and in uniform, brought terror to people's hearts. But there was an exception: A squad of GIs, a sight that brought the biggest smiles you ever saw to people's lips, and joy to their hearts. GIs meant candy, cigarettes, C-rations, and freedom. America had sent the best of her young men around the world, not to conquer but to liberate, not to terrorize but to help.
+
+What an amazing tribute to young men who had passed through the worst in a century of wars. That is the standard left to you, to be honorable and just and, even amid the cruelties of battle, to be decent and humane. That is the spirit required of you, always and everywhere.
+
+The decades ahead will bring threats and tests of their own. And these will be yours to meet. The President and I have every confidence you will prove worthy of your commissions, and always reflect credit on the Academy, on the uniform, and on the United States.
+
+That is what we expect of you. And with your commissions, you are entitled to expect certain things from us.
+
+First and foremost, you deserve the means to carry out the missions we give you. Although I am new in my current position, I am not new to the concerns of military life. I came to Congress in the late 1970s, and saw what happens when our military is neglected. I saw how morale can fade, and readiness can falter.
+
+I saw, too, just a few years later, how it all came back. And so did the rest of America. Standing on this very spot addressing the Academy class of 1984, President Ronald Reagan was able to declare that our armed forces were back on their feet and standing tall. {APPLAUSE}
+
+That is how the Persian Gulf War found the American military -- well trained, well equipped, and ready. We all remember the swift battle on the ground -- and before it, the staggering skill and precision of the air campaign. Because we were prepared, the airmen achieved complete dominance of the skies and cleared the path to victory on the ground.
+
+When it was all over and I had offered thanks and congratulations to everyone involved, I thought of someone else -- the man whose foresight and conviction made it all possible. So I called California, and said thank you to Ronald Reagan. {APPLAUSE}
+
+President Bush and I understand that the decisions we make today reach far into the future. No president ever deploys the force he builds. Time frames in the military are drawn out. Conflicts often start and end quickly. But as you can testify after four years here at the academy, there is nothing quick about preparation. A quality force can be torn down overnight, but creating it is the work of years, even decades.
+
+An officer retiring this year from the Air Force probably feels he or she has seen two or three lifetimes worth of change. So did those who came before him. And you will see your share of changes in careers likely to span several presidential administrations.
+
+In June of 1947, on board a C-54, President Harry S. Truman signed the act creating the United States Air Force. This institution was organized during the following decade and is the newest of the service academies. It only seems like you've been around longer when they count up the football trophies. {APPLAUSE} When the Air Force came out of the Old Army Air Corps, you already had your own unique spirit and institutions. They are good traditions, arising from the experience of generations.
+
+We find ourselves in a time when people worry about cultural trends, when the values of discipline and loyalty need explaining, when idealism often runs in short supply. In such a time, in such a culture, our military and its service academies only seem more exceptional and more admirable. Your sense of honor, your attention to duty and your daily acceptance of personal responsibility are an example to the country you defend.
+
+Your new Commander-in-Chief is a man of the highest standards, who expects you to live and serve by every letter of the oath you will take today. We understand how closely the duties of the military are bound up with the traditions of the military. Those of us who come and go in Washington owe the military and your culture the respect that has been earned. From this President, and this Vice President, you can count on it. {APPLAUSE}
+
+The last time I visited the Academy was 1994. I came as a private citizen and made my own travel arrangements. These days, wherever I go, the Air Force takes me there. This afternoon, the destination is Andrews Air Force Base. But first I will have the honor of watching each of you graduate.
+
+I will leave here with a feeling of gratitude to each one of you for giving America the best years of your lives. Your country has prepared you. Your country is counting on you. Your country is proud of you. To each man and woman in the Mitchell class, good luck and Godspeed. {APPLAUSE}
+
+{/speech}

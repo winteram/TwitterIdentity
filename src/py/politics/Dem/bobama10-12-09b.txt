@@ -1,0 +1,25 @@
+﻿{title} Toast Remarks by the President at the 2009 Nobel Banquet {/title}
+{event} 2009 Nobel Banquet {/event}
+{speaker} Barack Obama {/speaker}
+{date} December 10, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Your Majesties, Your Excellencies, Your Royal Highnesses -- to all my friends, my family. This is obviously an extraordinary evening, and I must say -- I was telling the committee members that, having entirely exhausted myself with the speech this afternoon -- {LAUGHTER ; APPLAUSE} -- I have -- I spoke for a very long time. {LAUGHTER} I have only a very few words to say.
+
+First of all, I would like to thank the committee once again for the extraordinary confidence that they placed in me and this great honor that I have received tonight. As I indicated before, no one was more surprised than me. {LAUGHTER} And I have to say that when the chairman spoke introducing me, I told him afterwards that I thought it was an excellent speech and that I was almost convinced that I deserved it. {LAUGHTER ; APPLAUSE} 
+I also wanted to pick up on a theme in both our speeches, and that is the extraordinary power that this prize has in lifting up those who otherwise would be forgotten; in magnifying the cause of justice when it's confronting great resistance. In 1964, when Dr. King received this prize, the course of the civil rights movement was still uncertain. How that would play itself out was not yet entirely known. And for a Baptist preacher from the South to be lifted up on the international stage, to highlight the fact that this was not simply a parochial struggle but was rather a struggle for the ages, a struggle for the hearts and minds not just of the American people but of the world, and how we thought about each other and how we thought about minorities in countries everywhere -- what extraordinary power that had. And as a consequence, I think it's fair to say that it helped to put the wind behind the sails of a movement that is largely responsible for both Michelle and my presence here tonight.
+
+You know, it's obviously one of life's great ironies that Alfred Nobel, the man responsible for inventing dynamite -- {LAUGHTER} -- helped to establish this extraordinary moral force in the world. He bequeathed his largest share of fortune to the Nobel prizes and the roster of Nobel laureates has grown to include not only the finest minds in science and literature and economics, but I think what captivates people most is the giants of peace that it has acknowledged.
+
+When Alfred Nobel signed his last will and testament on November 27, 1895, it's not entirely clear that he could have foreseen the impact that his prizes would have. But he did know this truth: that our destinies are what we make of them, and that each of us in our own lives can do our part in order to make a more just and lasting peace and forge the kind of world that we want to bequeath to our children and our grandchildren.
+
+That has been the mission of the committee. It has carried out over these 108 years this charge with extraordinary diligence, creativity, and as I indicated today at lunch, great moral imagination. And so, for that, I am grateful not only to the current committee, but past committee members who I know are here. The world thanks you for the work that you do. And as a consequence, what I'd like to do is to propose a toast -- once I get some wine. {LAUGHTER}
+
+I'd like to propose -- actually, if you will bear with me, in Washington, in the Senate or the House, this is called a point of personal privilege. I don't want to make her cry, but I do want to say my sister is here tonight, and it was in one of the earlier toasts discussed a passage in my book that talks about my mother and the values that she instilled in me. And I do think that it's worth noting that, to the extent I am deserving of this esteemed prize, either now or in the future, it will be largely because of her and the largeness of her heart. {APPLAUSE}
+
+So, to Alfred Nobel -- Skål. Cheers. Thank you. Thank you very much. {APPLAUSE} 
+
+{/speech}

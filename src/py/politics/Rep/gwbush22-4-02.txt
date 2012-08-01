@@ -1,0 +1,116 @@
+﻿{title} President, Mrs. Bush Present Arts & Humanities Medals {/title}
+{event} Presentation of the 2001, National Medal of Arts and National Humanities Medal Awards, DAR Constitution Hall, Washington, D.C. {/event}
+{speaker} George W. Bush {/speaker}
+{date} April 22, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} Remarks by the President and Mrs. Bush at Presentation of the 2001, National Medal of Arts and National Humanities Medal Awards, DAR Constitution Hall, Washington, D.C. {/description}
+
+{speech} 
+
+Please be seated. We meet this evening to recognize some of our nation's finest artists, and scholars, and authors. We honor their lifelong pursuit of excellence, and we hold up their achievements to future generations.
+
+I want to welcome you all. I want to thank Dr. Bruce Cole, the Chairman of the National Endowment for the Humanities, and Eileen Mason, acting Chairman for the National Endowment for the Arts. I want to recognize Mrs. Lynne Cheney; Secretary of State Colin Powell and his wife, Alma; Tom Ridge, who is the Director of the Homeland Security Office.
+
+Tonight, we've got members of the Supreme Court with us, Antonin Scalia and his wife, Maureen; Stephen Breyer and his wife, Joanna. We've got a special entertainment tonight provided by my National Security Advisor, Condoleezza Rice. {LAUGHTER}
+
+I want to thank the members of the United States Congress who are here: from the United States Senate, Pete Domenici and Joe Lieberman; and from the House of Representatives, Norman Dicks, Mike McNulty, Tom Petri, Silvestre Reyes, and Louise Slaughter.
+
+I also want to thank Adair Margo, who is the Chairman of the President's Committee on the Arts and the Humanities. I want to thank the members of that committee, as well as the members of the National Council on the Arts, and the National Council on the Humanities.
+
+I also want to pay tribute to the memory of Michael Hammond, who passed away in January after serving for only one week as the Chairman of the National Endowment for the Arts. A classically educated scholar, Mike Hammond was also a composer, and an educator, and an expert on the neurology of the brain. All of us who were privileged to know Mike will miss him deeply.
+
+The men and women who are about to receive the National Medal of Arts and the National Humanities Medal are singers and dancers, and painters, and producers and actors, and writers and scholars. Yet, for all their differences, they have one thing in common: they're all teachers.
+
+They teach us about a Boy named Sue. {LAUGHTER ; APPLAUSE} About an Odd Couple. {APPLAUSE} They teach us about Last Lion, or a Ragman's Son. {APPLAUSE} They help us to see more clearly, and think more deeply.
+
+They connect our past to our present, and point the way to our future. And, of course, they all have The Right Stuff. {LAUGHTER ; APPLAUSE} 
+
+Honoring our leading artists and writers comes naturally to us. Yet art and literature are often the first targets of tyranny, because they're the most prominent features of a free, creative, and open society. This creativity, this openness, and this freedom, are what America defends today. {APPLAUSE}
+
+This evening, as we celebrate the achievements of these remarkably talented women and men, let us also take just a moment to celebrate the nation that esteems their craft, their hard work, and their sacrifice. America is proud to stand for creativity, and freedom, and civilization. And we honor these men and women who embody these values for America, and for the world. {APPLAUSE}
+
+It is now my privilege to present the 2001 National Humanities Medal winners. First, Jose Cisneros. {APPLAUSE}
+
+Jose is well-known and well-loved for his historically accurate depictions of the old Southwest. Major, please read the citation.
+
+{COMMENT="The citation was read"} {APPLAUSE}
+
+Robert Coles is a scholar, teacher, psychiatrist, best known for his sensitive observation of the inner lives of our children. Major, please read the citation.
+
+{COMMENT="The citation was read"} {APPLAUSE}
+
+Sharon Darling, former schoolteacher, is President of the National Center for Family Literacy, an organization that spans the nation and reaches thousands of families every single year. Major, please read the citation.
+
+{COMMENT="The citation was read"} {APPLAUSE}
+
+William Manchester is a gifted historian and biographer who makes the past come alive for millions of the readers. Major, please read the citation.
+
+{COMMENT="The citation was read"} {APPLAUSE}
+
+Richard Peck has written more than 25 novels for younger readers which stress the importance of taking responsibility for one's actions. Major, please read the citation.
+
+{COMMENT="The citation was read"} {APPLAUSE}
+
+Eileen Jackson Southern, who could not join us tonight, is a pioneering musicologist who has helped us understand the power of African-American music. Major, please read the citation.
+
+{COMMENT="The citation was read"} {APPLAUSE}
+
+Tom Wolfe is a chronicler of our times who has told us more about ourselves than many shelves of sociology books. Major, please read the citation.
+
+{COMMENT="The citation was read"} {APPLAUSE}
+
+The National Trust for Historic Preservation, established by Congress in 1949, has worked more than 50 years to put historic preservation on the national agenda. Major, please read the citation.
+
+{COMMENT="The citation was read"} {APPLAUSE}
+
+It is now my privilege to present the 2001 National Medals of Arts winners.
+
+Rudolfo Anaya, called "the Godfather of Chicano Literature", has written many works about the myths and folklore of the Southwest. Major, please read the citation.
+
+{COMMENT="The citation was read"} {APPLAUSE}
+
+Johnny Cash, the man in black. {APPLAUSE} Country legend, an American beloved by millions. Major -- major, please read the citation. {LAUGHTER}
+
+{COMMENT="The citation was read"} {APPLAUSE}
+
+Kirk Douglas is a -- {APPLAUSE} -- distinguished actor, director, writer, and producer who has brought us more memorable performances on stage and screen than nearly anybody else for the past 60 years. Major, please read the citation.
+
+{COMMENT="The citation was read"} {APPLAUSE}
+
+Helen Frankenthaler is an abstract -- {APPLAUSE} -- Helen Frankenthaler is an abstract expressionist painter whose works combine thoughtfulness with spontaneity. And I'm proud to say that Laura and I have one of her early works, "Painted on the 21st Street", which hangs in the private residence at the White House. Major, please read the citation.
+
+{COMMENT="The citation was read"} {APPLAUSE}
+
+Judith Jamison. {APPLAUSE} She's a master dancer, teacher, choreographer, and arts administrator who has been a creative force in the dance world for nearly four decades. Major, please read the citation.
+
+{COMMENT="The citation was read"} {APPLAUSE}
+
+Yo-Yo Ma. {APPLAUSE} World-renowned cellist who represents the very best in classical music. I tipped my hand a little early there, but later on this great American figure will be performing with another world-renowned figure. {LAUGHTER} Major, please read the citation.
+
+{COMMENT="The citation was read"} {APPLAUSE}
+
+Mike Nichols. {APPLAUSE} The endlessly inventive comedian, producer, and director of stage and screen. Major, please read the citation.
+
+{COMMENT="The citation was read"} {APPLAUSE}
+
+The Alvin Ailey Dance Foundation, begun by master dancer and choreographer Alvin Ailey in 1958, today ranks as one of America's most prestigious dance companies. Major, please read the citation.
+
+{COMMENT="The citation was read"} {APPLAUSE}
+
+Yes. Alvin Ailey. Congratulations. {APPLAUSE}
+
+And now it is my great pleasure to introduce my wife -- {LAUGHTER} -- the First Lady of the United States, Laura Bush. {APPLAUSE}
+
+{OTHER-SPEAK} I want to add my heartfelt congratulations to each of the honorees tonight, and my appreciation. And I know I speak on behalf of all Americans when I thank you so much for entertaining, inspiring, and informing us with your careers. Thank you all very, very much. {APPLAUSE}
+
+We close tonight's ceremony with a peformance by one of our very distinguished honorees, Yo-Yo Ma, who will be accompanied on piano by one of our very distinguished colleagues, Dr. Condoleezza Rice. {APPLAUSE} They will play the Adagio movement from Brahms' Sonata for Violin and Piano in D minor, Op. 108, and they'll play it as a prayer for peace.
+
+Ladies and gentlemen, Yo-Yo Ma and Dr. Condoleezza Rice. {/OTHER-SPEAK} {APPLAUSE}
+
+{COMMENT="Mr. Ma and Dr. Rice performed"} {APPLAUSE}
+
+Well, thank you all for coming tonight, it's been a fantastic evening. Again, I want to congratulate our honorees. And may God bless them, and may God continue to bless America.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

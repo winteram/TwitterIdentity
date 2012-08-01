@@ -1,0 +1,46 @@
+﻿{title} Mrs. Bush's Remarks at the HHS Youth Summit {/title}
+{event} Marriott Wardman Park Hotel, Washington, D.C. {/event}
+{speaker} Laura Bush {/speaker}
+{date} July 29, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Deputy Secretary Azar, for your very kind introduction. I also want to thank Wade Horn, the Assistant Secretary for Children and Families at the Department of Health and Human Services. And thanks to Matt Lerner for serving on the Summit's Youth Council.
+
+I'm so honored to be here today with some many young people who are making a difference in their communities, and with the adults who are supporting them and helping young leaders with their encouragement.
+
+I especially want to recognize Talib Aziz Zaini, the Iraqi Minister of Youth and Sports. {APPLAUSE} He is attending this summit with a delegation from his ministry. The Summit's Youth Council organized a project to collect art supplies for Iraqi schoolchildren. The supplies will be sent to the American Embassy in Baghdad and then distributed throughout schools in Iraq. Your project is a heartfelt act of solidarity with the young people of Iraq, and all of you, I know, are striving for a hopeful and peaceful world. And I thank each and every one of you very, very much for your generosity. {APPLAUSE}
+
+Each of you are here because you demonstrate a commitment in your communities to making your communities stronger. You're turning youthful idealism into practical ideas. And at this summit you're asking the question, "What's next?" You're getting advice about how to take your energy and your dreams even further.
+
+President Bush has asked all Americans to dedicate 4,000 hours over the course of their lives to serving their communities and our country. And you're already off to a very good start. I urge you to continue your service as you grow into adulthood.
+
+One good way to stay involved in your communities is to help children. Through the Helping America's Youth initiative, we're encouraging adults to serve as positive role models for young people, but we know that responsible teenagers can serve, really, as better role models to their peers and to younger children. When youth have positive role models in their lives, they're much more likely to be able to build a foundation themselves for a lifelong success.
+
+Across America, people are turning good ideas into programs that help America's youth. In Detroit, coaches volunteer in a program called Think Detroit, where they teach life lessons through sports. During practices and games children learn about respect for other people, about teamwork, and about achieving goals. Children also learn how to stay healthy through physical exercise and by avoiding dangerous behaviors like smoking or drug and alcohol use.
+
+In Los Angeles, Will Power to Youth uses drama to help young people in gang-infested neighborhoods. Teenagers are employed in their summer vacation to produce a Shakespeare play. Consider all the benefits: The theater is a safe place to go during the summer, the students learn classic literature, they gain self-confidence by performing in front of other people, and they learn the technical skills of using sound and lights to stage a performance -- skills that can help them get a job when they're older.
+
+All across our country, young Americans themselves are serving as mentors and counselors. On Tuesday, I traveled to Florida. Are there any Floridians here? {APPLAUSE} In your state, the Governor, who I happen to know and admire -- {LAUGHTER} -- started a program called Teen Trendsetters. Teen Trendsetters are high school students who serve as reading mentors to third-grade struggling readers. Fourth-grade students in Florida have shown a dramatic improvement on state reading tests, due in part to the help they received their third-grade year from Teen Trendsetters.
+
+Lucas Hunt, a member of the Summit's Youth Council, works on a similar program in his home state of Tennessee. Volunteer State Readers is a group of high school students who volunteer to read to children. Lucas also serves as the youth chair of the American Cancer Society Relay for Life in his county. And he's personally arranged for 30 cartons of art supplies to be sent to the children of Iraq. {APPLAUSE} Lucas, we're proud of your public service. Would you stand and be recognized? {APPLAUSE}
+
+Keisa Carroll, from Ohio, is also a member of the Youth Council. She spoke here on Thursday. Keisa is the president of her local NAACP youth council, and she's active in her church and school. Keisa catalogued entertaining and healthy activities and service projects available to young people in her community. Now she's teaching other young leaders how to use the same techniques in their own communities. Thank you, Keisa, for sharing your knowledge to help children and teens. Would you stand? {APPLAUSE}
+
+Caitlyn Day is an entrepreneur from Virginia. As a college sophomore, she already owns her own business -- an ice cream and sandwich shop. Caitlyn also spearheaded a project that's very close to my heart. When she found out that her county was the only county in Virginia that didn't have a library, Caitlyn led the effort to organize one. She helped to bring the joy of books and reading to her neighbors in Craig County, Virginia. Would you stand, please? {APPLAUSE}
+
+Lucas, Keisa, and Caitlyn are like all of the young leaders here. They have a strong sense of service that motivates them to be active in their communities. And their energy inspires other people to get involved, too. Most young people want to act on their idealism. The young leaders here today show their peers how to serve a cause greater than themselves.
+
+I also want to thank the adults who support these young leaders by taking their ideas seriously and by helping them turn their ambition into reality. We need more adults to mentor young people. There are 15 million children in our country who need a mentor, and surely there are 15 million caring Americans who can fill that need.
+
+Many people in America want to help children, but they're not sure how to get started. On October 27th, I'll host a White House Conference on Helping America's Youth here in Washington, D.C. We'll invite researchers, service providers, and volunteers who can help us understand the challenges faced by today's youth and recommend effective programs to help children.
+
+By bringing together experts and sharing your knowledge, we can foster connections between people making a difference in their communities and people who have the motivation but need to get started. We want to reach enough people so that every child in America has a parent, a teacher, a coach, or a mentor that he can turn to for support and love.
+
+I am deeply grateful to all the young people here who have discovered what a privilege it is to make a difference in the life of your communities. By staying committed to your work and sharing your experiences with others, you'll inspire others to dedicate their time and talent and energy to helping their communities.
+
+Thank you all very, very much. Enjoy the rest of the summit, and have a great summer. {APPLAUSE} 
+
+{/speech}

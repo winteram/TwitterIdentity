@@ -1,0 +1,48 @@
+﻿{title} President Remembers 9/11 Heroes at Medal of Valor Award Ceremony {/title}
+{event} The South Lawn {/event}
+{speaker} George W. Bush {/speaker}
+{date} September 9, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all very much. {APPLAUSE} Thank you. Welcome to the White House. Laura and I are honored that you're here today. We recognize a group of Americans whose bravery and commitment to their fellow citizens showed us the true meaning of heroism.
+
+The 442 names you just heard belong to men and women of uncommon valor and decency and honor. On one of the worst days our country has ever witnessed, we witnessed the courage of some of the finest people our country has ever produced. And their sacrifice will always be remembered.
+
+I want to thank the Attorney General. I welcome members of the United States Congress and the United States Senate who have joined us -- Bill Frist, Senator Schumer, Congressman Fossella, Congressman Crowley. By the way, thank you for bringing your mother. Congressman Wolf, Congressman Smith, Congressman King, Congressman McCarthy, Congressman Israel. I want to thank Ray Kelly, the Police Commissioner of the great city of New York. {APPLAUSE} I thank all the fire chiefs, police chiefs, and Port Authority personnel. I particularly want to thank the men and women who are on the front line of making us safe -- thank you all for coming today. {APPLAUSE}
+
+The 9/11 Heroes Medal of Valor honors the public safety officers who gave their lives on September the 11th. On that day, firefighters, police officers, emergency medical technicians, Port Authority personnel and other public safety officers performed their jobs with extraordinary distinction in the face of unspeakable terror.
+
+We're grateful to the families and friends who have come here to honor their memory. We know that the sense of loss you feel does not disappear with time. Four years later, you still miss your loved ones. America admires your courage in the face of such terrible pain. And your loved ones will always have the thanks and admiration and respect of a grateful nation.
+
+When America has been challenged, there has always been citizens willing to step forward and risk their lives for the rest of us. Over the last 11 days in Louisiana and Mississippi and Alabama, we have again seen acts of great compassion and extraordinary bravery from America's first responders. Firefighters and police, and U.S. Coast Guard men and women, and National Guardsmen and active duty forces, disaster and medical assistance teams, search and rescue units from all over the United States have descended on the Gulf Coast to help the victims of Hurricane Katrina. They have faced the storm's destruction with valor and determination, and their hard work has saved lives in the face of great adversity.
+
+We're still at the beginning of a huge effort. The tasks before us are enormous. Yet so is the heart of the United States. We're grateful to the emergency personnel -- {APPLAUSE} We are grateful to the emergency personnel who are working to assist victims and restore communities affected by this disaster. In these difficult days, we have again seen the great strength and character and resolve of America. And we will continue to work to help the people who are struggling.
+
+In every community we depend on those who carry the badge, who keep the peace and protect our citizens. And in times of national crisis, all Americans are grateful to those who answer the alarms and run toward danger and provide urgent care. Those who place their own lives at risk for others must be recognized and honored by their fellow citizens.
+
+And four years ago, America saw the unparalleled heroism of our nation's public safety officers. We lost brave rescue workers who gave their lives so that others could live. We lost many other citizens who assisted in the rescue efforts, and whose courage and sacrifice that day made them extraordinary.
+
+On September the 11th, 2001, America lost Firefighter Donny Regan of Rescue Company 3 in Bronx. During his 17-year career with the New York City Fire Department he was cited six times for bravery. And today, our nation honors Donny's final act of courage. His son, Peter, lost a father on September the 11th; today, he carries on his father's legacy. Peter followed his dad's footsteps to the fire department. Today he is defending our freedom as a reservist with the 3rd Battalion 25th Marine Regiment in Iraq. {APPLAUSE}
+
+On September the 11th, 2001, America lost Firefighter Ronnie Gies of Squad 288 in Queens. Ronnie had been with the New York Fire Department since 1988. He rushed downtown to the World Trade Center. A video of the day showed Ronnie on his way into the towers. His wife said, "You see him straight on, carrying equipment, with such a look of determination." His own son, Tommy, graduated from the FDNY Academy last August, and is now a member of Ladder 147 in Brooklyn. And we're grateful for Tommy's courage and service. {APPLAUSE}
+
+On September the 11th, 2001, America lost Senior Court Officer Thomas Jurgens, one of about 25 New York State Court officers who responded after the plane hit the first tower. Thomas' last radio transmission came from inside the burning tower, after he'd been warned to get out because the danger was too great. He refused to leave his post. His last words before signing off were, "There are people here who need our help."
+
+On September the 11th, 2001, America lost New York City Police Officer Moira Smith. Moira is remembered by friends for her fearless spirit on and off the job. She ran with the bulls in Spain. And in 1991, she ran into a subway tunnel to rescue dozens of people trapped in one of the worst subway accidents in New York history. On September the 11th, 2001, she ran toward danger once again, into the burning towers of the World Trade Center. A broker she helped to safety remembers her steady blue eyes and her even voice. The next day's papers carried an image of Moira helping an injured man out of the tower, before she rushed back in to save others. And the tower collapsed around her. One of Moira's colleagues said, "She could have saved herself, but nothing would have stopped her saving one more person."
+
+These are some of the examples, only a few of the examples, of the extraordinary bravery that took place that day. All the brave men and women we recognize today brought credit to the uniform, and honor to the United States of America. {APPLAUSE}
+
+And one way our nation can honor their sacrifice is to win the war on terror. {APPLAUSE} On September the 11th, 2001, we saw the future that terrorists intend for us. And I made a decision: America will not wait to be attacked again. We will take the fight to the enemy, and we'll defend our freedom. {APPLAUSE}
+
+Since that day we've taken the fight to the enemy. We're hunting down the terrorists in mountains in Afghanistan, in tribal regions of Pakistan, in the deserts of Iraq, and on islands of Southeast Asia, and the Horn of Africa. We're fighting the terrorists and we're fighting their murderous ideology, by spreading the hope of freedom across the broader Middle East. Free nations are peaceful nations, and by advancing freedom's cause, we are laying the foundation of peace for our children and our grandchildren. {APPLAUSE}
+
+We will succeed. And the legacy of peace and freedom we leave behind will be the greatest memorial to your fallen family members and friends. {APPLAUSE}
+
+The heroes of September the 11th will not be here to see that day. But their moms and dads and children and grandchildren can know a proud America will always stand in the long shadow of their service and sacrifice, and a proud nation will always remember them.
+
+May God bless you all, and may God forever bless the memories of those who sacrificed on behalf of our citizens. {APPLAUSE} 
+
+{/speech}

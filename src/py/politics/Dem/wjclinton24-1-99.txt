@@ -1,0 +1,32 @@
+﻿{title} Remarks by The President to the Beebe Community {/title}
+{event} Beebe School District Building, Beebe, Arkansas {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 24, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Thank you. Thank you, ladies and gentlemen. Good afternoon. Thank you for making me feel welcome. Let me say, first of all, that I brought my Arkansas Cabinet -- Secretary Slater and Mr. Witt -- down here today, along with a number of Arkansans from the White House staff, including Missy Kincaid, who is from this community. I have been here many times. I have a lot of friends here, and I was very sad when I flew over Beebe and McRae today and I saw how much damage had been done. And I saw a lot of pain in a lot of faces up on the road there, but I also saw a lot of determination.
+
+I want to thank your Mayor for being, even with his bad foot, walking around with me in some pretty lumpy places. He must think he has impeccable timing -- he got himself installed just in time for the tornado. But he's a young man and a teacher, so he ought to be about rebuilding schools -- and that's a good thing.
+
+And I thank your County Judge. I thank your Superintendent, Mr. Williams. I thank my good friend, Senator Beebe and Mrs. Beebe, and Representative Hendren. I'd also like to compliment your Fire Chief, Mr. Kennedy, and the National Guard people. I know they've worked very, very hard the last few days, and I know that we're all appreciative of them.
+
+And you've had some young AmeriCorps volunteers who came down from St. Louis and that's a program that was started after I became President -- I'm proud of these young people; they volunteer a year or two years of their lives to work in communities just doing what needs to be done. And I'm very grateful for that.
+
+Let me say on the points that I've heard people talk about, as all of you know, we've got a relationship here with the state emergency folks. We are going to set up programs to provide whatever help we can to this community. I think the most immediate public need, obviously, is for some place for the children to go to school. And we've talked about how quickly we could get some of the portable classrooms in here in large numbers and with the best possible quality. And I assure that we will -- I will personally be involved in that, and so will Mr. Witt and Secretary Slater. We'll get on it and we'll get the job done as quickly as it can physically be done.
+
+We also want to make sure that both the community and individual families are clear about what the federal government can and cannot do and what kind of support is there. We don't want anybody to leave something on the table that we could contribute to rebuilding the lives of the families and the community.
+
+And, again, I just want to encourage you. You probably know, right before I came here I was walking through my old neighborhood in Little Rock, the Quapaw Quarter, where the Governor's Mansion is and where I lived for 12 years. I saw a lot of people who Hillary and Chelsea and I spent a lot of time with, with their homes down around their ears today, too. They'll have to decide how to go forward, and many of you will. But I just want to encourage you. I want to tell you that as awful as it is, I just thank God there weren't more people killed. And I hope we can all keep the right attitude, and I hope all the neighbors will keep helping their neighbors and, in the end, I think it will come out all right.
+
+And, again, let me thank you, Mayor; thank you, Judge; and I thank all the other local leaders, and thank you for giving a chance to be here -- giving us a chance to be with you today.
+
+God bless you. Thank you very much. {APPLAUSE}
+
+I also wanted to say just one other thing. Just because I -- there's one part of Arkansas I am not visiting today. In addition to Congressman Snyder, who has Pulaski and White County, Independence and St. Francis County and I think one other county have been declared disasters. And the East Arkansas counties are in Representative Marion Berry's district, and Congressman Berry is here with us today, too. And so our thoughts are with the people east of here who are suffering as well. And some of those folks lost everything they have, and I just wanted to mention them and say our thoughts and our prayers and our support are with them, too.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

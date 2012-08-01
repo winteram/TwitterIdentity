@@ -1,0 +1,46 @@
+﻿{title} President Delivers Remarks at Hispanic Prayer Breakfast {/title}
+{event} The Capital Hilton, Washington, D.C.  {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 15, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} For Immediate ReleaseOffice of the Press Secretary {/description}
+
+{speech} 
+
+Thank you all. Thank you all very much. Sientese. Gracias, Luis. El honor es mio. It is an honor to be here again this year. I'm so pleased that you would have me back for the National Hispanic Prayer Breakfast. I'm really pleased this is becoming a tradition in Washington, D.C. {APPLAUSE}
+
+It is important, and it is good to begin the day with prayer and fellowship. Prayer is an opportunity to praise God for His works and to thank Him for His blessings. Prayer turns our minds to the needs of others, and prayer changes our hearts as we seek God's will.
+
+I want to thank you for reminding the nation, and our capital, about an even greater source of strength and authority. {APPLAUSE} I want to thank my friend, Luis, for being a general in the army of compassion. He is what I like to call a social entrepreneur. {APPLAUSE}
+
+I want to thank the members of the United States Congress who are with us today. I see Senator Bill Frist, the leader of the United States Senate. Senator Frist, thank you for coming. {APPLAUSE} I was told one of the leaders of the House, Nancy Pelosi is to be here. {APPLAUSE}
+
+I'm not going to try to read off every single name of every single person in the Congress who may or may not be here -- I'll probably skip one and add one that isn't. {LAUGHTER} But let me just tell you, I'm honored to be working with them. It's a fine group of our fellow citizens, all working together to try to do the best thing on behalf of the American people.
+
+I want to appreciate Gaddi Vasquez, who is the Director of the Peace Corps, who's with us today. Donde esta? Hey, Gaddi, thank you for coming. {APPLAUSE}
+
+I think the Mayor is here. Mr. Mayor, I appreciate you coming. I'm honored to have you here. I always like to tease the Mayor about the potholes in front of the White House. {LAUGHTER} There aren't any. It says to me he's doing a pretty darn good job. {APPLAUSE}
+
+I want to thank Reverend Jose Martinez and Manuel Vasquez. I want to appreciate the beautiful musicians who sang today. I'm honored that the students from St. Rita's Catholic School in Alexandria are with us today. Thank you all for coming. {APPLAUSE} I appreciate the pastors who are here and the leaders from around our country. Welcome back to Washington.
+
+Last May, when I came, you honored me with a special gift, a bilingual bible that was made for me in Mexico. And this bible means a lot because with it came a promise. You promised that you were praying for me. {APPLAUSE} There is no greater gift that a President can receive. I have felt the comfort of those prayers. And I am really grateful. Thank you, from the bottom of my heart. {APPLAUSE}
+
+Hispanic Americans bring many gifts to this nation -- hard work and strong cultural traditions and patriotism. Above all, the Hispanic community lives every day por los valores de fe y familia. {APPLAUSE} Your good works and reverence bring compassion to our country, and honor to almighty God.
+
+In the last several weeks, we have learned the names of some exceptional young men and women who have shown the strength and character of America. At the National Naval Medical Center, I met Master Gunnery Sergeant Guadalupe Denogean. Sergeant Denogean is an immigrant from Mexico who served in the Marine Corps for 25 years. This spring he was wounded near Basra, and he was sent back to America for treatment. When asked if he had any requests, the good Sergeant just had two -- a promotion for the corporal who helped rescue him, and he wanted to be an American citizen. {APPLAUSE}
+
+I was honored to be with the Sergeant the day he received a Purple Heart and took the oath of citizenship. {APPLAUSE} It was an amazing experience, a truly American experience, to be in the hospital where he was recovering from his wound; to see this son of Mexico raise his right hand and pledge to support and defend the Constitution of the United States. {APPLAUSE} He had kept that oath for decades before he took it. And I'm proud to call him my fellow American. {APPLAUSE}
+
+Our country is proud of all the Hispanic Americans who serve in uniform. We're deeply grateful for those who have died in the cause of our security, and in the cause of freedom. We honor their memory. We pray for their families. We honor the communities and the churches where they learn the value of service and sacrifice. {APPLAUSE}
+
+Because of their sacrifices, America is a more secure country. Because of their sacrifices, the world will be a more peaceful place. And because of their sacrifices, people who had lived in bondage under the strong arm of a brutal dictator are now free. {APPLAUSE}
+
+America is blessed by their sacrifices. And America is also blessed by the sacrifices that you make every day as you care for the sick, house the homeless, feed the hungry, and preach the word -- la palabra. {APPLAUSE}
+
+In the Book of James, we are reminded that faith without works is dead. By loving a neighbor as you'd like to be loved yourself, you prove every day that faith is alive. By your work and prayers, you have formed your own army, an army of compassion. And by living your faith, you bring hope to those who need it most.
+
+It is appropriate that the group sponsoring this breakfast has the name Nueva Esperanza -- New Hope. Hope allows us to dream big, to pray bold, and to work hard for a better future. I want to thank you for your abiding hope, for your steadfast faith, and for your acts of love. I want to thank you for helping to keep prayer an important part of our national life. {APPLAUSE} May God continue to invigorate you as you work to make this country a compassionate home for anybody. May God continue to invigorate you as you reach out to help a neighbor in need.
+
+This country needs your compassion. We need your works. We need your love. May God bless you all, and may God continue to bless America. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,42 @@
+﻿{title} Remarks by the Presidentin Greeting Residents of South Side {/title}
+{event} Greeting Residents of South Side {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 1, 1993 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. I want to thank Gerry Kleczka and everybody else. But I especially want to thank the Langer family for bringing me to Bayview. I'm glad to be here. {APPLAUSE} When I was on the way out here today the Mayor said that he was the Mayor of Milwaukee and Bayview and that I needed to know that if I was going to come here. So I'm glad to be here.
+
+I also want to introduce to you Wisconsin's newest member of Congress, Mr. Peter Barca, who just showed up. {APPLAUSE}
+
+I'm sorry you all are in there behind that fence, and I look forward to getting out and shaking hands with you. I just wanted to say one or two things before I do. I was just in downtown Milwaukee, speaking with several thousand people about the economic plan that I have presented to Congress. And there are two or three things that I want to say to you about it so you'll all know, because there are a lot of things that have not been brought out that I think you're entitled to hear.
+
+First of all, this plan has over 200 spending cuts. I see all these signs saying, "Cut spending." Where were you when we cut them? It has a lot of spending cuts in it; over $240 billion.
+
+Secondly, the tax increases in this plan all go to reduce the deficit, and over 74 percent of the money comes from people with incomes above $100,000 -- families with incomes below $30,000 pay nothing. The other thing I want to tell you is, if your income is above $30,000 and below $100,000, depending on the size of your family, the energy tax that the House approved costs you a dollar a month next year, $7 a month the year after that, and for a family of four, $17 a month the year after that. All of it goes to reduce the debt.
+
+I think it's worth doing. It's brought interest rates down to a 20-year low. {APPLAUSE} We have interest rates at a 20-year low. That means Americans are going to refinance their homes, get lower car loans, refinance their business loans, get lower consumer loans, lower college loans. It will save $100 billion for American businesses and individuals this year if we can keep those interest rates down. So I want you to support that.
+
+The second thing I want to say about it is this: We have put forward a program which will open the doors of college education to all Americans, just like I promised in the campaign -- {APPLAUSE} -- lower interest loans; better repayment terms; and giving tens of thousands of Americans a chance to pay their college loans by serving their communities here at home, by working to make their communities a better place. {APPLAUSE}
+
+The next point I want to make is that as soon as this budget is over, just like I said in the campaign, we're coming forward with a plan to provide health care security, affordable health care, to the working families of this country -- {APPLAUSE} -- who have been savaged by high costs, insufficient coverage, and the inability to change jobs because somebody in their family has been sick. {APPLAUSE}
+
+This administration is about jobs, incomes, health care, education and training, and bringing this deficit down.
+
+Now, I want to say one last thing. I heard all this talk in the country about how this is a tax program. I just want to make this point. It is not just a tax program, it's an economic program. It is over $240 billion in budget cuts. We're going to reduce the size of the federal government by 150,000. We are --
+
+{AUDIENCE-MEMBER} make the cuts first!
+{/AUDIENCE-MEMBER} 
+We are cutting first -- that's what the budget resolution is all about. You can't raise taxes without the budget cuts. It's illegal now. That's the whole point. {APPLAUSE} They can't -- we won't have the tax increases without the budget cuts. It's all going to be put in a trust fund. And unlike all previous years, if we don't make our reduction targets and reduce that debt, the President by law is now required to come in and fix it, something previous presidents did not have to do. We have changed the law. {APPLAUSE}
+
+And what you've got to decide is whether you want more hot air, more rhetoric, more politicians up there telling you what you want to hear, or somebody who will tell you the truth, turn the country around, and get the economy going again. I think that's what you want and I hope you'll support your members of Congress and me as we try to do that. {APPLAUSE}
+
+Let me say one final thing. I think that a lot of you before I came here today had no earthly idea that we'd cut all that spending because the Congress didn't fight it, they just did it. I think you did not know also that families with incomes under $30,000 were being held harmless because we had support for that. And you may not know that small businesses like Langer's Pharmacy are going to have tax incentives to reinvest in their businesses that were not there before if this plan passes.
+
+This is a good plan for the economy. It's a fair plan for the middle class. It asks the wealthiest Americans to pay their fair share. And unlike previous plans, it's not a lot of hot air. It will do what it's supposed to do. I think we've had enough hot air for the last 12 years. Let's do something real and strong and move this country forward. {APPLAUSE}
+
+Thank you, and God bless you all. {APPLAUSE} 
+
+{/speech}

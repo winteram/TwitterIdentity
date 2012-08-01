@@ -1,0 +1,44 @@
+﻿{title} President Commemorates Columbus Day {/title}
+{event} Remarks by the President on Columbus Day, Room 450, Eisenhower Executive Office Building {/event}
+{speaker} George W. Bush {/speaker}
+{date} October 13, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, all, please be seated. Grazie, Antonio. {LAUGHTER ; APPLAUSE} Thank you all for coming. I'm honored to join you in observing Columbus Day and to celebrate Columbus Day in the District named after Christopher Columbus.
+
+The journey of the explorer from Genoa is one of the great stories of daring and discovery. And the journey of millions of immigrants from Italy is also a story of discovery and bravery, and that journey has enriched our country, that's really what we're celebrating today. America is a stronger and finer nation because of the influence of Italian Americans. {APPLAUSE}
+
+The veterans of America are better off as a result of the influence of Tony Principi, the Secretary -- {APPLAUSE} He's really done a good job and I'm proud of his commitment and service to our country as a Cabinet Secretary. I value his advice, I love his spirit. I'm also happy to report that, like me, he married well. {LAUGHTER} And Liz is with us today -- as is Captain Tony Principi, a Captain in our Air Force who is celebrating his 30th birthday today, so happy birthday. {APPLAUSE}
+
+Members of my team are here, I want to thank them for coming. Roy Bernardi, who is the Assistant Secretary for Community Planning and Development at HUD, and I'm glad Alice is with you. Thanks for coming, Roy, you're doing a great job. {APPLAUSE} Former Mayor of Syracuse, I want you to know. {APPLAUSE} Pat Harrison is with us, Assistant Secretary of State for Education and Cultural Affairs. {APPLAUSE} Dana Gioia, who is the Chairman of the National Endowment of Arts and is doing a great job, thank you for coming, Dana, I appreciate it.
+
+As you know, one of the things our nation is doing right now is we're leading the fight against AIDS, particularly on the continent of Africa. One of the generals in the fight against AIDS is Tony Fauci, from the National Institutes of Health. Thank you for coming. {APPLAUSE} That would be Dr. Tony Fauci, a great man.
+
+We've got members of Congress with us today. First of all, the Senator from the great state of Wyoming, Mike Enzi. Thank you for coming, Senator. {APPLAUSE} And Ginny Brown-Waite, from the -- Congresswoman from Florida. Ginny Brown, thank you for coming. {APPLAUSE} And I'm glad you brought Harvey along, too. Thanks for coming, Harvey. Stefano Stefanini, Deputy Chief of Mission from the Embassy of Italy, thank you for coming, sir. {APPLAUSE} Give my best to my friend, Silvio Berlusconi, who I'm close to and I value his leadership and friendship, always such a joy to see him. So please pass on my very best.
+
+Frank Guarini is here, who is the Chairman of the National Italian American Foundation, former member from the great state of New Jersey. Frank, thank you for coming. {APPLAUSE} Phil Piccigallo is with us, the National Executive Director of the Order of Sons of Italy is with us. Thank you for coming, Phil. {APPLAUSE} Frank Caperino, the National President of UNICO National is with us today. {APPLAUSE} And thank you all for coming, thanks for being here.
+
+For nearly 70 years, our country has celebrated in honor of Columbus. And on this day, we celebrate the contributions of Italian Americans. You're among the many millions who claim Italian heritage, and you can claim that heritage with pride. And I know you do. {LAUGHTER} I know you do.
+
+Every aspect of our culture, whether it be art or music, to law and politics, owes something to the influence of Italian Americans. You can take special pride in the deep tradition of service to this country. People of Italian descent oftentimes hear the call to serve something greater than themselves. Twenty-four Italian Americans have won the Congressional Medal of Honor, that's high service to something greater than yourself.
+
+One of them was Marine Gunnery Sergeant John Basilone. You may have heard of this brave man. He died in the battle of Iwo Jima. He won both the Medal of Honor and the Navy Cross. It speaks to his valor and his service. But he wasn't alone, there's thousands who have sacrificed and served a country they love. Sure, they love their heritage, but most of all they love America and what America stands for. {APPLAUSE}
+
+Rocky Versace is an Italian American. He won the Medal of Honor in Vietnam because of the defiance he showed after being taken captive by the Viet Cong.
+
+I met his family last summer when I awarded him the Medal of Honor posthumously. Rocky set an example of bravery and dedication that changed the lives of his fellow soldiers, but most of all, honored the country he loves. He was of Italian descent, proud of his heritage, but most of all, he loved America. He loved what we stood for and was willing to sacrifice for it.
+
+And that's what's happening today. People are willing to sacrifice for the country they love. They remember the lessons of September the 11th, 2001. And so do I. It's something we should never forget.
+
+Especially the lessons of those who sacrificed for lives lost. Peter Ganci, you may have heard of Peter. He was the Fire Chief of New York City. He died at the World Trade Center when he went into the -- into the destruction to save men and women. Fifty people -- fifty of his men were rescued before the second tower fell. The Chief was in there urging them to flee for their safety. He ordered all out of the area. He refused to go. And his statement was, "I'm not leaving my men." One brave guy who embodies the best of the sons and daughters of Italy.
+
+The faith of the Italian-American community in God is an important part of our nation's fabric. The faith in family, the love of life and the commitment to our country are great gifts. Italian Americans share those gifts generously. And that is why we celebrate Columbus Day.
+
+And for the contribution the Italian Americans have made to America, I say, thank you, we are grateful. But most of all, I ask God's blessings, not only of those of Italian descent, but ask God's blessings for all of us who are fortunate enough to live in the United States of America.
+
+May God bless you all. {APPLAUSE} 
+
+{/speech}

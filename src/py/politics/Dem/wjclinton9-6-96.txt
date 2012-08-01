@@ -1,0 +1,69 @@
+﻿{title} Speech to People of Las Vegas {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 9, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Thank you for being outside. All those people in the heat out there, thank you very much. {APPLAUSE} I want to thank the Green Valley High School Band. Thank you for playing. You did a great job. {APPLAUSE} I thank those who were here before -- thank you, Mayor Jones; thank you, County Commission Chair Yvonne Gates; thank you, Senator Titus; thank you, Representative Perkins; and most of all thank you ladies and gentlemen for being here. I want to thank your fine Senators Harry Reid and Dick Bryan for representing you, standing up for you, and standing up for America in the United States Senate. They do a wonderful job. {APPLAUSE} 
+
+And I want to thank Governor Bob Miller. You know, he has been the best sort of friend to me because he always tells me when he thinks I'm wrong. {LAUGHTER} And he's been the best sort of Governor for you because even though he's my friend he's first and foremost somebody who's always fighting for Nevada's interests. And every time he hears anything that might be even potentially bad for Nevada, I know the first call I'm going to get is from Bob Miller. He's made a lot of calls in the last three and a half years for you, and I thank him for that. {APPLAUSE} 
+
+I also met someone earlier today. And I think he's in the crowd today. He's supposed to be up here with us -- State Senator Bob Coffin who's running for Congress here. I don't know if he's here, but I thought I would -- is he back there? Thank you. {APPLAUSE} 
+
+Ladies and gentlemen, I'm glad to be back in Nevada. I like it here. {APPLAUSE} I'm glad to be back in Las Vegas, which as all of you know, was my mother's favorite place on Earth. {APPLAUSE} 
+
+I've had a wonderful day already. I went out and visited one of your juvenile justice programs, where young people were doing community service and making restitution for mistakes they've made. And I met with some of the young people in the program and some of the adults who were working with them and some of the parents. And I want to compliment you for that. And I want to ask everybody in this room to support people who are out there working with these young kids, trying to get them out of trouble, keep them out of trouble, give them something to do with their lives. 
+
+We cannot -- we cannot -- tolerate the situation which now exists in the United States where the crime rate is going down overall but going up among people under 18. And it's because we don't have enough adults that are out there helping these kids to build good lives for themselves. And you've got some good programs here. I want you to support the people that are out there on the front lines in Las Vegas and Nevada working with those kids. {APPLAUSE} 
+
+Four years ago when I came here and asked you to support me, I had an idea about what I wanted our country to look like as we move into this new century -- a very different world. The world I grew up in was dominated by heavy industry and mass production. The world these children will grow up in will be dominated by computers, technology and information. The world I grew up in had an America that was totally self-contained. We didn't sell much overseas; we didn't buy much from overseas. The Cold War was the most important thing and the fight we were having with the communists. The world these kids will grow up in will be dominated by a global society in which children will actually get on computers and do research in libraries in other countries, in which people will be able to move across the world as easily as they used to go across town. And in which we will have to fight those who will seek to take advantage of that through drug running, organized crime, the proliferation of weapons of mass destruction, terrorism, preying on open societies and free people. This is a different world. 
+
+And I had three simple objectives. I wanted America in the 21st century more than anything else still to be a place where every child has the opportunity to make the most of his or her own life, no matter what racial or ethnic or income background they come from. {APPLAUSE} 
+
+Secondly, I wanted America to be a community of responsible citizens, where we are coming together instead of drifting apart. I am tired of seeing people at election time try to find ways to get us to look down our noses at one another and be divided. When we are together, when we reach across the lines that divide us, when we say our diversity is a great and good thing that makes us stronger in the global society of the 21st century, that's when America's strong -- when we're working together, not being driven apart. {APPLAUSE} 
+
+And finally, I wanted to make sure that when I left office, our country would still be the world's strongest force for peace and freedom and prosperity. And I can tell you that on all three fronts, we still have a lot of challenges, but this country is in better shape than it was four years ago, and we're moving in the right direction. {APPLAUSE} 
+
+Harry Reid and Dick Bryan will tell you when I presented my economic plan to the Congress, and I said we've got to do something about this terrible deficit; we've got to bring it down, but we cannot -- we cannot -- do it in a way that undermines out commitment to education or to the environment, or protecting the health care of the elderly, the Americans with disabilities, the poorest children of this country. {APPLAUSE} 
+
+There were those on the other side who said, if Clinton's economic plan passes, it will be a disaster for America; we'll be thrown into recession; it will cripple the economy. Well, you've got three and a half years now to decide. When I took office, the deficit was $290 billion a year, projected to go over $300 billion the next year. It's now going to be $130 billion this year, less than half of what it was. {APPLAUSE} 
+
+When we came into office, we had the slowest job growth rate since the Great Depression -- three and a half years later, we have 9.7 million new jobs for the American people. We are better off than we were four years ago. {APPLAUSE} We also passed a crime bill to put more police officers on the street, some of them right here in Las Vegas to prevent crime. {APPLAUSE} We began to work with states to reform welfare and move people from welfare to work. Today there are 1.3 million fewer families on welfare than there were the day I became President of the United States. {APPLAUSE} We made efforts to help families struggling to make the most of their own lives, the Family and Medical Leave Law that says you don't lose your job if you have to take a little time off when there's a baby born or somebody in your family who's sick. {APPLAUSE} 
+
+I was just out at UNLV today. We've reformed the college loan program so that people could borrow their money directly from the United States government, get it quicker, less hassle, better repayment terms, and that no one would ever have to not go to college because they couldn't afford to borrow the money, because now they can pay it back as a percentage of their income so the loans will never bankrupt anybody. {APPLAUSE} 
+
+We passed the national service program, Americorps, to give young people a chance to work in their communities and solve problems and help people and work their way through college. That is what we have done. 
+
+And then when the Congress changed hands in the last two years, and the Republicans said, we want to balance the budget -- I said, so do I. We cut the deficit in half already. We've done half the job, and you wouldn't help us -- we'll help you. We won't do you the way you did us -- we'll help you. But I will not balance the budget by cutting education, by destroying the environment, by undermining our commitment to Medicare and Medicaid. I won't do that. {APPLAUSE} 
+
+Because that gets into that second issue I was telling you about. We need to come together, not come apart. In the world of the 21st century, education will be the key to opportunity. You know it as well as I do. We cannot walk away from our commitment to give every American the opportunity to get a good education. {APPLAUSE} 
+
+Look at what you're dealing with here in Nevada with all your growth. You need water here. I'm going to do everything to make sure you have it. We can't walk away from our commitment to preserve the environment for all Americans. We have obligations here. {APPLAUSE} We have to do this together. 
+
+And so I say again to you -- I want to balance the budget. I will keep working to do that. We have to do that. When you bring the deficit down, it gets interest rates down, it makes it easier for you to make a home payment, to borrow money for a car, to borrow money for a new business, to create jobs. It is critical. But we can do it. Don't let anybody tell you otherwise. We can do it and preserve our environment, invest in education and protect Medicare and Medicare for our seniors. We can do that. {APPLAUSE} 
+
+And let me say we still have work to do. We still have work to do. If you renew the contract of Bill Clinton and Al Gore, there are other things that we have to do to make sure that all the American people can take advantage of these new opportunities, because you know as well as I do that not everybody in our country, even everybody with a job, is having the same chance to get ahead. 
+
+What do we need to do? Let me just give you three or four things. First of all, if the Congress doesn't pass it now, we'll do it first thing next year. We need to change the health insurance laws of this country so you don't lose your health insurance when you change jobs or when somebody in your family has been sick. {APPLAUSE} Secondly, we need to change the law so that young people starting out, even if they work for small businesses, can begin to save for their retirement, and they don't lose it if they change jobs. They can keep it all through their lives and they can maintain that. {APPLAUSE} 
+
+And most important -- most important of all, we ought to give every American a tax deduction for the cost of college tuition and a tax credit for two years of community college in this country. Every single American ought to be able to go. {APPLAUSE} You know as well as I do. {APPLAUSE} 
+
+The biggest institution of higher education in Nevada now is the community college here. Why? Because older people have figured out that if they want to be able to get new jobs and raise their incomes, they have to have more education. I was born at a time when the vast majority of Americans did not have a high school education, when many places did not even require them to do it. Now we know that in the world we're living in, you need more. And I think we ought to make it an article of national faith that every single American citizen should have access to at least two of education after high school. And we'll provide it for those families. {APPLAUSE} 
+
+So I say to you, my fellow Americans, I'm glad to be back here. I appreciate what the Governor said about the issues that are specific to Nevada. What I said about the interim storage was pretty simple: the people that wanted to pass the interim bill wanted to pass it so they could make it permanent. And I don't believe that that should be done. I believe somebody -- we're going to have to put this nuclear waste somewhere, but I want to know it was done based on the best science, not the worst politics. That's all I want. {APPLAUSE} And I don't know what the answer to that is. {APPLAUSE} 
+
+But I want you to think about the future that we've got here. I want you to think about what it's going to take to make sure that all these little kids that are in this house today -- in this hangar -- every one of them, every one of them -- and you look at them. We've got kids in this room whose roots come from every continent on this globe. 
+
+Just look around here. I want to make sure that every one of them has a chance to live out their dreams if they're willing to be responsible, law-abiding, hardworking American citizens. That's what I want. And that's what you want. {APPLAUSE} 
+
+That's really what this is all about. You know, politics is not the most important thing in anybody's life. When we all get our lives lived, we look back and we think about the children we raised, the things we loved and cared about. The purpose of politics is to make it possible for more and more and more and more people to live together in peace and harmony and to live out their dreams and to find their personal greatness and their families' depth and strength and character. That's what this is about. And that's what this election is about. Don't you ever forget it. And remember this: We're all here, we're all happy, we're all feeling good today. It's five months between now and the election. That is a very long time. {APPLAUSE} 
+
+So I say to you, if you believe what brought you here today and you understand how important this is, then I want to ask you to leave here today with a commitment every day between now and November to talk to your friends and your neighbors about what is genuinely at stake. America is deciding on the future of the greatest country in human history for a new century. You can help make the decision the right one. 
+
+Thank you, and God bless you all. Thank you. {APPLAUSE} 
+
+{/speech} 

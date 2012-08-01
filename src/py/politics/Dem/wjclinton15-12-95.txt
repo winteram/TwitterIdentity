@@ -1,0 +1,58 @@
+﻿{title} Remarks by the President at the Presidential Citizens Medal Ceremony {/title}
+{event} Old Executive Office Building {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 15, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good afternoon. Congressman Davis, Secretary Perry, General Shalikashvili, Deputy Secretary Talbott, distinguished friends.
+
+Let me say it is a great honor to welcome the Frasure family, the Kruzel family, the Drew family here today.
+
+Yesterday in Paris I watched the Presidents of Bosnia, Croatia and Serbia sign an agreement that turns their troubled region from war to peace. Then, on behalf of our nation, I witnessed the agreement.
+
+I witnessed it also in a more personal sense on behalf of three great Americans who could not be there: Bob Frasure, Joe Kruzel and Nelson Drew. For without their efforts there would have been no agreement in Dayton, and no signing in Paris. The shells would still be falling in Sarajevo.
+
+When Bob, Joe and Nelson died on Mount Igman on August the 19th, they were serving in the greatest of all missions -- working for peace and freedom. How I wish they could know that their efforts were destined to be crowned with success. I think they do.
+
+They knew their mission was dangerous. They talked about the risks the night before they set out for Sarajevo. Just a few days earlier they had tried to get in by helicopter, but were forced back by bad weather. But because of who they were, they never hesitated, and the next morning they set out again.
+
+To the family and friends of these three good and brave men, let me say again, as I have said before, we will never forget them. Their sacrifice reminds us of the tragedy they sought to relieve and reinforces the urgency of the search for a solution. They worked together as a team, but each had unique strengths.
+
+Bob Frasure was a career diplomat who found the most difficult assignments, or perhaps it would be better to say they found him. From Angola to Ethiopia to Estonia and, of course, to Bosnia they found him. From Angola to Ethiopia, to Estonia, and of course, to Bosnia, he helped to write some of the most dramatic chapters in the history of modern American foreign policy, yet he never sought the limelight for himself. As Secretary Christopher has said, he was a man of great accomplishment but little visible ego. His ingenuity and skill were matched by exceptional wit. His telegrams were so well written and compelling that they instantly became the talk of the State Department. His warmth touched countless colleagues and his judgment and resourcefulness countless lives.
+
+Joe Kruzel was also a man with an apparently endless sense of humor. Over a three decade career of service to our nation, he retained also his idealism about our goals, while leavening it with a healthy dose of realism about the foibles of any large bureaucratic effort.
+
+One of his colleagues remarked that while others were focused on day-to-day events, Joe's eyes were always on the horizon. He saw than an undivided democratic Europe was within reach, and he led the Pentagon's efforts in reaching out to the east to make that dream a reality. All of us, including myself and Bill Perry, value his sage and firm advice. He did not mince words, and we all listened.
+
+Nelson Drew, who served on my own staff, was a rare combination of remarkable soldier, respected scholar, profound strategic thinker, and a fine human being. Born to a military family, achieving an exceptional military career, but he made peace his calling.
+
+I remember meeting him for the very first time in my office this past July just after I had finished a call with Prime Minister Major. I asked those in the room a question about Bosnia, and Nelson stepped forward to answer it with his usual succinct and clear wisdom. He was always ready to step forward for peace in Bosnia.
+
+Bob, Joe, and Nelson devoted their lives and they gave their lives to achieve that goal. Now, we must follow the example they set to make sure this peace takes hold. Nothing we can say or do can bring our friends back again. But by striving to seal the peace in Bosnia for good, we can shape a future worthy of their noble sacrifice.
+
+We honor their memory today and forever with the President's Citizens Medal.
+
+Commander, post the orders.
+
+{COMMENT="The President's Citizens Medals are awarded"} {APPLAUSE}
+
+Let me just say in closing that all Americans, whether or not they knew Bob, Joe and Nelson, have been touched by their service to our country. Yesterday I saw it myself in Paris and just last month in my trip to the United Kingdom, to Ireland, to Germany and Spain. From people on the streets to presidents and prime ministers, the world is looking for our leadership for peace because they know America can be trusted.
+
+The world places that faith in our nation because of the work of individual American citizens like Bob and Joe and Nelson. They embodied the spirit of service that sets our nation apart. They stood for something larger than themselves. Like so many of their colleagues, they accepted hardship and the risks that go along with the job they embraced.
+
+Often they were rewarded for their efforts only by more difficult assignments, for our country needs its best people precisely where the challenges are greatest. They answered that call to duty with courage and conviction and grace. They understood that our leadership requires our involvement and our commitment, not from the sidelines, but on the ground at the heart of events.
+
+These three exemplify the qualities that make our country strong, a faith that one person can touch the lives of many, a willingness to work hard for something they believed in, a generous heart and spirit. Their wonderful families that you have applauded so warmly today are perhaps the best and finest testament to the lives that they lived.
+
+Without pause or complaint, they took it upon themselves to bring the gift of peace and freedom to others around the world --not for personal ambition, but solely because it was the right thing to do.
+
+Ralph Waldo Emerson once wrote, "Let him be great, and love shall follow him." Looking at the faces of Katharina Frasure and Sarah and Virginia, Gail Kruzel and John and Sarah, Sandy, Drew and Samantha and Philip and all the other family members here, we can say that love has truly followed these three great Americans we have honored.
+
+May God bless and protect their memories, their families and the country they gave everything to serve.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

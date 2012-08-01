@@ -1,0 +1,32 @@
+﻿{title} Remarks by the President in Lunch With Firefighters {/title}
+{event} Fire Incident Command Post, Payette National Forest, Burgdorf Junction, Idaho {/event}
+{speaker} Bill Clinton {/speaker}
+{date} August 8, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Scott, I want to thank you for this. And I want to thank Dave Alexander for making me feel welcome here. And I just want to say I appreciate what you're doing. I could have used this about seven and a half years ago I think, when I got to Washington. There was a lot of underbrush that needed cutting there. {LAUGHTER} I will treasure this for the rest of my life. Thank you.
+
+I wanted to begin today, if I might, by thanking your Governor, Dirk Kempthorne, for coming out here with me, and Senator Larry Craig and Helen Chenoweth-Hage -- both your members of Congress are here from Idaho. And I'm very grateful to them for that. Let's give them a hand for being here and for the support they've given you. {APPLAUSE}
+
+And of course, as Secretary Glickman said, our Secretary of Interior, Bruce Babbitt, came today, along with Louis Caldera, the Secretary of the Army, and Mike Dombeck who is your chief of the Forest Service. And mostly we came here to say thanks.
+
+I got to fly over at least some of the fires, and it was early morning and I know they haven't reared their ugly heads yet, but I have some sense of what you're doing. I also got to see some places where you had succeeded in changing the course of the fire and limiting its reach. And I appreciate that very much. I know that Mother Nature will burn in our forests one way or the other. But it matters how it happens. It matters that people don't die. It matters that property is saved. It matters that precious and irreplaceable things are saved. And you're doing that.
+
+I know a lot of the firefighters have been working here for weeks and weeks, and probably for months. Given all the problems we've had with wild fires this summer, you probably know we've already lost 4 million acres, which is about twice the 10-year average, before this. So we're in for a rough summer and I know how hard it is on you.
+
+I'd also like to say a special word of appreciation to the people from the military who have come up from Fort Hood -- {APPLAUSE} -- to teach you that one loud word in the English language. {LAUGHTER} And I heard there are some Marines here, too, somewhere, doing some work in this area, and I thank them. But, obviously I'm especially proud of this group from Fort Hood because their leader, Lt. Colonel Dell Williams was my Army military aide before he got a real job with you guys. {APPLAUSE} I told him today I was glad to see him having to do real work after having that White House job for a good while. But it didn't do him any permanent harm.
+
+So I thank you for your service. And I thank you for the work you're doing together. We're going to release today about $150 million in emergency funds to help continue to fight the fire and to help restore the area afterward. And I hope that restoration work will also lead to some jobs for the people in this area who have been disadvantaged by this fire.
+
+And I have asked the Secretaries of Agriculture and Interior to undertake an intensive 90-day study and report back to me about what can be done to minimize the impact of wildfires like this, because this thing was pretty well -- thanks to most of you who have been doing this for years -- this whole issue was much more in hand over the last 10 years. And this has been a difficult year. And most of the people I talk to think that the next two or three years could also be difficult years. And we want to do whatever we can to make sure that we take care of the people, as well as the natural resource.
+
+But the main thing I did -- I just wanted to get in the plane this morning and fly here and say thanks. I know this is hard and I know a lot of you are a long way from home. I know some of you have to get, almost, permission to go back to where you come from just so you can pay the bills and keep them from turning off the water and the electricity.
+
+But I want you to know that your fellow Americans appreciate it. These fires have been very well publicized and the American people know how they're being fought and who is fighting them. And you need to know that we're proud of you and we're grateful to you.
+
+I know there was a terrible fatality and there is a funeral today, and our prayers are with the family of the man who lost his life. This is hard. And I know it. And the main thing I want to do was just hop on Air Force One this morning at 6:00 a.m. so I could come over here and say thanks. You've done a good thing for your country and a good thing for your fellow Americans. Thank you very much. {APPLAUSE} 
+
+{/speech}

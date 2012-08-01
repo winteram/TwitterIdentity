@@ -1,0 +1,49 @@
+﻿{title} Remarks by the President on the Enlargement of NATO {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} March 29, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. Good afternoon, and welcome to the White House. 
+
+Fifty-five years ago, the representatives of 12 nations gathered here in Washington to sign the North Atlantic Treaty, which established the most successful military alliance in history. Today, we proudly welcome Bulgaria -- {APPLAUSE} -- Estonia -- {APPLAUSE} -- Latvia -- {APPLAUSE} -- Lithuania -- {APPLAUSE} -- Romania -- {APPLAUSE} -- Slovakia -- {APPLAUSE} --and Slovenia. {APPLAUSE} We welcome them into the ranks of the North Atlantic Treaty Organization. {APPLAUSE} 
+
+When NATO was founded, the people of these seven nations were captives to an empire. They endured bitter tyranny, they struggled for independence, they earned their freedom through courage and perseverance. And today they stand with us as full and equal partners in this great alliance. {APPLAUSE} 
+
+It has been my honor to host the Prime Ministers of each new NATO member in the Oval Office. I want to thank them for their friendship, I want to thank them for their leadership. I look forward to working with them to make the world more peaceful and more free. Welcome to America. {APPLAUSE} 
+
+I want to thank the foreign and defense ministers of the new NATO members who are with us today. I want to thank the Prime Ministers of Albania, Croatia and Macedonia, who are with us today. {APPLAUSE} Jaap de Hoop Scheffer is with us today, who is the Secretary General of NATO. Thank you for coming, Mr. Secretary General. I thank the Ambassadors of all the members of NATO, both old and new. 
+
+I want to thank the Vice President, Secretary of State Powell, Secretary of Defense Rumsfeld, General Dick Myers, General Jones, members of my administration. I want to thank the members of Congress who are with us today; Majority Leader Bill Frist of the United States Senate; members of the Senate which voted unanimously in support of the admission of the new members that we welcome today. {APPLAUSE} I want to thank the members of the House of Representatives who have joined us today. I want to thank those who are here today whose vision years ago helped make this moment a reality. I want to thank other distinguished guests. Welcome. 
+
+Today marks a great achievement for each of the nations joining our alliance. All member nations of NATO must be free and democratic and fully committed to defending the principles of liberty. All member nations must be willing, and able, to contribute to the common defense of our alliance. Our seven new members have built free institutions, they've increased their military capabilities in the span of a decade. They are stronger nations because of that remarkable effort -- and the NATO alliance is made stronger by their presence. {APPLAUSE} 
+
+Since NATO's founding, the assurance of mutual defense has been a safeguard for peace. As President Truman said, "By this treaty, we are not only seeking to establish freedom from aggression and from the use of force in the North Atlantic community, but we are also actively striving to promote and preserve peace throughout the world." 
+
+Under NATO's banner, the nations of Europe put aside rivalries that had divided the continent for centuries. NATO members stood watch on freedom's borders for two generations of the Cold War. Because of NATO's vigilance, free people lifted the Iron Curtain, and tore down the Berlin Wall and replaced dictators with democratic governments. 
+
+In the aftermath of this victory, some questioned whether NATO could -- or should -- survive the end of the Cold War. Then the alliance proved its enduring worth by stopping ethnic cleansing in Bosnia, and by ousting the armies of a tyrant in Kosovo. Some wondered whether NATO could adapt to the new threats of the 21st century. Those doubts were laid to rest on September the 12th, 2001, when NATO invoked -- for the first time in its history -- Article Five of our charter, which states that an attack against one NATO ally is an attack against all. {APPLAUSE} 
+
+NATO's core mission remains the same: the defense of its members against any aggression. Today, our alliance faces a new enemy, which has brought death to innocent people from New York to Madrid. Terrorists hate everything this alliance stands for. They despise our freedom, they fear our unity, they seek to divide us. They will fail. We will not be divided. {APPLAUSE} We will never bow to the violence of a few. We will never -- we will face the mortal danger of terrorism, and we will overcome it together. {APPLAUSE} 
+
+The countries we welcome today were friends before they were allies, and they were allies in action before becoming allies by treaty. Today, all seven of these nations are helping to bring lasting freedom to Afghanistan and Iraq. Bulgaria provided refueling facilities during the early days of Operation Enduring Freedom, and has deployed more than 400 soldiers to Iraq. {APPLAUSE} Military engineers from Estonia and Latvia are helping to clear explosive devices from Iraq. {APPLAUSE} Forces from Lithuania and Slovakia are helping to secure Iraq. {APPLAUSE} Romanian troops have sacrificed their lives fighting terrorists in Afghanistan. {APPLAUSE} And troops from Slovenia are serving in the international force that is protecting the city of Kabul in Afghanistan. {APPLAUSE} 
+
+Forces from Albania, Croatia, and Macedonia are also contributing in Afghanistan or Iraq -- proving their mettle as they aspire to NATO membership. {APPLAUSE} These three nations, joined together under the Adriatic Charter, are building strong democracies at home that can contribute to NATO efforts abroad. The United States supports these efforts. The door to NATO will remain open until the whole of Europe is united in freedom and in peace. {APPLAUSE} 
+
+As witness to some of the great crimes of the last century, our new members bring moral clarity to the purposes of the Alliance. They understand our cause in Afghanistan and in Iraq, because tyranny for them is still a fresh memory. These nations know that when great democracies fail to confront danger, far worse peril can follow. They know that aggression, left unchecked, can rob millions of their liberty and their lives. And so now, as members of NATO, they are stepping forward to secure the lives and freedom of others. {APPLAUSE} 
+
+The NATO alliance now flies seven new flags, and reaches from the Bay of Biscay to the Black Sea. And Europe -- once the source of global conflict -- is now a force for stability and peace. 
+
+Our great transatlantic alliance has met and overcome great dangers in the past, and our work in NATO is not done. In the past, many assumed that NATO represented a pledge that America would come to the aid of Europe. Today, by our words and by our actions, we know that NATO means much more -- it is a solemn commitment that America and Europe are joined together to advance the cause of freedom and peace. {APPLAUSE} 
+
+NATO is acting to meet the challenges of our time. NATO forces are securing Afghanistan, NATO ships are patrolling the Mediterranean, and NATO is supporting the Polish-led division in Iraq. NATO is widening the circle of its friends, by creating a new chapter in our relationship with Russia. NATO members are reaching out to the nations of the Middle East, to strengthen our ability to fight terror, and to provide for our common security. And we're discussing how we can support and increase the momentum of freedom in the greater Middle East. 
+
+Our unity and our commitment to freedom carried us to victory in the Cold War, and they showed us the way to victory in the war on terror. Together, Europe and America can lead peaceful nations against the dangers of our time. Europe and America can advance freedom, and give hope and support to those who seek to lift the yoke of isolation and fear and oppression. That is the mission that history has set for NATO -- this great and confident alliance of 26 nations -- and we proudly accept this mission. 
+
+May God bless you all. {APPLAUSE} 
+
+{/speech} 

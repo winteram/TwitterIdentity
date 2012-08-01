@@ -1,0 +1,46 @@
+﻿{title} Remarks at White House Conference on Culture and Diplomacy {/title}
+{event} The East Room {/event}
+{speaker} Hillary Rodham Clinton {/speaker}
+{date} November 28, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Please be seated. Welcome to the East Room of the White House for this important conference, and I am delighted to welcome all of you here and particularly Secretary Albright and Secretary Riley, Senator Leahy and Congressman Leach, members of the Diplomatic Corps, the NEA Chairman Bill Ivey and the NEH Chairman Bill Ferris. Librarian of Congress James Billington and all of the other distinguished guests who are here.
+
+The President and I welcome you to the first-ever White House Conference on Culture and Diplomacy. You know, it has been said that culture may be described simply as that which makes life worth living. It is the arts and humanities that give us roots, that foster our civil society and democracy, and that create a universal language so that we can understand each other better as nations and human beings, even when the dialogue of diplomacy is strained or doesn't exist at all.
+
+I recall so many occasions in talking with people who fought for democracy in their own societies, often against great odds, who told me how art and music kept their spirit going and kept them persevering in the face of often intolerable burdens and seemingly insurmountable odds.
+
+At a time when resources are scarce and fears of a global consumer culture that threatens to homogenize us all are on the rise, we are searching for new ways to share and preserve our unique cultures around the world. And I cannot think of a more distinguished gathering to do that than our first panel whom we will hear from in a few moments.
+
+We'll hear from one of the world's great musicians, Yo-Yo Ma, who has often entertained us here at the White House with his performances and who just stood in with the Marine Band strings, much to their great delight. {LAUGHTER} And I think Senator Leahy, because at the moment there was no White House photographer around, but the Senator, who is quite an accomplished photographer, memorialized this occasion for the White House archives.
+
+I want to thank Poet Laureate Rita Dove, who was also once a Fulbright Scholar in Germany, and whose German-born husband accompanies us here on this conference today.
+
+We're honored to have a Nobel Laureate among us. You know, Wole Soyinka is someone who means so much not only to his own culture, but to the universal culture that respects not only great writing and thinking, but a great human spirit.
+
+I want to thank Her Excellency, the imaginative Minister of Culture from Italy. I first met Giovanna Melandri in Florence when the Italian government sponsored a wonderful millennial conference on culture and the arts, and Giovanna played the leading role in pulling that together.
+
+I want to thank His Highness The Aga Khan for joining us today. He is a powerful voice for culture and development around the world, and for respecting the unique culture and history of different societies.
+
+And Joan Spero, the President of the Doris Duke Charitable Foundation, a former State Department official serving in this administration, who is a great champion of the arts.
+
+Now, that is just the panel. And in the audience, we could literally introduce everyone here with similar descriptions. We have an extraordinary group of scholars, creators, government officials, foundation heads, business leaders from around the world. I know that many of them will be introduced to you and you will be hearing from them as the day goes on. Our friend John Brademus is here, who is a champion of the arts in the Congress and has gone on to be a champion as the head of a university and in his many other roles.
+
+Congressman Lee Hamilton who played a similar role, my friend Chuck Close, Meryl Streep, John Lithgow -- many, many people who have really added to the culture not only of the United States, but of their own nations and of the world. So let me thank all of you for being here and for the important role that you will play.
+
+This conference grew out of the ongoing efforts by Secretary Albright and Under Secretary Evelyn Lieberman to ensure that culture is not marginal, but central to our diplomacy. And it grew out of the many recommendations we've received about how to strengthen U.S. cultural life and understanding around the world, including the report done in 1997 by the President's Committee on the Arts and Humanities, which specifically suggested a White House forum.
+
+Now, this idea is catching on around the world. When I participated in the major World Bank Conference in Florence on the Role of Culture in Sustainable Development, there were people from all over the world in addition to the minister and myself who were thinking about how to take it to the next stage. And many people have understood that if we want history and identity to be preserved in the global marketplace, culture matters.
+
+During these last eight years I've been privileged to travel around my country and around our world, meeting with people from Turkey to Vietnam to New Mexico, who are trying to save historic places, documents and communities, and who understand how important it is that there can be no freedom of speech or press, or freedom of religion or political expression, unless culture is free to thrive. There can be no vibrant democracy unless people understand and preserve their own history, and have a say in creating their culture and their future.
+
+I remember in this room, at President Havel's suggestion when we had a state dinner for him, that we invite Lou Reed as the entertainment. And we've received a little criticism from time to time in the last eight years -- nothing really that amounted to much -- {LAUGHTER} -- and when word went out that Lou Reed was performing at a state dinner, some in the press didn't understand. But when we explained that it was Lou Reed's music and the Velvet Underground that he represented that really did help President Havel get through some very tough times, it really became clear that culture and the arts are powerfully political, in individual lives and in the lives of our societies.
+
+We hope that the work that comes out of this conference and that really is the impetus behind what we hope to achieve in the future really does have a life of its own after today, and that each of us in our various roles will understand how significant it is that we pause for a moment here in the White House to recognize, respect and honor culture.
+
+No one has worked harder or more effectively to make that point, here and around the world, than our next speaker. From her very first day at the State Department, the Secretary has made sure that culture has been integrated into our overall foreign policy. She's known around the world as a skilled diplomat, a tough negotiator, a tireless peacemaker, a dancer extraordinaire -- {LAUGHTER} -- a wonderful friend, and an absolutely first-class Secretary of State -- Madeleine Albright. {APPLAUSE} 
+
+{/speech}

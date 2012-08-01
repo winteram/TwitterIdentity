@@ -1,0 +1,66 @@
+﻿{title} Remarks by President at Peace Officers Memorial {/title}
+{event} Peace Officers Memorial {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 15, 2000 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Thank you, Gil Gallegos, for your kind remarks and your leadership and all these years we have spent working together. I want to say to you and all the other leaders of this organization and the auxiliary, Lmae Tull, Steve Young, Jim Pasco and others, how much I appreciate what you have done in working with me and Attorney General Reno, Secretary Summers and the other members of our administration.
+
+I also want to thank the members of Congress who support us every year. I see Congressman Gilman and Senator Kennedy over there -- there may be others from Congress here, but I thank them for coming.
+
+I thank the law enforcement executives, chiefs and the rank and file members across America who are here today. And most of all, I thank the many family members of our fallen officers who have come here to observe this event in the midst of all their pain and loss.
+
+I appreciate the support of our fellow Americans for your endeavors. Today they were embodied by the wonderful song my long-time friend, Tony Bennett, sang. I thought he was terrific. And they are embodied by the prayers and actions of so many of your fellow citizens.
+
+I would like to mention just one today, on a personal note. Law enforcement doesn't have a better friend in the Congress than the former state policeman from Michigan named Bart Stupak. Bart and his wife, Laurie, lost their son over the weekend and I hope you will remember them in your prayers, because he has been as good a friend as the people in blue have ever had in the United States Congress.
+
+The event we commemmorate today has a long history, not just 19 years. In 1789, 211 years ago -- just a year after our Constitution was ratified -- a United States Marshal named Robert Forsyth was shot and killed in the line of duty. Since then, over 14,000 law enforcement officers have given their lives to protect the liberties upon which America was founded.
+
+We owe these brave men and women a debt of gratitude that is immeasurable and unending. Every year we come here to honor them, carve their names in stone, so that future generations will know who they are, and know that they died as they lived, as heroes.
+
+I could talk about all of them represented here today, and their families. Time doesn't permit, so let me just tell you two stories that I found to be representative.
+
+Corporal Steven Levy, of the Washington Township, New Jersey Police Department, always believed in being out front on public safety -- whether saving a drowning man from icy waters, or teaching self-defense classes to women and children during off-duty hours. Last October, he was out front again when he led his SWAT team into a house where a domestic dispute had escalated into gunfire. When there, he was shot through a closed bedroom door, leaving behind a wife and two young children, and a legacy of service never to be forgotten.
+
+Officer James Henry Camp was a community police officer walking the beat in some of Chicago's toughest public housing developments. A big ex-Marine. He won the respect of young men whom he counseled away from gangs and drugs, and the love of little children for whom he always had a piece of candy. One day last March, he and his partner stopped two men driving a stolen car. While making the arrest, Officer Camp was shot and killed. He was a newlywed.
+
+Today, we recall the service and all the stories of the courageous law enforcement officers, 139 of them, whose names will be added to the Roll of Honor this year. Their purpose and passion was the safety of the people. We can never repay them or their families, but we can hnor them -- and not just with word, but with action.
+
+You heard Gil Gallegos talk about the role of law enforcement in the declining crime rate. I always try to make sure the American people know how it happned. Men and women in uniform did not give up when, year-in and year-out, the crime rate went up. We decided seven years ago to try to give you some support, because it was obvious already that there were strategies in many of our communities that would work to bring down the crime rate. More police, more prevention, tougher penalties.
+
+You told us that assault weapons and illegal guns were undermining your ability to fight crime and drugs. So we passed the assault wepons ban, the Brady law, which has stopped over a half million felons, fugitives and stalkers from buying handguns; banned the cop-killer bullet; provided 100,000 more police for our neighborhoods, ahead of schedule and under budget.
+
+Last week, we learned that, thanks to you, crime is now down for eight years in a row. Every officer here and every family here who has lost a loved one should be very proud of the lives you have saved in the United States of America in bringing that crime rate down.
+
+Yet no one here believes we are safe enough, and the very fact that we now know what works imposes on all of us an even higher responsibility to do more of what works: to put more police on the street in the toughest neighborhoods, to hire more prosecutors and ATF agents and inspectors, to go after gun crimes, to invest in gun-tracing systems until we can trace every bullet in every gun used in a crime anywhere in America.
+
+I also believe we must pass more common-sense gun safety legislation: the child trigger locks, banning the importation of large ammunition clips, closing the gun show loophole. We passed it last year in the Senate, when the Vice President cast the tie-breaking vote, but it's been stalled here for 10 months. And yesterday on this Mall, there were somewhere between a half a million and 750,000 mothers gathered, and over a million in 70 sites across America, to say that we shouldn't wait any longer for this kind of legislation. I hope we will listen to what they had to say. It will also save a lot of police officers' lives.
+
+Last Friday, the Chairman of the House Judiciary Committee, Henry Hyde and his Democratic counterpart, John Conyers, made some real progress to resolve the impasse we're having over this legislation and the gun show loophole. I thank them for their efforts. This should not be a political issue. It should not be, and it is not, about taking guns away from law-abiding citizens. It's about keeping guns out of the hands of criminals, and keeping more of our citizens, especially our children and our police officers, alive. I hope the conferees will meet and pass legislation so that I can sign it.
+
+I also think we have to do more to protect law enforcement officers, men and women who risk their lives every day. Sixteen years ago, now, when I was Governor of my home state of Arkansas, a friend of mine, a state trooper by the name of Louis Bryant, made what he thought was a routine traffic stop. He stopped a man in an RV, who was a political radical with an arsenal in the vehicle. And he was shot to death. Then I was told that if only he had a bulletproof vest on, he probably would have survived.
+
+I remember that day as if it were yesterday. I knew his wife; his brother-in-law was one of my state troopers on my security detail. I lived through their agony. And so I began to try to make sure every police officer in our state could have a vest. Every police officer in America should have one.
+
+Two years ago, I was proud to sign the Bulletproof Vest Partnership Grant Act. Now, the federal government pays up to 50 percent of the cost of vests that state and local officers buy -- or agencies buy for their officers. To date, we've purchased over 92,000 of these vests. There's enough money in this year's budget to increase that number to 180,000. {APPLAUSE}
+
+But I asked Gil today, and the Attorney General how many law enforcement officers needed them, how many are in the line of fire. We figure there are at least twice that many, twice that 180,000. But the program is set to expire next year.
+
+So, today, I intend to ask Congress to support new legislation offered by the orginal sponsors of the bill -- Senator Leahy, Senator Campbell, Congressman Visclosky, to extend the program for three more years and double the funding. If we do it, we'll be able to protect every single police officer in the United States with a bullet-proof vest. {APPLAUSE}
+
+I also want to thank Gil Gallegos and your organization for the work you are doing to see that a Medal of Valor is awarded to honor the courage of officers who move above and beyond the call of duty. There is legislation to do this in Congress, but it is now stalled. Today, I have directed the Attorney General to develop a plan to create an award through executive action of the President to recognize public safety officers who have exhibited extraordinary valor.
+
+You should not have to wait any longer, and there are many reasons bills get caught up in Congress, not all of them the fault of the members who are supporting them or those who have the committee. But we should not wait. This country, every year, should issue a medal to honor extraordinary acts of valor by police officers. {APPLAUSE}
+
+Shortly before he, himself, was killed in 1968, Robert Kennedy said that "the fight agaisnt crime is a fight to preserve that quality of community which is at the root of our greatness."
+
+The fallen officers we honor today put themselves at the forefront of that fight. And they do exemplify America's greatness. Nothing we say or do will bring them back; perhaps nothing we can say or do can ease the pain of their families or the sorrow in your hearts. Only God and time and family and friends can do that.
+
+But we do want you to know, every one of you, we honor them and we honor you. The best way for us to continue to do that is to press on with the struggle for a safer America -- a struggle they thought was worth their lives. And it's certainly worth everything we can possibly do.
+
+Thank you, and God bless you all. {APPLAUSE} 
+
+{/speech}

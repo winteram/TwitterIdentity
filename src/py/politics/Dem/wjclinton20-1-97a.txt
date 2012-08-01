@@ -1,0 +1,29 @@
+﻿{title} Remarks By The President At Inaugural Congressional Luncheon {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 20, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. First let me thank Senator Warner and Senator Ford, Speaker Gingrich, Leader Gephardt, Senator Lott, Senator Daschle, the Inaugural Committee for the wonderful job they did with the morning ceremony. I thank all the participants -- my good friend, Jessye Norman, thank you. You were magnificent. {APPLAUSE} 
+
+And I thank Santita Jackson and all the choirs who sang today. They were wonderful. {APPLAUSE} And I thank my friend of nearly 25 years, Miller Williams, for that wonderful poem. I will take it as an admonition and keep it close to my heart. Thank you. {APPLAUSE} 
+
+Hillary and Chelsea and I have had a wonderful day. We got up early and went to a church service, and it ran a little late -- Reverend Jackson was speaking. {LAUGHTER} It wasn't his fault, we all were carried away. And it put us all in the right frame of mind for this happy moment. 
+
+I feel a great deal of gratitude for many things, but, Senator, when I heard you telling that fascinating story of the fight between President Roosevelt and Harry Byrd, Sr., I felt an enormous amount of gratitude that at least so far you have not released the letter you made me write you to make sure we could hold this ceremony today. {LAUGHTER} And I thank you for that. 
+
+We've been doing this a long time, our country has, and I just want to say to all of you that I worked for a long time on what exactly I would say today, and I believe it very much. I believe we're at a unique moment in history. I believe that the only problems we've never solved in America are the problems of the heart, particularly relating to race. We get better at them, but we've never quite gotten over it. 
+
+I believe that it is more possible to imagine our future and shape it now than at any time in the history of the country, with the exception of our entry into the Industrial Age, when we also had peace and prosperity, and our entry into the 19th century, when Thomas Jefferson decided to buy Louisiana -- a decision that Senator Lott and I especially appreciate -- {LAUGHTER} -- and a lot of others. 
+
+So this is a unique moment. And because it is, to some extent, without precedent, and because it is different, we have to imagine the future before we can create it. And when you do something like that it requires you to make alliances and get outside of barriers that normally govern your lives. So I meant very much what I said about the bipartisan nature of our common task. And tomorrow we will start to work on it. 
+
+For today, I think we should all, as the previous speakers have said, enjoy being Americans -- enjoy the parade, enjoy the balls, but, most of all, enjoy the great gift of our citizenship. 
+
+Thank you and God bless you all. {APPLAUSE} 
+
+{/speech} 

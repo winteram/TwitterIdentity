@@ -1,0 +1,65 @@
+﻿{title} President Rallies Troops at Travis Air Force Base {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} October 17, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all very much. I appreciate such a warm welcome. I'm about to cross the Pacific on my favorite Air Force airplane. {APPLAUSE} And there's really only one place to leave from -- that's called the Gateway to the Pacific. {APPLAUSE} Thank you for your hospitality. I can't tell you how proud I am to be with the men and women who wear the uniform of the great United States of America. {APPLAUSE} 
+
+I want to thank the Air Force and the Army and the Navy troops who are here. I'm also proud to be with the husbands and wives and sons and daughters -- {APPLAUSE} And to the families of those of you whose mom or dad or husband or wife have been deployed, I want you to know that they're on a noble mission. The cause is just, and we will win. {APPLAUSE} 
+
+I want to thank "Lone Star" Lefforge for the introduction. {APPLAUSE} My fellow Texan. {APPLAUSE} There may be a few other Texans here, as well. {APPLAUSE} I want to thank General Becker and Colonel Rubeor, as well, for your hospitality. Thank you, Colonel. Thank you, General, very much. 
+
+And I want to thank the Air Force Band of the Golden West. Thank you all for your entertainment. {APPLAUSE} I want to thank the state and local officials who have come today. I'm honored that you took time out of your day. 
+
+The planes to the left and right of where we stand here represent the unmatched air power of the United States. {APPLAUSE} But that's not our real strength. Our real strength are the people who fly them, and who maintain them, the people who make the military go. {APPLAUSE} The real strength of this proud nation are the men and women who wear the uniform. That's the real strength of this country. {APPLAUSE} 
+
+You're among the first to be deployed in America's new war against terror and against evil, and I want you to know, America is proud -- proud of your deeds, proud of your talents, proud of your service to our country. 
+
+I'm told that one of the pilots here, a fellow named Randy, was asked if anyone at Travis had personal connections to any of the victims of the attacks on September the 11th. And here's what he said: I think we all do; they're all Americans. {APPLAUSE} When you strike one American, you strike us all. {APPLAUSE} 
+
+The victims of September 11th were innocent, and this nation will never forget them. The men and women who murdered them were instruments of evil, and they have died in vain. This nation is strong. This nation is united. This nation is resolved. This nation will defeat terror wherever we find it across the globe. {APPLAUSE} 
+
+And not only will we find the terrorists, we will enforce the doctrine that says if you harbor a terrorist, you're a terrorist. {APPLAUSE} If you feed a terrorist, if you fund a terrorist, you're a terrorist. And this great, proud nation of free men and women will hold you just as responsible for the actions that take place on American soil. {APPLAUSE} 
+
+And that's what's happening in Afghanistan. I gave the people in Afghanistan a choice. I said to the Taliban, turn them over, destroy the camps, free people you're unjustly holding. I said, you've got time to do it. But they didn't listen. They didn't respond, and now they're paying a price. {APPLAUSE} They are learning that anyone who strikes America will hear from our military, and they're not going to like what they hear. {APPLAUSE} In choosing their enemy, the evildoers and those who harbor them have chosen their fate. 
+
+We don't quarrel with the innocent folks of Afghanistan; they're not our enemy. Nor is any religion the enemy of the United States of America. The evil ones have tried to hijack a religion to justify their murder. But I want to assure the people of the world that our military fights not against Muslims or fights not against the Islam religion; we fight against evil people. We fight against people who believe that they can harm the United States of America. We fight against people who have no country, no ideology; they're motivated by hate. 
+
+And make no mistake about it; this great nation will do what it takes to win. We are determined. We are patient. We are steadfast. We are resolved. We will not tire and we will not fail. {APPLAUSE} 
+
+And we're making progress. We're making progress. The terrorist camps are being destroyed. The enemy's air force and air defenses are being demolished. We're paving the way for friendly troops on the ground to slowly, but surely, tighten the net to bring them to justice. 
+
+I can't tell you how proud as Commander-in-Chief I am to know that we've got a great United States military backing our nation. {APPLAUSE} A Commander-in-Chief must know he can count on the skill and resolve of our military. And from Secretary Rumsfeld to General Myers to the good troops of this base, I have all the confidence in the world that our military will fulfill its mission. {APPLAUSE} 
+
+And you must have confidence in this, my commitment: that for the mission that lies ahead, our military, the men and women who wear our uniform, will have everything you need to win -- {APPLAUSE} -- every resource, every weapon, every means to assure full victory for the United States and our allies and our friends in the cause of freedom. {APPLAUSE} 
+
+There is no question that we're inflicting pain upon the Taliban government. There is also no question that we're a compassionate nation; at the same time we do so, we're dropping airlifts of food and medicine, so the innocent citizens of that country can survive the brutal winter. 
+
+As I walked up, I saw some of the schoolchildren here holding dollar bills. We've got schoolchildren all across the country out raising a dollar to send to the children of Afghanistan. We've got boys and girls from all religions and all walks of life who have heard the call to love a neighbor just as they'd like to be loved themselves. 
+
+The evildoers have struck our nation, but out of evil comes good. We are a good, kind-hearted, decent people, and we're showing the world just that in our compassion and our resolve. {APPLAUSE} 
+
+And one thing I fully understand is that when American forces answer the call of duty, they count on their families for support and encouragement. Every deployment brings uncertainty and, I know, every deployment brings worry and concern. Our military is made up of brave men and women, and brave families, as well. 
+
+Recently, a four-year-old son of a cargo specialist said good-bye to his Dad here at Travis. And according to his Mom, the boy has been telling the neighbors that "Daddy is saving the world." {APPLAUSE} 
+
+The boy is right. The boy is right. The future of the world is at stake. Freedom is at stake. But I want to tell that boy his Daddy has got plenty of help. There are a lot of people like his Daddy fighting this war. We fight it overseas and we fight it at home, as well. 
+
+We must be steadfast. We must be resolved. We must not let the terrorists cause our nation to stop traveling, to stop buying, to stop living ordinary lives. We can be alert and we will be alert, but we must show them that they cannot terrorize the greatest nation on the face of the Earth. And we won't. We will not be terrorized, we will not be cowed. 
+
+We've got a homeland security that's strong. I want to tell the moms and dads here that we're doing everything we can to find them and disrupt them and stop them, if they happen to try to strike on American soil. We're strong at home. We're active at home. But make no mistake about it; the best homeland defense is to find them and bring them to justice -- and that's exactly what our nation will do. {APPLAUSE} 
+
+Now that they got the plane fueled up, I'm heading over to China. Of course, we'll talk about economics and trade. But the main thing that will be on my mind is to continue to rally the world against terrorists; is to remind people that it happened to us, sure, but it could happen to them, as well; is to remind them that evil knows no borders, no boundaries, and to remind them that we must take a stand; that those of us who have been given the responsibility of high office must not shirk from our duty; that now is the time to claim freedom for future generations. 
+
+The people have struck us. They've tested our mettle and tested our character. But they are going to find that this nation understands we've reached a pivotal moment in history, where we will plant our flag on the ground -- a flag that stands for freedom -- and say to anybody who wants to harm us or our friends or allies, you will pay a serious price, because we're a nation that is strong and resolved and united. {APPLAUSE} 
+
+You all are here to serve your country, and your country is grateful. You have confidence in America. But make no mistake about it; America has confidence in you. 
+
+Thank you all for such a warm greeting. May God bless -- {APPLAUSE} -- may God bless the men and women who wear our uniform. May God protect this great land. And may God bless America. Thank you all very much. {APPLAUSE} 
+
+{/speech} 

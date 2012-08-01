@@ -1,0 +1,29 @@
+﻿{title} Remarks by President Obama and President Calderón of Mexico in an Exchange of Dinner Toasts {/title}
+{event} Exchange of Dinner Toasts {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 19, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Michelle and I are extraordinarily honored as we host you, but most importantly as we host President Calderon and First Lady Margarita Zavala. Yes, I'm sorry, please be seated. We welcome them and the Mexican delegation for our second state dinner here at the White House -- tonight, la Casa Blanca. {LAUGHTER}
+
+In our visit to Mexico, the President and First Lady have treated me and Michelle to a celebration of Mexico's rich heritage -- including the stunning Anthropology Museum and some wonderful mariachi. Tonight we celebrate the bonds we share, as neighbors and as friends.
+
+We celebrate all that Mexico and its ancient civilizations has given the world throughout history -- advances in architecture and astronomy, mathematics and medicine, and of course, some very good food -- including the “food of the gods” -- chocolate. {LAUGHTER}
+
+As Mexico marks the bicentennial of its independence and the centennial of its revolution, we celebrate a proud people who have defined their own destiny, with patriots like Hidalgo and Juarez, and giants in the arts and literature and science -- and like the United States, a pretty good soccer team. {LAUGHTER}
+We celebrate all that Mexican Americans have contributed to the United States -- leaders in every segment of our society, including many of the guests who are here tonight, and a culture that treasures family and faith. Indeed, America is enriched by el sabor de Mexico.
+
+And we celebrate the partnership between our two countries. Mr. President, I must say it again: In the fight for your country's future, you've shown extraordinary courage, extraordinary bravery, and you and the Mexican people have a full and committed partner in the United States.
+
+As we look to the future, I'm reminded of all the young people who've become part of our visits -- the children in Mexico City waving American and Mexican flags; the students who shared their dreams with Michelle; and some very excited kids that, along with Michelle and Margarita, did a little exercise today. {LAUGHTER} Each of those children has a dream. And yet we know that in life it's not enough to want your dream. As the extraordinary writer Octavio Paz wrote in one of his poems, you must “deserve your dream.”
+
+And so, Mr. President, I propose a toast -- to the dreams of our children. Together, may we realize those dreams. And together, may we deserve them -- by going forward in partnership and respect.
+
+Cheers. Salud.
+
+{COMMENT="A toast is offered"} 
+
+{/speech}

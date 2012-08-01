@@ -1,0 +1,32 @@
+﻿{title} Speech at NARAL Pro-Choice America Dinner {/title}
+{event} NARAL Pro-Choice America Dinner {/event}
+{speaker} Joseph Lieberman {/speaker}
+{date} January 21, 2003 {/date}
+{source} http://www.gwu.edu {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Boy how about Rev. Sharpton, huh? {CHEERS} You know this is the first time the six of us have been together and if so far is any indication we're going to have a great trip across the heart and soul of America over the next year. {APPLAUSE} There are probably going to be many issues that we disagree on, but not this one, and I'd say to you in 2004 that if you are pro-choice, there will only be one choice and that is the next Democratic candidate for president of the United States. {CHEERS ; APPLAUSE} 
+
+I am honored to be here in honor of the Roe vs. Wade decision and in gratitude to NARAL Pro-Choice America for your principled and effective advocacy over all these years in support of American constitutional values. That's what this is about. We who are pro-choice understand, according to the Roe vs. Wade decision, that the decision to have an abortion is a difficult one, but we also know and will fight for the right of women to make it as a personal decision, and therefore we want to ensure that the law enables a woman, informed by her conscience, with the counsel of whomever she chooses to talk with--her family, her friends, her doctor, her clergy--to make that decision herself. {APPLAUSE} And that is why we say and we mean we are not pro-abortion, we are pro-choice. {APPLAUSE} 
+
+If a woman, if a woman chooses to have an abortion, we want it to be safe and we want that choice, as President Clinton reminded us, to be rare, to be the exception, and that's why we who are pro-choice work so hard to prevent unwanted pregnancies before they occur with greater resources for family planning, for Planned Parenthood, for education-- {APPLAUSE} We value women's health and pre-natal care. We want to strengthen the fabric of the American family and the right to privacy. Those are our values, they are American values, and for 30 years now they have been constitutional values. 
+
+Tonight we are here to express our gratitude to NARAL on behalf of American women and men for the constitutional and American values you have fought to protect. We have much to honor tonight, but we have very little time to celebrate. For the fact is that the president and so many in Congress are preparing a fresh assault on the right to choose, probably the most concerted, aggressive attacks we've seen since Roe was decided. 
+
+The right to choose is in real danger from Congress. The House leadership is considering as many as six measures to curb abortion rights. 
+
+The right to choose is in serious danger from the courts because this president is imposing a rigid litmus test on judicial nominations. Don't worry, some people say. The courts won't ever really allow outlaw abortion. But my friends, the courts are powerful and do thinngs we don't expect, especially the Supreme Court. Just ask Tipper and Karenna and Al and Hadassah and I {APPLAUSE} after that 2000 election. So take those courts seriously. 
+
+And the right to chose is in grave danger from the president. This administration has been undermining that right from the day it took office. If the president, the courts, and the Republican majority in Congress undercut or overturn Roe, they will compromise the rights of American women, they will endanger the lives of American women, and they will break the consensus our country has reached on this difficult decision around Roe. They will upset the balance of values and rights that the Supreme Court reached in Roe vs. Wade when Justice Blackmun upheld the right of privacy and the right to choose, but made it no more absolute than any other right emanating from our Constitution. 
+
+My friends, in the decision we honor tonight Justice Blackmun, writing for the majority and writing I believe for the majority of the American people, said and I quote, 
+
+Abortion raises moral and spiritual questions over which honorable persons can disagree sincerely and profoundly, but those disagreements do not relieve us of our duty to apply the Constitution faithfully.
+End of quote. Neither side, Justice Blackmun understood, has a monopoly in this debate of values, and those on the other side who claim they do are just plain wrong. {APPLAUSE} 
+For self-determination is an American value, privacy is an American value, and choice is an American value. So I am proud to stand with you tonight and pledge to you that, God willing, I look forward to standing with you in this battle for many more years to come, and to say with you tonight that I am pro-values, pro-faith, pro-family and pro-choice. {APPLAUSE} Thank you very much. {APPLAUSE} 
+
+
+{/speech} 

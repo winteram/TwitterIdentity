@@ -1,0 +1,30 @@
+﻿{title} Remarks by the President in U.S. Community Greeting {/title}
+{event} U.S. Community Greeting {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 3, 1994 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Ambassador and Mrs. Bartholomew, Ambassador Flynn, Mr. Secretary, Hillary, ladies and gentlemen. We are delighted to be here. I want to join my wife in saying I'm sure that many of you will be elated when we leave tomorrow because we have caused you so much extra work.
+
+But on behalf of all the American people, I want to thank those of you who work at our embassies in Rome and the Vatican, our mission to the U.N. Food and Agriculture Organization, our consulates, out military personnel here, for all the work you do always, and especially to make this trip a success.
+
+I'll be back in a month for the G-7 meeting in Naples. And the Prime Minister said that they had a little deficit problem here, too, and if kept coming back we'd have to start paying taxes and contribute in Italy -- {LAUGHTER} -- to the economic recovery here as well.
+
+I do want to tell you that back at home things are turning around. The economy is picking up. Unemployment is down. We have plain evidence that our country is in a process of renewal. We're treating a lot of problems seriously we've ignored for a long time. Whether it's international trade or the education and training of our work force or the most serious approach on crime in a generation, the American people are beginning to come to grips with the challenges before us.
+
+We still have a lot of work to do. We're trying our best. And I believe we're going to be very successful in our attempt to pass a comprehensive health reform bill this year. Our European friends find it difficult to believe that the United States is the only advanced nation in the world that can't find a way to provide health coverage to all of its people. So we're going to do that this year.
+
+And we're going to deal with a lot of our other challenges. There is a sense of possibility of movement, that those of us in public service are part of a partnership to make America what it ought to be as we move into the 21st century.
+
+But there is also an awareness at the end of the Cold War that we can no longer do what America has so often done in the past, which is to withdraw from the world and to make a clear distinction between our policies abroad and our policies at home. Now we know they are two sides of the same coin and they must be part and parcel of our commitment to renew our country and to move with confidence and success with our friends and neighbors into the 21st century.
+
+I can say that I have been deeply moved by the reception we've received here in Italy. I agree with what Ambassador Flynn said about my meeting with the Holy Father yesterday. And I must say that all the conversations we've had with the officials of the Italian government have been very satisfactory from my point of view.
+
+So I think we've got a lot of good things coming up. I look forward to coming back next month. I can't wait to come back, even if I do become a tax-paying, quasi-citizen of Italy. {LAUGHTER}
+
+I thank you again for all your enormous effort and work. You have made us very, very proud of the United States by your efforts. Thank you so much. {APPLAUSE} 
+
+{/speech}

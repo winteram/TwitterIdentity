@@ -1,0 +1,37 @@
+﻿{title} Remarks by the President,Senator Tom Daschle And Congressman Dick Gephardt At Democratic Agenda Event {/title}
+{event} Democratic Agenda Event {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 27, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Democratic Agenda Event {/description}
+
+{speech} 
+
+Well, ladies and gentlemen, first of all, on behalf of all of us, I want to apologize -- please be seated -- for keeping you waiting. But these are the closing hours of the congressional session, before the August recess. And Senator Daschle and Leader Gephardt and the other members of Congress have come here today to speak with one voice about our position. But Congress is packing up and preparing to adjourn for the summer recess and the two conventions. And I only wish we were late because they'd been out there passing our bills. {LAUGHTER ; APPLAUSE} 
+Let me say, we're here because we believe the congressional Republican leadership is leaving town with a trunk full of unfinished business vital to the health of our economy and the well being of our people. We spent the last seven years charting a course of fiscal discipline and investment in our people, and it has paid off, with the longest economic expansion in history, over 22 million new jobs, the lowest minority unemployment rate in our history, the lowest unemployment rate in 30 years.
+
+Instead of continuing on that path, in the last few weeks -- indeed, for the last year, the Republican majority has risked squandering our progress. They have passed reckless tax cut after reckless tax cut after reckless tax cut, to drain away our hard-earned surplus and put us back in the red. When you add them all up, this Congress has passed tax bills that would cost nearly $2 trillion over 10 years. Even by the most optimistic estimates, this wouldn't leave a dime for lengthening the life of Social Security or Medicare -- not one dime; not a dime for voluntary and affordable Medicare prescription drug benefits or for education and school construction. And it would make it impossible for us to get America out of debt by 2012.
+
+There is a better way. We can do all the things I just mentioned and still give the American people needed, targeted tax relief. Let me be clear: we do support the right kind of tax cuts for working Americans. I have proposed a program of cuts that will give a middle-class American family substantially more benefits than the Republican plan at less than half the cost; two-thirds of the relief going to the middle 60 percent of our people, including our carefully-targeted marriage penalty relief.
+
+The tax cuts will also help families save up to $2,800 a year on the cost of college by making tuition tax deductible; a $3,000 long-term care tax credit to help millions of Americans shoulder the enormous financial burden of caring for chronically ill family members. And a tax cut that will help millions of families pay up to $2,400 a year for child care; to expand the EITC, providing up to $1,100 of tax relief for millions of hard-working families.
+
+Today, we have more evidence that our plan will help more of the people who really need it. We're releasing a state-by-state analysis, showing that the estate tax repeal, recently passed by the Republican majority, would benefit only about 2 percent of America's families -- the wealthiest 2 percent, of course -- providing them of an average tax cut of $800,000. And fully half those benefits would go to just one-tenth of 1 percent of all Americans.
+
+Let me hasten to say the Democrats offered an alternative which would have taken two-thirds of the people subject to the estate tax out from under it, but would have left its progressive character, not repealed it entirely, and not cost the budget $100 billion over the first 10 years and $750 billion thereafter.
+
+In contrast to these proposals, our Medicare prescription drug benefit would provide affordable coverage for 39 million seniors and people with disabilities, with average incomes of about $20,000 a year. This report clearly shows that our approach put the interest of American families first, and ensures that the nation's unprecedented prosperity benefits everyone.
+
+Let me just mention one other thing -- I never want to talk about this without mentioning. We also have a report from the Council of Economic Advisors estimating that if our economic proposals are followed, as opposed to theirs, giving all this money away with the tax cuts, interest rates will be 1 percent lower over the next decade. That is the equivalent of a $250 billion tax cut for home mortgages. It's the equivalent of a $30 billion tax cut for lower car payments and college loan payments.
+
+There is a huge difference here that the American people have to understand. I think the Republican majority ought to go to work in the time we have left this year on the people's business.
+
+So when they go off on vacation, the congressional majority should take a long list of required summer reading, a list of what we need to get done when they come back to Washington: to strengthen and modernize Social Security and Medicare and add that prescription drug benefit; to stand up to special interest and pass a strong and enforceable patients' bill of rights; to pass common-sense gun legislation to close the gun show loophole, require child safety locks for all handguns, ban the importation of large-capacity ammunition clips; to raise the minimum wage by $1 over two years. {APPLAUSE}
+
+To continue hiring those hundred thousand teachers; to reduce class sizes in the early grades; to improve teacher quality; to modernize 6,000 of our schools that are literally falling apart, and repair another 5,000 a year; and to provide after-school programs and summer school programs for all the kids in this country who need it so that we can turn around those failing schools. And we need to stop the delay and pass strong hate crimes legislation.
+
+This is not a list to be read; it's a list to be acted upon. {APPLAUSE} Thank you. I hope when Congress comes back, they'll do it. Again, I want to thank all the members that are here, and another 40 or 50 or so that wanted to come, but because of the way the time table and the voting is unfolding, they can't.
+
+I'm going to modify the program just a little bit and ask Senator Daschle to come forward, because he's got to get back to make sure we don't lose any more votes. Senator Daschle. {APPLAUSE} 
+
+{/speech}

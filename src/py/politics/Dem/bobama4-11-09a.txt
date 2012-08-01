@@ -1,0 +1,23 @@
+﻿{title} Remarks By The President at "In Performance At The White House" Classical Music Concert And Reception {/title}
+{event} In Performance At The White House" Classical Music Concert And Reception {/event}
+{speaker} Barack Obama {/speaker}
+{date} November 4, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. {APPLAUSE} Thank you. Thank you so much. Everybody, please have a seat. Well, welcome to the White House. Michelle and I are delighted to host the fourth evening in a series showcasing the achievements of American musicians.
+I'd like to welcome the many members of Congress who've joined us tonight -- despite what you may have heard, they are actually a civilized bunch. {LAUGHTER}
+Please join me in acknowledging our outstanding Secretary of Veterans Affairs, Ric Shinseki is here as well, doing a tremendous job on behalf of our wounded warriors. {APPLAUSE}
+I would also like to welcome the President's Committee on the Arts and the Humanities, a group of men and women dedicated to inspiring creative endeavors and strengthening America's deep commitment to the arts. And I understand that you had a wonderful program this afternoon and this morning with Michelle.
+It's been a busy day of classical music here at the White House. Earlier, more than 100 students participated in a terrific workshop and concert led by tonight's performers. I want to thank those performers for coming to share their passion and their talent with us tonight: Joshua Bell, Sharon Isbin, Awadagin Pratt, and Alisa Weilerstein.
+Any one of them would tell you that they're only here because of the hard work, dedication, and the fact that somebody along the way was there for them. So I want to thank them for setting an important example for our gifted young musicians -- who someday, might be performing up here themselves.
+Tonight's performance also continues a long tradition of sorts in the East Room. Over 120 years ago, the first formal concert was held here as President Chester A. Arthur and guests listened to Her Majesty's Opera Company performing the works of Mozart, Verdi and Wagner. Since then, it's earned a rich history as a venue for White House concerts -- and especially for those dedicated to classical music. From Van Cliburn to Yo-Yo Ma, to our own Marine chamber orchestra and Marine chamber ensembles, this room has been a stage for some of the nation's most accomplished classical musicians.
+Now, if any of you in the audience are newcomers to classical music, and aren't sure when to applaud, don't be nervous. {LAUGHTER} Apparently, President Kennedy had the same problem. {LAUGHTER} He and Jackie held several classical music events here, and more than once he started applauding when he wasn't supposed to. {LAUGHTER} So the social secretary worked out a system where she'd signal him -- {LAUGHTER} -- through a crack in the door to the cross-hall.
+Now, fortunately, I have Michelle to tell me when to applaud. {LAUGHTER} The rest of you are on your own. {LAUGHTER}
+This is, of course, a unique concert venue. But tonight, all across America, in community centers and concert halls, in homes and in schools, the sounds of classical music are lifting hearts and spurring imagination, just as they always have. And it's easy to understand why. There's precision, of course; but there's also great feeling and improvisation. There's structure; but there's also creativity. It's music that defies simple definition even as it speaks to a common, universal language.
+So whether you are new to classical music, or have been an aficionado for many, many years, we hope that you enjoy tonight.
+Thank you so much. {APPLAUSE} 
+
+{/speech}

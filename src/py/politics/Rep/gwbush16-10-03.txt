@@ -1,0 +1,46 @@
+﻿{title} Excerpts from Remarks in San Bernadino {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} October 16, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} This is an excerpt {/description}
+
+{speech} 
+
+The challenges we face today cannot be met with timid, timid actions or bitter, bitter words. Our challenges will be overcome with optimism and resolve and confidence in the ideals of America. Because we believe in our free enterprise system, we can be confident in our economy's future.
+
+Our economy has been through a lot. When I took office, the stock market had been declining for nine months and the economy was headed into a recession. And just as we started to recover, the killers came and attacked America on September the 11th, and that stuck a blow to the economy. And then investor confidence was shaken by scandals in corporate America, dishonest behavior we cannot, and will not, tolerate in our country. {APPLAUSE} And then we faced the uncertainty that preceded the battles in Afghanistan and Iraq.
+
+The country has been hit hard during these times, and so has the great state of California. Declines in investment have hurt the tech sector. You lost manufacturing jobs. Farmers are wondering whether they'll be able to sell their products overseas. Unemployment in this important state is too high.
+
+But we acted. I acted to overcome these challenges to this state and our country, and I acted on principle. Government does not create wealth. The role of government is to create the conditions where risk-takers and entrepreneurs can invest and grow and hire new workers. {APPLAUSE}
+
+We know how to create jobs for America. It starts when Americans have more take-home pay to spend -- {APPLAUSE} -- more take-home pay to spend, to save, or invest, which causes the economy to grow and, therefore, someone is more likely to find a job. So I twice led the Congress to pass historic tax relief for the American people. We wanted tax relief to be as broad and as fair as possible, so we reduced taxes on everyone who pays taxes. {APPLAUSE} It doesn't make sense to penalize marriage in the tax code, so we reduced the marriage penalty. It costs a lot to raise children, and so we increased the child credit -- from $600 per child to $1,000 a child. And we put the checks in the mail directly to moms and dads.
+
+It's counterproductive to discourage investment, especially during an economic recovery, so we quadrupled the expense deduction for small business investment and cut taxes on dividends and capital gains. It is unfair to tax the estates people leave behind after a lifetime of saving money and building a business or running a farm. {APPLAUSE} When you leave this world, the IRS should not follow you. {LAUGHTER ; APPLAUSE} So we're phasing out the federal death tax.
+
+I proposed and signed these measures to help individuals and families. But they also help the small businesses of America. See, most small business owners pay taxes under the individual tax rate because they're subchapter S's or sole proprietorships. And, therefore, small business has benefited from the tax cuts. Millions of mom-and-pop companies are also benefiting from the higher expense deductions. And this is important because small businesses create most new jobs for our country, and they're usually the first to take risks. They're usually the first to hire people. By helping small businesses, we help our entire economy. {APPLAUSE}
+
+We are following a clear and consistent economic strategy, and I'm confident about our future. {APPLAUSE} Last month this economy exceeded expectations and added new jobs. Inflation is low. After-tax incomes are rising. Home ownership is at record highs. Productivity is high. Factory orders, particularly for high-tech equipment, have risen over the last several months. Our strategy has set the stage for sustained growth. By reducing taxes we kept a promise, and we did the right thing at the right time for the American economy. {APPLAUSE}
+
+Now our country is approaching a choice. Just as our economy is coming around, some in Washington are saying now is the time to raise taxes. To be fair, they think any time is a good time to raise taxes. {LAUGHTER} At least they're consistent. {LAUGHTER} I strongly disagree. {APPLAUSE} A nation cannot tax its way to growth or job creation. Tax relief put this nation on the right path and I intend to keep America on the path to prosperity. {APPLAUSE}
+
+We're moving forward, but we're not satisfied. We cannot be satisfied so long as we have fellow citizens looking for work. We must continue to act boldly. So I'm asking Congress to join me in carrying out a six-part plan for job creation for America. Businesses are more likely to hire people if health care for workers is affordable. {APPLAUSE}
+
+One way to help our small business owners is to allow association health care plans, where small businesses can pool risk and gain the same bargaining power as big businesses. {APPLAUSE} And to help control costs for small businesses, large businesses, and government, we need effective legal reform to stop the frivolous lawsuits against doctors. {APPLAUSE}
+
+We need more than tort reform just for medical liability. Unfair lawsuits harm a lot of good and small businesses. There are too many large settlements that leave the plaintiffs with a small sum and the lawyers with the fortune. Class action and mass tort cases that reach across state lines should be tried in the federal court, so the lawyers cannot shop around looking for a favorable judge. {APPLAUSE} We got a good bill out of the House; it's stuck in the Senate. The Senate must act. Job creation will occur when we've got legal reforms.
+
+Our economy will grow stronger and create more jobs if we have a sound national energy policy. When we we had a wake-up call this summer. We need to modernize our electricity grids. {LAUGHTER} We need to make sure that we encourage investments so that the capacity to move electricity or natural gas is capable to sustain growth in the 21st century. We need to use our technology to develop clean and efficient energy sources, so that we can sustain economic growth and protect the environment. But one thing is for certain. For the sake of national security, and for the sake of economic security, America must be less dependent on foreign sources of energy. {APPLAUSE}
+
+More people will find jobs when employers do not have to waste time and resources complying with needless government regulations. {APPLAUSE} For the sake of American workers, at the federal level we're cutting unnecessary rules and making rules simpler to understand. Small business owners should spend more time building companies and pleasing customers, and less time filling out needless forms. {APPLAUSE}
+
+To create jobs in this country, we need to pursue free trade agreements that will open up foreign markets for American products. Expanded trade will help businesses large and small. Businesses such as UVP, Inc., and Maney Aircraft based right out of here, will help them to sell more good and locally made products overseas.
+
+Free trade must be two ways. We're good at what we do; we ought to be allowed to sell what we do in other people's countries. Farmers ought to have markets opened up to them. California's ranchers and farmers are really good at what they do. We need a level playing field when it comes to trade, and a level playing field will help us create jobs here in America. {APPLAUSE}
+
+There's one more thing we need to do. We need to make sure that all the tax relief we passed does not disappear in future years. {APPLAUSE} Employers need certainty in the tax code. Because of a quirk in the legislation, the tax cuts are scheduled to go away unless we act. When we passed tax relief, Americans did not expect to see higher taxes sneak through the back door. If Congress is interested in job creation, they will make every one of the tax cuts permanent. {APPLAUSE}
+
+We have a responsibility to set good policies in Washington. Governor Schwarzenegger has responsibility to set good policy in Sacramento. Yet the true strength of this country is found in the creativity and the entrepreneurial spirit of America. And that is one reason, and that is the main reason, I am so confident about the future of our economy. {APPLAUSE} 
+
+{/speech}

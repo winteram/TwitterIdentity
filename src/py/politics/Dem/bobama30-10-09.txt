@@ -1,0 +1,54 @@
+﻿{title} Remarks by the President at Signing of the Ryan White HIV/AIDS Treatment Extension Act of 2009 {/title}
+{event} Signing of the Ryan White HIV/AIDS Treatment Extension Act of 2009 {/event}
+{speaker} Barack Obama {/speaker}
+{date} October 30, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning, everybody.
+
+{AUDIENCE} Good morning. {/AUDIENCE} 
+
+We often speak about AIDS as if it's going on somewhere else. And for good reason -- this is a virus that has touched lives and decimated communities around the world, particularly in Africa. But often overlooked is the fact that we face a serious HIV/AIDS epidemic of our own -- right here in Washington, D.C., and right here in the United States of America. And today, we are taking two important steps forward in the fight that we face here at home.
+
+It has been nearly three decades since this virus first became known. But for years, we refused to recognize it for what it was. It was coined a "gay disease." Those who had it were viewed with suspicion. There was a sense among some that people afflicted by AIDS somehow deserved their fate and that it was acceptable for our nation to look the other way.
+
+A number of events and advances over the years have broadened our understanding of this cruel illness. One of them came in 1984, when a 13-year-old boy from central Indiana contracted HIV/AIDS from a transfusion. Doctors assured people that Ryan White posed no risk to his classmates or his community. But ignorance was still widespread. People didn't yet understand or believe that the virus couldn't be spread by casual contact. Parents protested Ryan's attendance in class. Some even pulled their kids out of school. Things got so bad that the White family had to ultimately move to another town.
+
+It would have been easy for Ryan and his family to stay quiet and to fight the illness in private. But what Ryan showed was the same courage and strength that so many HIV-positive activists have shown over the years and shown around -- show around the world today. And because he did, we didn't just become more informed about HIV/AIDS, we began to take action to fight it.
+
+In 1990, the year Ryan passed away, two great friends and unlikely political allies, Ted Kennedy and Orrin Hatch, came together and introduced the Comprehensive AIDS Resources Emergency Act -- the CARE Act -- which was later named after Ryan.
+
+In a few minutes, I'm going to sign the fourth reauthorization of the Ryan White CARE Act. Now, in the past, policy differences have made reauthorizations of this program divisive and controversial. But that didn't happen this year. And for that, the members of Congress that are here today deserve extraordinary credit for passing this bill in the bipartisan manner that it deserves: Tom Harkin and Mike Enzi in the Senate, we are grateful to you for your extraordinary work; Speaker Pelosi, who's always leading the charge on so many issues; Frank Pallone, Jr., Joe Barton, Barbara Lee and Donna Christensen in the House, thank you for your extraordinary work -- oh don't worry, I'm getting to Henry. {LAUGHTER} Nancy is always looking out for members, but we've got a special section for Henry.
+
+And Chairman Henry Waxman, who began holding hearings on AIDS in 1982, before there was even a name for AIDS, was leading here in Washington to make sure that this got the informed attention that it deserved and who led the House in passing the original Ryan White legislation in 1990.
+
+I also want to acknowledge the HIV community for crafting a consensus document that did so much to help move this process forward. Some of the advocates so important to this legislation are with us here today: Ernest Hopkins from Cities Advocating for Emergency AIDS Relief; Frank Oldham, Jr., President and CEO of the National Association of People with AIDS; and Julie Scofield, Executive Director of the National Alliance of State and Territorial AIDS Directors.
+
+And I'm especially honored that Ryan's mother, Jeanne White-Ginder, is here today. For 25 years, Jeanne had an immeasurable impact in helping ramp up America's response to this epidemic. While we lost Ryan at too young an age, Jeanne's efforts have extended the lives and saved the lives of so many others. We are so appreciative to you. Thank you. {APPLAUSE}
+
+You know, over the past 19 years this legislation has evolved from an emergency response into a comprehensive national program for the care and support of Americans living with HIV/AIDS. It helps communities that are most severely affected by this epidemic and often least served by our health care system, including minority communities, the LGBT community, rural communities, and the homeless. It's often the only option for the uninsured and the underinsured. And it provides life-saving medical services to more than half a million Americans every year, in every corner of the country.
+
+It's helped us to open a critical front on the ongoing battle against HIV/AIDS. But let me be clear: This is a battle that's far from over, and it's a battle that all of us need to do our part to join. AIDS may no longer be the leading killer of Americans ages 25 to 44, as it once was. But there are still 1.1 million people living with HIV/AIDS in the United States, and more than 56,000 new infections occur every single year.
+
+Some communities still experience unacceptably high rates of infection. Gay men make up 2 or 3 percent of the population, but more than half of all new cases. African Americans make up roughly half of all new cases. Nearly half of all new cases now occur in the South. And a staggering 7 percent of Washington, D.C.'s residents between the ages of 40 and 49 live with HIV/AIDS -- and the epidemic here isn't as severe as it is in several other U.S. cities.
+
+So tackling this epidemic will take far more aggressive approaches than we've seen in the past -- not only from our federal government, but also state and local governments, from local community organizations, and from places of worship.
+
+But it will also take an effort to end the stigma that has stopped people from getting tested; that has stopped people from facing their own illness; and that has sped the spread of this disease for far too long. A couple of years ago Michelle and I were in Africa and we tried to combat the stigma when we were in Kenya by taking a public HIV/AIDS test. And I'm proud to announce today we're about to take another step towards ending that stigma.
+
+Twenty-two years ago, in a decision rooted in fear rather than fact, the United States instituted a travel ban on entry into the country for people living with HIV/AIDS. Now, we talk about reducing the stigma of this disease -- yet we've treated a visitor living with it as a threat. We lead the world when it comes to helping stem the AIDS pandemic -- yet we are one of only a dozen countries that still bar people from HIV from entering our own country.
+
+If we want to be the global leader in combating HIV/AIDS, we need to act like it. And that's why, on Monday my administration will publish a final rule that eliminates the travel ban effective just after the New Year. Congress and President Bush began this process last year, and they ought to be commended for it. We are finishing the job. It's a step that will encourage people to get tested and get treatment, it's a step that will keep families together, and it's a step that will save lives. {APPLAUSE}
+
+We are continuing the work of crafting a coordinated, measurable national HIV/AIDS strategy to stem and suppress this epidemic. I'm pleased to report that the Office of National AIDS Policy, led by Jeffrey Crowley, has already held eight in a series of 14 community discussions in cities across the country. They've brought together faith-based organizations and businesses, schools and research institutions, people living with HIV and concerned citizens, gathering ideas on how to target a national response that effectively reduces HIV infections, improves access to treatment, and eliminates health disparities. And we are encouraged by the energy, the enthusiasm, and great ideas that we've collected so far.
+
+We can't give Ryan White back to Jeanne, back to his mom. But what we can do -- what the legislation that I'm about to sign has done for nearly 20 years -- is honor the courage that he and his family showed. What we can do is to take more action and educate more people. What we can do is keep fighting each and every day until we eliminate this disease from the face of the Earth.
+
+So with that, let me sign this bill. {APPLAUSE}
+
+{COMMENT="The Act is signed"} {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,44 @@
+﻿{title} Remarks by the President at the Friends of Ireland Luncheon {/title}
+{event} Friends of Ireland Luncheon {/event}
+{speaker} Barack Obama {/speaker}
+{date} March 17, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Please, everybody be seated. To Speaker Pelosi; distinguished members of the House and Senate; Republican Leader Boehner; Majority Leader Steny Hoyer; my outstanding Vice President and his newest chief of staff -- {LAUGHTER} -- to Prime Minister Cowen and the entire Irish delegation, as well as the extraordinary leaders from Ireland and Northern Ireland -- it is my privilege to welcome all of you for this wonderful St. Patrick's Day tradition.
+
+And, Governor O'Malley, thank you for that outstanding rendition of our two national anthems. {APPLAUSE} I had asked if Martin was going to do a rock-and-roll version. {LAUGHTER} Some of you know he's got a rock band and is in much demand.
+
+This tradition, as most of you know, was begun by Tip O'Neill and Ronald Reagan, two men who agreed on their love of all things Irish -- including a good scrum. But they also knew how to set aside time just to enjoy one another's company. President Reagan himself said that the two men could be friends after six o'clock. And I imagine they also made a midday exception for this luncheon every year.
+
+Today is a day we speak with pride of being Irish-American -- whether we actually are or not. {LAUGHTER} I am pleased to say that I can actually get away with it, and I've got the Taoiseach here to vouch for me. Prime Minister Cowen was born in County Offaly, and I can trace my ancestry on my mother's side there as well. I believe it was my great-great-great-great-great grandfather. {LAUGHTER} This is true. {LAUGHTER} He was a boot maker, if I'm not mistaken.
+
+Someone actually discovered my Irish lineage when I was running for President, and my first thought was why didn't anyone discover this when I was running for office in Chicago? {LAUGHTER} I would have gotten here sooner. {LAUGHTER} I used to put the apostrophe after the “O” but that did not work. {LAUGHTER}
+
+So it is nice to have a little Irish blood today. It is, after all, a day to celebrate and give thanks for the profound and enduring relationship between Ireland and America. And it's also a day to thank the Irish people for all that they've done for America.
+
+Few nations so small have had such an enormous impact on another. They came to our shores in waves by choice as well as by necessity, building new lives even as they were building a new nation, enriching our heritage, enriching our culture in their own way. And in so doing, alongside so many others who sought a better life in America, they forged a better future for all of us.
+
+But the truth is they weren't always welcomed. There were times where the Irish were caricatured and stereotyped and cursed at and blamed for society's ills. So, naturally, it was a good fit for them to go into politics. {LAUGHTER} Made sense. {LAUGHTER}
+
+When the fictional Mayor Skeffington of Edwin O'Connor's “The Last Hurrah,” spoke of his life as an Irish-American, he said, “When I began, it was long ago, and the situation around here was a bit different. I had no education to speak of, a good many roads were closed to our people -- and politics seemed the easiest way out.” {LAUGHTER}
+
+Today, of course, we all feel the heavy absence of one of our greatest Irish-Americans; a man who loved this day so much; a man who I believe is still watching this body closely, particularly this week -- and that is our beloved Ted Kennedy. And I'm so grateful that Vicki and Patrick are here. Thank you for your presence. {APPLAUSE}
+
+I confess that one of my fondest memories of Teddy has been on my mind lately -- it's one that I shared before. Just a few years ago, on St. Patrick's Day, so it would probably be maybe five years ago, when I had just gotten to the Senate, Teddy cornered me on the Senate floor for my support on a piece of legislation. And I told him, “You've got my vote, Teddy, but I got to tell you, this is not looking good. I do not think this thing is going to fly.” But it did, with votes to spare. And so I grabbed Teddy, pulled him aside. I said, “How did you pull that off?” And he just patted me on the back and he said, “Luck of the Irish!”
+
+And it's nice when the luck of the Irish can bring to the Senate and to Congress such an extraordinary leader as Ted Kennedy. I think it's a little providence, as well as a little luck. It's also nice when the luck of the Irish can bring us all together, Republicans and Democrats. That was one of Teddy's talents. Even as he waged epic and unyielding battles in this building, he, too, was a believer that we were all friends after six o'clock.
+
+And more importantly, he was a believer in building consensus, in forging compromise, in the idea that the only way that we can accomplish the work of the American people is to work together. And one of the greatest testaments to his life and his work, I think, was that so many of his colleagues, past and present, Republican and Democrats, came forward to honor him in similar terms.
+
+That work -- the work of setting aside old differences and softening hardened positions, taking the tough steps to do what's right in the long run over what's easy in the moment -- has also paid dividends in terms of the remarkable progress that we've seen in Northern Ireland, particularly in recent months. And so I want to salute First Minister Peter Robinson and Deputy First Minister Martin McGuinness for their outstanding leadership, their continuing example. {APPLAUSE} We are grateful for that. Thank you.
+
+It is such leadership that keeps me convinced that our best days -- for this legislative body, for this nation, for Ireland, and for Northern Ireland, and for the friendship between our peoples -- those best days are still ahead.
+
+So, Taoiseach, I thank you and your lovely wife for coming. To you and to the people of Ireland, America is grateful for our shared past, hopeful for our common future, and I assure you we will be a faithful partner in the work of progress and prosperity, and a just a lasting peace.
+
+Happy St. Patrick's Day to all of you. And with that, please welcome the Prime Minister of Ireland, Brian Cowen. {APPLAUSE} 
+
+{/speech}

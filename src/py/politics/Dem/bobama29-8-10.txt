@@ -1,0 +1,94 @@
+﻿{title} Remarks by the President on the Fifth Anniversary of Hurricane Katrina in New Orleans, Louisiana {/title}
+{event} Fifth Anniversary of Hurricane Katrina in New Orleans, Louisiana {/event}
+{speaker} Barack Obama {/speaker}
+{date} August 29, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. It is good to be back. {APPLAUSE} It is good to be back.
+
+{AUDIENCE-MEMBER} It's good to have you back! {/AUDIENCE-MEMBER} 
+
+I'm glad. {LAUGHTER} And due to popular demand, I decided to bring the First Lady down here. {APPLAUSE}
+
+We have just an extraordinary number of dedicated public servants who are here. If you will be patient with me, I want to make sure that all of them are acknowledged. First of all, you've got the governor of the great state of Louisiana -- Bobby Jindal is here. {APPLAUSE} We have the outstanding mayor of New Orleans, Mitch Landrieu. {APPLAUSE} We have the better looking and younger senator from Louisiana, Mary Landrieu. {APPLAUSE}
+
+I believe that Senator David Vitter is here. David -- right here. {APPLAUSE} We have -- hold on a second now -- we've got Congressman Joe Cao is here. {APPLAUSE} Congressman Charlie Melancon is here. {APPLAUSE} Congressman Steve Scalise is here. {APPLAUSE}
+
+Secretary of Housing and Urban Development, who has been working tirelessly down here in Louisiana, Shaun Donovan. {APPLAUSE} We've got our EPA Administrator Lisa Jackson here -- homegirl. {APPLAUSE} Administrator of FEMA Craig Fugate is here. {APPLAUSE} The person who's heading up our community service efforts all across the country -- Patrick Corvington is here. {APPLAUSE} Louisiana's own Regina Benjamin, the Surgeon General -- {APPLAUSE} -- a Xavier grad, I might add. {APPLAUSE} We are very proud to have all of these terrific public servants here.
+
+It is wonderful to be back in New Orleans, and it is a great honor --
+
+{AUDIENCE-MEMBER} We love you! {/AUDIENCE-MEMBER} 
+
+{AUDIENCE-MEMBER} We can't see you! {/AUDIENCE-MEMBER} 
+
+It is a great honor -- {LAUGHTER} -- you can see me now? {LAUGHTER} Okay. It is a great honor to be back at Xavier University. {APPLAUSE} And I -- it's just inspiring to spend time with people who've demonstrated what it means to persevere in the face of tragedy; to rebuild in the face of ruin.
+
+I'm grateful to Jade for her introduction, and congratulate you on being crowned Miss Xavier. {APPLAUSE} I hope everybody heard during the introduction she was a junior at Ben Franklin High School five years ago when the storm came. And after Katrina, Ben Franklin High was terribly damaged by wind and water. Millions of dollars were needed to rebuild the school. Many feared it would take years to reopen -- if it could be reopened at all.
+
+But something remarkable happened. Parents, teachers, students, volunteers, they all got to work making repairs. And donations came in from across New Orleans and around the world. And soon, those silent and darkened corridors, they were bright and they were filled with the sounds of young men and women, including Jade, who were going back to class. And then Jade committed to Xavier, a university that likewise refused to succumb to despair. So Jade, like so many students here at this university, embody hope. That sense of hope in difficult times, that's what I came to talk about today.
+
+It's been five years since Katrina ravaged the Gulf Coast. There's no need to dwell on what you experienced and what the world witnessed. We all remember it keenly: water pouring through broken levees; mothers holding their children above the waterline; people stranded on rooftops begging for help; bodies lying in the streets of a great American city. It was a natural disaster but also a manmade catastrophe -- a shameful breakdown in government that left countless men, and women, and children abandoned and alone.
+
+And shortly after the storm, I came down to Houston to spend time with some of the folks who had taken shelter there. And I'll never forget what one woman told me. She said, “We had nothing before the hurricane. And now we've got less than nothing.”
+
+In the years that followed, New Orleans could have remained a symbol of destruction and decay; of a storm that came and the inadequate response that followed. It was not hard to imagine a day when we'd tell our children that a once vibrant and wonderful city had been laid low by indifference and neglect. But that's not what happened. It's not what happened at Ben Franklin. It's not what happened here at Xavier. It's not what happened across New Orleans and across the Gulf Coast. {APPLAUSE} Instead this city has become a symbol of resilience and of community and of the fundamental responsibility that we have to one another.
+
+And we see that here at Xavier. Less than a month after the storm struck, amidst debris and flood-damaged buildings, President Francis promised that this university would reopen in a matter of months. {APPLAUSE} Some said he was crazy. Some said it couldn't happen. But they didn't count on what happens when one force of nature meets another. {LAUGHTER} And by January -- four months later -- class was in session. Less than a year after the storm, I had the privilege of delivering a commencement address to the largest graduating class in Xavier's history. That is a symbol of what New Orleans is all about. {APPLAUSE}
+
+We see New Orleans in the efforts of Joycelyn Heintz, who's here today. Katrina left her house 14 feet underwater. But after volunteers helped her rebuild, she joined AmeriCorps to serve the community herself -- part of a wave of AmeriCorps members who've been critical to the rebirth of this city and the rebuilding of this region. {APPLAUSE} So today, she manages a local center for mental health and wellness.
+
+We see the symbol that this city has become in the St. Bernard Project, whose founder Liz McCartney is with us. {APPLAUSE} This endeavor has drawn volunteers from across the country to rebuild hundreds of homes throughout St. Bernard Parish and the Lower Ninth Ward.
+
+I've seen the sense of purpose people felt after the storm when I visited Musicians' Village in the Ninth Ward back in 2006. Volunteers were not only constructing houses; they were coming together to preserve the culture of music and art that's part of the soul of this city -- and the soul of this country. And today, more than 70 homes are complete, and construction is underway on the Ellis Marsalis Center for Music. {APPLAUSE}
+
+We see the dedication to the community in the efforts of Xavier grad Dr. Regina Benjamin, who mortgaged her home, maxed out her credit cards so she could reopen her Bayou la Batre clinic to care for victims of the storm -- and who is now our nation's Surgeon General. {APPLAUSE}
+
+And we see resilience and hope exemplified by students at Carver High School, who have helped to raise more than a million dollars to build a new community track and football field -- their “Field of Dreams” -- for the Ninth Ward. {APPLAUSE}
+
+So because of all of you -- all the advocates, all the organizers who are here today, folks standing behind me who've worked so hard, who never gave up hope -- you are all leading the way toward a better future for this city with innovative approaches to fight poverty and improve health care, reduce crime, and create opportunities for young people. Because of you, New Orleans is coming back. {APPLAUSE}
+
+And I just came from Parkway Bakery and Tavern. {APPLAUSE} Five years ago, the storm nearly destroyed that neighborhood institution. I saw the pictures. Now they're open, business is booming, and that's some good eats. {LAUGHTER} I had the shrimp po'boy and some of the gumbo. {APPLAUSE} But I skipped the bread pudding because I thought I might fall asleep while I was speaking. {LAUGHTER} But I've got it saved for later. {LAUGHTER}
+
+Five years ago, many questioned whether people could ever return to this city. Today, New Orleans is one of the fastest growing cities in America, with a big new surge in small businesses. Five years ago, the Saints had to play every game on the road because of the damage to the Superdome. Two weeks ago, we welcomed the Saints to the White House as Super Bowl champions. {APPLAUSE} There was also food associated with that. {LAUGHTER} We marked the occasion with a 30-foot po'boy made with shrimps and oysters from the Gulf. {APPLAUSE} And you'll be pleased to know there were no leftovers. {LAUGHTER}
+
+Now, I don't have to tell you that there are still too many vacant and overgrown lots. There are still too many students attending classes in trailers. There are still too many people unable to find work. And there are still too many New Orleanians, folks who haven't been able to come home. So while an incredible amount of progress has been made, on this fifth anniversary, I wanted to come here and tell the people of this city directly: My administration is going to stand with you -- and fight alongside you -- until the job is done. {APPLAUSE} Until New Orleans is all the way back, all the way. {APPLAUSE}
+
+When I took office, I directed my Cabinet to redouble our efforts, to put an end to the turf wars between agencies, to cut the red tape and cut the bureaucracy. {APPLAUSE} I wanted to make sure that the federal government was a partner -- not an obstacle -- to recovery here in the Gulf Coast. And members of my Cabinet -- including EPA administrator, Lisa Jackson, who grew up in Pontchartrain Park -- {APPLAUSE} -- they have come down here dozens of times. Shaun Donovan has come down here dozens of times. This is not just to make appearances. It's not just to get photo ops. They came down here to listen and to learn and make real the changes that were necessary so that government was actually working for you.
+
+So for example, efforts to rebuild schools and hospitals, to repair damaged roads and bridges, to get people back to their homes -- they were tied up for years in a tangle of disagreements and byzantine rules. So when I took office, working with your outstanding delegation, particularly Senator Mary Landrieu, we put in place a new way of resolving disputes. {APPLAUSE} We put in place a new way of resolving disputes so that funds set aside for rebuilding efforts actually went toward rebuilding efforts. And as a result, more than 170 projects are getting underway -- work on firehouses, and police stations, and roads, and sewer systems, and health clinics, and libraries, and universities.
+
+We're tackling the corruption and inefficiency that has long plagued the New Orleans Housing Authority. We're helping homeowners rebuild and making it easier for renters to find affordable options. And we're helping people to move out of temporary homes. You know, when I took office, more than three years after the storm, tens of thousands of families were still stuck in disaster housing -- many still living in small trailers that had been provided by FEMA. We were spending huge sums of money on temporary shelters when we knew it would be better for families, and less costly for taxpayers, to help people get into affordable, stable, and more permanent housing. So we've helped make it possible for people to find those homes, and we've dramatically reduced the number of families in emergency housing.
+
+On the health care front, as a candidate for President, I pledged to make sure we were helping New Orleans recruit doctors and nurses, and rebuild medical facilities -- including a new veterans hospital. {APPLAUSE} Well, we have resolved a long-standing dispute -- one that had tied up hundreds of millions of dollars -- to fund the replacement for Charity Hospital. And in June, Veterans Secretary Ric Shinseki came to New Orleans for the groundbreaking of that new VA hospital.
+
+In education, we've made strides as well. As you know, schools in New Orleans were falling behind long before Katrina. But in the years since the storm, a lot of public schools opened themselves up to innovation and to reform. And as a result, we're actually seeing rising achievement, and New Orleans is becoming a model of innovation for the nation. This is yet another sign that you're not just rebuilding -- you're rebuilding stronger than before. Just this Friday, my administration announced a final agreement on $1.8 billion dollars for Orleans Parish schools. {APPLAUSE} This is money that had been locked up for years, but now it's freed up so folks here can determine best how to restore the school system.
+
+And in a city that's known too much violence, that's seen too many young people lost to drugs and criminal activity, we've got a Justice Department that's committed to working with New Orleans to fight the scourge of violent crime, and to weed out corruption in the police force, and to ensure the criminal justice system works for everyone in this city. {APPLAUSE} And I want everybody to hear -- to know and to hear me thank Mitch Landrieu, your new mayor, for his commitment to that partnership. {APPLAUSE}
+
+Now, even as we continue our recovery efforts, we're also focusing on preparing for future threats so that there is never another disaster like Katrina. The largest civil works project in American history is underway to build a fortified levee system. And as I -- just as I pledged as a candidate, we're going to finish this system by next year so that this city is protected against a 100-year storm. We should not be playing Russian roulette every hurricane season. {APPLAUSE} And we're also working to restore protective wetlands and natural barriers that were not only damaged by Katrina -- were not just damaged by Katrina but had been rapidly disappearing for decades.
+
+In Washington, we are restoring competence and accountability. I am proud that my FEMA Director, Craig Fugate, has 25 years of experience in disaster management in Florida. {APPLAUSE} He came from Florida, a state that has known its share of hurricanes. We've put together a group led by Secretary Donovan and Secretary Napolitano to look at disaster recovery across the country. We're improving coordination on the ground, and modernizing emergency communications, helping families plan for a crisis. And we're putting in place reforms so that never again in America is somebody left behind in a disaster because they're living with a disability or because they're elderly or because they're infirmed. That will not happen again. {APPLAUSE}
+
+Finally, even as you've been buffeted by Katrina and Rita, even as you've been impacted by the broader recession that has devastated communities across the country, in recent months the Gulf Coast has seen new hardship as a result of the BP Deepwater Horizon oil spill. And just as we've sought to ensure that we are doing what it takes to recover from Katrina, my administration has worked hard to match our efforts on the spill to what you need on the ground. And we've been in close consultation with your governor, your mayors, your parish presidents, your local government officials.
+
+And from the start, I promised you two things. One is that we would see to it that the leak was stopped. And it has been. The second promise I made was that we would stick with our efforts, and stay on BP, until the damage to the Gulf and to the lives of the people in this region was reversed. And this, too, is a promise that we will keep. We are not going to forget. We're going to stay on it until this area is fully recovered. {APPLAUSE}
+
+That's why we rapidly launched the largest response to an environmental disaster in American history -- 47,000 people on the ground, 5,700 vessels on the water -- to contain and clean up the oil. When BP was not moving fast enough on claims, we told BP to set aside $20 billion in a fund -- managed by an independent third party -- to help all those whose lives have been turned upside down by the spill.
+
+And we will continue to rely on sound science, carefully monitoring waters and coastlines as well as the health of the people along the Gulf, to deal with any long-term effects of the oil spill. We are going to stand with you until the oil is cleaned up, until the environment is restored, until polluters are held accountable, until communities are made whole, and until this region is all the way back on its feet. {APPLAUSE}
+
+So that's how we're helping this city, and this state, and this region to recover from the worst natural disaster in our nation's history. We're cutting through the red tape that has impeded rebuilding efforts for years. We're making government work better and smarter, in coordination with one of the most expansive non-profit efforts in American history. We're helping state and local leaders to address serious problems that had been neglected for decades -- problems that existed before the storm came, and have continued after the waters receded -- from the levee system to the justice system, from the health care system to the education system.
+
+And together, we are helping to make New Orleans a place that stands for what we can do in America -- not just for what we can't do. Ultimately, that must be the legacy of Katrina: not one of neglect, but of action; not one of indifference, but of empathy; not of abandonment, but of a community working together to meet shared challenges. {APPLAUSE}
+
+The truth is, there are some wounds that have not yet healed. And there are some losses that can't be repaid. And for many who lived through those harrowing days five years ago, there's searing memories that time may not erase. But even amid so much tragedy, we saw stirrings of a brighter day. Five years ago we saw men and women risking their own safety to save strangers. We saw nurses staying behind to care for the sick and the injured. We saw families coming home to clean up and rebuild -- not just their own homes, but their neighbors' homes, as well. And we saw music and Mardi Gras and the vibrancy, the fun of this town undiminished. And we've seen many return to their beloved city with a newfound sense of appreciation and obligation to this community.
+
+And when I came here four years ago, one thing I found striking was all the greenery that had begun to come back. And I was reminded of a passage from the book of Job. “There is hope for a tree if it be cut down that it will sprout again, and that its tender branch will not cease.” The work ahead will not be easy, and there will be setbacks. There will be challenges along the way. But thanks to you, thanks to the great people of this great city, New Orleans is blossoming again.
+
+Thank you, everybody. God bless you. And God bless the United States of America. {APPLAUSE} 
+
+{/speech}

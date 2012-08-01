@@ -1,0 +1,52 @@
+﻿{title} Remarks by the President to Dnc Dinner {/title}
+{event} Private Residence, Washington, D.C. {/event}
+{speaker} Bill Clinton {/speaker}
+{date} October 21, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. I will be brief, because I want to spend most of our time in a conversation. But I would like to say a few things.
+
+First, I want to thank Senator Kerry for once again opening his home. I was here not very long ago, with at least some of you who are here. I want to thank him for his genuine commitment to modernizing our party and to making it an instrument of progress, and an instrument for bringing our country together. And I'm very grateful for the truly exceptional effort he's made.
+
+On the way in, Joe Andrew, our DNC chair, said that John Kerry had done more personally than any other member of the Congress to try to help modernize and strengthen our party, in the last few months, particularly. So I thank you for that. And I thank Teresa in her absence, and I think she did the right thing to fulfill her responsibility. {LAUGHTER} We always say we're for opportunity and responsibility, and -- {LAUGHTER} -- she's had a fair share of one and discharged the lion's share of another. And we appreciate that.
+
+I want to thank Governor Romer and Beth Dozoretz and all of the other people who are here from the Democratic Party, and all of you.
+
+Let me just say -- I want to tell you a story. A lot of you know that Hillary and I -- because of her, not me; it was her idea -- have had a series of evenings at the White House, called Millennium Evenings, this year, which we have primarily disseminated to the public at large through the Internet. It's been covered by C-SPAN, and occasionally by CNN -- and obviously by print reporters who come in. But the primary means of connecting to these Millennium Evenings has been through the Internet. And at the end of whatever we do, we allow people to -- not only in the audience, there are always 200, 300 people in the audience -- we allow people to send us questions from all over the world.
+
+And it's been a fascinating thing. We started off with a history of the United States, and where we are now compared to the roots of our Founders, in a lecture by Bernard Bailyn, the distinguished professor at Harvard. We've had a poetry night with the last three poet laureates of our country, and a lot of inner-city kids in Washington, and all kinds of people in between, reading their poems and talking about poetry.
+
+The great Wynton Marsalis came and played, and lectured, on the history of jazz as a unique American art form in the 20th century. Steven Hawking came all the way from Cambridge and talked about black holes and undiscovered galaxies of the 21st century, and what it will mean for the nature and our understanding of time. And we've had eight of these evenings; it's been amazing. Elie Wiesel talked about the price of indifference in the 20th century, and how we couldn't have it in the 21st.
+
+Last week, we had a man named Lander from Harvard who's an expert in genomics, and a man named Cerf from MCI that had something to do with the establishment of the Internet, the architect, that all of you know. And what they were talking about was the intersection of genomics and the revolution in computer technology.
+
+And the scientist, the genomics guy, said that it would really not have been possible, first to decode the human gene, and then to figure out anything useful to do with the decoding, were it not for the computer and for digital technology, generally.
+
+And he said -- he was talking about how one of the things we've been trying to do in medical research, for example, is to deal with spinal cord injuries. And last year, for the very first time, we spent a lot of money -- and Christopher Reeve, since he was injured, has been very instrumental in getting higher levels of research put into this issue. And last year, for the first time, we succeeded in getting nerves transferred from the body of a laboratory animal, a rat, to the animal's spine -- which had been severed -- and the animal actually took the transplant and had movement in its lower limbs; the first time it had ever been done in any living organism that we know of with a spinal cord that had been severed.
+
+So what this guy said, he said he believes that this whole effort will be overtaken by the capacity of us to use a digital device that can be inserted into spines, that will replicate all nerve movements, and take the right signals and give them. And he said -- he offered as Exhibit A, as sort of prelude to that -- his wife, Mr. Cerf's wife, who had been profoundly deaf for 50 years, totally beyond the reach of hearing aids, and a small digital device was inserted deep in her ears, and she heard for the first time in 50 years. And she got up and talked about that.
+
+Then the genomics guy -- we started talking about what all this meant for the breakdown of the gene. Then we got into, what does genetics tell us about society? And he made the following point: that in spite of the fact that you're talking about 100,000 genes and, ultimately, billions of permutations, that all human beings are 99.9 percent the same genetically.
+
+And then, against the background of all the racial and ethnic conflicts in the world today, he made what I thought was a rather stunning statement -- that I didn't know, at least; maybe a lot of you do know this. He said, if you take any substantial group of people -- like if you take, say we had a group of people from India, 100 Indians. And then let's say we had 100 Chinese. And let's say we had 100 people from Nigeria. And let's say we had 100 people from France.
+
+He said that the genetic differences of individuals within the group would be greater than the genetic differences as a whole of the French and the Indians and the Chinese and the Nigerians. And, therefore, there was no rational basis -- which we all knew anyway, but it was nice to have it confirmed scientifically -- that there was no rational basis for this human emotion of fear of the other.
+
+Well, what's all this got to do with technology? What I'm interested in -- everything I can do while my time of service is here, before it's over, in maximizing the ability of our country to use technology for economic empowerment, for educational empowerment, for political empowerment, and to do it in a way that promotes unity, not division. And that's what I would like to talk about.
+
+And I think the Democratic Party is the principal engine in our time of economic empowerment, political empowerment, educational empowerment and, certainly -- as compared with all the alternatives -- the major force for the cohesion and unity of our society as we move forward. So that's why I'm glad all of you are here. I think this is a huge issue.
+
+Eric and I had some talks about how we could close the digital divide -- and, of course, we've worked very hard on it, with the Vice President's leadership, to make sure by the time we get through with our Millennium Celebration we'll have all of our classrooms hooked up to the Internet.
+
+But if you think about what it might mean economically for poor people in America -- if Internet access were as dense as telephone access in America, I think it would have a very positive economic impact. I believe cell phones and computers, if properly distributed, can save 30 years of educational and economic development in a lot of the poorest countries in this world, and can permit an economic development that is far less damaging to the environment.
+
+And I believe that technology, properly used, can not only give people a more interactive and personal engagement in the political process, but can, in the process, dramatically reduce the sense of cynicism and alienation, a sense that one person doesn't matter and that none of this really amounts to much.
+
+So my mind is always thinking about this, but everyone knows that I'm quite technologically challenged. So I need people like you to help me, and tell me what to do and how to do it. So that's why I'm here, that's why I'm glad you're here, and I'm very grateful for you presence and your commitment.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

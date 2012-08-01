@@ -1,0 +1,44 @@
+﻿{title} Remarks by the President on Child Immunization {/title}
+{event} The Roosevelt Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 11, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. And let me say, I took a lot of pride, just listening to Mrs. Carter speak here. She seemed right at home.
+
+When Hillary and I moved into the Arkansas governor's mansion in 1979, Betty Bumpers began her lifelong campaign to wear me out about immunizations. {LAUGHTER} And I reminded Rosalynn that it was in 1979 or 1980 that we actually did an immunization event in the backyard of the Arkansas governor's mansion. I can't remember whether it was '79 or '80 now, but it was, anyway, a year or two ago.
+
+So I can't thank these two women enough for what they have done. And I was marveling, when Mrs. Carter was going through all those issues, at just how well she knows and understands this issue. So I'm very grateful to both of them, because we wouldn't be here today if it weren't for them.
+
+I also want to thank Secretary Shalala and Secretary Glickman, and, in her absence, Hillary. They have worked very hard on this for the last eight years, and we have made some remarkable progress.
+
+I want to recognize also Dr. Walter Ornstein of the CDC and Shirley Watkins of the Department of Agriculture, who will be very active in the steps that I'm going to announce today.
+
+I think it's worth noting that we're meeting in the Roosevelt Room, which was named for our two presidents and Eleanor Roosevelt. And Franklin Roosevelt spent almost half his life in a wheelchair as a result of polio. And I was part of the first generation of Americans to be immunized against polio.
+
+And I remember, as a child, seeing other children in iron lungs. And I remember what an enormous elation it was for me and my classmates when we first got our polio vaccines, to think that that's one thing we didn't have to worry about anymore. It's hard for people now who weren't alive then and weren't part of it to even imagine what that meant to a whole generation of children. But it was profoundly important.
+
+We now know that vaccines save lives and agony. They also save money; they're a good investment. And we have done what we could, over the last eight years, to make sure that our children get the best shot in life by getting their shots. And we have, as Rosalynn said, made progress.
+
+In 1993, almost two out of five children under the age of three had not been fully vaccinated. And Secretary Shalala and Hillary and the rest of our team went to work with the Childhood Immunization Initiative to improve immunization services, make the vaccines safer and more affordable, and increase the immunization rates. We enacted the Vaccines for Children program to provide free vaccines to uninsured and underinsured children. And thanks to the work of people in this room and people like you all across America, these rates, as Mrs. Carter said, are at an all-time high. And the incidence of diseases such as measles, mumps and rubella are at an all-time low.
+
+In recent years, we've been able to say that for the first time in our nation's history 90 percent of our children have been immunized against serious childhood diseases. And just as important, vaccine levels are almost the same for preschool kids across racial and ethnic lines. So our children are safer and healthier.
+
+But, as has already been said today, there is still a lot to do. At least a million infants and toddlers are not fully immunized. Too many children continue to fall victim to diseases that a simple immunization could have prevented. Low-income children are far less likely to be immunized. In some urban areas, for example, immunization rates are 20 percent below the national average.
+
+In Houston, just 63 percent of low-income kids are vaccinated. In Detroit and Newark, it's 66 percent. And we know areas with below-average immunization rates are at greater risk of potentially deadly outbreaks, such as what we saw with the measles epidemic in the early '80s -- the late '80s. So today, we are here to announce three new steps that we hope will build on the record and meet the outstanding challenges.
+
+First, we have to go where the children are, as Mrs. Carter said. Over 45 percent of infants and toddlers nationwide are being served by the Women, Infants and Children program. It's the single largest point of access to health care for low-income preschool children, who are at highest risk of low vaccination coverage. The immunization rates for children in WIC in some cases is 20 percent lower than the rates for other children. So WIC is clearly the place to start on the outstanding challenge.
+
+Today I am directing WIC to conduct an immunization assessment of every child participating in the program, all five million of them. Each time a child comes in, their immunization status would be evaluated. Children who are behind schedule or who don't have records will be referred to a local health care provider. I am asking the CDC to provide WIC's staff with the information they need to conduct immunization assessments accurately and efficiently. We know this will work. WIC centers that have experimented with this type of approach have seen vaccination coverage increase by up to 40 percent in just one year.
+
+Second, I am directing Secretary Shalala and Secretary Glickman to develop a national strategic plan to further improve immunization for children at risk -- so they'll have something to do in this last 40 days. {LAUGHTER} This would include steps to utilize new technology, share best practices, and examine how we can enlist other federal programs serving children in the effort to improve immunization rates.
+
+But it isn't a job just for government alone. We need to work with other caring organizations to succeed. So third and finally, I'm announcing that the American Academy of Pediatrics is launching a new campaign to urge all 55,000 of its members to remind WIC-eligible parents to bring their immunization records with them when they visit WIC sites. I want to thank the members of the AAP for their initiative as well. We need to keep working until every child in every community is safe from vaccine-preventable disease.
+
+Dr. Jonas Salk, the father of the polio vaccine, once said, "the greatest reward for doing is the opportunity to do more." We've done a lot together, and we have more to do. Thank you very much. {APPLAUSE} 
+
+{/speech}

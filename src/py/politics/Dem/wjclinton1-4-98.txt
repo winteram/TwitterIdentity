@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President to Senegalese Troops Trained for African Crisis Response Initiative {/title}
+{event} Speech by President to Senegalese Troops {/event}
+{speaker} Bill Clinton {/speaker}
+{date} April 1, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President to Senegalese Troops {/description}
+
+{speech} 
+
+President Diouf, distinguished leaders of Senegal and the United States, members of the Senegalese and American Armed Forces, ladies and gentlemen. We have just seen a training exercise involving dedicated soldiers from our two nations, part of the African Crisis Response Initiative.
+
+I'd like to thank the Senegalese soldiers and the United States Armed Forces. I'd like to especially thank the distinguished officers who briefed us -- Lt. Colonel Diallo and Major Erchenbrack. And I'd also like to express my appreciation to the other Senegalese soldiers and gendarmes who were standing there who have served with multinational peacekeeping forces in Haiti and Bosnia, Africa and the Middle East.
+
+Senegal is respected around the world for its tradition of peacekeeping and humanitarian efforts. You are a leader among the more than 15 African countries that regularly contribute troops to United Nations peacekeeping missions. I thank Senegalese troops for their commitment to peace, and I thank our American troops for your work here.
+
+Africa and America have a great stake in the success of the soldiers like those President Diouf and I have seen here today. Where bullets and bombs prevent children from going to school and parents from going to work, amid chaos and ruin, these soldiers and other like them can bring security, hope, and a future.
+
+Terrible violence continues to plague our world, and Africa has seen some of the worst. In some cases, children, often against their will, have stood on the front lines of armies as cannon fodder for the ambitions of others. A few days ago, I met in Rwanda with some of the survivors of the 1994 genocide there. As I said to them, let me say again, we must find better ways to prevent such horrors from occurring.
+
+While peace has started to take hold in many nations that once knew only violence -- Ethiopia, Mozambique, Angola, Liberia, and elsewhere -- tensions linger in some of these nations, and violence continues in others, like Burundi, Somalia, and Sudan. Buried land mines prevent children from walking in safety in too many African countries. Millions of refugees still remain driven from their homes. In the debris of war, poverty and disease thrive.
+
+The international community needs new tools to keep the peace in volatile areas and cope with humanitarian crises. The African Crisis Response Initiative program, which President Diouf and I have seen in action here today, provides peacekeeping training and non-lethal equipment to African soldiers, with the goal of helping African nations to prepare their military units, led by African commanders, to respond quickly and effectively to humanitarian and peacekeeping challenges in Africa and around the world.
+
+Senegal was one of the first nations to support the African Crisis Response Initiative, and along with Uganda, the first to participate in its training exercises. Mali and Malawi participated soon after. We are about to begin an exercise with Ghanian troops, along with Belgian soldiers. Later this year we will conduct exercises with Ethiopia. And we look forward to other countries participating soon.
+
+Our purpose is not to dominate security matters in Africa or to abandon America's role in Africa's security, but instead to build on existing efforts, including those of African nations, the Organization for African Unity, the United Nations, France, Britain and others, to strengthen the capacity for preserving peace here. With our African partners we will also establish a center for security studies in Africa, modeled on the Marshall Center in Germany, to provide programs for civilian and military leaders on defense policy planning and the role of militaries in democratic societies.
+
+America will continue to be involved on this continent as long as African nations desire our assistance and our partnership in building a safer future.
+
+Mr. President, I want to thank you and your military leaders for being such partners. And I would like to thank the members of the American military, and one in particular -- General Jamerson -- for his efforts, relentless over the past couple of years to build closer ties between African militaries and our own. {APPLAUSE}
+
+To meet the threats to peace and freedom we will face in the 21st century, we must strengthen our resolve in the face of hatred and violence. We must tell the aggressors and those who tear societies apart, you will not prevail. We must prove that the peacemakers are getting stronger. And above all, we must demonstrate that the peacemakers are working together.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,40 @@
+﻿{title} President Delivers Remarks at 52nd Annual National Prayer Breakfast {/title}
+{event} Remarks by the President at the National Prayer Breakfast, Washington Hilton Hotel, Washington, D.C. {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 5, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. {APPLAUSE} Please be seated. Thank you. {APPLAUSE} Good morning. Thank you. {APPLAUSE} Go ahead and be seated. Thank you and good morning.
+
+Laura and I are honored to join you once again for this annual prayer breakfast. This event brings us together for fellowship, and it's a good chance to see who gets up early in Washington. {LAUGHTER}
+
+I appreciate the warm welcome. I appreciate the friendship and the kindred spirit. All of us believe in the power of prayer. And for a lot of people here in Washington, a prayer has been answered with three words: Coach Joe Gibbs. {LAUGHTER ; APPLAUSE} Joe is admired for a great career, and even more, he is respected for his convictions and his character. Joe, we're glad to see you back on the job. {APPLAUSE} I'm all in favor of second terms. {LAUGHTER ; APPLAUSE} 
+
+This event is also a chance to hear beautiful songs of praise. Shortly, we'll hear the wonderful voice of Twila Paris. And Laura and I were delighted once again to hear the Watoto chorus from Uganda. This is our third time to hear these beautiful voices. I hope to hear them a lot more. These boys and girls have known great sadness and loss, yet their voices carry a message of hope and joy. And we're so glad -- so glad -- they could be with us here this morning.
+
+I appreciate being in the presence of John Abizaid, our general. He is a decent and honorable man. I want to thank Senators Inhofe and Nelson for taking time out of their busy days to organize this important prayer breakfast. I appreciate your leadership. I appreciate being in the presence of -- {APPLAUSE} -- a little slow to catch on there.
+
+I see the Majority Leader, Frist, is here, and a lot of members of the Senate, and a lot of members of the House. Thank you all for coming. Members of my Cabinet who are here; members of the Joint Chiefs, I see -- distinguished citizens, when we come together every year, we leave aside the debates of the working day. We recognize our dependence on God and pray with one voice for His blessings on our country. We're in the capital of the most powerful nation on Earth, yet we recognize the limits of all earthly power. God serves His own purposes and does not owe us an explanation.
+
+In prayer, we ask for wisdom and guidance. And the answers seldom come in blinding revelations. Yet prayer can bring good things: grace for the moment, and faith in the future. Americans are a prayerful people, and this past year we've offered many prayers. We have prayed for the safety of our nation and for those who defend us. We've prayed for the families of men and women killed or wounded in conflict, that in grief and trouble, God may be their refuge and their strength. We've prayed for the people of Iraq and Afghanistan, that they may live in safety and in freedom. Many Americans have prayed every day and every week for those in authority, and I thank them for that wonderful gift. And I know you do, as well.
+
+Many prayers also express our gratitude. And Americans in a time of danger have found much to be grateful for. We are thankful for the goodness and character of our fellow citizens, revealed on the morning of September the 11th, and present every day in the life of this country.
+
+We are thankful that we live in a free nation, with the strength to defend our freedom. We are thankful for the brave and decent men and women of the United States military who volunteer to defend us all. America's Armed Forces have shown great skill in battle, perseverance under extremely difficult conditions. They've also shown the best of our country in other ways, as well. The world has seen the kind of people America sends forth, from our towns and neighborhoods, who serve in freedom's cause. They are the sort of people, who when the fighting is done, are kind and compassionate toward innocent citizens. And their compassion, as much as their courage, has made this country proud.
+
+As General Abizaid can attest, the people under our command in Iraq have been caring and generous toward the people they have liberated. Seeing great need, our servicemen and women have rebuilt hospitals, repaired schools, and organized the donation of books and clothing and toys for Iraqi children. Others have helped to build clinics and lay out soccer fields.
+
+One member of the Army National Guard, Specialist Glenn Carlson, spent his time on leave in New York, collecting children's clothing to take back to Iraq. Here's what he says: "I think that in the end, it will be the simple acts of kindness that make the difference." Specialist Carlson and many others are helping to build a free Iraq, not only by using force against the violent, but by extending the friendship and compassion of the American people.
+
+Our people in uniform understand the high calling they have answered because they see the nation and the lives they are changing. A guardsman from Utah named Paul Holton has described seeing an Iraqi girl crying and decided then and there to help that child and others like her. By enlisting aid through the Internet, Chief Warrant Officer Holton had arranged the shipment of more than 1,600 aid packages from overseas. Here's how this man defines his own mission: "It is part of our heritage that the benefits of being free, enjoyed by all Americans, were set up by God, intended for all people. Bondage is not of God, and it is not right that any man should be in bondage at any time, in any way." Everyone one in this room can say amen to that. {APPLAUSE}
+
+There's another part our heritage we are showing in Iraq, and that is the great American tradition of religious tolerance. the Iraqi people are mostly Muslims, and we respect the faith they practice. Our troops in Iraq have helped to refurbish mosques, have treated Muslim clerics with deference, and are mindful of Islam's holy days. Some of our troops are Muslims themselves, because America welcomes people of every faith. Christians and Jews and Muslims have too often been divided by old suspicions, but we are called to act as what we are -- the sons and daughters of Abraham.
+
+Our work in a troubled part of the world goes on, and what we have begun, we will finish. In the years of challenge, our country will remain strong, and strong of heart. And as we meet whatever test might come, let us never be too proud to acknowledge our dependence on Providence and to take our cares to God. {APPLAUSE}
+
+I want to thank you for continuing this fine annual tradition, and for your hospitality. May God bless you, and may He always watch over our country. Thank you. {APPLAUSE} 
+
+{/speech}

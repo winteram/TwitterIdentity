@@ -1,0 +1,98 @@
+﻿{title} Remarks by the President to the Hyderabad Business Community {/title}
+{event} Speech by President to the Hyderabad Business Community {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 24, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President to the Hyderabad Business Community {/description}
+
+{speech} 
+
+Thank you. Thank you very much. First of all, thank you all for coming out in such large numbers on this warm day to this wonderful facility. It may be that every day is a warm day, but for us, it's a new experience. {LAUGHTER} And I rather like it.
+
+Mr. Raju, thank you very much. President Bajaj, President Batnagar, Mr. Hariharan and Chief Minister Naidu, thank you all for welcoming us here. And I must say, when I was watching the Chief Minister give his speech, I wish I had brought some slides -- {LAUGHTER} -- because it was so very impressive. And you should know that he is becoming -- {APPLAUSE} -- yes, he did a good job. {APPLAUSE}
+
+If a picture is worth a thousand words, you will remember much more of what he said than what I am about to say. {LAUGHTER} And he is becoming very well-known in the United States and very much admired for all of these remarkable achievements, and I thank him. {APPLAUSE}
+
+I would like to thank your Ambassador to the United States, Ambassador Chandra, for coming back to India and making this trip with me. And thank you very much, Mr. Ambassador, for what you do. {APPLAUSE}
+
+I would like to thank the large number of Americans who are here with me, including six members of our Congress. And I would like to ask them to stand because they come on these trips with me -- I get to give the speeches, they have to sit and listen. And then when we go home, they have all the power over the money. {LAUGHTER} So I would like to introduce Representative Gary Ackerman from New York, Representative Nita Lowey from New York, Representative Jim McDermott from Washington, Representative Ed Royce from California, Representative Sheila Jackson Lee from Texas, and Representative Jan Schakowsky from Chicago, Illinois. Thank you very much. {APPLAUSE}
+
+If that doesn't improve the aid program for India, I don't know what will. {LAUGHTER} And make sure we have no burden on e-commerce between ourselves.
+
+I want to thank Secretary Daley, the Secretary of Commerce, for being here, and Brady Anderson, the Administrator of our USAID program; and Dr. Neal Lane, my Science Advisor; and Dr. Rama Murthi; and of course, Ambassador Dick Celeste and Jacqueline, his wife.
+
+I'd also like to point out I have -- I don't know how many, but I have at least four Indian Americans with me working on this trip who are actually in the audience today, and two of them are from here in Hyderabad. So I'd like to acknowledge Rekha Chalasani from AID, and Mona Mohib who works with us in the White House. I thank them for being here. {APPLAUSE}
+
+You should also know this was a very coveted trip from Washington to India. My Chief of Staff is on this trip. My National Security Advisor. Everyone wanted to come. Those who did are happy; those who are still at home working are angry. {LAUGHTER} But we know -- we know a lot of our future depends upon whether we have the right kind of partnership with India. {APPLAUSE}
+
+Once historians said of your nation, India is the world's most ancient civilization, yet one of its youngest nations. Today, in this ancient city, we see leadership to drive the world's newest economy.
+
+One of the greatest joys of being President of the United States for me has been to be involved with the people at home who are pushing the frontiers of science and technology. Many people believe that I asked Al Gore to be my Vice President because he knew roughly 5,000 times more about computer technology than I did. {LAUGHTER}
+
+But I have learned every day now, for over seven years. And I think it's very interesting for a man my age -- I'm 53, which is way too old to make any money in information technology -- {LAUGHTER} -- but it's very interesting -- the terms that are used today by young people and not-so-young people anymore had such different meanings for me when I was in my 20s. When I was a young man, chips were something you ate, windows were something you washed, disks were part of your spinal column, that when you got older often slipped out of place, and semiconductors were frustrated musicians who wished they were leading orchestras. {LAUGHTER ; APPLAUSE} The world is a very different place today.
+
+I want to speak briefly about how our nations already are working together to seize the possibilities of the Information Age, and about what we can do to make sure no one is left behind. I particularly appreciated the Chief Minister's emphasis on this in his remarks, because, for me, the true test of the information revolution is not just the size of the feast it creates, but the number of people who can sit at the table to enjoy it.
+
+It is incredible to think about how far science has come in just the seven years and a few months since I first became President. In that time we have explored a galaxy 12 billion light years away; we have seen the cloning of animals. We are just a few months away from completing the sequencing of the human genome, with all that promises for improving the life and the quality of life of people all around the world.
+
+When I was elected President, there were -- listen to this -- there were only 50 sites on the Worldwide Web, in January of 1993. Today, there are more than 50 million. And it is the fastest growing communications medium in history.
+
+Here in India, the number of Internet users is expected to grow more than 10 times in just four years. Ten years ago, India's high-tech industries generated software and computer-related services worth $150 million. Last year, that number was $4 billion. Today, this industry employs more than 280,000 Indians, in jobs that pay almost double the national average. Little wonder, as the Minister said, Hyderabad is being known now as "Cyberabad." {APPLAUSE}
+
+Now, I realize to many of you this comes as no surprise, since the decimal system was discovered -- invented in India. If it weren't for India's contributions in math and science, you could argue that computers, satellites and silicon chips would never have been possible in the first place, so you ought to have a leading role in the 21st century economy -- {APPLAUSE} -- companies with names like Infosys, Wipro and, of course, Satyam.
+
+Again, I want to say that I think Chief Minister Naidu deserves a lot of credit for giving you the right kind of governance. {APPLAUSE} There are some people who believe -- we were talking about this before we came out here -- there are some people who believe that the 21st century world, because the Internet will make the globe more interconnected and we will have all kinds of connections with people beyond our borders that we never had before, and, therefore, government will become completely irrelevant to most people's lives. If you look at the example of this state and this city, you see we need a different kind of government. It can be smaller; it can be far less bureaucratic; it should be far more market-oriented; it should be smart, as I learned from the Minister's chart. But it is a grave mistake to think that we can really go forward together without that kind of smart governance. And the Chief Minister's role in your success I think is evident to all of you by your response.
+
+I'm personally intrigued by the fact that you can get a driver's license on the Internet and you don't have to go wait in line, as you do in America. I have my driver's license here -- {LAUGHTER} -- and in a few months I may come back, because it may be the only place I will have a license to drive. {LAUGHTER ; APPLAUSE} You may see me just tooling around on the streets here, causing traffic jams. {LAUGHTER}
+
+I want to also acknowledge, if I might, just very briefly, something which has already been mentioned by previous speakers. And that is the remarkable success of Indian Americans in this new economy -- from Suhas Patil, the chairman emeritus of Cyrus Logic; to Vinod Khosla, who helped to build Sun Microsystems; to Vinod Dahm, who created the pentium chip. The remarkable fact is -- listen to this -- Indian Americans now run more than 750 companies in Silicon Valley alone, in one place in America. {APPLAUSE} Now, as again I learned on the screen, we're moving from brain drain to brain gain in India, because many are coming home.
+
+The partnership of Americans and Indians proposes to raise a billion dollars for a global institute of science and technology here. I have no doubt they will succeed. After welcoming your engineers to our shores, today many of our leading companies -- from Apple to Texas Instruments to Oracle -- are coming in waves to your shores. I'm told that if a person calls Microsoft for help with software, there's a pretty good chance they'll find themselves talking to an expert in India, rather than Seattle. India is fast becoming one of the world's software superpowers, proving that in a globalized world, developing nations not only can succeed, developing nations can lead.
+
+One of the reasons India is finding so much success, I believe, is because of your enduring values of nationhood. Fifty years ago, Prime Minister Neru had the vision to invest in the Indian Institutes of Technology. I am very proud that the United States helped in its early development. Today, not only are ITT graduates leading the information revolution, India has the second largest pool of trained scientists in the entire world. {APPLAUSE}
+
+As I said, we have to do more together. Two of our leading associations, the U.S.-India Business Council and your Federation of Indian Chamber of Commerce and Industry, will launch a dialogue to take our infotech trade to new heights, to create more jobs and more opportunities in both our nations.
+
+But as I said at the beginning, in the midst of all this celebration of tomorrow, and in the midst of all of our satisfaction at our own good fortune, there is something we cannot forget. It's a good thing that we're creating a lot of 25-year-old multi-millionaires; it's a good thing that we're seeing the latest Indian start-ups shoot up the NASDAQ; but this whole enterprise cannot just be about higher profits, there must also be a higher purpose.
+
+In India today, as in America, there is much to do. Millions of Indians are connected to the Internet, but millions more aren't yet connected to fresh water. India accounts for 30 percent of the world's software engineers, but 25 percent of the world's malnourished. And there are other statistics, which, given the wealth of the United States, I could cite you about our country which are just as troubling and challenging.
+
+So our challenge is to turn the newest discoveries into the best weapons humanity has ever had to fight poverty. In all the years of recorded human history, we have never had this many opportunities to fight poverty. And it is good economics to do so.
+
+There is so much we can do, for example, to help the poor have better health care. This morning I was at a clinic in Mahavir and I helped to immunize a child against polio. Together we have nearly eradicated this disease, but tuberculosis is still a major problem, malaria is on the rise, HIV and AIDS are big problems for you, as they have been for years for the United States. These are global problems. We must find a science to solve them and the technology to disseminate those solutions to all people, without regard to their income.
+
+There is much to do to protect our planet and those who share it with us. In Agra, I saw some efforts that local citizens are making to clean the air and preserve the Taj Mahal. I talked to an engineer who is doing his best to clean up the Ganges River that he worships as an important part of his faith and his country's history.
+
+Yesterday, I was in the national park in Rajasthan to see the magnificent tigers. And I learned, much to my dismay, that, from a man who has spent a great deal of his life and risked a lot of his life to save those tigers, that last year still 20 of them were poached and you are still in danger of losing them. They, too, are an important part of your heritage and your future.
+
+We must find a way to help people make enough money and have a decent enough income that they wish to preserve the environment and the biological species with which we share this planet. This is very, very important, and technology has a big role to play in all of this.
+
+This week, you are establishing a green business center here in Hyderabad, with some assistance from USAID, to bring the private sector and local government together to promote clean energy development and environmental technology. This is a profoundly important issue and I hope that this city will lead your nation and help to lead the world toward a serious reassessment of our common obligation to reverse the tide of global warming and climate change. Because, in the new economy, you do not have to pollute the atmosphere and warm the planet to grow the economy. In the new economy, you can create more jobs by promoting energy efficiency and alternative sources of energy than by polluting the environment.
+
+The economic wave of the future is in environmental preservation, not in environmental destruction. That is a lesson this city can teach the rest of your nation, people in my nation and people throughout the world, and I hope you will do it. {APPLAUSE}
+
+There is still much we can do in science and technology to feed the world's people. American and Indian scientists are working in the biotechnology industry to pioneer new crops more resistant to pests, diseases, more nutritious, with higher yields per acre.
+
+There is much we can do to protect the rich cultural diversity of our planet. I know that some worry that globalization will produce a world where the unique gifts nations and peoples bring to the world are washed away. I do not believe that. If we do the right things, the Internet can have precisely the opposite effect. Look at India, with 17 officially recognized languages and some 22,000 dialects. You can get on the Internet today and find dozens of sites that bring together people who speak Telugu from every part of the world. You can download fonts in Gujarati, Marati, Assamese and Bengali. You can order handicrafts made by people from every part of India -- I saw one of the sites just before coming in here. And you know the proceeds are going to the people in need.
+
+The new technology can reinforce our cultural distinctions while reaffirming the even more important fact of our common humanity. And India can also help us lead the way in doing that.
+
+Now, finally let me say we cannot work to lift what has been called the "Silk Curtain," which has divided the United States and India for too long now, only to have a digital divide arise in both our countries between the haves and have-nots. In America, we have worked very hard to wire all our schools to the Internet and we've made great progress. We are now going to provide some $5 million through AID to help bring the Internet to schools and businesses in under-served areas in rural India. This state is doing a remarkable job in providing the Internet to people all over the state, in the smallest, poorest villages.
+
+We have to bring government services with printers to every village, so people can see in basic ways what it is they need to do to improve the health care of their children. We need printers with computers on the Internet with all the educational software available. If we could do that for every village in South Asia, in Africa, in Latin America, in the Middle East, then overnight the poorest places in the world could have access to the same learning materials that only the richest schools offer their students today. We can do that if we do it together.
+
+And it isn't just good public values; it would be good economics. It would mean, among other things, that the world's most populous nation would have the world's largest number of educated people, and, therefore, in no time would have the world's largest economy. Doing the right thing is good economics in the Information Age, and we have to do this together.
+
+Finally, let me say that we just want to be a good partner with you in all these endeavors. Two days ago in Delhi I signed an agreement to create a U.S.-Indo Science and Technology forum to bring scientists from our nations together to discuss future cooperation. Today, the top science minds in our two governments are sitting down together to begin a dialogue on how we can conduct new research across a whole range of scientific frontiers. There is a lot we can do.
+
+But, you know -- as I said before I came out here, I visited a lot of the booths, I met a lot of the business people, and I also was treated by the Chief Minister to a video conference with people in all 23 districts of this state who are working on empowerment projects, who had access the microcredit. I learned something I didn't know before I got here, which is that 20 percent of the people in the world, in poor villages who have access to microcredit, are in this state, in India. {APPLAUSE} And that's something my wife and I and our administration have worked very hard on. We financed through AID about 2 million microcredit loans all across the world every year.
+
+So I saw all this. And I would say there's one thing that I hope my country will learn from the values expressed in the Chief Minister's speech, in the local government councils I have visited here, in the local women's communes I have visited here, working on all kinds of economic and educational issues, and that is that the two most important things that we can promote in the new world are empowerment of individuals and a sense of community. And if you do one without the other, you will not succeed.
+
+Very often, people who are very interested in empowerment don't have much interest in community. When they're talking about empowerment, they mean their own empowerment. {LAUGHTER} And very often, a lot of people who have always cared deeply about community are almost a little suspicious of empowerment. But the lesson that you are teaching us is that we must do both together.
+
+We are here to talk about the future of cyberspace. "Cyber" comes from the Greek word "kybernautis". It means helmsman, one who steers the ship. So I am here to say I admire what you are doing to steer the ship of this state into the future. I want to steer with you. {APPLAUSE} But we cannot forget the simple message that, no matter how much new technology there is, the two things we must remain committed to are empowerment and community. Everyone counts. Everyone should have a chance. Everyone has a role to play. And we all do better when we help each other.
+
+Thank you and God bless you. {APPLAUSE} 
+
+{/speech}

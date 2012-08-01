@@ -1,0 +1,48 @@
+﻿{title} Remarks by the President on the Equal Pay Act {/title}
+{event} the Equal Pay Act {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 10, 1998 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, ladies and gentlemen. We gather here to recognize and reaffirm the historic commitment of this nation to equal opportunity.
+
+Before I get into my remarks, I hope you will understand if I don't let the moment pass without making a brief comment about the shocking and outrageous murder of James Byrd, Jr., in Jasper, Texas. Federal law enforcement officials are on the ground there, assisting local law enforcement officials. Because it's an ongoing investigation can't comment on the facts of the case, but I can tell you this. We are determined that the investigation will be thorough, will be fair, and that the guilty will be brought to justice.
+
+I ask for your thoughts and your prayers to be with the family of Mr. Byrd today, and with the people of that community, because in the face of this tragedy, they must join together across racial lines to demonstrate that an act of evil like this is not what this country is all about. I think we've all been touched by it. I can only imagine that virtually everyone who lives there is in agony at this moment. But they must reaffirm -- and so must we -- that we will not tolerate this.
+
+Now, let me just say, I've had a wonderful time here today, and everything that needs to be said has been said. {LAUGHTER} I thank Hillary and Al and Tipper. We care a lot about these issues. We spent hours in 1992 -- hours -- talking about how we had to change the framework of American life so that people could succeed at work and at home; how we had to make it possible for everyone who was able-bodied to work, but how the most important work of any society was taking good care of our children. And we went through this whole long litany of things -- of which unequal pay is clearly a big one -- that are barriers to building strong families, strong communities, and the strongest possible economy.
+
+I thank Senator Kennedy, Senator Boxer, and Congresswoman DeLauro, and Delegate Norton, and all the members of the House who are here -- and my special friend, Dorothy Height, for a lifetime of commitment to all this.
+
+I'm here because, like Rosa DeLauro, I'm the son of a working mother, I had a working grandmother, I have a hard working wife, and we have done everything we could to make sure that our daughter never faced any barriers to her dreams. That's what I want for every American young person.
+
+Although, I must say -- you remember when Senator Kennedy said that he talked about how much we'd closed the inequality gap in the last three or four years and if that pace of progress had been kept for the last 35 years, then women would be earning $1.71 for every dollar of men. And that's about the ratio of my earnings and Hillary's before I became President. {LAUGHTER ; APPLAUSE} And I liked it quite well. {LAUGHTER} First thing you know, the people that don't agree with us on anything will be accusing me of some strategy to make men lazy. {LAUGHTER}
+
+We have indeed come a long way since Dorothy Height and Congresswoman Edna Kelly and others were here 35 years ago. President Kennedy said that the Equal Pay Act was basic to democracy, giving women the same rights in the workplace they have enjoyed at the polling place. You've already heard that we have moved in that 35 years from a period when, on average, women earned 58 cents for every dollar men earned, to a report released by the Council of Economic Advisors -- and Dr. Yellen is here -- saying that women now earn more than 75 cents on the dollar. But that's just three-quarters of the way home.
+
+And to people who think it isn't very much, I ask you if you had the choice, would you rather have 100 cents on the dollar or 75, you would think it was quite a lot after you had taken a few of those 75-cent dollars.
+
+Here's something that's interesting that no one else has pointed out. The CEA study shows that the gender gap is persistent, though narrowing, despite women's gains in education and experience, and even accounting for the difficulties of balancing family and work so that there are more women in part time jobs. When you take account of every conceivable variable explainable by something other than plain old discrimination in equal pay for equal work, there is still this 25 percent gap.
+
+And the Labor Department today -- and I thank Deputy Secretary Higgins for being here -- is releasing a report which shows a history of women's employment. It shows what the obstacles were, which ones have faded away, which ones still remain. To those of you who have been involved in this for a long time, I urge you to look at the Council of Economic Advisors report and the Labor Department report, and I think you will be persuaded that there is no explanation for the gap that is complete without acknowledging the continued existence of discrimination.
+
+Now, this should not be a partisan political issue. In a funny way, is shouldn't even be a gender issue. More fundamentally, it is a civil rights issue; more fundamentally than that, it is a family issue -- or I can testify that young boys eat at the table where the bread is earned by their mothers as well. And it is a matter of American principle. It's a question of what kind of America we want our children and our grandchildren to live in in the 21st century.
+
+That's why I strongly support the Equal Pay Act that Senator Daschle and Congresswoman DeLauro introduced. Wage discrimination based on gender is just as wrong as wage discrimination based on race or any other artificial category.
+
+This legislation will help us to close the last part of the gap. It will strengthen enforcement of the Equal Pay Act. It will toughen penalties for violations. And it will boost compensation for working women. It is tough, it is fair. Congress should pass it. And I join Congresswoman DeLauro in asking that it be scheduled for a vote. Let's give everybody in Congress the chance to vote on something good and the chance to do something good for the people back home. {APPLAUSE}
+
+We're coming up on the first anniversary of the President's Initiative on Race, so I've been thinking a lot about what it means to have a society with equal opportunity, where people are bound together celebrating their differences, but understanding there are things we have in common that are more fundamental.
+
+There have been a lot of people who have written some interesting books and some that I didn't quite agree with over the last several years, talking about the inherent differences between men and women -- Venus, Mars, Uranus, Pluto, whatever -- {LAUGHTER} -- and others on a more -- with a more political overtone. But I believe that whatever your views on that are, surely all of us believe that the citizenship we share is unitary, and that the guarantees of the Constitution are sweeping enough to embrace us all without regard to our gender. Therefore, it is ludicrous to say that 75 percent equality is enough.
+
+You wouldn't tolerate getting to vote in three out of every four elections. {LAUGHTER} You wouldn't like it if someone said you could only pick up three out of every four paychecks. But that is, in effect, what we have said to the women of America. Show up every month, show up every day -- show up every day -- but only three out of four paydays. It's not good enough.
+
+The 21st century, as I have been pounding the podium about for the last five and a half years, will be the time of greatest opportunity in all human history, especially for our country. We cannot let it be known also for the opportunities that were lost and the people who were left behind. With your help, we will prevail.
+
+Thank you and God bless you. {APPLAUSE} 
+
+{/speech}

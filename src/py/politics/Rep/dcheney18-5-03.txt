@@ -1,0 +1,45 @@
+﻿{title} Remarks by the Vice President at the University of Missouri at Columbia Agricultural School Commencement Ceremony {/title}
+{event} ----- {/event}
+{speaker} Dick Cheney {/speaker}
+{date} May 18, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. {APPLAUSE} Thank you. {APPLAUSE} Thank you very much. President Floyd, Chancellor Wallace, Dean Payne, distinguished guests, members of the faculty, parents, and members of the class of 2003: 
+
+Let me thank you all for the warm welcome this afternoon. I am pleased to be in the great city of Columbia, in the center of Missouri, and to be a part of this commencement ceremony today. And it's an honor to congratulate each and every one of you and to bring good wishes to the entire class from President George W. Bush. 
+
+I also want to congratulate all the men and women who devote their professional lives to this institution, year in and year out -- the professors and the faculty members of the University of Missouri. And I join the graduates in thanking the people who know you best, who believe in you most, and whose sacrifices made this day possible -- the parents of the class of 2003. {APPLAUSE} 
+
+I know you leave today with indelible memories -- the tests and term papers; the many days in the classrooms and labs; Shakespeare's pizza? {LAUGHTER} -- the comforts of Shurz Hall {LAUGHTER ; APPLAUSE} -- and all those hours circling the campus, looking for a place to park. {LAUGHTER} After these years of hard effort, something tells me you're not all that excited to hear another lecture before you leave, so we'll keep this short. 
+
+You're graduating from one of America's great universities. At its founding in 1839, this was the only public institution of higher learning west of the Mississippi River. From those early days to this hour, alumni and scholars of the University of Missouri have made vital contributions in commerce and science, in agriculture and in arts, and in the defense of our country. I cannot let the occasion pass today without noting that 28 Mizzou students serving in the National Guard and Reserves were activated this year in support of Operation Iraqi Freedom. {APPLAUSE} They can always be proud of their role in a great victory for America, for the civilized world, and for the cause of freedom. 
+
+Many of this university's most accomplished alumni hold degrees from the College of Agriculture, Food, and Natural Resources. As a Westerner, having grown up with a father who spent his entire career with the Soil Conservation Service, I have a great respect for an institution that takes seriously the responsibilities of environmental stewardship. Many of you will go into fields that involve those responsibilities very directly. Fellow citizens will look to you to set a standard for how we should treat the land and life around us. Armed with the skills and values taught here, I am confident that you will keep that standard high. And I know that with your energy and idealism and talent, your generation will do great things for America and help change this world for the better. 
+
+I know that it's the custom for graduation speakers to draw from their long experience and share some of the lessons they've learned along the way. So as you begin this new chapter in life, let me offer a few thoughts of my own. There is one very practical lesson that comes immediately to mind. I learned it in the year 2000, when President Bush called to ask if I would help him find a running mate for Vice President. The lesson is: If you're ever asked to head up an important search committee, say yes. {LAUGHTER} 
+
+That decision three years ago set me on a path I was not expecting to take. I was certain that my time in public office had passed. And looking back, this seems to be a pattern in my life -- the unexpected turns, the opportunities that come suddenly and change one's plans overnight. 
+
+On the day of my own graduation from the University of Wyoming, I had no ambitions for public office. If you'd asked me then what I planned on doing, I could have described in some detail the next 10 years. First there would have been graduate school, then a doctorate, and down the road, with some luck, a faculty position at a university. In the short version, it all worked out very differently. Within a few years, my wife, Lynne, and I were living in Washington, D.C., beginning a journey in government and public life that neither of us had ever imagined. 
+
+Many of you will leave Columbia today with definite plans of your own. And setting a plan for your life can be a good thing -- it keeps you focused on the future and gives you a standard against which to measure your progress. Yet I'll wager that 10 years from now, many of you will find yourselves following a quite different course, all because of an opportunity that came out of the blue. 
+
+Be on watch for those certain moments, and certain people, that come along and point you in a new direction. Sometimes others know better than we do just what our gifts are and how we can best use them. For all the plans we make in life, sometimes life has other plans for us. 
+
+Those of us who've been around a while can also recall a few times when life took an unexpected turn, not always in a positive direction. As I mentioned a moment ago, I received my undergraduate degree from the University of Wyoming. My undergraduate experience, though, began at a place called Yale -- but I didn't finish. I dropped out after a few semesters. Well, actually, dropped out isn't quite accurate. {LAUGHTER} Asked to leave would be more like it -- {LAUGHTER} -- twice. {LAUGHTER} The second time around, they said, don't come back. {LAUGHTER} 
+
+You, too, may face some disappointing turns of your own -- times when you fall short, knowing you could have done better. And when that happens, don't let your doubts get the best of you. I have met some very successful people in my day -- men and women of talent and character who have risen to the tops of their fields. And it's the rare one who hasn't had a taste of failure, or a false start along the way. Setbacks in life can stop you dead in your tracks, or they can inspire you forward. Either way, you will look back on them as turning points. They are crucial days in your life, when you see the starkest kind of choice, and know that it belongs to you alone. 
+
+One of the things I love most about our country is that we have such opportunities. There are places in the world where failure is final, and one early misstep will decide your fate forever. But America is still the country of the second chance. Most of us end up needing one. And when we've gone on to accomplish something, that we can be far more grateful -- be that much more grateful for the chance. 
+
+Gratitude, in general, is a good habit. It is usually a correct appraisal of our situation. Most of us are able to succeed and rise in the world because someone helped out along the way -- whether it was a memorable teacher, or a boss who handed us a great opportunity, or the person who took a chance and gave us the first big break in our career. A grateful heart is an honest understanding of all that we have been given, and all that is expected of us in return. 
+
+There is always the temptation to forget this -- to carry ourselves with an air of entitlement, as if good things come to us by right. They rarely do. And life has a way of working out better when we don't take things for granted -- when we have a long memory for what others have given us, when we look for the blessings, great and small, that come with every day that we're alive on this earth. 
+
+For all of you, this day will forever stand out -- as a marker of gifts well used, aspirations fulfilled, and hard work rewarded. It's been my privilege to share it with you and your families. And once again, my congratulations to you all. Good luck and Godspeed to the University of Missouri Class of 2003. Thank you. {APPLAUSE} 
+
+{/speech} 

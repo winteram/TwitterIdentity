@@ -1,0 +1,86 @@
+﻿{title} Remarks by the Vice President at the Hispanic Leadership Forum {/title}
+{event} Orlando, Florida {/event}
+{speaker} Dick Cheney {/speaker}
+{date} June 9, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+He's back getting ready for his first central European trip. He's off to a NATO summit next week and doing his responsibility as the President to go and meet with our European friends and allies, and that's how he's going to spend next week.
+
+And this weekend he's cramming for all of those meetings that he's got coming up. But he'll do good work, I'm sure, and he said he trusted me to come to Florida on my own because I was going to be accompanied by Jeb and he knew I couldn't get in too much trouble with anything.
+
+{LAUGHTER}
+
+But we care a great deal, obviously, about your community. Hispanic Americans have become an increasingly important part of the country. We see it every day not only in neighborhoods across Florida but all across America.
+
+The President and I believe very deeply in the ideas and the principles that everybody in the nation deserves a chance to work and succeed and to rise in our world, and we're doing everything we can in this administration to make certain that those opportunities are there for virtually everybody in our society.
+
+Two days ago I had the privilege to sit on the stage and watch as President Bush signed the first really significant piece of tax legislation, tax reduction, in a generation.
+
+It's only the third time since the end of World War II that we've had across the board tax relief. The first time was John F. Kennedy in the early '60s. The second time was Ronald Reagan in 1981, and the third time now under George W. Bush in 2001.
+
+It's the biggest tax relief in over 20 years. It provides a tax break for everybody who pays taxes, which was unique. Oftentimes in the past we haven't done that.
+
+It's important, too, I think, for people to remember how we got to that point. When the President started during the course of the campaign two years ago recommending a significant package of tax reform, a lot of the experts said, "Bad idea. The American people aren't really interested in it. It doesn't show up in the polls as a significant issue."
+
+As he went through the campaign, he got a lot of advice to drop off of it. He refused to do that. We went through the very close election and the long recount and again advice saying, "Well, you won but obviously you're going to have to give up your basic fundamental principles with respect to tax reform."
+
+He said, "Absolutely not. The first thing I'm going to do is submit a piece of tax legislation to Congress." He's done it now. And in less than five months, less time than it took Ronald Reagan to pass his 20 years ago, he's signed the most significant tax cut in a generation.
+
+It does a lot of things. It raises the child credit across the board. It cuts rates across the board, not only in the bottom end but also at the top end of the scale. It will significantly reduce the tax burden so that it will provide incentives to people to work harder and save more and invest more.
+
+It will provide more opportunities for everybody as well, too. It is a very significant piece of tax reform legislation.
+
+Among other things, it gets rid of the death tax so that small businesses, farms and ranches will be able to pass on to the next generation those things that you've worked for all your life to build and create without having Uncle Sam come in and take 55 percent of it in taxes the second time around.
+
+There are a lot of other problems to work on, though. Our next major priority and one of the top priorities during the course of the campaign was education.
+
+When I return to Washington next week, it will be to preside over the Senate and hopefully have the opportunity to cast a tie-breaking vote, should that be necessary. You may not be aware that that's my only duty.
+
+{LAUGHTER}
+
+When they wrote the Constitution and they decided they needed a vice president, they couldn't think of anything for him to do, so they made him the president of the Senate. And then they gave me the right to cast a tie-breaking vote, which I've done twice so far this year.
+
+The first vice president, John Adams, also had floor privileges. He was allowed to make speeches on the floor, and then he did one day and they withdrew the floor privileges.
+
+{LAUGHTER}
+
+I'm not allowed to speak, but I do get to vote. But when we go back, the Senate will be engaged hot and heavy in the debate over education. We've already got the education bill passed through the House of Representatives. It's the most significant education reform package in 35 years.
+
+It should be completed in the Senate within the next week or two and then will go to conference between the House and Senate and pass that as well, too.
+
+In many respects it parallels what Jeb and you have done here in Florida in terms of emphasizing accountability, testing, flexibility and local control, setting high standards.
+
+We think it's absolutely essential to get on with the business of education reform. There's probably no more important subject in America.
+
+We're going to make certain that everybody in our society has the opportunity to take advantage of the enormous opportunities that exist and to make certain that no child is ever left behind.
+
+So education is front and center, and that will be the next major piece of legislation completed. And with luck, I think we'll have it all wrapped up by the Fourth of July.
+
+The President and I also spent some time on immigration. We know that's an important subject to a great many people. The President believes that immigration is not a problem to be solved, but rather the sign of a successful nation.
+
+The fact that so many people want to come to live and prosper in America is a mark of its success and the hallmark of our history for the last 200 years.
+
+We strongly support extending Section 245, allowing people to file for legal residency without first having to return to their country of origin. We think this will spare many families the hardship that goes along with separations.
+
+The President also has proposed a strong reorganization of the Immigration and Naturalization Service, setting up a six month standard for processing applications for immigration, and also separating the INS into two separate agencies, one for enforcement but the other to provide service organization for immigrants who need help.
+
+{APPLAUSE}
+
+President Reagan had a fascinating saying that I was always struck by. He said, "You know, you can go to France but you won't become French. You can go to China but you won't be Chinese. But you can come to America and be an American."
+
+{APPLAUSE}
+
+To succeed in America what counts is not your background or your heritage or your family status or even where you came from. What counts is your willingness to work hard, to save and invest, to persevere.
+
+We are very fortunate to live in a land of such great hope and so many opportunities. All of us need to work hard every day and remind ourselves that we have an obligation to future generations to preserve the American dream.
+
+Americans of tomorrow, whether they're born here or whether they arrive from another land, have the same right to take care of that opportunity as we look to future generations.
+
+We believe in the promise of America. We believe in the possibilities of every single American. Thank you very much for having us.
+
+{APPLAUSE} 
+
+{/speech}

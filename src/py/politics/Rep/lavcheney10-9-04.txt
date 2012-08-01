@@ -1,0 +1,32 @@
+﻿{title} Vice President and Mrs. Cheney's Remarks and Q&A at a Town Hall Meeting {/title}
+{event} Town Hall Meeting  {/event}
+{speaker} Lynne Anne Vincent Cheney {/speaker}
+{date} September 10, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{AUDIENCE} Four more years! Four more years! Four more years!
+{/AUDIENCE} 
+
+Wow.
+
+{OTHER-SPEAK} Thank you. Thank you all very much.
+{/OTHER-SPEAK} 
+
+Dick, this is a really special crowd. But I tell you, I'm just touched in my heart by that introduction from Bart Starr. What a wonderful man he is. {APPLAUSE}
+
+And we have had a great day in Wisconsin. I'm telling you it is the most beautiful day. You've got the most beautiful state, and we have just enjoyed traveling around. We've got a bus outside. And it has been terrific. So far I've eaten bratwurst and custard. {LAUGHTER ; APPLAUSE} 
+
+Well, I get to introduce Dick. And I have this job because I have known him for such a long time, and they think I'm an expert. I guess I am. {LAUGHTER}
+
+{OTHER-SPEAK} If you aren't, I don't know who is. {/OTHER-SPEAK} {LAUGHTER}
+
+No, that's true. I have known him since he was 14 years old. And when I first knew him, he was working at the Ben Franklin store in Casper, Wyoming. And his job was sweeping out the store. It gave him some executive experience, right? {LAUGHTER} But I like to tell about all the jobs that Dick has had since I've known him. He used to dig ditches at the Central Wyoming Fair and Rodeo Grounds outside our hometown in Casper. He used to load bentonite, 100-pound bags of bentonite onto railroad cars. That was one of his jobs. He built power line across the West. That was the job he used to pay his way through school. And I like to tell all those stories because I think when you grow up working hard, you learn some really significant lessons. And one of those lessons is how important it is for the hard working men and women of this country to get to keep as much of their paychecks as possible. {APPLAUSE}
+
+Well, we've had a wonderful time campaigning. It can be hard at times. It's a lot of travel, but this is the most beautiful country. This is such a great country, and we have so much to be proud of as Americans. {APPLAUSE} And if I were going to make a list of all of the things we have to be proud of, right at the top, I would put our President, George W. Bush. {APPLAUSE} He has been a magnificent leader over these past four years. And if you'll permit me to say so, the Vice President is no slouch either. {APPLAUSE}
+
+So it gives me great pride to introduce to you to my husband, Dick Cheney, the Vice President of the United States. {APPLAUSE} 
+
+{/speech}

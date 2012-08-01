@@ -1,0 +1,37 @@
+﻿{title} President Bush Honors Veterans at Arlington National Cemetery {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} November 11, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech}
+
+Thank you for that warm welcome. Laura and I are honored to be here today. Mr. Secretary, thank you for your kind introduction, and thank you for your strong leadership in making sure our veterans have got the very best care possible. Secretary Principi has done a fantastic job for the American veteran. {APPLAUSE} 
+
+I thank the members of my Cabinet who have joined us today. I appreciate the Chiefs of Staff and other members of the United States military who have joined us. I want to thank all the veterans who are here today. I want to thank the representatives of veterans organizations. And I want to thank my fellow Americans. 
+
+Veterans Day is set aside to remember every man and woman who has taken up arms to defend our country. We honor every soldier, sailor, airman, Marine and Coastguardsman who gave some of the best years of their lives to the service of the United States and stood ready to give life, itself, on our behalf. Twenty-five million military veterans walk among us, and on this day, our nation thanks them all. {APPLAUSE} 
+
+These are the hidden heroes of a peaceful nation: our colleagues and friends, neighbors and family members who answered the call and returned to live in the land they defended. 
+
+Our veterans are drawn from several generations and many backgrounds. They're Americans who remember the swift conflict of the Persian Gulf War; and a long Cold War vigil; the heat of Vietnam and the bitter cold of Korea. They are veterans in their 80s, who served under MacArthur and Eisenhower and saved the liberty of the world. And still with us in the year 2004 are a few dozen Americans who fought the Kaiser's army and celebrated the end of the Great War on this day in 1918. {APPLAUSE} The last doughboys are all more than 100 years old. Our nation will always be proud of their service. 
+
+Some of our veterans are young men and women with recent memories of battle in mountains and in deserts. In Afghanistan, these brave Americans helped sweep away a vicious tyranny allied with terror and prepared the way for a free people to elect its own leaders. In Iraq, our men and women fought a ruthless enemy of America, setting the people free from a tyrant who now sits in a prison cell. {APPLAUSE} 
+
+All who have served in this cause are liberators in the best tradition of America. Their actions have made our nation safer in a world full of new dangers. Their actions have also upheld the ideals of America's founding, which defines us still. Our nation values freedom -- not just for ourselves, but for all. And because Americans are willing to serve and sacrifice for this cause, our nation remains the greatest force for good among all the nations on the Earth. {APPLAUSE} 
+
+Some of tomorrow's veterans are in combat in Iraq at this hour. They have a clear mission: to defeat the terrorists and aid the rise of a free government that can defend itself. They are performing that mission with skill and with honor. They are making us proud. They are winning. {APPLAUSE} 
+
+Our men and women in the military have superb training and the best equipment and able commanders. And they have another great advantage -- they have the example of American veterans who came before. From the very day George Washington took command, the uniform of the United States has always stood for courage and decency and shining hope in a world of darkness. And all who have worn that uniform have won the thanks of the American people. 
+
+Today, we're thinking of our fellow Americans last seen on duty, whose fate is still undetermined. We will not rest until we have made the fullest possible accounting for every life. {APPLAUSE} 
+
+Today we also recall the men and women who did not live to be called "veterans," many of whom rest in these hills. Our veterans remember the faces and voices of fallen comrades. The families of the lost carry a burden of grief that time will lighten, but never lift. Our whole nation honors every patriot who placed duty and country before their own lives. They gave us every day that we live in freedom. The security of America depends on our active leadership in the world to oppose emerging threats and to spread freedom that leads to the peace we all want. And our leadership ultimately depends on the commitment and character of the Armed Forces. 
+
+America has needed these qualities in every generation, and every generation has stepped forward to provide them. What veterans have given our country is beyond our power to fully repay, yet, today we recognize our debt to their honor. And on this national holiday, our hearts are filled with respect and gratitude for the veterans of the United States of America. {APPLAUSE} 
+
+May God bless our veterans and their families, and may God continue to bless our great nation. Thank you. {APPLAUSE} 
+
+{/speech} 

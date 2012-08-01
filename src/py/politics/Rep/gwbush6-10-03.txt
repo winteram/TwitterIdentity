@@ -1,0 +1,28 @@
+﻿{title} President Bush Welcomes President Kibaki of Kenya to White House {/title}
+{event} Remarks by President Bush and President Kibaki of the Republic of Kenya at State Arrival Ceremony, The South Grounds  {/event}
+{speaker} George W. Bush {/speaker}
+{date} October 6, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, Madam First Lady, members of the Kenyan delegation -- {APPLAUSE} -- on behalf of the American people, Laura and I are pleased to welcome you to the United States. {APPLAUSE} This is the first state visit by the leader of an African country during my administration -- {APPLAUSE} -- and the first visit of President Kibaki since his historic election last year. {APPLAUSE}
+
+Under President Kibaki's leadership, Kenya is pursuing important reforms, and making the difficult and necessary and rewarding transition to permanent, multiparty democracy. Mr. President, your courage serves the Kenyan people well, and you honor the American people with your visit. {APPLAUSE}
+
+Kenya is a nation of rich traditions and ancient history. The Great Rift Valley, which runs through Eastern Kenya from Lake Rudolf to Lake Victoria, is known as the "cradle of civilization." The story of Kenya is inseparable from the story of mankind. And out of this proud past, Kenya is building a modern, prosperous and peaceful future. In building that future, Kenya will have a partner in the United States. {APPLAUSE}
+
+Our countries face common challenges and we meet them with shared values. Both our nations are threatened by terrorists and both have suffered. In one savage act five years ago in Nairobi, members of the al Qaeda network murdered more than 200 Kenyans and Americans. Our countries grieved together then, and after September the 11th, and after the attack last November in Mombasa.
+
+Yet we have done more than grieve. We are working together to defeat the terrorists, to cut off their funding, to deny them sanctuary, and to bring them to justice. There can be no compromise with this evil, and the government of Kenya is a vital ally in the ongoing war against terror. {APPLAUSE}
+
+We're also working together to create a better world, to end long-simmering conflicts, and to alleviate the suffering caused by poverty and hunger and disease. Our goal is to end the hopelessness that feeds terror, and to help spread the blessings of liberty that are the birthright of every man, woman, and child on this Earth.
+
+The partnership between our nations is sustained by the friendship between our people. Some 7,000 Americans live in Kenya. Thousands of our citizens love to travel to Kenya. One of the Peace Corps' largest programs is in Kenya, helping to encourage private enterprise, to fight AIDS, and to improve the nation's schools.
+
+Every year, thousands of Kenyans come to study at American universities, more than from any other African country, including two of the President's children. {APPLAUSE} And the United States is enriched by the many Americans who trace their ancestry to Kenya, many of whom live right here in Washington. Kenya and the United States have been friends since the days of Jomo Kenyatta and John F. Kennedy.
+
+Mr. President, I'm proud to join you in carrying our friendship forward in this new century. Welcome to the White House, and welcome to the United States of America. {APPLAUSE} 
+
+{/speech}

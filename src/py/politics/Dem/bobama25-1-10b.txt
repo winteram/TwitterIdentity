@@ -1,0 +1,46 @@
+﻿{title} Remarks by The President Welcoming the NBA Champion Los Angeles Lakers to the White House {/title}
+{event} Welcoming the NBA Champion Los Angeles Lakers to the White House {/event}
+{speaker} Barack Obama {/speaker}
+{date} January 25, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, hello! How are you? Thank you, everybody. Thank you very much. {APPLAUSE} Thank you so much, everybody. Please have a seat. Welcome to the White House. And congratulations, a little belatedly, to the Los Angeles Lakers for winning your 15th -- 15th -- NBA title, and fourth in the past 10 years.
+
+Before I say a few things about the Lakers, I just want to acknowledge some wonderful members of Congress and big Lakers fans who are here: Congresswoman Jane Harman, Congresswoman Laura Richardson, Congressman Adam Schiff, Congressman Brad Sherman, and Lucille Roybal-Allard. Please, everybody, give them a big round of applause. {APPLAUSE}
+
+Now, as folks here will tell you, the only thing that is better than playing basketball -- the only thing that's better than watching basketball is playing basketball -– but I'm 48, and soon to be 49, and it's a little harder these days to move around on the court, especially when you're playing against kids who are half your age. But I still get enormous, enormous pleasure from watching great athletes on the court. And nobody exemplifies excellence in basketball better than the Los Angeles Lakers last year. {APPLAUSE}
+
+I want to congratulate everybody who helped make this team what it is -– from the assistants to the front office staff, to the trainers and the ticket-takers, all the fans back in L.A. who bleed purple and gold. You all should be very proud. That's you. {LAUGHTER}
+
+I want to congratulate Jeanie Buss and the rest of the Buss family for guiding this team so well for the last 30 years. {APPLAUSE}
+
+I'm especially excited to meet Coach Phil Jackson, the Zen Master. {LAUGHTER} I've been a fan of Coach Jackson's ever since his days running the triangle offense in Chicago. I want to congratulate him on his tenth NBA championship –- the most in history. I do want to point out that six of them came with the Bulls. {LAUGHTER} I just want to point that out.
+
+You remember that, Magic?
+
+{OTHER-SPEAK} Yes, sir. {/OTHER-SPEAK} {LAUGHTER}
+
+-- '90-'91? Remember when -- {APPLAUSE} You know, they won the first game and they were feeling cocky. {LAUGHTER} And Paxson was hitting all those shots. Anyway, we're not -- that's not why we're here. {LAUGHTER}
+
+I was hoping that, Coach, you were going to bring some books for Republicans and Democrats in Congress maybe to get them to start playing like a team together. {LAUGHTER} Coach is famous for passing out books and helping people get the job done.
+
+We are obviously honored to have one of the all-time greats in NBA history, Magic Johnson. {APPLAUSE} Magic did pretty well during his time with the Lakers. He wasn't bad. {LAUGHTER} And now a new generation is continuing his legacy. But obviously part of what makes Magic special wasn't just how he played on the court, but also just the infectious enthusiasm about life and what he's now doing with businesses and minority communities. He's just been an outstanding leader in our country for a long time.
+
+Of course, I've got to recognize Kobe Bryant -– one of the most competitive players I've ever seen -- {APPLAUSE} -- for being named Finals MVP last year, obviously already MVPs under his belt, the youngest player ever to reach 25,000 points in his career. And he's playing with a broken finger. Now, if I was -- if I had a broken finger I would have trouble getting out of bed. {LAUGHTER} And he's still leading the team day in and day out.
+
+This is a team that never lost its focus last season -– from the first tip-off to the final buzzer. I know that the Lakers have a tradition of ending each team gathering -– whether it's a practice, or a game, or a team meeting -– by with the chant, "1,2,3, Rings." As Lamar Odom said, "We kind of always saw that light." Everyone was willing to do what it took to get a little stronger, to play a little harder, and to bring home that title.
+
+But I think it's important to note that this team also knows that being a champ is about more than trophies and rings. It's about being a winner off the court as well as on it –- and giving back to those who are less fortunate. The Lakers and the NBA have always been about serving others –- at home and around the world. And that tradition continued last week, when the NBA and the Players Association, led by Derek Fisher, pledged to donate $1 million to support relief efforts in Haiti. {APPLAUSE} Jordan Farmar and Pau Gasol are also donating their money to the Clinton-Bush Haiti Fund. Pau pledged $1,000 for every point he scored against the Knicks -- and I'm glad he dropped 20 –- {LAUGHTER} -- helping the Lakers to beat New York and changing the lives of Haitians thousands of miles away.
+
+And earlier today, the team joined with our United We Serve initiative to hold a fitness clinic for kids from Stanton Elementary School right here in Washington, D.C. -– teaching them about a few moves, but also how to live healthy and active lives.
+
+So I just want to again thank the entire Lakers organization for your service, for the great joy that you have given the city of Los Angeles, but also the incredible competition you're your organization has graced the basketball court with for decades now. If this season is anything like the last one -- I know that you guys have your sights on the NBA finals -- so we might see you here before long. But we are very grateful for your presence here today.
+
+Give them a big round of applause. {APPLAUSE}
+
+Now, one last thing. I was also told that Mr. Brown here intends to win the dunk contest -- {LAUGHTER} -- so we'll see how that goes. 
+
+{/speech}

@@ -1,0 +1,26 @@
+﻿{title} Remarks by the Vice President at the Dedication Ceremony for the National Air and Space Museum {/title}
+{event} Dedication Ceremony for the National Air and Space Museum, Steven F. Udvar-Hazy Center, Chantilly, Virginia {/event}
+{speaker} Dick Cheney {/speaker}
+{date} December 11, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. {APPLAUSE} Mr. Chief Justice, thank you very much. General Dailey, Secretary Small, Secretary Burke, ladies and gentlemen. It's obviously a very special privilege to be here today to represent the President and the nation as we dedicate America's newest museum. And I'm honored to be among the first of the many millions who will follow.
+
+The center is a monument to the great achievements in flight and to the greater even possibilities that still lie ahead of us. I've been looking forward to coming here for a tour, and I'm extremely impressed by what I saw this morning. The American people rightly associate the Smithsonian Institution with high standards of historic preservation and superb presentation. Those standards are apparent throughout the nearly 300,000 square feet of this structure.
+
+As a regent of the Smithsonian, I congratulate everyone who worked so hard to bring this extraordinary project to completion. I also want to thank Senator John Warner and Congressman Frank Wolf for their outstanding efforts. They, along with the other members of the Virginia delegation mentioned here this morning, devoted a great deal of time and effort to working to ensure congressional approval of this extension of our National Air and Space Museum. I'm pleased, as well, to recognize many private donors to this center, first among them, a man for whom it's named, Steven Udvar-Hazy. I want to thank you and your family for your tremendous generosity.
+
+The facility we dedicate today is longer end-to-end than the entire first flight of the Wright Brothers. And the displays on view here capture one of the greatest stories in human experience. When we look at those early biplanes, or the SR-71 Blackbird, or the first Space Shuttle, we see the workings of technological progress. Yet we see much, much more in this collection. All of these inventions give testimony to the imagination, the resourcefulness and the daring of the men and women who made them and who flew them.
+
+In a span of 66 years, just one lifetime, mankind went from Kitty Hawk to the moon. Each step pushed the limits of human knowledge and tested the limits of human courage. Many were massive enterprises -- and behind the familiar names, many countless others.
+
+Buzz Aldrin has said that Apollo 11 succeeded by luck and timing and the labor of 100,000 colleagues. The overriding impression a visitor takes away from this place is one of admiration. A lot of people have committed their careers and some have given their lives to advance the dream of flight. And today we think of those men and women with a deep respect and gratitude.
+
+It is not by chance that so much of this history played out in the United States of America. At our best, Americans are a confident and a resolute people. When we set our minds to great objectives, we see the work through. The Air and Space Museum, both here and on the mall in Washington shows what can be accomplished with confidence, perseverance and unity of purpose. As the descendants of pioneers and immigrants, Americans are explorers by nature. And our native ingenuity and sense of adventure have been put to good purposes. Our air and space programs have been critical to the widespread prosperity of a continental nation. They've helped us explore space, not just for ourselves, but for the good of all nations. And in times of dangers, as in the war we're facing today, our mastery of aerospace technology has been essential to the success of our military and to the security of the American people.
+
+All Americans can take pride in 100 years of historic achievement in air and space. And there is no doubt of this nation's capacity and will to meet future challenges with the energy, the confidence, and the daring that have brought us this far. Thank you. 
+
+{/speech}

@@ -1,0 +1,22 @@
+﻿{title} Remarks by the President, the Vice President, Mrs. Clinton And Mrs. Gore,And Billy Payne, President And Ceo for the Atlanta Committee for the Olympic Games at Ceremony for the Departure of the Olympic Torch {/title}
+{event} Departure of Olympic Torch {/event}
+{speaker} Al Gore {/speaker}
+{date} June 21, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Billy, and thanks to all of the citizens of Atlanta and Georgia, and all Americans who have made it possible for our nation to host these Games. No matter where it travels in the world, the Olympic Torch is a powerful symbol of unity, hard work, and the burning desire for excellence.
+
+This year, its final destination is Atlanta, and it has been making a remarkable journey to the Centennial Olympic Games. It was carried on a cable car through the hills of San Francisco, and in a jazz parade across the streets of New Orleans. It climbed the Rocky Mountains, drifted down the Mississippi River and circled Ellis Island in the shadow of the Statue of Liberty. It has traveled in railroad cars and with the Pony Express. It visited Memphis in May for the Sunset Symphony.
+
+By the time it reaches Atlanta, it will have passed within two hours of the residences of 90 percent of our nation's population.
+
+As Chair of President Clinton's White House Task Force on the Olympic and Paralympic Games, I'm intensely proud of all this torch symbolizes, as I am of all the hard work that this task force has done to ensure that these games are the best games ever. I want to thank my partner, Mack McLarty, and all those who have worked under the President's direction to help our nation ensure that these games are a spectacular success for America and for the world.
+
+The Olympic Torch has been shooting out rays of hope and shining a light on everything that makes our country great. Today, the torch continues its journey now up this South Lawn. A community hero from our Nation's Capital, Lang Brown, along with 12 of the young people whose lives he has touched, will light the torch. {APPLAUSE}
+
+{COMMENT="The torch is lit"} {APPLAUSE} 
+
+{/speech}

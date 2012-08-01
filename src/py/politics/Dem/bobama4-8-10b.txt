@@ -1,0 +1,44 @@
+﻿{title} Remarks by the President Honoring the 2010 Presidential Citizens Medal Recipients {/title}
+{event} Honoring the 2010 Presidential Citizens Medal Recipients {/event}
+{speaker} Barack Obama {/speaker}
+{date} August 4, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, everybody. Thank you. Thank you. Please, have a seat. Have a seat.
+
+Thank you very much, Senator Burris, and hello, everybody. Welcome to the White House. I want to start by recognizing the very proud members of Congress who are joining us to help celebrate a few of their outstanding constituents. So thank you all for coming.
+
+We are here to recognize -- and this is one of my favorite events that I do every year -- we're here to recognize winners of the Citizens Medal. This is one of the highest honors a President can bestow. For 40 years, this medal has been given to men and women who have “performed exemplary deeds of service for their country or their fellow citizens.” And their lives stand as shining examples of what it means to be an American.
+
+Today, we've got an opportunity to tell their stories, to say thank you, and to offer them a small token of our appreciation.
+
+Now, at first glance, the honorees behind me don't seem to have too much in common, although I did point out that the guys are outnumbered. {LAUGHTER} Which tells you something about who really gets stuff done in the neighborhoods. {LAUGHTER} But they are mothers and fathers; nurses and bus drivers; veterans and immigrants. They come from different backgrounds and they hail from every corner of our country.
+
+But what unites these citizens, what makes them special, is the determination they share -- to right a wrong; to see a need and then meet it; to recognize when others are suffering and take it upon themselves to make a difference.
+
+When they saw a veteran in need of proper care, or a teenage mom who could use a helping hand, they didn't just shake their heads and keep on walking. They didn't write it off as another example of life not being fair. Instead, they saw it as a problem to solve, a challenge to meet, a call to action that they could not ignore.
+
+So, just to give a few examples here. When Jorge Muñoz saw homeless men gathered on a street corner with nothing to eat, he could have rolled up his window and driven away. Instead he came home from his job as a school bus driver and started cooking hot meals for anyone who was hungry. These days, the “Angel of Queens” feeds over 100 people every night, rain or shine. And Jorge says, ”You have to see their smile. That's what I get paid.”
+
+Or, Susan Retik's husband was killed when his plane was flown into the World Trade Center on September 11th. And nobody would have blamed Susan if she had turned inward with grief or with anger. But that isn't who she is. So instead, she and another widow started “Beyond the 11th,” and this is a group that empowers Afghan widows affected by war and terrorism. And Susan says, “These women are not our enemy.”
+
+So for Jorge and Susan and the rest of today's honorees, the words “not my problem” don't exist. Instead, they ask themselves, “If I don't help this person, who will?” They recognize that no matter how difficult their lives may be, no matter how daunting their own challenges may seem, someone else will always have it harder than they do. There will always be a more important cause to fight for.
+
+For these men and women, serving others isn't just the right thing to do -- it's the obvious thing to do. They may not be rich or powerful in the traditional sense. But they believe that those of us with a roof over our heads, with loved ones to go home to, with food in our stomachs and strength in our limbs, have been blessed. And in return, it's our duty to use those gifts to reach out to those who aren't so lucky.
+
+And this humility and this selflessness has always been a part of the American story. From the patriots who have worn our nation's uniform to everyday Americans who have marched and fought and raised their voices to help perfect our union, it's no coincidence that our founding document begins with the words “We the People.” Ours is a nation founded on the power and freedom of individuals, but also on the belief that I am my brother's keeper and I am my sister's keeper -- and that only if we look out for one another can we all move forward together.
+
+As Lisa Nigro, another one of today's honorees, said, “Once you find a common bond in your humanity, you start to see the less fortunate as people -- not ‘them' or ‘those' people. They are you and me.”
+
+That was the idea behind the Edward M. Kennedy Serve America Act -- a landmark piece of legislation that I signed into law last year. And together with the work of the Corporation of National and Community Service, as well as the Office of Social Innovation, it's giving more Americans the opportunity to serve others and help address our greatest challenges. And I want to thank Patrick Corvington and Melody Barnes for their leadership. Because we know that real change does not come from Washington -- it comes from the grassroots; from men and women in communities all across the country working together to make a difference.
+
+In the end, that's what service is all about. It's not about the recognition or the awards -- and it's obviously not about the money. {LAUGHTER} To quote George Weiss, who's being honored here today, “We don't do it for the notoriety. We do it because we felt it has to be done.”
+
+And that's why it is my hope that if this award serves a purpose, it will be to inspire more Americans to open their hearts, to strengthen their communities, and to follow the example of these amazing men and women who are here today.
+
+So congratulations to all of the winners of the Citizens Medal. {APPLAUSE} I've got some military aides here, and one of them is going to read the citations. And I am going to get the medals to present to each of our honorees. With that, let's get started. 
+
+{/speech}

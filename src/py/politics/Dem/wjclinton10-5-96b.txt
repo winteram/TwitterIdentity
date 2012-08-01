@@ -1,0 +1,32 @@
+﻿{title} Remarks by the President at Presentation of the Commander-in-chiefTrophy to the United States Air Force Academy Football Team {/title}
+{event} Presentation of the Commander-in-chief Trophy to the United States Air Force Academy Football Team {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 10, 1996 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning, Secretary Widnall, to our distinguished military leaders: General Shalikashvili, General Moorman, General Stein, other distinguished military leaders here. Members of the Board of Visitors of the Air Force Academy, Coach DeBerry and the seniors from the Falcons Football Team. We gather together for another happy occasion; but for the United States and especially for members of our military family, this is a sad day. For, early this morning, two Marine helicopters crashed at a massive training exercise at Camp Lejeune in North Carolina.
+
+At this time, we know that 16 service members were killed and two others very seriously injured. Our hearts go out to the families, the friends and the loved ones of those who lost their lives. Our prayers are with those who were injured for a speedy recovery.
+
+Day in and day out, our servicemen and women put themselves on the line so that our country can remain free and secure. We ask so much of them -- to travel far from home, to be apart from their loved ones, to do difficult and often dangerous work. One of the things I confess I did not fully appreciate until I became President was how dangerous the day-in and day-out, year-in and year-out work of our military -- just training, just doing the defense of our country is, and our citizens should know that.
+
+The seniors here behind me will soon become the guardians of our liberty, just like those fine people who lost their lives last night. And though you have been very well prepared for the job you will do, you still must assume the risks of defending that liberty. Every American owes every one of you who will become an officer or a member of the United States military a tremendous debt of gratitude.
+
+I'm happy to see all of you here today. I'm beginning to wonder if I can make it interesting. If you ever needed proof that we had a joint planning and operation and we're really building a joint culture in the United States military, we're going to give it today with General Shali congratulating the Air Force for another victory over the Army. {LAUGHTER}
+
+The friendly but fierce inter-service rivalries should mean that almost anything can happen in competition, but at least lately only one thing happens: The Air Force always wins. This is the seventh year in a row the Falcons have come to the White House to collect this prize. I hope the thrill isn't gone.
+
+I understand this past November you actually lost The Commander-In-Chief's Trophy for a short time when there was a sneak attack masterminded by Army pranksters invading your field house before the game. Well, that didn't work, either. {LAUGHTER} You played a great game this year against Army. I was especially impressed that you came back from a 14-point deficit to win decisively.
+
+I've learned a little something about what it takes to overcome large deficits -- {LAUGHTER} -- and I was mightily impressed. I know there were other outstanding highlights of this year's season -- beating Brigham Young's Cougars for the first time in a dozen tries, being co-champions of the Western Athletic Conference, going to the Copper Bowl. The Falcons had a very good year.
+
+If the way you played is any indication of what is to come, Coach, we expect to see the Air Force back here this time next year. I hope I'll be here to greet you. {LAUGHTER} And I should note that, to the best of my knowledge, unlike me, you are not term-limited.
+
+Finally, let me just say that I was most impressed by something that Coach DeBerry said earlier in the season. He said that through football the players on his team are helped to become better people. That is what we need more of in college athletics and, indeed, in all of our endeavors. It's so important that young people be taught not only to take responsibility for becoming the best they can be in every endeavor, but also doing that in working with a team. That's what makes our military work. That's what makes our country work. And I think sometimes we forget that is the ultimate object of all of our human endeavors. Winning is wonderful, but everybody who does his or her best and who tries to do it with a genuine spirit of cooperation with others is a winner. In that sense, the Air Force will always be a winner. But today, for the seventh year in a row, you are still the possessor of the Commander-in-Chief's trophy.
+
+Coach DeBerry. Let's give him a hand. {APPLAUSE} 
+
+{/speech}

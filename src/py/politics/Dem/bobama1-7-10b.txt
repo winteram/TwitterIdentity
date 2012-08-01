@@ -1,0 +1,50 @@
+﻿{title} Remarks by the President Honoring the Women's Professional Soccer Champion Sky Blue {/title}
+{event} Honoring the Women's Professional Soccer Champion Sky Blue {/event}
+{speaker} Barack Obama {/speaker}
+{date} July 1, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. What's going on, guys? Thank you, thank you, everybody. Everybody have a seat. Well, hello. Welcome to the White House. Congratulations to Sky Blue on winning your first Women's Professional Soccer Championship. Congratulations. Give them a big round of applause. {APPLAUSE}
+
+I want to recognize the Mayor of Piscataway, Brian Wahler, who is with us here today. Where's Brian? Hey, he's got the video camera going on. {APPLAUSE}
+
+I want to thank the six players who took part in the WPS All-Star game yesterday and rearranged their travel plans so they could be in Washington here today. We're glad you could make it. Thank you. {APPLAUSE}
+
+This is a pretty exciting time for soccer in America. We've all been glued to our TVs over the last couple of weeks as the men's team made their run at the World Cup. I know my staff, by the way, was watching when the U.S. beat Algeria, because I could hear them whooping it up as I was having important meetings in the Oval Office. {LAUGHTER} Malia's team did very well this summer, which I think is also important to know. {LAUGHTER}
+
+And today, it's an honor to welcome the first-ever champions of the Women's Professional Soccer league to the White House.
+
+Now, I know there were some bumps in the road for this team last season. They dealt with multiple coaching changes. They squeaked into the playoffs at the last minute. And then they had to play three games on the road in eight days to win it all.
+
+But this team came together when it counted. No matter what obstacles they faced, no matter what disappointments and distractions they had to deal with, they had each other's backs, and they stayed focused on their ultimate goal. That's what teams do. They work hard. This team loves being an underdog, and in the end, that made all the difference.
+
+I know she's probably sick of hearing that story, but I have to single out your captain, Christie Rampone. Where's Christie? {APPLAUSE} This is very impressive. This impresses me. After Sky Blue won the championship last season, Christie's teammates tried to get her to take a celebratory drink with them in the locker room and she had to turn it down because she was almost three months pregnant. That's really impressive. {LAUGHTER}
+
+Christie didn't want it to be a distraction, and so she had been waiting until the season was over to tell her teammates. After all, she said, “We can't have the trophy taken away for having 11 1/2 women on the field.” {LAUGHTER} Is it going to be a girl? Do we know? Okay, well, there you go.
+
+Today, Christie is the mother of two beautiful daughters, including -- so Reece already came, she showed up. Where is she? Where is she? Hey, oh, she's precious! {LAUGHTER} Yes. She looks a little hungry, though. {LAUGHTER}
+
+So Reece is going to be four months old next week. And in the meantime, Christie is already back in the lineup helping her teammates chase another title.
+
+Now, even though Christie's story is unique, her dedication is not. The women on this team aren't playing for fame or fortune. They are spending countless hours in the gym and on the practice field because they recognize a rare opportunity to do the thing that they love. They believe in using their God-given talent to inspire the next generation to reach a little higher and work a little harder.
+
+And that sense of responsibility also extends off the pitch. I'm pleased that the WPS is creating a program called Get Active! that will sponsor 3-on-3 soccer tournaments, and help young people learn about the importance of living healthy, active lives. Obviously this is an issue that the First Lady, Michelle, is talking about all across the country, and so I want to thank this league for joining the cause.
+
+Today, nearly 14 million children in America play soccer; 40 percent of them are girls. And as the father of one of them, I want to say a special thanks to this group, and to all the women who came before them, for serving as such outstanding role models. Together, you've changed the way our young women look at themselves, you've expanded the realm of what they believe is possible, and for that, we all owe you a great debt of gratitude.
+
+So congratulations on your championship, and best of luck this season. {APPLAUSE}
+
+All right, I think they're going to pull this out and then we're going to take some pictures -- okay? Oh, but I've got my jersey -- yes, okay. {LAUGHTER} I've got to have my jersey.
+
+{OTHER-SPEAK} We would like to present this to you on behalf of Sky Blue professional soccer. {/OTHER-SPEAK} 
+
+And it is sky blue, by the way. {LAUGHTER} That's very nice.
+
+{OTHER-SPEAK} A perfect color for you. It matches your tie. Looking good. {/OTHER-SPEAK} {LAUGHTER}
+
+I might have to get in the weight room a little bit before I wear this. {LAUGHTER} Thank you very -- come on, and I'll hold it while we're taking our picture. 
+
+{/speech}

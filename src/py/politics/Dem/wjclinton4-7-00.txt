@@ -1,0 +1,60 @@
+﻿{title} Remarks by the President on Board USS John F. Kennedy On Nationhood And Citizenship {/title}
+{event} USS Kennedy {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 4, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President Aboard the USS Kennedy {/description}
+
+{speech} 
+
+Let me say if Seaman Rosa Norales-Nunez gets much more practice she can start running for office in her new country someday. Wasn't she terrific? Let's give her another hand. I thought she was great. {APPLAUSE}
+
+I would like to also welcome the other new citizens who we swore in a few moments ago, and I ask you to give them a hand, too. They come from all over the world. {APPLAUSE}
+
+Hillary and Chelsea and I are honored to be here with all of you -- Secretary and Mrs. Cohen, Attorney General Reno, Secretary Slater, Ambassador and Mrs. Holbrooke, Secretary Danzig; to the members of the Congress who are here. I know that Senator Levin and Senator Dodd and former Senator John Glenn are back there behind me. And I saw Senator Lautenberg out in the audience. And there are a lot of other members of Congress here. I'd like to ask all the members of Congress to stand and be recognized. I saw a half a dozen -- Representative Lowey, Miller -- thank you. {APPLAUSE} Thank you all for being here.
+
+I'd also like to recognize the currently reigning Miss America, Heather French, who has made the welfare of our veterans her great cause this year. Heather, stand up and be recognized. Thank you for being here. {APPLAUSE}
+
+And I would like to recognize also, because President Kennedy started this event, I would like to thank Caroline Kennedy Schlossberg and Ed Schlossberg and their three wonderful children for being here today. And welcome to all of you. {APPLAUSE}
+
+And I would like to thank Chairman Robertson and his wife. You know, he told me when he got up here and opened this, that's the first public speech he had ever made. I think he did a pretty good job, don't you? And besides that, he produced all these ships. So give him a hand. Thank you. {APPLAUSE}
+
+I want to thank all the men and women in uniform who are here, and all of those who have come here from other nations to be a part of the international naval review and Operation Sail. I want to thank Captain Mike Miller, the officers and the crew of the JFK, especially. I know they had to "turn to" to make this day possible.
+
+For all of you who are not familiar with the exploits of the USS John F. Kennedy, let me tell you that from the Atlantic to the Red Sea, to the Mediterranean, to the Arabian Gulf, this great ship has more than met its mission; it has proved truly worthy of its heroic and noble name.
+
+Let me also say today that there is another heroic name we honor today. I am especially pleased to announce that the United States Navy will designate its newest class of ship, the Zumwalt class, in honor of Admiral Elmo Bud Zumwalt. {APPLAUSE} And I would like to ask his wife, Rosa, and his son and other family members to stand today and be recognized. Let's give them a big hand. Thank you. God bless you. {APPLAUSE}
+
+Admiral Zumwalt passed away just two days into this new century. He was my mentor, my friend, and a magnificent role model. He was a friend and a passionate advocate for every sailor in his beloved Navy. His deeply, profoundly moral leadership will shape the character and conscience of our Navy for generations to come. And all America salutes him today. He deserves to have a class of ships named after him.
+
+When he passed away, one of the Naval aides who works for me in the White House, who happens to be a Filipino American, and has been in the United States Navy for 30 years, looked at me with tears in his eyes and he said, "Admiral Zumwalt was our Admiral. He cared about all of us." And today, we honor him in this way.
+
+I just want to say one or two other things about this important day, for the Navy and for all Americans. On this day, which we commemorate because of what happened at Independence Hall with the Declaration of Independence, the greatest hero of our revolution was not in Philadelphia, but instead was here on Manhattan Island, preparing his outnumbered army for battle. Staring out over the very waters where we sit today, General George Washington saw the British warships landing at Staten Island, the vanguard of the largest expeditionary force ever launched by the British Empire.
+
+As the armies eyed each other across this channel, the Declaration of Independence arrived from Philadelphia. George Washington ordered it to be read aloud to the troops. It was at the tip of Manhattan Island, just to our north, where the troops first heard they were actually citizens of a new nation -- where they first heard the words, "we hold these truths to be self-evident" -- and where they first pledged their lives, their fortunes, their sacred honor.
+
+The patriots of 1776 took these colonies and made out of them a country. They took a vision of liberty and made it into the law of this land. To a world that knew rule only by kings and lords, America's creed confounded imagination. In the words of one British loyalist, "If the people be the governors, who shall be the governed?" America's answer was, the governors and the governed must be one and the same.
+
+More than two centuries later, for the first time in all of history, more than half of the people of this globe live under governments of their own choosing. An astonishing long way we have come since this day in 1776. {APPLAUSE}
+
+Just behind me on Ellis Island, the ancestors of more than 100 million United States citizens took their first steps on America's soil. They're the forebears of the immigrants who took the oath of citizenship today. Pulled by the vision of liberty and opportunity, often pushed by forces of intolerance and hopelessness, they came and brought with them their skills, their knowledge, and their hearts.
+
+For more than a century, those who came through this gateway have passed a statue as large as the ideal for which it stands. "She was beautiful with the early morning light," said one young woman fleeing tyranny from Eastern Europe. "The whole boat bent toward her because everybody went out, everybody was in the same spot, and everybody was crying." One Greek immigrant remembers looking up at the Statue of Liberty and asking her, "Please, give me the chance to become someone in America."
+
+Lady Liberty, like those whom she welcomed, was also an immigrant -- a gift from France, a nation which did so much to help to give us birth.
+
+Perhaps more than any other nation in all history, we have drawn our strength and spirit from people from other lands. Bearing different memories, bringing diverse traditions, immigrants have enriched our culture, enhanced our economy, broadened our vision of the world. And that is why, on this 4th of July, standing in the shadow of Lady Liberty, we must resolve never to close the golden door behind us, and always not only to welcome people to our borders, but to welcome people into our hearts.
+
+To go beyond the things which divide us -- race and culture and religion -- to understand that whether our ancestors came here on immigrant ships or slave ships, whether they flew across the Pacific or once walked across the Bering Strait a very long time ago, anyone who accepts the rights and responsibilities of citizenship is our fellow citizen, equal in the eyes of God, entitled to be treated equally and with dignity by all of us. That must be our resolution on this and every Independence Day. {APPLAUSE}
+
+In 1827, 51 years after the Declaration of Independence was signed, the sole surviving signer of the Declaration was Charles Carroll of Maryland. He wrote the following: "I recommend to the future generation the principles of the Declaration as the best earthly inheritance their ancestors could bequeath. All of us are created equal; all are endowed by our Creator with certain inalienable rights; among them, life, liberty and the pursuit of happiness."
+
+You may have noted that last week it was my great honor to announce on behalf of our common endeavors with our British and Japanese and other counterparts, that the first rough map of the human genome has been decoded. We now know that there will be an explosion of scientific discoveries which may give the young children in this audience a life expectancy of 100 years. But one thing we have already learned that proved the wisdom of the Founders is that genetically, without regard to race, we are 99.9 percent the same, and that the genetic differences of individuals within each racial and ethnic group are greater than the genetic differences of one group to another.
+
+It is important that we remember that -- that, after all, the Founding Fathers were pretty smart, and that science has confirmed what they said so long ago. The really difficult thing is to confirm what they said in our everyday lives.
+
+Remember this fine young woman who introduced me today, and resolve to make the creed of our Declaration the reality in all of our lives.
+
+Thank you and God bless you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,38 @@
+﻿{title} Remarks by President Clinton And President Jean Bertrand Aristide in Welcoming Ceremonies {/title}
+{event} Welcoming Ceremony {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 31, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Remarks by President and Aristide in Welcoming Ceremony {/description}
+
+{speech} 
+
+President Aristide, Mr. Secretary General, distinguished guests and citizens of a free and democratic Haiti: Bon jour. {APPLAUSE}
+
+I am deeply honored by President Aristide's invitation to speak with you today. In the many months we have known each other I have learned firsthand of President Aristide's tremendous courage. His strength in the face of great challenge reflects the unbreakable will of the Haitian people. We respect him as the President you elected freely and fairly and for his leadership of all Haitians since his return. {APPLAUSE}
+
+Today, we come together as friends. {APPLAUSE} Today, once again, we give life to the ideals of democracy, justice and freedom. Today, we celebrate the restoration of democracy to your country. {APPLAUSE} Never -- never again must it be stolen away. {APPLAUSE}
+
+For centuries, the Haitian people have known little more than blood and terror. You have been robbed of opportunity and deprived of basic rights. Your children have grown up with too much violence. From Cite Soleil to the smallest village in the farthest corner of you land -- {APPLAUSE} -- you have sacrificed much in your quest for liberty. Now you stand on the brink of a new and more hopeful time. Now you have a chance to make real the dreams of those who liberated your nation nearly 200 years ago. {APPLAUSE}
+
+The tasks ahead will not be easy. Democracy does not flow naturally like the rivers, and prosperity does not spring full grown from the earth. Justice does not bloom overnight. To achieve them, you must work hard, you must have patience, you must move forward together, with tolerance, openness and cooperation. I believe you can do it, for as President Aristide has said, your challenge is great, but your will to succeed is greater. {APPLAUSE}
+
+Your democracy will be maintained and strengthened by free elections, and respect for the rights and obligations enshrined in your constitution. Your government, the United Nations and the United States will do all we can to guarantee free, fair and secure elections, first in June and then in December. {APPLAUSE} We know from experience that when elections are free, fair and secure, you will participate. That is what democracy requires of you, and we know you will do it. {APPLAUSE}
+
+Your nation has been stripped bare of many of its natural resources. But the most important of these resources -- you, the people -- have survived with dignity and hope. As the Proverb says, "lespwa fe viv." {APPLAUSE}
+
+Now you have a chance to come together to make the rice fields come alive and harvest the corn and millet; to build the schools and clinics that promise a better future for your children. We, your neighbors, your allies, and your friends, will support your efforts to create jobs, to attract investment from beyond your borders, and to rebuild and repair your injured land. {APPLAUSE}
+
+In a few months, the program will begin to pave the 1,000 kilometers of your roads. And later this year I will send the American Peace Corps here to help to organize the planting of millions of trees. {APPLAUSE} As the roads are built and the trees are planted, thousands of you will have jobs. {APPLAUSE} As you begin this work, I urge your countrymen and women who fled the terror to return and to help you to rebuild your land and theirs. {APPLAUSE}
+
+Economic progress will demand much patience. But we will stand with you as you tackle the hard and sometimes painful work ahead. "Main anpil chaj pa lou." {APPLAUSE}
+
+There will be times of great frustration as you build your democracy and move toward prosperity. But today, Haiti has more friends than ever before. {APPLAUSE} And so once again, I urge each and every citizen of this nation to come together in this spirit of unity that President Aristide has so eloquently promoted. I can do no better than to repeat his words. Say no to vengeance, no to revenge, yes to reconciliation... {APPLAUSE} take the law into their own hands. Each of you must choose, as most of you have already chosen, to build up, not to tear down. I congratulate you for the patience you have already shown.
+
+History records that two centuries ago on the eve of your independence and during my nation's Revolutionary War, more than 500 of your ancestors came from Haiti to my country and died in the fight to bring the United States to life. {APPLAUSE} More than 200 years later, the United States is proud to have helped to give you a second chance to build your democracy and bring life to the dreams of your liberators.
+
+I have been told that, throughout your land, our soldiers, our diplomats, and our volunteers have been greeted by hand-painted signs with three simple words. These words go right to their hearts and to mine. They are: Thank you, America. Now, it is my turn to say, Merci a Haiti. {APPLAUSE} Thank you for the warmth of your welcome, and your support for all who have joined hands with you. Thank you for embracing peace, for denying despair, for holding on to hope. Because of your courage, because of your determination, freedom can triumph over fear.
+
+Today, we stand in the warm, bright light of liberty, and together we can say: Kimbe fem, pa laque. Kimbe fem, pa lague. {APPLAUSE} Merci and thank you. {APPLAUSE} 
+
+{/speech}

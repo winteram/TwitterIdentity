@@ -1,0 +1,30 @@
+﻿{title} Remarks by the President And King Hassan II of Morocco in Exchange of Toasts at State Dinner {/title}
+{event} Exchange of Toasts at State Dinner {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 15, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} President and King Hassan of Morocco Toast {/description}
+
+{speech} 
+
+Ladies and gentlemen, Your Majesty, Your Royal Highnesses, members of the Moroccan delegation, distinguished guests: Hillary and I are delighted to welcome you to America's home. I have been grateful for this opportunity to get to know Your Majesty and to appreciate the wise counsel you have given to every American president since John Kennedy.
+
+In fact, your relationship with our country's leaders, I have learned, goes back even further than that. In January of 1943, at the height of World War II, you were present when your father, Mohammed V, hosted the Casablanca Summit between President Roosevelt and Prime Minister Churchill. History does not record what advice you gave President Roosevelt and the Prime Minister, but I did note that, thereafter, the war turned decisively to the allies' advantage. {LAUGHTER} So, clearly, you gave good advice.
+
+I also noted that when President Roosevelt and Prime Minister Churchill were in Casablanca, Mr. Roosevelt thought he had to come home and go to work, and Prime Minister Churchill made him stay in Morocco for three more days to see the beautiful sights. My staff never lets me do that. {LAUGHTER} So we have not made progress in every respect since the 1940s.
+
+Your Majesty, you have written that in the joyous following the declaration of Morocco's independence, your father pulled you aside and said, "We have passed through a difficult trial. But the road ahead will be long and hard. We do not have the right to disappoint the faithful and courageous people who have placed their trust in us."
+
+For the past 34 years, you have lived by your father's admonition. And by pursuing progress for the Moroccan people and peace for all the peoples of your region, you have truly fulfilled his legacy.
+
+The American people especially admire your steadfast devotion to securing a comprehensive peace among all the peoples of the Middle East. In a region where passion and hatred have so often overwhelmed cooler heads and clearer minds, yours has always been a voice of reason and tolerance.
+
+Quoting from the Koran, you have said: "If two groups of believers fight each other, endeavor to reconcile them." You have been tireless in your pursuit of reconciliation. You have helped the countries of the Middle East turn on the past and start a new chapter of peaceful coexistence.
+
+Your Majesty, you have spoken of your beloved Morocco as a bridge between East and West, between Islam and the Judeo-Christian faiths, between respect for tradition and openness to the future. Under your leadership, that bridge which runs from the tip of Europe to the sands of the Sahara and joins the Atlantic to the Mediterranean, that bridge has risen high as a beacon of hope.
+
+And for all those reasons, ladies and gentlemen, honored guests, please join me in raising a glass to His Majesty, King Hassan II, to the Prince and the Princess who are here, and to the people of Morocco, who have done so much to build the bridges of understanding and peace.
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

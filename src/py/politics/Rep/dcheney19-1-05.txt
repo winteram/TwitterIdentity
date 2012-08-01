@@ -1,0 +1,22 @@
+﻿{title} Vice President Introduces President at 'Celebration of Freedom' Event {/title}
+{event} The Ellipse {/event}
+{speaker} Dick Cheney {/speaker}
+{date} January 19, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, thank you very much. It's a great honor for my family and me to be here tonight to welcome fellow Americans from the North, the South, the East and the West. {APPLAUSE} I'd also like to thank Ryan for the introduction. Even though Lynne would not let me try out as a contestant, I'm glad to meet the host of "American Idol."
+
+I want to thank all the entertainers on the program, and everyone who worked to organize this "Celebration of Freedom." They've given us an evening to remember on the threshold of an historic occasion for our country -- the inauguration of George W. Bush for a second term as President of the United States. {APPLAUSE}
+
+Tomorrow at noon, a watching world will see the continuity of our great democracy in a ritual that our country has performed every four years for more than two centuries. You and I will be privileged to witness the moment as our President places his hand on the Bible and repeats the oath first taken by George Washington on April 30, 1789.
+
+I count it the highest honor of my life to serve beside our 43rd President in this time of great consequence for our nation. Since 2001, America has lived with adversity and sometimes with sorrow, and often with uncertainty, yet we have refused to live in fear or be intimidated by the task before us. And we have seen the best aspects of our character reflected in the man who leads our country. We know George W. Bush as a person of deep conviction and personal kindness. He speaks his mind. He keeps his word. He is a man of moral seriousness. {APPLAUSE} And he is unafraid of hard decisions and persistent and doing what is right. Above all, he is unrelenting in his determination to protect the American people. And he has earned the gratitude of all of us. {APPLAUSE}
+
+Tomorrow, the President renews his great responsibilities. On Inauguration Day and in all the days that follow, he will be assured of the confidence of the nation he serves, and sustained by his wonderful wife and family, and lifted up by the prayers of millions. He has made us proud, and I am pleased to present him to you now.
+
+Ladies and gentlemen, the President of the United States. {APPLAUSE} 
+
+{/speech}

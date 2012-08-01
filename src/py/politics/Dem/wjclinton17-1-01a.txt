@@ -1,0 +1,73 @@
+﻿{title} Remarks by the president on designation of national monuments {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 17, 2001 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much, and good morning. I want to welcome you all here, but especially I would like to acknowledge Secretary Mineta; Senator Conrad Burns of Montana; all the descendants of Lewis and Clark; representatives of Sacagawea and York; Stephen Ambrose, from whom you will hear in a moment. And I also want to recognize my friends, Ken Burns and Dayton Duncan, who did such a wonderful job on the Lewis and Clark film; and members of the Millennium Council who have supported this project with the Lewis and Clark Bicentennial and Trails groups. I thank you all for coming here. 
+
+And I would like to especially acknowledge and thank our administration's environmental team, including Secretary Babbitt; EPA Administrator Carol Browner who is here' Chief of Staff John Podesta; George Frampton, the head of the Council for Environmental Quality; and Bob Stanton who has led our Park Service so ably. Thank you all for your good work. {APPLAUSE} 
+
+I am especially grateful to these people today, obviously, but every day because, thanks to their work, our air and water are cleaner, our food is safer, we've cleaned up twice as many waste sites in these eight years as in the previous 12. We've protected more land in the lower 48 states than any administration since that of Theodore Roosevelt, and have supported research, development and deployment of energy conservation, technologies and clean energy sources, demonstrating, I believe convincingly, that we can have environmental protection and economic growth hand in hand. 
+
+We believe that our future and our land, air and water are one; that we must preserve not only our historical treasures, but our natural treasures, as well. 
+
+Today's ceremony is the last I will host as President here in the historic East Room, where First Lady Abigail Adams hung up the laundry to dry. {LAUGHTER} Where Union soldiers lived during the early days of the Civil War. And where a young idealist named Meriwether Lewis, summoned by President Jefferson to serve as his Secretary, first unpacked his traveler's trunk and set up quarters in 1801. 
+
+The room looked quite different back then -- no chandeliers, no parquet floors, no silk drapes, just the rough siding of walls awaiting plaster, and two stone hearths to ward off the winter chill. 
+
+But what the East Room then lacked in grandeur was more than atoned for by the ideas that filled it. For it was here that Jefferson and Lewis first unfurled an unfinished map of a great continent and planned a bold expedition of discovery. 
+
+So it is fitting that we meet once more in this room, at the dawn of a new century and a new age of discovery, where a few months ago we announced the very first complete mapping of the human genome. We gather here to honor pathfinders of our past and protect their precious legacy. 
+
+Most of the landscape Lewis and Clark traversed nearly two centuries ago is changed beyond recognition -- forests cut, prairies plowed, rivers dammed, cities built. That is the march of time. But still there are a few wild places left, rugged reminders of our rich history and nature's enduring majesty. Because they are more important than ever, after careful review and extensive public input, we protect them today by establishing them as National Monuments. 
+
+The first of these monuments covers a remote stretch of the Missouri River and central Montana, now known as the Upper Missouri River Breaks. If you canoe these magical waters or hike their weathered cliffs, you may still encounter elk or bear, wolves, mountain lions, even big horn sheep, just as Lewis and Clark did in 1805. 
+
+The second monument we designate is also in Montana. It is Pompeys Pillar, the sandstone outcrop named after the newborn son of Sacagawea, the expedition's Shoshone guide. Archeologists say this monolith has been a religious site and natural lookout for nearly 12,000 years. It bears the markings of many ancient travelers. Clark, himself, carved his name into the rock, and it's still there today. 
+
+Some years ago, Wallace Stegner observed that America has a fundamental interest in preserving wilderness because the challenge of wilderness forged our national character. He wrote that the wild places give us a "geography of hope" that sustains us in our busy lives, even in the largest cities. 
+
+Today we protect this geography of hope not just along the Lewis and Clark Trail, but across our nation, and six other National Monuments which Secretary Babbitt will discuss shortly. We have another purpose here today, as well -- righting some wrongs that have lingered about Lewis and Clark for 200 years now. 
+
+The first concerns William Clark. When Lewis recruited Clark to help lead the Corps of Discovery, he promised him the rank of captain. Unfortunately, issues of budget and bureaucracy intervened -- some things never change. {LAUGHTER} And Clark never received his commission. A natural leader, great frontiersman, Lt. Clark risked his life across a continent and back, all for the good of this nation. Today we honor his service by presenting his great, great, great grandsons, Bud and John Clark, with the late William Clark Certificate of Appointment to the rank of Captain in the United States Army. {APPLAUSE} 
+
+We also have descendants of Meriwether Lewis here today -- Jane Henley and Elizabeth Henley Label. I'd like to ask them to stand, as well. Thank you and welcome. {APPLAUSE} 
+
+The journals of Lewis and Clark record that the expedition's success also hinged on the courage and commitment of Sacagawea, an extraordinary 15-year-old Shoshone guide who made most of the trip with a baby on her back. Time and again her language skills, geographic knowledge and tribal connections saved Lewis and Clark from disaster, even death. Despite her quite heroics, Sacagawea received no formal recognition after the expedition ended. 
+
+Last year we put her likeness on our new dollar coin. Today I am proud to announce her honorary promotion to the rank of Sergeant in the United States Army, so that all Americans might recognize her critical role in Lewis and Clark's journey to the sea. Accepting her citation is Amy Mossett, a leader of the Mandan Hidatsa Arikara Nation, and Rose Anne Abrahamson, a leader of the Shoshone Nation. I'd like to ask them to come up. {APPLAUSE} 
+
+Finally, I want to recognize York, the slave who accompanied Lewis and Clark to the Pacific and back. Like Sacagawea, he shared all the risks, but none of the reward. And while the rigors of the wilderness fostered a certain equality, camaraderie, and respect among York and his fellow explorers, that did not translate into freedom upon his return. Only years later did he finally gain his liberty before fading into history. 
+
+Today, in recognition of York's selfless contributions to the Corps of Discovery and to his service to our country, he also receives an honorary promotion to the rank of Sergeant in the United States Army. Accepting the citation on his behalf are York scholar, Jim Holmberg, and York sculptor, Ed Hamilton. I'd like to ask them to come up and receive the citation. {APPLAUSE} 
+
+As we finally right these wrongs and celebrate the legacy of Lewis and Clark we recognize the irony inherent in their expedition. Their historic journey of discovery opened up the American West, a mythic frontier that even today endures in the American mind as a symbol of freedom. But York was anything but free, and Sacagawea's people, like her neighbors, would eventually be swept away by a flood of American settlers determined to claim the Great Plains and the land beyond. 
+
+These hard truths do not fit comfortably within the narrow rhetorical boundaries of manifest destiny, or square with modern notions of democracy and diversity. But as our nation has grown physically, so we have grown as a people, and I believe the capacity for growth as a people, for deepening the bonds of community and broadening our vision of liberty and equality, has been just as important a voyage of discovery as the physical one Lewis and Clark took so long ago. 
+
+Nearly two centuries ago, Lewis and Clark used this compass -- this very one -- to navigate a continent of possibility. Now America is setting out to navigate a century of possibility, determined to explore the far frontiers of space, the ocean depths, the tiniest of genetic structures. But we must not forget our obligations to live in harmony with the Earth. 
+
+In the years to come, more areas will doubtless require our common protection. I'd like to mention just two, for example. First, the Owyhee Canyonlands in Idaho. This fractured maze of ancient canyons is a rugged paradise of leaping big horn sheep and soaring birds of prey. Second, we must continue, I believe, to safeguard the Arctic National Wildlife Refuge, one of the last truly wild places on Earth -- the Serengeti of the Americas. 
+
+Some of you and others around the country have urged that I declare this a monument as well. I have declined because current law actually provides legislative protection for this refuge, identical to that which an executive order would provide. But I still believe that those who propose, and who would now have to get legislative authorization to do so, to drill in the refuge are in error. In 1995, I vetoed a bill that would have permitted such drilling, and I believe we should continue to work together to meet the nation's energy needs while we protect this environmental Eden. 
+
+I hope in the years ahead we can reach agreement on a policy of environmental protection and sustainable development appropriate to this new age in which we live, and to the real condition of our natural resources. I hope it will unite Republicans and Democrats. Even more difficult, perhaps, I hope it will unite Westerners and Easterners -- {LAUGHTER} -- people who live in the North and the South; people who make a living from the land and those who feel more alive when they're on it. 
+
+Senator Burns, I'm glad to see you here today in support of this. We are making some progress. After years of squabbles, this year by a huge bipartisan majority, the Congress for the first time set aside a committed, dedicated stream of funding, year in and year out, to preserve the natural legacy of America, from vast open spaces to small urban greenspaces. It is a very hopeful beginning, and perhaps the most important congressional conservation move in many decades. 
+
+So I hope, as I leave, that we will be able to continue to build on this and return to the point where the environment is not a point of either partisan or geographic explosion, but a point of shared values and shared vision. 
+
+For eight years I have done my best to prepare America for the 21st century. I have been, critics and supporters alike have acknowledged, virtually obsessed with all things modern -- with trying to make sure America was at the center of all new trading networks; trying to modernize our economic and social policies; trying to alter the framework of global financial institutions so that everyone had a chance to participate in the best of what the future holds; trying to make sure that we stayed on the cutting edge in all areas of science and technology. This has occupied much of my time and attention. 
+
+But I grew up in a national park, and I have never forgotten that progress uprooted from harmony with nature, is a fool's errand. The more perfect union of our founders' dreams will always include the Earth that sustains us in body and spirit. Today we have honored three who made it so. Thank you very much. {APPLAUSE} 
+
+Now I would like to ask Stephen Ambrose to come to the podium. But as I do, I would like to thank him for many things -- for teaching America about World War II; for, most recently, making sure we know how the railroad was built across the country; and for all the works in between. But I rather suspect, having heard him talk about it, that nothing has quite captured his personal passion and the story of his family life like the odyssey of Lewis and Clark, and the beauties that they found -- that he and his family later discovered for themselves. 
+
+Steve. {APPLAUSE} 
+
+{/speech} 

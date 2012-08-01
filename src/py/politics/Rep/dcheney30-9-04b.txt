@@ -1,0 +1,54 @@
+﻿{title} Vice President's Remarks Preceding a Presidential Debate Watching Party {/title}
+{event} Denver Marriott City Center, Denver, Colorado {/event}
+{speaker} Dick Cheney {/speaker}
+{date} September 30, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+This looks like Bush-Cheney country. {APPLAUSE} Well, we're delighted to be here tonight. It's a very, very special occasion during a very important campaign. Obviously, everybody has been looking forward to the debate. And I think the President is ready. I noticed there was sort of a last minute flurry on the Kerry side -- {LAUGHTER} -- about the lights on the podium. {LAUGHTER} They signed an agreement approving the lights, and then complained about them. I guess, that's sort of like John Kerry he was for the lights before he was against the lights. {LAUGHTER ; APPLAUSE} 
+
+And of course, next Tuesday I have a little rendezvous with destiny. I get to debate -- {APPLAUSE} -- I get to debate my opponent, John Kerry -- no, what's his name? He's the other John. {LAUGHTER ; APPLAUSE} Oh, yes, well, I get them confused sometimes. {LAUGHTER}
+
+But everybody said John Edwards got picked for the job because he was good looking, charming, sexy, and had great hair. {LAUGHTER} And I said, how do you think I got the job? {APPLAUSE}
+
+{AUDIENCE-MEMBER} {COMMENT="Inaudible"} {/AUDIENCE-MEMBER} {LAUGHTER}
+
+All right. {LAUGHTER} I'm not going to follow up on that one. But we are -- we're delighted to be here and to share this evening with you. It is a very special evening. And I want to be serious just for a moment because this election this year is, I think, the most important of my lifetime -- not just because my name is on the ballot but because with the choice we've got to make, we're going to set the course for the nation's security for the next four years as we pick a Commander-in-Chief -- but even beyond that, because I personally believe we're deciding on a basic, fundamental national security strategy that will be key to defending America and to winning the war on terror in the years ahead. So it's an important choice. {APPLAUSE}
+
+What we're going to see tonight is a President who has demonstrated clearly and conclusively now for nearly four years that he means what he says, he says what he means, that he is absolutely determined that we will use the full power of the United States to go after the terrorists wherever they exist, and after those who support and sponsor terror. {APPLAUSE}
+
+That's going to be crucial in terms of winning through to victory both in Iraq and Afghanistan. Both countries are making significant progress. Eighteen months ago, of course, Saddam Hussein was in power in Iraq. Tonight, he's in jail. {APPLAUSE} We were visited recently by Prime Minister Allawi in Washington -- addressed a joint session of Congress. He's been in power about 90 days now, but he's absolutely committed to the course we're on. They'll have elections next January. And a year after that, we should have a democratically elected government in place in Iraq. {APPLAUSE}
+
+And of course, in Afghanistan, they are going to have the first election in their history in about 10 days, on October 9th. {APPLAUSE} They've registered 10 million people to vote for the first time ever, almost half of them women. {APPLAUSE} And by the end of the year, there will be a democratically elected government in place in Afghanistan, that state from whence the terrorists that struck us on 9/11 launched.
+
+The key to the success going forward is to have a President of the United States who has the vision, the understanding, a commitment to a strategy, a willingness to make decisions, and then to go forward on that strategy regardless of the political pressures that come to bear -- a man who is willing to make the toughest decision that can come to anybody in the Oval Office, a man who understands that once you commit American troops to combat, you support them 100 percent. {APPLAUSE}
+
+Now, unfortunately I haven't seen that kind of commitment, or those kinds of qualities in the President's opponent.
+
+{BOOING} 
+
+And it will be interesting to watch tonight to see how this proceeds in terms of what Senator Kerry says about all these issues because he's been so many different places -- {LAUGHTER} -- over the course of the last couple of years. If you look back at a 20-year record in the United States Senate that he doesn't seem to want to talk about, he's consistently opposed strong national security postures and policies. He voted against most of the Reagan build-up in the 1980s that led to us to win the Cold War. When I was Secretary of Defense, he voted against Desert Storm in 1991 -- the first time we took on Saddam Hussein and liberated Kuwait.
+
+And of course, this last time around, he voted for the war and for the use of force, and then when the issue was whether or not we'd support the troops with $87 billion that was needed, he opposed it -- after he said he was both for and against it.
+
+{AUDIENCE} Flip-flop! Flip-flop! Flip-flop! {/AUDIENCE} {BOOING}
+
+What are you guys doing for the next five weeks? You want to travel with me? {APPLAUSE}
+
+So keep all that in mind tonight as we watch these debates. I think you'll see a very clear choice between the President who has done it, and who is absolutely committed to the right course of action, and a senator who is not quite certain what he believes. And whatever he says tonight, it will contradict something he said within the course of this campaign. {LAUGHTER}
+
+But the good news is things are looking very good out there from the standpoint of the election. Things look very good here in Colorado. {APPLAUSE}
+
+{AUDIENCE} Pete! Pete! Pete! {/AUDIENCE} 
+
+Next January, I get to swear in Pete Coors as the new senator. {APPLAUSE}
+
+{AUDIENCE} Pete! Pete! Pete! {/AUDIENCE} 
+
+And I heard -- I heard the other day that things are even looking good in Massachusetts. {APPLAUSE} There was a news account of a group of delegates leaving the Democratic National Convention earlier this year, I guess, back in July. And as they were leaving, they stopped a Boston policeman and asked for directions. And he replied, he said, leave here -- {LAUGHTER} -- and go vote Republican. {APPLAUSE}
+
+Well, it's going to be a great evening. We look forward to coming back right after the debate is over with and having a chance to share it all with you. We appreciate very much that you're here. We appreciate your support in this campaign. And enjoy yourselves. We'll be back shortly. {APPLAUSE} 
+
+{/speech}

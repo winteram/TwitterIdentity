@@ -1,0 +1,68 @@
+﻿{title} Address to Citizens of Dublin {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 6, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. {APPLAUSE} First, let me say to all of you Dubliners and all Ireland, Hillary and I have loved our trip to your wonderful country. {APPLAUSE} To the Taoiseach and Mrs. Bruton; Lord Mayor Loftus and Lady Loftus; City Manager Frank Feely; to all the aldermen who conferred this great honor on me. 
+
+To the Americans in the audience, welcome to all of you. {APPLAUSE} Are there any Irish in the audience? {APPLAUSE} I want to say also how pleased I am to be here with a number of Irish American members of the United States Congress; and the Irish American Director of the Peace Corps, Mark Gearan; the Irish American Secretary of Education Richard Riley; and the Secretary of Commerce Ron Brown, who wishes today he were Irish American. Thank you all for being here. {APPLAUSE} 
+
+I was on this college green once before. Yes. In 1968, when I was almost as young as some of the young students over there. {APPLAUSE} Lord Mayor, I never dreamed I would be back here on this college green in this capacity, but I am delighted to be here. And I thank you. {APPLAUSE} 
+
+I am told that in earlier times the honor I have just received, being awarded the Freedom of the City, meant you no longer had to pay tolls to the Vikings. I'm going to try that on the Internal Revenue Service when I get home. I hope it will work. {LAUGHTER} Whether it does or not, I am proud to say that I am now a free man of Dublin. {APPLAUSE} 
+
+To look out into this wonderful sea of Irish faces on this beautiful Irish day I feel like a real "Dub" today -- is that what I'm supposed to say? {APPLAUSE} Not only that, I know we have a handy football team. {LAUGHTER} 
+
+Let me say that, as a lot of you know, because of events developing in Bosnia and the prospect of peace there, I had to cut short my trip. But there are a few signs out there I want to respond to. I will return to Ballybunion for my golf game. {LAUGHTER ; APPLAUSE} 
+
+I am also pleased to announce that President Robinson has accepted my invitation to come to the United States next June to continue our friendship. {APPLAUSE} 
+
+There's another special Irish-American I want to mention today and that is our distinguished Ambassador to Ireland, Jean Kennedy Smith -- {APPLAUSE} -- who came here with her brother, President Kennedy, 32 years ago and who has worked very hard also for the cause of peace in Northern Ireland. {APPLAUSE} 
+
+Years ago, Americans learned about Dublin from the stories of James Joyce and Sean O'Casey. Today, America and the world still learn about Dublin and Ireland through the words of Sebastian Barry, Paula Meehin, Roddy Doyle -- {APPLAUSE} -- through the films of Jim Sheridan, Neil Jordan; through the voices of Mary Black and the Delores Keane -- {APPLAUSE} -- and yes, through the Cranberries and U-2. {APPLAUSE} I hear all about how America's global -- the world's global culture is becoming more American, but I believe if you want to grasp the global culture you need to come to Ireland. {APPLAUSE} 
+
+All of you know that I have family ties here. My mother was a Cassidy, and how I wish she were alive to be here with me today. She would have loved the small towns and she would have loved Dublin. Most of all, she would have loved the fact that in Ireland, you have nearly 300 racing days a year. {LAUGHTER} She loved the horses. 
+
+I understand that there are some Cassidys out in the audience today. And if they are, I want to say in my best Arkansas accent, cead mile failte -- {APPLAUSE} -- beatha saol agus slainte. {APPLAUSE} 
+
+One hundred and fifty years ago, the crops of this gorgeous island turned black in the ground and one-fourth of your people either starved from the hunger or were lost to emigration. That famine was the greatest tragedy in Irish history. But out of that horrible curse came the most bittersweet of blessings -- the arrival in my country of millions of new Americans who built the United States and climbed to the top of its best works. For every person here in Ireland today, 12 more in the United States have proud roots in Irish soil. {APPLAUSE} 
+
+Perhaps the memory of the famine explains in part the extraordinary generosity of the Irish people, not just to needy neighbors in the local parish, but to strangers all around the globe. You do not forget those who still go hungry in the world today; who yearn simply to put food on the table and clothes on their backs. In places as far away as the Holy Land, Asia and Africa, the Irish are helping people to build a future of hope. 
+
+Your sons and daughters in the Gardai and the defense forces take part in some of the most demanding missions of goodwill, keeping the peace, helping people in war-torn lands turn from conflict to cooperation. Whenever the troubled places of the earth call out for help, from Haiti to Lebanon, the Irish are always among the very first to answer the call. 
+
+Your commitment to peace helps conquer foes that threaten us all. And on behalf of the people of the United States, I say to the people of Ireland: We thank you for that from the bottom of our hearts. {APPLAUSE} 
+
+Ireland is helping beat back the forces of hatred and destruction all around the world -- the spread of weapons of mass destruction, terrorism, ethnic hatreds, religious fanaticism, the international drug trade. Ireland is helping to beat back these forces that wage war against all humanity. You are an inspiration to people around the world. You have made peace heroic. Nowhere are the people of Ireland more important in the cause of peace today than right here at home. 
+
+Tuesday night, before I left the United States to come here, I received the happy word that the Taoiseach and Prime Minister Major had opened a gateway to a just and lasting peace, a peace that will lift the lives of your neighbors in Northern Ireland and their neighbors in the towns and counties that share the Northern border. That was the greatest welcome anyone could have asked for. I applaud the Taoiseach for his courage, but I know that the courage and the heart of the Irish people made it possible. And I thank you for what you did. {APPLAUSE} 
+
+Waging peace is risky. It takes courage and strength that is a hard road. It is easier, as I said yesterday, to stay with the old grudges and the old habits. But the right thing to do is to reach for a new future of peace -- not because peace is a document on paper, or even a handshake among leaders, but because it changes people's lives in fundamental and good ways. 
+
+Yesterday in Northern Ireland I saw that for myself. I saw it on the floor of the Mackie Plant in Belfast, with Catholics and Protestants working side by side to build a better future for their families. I heard it in the voices of the two extraordinary children you may have seen on your television, one a Catholic girl, the other a Protestant boy, who introduced me to the people of Belfast with their hands joined, telling the world of their hopes for the future, a future without bullets or bombs, in which the only barriers they face are the limits to their dreams. 
+
+As I look out on this sea of people today I tell you that the thing that moved me most in that extraordinary day in Northern Ireland yesterday was that the young people, Catholic and Protestant alike, made it clear to me not only with their words, but by the expressions on their faces that they want peace and decency among all people. {APPLAUSE} 
+
+I know well that the immigration from your country to the shores of mine helped to make America great. But I want more than anything for the young people of Ireland, wherever they live on this island, to be able to grow up and live out their dreams close to their roots in peace and honor and freedom and equality. {APPLAUSE} 
+
+I could not say it better than your Nobel Prize-winning poet, Seamus Heany, has said: "We are living in a moment where hope and history rhyme." In Dublin, if there is peace in Northern Ireland, it is your victory, too. And I ask all of you to think about the next steps we must take. 
+
+Stand with the Taoiseach as he takes risks for peace. Realize how difficult it is for them, having been in their patterns of opposition for so long to the north of you. And realize that those of you who have more emotional and physical space must reach out and help them to take those next hard steps. It is worth doing. 
+
+And to you, this vast, wonderful throng of people here, and all of the people of Ireland, I say: America will be with you as you walk the road of peace. We know from our own experience that making peace among people of different cultures is the work of a lifetime. It is a constant challenge to find strength amid diversity, to learn to respect differences instead of run from them. Every one of us must fight the struggle within our own spirit. We have to decide whether we will define our lives primarily based on who we are, or who we are not; based on what we are for, or what we are against. There are always things to be against in life, and we have to stand against the bad things we should stand against. 
+
+But the most important thing is that we have more in common with people who appear on the surface to be different from us than most of us know. And we have more to gain by reaching out in the spirit of brotherhood and sisterhood to those people than we can possibly know. That is the challenge the young people of this generation face. {APPLAUSE} 
+
+When President Kennedy came here a generation ago and spoke in this city he said that he sincerely believed -- and I quote -- "that your future is as promising as your past is proud; that your destiny lies not as a peaceful island in a sea of troubles, but as a maker and shaper of world peace." 
+
+A generation later Ireland has claimed that destiny. Yours is a more peaceful land in a world that is ever more peaceful in significant measure because of the efforts of the citizens of Ireland. For touching the hearts and minds of peace-loving people in every corner of the world; for the risk you must now continue to take for peace; for inspiring the nations of the world by your example; and for giving so much to make America great, America says, thank you. 
+
+Thank you, Ireland, and God bless you all. {APPLAUSE}
+
+
+{/speech} 

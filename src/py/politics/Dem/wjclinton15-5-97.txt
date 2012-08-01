@@ -1,0 +1,56 @@
+﻿{title} Remarks by President at Peace Officers Memorial {/title}
+{event} Peace Officers Memorial {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 15, 1997 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you very much. President Gallegos, Auxiliary President Lippe, to all the distinguished law enforcement representatives who are here; Senator Thurmond, Senator Biden, Senator Leahy, Congressman Stupak; members of our Cabinet administration. I'd like to thank all of those who support this endeavor every year, and especially this year -- Tommy Motolla and Gloria Estefan; and most importantly, to the family members of those who have lost their lives in the service of our country.
+
+In just two weeks, on Memorial Day, the American people will pause to pay tribute to the fallen military heroes who died to preserve the liberties upon which our nation was founded and which have enabled it to endure for more than 200 years. Today, we stand here on Peace Officers Memorial Day, to pay tribute to a sacrifice no less great and no less critical to our liberties.
+
+The police officers whose names are carved on the memorial are also our fallen heroes. And in the hearts of their families and the people whose lives they touched, their heroism will always shine.
+
+Officer Lauretha Vaird was a nine-year veteran on the Philadelphia Police Department -- a single, working mother. She often said that her two greatest loves were her boys and her badge. And she dedicated her life to them both.
+
+She was a community police officer who walked the streets of her beat with pride. One day she responded to a silent alarm at a local bank. And as she tried to prevent an armed robbery, a gunman's bullet took her life and left her children with only the memory of their heroic mother.
+
+Officer Brian Gibson was a community police officer who grew up on streets he would later patrol. A native of this city, he served our country as a United States Marine in the Persian Gulf before joining the D.C. police force; a decorated officer who pounded the pavement to fight drugs and the people who sell them. One night he was killed at point-blank range by a raging gang member as he simply sat in the police car just a short ride from that memorial where his name will be carved. He, too, left behind a grieving family and friends and a legacy of courage.
+
+Today, we honor the service and take pride in all the stories of the 116 men and women who gave their lives to protect our safety. Our safety was their purpose and passion. And while we can never repay them for their ultimate sacrifice, we can, and we must, honor their memory not only in words, but in actions that do justice to their lives and to the great loss their families and loved one have suffered.
+
+For too many years in our country, crime seemed destined to keep rising regardless of citizen outrage or law enforcement frustration. Then, slowly, you in law enforcement began to turn the tide, building bridges to concerned citizens and needy children and troubled neighborhoods, but losing brothers and sisters along the way.
+
+Four years ago, we joined you as a nation to reclaim our streets, our schools and our society with a commitment to a comprehensive approach to crime based on what you told us -- what you told us would work. You told us we needed more police on the street, tougher penalties and better prevention. You told us especially we needed more community police officers. Today, we're putting 100,000 more of them on the street to join with you.
+
+You told us illegal handguns and deadly assault weapons were undermining your efforts to fight gangs and drugs, so we banned them with the Brady Bill and the assault weapons ban. Just since the Brady Bill was enacted in 1993, 186,000 felons, fugitives and stalkers have been denied the right to buy handguns. {APPLAUSE} Today we take another step to protect our communities from gun violence by dangerous drifters who threaten our safety.
+
+Two months ago, after the terrible tragedy at the Empire State Building, I directed the ATF to require people who buy guns from federally-licensed dealers simply to prove they were not just passing through. Today, we're releasing a new application to make sure that certification of residency is an unavoidable step for gun purchases. Those who can't prove it, can't purchase. {APPLAUSE}
+
+And thanks to you, these efforts are working. Crime is dropping. And all over America, neighborhood by neighborhood, hope for a safer future is slowly but surely being restored. It is all the more bittersweet that as crime has dropped in this country five years in a row for the first time in more than two decades, we must still gather to carve new names into the hard stone of the National Law Enforcement Officers Memorial.
+
+In 1996, we added 116 names. While the loss of even one of those officers' lives is even one too many, that is the smallest number of police officers to lose their lives in the line of duty since 1959. Today, in honor of those 116 officers, let us pledge to redouble our efforts so that every year, there will be fewer and fewer names, until one year we will gather with not a single name to add to that roll of heroes. Let the be our goal and our solemn obligation. {APPLAUSE}
+
+I ask you all now to move with us to our most pressing priority -- to take back our streets from violent gangs. Once again, we know what to do because you have told us what to do. You have proven in place after place that it can be done -- in cities like Boston where youth murders have dropped by 80 percent in five years and not a single child has been killed with a gun in a year in a half. If we can do it in one community in this country, we must be able to do it in every community in America. {APPLAUSE}
+
+In February I sent legislation to the Congress that follows law enforcement's advice and Boston's lead, to declare war on gangs and youth violence with more prosecutors, tougher penalties, and better prevention programs for at-risk young people. For, as tough as we must be on violent juvenile crime, we also must ensure a safer environment and positive opportunities and role models for our children in the most vulnerable communities.
+
+Statistics show that half of juvenile crime at least occurs in the three hours after school is closed and before the parents come home. My bill will help to launch 1,000 after-school initiatives. Who can be against allowing a child to stay in school instead of on a street corner? Who can be against teachers as children's role models instead of thugs? Who can be against adults to supervise children instead of a lawless world of gangs to guide them?
+
+Finally, we know we must cut off young people's access to guns that can cut off their lives. And I believe someone who commits a violent crime at 17 should not be able to turn around and buy a gun for a birthday present at 21. I want a juvenile crime bill to extend the Brady Bill to violent juvenile offenders. {APPLAUSE}
+
+I also believe that these guns should be sold with child safety locks. We protect aspirin bottles in this country better than we protect guns from accidents by children. {APPLAUSE}
+
+In March, I directed federal agencies to provide their agents with such child safety devices, and I'm pleased to say that today every FBI and ATF agent has a child safety lock. By October 15th, every agent from the DEA to the U.S. Marshal to the Border Patrol to the Park Police will have one, as well. If a child safety lock is good enough for law enforcement, it ought to be even better for the general public.
+
+In the last four years we have proved that we can work together and learn from each other, and that when we do we can restore hope and improve safety in our communities. Now we have a chance to build on that progress by passing a smart, balanced juvenile justice bill that does more than talk tough. The American people deserve that. A juvenile crime bill that doesn't crack down on guns and gangs, that doesn't guarantee more prosecutors, probation officers and after-school hours is a crime bill in name only.
+
+Today, I ask the members of the Congress to work with me, without regard to party, to pass a juvenile crime bill that will help us to work toward year in and year out fewer and fewer people to honor here, until there is no one new to add to the wall. {APPLAUSE}
+
+To the family members of the victims who are here, I know and I must say again that nothing we can do or say can bring them back or ease your sorrow. Only God and the time and comfort you give to each other can do that. But I ask you this: to know that the cause in which your loved ones died -- right against wrong, law against lawlessness, hope against fear -- is a worthy and noble cause. And because of their efforts and the efforts of others who wear our uniforms, it has now become a winning cause.
+
+It is our job -- those of us who remain -- to make sure that we press on -- and on and on -- until such tragedies are a stunning exception, not a numbing statistic. As we go forward into that future, that is our most solemn obligation to you. Thank you, and God bless you. {APPLAUSE} 
+
+{/speech}

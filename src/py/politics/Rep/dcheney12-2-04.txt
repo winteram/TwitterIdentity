@@ -1,0 +1,38 @@
+﻿{title} Remarks by the Vice President at the American Enterprise Institute Annual Dinner {/title}
+{event} American Enterprise Institute Annual Dinner {/event}
+{speaker} Dick Cheney {/speaker}
+{date} February 12, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thanks you. {APPLAUSE} Thank you all very much. {APPLAUSE} Thank you, Chris, and it's a pleasure tonight to join all of you in honoring Charles Krauthammer -- a man I admire very much, and am proud to call a friend. The Irving Kristol Award is named for one great American, and tonight we bestow it on another.
+
+Lynne and I are pleased, as well, to be in the company of so many other friends and colleagues -- starting with Chris DeMuth, who does an absolutely superb job as president of AEI. {APPLAUSE} Being here brings to mind my own days affiliated with AEI, which stretch back some 30 years, as an office holder, a freshman congressman, an out-of-work politician -- {LAUGHTER} -- a member of the board of trustees and a corporate official who didn't appreciate how valuable the experience was till I was asked to contribute financially for the privilege of being part of it. {LAUGHTER} But it has been a very, very important part of our lives, for me and for Lynne, and a very important part of our intellectual learning and development during our years in Washington.
+
+I spent a time at AEI when I was a scholar, a time when I had an office, a small staff, and not much in the way of actual responsibility. It turned out to be a lot like the vice presidency. {LAUGHTER}
+
+Lynne and I are truly grateful for our many years of association with the American Enterprise Institute. AEI has developed a reputation, well deserved, for disciplined scholarship, intellectual integrity, and fresh insight into public policy. And AEI continues to earn that reputation every year with research and writing of high standards and ever increasing influence.
+
+Few at AEI are more influential than the chairman of our board of academic advisers, Professor James Q. Wilson -- who last July received the Medal of Freedom from President Bush. I have known Jim for a number of years, and I've respected his work ever since I was a graduate student, in the days when Lynne and I were both working on our Ph.D.s. Lynne actually went on to earn her Ph.D. in British literature. I haven't quite settled on a topic for my dissertation. {LAUGHTER}
+
+For me, an expected career in academic life was overtaken by a series of opportunities in government. And so I have spent much of the last three and a half decades in and around this city. Here, where our national debates are centered, you get used to the shifting attention and the passing enthusiasms that characterize so much of our political commentary. You learn to take it all in, and then to select out the well considered judgments of a serious thinker. You begin to listen through the chorus in search of that one clear note. And so often, that clear note is the commentary of Charles Krauthammer.
+
+This most respected of writers is also a distinguished medical doctor who spent years in practice as a noted psychiatrist. He first came to Washington in the 1970s, and soon found himself working at the White House for one of my predecessors. I now wish I had paid more attention at the time to the speeches of Walter Mondale -- {LAUGHTER} -- because I'm sure they were absolutely first rate. {LAUGHTER} By the early 1980s, Charles's talent had been recognized by editors, and by readers in Washington and well beyond. And the most impressive aspect of his work is the sustained level of quality over a period of more than 20 years. This is not a columnist who merely fills space and meets deadlines. Charles Krauthammer always writes with care. In his columns and essays, there is always a powerful line of reasoning, and behind it the workings of a superior intellect. When you read his words, you know you are dealing with a serious person, who assumes the same of you.
+
+You see something else, as well, in a Krauthammer column. Whatever the subject at hand, Charles gives the reader evidence and argument, never just sentiment and the conventional wisdom. His great intelligence is guided by principle and an understanding of the world as it is. These qualities produce special insights into the very areas where we need them most -- from the new powers mankind has assumed in science, to the new dangers confronting America and other free nations.
+
+A consistent theme in Charles' writings is his belief in human freedom -- and his abhorrence for violence and tyranny. Since September 11th, Charles has written compellingly on the urgent duty of free nations to defeat the terrorists, and hold to account any regime that supports or arms them. This war on terror has in many ways brought out the finest qualities of the American people. And the complexities of this era have certainly brought out the finest attributes of this writer -- his wisdom, his deep moral sensibility, and his conviction that freedom is the right of all mankind and must be defended.
+
+The citation for the Irving Kristol Award for 2004 reads as follows:
+
+"To Charles Krauthammer:
+
+Fearless journalist, wise analyst, and militant democrat,
+who has shown that America's interests and ideals are indivisible,
+and that the promotion of freedom is hard-headed realism."
+
+I'm very pleased that Charles' wife, Robyn, and their son, Daniel, are here to witness the presentation of this award, and to see the respect and affection we all feel for its recipient. It is my privilege to introduce the great man we honor tonight, Dr. Charles Krauthammer. 
+
+{/speech}

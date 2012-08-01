@@ -1,0 +1,35 @@
+﻿{title} Kerry Speaks at California School {/title}
+{event} ----- {/event}
+{speaker} John Kerry {/speaker}
+{date} May 6, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+... of abuse that are flashing across the television screens of the world. The pain and the shame that we feel looking at these images is the understanding that this is not who we are, that this is not what we stand for, and that we are seeing things that contradict everything that the brave men and women of the armed forces of the United States of America are fighting to defend. 
+
+These despicable action have endangered the live of our soldiers, and they have, frankly, made their mission harder to accomplish. America is stronger, and our families are safer and they are respected around the world when we take actions that live up to our values and earn that respect around the world. {APPLAUSE}
+
+We cannot succeed in Iraq by abandoning the values that define America. {APPLAUSE} 
+
+When I was in the Navy, the captain of the boat was in charge. And the captain always took responsibility. After the Bay of Pigs Invasion, John F. Kennedy told America, "I am the responsible officer of this government. Today, I have a message for the men and women of our armed forces. As commander in chief, I will honor your commitment and I will take responsibility for the bad, as well as the good." {APPLAUSE} 
+
+As president, I will not be the last to know what is going on in my command. {APPLAUSE}
+
+I will demand accountability from those who serve and I will take responsibility for their actions. {APPLAUSE} 
+
+And I will do everything that I can in my power to repair the damage that this has caused to America, to our standing in the world, and to the ideals for which we stand. This is my promise to our troops, and this is my promise to our nation. {APPLAUSE}
+
+I think you can understand why it is so important to share a few words about this with our troops in danger and the nation's value system held up for all to make judgments about. 
+
+I am happy to be here today. This is a special place. I am here in the heart of the inland empire and... {APPLAUSE} 
+
+... and the home of Ken Hubbs. I think that's pretty good. And equally important to Colton High School, obviously, it is the home of the three-team undefeated football season of last year, {APPLAUSE}
+
+... the Yellow Jackets. {APPLAUSE} 
+
+I want to thank my wife, Theresa, for taking time to be here today. She's been campaigning her heart out across the country, and I think she'll make an absolutely spectacular first lady.
+
+{/speech} 

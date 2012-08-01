@@ -1,0 +1,81 @@
+﻿{title} Speech at Democratic National Convention {/title}
+{event} ----- {/event}
+{speaker} Howard Dean {/speaker}
+{date} July 27, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Thank you, Maine and Vermont. {APPLAUSE}
+
+Thank you, Texas and Michigan. Thank you. {APPLAUSE}
+
+Thank you very much. Thank you. {APPLAUSE}
+
+My Lord. {APPLAUSE}
+
+Thank you very much. I was hoping -- thank you very much. Thank you so much. 
+
+I was hoping for a reception like this. 
+
+I was just kind of hoping it was going to be on Thursday night instead of Tuesday night. {LAUGHTER ; APPLAUSE}
+
+I may not be the nominee, but I can tell you this: For the next 100 days, I'll be doing everything that I can to make sure that John Kerry and John Edwards take this country back for the people who built it. {APPLAUSE}
+
+Because tonight we are all here to represent the Democratic wing of the Democratic Party. {APPLAUSE}
+
+I am proud of John Kerry's leadership. And I intend to stand shoulder to shoulder with him as we fight for the things that Harry Truman promised us in 1948: health insurance for every single American... {APPLAUSE}
+
+... a jobs program that will create jobs instead of destroying them... {APPLAUSE}
+
+... standing up for middle-class and working Americans who got a tax increase, not a tax cut. {APPLAUSE}
+
+... and standing up for a foreign policy that relies on the president of the United States telling the truth to the American people before we send our brave soldiers to fight in a foreign war. {APPLAUSE}
+
+I'd like a commander in chief who supports our soldiers and supports our veterans instead of cutting their hardship pay abroad and cutting their health benefits when they get back home. 
+
+I'm Howard Dean, and I'm voting for John Kerry. {APPLAUSE}
+
+I'm voting for John Kerry and John Edwards because I want a president and vice president as good and as strong as the American people. {APPLAUSE}
+
+I'm voting for John Kerry and John Edwards, because I want to see an America that's restored as the moral leader of the world. {APPLAUSE}
+
+America's greatness rests on far more than the power of our arms. Our greatness is also measured by our goodness. It is in the capacity of our minds, of our hearts. And it's in the strength of our democracy.
+
+As I've traveled America, I've seen that strength. I've seen it in the people I've met. I've seen it in their desire to take our country back for the American people. 
+
+I saw it in a college student in Pennsylvania who sold her bicycle and sent us a check for $100 with a note that said, "I sold my bicycle for democracy." {APPLAUSE}
+
+I saw it in a woman from Iowa who handed me $50, all in quarters. She saved it from her monthly disability check because she wanted to make America well again. 
+
+I saw it... {APPLAUSE}
+
+I saw it in a 19 year old from Alabama who had never been involved in politics before he got in his car and drove to Vermont, because he didn't feel like anybody was listening to him in Washington. {APPLAUSE}
+
+They learned that politics is too important to be left to politicians. {APPLAUSE}
+
+They didn't just pack their bags; they packed their hopes that we can take our country back. You know what? We will. {APPLAUSE}
+
+We are not going to be afraid to stand up for what we believe in ever again. We are not going to let those who disagree with us shout us down under a banner of false patriotism. We are not going to give up a single voter, or a single state, because we're going to be proud to call ourselves Democrats, not just here in Boston. 
+
+We're going to be proud to call ourselves Democrats in Mississippi. We're going to be proud to call ourselves Democrats in Utah and Idaho. {APPLAUSE}
+
+And we're going to be proud to call ourselves Democrats in Texas. {APPLAUSE}
+
+Never again will we be ashamed to call ourselves Democrats -- never, never, never. 
+
+We're not just going to change presidents; we're going to change this country and we're going to reclaim the American dream. {APPLAUSE}
+
+To everyone who supported me, you've given me so much, and I can't thank you enough. This was never about me. This was about us. {APPLAUSE}
+
+This was about giving new life to our party. This was about giving new energy to our democracy and providing hope again for the greatest nation on the face of the Earth. 
+
+And so, today, even though you've already given so much, I want to ask you to give one more thing. I want you to give America President John Kerry. {APPLAUSE}
+
+Together -- together we can take our country back, and only you have the power to make it happen. You have the power. You have the power. You have the power to make it happen.
+
+Thank you very much. Thank you very much.
+
+{/speech} 

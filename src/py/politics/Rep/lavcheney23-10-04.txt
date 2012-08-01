@@ -1,0 +1,32 @@
+﻿{title} Vice President and Mrs. Cheney Q & A in Cedar Rapids, Iowa {/title}
+{event} Vice President and Mrs. Cheney's Remarks and Q&A in Iowa, Crown Plaza Hotel, Cedar Rapids, Iowa {/event}
+{speaker} Lynne Anne Vincent Cheney {/speaker}
+{date} October 23, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all so much. That's really -- wow, what a great welcome. Thank you. It's good to be in Iowa, huh? {LAUGHTER}
+
+Well, I tell you, I've traveled across this beautiful country with Dick. We travel across this country, and I say to myself so many times how fortunate we are to be Americans. {APPLAUSE}
+
+If I were going to make a list of all the reasons that we're lucky to be born in this country and to be citizens of this country, right at the top of my list, I'd put our President, George W. Bush. {APPLAUSE} He has been a wonderful leader these past four years, and if you'll permit me to say so, the Vice President is no slouch, either. {APPLAUSE}
+
+Well, it's my job, I get to introduce Dick as we travel all across the country, and I've been given this job because I have known him for so long. {LAUGHTER} I first knew him when he was 14 years old and his job that summer was sweeping out the Ben Franklin store in our hometown in Casper, Wyoming. {APPLAUSE} And I've known him through many a job since. I've known him since he was digging ditches at the central Wyoming Fair and Rodeo Grounds, and I've known him since he was loading bentonite, 100-pound sacks of bentonite onto railroad cars, and I have known him since he was building power line across the West to pay his way through school.
+
+And I like to talk about all those jobs, because if you think about it, you learn some really important lessons when you grow up working hard. And one of those lessons is it's really important that the hardworking people of this country get to keep as much of their paychecks as possible. {APPLAUSE}
+
+Well, it's great to be here in Iowa, and the President's working hard today. I understand John Kerry is out looking for women's votes. {LAUGHTER} When I think about what this President has done, I can sort of understand why John Kerry's got a little gender trouble there on the women's front while he's falling behind in those votes.
+
+Think about it. I mean, think about what this President has accomplished in terms of our schools. People have talked for years about trying to get the kind of high standards and accountability in our schools all across the nation so that people could expect to have schools as good as the ones here in Iowa. And the President accomplished that.
+
+And he's worked for our seniors. We've had Medicare reform. People had talked about that, but now we're going to have prescription drug coverage. {APPLAUSE}
+
+And you think about what this President has done for families, for working families, with cutting taxes four times in four years. {APPLAUSE} And so many of our small businesses, now they're the engine that propels job growth in this country, so many of our small businesses are headed by women, and the tax cuts have done so much to help small businesses invest so they can grow and have more jobs.
+
+When I think of all the things the President has done for women and this administration has to be proud of, you know, I've got to think of Laura Bush. Is she wonderful? {APPLAUSE} She's a librarian. {LAUGHTER} She's a teacher. And there's no doubt in her mind that raising a family is a real job. {APPLAUSE}
+
+With that, let me just do something that makes me so proud, and that is introduce to you my husband, Dick Cheney, the Vice President of the United States. {APPLAUSE} 
+
+{/speech}

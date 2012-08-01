@@ -1,0 +1,72 @@
+﻿{title} Mrs. Bush's Remarks at a Victory '04 Rally in Duluth, MN {/title}
+{event} Bayfront Park, Duluth, Minnesota {/event}
+{speaker} Laura Bush {/speaker}
+{date} September 9, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Marcia, and thanks to everyone. Thank you for your very, very warm welcome to Duluth. I'm so glad to be here. It's such a beautiful day here in Minnesota, and I'm really thrilled to be here today. {LAUGHTER} This isn't a beautiful day for you all? This is a beautiful day for me. I want to also thank your state auditor, Pat Anderson, for being with us. I think Pat's over here. Thanks very much, Pat. {APPLAUSE}
+
+Also, congressional candidate, Mark Grotettum is here. Mark, thank you very much for joining us. And Jim Stauber, thank you so much for being our emcee today.
+
+I also want to thank each one of you, all of the volunteers here, for George W. Bush, the volunteers that are going to work so hard to reelect George Bush for four more years. Thank you all. {APPLAUSE}
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+We have just a few weeks left until Election Day on November 2nd. It's really amazing how fast this campaign has gone. Maybe it hasn't been that fast for you, but it has been for us. And I'm here to thank you all and to encourage you to make sure people are registered to vote. Turn out all your friends and neighbors and make sure they vote. It's our duty as Americans to turn out at the polls. And when you're doing it, I hope you'll encourage them to vote for George W. Bush. {APPLAUSE}
+
+George and I first traveled together in 1978. He ran for Congress in West Texas, which was our home district. We had both grown up in Midland, Texas, together. It was quite a different campaign, needless to say. He -- we drove together in his Oldsmobile Cutlass. And he was the person behind the wheel. And we drove up and down the panhandle of West Texas from Midland on the south to Hereford, Texas, on the north. Believe me, you learn a lot about your husband when you spend that much time in a car with him. {LAUGHTER} By the end of the campaign, he'd even convinced me to vote for him. This time, I don't need any convincing. {APPLAUSE}
+
+I've watched my as my husband has lead our country with strength and conviction through some of our greatest struggles our generation has ever seen. I've watched him take decisive action to lead us out of recession with the largest tax relief in a generation. {APPLAUSE}
+
+Thanks to my husband's tax relief and his leadership, we've added 1.7 million jobs since last August '03. That's more jobs than Germany, Japan, England, Canada and France added, combined. {APPLAUSE}
+
+The national unemployment rate has fallen to 5.4 percent, and here in Minnesota, your unemployment rate is now down to 4.4 percent. {APPLAUSE} It's down nearly a point since last December, which is really great. {APPLAUSE} I think that also speaks to the good work and the good workers of Minnesota.
+
+Another really great statistic is that home ownership in the United States of America is at an all-time high. And for the first time ever, more than half of all minorities in the United States own their own home. {APPLAUSE} I think that's a great and encouraging statistic. {APPLAUSE}
+
+I've also watched as our schools have improved with higher standards of accountability and with increased funding, so that every child in every neighborhood has a chance to succeed. And I've watched as my husband has made the tough decisions that have helped safeguard our children from terror and liberate people from tyranny. {APPLAUSE}
+
+We've been through some very historic times together in the last four years. And these are also times of change that require new ideas to move America forward. Last week in New York, President Bush outlined his agenda for a new term. We know that families face new challenges, and that government should respond to these changing times.
+
+Just think about it. Just a few decades ago in most families, fathers were the primary bread winners. People worked in the same job or the same company for 30 or 40 years. All those companies provided health care and retirement benefits. Today, more and more families have two parents in the work force, while single parents have the double duty -- have to do the double duty alone. Two-thirds of all mothers now work outside the home. Our way of life has changed dramatically.
+
+Yet many of the systems that we rely upon, like health care, retirement plans and work force training, have not changed. My husband believes that government should help improve people's lives, not try to run them. {APPLAUSE} President Bush wants us all to have more opportunities for ownership. He wants more Americans to go to college, to get a better job, to own their own business, and their own health care savings account or retirement.
+
+All opportunities start with education -? and we all know that we want our schools in the United States of America to be the best schools in the world. We want our high schools to be so great that every graduate is well prepared to go on to college or to join the work force. We want to strengthen math and science education and broaden Internet learning so that young people can compete in our technology-driven world.
+
+For workers who want to go back to school to learn new skills, the President will work with community colleges to make career training more available. And because higher education is the dream of so many Americans, he will make Pell grants more available so millions more Americans can get that college diploma. {APPLAUSE}
+
+Our graduates and workers need an economy with abundant opportunity -? one in which businesses are growing and creating jobs. This requires making sure that America is the best place in the world to do business. And President Bush knows that starts with making tax relief permanent. {APPLAUSE}
+
+To help small businesses, which are the engines of our economy, the President wants to enable smaller companies to pool with other like companies so they can purchase affordable health care for their employees. And my husband wants to help American workers keep more of something they never have enough of, and that's time -? time to play with their kids, time to take care of their parents, or time to volunteer in their communities. President Bush will work with Congress to make flex time and comp time available so more Americans can better juggle the demands of work and family. {APPLAUSE}
+
+And because now so many people change jobs several times during the course of their careers, workers need health care and retirement accounts that they can take with them from job to job. The President is making health care more accessible with ideas like health savings accounts. These plans enable people to save tax free for their health care in accounts that they own, they manage, and they keep. And because frivolous lawsuits raise the costs of health care and drive doctors out of their practices, we need to reform the medical liability system and reduce junk lawsuits in America. {APPLAUSE}
+
+The President also wants to strengthen Social Security for younger workers, by giving them the opportunity at their choice to save part of their Social Security taxes in personal accounts. Workers would then be able to pass on this nest egg to their children and grandchildren. {APPLAUSE}
+
+All of these issues are important. But as we grieve for the families in Russia, and as we approach the third anniversary of September 11th -- I believe what's most important is my husband's work to protect our country and to defeat terror around the world. {APPLAUSE}
+
+The terrible acts of September 11th showed us the threat we face. But they also called us to the great work of promoting freedom and democracy in far corners of the world. President Bush and I want all of the men and women in our uniform and their families to know how much we appreciate their sacrifice. We appreciate the dedication of courageous Americans like Sergeant Bob James of the United States Army, who is here with us today. {APPLAUSE} Sergeant James can be proud that as we do the hard work of confronting terror, 50 million more men, women and children live in freedom thanks to the United States of America and our allies. {APPLAUSE}
+
+After years of being treated as virtual prisoners in their own homes by the Taliban, the women of Afghanistan now can leave their house without a male escort. Some are being able to go back to work. And after being denied an education, even the chance to learn to read, little girls in Afghanistan are now in school. {APPLAUSE} More than 10 million Afghan citizens have registered to vote in this fall's presidential election, and more than 40 percent of that number are women. {APPLAUSE}
+
+Because we acted, the people of Iraq are now free from the tyranny of a brutal dictator. The Iraqi interim government is preparing for national elections in January. We still face many challenges in Iraq every day. But we know that the defeat of terror in Iraq is vital to the defeat of terror around the world. {APPLAUSE} And we have pledged to stand with the Iraqi people during these historic and hopeful times for their nation.
+
+As we watch the people of Iraq and Afghanistan take the first steps to build free countries, we must remember that building a democracy takes time. Think of how long it took us in our country, even though we were given almost a perfect document by our founders. But still it took us almost 100 years after that document to abolish slavery. And then almost another hundred years for the civil rights laws. Women didn't get the vote in the United States until 84 years ago. So we know that it takes a very, very long time. Our nation has not always lived up to its ideals, yet those ideals have never ceased to guide us. We are the beneficiaries of the works of generations before us, and it's our responsibility to continue that work.
+
+My husband believes that there is more to do to make our country safer and stronger and more hopeful for every American. And he'll continue the great and privileged work of leading America forward while holding true to our timeless ideals. {APPLAUSE}
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+All of you can contribute so much to our campaign by getting out the word about the President's accomplishments and about his plans for our future. Talk to your neighbors and friends, and reach out to Democrats and Independents who appreciate strong and optimistic leadership. Sign up with the campaign and make phone calls, or go door to door. Everything you do to reach voters and to get them to the polls will be a huge help for the President's campaign.
+
+These are times of change for our nation but these are also years of promise. We have great confidence in our ability to overcome challenges. We've gained a new appreciation for the many blessings of America, and we've been reminded of our responsibilities to the country we love.
+
+George and I grew up in West Texas, where the sky seems endless and so do the possibilities. He brings that optimism, that sense of purpose, that certainty that a better day is before us, to his job every day. And with your help, he'll do it for four more years. {APPLAUSE}
+
+Thank you all so much. And may God bless you and may God bless America. {APPLAUSE} 
+
+{/speech}

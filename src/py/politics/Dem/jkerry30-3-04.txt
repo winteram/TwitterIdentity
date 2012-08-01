@@ -1,0 +1,87 @@
+﻿{title} Rally in San Diego {/title}
+{event} ----- {/event}
+{speaker} John Kerry {/speaker}
+{date} March 30, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+... 300 separate jurisdictions about additives to gasoline across the country. That raises the price of gasoline. 
+
+If we were to simplify those rules and regulations, which we could do, we can lower the price of gas in the United States of America. 
+
+And finally -- and finally and most importantly, we deserve an administration that doesn't fake it to the American people and pretend that somehow by drilling in the Alaska Wildlife Refuge we can deal with the problems of America. 
+
+We can't provide the supply of oil America needs from the Alaska Wildlife Refuge or from any other source in the United States, because we only have 3 percent of the world's oil reserves. 
+
+And so, as president, I pledge to you I will put in place the principle, long since overdue, that no young American in uniform ought to ever be held hostage to America's dependence on oil for the Middle East. 
+
+We need to liberate ourselves. {APPLAUSE}
+
+This is a matter of common sense. There are a lot of smart people standing out here. You're all part of a university that's one of the great research universities in the United States. 
+
+We pour an enormous amount of federal funding into this university and others. The state puts money into it. 
+
+We need to use the entrepreneurial and creative scientific skill of this country to begin to embark on a new mission. And as president, I intend to ask America to go on that journey long since overdue. 
+
+If you only have 3 percent of the world's oil reserves, and the Middle East has 65 percent, and we import more than 58 percent or so and rising of our oil from other countries, it is obvious -- any child in grade school can do the math -- the United States of America can't drill its way out of this predicament. 
+
+We have to invent our way out of it. {APPLAUSE}
+
+And the sooner we get about the business of doing it -- I pledge to you that we will create in the first four years of my administration -- first four years... {APPLAUSE}
+
+Little slow on the uptake. {LAUGHTER}
+
+In the first four years, we will create 500,000 new jobs by setting a goal for America that by the year 2020, 20 percent of our electricity is going to be produced by alternative and renewable sources in this country. And we can achieve that. {APPLAUSE}
+
+And I'll tell you, during the late 1970s when President Carter and the country suffered the first onslaught of gas surge because of the problems of supply being cut off, we started down that road. We created an energy institute in Colorado. Tenured professors left their positions and went out there to create the future I just talked about. And we were the world's leaders in alternative and renewable energy. 
+
+And then along came the Reagan administration, and out of ideology -- out of ideology, they dragged the money away, they sucked it out, they put tenured professors back on the street.
+
+{COMMENT="Recording interrupted"}
+
+-- students are leaving colleges more and more burdened with loans. And some people, because those loans are so great, have to make a life decision about what kind of work to go into rather than what they might like to go into just to be able to pay it down.
+
+I believe we ought to start to make it possible for no young person in America to ever have to downsize their dreams because of the cost of education. {APPLAUSE}
+
+And so, I have a plan, and here it is. 
+
+For those who wonder specifically what I will do, I have a different vision from George Bush. He and I both graduated from a university of privilege on the East Coast, but we left with very different visions about how you allow every other American to have the same kind of opportunity. He has presided over cuts. He has presided over cuts in the Pell grants, cuts in the Perkins loans and Stafford loans. And we have too many students that I have met across the country who have told me, "Senator, I couldn't go to the college of my choice because I couldn't afford it even though I was accepted." 
+
+I don't think that should happen, and so here's what I will do. Number one, I will provide a $4,000 tuition tax credit to reduce the burden of those tuitions so people can afford to go to school. {APPLAUSE}
+
+Number two, we're going to have a pay down program so that young people who want to take advantage of going into teaching in an urban center where there's a low tax base, or teaching in a rural community that can't afford to raise the salaries so you can pay down your loans, we're going to ask you to come and do that work and child care and other worthy things and we will help pay down the student loans in exchange for taking on those kinds of jobs. {APPLAUSE}
+
+And finally, in keeping with the spirit of service in our country, I want young people who graduate from high school who are facing difficult choices about how to pay for college education to be able to give something back to their community and have their community join them in that effort. 
+
+So for any graduate of high school -- and we'll have to start modestly because of the deficit that this administration has created and our responsibility not to shoulder it on to you -- we need to do it, but we will provide a program that says to any graduate of high school, if you'll take two years and stay in your community and work in your community, help kids who are at risk, help kids who don't have adults at home until late in the evening and provide safety and nurturing and mentoring; if you will provide seniors who are shut in with an opportunity to be able to share in the world around them; for those kinds of work and so much more we in return are going to pay for your full in-state, four-year college public education. {APPLAUSE}
+
+And that is a worthwhile effort in this country. {APPLAUSE}
+
+I'll tell you what else we're going to do. 
+
+We're going to apply common sense to the economy of this country. I'm tired of hearing from Americans of all walks of life who tell me, "Senator, I'm working two jobs, three jobs, we still can't get ahead." Tuitions go up; health care goes up; gas goes up. All the costs around us go up. 
+
+The one thing that doesn't go up that ought to go up are the wages of Americans who are working. {APPLAUSE}
+
+And so, what we need to do is make America more competitive with steps of common sense. This administration believes that outsourcing is just dandy, that it's good for America, and fine and acceptable. 
+
+Well, I will say to you that no American president, no president could possibly stop all the outsourcing, but I'll tell you what we can do. 
+
+We can make this workplace more fair and more sensible by not asking American workers, literally, to subsidize the loss of their own jobs. 
+
+Today in the tax code of our country, if you're a business doing business here in San Diego and you earn a profit, that profit will be taxed at the standard corporate rate in the United States. But if that same company were to go abroad, guess what? They get to defer that income and then they can defer it the next year and the next year, so there's an incentive never to repatriate that money. There's an incentive to go offshore. I don't think it makes sense; George Bush does. 
+
+And when I'm president, we will take away any incentive for Americans to pay for the loss of their own jobs. {APPLAUSE}
+
+I'll tell you what else we need to do. 
+
+We also need to create those jobs here in our country. 
+
+We are the country of science, usually. This is the worst science administration in the modern history of our nation. And I believe we need to recommit America to all of our scientific endeavors and critical technologies and begin to create the high-value added jobs of the future. We need to do stem-cell research and reduce the illnesses and diseases. {APPLAUSE}
+
+And we need to reduce the cost of health care for individuals and businesses alike. 
+
+{/speech} 

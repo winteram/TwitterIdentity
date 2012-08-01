@@ -1,0 +1,32 @@
+﻿{title} Remarks by the President on Climate Change {/title}
+{event} The Cabinet Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} August 4, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Before we start, I think it's only fair to note that we are observing another anniversary of Helen's 50th birthday. {LAUGHTER} We wanted to give you a birthday cake with a tell-tale number of -- {COMMENT=""Happy Birthday" song is sung"} {LAUGHTER ; APPLAUSE} 
+
+{OTHER-SPEAK} Now, may I have a press conference? {/OTHER-SPEAK} {LAUGHTER}
+
+I'm going to make a statement and you get the questions. {LAUGHTER}
+
+{OTHER-SPEAK} Thank you. {/OTHER-SPEAK} 
+
+Take it to the press room and cut it up. {LAUGHTER}
+
+{OTHER-SPEAK} Thank you. This is painful. {/OTHER-SPEAK} {LAUGHTER}
+
+You don't make it look that way. It's painful for me, too. {LAUGHTER}
+
+I'm glad to be joined today by the CEOs of 10 Fortune 500 companies who have come here to meet with me on climate change. These companies represent electric utilities, the oil and gas industry, finance, high technology, and heavy industry. They are all intimately interested in this issue and will be affected by whatever happens on it in our country and throughout the world.
+
+We want a responsible approach to climate change. We believe that the science makes it clear that the climate is changing. I want to proceed based on some fairly straightforward and simple principles. First of all, as we get ready for the Kyoto conference, I believe there should be realistic but binding limits to emissions of greenhouse gases. I believe that we have to do it in a way that keeps our economy growing. And I believe that we ought to embrace flexible, market-based policies. I believe we should reemphasize and reenergize our efforts in research and development to find as many technological solutions to this as possible, and to keep our nation in the forefront of what is now a $400 billion market for environmental technologies.
+
+And finally, I believe the agreement has to be a global one. I think all nations, developed and developing, should be a part of this. So this is part of an ongoing process that I and our administration have undertaken to try to make sure we're working together with all the people who would be affected by this issue and try to reach, hopefully, a common position.
+
+We're going to have a good meeting today, and I'm looking forward to it. And, again, I want to thank all the executives for coming here and giving vent to their views. 
+
+{/speech}

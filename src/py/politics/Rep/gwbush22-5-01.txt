@@ -1,0 +1,81 @@
+﻿{title} Remarks by the President at RNC Gala {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 22, 2001 {/date}
+{source} http://www.ssa.gov/history/gwbushstmts.html {/source}
+{description} ----- {/description}
+
+
+{speech}
+
+Thank you very much. Be seated. Thank you all very much. Mr. Vice President, thank you for that kind introduction. Governor Gilmore, thank you very much for agreeing to become the Chairman of the Republican Party. Our party will thrive under your leadership, and we appreciate you doing this, sir. {APPLAUSE} 
+
+I want to thank all the folks who worked so hard on this dinner tonight -- Ann Wagner, Al Hoffman, Jeff and Nancy Marcus, from the great state of Texas, all the table chairmen -- thank you so much for your generosity. 
+
+I'm honored to be able to say -- to introduce the Speaker of the House of Representatives, Denny Hastert. Mr. Speaker, you and your team are doing a fantastic job. {APPLAUSE} 
+
+I haven't seen Congressman Armey here, but I know Congressman DeLay is here, as are many other members of the House of Representatives. I can assure you, knowing that we've got such a fine leadership team and a solid core in the House gives the Vice President and me a lot of comfort. And I can't tell you how joyous it is to work with this fine Speaker and the members of his team. 
+
+I would like to have introduced Majority Leader Lott, but he and the other senators are working as hard as they can to get a meaningful, real tax relief package out of the United States Senate. {APPLAUSE} It is time for the Senate to stop delaying tax relief. It is time to move the package on, for the good of the American people. {APPLAUSE} 
+
+I'm so thankful that I did well at the altar. America is better off for it -- we've got a fabulous First Lady in Laura Bush. {APPLAUSE} 
+
+We came to your dinner last year, and I remember the warm welcome in the middle of a hard-fought campaign. A lot of things have changed since then. Last year I had to fly halfway across the country to get here. Today it took me five minutes. {LAUGHTER} For another thing, I was running against the Vice President. This time around I brought a fantastic Vice President with me. {APPLAUSE} And, of course, it's a great joy to welcome Lynn Cheney, as well. {APPLAUSE} The best decision I made in 2000 was to ask Dick Cheney to be my running mate. {APPLAUSE} 
+
+I want to thank you all very much for your generous contributions so that my drive was only five minutes. {LAUGHTER} I appreciate your support during the campaign, and I appreciate so very much your support to make sure our agenda gets advanced. {APPLAUSE} 
+
+As well, there are members of my Cabinet who are here. I'm really proud of the men and women who decided to serve our country. It's a diverse group of folks who are dedicated to one proposition -- a hopeful America. And if my Cabinet Secretaries would stand I'd appreciate you recognizing them. {APPLAUSE} 
+
+And finally, I've assembled one of the finest staffs a President has ever put together, headed by Andy Card, and National Security Advisor Rice, Karen Hughes and Karl Rove -- all these folks work harmoniously; they do what's right for America. And our nation should be proud that such fine citizens are willing to dedicate their life to this great country. {APPLAUSE} 
+
+Laura and I have had the honor of living in the White House for four months and two days. That's already one-twelfth of a term, and we haven't wasted a day. {APPLAUSE} I have visited 28 states and two countries. I met with 46 heads of state, and more than 300 members of the House and the Senate; four Cabinet meetings, one speech to Congress, not to mention a Cinco de Mayo festival, a gathering of Hall of Famers, celebrations for St. Patrick's and Cuban Independence Day, and T-ball. {APPLAUSE} 
+
+It's been a joyous time for us in the White House, and a high honor. And it's been a busy time, and that's just the way I like it. I often said during the campaign that Dick Cheney and I were not going to Washington just to mark time. We came to make good on our commitments for the great people of America. We came to get something done. We weren't afraid to state our case, nor were we afraid to work with anybody who heard our cause. We came not to have Washington change us, but for us to change Washington. {APPLAUSE} 
+
+And I think we started doing that in our own party. We welcome new faces, because ours is a philosophy that is conservative and compassionate. Ours is a philosophy that holds out hope for every single American, no matter what their background or their heritage may be. 
+
+We're also a party of principle and optimism. We believe strongly in our soul not in the supreme wisdom of Washington, but in the wisdom of the American people. Ours is an administration, as America is coming to learn, that it's not afraid to take on the tough issues confronting our country; that we're willing to -- {APPLAUSE} I can remember during the campaign, and perhaps you all do, as well, about the collective yawn from members in the Fourth Estate about tax relief. People used to say, well, he's just saying that because it might make good politics. No, Dick Cheney and I talked about tax relief because we thought it was right for the country. This nation can afford tax relief and we can't afford not to have it, with our economy slowing down. {APPLAUSE} 
+
+And we're making good progress. We're making good progress. I believe we convinced Congress to cut the rates on everybody who pays taxes. We've eliminated this business about the Congress getting to pick and choose who the winners and losers are in the tax code. Our philosophy was fair and descent, and it said loud and clear, if you pay taxes in America, you ought to get tax relief. {APPLAUSE} 
+
+We believe we ought to do something about the marriage penalty. And we believe, once and for all we need to get rid of the death tax in the tax code. {APPLAUSE} Again, Mr. Speaker, I want to thank you for your -- for working with us on this issue. 
+
+Ours is an administration that's willing to talk openly about Social Security reform. Many candidates and politicians and others who have been elected to office never wanted to talk about Social Security. It was called the third rail of American politics. This is an administration that knows we'd better make sure Social Security is reformed, safe and solvent for the older generation, around for the younger generation. And we'll seize the moment to get it done. {APPLAUSE} 
+
+Ours is an administration that recognized our nation has an energy problem, and we laid out solutions to do something about it. I'm sure that maybe some other administration has talked about energy, but we put out a concrete, specific plan, with over 100 recommendations -- 100 proposals -- to ease the burden on the American working people. 
+
+Our plan starts with wise conservation, the use of technology to make sure that we are better stewards of our energy. But California has taught us a lesson -- the state with the second best record of conservation is a state which ran out of energy. And so we need additional supplies. We need reliable supplies. We need a balanced approach to our energy. We need clean coal technology, and natural gas exploration, safe nuclear power, as well as alternative sources of energy. 
+
+And finally, we must face up to the problem that we're having problems getting energy from the power plant to the light switch. We need to modernize our infrastructure. No, ours is an administration that won't simply look at a problem; we'll address it in a concrete, specific way. {APPLAUSE} 
+
+We need to have better language when it comes to energy. I mean, the people of this country have somehow been told that you're either for the environment and against energy policy, or you're for an energy policy or against the environment. That's the old way of thinking. That's stale, old-style politics. You and I know it's not either-or; with good, sound policy, it's both. We can increase our energy supplies so the people can find work, and we can protect our environment at the same time. {APPLAUSE} 
+
+Ours is an administration that's also pushing a compassionate conservative vision. It starts with making sure that every child is educated in America. We've laid out a bill that we're working on in the Congress right now that talks about sound, solid principles to make sure that not one child gets left behind. It begins by setting high standards for every child. 
+
+Ours is an administration that believes that every child can learn. And we refuse to accept low standards, because we understand low standards means lousy results for children all across the country. Ours is an administration that trusts the local people to chart the path to excellence. 
+
+And ours is an administration that insists upon results. We want to know. We want to know whether our children are learning to read and write and add and subtract. And if they are, we'll praise the teachers. But if not, we'll demand something else happens for those children. There are no second-rate children in this great land of ours, and there are no second-rate dreams, as far as we're concerned. {APPLAUSE} 
+
+We've taken on a different task when it comes to welfare reform. I strongly believe that this nation must rally the armies of compassion which exist in every neighborhood in America. The reason I believe that is because I understand the true strength of our country. It's not in the halls of government, it's in the hearts and souls of loving citizens. I understand cultures and societies change one heart, one soul, one conscience at a time. And government can fund, but what government can't do is cause people to love one another. 
+
+Perhaps the most important initiative of all of the Bush-Cheney administration is to push a faith-based initiative that says loud and clear, government will never fund religion, but government will stand side by side with the soldiers in the armies of compassion to make sure lost souls are found; to make sure wanting children have somebody to love them in the form of a mentor. {APPLAUSE} 
+
+No question this is an ambitious agenda. But it's exactly what the Vice President and I told the American people we would do. You know, Washington is a place with many temptations. And one of them is to settle in and just go along and forget about the commitments you made during the course of a campaign. But this is an administration which will keep its word. And we expect others to do so, as well. 
+
+We may not always agree, but hopefully, we can be honest with each other, and respect each other, and change the tone of Washington, D.C., so that when people look at the Nation's Capital they will be proud of what they see. {APPLAUSE} 
+
+Changing the tone of our Nation's Capital hasn't been easy. I realize that in politics, old ways die hard. Washington at times has got a plenty sharp edge to it. The only thing I can do, and the only thing Dick Cheney and others in our administration can do is to control our own responses. When I hear my policies and my nominees attacked in a hostile and partisan way, I simply hear the echoes of an era behind us. {APPLAUSE} 
+
+I'm not going to take the bait. I'm going to lead this country to a new level of respect. {APPLAUSE} I came to this town to change the tone of the capital. And I'm not going to quit. 
+
+You know, Mark Twain used to say, always do right; this will gratify some of the people, and astonish the rest. {LAUGHTER} We're going to do the right thing. We're going to pass an agenda that focuses on the American people. We will share credit for success, because we understand the best politics is good public policy. {APPLAUSE} 
+
+I think our good party will have a strong record of accomplishment to run on. The people of this country will be able to say, we elected them; they went to Washington; they did what they said they were going to do, and the people are better off for it. 
+
+I also think the people of our country will be able to look at their Nation's Capital and begin to see a group of folks working hard to usher in a period of personal responsibility; a period in our country when everybody understands that each of us are responsible for the decisions we make in life. It starts with those who are fortunate enough to be a mom or a dad -- that each of us must understand our primary job, our primary focus must be to love our children with all their hearts and all our souls. 
+
+The responsibility era says that each of us must be responsible for what we say and what we do. And a period of personal responsibility understands that we must love a neighbor just like we'd like to love themselves. I'm absolutely convinced we're on our way to ushering in this new culture. And I believe America will be better for it. And I'm honored to be the President during the period of time when this nation will realize its full potential. {APPLAUSE} 
+
+Thank you all for having me. God bless you all, and God bless America. {APPLAUSE} 
+
+{/speech}

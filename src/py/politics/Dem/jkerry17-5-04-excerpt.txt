@@ -1,0 +1,89 @@
+﻿{title} John Kerry Speaks in Topeka, Kansas {/title}
+{event} ----- {/event}
+{speaker} John Kerry {/speaker}
+{date} May 17, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+... continues to inspire freedom lovers and freedom movements here in America and around the globe, and it started right here in Topeka. {APPLAUSE} 
+
+But that's no surprise to any of you. Topeka was always the place for making history. Two hundred years ago, Lewis and Clark mapped out the site of this city in their journey of discovery across the continent. One hundred and fifty years ago Topeka became the free state capital, battling against pro-slavery {COMMENT="Inaudible"} . {APPLAUSE}
+
+And 50 years this very day the next great battle for freedom was centered right here in Topeka. Topeka's segregated schools summoned Brown, and Brown summoned our country to make real the ideal of one nation and one people: a nation where one day, all of God's children would live in the light of equality; a nation where, Dr. King said later, we would be able to transform into a beautiful symphony of brotherhood. 
+
+Those of us who have embraced this vision have redeemed the promise of America and every day make our country stronger. 
+
+It's hard to believe that it's been 50 years since Brown, 50 years since the color of your skin determined where you could get a drink of water, where you could sit on the bus, whether you could eat at a lunch counter, and where you could go to school. 
+
+In 1954, in Topeka, there were 18 neighborhood schools for white children and just four black-only elementary schools. Oliver Brown thought that it was wrong that his 7-year-old daughter Linda and her friends had to walk a mile through a railroad yard every day just to catch a bus to their segregated elementary school. The trip took more than an hour. 
+
+And on the way, Linda walked right passed the closed doors of a white elementary school just three blocks from her home. It was separate but it was not equal. And the Supreme Court agreed. And that decision became a turning point in America's long march toward equality. And although the journey isn't finished, as we've heard from other speakers this morning and as I will point out myself, Topeka has been transformed in these 50 years. 
+
+We are joined today as I mentioned earlier by Topeka's first African-American mayor, James McClinton. {APPLAUSE}
+
+And isn't it a measure of the progress that we've made that Topeka has a school superintendent who 50 years ago couldn't have walked the halls of many of the schools in this city? Today Tony Sawyer is not only walking the halls, he is commanding the corridors of power in the Topeka school system. {APPLAUSE}
+
+All of America -- all of America is at a better place because of Brown. Back then only 4 percent of African-Americans had college degrees. Today nearly 20 percent are college graduates. But we have more to do. 
+
+In the 1950s, there were less than 200 black elected officials in all of America and even fewer Hispanic Americans. Now there are more than 14,000, including the 59 members of the Congressional Black and Hispanic Caucuses in the Congress. But we have more to do. {APPLAUSE}
+
+There were no African-Americans on the big corporate boards back then. Today there are more than 40 percent of the Fortune 1000 companies with black directors and nearly 15 percent have Latino directors. But we have more to do. 
+
+And while it wasn't until six years before Brown that President Truman integrated the military, I can tell you from first-hand experience that service to our country, loyalty to mission, and to brother and sister soldiers on the battlefield knows no color line. {APPLAUSE} 
+
+Whether we hail from the foothills of Appalachia, the street corners of Topeka, the neighborhoods of Flushing, the barrios of East Los Angeles or the reservations of Arizona, whether we are new immigrants to our country or descendants who came over on the Mayflower or who were brought here on a slave ship in shackles, when we fight side-by-side in places like Vietnam and Iraq and Kosovo and Bosnia and Afghanistan, we are all Americans sacrificing for the same country, praying to the same god. {APPLAUSE} 
+
+Today more than ever we need to renew our commitment to one America. That's the meaning of these children sitting on these steps, that's the meaning of these justices of our courts sitting here today, that is the meaning of this commemoration. 
+
+We should not delude ourselves into thinking for an instant that because Brown represents the law, we have achieved our goal, that the work of Brown is done, when there are those who still seek, in different ways, to see it undone, to roll back affirmative action, to restrict equal rights, to undermine the promise of our Constitution. 
+
+Yes, we have to defend the progress that has been made, but make no mistake, we also have to move the cause forward. That is our responsibility and our mission. {APPLAUSE}
+
+Brown began to tear down the walls of inequality. The next great challenge is to put up a ladder of opportunity for all, because as far as we have come, we still have not met the promise of Brown. We have not met the promise of Brown when one-third of all African-American children are living in poverty. We have not met the promise of Brown when only 50 percent of African-American men in New York City have a job. We have not met the promise of Brown when nearly 20 million black and Hispanic Americans don't have basic health insurance. And we certainly have not met the promise of Brown when in too many parts of our country, our school systems are not separate but equal, but too many of them are separate and unequal. {APPLAUSE}
+
+We haven't met the promise of Brown when leaders who fought to help bring us Brown, leaders of the NAACP and the Leadership Conference on Civil Rights, in 2004 find that the doors of access to the highest places of power in America are closed to them. {APPLAUSE}
+
+We have not met the promise of Brown when a fourth-grade Hispanic child is only one-third as likely to read at the same level as a fourth-grade white child; when only 50 percent of African-Americans are finishing high school and only 18 percent are graduating from college. Our children will never have equal opportunity unless, once and for all, we close the ever-widening gap of achievement. We know the answer is both higher educations, higher expectations and greater resources. {APPLAUSE}
+
+It is not a political statement, it is a matter of common sense and it is a matter of truth to say to America: You cannot promise no child left behind and then pursue policies that leave millions of children behind every single day. {APPLAUSE}
+
+Because that promise -- that promise is a promissory note to all of America's families, and it's a promissory note that must be paid in full. 
+
+We cannot be content to see nearly 4 million students in this nation going to schools that are literally crumbling around them. We cannot be content to see those who teach the next generation treated like second-class or second-rate employees, not like the professionals that they are. {APPLAUSE} 
+
+We know from our own lives -- each and every one of you, reach into your heart, reach into your memory: You know there's a teacher who leaps out who made a difference in your life, a teacher who was there, despite all of the disbeliefs. 
+
+Yet today, where the best teachers are needed the most, they are too often paid the least. 
+
+And so how do we honor... {APPLAUSE} 
+
+... how do we properly come here today to honor the legacy of Brown? That question was answered some 20 years before the decision by a son of Lawrence, Kansas, and one of America's greatest poets, Langston Hughes. {APPLAUSE}
+
+In one of his most soul-wrenching poems, Hughes challenged the nation to let America be America again. He called that generation to fulfill the unmet promise of America. 
+
+"Oh, let my land be land where liberty is crowned with no false patriotic wreath, but opportunity is real and life is free, equality is in the air we breathe." 
+
+And so we honor the legacy of Brown by letting America be America, by reaffirming the value of inclusion, of equality and diversity in our schools and in our life all across this nation, by opening the doors of opportunity so that more of our young people can stay in school and out of prison, by lifting more of our people... {APPLAUSE}
+
+... by lifting more of our people out of poverty, by expanding the middle class, by providing health care to all of our children in America, and by bringing jobs, hope and opportunity to all of the neighborhoods of the forgotten America. {APPLAUSE} 
+
+We must let America be America again. We must work together to turn back the creeping tide of division that Thurgood Marshall and so many others fought so hard against. 
+
+We must never forget that the Brown decision came in the wake of World War II, when African-American soldiers helped to save freedom in the world only to return to brutal inequality here at home. 
+
+They didn't ask for special treatment or special extra help. They just wanted the fullness of freedom in their own lives. They wanted to see the end of the "White only" signs at the restaurants and the movie theaters, at the schoolhouse doors and the department stores. They wanted to see an end to the invisible but all too real "White only" sign that reached from Congress into every great corporation and business in small towns and communities across America. 
+
+And when I joined so many other veterans of the Vietnam era, the Vietnam War, to return to a nation without a welcome, America gave those veterans also a first-hand view of how those on the front lines of combat, black and brown, who had been the casualties in far greater numbers than their representation of our population, of how they were shunned even after that service. 
+
+Their unemployment numbers were higher. Their opportunities were less than those with whom they had served. And the ravages of postwar trauma were felt even more heavily on their families and in their lives. 
+
+The memory of all of these patriots, of all of those periods of service, and the decision that we commemorate today tell us again and call us again to the America that we must become. 
+
+Our brave men and women who are on the front lines far away in Iraq and Afghanistan and elsewhere in the world deserve no less today. For them and for our country, 50 years later, 50 years after Brown, we have only just begun. For America to be America for any of us, America must be America for all of us. 
+
+Thank you and God bless. {APPLAUSE}
+
+{/speech} 

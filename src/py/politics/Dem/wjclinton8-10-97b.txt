@@ -1,0 +1,44 @@
+﻿{title} Remarks by the President at Dnc Reception {/title}
+{event} The Kushner Companies, Florham Park, New Jersey {/event}
+{speaker} Bill Clinton {/speaker}
+{date} October 8, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Thank you, Jim, and thank you, ladies and gentlemen, for being here for him and for our Party and for what we're fighting for.
+
+I want to thank my longtime friend, Alan Solomont, for being here and for being the Finance Chair of our Democratic Party -- yes, you can clap for him, that's a nice -- why don't you do that? He has a thankless job. {LAUGHTER} When he calls people, you know -- even when he calls me, I think he's going to call and hit me up for a contribution any day. {LAUGHTER}
+
+But most of all I'd like to thank the Kushners, Charles and Seryl, and thank you, Rae Kushner; and thank you Mrs. Felsen. And I thank the children who gave me the shofar. Joshua and Nicole, Dara and Miryam, thank you. And I'm glad we've got a long-distance connection to Israel. In a way, I always have a long-distance connection to Israel. {LAUGHTER} President Weizman was just here and we had a great visit. And of course Mr. Arafat and Prime Minister Netanyahu had a visit of their own, and we're hopeful that the peace process is back on track and so is the -- that the security process is back on track, and I know all of you hope that, as well. But we're working hard on it.
+
+Let me just briefly say that I came to New Jersey today for Jim McGreevey for what I think is a very good reason -- it is entirely positive, there's nothing negative about it --and that is that in the next several years, for the foreseeable future in the 21st century, who happens to be governor of any state and what decisions they make will have a bigger impact on how people live than in the previous 20 years, as an inevitable outgrowth of the way the world is changing, the way we change how we govern ourselves, how we make decisions, and how we go forward. And I think it's very important.
+
+Let me say that a lot of you have helped me a lot over the last several years, and for that I am very grateful. I think we are much closer than we were five years ago to realizing the vision that I started out with when I announced for governor -- for President, and I was a governor. I'm going to talk about that in a moment.
+
+That is, I think we're closer to the time when every American has a chance to live out the American Dream if he or she will work for it. I think we're closer to the time when our country has articulated a vision that will maintain our world leadership for peace and freedom and prosperity and security. And I think we're closer to a time, although we still have a lot of challenges, in which we can reach across all the racial, the ethnic, the cultural, the religious lines that divide us, and stand in stark contrast to what is going on in so much of the world today and to the terrible story that Charles told us that had such a wonderful ending -- of his family -- by being a country that really can embrace all this diversity, celebrate it, respect it, honor it, and say we're still bound together as one America. And I feel very good about that.
+
+There is still a lot to do. There is a lot going on in Washington. I'm still trying for the fifth year in a row to pass campaign finance reform. And the opponents thought they had killed it yesterday, but we've got a little life left in us up there. And if you can influence anybody, I hope you will -- although I want to say that Senator Torricelli and Senator Lautenberg are part of the unanimous vote in our caucus for the McCain-Feingold bill and for campaign finance reform, which I very much appreciate.
+
+We're dealing with the trade issue and the question of the extension of the President's authority to conduct trade negotiations with other countries and then have the Congress vote up or down on the bill, which is essential for me to make those agreements and to continue to expand trade. Otherwise, no one wants to negotiate with 535 people; they want to negotiate with one person.
+
+And there's a lot of debate and it's a healthy thing. Because what we really want in the global economy is more involvement in the world economy in a way that benefits America, but also having our communities make the appropriate response for people who have or will suffer as a result of dislocations in that economy. We owe that to them. That's what we're trying to achieve.
+
+We had a fascinating conference this week on climate change. I'm convinced the climate is warming at an alarming rate and that we have to do the responsible thing to lower our emissions of greenhouse gases into the atmosphere. But it's a difficult problem for a democracy to address because it's not on anybody's back right now. It's something that's out there ahead of us. But if we do a little bit now we can avoid disastrous consequences and much more burdensome actions later.
+
+Hillary and I are going to have the first White House Conference on Child Care at the end of the month. And that's a huge problem. We have more people in the work force than ever before, a higher percentage of people in the work force than ever before. But the most important job any of us has is our job to raise our children well. I know you believe that. I had more people -- we just all took our picture -- I had a higher percentage of people in the line that I just stood in ask me about my family and my daughter than any photograph line I have ever stood in in my whole life. And that's a great tribute to you and your values. And I thank you for that.
+
+But this child care issue is really about whether all these people who have to work who also have children, can succeed at work and at home. And we shouldn't have our country making a choice there. We don't want to crater to the economy, but our most important job is to raise our children well.
+
+So we're full of all these challenges, and it's exciting. But we have to -- when I took office, we had this huge deficit and basically a yesterday's government. And I made a commitment, as I've said many times, to policies that favored the future over the past, change over the status quo, unity over division, and things that benefit everybody instead of just a few people. And that required changes, so we down-sized the government, we shared more responsibility with state and local government and the private sector. And state governments, anyway, have primary responsibility for things like auto insurance rates and, constitutionally, education.
+
+So I could go out here and talk until I'm blue in the face about the importance of embracing national education standards. The United States is the only great country in the world that has no national standards of academic achievement that guarantees international capacity -- in terms of operating the economy -- that everybody has to follow. We're not talking about federal government standards. We're not talking about imposing anything on anybody. It's totally voluntary. But that means that every governor may will decide whether to participate in the standards movement.
+
+So the decisions made by the Governor of New Jersey in the next 20 years, almost certainly, will range over a wider scope and have a deeper impact on the lives of the people of New Jersey than in the previous 20 years. And if my vision is going to be fulfilled, we have to have a partnership that really works: to grow the economy, to fight crime, to preserve the environment, to deal with social problems, and most importantly, to make sure that every child in this country has a chance to live out his or her dreams with a decent education.
+
+That's why I showed up here today -- because this young man actually has an idea of what he will do if he gets elected. He's not running for Governor because he wants to live in that magnificent old house. New Jersey I think has the oldest and perhaps the most beautiful old governor's mansion in the country. He actually has an idea of what he wants to do, and I think it's the right idea.
+
+And I hope you'll help me achieve it. Thank you. Bless you. {APPLAUSE} 
+
+{/speech}

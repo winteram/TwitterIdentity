@@ -1,0 +1,47 @@
+﻿{title} Remarks by Vice President at Tribute to Senator Hillary Rodham Clinton {/title}
+{event} ----- {/event}
+{speaker} Al Gore {/speaker}
+{date} January 7, 2001 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Thank you, Chuck. Thank you, my friends. Thank you, New York. {APPLAUSE} One point seven million times, thank you. You are the greatest. Thank you very much. 
+
+Mr. President, Senator Clinton, Chelsea -- Tipper and I are so honored to be here. Senator Schumer, Congressman Rangel, Chairperson Judith Hope, distinguished leaders and guests in the audience. 
+
+I'm very grateful that Senator Clinton invited Tipper and me to be with them and you here today. And I'm grateful for the opportunity I'll have after the President's remarks to give the Oath of Office in the ceremony at center stage. It's a very meaningful event -- a reenactment, but it's in many ways the real one, because this is the audience that made it happen, and we appreciate what you did. {APPLAUSE} 
+
+She is a cherished friend, an admired leader, a great First Lady and, I predict, one of the best senators this state and this country will ever know. {APPLAUSE} And I'd just like to take a moment to congratulate you, Senator Clinton, not only on winning, not only on all the votes you received, but on getting your votes counted and finishing the race on time and actually winning it. You did a great job. {LAUGHTER ; APPLAUSE} You know, some people overlook that part. {LAUGHTER} 
+
+I enjoyed the entertainment more than I can tell you. Didn't that fill our hearts? Wasn't that fantastic? Unbelievable. {APPLAUSE} And I enjoyed the prayers. I have never heard so many applause lines in prayers -- {LAUGHTER} -- and I'm a Baptist. {LAUGHTER} 
+
+We had a great time on the floor of the Senate not long ago. We were a little late getting started; Senator Lott was outside looking for storm clouds. {LAUGHTER} There weren't any. {LAUGHTER} 
+
+The truth is, in extraordinary circumstances and in ordinary ones, when human rights are at stake around the world or when the adoption of one child is at stake in New York, when millions of children lack the health care they need or when a single family in Buffalo lack the opportunity it needs, Hillary Clinton's passion to serve and her basic commitment to people have enabled her to help those who need help and to open doors for those who have found them closed. 
+
+For 13 more days I'll have the privilege of serving as the President of the Senate, and I don't know as much about the Senate as Senator Robert Byrd, but I took the occasion to look at the history of New York's delegation and the history of the Senate seat that Hillary Clinton moved into. 
+
+It was from this seat that Robert Kennedy challenged the conscience of the nation, and Pat Moynihan challenged us to strengthen and protect the American family. Much earlier, this seat was held by Martin Van Buren -- {APPLAUSE} -- thank you, it's always an applause line. {LAUGHTER} You know that he was the first President to be born under the American flag. And Aaron Burr -- that never gets applause. {LAUGHTER} He was the first and, hopefully, the last Vice President to fire a gun at a member of the President's Cabinet. {LAUGHTER} 
+
+And also in those early days, this seat was held for a brief time by a man named Governor Morris. Now, the history students here know very well that's actually his first name. You've seen that name signed on the Constitution; he fought for American independence, sat in the Continental Congress. He lost his seat because of his failure to support a governor named Clinton. {LAUGHTER} It's a true story. About 200 years ago, New York's Governor Clinton believed that Vermont should belong to New York. {LAUGHTER} 
+
+Well, most New Yorkers agreed -- most New Yorkers agreed. {LAUGHTER} Governor Morris didn't, and so New Yorkers kicked him out. {LAUGHTER} I'm not trying to give you any ideas, Senator; I know you've already introduced your first bill and Pat Leahy would really be opposed to that. 
+
+But my point is really a simple one: you can look at the scope of New York's history and the unbelievable quality of leadership for this nation that has been provided by New York, from the vision and compassion of Franklin Roosevelt to the soaring idealism of Robert Kennedy to the piercing wisdom of Mario Cuomo, the all around excellence and dedication of Chuck Schumer. Leaders like Bella Abzug, who broke down barriers and upheld justice. {APPLAUSE} Charlie Rangel, with his tireless advocacy for those who need better schools and equal opportunity. {APPLAUSE} And who in two years will be Chairman of the Ways and Means Committee in the United States Congress. {APPLAUSE} 
+
+I mean, let's face it, New York's leaders haven't exactly been slouches. And that is why the people of New York chose so wisely when they elected this new senator. You can see her leadership in the fights that she has taken on for America's children and families; from affordable health care to sound economic policy to the expansion of Head Start, immunization, early childhood education and so many other causes -- internationally, as well. 
+
+So today's swearing in is especially meaningful for Tipper and me. It's one of the last events that the four of us will be doing together, and one of the last opportunities that I'll have to say on a stage like this what a great thrill it has been to be able to serve the people of this country under the leadership of President Bill Clinton, who turned the economy of this nation around -- {APPLAUSE} -- who put this nation's economy on the right track, to reduce the crime rate, who brought inner cities back to life. 
+
+For all we've achieved together, though, my strongest memories are the times that we've spent on the bus together. And that bus started it's eight-year journey right here, outside this very building. {APPLAUSE} And so in a very real sense, that journey has come around full circle, right back here. 
+
+We believed during that journey that this country could be made new again. And you know what? It has been. {APPLAUSE} That mission is still underway. And, of course, there is much work to be done. And this much I know -- and I know it without reservation -- Senator Hillary Clinton is going to make this state very, very proud. She will be a strong and graceful voice for all those whose uniquely American Dream have yet to be fulfilled; and of no small consequence to Tipper and me, she will have as one of her youngest constituents, our grandson. So we really have a big stake in this. {LAUGHTER} 
+
+Now, my friends, I'll return to give the Oath of Office. But I am pleased and honored, for one of the last times that I'll have the opportunity to do so as Vice President, to introduce a great leader and a great friend; someone who gave me the opportunity to serve as his ally in that remarkable eight-year journey to a better America. 
+
+And I say without any fear of contradiction that he will be the most prominent and most instantly recognizable member of the Senate Spouse Club, President Bill Clinton. {APPLAUSE} 
+
+{/speech} 

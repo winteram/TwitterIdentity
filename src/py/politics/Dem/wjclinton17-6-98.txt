@@ -1,0 +1,79 @@
+﻿{title} Remarks by the President at 21st Century Learning Grants Event {/title}
+{event} 21st Century Learning Grants Event {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 17, 1998 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Ladies and gentlemen, Hillary and I are delighted to have all of you here in the Rose Garden today for a subject that we care a great deal about. I thank especially Senator Jeffords for his leadership, Congressman Boswell, all the members of Congress who are here. I thank Secretary Riley and the Attorney General for their consistent and dedicated efforts for our children and to improve the lives of our children. And Chief Frazier and Gloria Nava did, I thought, a marvelous job.
+
+Let me say, as Hillary and Gloria made clear, for millions of Americans, Home Alone is not a funny movie, it is a serious risk that children and parents undertake every day all across this country. On any given school day in America, there will be as many as 15 million children left to fend for themselves, idle in front of the television sets or out on the streets and exposed to gangs and guns and drugs.
+
+Incidents of violent crime by juveniles more than double in the hour after school lets out, and interestingly enough, our children are also at greatest risk of becoming victims of crime in the hours immediately after school. But in communities where children have something positive to do, youth crime is dropping and academic performance is on the rise.
+
+The Justice Department and the Department of Education are today releasing a report to every school district in the country and to the public at large which shows just how much of a difference these after-school programs are making. In Chicago, for example, a program with which Hillary and I are familiar, the Lighthouse Program is now reaching more than 110,000 children and nearly 250 schools around the city with intensive after-school instruction in reading and math. This remarkable program also provides children with three meals a day in the school. And I'm very proud that the Department of Agricultural, with its support, helps to make this possible. Since that program began, not surprisingly, gang activity is down and reading and math scores are up.
+
+We have to do everything we can to give every community in this country the tools to follow that lead. Today we are announcing $40 million in competitive grants that will help more than 300 schools to start after-school programs of their own. As all of you know, they're part of the 21st Century Community Learning Center Initiative, which was sponsored in 1993 in my first year in office by Senator Jeffords.
+
+These grants will give now thousands more children a safe place to go before and after school, and good things to do. San Francisco, for example, will use the grant specifically to target kids most at risk of joining gangs or using drugs. Baltimore County, which already has, as you heard, successful after-school programs, will focus on helping more children to improve their academic performance.
+
+But I think it's important to note two things. One is -- not withstanding the wind -- {LAUGHTER} -- this is a universally successful strategy. This is not complicated. This is something simple, that has broad support, that saves lives and improves learning. The second thing is, out in America everybody has figured this out, so that for every grant we will able to give, there were 20 schools that applied but aren't getting help today. So we have to do more.
+
+In January, as part of my efforts to give quality affordable child care to all the families in this country who need it, I proposed the largest after-school commitment in America's history, $200 million a year over the next five years to expand the 21st Century Community Learning Center program, to reach a half a million children. Now, these programs have broad bipartisan support, and I very much hope that Congress soon will act to fund this request fully. Remember, there were 20 schools that had good programs that wanted this money for every one school on that map. We can do better, and we must.
+
+Let me also say again to Senator Jeffords, this is the kind of bipartisan support that works for our country. Whenever we put the progress of the American people and the future of our children ahead of partisan politics in Washington, America wins. And that's what we need to do. {APPLAUSE}
+
+Before we close, I just have to mention -- make a couple of other points. In that spirit, I have been working for six months to craft a comprehensive, bipartisan bill to protect our children from the dangers of tobacco -- the biggest public health for children in America today. As we speak, the Republican Caucus in the Senate is meeting behind closed doors to discuss, perhaps even to decide, the fate of the tobacco bill. I urge them not to turn this meeting, literally, into a smoke-filled room; to protect the children and not the tobacco lobby.
+
+We have worked very, very hard to make this legislation fair and bipartisan. We have met the majority in the Senate more than halfway. They said they wanted a tax cut to be part of the tobacco bill since we were raising the price of cigarettes to discourage children from buying them. We said, all right. They said they wanted some money in this bill to fight drugs as well as to discourage children from using tobacco. We said, fine.
+
+Now, if there is a move to kill or gut this legislation, there can be no possible explanation other than the intense pressure and the awesome influence fueled by years of huge contributions of big tobacco. So I again call upon the Senate majority, and indeed all those in the Senate, to pass this tobacco bill. Let's get it over to the House, let them have a chance to pass a bill, and let's do something that will give this country to have a lasting public health legacy in a bipartisan way. Thank you very much. {APPLAUSE}
+
+{AUDIENCE-MEMBER} Mr. President, what will you do if the Senate decides to pull the tobacco bill, sir? What are your alternatives?
+
+Mr. President, about Japan, how far are you willing to go to support the yen? {/AUDIENCE-MEMBER} 
+
+Let me -- you all don't even need to sit back down. I'm going to answer this one question; then we'll visit.
+
+The question was about the support of the United States for the Japanese yen. Let me say, I talked to Prime Minister Hashimoto last night, oh, for 20 or 30 minutes at about 11:30 p.m. our time. Japan is very important to the world, especially to the United States and to the efforts we're making to support an economic recovery in Asia, which is very important to keeping our own economic progress going. It is important that they take some critical steps, and as they do them, we will support them.
+
+I was very encouraged by the Prime Minister's statement that he intends to pursue aggressive reform of their banking institutions and intends to do the things that are necessary to get the economy going again. And, therefore, I thought it was important that we support them.
+
+In terms of the details of our support, they are contained in Secretary Rubin's statement today and I couldn't do a bit better than he has done. But we're doing the right thing and I think the Prime Minister of Japan has done the right thing, and we've got a chance to turn that situation in Asia around before it gets any worse. And America needs a strong, growing, stable economy in Asia. And I am encouraged by what the Prime Minister said last night and heartened, and we're glad to help and we hope we will be of some help today.
+
+Thank you very much. {APPLAUSE}
+
+
+--------------------------------------------------------------------------------
+
+{AUDIENCE-MEMBER} Mr. President, what are you going to do about the House plan to scrap the tax code?
+{/AUDIENCE-MEMBER} 
+I think this plan to scrap the tax code is superficially appealing to since there is something about the tax code that everybody dislikes, but it would be a significant mistake to vote to do that without a replacement, especially now. Why? Because if you voted to get rid of it without saying what the replacement was, you would put individual Americans and families in an uncertain position about their investments in health insurance, in retirement, in education, in homes. You would put businesses in a period of uncertainty about their long-term investments and the tax treatment of that. It could create uncertainty in the financial markets and, therefore, could have a significant negative economic effect on America.
+
+Now, with all this other economic uncertainty around the world, everyone is looking to us as a stable, rock-solid, forward-moving country, trying to give stability to other countries. The last thing in the world we need to do right now is to send some signal of instability, that we've decided to get rid of our whole tax code without knowing what to replace it with.
+
+Now, I'm all for simplifying the tax code. I wouldn't rule out any option if I knew what the alternative was. The Congress has a bill and has had a bill for months that has already passed both Houses to dramatically simplify and overhaul the way that IRS works; it still hasn't been sent to me. And I hope it will be sent soon.
+
+But this would be a bad mistake in my view in enacting this procedure.
+
+{AUDIENCE-MEMBER} Would you veto it? You would veto it? {/AUDIENCE-MEMBER} 
+
+I'm going to do my best to beat it. And I don't want to give anyone the excuse to vote for it by saying I'll veto it. Because sometimes when you do that, you wind up having so many people vote for it that you don't have enough people to sustain your veto.
+
+But it's not -- this is something we shouldn't play games with. This is a period of instability in Asia, of uncertainty in other parts of the world. We're working with our friends in Japan, our friends in Russia, with the people in other parts of the world to try to stabilize their economy and restore growth. We don't want to send out a signal of instability and uncertainty now. And we don't want to do it to individual families as well. So this is something that sounds good, but I'm convinced it isn't. You shouldn't get rid of what you have until you know what you're going to replace it with.
+
+{AUDIENCE-MEMBER} Was changing the -- intervening on the yen really against U.S. policy ordinarily? {/AUDIENCE-MEMBER} 
+
+No -- well, not necessarily, but it's something we've done rarely. But, as I said, I talked to the Prime Minister last night, and I've been working with him now for more than a year to deal with these difficulties. Keep in mind, Japan has been in a period of very low growth for several years now, and I'm convinced that he has been methodically trying to deal with these challenges. And last night he said some things which made it clear that he was prepared to take some bold strokes, bold steps to try to move the Japanese economy forward, restore growth and opportunity. And I believe in that context we should be supportive.
+
+You never know whether what you do in all these things will make a large difference, but I wanted to send a clear signal to the markets that the United States supports Japanese reform, believes the Japanese people can pull out of this economic slump and restore growth and opportunity. And it's very important to all of Asia. It's a very big deal to all of Asia.
+
+So I think we did the right thing. I don't have any question about that.
+
+{AUDIENCE-MEMBER} Mr. President, your alternative would be to -- pull the tobacco bill, sir? {/AUDIENCE-MEMBER} 
+
+They need to pass it. They need to pass it. I know the tobacco companies have been running these ads all over America and I know that the Cancer Society and the Heart Association and the Lung Association doesn't have the money to run ads against them. But down deep inside, the American people know what the truth is. The Senate needs to pass this bill. That will put pressure on the House to pass the bill. Then we'll go to Congress and fashion the best possible bill we can that we can pass in both Houses and do something good for America this year. That's what we ought to do. 
+
+{/speech}

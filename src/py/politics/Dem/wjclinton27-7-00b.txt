@@ -1,0 +1,22 @@
+﻿{title} Remarks by the President,Senator Tom Daschle And Congressman Dick Gephardt At Democratic Agenda Event {/title}
+{event} Democratic Agenda Event {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 27, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Democratic Agenda Event {/description}
+
+{speech} 
+
+Debbie, I want to ask your parents and all your siblings and family members to stand -- everybody that is here from Debbie's family, stand up. {APPLAUSE} Isn't that great? Bless you.
+
+I just want to make a couple of points in closing. If the Congress passed only our college opportunity tax cut, it would be worth ten times as much to families like Debbie's as the entire Republican tax cut.
+
+The second thing I want to say is, if interest rates rise 1 percent higher than they otherwise would be because we spend the entire surplus on tax cuts, it will cost the average family $270 a year, which is more than they'll get in a tax cut.
+
+The final thing I want to say is this: even if you don't think you'll get any benefits out of any of these tax cuts we've proposed -- keep in mind, all this proposed surplus that they want to spend is just that, it's estimated. We don't have a dollar of it yet.
+
+Now, if you got one of those letters in the mail from Ed McMahon -- {LAUGHTER} -- that said, you may have won $10 million, would you go out and spend $10 million the next day? If you would, you should support their plan. {APPLAUSE} But if you wouldn't, you better stick with us and keep the prosperity going and help people like Debbie. {APPLAUSE}
+
+Thank you and God bless you. {APPLAUSE} 
+
+{/speech}

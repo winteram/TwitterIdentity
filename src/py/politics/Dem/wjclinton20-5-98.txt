@@ -1,0 +1,35 @@
+﻿{title} Remarks by the President on Tobacco Legislation {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 20, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Thank you very much. First of all, I'd like to thank Tara and Emily. There's really nothing much more to say after their presentations. They weren't so muted and shy, I think we all got the point. Didn't you think they were terrific? Give them another hand. I thought they were great. Thank you. {APPLAUSE} 
+
+I'd like to thank all the members of Congress who are here. I think they were all mentioned except we missed Congressman Borski who is in the first seat. No minister would do that in a congregation. {LAUGHTER} Thank you for being here, all of you. Thank you, Reverend Jackson. I thank the public health advocates who are here. I thank the young people who are here, both behind me and a few out there in the audience. I thank the parents of our speakers who came, and other parents who are here for what they have done. 
+
+I can't thank the Vice President enough for his longstanding and absolutely passionate, indeed all-consuming interest in this issue. I think it would be fair to say -- he talked about how we looked at the issue and all the obstacles to it, and I went ahead. The people that had the most influence on me were the Vice President, the First Lady and our daughter. And that was three -- if there were 300 million on the other side, the three would have a majority. So I thank them all, and especially the Vice President for years and years and years of dedicated work on this issue. {APPLAUSE} 
+
+This morning I was thinking that when I was the age of -- even younger than most of the people here in the audience, most of the children here, the biggest public health threat to us was polio. America went to work and conquered the disease, and I was actually part of the first group of children to be immunized against polio. 
+
+Today we all know our greatest public health threat to our children, and indeed to all Americans, are all the related things that can happen to people who are addicted to tobacco. I was a little older than most of the children here when the Surgeon General sounded an alarm that has grown louder, clearer, and more difficult to ignore every year -- the warning that smoking kills. 
+
+For a generation Americans of all ages and walks of life, including young people just like those whom we honor here today, have answered that alarm by fighting tirelessly to conquer this deadly threat to protect the health of our people. In the face of very powerful opposition, our nation has actually won some victories, both large and small, requiring all cigarette packages to carry warning labels, prohibiting cigarette advertising on the airwaves, banning smoking on domestic airline flights. But today, we stand on the verge of passing legislation that will do far more than anything we have every done to stop the scourge of youth smoking. 
+
+This week, as all of you know, the Senate is considering historic, comprehensive, bipartisan legislation, proposed by Senator McCain and Senator Hollings. Over the last few weeks, we have worked very hard with senators in both parties to strengthen this bill -- protecting Americans from the dangers of secondhand smoke in public buildings, dramatically increasing health research, and funding a nationwide advertising campaign to tell young people not to smoke, toughening look-back surcharges to make reducing youth smoking the tobacco companies' bottom line. 
+
+This bill includes a significant price increase to discourage youth smoking and affirms the FDA's authority to regulate tobacco products. I hope that in the next few days, the Senate will make sure we do everything we possibly can, also, to protect tobacco farmers in their communities. 
+
+This bill is our best chance to protect the health of our children, to keep them from getting hooked on cigarettes ever. It is a good, a strong bill. Congress should pass it and pass it now. {APPLAUSE} Let me also say that I believe the presence of the young people here and their active support of the Tobacco-Free Kids movement is absolutely critical. There are still cynics who say well, this is not the kind of problem that requires this sort of solution. After all, nobody forces these people to start smoking. The young people here wearing their t-shirts, willing to look into the eyes of the lawmakers, are a stunning rebuke to that kind of cynicism. I thank them for saying no to tobacco and yes to their own bright futures. {APPLAUSE} 
+
+And I want to tell you that you may well be able to have a bigger impact on Capitol Hill than all the things that we say here in the White House on the remaining undecided voters. Our lawmakers must not let this historic opportunity slip away under pressure from big tobacco lobbying. I want you to go and see them. I know you're going to Capitol Hill -- when you're up there, I want you to ask every member of Congress to go home tonight and think about how they can look you in the eye and say no to your future. {APPLAUSE} 
+
+We now know from the release of previously classified documents that for years the tobacco companies looked on you as -- and I quote -- "the replacement smokers" of the 21st century. But here we have more than 1,000 unique children who cannot be replaced -- the scientists, the artists, the teachers, the Olympic champions, the engineers, the leaders, perhaps a future President in the 21st century. The rest of us have an obligation to see that these children and all their counterparts in every community in our country have a chance to grow and live to the fullest of their God-given abilities. That is what this bill is all about. This is more than just another bill in the legislature. This is more than a culmination of an historic fight between powerful political forces. We have no higher obligation than to give the young people we see here today the brightest, best future we possibly can. That's what this bill is about. And we must pass it. 
+
+Thank you and God bless you. {APPLAUSE} 
+
+{/speech} 

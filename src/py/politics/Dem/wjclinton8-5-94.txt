@@ -1,0 +1,123 @@
+﻿{title} Statement and Press Conference by the President {/title}
+{event} Press Conference on Haitian Policy {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 8, 1994 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good afternoon, ladies and gentlemen. I want to speak for a few moments about the crisis in Haiti, the challenge it poses to our national interests, and the new steps I am taking to respond.
+
+Three and one half years ago, in free and fair elections, the people of Haiti chose Jean-Bertrand Aristide as their President. Just nine months later, their hopes were dashed when Haiti's military leaders overthrew democracy by force. Since then, the military has murdered innocent civilians, crushed political freedom and plundered Haiti's economy.
+
+From the start of this administration, my goal has been to restore democracy and President Aristide. Last year, we helped the parties to negotiate the Governors Island Accord, a fair and balanced agreement which laid out a road map for a peaceful resolution to the crisis. But late last year, the Haitian military abrogated the agreement, and since then they have rejected every effort to achieve a political settlement.
+
+At the same time, the repression and bloodshed in Haiti have reached alarming new proportions. Supporters of President Aristide, and many other Haitians, are being killed and mutilated. That is why, six weeks ago, I ordered a review of our policy towards Haiti.
+
+As a result of this review, we are taking several steps to increase pressure on Haiti's military while addressing the suffering caused by their brutal misrule. We are stepping up our diplomatic efforts, we are intensifying sanctions, and we are adapting our migration policy.
+
+Let me describe these steps. First, to bring new vigor to our diplomacy, I am pleased to announce that Bill Gray, the President of the United Negro College Fund, former House Majority Whip and Chair of the House Budget Committee, has accepted my invitation to serve as special advisor to me and to the Secretary of State on Haiti. {APPLAUSE}
+
+Bill is here with his wife, on his way to the inauguration of President Mandela in South Africa, and I will ask him to speak in just a few moments. But let me just say that he is a man of vision and determination, of real strength and real creativity. And I appreciate his willingness to accept this difficult and challenging assignment. He will be the point man in our diplomacy, and a central figure in our future policy deliberations.
+
+As part of our diplomatic efforts, we will work with the United Nations to examine the changes in the proposed U.N. military and police mission in Haiti. We want to ensure that once Haiti's military leaders have left, this mission can do its job effectively and safely.
+
+Second, the U.S. is leading the international community in a drive to impose tougher sanctions on Haiti. On Friday, the U.N. Security Council unanimously adopted a resolution we had proposed to tighten sanctions on everything but humanitarian supplies; to prevent Haiti's military leaders and their civilians allies from leaving the country; to promote a freeze of their assets worldwide; and to ban nonscheduled flights in and out of Haiti. U.S. naval vessels will continue to enforce these sanctions vigorously.
+
+We are also working with the Dominican Republic to improve sanctions enforcement along that nation's border with Haiti. To shield the most vulnerable Haitians from the worst effects of the sanctions, we will increase both humanitarian aid and the number of U.N. and OAS human rights monitors in Haiti.
+
+While these stronger sanctions will cause more hardships for innocent Haitians, we must be clear: The military leaders bear full responsibility for this action. They can stop the suffering of their people by giving up power, as they themselves agreed to do, and allowing the restoration of democracy and the return of President Aristide.
+
+Third, I am announcing certain changes in our migration policy towards Haiti. Currently, Haitians seeking refugee status, including those interdicted at sea, are interviewed only in Haiti and not beyond its shores. Our processing centers, which have been dramatically expanded in this administration, are doing a good job under bad circumstances.
+
+In 1993, we processed and approved about 10 times the number of refugee applicants as in 1992. In recent months, however, I have become increasingly concerned that Haiti's declining human rights situation may endanger the safety of those who have valid fears of political persecution, who flee by boat, and who are then returned to Haiti where they are met at the docks by Haitian authorities before they can be referred to in-country processing.
+
+Therefore, I have decided to modify our procedures. We will continue to interdict all Haitian migrants at sea, but we will determine aboard ship or in other countries which ones are bona fide political refugees. Those who are not will still be returned to Haiti, but those who are will be provided refuge. We will also approach other countries to seek their participation in this humanitarian endeavour.
+
+The new procedures will begin once we have the necessary arrangements in place. This will take some weeks. Until then, the Haitians must understand that we will continue to return all boat migrants to Haiti. Even under the new procedures, there will be no advantage for Haitians with fears of persecution to risk their lives at sea if and when they can assert their claims more safely at a processing center in Haiti.
+
+The ultimate solution to this crisis, however, is for the military leaders to keep their own commitment to leave, so that Haiti's people can build a peaceful and prosperous future in their own country.
+
+I am committed to making these new international sanctions work. At the same time, I cannot and should not rule out other options. The United States has clear interests at stake in ending this crisis. We have an interest in bolstering the cause of democracy in the Americas. We have an interest in ensuring the security of our citizens living and working in Haiti. We have an interest in stopping the gross human rights violations and abuses of the military and their accomplices. And we clearly have a humanitarian interest in preventing a massive and dangerous exodus of Haitians by sea.
+
+The steps I have announced today are designed to relieve suffering, redouble pressure and restore democracy. Working with the Haitian people and the world community, we will try to advance our interests and give Haiti an opportunity to build a future of freedom and hope. They voted for it and they deserve the chance to have it. {APPLAUSE}
+
+Mr. Gray.
+
+{OTHER-SPEAK} Thank you, Mr. President. I am honored to accept this great and important challenge. I am glad for the opportunity to serve my country and work on resolving one of the greatest challenges we face today. I share the President's determination to help end the suffering of the Haitian people at the hands of their military leaders. I will work towards that end with commitment and with determination.
+
+In accepting this assignment, I want to stress publicly, as I have stressed to you, Mr. President, that I am a private citizen and will remain a private citizen during this work. I have also insisted on serving without pay. My reason for taking on this work is straightforward and very simple. For me, it is an article of faith that when a person is asked by his President to be of service to the nation, he should do so. And today, I respond to that request to serve from my President.
+
+In the months ahead, I look forward to working with you, Mr. President, and your national security team to carry out your policy, promote our nation's interests, and restore freedom and democracy, and above all, hope to the people of Haiti.
+
+Thank you. {APPLAUSE} {/OTHER-SPEAK} 
+
+{AUDIENCE-MEMBER} Mr. President, what makes you believe that these sanctions -- these new policies on returning Haitian refugees to Haiti will work this time? Haven't they been tried before and found to be unreliable or to encourage people to -- {/AUDIENCE-MEMBER} 
+
+Before, when they were tried, the circumstances were somewhat different. First of all, let me answer the question about why we would undertake to change the policy even though there is clearly some logistical challenge involved in doing so.
+
+I ordered the review of this policy six weeks ago when we began first to get intelligence reports and then clear news reports that there was increasing violence against citizens of Haiti who did not agree with the policies of the military regime -- and, indeed, some of them seem to not be political at all -- of people not only being killed but being mutilated. It seems to me reasonable to assume that some of the people who were fleeing by boat are in that group of people who also are fearful of their lives. And the way the boat return has worked so far is that we take the people back, let them off at the dock at Port-au-Prince. They are then -- by and large, they have been free to go to the in-country processing. But they are subject to the authority of the Haitian police at that moment. And I simply think that the risks of that cannot be justified, given the increased level of political violence in the country. Therefore, I think we have to change the policy.
+
+Now, why do I think it will work? First, we've studied what happened before when the policy of inspection of people at sea occurred, and we have determined that two things ought to be done. First, we ought to look for a third-country processing center. And second, if we do it at sea, we ought not to do it on the Coast Guard cutters, which can be quickly overrun in their capacity, but to do it on bigger ships.
+
+We believe if we can -- given a little time to organize this logistically, we can handle it. Also, it will be clear that we are not changing our policy, which is the law of the United States with regard to economic refugees. People who seek to come to the United States for economic reasons only are not eligible for this kind of status.
+
+So we will do these reviews. We think we can do them fairly quickly, in a matter of a few days, and then return those who should be returned and take those who should be taken into the United States.
+
+Ron.
+
+{AUDIENCE-MEMBER} Are you in danger, sir, of sending signals that could open the floodgates for Haitian refugees? And how much, if any, did the fast play into your decision-making process? {/AUDIENCE-MEMBER} 
+
+First let me answer your first question. I hope that we will not have a flood of refugees, but we are increasing our naval resources to deal with them. We are not changing our policy about who can come and who cannot. That is a matter of American law. We are not able to do that, nor should we do that.
+
+But I don't believe the policy we have now is sustainable, given the level of political violence against innocent civilians in Haiti. We have to try to implement this policy. I believe we can, and I think, as we do it firmly, the Haitian people will see we are not opening the floodgates for indiscriminate refugee migration into the United States, but that we are going to try to find those people who have left because they have a genuine fear.
+
+The review of this policy began before Mr. Robinson's fast, but if you will go back and when I was first asked about it I said that I did not mind his criticism of our policy, it obviously had not worked. I said that from day one. And I respect his conviction and his courage and his conscience. And I was gratified by the comments that he said today. And I'm glad that on this Mother's Day he's going to be having dinner with his wife tonight.
+
+{AUDIENCE-MEMBER} Mr. President, on sanctions, your former envoy to Haiti warns that the stricter sanctions will -- could so ruin the situation on the ground in Haiti. I would make it impossible for President Aristide or for anyone Mr. Gray works with to set up there to bring democracy back. What kind of confidence do you have that economic sanctions are going to bring the military leaders out? {/AUDIENCE-MEMBER} 
+
+Well, I think the economic sanctions will have to be coupled with a vigorous and aggressive and broadbased diplomatic effort. And we are exploring all alternatives.
+
+As you know, we have been reluctant to impose the more severe sanctions, although President Aristide and many of the Friends of Haiti group -- the French, the Canadians, others who have worked with us on this for a long time, since -- have advocated this course. In my view, we must exhaust all available alternatives as we try to resolve this diplomatically. And I think it is an appropriate thing to do now.
+
+If we are successful in trying to bring back democracy and to restore not only President Aristide, but the concept, the spirit that was in the Governors Island Accord -- that is, a broadbased, functioning representative government that can relate to the business community as well as to the ordinary citizens of Haiti -- then we will have to get ourselves in gear to try to make sure that that economy comes back as quickly as possible. We're trying to do that with South Africa and others. I think we'll be able to do it.
+
+{AUDIENCE-MEMBER} ? Mr. President, I don't understand why the administration is saying that it does not expect a large influx of Haitian refugees now. Are you saying effectively that you expect the results of the new policy will be the same as the results of the old policy?
+{/AUDIENCE-MEMBER} 
+No, I'm saying -- I think there will be more -- some more people in the sense that we will be reviewing more people simultaneously. That is, we will be reviewing people not only in the in-country processing centers, but we'll be interviewing people either on boats or in a third country. But what I'm saying is that we have not broadened the criteria of eligibility for coming to the United States.
+
+I want to make this very clear. The problem with the present policy is -- the present policy worked in 1993 up through the abrogation of the Governors Island Accord and for sometime thereafter in the sense that we did not have evidence of widespread indiscriminate killing of civilians. And we increased by tenfold, by tenfold, the number of people processed and the number of people approved for refuge in this country for 1993 over 1992.
+
+But when all this killing started, when it became obvious that the military leaders had no earthly intention of honoring Governors Island or anything approaching it, or keeping their commitments, but instead were going to tolerate, organize and abet increased killing in Haiti, it is logical to assume that some of those who get on the boats include not only economic refugees, who are the vast majority of them, but also some who genuinely fear for their lives. The only way we can get those people to the in-country processing is to let them off at the dock in Port-au-Prince where the police have jurisdiction. I do not believe that is a sustainable policy, either practically or morally, given the level of indiscriminate violence.
+
+So there may be some more people who get in because we'll be reviewing even more people. But it would be a great mistake for Haitians who want to come here for economic reasons to just take to the boats, because we are not changing the standard by which we admit people.
+
+Gwen.
+
+{AUDIENCE-MEMBER} It seems there are two outstanding problems. One is that Lieutenant General Cedras said this morning he doesn't really have any intention of stepping aside in order to replace -- in order to make room for President Aristide; and that even your supporters on this policy are concerned that there is still no equivalency between what happens with the United States and Cuban immigrants and the United States and Haitian immigrants. How do you address those two things? {/AUDIENCE-MEMBER} 
+
+Well, I think we are going to have -- we do have an equivalency in terms of people who get here. But we have an obligation to try to let the people who genuinely fear for their lives into this country. We are now going to do that without regard to whether they're processed in country or on boats. Therefore, the legal standard is what it ought to be.
+
+The Cuban situation is unique in the sense that there is an act of Congress which has certain specifics about the Cuban situation which changes our relationship with Cuba to some extent. But this will alleviate the legitimate concern with regard to the Haitians, and I hope will minimize the likelihood that hundreds of people will die at sea innocently.
+
+{AUDIENCE-MEMBER} And about Lieutenant General Cedras? {/AUDIENCE-MEMBER} 
+
+Well, of course, he's going to say that. That's what he's been saying ever since -- that's what he told us when he abrogated the Governors Island Accord. "I gave my word. I never expect President Aristide to keep his word. President Aristide called my bluff, kept his word, and so I'm going to shaft the agreement." That's what he said on September 30th. So he hasn't changed his mind since then. But we may be able to do better now, and I think the gentleman to my right is a person of extraordinary ability; maybe he can do some things we haven't done yet. We're going to give it our best shot.
+
+{AUDIENCE-MEMBER} Mr. President, I am very pleased for your determination today. I have been very uncomfortable because I am a Cuban boat American -- the founding father of my country. They leave -- in the second world war. I have been here since 1959. As the leader of the democratic body, I had to leave when Baptista left. And I have been listening to people in connection with my country. The country of Cuba is dominated by the Cuban communists, and there is legislation that you have to pursue that course.
+
+However, it is a reality that in 1779 and 1781, 1,100 -- Cubans came here and made this country free -- {COMMENT="Inaudible"} Now, in this situation I congratulate you --
+
+{/AUDIENCE-MEMBER} 
+Thanks.
+
+One more.
+
+{AUDIENCE-MEMBER} How long are you willing to give sanctions to take the desired effect?
+{/AUDIENCE-MEMBER} 
+I think I have to let Mr. Gray do a little work before I can answer that question.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

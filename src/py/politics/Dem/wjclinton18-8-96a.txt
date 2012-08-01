@@ -1,0 +1,46 @@
+﻿{title} Remarks by the President at Gala Celebration of his 50th Birthday {/title}
+{event} Radio City Music Hall, New York, New York {/event}
+{speaker} Bill Clinton {/speaker}
+{date} August 18, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. First of all, I just want to say I hope all of you have had just half as good a time as I have. {APPLAUSE} I want to thank my friend, Whoopie Goldberg, and all the other magnificent entertainers. {APPLAUSE} And Jeff Margolis, who did the production, let's give him a hand. He was great. {APPLAUSE}
+
+I know the hour is late, but I'd like to say just a thing or two. I mean, I only turn 50 once, you know. {LAUGHTER} First of all, I feel an overwhelming sense of gratitude tonight. A lot of times some of you will come up to me somewhere around the country when something is not going so well. You ask me how am I doing, and I've tried to develop the discipline of saying -- {SPONTANEOUS-DEMONSTRATION} -- okay, okay. We hear you. You want to hear them anymore?
+
+{AUDIENCE} No! {/AUDIENCE} 
+
+Okay, we've heard your message now. Thank you very much. All right, give them a hand as they exit, will you? {APPLAUSE} We heard them. Give them a hand. Give them a hand. {APPLAUSE} Be nice to them, don't be rough. They don't have a right to do this, but they don't have a right to be roughed up. Just show them to the door. Thank you.
+
+You know, one of the greatest things about this country is you can say whatever is on your mind and nobody can shut you up. {APPLAUSE} On the other hand --
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+Thank you. Four years from now some of them will come back and say, you know, you were right about that, Mr. President. You were right about that. {APPLAUSE}
+
+Let me say just one or two things if I might. Relax. Relax. {APPLAUSE} Anyway, even now, what I was going to tell you is I've tried to develop the discipline -- when somebody comes up to me and says, well, how are you doing and something is not going very well, of saying, "Better than I deserve, thank you." And you ought to think about it.
+
+Because I was looking at all those decades pass by -- I don't know where all the time went -- and I was thinking of all the gifts that I have been given. I thank God for my family, for those who are here and those who aren't. I wish my brother could have been here tonight, but his wife and his son are here. I wish my wonderful father-in-law were still living; I miss him. And, lord, I miss my mother. She liked a good party, you know, and she would have liked this tonight. {APPLAUSE} But I thank them. I mean, who could have thought it, where we all started.
+
+And I thank my friends. Some of them have been subject to ridicule, you know. FOBs has become, I don't know, an epithet in some quarters. But I wouldn't be here today without them -- and all of you who were there with me in each step along life's way, I thank you. I thank all of those who worked with me in every job I ever had, and all of you who helped me to come to this point. I just feel a great sense of gratitude.
+
+I'd also like to make just two other observations in closing. The first is that I appreciate what Hillary said. I'm sure I'm not the best man she's ever known, but I sure have loved her and my wonderful child, and I thank them. {APPLAUSE}
+
+There's something that's happened in our country in the last few years that I don't think is very good. And that is that a lot of people in public life have taken to trying to show how good they are by showing how bad the people who disagree with them are; and I don't think that's a very good thing. {APPLAUSE} And I have my mother to thank for that attitude, because she taught me never to resent anyone else's success, never to look down on anybody else, and never, ever to think I was better than anybody else, that it was a hard enough job in life just to be a good person yourself without trying to lift yourself up in putting somebody else down. And I'd like to see more of that in our country. I think it would be more civil and a better place. {APPLAUSE}
+
+The second thing I'd like to leave you with is the image of those children that were up here behind us. You know, we have debates from time to time -- were they right or am I right about the welfare reform issue. And I disagree with my opponent, Senator Dole, on so many things. But let me ask you this: Just think about your own life here and ask yourself: why are we doing this? Why are we here? The purpose of politics is nothing more or less than to enable more kids like those kids that just sang on the stage to live their dreams the way I got to live mine. There is no other purpose here. {APPLAUSE}
+
+And I thank God for everybody I've ever been able to work with -- those of you who are here. A lot of them are gone, too, now. I miss my friend and brother, Ron Brown. He would have liked this tonight, and what a wonderful job he would have done. {APPLAUSE}
+
+I started out my presidency with one of the greatest men I ever met in my life, the late Prime Minister of Israel, Itzhak Rabin. I miss him so much. {APPLAUSE} There are a lot of people I miss, and I'm sorry they had to leave this Earth before I did. But, you know, all of us left ahead, because we got to live out our dreams. And most of us here, truth were known, we'd have to say we've done better than we deserved. And I would like for every child in this country and every child in this world to be able to say that more than they can say it now when our time here is done.
+
+We have to get this country ready for the next century. It will be the time of greatest possibility in all of human history. More of our kids, without regard to their race, their gender, their station, will have a chance to live their dreams if we do our job. That is really what we're here about.
+
+I've been luckier than most people because I had family who loved me, friends who took care of me, folks who worked with me and made me look better than I deserved, and a chance to do work I loved. But in the end, all that matters is whether, when we finish, we have made it possible for more people to be what God meant them to be. And you have helped to give me that chance, and that is the best birthday present of all.
+
+Thank you and God bless you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,38 @@
+﻿{title} Remarks by the President at the Recognition Ceremony of Americans Involved in Humanitarian Efforts {/title}
+{event} Roosevelt Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 12, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, first of all, let me say that I know I speak for everyone here in thanking the people who have spoken and thanking them, more importantly, for their remarkable efforts. I want to express my appreciation to two of their representatives who joined us -- Congressman Ehlers from Michigan and Congressman Moran from Virginia. To Franklin Graham, thank you, sir, for the remarkable work that you are doing and for giving people like Mary the chance to be remarkable in their own right.
+
+What you have just heard is a series of astonishing human testaments. I don't know that I've ever felt more proud to be an American than I did in the last few minutes just listening to these people talk. And I know all of you feel that way as well.
+
+The purpose of our mission is to take advantage of this remarkable opportunity we have when all of the parties have agreed to make peace, when they have agreed that the madness you have just heard recounted ought to stop.
+
+We saw further evidence of their good-faith intention to do their part this morning, when the French pilots were released. And I just, by pure coincidence, had the French Ambassador in this morning, and I told him to convey to President Chirac the joy of all Americans that these pilots are free because the mission that we all undertook together through NATO had a lot to do with bringing about this peace agreement.
+
+Since I became president, I have said that I thought the United States had an obligation to participate in the enforcement of a peace agreement. Because we have a peace agreement, which is enforceable, which can be protected, which can be enhanced by the NATO force, the work that you have just heard about will be able to be multiplied hundreds of times over. And that's the thing I want to emphasize to all of you.
+
+The NATO mission in which the United States will play a leading role by separating the forces, by making sure the territory is the way the people agreement agreed, by maintaining a secure environment, will permit more of these things to be done, will permit the reconstruction effort to proceed -- not only the physical reconstruction effort, but the human reconstruction effort.
+
+And I have just told all of the folks whom you heard speak that it is very important that these efforts continue in Bosnia and, in fact, be intensified because there are a lot of lives that have to be put together; there are a lot of communities that have to be rebuilt. But this kind of energy by the American people and by others throughout the world who will join now in helping them can help to turn the worst nightmare in Europe since the end of the second world war into a story of reconciliation and peace and progress.
+
+And, again, let me say, there is nothing I can say to add to what these fine people have said. But when Americans like these folks are willing to do what they have done, I think it is incumbent on the United States, the other NATO powers, the others who are joining with us, to make sure that this peace takes hold and is preserved so that they can do it in an atmosphere free of fear for themselves and help that country come back and help all these little children regain their childhood.
+
+I hope we all live to see the day when the only bombs in the world are peace bombs.
+
+Thank you very much. {APPLAUSE}
+
+{OTHER-SPEAK} Mr. President, are you going to be able to get this through Congress, win approval? {/OTHER-SPEAK} 
+
+Well, let me say I'm quite encouraged by two things. Number one, a very large number of members of Congress, especially House members, have actually gone to the region in the last few days, and I applaud them for doing it. And some of those with deep reservations about the missions have gone.
+
+I have no exact vote count for you, but I can tell you that it's clear to me that there's been a real shift among those who have gone. Those who have gone have come back more favorable than they left America. And so I can't believe that when the time for the counting comes that Congress won't support our troops in this mission. I believe they will.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

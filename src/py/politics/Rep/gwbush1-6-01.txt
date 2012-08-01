@@ -1,0 +1,47 @@
+﻿{title} President Bush Speaks at Race For The Cure Event {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 1, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you, First Lady. {LAUGHTER} Thank you all for coming. It's kind of a raucous crowd here in the White House. {LAUGHTER} But for a reason. There's a lot of joy here. I'm so honored to be here with Nancy and the Secretary of Health and Human Services, Tommy Thompson. I want to thank Congressman Ken Bentsen, who is here, I believe. And I certainly want to thank Jo Dee Messina for lending your talents. It's my honor to welcome you to the White House. Your great movement represents hope for cancer victims and hope for cancer's cures. And I can't tell you how honored we are to have you here. Many of you play key roles in the fight against breast cancer, beginning with our dear friend, Ambassador-designee Nancy Brinker -- {APPLAUSE} -- the founder of the Komen Foundation, which during the last 20 years has become the largest private funder of breast cancer research and community outreach in the nation. You've raised over $400 million to support breast cancer research, education, screening and treatment. {APPLAUSE} 
+
+I want to thank those of you who are participating in tomorrow's Race for the Cure. I wish I was running. {LAUGHTER} 
+
+{AUDIENCE-MEMBER} Come on out! {/AUDIENCE-MEMBER} {LAUGHTER} 
+
+Well, talk to the Secret Service. {LAUGHTER} Plus I'm a little older than the last time I ran. {LAUGHTER} 
+
+Less than 20 years ago, the first Komen Race for the Cure was held in Dallas, Texas. {APPLAUSE} Eight hundred people participated in that race, and we raised $130,000. This year there will be 115 races across the country and around the world, involving 1.3 million participants. {APPLAUSE} Last year alone, the National Race for the Cure in Washington, D.C. raised more than $3 million. {APPLAUSE} 
+
+The great thing about this race is you're not running for time, running for ribbons -- you're running to save lives. And America is grateful. {APPLAUSE} 
+
+Laura and I want to recognize those of you in the audience who have had breast cancer. We appreciate your courage. You've endured, and many of you are still undergoing, one of life's toughest and most terrifying struggles. In your suffering you have demonstrated dignity and determination, grit and grace, courage and character. And through your fight against cancer you have become witnesses to the power of hope. {APPLAUSE} 
+
+Lisa Rodriguez has endured that struggle and cherishes that hope. Lisa is here with us today -- I had the honor of meeting her this morning. She says her cancer diagnosis taught her how important time was, and how important finding a cure is. Since then, she's been focused on beating cancer and working to make sure others have the support and information they need to fight and to win. 
+
+Like Lisa, most of you did not fight your battle alone. You've had the support of your families. They've suffered with you; they have remained faithful in their love for you; and we want to thank them, as well. {APPLAUSE} 
+
+Breast cancer, as you know, is the second most common type of cancer amongst women in the United States. Every three minutes brings a new case. Every 13 minutes brings another death from breast cancer. Yet, we also live in a profoundly hopeful time. Fewer women are dying of breast cancer each year. Awareness about breast cancer has never been greater. We've made progress in early detection and screening; we're seeing better and more effective treatment. New drugs offer exciting possibilities. And we are gathering a wealth of information about how cancer works at its most basic molecular level. 
+
+We have just received the 2001 cancer statistics from the Public Health Service. It shows that breast cancer death rates declined an average of 3.4 percent between 1995 and 1998. That's more than double the rate of decline -- {APPLAUSE} 
+
+There are still many high medical hurdles that need to be cleared, and we have enough experience with cancer to know that we'll suffer some disappointments and setbacks along the way. But for the first time in human history, we can say with some measure of confidence that the war on cancer is winnable. {APPLAUSE} 
+
+With this hope comes responsibility. Now is the time to bolster our efforts. We'll increase funding at the National Institutes of Health by $2.8 billion in 2002. {APPLAUSE} 
+
+We must continue to raise awareness about the importance of early detection and increased access to screening services. We need to close the treatment gap between research discoveries and treatment options, so that cancer victims have access to the latest technology. {APPLAUSE} 
+
+I want to thank Secretary Tommy Thompson for his efforts to encourage states to provide Medicaid coverage to low-income women diagnosed with breast cancer. {APPLAUSE} I'm committed to passing a strong patients' bill of rights this year to provide women with needed access to life-saving clinical trials and medical specialists. 
+
+I hope -- I believe -- and I pray that we're on the verge of great victories against cancer. You've seen the great victories already, in the lives of many people in this room. 
+
+Every survivor of cancer is a defeat for cancer and a triumph for faith and courage and hope. We will not rest until our victory against breast cancer is complete. 
+
+I want to thank you all for your good work, your courage, and have a great race. {APPLAUSE} 
+
+{/speech} 

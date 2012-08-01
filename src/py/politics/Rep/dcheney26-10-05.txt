@@ -1,0 +1,32 @@
+﻿{title} Vice President's Remarks at a Reception Honoring Congressman John Dingell {/title}
+{event} The National Building MuseumWashington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} October 26, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good evening. Thank you very much. It's a pleasure to be here tonight to join all of you in honoring an old friend and colleague of many years, John Dingell, of Michigan. It's a special honor to be with so many distinguished guests from across the country. I guess, John wanted me here to add a little charisma to the program. {LAUGHTER}
+
+We have a distinguished roster of speakers tonight. It's not John that we're here so much to honor as the fact that we all came because we didn't dare say no to Debbie. {LAUGHTER}
+
+The first time I encountered John Dingell was in the late '60s when I was a young staffer in the office of the late Congressman Bill Steiger. I later had dealings with John when I worked for his former Michigan colleague, President Gerald Ford. And then during the '70s and '80s, we served together as members of the House.
+
+Although my current duties involve presiding over the Senate, I have always considered the House of Representatives to be my political home. I love those years as the congressman from Wyoming, in large part because of the privilege of serving with men of the caliber of John Dingell. Even when we've disagreed, John has always been someone I respected. He's a patriot, a tremendously hard worker, a true master in the business of legislating.
+
+John is also an historic figure of this great democracy by virtue of these 50 years as an elected member of Congress. He has served with 10 Presidents, 11 Vice Presidents, eight Speakers of the House, beginning with Speaker Sam Rayburn. John has never held the office of Speaker himself, but in the years past, he did consider running. He said, I thought I could win, but then I realized I didn't want the damn job. {LAUGHTER}
+
+John Dingell also managed to figure out that being Speaker isn't the only path to power and influence in the House. He's made his own way through effort, determination, and has become one of the most accomplished and admired members on either side. If you've ever dealt with John Dingell, you know he's a man of conviction. He believes every citizen should have a fair shot at the American Dream, with a good job, a decent living, a safe home, and a peace of mind in retirement. He believes in upholding the Bill of Rights, and advancing the cause of civil rights, and he believes in good stewardship of the land and the life around us.
+
+John is also an idealist when it comes to holding office. He believes that public service entails not just winning and holding a title, but going to work every day and giving the job everything you've got. For 50 years he's been tireless in his duties, utterly devoted to the people of Michigan. He's unapologetic in standing up for them, for their jobs, for their rights as citizens, and for the way of life that Americans have worked so hard to build. The people of the 15th district count on him, and he's never let them down.
+
+Colleagues in Washington are able to count on Big John, as well, because he does business with integrity. He speaks his mind and looks for common ground. Above all, his word is good. Shake hands with John Dingell and you've got yourself a deal.
+
+It's been that way for 50 years, and it's going to be that way for many years to come. As all of you know, the name of John David Dingell first belonged to John's father who himself served more than 20 years in the House. Over the decades, John has often remarked on the pride he feels that his father left him a good name because that enabled him to pursue a political career of his own.
+
+All of us are here this evening because John Dingell remains a good name, respected in this city and across America because of this gentleman's faithful, diligent, effective service to his state and country.
+
+So, John, on behalf of the President and the entire nation, congratulations on an outstanding half century. Thanks for all that you've done for the United States of America. {APPLAUSE} 
+
+{/speech}

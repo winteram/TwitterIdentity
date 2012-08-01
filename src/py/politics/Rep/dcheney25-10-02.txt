@@ -1,0 +1,36 @@
+﻿{title} The Vice President Makes Remarks at the Dedication Ceremony for the Jon M. Huntsman Hall {/title}
+{event} Wharton School of Business, University of Pennsylvania {/event}
+{speaker} Dick Cheney {/speaker}
+{date} October 25, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{APPLAUSE} Thank you. And thank you, Karen. And let me thank, as well, President Rodin, Chairman Riepe, Dean Harker, faculty members, and staff at the University of Pennsylvania and the Wharton School; and, of course, President Hinkley; and Senator Specter -- a good friend and colleague.
+
+Ladies and Gentlemen, I appreciate the opportunity to share in this very special event this morning. I'm grateful to Karen and Jon and the entire Huntsman family for the invitation to be here today and I'm proud to be with them, again, on this very special occasion.
+
+I should point out I'm not the only administration official present. Joining me on Air Force Two today coming up from Washington was the Deputy U.S. Special Trade Representative, Ambassador Jon Huntsman, Jr. We're happy to have Jon with us this morning, as well.
+
+Ambassador Huntsman's father, whom we honor today, has to rank among the most successful and public-minded citizens any place in our nation. And all of us here -- are here -- because of our great respect for Jon's extraordinary commitment and his generosity. This is another great day for the university that has a splendid history.
+
+Of course, the University of Pennsylvania was organized on an idea put forth by Benjamin Franklin. And the first classes convened here more than 250 years ago. Among the leaders who've passed through the university are more than a dozen men who signed the Declaration of Independence and the Constitution; 15 winners of the Nobel Price -- one of whom was announced just two weeks ago. Penn is home to the first medical school in America, and the first business school in the world.
+
+It was Joseph Wharton who advanced the notion that business should be treated as a profession; its principles taught with the kind of rigor and discipline that was applied in schools of law and medicine. That was 1881. Today there are more than a thousand business schools in the U.S. and abroad, producing nearly a third of a million graduates every year. Yet the Wharton School stands apart. It remains, as in the beginning, a benchmark for innovation and excellence in business education.
+
+In keeping with that tradition of leadership, the building that we dedicate today is considered the most advanced center for management education in the world. It represents not just the effort and foresight of Wharton School officials, but the tremendous loyalty of school alumni and friends. Every dollar given to such a project is an expression of confidence and good will; a belief in the institution and its mission; an unselfish commitment to educating men and women whose achievements will come long after we're gone.
+
+Some of the most important lessons we learn in life come not from our studies, but from the examples around us. And my highest hope for this building is that every person who goes through its doors will know something about the man for whom it is named -- about his life of great accomplishment and purpose, and about the values that define it.
+
+I've known Jon for more than 30 years, going back to our days as young staffers in the White House. We've worked together on business projects, and we get a little fishing done together out West from time to time. In every setting -- public, private, and personal -- I've found him to be one of the people I most admire, a man of discernment, of character, and humanity.
+
+Everything Jon has done, he's done well -- through a combination of his intelligence, his superior instincts, and a talent for leading others. He's always understood that -- that a leader sets the tone of an enterprise by his own personal conduct. With Jon, there is no ethic greater than integrity, and there can be no dealing without honesty, fairness, and loyalty.
+
+If you know his personal story of hard work and persistence over many years, how he built a small firm into the largest privately owned chemical company in the world, you would be right to call Jon a self-made man. But I've never known him to apply that label to himself.
+
+He's a modest man with a grateful heart -- grateful above all for the Maker of Heaven and Earth. And this, I believe, is the source of his enormous generosity: the civic causes; to his church; the Wharton School; the Huntsman Institute in Utah -- where some of the finest research teams are studying cancer: how it develops; how it can be treated; and how it may one day be cured. In his creative gifts; in his business success; in his great philanthropy; in his human qualities; Jon stands in a class all his own. We're very proud of him today.
+
+More than a century ago in a letter to the University of Pennsylvania trustees, Joseph Wharton promised graduates of the Wharton School would become pillars of the state, whether in private or public life. That pledge has been fulfilled in every generation of Wharton School alumni, and never more than the person of Jon Huntsman . I'm pleased to dedicate the Huntsman Hall. I join all of you in congratulating the Wharton School and in looking forward to a future of excellence in this fine America institution. Thank you. {APPLAUSE} 
+
+{/speech}

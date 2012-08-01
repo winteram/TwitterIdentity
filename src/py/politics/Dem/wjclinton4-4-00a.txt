@@ -1,0 +1,42 @@
+﻿{title} Remarks by the President at Leahy Reception {/title}
+{event} Leahy Reception {/event}
+{speaker} Bill Clinton {/speaker}
+{date} April 4, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Leahy Reception {/description}
+
+{speech} 
+
+Thank you. Well, first, let me say to Bobby and Solange, thank you for having us in your home. I actually came to hear you sing, Emmy Lou, so you've got sing for me when I finish.
+
+I want to thank Pat and Marcelle for being wonderful friends to me and to Hillary during our sojourn here in Washington. I may have been younger than you when I got here, but I'll be older when I leave. {LAUGHTER} I want to thank Senator Reid for being here; my great friend and former Senator De Concini, thank you, sir, for being here.
+
+I want to thank all of you for being here for Pat Leahy. I have been in public life now for more than 25 years. I have, among other things, when I was a governor I served with over 150 governors. I have known hundreds of members of Congress. And I think that Pat Leahy is one of the ablest, and most visionary legislators and one of the finest people I have ever served with in 25 years of public life. {APPLAUSE}
+
+And Mr. Axworthy, I appreciate you being here, but you can't have him. {LAUGHTER} And he, also, by the way, tells a pretty good joke now and then. {LAUGHTER}
+
+I'll be very brief. I think the American people are going to be tested this year in this election season and in the years ahead, because of our prosperity and because all the social indicators appear to be going in the right direction. Normally, democracies can be summoned to any sacrifice or difficult decision when people are evidently under the gun.
+
+And sometimes, therefore, they are most at risk of making foolish choices or going in the wrong direction when things seem to be going very well. In that way, groups of free people are like individuals. Most of us who are over 30, anyway, can recall at least one time in our lives when we made a serious mistake -- not because things were going so poorly, but because things seemed to be going so well.
+
+And I say that because I think there really are very clear choices now between the direction that someone like Pat Leahy would take in his work for peace, for the health of our children, for the health of our environment, for research or a whole range of issues, and the choice that the majority in Congress would take or their nominee for President would take.
+
+Yet, it may seem to many voters that, oh, well, there may not be much difference, things are rocking along here, the economy is on automatic. And I think it's very important that people like you get together to help people like Pat Leahy. I also think it's very important that you be able to tell your friends and neighbors who never come to political events like this why you came and what the stakes are.
+
+And I'm old enough now where I remember things sometimes I wish I didn't remember. I was in this city, 32 years ago today, when Martin Luther King was killed in Memphis. And I remember it. I was in this city 32 years ago, driving down Massachusetts Avenue, 32 years ago, five days ago, when Lyndon Johnson told us he couldn't run for reelection because the country was split right down the middle over the Vietnam War.
+
+What does all that have to do with this? In February, we celebrated the longest economic expansion in American history. So I had all my economic team in and we were celebrating and we were happy. And we were happy because we also had a 20-year low in poverty, a 30-year low in unemployment, the lowest African American and Hispanic unemployment rates ever recorded, the lowest female unemployment rate in 40 years. It was a wonderful time.
+
+And we were talking about the State of the Union address, where I kept saying we've got to do these big things now, these big things. And I said, hey, just for my information, when was the last longest economic expansion in American history. And it turns out it was between 1961 and 1969. And I will go back to what I said in the beginning, you're in danger when things seem to be going well, breaking your concentration and not making good decisions -- not just individuals, but nations.
+
+I graduated from high school in 1964, when there was low inflation, low unemployment, high growth and we thought it would go on forever. Lyndon Johnson had united the country after President Kennedy's tragic assassination and we thought then the civil rights challenges of America would be handled in the courts, in the Congress -- not in the streets. We knew that we had a few people in Vietnam, but nobody thought we'd have over 500,000 or that 58,000 would die or that it would tear the country apart.
+
+And then four years later, all this stuff I just told you started to happen, so that by the time I graduated from college at Georgetown, on June 8th, it was two days after Robert Kennedy was killed, two months after Martin Luther King was killed, and the city burned, nine weeks after Lyndon Johnson said he couldn't run for reelection. And a few weeks after that, President Nixon was elected on the first, sort of, divide and conquer campaign of the modern era. He represented the silent majority, which means people like me were in the loud minority. It was "us" and "them." And just a few months after that, the longest economic expansion in American history was history.
+
+Now, I am very optimistic -- I'm the most optimistic person in this room. But what I want to tell you is, I have a memory, and I have waited for 35 years for my country to be in a position once again to be free to build the future of our dreams for our children, to be responsible citizens of the world, to lead the world toward peace and freedom and security. That's what this is all about. And we can't afford to let a single American treat this election in a casual fashion -- because of the evident responsibilities we have and because of the opportunities we have.
+
+I know Pat Leahy is not on the ballot this year, but I'm glad you're out here helping him. Because I told you the truth, in 25 years, he's one of the finest people and one of the ablest, most visionary public servants I've ever known. That's what you need to think about all year long. And tomorrow if people ask you why you came here, you need to be able to give them this answer. And if you're around my age, you need to remind them of what happened to the last longest economic expansion in American history, when we were casual and careless enough to think it was on automatic. There's nothing we can't do. But we have to work at it and we have to work together.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

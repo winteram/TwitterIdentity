@@ -1,0 +1,30 @@
+﻿{title} Remarks by President Clinton And President Cardoso of Brazil in Exchange of Toasts {/title}
+{event} Exchange of Toasts {/event}
+{speaker} Bill Clinton {/speaker}
+{date} April 20, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} President and Cardoso Toast {/description}
+
+{speech} 
+
+Mr. President, Mrs. Cardoso, members of the Brazilian delegation, to all of our distinguished guests, Hillary and I are delighted to welcome you to the White House this evening.
+
+Mr. President, I learned many things about you today. But one thing sort of surprised me -- I learned that as a young man you were drawn to a life of the cloth. The reason I learned that and found it surprising was my grandmother told me that I would make a good minister if I were just a little better boy. {LAUGHTER} And failing that, that I should go into politics. {LAUGHTER}
+
+But I think for a long time your family and friends believe you were more likely to wear a Cardinal's red hat than a president's sash. Well, you embraced politics, and now you lead your great nation. But I can't help wondering whether after four months in office, after spending 2,880 hours dealing with Congress and fielding questions from the media, whether you ever wonder if you made the right choice. {LAUGHTER}
+
+Let me say from the point of view of the people of the United States, you clearly made the right choice. And it is obvious to all of us that your faith has remained a powerful part of your life. Otherwise, it would be difficult to explain how you have endured arrest, blacklisting and exile without giving into despair; difficult to explain that although the enemies of democracy forced you to listen to your friends being tortured, and later bombed the office where you worked, you never wavered from the ideals of tolerance and openness.
+
+Those ideals animate your leadership in Brazil today and your quest for social justice for all the people whom you proudly represent. And you have added to them an academic's expertise in policy and economics, which I am pleased to note, you have refined by teaching at some of our finest universities. We have all been impressed by the results you have achieved, especially the success of your "Real Plan."
+
+Mr. President, I have been very pleased for the opportunity to continue the personal conversation we began in Miami last year at the Summit of the Americas. The warm and productive relationship that we have established mirrors the relationship that is growing closer every day between our two countries. We have common interests -- bringing free trade to the Americas, promoting sustainable development throughout our hemisphere, keeping peace around the world. And that relationship is more important than ever.
+
+I know from our discussions that we both believe Brazil and the United States have an opportunity, indeed an obligation, to be partners for progress in the Americas for all the years ahead. Today we have taken that partnership to a new level.
+
+Let me also say, Mr. President, you know that you have come here, along with your wife and your fine delegation, at a very difficult time for our country. And all the American people have been profoundly impressed and grateful by your expressions of condolence and sympathy and your assertion that we are all partners in the struggle against evil and inhumanity. For that we are especially grateful, and we will never forget it.
+
+So I ask all of you to stand and raise your glasses in a toast to President and Mrs. Cardoso and to the people of Brazil.
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

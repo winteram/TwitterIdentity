@@ -1,0 +1,57 @@
+﻿{title} Remarks by the President at Memorial Day Commemoration {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 28, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all very much. Secretary Principi, thank you for agreeing to serve our nation. Thank you for your vision and hard work to make sure that those who have worn the uniform receive the benefits that they are owed. Principi is a good man who is going to do a fine job on behalf of the American people. 
+
+I'm honored to be here with my friend, the Governor of the state of Arizona, Jane Dee Hull. {APPLAUSE} Senator John Kyl, from the great state of Arizona. {APPLAUSE} Congressman Bob Stump, the Chairman of the Military Affairs Committee. {APPLAUSE} J. D. Hayworth -- {APPLAUSE} And the Congressman from this district, Jeff Flake. {APPLAUSE} 
+
+It's an honor to be here with the commanders of Arizona's military bases. I'm pleased to be here with the distinguished guests on the stage. There's one special American here today, a man named Tom Lockhart, who was a captain in the United States Air Force, who had the dubious distinction of trying to teach me how to fly a P-38 aircraft at Moody Air Force Base, Georgia. And I'm so honored, my friend, Silver Start winner Tom Lockhart is with us today, as well. {APPLAUSE} 
+
+Before I begin I do want to ask us to join in a moment of silence for a veteran who passed away today, the Congressman from the state of Massachusetts, Congressman Joe Moakley. Please join me in a moment of silence. 
+
+{COMMENT="A moment of silence was observed"} 
+
+Thank you very much. Joe loved America and he will be sorely missed. 
+
+Today's the day we say thanks to many heroes. There's a true hero, who is a senator from the state of Arizona. He is overseas today, but I know you all join me in thanking John McCain for his service not only to Arizona, but to the United States of America. {APPLAUSE} And no President can pass through Arizona without remembering the great Arizona statesman who left us three years ago, Senator and Major General Barry Goldwater. {APPLAUSE} 
+
+I want to thank you all for coming out. I am so pleased that so many of your citizens lined the streets and came into this hangar on this kind of warm Arizona day. {LAUGHTER} I began this day with a group of veterans at the White House by signing into law a bill to expedite construction of a national World War II memorial on the Mall in Washington, D.C. {APPLAUSE} 
+
+I had the honor of bringing one of the two pens I used to sign the bill with me today, and present it to the law's primary sponsor in the House of Representatives, Congressman Bob Stump. {APPLAUSE} 
+
+Throughout America, we will find monuments to those who served in that war. The generation of World War II defeated one of history's greatest tyrannies, leaving graves and freedom from Europe to Asia. In Phoenix, near your state capital, you keep the anchor of the USS Arizona, honoring the men who died on that ship almost 60 years ago. It is time to build a lasting national memorial to World War II in our Nation's Capital. And the work begins soon. {APPLAUSE} 
+
+I would like all those who served our nation in World War II, World War II widows and World War II orphans to raise their hands, so we can thank you for your service. {APPLAUSE} Now you can put them down. 
+
+Many veterans of other wars are with us today -- Korea, Vietnam, the Cold War and other conflicts. We're honored by your presence. And we're honored by the President of the Buffalo Soldiers standing with us today, as well. {APPLAUSE} And we're especially honored by the presence of several men who wear the nation's highest military decoration, the Medal of Honor. Thank you all for being here. {APPLAUSE} 
+
+Arizona is also home to some veterans of the Navajo code talkers program. {APPLAUSE} In the Pacific theater, these men made a brilliant and legendary contribution to victory in the second world war. Countless American lives were spared because our military could communicate in the unbreakable code of the Navajo language. {APPLAUSE} In a time of great need, our country was served bravely, and served well by the Navajo. 
+
+There are many thousands of veterans in this state. And often veterans are not eager to look back at their experiences. Hardest of all is to recall the ones who never live to be called veterans. But memory is our duty, and on this day, it is our privilege. {APPLAUSE} 
+
+At 3:00 p.m., in every town and city, village and hamlet in America, Americans of all walks of life are posing for a moment of silence. It is 3:00 p.m. in this great state of Arizona. Please join me in a moment of silence for those who gave their lives to our great nation. 
+
+{COMMENT="A moment of silence was observed"} 
+
+God bless. The heroes we remember never really set out to be heroes. Each loved his life as much as we love ours. Each had a place in the world, a family waiting and friends to see again. They thought of the future just as we do, with plans and hopes for a long life. But they left it all behind when they went to war, and parted with it forever when they died. Every Memorial Day we gather at places like this to grasp the extent of their loss and the meaning of the sacrifice. It always seems more than words can cover. In the end, all we can do is be thankful; all we can do is remember, and always appreciate the price that was paid for our own lives and our own freedom. 
+
+Today, in thousands of towns, Americans have gathered to pay their own tributes to the men and women who died young -- some very young. We often think of this as one of great national loss, and that is certainly the case. But for so many, and perhaps many here today, there is one name among all the others, a name that recalls a different time and memories held close and quiet. To those who have known such loss and felt such absence in their life, Memorial Day gives formal expression to a very personal experience. Your losses can be marked, but not measured. And we can never measure the value of what was gained in their sacrifice. We live it every day in the comforts of peace and the gifts of freedom. These have all been purchased for us, and we're grateful for the sacrifice. 
+
+It's not in our nature to seek out wars and conflicts, but whenever they have come, when adversaries have left us no alternative, American men and women have stood ready to take the risks and pay the ultimate price. People of the same caliber and the same character today fill the ranks of the all-volunteer army of the United States of America. 
+
+Any foe who might ever challenge our national resolve would be repeating the grave error of defeated adversaries. Because this nation loves peace, we do not take it for granted. And because we love freedom, we are always prepared to bear its greatest costs. 
+
+I oftentimes see the military folks who serve our nation, so proud and humbled, to see them in lines of such discipline and training and preparedness. They're the new generation of America's defenders. They follow in an unbroken line of good and brave and unfaltering people who have never let this country down. 
+
+Today, we honor those who fell from the line -- who left us never knowing how much they would be missed. We pray for them with an affection that grows deeper with the years. And we remember them -- all of them -- with the love of a grateful nation. 
+
+Thank you all for coming, and God bless. {APPLAUSE} 
+
+{/speech} 

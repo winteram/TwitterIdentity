@@ -1,0 +1,34 @@
+﻿{title} President Bush Affirms War Effort {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} July 19, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} Excerpt from Oakland University Remarks, July 18, 2002 {/description}
+
+{speech} 
+
+Mr. President, the people of America are deeply grateful for your support and the support of the people of Poland. See, a lot of people in our country, and perhaps yours, wonder why would, why would an enemy -- by the way, nothing bunch of -- nothing but a bunch of cold-blooded killers -- strike America.
+
+And, Mr. President, it's because they fear freedom. See, we believe in freedom of speech. We believe in freedom of the press. {APPLAUSE} Like you, we love freedom. And if somebody attacks our freedoms, we'll stand tough and strong. {APPLAUSE}
+
+No, we're bound together in this war on terror. This President understands what I know, that we've entered a new type of war. We're hunting down people that will hide in a cave, but send youngsters to their death -- that's what they'll do. These are international criminals, and we're going to treat them like international criminals. {APPLAUSE}
+
+We going to get 'em on the run, and we're going to keep them on the run until we bring them to justice. {APPLAUSE}
+
+We owe it to history, we owe it to our children and our grandchildren, any time anybody wants to affect the freedom of our people, they must pay a price -- not because we seek revenge, but because we seek justice. {APPLAUSE}
+
+I was explaining to the President yesterday that I've submitted a mighty hefty increase in our defense spending. I did so because any time an American President commits one of our troops into battle or into harm's way, that person deserves the best training, the best pay, the best equipment possible. {APPLAUSE}
+
+And, Mr. President, the significant increase, the largest since Ronald Reagan was the President, shows the world, shows our friends, and as importantly, shows the enemy, that the United States is a determined, resolved nation. It doesn't matter how long it takes. There are no calendars on our desks in Washington that say, by such and such a moment we've got to quit. That's not how we think, Mr. President, and you know that.
+
+The increase in the defense budget says that we're in this for the long haul, that we owe it to a lot of people to be patient and resolved.
+
+Mr. President, I'm telling you that this country is united. We understand this isn't a Republican war, a Democratic war. This is a war that will test the soul and conscience and strength of the American people. And, Mr. President, America will meet the test. {APPLAUSE}
+
+We are united. We're a united country and we're united with Poland. We will not permit the future to be defined by fear and chaos and hatred. We will define a future of greater development of democracy and a future of tolerance. We'll stand together, and, make no mistake about it, we will defeat global terror. {APPLAUSE}
+
+When I spoke to the faculty and students at Warsaw University last year, I said the question no longer is what others can do for Poland, but what America, Poland and all of Europe can do for the rest of the world. {APPLAUSE} Working together, we will build greater prosperity and greater hope to people of our respective nations and people all across the globe.
+
+Poland has a leader it can trust. He's a good man. He's a man I'm proud to call friend. I'm proud to bring him to the great state of Michigan. I'm proud to introduce him to you. Ladies and gentlemen, President Aleksander Kwasniewski of Poland. 
+
+{/speech}

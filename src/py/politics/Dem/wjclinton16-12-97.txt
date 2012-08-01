@@ -1,0 +1,30 @@
+﻿{title} Press Conference by the President {/title}
+{event} Dean Acheson Auditorium, Department of State, Washington, D.C. {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 16, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good afternoon. It is only fitting that we gather today in the Dean Acheson Auditorium, for as Acheson was in his time, we truly are present at the creation -- the creation of an era after the Cold War that might be unrecognizable for the wise men of Acheson's time; a new era of promise and peril, being defined by men and women, determined that the 21st century be known as the New American Century.
+
+I briefly want to review the progress we've made in the last year and our mission to prepare America for that new century. Even as we reap the hard-earned profits of the strongest economy in a generation, our nation refused to be complacent. We confronted big issues in 1997. We passed a plan to balance the budget. We made college affordable and community college virtually free to every American. We cut taxes for middle class families with children. We saved Medicare for another decade. We extended health insurance to 5 million children in lower-income working families. We cut crime, reduced welfare, strengthened our schools.
+
+We made the world safer by ratifying the Chemical Weapons Convention, and at Kyoto, with the Vice President's leadership, we took an important step toward protecting the environment even as we promote global economy growth.
+
+We renewed the consensus for honest engagement with China. We stood strong against a rogue regime in Iraq. We made real progress toward lasting peace in Bosnia. Next week I will personally thank our troops there and talk to the Bosnian people about their responsibilities for the future.
+
+Of course, even as we reflect on how far we've come in our mandate to carry our enduring American values into a new century, we realize we have far to go. Nineteen ninety-eight will be a year of vigorous action on vital issues that will shape the century to come. From education to the environment, from health care to child care, from expanding trade to improving skills, from fighting new security threats to promoting peace, we have much to do both here at home and abroad.
+
+Earlier today, with the simple stroke of a pen, we helped to make European history. Secretary Albright and her NATO counterparts signed protocols of accession for Poland, Hungary, and the Czech Republic, formalizing our intent to welcome these nations as NATO's newest members, and a grand effort to defend our shared values and advance our common destiny.
+
+This is a milestone in the enterprise I launched four years ago to adapt our Alliance to the challenges of a new era and to open NATO to Europe's new democracies. The entry of Poland, Hungary and the Czech Republic into the Alliance will make America safer, NATO stronger and Europe more stable and united.
+
+The decision to add new members to NATO must be ratified by all 16 allies. I'm gratified that Congress has already taken an active, positive role in a bipartisan manner through the Senate NATO Observer Group that joined us at the Madrid Summit, and the extensive hearings and resolutions this fall. I will promptly seek the Senate's advice and consent on NATO expansion when Congress returns in January.
+
+The United States has led the way in transforming our Alliance. Now, we should be among the first to vote yes for NATO's historic engagement. We are well on the way to the goal I set last year of welcoming the first new members to NATO by NATO's 50th anniversary. Today, I am pleased to announce the that NATO Alliance has accepted my invitation to come to Washington for that special summit in the spring of 1999. Together, we will strengthen NATO for the next 50 years, and I hope we will be welcoming its newest members.
+
+Now, before I take your questions, in this room where President Kennedy held so many memorable press conferences, let me remind you that he once praised these exercises with tongue only somewhat in cheek, saying -- and I quote -- "It is highly beneficial to have 20 million Americans regularly observe the incisive, the intelligent, and the courteous qualities displayed by their Washington correspondents." {LAUGHTER} Precedence has its place. 
+
+{/speech}

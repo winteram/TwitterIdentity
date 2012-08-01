@@ -1,0 +1,16 @@
+﻿{title} Remarks by President Clinton, President Gerald Ford, President Jimmy Carter, and President George Bush, and The First Lady to Embassy Staff {/title}
+{event} Marriott Hotel, Amman, Jordan {/event}
+{speaker} George H. W. Bush {/speaker}
+{date} February 8, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+President, Mrs. Clinton, Mr. Ambassador and all the Embassy, thank you all very much for all the arrangements. Handling this many people from out of town is not easy. I told the Admin Officer I would do my level best to see we leave on time. {LAUGHTER}
+
+To the Jordanian nationals in this great Embassy, let me extend to you our most sincere condolences. You may have noticed the great outpouring of affection in our country for your King, and then when you look around and see the numbers of people that came from all around the world, you can't help but feel the affection and respect for him that was worldwide.
+
+I just wish you all well. And I would conclude simply by saying I share President Carter's confidence in the future of Jordan under your new King. He'll do just fine. {APPLAUSE} 
+
+{/speech}

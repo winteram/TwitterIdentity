@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President and the Vice President to the U.S. Conference of Mayors {/title}
+{event} U.S. Conference of Mayors {/event}
+{speaker} Joe Biden {/speaker}
+{date} January 21, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all for being here. And, I spend so much time touring the country with the President -- at his request and with his permission -- I've been in almost all your cities and in your states, and it's nice to be able to welcome you here, as you've welcomed me into your cities. So thank you for the way you have treated us and our staff as we've wandered through your cities.
+
+And I look out and see some old and good and very close friends, and some new friends I've made in the last year. Mr. President, these men and women have been incredibly cooperative with us in the Recovery Act. And one of the aspects of the job that I like the best is, I spend, as you all know, once a week on the phone with somewhere between 7 and 12 of you, and we've now had -- you've had the misfortune of having to listen to me answer your questions, at least a hundred and, I think, 15 of you. And it's been really rewarding to me.
+
+And I always get off the phone with America's Mayor, David Agnew, who is the guy that follows up on everything that I ask him to do in those phone calls -- I'm not sure how well David likes the phone calls. But all kidding aside, you've been -- it's been incredible to work with you in implementing the Recovery Act.
+
+As I said, I've spoken to well over a hundred of you on the telephone and I've visited a number of you in your cities. And I've been constantly impressed by the dedication and the common cause of rebuilding not only your cities but this country. And I must tell you, I've been impressed by the competence, the management skills that so many of you have demonstrated in incredibly difficult financial times and difficult circumstances. The leadership of each and every one of you in this room is the basis upon which I think we're going -- this recovery is going to grow.
+
+We have plenty of work ahead of us, but look at what we've already managed to accomplish for American cities. The estimates range from 2 to 2.4 million jobs saved or created. Nearly $100 billion in tax relief has been provided to working families and businesses through the Recovery Act. And all that money has poured back into the economy of your cities, creating more jobs. More than 18 million Americans have received unemployment compensation benefits and increased benefits. Imagine what the impact on your cities would be if, in fact, we did not have that money flowing in and those people found themselves in a destitute situation.
+
+More than 3,000 public housing authorities -- 3,000 authorities have been awarded Recovery Act funding, totally $1 billion -- helping create jobs retrofitting housing, supporting construction projects to improve public housing all across the country.
+
+The thing that amazed me about these guys, Mr. President -- and women -- is they take advantage of this difficult situation to make improvement. It's not just you're spending the money; you're actually changing the way in which the money is spent more efficiently.
+
+More than 4,600 law enforcement officers -- more than 1,000 communities nationwide have benefited from the additional influx of those 4,600 officers. We've sparked innovation in transportation and energy and health care and education, all of which you've absorbed. I know you'd rather have all come directly to you, but the truth of the matter is -- {APPLAUSE} I know. I know. Constant source of our conversation, Mr. President. {LAUGHTER}
+
+Well, look, a great many of the Recovery Act projects can be described in any mayor's favorite six words -- I think it's six, I've got to make sure -- I've got to count my words these days, Mr. President -- six words -- "ahead of schedule and under budget." That has been the real news of the Recovery Act. And thank you all -- thank you all for the management you have exercised in seeing to it that happens.
+
+And all in all, we're helping working men and women get through some very, very tough times today while building an economy of tomorrow. And the man making this all possible, literally, the single engine, the piston that's driving this whole operation of making sure that we don't walk away from our cities, we don't walk away from this recovery, we don't -- we take the chances we're taking to generate growth here, is a man who came from a big city himself. I see his mayor, Mayor Daley, sitting right here in front. And the President understands. He understands your distinct needs. And he knows that nothing we do around here means anything if men and women don't have jobs -- not just any job, but jobs that you can raise a family on; jobs that serve as a foundation for the 21st century economy we're determined to build.
+
+He also knows that, as Walt Whitman put it, a great city is that which has the greatest men and women. He knows your cities are full of great men and women. And his leadership is going to help give them the ability to overcome this difficulty, summon their greatness, and put them in a position that they're stronger at the end as we come out of this recession than they were before they went in.
+
+So, ladies and gentlemen, it's my great honor to present to you the President of the United States of America, Barack Obama. {APPLAUSE} 
+
+{/speech}

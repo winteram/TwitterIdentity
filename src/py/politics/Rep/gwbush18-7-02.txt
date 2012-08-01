@@ -1,0 +1,46 @@
+﻿{title} Remarks by President Bush and President Kwasniewski at Luncheon with Polish American Leaders {/title}
+{event} Luncheon with Polish American Leaders, Polish Cultural Center, Troy, Michigan  {/event}
+{speaker} George W. Bush {/speaker}
+{date} July 18, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all very much. Thanks for your warm welcome. My fellow club members. {LAUGHTER} Thank you all for --
+
+{SPONTANEOUS-DEMONSTRATION} 
+
+Yes, sir, thanks. We -- the President and I were just in the neighborhood, looking for a meal. {LAUGHTER} So I just said, why don't we stop over. I'm a member of a club in the area. {LAUGHTER}
+
+Stan, thanks for remembering my membership and thanks for feeding us.
+
+I appreciate you all coming out to greet my friend and a friend of America, the President of Poland, a fine leader and a fine gentleman. {APPLAUSE}
+
+I want to thank Stan and Sylvia, I want to thank all the folks who put on the dinner -- or, we call it "dinner" in Texas -- lunch here in Michigan. And I want to thank my fellow Americans for coming out to say hello.
+
+We had a wonderful dinner last night in Washington. We all wore our black ties. I rented mine right around the corner. {LAUGHTER} But it was a wonderful occasion. And as much as I loved it last night, I was really looking forward to coming with the President here to Michigan, because there's a lot of great -- {APPLAUSE} -- there's a lot of great Americans who happen to be from Polish descent living here, and I thought it was a perfect place for him to come. {APPLAUSE}
+
+I want to thank Cardinal Maida for coming. He was -- he came to dinner last night with us. {APPLAUSE} He jumped on Air Force One. We found plenty of room for him. {LAUGHTER} But he's such a -- such a dignified human being, and I'm proud to call him friend. And thank you for your leadership, sir. {APPLAUSE}
+
+I want other thank the Englers, our friends the Englers. The great Governor and the First Lady of the state of Michigan. They've been our friends for a long time. {APPLAUSE}
+
+I know the lieutenant governor is here. I appreciate you being here, Dick. Thank you for coming, Dick Posthumus. {APPLAUSE}
+
+Candice Miller, the Secretary of State, I appreciate you being here. {APPLAUSE}
+
+We've got our Ambassador from Poland with us, Christopher Hill. He's doing a fine job. Chris, thank you for being here. {APPLAUSE}
+
+We've got a great delegation from the Polish government with us, scattered throughout, I guess. Mr. Minister, thank you for coming. I appreciate you all being here. {APPLAUSE}
+
+I want to just tell you right quickly that America has got a strong, strong friend in Poland. The Polish government and the Polish people are -- they understand what we went through. They understand, they've had a history of people wanting to take away their freedoms, too, so we share that common bond.
+
+And they also understand that we owe it to our children and we owe it to future generations beyond our children to hold people to account, to hold the killers to account, to bring the killers to justice in order to defend our freedoms. And that's what we're going to do. {APPLAUSE}
+
+Some predicted that the farther we got away from September the 11th, the more then American people would grow weary or kind of forget what happened. And, Mr. President, you need to know that's not the case, that's not the case. Anybody attacks us and attacks our freedom, we don't forget that. And therefore, Mr. President, you're a guest in a country that is united and strong and resolved, resolved to keep our coalition together, and resolved to defend our freedom, no matter what the cost. And Poland understands that, and for that we are grateful. {APPLAUSE}
+
+And so it's been our privilege the last two days to welcome the First Lady and the President, President Kwasniewski, here to the United States of America. It's been a great trip. And it's a chance for us to -- chance for me to introduce him to you, my fellow Americans.
+
+Mr. President, you're among some of the finest we have in our country, the good Polish Americans of the state of Michigan. Would you please welcome the President of Poland. {APPLAUSE} 
+
+{/speech}

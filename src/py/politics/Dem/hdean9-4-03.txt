@@ -1,0 +1,52 @@
+﻿{title} Speech at the Building and Construction Trades Department 2003 Legislative Conference {/title}
+{event} ----- {/event}
+{speaker} Howard Dean {/speaker}
+{date} April 9, 2003 {/date}
+{source} http://www.gwu.edu {/source}
+{description} ----- {/description}
+
+
+{speech}
+
+Thank you very much. It's a great pleasure to be here. I usually get introduced to COPE conferences up my way as the only doctor in America with a 100 percent COPE record. {APPLAUSE} 
+
+But what I really want to know this morning is where has the Democratic Party gone? 
+
+What are we doing voting for $350 billion worth of tax cuts to people who don't need 'em? {APPLAUSE} 
+
+What are we doing voting for the supposed No Child Left Behind bill, the No School Board Left Standing bill, which takes money out of local school systems and controls them from the federal level. 
+
+What are we doing arguing about the Patient's Bill of Rights? It's an important bill, but if it passes not one more person has health insurance; it's not five cents cheaper. How come Democrats in Congress aren't standing up for universal health insurance for every single American? {APPLAUSE} Harry Truman put that in the Democratic platform in 1948. It's been 55 years. We can do better and we're going to do better with your help. {APPLAUSE} 
+
+In our state everybody under 18 has health insurance. We simply expanded Medicaid to cover people who make $54,000 a year or less if they're under 18. Now if we can do that in a small rural state which is 26th in income in the country, surely the most wealthy and powerful society on the face of the Earth can join every single other industrialized country and make sure that all of its people have health insurance. {APPLAUSE} 
+
+We need a balanced budget in this country. You know no Republican president has balanced the budget in 34 years in America. I always like to say that if you want someone you can trust with your taxpayers' dollars to in the White House, you'd better elect a Democrat because the Republicans can't manage money. {LAUGHTER} It's true. They certainly haven't managed yours. 
+
+$1.7 trillion worth of tax cuts. That's with the President's first year of office. Can you imagine what $1.7 trillion would have done for our infrastructure? Building roads, building bridges, building railroads, rebuilding airports and building our schools, that's where the $1.7 trillion should have gone to {APPLAUSE} because that would have created thousands and thousands of jobs. This country has lost over two million jobs since this president came into office, and created from the largest surplus in the history of the country the largest deficit in the history of this country without one job to show for it. How many Americans would be at work today if we'd spent that money on infrastructure and how long will that infrastructure last to support an economy that will recover when a Democratic president takes office in January 2005? {APPLAUSE} 
+
+I want pension reform. I had a small company in my state; it was a trucking company, went out of business about ten years ago, but before it went out of business, the management looted the pension funds in order to stave off bankruptcy. I had guys three weeks from retirement with nothing left. That money doesn't belong in corporate America, it belongs to the working people who earned it. We need a change in our pension {APPLAUSE} ; companies should not be allowed to run pensions any more. We ought to have those pensions run independently so that money is protected with trustees so that money can't be looted. 
+
+I want a different trade policy in America. Free trade started out as a good thing. My company-- my state's got a lot of jobs because of free trade. We're right up along the Canadian border. But if free trade is going to work to create a middle class in other countries that can buy our products, then we can't have any more trade agreements without labor standards and environmental standards {APPLAUSE} because without labor standards and environmental standards, free trade is not fair trade. 
+
+A hundred years ago there was a different reward for capital as it was for labor. And what the trade union movement did for this country is to create the largest middle class in the world. When people say the trade union movement built this country they think about the Brooklyn Bridge or the Empire State Building, but the truth is the trade union movement made this country strong because it was possible to work at a factory or work in a mine and live a middle class living standard and hope that one day you can send your kids to college. 
+
+We're starting to lose that now. We have an administration in Washington that divides us. They divide us by race; they divide us by income. They divide us by who works where. I want to change that. 
+
+I want to get guns off the table as a national issue. In my state we don't have any gun control. We also have the lowest homicide rate in America. I support the assault weapons ban, the Brady Bill, and all that--and I think we ought to enforce it--but I think each state after that ought to make whatever gun laws it needs because what you need in New York and California and New Jersey is not what you need in Vermont or Wyoming and Montana. Until the Democrats get this off the table, we're not going to win elections anymore. {APPLAUSE} 
+
+So the things I'm going to do if I become president in January of 2004 are this: 
+
+I'm going to ask the Congress to repeal the majority of the Bush tax cuts so we can balance the budget and have health insurance for every single American. {APPLAUSE} I'm going to undo all the work this administration has done to get rid of project-labor agreements. We need -- {APPLAUSE} I'm going to appoint people to the National Labor Relations Board who believe in enforcing labor laws and giving working people a chance. {APPLAUSE} I'm going to support card checks so they can't hire union busting people anymore to take jobs away from {COMMENT="Inaudible"} {APPLAUSE}
+
+But most of all I'm going to try to bring this country back together again. We built this country together. We all of us did it. It was a hard thing to do. Because we had to bring in folks that were on the outside, that you organized. We had to learn through the '60s about what made a strong America and to include everybody. We had to find laws that made it possible so that working people wouldn't lose their jobs when executives made hundreds of millions of dollars a year in compensation for shareholders whose value was going down. I want to change that. 
+
+We built this country together. We want our country back. We want our country back so the average working people, the middle class people, can have hope again. We want our country back so that every kind of American can be proud that they're American again. We want this country back so that it's not just my children that have health insurance and whose work {COMMENT="Inaudible"} it's everybody's children; it's my neighbors' children. We want this country back so we can have better schools so the federal government can stand up and put money into crumbling infrastructure in this country that you all can have better jobs, and I can have better jobs and my children can have better jobs. And it's not going to happen under a president whose principal interest is to cut taxes on people that make more than a million dollars a year. We can do better than that. {APPLAUSE} 
+
+So the only promise that I'm going to make to you is this. You may not agree with everything I want to do and you may not want to think that we're going to have to change presidents. I know that this president is very popular right now. {LAUGHTER}
+
+{BOOING}
+
+But we are going to change presidents and when we do working people in this country are going to be able to stand up and say not only are we proud to be American, but we're proud because America is a country for everybody once again. Thank you very much. {APPLAUSE} 
+
+
+{/speech}

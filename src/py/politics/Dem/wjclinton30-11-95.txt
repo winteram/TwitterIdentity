@@ -1,0 +1,49 @@
+﻿{title} Remarks by the President to the Citizens of Londonderry {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 30, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. {APPLAUSE} Thank you very much. Mr. Mayor, Mrs. Kerr, Mr. and Mrs. Hume, Sir Patrick and Lady Mayhew, and to this remarkable crowd. Let me say -- {APPLAUSE} -- there have been many Presidents of the United States who had their roots in this soil. I can see today how lucky I am to be the first President of the United States to come back to this city to say thank you very much. {APPLAUSE} 
+
+Hillary and I are proud to be here in the home of Ireland's most tireless champion for civil rights and its most eloquent voice of non-violence, John Hume. {APPLAUSE} I know that at least twice already I have had the honor of hosting John and Pat in Washington. And the last time I saw him I said, you can't come back to Washington one more time until you let me come to Derry. And here I am. {APPLAUSE} 
+
+I am delighted to be joined here today by a large number of Americans, including a distinguished delegation of members of our United States Congress who have supported peace and reconciliation here and who have supported economic development through the International Fund for Ireland. 
+
+I'm also joined today by members of the O'Neill family. {APPLAUSE} Among the last great chieftains of Ireland were the O'Neills of Ulster. But in America, we still have chieftains who are the O'Neills of Boston. They came all the way over here to inaugurate the Tip O'Neill Chair and Peace Studies here at the University of Ulster. {APPLAUSE} This chair will honor the great Irish American and late Speaker of the House of Representatives by furthering his dream of peace in Northern Ireland. And I am honored to be here with his family members today. 
+
+All of you know that this city is a very different place from what a visitor like me would have seen just a year and a half ago, before the cease-fire. Crossing the border now is as easy as crossing a speed bump. The soldiers are off the streets. The city walls are open to civilians. There are no more shakedowns as you walk into a store. Daily life has become more ordinary. But this will never be an ordinary city. {APPLAUSE} 
+
+I came here because you are making a home for peace to flourish and endure -- a local climate responsible this week for the announcement of new business operations that offer significant new opportunities to you, as well as new hope. Let me applaud also the success of the Inner City Trust and Patty Dogherty who have put people to work rebuilding bombed-out buildings, building new ones, and building up confidence and civic pride. {APPLAUSE} 
+
+America's connections to this place go back a long, long time. One of our greatest cities, Philadelphia, was mapped out three centuries ago by a man who was inspired by the layout of the streets behind these walls. His name was William Penn. He was raised a Protestant in Ireland in a military family. He became a warrior and he fought in Ulster. But he turned away from warfare, traded in his armor, converted to the Quaker faith and became a champion of peace. 
+
+Imprisoned for his religious views, William Penn wrote one of the greatest defenses of religious tolerance in history. Released from prison, he went to America in the 1680s, a divisive decade here, and founded Pennsylvania, a colony unique in the new world because it was based on the principle of religious tolerance. 
+
+Philadelphia quickly became the main port of entry for immigrants from the north of Ireland who made the Protestant and Catholic traditions valuable parts of our treasured traditions in America. Today when he travels to the States, John Hume is fond of reminding us about the phrase that Americans established in Philadelphia as the motto of our nation, "E pluribus unum" -- Out of many, one -- the belief that back then Quakers and Catholics, Anglicans and Presbyterians could practice their religion, celebrate their culture, honor their traditions and live as neighbors in peace. 
+
+In the United States today in just one county, Los Angeles, there are representatives of over 150 different racial, ethnic and religious groups. We are struggling to live out William Penn's vision, and we pray that you will be able to live out that vision as well. {APPLAUSE} 
+
+Over the last three years since I have had the privilege to be the President of the United States I have had occasion to meet with Nationalists and to meet with Unionists, and to listen to their sides of the story. I have come to the conclusion that here, as in so many other places in the world --from the Middle East to Bosnia -- the divisions that are most important here are not the divisions between opposing views or opposing interests. Those divisions can be reconciled. The deep divisions, the most important ones, are those between the peacemakers and the enemies of peace -- those who, deep, deep down inside want peace more than anything, and those who, deep down inside can't bring themselves to reach out for peace. Those who are in the ship of peace and those who would sink it. Those who bravely meet on the bridge of reconciliation, and those who would blow it up. 
+
+My friends, everyone in life at some point has to decide what kind of person he or she is going to be. Are you going to be someone who defines yourself in terms of what you are against, or what you are for? Will you be someone who defines yourself in terms of who you aren't, or who you are? The time has come for the peacemakers to triumph in Northern Ireland, and the United States will support them as they do. {APPLAUSE} 
+
+The world-renowned playwright from this city, Brian Friel, wrote a play called "Philadelphia, Here I Come." And in a character who is about to immigrate from Ireland thinks back on his past life and says to himself, it's all over. But his alter ego reminds him of his future and replies, and it's about to begin. It's all over and it's about to begin. If only change were that easy. 
+
+To leave one way of life behind in search of another takes a strong amount of faith and courage. But the world has seen here over the last 15 months that people from Londonderry County to County Down, from Antrim to Armagh, have made the transition from a time of ever-present fear to a time of fragile peace. The United States applauds the efforts of Prime Minister Major and Prime Minister Bruton who have launched the new twin-track initiative and have opened a process that gives the parties to begin a dialogue in which all views are representative, and all can be heard. 
+
+Not far from this spot stands a statue of reconciliation -- two figures, ten feet tall, each reaching out a hand toward the other, but neither quite making it across the divide. It is a beautiful and powerful symbol of where many people stand today in this great land. Let it now point people to the handshake of reconciliation. Life cannot be lived with the stillness of statues. Life must go on. The hands must come closer together or drift further apart. 
+
+Your great Nobel Prize winning poet, Seamus Heaney, wrote the following words -- {APPLAUSE} -- wrote the following words that some of you must know already, but that for me capture this moment. He said: "History says don't hope on this side of the grave, but then, once in a lifetime the longed-for tidal wave of justice can rise up. And hope and history rhyme. So hope for a great sea change on the far side of revenge. Believe that a further shore is reachable from here. Believe in miracles and cures and healing wells." 
+
+Well, my friends, I believe. I believe we live in a time of hope and history rhyming. Standing here in front of the Guild Hall, looking out over these historic walls, I see a peaceful city, a safe city, a hopeful city, full of young people that should have a peaceful and prosperous future here where their roots and families are. That is what I see today with you. {APPLAUSE} 
+
+And so I ask you to build on the opportunity you have before you; to believe that the future can be better than the past; to work together because you have so much more to gain by working together than by drifting apart. Have the patience to work for a just and lasting peace. Reach for it. The United States will reach with you. The further shore of that peace is within your reach. 
+
+Thank you, and God bless you all. {APPLAUSE} 
+
+{/speech} 

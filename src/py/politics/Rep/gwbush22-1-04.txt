@@ -1,0 +1,32 @@
+﻿{title} President Bush Calls "March for Life" Participants {/title}
+{event} Remarks by the President in Telephone Call to March for Life Participants {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 22, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, thank you very much, Nellie. I appreciate your kind introduction, and thank you for including me in this celebration of life. I'm calling you today from Roswell, New Mexico. {APPLAUSE} And it sounds like you've got some people who know where Roswell is here in the audience. {APPLAUSE}
+
+I know that good folks have gathered there on the Mall from every corner of America to take part in the 31st March For Life. And I want you to pass on my best to each one of them in person, please, and tell them how much I appreciate their devotion to such a noble cause. {APPLAUSE}
+
+You believe, as I do, that every person, however frail or vulnerable, is a blessing. {APPLAUSE} Each of us has a special dignity, a place and purpose in this world. And in the Declaration of Independence, our founders stated this self-evident truth: The right to life does not come from government, it comes from the Creator of life. {APPLAUSE}
+
+During the past three years we've made real progress toward building a culture of life in America. As President, I've signed the Born-Alive Infants Protection Act. {APPLAUSE} I have signed legislation supporting maternity group homes. {APPLAUSE} Working with the Congress, we have refused to spend taxpayers' money on international programs that promote abortion overseas. {APPLAUSE} We're opposed to the destruction of embryos for stem cell research. {APPLAUSE} And last November, it was my honor to sign into law a ban on the brutal procedure of partial birth abortion. {APPLAUSE}
+
+Nellie, I want you to know that our administration is vigorously defending this law against those who would seek to overturn it in the courts. {APPLAUSE} I also want you to know without your hard work and dedication to the cause of life, these achievements would not have been possible.
+
+But we all know there is still more to do. Earlier this week, I proposed that we double federal funding for abstinence education programs. {APPLAUSE} We will continue to support crisis pregnancy centers, adoption, parental notification laws, and the vital work of faith-based groups. {APPLAUSE}
+
+I strongly support the Unborn Victims of Violence Act, which the House Judiciary Committee approved yesterday. {APPLAUSE} And now the entire Congress should act on this bill so I can sign it into law. {APPLAUSE}
+
+We'll also work with Congress to pass without delay a comprehensive and effective ban on human cloning. {APPLAUSE} We can push the limits of medical science while maintaining the highest of ethical standards. Human life is a creation, not a commodity, and should not be used as research material for reckless experiments. {APPLAUSE}
+
+Above all, we must continue with civility and respect to remind our fellow citizens that all life is sacred and worthy of protection. {APPLAUSE} I know as you return to your communities you will redouble your efforts to change hearts and minds, one person at a time. {APPLAUSE} And this is the way we will build a lasting culture of life, a compassionate society in which every child is born into a loving family and protected by law. {APPLAUSE}
+
+{OTHER-SPEAK} We pledge that to you, Mr. President. {/OTHER-SPEAK} 
+
+Thank you, Nellie. I appreciate so very much the opportunity to speak to you and the assembled crowd. May God bless you all, and may He continue to bless America. {APPLAUSE} Thank you very much. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,28 @@
+﻿{title} President Discusses Growing the Economy & Creating Jobs in State of the Union {/title}
+{event} State of the Union {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 28, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Our first goal is clear: We must have an economy that grows fast enough to employ every man and woman who seeks a job. {APPLAUSE} After recession, terrorist attacks, corporate scandals and stock market declines, our economy is recovering -- yet it's not growing fast enough, or strongly enough. With unemployment rising, our nation needs more small businesses to open, more companies to invest and expand, more employers to put up the sign that says, "Help Wanted." {APPLAUSE}
+
+Jobs are created when the economy grows; the economy grows when Americans have more money to spend and invest; and the best and fairest way to make sure Americans have that money is not to tax it away in the first place. {APPLAUSE}
+
+I am proposing that all the income tax reductions set for 2004 and 2006 be made permanent and effective this year. {APPLAUSE} And under my plan, as soon as I sign the bill, this extra money will start showing up in workers' paychecks. Instead of gradually reducing the marriage penalty, we should do it now. {APPLAUSE} Instead of slowly raising the child credit to $1,000, we should send the checks to American families now. {APPLAUSE}
+
+The tax relief is for everyone who pays income taxes -- and it will help our economy immediately: 92 million Americans will keep, this year, an average of almost $1,000 more of their own money. A family of four with an income of $40,000 would see their federal income taxes fall from $1,178 to $45 per year. {APPLAUSE} Our plan will improve the bottom line for more than 23 million small businesses.
+
+You, the Congress, have already passed all these reductions, and promised them for future years. If this tax relief is good for Americans three, or five, or seven years from now, it is even better for Americans today. {APPLAUSE}
+
+We should also strengthen the economy by treating investors equally in our tax laws. It's fair to tax a company's profits. It is not fair to again tax the shareholder on the same profits. {APPLAUSE} To boost investor confidence, and to help the nearly 10 million senior who receive dividend income, I ask you to end the unfair double taxation of dividends. {APPLAUSE}
+
+Lower taxes and greater investment will help this economy expand. More jobs mean more taxpayers, and higher revenues to our government. The best way to address the deficit and move toward a balanced budget is to encourage economic growth, and to show some spending discipline in Washington, D.C. {APPLAUSE}
+
+We must work together to fund only our most important priorities. I will send you a budget that increases discretionary spending by 4 percent next year -- about as much as the average family's income is expected to grow. And that is a good benchmark for us. Federal spending should not rise any faster than the paychecks of American families. {APPLAUSE}
+
+A growing economy and a focus on essential priorities will also be crucial to the future of Social Security. As we continue to work together to keep Social Security sound and reliable, we must offer younger workers a chance to invest in retirement accounts that they will control and they will own. {APPLAUSE} 
+
+{/speech}

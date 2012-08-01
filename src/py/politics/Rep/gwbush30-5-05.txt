@@ -1,0 +1,37 @@
+﻿{title} President Commemorates Memorial Day at Arlington National Cemetery {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 30, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Mr. Secretary, thank you. Secretary Nicholson, General Myers, members of Congress, members of the United States military, veterans, honored guests, fellow Americans, especially those loved ones of the fallen: Every year on this day, we pause to remember Americans fallen by placing a wreath at the Tomb of the Unknowns. I'm honored to do that this morning on behalf of the American people. The names of the men buried there are known only to God, but their courage and sacrifice will never be forgotten by our nation. 
+
+The soldiers, sailors, airmen, and Marines we remember today answered the call of service in their nation's hour of need. They stood to fight for America's highest ideals. And when the sun came up this morning the flag flew at half-staff in solemn gratitude and in deep respect. 
+
+At our National Cemetery, we receive the fallen in sorrow, and we take them to an honored place to rest. Looking across this field, we see the scale of heroism and sacrifice. All who are buried here understood their duty. All stood to protect America. And all carried with them memories of a family that they hoped to keep safe by their sacrifice. 
+
+At a distance, their headstones look alike. Yet every son or daughter, mom or dad who visits will always look first at one. General Eisenhower put it well in 1944, when he wrote his wife, Mamie, about "the homes that must sacrifice their best." The families who come here have sacrificed someone precious and irreplaceable in their lives -- and our nation will always honor them. 
+
+At our National Cemetery, we're reminded why America has always been a reluctant warrior. This year we celebrate the 60th anniversary of the end of World War II, a victory for which more than 400,000 Americans gave their lives. Their courage crossed two oceans, and it conquered tyrants. Some of you here today fought in that war as young men, and we make this pledge to you: America will always honor the character and the achievements of your brave generation. {APPLAUSE} 
+
+Today we also remember the Americans who are still missing. We honor them. And our nation is determined to account for all of them. {APPLAUSE} 
+
+Another generation is fighting a new war against an enemy that threatens the peace and stability of the world. Across the globe, our military is standing directly between our people and the worst dangers in the world, and Americans are grateful to have such brave defenders. {APPLAUSE} The war on terror has brought great costs. For those who have lost loved ones in Afghanistan and Iraq, today is a day of last letters and fresh tears. Because of the sacrifices of our men and women in uniform, two terror regimes are gone forever, freedom is on the march, and America is more secure. {APPLAUSE} 
+
+At our National Cemetery, we take comfort from knowing that the men and women who are serving freedom's cause understand their purpose -- and its price. Marine Captain Ryan Beaupre of St. Anne, Illinois, was killed in the first hours of the war. He wrote his mom and dad a letter that was to be opened only in the event he didn't come home. He wrote: "Realize that I died doing something that I truly love, and for a purpose greater than myself." 
+
+Army Sergeant Michael Evans of Marrero, Louisiana, felt the same way. He was killed on January 28th while on patrol in Western Baghdad. In his own farewell letter to his family, the 22-year-old reminded those he left behind to stay strong. He said: "My death will mean nothing if you stop now. I know it will be hard, but I gave my life so you could live. Not just live, but live free." {APPLAUSE} 
+
+For some of our young heroes, courage and service was a family tradition. Lance Corporal Darrell Schumann of Hampton, Virginia, was a machine gunner for the Marines, but his parents were Air Force. He liked to say, "Air Force by birth, Marine by choice, and American by the grace of God." {APPLAUSE} Corporal Schumann was among the first to enter the battle against insurgents in Fallujah, and he was proud of what he -- what we are achieving. He later died in a helicopter crash. In his last letter from Iraq, he wrote, "I do wish America could see how awesome a job we're doing." 
+
+These are the men and women who wear our uniform. These are the men and women who defend our freedom. And these are the men and women who are buried here. As we look across these acres, we begin to tally the cost of our freedom, and we count it a privilege to be citizens of the country served by so many brave men and women. {APPLAUSE} And we must honor them by completing the mission for which they gave their lives, by defeating the terrorists, advancing the cause of liberty, and building a safer world. {APPLAUSE} 
+
+A day will come when there will be no one left who knew the men and women buried here. Yet Americans will still come to visit, to pay tribute to the many who gave their lives for freedom, who liberated the oppressed, and who left the world a safer and better place. Today we pray that they have found peace with their Creator, and we resolve that their sacrifice will always be remembered by a grateful nation. 
+
+May God continue to bless America. {APPLAUSE} 
+
+{/speech} 

@@ -1,0 +1,58 @@
+﻿{title} The Vice President Makes Remarks to Florida's Regional Domestic Security Task Force {/title}
+{event} Tampa, Florida {/event}
+{speaker} Dick Cheney {/speaker}
+{date} October 24, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. {APPLAUSE} Thank you very much. Thank you, all. Well, thank you, Jeb. I want to thank all of you, as well, too, for that welcome to Florida on a beautiful morning. It's always nice to be back in Tampa.
+
+And I've just spent some time this morning with the governor and with many of your officials and gone through an excellent briefing on the homeland security effort here in Florida.
+
+I want to thank Commissioner Tim Moore and Chief Lauer, as well, for conducting a very useful and informative session for me. It's very important for us wrestling with these issues at the federal level to get out where the rubber meets the road, so to speak, and see how things are actually functioning, what's working, what isn't working, what needs to be addressed -- by us, as well, at the federal level.
+
+And I appreciate the participation of all of those this morning -- Mayor Greco, from Tampa, and Mayor Hood, from Orlando, as well, too -- and grateful to the port officials and the workers that have made our visit possible today. I also want to thank all the members of the Florida Regional Domestic Security Task Force for the work that you've put in.
+
+Thirteen months ago when thousands of unsuspecting citizens were killed by terrorists, our nation found that vast oceans no longer shield us from harm. We discovered there is no substitute for vigilance in our nation.
+
+From the morning of September 11th to this hour, the United States has been engaged in an unprecedented effort to defend our freedom and our security. America was threatened by training camps of terror in Afghanistan. Those camps are now gone.
+
+We found vulnerabilities in our airports and on our borders, and we've greatly improved security. The attacks exposed weaknesses in federal law enforcement. We're making important changes in the FBI to deal with that. We've instituted a homeland security advisory system to give public officials and citizens the best information on the threat level facing the country at any one time. We've created a White House Office of Homeland Security, led by former Governor Tom Ridge, to answer the threat with better detection and prevention and preparedness and response capability.
+
+With a continental nation to defend, we cannot possibly predict every conceivable attack. It is essential, however, that we take all measures possible in order to be prepared. We need dedicated professionals working together, planning for surprise and making the United States a harder target for those who wish to harm us.
+
+This, of course, is more than just a federal effort. Every level of government has a responsibility to assess vulnerabilities, to upgrade security and commit manpower and resources for the protection of human life. We need to work also to protect private property, infrastructure, and commerce.
+
+Here in Florida, I'm pleased to say, we have a model of how the homeland security effort should operate at the state level. Through the leadership of Governor Bush and the good work of many with us here today, Florida became one of the very first states in the nation to have its own comprehensive strategy for domestic security.
+
+Aided by the work of the seven regional task forces, the Florida strategy covers emergency preparedness and response; health and bio-terrorism; information and intelligence; and border and port security. Florida, with more than a thousand miles of coastline, has 14 commercial seaports -- each one critical to the state's economy, and affecting commerce and jobs, both inside and outside Florida.
+
+The ports of Florida account for nearly $50 billion in water-borne trade each year, and well over a hundred billion tons of cargo pass through those ports. By tonnage, your port in Tampa is the largest of all. By the size and volume of their commerce, seaports are also obviously a point of potential vulnerability.
+
+For that reason, the Governor and officials across Florida provided early and decisive leadership in seaport security. In fact, even before our nation was attacked, the legislature had passed and Governor Bush had signed the Seaport Security Act, raising the standard of protection all along the Florida seacoast.
+
+The efforts here since 9/11 -- from access control to background checks to improved surveillance -- are an extension of Florida's longstanding focused commitment to secure ports, and a key element of homeland security in America's fourth largest state.
+
+As in the fields of national defense, or intelligence operations, homeland security is one of those areas where the greatest contributions often are also the most difficult to quantify. We cannot begin to measure the value of the freedom that's protected, or the number of lives that are saved by first-rate security measures. But we can say with certainty that every person involved can take pride in the enterprise. By making domestic security a top priority in this state, the leaders of Florida are carrying out an important duty and giving great service to the people of Florida.
+
+All of us who serve in public office share in that responsibility. We must all do our part. At the federal level we are continuing to act on may fronts to protect our homeland. The federal government has not been organized to meet the kind of threats that we face today.
+
+It's important that we now take fundamental and permanent reforms in the way government is organized to protect our people. The time has arrived to bring the many offices and agencies charged with homeland security into a single department, and to give the -- that department the mandate and the legal authority it needs to fulfill its mission. This involves consolidating the work of nearly a hundred separate agencies of the federal government, all of whom have a piece of the action today.
+
+President Bush proposed the department of homeland security to take charge of our borders, to anticipate attacks from our enemies, and to act to address our vulnerabilities. When the department is in place we will have fewer rivalries among agencies and no more turf wars while the enemy is gaining ground. The defense of our homeland will be thorough, it will be focused, and it will be unified.
+
+The House of Representatives has already approved that new department. The legislation is currently being debated in the United States Senate. Some have been unwilling to provide the maximum flexibility the department needs in order to be able to succeed in its mission. That's the heart of the current debate. It's been suggested, for example, by those who are denying us the flexibility we think we need that the President and all future Presidents should not have the authority that every President since John F. Kennedy has had with respect to this particular issue affecting the national security.
+
+For nearly 40 years Democratic and Republican Presidents, alike, have had the authority to determine that vital national security interests must take priority over standard rules of management and labor relations. This authority applies to every department and agency of the federal government. At a time when our nation is at war and the security of the American people is threatened as never before, it makes no sense to deny that authority in the one department that probably needs it most. If the President has that kind of authority in running the Agriculture Department, he should have the same authority in wartime when it comes to the department of homeland security. {APPLAUSE}
+
+President Bush, and every future President, needs management flexibility in order to protect the American people. I again call on the Senate to do the right thing and to support the President's position on homeland security, and to do so without wasting another day.
+
+The last 13 months have brought dramatic victories, and some periods of calm, as well. But America must never let our guard down. Our nation is vast, and defending it is a great and difficult duty of the government. The threats against us are varied and serious. Our enemies are hidden and ruthless, and we know they are still doing everything they can to organize additional attacks to take additional American lives.
+
+To defeat them, we must be patient and resolute, and we must be organized for victory. The new department of homeland security will be crucial to our cause. Whatever it takes abroad and at home, we will face this threat to America and we will prevail. {APPLAUSE}
+
+As we look to the work in the months ahead, I again want to thank Governor Bush and his team, and all of the fine people who serve on the regional domestic security task forces here and all across Florida. You've established a security framework that is a model for our states and communities all across the country. You've done it with professionalism, with skill, and in record time. Thank you very much. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,38 @@
+﻿{title} Remarks by the President in Announcement of General Michael Carns as Nominee to be CIA Director {/title}
+{event} Announcement of General Michael Carns as Nominee to be CIA Director, The Roosevelt Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 8, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Ladies and gentlemen, I'm delighted to see you all here. I thank the members of Congress especially for being here -- Senator Thurmond, Senator Specter, Senator Leahy, Congressman Dicks. Is Congressman Gilman here?
+
+It is my pleasure and honor today to announce my intention to nominate General Michael Carns to be the next Director of Central Intelligence.
+
+General Carns will face a challenge whose difficulty is matched only by its importance. The Cold War is over, but many new dangers have taken its place -- regional security threats; the proliferation of weapons of mass destruction; terrorists who, as we have seen, can strike at the very heart of our own major cities; drug trafficking and international crime. The decisive advantage United States intelligence provides this country is, therefore, as important as it has ever been.
+
+As President, I've had the opportunity to appreciate just how important that intelligence is to our national security. Most Americans never know the victories our intelligence provides or the crisis it helps us to avoid, but they do learn about its occasional setbacks. And as we prepare our intelligence community to face new challenges, we must not forget its many successes.
+
+General Carns' broad experience and exceptional qualities make him the right leader for our intelligence community in this time of challenge and change. He's distinguished himself as a fighter pilot, a military commander and a manager. He's a proven innovator, open to new ways of doing business and skeptical of conventional wisdom. He understands the critical importance of intelligence because he's had to rely on it when the lives of Americans and the security of our country were on the line. He's taking this critical assignment after having already dedicated a whole lifetime of outstanding service to our country. I thank him and his wife for that decision.
+
+After graduating from the Air Force Academy in 1959, he went on to fly over 200 combat missions in Vietnam, where his heroism earned him the Silver Star and the Distinguished Flying Cross. He served as Director of Operations for the Rapid Deployment Task Force, Deputy Commander-in-Chief of the United State Pacific Command, Vice Chief of Staff of the Air Force, the office he held before entering a very short-lived retirement last September.
+
+And somewhere along the line, he even found time to get an MBA from Harvard -- something for which I have already forgiven him. {LAUGHTER}
+
+General Carns also served as Director of the Joint Staff during Operations Desert Shield and Desert Storm. Both Admiral William Crowe and General Colin Powell, who relied on General Carns to get the job done when our nation was at war, know and appreciate the full measure of this fine man.
+
+His exceptional accomplishments are rooted in a tradition of patriotism and service instilled in him by his father, Major General Edwin Carns of the Army, and by his mother, Jan, whom I had the privilege of speaking with yesterday. Mike and his wife, Victoria, have carried on this tradition and passed it along to their own children -- Michelle, a cadet at the United States Air Force Academy, and Mark, who serves in the Air Force. Let me say to their entire family, the country is proud of your service, and I am, I say again, especially grateful to you, Victoria, for supporting this move today.
+
+General, your mission will be greatly helped by the distinguished commission, led by our former Secretary of Defense Les Aspin and former Senator Warren Rudman, that I have asked to review the missions and structure of our intelligence community. Together and with the help of the Congress, you can build a strong consensus for reinvigorating U.S. intelligence so that it pursues clear priorities and puts its resources behind the core missions that will continue to give our nation the most timely, relevant and honest intelligence in the world.
+
+As we look to the future, I also want to thank the outgoing Director of Central Intelligence, Jim Woolsey, for his service. Thank you, Jim, and we're delighted to see you here today. No one has been a more forceful advocate for the intelligence community, in my own case, beginning long before I became President. His efforts to streamline collection systems and improve the quality of analysis will pay off for our country for many years to come.
+
+I'd also like to express my deep appreciation to our Acting Director, Bill Studeman, who has served our nation admirably for 32 years now. Both of you have earned out nation's gratitude.
+
+Finally, to the men and women of our intelligence community whose work often goes unheralded, let me say on behalf of all of us and all Americans, your country owes you a debt which can never be fully repaid, but we respect it and we appreciate it. What we can do, and what General Mike Carns and I will vow to do, is to work with you, to support you, and to challenge you as we build an intelligence community for the next century.
+
+General Carns. {APPLAUSE} 
+
+{/speech}

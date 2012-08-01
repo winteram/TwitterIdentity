@@ -1,0 +1,53 @@
+﻿{title} Speech in Seattle {/title}
+{event} ----- {/event}
+{speaker} John Kerry {/speaker}
+{date} May 27, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} This is an excerpt. In Seattle John Kerry speaks with national security. It's part of an 11-day tour, focusing exclusively on keeping America safe. {/description}
+
+
+{speech} 
+
+... is not the only source of power -- of our power in the world, we must deploy all that is in the American arsenal: our diplomacy, our intelligence system, our economic power, and most importantly, the appeal -- the extraordinary appeal that through centuries has made us who we are, the appeal of our values and our ideas. {APPLAUSE}
+
+Fourth and finally, to secure our full independence, our full freedom, to be the masters of our own destiny, we must free America from its dangerous dependence on Mideast oil. {APPLAUSE}
+
+These four imperatives are an inescapable reality. The world and the war itself has changed. The challenge and the enemy are different. And we have to think and we have to act anew. 
+
+Today we're waging a global war against a terrorist movement committed to our destruction. Terrorists like Al Qaeda and its copycat killers are unlike any adversary that our nation has ever faced. 
+
+We don't know for certain how they're organized. We don't even know for certain how many operatives they have. 
+
+But we know the destruction that they can inflict. We saw it in New York and in Washington. We've seen it in Bali and in Madrid, in Israel and across the Middle East. And we see it day after day in Iraq. 
+
+This threat will only be magnified as the technology to build nuclear and chemical and biological weapons continues to spread. And we can only imagine what it would be like, what would happen, if the deadly forces of terrorism got their hands on the deadliest weapons in history. 
+
+Everyone outside of this administration seems to understand that we're in deep trouble in Iraq. Failure there would be a boon to our enemies and it would jeopardize the long-term prospects for a peaceful, democratic Middle East, leaving us at war, not just with a small, radical minority, but with increasingly large portions of the entire Muslim world.
+
+There is also the continuing instability of Afghanistan, where Al Qaeda has a base. Osama bin Laden is still at large because the Bush administration didn't finish him off at the Battle of Tora Bora when they had the chance. {APPLAUSE}
+
+And in East Asia, North Korea poses a genuine nuclear threat, while we have begun to strip American forces from that peninsula to relieve the over-burdened forces in Iraq. In the coming week, I will also offer specific plans to build a new military capable of defeating enemies, both new and old, and to stop the spread of nuclear, biological and chemical weapons.
+
+But first, here, today, I want to set out the overall architecture of a new policy to make America stronger and respected in the world.
+
+The first new imperative represents a return to the fundamental principle that guided us in peril and victory through the past century: Alliances matter and the United States must lead them. {APPLAUSE}
+
+Shredding alliances is not the way to win the war on terror or even to make America safer.
+
+As president, my number one security goal will be to prevent the terrorists from gaining weapons of mass murder. 
+
+And our overriding mission will be to disrupt and destroy their terrorist cells. Because Al Qaeda is a network with many branches, we have to take the fight to the enemy on every continent, smartly. And we have to enlist other countries in that cause. 
+
+America must always be the world's paramount military power, but we can magnify our power through alliances. We always have. It has always served us. It's always saved us money. It's always saved us lives. It's always made us safer. 
+
+We simply can't go it alone or rely on a coalition of the few. {APPLAUSE}
+
+The threat of terrorism demands alliances on a global scale, to find the extremist groups, to guard ports and stadiums, to share intelligence and to get the terrorists before they get us.
+
+In short, we need a coalition of the able. And in truth, no force on Earth is more able than the United States and its allies. So we must build that force. And we can. We can be strong without being stubborn. Indeed, that is ultimately the only way that we can succeed. 
+
+But building strong alliances is...
+the only way that we can succeed, but building strong alliances...
+
+
+{/speech} 

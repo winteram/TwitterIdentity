@@ -1,0 +1,32 @@
+﻿{title} Vice President and Mrs. Cheney's Remarks at a Wisconsin Victory Office {/title}
+{event} Waukesha County Victory Center, Waukesha, Wisconsin {/event}
+{speaker} Dick Cheney {/speaker}
+{date} November 2, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{OTHER-SPEAK} Well, I tell you it has been one heck of a campaign. We had a 24-period ending, I guess, yesterday where we went 10,000 miles -- including a little stop in Honolulu. We're not only going to carry Wisconsin; we're going to carry Hawaii. {APPLAUSE}
+
+But for all the speechifying Dick has done, and all the listening I've done, and all the joy we've had -- we've had our grandchildren with us a lot, which has just lifted our hearts. {APPLAUSE} This is Kate. She's 10 years old. {APPLAUSE} For all of the effort that we've put into it, I know you have matched that hour by hour. And when I think of the great victory celebration we're all going to have tonight, I know we owe it to you. And we thank you so much. {APPLAUSE}
+
+And I've been thinking of -- you're all volunteers here. You're doing this out of love of your country, love of our President, knowing how important it is that he be there for four more years, when I think of what we're doing and then I just can't help but compare it with sort of paid organization on the other side, what this is going to be is a real example of how freedom reigns. {APPLAUSE}
+
+Well, I'm having so much fun talking to you, I don't know if I'll let Dick talk or not. {LAUGHTER} But maybe I should. Here you go. {/OTHER-SPEAK} 
+
+That's a first. {APPLAUSE} I'm just enthralled by that sign over here that says, "Cheese Heads Choose Cheney." {LAUGHTER ; APPLAUSE} 
+
+Well, we're delighted to be here. We just wanted to stop in a few minutes. You're doing very important work, and we don't want to take you away from those phones any longer than necessary. But Wisconsin is an extraordinarily important state this year, and Lynne and I claim special ties to Wisconsin. Kate's mother was born here. And we -- it had a huge impact on our lives. Not only did we spend time over at the university, but I got my political start here in Wisconsin with Governor Warren Knowles and Congressman Bill Steiger, and some other great Wisconsin politicians who set a very, very high standard just like Congressman Sensenbrenner and Congressman Ryan do. {APPLAUSE}
+
+But Jim and I go way back to the mid '60s, in the state capitol building, when we were young men then and had dark hair. {LAUGHTER} And then we were classmates in the Congress together, and he does a superb job for all of us here in Wisconsin. {APPLAUSE}
+
+But we're now down to the final hours. This is where it all comes together. It's getting folks out to the polls and getting them there so that they can cast that vote. It doesn't matter how many debates they've listened to, or how many commercials, they've seen on the air, from their perspective, it's meaningless if they don't exercise their right to go cast that ballot and participate in this process. We are uniquely privileged as Americans to be part of something like this in terms of the whole process by which we elect our leadership. And this election, I believe, is more important than any in my lifetime. I think the decisions we're making about -- {APPLAUSE} I think the decisions we're making about the future of the nation, national security how we defend and protect us and our kids and grandkids in the future, given this -- the importance of prosecuting the global war on terror, as well as here at home -- education and health care and economic policies and tax policies and so forth; a lot of very, very big issues on the table this year. This is an election that will make a huge difference in terms of the future of the nation. We're deeply grateful for all that you're doing to be here and be part of the effort. And we couldn't do it without you. And we're absolutely convinced that tonight, when all the votes are counted, Wisconsin is going to be Bush-Cheney country. {APPLAUSE}
+
+{OTHER-SPEAK} Now, you all are so superbly well organized, and we have been superbly well organized throughout this campaign. The Vice President likes to be on time, and so we've been on time. We are well organized. Everything has worked well. But today, we're so giddy thinking about tonight, we made one small mistake. We had presents for you. We had cookies. We had these gorgeous boxes of cookies. And when two of my grandchildren decided to stay behind, we took a car out of the motorcade, and guess where the cookies were? {LAUGHTER} However, they're coming later. You're going to see these gorgeous, foil-covered boxes of cookies with flags, and please think of us when they -- when they come along. So thank you.
+
+We just want to thank you all one more time. You are terrific. We love each and every one of you. We so appreciate what you're doing, and onward to victory. {APPLAUSE} {/OTHER-SPEAK} 
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+{/speech}

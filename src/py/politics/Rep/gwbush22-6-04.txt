@@ -1,0 +1,38 @@
+﻿{title} President Commemorates Black Music Month at White House {/title}
+{event} Remarks by the President at White House Reception for Black Music Month, The East Room {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 22, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thanks for coming, and welcome to the White House. Laura and I really appreciate you coming to join us today to celebrate Black Music Month. And we're glad you're here.
+
+Our Jazz Masters and students from the "Jazz in the New Generation" program will perform for us soon. And we thank them for being here, as well. I think you're going to like it. {LAUGHTER} Actually one of the great advantages of being the President is you get some great musicians to play for you in your living room. {LAUGHTER}
+
+We want to thank Dana Gioia for coming here. He's the Chairman of the National Endowment of Arts, who's doing a fine job. I appreciate you being here. {APPLAUSE}
+
+I see members of my Cabinet who are here -- Secretary of Agriculture Ann Veneman is joining us. Thank you, Ann, for coming. And the Secretary of Housing and Urban Development Alphonso Jackson, and his wife Marcia -- I appreciate you both being here. {APPLAUSE} I want to thank Congressman Chris Shays from the great state of Connecticut, for joining us. Thank you, and thank you for bringing Laura back safely last night. {LAUGHTER}
+
+I appreciate Bill Coleman, the former Secretary of Transportation under Gerald Ford, for joining us today. Mr. Secretary, thank you for coming. {APPLAUSE}
+
+I want to thank Dr. Billy Taylor, Jazz Master 1988, and the Billy Taylor Trio, for being here today. Thank you all for coming. Honored you're here. {APPLAUSE} I want to thank Jazz Master 2004, Chico Hamilton, for joining us today. Thank you for coming. {APPLAUSE} James Moody, Jazz Master 1998, thank you for coming. {APPLAUSE} Of course, "Jazz in the New Generation" students, who will be introduced shortly. I appreciate David Baker, Jazz Master 2000, for joining us, as well. Proud you're being here. {APPLAUSE}
+
+During this month, we recognize the great contribution that black music has made to the culture of our nation and to the world. This music could only have come from the unique experience of African Americans; yet it speaks to every human heart. Black music in America began with spiritual songs that bore witness to the cruelty of bondage and the strength of faith. From those roots, it grew into a variety of styles -- jazz and gospel, rhythm and blues, and rock and roll. All these forms capture a part of the American spirit.
+
+It's impossible to imagine American music without Louis Armstrong and Duke Ellington, Mahalia Jackson and Billie Holiday, Lionel Hampton or B.B. King, Stevie Wonder and Aretha Franklin, and countless others. It's just impossible to imagine American music without them, isn't it?
+
+Recently, we've lost two of our greatest African American musicians. Last month, the celebrated jazz drummer Elvin Jones passed away. He was the fiery pulse of John Coltrane's Quartet. Elvin Jones loved music so much that rather than spend his last days in the hospital, he brought an oxygen tank on stage with him, so he could keep amazing his audiences until the very end.
+
+And just days ago we said good-bye to another American original, Ray Charles, who's often called "the father of soul music." But his music embraced every style and transcended every label. It takes a great talent to make a song forever your own, and no one hears "Georgia On My Mind" or "Hit the Road, Jack" without thinking of Ray Charles. When he was 15, his mother, Aretha, told him just before her death, "You might not be able to do things like a person who can see, but there are always two ways to do everything -- and you've just got to find the other way." Well, Ray found -- Ray Charles found the other way, a beautiful way, and it was our privilege to witness it.
+
+Though an older generation leaves us, their legacy lives on in many talented, young African American musicians of today. Gospel singers like Kirk Franklin and Yolanda Adams -- I might add, both from Texas -- {LAUGHTER} -- bright jazz talents like Roy Hargrove, Mark Turner, Joshua Redman. Pop artists like Alicia Keys. And, of course, there's a Marsalis brother for just about every instrument. {LAUGHTER}
+
+These performers and many others carried forward the tradition of black music in our country. We take great pride in this heritage. We're grateful to every musician who keeps that heritage so rich and so vital today.
+
+And so I've signed a proclamation designating June 2004 as Black Music Month in the United States of America. It's a way we honor this important part of our heritage.
+
+I'm going to turn things over now to the Chairman of the National Endowment of the Arts, Dana Gioia, who will tell us about the Jazz Masters program and introduce our performers. Before he comes up here, I want you to know that he jokes he's the only person ever to have gone to Stanford Business School to become a poet. {LAUGHTER} He can explain that for himself. {LAUGHTER} He's doing a great job as the NEA Chairman. Welcome, Dana Gioia {APPLAUSE} 
+
+{/speech}

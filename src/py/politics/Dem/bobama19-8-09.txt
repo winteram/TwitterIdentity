@@ -1,0 +1,30 @@
+﻿{title} Remarks By The President Honoring 2008 Nascar Sprint Cup Champion Jimmie Johnson {/title}
+{event} Honoring 2008 Nascar Sprint Cup Champion Jimmie Johnson {/event}
+{speaker} Barack Obama {/speaker}
+{date} August 19, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good afternoon, everyone. Please have a seat. Welcome to the White House.
+Just before I begin, there are a couple of acknowledgements I want to make. First of all, we've got some Wounded Warriors from Walter Reed and National Naval Medical Center, and I want everybody to give them a big round of applause. We are grateful to them. {APPLAUSE} They're big NASCAR fans.
+I also want to thank a good friend and a terrific governor, Brad Henry from Oklahoma is here. Stand up, Brad. {APPLAUSE}
+You know, it is not every day that we have a championship stock car parked out on the South Lawn. {LAUGHTER} Fortunately, we got Jimmie to agree not to do any burnouts or tear up my backyard. I also suggested to Jimmie that, in exchange for free parking, he should let me take the 48 out for a few laps. {LAUGHTER} He said that was fine -- but Secret Service didn't think it was fine. {LAUGHTER}
+But that's okay, because I'm just glad Jimmie could be here so we can honor him for winning his third consecutive Sprint Cup Championship. Give him a big round of applause. {APPLAUSE} Jimmie got his start racing in motocross events at the age of five and has been racking up trophies and titles for nearly three decades now. But like me, I think his greatest achievement is probably just how far he married up. I had a chance to meet his wife, Chandra, and I'm so glad that she could be here today, as well. Congratulations for your family's success.
+We want to keep -- everyone who keeps the 48 up front -- we want to congratulate all of them: owner Rick Hendrick, the crew chief -- {APPLAUSE} Rick deserves a round of applause. Crew chief Chad Knaus -- did I say that right? And all the folks at Hendrick Motorsports, because we all know NASCAR, winning isn't just about who's behind the wheel during the race, it's also about who's got your back in the pit and everyone back at the shop who preps these cars week after week.
+With these folks at his side, Jimmie is hoping for a fourth series championship in a row this year. But I think there's another group of guys back here who may have something to say about that -- Jeff, good luck in your "drive for five." And good luck to all the other chase drivers joining us today. I'm extraordinarily grateful to them.
+We're also joined today by one of NASCAR's all-time greats, "The King," Richard Petty. Sitting right here. {APPLAUSE} With a family tradition that's generations strong, the Pettys are about as close as you can get to a NASCAR dynasty.
+And finally, I want to recognize Mike Helton, NASCAR's president, for his dedicated leadership, and, of course, Brian France, NASCAR's chairman, and his wonderful wife, Amy, who've done so much for the sport. Please give them a big round of applause. {APPLAUSE}
+And let me also take the opportunity to say that our thoughts are with the NASCAR community at the recent passing of Tom Murphy, a man who put his heart and soul into NASCAR over the years.
+You know, it's fitting that you've all come here to the White House -- the American people's house -- because NASCAR is a uniquely American sport. Since its humble beginnings, when moonshiners raced on the sands of Daytona Beach during prohibition, it's grown into a sport with tens of millions of fans here in America and around the world.
+But NASCAR is about a lot more than just racing cars. It's as much about what you give back off the track as you give on the track. It's about what you're doing to protect our environment and help America become energy independent -- using solar energy, and working to offset carbon emissions, and even hiring a director of green innovation to take your commitment to the next level.
+It's about supporting our troops and our veterans, from flyovers and red, white and blue paint jobs on Memorial Day to your visits to Walter Reed and Iraq and Afghanistan that show our appreciation for the brave men and women who are serving our country.
+And it's about all the foundations NASCAR has started to support schools and hospitals, combat hunger and homelessness, and work to help folks in our communities -- like the campers here from Victory Junction; kids who can teach us all a thing or two about courage and hope, and I hope had the time of their lives at summer camp.
+After all, one of the core values of the NASCAR community is the belief that service isn't just something you do once in a while when it's convenient -- it's a way of life. I think Jeff Gordon put it best when he said, simply, "Any person out there should do something some way to give back to their community."
+And that's what folks from more than 150 countries see around the world when they tune in to your races -- not just your speed and your skill, but also your compassion, your dedication to your families and our communities, how much you love this country and how strongly you support the heroes who serve it. That's the face of America that you show to the world.
+So today, I want to thank all of you for that and for everything you do to make this country a better country. And I wish you all the best of luck in this year's chase.
+God bless all of you, and God bless the United States of America. Thank you very much, everybody. {APPLAUSE}
+I think I've got to take a shot next to the cup here. 
+
+{/speech}

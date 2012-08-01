@@ -1,0 +1,60 @@
+﻿{title} Remarks by the Vice President at Miramar Marine Air Station {/title}
+{event} Miramar Marine Air Station {/event}
+{speaker} Dick Cheney {/speaker}
+{date} February 18, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Duke, and General. I appreciate very much the warm welcome here today and the opportunity to spend a little bit of time with all of you. I've been looking forward to this visit.
+
+You know, lately I've been spending a lot of time in secure, undisclosed locations. Miramar isn't exactly "undisclosed," but with so many Marines around, I've never felt more secure in my life. {APPLAUSE}
+
+It is, indeed, a special privilege to be here to stand with members of the 3rd Marine Aircraft Wing, and with men and women associated with the station. To each and every one of you I bring good wishes from your Commander in Chief, the President of the United States, George W. Bush. {APPLAUSE}
+
+The President, as you know, is in Asia this week, conducting a series of important meetings in Japan, Korea and China. When we both return to the White House next week, I'll tell him about visiting the Marines at Miramar and I'll reconfirm the famous assessment of General Douglas McArthur, "there is no finer fighting organization in the world." {APPLAUSE}
+
+Thank you all for serving America, especially in this time of testing for our country and for the military. Let me also thank the people who help make your service possible, sharing your challenges, giving their support every day: the strong and loyal families at Miramar.
+
+And I'm grateful to General Hagey, and to all of the base officials joining us here today, as well as Duke Cunningham and his fellow members of Congress who are here, Duncan Hunter and Susan Davis. These members of Congress, along with members of both parties and every state are today united behind the President and our Armed Forces.
+
+We are in a struggle for freedom and for security for the American people. And let there be no doubt, the forces of freedom will defeat the forces of terror.
+
+We did not seek this war, but it found us prepared. The 3rd Marine Aircraft Wing is part of a fighting force that moved quickly and decisively across oceans and continents. Five months after the President called the military to its first great mission of the 21st century, we have seen important victories. The terror camps in Afghanistan are in ruins, never to reappear. The Taliban is gone, never to return. And for the first time, terrorists everywhere have good reason to fear for their own safety.
+
+This war began with a deliberate attack on innocent Americans. This war will end when justice is delivered in full measure and no terrorist group or government can threaten the peace of the world.
+
+Our first objective is to shut-down terrorist camps wherever they are and to disrupt terrorist plans and bring terrorists to justice. We are dealing here with an entirely new kind of threat to our security -- a threat global in scale and often hidden from view. Afghanistan is only the beginning of a long and unrelenting effort. At this moment, American troops are on the trail of terrorist groups from the Philippines to the Horn of Africa. Wherever threats are forming against our country, we will respond and we will respond decisively.
+
+Our next objective is to prevent regimes that sponsor terror from threatening America or our friends and allies with chemical, biological or nuclear weapons. The attacks of September 11th were devastating, but the destruction would have been far worse if the terrorists had used weapons of mass destruction. And we know for a fact that Osama bin Laden and his al Qaeda network have been doing everything they can to acquire nuclear, chemical or biological weapons. The training camps and caves in Afghanistan contained ample evidence of their search.
+
+That is why the President spoke so directly about the axis of evil in his State of the Union speech, and mentioned specifically three nations that have histories of seeking weapons of mass destruction and providing sanctuary to terrorist organizations or selling dangerous capabilities to others: Iran, Iraq and North Korea. And, of course, Iraq has actually used chemical weapons against Iran and against the Kurds in Northern Iraq.
+
+The President's remarks caused a certain amount of hand-wringing in some quarters, but most Americans find it reassuring to have a Commander in Chief who tells the truth and who means exactly what he says. {APPLAUSE} As the President said, the United States will not permit terrorist states and their terrorist allies to threaten us with weapons of mass destruction.
+
+The campaign in Afghanistan showed the great power and precision of the modern military. We destroyed terrorist camps, military training facilities, air fields, air defenses, ammunition storage areas and command and control facilities. With unmanned combat vehicles with expensive precision weapons, it's been possible to strike the enemy and to spare innocent lives.
+
+We will invest in these and other capabilities in the years ahead. To carry out any mission that may come, you deserve the best weapons, the best equipment and the best training -- and you will have them all. I say this with confidence because I know your Commander in Chief and I'm privileged to work with him every day. President Bush understands not just your responsibilities, but his own. He gives orders with careful deliberation. He sets clear objectives and pursues a consistent strategy to meet them. He's placed people of experience and integrity under him in the chain of command, from Secretary of Defense Don Rumsfeld all the way down the line.
+
+And I know you're all proud for the first time in history, we have a Marine as Vice Chairman of the Joint Chiefs of Staff, General Peter Pace. {APPLAUSE}
+
+To support our military, the President has asked Congress for an increase of more than $48 billion for national defense, the largest in a generation. And for the well-being of our military families, the President has proposed a raise in pay for all who wear the uniform of the U.S. military. {APPLAUSE}
+
+The Armed Forces will see many positive changes in the years to come: improvements in tactics, strategy and the technologies of warfare, all of them directed toward the security of the United States and success for the cause of freedom.
+
+Yet, whatever changes we choose to make, our security and freedom will stand or fall upon the character of our men and women in uniform. We could have the finest technology and the most lethal weapons -- and we do -- but in the hours when wars are won, what matters most is the kind of people who have stepped forward to serve our country.
+
+In every generation the ranks of the United States military have been filled with men and women of honor, who place duty and country above self-interest, give America the best years of their lives and stand ready to give life, itself. Some have already made the greatest sacrifice in this time of war, and the losses have fallen heavily on this Wing.
+
+Last month, crashes in Pakistan and Afghanistan claimed the lives of nine Marines, all of them Miramar Marines. More loss came to this station last week in the crash near Mount Barrow that claimed two more men. The families of all of these Marines can be forever proud. For wearing our country's uniform and serving the nation in an hour of need, these young Americans have an honored place in our national memory.
+
+In the lives of those who have died and the example of those who serve today, the world has seen the very best of the United States. As members of our military, you defend human freedom against determined enemies. You live by a code of honor, following traditions of loyalty and decency that arise from generations of experience. And you know the stakes of this cause: the success of liberty and the future of the civilized world now depend on us. As we did in the great conflicts of the last century, America accepts the place of leadership given to us by history.
+
+The outcome of this conflict is certain, our nation has the strength and the patience required for a long struggle. We have faithful friends and allies. And we have you, the people of our military.
+
+I can assure you on behalf of the President and all Americans, this nation is proud of you, we're grateful for your service and confident of the victories to come.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

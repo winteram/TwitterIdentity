@@ -1,0 +1,26 @@
+﻿{title} Remarks by the President to the UNC Women's Basketball Team {/title}
+{event} Speech by President to UNC Women Basketball Team {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 27, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President to UNC Women Basketball Team {/description}
+
+{speech} 
+
+I apologize for being a little late. I've been on the phone with members of the Congress, which I had to do. Senator Helms, Congressman Valentine, Congressman Lancaster, Congressman Price. I think Congressman McMillan's out there somewhere. Alex, it's good to see all of you. Ladies and gentlemen. It's a great honor for me to have this basketball team here if only to see them all looking normal after I watched that incredible end to the championship game.
+
+The University of North Carolina Women's Basketball Team not only won its first national title this year, but had the best record in the country and the school record, 33 wins. Coach Sylvia Hatchell broke the 400-career victories mark and was named National Coach of the Year.
+
+But my guess is that -- actually, I wanted to ask her this -- whether when the team spray-painted her hair Carolina blue -- {LAUGHTER} -- it made it worthwhile or she began to wonder. {LAUGHTER}
+
+I want to say, of course, a special word of congratulations to Charlotte Smith for that three-point shot. I can tell you I've been in a lot of tough fights myself around here and there have been a lot of times when I've looked around for somebody who could take that shot. {LAUGHTER} And I want to congratulate Tonya Sampson who I know has overcome some considerable personal challenges to be the leading scorer in Carolina women's basketball history.
+
+I also want to say something that I have felt for a long time, and it's appropriate this year because North Carolina women's basketball and soccer teams won the NCAA titles and so often in the past your men's basketball team has done so well. The thing I have always admired about the University of North Carolina is it's been a place that emphasized both academics and athletics and other extracurricular activities. And it's demonstrated to the country that it is not necessary to make a choice, and that there's something to be said for learning how to compete, to work on a team, to put aside your own personal ambitions for what is best for a group; and that an institution like the University of North Carolina, which I had the opportunity to join in celebrating its 200th birthday just a few months ago, can really set a standard for the entire country. And it's something that I hope not only other colleges and universities will look at, but our school systems as well.
+
+I get very concerned when I travel around the country and I see so many children growing up in difficult circumstances and they're going to schools that are no longer able to finance their team sports programs, their athletic programs, their music programs -- the things that give children a chance to get out of themselves and reach beyond themselves and to grow and be part of something important. And I don't believe those things should ever be held to be in conflict with or adverse to developing our intellectual faculties that God gave us.
+
+So the University of North Carolina is truly a symbol, it seems to me, of what our country ought to be striving for in the personal development of all of its students. And I'm especially glad to see the triumph of the women athletes this year. It's something that my wife and my daughter and my beloved mother, if she were still living, would always be very happy to see me here honoring today.
+
+I thank you all and I congratulate you. {APPLAUSE} 
+
+{/speech}

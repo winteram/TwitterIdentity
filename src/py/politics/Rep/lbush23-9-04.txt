@@ -1,0 +1,86 @@
+﻿{title} Mrs. Bush's Remarks at Victory 2004 Rally in Wausau, Wisconsin {/title}
+{event} Caroline S. Mark Boys & Girls Club, Wausau, Wisconsin {/event}
+{speaker} Laura Bush {/speaker}
+{date} September 23, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Margaret Farrow. Thank you very much. She was your first woman lieutenant governor -- I think, if I'm not mistaken. {APPLAUSE}
+
+I also want to thank all the state representatives who are here, who met me. Thank you for your service to Wisconsin. I want to recognize Sarah Kamke, who is the Republican candidate for Wisconsin's 85th State House district. {APPLAUSE} Sarah, thanks so much for being here.
+
+Matt Yde is the President of the Boys and Girls Club Board of Directors. Matt, thank you very much. We're very happy to get to be here at this venue. {APPLAUSE}
+
+Sue Randall, Sandy Ermeling, and San and Joanne Orr are all Bush-Cheney '04 chairmen and I want to thank them also very much for joining us today. {APPLAUSE}
+
+And a special thanks to each and every one of you out here. I know that many of you are volunteers for the Bush-Cheney '04 campaign, and I want to thank you very much for all the work you're doing to make sure President Bush is reelected for four more years. {APPLAUSE}
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+Over the last several months, I've had a really wonderful time traveling around our country, and I've met so many people who have a deep love for our country and for our President. {APPLAUSE} People all across America see what you and I see: My husband is a man of great character and conviction. {APPLAUSE}
+
+We've all watched as President Bush has led this country through the most historic struggle of our generation. We've been through a lot together these last four years, but today our economy is growing, we're closing the achievement gap in our schools, and America is safer and stronger thanks to the President's decisive leadership. {APPLAUSE}
+
+Last week, I visited with a woman business owner in Ohio who summed up the President's success this way. She said, "President Bush was born for such a time as this; he never waivers when it comes to doing the right thing. It makes me feel so secure to know that our leader has such a love for our country." {APPLAUSE}
+
+These are historic times, but these are also times of change that require new ideas to move America forward. Just think about the differences between our lives today and the lives of our parents or grandparents. Today, in most families, most parents are working outside the home, including two-thirds of all mothers. And more single parents are doing double duty alone.
+
+More entrepreneurs are starting their own businesses. Workers are changing jobs often during their whole career. And more people are going back to school to keep up with our changing economy.
+
+At our convention in New York, President Bush outlined his agenda for a new term. Helping families face the challenges of this changing world is at the heart of the President's plan. {APPLAUSE}
+
+And we all know that all opportunity starts with education. Thanks to the No Child Left Behind Act, our schools are improving with higher standards, accountability, and the most federal funding ever for elementary and secondary education. {APPLAUSE}
+
+More children are reading at grade level. And scores in math are improving. We owe much of this success to America's incredible teachers. {APPLAUSE}
+
+In the next four years, my husband wants for teachers to be rewarded to choose work -- to work in low-income schools, and also to reward those teachers who are working hard to close the achievement gap. And he wants our students in high schools to be well prepared for college and for the work force with stronger math and science.
+
+We all know that learning doesn't end at graduation. For workers who want to go back to school to learn new skills for the new jobs of the 21st century, the President will work with community colleges to make sure career training is available and accessible for all Americans. {APPLAUSE}
+
+And because higher education is the dream of so many, he wants more Pell grants to be available so that many more Americans can earn a college degree. {APPLAUSE}
+
+And when these graduates enter the work force, I'm proud to say that a lot of them will go to work for a woman boss. {APPLAUSE} Ten million women in America own their own business, and this sisterhood just keeps on growing. And one reason for this growth is that the President worked to pass the largest tax relief in a generation. {APPLAUSE}
+
+Millions of families are saving more of their own money, and businesses are hiring workers. And just in case you don't know, a lot of these small businesses are either sole proprietorships or sub-S corporations, which means they're taxed with regular income tax. So when you talk about the tax cuts, you're also talking about the tax cuts that small business owners have gotten, which helps them expand their businesses and hire more people.
+
+We've added 1.7 million jobs since August '03, and that's more jobs than Germany, Japan, England, Canada and France added, combined. {APPLAUSE}
+
+Last month, I met Carol Schneider, who owns a temporary employment agency in Grafton. Over 30 years ago, Carol started her business in a neighbor's back bedroom, complete with $500 and a barking dog. {LAUGHTER} It wasn't easy to grow a business, especially since she was going to community college, working full time, and raising three young children. But Carol refused to give up. Today, she manages 100 employees in 14 offices, and she leads a company worth $36 million. {APPLAUSE}
+
+Carol told me the economy is doing great, and it's because President Bush's policies allow people to keep more of their own money to spend how they choose. {APPLAUSE}
+
+And because so many people change jobs now several times over their lifetime, workers and their families need access to affordable health care. For years, leaders in both parties said we should provide prescription drug coverage for our seniors in Medicare. President Bush brought Republicans and Democrats together to give seniors real savings on their prescription drugs. And he's making health care insurance more affordable with health savings accounts. These plans allow you to save tax free for routine health care expenses in accounts that you own and that you can take with you from job to job. {APPLAUSE}
+
+And the majority of working uninsured Americans work for small businesses. In the next four years, the President wants to enable small businesses to pool their risk so they can buy health insurance for their employees at the same discounts as big businesses. {APPLAUSE}
+
+And my husband will make sure that patients and doctors are in charge of health care, not bureaucrats in Washington. {APPLAUSE} George believes that the government should help people improve their lives, not try to run them. {APPLAUSE}
+
+All of these issues are important in our country. But as we grieve for the families in Russia and as we mark the third anniversary of September 11th, I believe what's most important is my husband's work to protect our country and to defeat terror around the world. {APPLAUSE}
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+President Bush and I -- and I know I speak for every one of you -- want all of the members of the United States military to know how much we appreciate their service. {APPLAUSE} And as we do the hard work of confronting terror, we can be proud that 50 million more men, women and children have the chance to live in freedom thanks to the United States of America and our allies. {APPLAUSE}
+
+After years of being treated as virtual prisoners in their home by the Taliban, the women of Afghanistan are now able to leave their homes without a male escort. And the little girls of Afghanistan who were forbidden to attend school or to be educated are now back in school. {APPLAUSE}
+
+On Tuesday, President Bush met with President Karzai at the United Nations General Assembly in New York. President Karzai proudly told him that millions of refugees are returning to his country and rebuilding their homes and businesses. Parents who once feared for their children's lives are sending their sons and daughters to school, full of hope for their future.
+
+What's most inspiring is what President Karzai said about the spirit of the Afghan people. He said, "My country's greatest achievement over the past three years has been the Afghan people's confidence in the future. Terrorists have not stopped us from crossing one milestone after another." {APPLAUSE}
+
+And because we acted, the people of Iraq are free from the tyranny of Saddam Hussein. President Bush met today with Iraq's new leader, Prime Minister Allawi, at the White House. Imagine a President of the United States and a Prime Minister of Iraq meeting together at the White House. {APPLAUSE}
+
+Prime Minister Allawi said that the Iraqi people are determined to exercise their right to vote this January, even as they face mounting violence from those who oppose democracy. The atrocities committed by the terrorists are barbaric and they do not reflect or represent the beliefs of the Muslim faith. These acts are grim reminders of why our work to defeat terror and to support free societies in the Middle East is so important. {APPLAUSE}
+
+We still have hard work to do. But we will stand with the people of Iraq and Afghanistan until their hopes of freedom are fulfilled. A few months ago, I met with military wives at Ft. Hood Army Base in Texas. One woman's husband was stationed in Iraq and I was very moved by her resilience. This is what she told me. She said, "Even though I'd give anything to have my husband return, I know our job isn't done. The sadness I have for the children of Iraq won't go away until I know we have done all we can do as Americans."
+
+Building a democracy takes time. Think of how long it took us in our country, even though we were given a perfect document by our founders. It took almost 100 years after our founders declared all men are created equal to abolish slavery. And not until 84 years ago did American women get the right to vote. Our nation has not always lived up to its ideals, but those ideals have never ceased to guide us. {APPLAUSE}
+
+We are the beneficiaries of the work of the generations before us, and it's now our responsibility to continue that work. For the next five weeks, I hope you will talk to your neighbors about the President's accomplishments and his plans for a new term. Reach out to Democrats and Independents who appreciate strong and optimistic leadership. Make sure your friends are registered to vote and then turn them out at the polls. Everything you do to help will be a huge help for the President's campaign.
+
+These are times of change for our nation, but they're also years of promise. George and I grew up in West Texas where the sky seems endless and so do the possibilities. My husband brings that optimism, that sense of purpose, that certainty that a better day is before us to his job every day. And with your help, he'll do it for four more years. {APPLAUSE}
+
+Thank you all so much, and may God bless America. {APPLAUSE} 
+
+{/speech}

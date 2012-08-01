@@ -1,0 +1,48 @@
+﻿{title} Remarks by the President to the Citizens of Warsaw {/title}
+{event} Castle Square, Warsaw, Poland {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 10, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President to Warsaw Citizen {/description}
+
+{speech} 
+
+Thank you. Mr. President, Mr. Mayor, Major Kuklelka, Lt. Blazeusz, to the people of Warsaw and the people of Poland. I am proud to speak to you and to welcome you, along with the people of Hungary and the Czech Republic, as the next members of NATO and the next allies of the United States of America. {APPLAUSE}
+
+If my interpreter will forgive me, I want to depart from the text to say that our American delegation are all proud to be here. {APPLAUSE} But there are two here for whom this day has special meaning, and I would like to ask them to stand. The first is our Secretary of State, who was born in the Czech Republic and driven out by the troubles that so grieved the Poles in the last 50 years -- Madeleine Albright. {APPLAUSE} The second is one of the most distinguished members of the United States Congress, both of her grandfathers were Polish immigrants -- Senator Barbara Mikulski, from Maryland. {APPLAUSE}
+
+We gather to celebrate this moment of promises kept and of promise redeemed. {APPLAUSE} Here, in the twilight of the 20th century, we set our sights on a new century, a century in which finally we fulfill Poland's destiny as a free nation at the heart of a free Europe, a new Europe undivided, democratic and at peace. {APPLAUSE}
+
+Three years ago this week, I came to this great city and made this pledge: Nothing about you without you. Nic o was bez was. {APPLAUSE} Now, Poland is joining NATO. Poland is taking its place in the community of democracies. Never again will your fate be decided by others. Never again will the birthright of freedom be denied you. Poland is coming home. {APPLAUSE}
+
+Freedom burned brightly in Poland 200 years ago. Then you gave Europe its first written constitution and the world's second written constitution after America's own. That solemn pact gave strength and hope to your ancestors, even as Poland fell victim again and again to tyranny. But this week, its words and those who revered them speak to us across the centuries. "We do solemnly establish this constitution, willing to profit by the present circumstances of Europe and by the favorable moment which has restored us to ourselves." People of Poland, this favorable moment has restored you to yourselves. {APPLAUSE}
+
+It is a moment that you have made. Just as freedom was born here 200 years ago, it was reborn here eight years ago, when you changed the course of history. And now, together we have restored Poland to Europe and to the destiny you deserve. From this day forward, what Poland builds in peace, Poland will keep in security. {APPLAUSE}
+
+To the citizens of my own country I say, this land where I speak has known the worst wars of the 20th century. By expanding NATO we will help to prevent another war involving Poland, another war in Europe, another war that also claims the lives of Americans. {APPLAUSE}
+
+We come to this moment grateful for its blessings, but conscious of the grave responsibility it carries. Through the power of its example and the example of its power, our NATO Alliance has kept Western Europe, Canada and the United States secure for nearly half a century. Not once has a NATO member been attacked. Not once has NATO ever lashed out in aggression.
+
+Now we must adapt our Alliance to a new time. Our common enemy of communist oppression has vanished, but common dangers have not. Too many people still fear change because they have not yet felt its benefits. They remain vulnerable to the poisoned appeal of extreme nationalism, to ethnic, racial and religious hatreds. Rogue states seek to undermine the community of democracies. Terrorists, international criminals, drug traffickers show no regard for borders. These are our common dangers and we must defeat them together. {APPLAUSE}
+
+NATO is doing its part -- taking in new members, taking on new missions, working with new partners. Like Poland, we have reached out to Ukraine to help forge stability in Europe, and we are working with a new Russia as our partner in building a Europe in which every nation is free and every free nation joins in securing peace and stability for all. {APPLAUSE}
+
+Now, as your President has said, you must continue to do your part. Poland, Hungary, and the Czech Republic will now become full members of our Alliance, with the full responsibilities of membership -- the responsibility to nurture and strengthen and defend your democracies, because, as we in America know, after more than 200 years the struggle for democracy is never over, it must be fought every day. {APPLAUSE}
+
+The responsibility to continue the remarkable transformation of your economies, because, having known poverty, you know the true value of the prosperity you have only begun to achieve. The responsibility to reach out to all your neighbors, to the East as well as the West, including the people of Russia. You must continue to build in tolerance what others destroyed in hate.
+
+The responsibility to meet NATO's high military standards and to help to bear its cost, because true security requires strength and readiness. We know you are ready to share the burdens of defending freedom because you know the price of losing freedom. {APPLAUSE}
+
+Other nations are counting on you to show the contributions new members can make. You did not walk through NATO's door to see it shut behind you. That door will stay open. {APPLAUSE}
+
+Eight years ago you led the way to freedom. Now, we ask you to be pathfinders again. {APPLAUSE} People of Warsaw, people of Poland, the American people know from the hard lessons of this century that your fate and our future are joined. {APPLAUSE} After World War I, America turned away from the world and freedom's flickering torch was engulfed by Europe's darkened night. After World War II, we and our allies continued to hold liberty's beacon high -- but it could only light half the continent.
+
+Now, we come here to celebrate history's most precious gift -- a second chance. A second chance to redeem the sacrifice of those who fought for our liberty from the beaches of Normandy to the streets of Warsaw. {APPLAUSE} A second chance finally to unite Europe not by the force of arms, but by the power of peace. {APPLAUSE}
+
+One week ago was the 4th of July, America's Independence Day. More than 200 years ago, you sent your sons to help to secure our future. America has never forgotten. Now, together we will work to secure the future of an undivided Europe for your freedom and ours. {APPLAUSE}
+
+That is the promise that brings us together today. That is the promise that will keep us together in a new Europe for a new century. {APPLAUSE} That is our promise to all the young people here today and to generations yet to come: Security, for 100 years. Sto lat. {APPLAUSE} Democracy for 100 years. Freedom for 100 years.
+
+God bless America and God bless Poland. Thank you. 
+
+{/speech}

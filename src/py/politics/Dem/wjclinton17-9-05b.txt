@@ -1,0 +1,34 @@
+﻿{title} Clinton Global Initiative Workshop Summation and Action Plan Plenary {/title}
+{event} New York, NY {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 17, 2005 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Participants:President William J. Clinton, Former President of theUnited StatesDavid Sandalow – Climate Change PanelLael Brainerd – Governance PanelGayle Smith – Poverty PanelRob Malley – Religion Panel {/description}
+
+{speech} 
+
+Thank you. I'm going to read three more commitments. I hesitate to say – we're getting a running total, but we will be able to give them all before we leave. But I would like to ask my friend Rolando Gonzalez Bunster to join me up on the stage. Thirty – oh, I hate to say this – 37 years ago we graduated from Georgetown University together.
+{APPLAUSE}
+
+And he has committed to build two wind energy power plants totaling 109 megawatts in the Dominican Republic, for a total investment of in excess of $130 million. Thank you very much.
+{APPLAUSE}
+
+This will provide electricity to people who need it very much, while addressing global warming and promoting development in a place where I spend a lot of time and where my AIDS project is very active. So thank you, Rolando. Thank you very much. {APPLAUSE}
+
+Now I'd like to invite up here Rick Fedrizzi of the US Green Building Council, Thomas Leppert of the Turner Corporation, and Tom Tridden of Haverford College. And while they're coming up I will explain what they're going to do. This is a Green Building initiative to transform the way buildings are designed and operated to reduce energy consumption, environmental impact, and greenhouse gases in the sector that uses one-third of all energy consumed in the United States, and is responsible for a third of all greenhouse gas emissions.
+
+A series of conferences focused on green building and educational construction, renovation will dramatically accelerate the deployment of green buildings in the US. The United States Green Building Council will sponsor these conferences to promote sustainable design and construction within the next academic year. The Turner Corporation will host “Greening the Schools,” to be held on October 24th in Washington. Haverford College will host a Green Building Council Turner event for educational institutions, and it's committed to green existing buildings at the college and challenge further other campuses to do the same.
+
+Let me say, we went through this exercise at the White House and I was utterly astonished at the amount of greenhouse gas savings we made and the equivalent of the thousands and thousands and thousands of cars we took off the road every year just with the buildings there in the White House complex. And as I have said repeatedly, thanks to my architects, we cut our energy emissions by 34 percent at my library. So I know this is there and I know it will save money, create jobs and help on climate change. So thank you very much, all of you. Thank you.
+{APPLAUSE}
+
+Finally, in this section I would like to invite to the stage Michelle Wyman, the executive director for the United States office for the International Council for Local Environmental Initiatives. They, along with the Chicago Climate Exchange, the city of Seattle, Generation Earth, and more than 200 cities and counties across America are involved in Cities for Climate Protection. Their commitment is to achieve significant reductions in domestic sources of greenhouse gas emissions while building political support for climate protection at the local level across America.
+
+Within two years the International Council for Local Environmental Initiatives will work with US local governments to achieve an additional 20 million tons of CO2 reductions through its Cities for Climate Protection campaign, its new partnership with the Chicago Climate Exchange, and its role as the implementer of the 2005 Mayors Climate Change Protection Agreement, and the Urban Environmental Award. They will provide training, tools, and technical assistance to cities and counties to accelerate the implementations of policies and programs to reduce greenhouse gas emissions, and together they will make a major contribution to the reduction in greenhouse gas emissions in our entire country. Thank you very, very much.
+{APPLAUSE}
+
+This is Dr. Richard Sandor of the Chicago Climate Exchange, which I hope you will all help to finance. Thank you very much. Thank you.
+
+Now I would like to turn the program over to Lael Brainerd, who will give us a summary of what happened in the governance section. 
+
+{/speech}

@@ -1,0 +1,67 @@
+﻿{title} President Bush Honors Military in Fourth of July Speech {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} July 4, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all very much. Thanks for the warm welcome. Be seated. {LAUGHTER} It's kind of a long speech. {LAUGHTER} Thanks for coming. It's great to be in the great state of Ohio. {APPLAUSE} I am proud to be at Wright Patt, the birthplace, the home and the future of aerospace. {APPLAUSE} 
+
+I had the honor of meeting Amanda Wright Lane and Steve Wright, descendants of the Wright brothers. They were quick to remind me that Dayton is where the Wright brothers first drew up the plans for their flying machine. I wonder what Wilbur and Orville would have thought if they'd have seen that flying machine that I came in on today. {LAUGHTER ; APPLAUSE} 
+
+I'm truly honored to join you in celebrating the 227th anniversary of our nation's independence. {APPLAUSE} The 4th of July, 2003, finds our country facing many challenges. And we're rising to meet them. {APPLAUSE} Today, and every day, the people of this land are grateful for our freedom, and we are proud to call ourselves citizens of the United States of America. {APPLAUSE} 
+
+I want to thank Governor Bob Taft and the First Lady of Ohio for their friendship and their leadership for the state of Ohio. I appreciate so very much my friends, Senator George Voinovich and Senator Mike DeWine, for coming out greet with me today and to be her with you all. They're great United States Senators. {APPLAUSE} I want to thank Congressman Michael Turner -- {APPLAUSE} -- Congressman David Hobson and Congressman John Boehner for their service to the state of Ohio. {APPLAUSE} 
+
+I was so honored that a great American, former Senator John Glenn, and his wife, Annie, came out to say, hello at the airport, and I'm honored they are here today. I want to thank them for coming. {APPLAUSE} 
+
+I appreciate members of the state government -- the Lieutenant Governor Jeanette Bradley is with us today; Treasurer Joe Deters, and Doug White, the Senate President. I want to thank the Mayor of the City of Dayton, Mayor McLin, for coming today, as well, and all those involved with city government. 
+
+I appreciate the generals on this base that make this fantastic base function so well, starting with Less Lyles, the Commander. {APPLAUSE} I want to thank Brad Tillson, who is the Chairman of Inventing Flight Commission, and John Barry, who is Chairman of the Air Force Museum Foundation. 
+
+Today when I landed I had the opportunity to meet a fellow citizen named Becky Lundy. 
+
+{AUDIENCE-MEMBER} Yeah! {/AUDIENCE-MEMBER} 
+
+Somebody has heard of her. {LAUGHTER} Becky Lundy is the spouse of an active duty Air Force member. What makes her unique is she's a volunteer at the Family Support Center at Wright Patterson Air Force Base. She takes time out of her day to comfort those who need comfort. She understands that service to our country means helping somebody in need. 
+
+Listen, we're a strong and powerful nation because we've got a great military. But we're also strong, because we're a nation of fine hearts. Those of you are looking for some way to serve your country, go to usafreedomcorps.gov on your Internet. Look up a place to help a neighbor in need. Join the armies of compassion, just as Becky Lundy does. We are changing America one heart, one soul, one conscience at a time, and we need your help. {APPLAUSE} 
+
+But most of all, I want to thank you all for coming today. I appreciate the families from this base and citizens from all across the state of Ohio who have come to celebrate our Independence Day. During the last year, people at this base have met hardships together. You looked out for each other. You've given strength and support to our men and women in uniform. Like military communities across the country, you have played a vital part in our nation's cause, and America is grateful. {APPLAUSE} 
+
+Every year on this date, we take special pride in the founding generation, the men and women who waged a desperate fight to overcome tyranny and live in freedom. Centuries later, it is hard to imagine the Revolutionary War coming out any way other than it -- how it came out. Yet victory was far from certain, and came at great cost. Those brave men and women were certain only of the cause they served: the belief that freedom is the gift of God and the right of all mankind. {APPLAUSE} 
+
+Six years passed from the fighting at Concord Bridge to the victory at Yorktown; six years of struggle and hardship for American patriots. By their courage and perseverance, the colonies became a country. The land of 13 states and fewer than four million people grew and prospered. And today, all who live in tyranny and all who yearn for freedom place their hopes in the United States of America. {APPLAUSE} 
+
+For more than two centuries, Americans have been called to serve and sacrifice for the ideals of our founding. And the men and women of our military have never failed us. They have left many monuments along the way -- an undivided union, a liberated Europe, the rise of democracy in Asia, and the fall of an evil empire. Millions across the world are free today because of the unselfish courage of American veterans. And today we honor our veterans. {APPLAUSE} 
+
+And today we honor the current generation of our military, which is answering the call to defend our freedom and to bring freedom to others. {APPLAUSE} The 23,000 men and women of Wright Patt, military and civilian, have been crucial to our victories in Afghanistan and in Iraq. {APPLAUSE} 
+
+Research done at this base has helped give America the finest Air Force in history. {APPLAUSE} The Predator drone, which is serving us so well overseas, was developed right here. Doctors and specialists from this base cared for wounded soldiers and for wounded prisoners. Many critical medical evacuations were carried out by the skillful pilots and crews of the mighty 445th Wing of Wright Patt. {APPLAUSE} C-141s from this base transported troops and equipment to serve in both Operation Enduring Freedom and in Operation Iraqi Freedom. And B-1 bombers supported from this base made their presence known in Baghdad, striking the dictator's regime until the regime was no more. {APPLAUSE} 
+
+Our United States military is meeting the threats of a new era. People in ever branch of the service and thousands of Guard and reserve members called to active duty have carried out their missions with all the skill and the honor we expect of them. This nation is grateful to the men and women who wear our nation's uniform. {APPLAUSE} 
+
+And on this 4th of July, we also remember the brave Americans we have lost. We honor each one for their courage and for their sacrifice. We think of the families who miss them so much. And we are thankful that this nation produces such fine men and women who are willing to defend us all. May God rest their souls. {APPLAUSE} 
+
+Our nation is still at war. The enemies of America plot against us. And many of our fellow citizens are still serving and sacrificing and facing danger in distant places. Many military families are separated. Our people in uniform do not have easy duty, and much depends on their success. Without America's active involvement in the world, the ambitions of tyrants would go unopposed, and millions would live at the mercy of terrorists. With Americans' active involvement in the world, tyrants learn to fear, and terrorists are on the run. {APPLAUSE} 
+
+By killing innocent Americans, our enemies made their intentions clear to us. And since that September day, we have made our own intentions clear to them. {APPLAUSE} The United States will not stand by and wait for another attack, or trust in the restraint and good intentions of evil men. {APPLAUSE} We are on the offensive against terrorists and all who support them. We will not permit any terrorist group or outlaw regime to threaten us with weapons of mass murder. We will act whenever it is necessary to protect the lives and the liberty of the American people. {APPLAUSE} 
+
+America's work in the world does not end with the removal of grave threats. The Declaration of Independence holds a promise for all mankind. Because Americans believe that freedom is unalienable right, we value the freedom of every nation. Because we are committed to the God-given worth of every life, we work for human dignity. We protect our friends. And we raised up former enemies to be our friends. 
+
+We bring food and disaster relief to the nations of the world in times of crisis. In Africa, where I'll go next week, the United States is leading the effort to fight AIDS and save millions of lives with the healing power of medicine. {APPLAUSE} 
+
+Just as our enemies are coming to know the strong will of America, people across the Earth are seeing the good and generous heart of America. Americans are a generous people because we realize how much we have been given. On the Fourth of July, we can be grateful for the unity of our country in meeting great challenges, for the renewal of patriotism that adversity has brought, and for the valor we have seen in those who defend the United States. 
+
+In recent events -- {APPLAUSE} -- in recent events, we have learned the names of some exceptional young men and women who have shown the strength and character of America. At a hospital in Washington, I met Master Gunnery Sergeant Guadalupe Denogean, an immigrant from Mexico who has served in the Marine Corps for 25 years. In March, he was wounded in combat in Basra and sent back to America for treatment. When I asked if he had any requests, the Master Gunnery Sergeant had just two. He wanted a promotion for the Colonel who rescued him. And he wanted to be an American citizen. {APPLAUSE} 
+
+I was there the day that Guadalupe Denogean took the oath of citizenship. From the hospital where he was recovering, this son of Mexico raised his right hand and pledged to support and defend the Constitution of the United States of America. He had kept -- {APPLAUSE} -- he had kept that oath for decades before he took it. I'm proud to call him a fellow America. {APPLAUSE} 
+
+To be an American, whether by birth or choice, is a high privilege. {APPLAUSE} As citizens of this good nation, we can all be proud of our heritage and confident in our future. The ideals of July 4th, 1776, still speak to all humanity. And the revolution declared that day goes on. On July the 4th, 2003, we still placed our trust in Divine Providence. We still pledge our lives and honor to freedom's defense. And we will always believe that freedom is the hope and the future of every land. 
+
+May God continue to bless the United States of America. {APPLAUSE} 
+
+{/speech} 

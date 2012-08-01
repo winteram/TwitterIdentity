@@ -1,0 +1,53 @@
+﻿{title} Speech by President at Clean Car Event {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 21, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. First of all, I would like to thank the principal of this school, Dale Talbert, for welcoming all of us here. And all the members of the Maury School community, thank you, and thank you for the nice sign there. And I want to thank the kids back here for being with me and with you today. 
+
+I want to thank Gloria Hackman for the fine statement that she made, and for 20 years of dedication as a nurse. As a son and the grandson of a nurse, I liked hearing her speak. And I also want to say a special word of appreciation for the work being done here. 
+
+I want to thank Ned Zechman, the CEO of the Children's National Medical Center, for the wonderful work he does every day, and in particular, the last seven years, the work that he and the First Lady have done together. And most of all, I want to thank Carol Browner; the EPA Assistant Administrator, Bob Perciasepe; and all the other people at EPA who worked so hard to make this day come about. {APPLAUSE} 
+
+If you knew how many times over the last seven years, in how many different contexts, Carol Browner had said to me, you have got to do something to reduce incidents of asthma and other respiratory diseases among young children, we've got to keep doing it, it's the biggest problem out there most kids face - if you had any idea how many private encounters we had had on that that led to this happy day, you would be very grateful that someone like her is in public service in the United States, I'll tell you that. {APPLAUSE} 
+
+Vice President Gore has given me a lot of good ideas, as he always reminds me when we're together - {LAUGHTER} - but the recommendation to appoint her is surely one of the best. 
+
+Let me say another word about Gloria Hackman. She was here speaking not only for herself and out of her own experience, but in a way for all the children and families of this school and schools like it all across America. And in particularly, on behalf of the children and families who struggle each day with the challenges of asthma. I want to commend everyone here who is working in the American Lung Association's Open Airways program for all that you do to help our children breathe a little easier. As these children know only too well, a simple breath of fresh air is not something you can take for granted. 
+
+You know, back at the beginning of our century, a little air pollution was considered a small price to pay for the bright economic future the Industrial Revolution was bringing us. In countless communities, in fact, black smoke, billowing from the factory smokestack, was a welcome symbol of new found prosperity. It went on a long time. I remember when I first entered politics in Arkansas, there was a paper mill you could smell 80 miles away. And people didn't like it 80 miles away, but where it was really strong in the community they'd say it was the smell of money. And that's what people believed. 
+
+But after a while, the air became so fouled in places like Pittsburgh that the street lights had to be kept on during the day so people could see. Businessmen traveling to New York knew to bring along a second white shirt, even if they were staying just a day, because by the afternoon the first one would be coated with soot. Americans soon came to realize that dirty air was not just a nuisance, that it threatened their health and their lives. 
+
+In the decade since that realization came to pass, through the actions of government and the ingenuity of American industry, we have made tremendous strides. In the last 30 years, we have reduced air pollution in the United States by nearly a third, even as our economic output has more than doubled. Over the past six years alone, 43 million more Americans breathe air that meets federal standards. Every day, thanks to these efforts, we are preventing as a society 600 premature deaths and 2,000 cases of asthma and bronchitis -- every single day. I want to say - I'm going to say this 15 times before I sit down - if you have noticed, it hasn't done any harm to the economy. 
+
+I am very grateful for the opportunity that Vice President Gore and I have had to work with Americans in industry and environmental groups to make our air even cleaner, from taking actions to reduce power plant emissions and clean the air over our national parks, to setting the toughest standards ever for soot and smog. 
+
+Again, I say, as with all of our other efforts in the environment over the last three decades, America has proven wrong the skeptics who claim that the cost of fighting pollution would be ruinous. In fact -- listen to this -- Since 1970 - 1970, the direct benefits of the Clean Air Act - lower health costs and fewer days work lost, for example -- have outweighed the cost of the Clean Air Act by more that $1 trillion. 
+
+Still, even as our city skylines emerge from the haze and even as millions of Americans are spared from debilitating disease, these hard-won gains could soon be put at risk. Why? A big part of the reason is that we Americans love to drive, and we are driving more than ever. A new car rolling off the assembly line today is 95 percent less polluting than the typical new car was back in 1970. But there are more than twice as many cars on the road today, and the number of miles driven each year has grown even faster. 
+
+What's more, fully half the new vehicles sold today are sport utility vehicles, minivans and pickups, which produce three to five times as much pollution as the average passenger car. Driving now accounts for 30 percent of the total air pollution in America. And unless we take additional measures, air quality in many parts of our country will continue to worsen in the coming decades. 
+
+That is why today I am honored to announce the boldest steps in a generation, to clean the air we breathe by improving the cars we drive. Working closely with industry, we will ensure both the freedom of American families to drive the vehicles of their choice, and the right of American children to breathe clean, healthy air. 
+
+First, we're setting tough new standards that, over the coming decade, will reduce tailpipe emissions as much as 95 percent. Second, for the first time, we are applying the same stringent standard to cars and to sport utility vehicles, including the largest models. {APPLAUSE} And third, because cleaner fuels also are critical to achieving cleaner air, we're cutting the sulfur content of gasoline by up to 90 percent. {APPLAUSE} 
+
+These measures will assure every American cleaner air well into the 21st century. It will prevent thousands of premature deaths, and protect millions of our children from respiratory disease. It will be the most dramatic improvement in air quality since the catalytic converter was first introduced a quarter century ago. And manufacturers will be able to meet these new standards while still offering the kinds of models popular with consumers today. 
+
+I want to say a special word of appreciation for all those that worked with EPA in developing this new strategy. I thank the auto and the oil industries, the states, the environmental communities, the leading public health experts. The issues were not always easy, to put it mildly. But working together we have, I am convinced, come to solutions that are best for our nation's health and for our nation's economy. We will continue to work together also - and this is very important - to create cleaner, diesel fuel, our next big challenge in this area. {APPLAUSE} And I will do all I can to expand our efforts with the auto industry, which have already borne a lot of fruit, in the same spirit of collaboration to provide our consumers with vehicles that are not just less polluting, but also far more fuel efficient. Yes, you can clap for that. {APPLAUSE} It won't be long until you'll be amazed what will be available on the market on that score. 
+
+It seems impossible to believe, but in just 10 days, we will close out a century of remarkable progress on a high note, and we will begin a new millennium. We will have new opportunities and new challenges. We -- all of us, I think -- wonder what the future holds for our children. As we unravel the mysteries of the human gene and search the outer reaches of black holes in the universe, there's no telling what's just around the turn in the new century. We are very fortunate that we end the century and begin the millennium with, really, an unprecedented level of economic prosperity and social progress and national self-confidence, with the absence of overwhelming internal crisis or external threat. This combination of conditions has not existed before, at least in my lifetime. 
+
+But I would argue to all of you that because of the good times, we have a peculiar responsibility to think about the big long-term issues that will frame the lives that we dream for our children. And we have an opportunity to shape the future in a way that perhaps no generation before us has ever had. One of the things that we ought to do first is to make sure as many children as possible have a full future. 
+
+You know, any of us who have ever been in a hospital delivery room know that when a baby comes into the world, the first thing that's done is to make sure the infant can draw its first breath. As we embark on a new millennium, among all of our other responsibilities, surely it is our sacred obligation to ensure that each and every child, from the first breath on, will be drawing the cleanest, purest, healthiest air we can provide. Today's a big step in the right direction, and I thank all of you who have been involved in it. 
+
+Thank you very much. {APPLAUSE} 
+
+{/speech} 

@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President at the National Christmas Tree Lighting Ceremony {/title}
+{event} National Christmas Tree Lighting Ceremony {/event}
+{speaker} Barack Obama {/speaker}
+{date} December 3, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. {APPLAUSE} Merry Christmas, Happy Holidays, Washington, D.C. {APPLAUSE}
+
+I want to, first of all, thank Secretary Salazar for not only the kind introduction, but the extraordinary work he is doing in preserving the incredible bounty and natural resources of this country.
+
+I want to thank all those involved in helping to organize this great event. Thank you to Randy Jackson, and all the performers putting on an incredible show. I told Sasha we're not on American Idol -- {LAUGHTER} -- no singing. {LAUGHTER}
+
+I also want to thank Neal Mulholland, Jon Jarvis, and Peggy O'Dell from the National Park Service for being with us, and all the Park Service employees who've worked so hard to put this event together -- give them a big round of applause. {APPLAUSE}
+
+And I want to thank my outstanding Vice President and his gorgeous granddaughters -- Joe Biden. Stand up, Joe. {APPLAUSE}
+
+In 1923, the Washington, D.C. Public Schools wrote a letter to the White House asking if they could put up a Christmas tree on the South Lawn. And First Lady Grace Coolidge said they could use the Ellipse. {LAUGHTER} And in the eight decades since -– in times of war and peace, hardship and joy –- Americans from every corner of this nation have gathered here to share in the holiday spirit.
+
+Tonight, we celebrate a story that is as beautiful as it is simple. The story of a child born far from home to parents guided only by faith, but who would ultimately spread a message that has endured for more than 2,000 years -– that no matter who we are or where we are from, we are each called to love one another as brother and sister.
+
+While this story may be a Christian one, its lesson is universal. It speaks to the hope we share as a people. And it represents a tradition that we celebrate as a country –- a tradition that has come to represent more than any one holiday or religion, but a season of brotherhood and generosity to our fellow citizens.
+
+It's that spirit of unity that we must remember as we light the National Christmas Tree –- a tree that will shine its light far beyond our city and our shores to every American around the world.
+
+And that's why tonight our thoughts and prayers are with the men and women who will be spending this holiday far from home –- the mothers and fathers, the sons and daughters of our military who risk their lives every day to keep us safe. We will be thinking of you and praying for you during this holiday season.
+
+And let's also remember our neighbors who are struggling here at home -– those who've lost a job or a home; a friend or a loved one -- because even though it's easy to focus on receiving at this time of year, it's often in the simple act of giving that we find the greatest happiness.
+
+So on behalf of Michelle and Malia and Sasha and my mother-in-law, Mama Robinson -- I want to wish all of you a very Merry Christmas. May you go out with joy, and be led forth in peace.
+
+And now, to the serious business of pressing the button and lighting this beautiful tree. {APPLAUSE} So, guys, come up here. I need some assistance. I'm technologically challenged and I might not get this right. So we're going to do a countdown, starting from five. Everybody has got to help me out here. Five, four, three, two, one -- ho! {APPLAUSE} It worked! 
+
+{/speech}

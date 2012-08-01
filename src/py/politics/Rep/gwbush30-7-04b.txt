@@ -1,0 +1,30 @@
+﻿{title} President's Remarks to the Athletes of the International Children's Games and Cultural Festival {/title}
+{event} Cleveland Browns Stadium, Cleveland, Ohio {/event}
+{speaker} George W. Bush {/speaker}
+{date} July 30, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thanks for coming. {APPLAUSE} Welcome to the United States. {APPLAUSE} I am honored to have been introduced by a great Iranian-American, silver medalist, Matt Ghaffari. Thank you, Matt, for being here, and thank you for your introduction.
+
+Listen, I don't know if you know this -- hold on -- there are -- the governor of this great state is with us today; senators are with us today, very fine people in Senators Voinovich and DeWine; members of the Congress are here today. The reason why is they want to join me in welcoming you who do not live in the United States to our great country. We're glad you're here and we hope you have a wonderful experience in America.
+
+You're in a great United States city. Cleveland, Ohio, is a fantastic place to visit. {APPLAUSE} And I want to thank -- and I know you join me in thanking the mayor of Cleveland, Mayor Jane Campbell, for her gracious hospitality. {APPLAUSE} I want to thank the sports authority figures who are here. I appreciate David Gilbert of the Cleveland Sports Commission. I want to thank Alex Machaskee, who is the co-chair of the International Children's Games, and Dr. Fred Loop, who is the other chairman, for working so hard to put this event on.
+
+I know you join me in thanking all the volunteers from the city of Cleveland who have worked hard to make sure your stay here is a good stay. I suggest you go to the Rock 'n Roll Hall of Fame. {APPLAUSE} Oh, yes, that's where you need to spend some time.
+
+I want to thank the former Olympians who are here. They wish you all the very best in the games and hope that you become Olympians yourselves, and this is a good place to start, right here in the competition.
+
+A couple things I want to tell you. One, I hope you enjoy yourself, and I hope you spend time not only competing hard, but getting to know each other. Like, there's all kinds of cultures here, and different languages are spoken, but I think you'll find you share a lot of things in common. Yes, you hope for a better life. You care deeply about people you love. You want the world to be a better place. And so, not only compete hard, but spend time with each other and share cultures. I think you'll find you're all God's children. There's so much in common.
+
+A couple other things I want to tell you, is make sure that you continue to make the right choices in life. See, you're at the age where you're going to be challenged with some tough choices: drugs and alcohol, prejudice and hate. Reject that. Reject those kinds of temptations and continue serving your bodies and your soul well by making right choices in life. You made right choices to get here to compete. Continue doing so. I think it will help you -- I know it will help you in your life.
+
+I want to say one other word. I want to welcome the Afghan Girls' Soccer team who is here. {APPLAUSE} We're glad every country is represented. I think it's especially interesting and an especially poignant and uplifting moment that young girls are here from the country of Afghanistan. {APPLAUSE} Because your country is free, you're here. Because your country is free, you can now go to school for the first time. Many of you can now go to school for the first time. Many of you can go to school for the first time.
+
+Freedom is such a powerful part of the world in which we live, and we take great pride in welcoming you all into a free society from a free society.
+
+May God bless you, and may God bless all the athletes and their families and coaches who are here. Enjoy yourselves. Good luck. All my best. {APPLAUSE} 
+
+{/speech}

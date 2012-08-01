@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President And the First Lady to the U.S. Olympic Team {/title}
+{event} Remarks by President and HRC to US Olympic Team {/event}
+{speaker} Hillary Rodham Clinton {/speaker}
+{date} July 19, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Remarks by President and HRC to US Olympic Team {/description}
+
+{speech} 
+
+Thank you, Dr. Walker, and this is such a great honor and privilege for us to be here with all of you. I want to thank Dr. Walker for his tireless efforts as President of the U.S. Olympic Committee these past four years, and for his lifetime of commitment to American and international sports.
+
+As a coach and educator and administrator, Dr. Walker has touched the lives of countless athletes and young people, and he has nurtured not just national and Olympic champions, but also great citizens of this country. And I'm very privileged to be here to thank you on behalf of all of us, Dr. Walker. {APPLAUSE}
+
+I am also delighted to see so many former Olympians behind us who I'm thrilled to see in person, having watched and followed for years. And I'm also delighted that two other former Olympians are here with us to now serve as the co-chairs of the Council on Physical Fitness. And I would like to introduce them to you -- they really need no introduction, but I'd like to ask them to stand: Tom McMillan and Florence Griffith Joyner. {APPLAUSE}
+
+The last time -- well, not the last time, but the most memorable time that Tom and Flo-Jo and I were together was at Lillehammer. And we were freezing to death. It was so cold -- a total contrast to the weather today. {LAUGHTER} And Tom and I were not prepared -- Tom actually wore -- I'm going to tell a story on Tom -- cowboy boots to the opening ceremony -- {LAUGHTER} -- where it was 20 degrees below zero. But Flo-Jo, who does everything to perfection, sat there without a hat, that great smile, signing autographs, never looking like she was freezing to death at all. I considered that Olympic class to the ultimate. {APPLAUSE}
+
+I also want to thank Wayne Clough, and the great staff and administration here of Georgia Tech for sharing this campus. {APPLAUSE}
+
+I know all of you who are competing have been working for this day for years and years. And many of the rest of us here in this country have been waiting for this day to arrive.
+
+Chelsea and I had the great privilege of seeing the lighting of the Olympic flame amid the olive and orange and lemon groves in the ancient stadium at Olympia. It was an extraordinary experience to be there in that stadium where the very first games were held. And now, here we are in the United States, in Atlanta, waiting for these games to begin.
+
+That flame, which was lit there and which will gloriously be passed on tonight, represents that spirit that all of you embody -- a spirit that has already inspired millions of Americans who turned out on main streets and in town squares and on front porches to cheer the Olympic torch on its way. I felt that same spirit when I had the privilege of being in Lillehammer and cheering for some of the athletes here on this stage, and knowing that they were representing the best of what our country has to offer.
+
+But I don't think there's ever been an Olympics that more embodies not only the Olympian spirit, but the American spirit than this one. Each of you is a guardian of that Olympic spirit -- whether you are multiple Gold Medalists or first-time Olympians. And to those who have competed before and have won medals, we thank you for the inspiration you give to all of us, but particularly to young people, and to all of you, the athletes who will compete in these next two weeks. I know that many of you have already overcome extraordinary challenges to be here. We are already very proud of each and every one of you. And I want you all to know that -- that as these games begin, and as you compete in your events, you are, in our eyes, already winners. And we are grateful to you. {APPLAUSE}
+
+And the President and Chelsea and I will be sitting either live at some of the events, or more often, in front of our TV sets, or doing whatever we can to get word of what is happening to you, and sending you all our best wishes and prayers.
+
+It's now my honor to introduce the person that you have chosen to carry the American flag. As most of you know so well, he is already one of the greatest wrestlers not only in American history, but in international history -- a four-time Olympian, comes to Atlanta already having won two Gold Medals and one Silver Medal, and he's already won the hearts of you, his teammates, and the rest of our country.
+
+So join me again in welcoming here to the podium a great champion and a great American, Bruce Baumgartner. {APPLAUSE} 
+
+{/speech}

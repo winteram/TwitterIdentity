@@ -1,0 +1,54 @@
+﻿{title} President Addresses 2005 National Boy Scout Jamboree {/title}
+{event} Fort A.P. Hill, Fort A.P. Hill, Virginia {/event}
+{speaker} George W. Bush {/speaker}
+{date} July 31, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Daniel, thank you for your introduction. It's such an honor to be here. Laura and I join Americans across our country in extending our sympathy and prayers to the families of the Scout leaders who lost their lives so tragically earlier this week. The men you lost were models of good citizenship, leaders who stepped forward to serve a good and selfless cause. As Scout leaders they devoted themselves to helping young men develop the character and skills they need to realize their dreams. These men will always be remembered for their leadership and kindness. And you Scouts honor them by living up to the ideals of the scouting they served.
+
+Daniel, I want to thank you for your introduction. I appreciate the Scouts picking a fellow Texan to introduce me. {APPLAUSE}
+
+I want to thank Congresswoman Jo Ann Davis for her leadership. I don't know if you realize this, but she sponsored legislation in the House of Representatives to ensure that the Boy Scouts are granted equal access to public lands. {APPLAUSE}
+
+I want to thank the President of the Boy Scouts, John Cushman; Roy Williams, the Chief Scout Executive; Fran Olmstead, the Chairman of this fantastic jamboree. I also want to thank Major General Jay Yingling, who is the Commander of the -- Fort A.P. Hill. General, thank you and all your troops for making sure this jamboree was a great success. {APPLAUSE}
+
+Here at the 16th National Scout Jamboree, you're carrying on a tradition that dates back almost seven decades. President Franklin Roosevelt came to the first jamboree in 1937. I don't think he rode in the same kind of helicopter I did, though. {LAUGHTER} You know, I was looking forward to coming last week, but the thunderstorms got in the way. So I appreciate the rain check. {LAUGHTER ; APPLAUSE} It's a fantastic sight to look out on more than 30,000 young men wearing the uniform of the Boy Scouts. {APPLAUSE}
+
+At this base there are Scouts from all 50 states, plus Puerto Rico, Guam, the Virgin Islands, and countries from all around the world. {APPLAUSE} As a former Cub Scout from Midland, Texas, I'm especially glad to be here with the Texas Scouts. {APPLAUSE} Sounds like you brought a big delegation this year. {APPLAUSE}
+
+Coming to this jamboree gives me great confidence in the future of our nation. For nearly a hundred years, Boy Scouts have set a high standard of service and duty to God and country. Millions of Americans have pledged the Scout oath: On my honor, I'll do my best. And through the generations, Scouts have made America a stronger and better nation. {APPLAUSE}
+
+Scouts have excelled in fields from science to business to education to the arts. Scouts have earned Olympic Gold Medals, Nobel Prizes and Academy Awards. Thousands of Scouts have shown the highest form of patriotism, by going on to wear the uniform of the United States military. {APPLAUSE}
+
+The first Scout Jamboree was held in Washington, D.C. The Scouts have felt at home in the Nation's Capital ever since. More than half of the current members of the United States Congress participated in the Scouts. One of the capital's most famous Scouts is President Gerald Ford. {APPLAUSE} He first saw Washington just a few years after he earned his Eagle badge, and eventually became the first Eagle Scout to call the White House his home. {APPLAUSE}
+
+As President, I have the privilege to work with Scouts every day. When I come to the Oval Office in the morning, the first person I see is a Scout -- my Chief of Staff, Andy Card, from the state of Massachusetts. {APPLAUSE} Down the hall is Vice President Dick Cheney, a Boy Scout from Casper, Wyoming. {APPLAUSE} And across the river at the Pentagon sits an Eagle Scout from Illinois who Americans count on to "be prepared" -- Secretary of Defense Donald Rumsfeld. {APPLAUSE}
+
+These Scouts have a lot of things in common, and one of the most important is that they all benefited from the influence of a caring adult early in their lives. Across America, Scoutmasters and volunteers devote long hours to building the knowledge and integrity of our Scouts. It's not always an easy job. When I was a Cub Scout, my mother was our den mother. It's about the time her hair turned white. {LAUGHTER} I want to thank the Scoutmasters of America and the volunteer Scouters for taking the time to care. I want to thank you for your leadership, and thank you for setting such a good example for a new generation of Scouts. {APPLAUSE}
+
+When you join a Scout troop and put on the Boy Scout uniform you make a statement. Your uniform is a sign that you're a certain kind of citizen -- trustworthy, loyal, helpful, friendly, courteous, kind, obedient, cheerful, thrifty, brave, clean and reverent. {APPLAUSE} These are the values of scouting, and they're important values for America. By working to live up to them, you're bringing great credit to yourselves and to our nation.
+
+Coming to this jamboree is a great way to practice the values of Scout law. And when you get back home there are a few lessons you might keep in mind. The first one is one you've probably heard before, and it's one of the most valuable lessons I've learned -- listen to your mother. {APPLAUSE} I didn't have much choice -- Mom always has a way of speaking her mind. When I paid attention, I benefited. And that's how it still works. Listen, you may not always agree with your mother, but think of it this way: The first voice you heard is always worth listening to.
+
+Second, always remember where you come from and what you believe. At times, you may come across people who say that moral truth is relative, or call a religious faith a comforting allusion. They may question the values you learn in scouting. But remember, lives of purpose are constructed on the conviction there is right and there is wrong, and we can know the difference. {APPLAUSE}
+
+In the years ahead you will find that indifferent or cynical people accomplish little that makes them proud. You'll find that confronting injustice and evil requires a vision of goodness and truth. You'll find that many in your community, especially those younger than you, look to you as an example of conduct and leadership. For your sake, and for the sake of our country, I hope you'll always strive to be men of conviction and character. {APPLAUSE}
+
+Finally, your life will grow in meaning when you serve a cause greater than yourself. There's a wise saying: We make a living by what we get; we make a life by what we give. {APPLAUSE} That truth is expressed well in the Scout slogan: Do a good turn daily. {APPLAUSE} When you help someone in need, you're making America more hopeful, one heart and one soul at a time. And you're answering the call to love a neighbor just like you'd like to be loved yourself. {APPLAUSE}
+
+Every day, every day Scouts are showing that the greatest strength of America lies in the hearts and souls of our citizens. Through your Good Turn for America initiative, Scouts have given more than 1.4 million hours of volunteer service this year alone. {APPLAUSE} In Nebraska, Scouts have made more than 11,000 pocket-size flags to send to troops serving overseas. {APPLAUSE} In California, Boy Scouts donated money they raised for summer camps to help victims of the tsunami in Asia. {APPLAUSE} In Louisiana, Scouts collected five tons of food to donate to a food bank. {APPLAUSE} In Florida, Boy Scouts and Cub Scouts worked together to clean up the roads before the Super Bowl. {APPLAUSE} And right here at the National Jamboree, Scouts are working with Habitat for Humanity to build a home for a Virginia family in need. {APPLAUSE} On behalf of a grateful nation, I thank the Boy Scouts for serving on the front line of America's armies of compassion. {APPLAUSE}
+
+Another organization devoted to service is USA Freedom Corps. I created the USA Freedom Corps in 2002 to match willing volunteers with opportunities in their communities. If you're interested in serving America, if you're listening to my speech today to the Boy Scouts, call up USAFreedomCorps.gov to find out ways that you can join other kind-hearted Americans across our nation to mentor children, to assist the elderly, to clean up the neighborhoods and perform countless acts of generosity. {APPLAUSE} This year, Laura is going to work with organizations like the Boy Scouts to lead an initiative called Helping America's Youth.
+
+The Boy Scouts are recognizing our call to service with a special honor. I was pleased to accept the Good Turn for America award on behalf of the millions of volunteers all across our country who are helping this country be a hopeful place. {APPLAUSE} By making a commitment to service, to integrity, and to good citizenship, all of you are showing your gratitude for the blessings of freedom.
+
+You also understand that freedom must be defended, and I appreciate the Scouts' long tradition of supporting the men and women of the United States military. {APPLAUSE} Your generation is growing up in an historic time, a time when freedom is on the march, and America is proud to lead the armies of liberation. {APPLAUSE} I believe we're laying the foundations of peace for decades to come.
+
+And that's not the only reason I'm optimistic about the decades ahead, because I'm standing in front of America's future leaders. When you follow your conscience, and the ideals you have sworn as a Scout, there is no limit to what you can achieve for our country. {APPLAUSE} Continue to make right choices in life; continue to set high standards; continue to be a leader.
+
+Thanks for hosting me tonight. May God bless you all, and may God continue to bless the United States of America. {APPLAUSE} 
+
+{/speech}

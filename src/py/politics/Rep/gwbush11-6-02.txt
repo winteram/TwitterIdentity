@@ -1,0 +1,43 @@
+﻿{title} Remarks by the President Via Satellite to the Southern Baptist Convention 2002 Annual Meeting {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 11, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all very much. Dr. Merritt, thanks so much. It's good to be able to see you via video. I want to thank you for coming to the White House right after September the 11th, and thank you for such a kind introduction. I appreciate your friendship, and I'm honored to join all of you for the 2002 Southern Baptist Convention Annual Meeting. And I'm grateful for the opportunity to address you on this most special occasion. 
+
+As you gather this week in St. Louis, you'll choose a new President, and you will renew old and honorable commitments. Three centuries ago, there were fewer than 500 Baptists in America. Today, there are almost 16 million members of the Southern Baptist Convention. From your denomination have come Presidents like Harry Truman and preachers like Roger Williams and Billy Graham, a man who has played such an important role in nurturing my faith. 
+
+Baptists have had an extraordinary influence on American history. They were among the earliest champions of religious tolerance and freedom. Baptists have long upheld the ideal of a free church in a free state. And from the beginning, they believed that forcing a person to worship against his will violated the principles of both Christianity and civility. 
+
+What I found interesting is the Baptist form of church government was a model of democracy even before the founding of America. And Baptists understood the deep truth of what Reverend Martin Luther King, Jr., said: "The church is not the master or the servant of the state, but rather the conscience of the state." 
+
+Since the earliest days of our Republic, Baptists have been guardians of the separation of church and state, preserving the integrity of both. Yet, you have never believed in separating religious faith from political life. {APPLAUSE} Baptists believe as America's founders did: that religious faith is the moral anchor of American life. 
+
+Throughout history, people of faith have often been our nation's voice of conscience. We all know that men and women can be good without faith. And we also know that faith is an incredibly important source of goodness in our country. 
+
+True faith is never isolated from the rest of life, and faith without works is dead. Our democratic government is one way to promote social justice and the common good, which is why the Southern Baptist Convention has become a powerful voice for some of the great issues of our time. 
+
+You and I share common commitments. We believe in fostering a culture of life, and that marriage and family are sacred institutions that should be preserved and strengthened. {APPLAUSE} We believe that a life is a creation, not a commodity, and that our children are gifts to be loved and protected, not products to be designed and manufactured by human cloning. {APPLAUSE} 
+
+We believe that protecting human dignity and promoting human rights should be at the center of America's foreign policy. We believe that our government should view the good people who work in faith-based charities as partners, not rivals. We believe that the days of discriminating against religious institutions simply because they are religious must come to an end. {APPLAUSE} 
+
+Faith teaches us to respect those with whom we disagree. It teaches us to tolerate one another. And it teaches us that the proper way to treat human beings created in the divine image is with civility. Yet, you also know that civility does not require us to abandon deeply held beliefs. Civility and firm resolve can live easily with one another. 
+
+Faith teaches us that God has a special concern for the poor, and that faith proves itself through actions and sacrifice, through acts of kindness and caring for those in need. For some people, Jesus's admonition to care "for the least of these" is an admirable moral teaching. For many Baptists, it is a way of life. {APPLAUSE} 
+
+Faith is also a source of comfort during times of grief. We saw this in the aftermath of the attacks on September the 11th. Millions of Americans turned to prayer for wisdom and resolve, for compassion and courage, and for grace and mercy. And in these moments of prayer, we are reminded of important truths: that suffering is temporary, that hope is eternal, and that the ruthless will not inherit the earth. {APPLAUSE} 
+
+Our faith teaches us that while weeping may endure for a night, joy comes in the morning. And while faith will not make our path easy, it will give us strength for the journey ahead. 
+
+Many of you have prayed for my family and me. We have felt sustained and uplifted by your prayers. Laura and I are incredibly grateful to you for those prayers. We consider your prayers to be a most precious gift. 
+
+I want to thank you all for your good works. You're believers, and you're patriots, faithful followers of God and good citizens of America. And one day, I believe that it will be said of you, "Well done, good and faithful servants." 
+
+May God bless you all, and may God continue to bless America. {APPLAUSE} 
+
+{/speech} 

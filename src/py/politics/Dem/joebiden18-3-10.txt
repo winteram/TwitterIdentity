@@ -1,0 +1,25 @@
+﻿{title} Remarks by the President, the Vice President and the Taoiseach of Ireland at St. Patrick's Day Reception {/title}
+{event} St. Patrick's Day Reception {/event}
+{speaker} Joe Biden {/speaker}
+{date} March 18, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good evening, everyone. Mr. President, Mrs. Obama, the Taoiseach, Mrs. Cowen. Welcome to the White House and welcome, all of you, to the White House.
+
+You know, as I said to some of my friends at the Vice President's residence this morning at a breakfast, there's an old saying -- there's an old saying that goes like this: If you're lucky enough to be Irish, well, you're lucky enough. {LAUGHTER ; APPLAUSE} 
+I was telling the Taoiseach earlier today, one of my favorite cartoons to explain to the Irish-Irish what we American-Irish are like was one handed to me, Mr. President, by Pat Moynihan about 15, 18 years ago. It was The New Yorker Magazine and it was a picture of Pat and Mike sitting in a pub in New York. And Pat looks at Mike and says, “Mike, don't you wish you were in a pub in Dublin wishing you were in a pub in New York?” {LAUGHTER} You understand that about us, you got it all straight, Taoiseach.
+
+But the Taoiseach knows a lot about it. His mom lived in Long Island for 10 years or so -- God rest her soul and -- although, wait, your mom is still alive, it's your dad passed. God bless her soul. {LAUGHTER} I got to get this straight.
+
+You know, there are nearly 40 million of us who claim to be Irish-American. That's considerably larger than the entire population of the Emerald Isle. But 40 million, many of you in this room, have made incredible, incredible contributions to our country. Perhaps the greatest contribution collectively we Irish have made is that we have the same set of values both in Ireland and here: family, faith, pride and courage.
+
+And these are the values, in my view -- and I mean this sincerely -- that define the man I work with every day, Barack Obama. {APPLAUSE}
+
+The President is always kidding me because I'm always quoting Irish poets. He thinks I quote them because I'm Irish. I don't do it for that reason -- I do it because they're simply the best poets. And the best of them in my view is Yeats. Yeats once said, “In dreams begin responsibility.” Well, ladies and gentlemen, the dreams that President Obama has awakened and have awakened in the American people are generating a new sense of responsibility that I think is going to serve this nation well. It's going to be a more peaceful world, a more prosperous nation, and, at the same time, an awful lot of people who haven't had hope are going to get it.
+
+There's an old Irish proverb, as some of you know, that I heard my grandfather use but never really applied to me before. He said, it goes, “A silent mouth is sweet to hear.” {LAUGHTER} Well, I'm going to yield to that proverb -- {LAUGHTER} -- and introduce you to the President of the United States of America, Barack Obama. {APPLAUSE} 
+
+{/speech}

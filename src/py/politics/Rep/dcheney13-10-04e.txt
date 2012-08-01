@@ -1,0 +1,22 @@
+﻿{title} Remarks of Mrs. Cheney and the Vice President Following a Debate Watching Party {/title}
+{event} Embassy Suites Hotel, Coraopolis, Pennsylvania {/event}
+{speaker} Dick Cheney {/speaker}
+{date} October 13, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, I'm glad Lynne is on my side. {LAUGHTER} All right. Well, I thought the President did a whale of a job tonight. {APPLAUSE} I loved his closing statement, and the way he looked forward to the future and focused on an agenda for the 21st century. I also am told, and we've been doing some checking on this during the course of the debate, you know how he said that Senator Kerry -- President Bush said Senator Kerry had only passed five bills during his career in the United States Senate in 20 years. And Senator Kerry came back, and said, no, it was 56. Wrong, Senator Kerry. {LAUGHTER} Five bills and four resolutions that got through the Senate that he sponsored that were signed. And that's it. {APPLAUSE}
+
+The other thing I thought that -- one other moment that stood out for me, two other moments -- well, I probably can come up with a lot more, but -- {LAUGHTER} -- two that stood out for me was the President's comment that a plan is not a litany of complaints. {APPLAUSE} And time after time after time when he was asked a question, what Senator Kerry produced was a litany of complaints -- a lot of talk about plans, but we haven't seen any plans yet.
+
+With respect to one of the issues that I think needs more attention that hasn't gotten as much attention as it deserves, although the President really zeroed on it tonight, was Senator Kerry's record back at the time of the first Gulf crisis, back in 1990 and '91, which I remember very well because I was Secretary of Defense in those days. And he has laid out this talk about a global test, and the importance of putting together coalitions and getting approvals and so forth, various and sundry places. And of course, that's exactly what happened in 1990 and '91, and then he voted against Operation Desert Storm. There is no criteria that you can satisfy that will lead John Kerry, I think, to make the kind of decisions that are required by a Commander-in-Chief who is going to fight, and prosecute, and win the war on terror. It's just not in him. {APPLAUSE}
+
+So I thought the President did a superb job tonight. I'm delighted with where we are now, heading into the final home stretch of this campaign. We're going to take the fight to our adversaries, wherever they may be. {LAUGHTER} We're going to carry Pennsylvania. {APPLAUSE} And three weeks from today, the day after the election, there won't be any doubt about who is going to be our President and Commander-in-Chief for the next four years. {APPLAUSE}
+
+But again, I want to thank all of you for being here tonight. We deeply appreciate your support. This is, as I say, an extraordinarily important election. We're all enormously privileged to be a part of it, to have an opportunity to participate, and we're blessed to have a man like George W. Bush to lead us in this essential fight for the future of the nation, and of our kids and grandkids.
+
+Thank you very much for being part of the effort, thank you. {APPLAUSE} 
+
+{/speech}

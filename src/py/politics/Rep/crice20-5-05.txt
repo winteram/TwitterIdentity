@@ -1,0 +1,44 @@
+﻿{title} Remarks at the Reception for Donors of Diplomatic Reception Rooms {/title}
+{event} Reception for Donors of Diplomatic Reception Rooms {/event}
+{speaker} Condoleezza Rice {/speaker}
+{date} May 20, 2005 {/date}
+{source} http://www.state.gov/secretary/rm/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you very much, Gail, for that wonderful introduction and thank you for all of the work that you do. I'm really delighted to be here this evening to personally express my great admiration for you and what you do. And my great appreciation for what you do for us, you wonderful donors, and to the Curator's Office for the great generosity and the hard work in furnishing and maintaining these magnificent reception rooms -- 42 in all, I'm told. I don't think I've visited each and every one of them yet, but I'm sure that I will. They're on the seventh and eighth floors of the Department of State and we have a host of faithful friends of American diplomacy who are here tonight.
+
+This evening, we're paying special tribute to the members of the Diplomatic Rooms Endowment Fund and to the Fine Arts Committee which for 45 years has supported these rooms and their historic collection of fine and decorative arts. We particularly honor Susan Klein for her outstanding service as Chairman of the Fine Arts Committee these past four years. The men and women of the State Department and the American people owe the members of the Endowment Fund and the Fine Arts Committee a great debt of gratitude for making possible this priceless showcase of Americana.
+
+I think they deserve a round of applause.
+
+{APPLAUSE}
+
+Like my predecessors, I have found these rooms to be an invaluable diplomatic asset and I can tell you that for each Secretary, they are also a source of great pride. Speaking personally, I can tell you that I have a deep sense of connection -- that these rooms give us a deep sense of connection with America's democratic promise. I was moved to have the privilege of being sworn in here in the Ben Franklin Room as the 66th Secretary of State by President Bush.
+
+And I want you to know that on that special occasion, as I sat here with my friends and family, these surroundings made a very big impression on everyone, particularly on my aunt from Alabama. {LAUGHTER} In the months since I've been Secretary of State, I've had the pleasure of hosting many foreign dignitaries here, too. Earlier this week, I held a dinner and a press conference here with Foreign Secretary Jack Straw of Great Britain. I've also hosted the foreign ministers of Egypt and Denmark and Greece and France and Australia here. This is where I swear in our outgoing ambassadors and perhaps most importantly, I swear in our newest foreign and civil service officers.
+
+Holding their induction ceremonies here in this room, I think, heightens their sense of mission and their appreciation that they will be carrying on a tradition of service that stretches back to our country's Founding Fathers. That feeling is part of being America's living democracy and it's so important, not just for the men and women of American diplomacy, but for all Americans. And so, tonight, it is particularly apt that we celebrate the return of Becoming a Nation, the exhibition of 170 treasures from these rooms which, for the past two years, has been traveling around the country from Portland, Oregon to Portland, Maine and to a few places in between.
+
+The public's response to Becoming A Nation was really enthusiastic. Over 150,000 visitors from virtually every state in the union and 25 other countries were able to see, firsthand, outstanding examples of American craftsmanship from our State Department collection. At the same time, the visitors gained a better understanding of the work of the Department of State. And near and dear to my heart, as an educator, this exhibition sparked the imaginations of scores of schoolchildren, as they learned about our history through role-playing early American craftsmen, statesmen, and revolutionists.
+
+What great ambassadors these objects are in telling the story of America, but I will confess that it is great to have these precious pieces of history back here in place at the State Department. The chairs that once belonged to Francis Scott Key, the porcelain owned by George Washington, the silver crafted by Paul Revere, the portraits of our eighth Secretary of State and sixth President, John Quincy Adams and his wife, Louisa.
+
+You may have seen the portraits earlier this evening as you came in through the receiving line in the John Quincy Adams Room. Each object helps us recall our past and connect to our present. It was, after all, Adams who, in the famous Amistad Decision, told the court, "The moment you come to the Declaration of Independence, that every man has a right to life and liberty, an inalienable right, this case is decided. I ask nothing more on behalf of these unfortunate men," meaning these slaves, "than this declaration."
+
+The glory of American democracy is that ours is a nation that is still in the process of becoming; becoming ever more true to our founding principles. At my swearing-in ceremony right here, I recall that our Founders realized that they, like all human beings, were flawed creatures and that government created by man could not be perfect. Even the great authors of liberty, like Thomas Jefferson, stumbled badly as slave owners, despite the fact that he wrote perhaps my favorite line, "The God who gave us life gave us liberty at the same time." And yet, he was a slave owner.
+
+And so, you have to ask: What was it really saying to have these institutions? And it was saying that mankind will continue to stumble forward, step by step, not perfectly; falling, but falling toward better institutions is always preferable to tyranny. As President Bush has said, "The only force powerful enough to stop the rise of tyranny and terror and replace hatred with hope is the force of human freedom." And we're seeing a wonderful march of human freedom these days around the world.
+
+Who could not have been completely taken aback with admiration for the Rose Revolution in Georgia or the Orange Revolution in Ukraine or the Cedar Revolution still unfolding in Lebanon? Or men and women in Afghanistan standing along dusty roads in a country that is barely out of the 17th century just for the right to vote? Or the men and women of Iraq who faced down terrorists who literally put up posters that said, "Vote and you will die," and they voted anyway?
+
+That is the power of liberty. That is the power of human dignity. And ladies and gentlemen, these rooms and these artifacts remind us that Americans have these freedoms and that we owe it to those who are remembered around us by these great artifacts. But it should also remind us that we should never turn a blind eye to any corner of the world in which men and women still live in tyranny, because there are no people in the world who deserve to live in tyranny. It is America's great calling.
+
+{APPLAUSE}
+
+It is America's great calling always to remember those who are still on the wrong side of freedom's divide and to act on their behalf. We absolutely have to have a diplomacy that sees the world as it is, but we do not have to accept the world as it is. That is America's great genius. Thank you very much for being a part of preserving the heritage and the history of this great country.
+
+{APPLAUSE} 
+
+{/speech}

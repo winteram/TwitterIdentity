@@ -1,0 +1,17 @@
+﻿{title} Remarks by the President at the 28th "Christmas in Washington" Broadcast {/title}
+{event} 28th "Christmas in Washington" Broadcast {/event}
+{speaker} Barack Obama {/speaker}
+{date} December 14, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good evening, and Merry Christmas. Thank you, George Lopez. Thank you to all the incredible performers for sharing your wonderful holiday spirit with us this evening -- Mary J. Blige, Neil Diamond, Sugarland, Rob Thomas, Usher and Justin Bieber -- Bieber. He was just discovered. {LAUGHTER} The American Family Choir and the Washington Youth Choir. And the United States Army Herald Trumpets.
+And to the producers and crew behind the scenes -- thank you for bringing us together, at this historic and beautiful National Building Museum, and for bringing this celebration to our fellow Americans.
+For many of your families, this is a holiday tradition -- the 28th "Christmas in Washington" celebration. For our family, this is our first Christmas in the White House. Michelle and I are honored to be with you. And I know that Malia, Sasha and my mother-in-law Marian Robinson want to wish you all a wonderful holiday, and I'm sure they're watching here at home this evening.
+This season, we celebrate that sacred moment -- the birth of a child and the message of love He would preach to the world; that we are our brother's keeper, our sister's keeper; that, "pure in heart," we do unto others as we would have them do unto us; that we devote ourselves to "good works;" that we are summoned to be peacemakers.
+More than 2,000 years later, that spirit still inspires us. It's why this celebration tonight benefits the Children's National Medical Center and all the children whose lives they touch and they save. And it's why, as so many of our fellow citizens struggle through tough times, we are called upon to help neighbors in need. And it's why, with our men and women in uniform serving far from home, in harm's way, our fervent wish remains, this season and all seasons -- let there be peace on Earth.
+To all Americans, from our family to yours -- Merry Christmas and God bless you. {APPLAUSE} 
+
+{/speech}

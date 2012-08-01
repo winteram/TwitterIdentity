@@ -1,0 +1,81 @@
+﻿{title} President Calls for Quick Passage of Defense Bill in Fayetteville, North Carolina Welcome {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} March 15, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. 
+
+{AUDIENCE} U-S-A, U-S-A! {/AUDIENCE} 
+
+Thank you all very much. At ease! {LAUGHTER ; APPLAUSE} General McNeil, thank you very much. For a warrior, you're pretty darn articulate. Thank you all for such a warm welcome. It's great to be here in Cumberland County, North Carolina. {APPLAUSE} 
+
+I'm also honored to be here with fine men and women who wear our uniform from Fort Bragg, North Carolina, the world's finest fighting soldiers. {APPLAUSE} For generations, Fort Bragg has stood for the best in the United States military. And now, along with those stationed at Pope Air Force Base, you're playing a crucial role, a vital role, a successful role in our defense of freedom, in our war against terror. I'm proud of your service. I thank you from the bottom of our hearts. {APPLAUSE} 
+
+I want to thank General Holland, Commander-in-Chief, Headquarters U.S. Special Operations Command. I want to thank General Brown. I want to thank all the fine men and women of the 18th Airborne Corps, the Special Forces, and the Special Operation units. {APPLAUSE} It is good to be with the fine folks of the 43rd Airlift Wing. {APPLAUSE} I am honored to be traveling with members of the North Carolina congressional delegation, two of whom you've just heard from, Congressman McIntyre, Congressman Hayes, Congressman Etheridge is with us today, as is my friend, Elizabeth Dole. Thank you all for coming. {APPLAUSE} 
+
+One week ago this coliseum was the scene of graduation ceremonies for the latest group of soldiers to have earned the right to wear the Green Beret. {APPLAUSE} In doing so, they will join the ranks of some of the best and bravest citizens we have. The soldiers and sailors and airmen of the U.S. Special Operations Command are the best in the world, and the world is seeing how tough and how brave they are today. {APPLAUSE} 
+
+Our Special Operations forces know the danger that awaits them. This is a dangerous battle that we face, a dangerous war. And I'm proud of the courage, not only of the soldiers who volunteer for battle, but for the loved ones who remain behind. Not only am I proud of our soldiers, I am proud of the wives and husbands and sons and daughters and moms and dads. And, on behalf of a grateful nation, we thank you, as well. {APPLAUSE} We appreciate your courage and your sacrifice. 
+
+Two young men from the Special Forces were recently laid to rest, Chief Warrant Officer Stanley Harriman and Air Force Tech Sergeant John Chapman. I want their families to know that we pray with them, that we honor them, and they died in a just cause, for defending freedom, and they will not have died in vain. {APPLAUSE} 
+
+Because of such soldiers, a vicious regime has been toppled in Afghanistan, and an entire people have been liberated from oppression. Because of American soldiers and our brave allies and friends who have fought beside them, the Taliban is out of business. {APPLAUSE} 
+
+At the beginning of this war, I made it very clear -- as clear as a fellow from Texas could make it -- either you're with us or you're against us. {APPLAUSE} And if you harbor a terrorist, if you feed a terrorist, if you try to hide a terrorist, you are just as guilty as the murderers who killed innocent Americans on September the 11th. {APPLAUSE} And thanks to the mighty United States military, the Taliban found out exactly what I meant. {APPLAUSE} 
+
+But the world has seen we are not conquerors; we're liberators. We fight for freedom, and at the same time, we have saved a people from mass starvation. We fight for freedom, but at the same time, we're clearing away minefields, rebuilding roads, and opening up hospitals. We fight for freedom, and yet, next week, schools will reopen in Afghanistan and, for the first time, many young girls will go to school for the first time in their lives. {APPLAUSE} 
+
+We haven't been at this struggle very long. I know it seems like a long time for those of you whose loved ones are overseas. But we've been at it for six months, and we've made a lot of progress. And you know what? The terrorists have now figured out they picked on the wrong people. {APPLAUSE} They must have thought we were soft. They must have thought we were so materialistic that we wouldn't fight for values that we loved. They must have thought that we were so self-absorbed, that the word sacrifice had left the American vocabulary. And, my, were they wrong. 
+
+Thousands of terrorists have been brought to justice. But I want you to know, my fellow citizens, we will not relent. We will not slow down until the threat of global terrorism has been destroyed. {APPLAUSE} 
+
+I have made this message clear to the American people. I have made this message clear to our vast coalition. And I've made this message clear to our enemies -- and our military has delivered the message. 
+
+We have finished the first phase of our war against terror. You see, when we routed out the Taliban, we completed that phase. And now we're entering a second stage of what I think will be a long war. It's a sustained campaign, a tireless, relentless campaign, to deny sanctuary, to deny safe haven to terrorists who would threaten citizens anywhere in the world, threaten our way of life, threaten our friends, threaten our allies. These terrorists are now on the run. And we intend to keep them on the run. {APPLAUSE} 
+
+We know their strategy. They want to try to regroup, and they want to hit us. We're doing everything we can to stop them. No, we know their strategy. We also know they're the most committed, the most dangerous, the least likely to surrender. Folks, these are trained killers who hate freedom. And so long as they're on the loose, we're in danger. And, therefore, in order to keep them from harming any of our citizens again, we're going to hunt 'em down, one by one. This mighty nation will not blink, we will not yield. We will defend the innocent lives of the American people by bringing terrorist killers to justice. {APPLAUSE} 
+
+Obviously, as you well know, we found some of them bunched up in the Shahikote Mountains. And we sent our military in. And they're not bunched up anymore. {LAUGHTER} And when we find them bunched up again, we'll send our military in, and the same thing will happen. You know, they've got these leaders that are so bold that they're willing to send youngsters to their suicide while they try to hide in deep caves. But they're going to find out there is not a cave deep enough to escape the long arm of American justice. {APPLAUSE} 
+
+And so as fellow citizens, you need to know the strategy of this new phase is this: We want every terrorist to be made to live like an international fugitive, on the run, with no place to settle, no place to organize, no place to hide, no governments to hide behind, not even a safe place to sleep. And we're going to stay at it. You watch, we're going to stay at it for however long it takes. And the good news is, the American people are united and patient and understand the nature of the struggle ahead. And for that I'm grateful, and so are the men and women who wear the uniform of the United States military. {APPLAUSE} 
+
+At the same time, the civilized world must take seriously the growing threat of terror on a catastrophic scale. We've got to prevent the spread of weapons of mass destruction, because there is no margin for error and there is no chance to learn from any mistake. The United States and her allies will act deliberately -- we'll be deliberate -- but inaction is not an option. Men who have no respect for life must never be allowed to control the ultimate instruments of death. I have made it clear that we will not let the most dangerous regimes in the world team up with killers and, therefore, hold this great nation hostage. Whatever it takes to defend the liberty of America, this administration will do. {APPLAUSE} 
+
+I want you to know that, even though we have made great progress in six short months, I am aware that history will judge us not based upon the beginning of this campaign, but how it ends. Great challenges lie ahead, and we're in for a long struggle. And therefore, we must make sure that our United States military must have everything it needs to meet the objective. {APPLAUSE} 
+
+And just like our military has responsibilities, I have responsibilities as the Commander-in-Chief to the military. At every stage of the war on terror, I can assure you our actions will be carefully planned and carefully prepared. Our objectives will be clear. We will be deliberate, but when we act, we'll be decisive. {APPLAUSE} I will give clear orders, and I will make sure that you have every tool you need to do your job. 
+
+I've asked Congress for a one-year increase of more than $48 billion for national defense. {APPLAUSE} This is the largest defense increase in a generation -- because we're at war, and Congress needs to pass this budget. And, by the way, it includes another pay raise for people who wear the uniform. {APPLAUSE} 
+
+Nothing is more important than the national security of our country, nothing is more important. So nothing is more important than our defense budget. I've heard some of them talking about, it's too big up there. Let me just make this as clear as I can make it: the price for freedom is high, but it's never too high, as far as I'm concerned. {APPLAUSE} 
+
+As you know, if you follow the budget process, oftentimes Congress waits until the last days of the fiscal year in order to pass the defense budget. That's bad budgeting practices in times of peace. It's really bad budgeting practices in times of war. I expect the United States Congress to not only pass the budget as I submitted, I expect them to make it the first order of business, so we can plan for this war. {APPLAUSE} 
+
+Now is not the time to play politics with the defense budget. Now is the time to get it out first, and get it on my desk. We need to send that clear message that not only are we in this for the long haul, but the elected representatives of the United States people understand it, as well. I'm proud of the bipartisan spirit that exists in our war against terror. Now, let's just make sure we've got some good budgeting practices to go along with it. {APPLAUSE} 
+
+We're working hard to make sure the homeland is secure. I'll never forget, right after September the 11th I went to see some high school kids, and they were seniors. And it dawned on me that -- obviously on them, too -- that this is the first high school class that had ever seen an attack on the homeland like this, at least on the 48 states that are contiguous. And it reminded me then, and I've never forgotten it, that oceans no longer matter when it comes to making us safe; that we have a giant obligation, an obligation I take very seriously here at home, to make sure we do everything we can to protect innocent life. 
+
+So you need to know that any time we get a hint about somebody may be thinking about doing something, we're on them. Every time we get a scintilla of evidence that somebody might be trying to get in here or burrow in our society, we're doing everything we can, everything we can, to protect the American people. We honor our Constitution, but we're on alert. And so are many of you all, and I want to thank you for that. 
+
+We've got a good first responders initiative. We've got a great initiative on bioterrorism. We're making our borders more secure. We want to make sure we know who's coming in and who's coming out. We want to make sure the INS is reformed. {LAUGHTER ; APPLAUSE} As you might -- could tell by the news that day, I was plenty hot -- {LAUGHTER} -- when I read about the bureaucratic inefficiency of this agency. We're going to do everything we can to reform it. We want to button up the homeland as best as we can. 
+
+But my attitude is this: The best way to secure the homeland is to unleash the mighty United States military and hunt them down and bring them to justice. {APPLAUSE} And the best way to fight evil at home is to love your neighbor like you'd like to be loved yourself. {APPLAUSE} The best way to stand squarely in the face of those who hijacked a good religion is to live a life that helps people in need. 
+
+You know, the true strength of our country is much greater than our military. The true strength of America are the hearts and souls of loving American citizens. And we have an obligation in our free society to work to make our society as compassionate and as kind as it can possibly be. {APPLAUSE} 
+
+Today, I had the honor when I landed here to meet Jane Davis. Where are you, Jane? There she is. Jane, thank you. {APPLAUSE} Don't clap yet until you hear about her. She's the wife of Colonel Gary Matteson of Fort Bragg. The reason I mention Jane is because she is an example of what I'm talking about, about the strength of the country. Right after September the 11th, she left North Carolina to volunteer at Ground Zero in New York City. {APPLAUSE} Nobody had to tell Jane. There wasn't a government edict, there wasn't a telegram from Washington, D.C., directing her to go to Ground Zero; she followed her heart. She knew it was the right thing to do. 
+
+It's the Jane Davises that really defined America for the world to see. And you can be -- you can help a neighbor in all kinds of ways. You can walk across a street to a shut-in and say, what can I do to help your day? Or you can mentor a child, or you can teach in a classroom. {APPLAUSE} If you want to help, you can get on the Internet and dial up usafreedomcorps.gov, and see. And we've got a member of the Senior Corps here, which is a part of the USA Freedom Corps. 
+
+If you want to be involved, there's all kinds of ways. All you've got to do is act. But if you're interested in joining the war against terror, do something to make your community a more vibrant and kind place. {APPLAUSE} 
+
+It is what I like to call the gathering momentum of millions of acts of kindness that define America for what we are. And I'm proud to be the President of a nation that is dedicated and firm in our defense of liberty, that will stand strong when we defend freedom, and not blink or tire. And likewise, I'm proud to be the President of a nation whose true strength are the hearts and souls of citizens from all walks of life. 
+
+May God bless you all, and may God bless America. {APPLAUSE} 
+
+{/speech} 

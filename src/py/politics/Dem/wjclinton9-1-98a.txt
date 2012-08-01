@@ -1,0 +1,59 @@
+﻿{title} Speech by President Brownsville Airport {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 9, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Thank you. Thank you. I believe that we should begin by giving Alma another hand. She did a great job, didn't she? Thank you. {APPLAUSE} 
+
+I want to thank Secretary Riley for his work and for coming here with me today. I want to say a very special word of thanks to your fine Congressman, Solomon Ortiz. {APPLAUSE} Thanks to his leadership, you are finally going to have the Port of Brownsville bridge you need so much. Thank you, Congressman Ortiz. {APPLAUSE} 
+
+I'd like to thank the state legislators who are here -- Representatives Oliveira and Solis -- Judge Hinojosa; the city commissioners; the city managers; President Juliet Garcia, UT-Brownsville; Mayor Gonzalez. I'd like to thank Congressman Ruben Hinojosa for coming over with me, and Congresswoman Sheila Jackson Lee. 
+
+I'd like to say, too, that my family and our administration feel that we owe a lot to Brownsville. The First Lady was here about a year ago and Hillary told me that she kind of resented my coming back without her today. {APPLAUSE} This community has given two of our real stars to the Clinton-Gore administration -- first of all, the President of the Overseas Private Investment Corporation, one of 12 children here, George Munoz -- and his parents are both here. Thank you, George, and thank you, Mr. and Mrs. Munoz. And second, our Secretary of Energy Federico Pena, whose parents, Gustavo and Lucila Pena, are here. Thank you for a fine son and a fine Cabinet member. {APPLAUSE} 
+
+I'd like to thank your Land Commissioner, Garry Mauro, for joining me today; and also thank the White House aides who helped to do so much work on this trip, Mickey Ibarra, Janet Murgia, Cynthia Jasso-Rottunno. I am very proud of the fact that I have appointed far more Hispanic Americans than any previous President to important positions in my administration. {APPLAUSE} I'm even prouder of the fact that they're doing a very good job for all Americans. {APPLAUSE} 
+
+I'd like to welcome all the students and teachers and Head Start teachers here today. Thank you for coming. {APPLAUSE} And I'd like to thank the bands that provided our music today -- thank you very much. {APPLAUSE} 
+
+I'd also like to say a special word of thanks for that plane back there. I don't know if you've looked at it and probably, those of you who have live here, doubtless been to see this plane before. But the Confederate Air Force preserved this BT-13 so thousands of people can come and learn about an aircraft that helped our country to fight and win World War II. 
+
+It reminds me of one of the wisest decisions that President Roosevelt made after World War II, and that was to give every returning soldier the chance to go on to college through the G.I. Bill. {APPLAUSE} The G.I. Bill revolutionized educational opportunity in America. It made millions and millions of middle-class families and better futures for their children. 
+
+I am exceedingly proud that last year when we passed the balanced budget agreement last year, we passed an education program that opened the doors to college wider than ever before, the biggest increase in college aid since the G.I. Bill 50 years ago. We learned the lesson from President Roosevelt. It's the right thing to do. {APPLAUSE} 
+
+You know, all of you know, you live with this every day, that we are living in an age characterized by increasing communication across national borders and revolutions in technology and information. It's changing the way we work and live and relate to each other, and it will dramatically change the lives of these children who are here. 
+
+What I have tried to do, as I have said repeatedly, is to build a bridge to this new world and the 21st century, so that there is opportunity for every American child responsible enough to work for it; so that we all work together as one America, united across all the racial and ethnic and religious lines of diversity in this country; and so that America is still the world's best hope for peace and freedom. 
+
+Now, there are a lot of things that we can do to help to grow the economy. We have to do some more here in South Texas. And I met this morning with community leaders from the whole region to talk about that. But let me tell you, nothing we can do will equip our young people for the modern world unless all of our young people have a very good education and are able to keep on learning for a lifetime. {APPLAUSE} 
+
+This week I announced that I will soon submit to Congress the first balanced budget the United States has had in 30 years. {APPLAUSE} Here's what it will do for going on to college, within the context of balancing the budget. 
+
+There will be a HOPE Scholarship, a $1,500 credit for the first two years of college, enough to make community college free for virtually every person in the United States. {APPLAUSE} There will be lifetime learning credits, another $1,000 a year tax credit for the third and fourth years of college, for graduate school, and for older people who have to go back to upgrade their skills. {APPLAUSE} There will be education IRAs so that if parents save for their children's college education, when they want to withdraw the money plus the interest it's earned, they can do it without any tax penalty because we don't want to tax savings for education. {APPLAUSE} 
+
+We have expanded the Pell Grant program to cover millions of eligible Americans so that the scholarship is larger and the number of people who are eligible are more. {APPLAUSE} We now have had 100,000 young people, including quite a number from Texas, serve in our national service program, Americorps, serving their community and earning money to go to college. And today a little earlier, I announced that our budget will also include for the first time a request for 1 million work-study positions for young people who want to work their way through college. {APPLAUSE} What that means is that people literally will not be able to say anymore, I can't go to college because I can't afford it. 
+
+We also reformed the student loan program so that you can pay the money back as a percentage of your income. You don't ever have to worry about being bankrupted if you have to borrow the money. There is no financial excuse. 
+
+But we must make sure that more of our young people stay in school, graduate from high school, and when they graduate they know what they're supposed to know. {APPLAUSE} There are still too many of our children who graduate from high school not knowing that. That's why I have pushed our national goals of making sure every 8-year-old can read, every 12-year-old can log on to the Internet, and every 18-year-old can go on to college with high standards, proven reforms, hooking up every classroom and library to the Internet by the year 2000, making sure that every eligible child has a chance to be in a Head Start program or another good preschool program. {APPLAUSE} We have to do these things so that all of our children can learn. 
+
+Let me also say that one of the most troubling things to me is that the high school graduation rates in America now are getting quite high. They're well above 80 percent, moving toward the 90 percent level they should reach, for every ethnic group in America except Hispanic young people. Too many of our Hispanic young people still drop out of high school, very often out of good motivation. They think, I ought to drop out. I ought to go to work. I can support myself. I won't be a burden on my family. I can help my family make a living. 
+
+That has been true for generations. That is simply not true anymore, and we have to change that attitude. {APPLAUSE} It is not true anymore. 
+
+It has been clear now for at least 10 years that there is a huge and growing gap in the job prospects and the earning prospects of people who have two years or more of college, and people who drop out of high school. It is imperative that we get 100 percent of our kids to stay in school, get their high school diploma, go back and get their GED if they have already dropped out, and then go on to at least two years of college. 
+
+The financial obstacles have been removed. We have to tear down the walls in the minds of people that are keeping them from doing this. {APPLAUSE} 
+
+I have asked Secretary Riley to work with Mickey Ibarra and Maria Echaveste, two Assistants to the President, and Gene Sperling, Director of my National Economic Council, to help us do everything we can do to deal with this. I have talked to Representative Hinojosa and Representative Ortiz about this, but I'm telling you, you folks have got to change this at the grass roots level. Every single child has got to stay in school, graduate, and they need to know what they're supposed to know when they get their high school diploma. {APPLAUSE} 
+
+You can make it happen. We can open the doors. We can have the opportunity. We can set the standards. You have to make it happen. That's the way we can build a bridge to the 21st century that every single American can walk across. I want you to help me. 
+
+Thank you. God bless me. It's great to be back. 
+
+{/speech} 

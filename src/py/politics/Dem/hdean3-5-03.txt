@@ -1,0 +1,25 @@
+﻿{title} Speech at South Carolina Democratic Party {/title}
+{event} ----- {/event}
+{speaker} Howard Dean {/speaker}
+{date} May 3, 2003 {/date}
+{source} http://www.gwu.edu {/source}
+{description} ----- {/description}
+
+
+{speech}
+
+Thank you. You know as most of you know I did not support the war in Iraq {APPLAUSE} , but let me also remind you that the military that kicked Saddam Hussein out of Iraq was Bill Clinton's and Democrats', built by Bill Clinton and the Democrats, and let's not forget that. {APPLAUSE} And if the president keeps talking about a strong military, which I certainly support, he had better stop talking about $670 billion worth of tax cuts paid for by cutting veteran's health care benefits. {APPLAUSE}
+
+I'm in this race because I want jobs back in America. I'm in this race because like Fritz Hollings, I want a balanced budget and I'm not kidding. I'm in this race because I want, like we have in Vermont, health insurance not just for everybody under 18, which we have, but I want health insurance for every single American, and we need to do that now. {APPLAUSE}
+
+But when we come to the South, Democrats have got to start talking about race, because the Republicans always talk about race. They talk about it and try to keep people from voting; they talk about it by using divisive words like quotas, which are race-based words and race baiting words. But what I want to say is in the South we have discovered that when white voters and black voters vote together, we all make progress not here but everywhere in the country. {APPLAUSE} 
+
+And the message I want to give today, before I get gonged {LAUGHTER} , the message I want to give today is two-fold. We have an obligation to the African-American base in this party to be sure that we do not ignore them {APPLAUSE} , and we have an obligation at the same time to talk to white people in the South that have been voting Republican for 30 years, and this is what we're going to say. 
+
+There are 103,000 kids with no health in this state--most of 'em are white, there are an awful lot of people whose jobs are going to China, a lot of people that haven't had a raise in five years, a lot of people who need schools better--they're not just African-Americans, they're whites as well. And so I want to say to white Southerners, let's put aside those divisive issues that the Republicans always bring up, and let's vote together for a better future for our children {APPLAUSE} because you started out here in the South voting together for a better future for our children. 
+
+We're going to build this party back and we're going to start right here today because this is an extraordinary opportunity for the Democratic party nationally to show we are serious about competing in the South, we are going to win in the South, we are going to make sure that our base does not feel neglected. It's time to inject some backbone into our party, to stand up for the things that we need to stand up for. {APPLAUSE}
+
+But it's also time to talk to folks who haven't voted for us for 30 years and say this. You've been voting for Republicans for 30 years; what do you have to show for it? {APPLAUSE} Because as long as the Republican party's in power, none of our kids are going to have health insurance; as long as the Republican party's in power, none of us are going to have raises; as long as the Republican party's in power, none of us are going to have health insurance for adults. We can do better. We want jobs. We want health insurance. We want better education. White people and black people are going to vote together in the South and they're going to vote Democratic just like they did when Franklin Roosevelt was president, when Harry Truman was president. {APPLAUSE} We're going to stand up again for what we believe in in this country. Thank you very, very much. {APPLAUSE}
+
+{/speech}

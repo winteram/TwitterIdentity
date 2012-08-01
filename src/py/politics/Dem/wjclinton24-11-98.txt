@@ -1,0 +1,42 @@
+﻿{title} Remarks by the President at National Adoption Month Event {/title}
+{event} The East Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 24, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. I asked Charday if she was happy about being here, and she said, yes, but I'm a little nervous. {LAUGHTER} And I said, well, all these people are your friends, just remember that. And I thought she did a terrific job -- don't you think she did, I think she did. {APPLAUSE}
+
+Governor and Mrs. Edgar, Senator Levins, Senator Landrieu, Congressman and Mrs. Oberstar, Mayor Barry, thank you all for joining us here today. I'd like to thank the previous participants on the program -- Mayor-elect Williams, for the power of your example which speaks louder than our words; and Mrs. Williams, we're glad to have you here today and we wish you well in your new endeavors.
+
+Judge Hamilton, thank you for your work and the power of your example. And, Dave Thomas, he said some very nice things up here about Hillary and me, but the truth is that no other citizen in the United States today or ever has done as much as a private citizen to promote the cause of adoption as Dave Thomas. And we are very grateful to him. {APPLAUSE} Thank you, sir.
+
+I'd like to thank Secretary Shalala, the longest serving, and notwithstanding her voice today, the most effective Secretary of Health and Human Services in our history. {APPLAUSE}
+
+I want to congratulate all the families who are here today and thank them for coming. And I hope Judge Hamilton is right, I hope that the images of them that go across America today will inspire other parents to do the same. I want to also congratulate the Adoption 2002 award winners and thank them for the work they are doing in their states and communities.
+
+I'd also like to say a special word today. Before we came in here, Dave Thomas said, well, you know, your administration has done more than any in history to promote adoption. And I told him that the real reason for that is because it has been a consuming passion of the First Lady for as long as I have known her. I remember when we were young and we hadn't been married long when she had a client -- a couple in Arkansas who were foster parents and who were in the foster system, and the rules then didn't permit them to adopt. And she waged a long and sometimes lonely legal battle through our courts to get that couple the right to adopt the child they loved very much and had already invested a great deal in. And it began to change things for a lot of families in our state.
+
+I remember when she organized more than 25 years ago the Arkansas Advocates for Families and Children, and one of their missions was to improve the system of adoption, as well as the system of foster care in our state. So I can tell you that while many people have played a role in what we have been able to do -- especially the remarkable bipartisan cooperation we've enjoyed in passing these two important adoption bills. No one deserves more credit than Hillary for what has happened in the last six years, and I'm very grateful to her. {APPLAUSE}
+
+As all the speakers have said, we are working hard on making good on our commitment to find our foster children the homes and the futures they deserve. We do want to double the number of adoptions by the year 2002. We want to reform our nation's whole approach to this profoundly important issue, to make the system work better for the children and the families it should be serving. With pioneering efforts like those in the state of Illinois, we are getting closer to our goal of doubling the number of children adopted or permanently placed by 2002.
+
+Between 1996 and 1997, the number of adoptions increased by 10 percent, from 28,000 to 31,000. We know, however, that that cannot be the sole measure of our progress. We also must ask ourselves whether our child welfare system always puts the health and safety of our children above all else; whether children have the chance to live out their dreams and fulfill their potential; whether families who open their arms can actually reach to embrace a child in need.
+
+As we celebrate National Adoption Month, Americans can take pride in the progress we're making -- but we know there is much more work to be done. We know geographic and other barriers to adoptions still exist. We know we have to do a better job in informing America's families about the many children who wait in the foster care system for adoption.
+
+To give those children the permanent homes they need, to give our families the opportunity to give them those homes, we must make technology a partner and propel the public welfare system into the 21st century. Today, therefore, I am directing the Secretary of Health and Human Services to work with the states, the courts, the private agencies, to report to me within 60 days on a plan for a national Internet-based registry of children waiting to be adopted everywhere in the United States. {APPLAUSE}
+
+As Hillary said, there are 100,000 children, just like those whom we clapped for today, in foster care still waiting for permanent adoptive homes. The Internet holds the potential to shorten their wait, to make an on-line link between foster care centers and families looking to adopt. Some states and private partners already are forging these connections, bringing together families in Alaska and children as far away as Pennsylvania, for example.
+
+We want to build on these efforts to the extent that it is possible and appropriate, working closely with the states, supporting their efforts, learning from them. We can use the Internet to promote adoptions while protecting the confidentiality of children and families. Technology has given us an important tool and we should use it.
+
+Again, Thanksgiving is approaching. Families across our nation will come together to express their gratitude for all the things that matter most. We sometimes speak of the comforts of home as the small blessings. But when you look into the eyes of these children today, we remember that there are few greater blessings.
+
+I'd like to encourage more families to follow the example of those we have honored here today, to open their arms, their hearts, to children who need them very much; to give them the futures they deserve, and to make sure that in all of the Thanksgivings to come, we will all be blessed as a nation as more and more of our children come into loving homes.
+
+A very happy Thanksgiving to all of you. And now let me invite all of you to join us to celebrate this special day with a reception in the State Dining Room. Thank you very much. {APPLAUSE} 
+
+{/speech}

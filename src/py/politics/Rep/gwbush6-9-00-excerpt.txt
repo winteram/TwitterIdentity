@@ -1,0 +1,31 @@
+﻿{title} Speech at American Legion Convention {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} September 6, 2000 {/date}
+{source} http://www.pbs.org/newshour {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+I am here to talk about what is owed to armed forces of the United States: Past, present and future. To the veteran, we owe gratitude shown not just in words of tribute, but in acts of care and acts of attention. To those who serve today, and in the future, this country owes the best in training, and equipment, and leadership. 
+
+There is no question, no question, that our military today is the strongest in the world. It is confident, and proud, and willing to carry out the mission that we give them. They have never failed us, and we must never fail them, but the best intentions and the highest morale are undermined by back- to-back deployments, by poor pay, by shortages of spare parts and equipment, and of rapidly declining readiness. As a percentage of the GNP, our investment in national security is at the lowest level since World War II.
+
+Overall, in the armed services, commitments around the world have tripled, while our forces have been reduced by 40%. The administration's own chairman of the Joint Chiefs recently said, "we're doing much more than we were ten years ago, and we're doing it with much less." But let's get something straight, these are not criticisms of the military, they are criticisms of the current commander in chief and the vice President for not providing the necessary leadership for America. {APPLAUSE} 
+
+I believe a leader has the responsibility to speak out when the armed services are short on support and short on resources. We have a responsibility to take their side when too much is asked of them and too little is given in return. Leadership is a responsibility to act, and should I become your President, I will act to restore the morale of the United States military. Our soldiers must have confidence that if asked to serve and sacrifice, the cause will be worthy, and our support for them will be total. We will have to give our armed forces better pay, better housing, better training. We will increase housing allowances, and I will ask the Congress to increase the pay for those men and women who are in uniform, by $1 billion more than the current pay raise. {APPLAUSE} 
+
+These steps will go a long way toward improving morale, but this is only a start. It's only a start. As commander-in-chief, I will give our military a clear sense of mission. America will be involved in the world, but that does not mean our military is the answer to every single difficult foreign policy question. I will order an immediate review of our overseas commitments in dozens of countries. I will keep our pledges to defend our long-standing friends and allies against aggression, but I'll make it clear we can't put troops on the ground to keep warring parties apart all around the world. We'll let our friends be the peacekeepers. The great country called America will be the peacemakers. {APPLAUSE} 
+
+I will replace uncertain missions with well-defined objectives, should I become the commander-in-chief. The mission of the United States military will be fully prepared to fight and win war, and therefore, prevent war from happening in the first place. {APPLAUSE} 
+
+Should I become the President, I will use this window of opportunity to create the military for the future. Today our military is organized more along the threats that we used to have in the Cold War, than a military ready to meet the challenges of a new century. It's organized for the industrial age operations, rather than information age battles. There is almost no relationship between our budget priorities and our long-term strategic vision of what the military ought to look like. Now is the time to shape the future of the military, with new concepts, new strategies, new resolves. 
+
+As President, I will begin an immediate and comprehensive review of our military, the structure of its forces, the state of its strategy, the priorities of the procurement program, conducted by a leadership team under the Secretary of Defense. We will challenge the status quo, and envision a new architecture for American defense for decades to come. 
+
+Our forces must be able to project power over great distances and do it quickly. They must be agile, and harder to find, easier to move, and lethal in action. They must have the technology to dominate information, as well as the technology to dominate the skies and the seas in order to keep the peace. And whenever America uses force in the world, whenever we commit our troops, the cause must be just, the goal must be clear, and the victory must be overwhelming. {APPLAUSE} 
+
+The veterans of the United States represent the best of the American tradition of preserving freedom. The veterans in this hall represent the best of the American tradition of serving a cause greater than self. America is a great nation, because of our people. And the veterans of America are the best people this nation has ever produced. God bless. {APPLAUSE}
+
+{/speech} 

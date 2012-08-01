@@ -1,0 +1,87 @@
+﻿{title} President Bush Speaks at the American College of Cardiology Annual Convention {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} March 21, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. Thank you very much. George, thank you very much for your kind introduction. Doctor. Doctor. {LAUGHTER} I'm honored to be here, and it's an honor to be your President. 
+
+I thought about inviting Vice President Cheney to travel with me today -- {LAUGHTER} -- he said he's seen enough cardiologists lately. {LAUGHTER} I'm pleased to report that he's feeling great. {APPLAUSE} And you'll be happy to know that when it comes to following doctor's orders, he's a model patient. 
+
+I appreciate so very much the leadership of this august organization having me here, and I appreciate the fact that they invited my bigger little brother. {LAUGHTER} I can't tell you how proud I am of Jeb. He is a really fine governor of this important state. {APPLAUSE} 
+
+I'm also pleased to be traveling with members of the United States Congress from the state of Florida: John Mica, Ric Keller and Dave Weldon. Thank you all for coming with me. {APPLAUSE} Weldon informed me he's a doctor. He's representing your interests in the halls of Congress. 
+
+And today we're in the home town of the new Secretary of Housing, Mel Martinez. {APPLAUSE} I'm proud that Mel is the first Cuban American to serve in a President's Cabinet. Mr. Secretary, welcome home -- but don't stay too long. {LAUGHTER} You're going back to Washington with me, we've got a lot of work to do. 
+
+You know, I haven't been in front of so money people who poke and prod and examine since my last press conference. {LAUGHTER} And I appreciate the chance to visit with so many distinguished doctors and their families. So many Americans live longer, healthier and happier lives because of the important work you all do every single day. And I'm glad to have an opportunity to thank you in person. 
+
+Modern medicine continues to bring a revolution of hope and dignity into countless lives. The average life expectancy in America today is 29 years longer than it was just a century ago. And those added years now have added vigor. Many forms of cancer, once incurable, are routinely treated and often cured. 
+
+Diseases that grow more common with age, such as arthritis and osteoporosis can be less debilitating than they once were. And heart disease, though still the leading cause of death in America for both men and women, is claiming fewer lives than ever before. Just 40 years ago, when patients were diagnosed with serious heart disease, treatment meant putting them in a hospital bed and trying to make them comfortable. 
+
+Today, thanks to new surgeries, devices and drugs, and thanks to doctors and researchers behind them, millions of Americans with heart disease live vigorous, productive lives. And Dick Cheney serves his country as Vice President of the United States. {APPLAUSE} 
+
+This ongoing revolution in medicine is centered in America, and for good reason -- medical advances depend on innovation and innovation depends on freedom. America has wisely resisted efforts to place medicine and health care into the hands of central planners. {APPLAUSE} Government-controlled health care may spring from the best of motives, but a cumbersome bureaucracy and one-size-fits-all approach stifle innovation and do not produce the best of results. 
+
+There is an appropriate role for government in funding medical research, protecting consumers and providing health care for our senior citizens. Our health care system is strong and it can be stronger. And as we improve and reform it, we must always respect the freedom that makes America's health care system the best in the world. 
+
+This year we have a real opportunity to improve health care. Today, I want to talk about protecting the doctor-patient relationships with a patients' bill of rights. But, first, I can't resist putting in a plug for my budget and for tax relief. {APPLAUSE} 
+
+My budget funds our nation's important priorities, including many health care priorities. We increase funding for education and for military pay and benefits. We set aside $2.6 trillion of payroll taxes over the next 10 years for Social Security and for only Social Security. We double funding for Medicare over the next 10 years, and make sure that every dime that comes in for Medicare is spent only on Medicare. 
+
+And as you know better than most, Medicare urgently needs reform. At a time when prescription drugs are often the treatment of choice for heart disease and many other illnesses, 99 percent of employer-provided health care plans offer some form of prescription drug coverage; yet, Medicare does not. Often, Medicare does not cover new treatments and innovative technologies. The Medicare bureaucracy is rigid and difficult and too often treats doctors as if you have nothing better to do than fill out forms. {APPLAUSE} 
+
+To offer our seniors better coverage and better health care, Medicare needs new life and new vitality. One of the leaders in the effort to modernize Medicare is a heart surgeon, Senator Bill Frist of Tennessee. {APPLAUSE} He's joined with Democrat Senator John Breaux and Republican Congressman Bill Thomas to set out a framework for reform. And I'm committed to working with Congress to reform Medicare and to make sure that every senior has access to affordable prescription drug coverage. {APPLAUSE} My budget also proposes refundable tax credits to make health insurance more affordable for working families. I propose making it easier for small businesses to join together so that they can purchase better and more affordable health coverage for their workers. And we increase funding for community and migrant health centers, so that over the next five years we double the number of people served at community centers in rural and low income neighborhoods. 
+
+I've also asked Congress to increase funding for medical research, which gives hope to many who struggle with serious disease. My budget for next year requests an additional $2.8 billion for the National Institutes of Health, an important step toward our goal of doubling the budget for the NIH by the year 2003. {APPLAUSE} 
+
+We've increased discretionary spending by 4 percent, greater than the rate of inflation. And after we fund important priorities in the ongoing operations of our government, I believe we ought to pay down national debt. And so my budget pays down a record $2 trillion in debt over the next 10 years. And that sets up a $1 trillion contingency fund for emergencies or additional expenses. After funding priorities, after paying down debt, after setting up a contingency fund we still have money left over. 
+
+And the fundamental question is, what do we do with it? Well, some in Congress want to spend it. They want to increase the size and scope of the federal government. That's not my vision. You see, I understand the surplus is not the government's money. The surplus is the peoples' money. {APPLAUSE} And I believe after meeting priorities, we need to send it back to the people who earned it in the first place. Not only send it back, we don't need to take it in the first place. {APPLAUSE} 
+
+This debate in Washington has moved beyond whether we should have tax relief, to how much it should be and who should get it. Now, to put it bluntly, some folks in Washington think all of the doctors in this room make too much money and you shouldn't get any of your money back. That's a fact. I know you've worked hard to get to where you are. You spent long hours in training and school. You do important, life-saving work. You also pay a lot of taxes. And I think everybody, everyone who pay taxes -- from the school teacher to the truck driver to the doctor -- should get tax relief. {APPLAUSE} 
+
+Be wary of those who talk about targeted tax cuts in Washington. Those who want to pick the winners and losers. That's not my vision for government. I don't believe the government is to try to pick winners and losers in the tax code. The only fair way to do it is to say if you pay taxes, you ought to get relief. My plan helps those at the bottom end of the economic scale. It lowers the rate to 10 percent and doubles the child credit. In fact, the greatest percentage benefits in my plan go to those at the lowest end of the economic ladder. 
+
+But my plan also drops the top rate from 39.6 to 33 percent, because I believe on principle that nobody in America, nobody in this room, should pay more than a third of his or her income to the federal government. {APPLAUSE} I hope you'll join me in making the case to Congress to enact a fiscally responsible budget and provide meaningful tax relief. It is necessary and we can afford it. Don't be afraid of contacting a senator of yours, or a member of the Congress. I'm sure they'd like to hear from you. {LAUGHTER} 
+
+And there is another issue I hope you'll join me on -- persuading those very same members of both parties to work together to pass a comprehensive and meaningful patients' bill of rights. {APPLAUSE} I'm very familiar with this issue. When I was Governor of Texas I had to veto a bad patients' bill of rights. And then I signed some good ones. 
+
+First, I was presented a bill that gave special interest treatment to selected HMOs. So I vetoed it. {APPLAUSE} And then worked with our insurance commissioner to write new patient protections that I proudly signed into law the next legislative session. I don't want that to happen again. This time I hope we can get it right the first time. 
+
+Doctors and their patients should be in charge of medical decisions. I want to sign a patients' bill of rights this year, but I will not sign a bad one. And I cannot sign any one that is now before the Congress. So enacting a patients' bill of rights this year is going to require some different thinking, a new approach, based on sound principles. 
+
+First, a federal patients' bill of rights must cover everyone, all patients in all private health plans. The standard should be strong enough to protect everyone, yet flexible enough to preserve the good work that has already been done in many states. 
+
+Second, we must guarantee all patients important rights: the right to get emergency treatment at the nearest emergency room; the right to see a specialist when they need one -- say, just for an example, the right to see a cardiologist for a heart problem. {APPLAUSE} 
+
+Women should be able to visit their gynecologist and parents their children's pediatrician without going through a gatekeeper. {APPLAUSE} All patients should have the right to participate in potentially life-saving clinical trials when standard treatment is not effective. {APPLAUSE} 
+
+Third, if medical care is denied, patients should have the right to a fair and immediate review. {APPLAUSE} People want health care quickly. They don't want to have to go through a legal, lengthy process to get it. I want to sign a bill that protects patients' rights with a strong, binding, independent review process. If your health plan -- if your health plan denies you care, you should be able to appeal immediately to an independent, impartial review panel of medical doctors. 
+
+And if they say you need the care, your health care plan must provide it. {APPLAUSE} An effective medical review is the key to protecting patients' rights and the key to maintaining the doctor-patient relationship you work so hard to develop and preserve. 
+
+Fourth, a patients' bill of rights should offer patients who have been harmed a meaningful remedy, without inviting frivolous lawsuits. After independent review, if you have been harmed by your HMO's refusal to provide care, you have a legitimate complaint, and you should have recourse in court. {APPLAUSE} With a strong, independent review process, most disagreements should not wind up in court. Our federal legislation must allow the review process to work, not short-circuit it by inviting unnecessary lawsuits. With strong independent review, doctors make medical decisions; not the lawyers. {APPLAUSE} 
+
+The fifth guideline for a patients' bill of rights ensures that Americans will have access to affordable health care coverage. I want to sign protections that improve medical care, not make it impossible for patients to afford it, or employers to provide coverage. Excess and frivolous litigation does harm to our health care system. It clogs the courts and consumes time and money. It undermines the trust between doctor and patient. It drives up insurance premiums for everyone. 
+
+We've enacted civil justice reforms in Texas to guard against frivolous litigation and excessive awards. To make sure health care coverage remains affordable, I will insist any federal bill have reasonable caps on damage awards. And the caps in proposed legislation before Congress are too high, and will drive up the costs of health care in America. {APPLAUSE} 
+
+To encourage employers to continue to provide health care insurance for their employees, we must protect them from unnecessary litigation. Some proposals now before Congress fail to adequately address this problem, and would even make it worse. Employers who decide up front they will not make medical decisions should not be required to go to court all the time to prove they were not involved in those decisions. And I will not support a federal law that subjects employers to new multiple lawsuits in 50 different states. 
+
+With these principles as our guide, I believe we can enact a patients' bill of rights in the Congress this year. This issue has been debated in Washington time and time again. Over the years, alliances have been formed, and divisions have deepened. I hope members of Congress will join me in advancing this debate beyond the arguments of the past. 
+
+Just as doctors no longer treat heart disease with bed rest, we should not approach this year's patients' bill of rights stuck in last year's rut. Just as innovative approaches in medicine spur new breakthroughs, a new approach in Washington offers the hope that we will share the credit for success. Americans deserve comprehensive patient protections; and a new, common-sense approach may be just what the doctor ordered. 
+
+On this issue, the rewards are far greater than shared political success. The real reward will be knowing that we have helped put the healing powers of modern medicine within the reach of all who need them. Each of you holds that incredible power and upholds a great trust. 
+
+I appreciate the important work you do. You have my gratitude and my respect. And in the days ahead, I hope my plans for reform will have your support. Thank you for having me. 
+
+God bless. God bless America. Thank you all. {APPLAUSE} 
+
+{/speech} 

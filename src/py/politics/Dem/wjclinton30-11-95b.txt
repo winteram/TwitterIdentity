@@ -1,0 +1,26 @@
+﻿{title} Remarks by the President in Discussion with Entrepreneurs and Managers of Business Parks from Across Belfast {/title}
+{event} East Belfast Enterprise Park, Belfast, Northern Ireland {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 30, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, first of all, I want to thank all of you, all the panelists and Mr. Thompson and your MP for the fine things that have been said. And I thank you for quoting the King James version of the Bible. I read all the more modern ones, and sometimes they're easier to understand, but they're not nearly as eloquent. So King James is still my favorite, too.
+
+I would like to make just three points very briefly. First, in the presence of the members of Congress who are here, I want to thank them for funding the International Fund for Ireland. In the United States, it was really a congressional initiative. For many years, the President -- until I became President, no President ever even made a recommendation to spend the money because it was thought to be unusual. But I can tell you, now, even though this connection was never made before, we fund programs through the Agency for International Development around the world in countries much poorer than Northern Ireland which are essentially trying to do the same things.
+
+We know now that if you really want to grow jobs in places where there's not a lot of capital, you have to set up a mechanism for getting capital into entrepreneurial people who may be in one or two or three or four or five-person businesses. And if you do it right, you can create an enormous, enormous number of successful businesses, and in so doing, create the demand for the products and services that will be produced.
+
+So I think what you are doing here is really an extraordinary thing. And I want to thank the members of Congress who have consistently supported the International Fund for Ireland who are here, and to say that I hope, frankly, that you will become, as we move forward down the road to peace -- and Senator Mitchell and the others who worked so hard on the investment conference over on our side of the ocean -- and you enjoy more success, I hope you will become a model for a lot of other countries as well who are struggling to build a system of free enterprise and give their energetic people the kinds of opportunities that you have found.
+
+We see it even in our own country -- some places that others had given up on, thought -- where there would never be any economic opportunity there again -- the most successful thing that has been done even in our own country is starting things like the International Fund for Ireland. But it works better here, what you are doing through these community groups, than almost any other place that I'm aware of in the world.
+
+And you said it yourself, sir. I think you said you have in this consortium 200 companies with 900 employees; that's an average number of employees somewhere between four and five. But if you look at the cost -- what did you say -- 13.5 million pounds -- I think I can still do exchange rates, even though I've been -- Presidents are disabled from all practical things. {LAUGHTER} They don't get to buy food or drive cars or exchange money, but that's pretty low cost per job creation. And so I think that's very, very important. And I applaud all of you for what you're doing.
+
+The second point I want to make is that the cease-fire, I'm convinced, made possible a lot of this growth. And some of you have said that. And you talked about how -- it's also changing the whole image of Northern Ireland. One of the things that I hope will come out of my trip here today is that people who have never been here will see the country in a different life. We owe that to the media, but people all over the world will be seeing this trip tonight. And they will see your whole country in a different light. They will see people like you; they will see on television. They will say, those are the kind of people I wouldn't mind being involved with. And I think that will help. But it's a real argument for continuing the peace.
+
+And the third thing I would say is that -- you might want to ask Senator Mitchell to comment on this -- is the conference we had -- the Washington Conference -- last May. I think it's important to do more things like that, not just in the United States, but elsewhere, so that people are aware, in a tangible way, of the grass-roots -- not only the grass-roots commitment to peace, but the extraordinary array of competence, the abilities, the ideas, that are coming out of here. Because I think -- and I think as you do that, you'll become more integrated into the global economy in a positive way and it will be more difficult for anyone to turn the clock back on you. 
+
+{/speech}

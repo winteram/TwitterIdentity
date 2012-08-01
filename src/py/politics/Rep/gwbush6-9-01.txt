@@ -1,0 +1,54 @@
+﻿{title} Presidents Bush, Fox Conclude State Visit {/title}
+{event} State Visit, Savage Hall, University of Toledo, Toledo, Ohio {/event}
+{speaker} George W. Bush {/speaker}
+{date} September 6, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} Remarks by President Bush and President Vicente Fox of Mexico to University of Toledo Faculty, Students and Community Groups {/description}
+
+{speech}
+
+Thank you all very much. Governor, thank you very much. It's a great honor to be back in Ohio. Today, I come bringing a special visitor, un amigo de mio y tambien un amigo de los Estados Unidos. {APPLAUSE} It's an honor to bring a good friend of mine and a friend of our country, President Vicente Fox, to Ohio. I have the honor of introducing him. But before I do so, I wanted to introduce him to Ohio.
+
+Mr. President, Ohio is an extraordinary state. It's a state full of decent and compassionate and hard-working people. {APPLAUSE} Not all the wisdom exists in Washington, D.C. {APPLAUSE} There's a lot of wisdom in towns like Toledo, Ohio. And it was my honor that the President had accepted not only the invitation for the first state dinner I had as your President, but agreed to travel with me to the heartland. So I want to thank you all for a warm welcome. {APPLAUSE}
+
+I want to thank so very much the leadership of the University of Toledo and the students who are here, the faculty that have made this event possible. Thank you for your hospitality. Mr. Mayor, thank you for your hospitality, as well. It's a thrill to be traveling with members of the United States congressional delegation, some of whom do what I tell them to do -- {LAUGHTER ; APPLAUSE} -- some of whom are a little hard to persuade, but all of whom love America. {APPLAUSE} And all of whom bring honor to the office they hold. Thank you all very much for coming with me today. {APPLAUSE}
+
+I'm very proud to be traveling with one of my Cabinet Secretaries, a man who is doing a fabulous job at HUD. His name is Mel Martinez. When he was a young boy, his mother and daddy put him on a boat -- I guess it was an airplane -- to come to America from Cuba. They weren't ever sure whether they would see him again. They were sure, however, they were sending him to a place that loved freedom, a place where you can be anything you want to be in America. Today, this good man is in the Cabinet. It shows what a wonderful country we have and shows what a great man Mel Martinez is. Thank you for coming, Mel. {APPLAUSE}
+
+We've got distinguished members from the Mexican delegation traveling with us. We've got ambassadors traveling with us. And we've even got the Treasurer of the United States traveling with us. My friend, Rosario Marin, is now the Treasurer of this great country. Please welcome her and all of the members of the Mexican delegation, as well. {APPLAUSE}
+
+We just had a really good visit in Washington. It was a commitment to friendship. It's important for my fellow Americans to understand my foreign policy, and it starts with this: Good foreign policy says you want your neighborhood to be peaceful and prosperous. A good foreign policy starts with being friends with your neighbors. We're friends with our neighbors to the North, and we're very good friends with our neighbors to the South, the Mexicanos. {APPLAUSE}
+
+Friends hold each other with respect, treat each other with respect and hold each other in high esteem. And the speaker I'm going to introduce is a man I hold in high esteem. Friends are willing to have honest dialogue. And we've had a series of honest dialogues over the last 24 hours, had a frank discussion.
+
+But this isn't our first discussion; we've been discussing common opportunities and common problems for months. And as a result, our relationship has never been better and never been stronger.
+
+I know there are some in this world and our country who want to build walls between Mexico and the United States. I want to remind people, fearful people build walls. Confident people tear them down. And I'm confident that a strong relationship -- {APPLAUSE} -- and I'm confident that good neighbors and a strong relationship is in our nation's best interests. I've seen it firsthand -- trade between Mexico and the United States has grown to a quarter of a trillion dollars. That means jobs in the United States and as importantly, that means jobs in Mexico.
+
+There's a lot of discussion about trade. I can't tell you how hopeful trade is and how important it is. It's not only important for job-seeking Americans, it's incredibly important for Mexico to grow and to prosper, to develop a middle class for people in Mexico to be able to find work close to home.
+
+Oh, I know there's a lot of talk about Mexican laborers coming to the United States. But I want to remind my fellow citizens of this fact: Family values do not stop at the Rio Bravo. There are mothers and dads in Mexico who love their children just as much as mothers and dads in America do. And if there are a mother or dad who can't find work, worried about food on the table, they're going to come and find work in America.
+
+And what we want to do is to have a trading relationship that encourages job creation in America, but job creation in Mexico, as well. We want Mexico to grow a middle class so the citizens of Mexico can find work to feed their families just like the citizens of America can find work to feed their families. {APPLAUSE} We're talking about migration issues. It's a complex subject, but one that this country of ours must confront and have an open dialogue about. And we've made good progress on that important issue.
+
+I want to tell you, President Fox is doing everything in his power to fight crime and drugs; and we're cooperating with him. But I also want to remind my fellow Americans it's important to fight the supply of drugs. But we have an obligation inside this country to fight to reduce the demand for drugs, as well. We need to tell our children, don't use drugs. Make the right choices in life. {APPLAUSE}
+
+We're working hard on environmental issues on our border. But our fellow citizens must understand that there's more than just economics that is important, or crime-fighting that's important in our relationship with Mexico.
+
+We share values with Mexico. They're common values -- values that unite people, whether they live in the United States or whether they live in Mexico. And what are those values? Faith. The strong value of faith exists in our country. As a matter of fact, I think it's the strength of America in many ways, and it exists in Mexico as well. The love of family. It's incredibly important for the future of our country. It's a strong value in the Mexican culture.
+
+The willingness to work hard. America is known for our ability to work hard. Think about the Mexican worker who walks 500 miles across a desert to find work. Those are hard-working citizens. We share that very important value of people willing to roll up their sleeves and work hard. No, we've got incredibly important relationship. It starts with leaders being willing to have open dialogue.
+
+We've got something in common, by the way, that you probably haven't thought about. President Fox's grandfather was raised in Cincinnati, Ohio. My grandfather was raised in Columbus, Ohio. {APPLAUSE} I guess you could kind of say we're Ohioans. {APPLAUSE} Except it's kind of hard to tell by our accents. {LAUGHTER}
+
+Not only do we share background, we share love for our respective countries. The first trip I took to foreign soil was to Guanajuato, Mexico, to visit President Fox on his ranch. By the way, I kind of like going to mine on occasion, too. And this is a man deeply committed to his country. He loves the people of Mexico. And I hope by now there's no question that I love the people of America, as well. {APPLAUSE}
+
+President Fox and I share the desire to do what we think is right for our countries. I think both of us are tired of the policy driven by polls and focus groups. I don't need a poll and focus group to tell me what to think and where to go, and neither does he. {APPLAUSE} We both are doing in office what we said we would do. I told the people, by the way, that if they gave me the chance to be the president, the first thing I would do is remember whose taxpayers' money we're talking about when we're talking about budgets. The tax money up in Washington, that's not the government's money, it is the people's money, and I'm proud to report we've got the largest tax relief package in a generation. {APPLAUSE}
+
+We both are dedicated to educating -- to making sure our children are educated. President Fox shares the same passion I do about good schools and good quality education. He knows what I know -- that an educated child is one much more likely to be able to realize the dreams of our respective countries. That's why I'm hopeful Congress will quit talking about an education bill, get one out of conference committee, so I can sign a good reform package to make sure public education fulfills the promise of our schools. {APPLAUSE}
+
+One of the things in Texas we like to say -- here's a good man. I hope that sums up how I feel about our speaker and guest. This guy is a good man, un buen hombre.
+
+Ladies and gentlemen, please welcome el Presidente de Republicano de Mexico, Vicente Fox. {APPLAUSE}
+
+{/speech}

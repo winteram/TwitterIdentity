@@ -1,0 +1,23 @@
+﻿{title} Remarks By The President In Statement To The Press Following House Vote On Budget {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 27, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+For a long time now, the American people have wondered whether their government in Washington could ever really work for them again, ever really face the tough problems. 
+
+Well, tonight the House of Representatives gave America a victory of growth over gridlock. Tonight, the House showed courage and conviction. Tonight, the House made hard choices. To cut a quarter of a billion dollars in spending. To ask those most able to pay -- the wealthy -- to do more to reduce our deficit. To increase incentives to invest and create jobs in the private sector. And to provide the incentives to make people at the bottom rungs of the economy prefer work over welfare. 
+
+Tonight, the House said "no" to gridlock, "no" to the status quo, and "no" to the special interests who worked so very hard to frighten millions of Americans about this program. Tonight, the House said "yes" to jobs, "yes" to lowering the deficit, "yes" to lower interest rates, "yes" to a brighter future. {APPLAUSE} 
+
+Tomorrow, we go on to the Senate and we go back to the country. We have broken the gridlock. We are taking responsibility for the future. We are dealing with the tough problems. I am very, very proud of the people who tonight cast a very tough vote in a hard environment for a better tomorrow for America. 
+
+Thank you very much. {APPLAUSE} 
+
+
+
+{/speech} 

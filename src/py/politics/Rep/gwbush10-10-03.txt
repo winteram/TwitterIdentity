@@ -1,0 +1,53 @@
+﻿{title} President Bush Discusses Cuba Policy in Rose Garden Speech {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} October 10, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Hola. Sientese. Thank you for coming. Welcome to the Rose Garden. It's my honor to host you for an important policy announcement. 
+
+I'm proud to be joined by our great Secretary of State Colin Powell and a son of Cuba, a graduate of the Pedro Pan program -- {APPLAUSE} -- Mel Martinez. {APPLAUSE} I'm also pleased to be joined with other members who will be -- of my administration who will be charged with implementing policy. From the Department of Homeland Security, Under Secretary Asa Hutchinson is with us today. {APPLAUSE} From the Treasury Department, Rick Newcomb, Director of the Office of Foreign Asset Control, is with us today. Rick, thank you for coming. {APPLAUSE} Assistant Secretary for the Western Hemisphere, Roger Noriega is with us today. {APPLAUSE} Y, por fin, from my staff, Envoy Otto Reich. {APPLAUSE} 
+
+As well, we're honored to have distinguished members of the Congress with us, starting with the very capable and able Senator from the state of Virginia, George Allen. {APPLAUSE} Bienvenidos, Jorge. {LAUGHTER} From the state of Florida, Congressman Lincoln Diaz-Balart. {APPLAUSE} Y su hermano, Congressman Mario Diaz-Balart. {APPLAUSE} Ileana Ros-Lehtinen. {APPLAUSE} And Porter Goss. Thank you for coming. I'm honored you all are here. {APPLAUSE} 
+
+The Secretary mentioned to me that Bob Dole is with us. Bob Dole is not with us. 
+
+One hundred and thirty-five years ago today, the struggle for Cuban freedom began at a sugar mill near Manzanillo. Carlos Manuel de Cespedes -- known as the Father of the Homeland -- led an uprising against colonial rule. Today, the struggle for freedom continues -- it hasn't ended -- in cities and towns of that beautiful island, in Castro's prisons, and in the heart of every Cuban patriot. It is carried on by brave dissidents like Oscar Elias Biscet, Marta Beatriz Roque, Leonardo Bruzon Avila. 
+
+Last year in Miami, I offered Cuba's government a way forward -- a way forward toward democracy and hope and better relations with the United States. I pledged to work with our Congress to ease bans on trade and travel between our two countries if -- and only if -- the Cuban government held free and fair elections, allowed the Cuban people to organize, assemble and to speak freely, and ease the stranglehold on private enterprise. 
+
+Since I made that offer, we have seen how the Castro regime answers diplomatic initiatives. The dictator has responded with defiance and contempt and a new round of brutal oppression that outraged the world's conscience. 
+
+In April, 75 peaceful members of Cuban opposition were given harsh prison sentences, some as long a 20 years. Their crimes were to publish newspapers, to organize petition drives, to meet to discuss the future of their country. Cuba's political prisoners subjected to beatings and solitary confinement and the denial of medical treatment. Elections in Cuba are still a sham. Opposition groups still organize and meet at their own peril. Private economic activity is still strangled. Non-government trade unions are still oppressed and suppressed. Property rights are still ignored. And most goods and services produced in Cuba are still reserved for the political elites. 
+
+Clearly, the Castro regime will not change by its own choice. But Cuba must change. So today I'm announcing several new initiatives intended to hasten the arrival of a new, free, democratic Cuba. {APPLAUSE} 
+
+First, we are strengthening re-enforcement of those travel restrictions to Cuba that are already in place. {APPLAUSE} U.S. law forbids Americans to travel to Cuba for pleasure. That law is on the books and it must be enforced. We allow travel for limited reasons, including visit to a family, to bring humanitarian aid, or to conduct research. Those exceptions are too often used as cover for illegal business travel and tourism, or to skirt the restrictions on carrying cash into Cuba. We're cracking down on this deception. 
+
+I've instructed the Department of Homeland Security to increase inspections of travelers and shipments to and from Cuba. We will enforce the law. {APPLAUSE} We will also target those who travel to Cuba illegally through third countries, and those who sail to Cuba on private vessels in violation of the embargo. 
+
+You see, our country must understand the consequences of illegal travel. All Americans need to know that foreign-owned resorts in Cuba must pay wages -- must pay the wages of their Cuban workers to the government. A good soul in America who wants to be a tourist goes to a foreign-owned resort, pays the hotel bill -- that money goes to the government. The government, in turn, pays the workers a pittance in worthless pesos and keeps the hard currency to prop up the dictator and his cronies. Illegal tourism perpetuates the misery of the Cuban people. And that is why I've charged the Department of Homeland Security to stop that kind of illegal trafficking of money. {APPLAUSE} 
+
+By cracking down on the illegal travel, we will also serve another important goal. A rapidly growing part of Cuba's tourism industry is the illicit sex trade, a modern form of slavery which is encouraged by the Cuban government. This cruel exploitation of innocent women and children must be exposed and must be ended. {APPLAUSE} 
+
+Second, we are working to ensure that Cubans fleeing the dictatorship do not risk their lives at sea. My administration is improving the method through which we identify refugees, and redoubling our efforts to process Cubans who seek to leave. We will better inform Cubans of the many routes to safe and legal entry into the United States through a public outreach campaign in southern Florida and inside Cuba itself. We will increase the number of new Cuban immigrants we welcome every year. {APPLAUSE} We are free to do so, and we will, for the good of those who seek freedom. Our goal is to help more Cubans safely complete their journey to a free land. 
+
+Third, our government will establish a Commission for the Assistance to a Free Cuba, to plan for the happy day when Castro's regime is no more and democracy comes to the island. This commission will be co-chaired by the Secretary of State, Colin Powell; and the Secretary of Housing and Urban Development, Mel Martinez. They will draw upon experts within our government to plan for Cuba's transition from Stalinist rule to a free and open society, to identify ways to hasten the arrival of that day. {APPLAUSE} 
+
+The transition to freedom will present many challenges to the Cuban people and to America, and we will be prepared. America is not alone in calling for freedom inside of Cuba. Countries around the globe and the United Nations Human Rights Commission increasingly recognize the oppressive nature of the Castro regime, and have denounced its recent crackdowns. We will continue to build a strong international coalition to advance the cause of freedom inside of Cuba. 
+
+In addition to the measures I've announced today, we continue to break the information embargo that the Cuban government has imposed on its people for a half a century. Repressive governments fear the truth, and so we're increasing the amount and expanding the distribution of printed material to Cuba, of Internet-based information inside of Cuba, and of AM-FM and shortwave radios for Cubans. 
+
+Radio and TV Marti are bringing the message of freedom to the Cuban people. This administration fully recognizes the need to enhance the effectiveness of Radio and TV Marti. Earlier this year, we launched a new satellite service to expand our reach to Cuba. On May 20th, we staged the historic flight of Commando Solo, an airborne transmission system that broke through Castro's jamming efforts. Tyrants hate the truth; they jam messages. And on that day, I had the honor of speaking to the Cuban people in the native language. 
+
+It's only the beginning of a more robust effort to break through to the Cuban people. This country loves freedom and we know that the enemy of every tyrant is the truth. We're determined to bring the truth to the people who suffer under Fidel Castro. {APPLAUSE} 
+
+Cuba has a proud history of fighting for freedom, and that fight goes on. In all that lies ahead, the Cuban people have a constant friend in the United States of America. No tyrant can stand forever against the power of liberty, because the hope of freedom is found in every heart. So today we are confident that no matter what the dictator intends or plans, Cuba sera pronto libre. {APPLAUSE} 
+
+De nuevo, Cuba libre. Thank you all. {APPLAUSE} 
+
+{/speech} 

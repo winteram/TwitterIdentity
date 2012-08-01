@@ -1,0 +1,42 @@
+﻿{title} Remarks by the Vice President at Groundbreaking Ceremony for the E. Barrett Prettyman Courthouse {/title}
+{event} E. Barrett Prettyman U.S. Courthouse, Washington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} April 8, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, thank you very much, Mr. Chief Justice; Chief Judges Ginsburg and Hogan; judges of the district and circuit courts; Delegate Norton; ladies and gentlemen. I'm delighted to join all of you here today for today's ceremony.
+
+Usually, when a crowd gathers outside this building, somebody is in trouble. {LAUGHTER} Today is a happy exception: we're here to break ground on an annex to this fine, old structure. The U.S. Courts Building does not really stand out in the Washington landscape. It's not known for special style or flare or extravagance; nothing at all flashy about it. In short, the perfect place for a joint appearance by Dick Cheney and Bill Rehnquist. {LAUGHTER}
+
+The E. Barrett Prettyman Courthouse is named for one of many distinguished jurists to pass through here in a half-century. Others, of course, included David Bazelon, Burnita Matthews, Warren Burger, Robert Bork; current Justices Antonin Scalia, Clarence Thomas and Ruth Bader Ginsburg. Those names represent varying judicial philosophies. Together, they reflect a single standard of excellence and integrity that is maintained to this day.
+
+Here and in courthouses across America, federal judges go about the hard and serious work of delivering justice. I'm sure many of you will attest that the rewards do not come in wealth, for even the most experienced judge, the job requires daily discipline, sustained concentration, a searching mind and alert conscience.
+
+Judges are given a great deal of authority and, with it, a great deal of responsibility. The highest rewards come in discharging that responsibility with honor, impartiality and humanity. You do that job well and you have the nation's gratitude.
+
+The federal courts of the District of Columbia are among the most important in the land. And the trials and appeals conducted here are among the nation's most high-profile cases. By statute, appeals for many Agency decisions are taken directly to the courthouse. And under a law signed by President Bush after the attacks of last September 11th, the D.C. Circuit will be the exclusive venue for appeals in certain matters involving alleged terrorists.
+
+The addition of new work space here reminds us of the increasing demands on our federal judiciary and the enormous importance of its work to the nation. President Truman at this site in 1950, as the cornerstone was laid, said that afternoon, "One of the most important duties of the President of the United States is to appoint federal judges. I give that more thought, more care and more deliberation than most any other thing I do in my duties."
+
+President Bush views his responsibilities the same way. Judicial nominees must be men and women of experience, meeting the highest standards of legal training, temperament and judgment. They must respect the powers given them under the Constitution and the limits of those powers. And they should be lawyers of skill, discernment and high character.
+
+Just under a year ago, the President announced his first nominees for the federal bench. Yet, of these 11 men and women, only three have been granted a hearing in the United States Senate. All of the others are still awaiting confirmation hearings, including two superbly qualified nominees to the D.C. Circuit, John Roberts and Miguel Estrada.
+
+As we begin the work of expanding this building, it's worth remembering that a courthouse is not a court. Only judges make a court, and one-third of the seats on this circuit court are empty today. For another court of appeals, the 6th Circuit, covering Ohio, Michigan, Kentucky and Tennessee, seven Presidential nominees still await hearings. That court sits half empty, with eight active judges doing the work of 16.
+
+Nationwide, nearly a hundred district and circuit judgeships are unfilled, and 40 of them have been classified as judicial emergencies. The President is committed to filling them and has submitted to the Senate the names of 98 nominees. Yet, there are today more judicial vacancies than on the day we were inaugurated. The pace of attrition is actually faster than the pace of the Senate confirmation process.
+
+The Senate's delays are causing a vacancy crisis and they are inexcusable, endangering the quality of justice in the federal courts. As a matter of respect for the judicial branch, and courtesy to the executive branch, and simple fairness to the nominees themselves, the Senate should do its duty and give a prompt hearing and vote to every person selected for this and other courts.
+
+Perhaps this construction project, within sight of the Capitol, will stir the Senate and cause new judges to arrive here. As a friend of mine said, "Maybe if you build it, they will come." {LAUGHTER}
+
+Every judge here today holds his or her post because that simple consideration was given to them. They have reflected credit on the President's of both parties who selected them, on the senators of both parties who confirmed them. This morning I want to thank one, in particular, Judge Harry Edwards, for his diligent efforts as Chief Judge in getting the building annex underway.
+
+In the years and the decades to come, all who work here will follow in the finest traditions. I am certain that the best legal talent America can produce will be collected here for as long as these buildings stand.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

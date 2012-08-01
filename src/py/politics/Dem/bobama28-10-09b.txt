@@ -1,0 +1,43 @@
+﻿{title} Remarks by the President at Reception Commemorating the Enactment of the Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act {/title}
+{event} Reception Commemorating the Enactment of the Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act {/event}
+{speaker} Barack Obama {/speaker}
+{date} October 28, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you so much, everybody. Thank you so much, and welcome to the White House.
+
+There are several people here that I want to just make mention of because they helped to make today possible. We've got Attorney General Eric Holder. {APPLAUSE} A champion of this legislation, and a great Speaker of the House, Nancy Pelosi. {APPLAUSE} My dear friend, senior Senator from the great state of Illinois, Dick Durbin. {APPLAUSE} The outstanding Chairman of Armed Services, Carl Levin. {APPLAUSE} Senator Arlen Specter. {APPLAUSE} Chairman of the Judiciary Committee in the House, Representative John Conyers. {APPLAUSE} Representative Barney Frank. {APPLAUSE} Representative Tammy Baldwin. {APPLAUSE} Representative Jerry Nadler. {APPLAUSE} Representative Jared Polis. {APPLAUSE} All the members of Congress who are here today, we thank you.
+
+Mr. David Bohnett and Mr. Tom Gregory and the David Bohnett Foundation -- they are partners for this reception. Thank you so much, guys, for helping to host this. {APPLAUSE}
+
+And finally, and most importantly, because these were really the spearheads of this effort -- Denis, Judy, and Logan Shepard. {APPLAUSE} As well as Betty Byrd Boatner and Louvon Harris -- sisters of James Byrd, Jr. {APPLAUSE}
+
+To all the activists, all the organizers, all the people who helped make this day happen, thank you for your years of advocacy and activism, pushing and protesting that made this victory possible.
+
+You know, as a nation we've come far on the journey towards a more perfect union. And today, we've taken another step forward. This afternoon, I signed into law the Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act. {APPLAUSE}
+
+This is the culmination of a struggle that has lasted more than a decade. Time and again, we faced opposition. Time and again, the measure was defeated or delayed. Time and again we've been reminded of the difficulty of building a nation in which we're all free to live and love as we see fit. But the cause endured and the struggle continued, waged by the family of Matthew Shepard, by the family of James Byrd, by folks who held vigils and led marches, by those who rallied and organized and refused to give up, by the late Senator Ted Kennedy who fought so hard for this legislation -- {APPLAUSE} -- and all who toiled for years to reach this day.
+
+You understood that we must stand against crimes that are meant not only to break bones, but to break spirits -- not only to inflict harm, but to instill fear. You understand that the rights afforded every citizen under our Constitution mean nothing if we do not protect those rights -- both from unjust laws and violent acts. And you understand how necessary this law continues to be.
+
+In the most recent year for which we have data, the FBI reported roughly 7,600 hate crimes in this country. Over the past 10 years, there were more than 12,000 reported hate crimes based on sexual orientation alone. And we will never know how many incidents were never reported at all.
+
+And that's why, through this law, we will strengthen the protections against crimes based on the color of your skin, the faith in your heart, or the place of your birth. We will finally add federal protections against crimes based on gender, disability, gender identity, or sexual orientation. {APPLAUSE} And prosecutors will have new tools to work with states in order to prosecute to the fullest those who would perpetrate such crimes. Because no one in America should ever be afraid to walk down the street holding the hands of the person they love. No one in America should be forced to look over their shoulder because of who they are or because they live with a disability.
+
+At root, this isn't just about our laws; this is about who we are as a people. This is about whether we value one another
+-- whether we embrace our differences, rather than allowing them to become a source of animus. It's hard for any of us to imagine the mind-set of someone who would kidnap a young man and beat him to within an inch of his life, tie him to a fence, and leave him for dead. It's hard for any of us to imagine the twisted mentality of those who'd offer a neighbor a ride home, attack him, chain him to the back of a truck, and drag him for miles until he finally died.
+
+But we sense where such cruelty begins: the moment we fail to see in another our common humanity -- the very moment when we fail to recognize in a person the same fears and hopes, the same passions and imperfections, the same dreams that we all share.
+
+We have for centuries strived to live up to our founding ideal, of a nation where all are free and equal and able to pursue their own version of happiness. Through conflict and tumult, through the morass of hatred and prejudice, through periods of division and discord we have endured and grown stronger and fairer and freer. And at every turn, we've made progress not only by changing laws but by changing hearts, by our willingness to walk in another's shoes, by our capacity to love and accept even in the face of rage and bigotry.
+
+In April of 1968, just one week after the assassination of Martin Luther King, as our nation mourned in grief and shuddered in anger, President Lyndon Johnson signed landmark civil rights legislation. This was the first time we enshrined into law federal protections against crimes motivated by religious or racial hatred -- the law on which we build today.
+
+As he signed his name, at a difficult moment for our country, President Johnson said that through this law "the bells of freedom ring out a little louder." That is the promise of America. Over the sounds of hatred and chaos, over the din of grief and anger, we can still hear those ideals -- even when they are faint, even when some would try to drown them out. At our best we seek to make sure those ideals can be heard and felt by Americans everywhere. And that work did not end in 1968. It certainly does not end today. But because of the efforts of the folks in this room -- particularly those family members who are standing behind me -- we can be proud that that bell rings even louder now and each day grows louder still.
+
+So thank you very much. God bless you and God bless the United States of America. {APPLAUSE} 
+
+{/speech}

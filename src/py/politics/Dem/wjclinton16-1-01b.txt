@@ -1,0 +1,74 @@
+﻿{title} Remarks by the President at Medal of Honor Ceremony {/title}
+{event} The Roosevelt Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 16, 2001 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech}
+
+Good morning, and please be seated. I would like to first thank Chaplain General Hicks for his invocation; and welcome the distinguished delegation from the Pentagon who are here -- Secretary Cohen, General Shelton, Deputy Secretary DeLeon. I thank the members of Congress who are here -- Senator Dorgan, Senator Durbin, Representatives King, Skelton, Weller, and Whitfield; former Representatives Lazio and McHale; members of the Smith and Roosevelt families.
+
+In 1782, George Washington created the Badge of Military Merit. It was the first medal awarded by our nation's Armed Forces. But soon it fell into oblivion, and for decades no new medals were established. It was thought that a medal was too much like a European aristocratic title, while to fight for one's country in America was simply doing your democratic duty.
+
+So when the Medal of Honor was instituted during the Civil War it was agreed it would be given only for gallantry, at the risk of one's life above and beyond the call of duty. That's an extraordinarily high standard, one that precious few ever meet. The Medal of Honor is our highest military decoration, and we are here today to honor two American heroes who met that mark.
+
+The first is Andrew Jackson Smith, United States Army. Then Corporal Smith served as a part of the 55th Massachusetts Voluntary Infantry, a black regiment that fought in the Civil War. In late 1864, they were part of a Union effort to cut off the Savannah-Charleston railroad link and keep Confederate forces from interfering with Sherman's march to the sea.
+
+On November 30th, the 55th was one of several units that tried to take a 25-foot rise called Honey Hill, close to Boyd's Landing in South Carolina. The Confederate troops had an elevated position, the advantage of surprise and fortified entrenchments. So, as the 5,000 Union troops advanced through the 300 yards of swamp to get to the road leading up Honey Hill, they found themselves walking into a slaughter.
+
+The commanding officer, Colonel Alfred Hartwell, wrote, "The leading brigade had been driven back when I was ordered in with mine. I was hit first in the hand, just before making a charge. Then my horse was killed under me, and I was hit afterward several times. One of my aides was killed and another was blown from his horse. During the furious fight the color bearer was shot and killed, and it was Corporal Andrew Jackson Smith who would retrieve and save both the state and federal flags."
+
+Now, to understand what Corporal Smith did that day you have to know that in the Civil War the color bearer was kept in front of advancing troops, and was a known, conspicuous target for the other side. The enemy fought hard for your colors and units that lost them suffered serious loss of morale. Having them held high gave a unit the courage to carry on. Eighty Medals of Honor have been awarded to soldiers who saved their unit's colors during the Civil War.
+
+Local legend says that the sandy soil of Honey Hill was literally soaked in Union blood on November 30, 1864 -- that, "one could walk on the dead for over a mile without touching the road." In one five-minute span, the 55th alone is said to have lost over 100 men. But they never lost their colors, because Corporal Smith carried them through the battle, exposing himself as the lead target.
+
+Like so many African Americans who served in the Civil War, the soldiers of the 55th were only reluctantly accepted by their own Union army. Their units were segregated; they were paid less than white soldiers; they were commanded by white officers who mostly wanted to use them as garrison and labor battalions. So their first battle was the fight just to see battle. But given the opportunity, they fought with intensity that only high purpose and conviction can sustain. And they did it knowing they risked almost certain death or enslavement if captured by Confederate forces.
+
+After the war, Andrew Jackson Smith lived out the rest of his days near Grand Rivers, Kentucky, where he was a leader in the community until his death in 1932. He was first nominated for the Medal of Honor -- listen to this -- in 1916. But the Army claimed, erroneously, that there were no official records to prove his story and his extraordinary acts of courage. It's taken America 137 years to honor his heroism.
+
+We are immensely honored to have with us today eight of his family members, including Andrew Bowman, here to receive the Medal of Honor on behalf of his grandfather; and Mrs. Caruth Smith Washington, Andrew Jackson Smith's daughter, and a very young 93. {APPLAUSE}
+
+I want to say to all the members of the Smith family, sometimes it takes this country a while, but we nearly always get it right in the end. I am proud that we finally got the facts and that, for you and your brave forebear, we're finally making things right.
+
+Major, please read the citation.
+
+{COMMENT="The citation is read"} {APPLAUSE}
+
+The second Medal of Honor I award today is for the bravery of Lt. Colonel Theodore Roosevelt on July 1, 1898. That was the day he led his volunteer troops, the Rough Riders, in taking San Juan Hill, which changed the course of the battle and the Spanish-American War.
+
+We are greatly honored to be joined today by members of the Roosevelt family, including Tweed Roosevelt, here to accept the Medal of Honor on behalf of his great-grandfather.
+
+This is the 37th Medal of Honor I have presented, but the first I presented in the recipient's old office -- {LAUGHTER} -- in front of a portrait of him in full battle gear. It is a tradition in the Roosevelt Room that when a Democrat is in the White House, a portrait of Franklin Roosevelt hangs above the mantle, and when a Republican is here, Teddy Roosevelt occupies the hallowed spot. I chose to break with the tradition these last eight years because I figured if we could have even half the luck and skill leading America into the 21st century that Theodore Roosevelt did in leading America into the 20th century, our nation would do just fine.
+
+TR was a larger-than-life figure who gave our nation a larger-than-life vision of our place in the world. Part of that vision was formed on San Juan Hill. His Rough Riders were made up of all kinds of Americans from all walks of life. They were considered unpolished and undisciplined, but they were true citizen soldiers. By taking San Juan Hill, eventually they forced the enemy fleet into the Battle of Santiago Bay, where it was routed. This led to the Spanish surrender and opened the era of America as a global power.
+
+Twenty-two people won the Medal of Honor for actions that day. Two high-ranking military officers who had won the Medal of Honor in earlier wars and who saw Theodore Roosevelt's bravery recommended him for the medal, too. For some reason, the War Department never acted on the recommendation. Some say he didn't get it because of the bias the War Department had against volunteers. Others say it was because he ran afoul of the Secretary of War, who after the war was reluctant to allow the return of a number of American servicemen afflicted with Yellow Fever. Roosevelt publicly called for America to bring its heroes home, where they had a far better chance to recover. The administration had to reverse course and it proved embarrassing to the Secretary.
+
+But while opinions about why he didn't receive the medal are mixed, opinion that he should have received it long ago is unanimous. So here in this room will stand two great bookends to his wide-ranging life -- the Medal of Honor, America's highest honor for warriors; and the Nobel Peace Prize, the world's highest honor for peacemakers, which he won for his role in settling the Russo-Japanese War of 1905.
+
+This is a remarkable day, and I can't help but noting that for historical buffs, Theodore Roosevelt's son was the oldest man who landed on the beaches at Normandy on D-Day, where he also won the Medal of Honor. Tragically, he died shortly after that, in his uniform doing his duty.
+
+We are profoundly grateful as Americans for this remarkable family. And I am honored that I had the chance before I left office to correct what I think is a significant historical error.
+
+I'd also like to thank all these people from New York who are in the Congress, and other people from other states who did their part to see that it was done. And I thank all of you, too.
+
+Nearly a hundred years ago, standing in this place -- I suppose I should also say this -- the reason this was Theodore Roosevelt's office is that all the offices of the President were in the old White House, until Teddy Roosevelt became President. But the country was bustling and growing and so was his family. He had five kids, and no place to work over there. His children were rambunctious like him. They even let goats and other animals run through the White House during regular time.
+
+And so they built the West Wing in 1902, believe it or not, as a temporary structure. But no one ever had the courage to go back to Congress again and ask for money to do it right. So it's held up pretty well for the last 99 years. And that's why this was President Theodore Roosevelt's office.
+
+Here's what he said, way back then: "We know there are dangers ahead, as we know there are evils to fight and overcome. But stout of heart, we see across the dangers the great future that lies beyond, and we rejoice." Let these words continue to guide as, as we go forth into a new century. May we continue to live up to the ideals for which both Andrew Jackson Smith and Theodore Roosevelt risked their lives.
+
+Major, please read the citation.
+
+{COMMENT="The citation is read"} {APPLAUSE}
+
+Well, thank you all very much for being here today. This has been a very moving ceremony. Again, I want to thank the large delegation from the Congress, and former members who have come, and families and folks in the Pentagon who worked hard to get this done. This is a good day for America.
+
+I'll just leave you with this one thought. I said this yesterday, but I may say it every day in the last week of my presidency. In the case of a black soldier in the long-ago Civil War, it sometimes takes a long time to get things right. But Theodore Roosevelt reminded us that the only way we do that is by constantly focusing on the future. And that's really what we're celebrating here today, two people who changed America in more ways than one by their personal courage, from very different vantage points.
+
+PBS has been showing Jeffrey Ward's magnificent series on jazz -- I don't know if any of you have seen it. But there's a great section on Duke Ellington, who was a native of Washington, D.C. And he was asked what his favorite jazz tune was, and he said, "The one coming up." {LAUGHTER} There's always a new one coming up -- that's why we're all still here after more than 200 years.
+
+Thank you and God bless you all. {APPLAUSE}
+
+{/speech}

@@ -1,0 +1,27 @@
+﻿{title} Clinton Global Initiative Workshop Summation and Action Plan Plenary {/title}
+{event} New York, NY {/event}
+{speaker} Lael Brainerd {/speaker}
+{date} September 17, 2005 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Participants: President William J. Clinton, Former President of theUnited States, David Sandalow – Climate Change Panel, Lael Brainerd – Governance Panel, Gayle Smith – Poverty Panel, Rob Malley – Religion Panel {/description}
+
+{speech} 
+
+Thank you, Mr. President. First I wanted to express my thanks to Evan Ryan, who is my co-conspirator on this track and also my good friend. We were up against a pretty dreary name, but we came back with a set of dazzling discussions. Mary Robinson started us off by observing that the UN summit is so 20th century. CGI, as she put it, is the summit for the 21st century.
+{APPLAUSE}
+
+We heard from President Yushchenko of Ukraine and from President Obasanjo of Nigeria on the need for genuine democratic revolution to make sure that states deliver for their own people, and on their uphill battles to uproot the tangled web of decades of corruption. We heard how corruption strangles trust, trust that is the foundation for investment and enterprise no less than for good government. Business and civil society can find a common agenda in this area, and indeed we heard from George Soros and from BP and from Global Witness on one such partnership that uses the power of transparency to lift the resource curse of dysfunctional government and predatory elites that too often afflict countries rich in natural resources.
+
+Again and again our conversations came back to leadership – political leaders, business leaders, community leaders making a difference between vibrant societies and those caught in a downward spiral. Bob Rubin and Mohammed Gergawi highlighted the critical role of visionary leaders, especially in undertaking those tough reforms that pay dividends into the future but that require a stiff down payment right up front. Hank Paulson and Hernando de Soto highlighted the growing gap between rich and poor as one of the major challenges of our time. There was a lot of excitement about new tools for people to lift themselves out of poverty, such as land titling and microfinance, one of the great success stories in the fight against poverty. We talked about private investment, the lifeblood of economies, and the difficulty of turning around perceptions, especially when they come from living in a bad neighborhood next to a country mired in conflict.
+
+In Fareed Zakaria's words, capital is a coward. Finance minister Negozi and former finance minister Tijan Kam told us of the tough steps their countries have been taking to turn the tide. When poor countries take ownership of their problems, the IMF and the World Bank need to walk the walk, not just talk the talk, on supporting those homegrown solutions. The same theme came up on slashing subsidies in agriculture. One speaker had this message for President Bush – President Bush, this is one area where we would welcome American unilateralism.
+
+Ultimately our focus was on empowering individuals in poor countries to take back government, to demand performance from political leaders to create jobs and wealth through enterprise, and to fuel economies as consumers. Sekay Prahalad called on all of us to unleash the potential of the 5 billion poor consumers living around the world. As consumers, he reminded us, they have both choice and dignity, something we forget when we look at them only through the lens of charity. Indeed, these are some of the most value-conscious consumers in the world.
+
+And we heard the phenomenal story of self-help from Mo Ibrahim. When he first proposed to his UK partners investing in Uganda, they told him, no way, no how would we invest in a country run by a crazy guy named Idi Amin. That's when he knew just what he was up against because Idi Amin had been gone for 15 years. But Mo had the last laugh. Celtel has made enormous returns while it's created enormous social value by providing mobile telephony to poor consumers across Africa.
+
+And we brainstormed about out-of-the-box approaches to supporting those small and medium-sized opportunity entrepreneurs whose success creates jobs and wealth and swells the ranks of the middle class. We heard from Alan Patrikoff about his innovative ideas on developing venture capital in Africa. And Joe Schwenk, his business partner, testified that entrepreneurs can thrive in Africa when given the necessary tools. The difference, he told us, between world class and second class is attitude, not geography.
+
+So over the past few days we witnessed a dazzling array of speakers, intense engagement among the tables, and a steady stream of creative commitments. We leave with renewed passion in our hearts, an inspiring vision of the future in our eyes, and meaningful work to engage our hands. Not bad for two days on governance. Thank you, Mr. President. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,130 @@
+﻿{title} Remarks By The President at Dnc Fundraiser {/title}
+{event} Dnc Fundraiser {/event}
+{speaker} Barack Obama {/speaker}
+{date} October 20, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, everybody. Thank you. {APPLAUSE} Thank you, New York! {APPLAUSE} Thank you. {APPLAUSE} Thank you very much. Thank you so much, everybody. Thank you so much.
+
+{AUDIENCE} Yes we can! Yes we can! Yes we can! {/AUDIENCE} 
+
+Thank you, everybody. I love New York! {APPLAUSE} I love New Yorkers! {APPLAUSE} And now that the White Sox are out of it -- {LAUGHTER} -- if there are any Yankees fans here -- {APPLAUSE} -- I wish you guys some good luck.
+
+I am thrilled to be here. There are some -- all of you are special guests, but we've got some folks that I want to make sure to acknowledge individually. First of all, we've got some outstanding members of Congress here, all of whom are completely supportive of the agenda that we are moving forward: Nita Lowey, Anthony Weiner, Joe Crowley, Carolyn Maloney, Steve Israel -- give them a big round of applause. I think they're over here. {APPLAUSE} Thank you, guys.
+
+I want everybody to know how much I appreciate everything you've done for me, for this country, for the candidates in this room, at a time when we need your efforts more than ever. I want to thank you for supporting our candidate for city comptroller, John Liu, who's here in the house. {APPLAUSE} Our nominee for public advocate, Bill de Blasio, is here. {APPLAUSE} And a great city comptroller, our candidate for mayor, my friend, Billy Thompson is in the house. {APPLAUSE}
+
+Now, many of you -- both here in this room and watching via webcast -- a lot of you guys were on the front lines of our campaign. You knocked on doors. You made calls. You devoted your time and your energy -- and you wrote those checks. {LAUGHTER} Even when you couldn't afford it. {LAUGHTER} That's what you told your spouse -- yes, we can! {LAUGHTER ; APPLAUSE} All because you understood that we were at a special moment in our country's history. And I want you to know that not a day goes by when I don't think about those efforts of yours. And the obligation as a consequence of you giving me this great honor, the obligation that I have to every American -- not just those who worked in the campaign, but every American -- everybody who put their faith and hopes, their sweat and tears into a campaign that wasn't just about winning an election, but was about changing a country.
+
+Now, it's been less than a year since the Obama family packed up and moved to Washington. {LAUGHTER} People don't -- so much has happened that we tend to forget it's only been nine months since I was sworn in -- nine months to the day. {APPLAUSE} And I want to report to you that Malia and Sasha are doing fine. {APPLAUSE} Michelle is a pretty good First Lady. {APPLAUSE} We got Bo. {APPLAUSE} He's handling his business in the White House. {LAUGHTER}
+
+But it's important for all of us to remember what the situation was when we came in nine months ago, because there's some people out there who seem to have a selective memory. There's sort of a revisionist history about what was waiting for us when we began this presidency. We were facing an economic crisis unlike any we had seen in generations -- losing 700,000 jobs a month; financial system on the verge of meltdown; economists of every political persuasion, they were fearful that we might fall into a Great Depression. You remember that?
+
+{AUDIENCE} Yes! {/AUDIENCE} 
+
+And that's why we acted boldly and we acted swiftly to pass a Recovery Act that's made a difference in the lives of families across America. People don't, I think, remember where we were and where we are now. We put a tax cut into the pockets of small business owners and 95 percent of working families -- just like I promised during the campaign -- {APPLAUSE} -- the most progressive tax cut in history -- 7 million families here in New York have benefitted from it.
+
+We extended unemployment insurance, increased unemployment insurance for 12 million Americans to help them get through tough times -- that's helped millions of New Yorkers. {APPLAUSE} We made COBRA 65 percent cheaper to make sure that if you were looking for a job your family wouldn't go without health care. {APPLAUSE} That was in the Recovery Act. {APPLAUSE}
+
+We gave relief to states including New York to help prevent more teachers and firefighters and police officers from being laid off. {APPLAUSE} According to initial reports, 250,000 jobs in our schools were saved as a consequence of the Recovery Act -- a quarter of a million teachers and educational specialists. {APPLAUSE} We've supported more than 30,000 loans to small businesses, including 2,000 in this state alone. We've helped create thousands of private sector jobs.
+
+But not only did we provide tax cuts, not only did we provide relief to states that needed it and individuals that were having a tough time -- that's not just what this Recovery Act was about. We also happened to, in the Recovery Act, invest a greater sum in education than any time in our history -- {APPLAUSE} -- and coupled that with critical reforms that had been bottlenecked in Congress for years.
+
+The Recovery Act was the largest investment in clean energy in American history. {APPLAUSE} It was the largest boost to medical research and basic research in history. It was the single largest investment in infrastructure since Eisenhower built the Interstate Highway System back in the 1950s -- and it's putting people back to work all across America, rebuilding roads and bridges and dams. {APPLAUSE}
+
+So that was pretty good -- that was the first month. {LAUGHTER ; APPLAUSE} But we didn't stop there. As Tim Kaine mentioned, we passed the Lilly Ledbetter Fair Pay Act, because I think women should get the pay the same as men for doing the same work. {APPLAUSE} We lifted the ban on stem cell research and reaffirmed science to its rightful place in America. {APPLAUSE} We extended health care to 11 million children in this country -- including 4 million who didn't have health insurance.
+
+We passed the Ted Kennedy service bill, expanding Peace Corps and AmeriCorps, creating service opportunities all across America. {APPLAUSE} We appointed a New Yorker from the Bronx to the Supreme Court named Sonia Sotomayor. {APPLAUSE} We passed legislation to protect consumers from credit card abuse. {APPLAUSE} We passed a law to prevent abuse in the mortgage industry. {APPLAUSE} We passed a law that will protect our children from being targeted from big tobacco companies. {APPLAUSE}
+
+For the first time in history, we've begun to put in place a new national policy aimed at both increasing fuel economy and reducing greenhouse gas pollution for all new trucks and cars sold in the United States of America. {APPLAUSE}
+
+That's in the first nine months. {APPLAUSE} The fact is we've already had one of the most productive first years of any administration in decades. {APPLAUSE} That's because of you. That's because of the work you did. That's what knocking on doors and making phone calls was all about. {APPLAUSE}
+
+And by the way, that's just what we've done at home. I've got a whole other portfolio. {APPLAUSE} Abroad, we've begun a new era of engagement. We're working with our partners to stop the spread of nuclear weapons, seeking the goal of a safer, more secure world that's free of nuclear weapons. {APPLAUSE} We're working in concert with nations on just about every continent to stem the economic downturn and to finally confront the challenge of climate change.
+
+We banned torture. We committed to closing Guantanamo. {APPLAUSE} We're rebuilding our military. We're reaffirming our alliances. We're getting out of Iraq. {APPLAUSE} We've made progress in fight al Qaeda in Pakistan and Somalia and Indonesia. {APPLAUSE}
+
+That's in the first nine months. {APPLAUSE} But the reason you're here tonight, the reason I'm here tonight, the reason Tim Kaine is here tonight is because our work is not done. We're just getting started. {APPLAUSE} Because we know that there's still far too many Americans who are out of work; too many Americans seeing their hours and their wages cut; too many Americans who still don't have health care, and if they've got health care, they're seeing their insurance companies more worried about turning a profit than maintaining coverage. They're dropping folks, discriminating against them because of preexisting conditions.
+
+We know that we still have so much work to do on the energy front. We know that we still have so much work to do on education. We know that this country still faces enormous challenges. And that's not news to you. You didn't sign up thinking this would be easy. And I just have to remind everybody -- I know the campaign got fun, but those of you who were there early -- you remember that? When nobody could pronounce my name?
+
+{AUDIENCE} Yes! {/AUDIENCE} 
+
+What is it that motivated you? It was the notion that there's this gap between what's possible in America and what we had achieved. Now, we didn't think that on Election Day, suddenly that gap would close, and that same energy, that same enthusiasm, that same passion that you displayed during the campaign -- that applies now more than ever because now is when the work begins. That was just the end of the beginning. We've got so much work to do.
+
+We all remember, back in the very beginning, a lot of people said having hope was naïve. You remember that?
+
+{AUDIENCE} Yes! {/AUDIENCE} 
+
+That our faith in this country was misplaced. There's a whole industry feeding cynicism and skepticism, and promoting a notion of, well, it hasn't happened yet so it's not going to happen. And for a while, you remember, those folks looked like they were right. You remember? Until we proved them wrong. {APPLAUSE} Until we proved there isn't anything false about hope. Until we proved that in America nothing can withstand the power of millions of voices that are calling for change. That's the spirit that we need right now. {APPLAUSE}
+
+Because the same folks are out there now. They say, lower our sights, you're doing too much, scale back, accept less. I didn't run for President to accept mediocrity. {APPLAUSE} That's not what this country is about. That's not why you got involved and got engaged. You didn't decide, oh, this is actually harder than we expected; the insurance companies don't like health reform; I guess we'll just pack up and go home.
+
+{AUDIENCE} No! {/AUDIENCE} 
+
+Oh, well, the banks, they don't want financial regulation; I guess it's just too hard. You know, that poster was nice during the campaign; we had some fun, but oh, well. {LAUGHTER} We didn't work so hard to leave our problems to the next generation, the next administration. We came to solve these problems -- right here, right now. {APPLAUSE}
+
+Now is the time to build a clean energy economy that can put people back to work. {APPLAUSE} Now is the time to educate every American child so they can compete in a global economy. {APPLAUSE} Now is the time to make sure that every American has affordable health care. That's what we're fighting for! Not later, but now! {APPLAUSE}
+
+You fired up?
+
+{AUDIENCE} Yes! {/AUDIENCE} 
+
+I want to recognize the people in this room and the folks watching online who are helping us do exactly that. I want to thank all the Organizing for America volunteers for making calls, knocking on doors, keeping up the fight. {APPLAUSE} You know why this is so important. You know premiums have doubled over the past decade. Some of you have seen it -- your employer said, I'm sorry, I don't want to do it to you, but I'm doubling your premiums. In some cases, what they're paying, your employers are paying is going up even faster than what you're paying. It's unsustainable. It could double again in the next decade. You know that millions of people in this country have been discriminated because they don't -- of a preexisting condition. You know that more companies are dropping coverage. You know that more and more families are struggling to pay for health care even if they have insurance, out-of-pocket costs going up faster and faster.
+
+And you know what Tim Kaine understood and underscored -- we are closer than we've ever been. This has been a battle that has lasted since Teddy Roosevelt -- the basic principle that part of our social contract is you don't go bankrupt if you get sick; that families shouldn't have to worry if their children need help -- {APPLAUSE} -- that we are looking after each other enough to make sure that everybody has health care in this country. {APPLAUSE}
+
+We're closer than we've ever been. Five committees of Congress all voted out legislation. As Tim said, the differences are starting to narrow and we're going to, pretty soon, be hitting the floor of the House and the Senate with bills; then we're going to reconcile them. And then we're going to have to vote on them again. And then I'm going to sign it. {APPLAUSE}
+
+Now, there are still some details and some disagreements that have to be worked out.
+
+{AUDIENCE-MEMBER} Single payer! {/AUDIENCE-MEMBER} 
+
+{AUDIENCE-MEMBER} Public option! {/AUDIENCE-MEMBER} 
+
+Let me say this, because somebody just brought up something. {LAUGHTER} Among Democrats and progressives there are a whole set of views about how we should do health care. But understand that the bill you least like in Congress right now, the one you least like of the five that are out there would provide 29 million Americans health care -- 29 million Americans who don't have it right now would get it. The bill you least like would prevent insurance companies from barring you from getting health insurance because of preexisting conditions. {APPLAUSE} Whatever the bill you least like would set up an exchange so that people right now who are having to try to bargain for health insurance on their own are suddenly part of a pool of millions that forces insurance companies to compete for their business and give them better deals and lower rates. {APPLAUSE}
+
+So there are going to be some disagreements and details to work out. But to the Democrats, I want to say to you, Democrats, let's make sure that we keep our eye on the prize. {APPLAUSE} And that is, all those millions of Americans who don't have health insurance and all those who do have health insurance that are seeing their costs go up, if we get a bill -- when we get a bill that delivers on those issues --
+
+{AUDIENCE-MEMBER} When? {/AUDIENCE-MEMBER} 
+
+When. That's what I said. {APPLAUSE} Then we have to do everything we can to support it. You know, sometimes Democrats can be their own worst enemies. {APPLAUSE} Democrats are an opinionated bunch. {APPLAUSE} You know, the other side, they just kind of -- sometimes -- do what they're told. {LAUGHTER} Democrats, you all are thinking for yourselves. {APPLAUSE} I like that in you. But it's time for us to make sure that we finish the job here. We are this close. And we've got to be unified. {APPLAUSE}
+
+And to all those non-Democrats who may be in the audience -- {LAUGHTER} -- or who are watching our webcast, or who will hear about this on cable -- {LAUGHTER} -- I want you to know I believe in a strong and loyal opposition. I believe in a two-party system where ideas are tested and assumptions are challenged. That's made this legislation that we're working on better and more durable. That's how our democracy works. That's a good thing.
+
+But what I reject is when some folks decide to sit on the sidelines and root for failure on health care -- {APPLAUSE} -- or they root for failure on reforming our energy system, or they root for failure on getting the Olympics. I mean, who's against the Olympics? {LAUGHTER ; APPLAUSE} What's up with that? {LAUGHTER} You know? That's a sad thing, isn't it?
+
+{AUDIENCE} Yes! {/AUDIENCE} 
+
+I mean, I don't care if you're Democrat or Republican -- you know, it's the Olympics. {LAUGHTER ; APPLAUSE} Come on! {APPLAUSE} What I reject is when some folks, all they've got to say is, let's go back and do the things that we were doing that got us into this mess in the first place. {APPLAUSE} That's all -- that's all they've got to say. Like we forgot. {LAUGHTER} We didn't forget. It was only nine months ago. {LAUGHTER ; APPLAUSE} We understand exactly who and what got us into this mess. {APPLAUSE} Now, we don't mind cleaning it up -- I'm grabbing my mop and my broom and -- {LAUGHTER} -- we're scrubbing the floors and trying to neaten things up.
+
+But don't just stand there and say, "You're not holding the mop right." {LAUGHTER ; APPLAUSE} Don't just stand there and say, "You're not mopping fast enough." {APPLAUSE} Don't accuse me of having a socialist mop. {LAUGHTER ; APPLAUSE} Instead of standing on the sidelines, why don't you grab a mop? {APPLAUSE} Help us clean up this mess and get America back on track! {APPLAUSE} Grab a mop! {APPLAUSE}
+
+{AUDIENCE} Grab a mop! Grab a mop! Grab a mop! {/AUDIENCE} 
+
+That's right.
+
+{AUDIENCE} Grab a mop! Grab a mop! Grab a mop! {/AUDIENCE} 
+
+Hey, I don't mind cleaning it up, but you know -- sheesh! {LAUGHTER} Feel a little shame. Help out a little bit. {APPLAUSE} All of us in Washington -- Democrats, Republicans -- we all have a responsibility to rise to this occasion; to look past our differences; recognize that we've got to move past the failed policies and broken politics that allowed our unresolved problems to stay unsolved for decades. I will work with anyone and everyone that's willing to do exactly that. And in their heart of hearts, even some of our opponents, they know. They know.
+
+We had Bill Frist and Bob Dole both say we need to do a health care bill. Now, they didn't endorse some specific bill. They said, let's work constructively. Of course, they're retired. {LAUGHTER} So they could go ahead and speak the truth. But there are times, there are moments in this country where everybody needs to speak the truth -- and act on the truth. {APPLAUSE} That's what people are counting on right now.
+
+Look, I understand that a lot of folks are going through tough times right now, and understandably, they're feeling impatient. They wish the minute we had gotten elected that suddenly things we're going to change overnight. And I understand that because they feel a sense of urgency. And we've all got to feel that sense of urgency. But the thing is most people, their expectations are very modest. They're not looking to government to solve all their problems. They don't want a handout. All they want is a chance to succeed; if they're willing to work, that they can find a job that pays a living wage -- {APPLAUSE} -- that they don't have to worry about being bankrupt if they get sick; that they can send their kids to college so that they can do a little better than they did; that they can retire with some dignity and respect.
+
+And those things are within our grasp if we all work together. People just want an opportunity to make the most of their lives. And that's the chance that every American deserves. That's the American Dream. That's a promise I'm working to fulfill every day. And that's why you're here.
+
+This is such a rare moment in our history. Now is not the time to start getting disillusioned, or now is not the time to start thinking, oh, this is too hard. We've got this opportunity to change our world for the better. But the change -- we said this in the campaign, it is true now -- it never starts in Washington. It always starts with you. It starts with ordinary people -- {APPLAUSE} -- men and women who love their country, who are standing together and fighting for its future. {APPLAUSE}
+
+It happens when citizens reject the cynicism and the skepticism, and all the pundits yakking about why we can't do that and we can't do this. It's when you fight and you organize, you advocate, you walk the streets and you hit the phones -- and people slam the door in your faces and they say, "Uhh, get out of here, I'm not interested." And you keep on doing it. That's how we succeeded before. That's how we'll succeed again.
+
+So I just want everybody here to understand, we are in this for the long haul. {APPLAUSE} Some of these changes may not happen in 18 months, or 36 months, or 72 months. It's going to take time. But I don't know about you, I just want to let you know -- just getting started. {APPLAUSE} I'm not tired. I don't know about you, but I'm not tired. {APPLAUSE} All these folks who are throwing stuff at us and getting all crazy and -- you know, I'm just getting started. I feel refreshed. I feel energized. {APPLAUSE} And it's because of you. {APPLAUSE}
+
+So if you're willing to keep on going, if you're willing to keep on marching, then I guarantee you, we are going to succeed! {APPLAUSE} "Yes we can" wasn't just a motto. That's what we're all about. And we are going to pass health care; we are going to get energy done; we're going to get education done. We are going to turn this country around!
+
+Thank you, New York. God bless you. {APPLAUSE} God bless the United States of America. {APPLAUSE} 
+
+{/speech}

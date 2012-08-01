@@ -1,0 +1,100 @@
+﻿{title} Remarks by the President During All-american Cities Ceremony {/title}
+{event} The East Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 16, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello. {APPLAUSE} Thank you very much. Thank you. Thank you. Thank you very much. Thank you. Thank you very much, please be seated -- everybody except you. {LAUGHTER}
+
+I want to say first of all, whenever I am with a group from our nation's small towns and cities, I always feel at home. I've just come from a number of meetings. Mayor Cisneros, you should have been with me. We just had a health care briefing with leaders from cities and counties and states around the country. And then I met with the Association of Black Mayors. But I'm especially glad to be here, because one of the cities represented here is from my previous hometown of Little Rock, and I'm glad to see Mayor Sharon Priest here and Lottie Shackleford from the city of Little Rock, Congressman Thornton. And a lot of my other friends are here, along with all the other cities who won in 1992 and who are being recognized in 1993.
+
+Before he became the Chairman of the Housing and Urban Development -- or the Secretary of the Housing and Urban Development Department, Henry Cisneros was the Chairman of the National Civic League. And as we recognize that League for this program today, I'd also like to thank the group for generously surrendering Mr. Cisneros to the administration. {LAUGHTER}
+
+Last week in Cleveland with Mayor Mike White, who's also here to be recognized, the Vice President and I announced how we want to change the way our national government works, and how we work with state and local government to encourage more of the kinds of successes we salute today. We believe if we can streamline federal grant programs so that mayors can worry more about what works for their community rather than what works for grant administrators in the federal bureaucracy, our country will work better and we'll get more for our tax dollars. We believe that by cutting paperwork, we'll get the money to the local level more quickly and save the taxpayers money at the same time.
+
+I also want to commend our mayors for the struggle to provide health care to the citizens of our cities in spite of the barriers to access, in spite of the skyrocketing costs, in spite of underfunded public health clinics and overtaxed institutions, and not very much leadership from this capitol for quite a long time.
+
+With the mayors' help, we can bring about comprehensive, affordable health care for all Americans, and free up more of our strapped state and local budgets to invest in jobs and growth and opportunity for our people.
+
+I want to now congratulate the mayors and the delegations from each of our All American cities. This prestigious award recognizes America's heroes who have taken responsibility for their communities, who form partnerships among citizens, local government and private business to ensure that we meet the urgent needs of our people and open new opportunities for our neighbors.
+
+The 1992 winners are here along with the 1993 winners, because there was no ceremony last year. So very briefly I am going to recognize all the 1992 winners, and -- I think they are to my right, is that right? So I'd like to ask that -- I will acknowledge the mayor and the city, and then if anybody is here from the city I call out, I want you to stand up, too.
+
+First of all, Mayor John Williams from Kenai, Alaska. {APPLAUSE} Anybody else here? How many people live there, Mayor?
+
+{OTHER-SPEAK} Seven thousand. {/OTHER-SPEAK} 
+
+Seven thousand -- that's a lot bigger than the town I was born in. {LAUGHTER}
+
+Mayor Sharon Priest from Little Rock, Arkansas. Would the group from Arkansas please stand? {APPLAUSE} Thank you.
+
+Mayor Gerald Roberts from Delta, Colorado. {APPLAUSE} Would the group from Colorado please stand. {APPLAUSE}
+
+Mayor Charles Box from Rockford, Illinois. {APPLAUSE}
+
+Mayor Joseph Steineger from Wyandotte County, Kansas City, Kansas. {APPLAUSE}
+
+Mr. Charles Tooley, is that right? -- from Billings Montana. {APPLAUSE} Anybody else here from Billings? Thank you -- beautiful place.
+
+Mayor George Jones from Jacksonville, North Carolina. {APPLAUSE}
+
+Mayor George Christensen from Minot, North Dakota. {APPLAUSE}
+
+Mayor Gregory Lashutka -- is that right? -- from Columbus, Ohio. Great city. {APPLAUSE}
+
+Mayor Bill Card from Harlingen, Texas. {APPLAUSE} I've been there.
+
+Now I want to recognize this year's winning communities in alphabetical order.
+
+Cleveland, Ohio wins this award for the fifth time for fostering cooperation between police and citizens, for addressing Cleveland's school system and the Cleveland Summit on Education, and for its innovative efforts, which I have personally observed, to direct investments to needy neighborhoods. As I said last week when we kicked off our reinventing government campaign, the Vice President and I went to Cleveland because of the astonishing success Mayor White is having in moving property that has been abandoned or where the taxes haven't been paid into the hands of his citizens and into the hands of developers and putting jobs back into the inner city. Congratulations to you, sir. {APPLAUSE}
+
+Believe it or not, inadvertently somebody let me come out here without all the names of all the winners, so we're going to have -- Have you got the list of the names of the people who are here?
+
+Who else is here from Cleveland? Anybody else? Stand up there. {APPLAUSE}
+
+The next winner is Dawson County, Nebraska. Mr. Ed Cook, and who else is here from Dawson County? {APPLAUSE} An AllAmerican County for countywide cooperation among seven separate communities on regional economic development, solid waste disposal and recycling, and for improving the awareness of the diverse cultural backgrounds of the people of his county.
+
+Next is Delray Beach, Florida -- Mayor Thomas Lynch. {APPLAUSE} Anybody else here? {APPLAUSE} For community policing - - thank you -- increased public involvement in the local schools and for turning an under used former high school into a useful community cultural center for all the people of Delray Beach.
+
+Fort Worth, Texas -- Mayor Kay Granger. Who else is here from Fort Worth? Anyone else? {APPLAUSE} That's good. A big delegation. Welcome. For its crime fighting program, Code Blue, for neighborhood planning efforts, and for the vision Coalitions Town Hall Meeting. That must have been some gathering. I've been conducting town hall meetings for two years and I never won an award for one yet. {LAUGHTER} I guess I won an election for one, maybe that's just as well. {APPLAUSE} Thank you.
+
+One thing I will say, they work. They tell you what people think, and it gives people a chance to reestablish connections with their political leaders.
+
+Laredo, Texas for community-wide efforts for better health care, for the Poncho de la Garza Housing Development Program, and a new branch library to serve community needs. Who's here from Laredo. {APPLAUSE} Who else is here? There they are. I've been there. I was with the Mayor over a year ago in Laredo. It's also a good place to jog in the early morning.
+
+Oakland, California, Mayor Ellihu Harris, Congressman Ron Dellums and others. Please stand up, all of you from Oakland. {APPLAUSE}
+
+These residents came together across the lines of race and class to rebuild after the fire of 1991. Its Safe Streets Now program has brought 3500 people together to get tough with landlords responsible for 250 properties used to traffic drugs. They have also established a health center to meet the special needs of Oakland's American Indian population. And I can say, based on recent knowledge, it's a very good place to spend the night. {APPLAUSE} Thank you very much. Congratulations.
+
+Pulaski, Tennessee, Mr. Daniel Speer. Who else is here from Pulaski, Tennessee? Please stand up. {APPLAUSE} For industrial development that attracts new jobs, for the rehabilitation of public housing, for Pulaski's annual Brotherhood Observance, which shows how people can take their city back and send a moving message of hope all across our nation.
+
+Washington, North Carolina. Mayor Floyd Brothers. How are you, Mayor? Good to see you. {APPLAUSE} Thank you. Anyone else here from Washington? Thank you for coming. For efforts to revitalize the West Fourth Street neighborhood, for addressing the quality of drinking water, for waste water treatment and protection of surrounding rivers, and for bringing more of the community together through increased cultural outreach programs.
+
+Wichita, Kansas, Mayor Elma Broadfoot. {APPLAUSE} Anybody else here from Wichita? {APPLAUSE} Thank you. For its Summer Youth Academy, to get young people more involved in learning and less involved in gangs. For a partnership that encourages troubled youths to seek treatment for their problems and rewards them with improved self-esteem. And for a project to restore the quality of life within a Wichita neighborhood.
+
+Wray, Colorado, Ms. Roberta Helling. How are you? {APPLAUSE} Anybody else here from Wray, Colorado? For the town's first rehabilitation center, a family counseling center and a new hospital, the only multiple-physician facility in a 100-mile radius, all this done by a town with a population of just about 2,000 people. If we had the people from this Colorado town here in the Nation's Capital, we'd probably lick our problems in no time. {LAUGHTER ; APPLAUSE} 
+
+While I have mentioned these places by name, the awards really belong to the people in the communities, even those who weren't able to come here today. To be an All-American city, it doesn't matter how big you are or how much money you have; it's not the racial composition or the region in which the community is located. What matters is the commitment of the people, the innovation of the leaders, and the cooperation of people across all the lines that too often divide us in America.
+
+Now to say a few words on behalf of the All-American City program, is Mr. Wayne Hedien -- come on up here -- Chairman and CEO of All-State Insurance, representing the All-State Foundations, whose generosity has made these awards possible. {APPLAUSE}
+
+A generation ago, Robert Kennedy spoke of America's cities and towns and said, the time has come to bring the engines of government, of technology, of the economy fully under the control of our citizens; to recapture and reenforce the values of a more human time and place.
+
+We honor leaders who have done that. But I hope also we look at the challenges still facing all of us. I asked Henry Cisneros to join this Cabinet because I thought he was not only a brilliant ad committed person, but because I thought he understood how we could help instead of hinder the energies of people who live at the grass roots level. We're trying to reform a lot of our housing programs to help you do that.
+
+I asked Bob Reich to come into the Labor Department because I thought he understood that cities and local groups committed to training our work force and helping unemployed people go back to work weren't doing very well with 150 separate education and training programs. We want to allow you to consolidate them and spend the money in ways that will best put your own people back to work.
+
+I have done everything I could to support the brilliant work done by the Vice President to try to reconceive the whole relationship between the federal and the state and local government. We have a lot of work to do.
+
+And I just wanted to say one thing in closing. One of the things that we have to do is to impress upon the people who live here in Washington -- and not just the United States Congress, but also the people who run all these departments -- that we don't have a day to waste. You see every day where you live what can happen if you do something right. You also see the enormous consequences of continued neglect, of continuing to do things the way they are.
+
+And let me just say, there are a lot of things that I want to do as President that will just help you to do what I know you'll do anyway if we can find a way to give you the power to do it.
+
+I hope you will help us to pass the kind of health care reform that will liberate you and make your citizens healthier. I hope you will help us to pass this reinventing government program. I hope you will support the innovations of Henry Cisneros and Bob Reich and the other members of the Cabinet. I hope you will come up to this city and demand that we finally do something to help you get guns out of the hands of people who are behaving irresponsible with them. We do not -- we need to pass the Brady bill. And we don't need to have a situation that we have in many of our cities where the average person committing a murder is under the age of 16 and has access to semi-automatic weapons. There's no reason children should have those in the cities of this country. We have work to do. We need your help. Bring your ideas, your innovation, your energy back to Washington and give use a chance to do it. {APPLAUSE}
+
+Thank you very much. 
+
+{/speech}

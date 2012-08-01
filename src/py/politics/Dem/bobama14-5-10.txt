@@ -1,0 +1,48 @@
+﻿{title} Remarks by the President at Ceremony Honoring TOP COPS {/title}
+{event} Ceremony Honoring TOP COPS {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 14, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning, everybody. Please have a seat. Well, it is wonderful to see all of you. To Tom, to Attorney General Holder, and to the outstanding officers standing behind me, as well as their families, welcome to the Rose Garden. It is my privilege to welcome the TOP COPS back to the White House -– men and women who stand as shining examples of the bravery, persistence and good judgment that so many members of our law enforcement community display each and every day.
+
+I think that Eric Holder has done an outstanding job at Justice Department, but part of the reason he's here is because one of his key jobs is supporting local law enforcement. And he truly appreciates the extraordinary service that local law enforcement does each and every day.
+
+We also have a couple members of Congress here who I want to recognize -- Representative Tim Ryan and Senator Max Baucus, who have been extremely supportive of local law enforcement efforts. {APPLAUSE}
+
+To Tommy Nee and the other officers and board members from the National Association of Police Organizations, thank you for coming and thanks for the great work that you do every day.
+
+And finally, I want to congratulate this year's TOP COPS and their families. I think it's fair to say that the folks behind me never imagined they would be here today. If you asked them, these officers would say they were just professionals doing their jobs as best they could. And they'll tell you that there are thousands of law enforcement officers in every corner of this nation who are just as brave, just as dedicated and just as capable as they are -– and who would do the same thing if given the opportunity.
+
+And that's all true. But that's exactly what makes these officers –- and all of our men and women in uniform -– real heroes. It's the ability to put on a badge and go to work knowing that danger could be waiting right around the corner. It's the understanding that the next call could be the one that changes everything. And it's the knowledge that, at any moment, they could be called upon to stop a robbery, to participate in a high-speed chase, or to save a life.
+
+Some people haven't faced their moment yet. But whether it's by chance, or by the hand of fate, these officers were tested. And when the moment came, they did what they were trained to do. The men and women here today have jumped into cars to rescue victims held at knifepoint. They've pulled trapped children from a burning car seconds before it was engulfed in flames. They've leapt in front of hijacked buses, faced armed suspects, led six-hour manhunts through the dark, and saved countless lives by risking their own.
+
+And in the moments when these officers were under fire or choking on smoke, they weren't thinking about themselves. They weren't thinking about the medals or commendations. I'm pretty sure they weren't thinking about being honored at the White House. Instead, they were focused on their partners; on the face of the child who was in harm's way; on the victim and the innocent bystander who desperately needed their help.
+
+And that's why we honor them. Because while these officers may think of themselves as ordinary -– as just another sheriff or trooper or patrolman doing their job -– their actions were extraordinary. And for that we owe them our undying gratitude.
+
+But honoring TOP COPS means doing more than just saying thank you. It means supporting our entire law enforcement community, so that no matter what the challenges we face in the months and years ahead, our men and women in uniform will be prepared to answer the call.
+
+And that's why, from the very beginning, my administration has been dedicated to giving state and local law enforcement the resources they need to get the job done. So far, $3.5 billion of the Recovery Act has gone to support local law enforcement -– $1 billion for the COPS program alone. That money has helped to create or preserve almost 4,700 law enforcement jobs for three years, and made progress towards our goal of putting 50,000 new police officers on the street.
+
+Next year's budget would more than double the previous request for the COPS program. And at a time when our nation is emerging from the worst economic recession in generations, we'll maintain strong funding for Justice Assistance Grants, known as the Byrne-JAG grants, and bulletproof vests to keep our communities and our men and women in uniform safe.
+
+We'll make sure you continue to have the resources and support that you need -– because we've seen the results of that work. In the first half of 2009, crime fell to the lowest level since the 1960s. Homicides dropped by 10 percent. Car thefts were down nearly 20 percent. And property crimes declined by over 6 percent.
+
+Much of this is due to the men and women and their counterparts all across the country that are doing outstanding work. But it's also a reflection of the role that ordinary Americans are playing -– taking back their neighborhoods from violent gangs and open-air drug markets, educating their children, being vigilant.
+
+Of course, the most recent example and most visible example of this partnership between citizens and police happened two weeks ago in Times Square. Alerted by two street vendors that smoke was coming out of a suspicious vehicle, NYPD Officer Wayne Rhatigan immediately realized the potential danger and, along with other officers on the scene, helped clear the area quickly and safely. The NYPD's elite bomb squad unit then spent over five hours defusing the device. And just two days after the attempted terrorist attack -– thanks to the outstanding work of local, state and federal officials -– a suspect was in custody.
+
+And yesterday, I had the privilege of visiting the NYPD Real Time Crime Center and meeting Officer Rhatigan and other officers whose quick thinking and cooperation may have saved hundreds of lives. Like the folks behind me, they succeeded because they were well trained, they were vigilant, and they were ready.
+
+Being a hero isn't always easy. As Officer Ryan Jacobsen, who is being honored here today, said of his own experience, “It's one of those things in your life you can never prepare for fully -– and that you hope never happens again.”
+
+So we are incredibly proud of the courage that all of you have shown in the conditions that we can only imagine. It's a distinction that none of you asked for, but all of you accepted. And I promise that we will stand by you, and everyone who wears the badge, as you continue to keep us safe.
+
+So thank you all. Tom, thanks for the outstanding work. {APPLAUSE} 
+
+{/speech}

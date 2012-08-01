@@ -1,0 +1,55 @@
+﻿{title} President Speaks to U.S. Troops in Seoul {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 21, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Well, thank you for that warm welcome. {APPLAUSE} My fellow Americans -- {APPLAUSE} -- I'm on my way to China, and I hope you don't mind me stopping by to say a few words. {APPLAUSE} I also thought you might want to say hello to a great wife and a wonderful First Lady, my wife, Laura. {APPLAUSE} 
+
+We are so delighted to be here. It gives me a chance to bring a message from home. Your family are proud of you, and so is America. {APPLAUSE} You walk in the path of thousands of soldiers who fought for freedom in the Korean War, and all who kept the peace for half a century. Many millions of people are safe from harm because you're here. You're a credit to the United States of America, and I want to thank you for that. {APPLAUSE} 
+
+I'm proud to be traveling with members of the fabulous team I put together, anchored by our Secretary of State, Colin Powell. {APPLAUSE} We're making a huge difference on the Peninsula, not only because of our military presence, but because of our diplomatic presence. And we've got a great ambassador to the Republic of Korea, Tom Hubbard, and his wife Joan. {APPLAUSE} 
+
+One time I was governor of the great state of Texas. {APPLAUSE} Now I know we're going to keep the peace. {LAUGHTER} And I went to Fort Hood and got to meet General Thorpe. I knew him to be a strong man then. I'm sure glad he's here now. He brings great credit to the United States military. Mr. General, thank you, sir. {APPLAUSE} 
+
+It is an honor to be here with General Lance Smith, as well. Thank you for your hospitality. Thank you for putting us -- I've got kind of a sweet spot in my heart for fighter pilots. {APPLAUSE} I hope they're behaving well these days. {LAUGHTER} 
+
+I'm honored to be here with Denny Lawson. And I'm honored to be here with David Clary, as well. I want to thank those from the ROK who are here, the leaders. But most of all, I want to thank my fellow citizens, the members of the United States military, for being strong and steady, to keep the peace. It is such an honor to be traveling in Asia, representing our country. This is an important journey. We're stopping in the capitals of Japan and South Korea, and then in a couple of hours, in China. All three governments are lending their support in our war against terror. 
+
+It gives me a chance to look the leaders in the eye, to thank them on behalf of a grateful nation, for their steady and strong support, as this nation leads a coalition to defend freedom. {APPLAUSE} My trip was scheduled here for October, but we changed it after America came under attack. We had to change our plans. But since then, the killers and the government that sponsored them had to change their plans, too. {APPLAUSE} 
+
+A few months ago, al Qaeda and the terrorists occupied Afghanistan. Now some of them are in cells in Guantanamo Bay. {APPLAUSE} Not long ago they were urging their followers to sacrifice their lives. Now they're running for their own. {APPLAUSE} Those who attacked us, and those who still want to try to hurt us, are beginning to realize they picked the wrong enemy. {APPLAUSE} They thought we were soft. They thought we were so materialistic that we would not be willing to sacrifice. They didn't realize that we're a patient nation, that we're a deliberate nation. 
+
+And they're now beginning to realize that we're resolved to find the terrorists, wherever they hide, and rout them out. {APPLAUSE} And as my fellow Americans, you need to know that we won't stop until the threat of global terrorism has been destroyed. We have been called to history. We must not stop. After all, we defend civilization itself. We didn't ask for this war, we're a peaceful nation. But we will do everything in our power to defend freedom and the universal values that are so important to our nation, and so important to a peaceful world. I made this message clear to our enemy, and the mighty United States military is delivering it. {APPLAUSE} 
+
+I'm proud to report America and our allies are committed to this cause. If you haven't been back to America lately, I want to tell you, our nation is strongly united. This isn't a matter of political parties. We're talking about national purpose. The people of America understand it's going to take a while, but they're ready. We've accepted new responsibilities. 
+
+There's a new way of thinking in America. It was defined by flight -- the actions on Flight 93, when several people aboard an airplane got the word that that airplane might be headed to the Capitol, or the White House -- but certainly headed to hurt a fellow American. They were on the telephone with their loved ones. They told them they loved them. They said a prayer. And then they said, let's roll. {APPLAUSE} 
+
+There is a new spirit of sacrifice in America that understands that we must, in life, serve something greater than ourselves. And we're now called to defend freedom, and our allies understand that. And the United States military understands that. And freedom we will defend with all our might. {APPLAUSE} 
+
+And that's what you're doing here on the Korean Peninsula, a free and peaceful nation, and its 47 million people count on you every day. And in this duty the United States has a steady and courageous partner in the Republic of Korea. {APPLAUSE} 
+
+During the years of partnership between our two countries, South Korea has become prosperous, and it has become strong. Its vibrant economy is an example of what free people and free institutions can achieve. And it shows the importance of America's presence in Asia. 
+
+The United States is a Pacific nation. History has led us here. Ties of commerce and friendship keep us here. And our friends and allies can be certain that we will always stand beside them. When America says we're your friend, we mean it. {APPLAUSE} 
+
+We hope for a day when the stability of the Korean Peninsula is built on peaceful reconciliation of North and South. Today, however, the stability of this Peninsula is built on the military might of our great alliance. In our dealings with North Korea, we've laid down a clear marker. We will stand by the people of South Korea. We will maintain our presence here. And as I told the Congress and the world in my State of the Union messages, we will not permit the world's most dangerous regimes to threaten us or our friends or our allies with weapons of mass destruction. {APPLAUSE} 
+
+Those of you who are stationed here in Korea and members of our military throughout the world spend every day training and testing and preparing for any mission that may come. That's your responsibility, and you're the best in the world. {APPLAUSE} And as your Commander-in-Chief, I have responsibilities to you to give clear orders, to set clear objectives, and to make sure you have everything you need to do your job. {APPLAUSE} 
+
+So I'm asking Congress to pass more than a $48 billion increase in our defense budget. {APPLAUSE} It is the largest increase in military spending in a generation. It recognizes defending -- the price for defending freedom will be high, But it's necessary to defend freedom. {APPLAUSE} Our most important job is the security of the United States of America, and the security of our friends and allies. And we will pay whatever price it takes to defend America. {APPLAUSE} 
+
+I'm so grateful many of you have brought your families, who are here. A grateful nation not only thanks those who wear the uniform, but we thank the wives and husbands and sons and daughters and family members who sacrifice along with you. But in order to make sure that sacrifice is not quite such a hill to climb, in the budget that I've requested to Congress I'm asking for another pay raise for the people who wear the uniform. {APPLAUSE} It is necessary, it is the right course of action -- 
+
+{AUDIENCE-MEMBER} We love you, George. {/AUDIENCE-MEMBER} {LAUGHTER} 
+
+-- because in the months and years to come, our nation is going to be asking more of the United States military. And you have my confidence, because you've earned it. You earn it every day, in the difficulties you accept and the dangers you face. You're each here to serve your country, and your country is grateful. You're here because you believe in America, and America will always believe in you. 
+
+God bless. {APPLAUSE} 
+
+{/speech} 

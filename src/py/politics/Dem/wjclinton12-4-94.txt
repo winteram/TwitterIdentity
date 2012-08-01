@@ -1,0 +1,57 @@
+﻿{title} Remarks By The President At The Non-Profit Organizations Reception {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} April 12, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Ladies and gentlemen, Secretary Shalala, Secretary Cisneros, and the many other people in our administration who are here and who have long supported the non-profit sector of this country and worked in it. 
+
+I suppose no one qualifies in that regard more than the First Lady. {APPLAUSE} Since I first met her I've seen Hillary serve on children's advocacy boards, legal services boards, hospital boards, foundation boards. I was counting outside -- I haven't checked with her, but I know she's helped to form three non-profit organizations and been associated with at least a dozen others. I appreciate the fact that she found a little time for me over the years. {LAUGHTER} 
+
+I say that because I have learned not only as a governor and a public official and now as President, but also in my own family, the incredible importance of the work that all of you do and those who you represent. 
+
+When I ran for President, I said as clearly as I could that I thought the national government had a responsibility to do many things that we were not then doing, but that there were many things we could not do. And that in the absence of a partnership with people in community organizations all across this country, we would surely never become the nation we ought to be. 
+
+I'd like to make a few remarks about that, but I think it is appropriate, since we're talking about citizenship in its best form, that I also make a couple of comments at the outset about a subject very much in the press today. 
+
+Since Justice Blackmun announced his retirement last week, I have been working to find an able replacement. Last night, Senator George Mitchell, who was my leading candidate for the Court, came to see me and asked me what I wanted him to do. And I said, well, I want to talk to you about it. I'd like to appoint you to the Supreme Court if you think we can do our work here for the country this year in pursuing health care reform and the other things we have to do. 
+
+And he looked at me and said, you know, I've always wanted to be on the Supreme Court, and no one can predict what it would be like if I were nominated and then confirmed while sitting in the Senate and leading this fight what the impact would be. I have thought of all the ways we could do it and all the various scenarios, and I'm only sure of one thing: I cannot imagine that the impact would be good in terms of our ability to pass health care, welfare reform or any of the other things we want to do. But his special concern was with regard to health care reform. 
+
+And so he said, I believe I should stay in the Senate and serve my term out and try to lead this country to health care reform. That's, after all, the job I was given, and it's my job until next January, and I'm sorry that the timing is not good, but I think it's the right thing to do. 
+
+I said, well, why don't we sleep on it and see if we can think of a way to do it? This morning early I called him on the phone, and he said, I still see it the same way. And I said, well, I haven't had any thunderbolts of insight about how your analysis is wrong. 
+
+So he said, I still think I ought to do not what I want to do, but what I should do. And he seemed as comfortable with decision as anyone that I've ever seen him make. I say that because this country needs more people who devote themselves not only to what they would like to do, but what they think the country needs. 
+
+He has dedicated himself to doing something that, if successful, this health care reform, would be the work of a generation in America. His leadership role is crucial; I value it and I'm grateful for it. 
+
+And so, I would like to begin by thanking him on behalf of his country for his willingness to forego a great personal opportunity in anticipation of an enormous struggle with an uncertain result for a goal that is worth the careers of many us. I thank him very much. {APPLAUSE} 
+
+The interesting thing as I look out at this crowd of you -- and I see so many of you whom I've known for so many years, I think of all the struggles that you have been in with an uncertain result, determined to make life better for people in any number of ways. 
+
+In 1840, Alexis de Tocqueville said, "If Americans want to proclaim a truth or propagate some feeling by the encouragement of an example, they form an association." Well, today, at the dawn of a new century, we're full of associations. Every now and then I hear from one I don't like all that much. {LAUGHTER} Sometimes I hear from those I like very much things that I wish I didn't have to hear. That is a part of what makes America a special place. 
+
+Every item, as I said earlier, of the national agenda I have sought to pursue so vigorously, ultimately depends upon people in their private capacities doing things differently. Much of what I try to do here is designed to empower people to live up to the fullest of their own capacities and to face their problems in their own ways most effectively. 
+
+Whether that's true in health care reform, or education reform, or crime prevention, or using National Service through the sterling work that Eli Segal has done to permit people to solve their problems at the grass-roots level, you can see it in every initiative. The whole notion that the government has to empower people to take control of their own lives depends upon the ability of people to organize effectively, to lobby their government, to influence our policies, and also to tell us what they know is the truth. 
+
+Just today we received what I have seen year after year is one of the best examples of that kind of action with the release of yet another report from the Carnegie Corporation, and this one I think one of the best that I have ever read on how we can better meet the needs of our youngest children. This report is nearly three years in the making, and I think now, it's fair to say, is the most comprehensive analysis of the condition of American children aged zero to three. It awakens us to the fact that millions of our infants and toddlers are living in shameful conditions, but also and even more importantly, offers a coherent set of solutions about what we ought to do about it. 
+
+In an attempt to be a better partner with all of you in what you are doing, we are establishing today a non-profit liaison network of 26 different liaisons in every important government department and agency to work with all of you to emphasize in an organized way how much we value your good work, your input into our policies, your advocacies of things that still need to be done. 
+
+One of the most important things in this complicated age of zillions of problems is that I identify what it is as President I can do and what it is I need someone else's help to do -- of all the things we can spend our time on here in the White House and this government, which things are most important and which things will spark the largest release of energy in a positive and constructive way around the country. You have to help us make that decision, for, in truth, that's a decision that we make anew here constantly as we deal with the difficulties as well as the opportunities that come to this place. 
+
+I hope this is the beginning of an even better partnership. I thank you very, very much for what you do, and I want to say again, I cannot succeed as President unless you succeed, and unless you succeed in mobilizing millions of our countrymen and women for the important tasks that face us. I honestly believe that we may be at the dawn of a new American renaissance -- a period when we are able to face, with greater energy and greater hope and a greater sense of community and common purpose, the challenges before us than has been the case in a generation. 
+
+If we do it, we will make the beginning of the 21st century the most exciting in American history to be young, to grow, to come to maturity and to make a life. If we don't, we will have squandered a great legacy. The only way we can do it is if somehow there is a role for all of us, not just those of us in high office. You provide that role for all of us, and I will do my best to help you play it. 
+
+Thank you very much. {APPLAUSE} 
+
+
+
+{/speech} 

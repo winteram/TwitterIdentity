@@ -1,0 +1,51 @@
+﻿{title} Remarks by the President at DNC Dinner {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} April 26, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Thank you very much. Let me see, we have now seen a magnificent musical rendition of a wonderful novel. We heard two fine speeches. If I had any sense, I would sit down. {LAUGHTER} 
+
+When Bob was talking about that obscurity is forever, I think the Vice President is too sensitive. I thought he was talking about being a former President, not being a -- {LAUGHTER} . 
+
+I want to thank the Kogod's and the Smiths and all their family members for having us in this magnificent home, for giving us a chance to look at all the wonderful art, for being in this beautiful tent. I'm delighted with the weather, and I'm delighted with the company. I want to thank the leaders of our party and the co-chairs of this event tonight. 
+
+As you leave here -- and the Vice President has already said a lot of the things that I think should be said about what it means for a party to be 150 years old. But let me say, when Hillary and I were in Chile recently, someone, I think on her staff, got us a copy of a speech which Theodore Roosevelt gave in Chile after he left the White House in the early part of this century, a speech which I have to say I believe the members of his party ignored. 
+
+But it's a brilliant speech about how in politics, if you want to really matter, you have to be faithful to eternal values, but you have to always be willing to lift the dead hand of history off your politics, always be willing to do whatever is necessary to advance the expansion of freedom and opportunity for people, and never to be paralyzed by what you used to do when it no longer makes sense. 
+
+It's really quite a brilliant speech, and I read it when I was in Chile, thinking: that's what I think, and that's what I think our party embodies. 
+
+What I would like for you to think about, leaving here tonight, basically are just three things. Number one, in terms of what we're going to do in the next two and a half years, in order to continue to win presidential elections, win back the Congress, and become the dominant party in the country again, I think we not only have to continue to win with an aggressive, specific agenda; I think we have to also keep pushing the big ideas -- that we do believe in opportunity for everybody, we do believe that we should expand the reach of human freedom, we do believe that we're stronger as a diverse country. 
+
+And there are two or three really simple things that I would like to mention that to me are quite important. And, frankly, I haven't succeeded yet in convincing huge numbers of the American people that this has to be a part of our thinking. The first is that it no longer makes sense to have a clear, bright line between what is an American domestic policy and what is a foreign policy. 
+
+Now, if I had succeeded in doing that, we wouldn't have some of the disputes we still have in our country today, and there would be more support in our country for paying our U.N. dues, investing in the International Monetary Fund, being responsible citizens in every way. 
+
+I think the American people know we're living in an interdependent world, but it's not such a high priority that politicians for their own purposes don't feel they can -- they still feel free to walk away from some of our responsibilities in the world. And I think that's a great mistake, because I can tell you -- you know, I believe that every nation I have set foot in as President, I was doing something that was good for the American people and their future and our children's future. {APPLAUSE} 
+
+You do not have to be a Jewish American or an Arab American to know that the children of our country will have a brighter future if there is peace in the Middle East. {APPLAUSE} You don't have to have come out of central Europe to know that the children of our country will have a brighter future if there is peace in Bosnia. You don't have to be Greek or Turkish to know that we'd be a whole lot better off if we'd resolve the problems over Cyprus. You don't have to be Indian or Pakistani to know that it would be an ultimate disaster if those two great nations went to war over Kashmir, when they could go to peace and change the whole future of the 21st century by their numbers and their ingenuity. 
+
+This is elemental, and as Democrats we have got to continue to push the fact that our children live in a smaller and smaller world, and that we cannot any longer just look at the outlines of the United States on a map and say only those events which occur within that border and only the people who live within those borders bear directly on our lives, our future, and our imagination. 
+
+The other thing I'd like to say is that I think that we have got to learn to stop thinking of ourselves as the environmental party, and start thinking of the environment as a part of all of our other policies. {APPLAUSE} I think we will never have the kind of country we want unless we say we can conquer the problem of climate change as we grow the economy. 
+
+We dare not think of some -- we can't even have health policy unless we have environmental policy. We have to learn think in a more integrated fashion. This may be late at night and you may think that's esoteric, but I'm telling you, I'm about through with my public service as an elected official. Most of my service as President is over, and I'm thinking about the things that will shape what our children have to live with for 30 or 40 years. 
+
+And the last thing I want to say is what the musical was about tonight is still the most important thing. We have got to inculcate in our people both the pride in their own heritage, beliefs, and convictions; and a fundamental respect, even a celebration, of people who are different from them. It is a great opportunity for the United States that we are the most diverse democracy in the world. 
+
+Now, as a factual matter, both Russia and India also have huge numbers of different ethnic groups, languages, and religions within their borders, but the difference is, largely those people live in geographically separate parts of the same country. Here, we're the most mixed up, if you will -- I don't mean addle-brained; I mean, intermixed -- diverse democracy in all of human history. 
+
+And if there is one thing I have learned as President that I did not really know when I took office in the way I know it now, it is that when people fight and kill each other or live in paralyzed isolation because of their ethnic, their racial, or their religious differences, they do not do it because of some dark content of human nature, some inevitable hard hand of history -- they do it because they don't have leaders who stand up and say, this is the right thing to do; that is wrong to do; we must not live apart; it is wrong to kill and hurt and maim people. {APPLAUSE} 
+
+So when you go home tonight, I hope you'll remember the play for the rest of your life, the musical. I hope you will always be proud you were here. But remember, there is a reason we're still hanging around after all these years. Because we've still got the same values we started with, but we never let the dead hand of history keep us from making the changes necessary to make the American Dream more real for more people in a more profound way in each new age and time. 
+
+And if we leave with that and we continue to fight for that and we remember the three specific things I said tonight, then 150 years from now a bunch of other people will be having a nice dinner celebrating the 300th birthday of the Democratic Committee. {LAUGHTER} 
+
+Thank you and God bless you. {APPLAUSE} 
+
+{/speech} 

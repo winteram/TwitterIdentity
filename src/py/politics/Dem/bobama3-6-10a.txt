@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President in Presenting the Library of Congress Gershwin Prize for Popular Song to Sir Paul McCartney {/title}
+{event} Presenting the Library of Congress Gershwin Prize for Popular Song to Sir Paul McCartney {/event}
+{speaker} Barack Obama {/speaker}
+{date} June 3, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you so much. Thank you, everybody. {APPLAUSE} Please, everybody have a seat. The show is not over. {LAUGHTER} To all the tremendous artists from all the genres and backgrounds who've joined us tonight to pay tribute to the one and only Sir Paul McCartney, thank you so much. {APPLAUSE}
+
+Stevie Wonder -- {APPLAUSE} -- the Jonas Brothers, Faith Hill, Emmylou Harris, Lang Lang, Herbie Hancock, Elvis Costello, Jack White, Corinne Bailey Rae, David Grohl, and the funny man, Jerry Seinfeld -- give it up for them. {APPLAUSE}
+
+We also want to thank the Gershwin family, as well as the Library of Congress, and Dr. James Billington, as well as PBS, for helping to put this together. Dr. Billington has done extraordinary work at the Library of Congress, and his deep commitment to preserving America's cultural heritage for future generations is something that we all treasure.
+
+We have a number of members of Congress, number of dignitaries here tonight. I want to make special mention of our outstanding Speaker of the House, Nancy Pelosi. {APPLAUSE} You will not find a bigger supporter of the arts than Nancy Pelosi, and so we're grateful for that.
+
+Even as we gather here tonight to present this annual award for extraordinary contributions to American music and culture -- that's right, we stole you, Paul -- {LAUGHTER} -- it goes without saying that this has been a very difficult time. We've gone through a difficult year and a half, and right now our thoughts and our prayers are with friends in another part of the country that is so rich in musical heritage -- the people of the Gulf Coast who are dealing with something that we simply had not seen before. And it's heartbreaking. And we reaffirm, I think together, our commitment to see to it that their lives and their communities are made whole again. {APPLAUSE}
+
+But part of what gets us through tough times is music, the arts, the ability to capture that essential kernel of ourselves, that part of us that sings even when times are hard. And it's fitting that the Library has chosen to present this year's Gershwin Prize for Popular Song to a man whose father played Gershwin compositions for him on the piano; a man who grew up to become the most successful songwriter in history -– Sir Paul McCartney. {APPLAUSE}
+
+By its very definition, popular music is fleeting. Rarely is it composed with an eye towards standing the test of time. Rarer still does it actually achieve that distinction. And that's what makes Paul's career so legendary.
+
+It's hard to believe it's been nearly half a century since four lads from Liverpool first landed on our shores -– and changed everything overnight. And I have to share this story. While we were sitting here I learned that the bass that Paul was playing on stage is the same bass that he played at The Ed Sullivan Show, which he told me it cost him 30 pounds. He says he suspects it's worth a little more now. {LAUGHTER}
+
+But the Beatles, they weren't the first rock stars. They'd be the first to say that others had opened that door for them. But they blew the walls down for everybody else. In a few short years, they had changed the way that we listened to music, thought about music and performed music forever. They helped to lay the soundtrack for an entire generation -- an era of endless possibility and of great change.
+
+And over the four decades since, Paul McCartney has not let up -- touring the world with the band Wings or on his own; rocking everything from small halls to Super Bowls. He's composed hundreds of songs over the years -– with John Lennon, with others, or on his own. Nearly 200 of those songs made the charts -- think about that -- and stayed on the charts for a cumulative total of 32 years. {LAUGHTER ; APPLAUSE} And his gifts have touched billions of lives.
+
+As he later confessed of the Beatles' first appearance on The Ed Sullivan Show -– where he carried that bass out -- that one evening that changed everything –- Paul said, “Luckily, we didn't know what America was. We just knew our dream of it, or we probably would have been too intimidated.”
+
+Tonight, it is my distinct pleasure to present America's highest award for popular music on behalf of a grateful nation -- grateful that a young Englishman shared his dreams with us -– Sir Paul McCartney. {APPLAUSE} 
+
+{/speech}

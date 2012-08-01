@@ -1,0 +1,44 @@
+﻿{title} Remarks by the Presidentand the Vice resident at South African Event {/title}
+{event} Event in Honor of South Africa {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 5, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Ladies and gentlemen, welcome to all of you. Last week we watched with wonder as the citizens of South Africa went to the polls, as voters lined up for miles and miles, coming on crutches and in wheelchairs, waiting patiently, crossing the countryside to exercise their franchise, to create a new nation conceived in liberty and empowered by their redemptive suffering.
+
+I have just spoken with President-Elect Mandela and with President de Klerk. I congratulated Mr. Mandela on his victory and told President de Klerk that he clearly deserves tremendous credit for his leadership. Their courage, their statesmanship, along with the leadership of Chief Buthelezi and others, has made this transition smoother than many thought possible.
+
+South Africa is free today because of the choices its leaders and people made. Their actions have been an inspiration. We can also be proud of America's role in this great drama. Because those of you here today and many others have helped to keep freedom's flame lit during the dark night of apartheid, Congress enacted sanctions to help squeeze legitimacy from the apartheid regime. Students marched in solidarity. Stockholders held their companies to higher ethical standards. America's churches, both black and white, took up the mantle of moral leadership. And throughout the fight, American civil rights leaders here helped to lead the way.
+
+Throughout, South Africa's cause has been also an American cause. Last week's miracle came to pass in part because of America's help. And now we must not turn our backs.
+
+Let me begin by saying that we all know South Africa faces a task of building a tolerant democracy and a successful market economy; and that enabling the citizens of South Africa to reach their potential, economically, is critical to preserving the tolerant democracy. To show that reconciliation and democracy can bring tangible benefits, others will have to help. I'm convinced South Africa can become a model for the entire continent. And America must be a new and full partner with that new government, so that it can deliver on its promise as quickly as possible.
+
+We've already begun. Over the past year, the United States sent experts to South Africa to negotiate a new constitution -- or to help them negotiate the new constitution. We provided considerable assistance to help their elections work. We lifted sanctions. We sent two trade and investment missions to lay the groundwork for greater economic cooperation. And we had a very fine American delegation of election observers there during the recent elections. And I'd like to especially thank the leader of that delegation, Reverend Jesse Jackson, for his outstanding contributions to the success of the South African elections. {APPLAUSE} Thank you, sir.
+
+Today I am announcing a substantial increase in our efforts to promote trade, aid and investment in South Africa. Over the next three years we will provide and leverage about $600 million in funds to South Africa. For this fiscal year we have increased assistance from $83 million to $143 million. Along with guarantees and other means, our resources, which will be mobilized for next year, will exceed $200 million.
+
+Through the programs of 10 U.S. government agencies, we will work with South Africans to help meet the needs which they identify -- to build homes and hospitals, to provide better education, to promote good governance and economic development.
+
+I'm writing to the leaders of the other G-7 countries and asking them to join us in expanding assistance to South Africa. And we urge the international financial institutions, such as the World Bank, to do the same.
+
+Next week, I'm also sending an official delegation to South Africa for President Mandela's inauguration. Vice President Gore will lead the trip, along with Mrs. Gore. They'll be joined by the First Lady, Secretary Brown, Secretary Espy, and many others, including those here in the audience today.
+
+We are taking these actions because we have important interests at stake in the success of South Africa's journey. We have an economic interest in a thriving South Africa that will seek our exports and generate greater prosperity throughout the region. We have a security interest in a stable, democratic South Africa, working with its neighbors to restore and secure peace. We have a clear moral interest. We have had our own difficult struggles over racial division, and still we grapple with the challenges of drawing strength from our own diversity. That is why the powerful images of South Africa's elections resonated so deeply in the souls of all Americans.
+
+Whether in South Africa or America, we know there is no finish line to democracy's work. Developing habits of tolerance and respect, creating opportunity for all our citizens, these efforts are never completely done. But let us savor the fact that South Africa now has the chance to begin that noble and vital work.
+
+Thirty-three years ago, Albert Luthuli became the first of four South Africans to win the Nobel Peace Prize. As he accepted the award, he described his people as, and I quote, "living testimony to the unconquerable spirit of mankind. Down the years they have sought the goal of fuller life and liberty, striving with incredible determination and fortitude."
+
+Today, that fortitude and the strivings of generations, have begun to bear fruit. Together, we must help all South Africans build on their newfound freedom.
+
+Thank you very much. {APPLAUSE}
+
+And now I'd like to ask The Vice President to come forward to make some acknowledgements and some remarks and to talk a little about the historic trip that the American delegation he will lead is about to make.
+
+Mr. Vice President. {APPLAUSE} 
+
+{/speech}

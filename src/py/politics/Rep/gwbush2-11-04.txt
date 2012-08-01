@@ -1,0 +1,94 @@
+﻿{title} President and Mrs. Bush's Remarks at a RNC Victory 2004 Rally {/title}
+{event} Moody Coliseum, Southern Methodist University, Dallas, Texas {/event}
+{speaker} George W. Bush {/speaker}
+{date} November 2, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. {APPLAUSE} Thank you all for coming. {APPLAUSE} I really appreciate you being here. It's great to be back where it all started. {APPLAUSE} Tomorrow my fellow Texans are going to the polls to help us start the next four years. {APPLAUSE}
+
+Ten years ago when I first ran for governor, I had my last campaign rally in Dallas, and we won. {APPLAUSE} Tonight, after six other stops, I'm having my last campaign rally in Dallas, and we're going to win. {APPLAUSE}
+
+I appreciate all your help and all your hard work. And I've got a pretty good feeling that Texas is going to be a red state tomorrow. {APPLAUSE} You're going to start a trend. {APPLAUSE}
+
+I want to thank all our friends who are here tonight. You know, we're blessed by having a lot of friends. I want to thank you from the bottom of my heart for all you have done for us for so many years, and what you're going to do tomorrow and for the years ahead. With your help, this will be the beginning of a new term to make America a safer place, a stronger place, and a better place. {APPLAUSE}
+
+I've had a fantastic time traveling our country. I love to get out amongst the people. I love America; I love its citizens. I've been telling people what I intend to do for the next four years, but the most -- probably the most important reason to put me back in is so that Laura will be the First Lady for four more years. {APPLAUSE} She has put her SMU degree to good work. {APPLAUSE}
+
+And I want to thank Gerald Turner and the trustees of SMU, and all the SMU students who are here today for coming out to say hello. {APPLAUSE} I'll try to keep my speech short so you can get back and do your homework. {LAUGHTER} Make sure you vote. Make sure you go to the polls. {APPLAUSE}
+
+One of the greatest things about this campaign is I've had a chance to campaign with Barbara and Jenna. I love them dearly. They are fantastic young women. {APPLAUSE} No, you can't have their phone number. {LAUGHTER}
+
+I'm proud of -- I'm proud of my nephew, George P. Bush, and his wife, Mandi. Thanks for coming. {APPLAUSE}
+
+I've got a great running mate in Dick Cheney. {APPLAUSE} He's done a great job as the Vice President. I'm looking forward to working with him for the next four years. {APPLAUSE}
+
+I want to thank my friend, Pete Sessions, for introducing Laura. {APPLAUSE} It is really important that you send Pete Sessions back to the United States Congress. {APPLAUSE}
+
+I see a lot of friends from the statehouse days. I'm really proud that the Governor of the great state of Texas is with us, Rick Perry. Thanks for coming, Governor. {APPLAUSE} And the Lieutenant Governor, David Dewhurst, is with us. Appreciate you coming. {APPLAUSE} I want to thank all the other statehouse officials. I know the Speaker of the House is with us, Speaker Tom Craddick and Nadine. {APPLAUSE} They're from our old hometown of Midland. {APPLAUSE}
+
+I want to thank the really find United States Senator from the state of Texas Kay Bailey Hutchison. {APPLAUSE} And the other Senator, who is also a really find United States Senator, John Cornyn. {APPLAUSE} I want to thank the members of the Congress who are here, Ralph Hall and Jeb Hensarling, Kay Granger and Michael Burgess. I'm proud you all are here. {APPLAUSE} Three candidates for the United States Congress who are here who I proudly support: Kenny Marchant, running for the 24th district -- {APPLAUSE} -- Louis Gohmert running out of CD 1, congressional district 1 in east Texas. I wish you all the best, Louis. {APPLAUSE} And I'm looking forward to having a new congressperson represent me in the Crawford area, and that person is going to be Arlene Wohlgemuth. {APPLAUSE}
+
+I want to thank Toby Keith for being here. It means a lot that he's here. {APPLAUSE} It sounds like he ought to be running. {LAUGHTER} I want to thank Tracy Byrd. I want to thank the SMU Mighty Mustang Band. Thanks for coming. {APPLAUSE} I want to thank my friend, Chuck Norris, who's here. {APPLAUSE}
+
+Most of all, thank you all for coming. {APPLAUSE} It's been a fantastic day traveling around our country. There's no better place to end it than right here in big "D" -- Dallas, Texas. {APPLAUSE}
+
+I understand this about the presidency: The American President must lead with clarity and purpose. {APPLAUSE} The role of the President is not to follow the path of the latest polls. {APPLAUSE} The President must not change positions for the sake of political convenience. {APPLAUSE} The President must lead based on principle and conviction and conscience. {APPLAUSE}
+
+During these four years, I have learned that whatever your strengths are, you're going to need them, and whatever your shortcomings are, people are going to notice them. {LAUGHTER} Sometimes, I'm a little too blunt. I get that from my mother. {APPLAUSE} Sometimes I mangle the English language. {LAUGHTER} I get that from my father. {LAUGHTER} But all times, whether you agree with me or not, you know where I stand, what I believe, and where I'm going to lead. {APPLAUSE}
+
+I have been letting the people know what I intend to do for the next four years. I'm running to make sure this economy stays strong by keeping our taxes low and doing something about these lawsuits that are making it hard on our small business owners. {APPLAUSE} I'm running to make sure every child can learn, and keep the high standards in our public schools so no child is left behind in America. {APPLAUSE} I'm running to make sure health care is available and affordable. And to reduce the cost of medicine and to keep good doctors in practice, we've got to get rid of these junk lawsuits that are running up the cost of medicine. {APPLAUSE} In all we do to reform health care in Washington, we'll make sure the decisions are made by doctors and patients, not by officials in Washington, D.C. {APPLAUSE}
+
+I believe the President's job is to confront problems, not to pass them on to future Presidents and future generations. {APPLAUSE} We've got a problem with Social Security. Social Security is fine for those who are now on Social Security and we'll always keep the promise to our seniors. Social Security is okay for baby boomers like me, and like some others out there I see. But we need to worry about our children and our grandchildren when it comes to Social Security. I believe younger workers -- {APPLAUSE} -- I believe younger workers -- younger workers ought to be able to take some of their own payroll taxes and set up a personal savings account, an account they call their own. {APPLAUSE}
+
+Over the next four years, I'll continue to stand for the values that are important to our nation. I stand for marriage and family, which are the foundations of our society. {APPLAUSE} I stand for a culture of life in which every person matters and every being counts. {APPLAUSE} And I stand for the appointment of federal judges who know the difference between personal opinion and the strict interpretation of the law. {APPLAUSE}
+
+During the course of this campaign, after all the debates and all the speeches, it is clear there are big differences between me and my opponent. He's from Massachusetts, and I'm from Texas. {APPLAUSE} He is a committed liberal, and I am a compassionate conservative. {APPLAUSE} He's voted to cut our intelligence budget and major weapons systems; I am for a strong national defense. {APPLAUSE} He has promised to raise taxes.
+
+{BOOING} 
+
+And that is generally a promise most politicians keep. I'm for keeping your taxes low. {APPLAUSE}
+
+And we've got a big difference when it comes to protecting the American people. The most important job of the American President is to protect the American people. {APPLAUSE} If America shows uncertainty or weakness during these troubling times, this world of ours will drift toward tragedy. This is not going to happen on my watch. {APPLAUSE} We are steadfast, we are resolved. We will chase the terrorists around the world so we do not have to face them here at home. {APPLAUSE}
+
+There are big differences of opinion about how to protect America. During one of our debates, my opponent said that America must pass a global test before we commit troops.
+
+{BOOING} 
+
+I'm not making that up. {LAUGHTER} I heard him say it. {LAUGHTER} He was standing right about there. As far as I can tell, that means this nation of ours must go to other nations to seek permission before we secure our defense.
+
+{BOOING} 
+
+In a new term, I will work with our allies, and I will strengthen our alliances, but I will never turn over America's national security decisions to leaders of other countries. {APPLAUSE}
+
+Now, we have big differences. I have told the families of our military and those who wear the uniform they will have all they need. The military will have all it needs to complete their missions in Afghanistan and Iraq. {APPLAUSE} That's why I went to the Congress and asked for $87 billion for supplemental funding in September of 2003. It was important funding. It was necessary funding for our troops. And we received -- {APPLAUSE} -- and we received great bipartisan support. As a matter of fact, my opponent first said that it would be irresponsible to vote against funding for the troops, until his poll numbers went down. {LAUGHTER} And then he actually did the irresponsible thing and he voted against funding for our troops.
+
+{BOOING} 
+
+And then -- and then he entered the flip-flop hall of fame. {APPLAUSE} And as he entered that hall of fame, he said: "I actually did vote for the $87 billion before I voted against it." {LAUGHTER} I have spent hours in the coffee shops of Texas. I have never heard anybody in this great state talk that way. {APPLAUSE}
+
+He has given a lot of explanations about that vote since then, but I think the most revealing explanation was this. He said, the whole thing was a complicated matter. {LAUGHTER} There's nothing complicated about supporting our troops in combat. {LAUGHTER}
+
+We have a difference of -- we have a different understanding about this war on terror. My opponent says September the 11th didn't change him much at all.
+
+{BOOING} 
+
+Well, September the 11th changed me, and it changed my outlook about how to protect you, about how to do my duty to protect the American people. I will never forget the day I went to the ruins of the Twin Towers. It was September the 14th, 2001. There were workers there in hard hats yelling at me at the top of their lungs, "Whatever it takes." I remember a man grabbed me by the arm and he looked me in the eye, and he said, "Do not let me down." Ever since that day -- ever since that day, I wake up every morning trying to figure out how to better protect our country. I will never relent in our nation's defense, whatever it takes. {APPLAUSE}
+
+{AUDIENCE} USA! USA! USA!
+{/AUDIENCE} 
+Fantastic way to -- fantastic way to win -- way to end what has been a great campaign. These are historic times. There's a lot at stake in this election. The future safety and prosperity of America are on the ballot. The truth of the matter is, this election comes down to, who do you trust. Who do you trust?
+
+{AUDIENCE} You! {/AUDIENCE} {APPLAUSE}
+
+The American people will trust the candidate who can see a better day -- {APPLAUSE} -- who can clearly see that you can't lead this nation unless you know where you want to lead it. And I know exactly where I want to take this nation for the next four years.
+
+One of my favorite sayings comes from a fellow Texan, Tom Lea. He said, "Sarah and I live on the east side of the mountain. It is the sunrise side, not the sunset side. It is the side to see the day that is coming, not to see the day that is gone." {APPLAUSE} During much of this campaign, my opponent has been talking about the day that is gone. I'm talking about the day that's coming. {APPLAUSE} I'm talking about a better day for every American. I see a day where prosperity reaches every corner of our country, a day where every child is able to read and write. And I see a day, because we spread freedom, that this world becomes more peaceful and we achieve the peace we want for our children and our grandchildren. {APPLAUSE}
+
+Now, I see a better day. And tomorrow, the people of America have a chance to bring that better day to all of us by voting for strong, confident, optimistic leadership, by sending me and Dick Cheney back to Washington, D.C. {APPLAUSE}
+
+Four years ago -- four years ago when I traveled our country asking for the vote, I made a pledge that if I was elected, I would uphold the honor and the dignity of the office. Because of your friendship, because of the hard work of many people here, because of the votes tomorrow, I will continue to uphold the honor and the integrity of the presidency for four more years. {APPLAUSE} Thank you for coming. God bless. On to victory. Thank you all. {APPLAUSE} 
+
+{/speech}

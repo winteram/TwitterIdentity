@@ -1,0 +1,15 @@
+﻿{title} Statements of Senator John F. Kennedy and Senator Llyndon B. Johnson at the Farm Conference {/title}
+{event} DES MOINES, IOWA {/event}
+{speaker} Lyndon B. Johnson {/speaker}
+{date} August 21, 1960 {/date}
+{source} http://www.jfklink.com/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+My fellow farmers and fellow Americans, I came here to listen and to learn. I came here to tell you that I violently disagree with the statement the present Vice President of the United States made in this city many years ago, namely that the Secretary of Agriculture, Mr. Benson, would go down in history as one of the greatest Secretaries of Agriculture in the history of our country. {APPLAUSE}
+I did not come here to get personal. I don't think Mr. Benson is entirely to blame for the mess in which the farmers find themselves. It is too big a mess for any one man to do by himself.
+I am proud to be on the ticket with John F. Kennedy. {APPLAUSE} I believe when he is sworn in that he will staff the Department of Agriculture with men who are in sympathy with the farmers of this Nation. {APPLAUSE}
+Down in my part of the country, we don't make the executors of our wills or the trustees of our children from enemies of our family. I agree with the recommendations made by the members who attended this meeting yesterday. I embrace in toto the recommendations on agriculture made in our platform. I believe that the next Democratic administration will do something about reducing mortgages that have soared 50 percent under the Republican administration, and something about farm income that has dropped 30 percent. I say this to you - if you will recommend it, we will study it and evaluate it, and the Congress will pass it. And although I can't completely speak for him, I assure you that when we do, the President will sign it. {APPLAUSE} 
+
+{/speech}

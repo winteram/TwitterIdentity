@@ -1,0 +1,71 @@
+﻿{title} President Speaks to Community Leaders in Los Angeles {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} April 29, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Well, thank you all very much. My fellow Americans. {LAUGHTER} I'm honored to be here. I want to thank you, John, very much for your leadership and your vision. It's nice to see your mother here. {LAUGHTER} My mother is still telling me what to do, too. {LAUGHTER} I'm sure you're listening. {LAUGHTER} So am I. 
+
+I want to thank you all for giving me a chance to come and just share some thoughts with you about what's on my mind. I want to thank Reverend Murray. {APPLAUSE} I want to thank him for riding back from the airport with me and sharing his thoughts and his vision and his hope. 
+
+I want to thank John Mack. {APPLAUSE} John's reputation had preceded him, and he managed to even make it to the state of Texas. {LAUGHTER} He's a great leader of the Urban League, and I want to thank him for his visionary and steadfast leadership. As John told me, the aftermath of the civil unrest as part of the world began to rebuild, becoming a more hopeful place, and John quickly pointed out, partly because of the leadership of the two men I just named. And I want to thank them for being such solid citizens in a community that needed leadership. 
+
+I want to thank, as well, Charles Kim and Antonio Hernandez for inviting me and helping set up what has been a very interesting and important discussion for me. You see, the President is -- can still learn. And I try to learn and absorb what's best about America so I can share it with other Americans. And the spirit of the discussion we had was important for me to see and hear. I wish all of America could have heard how optimistic and hopeful people were. 
+
+These are folks from the religious community, community-based community, the business leaders. We had bankers. We've got some entrepreneurs that are -- and I know a little something about entrepreneur -- the entrepreneurial spirit, and these were the entrepreneurs' entrepreneurs. {LAUGHTER} I want to thank them for telling me their stories. 
+
+You know, I firmly believe God is on the side of justice and reconciliation. But as Martin Luther King said, God isn't going to do it all by Himself. {APPLAUSE} And I like to put it this way, that these good folks are soldiers in the armies of compassion. We had some generals, we had some sergeants, we had some privates, but all of them a part of this army. All of them anxious to make the American experience sent throughout all neighborhoods. And I feel the same way. 
+
+I fully understand that 10 years ago this city, because of some violence -- a lot of violence -- saw incredible destruction in lives and in property. Mr. Kim was talking about the dashed dreams of many of the Korean entrepreneurs. A lot of hopes were lost. The violence and the lawlessness always affects the most poor, always hurts the weakest. And yet out of this violence and ugliness came new hope. And we discussed that today. 
+
+I want to congratulate this city. Mr. Mayor, you're the Mayor of a great city. {APPLAUSE} And I want to congratulate the leaders here, and the people here, to show the rest of the country what is possible, what can happen, what is possible in America when people put aside differences and focus on what's best for all. 
+
+And that's what I heard today at the table. We talked about economic development. I believe strongly it's important for people to learn to own, own their own business. And we talked about the hurdles between ownership and reality, and what the government can do about those hurdles. 
+
+I heard from bankers talking about the CRA and how to make that more effective. I heard from shopping center developers who believe strongly, and understand fully, that investment in South Central L.A. is a, first and foremost, good business policy. And it obviously is good social policy, as well. And I want to thank them for sharing that with me. 
+
+I heard about the Renaissance Program. {APPLAUSE} More than once I did hear about it. {LAUGHTER} I was about ready to sign up. {LAUGHTER} We talked about education. I like to put it this way: Reading is the new civil right. Because if you can't read, you cannot possibly be educated; and if you're not educated, you can't succeed. And so in order to make sure -- {APPLAUSE} -- in order to make sure that everybody -- and I mean everybody -- I don't care how you vote, everybody gets a shot. We've got to make sure that everybody gets educated. 
+
+And there is a role for the federal government to play. We fund, and that's important. But I firmly believe that the federal government and local governments must expect the best from every child. I mean the best. Every child can learn. I refuse to accept a system that quits on certain children because it's deemed -- they're deemed to be too hard to educate. {APPLAUSE} 
+
+We must determine as a society whether our children are learning or not. And if they're not, we've got to insist upon change. We can't have a system that just simply shuffles children through. That's got to end if we're going to make sure that every child gets educated in America. 
+
+I am passionate on the subject of education. I also am wise enough to know that all wisdom doesn't exist in Washington, D.C. We can write a pretty good check, but we ought not to be telling the local folks how to chart the path to excellence. We ought to be encouraging educational and social entrepreneurs to get involved with the education of every single child. And when there's failure, we need to blow the whistle on failure. And when we find success, we need to praise success. {APPLAUSE} 
+
+We talked about after-school programs. Big Lou Danzler was talking about the Challenger Boys and Girls Clubs, and I want to thank Lou for his leadership. 
+
+We talked about -- we talked about faith, and the importance of faith in our society. Now, I don't want government to be the church, and I don't want the church to be the government. But government should not fear faith and faith-based programs. Government should not worry about programs that come out of church or synagogue or a mosque, all aimed at loving a neighbor just like you'd like to be loved yourself. The universal call to love is something to be nourished, not feared. 
+
+And I -- there is a role for government. When we fund programs, we ought not to discriminate against faith-based programs. {APPLAUSE} And we ought not to cause the faith-based program to have to change its mission in order to receive any money. Otherwise it won't be a faith-based program. It will fall into the old government program. 
+
+See, government can hand out money. But government cannot put hope in people's hearts. It cannot put faith in people's lives. And faith is a powerful -- faith is a powerful motivator. Many a program relies upon faith, and we ought to welcome the faith-based programs into the compassionate delivery of help. 
+
+I know firsthand. I know what faith can mean in somebody's life. That's why I remind people I'm just a humble sinner who sought redemption. And I -- {APPLAUSE} -- 
+
+{AUDIENCE-MEMBER} Preach, Mr. President. {/AUDIENCE-MEMBER} {LAUGHTER} 
+
+Well, I don't want to get too far. {LAUGHTER} 
+
+{AUDIENCE-MEMBER} Well -- {/AUDIENCE-MEMBER} {LAUGHTER} 
+
+You know, we have a chance to show the world that out of the evil that was done on September the 11th can come incredible good. I believe that, I truly do. I believe that by being firm and tough when it comes to hunting down killers, that eventually we can help bring peace to the world. That is my goal. I want the children and their children's children to grow up in a peaceful world. And I think we can do that. I do. {APPLAUSE} 
+
+And we can show the world the true face of America, as well. Oh, it's a diverse face, no question about it, which is our strength, not our weakness. But it's a face that can be bound by common goals and common values. It's a face that can stand squarely in the face of evil by the collective acts of people doing good in America. 
+
+And that's what I heard today. The great hope of the country really isn't the government. The great hope of the country lies in the hearts and souls of our people. You've showed it in this community. Ten years after civil unrest that made history, the community is rebuilding herself with great hope and great promise. 
+
+And that's an important lesson. It's an important lesson not only for other communities, it's an important lesson for our whole country, because out of the evil that was done on September the 11th can come incredible good. And it's happening. 
+
+So my job as the President is to rally -- rally the spirit of the nation, and to thank those who are integrally involved in helping people help themselves. 
+
+I want to thank John again for such a kind invitation. I am so honored that you would invite me, a Texan -- {LAUGHTER} -- to come right here to L.A., and to herald what is possible. 
+
+You know, we live in a great country. {APPLAUSE} I mean, the greatest country on the face of the Earth. I'm proud of America. I'm proud of our country. I'm proud of what we stand for. Oh, I know there's pockets of despair. That just means we've got to work harder. It means you can't quit. It means we've got to rout it out with love and compassion and decency. But this is the greatest country on the face of the Earth. And it is such an honor to be the President of such a great land. 
+
+Thank you all for coming today. {APPLAUSE} May God bless you. May God bless America. {APPLAUSE} 
+
+{/speech} 

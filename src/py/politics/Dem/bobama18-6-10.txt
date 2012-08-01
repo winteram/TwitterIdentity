@@ -1,0 +1,72 @@
+﻿{title} Remarks by the President at the Site of the 10,000th ARRA Road Project {/title}
+{event} Site of the 10,000th ARRA Road Project {/event}
+{speaker} Barack Obama {/speaker}
+{date} June 18, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good afternoon, everybody.
+
+{AUDIENCE} Good afternoon. {/AUDIENCE} 
+
+Well, it is great to be back in Ohio. Strickland said I've been in Ohio so much he might start charging me for it. {LAUGHTER}
+
+It is wonderful to be back in Ohio, and it is wonderful to be back in the beautiful city of Columbus. I just want to say thank you right off the top to Mayor Coleman for his outstanding leadership of this city. {APPLAUSE} You've got one of the best mayors in the country. You also got one of the best governors in the country in Ted Strickland. {APPLAUSE}
+
+And I also want to just acknowledge that you're going to have one of the best -- you already have one of the best senators in Sherrod Brown, and you're going to have another one in Lee Fisher. {APPLAUSE} So we appreciate the great work that they're doing.
+
+I'm going to mention some of the congressional delegations here, because they've got a lot to do with what's going on at this site.
+
+My last visit here was a little over a year ago, when I came to take part in a graduation ceremony for 114 -- the 114th class of the Columbus Police recruits. Some of you may remember that. I know the mayor does. I don't have to tell anybody here that these have been difficult times for Ohio and difficult times for the country. And when I was here last, America was losing 700,000 jobs per month. Our economy was shrinking. Plants and businesses right here in Ohio were closing. And we knew that if we failed to act, then things were only going to get much worse.
+
+That's why, with the support of Sherrod Brown, but also members of the House of Representatives Mary Jo Kilroy, Steve Driehaus and Charlie Wilson, who are all here -- wave, guys -- {APPLAUSE} -- that's why these folks worked so hard to pass the Recovery Act, which cut taxes for middle-class families, that way boosting demand; cutting taxes for small businesses so that they could make payroll and keep their doors open; extending unemployment insurance and COBRA to help folks make it through some really tough times; to rebuild our infrastructure and make investments that would spur additional investments from the private sector and strengthen our country in the long run. That's what the Recovery Act was all about.
+
+And since then, here in Ohio, nearly 2,400 small businesses have gotten loans to keep their doors open and their workers on payroll, 4.5 million families have gotten tax cuts to help pay their bills and put food on the table, some 450 transportation projects are underway or have been completed, and more than 100,000 Ohioans are at work today as a result of these steps. And today, I return to Columbus to mark a milestone on the road to recovery: the 10,000th project launched under the Recovery Act. That's worth a big round of applause. {APPLAUSE}
+
+And I want to thank Secretary Ray LaHood, who has been instrumental in so many of the projects that have taken place. He has done an outstanding job, as have our other agencies in administering these programs.
+
+Now, these projects haven't just improved communities. They've put thousands of construction crews -- just like this one -- to work. They've spurred countless small businesses to hire because -- these are some big guys here, so they got to eat -- {LAUGHTER} -- which means that you got to get some food brought in -- or the local restaurants here benefit from the crews being here at work. It means that instead of worrying about where their next paycheck is going to come from, Americans across the country are helping to build our future -- and their own futures.
+
+Now, as my friend Joe Biden -– who has done a great job overseeing the Recovery Act -- would say, this is a big deal. {LAUGHTER} And I think it's fitting that we've reached this milestone here in this community, because what you're doing here is a perfect example of the kind of innovation and coordination and renewal that the Recovery Act is driving all across this country.
+
+A lot of people came together to make this day possible -- business and government, grassroots organizations, ordinary citizens who are committed to this city's future. And what you're starting here is more than just a project to repair a road –- it's a partnership to transform a community.
+
+Mayor Coleman was describing for me how all these pieces fit together on the way over here. So the city is using recovery dollars to rebuild the infrastructure. And because of that, in part, the hospital is expanding its operations to take even better care of more people, more children, here in Columbus and throughout Ohio, which means they're hiring more people.
+
+So together, you're creating more than 2,300 new jobs and sending a powerful message that this neighborhood will soon be a place where more families can thrive, more businesses can prosper, economic development that's being sparked today is going to continue into the future. And my understanding is, because the hospital is now growing, that means they're putting money back into the neighborhood for housing and other facilities so that the entire community starts rebuilding.
+
+Ultimately, that's the purpose of the Recovery Act –-not just to jumpstart the economy and get us out of the hole that we're in right now, but to make the investments that will spur growth and spread prosperity and pay dividends to our communities for generations to come.
+
+Since I was here last year, we've begun to see progress all across the country. Businesses are beginning to hire again. Our economy, which was shrinking by 6 percent when I was sworn in, is now growing at a good clip, and we've added jobs for six out of the past seven months in this country. We were losing 700,000 jobs a month; for the last six out of the last seven months, we've increased jobs here in the United States of America, in part because of the policies that these members of Congress were willing to step up and implement.
+
+Now, I'm under no illusion that we're where we need to be yet. I know that a lot of families and communities have yet to feel the effects of the recovery in their own lives. There are still too many people here in Ohio and across the country who can't find work; many more can't make ends meet. And for these folks, the only jobs we create that matter are the ones that provide for their families.
+
+So while the recovery may start with projects like this, it can't end here. The truth is if we want to keep on adding jobs, if we want to keep on raising incomes, if we want to keep growing both our economy and our middle class, if we want to ensure that Americans can compete with any nation in the world, we're going to have to get serious about our long-term vision for this country and we're going to have to get serious about our infrastructure.
+
+And I want to say a few words about infrastructure generally. Along with investments in health care education, clean energy and a 21st century financial system that protects consumers and our economy, rebuilding our infrastructure is one of the keys to our future prosperity.
+
+If we're going to rebuild America's economy, then we've got to rebuild America, period -- from the ports and the airways that ship our goods, to the roads and the transit systems that move our workers and connect cities and businesses.
+
+Now, some of this work involves fixing infrastructure that's already in place -- patching up roads, repairing bridges, replacing old sewer lines. And the Recovery Act has made important investments in all these things. I mean we've got a huge backlog of work just with the infrastructure that we've got that could put hundreds of thousands of people to work all across the country -- just repairing roads that we already have and fixing sewer lines that are badly in need of repair.
+
+But here's the thing, Columbus. Repairing our existing infrastructure is not enough. We can't build an economy that sustains our kids and our grandkids just by relying on the infrastructure that we inherited from our parents and our grandparents.
+
+We can't let other countries get the jump on us when it comes to broadband access. There's no reason why Europe or China should have the fastest trains instead of the United States. There's no reason that Germany or other countries in Europe should have the newest factories that manufacture clean energy products instead of us right here in the United States.
+
+That's why the Recovery Act has been making unprecedented investments in clean energy, spurring America's businesses to build some of the world's largest wind and solar projects right here in the United States of America. I said this once at a State of the Union address: America does not settle for second place. And we're going to make the investments to make sure we are first in the future -- not just in the past. That's got to be our priority. That's why we're bringing high-speed Internet to ten thousands of homes -- tens of thousands of homes, and businesses and hospitals and schools. It's why Ray LaHood is helping to lead a surge in new investment in high-speed rail. That's why we're investing in electronic medical records.
+
+A year ago, American businesses had just 2 percent of the market in the production of electric car batteries that power the vehicles of the future. All these hybrid cars that have electric batteries? Those batteries were made someplace else; we only had 2 percent of them. We made investments in the Recovery Act, and by 2015, U.S. companies are going to have 40 percent of the global market. We have created an advanced battery manufacturing facility -- facilities right here in the United States that are going to allow us to maintain that cutting edge.
+
+From the very first railroads to the Interstate Highway System, our nation has always been built to compete. And you know, the history of Ohio is a testament to that. Nearly two centuries ago, our nation's first federally funded highway -- the National Road -- was extended across Ohio, bringing a generation of settlers west to this new frontier, and paving the way for the automobile that would transform our landscape.
+
+And for our economy to thrive in this new century, we've got to act with that same sense of purpose and that same spirit of innovation. That's why the recovery is just beginning -- just the beginning of the investments we're going to have to make for years on our infrastructure. It's just the beginning of the work of increasing our mobility and our productivity, reducing congestion, reducing pollution, creating good jobs that can't be shipped overseas.
+
+Because we know what we can achieve when we act boldly and invest wisely. We're seeing it right here in this community. We see it in this hospital and the depths of its commitment to this city. We see it in the city leaders who saw a need and an opportunity in this neighborhood and decided to act. We see it in the folks right here who are ready to get to work building this road and providing for their families. And I'm confident that we'll soon see it in new families and businesses that are calling this area home.
+
+It is with that vision of a brighter future -- for this city and for the country -- that we begin this project, and I am looking forward to seeing all that you achieve in the years and months to come.
+
+So thank you. Congratulations for the great work you guys are doing. God bless you, and God bless the United States of America. {APPLAUSE} 
+
+{/speech}

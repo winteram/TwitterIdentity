@@ -1,0 +1,56 @@
+﻿{title} Remarks by the President at Assault Weapons Event {/title}
+{event} Assault Weapons Event {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 2, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Assault Weapons Event {/description}
+
+{speech} 
+
+Thank you very much, Chief. He's come a long way from Wisconsin to bring a little Middle Western common sense to the nation's capital.
+
+When the House of Representatives votes this week on Thursday, they shouldn't forget the tragedy that the Chief just talked about. Think about it -- a 30-year veteran of the police department killed by an M1-A1 assault rifle after a bank robbery; two other police officers and a hostage also wounded. These things can be prevented.
+
+I also want to thank John Magaw for what he's said. He's done a fine job as Director of the Alcohol, Tobacco and Firearms division. And before that he was Director of the Secret Service. I think you could tell his heartfelt concern there. He has two sons and a son-in-law all in law enforcement. They deserve a chance to do their job with less danger, not more.
+
+I thank Secretary Bentsen for his sterling leadership. We joked a lot of times about whether there will be somebody blocking his entrance to his ranch when he goes quail hunting this fall -- {LAUGHTER} -- but I don't really think so.
+
+One of the things that I've learned since I've been here, even more than when I was a governor, is that very often a lot of these organized interest groups don't always represent the members -- their unorganized members -- and what they really feel in their heart of hearts.
+
+I want to thank the leaders of the law enforcement organizations that are here today -- Bob Scully, the Director of the National Association of Police Organizations; Sylvester Daughtry, the President of the International Association of Chiefs of Police; John Pitta, the Vice President of the Federal Law Enforcement Association; Mark Spurrier, the Director of the Major Cities Chiefs; and Chuck Wexler, who's with the Police Executives Research Forum.
+
+I want you all to think about what all you've heard. There are a lot of people in this audience today who have experienced a loss of life in their own family. And I realize that here today in a fundamental way we're sort of preaching to the saved. But what we hope to do here is to energize you to talk to those last few members of the House we need to put this bill over the top; to tell them this is not about gun control, it's about crime control.
+
+I would never do anything to infringe on the rights of sportsmen and women in this country. I have -- I guess I was 12 years old the first time I fired a .22 or a .410. But I think to hide behind the rights of sports people to justify the kind of unconscionable behavior that takes place every single day on the streets of this country is an unforgivable abuse of our common right to be hunters. It is an abuse of that.
+
+All over the world today, all you have to do is pick up the newspaper, any given day, and you see how we are worried about the disintegration of civic life in other countries. We read about the horror of Bosnia, and we say, my God, why can't the Muslims and the Serbs and the Croats just get along? We read about bodies being thrown into the river in Rwanda and say, good Lord, why are those people doing that to each other?
+
+We read now about the rise of organized crime in Russia, and it breaks our heart. They finally get rid of communism and they try to go to a more entrepreneurial society, and a new group of dark organizations springs up and commits murder. We worry about what's happening in our neighboring country south of our border, especially to our friends in Mexico, when we hear about what's being done by people running drugs.
+
+And we worry, we worry, we worry, and we don't look around and see -- we have more people behind bars already in this country, a higher percentage of our population, than any country in the world -- already. And when we come up with a bill like this, they say you ought to put more people in jail and keep them there longer. Well, some people ought to go to jail longer, and our crime bill does that.
+
+But our disintegration, my fellow Americans, is in the streets of our cities where, as John Magaw says, we have suffered a breakdown of family and work and community, and where that vacuum has been filled by guns like this, and people who use them in a very well organized way.
+
+Will this solve all of the problems in America? No. Like John said, this is a puzzle. We're trying to fill in the puzzle with the crime bill. And in the end, the puzzle has to be filled by people like this fine Chief out there on the streets of our cities, and whether the people who live in his community will work with it to take their streets back. But I'm telling you: This is an amazing -- it's amazing to me that we even have to have this debate. I mean, how long are we going to let this go on?
+
+San Francisco last summer, a gunman carrying two TEK-9s killed eight people and wounded six others. Last week, when we had an event for this bill, I'm sure a lot of you saw the husband of one of the women who was killed in that tragedy, Steve Sposato, who now is raising his beautiful daughter by himself.
+
+Yes, that guy was crazy, and maybe he'd have gone in there with that old six-shooter and killed somebody; but Steve Sposato would like to have his wife's chances back.
+
+Five years ago, a gunman using an AK-47 killed five elementary school kids. This happens every day. We lost two people and had three more wounded outside the CIA headquarters last year. Remember that -- with a gunman with an AK-47.
+
+So I say to you, I'm sorry to be so frustrated, but sometimes it seems that the President's job ought to be dealing with things that are not obvious. {LAUGHTER} I mean, at least health care is a complex subject. It's obvious we need to do something about it, but it's complicated. I concede that; I welcome these debates.
+
+How can we walk away from this? Especially when this bill protects over 650 specific hunting weapons? I mean, I don't understand why the organizations aren't saying, well, hallelujah, this is the first federal explicit protection we ever had for the means of hunting.
+
+And I really -- I was proud of what Mr. Magaw said, talking about the only color -- I mean, I have heard people with a straight face saying, well, there are some adults that like to go target practice with these things. Well, they need to read a good book. {LAUGHTER ; APPLAUSE} Or take up bowling -- {LAUGHTER} -- or just follow -- or, you know, you can hunt nearly 12 months out of the year if you hunt everything. {LAUGHTER} This is -- it is imperative. We just have a few days left.
+
+And I urge you to spend less time with each other and more time putting the hammer of your feelings into the deliberations in the House of Representatives. And something else -- no good member of the House or Senate, no Republican or Democrat, no rural legislator should ever fear losing their seat for voting for this bill. And something else you ought to do is tell every office you call: If you do this, I will fight for you for voting for this; I will -- there may be differences over other issues, but I will do everything I can to see that nothing diminishes your standing because of this.
+
+This is not a complicated issue. And we will have more issues like this. Every great society is going to face, for the foreseeable future, these incredible tensions between our freedom and our abuse of our freedom; between the need for liberty and the need for order; between our desire to have an entrepreneurial, freeflowing society and the absolute need for some discipline that enables us to live as human beings civilly together and give our children a chance to grow up.
+
+And some of the decisions we'll have to make will be more difficult than this. But this is a lay-down, no-brainer -- {LAUGHTER} -- and the Congress must not walk away from it. Please help us to pass it. {APPLAUSE}
+
+Thank you. 
+
+{/speech}

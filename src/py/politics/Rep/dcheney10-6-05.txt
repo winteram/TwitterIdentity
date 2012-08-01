@@ -1,0 +1,30 @@
+﻿{title} Vice President's Remarks at Special Forces Heroism Awards Ceremony {/title}
+{event} MacDill Air Force BaseTampa, Florida {/event}
+{speaker} Dick Cheney {/speaker}
+{date} June 10, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. {APPLAUSE} Thank you very much. Thank you, General Brown. And I'm delighted to be here this afternoon. I appreciate the warm welcome. Lynne and I consider it a great privilege to visit the Special Operations Command, and to spend time in the company of America's silent professionals.
+
+Each one of you has taken an oath to serve the nation, and you do so in a period of tremendous consequence. Almost four years ago, the United States was attacked by enemies who hate our country and oppose everything we stand for in this world. They have declared their intention to strike America yet again, and they seek weapons of mass destruction, in order to blackmail free nations and to commit murder on a massive scale. After the grief of September 11th, 2001, this nation made a decision: We will not sit back and wait for future attacks. We'll prevent those attacks by taking the fight to the enemy.
+
+The war on terror is a new kind of conflict, against a new kind of adversary, presenting a daily test to our national resolve. And the greatest demands have come to the men and women of our armed forces. Once again, special ops are the tip of the spear -- and your performance has been absolutely superb. By your service in distant lands, facing constant pressure and life-or-death situations, you are delivering patient justice to freedom's enemies. And I want you to know that your country is very proud of you.
+
+This morning we recognize five special operators who have performed with exceptional distinction in the face of peril. Each of the medals I am about to award has a long and distinguished history. By their actions, these men have reflected exceptional credit on the armed forces, and on the nation we are all proud to serve.
+
+The Bronze Star, first authorized during World War Two, is awarded for heroic service while engaged in action against an enemy of the United States -- and one of the earliest recipients of this decoration was Army Captain Audie Murphy. It's presented this afternoon to Chief Boatswain's Mate Donald Stokes of Casper, Wyoming. As the citation will indicate, Chief Stokes has earned a second award of the Bronze Star -- and so his medal will bear a Gold Star as well.
+
+The Silver Star dates back to the early 20th Century, and is cited for gallantry in action. Many decades ago, Silver Star Medal number one, with six oak leaf clusters, was presented to Army General Douglas MacArthur. Today the Silver Star is given to Army Sergeant First Class Stephan Johns of Pleasantville, New Jersey.
+
+The Distinguished Service Cross also dates back to the early 20th Century, and is presented for extraordinary heroism. Short of the Medal of Honor, the Distinguished Service Cross is the highest decoration that can be earned by a member of the United States Army. It's given this afternoon to Master Sergeant Donald Hollenbaugh of Clarkston, Washington.
+
+The Distinguished Flying Cross was created by Congress in 1926, and first presented to Captain Charles A. Lindbergh of the Army Corps Reserve. It is awarded for extraordinary achievement while participating in aerial flight. The Distinguished Flying Cross is presented today to Air Force Major Matthew R. Glover of Longview, Texas, and Army Chief Warrant Officer David Smith of Colorado Springs, Colorado. In addition, Major Glover receives an Oak Leaf Cluster with Valor.
+
+And now if you will, publish the orders.
+
+{COMMENT="The orders are published. The medals are presented"} 
+
+{/speech}

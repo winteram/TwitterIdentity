@@ -1,0 +1,60 @@
+﻿{title} Remarks by the President at Independence Day Celebration {/title}
+{event} Independence Day Celebration {/event}
+{speaker} Barack Obama {/speaker}
+{date} July 6, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good evening, everybody. {APPLAUSE} On behalf of Michelle and myself, and the girls -- and Bo -- welcome to the White House. And Happy Fourth of July. {APPLAUSE}
+
+All across our great country today, folks are coming together, decked out in their red and white and blue, firing up the grill, having a good time with family -- just like here today. Now, of course, I'll admit that the backyard is a little bigger here. {LAUGHTER} But it's the same spirit. And Michelle and I couldn't imagine a better way to celebrate America's birthday than with America's extraordinary men and women in uniform —- and your families. {APPLAUSE}
+
+Now, we decided to let you leave your uniforms at home. {APPLAUSE} Although I have to say I met a young corporal here who was wearing a black suit. And I said, “Man, it's hot here.” He said, “I'm sorry, sir, I know you're my Commander-in-Chief, but my grandma told me I had to wear a suit.” {LAUGHTER} I can't -- you can't argue with grandma. {LAUGHTER}
+
+But we do want all of you to relax and have some fun today. And that also goes for the leaders who are joining us here today, including Deputy Secretary of Defense Bill Lynn; the Vice Chairman of the Joint Chiefs of Staff, General Jim “Hoss” Cartwright; Navy Secretary Ray Mabus; Air Force Secretary Mike Donley; Coast Guard Commandant Admiral Robert Papp; and the many outstanding senior enlisted officers who are here today. {APPLAUSE}
+
+I want to acknowledge that my Vice President, Joe Biden, and his wonderful wife, Dr. Jill Biden, aren't with us because they're spending the Fourth of July with our troops in Iraq. {APPLAUSE} And I would add that because of the honor and heroism of our troops, we are poised to end our combat mission in Iraq this summer —- on schedule. That's thanks to so many of you. {APPLAUSE}
+
+Now, this is the day when we celebrate the very essence of America —- and the spirit --
+
+{AUDIENCE-MEMBER} Bring the boys home! {/AUDIENCE-MEMBER} 
+
+They're coming. {LAUGHTER} This is the day when we celebrate the very essence of America and the spirit that has defined us as a people and as a nation for more than two centuries. Even now, all these years later, we still look in awe at the small band of patriots who stood up and risked everything, and defied an empire to declare “that these united colonies are, and of right ought to be free and independent states.”
+
+We're amazed at the debt to a founding generation that gave their blood to give meaning to those words, pledging to each other their lives, their fortunes, and their sacred honor. And we celebrate the principles that are timeless —- tenets first declared by men of property and wealth, but which gave rise to what Lincoln called a “new birth of freedom” in America: civil rights and voting rights, workers' rights and women's rights, and the rights of every American.
+
+And on this day that is uniquely American, we're reminded that our Declaration, our example, made us a beacon to the world, not only inspiring people to demand their own freedom -- from Latin American to Africa, from Europe to Asia -- but even now, in this time, these ideals still light the world.
+
+Two hundred and thirty-four years later, the words are just as bold, just as revolutionary, as they were when they were first pronounced: “We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain inalienable rights; that among these are life, liberty, and the pursuit of happiness.”
+
+These are not simply words on aging parchment. They are the principles that define us as a nation, the values we cherish as a people, and the ideals we strive for as a society, even as we know that we constantly have to work in order to perfect our union, and that work is never truly done.
+
+The Founders understood this. There in that hall in Philadelphia, as they debated the Declaration, John Adams wrote to his beloved Abigail. He predicted that independence would be celebrated “from one end of the continent to the other, from this time forward forever.” But he added, “I am well aware of the toil and blood and treasure that it will cost us to maintain this declaration and support and defend these states.”
+
+So today we also celebrate all of you —- the men and women of our Armed Forces who defend this country we love. We salute the United States Army —- {APPLAUSE} -- including a soldier who served on more than 150 combat missions in Afghanistan, and after losing most of his arm in an IED attack, recently completed a grueling 26-mile run, inspiring all who know him, and all of us —- that's Staff Sergeant Gabriel Garcia. Gabriel. {APPLAUSE}
+
+We salute the United States Navy -— {APPLAUSE} -- and a sailor who excels in a job few can imagine but for which all are grateful -- a commander of an explosive ordinance disposal team in Iraq, his nerve and steady hand has diffused countless bombs and saved countless lives —- that's Lieutenant Erich Frandrup. Where's Erich? {APPLAUSE}
+
+We salute the United States Air Force —- {APPLAUSE} -- and an airman who during an attack on her vehicle in Iraq that left her seriously wounded, directed medics to help another wounded American first, and offered her own bandages to help save his life —- that's Captain Wendy Kosek. {APPLAUSE}
+
+We salute the United States Marine Corps -- {APPLAUSE} -- and a Marine who for his heroic actions in Afghanistan, exposing himself to enemy machine gunfire to help rescue his fellow Marines, was recognized with the Bronze Star for valor —- Staff Sergeant Jonathan Piel. {APPLAUSE}
+
+And we salute the United States Coast Guard —- {APPLAUSE} -- including a Coast Guardsman who commanded the first U.S. vessel to arrive in Haiti after the earthquake, helping to pave the way for the one of the most complex humanitarian efforts ever attempted -— Commander Diane Durham. {APPLAUSE}
+
+This is the spirit of which Adams spoke so long ago. You are the men and women who toil to defend these states. You are patriots, and you have earned your place among the greatest of generations.
+
+Yet on this day we know that America's journey is not sustained by those in uniform alone. It must be the calling and cause of every American. So let us ensure that our troops always have the support that they need to succeed in the missions we ask of them —- and that includes public support here at home.
+
+Let us forge a national commitment to support our extraordinary military families, not just now, during war, but at every stage of your lives. {APPLAUSE} And thanks to Michelle and Jill Biden for challenging us to do just that. {APPLAUSE}
+
+Let us resolve, as citizens, to carry on the improbable experiment that began more than 200 years ago; not simply declaring our principles, but living them here at home; not simply celebrating our union, but always working to perfect it.
+
+And here in a still young century, let us renew our commitment to stand with those around the world who, like us, still believe in that simple yet revolutionary notion —- that we are all endowed by our Creator “with certain unalienable rights.”
+
+So, happy Fourth of July, everybody. God bless all of you, and all our men and women in uniform and your families. And God bless the United States of America. {APPLAUSE}
+
+And with that, let me turn it over to our outstanding United States Marine Band. {APPLAUSE} 
+
+{/speech}

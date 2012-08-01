@@ -1,0 +1,84 @@
+﻿{title} Remarks by the President at DNC Dinner in Boston, Massachusetts {/title}
+{event} DNC Dinner in Boston, Massachusetts {/event}
+{speaker} Barack Obama {/speaker}
+{date} April 1, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody! Have a seat, have a seat. {APPLAUSE} Thank you. Thank you. {APPLAUSE} Please, everybody be seated.
+
+Let me just begin by acknowledging some great friends. First of all, somebody who I consider one of the finest governors in the country, and somebody who I know you guys are going to reelect -- Governor Deval Patrick is in the house. {APPLAUSE}
+
+To the Massachusetts congressional delegation -- I see Ed Markey here, but I want to -- I know I saw Congressman Delahunt and Capuano earlier. They have shown such courage and have stuck to it in some very difficult circumstances, and are consistently showing the kind of leadership we need. We now got Barney Frank who is about to make sure that we've got financial regulatory reform, which is going to be so critical. {APPLAUSE} So to your congressional delegation, please give them a big round of applause -- and Ed Markey in particular. {APPLAUSE}
+
+To my dear friend who has been a constant source of inspiration -- Vicki Kennedy is here, and I want everybody to give her a big round of applause. {APPLAUSE} And to all of you who co-chaired this elegant event -- I assure you I will not break out into song. {LAUGHTER}
+
+I want to thank Tim Kaine for not only the generous introduction, not only for being an extraordinary governor of the Commonwealth of Virginia, but also now being one of the best leaders of our party that we've ever had. Some of you may know Tim Kaine was the first person, the first elected official outside of Illinois, to endorse me when I announced my presidential race -- {APPLAUSE} -- on the steps of the old capitol of the Confederacy, in Richmond, in February of 2007, where most people couldn't pronounce my name. And there was no political gain for him in doing it. He just stepped out because he thought it was the right thing to do. And that's the kind of person that Tim Kaine has always been. He is decent; he is smart; he is principled. And to have somebody like that leading our party makes me feel better and it should make you feel a lot better, too. So, thank you. {APPLAUSE}
+
+Very quickly, I want to say obviously that our hearts go out to all the families who've been affected by the recent flooding throughout New England. I was at the emergency center where Deval walked me through the steps that are being taken coordinating state, local, and federal resources. We hope that the worst is behind us, but it's at moments like this where leadership is tested. And as usual, Deval has passed with flying colors.
+
+It's also at moments like this -- I spoke to a larger group before I came here -- that we are reminded of the value of government. There is this notion afoot that somehow it's cool to be cynical about government. And then you go into this emergency center and you see these extraordinarily dedicated people working 24 hours a day, seven days a week, just to help others. And they're not making a lot of money doing it. But they're dedicated, they care, and it's a reminder that we are not just individuals out there pursuing our own self-interest -- we're also a community, we're also neighbors, we're also friends. And those values that we care so deeply about, they need to express themselves through our government as well.
+
+And so it's something that is worth remembering. And I want to thank all the local and state officials who've been working so diligently, as well as our federal officials for doing what's so important. {APPLAUSE}
+
+Most of you are dear friends. I have known you through good times and tough times. The event right before we came here was held -- Deval, what's the name of that place?
+
+{OTHER-SPEAK} The State Room. {/OTHER-SPEAK} 
+
+The State Room. This room holds a special place in my heart because this is the room where I appeared before a whole bunch of supporters here in Boston the day after I lost the New Hampshire primary. You remember that? A bunch of you guys remember that. Marianne was there; a whole bunch of folks were there.
+
+Most of the folks who were our supporters in Boston had gone up to New Hampshire to trudge around and knock on doors and help to organize for the primary. And everybody had been on this euphoria coming out of Iowa. Remember, Jane? Everybody thought, oh, my goodness, this is -- you know, everybody was talking about McCain already, and measuring the drapes. {LAUGHTER}
+
+And although everybody worked hard, nobody took it for granted, I do think that there was just sort of a giddiness that was unhealthy in New Hampshire, which was punctured very quickly. And so one minute everybody was full of glee and the next moment everybody was looking down. And New Hampshire was where I made the speech talking about, “yes, we can,” that ended up winning a Grammy for Will.i.am -- {LAUGHTER} -- I didn't get a share of this. {LAUGHTER}
+
+But I remember going to that room and saying to folks, you know, I know this sounds like revisionist history, I know it sounds like I'm just trying to put some spin on something. I won't lie to you -- I would have preferred to have won -- but, I said, I actually think in the long run this will be a good thing. And the reason I said that was because running for President is such an incredible honor, and the task you are setting for yourself in being President is so profound that it shouldn't be easy. You shouldn't glide into that job.
+
+The American people expect, rightly, that their President will have been tested. And the reason is is because they're tested all the time. They're tested when they lose their job. They're tested when they're trying to scramble to put together enough savings to send their kids to college. They're tested when somebody in the family gets sick and it turns out that the insurance doesn't cover everything that they're doing. They're tested in all sorts of ways that aren't always easy to anticipate.
+
+And so the least they can expect is that somebody who has the audacity and the megalomania to run for President is going to -- is going to be put through the paces. And folks want to see, well, we're not going to just hand this to you, we want to see that you can bounce back. We want to see that you have the resilience and the determination to help guide this country through what folks at that time knew was going to be a very difficult period for our country.
+
+And so it was fascinating to me to be back in that room with many of the same supporters, because it was a reminder of what this past year-and-a-half has been about.
+
+A lot of people have asked, why is it you seem so calm? And what I've tried to say often -- and a lot of times this gets discounted in the press -- is that the experience of having traveled throughout this country; having learned the stories of ordinary folks who are doing extraordinary things in their communities, in their neighborhoods; having met all the people who put so much energy and effort into our campaign; having seen the ups and downs and having seen how Washington was always the last to get what was going on, always the last to get the news -- what that told me was that if we were willing to not do what was expedient, and not do what was convenient, and not try to govern based on the polls today or tomorrow or the next day, but rather based on a vision for how we can rebuild this country in a way that works for everybody -- if we are focused on making sure that there are ladders of opportunity for people to continue to strive and achieve the American Dream and that that's accessible to all, not just some -- if we kept our eye on what sort of future do we want for our kids and our grandkids so that 20 years from now and 30 years from now people look back on this generation the way we look back on the Greatest Generation and say to ourselves, boy, they made some tough decisions, they got through some tough times, but, look, we now have a clean energy economy; look, our schools are revitalized; look, our health care system works for every single American -- imagine how tough that was and how much resistance they met from the special interests, but they were still willing to do it -- if that was how we governed, then I figure that the politics would take care of itself.
+
+And if it didn't, then we could still stand tall and still look at ourselves in the mirror and say, you know what, this was worth it. This is why we worked so hard to get here.
+
+That's what this last year has been about. And I want you to know now that's what this next year will be about. And that's what the year after that will be about. Because we've got a lot of work to do. When we signed up -- and I say “we” because all of you guys were early investors. Many of you didn't just write a check but you bled this stuff, and many of you over the last year have had to answer aggravated e-mails from people, or political advice -- I'm sure you get those e-mails -- “Please tell the President that if he just” -- {LAUGHTER} Right? I know. I get them, too. {LAUGHTER} We should expect that it's going to continue to be hard.
+
+These November elections, as Tim said, will be hard -- partly because this country is still divided, and after 2006 and 2008 we hit a very high watermark in terms of Democratic representation in Congress and governorships and we're in the midst of what is still a very difficult time. And we've got more work to do -- we are not finished.
+
+We have to have an energy policy that works for the future. {APPLAUSE} We don't have an option. We can pretend like we've got an option, and we can resort to simplification and say, well, you know what, if we just open up drilling everywhere and have no regulatory oversight whatsoever, that somehow it's all going to work itself out. Or we can simplify it by saying that -- by denying the fact that it's going to take some time for us to get up to full capacity on clean energy and we need some breakout technologies in order to make that full transition. So we can play politics with this and take comfort in our own certainties. But the truth of the matter is this is a big, complicated task and it's going to require us to work really hard.
+
+And there is going to be a lot of resistance from a whole range of special interests. And there are going to be legitimate geographical differences that exist when it comes to energy policy. And so we're going to have to work that through.
+
+And when it comes to education, my Secretary of Education, Arne Duncan, I think is doing an extraordinary job. {APPLAUSE} And one of the things that has not gotten much attention is the way that we have started to bridge some of the traditional differences between the left and the right and said, yes, we want standards and we want reform; and, yes, we need more resources as well; and, yes, everybody is going to have to change -- parents and teachers and students and principals and elected officials and communities. But slowly we are making progress in that direction.
+
+And one of the unsung aspects of last week was me -- or this week, in fact, was me being able to sign legislation that really puts higher education into the hands of every single young person that is committed to excelling in this country in a way that hasn't been done in years. {APPLAUSE}
+
+But it's still going to be hard. We're not going to change the schools overnight. We have fallen behind on too many measures and it's going to require us to keep moving.
+
+And we're going to have to continue to work on health care. I know people may not want to hear that, but what we've done is we've enshrined a principle that every single person in this country should not be bankrupt when they get sick; that every child who's got a preexisting condition, they can get health care; that small businesses who want to do the right thing by their employees, that they're going to have the capacity to provide health insurance at reasonable rates.
+
+So we've set up a structure and it is a good structure and a sensible structure. And we are going down the path of reducing costs. But there are a lot of decision-makers in a $2 trillion health care system. There are doctors and hospitals and nurses and physician assistants and there are those of us as consumers. And that process of making the system work smarter and better so that we're all leading healthier lives, and that the states and federal governments aren't bankrupted -- that's going to take a lot of work. It's going to be an ongoing project.
+
+And that's all just on the domestic side. And we've got challenges in terms of bringing about peace in the Middle East. And we've got challenges in dealing with nuclear proliferation. And we've got challenges in making sure that we complete getting our troops out of Iraq and that we complete our mission in Afghanistan -- and the extraordinary sacrifices that young men and women are making there as we speak, that they know they are supported not only by the resources they need but also by a smart strategy in diplomacy and all the elements of American power that go into keeping America safe and secure.
+
+All these things are going to require a steadfast attitude. And they're going to require that all of us occasionally stand up to the immediate winds that are blowing out there. But I'm so confident that we can achieve it. I'm so confident we can get it done. And part of the reason I'm confident is because we've traveled this path before and we've got it done before -- not because of me, but because all of you have been willing to stick with this process.
+
+And I think that over time, I just have so much faith and confidence in the American people and their ability even when they're anxious, even when they're scared, even when they're uncertain, to ultimately have an instinct about what is right -- not just right for them individually, not just right for them in the here and now, but what's right for them over the long term; what's right for the country over the long term; what's right for the next generation and not just for the next election.
+
+And that's a hard sense to maintain in this political environment. Some of you saw the speech I gave up in Portland. I started joking about imagine if the Washington press corps were on a farm, and you till the soil, and they would say, “Look, the soil is all broken up, something is wrong.” {LAUGHTER} And then you'd put the seeds in and cover it up, and the next day they'd have the cameras there and “Nothing is growing!” {LAUGHTER} It's -- there are no crops. We're going to starve. {LAUGHTER}
+
+That's just the nature of the environment that we're in right now. But we've got to keep the long view. That's our task. That's what this project has always been about. When you helped me get elected President, that wasn't the end. That was the beginning. That wasn't the hard part; that was the easy part. This is the hard part. But this is also the worthy part.
+
+A lot of people win elections. But I'll tell you, the day that we passed health care in the House -- you know, I had been in the Roosevelt Room watching it with my team, and I invited everybody up to the residence to celebrate that evening. And we were out on the Truman Balcony looking at the Washington Monument and, beyond that, the Jefferson Monument. And I looked around and I saw these incredible people, most of them a lot younger than me, who had just poured their heart and soul into this effort -- and you could see the sense on their part that somehow, some way, working together they had put their shoulders against the wheel of history and moved it in a more just and a more fair direction.
+
+What incredible satisfaction that was -- because not only did I know that it was going to be helping all those people who write me letters and talk about all the things that they're burdened with in their lives; it also told me that all those people, all those young people on my balcony, they're going to believe once again that you can change the country for the better. {APPLAUSE}
+
+That's the great gift that all of you have given in this process. That's what your support means. That's what I'm going to ask you to continue in the weeks and months and years to come, as fellow travelers in this effort for us to perfect our union.
+
+Thank you very much, everybody. God bless you. {APPLAUSE} 
+
+{/speech}

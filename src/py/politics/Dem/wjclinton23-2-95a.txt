@@ -1,0 +1,133 @@
+﻿{title} Remarks By The President To The Canadian Parliament {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 23, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Mr. Prime Minister and Mrs. Chretien, Mr. Speaker of the Senate, Mr. Speaker of the House of Commons, honorable senators and members of the House of Commons, distinguished members of the diplomatic corps, ladies and gentlemen: 
+
+I have pondered for some time the differences between the Canadian political system and the American one, and when the Prime Minister pointed out the unanimous resolution you passed yesterday, I realized that in one respect, clearly you are superior. {LAUGHTER} We do not control the weather in Washington, D.C. -- {LAUGHTER} -- and I am grateful that you do. {LAUGHTER} 
+
+I also thank the Prime Minister for his history lesson. {LAUGHTER} I have never believed in the iron laws of history so much as I do now. {LAUGHTER ; APPLAUSE} 
+
+I thank the Prime Minister and all of you for welcoming me to this magnificent capital city. The Prime Minister first came to this chamber to represent the people of Canada when President Kennedy was in the White House. I resent that because when President Kennedy was in the White House, I was in junior high school -- {LAUGHTER} -- and now the Prime Minister has less gray hair than I do. {LAUGHTER} And he does, in spite of the fact that since that time he has occupied nearly every seat in his nation's Cabinet. {LAUGHTER} The first time I met him, I wondered why this guy couldn't hold down a job. {LAUGHTER} 
+
+I can tell you this -- we in the United States know that his service to this nation over so many years has earned him the gratitude and the respect of the Canadian people. It has also earned him the gratitude and the respect of the people of the United States. {APPLAUSE} 
+
+I know it is traditional for American presidents, when they address this body, to speak of their affection for their ties to the Canadian people. On behalf of the United States, let me stay with that tradition, and say, l'amitie solide. 
+
+But let me say to you that it is a big part of our life. I remember so well more than a decade ago when Hillary and I with our then very young daughter came to Canada to celebrate the new year, and we started in Montreal and we drove to Chateau Montebello. And along the way, we drove around Ottawa and we watched all those wonderful people skating along the canal. I came from a Southern state. I couldn't imagine that anybody could ever get on skates and stand in any body of water for very long. {LAUGHTER} 
+
+And I could see that always -- Hillary has had in the back of her mind all this long time how much she would like to be skating along this canal. And I think tomorrow Mrs. Chretien is going to give her her wish, and we are looking forward to that. {APPLAUSE} 
+
+My wife has visited Toronto, and we had a wonderful, wonderful family vacation in Western Canada in Victoria and Vancouver back in 1990 -- one of the best times that all of us have ever had together anywhere. We are deeply indebted to your culture. Our daughter's name was inspired by Canadian songwriter Joni Mitchell's wonderful song, "Chelsea Morning." 
+
+And all of you know that in the spring of 1993, the first time I left the United States as President, I came to Vancouver for the summit with President Yeltsin. Both of us at this time were under some significant amount of stress as we tried to reaffirm our relationship and solidify democracy in Russia. And I can say without any equivocation, the reception we received from the people of Canada, as well as from the government and the Prime Minister, made it very, very easy for us to have a successful meeting. And for that we are very grateful. 
+
+I come here today to reaffirm the ties that bind the United States and Canada, in a new age of great promise and challenge -- a time of rapid change, when both opportunity and uncertainty live side by side in my country and in yours; a time when people are being lifted up by new possibilities and held down by old demons all across the world. I came here because I believe our nations together must seize the opportunities and meet the challenges of this new age. And we must -- I say again -- do this together. {APPLAUSE} 
+
+From the oil from Alberta that fires factories in the United States to the silicon chips from California that power your computers, we are living proof of the value of partnerships and cooperation. Technologies produced in your nation save lives in our hospitals, while food from our farms line your supermarkets. 
+
+Our horizons have broadened because we have listened in the United States to the CBC. And our culture is much richer because of the contributions of writers like Robertson Davies -- whom Hillary had the pleasure of meeting last week after reading him for years -- and Margaret Atwood and because of the wonderful photography of Josef Karsh whose famous picture of Churchill I just saw. He took some pictures of Hillary and me that aren't so distinguished, but I love them anyway. {LAUGHTER} And as a musician, I have to thank you especially for Oscar Peterson, a man I consider to be the greatest jazz pianist -- {APPLAUSE} 
+
+Ours is the world's most remarkable relationship. The Prime Minister said, whether we like it or not. {LAUGHTER} I can tell you that on most days I like it very, very much. {APPLAUSE} 
+
+We have to strengthen that relationship. We have to strengthen it for our own benefit through trade and commerce and travel. And we have to strengthen it because it is our job to help to spread the benefits of democracy and freedom and prosperity and peace beyond our shores. We're neighbors by the grace of nature. We are allies and friends by choice. 
+
+There are those in both our nations who say we can no longer afford to, and perhaps we no longer even need to, exercise our leadership in the world. And when so many of our people are having their own problems, it is easy to listen to that assertion. But it is wrong. 
+
+We are two nations blessed with great resources and great histories. And we have great responsibilities. We were built, after all, by men and women who fled the tyranny and intolerance of the Old World for the new. We are the nations of pioneers -- people who were armed with the confidence they needed to strike out on their own and to have the talents that God gave them shape their dreams in a new and different land. 
+
+Culture and tradition, to be sure, distinguish us from one another in many ways that all of us are still learning about every day. But we share core values, and that is more important -- a devotion to hard work, an ardent belief in democracy, a commitment to giving each and every citizen the right to live up to his or her God-given potential, and an understanding of what we owe to the world for the gifts we have been given. 
+
+These common values have nourished a partnership that has become a model for new democracies all around this world. They can look at us and see just how much stronger the bonds between nations can be when their governments answer the citizens' desires for freedom and democracy and enterprise, and when they work together to build each other up instead of working overtime to tear each other down. {APPLAUSE} 
+
+Of course, we have our differences. And some of them are complex enough to tear your hair out over. But we have approached them directly and in good faith, as true friends must. And we in the United States come more and more every day to respect and to understand that we can learn from what is different about your nation and its many peoples. 
+
+Canada has shown the world how to balance freedom with compassion, and tradition with innovation in your efforts to provide health care to all your citizens; to treat your senior citizens with the dignity and respect they deserve; to take on tough issues like the move afoot to outlaw automatic weapons designed for killing and not hunting. {APPLAUSE} And I might say, since you applauded so, you are doing it in a nation of people who respect the right to hunt and understand the difference between law and order and sportsmanship. {APPLAUSE} 
+
+Those of us who have traveled here appreciate especially the reverence you have shown for the bounty of God's nature, from the Laurentians to the Rockies. In a world darkened by ethnic conflicts that literally tear nations apart, Canada has stood for all of us as a model of how people of different cultures can live and work together in peace, prosperity and respect. {APPLAUSE} 
+
+The United States, as many of my predecessors have said, enjoyed its excellent relationship with a strong and united Canada, but we recognize, just as the Prime Minister said with regard to your relationships to us a moment ago, that your political future is, of course, entirely for you to decide. That's what a democracy is all about. {APPLAUSE} 
+
+You know, now -- {LAUGHTER} -- now, I will tell you something about our political system. {LAUGHTER} You want to know why my State of the Union address took so long -- {LAUGHTER} -- it's because I evenly divided the things that would make the Democrats clap and the Republicans clap. {LAUGHTER} And we doubled the length of the speech in common enthusiasm. {LAUGHTER} 
+
+I ask you -- all of you -- to remember that we do look to you, and to remember what our great President of the postwar era, Harry Truman, said when he came here in 1947. "Canada's eminent position today," he said, "is a tribute to the patience, tolerance and strength of character of her people. Canada's notable achievement of national unity and progress through accommodation, moderation and forbearance can be studied with profit by sister nations." Those words ring every bit as true today as they did then. {APPLAUSE} 
+
+For generations now, our countries have joined together in efforts to make the world more secure and more prosperous. We have reached out together to defend our values and our interests -- in World War I, on the beaches of Normandy and Korea. Together we helped to summon the United Nations into existence. Together we stood fast against communist tyranny and prevailed in the Cold War. Together we stood shoulder to shoulder against aggression in the Gulf War. 
+
+Now our nations have stepped forward to help Haiti emerge from repression and restore its democracy. I thank the Prime Minister for what he said about that. When it was not popular anywhere in the world to worry about poor, beleaguered, abandoned Haiti, Canada was truly a friend of Haiti. {APPLAUSE} 
+
+In one international forum after another, we stand side by side to shape a safer and a better world. Whether it is at the World Population Conference, pushing together for an indefinite extension of NPT, in any number of ways, we are working together. 
+
+And we know that for Canada, this history of action is a matter of deep tradition and personal conviction. The tradition runs from Lester Pearson to Jean Chretien. It says we must be engaged in the affairs of the world. You have always shown the wisdom of reaching out instead of retreating, of rising to new responsibilities instead of retrenching. Your tradition of engagement continues to this day, and, believe you me, it earns respect all around the world from people of races and ethnic groups and political systems. 
+
+In places like Cyprus and the Sinai, Canadian troops have played an invaluable role in preventing more violence in those critical hot spots. Today, your 2,000 peacekeepers in the former Yugoslavia are courageously fulfilling their mission in the midst of one of the most intractable, difficult problems in our lifetime {APPLAUSE} 
+
+For a half century, the United States has shared your philosophy of action and consistent exercise of leadership abroad. And I am determined, notwithstanding all the cross currents in our country, that we shall preserve that commitment. These times may be turbulent, but we have an historic opportunity to increase security and prosperity for our own people and for people all around the world. 
+
+And I want you to know that I intend to do everything in my power to keep our country constructively involved in the problems that we must face if we're going to guarantee that our children will live in a peaceful, sane and free world. {APPLAUSE} 
+
+Imagine what the Persian Gulf would look like today if we had not risen to the challenge of Iraqi aggression. Imagine what tariffs and barriers would plague the world trading system if we hadn't worked so hard together over such a long period of time from the end of World War II to the events the Prime Minister described -- to NAFTA, to GATT, to the Asian- Pacific Cooperation, to the Summit of Americas that was held in Miami in December. Imagine how different it would have been. Imagine how much worse the horrible tragedy in Rwanda would have been if we had not been there to try to provide essential help in those refugee camps to keep people alive. 
+
+We cannot let anyone or anything break this great tradition of our nations. In our partnership, we will find the key to protecting our people and increasing their prosperity, and the power to reach beyond our shores in the name of democracy and freedom, not only because it is right, because it is our interest to do so. {APPLAUSE} 
+
+Just before we came down here, the Prime Minister and I agreed again that if we were going to meet these new challenges in the 21st century, we must adapt the institutions that helped us to win the Cold War so that they can serve us as well in the 21st century. We have to do that. 
+
+Some have evolved with the changing world. Some have, clearly, already discarded their old missions and assumed new roles. But we have also seen that the end of the East-West conflict, the advent of 24-hour financial markets, sudden environmental disasters, the rise of international terrorism, the resurgence of ancient ethnic hatreds -- all these things have placed new demands on these institutions that the statesmen of 50 years ago simply did not imagine. The 21st century will leave behind those who sit back and think that automatically these problems will be solved. We simply have to face these challenges and ask ourselves what do we have to change and how are we going to do it. 
+
+For example, to meet the security needs of the future, we must work together to see that NATO, the most successful military alliance in all of history, adapts to this new era. That means that we must make certain that the inevitable process of NATO expansion proceeds smoothly, gradually, and openly. There should be no surprises to anyone about what we are about. And we will work so that the conditions, the timing, the military implications of NATO expansion will be widely known and clearly understood in advance. 
+
+And to parallel the enlargement of NATO, we have to develop close and strong ties with Russia. I have worked hard for that, and so has the Prime Minister. We must continue working together at the United Nations, where our nations have, together, taken the lead in efforts to reform our peacekeeping operations -- to control costs, to improve information gathering, to make sure we have the right kind of command and control system before the young people who put on our uniforms are put in harm's way. 
+
+We have to continue also to work at reforming the international economic institutions. We've already made some great strides in reshaping the new global economy with the passage of GATT, which is the most comprehensive trade agreement in history. But the work is only beginning. 
+
+At the upcoming G-7 summit in Halifax, which we're very much looking forward to, we will be working to ensure that our international trading institutions advance the cause of trade liberalization in ways that produce tangible gains for the people of the countries involved. 
+
+We also have to reexamine the institutions that were created at the time of Bretton Woods -- the IMF, the World Bank -- to make sure that they're going to be able to master the new and increasingly complex generation of transnational problems that face us; problems like explosive population growth and environmental degradation; problems like those that we have been facing together in Mexico and throughout Latin America in the recent financial crisis. 
+
+Real progress on all these areas will depend not only on our willingness to be involved, but our willingness to lead as partners. Together, Canada and the United States are striving to seize all the advantages the new global economy has to offer. Trade produces high-wage jobs; we know that. The kind of jobs that give our people the opportunity to care for their families and educate their children and to leave the next generation better off than they were -- a dream that has been called into question in many advanced economies in the last few years. 
+
+The success of NAFTA, which is generating new jobs and creating new markets from Monterrey to Medicine Hat is the proof. And now, as the Prime Minister has said so well, we in NAFTA are on our way to becoming the Four Amigos. That phrase will go down in history -- I wish I'd have thought of it. {APPLAUSE} 
+
+We'll soon start our consultations with Chile for accession in NAFTA, and they will be a very good partner. The addition of that thriving economy will only continue to increase the benefits for all of us. 
+
+I want to take another moment here to thank Canada for its recent support and help in the financial crisis in Mexico. You understood what we had on the line, that more than Mexico was involved; that jobs and trade and future and our support for democracy and stability throughout Latin America was at issue. You understood it, and we are grateful. Because we stood shoulder to shoulder, we have a chance to preserve this remarkable explosion of democracy that we saw at the Summit of the Americas, and we should continue to do that. {APPLAUSE} 
+
+I want to say a word if I might about the environment. As we expand trade we have to remember, we must defend that which we have inherited, and enhance it if we can. The natural riches of this continent we share are staggering. We have cooperated to such great effect on our continent in the past -- our air quality agreement is solving the acid rain problem, the Great Lakes are on the road to recovery, the eagles have returned to Lake Erie. Now we have to build on those accomplishments. 
+
+With the NAFTA environmental commission located in Montreal, your country will play a key role in ensuring that we protect the extraordinary bounty that has been given to us for our children and our grandchildren. NAFTA is only one of several fronts on which we can work together to both increase our prosperity and protect our environment. But we must do both. 
+
+Our nations are building on the progress of last years Summit of the Americas, as well. It will create a free trade area embracing the entire hemisphere. Across the Pacific, as the Prime Minister said, we paved the way for new markets and for free trade among the dynamic economies in the Asian Pacific area. That was a very important thing for us to do because they are growing very fast, and we did not want this world to break up into geographical trading blocks in ways that would shrink the potential of the people of Canada and the United States for decades to come. 
+
+All these efforts will only enhance what is now the greatest trading relationship; yours and ours. Every day, people, ideas and goods stream across our border. Bilateral trade now is more than a billion Canadian dollars every day -- I learned to say that -- {LAUGHTER} -- and about 270 billion United States dollars last year; by far the worlds largest bilateral relationship. 
+
+Our trade with each other has become an essential pillar in the architecture of both our economies. Today, 4.5 million Americans have jobs that involve trade between our two countries. Those are the concrete benefits of our partnership. Between 1988 and 1994, trade between our nations rose about 60 percent. Last year along, it increased by 15 percent. 
+
+But the statistics don't give the human reality behind the flourishing exchange of goods and ideas. Our trade is creating real jobs for real people. In Boscawen, New Hampshire, just for example, a small company called Secure Care Products produces monitoring systems for patients in nursing homes. 
+
+Recently, Secure Care began exporting its products to Canada. Sales there are already growing fast and the company expects them to triple this year. And so Secure Care is hiring people like Susan Southwick, the granddaughter of Quebeckers, the mother of two, and now the company's 26th employee. Giving Susan and her husband a shot at the dream which Canadians and Americans share -- that's what this partnership is all about. 
+
+Much further away from you in Greensboro, North Carolina, another small company called Createc Forestry Systems is showing how our trade helps people turn their hopes into realities. It was founded by a man named Albert Jenks in his family's kitchen. Createc makes hand-held computers that track lumber mill inventories. Those computers help managers assess their needs better so fewer trees are cut unnecessarily. A few years ago, Createc began to export to Canada, and now those sales accounts have risen to nearly 20 percent of their total business. That means a more secure future for the company, for Mr. Jenks, for his son, Patrick, who works with his father in the family business. That shows how our trade can increase our prosperity and protect the environment as well. 
+
+Your companies are thriving in our markets, bringing tangible benefits to Canadians. Whether its repairing the engines of some of the U.S. Air Force's largest planes, or manufacturing software to manage our natural resources, or building some of the Olympic Village for Atlanta's 1996 games, Canadian firms are a strong presence in the United States. Their successes there help your people to turn their hopes into facts and their dreams into reality. 
+
+The example of our biggest industry shows another side of this remarkable story. Working together, U.S. and Canadian companies have integrated North America's auto industry and staged one of the most remarkable comebacks in all the history of the Industrial Revolution. We have drawn on each other's strengths, and today, our companies work so closely that we do not speak any longer of U.S. or Canadian in these vehicles, but of North American content, whether it's a Chrysler minivan made in Windsor or a Chrysler Jeep made in Detroit. I think that was the Ambassador from Michigan -- I mean from the United States clapping down there. {APPLAUSE} 
+
+Productivity and employment have risen to such a point that when I visited Detroit last fall, the biggest complaint I heard in a state that was given up as lost economically a decade ago -- the biggest complaint I heard from the autoworkers was that they were working too much overtime. {LAUGHTER} Now, where I come from, that is known as a high- class problem. {LAUGHTER} 
+
+The auto industry now provides more than one million jobs in our countries. To reinforce our commitment to NAFTA and to dramatically expand an important market, tomorrow our nations will sign an agreement to open the skies between our two nations. This agreement, which allows for a dramatic expansion of U.S. and Canadian service to each other's nations, will create thousands of new jobs and billions of dollars of economic activities in our cities -- yours and mine. We've reached a fair solution that will make life easier for travelers on both sides of the border, that will profit both Canadian and U.S. airline carriers, that will increase the mutual travel and interconnections of our people. That we have done so amicably provides yet another model of how neighboring nations can settle their differences. 
+
+Friendship, engagement -- Canada and the United States have shown the best there is in partnership's between nations; all the great potential that awaits all the free peoples of this Earth if they can join in common cause. We are, as the monument at the St. Lawrence Seaway declares, "two nations whose frontiers are the frontiers of friendship, whose ways are the ways of freedom, whose works are the works of peace. 
+
+Every day we see the enormous benefits this partnership gives to us in jobs, in prosperity, in the great creative energy that our interchanges bring. But we have only seen the beginning. For the Susan Southwicks who want a chance to build better lives and the companies like Createc that are trying to build solid businesses that will last, this partnership of ours holds a great promise with vast horizons as vast as our great continent. 
+
+Together we've turned our energies toward improving the world around us for now nearly a century. Today, more than ever, let us reaffirm and renew that great tradition. Let us engage and confront the great challenges of the end of this century and the beginning of the next. We must sustain our efforts. We must enhance our efforts. We must maintain our partnership. We must make it stronger. This is our task and our mission. Together, we will be equal to it. The border separates our peoples, but there are no boundaries to our common dreams. 
+
+Thank you, and God bless you all. 
+
+{/speech} 

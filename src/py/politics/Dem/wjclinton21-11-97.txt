@@ -1,0 +1,44 @@
+﻿{title} Remarks by the President at Food and Drug Administration Bill Signing {/title}
+{event} Old Executive Office Building {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 21, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. After Secretary Shalala made you all laugh she reminded me that she has to go catch a plane -- she's going on a trip to Asia and she's winding up in Butung. She said, you know, some people think Butung is the most beautiful place in the world, and the King is there and he's got four wives and they're all sisters. And she said, I wonder if he'd like four and a half. {LAUGHTER} I thought the private joke was even better than the public one, so I thought I'd give credit.
+
+Let me, first of all, thank the Vice President and his reinventing government staff for the work that they have done on the FDA, and Secretary Shalala and all the people at HHS, and Sally Katzen and the people at OMB, and folks in the White House, the industry leaders who are here. But let me especially thank the members of Congress, all those who are here and at least two who are not -- Congressman Bliley and Congressman Dingell -- for the work that -- this really astonishing work.
+
+It was a two-year process. This bill passed by a voice vote in both Houses. And yet it is a very significant overhaul in the work of the Food and Drug Administration. It also, it seems to me, is symbolic of what we should be doing as a country.
+
+The FDA, which was created under Theodore Roosevelt, as the Vice President said, is really I think one of the signal achievements of the Progressive Era. Why was it necessary? Because more and more people were moving from the farm to the city and making a living in factories, and instead of consuming the food that they raised on their own farms, they had to go down and buy the food from somebody else. And more and more people had access to doctors, and doctors had access to medicine that was being discovered that they couldn't know everything about. So somebody needed to say, hey, this medicine is okay, we've tested it, it's okay, you can give it to your patients in Iowa or Oregon or Arizona or Alabama.
+
+And so a whole new world of possibility opened when people could move from farm to factory and when people could have access to a doctor when they couldn't see one before. But there needed to be someone who said, here's the public interest in trying to make sure the food is safe and the drugs are safe and they do what they're supposed to do.
+
+And it's worked stunningly well, really. Throughout the entire Industrial Era of the 20th century our country has continued to see its life expectancy increase and its economy grow and diversify. But when I was out there -- the Vice President is right -- I brought this up in our transition back in '92, because when I went across the country in 1992, everywhere I went people were complaining, on the one hand, that they were beginning to be concerned about some food safety issues, and on the other hand, that the health and welfare of the American people was actually being undermined by a system in the FDA that at least the people who were involved in it thought was too slow and somewhat arbitrary and not giving the American people the drug approvals and the medical device approvals in a timely fashion.
+
+So we set to work on it and we found there was an enormous amount of interest in the Congress. The Vice President's right, the FDA deserves, I think, a great deal of credit for the internal changes that have been made, that have been recognized, and particularly on the drug approvals, the speed of them.
+
+But this legislation, I think, is very, very important. And again I say, it is also symbolic of a larger mission we should be about. We're maintaining and redefining the public interest at a time when there are new challenges to food safety, which we've tried to meet, partly in the Department of Agriculture and partly with some important bipartisan legislation the Congress passed about a year ago, and when we have new possibilities in both medicine and medical devices -- and what we want to do is get those to people as quickly as possible and still protect the public interest.
+
+And we know now we have new options for that because of the change, again, in the underlying nature of the society, moving from the Industrial Age to a technology, computer information dominated age in which we have a lot more opportunities to do things that will speed this approval process, and on the other hand, in the food area, we know because we've now gone from seeing people get their food from their neighbors who were farmers while they lived in the cities -- that food has become more and more and more an international commodity. And we have an even higher responsibility not only through the FDA, but generally through the government to secure the safety of our food supply.
+
+So I think the changes we are making are very important not only on their own merits, but because what you have done is a model for what America has to do in area after area after area -- clearly define the public interest and then change they way we pursue it consistent with the tools and the responsibilities and the opportunities available in this time. And all of you should be very, very proud of that.
+
+Let me say that, as everybody knows, this bill is the product of three years of hard work that involves all the people I have already mentioned. I just think it's worth pointing out that at the beginning of the process the sides stood worlds apart. I think that is an understatement. {LAUGHTER} And the fact that there was a process by which you could think through differences and build a true consensus that is bipartisan and involves all the stakeholders, resulting in a bill -- if somebody told me two years ago, two years from now you'll be standing over at the Old OEOB and you'll be about to sign a bill that passed the Congress by a voice vote and it will have more than two words in it, so it won't be an empty bill, it will, in fact, be a sweeping reform of FDA, I would have taken odds against that. And I think you should all be very, very proud of yourselves.
+
+Let me just highlight a few of the bill's provisions. First, we continue working with the business community to get more drugs approved faster. We've reauthorized the Prescription Drug User Fee Act for five more years. It ensures that the cost of reviewing and approving drugs is shared between industry and government. Since 1992, these additional revenues have helped FDA hire some 600 more employees, cutting drug approval time in half already, and we want to do better.
+
+Second, the bill writes into law many of the Reinventing Government measures introduced by FDA a few years ago, reducing the requirements and simplifying the review process for new drugs and medical devices without compromising safety. And I congratulate the Vice President for all his work particularly on this effort.
+
+Third, we will offer new hope to critically ill Americans by expanding access to drugs and therapies whose FDA approvals are still pending. Anybody who's ever had a family in this situation knows what an important part of the legislation this is. We know that for many patients experimental treatments represent their best, perhaps their only, chance for recovery. That's why this bill writes into law current FDA policies that allow doctors and patients to use new drugs before they are formally approved. Already, thousands of AIDS, cancer and Alzheimer patients have found new hope, even new life, with these experimental therapies. We will also expand the database on clinical trials of drugs that fight serious illnesses so that patients can keep track of their progress.
+
+It's been said that while the century we are about to leave has been an age of physics, the 21st century will be an age of biology, perhaps yielding cures to diseases we thought incurable. We are already witnessing the medical possibilities of the future, as the Vice President said. This fall alone, the FDA has approved new drugs and treatments for everything from HIV to breast cancer, cardiovascular disease to cystic fibrosis, Parkinson's to epilepsy.
+
+The FDA has served America well. Today, with a bill I'm about to sign into law, we can ensure that it will serve America well into the 21 century, and I hope serve as a model again for how we can maintain our goals of pursuing the public interest and adjust our means to the possibilities and the challenges of a dramatically new era. The FDA has always set the gold standard for consumer safety. Today it wins a gold medal for leading the way into the future. And thank you all.
+
+I'd like to ask the Congressmen now to join me up here so we can sing the bill. Thank you. {APPLAUSE} 
+
+{/speech}

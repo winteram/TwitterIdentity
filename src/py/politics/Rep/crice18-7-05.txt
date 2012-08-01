@@ -1,0 +1,24 @@
+﻿{title} Remarks at a Luncheon in Honor of His Excellency Manmohan Singh, Prime Minister of the Republic of India {/title}
+{event} Benjamin Franklin Room, Washington, DC {/event}
+{speaker} Condoleezza Rice {/speaker}
+{date} July 18, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{OTHER-SPEAK} Ladies and gentlemen, please rise. The Secretary of State, accompanied by the Prime Minister of the Republic of India and Mrs. Kaur. {/OTHER-SPEAK} 
+
+{APPLAUSE}
+
+Welcome to everyone, particularly the warmest welcome to the Prime Minister of the Republic of India, Dr. Singh and to Mrs. Kaur, you are among friends here in the United States of America and I hope you have felt that since you have been here. I want to welcome also all of the members of the Indian Delegation and all of the citizens of India, several of whom I have met, who have accompanied the Prime Minister here.
+
+The American-Indian relationship is one that is based on values and there can be no deeper friendship than when it is based on values. We are, indeed, both great democracies and we are great multi-ethnic democracies, that believe that our strength is both in our democratic values and in the diversity of our people, religiously, ethnically and politically. It means that India and the United States understand things at a level that is very deep and so we will continue to work to strengthen this great relationship.
+
+Today the President had an opportunity to tell the Prime Minister that we value greatly India as an international partner, as a county whose rise economically, politically, we welcome. We welcome India as a global partner and we look forward to the continued strengthening of democratic institutions, values and peace because this partnership will prosper and move forward.
+
+Mr. Prime Minister, Mrs. Kaur, members of the Indian Delegation, again, welcome. And now if I may raise a glass to the relationship between the United States and the Republic of India and also to the American and Indian people who share values and bonds of kinship. Here, here.
+
+Please be seated. 
+
+{/speech}

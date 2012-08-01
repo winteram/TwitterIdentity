@@ -1,0 +1,35 @@
+﻿{title} President Attends National Catholic Prayer Breakfast {/title}
+{event} Washington Hilton Hotel, Washington, D.C. {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 20, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you for that warm reception -- especially for a Methodist. {LAUGHTER ; APPLAUSE} It's an honor to be here at the 2nd Annual National Catholic Prayer Breakfast. This is a new tradition, yet, its promises are timeless for Catholic Americans: to thank the Lord for the blessing of freedom, to renew our shared dedication to this great republic, and to pray that America uses the gift of freedom to build a culture of life. {APPLAUSE}
+
+I am sorry that Laura is not here. You probably think she's preparing a couple of new one-liners. {LAUGHTER} But, in fact, she's winging her way to Jordan and Egypt and Israel to spread the freedom agenda. {APPLAUSE} But I know if she were here, she would join me in thanking you and millions of others whom we'll never get to say thanks to in person for the countless prayers. It's an amazing experience to be the President of a nation where strangers from all religions pray for me and Laura. And I will tell you, it gives me such peace of mind, and enables me to do my job much better when I'm lifted up in prayer. Thank you for your prayers. {APPLAUSE}
+
+I want to thank Leonard Leo for his kind introduction. I want to thank Joe Cella, the President of the National Catholic Prayer Breakfast. I want to thank His Eminence Cardinal Theodore McCarrick. What a fine man. What a beacon of hope. {APPLAUSE} His Eminence shines brightly in the nation's capital. Applause.) I appreciate Archbishop Chaput of Denver, thank you for being here, sir. I apologize to him for not being able to listen to his address. He said, we're paying you a lot of money. Get back to work. {LAUGHTER} Fortunately, he didn't say, we're paying you too much money, get back to work. {LAUGHTER}
+
+I appreciate Archbishop Gomez from the great state of Texas. {APPLAUSE} Sister, thank you, very much. Admiral, thank you, very much, sir. Carl Anderson, the Supreme Knights of Columbus, is with us today. Carl, thank you for your friendship. {APPLAUSE}
+
+The Catholic contribution to American freedom goes back to the founding of our country. In 1790, a newly inaugurated George Washington -- the first George W. -- {LAUGHTER ; APPLAUSE} -- addressed a letter to all Catholics in America. He assured them that "your fellow citizens will not forget the patriotic part which you took in the accomplishment of their revolution." I'm honored to stand before you to offer my gratitude for the work American Catholic sons and daughters are doing for our nation. This work includes the incredible acts of compassion through our faith-based institutions that help Americans in need, especially the Catholic schools that educate millions of our fellow citizens and deliver hope to inner-city children of all faiths. {APPLAUSE}
+
+This morning we first thank God for the shared blessings of American liberty. Catholics have always known that a society built on respect for the religious beliefs of others would be a land where they could achieve and prosper.
+
+When the French writer, de Tocqueville, visited these shores back in the 1830s, he noted that the most democratic country in the world was also the one where the Catholic religion was making the most progress. He called Catholics the most faithful believers in our land, yet also the most independent of citizens. {LAUGHTER} As I've learned from dealing with Senator Santorum. {LAUGHTER ; APPLAUSE} 
+
+This morning we also reaffirm that freedom rests on the self-evident truths about human dignity. Pope Benedict XVI recently warned that when we forget these truths, we risk sliding into a dictatorship of relativism where we can no longer defend our values. Catholics and non-Catholics alike can take heart in the man who sits on the chair of St. Peter, because he speaks with affection about the American model of liberty rooted in moral conviction.
+
+This morning we pray for the many Catholics who serve America in the cause of freedom. One of them is an Army Chaplain named Tim Vakoc. He's a beloved priest who was seriously wounded in Iraq last May. We pray for his recovery, we're inspired by his sacrifice. In the finest tradition of American chaplains, he once told his sister, "The safest place for me to be is in the center of God's will, and if that is in the line of fire, that's where I'll be." Father Tim's sister, Anita Brand, and her family, are with us today, and a grateful nation expresses our gratitude to a brave Reverend. {APPLAUSE}
+
+Catholics have made sacrifices throughout American history because they understand that freedom is a divine gift that carries with it serious responsibilities. Among the greatest of these responsibilities is protecting the most vulnerable members of our society. That was the message that Pope John Paul II proclaimed so tirelessly throughout his own life, and it explains the remarkable outpouring of love for His Holiness at the funeral mass that Laura and I were privileged to attend in Rome. It explains why when the men were carrying his wooden casket up the stairs, and they turned to show the casket to the millions that were there, that just as the casket crests, the sun shown for all to see. {APPLAUSE}
+
+The best way to honor this great champion of human freedom is to continue to build a culture of life where the strong protect the weak. {APPLAUSE} So, today, I ask the prayers of all Catholics for America's continued trust in God's purpose, for the wisdom to do what's right, and for the strength and the conviction that so long as America remains faithful to its founding truths, America will always be free.
+
+
+Thank you for allowing me to come. May God bless you all, and may God continue to bless America. {APPLAUSE} 
+
+{/speech}

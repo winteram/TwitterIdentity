@@ -1,0 +1,24 @@
+﻿{title} Remarks by the President Upon Arrival in Greece {/title}
+{event} Ellinikon International Airport, Athens, Greece {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 19, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello. {APPLAUSE} Thank you all for coming out to greet us. My family and our American delegation are very glad to begin our visit to Greece. Thank you very much. {APPLAUSE}
+
+I have come here as a phili mou, a friend of Greece. {APPLAUSE} And I look forward to experiencing that wonderful quality of Greek hospitality known to all the world as phyloxenia. {APPLAUSE}
+
+Through this visit I want the American people to see the changing face of Greece; the powerhouse of southeast Europe, with the highest growth rate in the EU; a booming stock market; a nation on a fast track to join the European Monetary Union; an old democracy that is a model for the young democracies of the Balkans; the gateway to their markets; a driving force in the effort to rebuild war-torn nations and to bring them into Europe.
+
+We look to ancient Greece for inspiration, but we look to modern Greece for leadership and partnership. Tomorrow, I want to speak with the people of Greece about what we can do together to build a Europe that is undivided, democratic and at peace for the first time in history; and about how, together, we can overcome the remaining challenges to that vision -- by stabilizing the Balkans and achieving lasting reconciliation between Greece and Turkey, with resolution of all outstanding issues, including Cyprus. {APPLAUSE}
+
+Our nations have so much in common. We are allies with a shared commitment to peace and security; democracies with a long tradition of impassioned political debate about issues that affect our lives and engage our convictions. Above all, we are two nations proud of our past, but focused on the future.
+
+I look forward to that future, and to our partnership, with confidence and hope. And I look very much forward to our visit with you.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

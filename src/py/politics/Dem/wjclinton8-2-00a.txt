@@ -1,0 +1,73 @@
+﻿{title} Remarks By The President On Genetic Discrimination {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 8, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much, and good afternoon. I want to begin by thanking all the people at AAAS for having us here today -- my longtime friend, Dr. Shirley Malcolm, thank you. And thank you, Dr. Richard Nicholson. I thank Dr. Francis Collins -- what a remarkable statement he made. 
+
+I was thinking when he said that line that I'm beating to death now that we're all genetically 99.9 percent the same, that the one-tenth of 1 percent difference between him and me is all the intellectual capacity for the sciences. {LAUGHTER} Regrettably. {LAUGHTER} That's a great thing for people who care about the future of the human genome. 
+
+I'm delighted to be joined here by several members of our administration, and by three members of Congress, showing that this is a bipartisan issue. It's an American issue. I thank Representative Louise Slaughter from New York, who was with me yesterday talking to me about this; and Representative Fred Upton from Michigan; and Representative and Dr. Greg Ganske from Iowa. Thank you all for being here. We appreciate you very much and your concern for this. 
+
+I thank again all the people in the administration who worked on this -- my Science Advisor, Dr. Neal Lane, and all the people from OPM and the EEOC and others. 
+
+This is really a happy day for me. For years, in our administration, I was a sort of political front person, and now we've got the first election in a quarter-century that I can't be a part of. And people are always coming to me saying, oh, this must be a real downer for you, you know, that the Vice President and Hillary, they're out there 7:00 a.m. in the morning hitting all these coffee shops, you must be -- {LAUGHTER} -- how are you dealing with this terrible deprivation? {LAUGHTER} 
+
+And I went out to Cal Tech the other day to talk about my science and technology budget, and I said, well, I'm using this opportunity to get in touch with my inner nerd -- {LAUGHTER} -- and to really sort of deal with these things that I have repressed all these years, that I'm really trying to get into this. 
+
+We're laughing about this. But, you know, it is truly astonishing that we are all privileged enough to be alive at this moment in history, and to be, some of us, even a small part of this remarkable explosion in human discovery; to contemplate not only what it might mean for us and our contemporaries, in terms of lengthening our lives and improving the quality of them, and improving the reach of our understanding of what is going on, both within our bodies and in the far reaches of space, but what particularly it will mean for the whole structure of life for our children and grandchildren. 
+
+And I am profoundly grateful to all of you who have been involved, and who will be involved, in that march of human advance in any way. That quest for knowledge has defined what the AAAS has done for, now, more than 150 years. 
+
+We are here today, as the previous speakers have said, to recognize that this extraordinary march of human understanding imposes on us profound responsibilities, to make sure that the age of discovery can continue to reflect our most cherished values. And I want to talk just a little about that in somewhat more detail than Dr. Collins did. 
+
+First and foremost, we must protect our citizens' privacy -- the bulwark of personal liberty, the safeguard of individual creativity. More than 100 years ago now, Justice Brandeis recognized that technological advances would require us to be ever-vigilant in protecting what he said was civilization's most valued right, the fundamental right to privacy. New conditions, he said, would often require us to define anew the exact nature and extent of such protection. 
+
+And, indeed, much of the 20th century jurisprudence of the Supreme Court has dealt with that continuing challenge in various contexts. So, once again, Justice Brandeis has proved prophetic for a new century. 
+
+Today, powerful ways of technological change threaten to erode our sacred walls of privacy in ways we could not have envisioned a generation ago -- not just the ways, by the way, we're discussing here today. Will you ever have a private telephone conversation on a cell phone again? Can you even go in your own home and know that the conversation is private if you become important enough for people to put devices in your walls? What is the nature of privacy in the 21st century and how can we continue to protect it? 
+
+But, clearly, people's medical records, their financial records and their genetic records are among the most important things that we have to protect. Last year we proposed rules to protect the sanctity of medical records; we'll finalize them this year. Soon I will send legislation to complete the job we started in protecting citizen's financial records. Today, we move forward to try to make sure we do what we can to protect, in an important way, genetic privacy. 
+
+Clearly, there is no more exciting frontier in modern scientific research than genome research. Dr. Collins did a good job of telling us why. And when this human genome project is completed, we can now only barely imagine, I believe, the full implications of what we will learn for the detection, treatment and prevention of serious diseases. It will transform medical care more profoundly than anything since the discovery of antibiotics and the polio vaccine, I believe, far more profoundly than that. 
+
+But it will also impose upon us new responsibilities and, I would argue, only some of which we now know -- only some of which we now know -- to ensure that the new discoveries do not pry open the protective doors of privacy. 
+
+The fear of misuse of private genetic information is already very widespread in our nation. Americans are genuinely worried that their genetic information will not be kept secret, that this information will be used against them. As a result, they're often reluctant to take advantage of new breakthroughs in genetic testing -- making a point I think we cannot make too often -- if we do not protect the right to privacy, we may actually impede the reach of these breakthroughs in the lives of ordinary people, which would be a profound tragedy. 
+
+A Pennsylvania study, for example, showed that nearly a third of women at high risk for inherited forms of breast cancer refused to be tested to determine whether they carry either of the two known breast cancer genes because they feared discrimination based on the results. That is simply wrong. We must not allow advances in genetics to become the basis of discrimination against any individual or any group. We must never allow these discoveries to change the basic belief upon which our government, our society, and our system of ethics is founded --that all of us are created equal, entitled to equal treatment under the law. 
+
+The executive order I will sign in just a couple of minutes will be the first executive order of the 21st century to help meet this great 21st century challenge. It prohibits the federal government and its agencies from using genetic testing in any employment decision. It prevents federal employers from requesting or requiring that employees undergo genetic tests of any kind. It strictly forbids employers from using genetic information to classify employees in such a way that deprives them of advancement opportunities, such as promotion for overseas posts. 
+
+By signing this executive order, my goal is to set an example and pose a challenge for every employer in America, because I believe no employer should ever review your genetic records along with your resume. 
+
+Because, by executive order, I can only do so much, we also need congressional action this year. In 1996, the Congress passed, and I signed, the Kassebaum-Kennedy bill, the health insurance portability law which made it illegal for group health insurers to deny coverage to any individual based on genetic information. That was an important first step, but we must go further. Now I ask Congress to pass the Genetic Non-Discrimination in Health Insurance and Employment Act introduced in the Senate by Senator Daschle and in the House by Congresswoman Louise Slaughter, who is with us today. {APPLAUSE} 
+
+What this legislation does is to extend the employment protections contained in the executive order that I will sign today to all private sector employees as well, and to ensure that people in all health plans, not just group plans, will have the full confidence that the fruits of genetic research will be used solely to improve their care and never to deny them care. 
+
+There is something else we should do right away -- we must make absolutely sure that we do not allow the race for genetic cures to undermine vital patient protections. 
+
+Like many Americans, I have been extremely concerned about reports that some families involved in trials of experimental gene therapies have not been fully informed of the risks, and that some scientists have failed to report serious side-effects from these trials. I support the recent action by FDA and NIH to enforce reporting in patient safety requirements. 
+
+Today I'm asking Secretary Shalala to instruct FDA and NIH to accelerate their review of gene therapy guidelines and regulations. I want to know how we can better ensure that this information about the trials is shared with the public. I want to know whether we need to strengthen requirements on informed consent. If we don't have full confidence in these trials people won't participate, and then the true promise of genetic medicine will be put on hold. 
+
+We cannot allow our remarkable progress in genomic research to be undermined by concerns over the privacy of genetic data or the safety of gene therapies. Instead, we must do whatever it takes to address these legitimate concerns. We know if we do, the positive possibilities are absolutely endless. 
+
+I said this the other day, but I would like to reiterate -- I think maybe I am so excited about this because of my age. I was in the generation of children who were the first treated with the polio vaccine. And for those of you who are much younger than me, you can't imagine what it was like for our parents to see the literal terror in our parent's eyes when we were children, paralyzed with fear that somehow we would be afflicted by what was then called infantile paralysis; and the sense of hope, the eagerness, the sort of nail-biting anticipation, when we learned about the Salk vaccine, and all of us were lined up to get our shots. 
+
+Unless you were in our generation, you cannot imagine. And the thought that every other problem that could affect the generation of my grandchildren could be visited with that level of relief and hope and exhilaration by the parents of our children's generation is something that is almost inexpressible. 
+
+We have to make the most of this. And we know, we have learned from over 200 years of experience as a nation, knocking down physical and intellectual frontiers, that we can only spread the benefits of new discoveries when we proceed in a manner that is consistent with our most ancient and cherished values. That is what this day is all about. So to all of you who have contributed to it, I thank you very, very much. 
+
+Now I would like to ask the members of Congress who are here, and members of the administration who are here who have been involved in this, to come up with me. And all I have to do is write my name. {LAUGHTER} That's a pretty good deal. You can write the human genome code, and I'll write my name -- {LAUGHTER} -- and that takes full account of the one-tenth of one percent difference in our genetic makeup. 
+
+Thank you very much. {APPLAUSE} 
+
+
+
+{/speech} 

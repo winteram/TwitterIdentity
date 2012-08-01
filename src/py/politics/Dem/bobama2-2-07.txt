@@ -1,0 +1,69 @@
+﻿{title} 'trying to figure out' if he's 'going to Hollywood' or getting 'voted off island' {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} July 27, 2004 {/date}
+{source} http://www.rawstory.com/news/2007/Obama_Trying_to_figure_out_if_0202.html {/source}
+{description} ----- {/description}
+
+
+{speech}
+
+What's going on, Democrats! {CHEERS ; APPLAUSE} Oh, you look fired up! {APPLAUSE} Thank you. Thank you so much. I see some familiar faces around here. We got some Illinoisans in the house. {CHEERS}
+
+Thank you so much. Thank you, everybody. What a wonderful reception.
+
+I want to start by congratulating Governor Dean and the entire DNC for the victory that you made possible in November. {APPLAUSE} You proved that a progressive, common-sense, practical message is not restricted to red states, it's not restricted to blue states, it's not restricted to one region of the country, it's not even restricted to one party, that it can sell everywhere. And everywhere is where we're going to compete from here on out. Wherever we can go, we are going to be able to win elections with that message. And we thank you for the great work that you did. {APPLAUSE}
+
+If you look at all the cameras gathered around and the clicking of the photographers, and the pundits who are collected --
+
+{AUDIENCE-MEMBER} Love you! {/AUDIENCE-MEMBER}
+
+I love you back.
+
+-- you know, sometimes you feel like you're part of a reality TV show. {LAUGHTER} You know, you feel like this is "American Idol" or "Survivor." {LAUGHTER} You're trying to figure out are you going to go to Hollywood, are you going to be voted off the island? {LAUGHTER}
+
+But that's not why I'm here. And that's not why you're here. The decisions that have been made by this president and the challenges that have been ignored over the last six years have brought this country to a sobering place. And that's raised the stakes to the point where the decisions that we make in the next decade will determine the future of our children and the future of our grandchildren.
+
+This is not a game, it's not a contest for the TV cameras, this is a serious moment for America. And the American people understand that. They're in a sober mood.
+
+Every single Democrat who speaks before you today is going to have something important and valuable to offer. Over the next year of a primary and the next two years leading to the election of the new president, the campaigns -- {CHEERS} -- the campaigns shouldn't be about making each other look bad, they should be about figuring out how we can all do some good for this precious country of ours. {CHEERS ; APPLAUSE} That's our mission. And in this mission, our rivals won't be one another, and I would assert it won't even be the other party. It's going to be cynicism that we're fighting against. {APPLAUSE} It's the cynicism that's born from decades of disappointment, amplified by talk radio and 24-hour news cycle; reinforced by the relentless pounding of negative ads that have become the staple of modern politics. It's a cynicism that asks us to believe that our opponents are never just wrong, that they're bad; that our motives in politics can never be pure, that they're only driven by power and by greed; that the challenges that we face today aren't just daunting, but they're impossible. And if this is true, then politics is not a noble calling, it's a game, it's a blood sport with folks keeping score about who's up and who's down. At best it's a diversion. With such cynicism, government doesn't become a force of good, a means of giving people the opportunity to lead better lives, it just becomes an obstacle for people to get rid off.
+
+Too often this cynicism makes us afraid to say what we believe.
+
+It makes us fearful. We don't trust the truth. It has caused our politics to become small and timid, calculating and cautious. We spend all our time thinking about tactics and maneuvers, knowing that if we spoke the truth, if we addressed the issues with boldness, that we might be labeled; it might lead to our defeat.
+
+If you oppose the war, then you're not a patriot. If you oppose tax cuts, then you're engaging in class warfare. We internalize those fears. We edit ourselves. We censor our best instincts. It's an America that suffers most from this can't-do, won't-do, won't-even-try style of politics.
+
+At the very moment when Americans are feeling anxious about the future, uncertain as to whether their children are going to have a better life than they do, we've been asked to null our hopes, diminish our dreams. We've been told that consensus on any issue is no longer possible, that we should settle for tinkering around the edges, year after year after year. And along the way, we've lost faith in the political process. We don't really think that we can transform this country.
+
+But the times we live in are too serious to let the cynics win this time. {CHEERS ; APPLAUSE} Health care costs have never been higher. Our workers face enormous insecurity. They've had the rugs pulled out from under them. They don't know whether they're going to not just get a raise or see a boost in benefits, but whether they're still going to have health care and whether they're still going to have a pension after working 30 years of hard labor.
+
+Our oil dependence is threatening not just our pocketbooks, but the safety of our planet. We've got 130,000 Americans fighting halfway across the world in a war that should have never been waged, led by leaders who have no plan to end it. {APPLAUSE} We don't have time to be cynical. We don't have time. {CHEERS ; APPLAUSE}
+
+Democrats, this is not a game. This is not a game. This can't be about who digs up more skeletons on who -- {CHEERS} -- who makes the fewest slip-ups on the campaign trail.
+
+We owe it to the American people to do more than that. We owe them an election where voters are inspired, where they believe that we might be able to do things that we haven't done before. We don't want another election where voters are simply holding their noses and feel like they're choosing the lesser of two evils. {CHEERS ; APPLAUSE}
+
+So we've got to rise up out of the cynicism that's become so pervasive and ask the people all across America to start believing again. We have always been at our best in this country when we aim high, when our politics aims to match the height of our ideals, when we've conquered that fear and we speak the truth. We've reached for what so many other people said was unreachable.
+
+So let's have a discussion. Everybody's going to have a health care plan. Let's have a robust, serious discussion on health care -- what to do about rising premiums and rising co-payments and rising deductibles –- {APPLAUSE} -- and the fact that our companies are no longer competitive because of the health care situation. But let's take advantage of the fact that we're seeing a consensus between business and labor that the status quo is unsustainable. Let's talk to conservatives as well as liberals about the need for reform. And let's agree right here, right now that we can find the will to pass health care for all by the end of the first term of the very next president of the United States! {CHEERS ; APPLAUSE} There's no reason why we can't do it! This is our time! {APPLAUSE} 
+
+In this primary, everybody's going to have good ideas about how to achieve energy independence. Some of us are going to talk about raising CAFE standards, others about biodiesel and ethanol, energy efficiency.
+
+We can have a vigorous, robust, honest debate, but let's agree that our dependence is a threat not only to our economy, not only to our national security but also the welfare of this planet, and let us pledge that there is no reason why we can't wean ourselves off Middle Eastern oil. We don't have to send our young people to fight if we make sacrifices here at home. {CHEERS ; APPLAUSE} We can agree on that.
+
+Let's have an honest debate about how to end this war in Iraq. As was mentioned, I was opposed to this invasion -- publicly, frequently, before it began. {CHEERS ; APPLAUSE} I thought it was a tragic mistake. But whether you were for it or against it then, we all have a responsibility now to put forth a plan that offers the best chance of ending the bloodshed and bringing the troops home. We all have that obligation. {APPLAUSE} The American people are ready for that to be addressed.
+
+It was enough to run against George Bush during this past congressional election; it will not be enough now. The American people are expecting more. They want to know what we are going to do, and every candidate for office in the next election should put forward in clear, unambiguous, uncertain terms exactly how they plan to get out of Iraq. {CHEERS ; APPLAUSE} And while we're at it, we all have a responsibility to articulate a new foreign policy for the 21st century, one that refocuses our strengths on the wider struggle against terror and renews America's image as the last, best hope on Earth.
+
+Now, I know that it's hard to believe that we can do this. It's hard to believe that we might come together around a set of solutions to the challenges that we face.
+
+{AUDIENCE-MEMBER} We can do it! {/AUDIENCE-MEMBER} 
+
+We've been disappointed before, and the American people have reason to doubt. But we have to remember what's at stake. We have to remember that for all the talking heads that fill the airwaves on the cable news stations, that there is an untold story of another family that's gone bankrupt because they didn't have health insurance; that for every campaign gaffe that gets amplified throughout the news media, that there's a child somewhere that's trapped in a failing school, whose call for help has gone unanswered -- {APPLAUSE} -- where every attack ad that questions the character or honesty or patriotism of somebody, there are real patriots fighting and dying in Iraq whose families deserve to know how we plan to bring them home.
+
+Democrats, this is our time to lead! {APPLAUSE} Democrats, it is time for us to turn the page. {APPLAUSE} It is time for us to free our straits -- free ourselves from the constraints of politics. It's time for us to stop settling for the world as it is and start reimagining the world as it might be. {CHEERS} Democrats, this is America! {CHEERS} We all have doubts, but wherever there's doubt, the sense of possibility in America looms larger. Wherever there's despair, faith is more powerful. Where there's cynicism, hope is always stronger. {CHEERS ; APPLAUSE} That's what we offer in this campaign, that's what we offer the American people -- hope.
+
+There are those who don't believe in talking about hope. They say, well, we want specifics, we want details, we want white papers, we want plans. We've had a lot of plans, Democrats. What we've had is a shortage of hope. And over the next year, over the next two years, that will be my call to you. I can't do it on my own, but together, we can hope. I'm calling on you to hope. Thank you, Democrats, I love you! {CHEERS ; APPLAUSE} 
+
+{/speech}

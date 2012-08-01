@@ -1,0 +1,40 @@
+﻿{title} Remarks by the President to Illinois Air National Guard Personnel {/title}
+{event} Speech by President to Air National Guard in Chicago {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 12, 1999 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. General Keistlier, General Rizak, General Austin, ladies and gentlemen -- it's a great honor for me to be here today with the men and women of the 126th Air Refueling Wing and its supporting units, the 217th Engineering and Installation Squadron, the 264th Combat Communications Squadron, the 566th Air Force Band, with all the families and friends.
+
+I know this is an emotional day for you. This has been a very important installation to the people of Chicago. And when I told Hillary what I was doing today, she was very jealous that she couldn't be here with me -- but she's in California bringing our daughter home from school. Those of you who've had your children go off to school know that's a pretty big day. But I am profoundly honored to be here at your final coming together before the Wing goes to Scott Air Force Base and others go to Peoria and to Springfield.
+
+I wanted to come here more than anything else to thank you for your many years of service. I know the people of Chicago will miss you and that they, too, are especially grateful for their Chicago Air Guard. You have been a very important part of the life of this city, as well as the defense of your country. I know many of you must be relieved that the transition is almost over, not to have to make the umpteenth trip between here and Belleville. But I wanted to say that as difficult as it might be, this move I believe will work out well for all concerned. It will clearly be good for the economy of the city of Chicago, for the Air National Guard and for our military because, as all of you know, in order to maintain the quality of life of our service personnel and to have adequate funds for modernization to keep our forces ready to defend freedom, we have to streamline our infrastructure.
+
+I wanted to come here to help mark this turning point for you, again, mostly to say thanks; but especially to do so now, when you and other Air Guard members all across America have done so much to help our operation in Kosovo succeed. Thank you so much for a job very well done there. You should be proud of yourselves. {APPLAUSE}
+
+I sometimes think the American people don't understand as much as they should about the role the Air Guard and our Reserve forces play in the defense of our country. You are an essential component in our total force. And in this case, once again America called on you and you delivered. No one should be surprised. I think it is fitting to recall a little history at this last meeting.
+
+The 126th has risen to security challenges for generatons. Your predecessor unit went to France in World War I and served with the American expeditiary force there. You provided vital air defense in World War II. You were the first Air Guard unit in America to take up the challenge of air refueling. You took to the skies in Desert Shield and Desert Storm. You supported our efforts for peace in Bosnia and contributed to humanitarian relief operations. For more than two decades you have had aircraft on full alert, ready to go anytime, anywhere to provide refueling and air lift support. In Operation Allied Force you did the job once again, readying these KC 135 Strato tankers, flying sortie after sortie, fueling NATO's efforts.
+
+Some of you may know that yesterday I went to Whiteman Air Force Base in Missouri to thank our B-2 pilots there. And all the B-2 pilots and their crews said repeatedly, we could never have done this if it hadn't been for the people who ran the refueling operations. So again I say, thank you, thank you, thank you. {APPLAUSE}
+
+We prevailed in Operation Allied Force because of units like yours and the others in the United States military and those of our allies. But I would like to say today to you what I said yesterday in Whiteman. In addition to your power, I appreciate the power of your example. Troops from all across our NATO nations speak different languages, from different ethnic and religious backgrounds they come. They stand side-by-side for a world of justice and tolerance. But especially the American mililtary reflects the kaleidescope of peoples, the races, the tribes, the ethnic groups, the religious convictions that are increasingly being brought into closer and closer contact in this world.
+
+Here in Chicago it is very important for me to say again, we have no quarrel with the Serbian people. They were our allies in World War II and they fought bravely. And this country has been immensly enriched by the contributions of Serbian Americans. I know and am very proud of the fact that in this very Wing you have ethnic Serbs and ethnic Albanians, some with relatives in Kosovo. You have people of Serbian and Albanian descent flying together, proving that we do find strength in our diversity and we come together for the common good. That should not only make us proud to be Americans, it should convince us that the same thing can and should happen in the Balkans, in the Middle East, in Northern Ireland, in South Asia, wherever today people still find themselves bedeviled by their hatred of one another because of their different races; because, in the case of Africa, their different tribes; because of their different ethnic groups; because of the different ways in which they worship God.
+
+I want you to think about that tonight and be especially proud. We want -- we want -- the people who live in the Balkans to be able to work together the way the people in this unit who come from the Balkans work together. We are all children of God, endowed with certain inaliable rights and entitled to mutual respect and you do that and I thank you for that. {APPLAUSE}
+
+Thanks to you and others, today our NATO troops entered Kosovo -- the British, the French and the Americans beginning. Eventually, there will be troops from nearly 30 nations there. We are working now with the Russians to ensure that we can work together with a unified command structure, as we have done so well in Bosnia. I think this is important, because if we can work there with the Russians as we have in Bosnia, we will demonstrate clearly our commitment as Americans to protect all the civilians of Kosovo, the Serbs and the Albanians alike. That is what we have pledged to do, that is what we intend to do.
+
+But today in the camps in Albania and Macedonia, in the villages and in the hills of Kosovo where so many innocent people have had to hide and forage for food, among the Kosovar Albanians who have taken refuge elsewhere, including here in the United States, people are getting ready to go home. They will go back to their homes and their lives with safety and self-government.
+
+And the United States will have stood for the proposition that we can't expect everyone to get along, we can't expect people never to fight -- but we do expect that when we can stop it, innocent civilians will not be slaughtered, burned out of their homes, have their houses of worship blown up, have their personal records destroyed, have their children abused. We will not tolerate ethnic cleansing and killing, it should not be a part of the 21st century world, thanks to you. {APPLAUSE}
+
+And so let me say just one last time, as you prepare to leave O'Hare, to retire or head for your new homes and duty, the whole world is grateful to you. You have ended this chapter in the history of your Wing and your units on a truly triumphant note. You have helped to end this century, which has seen so much bloodshed and hatred, not with a feeling of helpless indignation at yet another travesty, but instead with a ringing reaffirmation of the dignity of all human beings. You did it. It's quite a way to close out your stay here.
+
+Thank you, God bless you and God bless America. 
+
+{/speech}

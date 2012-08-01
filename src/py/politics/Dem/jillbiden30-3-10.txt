@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President and Dr. Jill Biden at Signing of Health Care and Education Reconciliation Act {/title}
+{event} Signing of Health Care and Education Reconciliation Act {/event}
+{speaker} Jill Biden {/speaker}
+{date} March 30, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{AUDIENCE} Fired up! {/AUDIENCE} 
+
+Fired up! {LAUGHTER}
+
+{AUDIENCE} Obama! {/AUDIENCE} {LAUGHTER}
+
+Good morning, everyone, and thank you for being here today. I'm Jill Biden and I am honored to be a community college instructor. {APPLAUSE} I have been a teacher for almost three decades and a community college instructor for the past 16 years. In fact, I'm an English teacher right here on this campus. {APPLAUSE} It's my great pleasure to welcome you all to Northern Virginia Community College. {APPLAUSE}
+
+Last week, our President signed an historic health care bill that will provide quality, affordable medical care for millions of Americans. {APPLAUSE} Today we are here to celebrate another historic piece of legislation -- one that will make a college education a reality for millions of middle-class Americans. {APPLAUSE}
+
+All of us here today know that higher education is essential to the success of our children and vital to the economic future of our country. But too many American families, they've had to take on crushing debt to pursue a college degree. I see every day in my classroom just how hard my students work in order to pay their tuition bills. Often their family budgets are stretched to the limit. And when things get tough -- someone loses a job or a family member gets sick -- a college education is the first thing to go.
+
+Thanks to the leadership of President Obama, our Vice President, and members of Congress here today, families across the country will find it a little easier to get to college and stay in college. {APPLAUSE}
+
+I am pleased to say that the reforms in this bill will make a huge difference to those Americans who need it most. The expansions in Pell Grants will provide critical financial support to millions of middle-class Americans who are struggling with the costs of college. The caps on student loan repayments will ensure that our students don't go broke because they chose to pursue a college education. And I am particularly thrilled that this bill invests in community colleges across our country so that more students can gain the knowledge and technical job skills that they need to compete and succeed.
+
+I have seen firsthand the power of community colleges to change lives and serve as a gateway to opportunity for students at all stages of their lives and careers. This bill increases investments in community colleges around the country to help these institutions do what they do best -- prepare our students for the workforce of today and tomorrow.
+
+The President has set an ambitious goal for higher education in this country. By 2020, we want America once again to have the highest proportion of college graduates in the world. {APPLAUSE} To make this happen, we'll need to invest in these students and invest in the colleges that they will attend.
+
+The bill that President Obama will sign here today is a huge step forward toward meeting our goal. I can't think of a better investment in America's future.
+
+I'm proud to be here as a community college instructor, and I am especially proud and honored to introduce a President who is making higher education a reality for millions more Americans.
+
+Please welcome President Barack Obama. {APPLAUSE} 
+
+{/speech}

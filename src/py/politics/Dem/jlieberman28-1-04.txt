@@ -1,0 +1,89 @@
+﻿{title} Speech to His Supporters {/title}
+{event} ----- {/event}
+{speaker} Joseph Lieberman {/speaker}
+{date} January 28, 2004 {/date}
+{source} http://www.nytimes.com/ {/source}
+{description} The following is the text of Senator Joseph Lieberman's speech to his supporters following the New Hampshire primary {/description}
+
+
+{speech} 
+
+Thank you. {APPLAUSE}
+
+Hey, let me ask you this: Is New Hampshire a great state or what? {APPLAUSE}
+
+You bet it is.
+
+Based on the returns that we've seen tonight, thanks to the people of New Hampshire, we are in a three-way split decision for third place. {APPLAUSE}
+
+Now, you and I both know that the national pundits didn't expect this, did they?
+
+{AUDIENCE} No! {/AUDIENCE} 
+
+As a matter of fact, the national newspaper put four of the candidates on their front page, not me.
+
+{BOOING} 
+
+But today, the people of New Hampshire put me in the ring, and that's where we're going to stay. {APPLAUSE}
+
+{AUDIENCE} Let's go, Joe. Let's go, Joe. {/AUDIENCE} 
+
+Today, New Hampshire's next-door neighbor candidates, John Dean -- no, that's Howard Dean, I was close... {LAUGHTER}
+
+... Howard Dean and John Kerry received most of the vote, but the rest was split with no clear decision reached.
+
+And let me put it to you this way: For us, this is more than a campaign, isn't it?
+
+{AUDIENCE} Yes! {/AUDIENCE} 
+
+It is a cause. And we're ready to take that cause now to the rest of America. {APPLAUSE}
+
+{AUDIENCE} Go, Joe, go. Go, Joe, go. {/AUDIENCE} 
+
+Thank you. And what is our cause? What moves us forward?
+
+{AUDIENCE-MEMBER} You do. {/AUDIENCE-MEMBER} 
+
+{APPLAUSE}
+
+Well, Mike, I thank you. But it's larger than me and it's a cause we share. It is for a politics that puts the national interest above special interests or partisan interests. Right? {APPLAUSE}
+
+It is for a Democratic Party that fights as hard to defend our nation's security as it does to advance the causes of social justice and equal rights. Right? {APPLAUSE}
+
+It is to take this nation, too divided at a time when we face challenges in the world and at home unprecedented in our history, and make us again one nation under God -- that is our cause. {APPLAUSE}
+
+It is the cause of the American Dream, the promise of America, for America's middle class and the promise of safety and security for all of our people. I know that I can offer a unique choice in this race, just as I have up until now.
+
+And it is the choice of a leader who will bring to the American people both security and opportunity. {APPLAUSE}
+
+{AUDIENCE} Let's go, Joe. Let's go, Joe. {/AUDIENCE} 
+
+In this race, in this contest, I am the one mainstream Democratic alternative to the extremes of George W. Bush, and that is why I am the one Democrat who can and will deny this president a second term and give America the fresh start that we need. {APPLAUSE}
+
+I love this nation. I love the people of this country. I respect them too much to give more than one answer to the same question. I give the same answer every group I talk to, every day that I speak. The American people know that I trust them enough to level with them, and they know they can trust me enough to do what is right for this great and beloved country of ours. So the battle goes on. And the battle goes on with the confidence that I am ready to be the president America needs now. {APPLAUSE}
+
+{AUDIENCE} Let's go, Joe. Let's go, Joe. {/AUDIENCE} 
+
+I want to report this to you: Tonight as the returns came in, I spoke to those who have come to the leadership of our cause in the states -- the seven states -- that will hold primaries or caucuses a week from today. And each and every one of them said to me: "We demand that you carry this fight to our states. We need you." {APPLAUSE}
+
+"We are ready to carry your banner. Our people need the opportunity to vote for your mainstream alternatives."
+
+Now, as you know, to give you some sense of the spirit of this campaign, I have been saying that -- tonight we had the chartered plane at the Manchester airport, we were going to Wilmington, Delaware. The snows have closed the airport in Wilmington. But, my friends, I'm getting on that plane, and we're going to Oklahoma -- {APPLAUSE}
+
+-- Oklahoma, where I might add, the wind -- but fortunately tonight, the snow -- comes sweeping down the plain. {APPLAUSE}
+
+So, finally, I thank God for giving me life and the opportunities that I've had. I thank my family, my wife, our kids, my mother, my sisters, and you in New Hampshire, who have become my extended family for getting this campaign off to the good start that we achieved here today.
+
+{AUDIENCE-MEMBER} We love, Joe. {/AUDIENCE-MEMBER} 
+
+And I love you back from the bottom of my heart. {APPLAUSE}
+
+Our cause is just and it is necessary. And we will continue with the start you have given us to take this cause to the rest of America.
+
+I believe in this country. I know that the people of this country have lost some confidence about our future. But I want to remind them that we are the greatest people in the world -- more diverse, more tolerant, more hard-working, more entrepreneurial, more innovative, more decent, more full of faith and optimism than any other people in the world.
+
+And with the right kind of leadership, pulling this people together, we will guarantee that America's future will be full of all the opportunity and confidence and security and hope and unity that you deserve.
+
+Thank you. God bless you. And God bless America. {APPLAUSE}
+
+{/speech} 

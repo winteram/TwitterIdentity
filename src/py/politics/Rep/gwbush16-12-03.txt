@@ -1,0 +1,49 @@
+﻿{title} Remarks by the President at Signing of the American Dream Downpayment Act {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} December 16, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. Thank you for coming. Thanks for the warm welcome. It's great to be back at the Department of Housing and Urban Development. This is not my first time here, nor will it be my last. {APPLAUSE} I am here today because we are taking action to bring many thousands of Americans closer to owning a home. Our government is supporting homeownership because it is good for America, it is good for our families, it is good for our economy. 
+
+One of the biggest hurdles to homeownership is getting money for a down payment. This administration has recognized that, and so today I'm honored to be here to sign a law that will help many low-income buyers to overcome that hurdle, and to achieve an important part of the American Dream. 
+
+I appreciate Alphonso Jackson agreeing to step up and become the Acting Secretary of the Housing and Urban Development. I look forward to his Senate confirmation, a hasty confirmation. {APPLAUSE} 
+
+I also want to thank Mel Martinez for doing such a fine job as the Secretary of this important organization. Mel brought integrity and honor to the office. He did a fine job on behalf of all Americans. And we honor you, Mel. {APPLAUSE} 
+
+I want to thank all the hardworking officers and employees of HUD. I appreciate your focus and your dedication, your willingness to work on behalf of a better America. {APPLAUSE} I thank very much members of the Congress who have taken time to come and join us for this important bill signing. Senator Wayne Allard from Colorado is with us. Senator Allard, thank you for your work on the floor of the Senate. {APPLAUSE} Chairman of the Financial Services Committee, Mike Oxley, is with us. Congressman, thank you for coming. {APPLAUSE} Congressman Jim Leach from Iowa is with us today. Congressman, thank you for being here. {APPLAUSE} Congresswoman Katherine Harris, who had a lot to do with this bill getting passed, is here with us. Katherine, thank you for coming. {APPLAUSE} Delegate Madeleine Bordallo of Guam is with us today. I'm honored you are here. Thank you for coming, Madeleine. I appreciate you coming. {APPLAUSE} 
+
+I, too, want to pay homage to a man I call "Little Woody" -- that would be Rob Woodson. He worked hard in the development of this policy. I think it is safe to say that he was the -- he developed the concept for this policy, a concept embraced by my administration. I'm appreciative that Michelle is here. I also want to thank Dad for coming -- Bob Woodson, who is a social entrepreneur, a person who cares deeply about every American having the right and a chance to own a home. Thank the Woodson family. God bless you all. {APPLAUSE} 
+
+I want to thank the representatives of the consumer and housing groups that worked hard on this piece of legislation. I want to thank leaders of the national community organizations that are with us, and members of the real estate industry. 
+
+This administration will constantly strive to promote an ownership society in America. We want more people owning their own home. It is in our national interest that more people own their own home. After all, if you own your own home, you have a vital stake in the future of our country. And this is a good time for the American homeowner. Today we received a report that showed that new home construction last month reached its highest level in nearly 20 years. {APPLAUSE} 
+
+The reason that is so is because there is renewed confidence in our economy. Low interest rates help. They have made owning a home more affordable, for those who refinance and for those who buy a home for the first time. Rising home values have added more than $2.5 trillion to the assets of the American family since the start of 2001. 
+
+The rate of homeownership in America now stands a record high of 68.4 percent. Yet there is room for improvement. The rate of homeownership amongst minorities is below 50 percent. And that's not right, and this country needs to do something about it. We need to -- {APPLAUSE} We need to close the minority homeownership gap in America so more citizens have the satisfaction and mobility that comes from owning your own home, from owning a piece of the future of America. 
+
+Last year I set a goal to add 5.5 million new minority homeowners in America by the end of the decade. That is an attainable goal; that is an essential goal. And we're making progress toward that goal. In the past 18 months, more than 1 million minority families have become homeowners. {APPLAUSE} And there's more that we can do to achieve the goal. The law I sign today will help us build on this progress in a very practical way. 
+
+Many people are able to afford a monthly mortgage payment, but are unable to make the down payment. So this legislation will authorize $200 million per year in down payment assistance to at least 40,000 low-income families. These funds will help American families achieve their goals, and at the same time, strengthen our communities. 
+
+And there's more to do, as well. We'll continue to pursue a broad agenda to help people own a home. There are three steps I want to describe to you right quickly about what we intend to do. First, those who apply for mortgages should be made aware of all the costs and warned about predatory lenders who take advantage of inexperienced buyers. So we've doubled the funds for housing counseling services, including those run by faith-based and community groups. 
+
+We understand that buying a home for the first time is complicated, and we want to simplify the process. We want to help people understand the pros and cons of buying a home. We want people to be fully aware of what it means to buy a home and what it takes. And we want people as best protected as possible from those shysters who would take advantage of first-time buyers. {APPLAUSE} 
+
+Second, we need to make the home-buying process more affordable. Some of the biggest up-front costs in a home purchase are the closing costs. Sometimes they catch you by surprise. {LAUGHTER} Many home buyers do not have the time to shop around looking for a better deal on closing costs. You're kind of stuck with what you're presented with. And so they end up paying more than they should. So we've proposed new rules to make it easier for buyers to shop around and to compare prices on closing costs, so they can get the best deal and the best service possible. 
+
+And thirdly, we want to make buying a home simpler. Many first-time buyers look at the paperwork from a loan application, and frankly, get a little nervous about all the fine print. Those forms can be intimidating to the first-time home buyer. They can be intimidating to the second or third-time home buyer, too. {LAUGHTER ; APPLAUSE} So this administration has proposed new rules to simplify the forms home buyers and homeowners fill out when they apply for a loan or close on a mortgage. 
+
+We understand that buying a home is a big step, and so these three recommendations we're making, these three changes in the rules will make that step easier; will enable people to make the step to buying a home -- they'll be able to do so with more confidence. These are practical ways that we are working to expand homeownership across the country. 
+
+The dream of homeownership should be attainable for every hardworking American. That's what we want. In this act of Congress I'm going to sign, the regulations that I hope are finalized soon will help thousands of families fulfill the dream. 
+
+And so now it my honor, right here at this important Department, the Department responsible for encouraging homeownership in America, to sign the American Dream Downpayment Act. {APPLAUSE} 
+
+{/speech} 

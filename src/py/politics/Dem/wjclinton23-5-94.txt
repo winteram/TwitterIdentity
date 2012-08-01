@@ -1,0 +1,46 @@
+﻿{title} Remarks by the Presidentat National Parks Reception {/title}
+{event} National Parks Reception {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 23, 1994 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Mr. Secretary. Attorney General Reno, Mr. Frampton, Mr. Kennedy, Congressman Vento, ladies and gentlemen. I sure have had a good time this afternoon.
+
+You know, this is a wonderful occasion for all of us as Americans. And in many ways it's a very personal occasion. Hillary and I were up here whispering to each other -- I said, now, didn't we go to the Dinosaur National Park in Utah and to the Buffalo, and then I started reeling them off. She said, Bill, forget it. You will never remember all the parks we have visited. {LAUGHTER} And we can't. We can't begin to remember all the ones we have visited and all the things that have happened to us from Florida to northern California and all points in between.
+
+I do want to say that I am personally very grateful to the people who have been recognized this year. Ambassador Lane, thank you, sir, for your many contributions.
+
+Steve Coleman and Josephine Butler and the other people from Meridien Hill. We were there on Earth Day. And I want you to know that -- not that I didn't trust you -- but the other day I was in the neighborhood, and I had my car sort of drive by the park again just to make sure there was no false advertising. {LAUGHTER} And sure enough, it was just like it was on Earth Day. And I thank you for that urban miracle of nature.
+
+I congratulate the Dade County Public Schools. And Phyllis Cohen, thank you for coming here and for teaching our young people about the importance of our natural resources. The children of Florida have a great burden as they grow up now to reconcile our responsibility to the remarkable ecostructure of that state and the explosion of growth that's going on there.
+
+Richard Gale, congratulations to you, sir, and thank you for your career.
+
+You know, we were talking here a moment ago. I'll bet you that more American citizens have met employees of the Park Service than any other department in the federal government. They may have thought more about employees of the IRS -- {LAUGHTER} -- but they have actually more employees of the Park Service.
+
+And I'll bet you, you think about it, I bet each and every one of you here can remember park rangers you met at Carlsbad or Yellowstone or Yosemite, or you name it. And that's a very important thing. At time when people have such negative impressions of government, this is our government at its best.
+
+And I appreciate what Secretary Babbitt said about the budget. Just so you'll know exactly how hard that was, this budget recommends the outright elimination of over 100 government programs, slashing over 200 more. If adopted, it'll be the first time in anybody's memory that the Congress and the President have actually worked together to pass an executive budget for two years in a row and will give us three years of deficit reduction for the first time since Harry Truman was President. But we still spent more on the Park Service, because that's where a lot of America's heart is and where a lot of America's future is. And the California bill will be an astonishing achievement if we can get it through. And we're working hard on that.
+
+Thank you, Elizabeth Barlow Rogers, for your work in Central Park. For all of us who have ever been to the zoo or the carousel or jogged around the reservoir with bated breath, we thank you for what you have done to give that great park a new lease on life.
+
+Most important, I'd like to thank Secretary Babbitt. We've been friends a long time. We've talked about these things a long time. He grew up near the Grand Canyon. I grew up in Hot Springs, which actually is, I think, the only city in America, perhaps except this one, that actually has a whole national park within the city limits. And it was the first reservation set aside by Congress for a national reservation in 1932, in recognition of the fact that in the 16th century, Hernando DeSoto came there and found the Indians bathing in the hot sulphur springs. He was looking for the fountain of youth. I grew up there and lost it. {LAUGHTER}
+
+But Bruce and I have been through these things for so many years. And when we served as governors, I don't know how many times I heard the western governors who cared about the environment say that there had to be some way that Interior could push this country toward sustainable development, push this country toward maintaining its resources and still not feel that we were violating the culture and the way of life of the people, especially in the west where the Interior Department owns so much land. I think he has managed the tension between traditional culture and change better than any other person in the entire United States could have done it -- in the only department that really still literally affects the lives of more than half the people in many communities in this country.
+
+So I am very grateful to him. I thank him for what he's done. And I know all of you will join me in expressing your appreciation for his -- {COMMENT="Inaudible"} -- leadership. {APPLAUSE}
+
+Now I have to say just a parochial word about where I live now. I live on National Park Service Reservation #1. {LAUGHTER} And I want you all to take note of that the next time you hear somebody say the President's off the reservation. {LAUGHTER} I'm actually here with Hillary and Chelsea on part of the original design of Washington laid out by George Washington and Pierre L'Enfant. Like other families who've lived here, we've had the honor of planting several trees on these grounds -- a willow oak, a leaf linden, an American elm. We love this place that is maintained by our Park Service.
+
+I want to recognize two special contributors and say I enjoyed having my picture taken with the White House staff who do so much to maintain the house and the grounds of just a moment ago. I want to thank our Head Usher, Gary Walters, who does a great job for us on so many events here. {APPLAUSE} Where's Gary? There's Gary back there. And I'd like to ask Irv Williams, the Executive Grounds Superintendent. For nearly 40 years he's been here. Where are you, Irv? Stand up. Thank you so much. {APPLAUSE}
+
+Three decades ago, Mr. Williams helped Jacqueline Kennedy redesign the First Lady's Garden. It was later renamed the Jacqueline Kennedy Garden. It is just opposite the Rose Garden in the back of the White House. It's another of the wonderful legacies that this fine lady left our country with the help of Irv Williams who's given his life to this work, and we thank you, sir.
+
+Wallace Stegner said, "The National Parks are the best idea we ever had. Absolutely democratic, absolutely American, they reflect us at our best rather than our worst." I could say it no better. Let us try to live by the mottos of the National Parks. Let us try to lift our spirits on a daily basis as we are all uplifted when we visit them. And let us for the rest of our lives rededicate ourselves to preserving and enhancing them. They are the legacy of every generation. They're our hope for the future, our tie to the past, our connection to the land. They're bigger than any of us, and they make us all better. And we thank you all for your contribution to that end.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

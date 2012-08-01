@@ -1,0 +1,30 @@
+﻿{title} President Bush Meets with Troops in Iraq on Thanksgiving {/title}
+{event} Remarks by the President to the Troops, Baghdad, Iraq  {/event}
+{speaker} George W. Bush {/speaker}
+{date} November 27, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. I was just looking for a warm meal somewhere. {LAUGHTER ; APPLAUSE} Thank you for inviting me to dinner. {APPLAUSE} General Sanchez, thank you, sir, for your kind invitation and your strong leadership. Ambassador Bremer, thank you for your steadfast belief in freedom and peace. I want to thank the members of the Governing Council who are here, pleased you are joining us on our nation's great holiday, it's a chance to give thanks to the Almighty for the many blessings we receive.
+
+I'm particularly proud to be with the 1st Armored Division, the 2nd ACR, the 82nd Airborne. {APPLAUSE} I can't think of a finer group of folks to have Thanksgiving dinner with than you all. We're proud of you. Today, Americans are gathering with their loved ones to give thanks for the many blessings in our lives. And this year we are especially thankful for the courage and the sacrifice of those who defend us, the men and women of the United States military. {APPLAUSE}
+
+I bring a message on behalf of America: we thank you for your service, we're proud of you, and America stands solidly behind you. {APPLAUSE} Together, you and I have taken an oath to defend our country. You're honoring that oath. The United States military is doing a fantastic job. {APPLAUSE} You are defeating the terrorists here in Iraq, so that we don't have to face them in our own country. You're defeating Saddam's henchmen, so that the people of Iraq can live in peace and freedom.
+
+By helping the Iraqi people become free, you're helping change a troubled and violent part of the world. By helping to build a peaceful and democratic country in the heart of the Middle East, you are defending the American people from danger and we are grateful. {APPLAUSE}
+
+You're engaged in a difficult mission. Those who attack our coalition forces and kill innocent Iraqis are testing our will. They hope we will run. We did not charge hundreds of miles into the heart of Iraq, pay a bitter cost in casualties, defeat a brutal dictator and liberate 25 million people only to retreat before a band of thugs and assassins. {APPLAUSE}
+
+We will prevail. We will win because our cause is just. We will win because we will stay on the offensive. And we will win because you're part of the finest military ever assembled. {APPLAUSE} And we will prevail because the Iraqis want their freedom. {APPLAUSE}
+
+Every day you see firsthand the commitment to sacrifice that the Iraqi people are making to secure their own freedom. I have a message for the Iraqi people: you have an opportunity to seize the moment and rebuild your great country, based on human dignity and freedom. The regime of Saddam Hussein is gone forever. {APPLAUSE}
+
+The United States and our coalition will help you, help you build a peaceful country so that your children can have a bright future. We'll help you find and bring to justice the people who terrorized you for years and are still killing innocent Iraqis. We will stay until the job is done. {APPLAUSE} I'm confident we will succeed, because you, the Iraqi people, will show the world that you're not only courageous, but that you can govern yourself wisely and justly.
+
+On this Thanksgiving, our nation remembers the men and women of our military, your friends and comrades who paid the ultimate price for our security and freedom. We ask for God's blessings on their families, their loved ones and their friends, and we pray for your safety and your strength, as you continue to defend America and to spread freedom.
+
+Each one of you has answered a great call, participating in an historic moment in world history. You live by a code of honor, of service to your nation, with the safety and the security of your fellow citizens. Our military is full of the finest people on the face of the earth. I'm proud to be your Commander-in-Chief. I bring greetings from America. May God bless you all. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,44 @@
+﻿{title} President Bush Welcomes the 2006 NBA Champion Miami Heat to the White House {/title}
+{event} The East Room {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 27, 2007 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. Please be seated. It is such a joy to welcome the NBA champs, the Miami Heat, to the White House. Glad you're here. {APPLAUSE} This is the Miami Heat's first NBA championship. I congratulate you on a tremendous achievement, even though you beat a Texas team. {LAUGHTER}
+
+I can assure you, however, then Governor Bush, the Governor of Florida, was thrilled, as were a lot of Florida fans. We've got a lot of members of the congressional delegation -- {APPLAUSE} We got your Senator here. {APPLAUSE} We got Congresswoman Ros-Lehtinen, Alcee Hastings, Robert Wexler, Ander Crenshaw, Jeff Miller, Kendrick Meek, Ron Klein, and Tim Mahoney. Thank you all for coming. {APPLAUSE}
+
+Most importantly, we got members of the Miami Heat family with us today. I'm really proud of Micky Arison and Madeleine, who is with us, as well as Nick. As you know, I used to be in pro sports. I never had the pleasure of winning anything. {LAUGHTER} Must be pretty cool. {LAUGHTER}
+
+I welcome Pat Riley, the President and Head Coach of the Heat. I welcome Randy Pfund, the General Manager. I want to thank all the folks who make the organization run -- the equipment people, the people that figure out how to get you to the plane on time, the folks who never really get much credit for making a franchise become a championship franchise. And we welcome you all here.
+
+I want to say something to the spouses of the players. Welcome. You've got a tough life in many ways with your spouse on the road all the time, and you deserve as much of this championship as they do. And so we welcome you here to the White House, as well.
+
+All the fans who are here, thanks for coming. These players did something that they weren't supposed to do. Remember, they went into the Eastern Conference championship as the underdog. Nobody thought they could win. And then they get against the Mavericks, and they're two down, and 13 points behind with minutes remaining, seven minutes remaining in the third game. In other words, they lose that game, it's over. They weren't supposed to win. And they did something no team has done in nearly 30 years, which is win four straight, and become the NBA champs. And your fans are really proud of you. {APPLAUSE}
+
+This is a team with some of the NBA's bright stars. Dwyane Wade led the team in scoring -- {APPLAUSE} -- Most Valuable Player in the finals. He was on the -- Sportsman of the Year for Sports Illustrated. All it said was, Dwyane Wade plays to win. Unfortunately, he hurt his shoulder. I know a lot of NBA fans, whether they like the Heat or not, are pulling for Dwyane to get back into action. We wish you a speedy recovery, Dwyane. {APPLAUSE}
+
+Or take Alonzo Mourning. A lot of folks here in D.C. remember Alonzo Mourning. {APPLAUSE} I don't know if the people understand it, but Alonzo had a kidney illness that a lot of folks said, well, he'll never get back on the court again. He not only got back on the court, he blocked a lot of shots -- {LAUGHTER} -- which helped this team become the NBA champ.
+
+And then, of course, probably one the most well-known figures in the United States of America is a fellow that's hard to miss -- {LAUGHTER} -- a fellow Texan -- {LAUGHTER} -- big Shaq. {APPLAUSE} He scored his 25,000th point in his career last night -- or recently. And we congratulate you for that -- last night, yes, last night. And -- but he was an important figure in seeing to -- seeing this team to the championship.
+
+But as Coach Riley gave me -- he said, just remember, the motto wasn't, each star matters; the motto was, "15 Strong." In other words, it was a team effort that got these men here to the White House. They had the stars, everybody knew who they -- who the stars are, but it was the capacity to play together, to put the team ahead of themselves, that enabled them to be here at the White House, saying, congratulations NBA champs. {APPLAUSE}
+
+And I appreciate very much -- so they asked Dwyane Wade -- he was the fellow that was the Sports Illustrated man -- he said, "We did this together." In other words, he recognized, in spite of the fact that he had a fine series, that he couldn't have done it without his teammates.
+
+Pat Riley had a lot to do with this team playing as a team. A team requires a good, solid leader in convincing people to put the team ahead of themselves. And that's exactly what Pat Riley has done. I'd say he's accomplished. After all, he's won seven NBA rings, that's all. {LAUGHTER} They asked him about this ring, and I think it's interesting what he said. He said, "I would have traded them all for this one." He cares about this team. And obviously, the players responded to his leadership.
+
+But what impresses me the most about the Miami Heat is their work in the community. That's what impresses me about them. I mean, I'm in awe of their athletic skills. Standing next to Shaq is an awe-inspiring experience. {LAUGHTER} But I want to share some of the stories of these players, and what they have done in their communities.
+
+Alonzo Mourning dedicated his entire salary from the Heat to charities that help low-income kidney patients and underprivileged youth. It wasn't 10 percent -- {APPLAUSE} I would suggest not popping up on every story -- {LAUGHTER} -- because you're going to be tired. {LAUGHTER} This is a giving team. {LAUGHTER}
+
+Antoine Walker founded the Eight Foundation, to provide education and sports opportunities for inner-city kids in his hometown of Chicago. He came from Chicago; he's putting something back in the community from whence he came. Dwyane Wade has given a lot of his salary to his church. He donates basketball shoes to a youth sports program at his alma mater, which happens to be Marquette University. He founded Wade's World Foundation, which gives children educational and social opportunities, such as the chance to spend a day at Disney World.
+
+And then, of course, you've got the big man, Shaq. He works as a reserve police officer with the Miami Beach Police Department. {APPLAUSE} He gives new meaning to the phrase, "the long arm of the law." {LAUGHTER}
+
+Heat players volunteer their time in all kinds of causes, ranging from reading to drug prevention to youth basketball. This is a championship team on the court, and this is a championship team off the court, and it is my high honor to welcome to the White House as the NBA champs. {APPLAUSE} 
+
+{/speech}

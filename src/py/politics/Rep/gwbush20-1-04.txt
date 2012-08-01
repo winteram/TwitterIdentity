@@ -1,0 +1,26 @@
+﻿{title} President Discusses Health Care in State of the Union {/title}
+{event} President Discusses Health Care in State of the Union {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 20, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Our nation's health care system, like our economy, is also in a time of change. Amazing medical technologies are improving and saving lives. This dramatic progress has brought its own challenge, in the rising costs of medical care and health insurance. Members of Congress, we must work together to help control those costs and extend the benefits of modern medicine throughout our country. {APPLAUSE}
+
+Meeting these goals requires bipartisan effort, and two months ago, you showed the way. By strengthening Medicare and adding a prescription drug benefit, you kept a basic commitment to our seniors: You are giving them the modern medicine they deserve. {APPLAUSE}
+
+Starting this year, under the law you passed, seniors can choose to receive a drug discount card, saving them 10 to 25 percent off the retail price of most prescription drugs -- and millions of low-income seniors can get an additional $600 to buy medicine. Beginning next year, seniors will have new coverage for preventive screenings against diabetes and heart disease, and seniors just entering Medicare can receive wellness exams.
+
+In January of 2006, seniors can get prescription drug coverage under Medicare. For a monthly premium of about $35, most seniors who do not have that coverage today can expect to see their drug bills cut roughly in half. Under this reform, senior citizens will be able to keep their Medicare just as it is, or they can choose a Medicare plan that fits them best -- just as you, as members of Congress, can choose an insurance plan that meets your needs. And starting this year, millions of Americans will be able to save money tax-free for their medical expenses in a health savings account. {APPLAUSE}
+
+I signed this measure proudly, and any attempt to limit the choices of our seniors, or to take away their prescription drug coverage under Medicare, will meet my veto. {APPLAUSE}
+
+On the critical issue of health care, our goal is to ensure that Americans can choose and afford private health care coverage that best fits their individual needs. To make insurance more affordable, Congress must act to address rapidly rising health care costs. Small businesses should be able to band together and negotiate for lower insurance rates, so they can cover more workers with health insurance. I urge you to pass association health plans. {APPLAUSE} I ask you to give lower-income Americans a refundable tax credit that would allow millions to buy their own basic health insurance. {APPLAUSE}
+
+By computerizing health records, we can avoid dangerous medical mistakes, reduce costs, and improve care. To protect the doctor-patient relationship, and keep good doctors doing good work, we must eliminate wasteful and frivolous medical lawsuits. {APPLAUSE} And tonight I propose that individuals who buy catastrophic health care coverage, as part of our new health savings accounts, be allowed to deduct 100 percent of the premiums from their taxes. {APPLAUSE}
+
+A government-run health care system is the wrong prescription. {APPLAUSE} By keeping costs under control, expanding access, and helping more Americans afford coverage, we will preserve the system of private medicine that makes America's health care the best in the world. {APPLAUSE} 
+
+{/speech}

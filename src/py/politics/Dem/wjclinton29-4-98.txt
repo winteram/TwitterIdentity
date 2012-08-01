@@ -1,0 +1,38 @@
+﻿{title} Remarks by the President at Winter Olympics/Paralympics Reception {/title}
+{event} Winter Olympics/Paralympics Reception {/event}
+{speaker} Bill Clinton {/speaker}
+{date} April 29, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President to Olympic and Paralympic Athletes {/description}
+
+{speech} 
+
+Thank you and welcome to the White House. I am delighted to have all of you here. I thank the members of the Cabinet for coming, and I thank Congressman Ryun from Kansas, a former Olympian, for being here. To the president of the Olympic Committee, Bill Hybl, to the executive director, Dick Schultz, and to all the other officials, and to the members of our Olympic team.
+
+Let me say -- before I get into my remarks, I need to make two preliminary comments. First of all, I want to thank Tipper Gore for representing our administration at the 1998 Winter Olympics. I wish she could be here with us today. I know she would like to be. I'd also like to thank my good friend Mack McLarty for working so hard with the Vice President as the co-chair of our White House Task Force on the Olympic Games.
+
+The second thing I'd like to do before I get into my remarks is to just say, for the benefit -- because this is my only chance to talk to the press today -- I just finished a very good meeting with the Senate Republican and Democratic leaders, Trent Lott and Tom Daschle, about one of the most important votes that our Senate will face this year, and that is to expand the alliance of NATO to include Poland, Hungary, and the Czech Republic.
+
+I want to thank them both for their support. This is coming at a very important time for America -- four years after I first proposed that we expand our European security alliance to make us more secure and Europe safer and more united. And I am very grateful for Senator Lott and Senator Daschle, Senator Helms and Senator Biden, and all the others. We are seeing a very impressive, high-level debate in the Senate, and even among those who don't agree with my position, I must say I've been very impressed by the debate. And I'm looking forward to a positive vote by the end of this week.
+
+Now let me say I have looked forward to this day for a long time, ever since the Olympics concluded. To see these fine people, and those who are not here who are part of their teams, I think makes all Americans very proud. In the mountains, the ice rinks, the race courses of Japan, we saw America at its best. The young Olympians who are here did more than carry our flag. In a fundamental way, they carried with them the spirit of America.
+
+I'd like to say a special word, too, of appreciation to the Paralympians who brought home 34 medals in the largest Winter Paralympics ever. Thank you. {APPLAUSE}
+
+It's also a great source of pride for us that the Winter Olympics in 2002 will be in Salt Lake City. When the Olympic flag was lowered and passed from the Mayor of Nagano to Mayor Corradini, it really marked the opening events of the 2002 Games. So we're very glad that Mayor Corradini has joined us today, along with the Chairman of the Salt Lake Olympic Committee, Robert Garff, and other members of the Utah Olympic Committee. We want to help them succeed. And I'd like to ask them to stand and receive our support. Mayor Corradini and the members of the Utah Committee -- there's Mr. Garff. Thank you all for being here. {APPLAUSE} Thank you -- there they are right there. {APPLAUSE}
+
+I'd also like to say one more word to America's Olympic teams in 1998. In a fundamental way, you have become a part of America's team for the rest of your lives. If you choose, for the rest of your lives, because you were an Olympian, you can have a profound, positive impact on all the people with whom you come in contact, but especially on young people.
+
+Even though for many of you the Olympic triumphs you had, just being a member of the team, must have marked the most magic moment in your lives, I hope that the future will be even richer for you. And I think it can be if you use the fact that you are an Olympian to have a positive impact on the lives of young people.
+
+The lessons of setting your sights high, working hard, being persistent, believing in yourselves, playing by the rules, supporting your team, those are lessons that every child in America needs to learn; lessons that every child can see in your eyes and in the power of your example. Some of you earlier today participated in the Champions in Life program. You can reach out, in telling your stories, working in communities, approaching future endeavors with this kind of drive and commitment, and I hope you'll do that, because you can really have a positive impact on 21st century America.
+
+In this century, through all its highs and lows, we have seen throughout the 20th century a renaissance in the Olympic games. Everybody now knows about the remarkable triumph of Jesse Owens in the 1936 Berlin Games, what it said about prejudice and hatred, what it said about the difference between America and the Nazi regime that then governed in Germany.
+
+Jesse Owens said this in 1936: "Only an Olympian can fully realize the grip the Games have on the youth of the world." It was true in 1936; it is true today. Then it was true and people saw a profound good in the midst of a dark time. This is a sunlit moment of peace and prosperity. But the Olympic spirit -- the spirit of goodwill, friendship, understanding and unity across all the lines that divide us -- that can propel us into an even brighter era of respect and success.
+
+Now I would like to introduce the athlete that has been chosen by her teammates to represent the Olympians here today, a person whose grace and excellence on the ice -- and I must say even more after the competition -- must have been a source of enormous joy and pride, not only to her teammates, but to all Americans.
+
+Ladies and gentlemen, Ms. Michelle Kwan. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,18 @@
+﻿{title} Remarks by Vice President Al Gore to Weather Forecasters on Global Climate Change {/title}
+{event} The East Room, the White House, Washington CD {/event}
+{speaker} Al Gore {/speaker}
+{date} October 1, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{APPLAUSE} Thank you very much. Ladies and gentlemen, on behalf of the president and the first lady it's my honor to welcome you to the White House. And before I present the president to you I want to briefly acknowledge our Deputy Secretary of Commerce Robert Mallet, our Deputy Secretary of Agriculture Rich Romenture, the Director of NOAA Dr. Jim Baker. I think James Lee Witt left but was here. Dr. Jack Gibbons, the president's science adviser; Katie McGinty, the chair of the Council on Environmental Quality; Todd Stern, who is assistant to the president's staff secretary heading up the president's climate team; Dan Tarullo, assistant to the president for international economic policy. And I want to especially acknowledge as a group all of the scientists who spoke at NOAA this morning.
+
+I understand that they did a very thorough job, and I want to thank them on behalf of the president. And we are so delighted to welcome all of you to the White House. And not only because of the opportunity it provides to have an exchange about this important issue, but also because in the words of one of you who came through the line, "Finally" -- this is his phrase --"Finally you guys get to meet a group that get more flak than you do." {LAUGHTER} And I imagine it's not very easy being a weathercaster -- {LAUGHTER} -- and I'm sure you can all tell some great stories about incidents that you've run into.
+
+But in any event, we are just delighted that you are here. I'm going to have a chance to talk with you at a little bit more length in a few moments.
+
+It is my pleasure to present the president to you not only as the president of our country, but as a personal friend I've been privileged to work with close at hand for almost five years now. And I just want to say on a personal note that when an issue like this one comes up that's extremely complex, extremely difficult, excruciatingly difficult, it really is a great thing for a country to have as president somebody who really rolls up his sleeves and asks every time what is the right thing to do, what are the real best interests of the people of the United States of America. It's really a privilege and a pleasure to work with him, and it's an honor for me now to present to you the President of the United States, Bill Clinton. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,48 @@
+﻿{title} Remarks by the President at the Sons of Italy Foundation 16th Annual National Education and Leadership Awards Gala {/title}
+{event} Grand Hyatt Hotel, Washington, D.C. {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 19, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all.
+
+{AUDIENCE} Mr. President ! {/AUDIENCE} {APPLAUSE}
+
+I promised the Prime Minister you'd behave yourselves. {LAUGHTER} It's great for the son of Barbara to be here with the Sons of Italy. Thank you for having me. I'm honored. {LAUGHTER ; APPLAUSE} 
+
+It's a privilege for me to join you all as we celebrate the achievements and contributions of Italian-Americans. I'm especially pleased to join you in welcoming our great friend, the Prime Minister of Italy, Silvio Berlusconi. {APPLAUSE} At this crucial moment in history, America and Italy are standing together as proud friends and strong allies in the cause of freedom. {APPLAUSE} Our two peoples are bound together by affection and respect. And today, Americans feel respect and gratitude for the leadership of the Prime Minister. {APPLAUSE}
+
+I appreciate Charlie, thank you for being the honorary chairman of this event. I thank Phil, as well, for being the host. I want to thank Joe Sciame, who is the chairman of the Sons of Italy Foundation; Paul Polo, who is the president. Our Ambassador to Italy is with us, Mel Sembler. I appreciate the job he is doing on behalf of the American people. {APPLAUSE} Sergio Vento is with us, who is the Italian Ambassador to the United States. And, Sergio, I appreciate your leadership. {APPLAUSE}
+
+I know there are some members of Congress and the Senate here. I see Santorum and Lieberman, and I appreciate you both being here. Thanks for coming. {APPLAUSE} I would recognize the other members of Congress by name, but you evidently are not here or have lousy seats. {LAUGHTER}
+
+I appreciate the fact that we've got scholarship and award recipients who are with us. And I appreciate the distinguished guests who are here, as well.
+
+This annual event is an opportunity to express well justified pride in the Italian ancestry of millions of Americans. The immigrant journey to America could be difficult. Families were often separated, and life in a new country brought its hardships. But this country, the United States, is fortunate that generations of Italian families made the journey. They brought to our country strength of character, a deep faith in God, love of family, and an appreciation of freedom. Without question, America is a better place for the influence of the sons and daughters of Italy. {APPLAUSE}
+
+In so many aspects of American life, it is hard to think of this country without the Italian influence. The life of our country has been richer because of names like DiMaggio and Lombardi, Capra and Sinatra, LaGuardia, Scalia and Giuliani. {APPLAUSE} Countless of other Italian-Americans, less well known, have excelled in every field -- from the artisans who carved the figure of Lincoln that overlooks the Mall right here in Washington, to business leaders, to educators, to many good priests and nuns who have kindly looked after Italian parishes here in America. {APPLAUSE} It was an Italian-American, Mother Frances Cabrini, whose mission to build hospitals and orphanages for poor immigrants made her America's first saint. Of course, that's the official count -- every Italian-American man will tell you his mother is the saint. {LAUGHTER ; APPLAUSE} 
+
+From our nation's beginnings, the sons and daughters of Italy have been fierce defenders of American liberty. Italians crossed the Atlantic to fight with us in the Revolutionary War. In later struggles, dozens of Italian-Americans would receive the Medal of Honor. One of these was Marine Sergeant John Basilone. {APPLAUSE} For three days, he battled an entire enemy regiment at Guadalcanal with nothing but his own machine gun, leading General Douglas MacArthur to call him "a one-man army."
+
+Sixty years ago, Allied troops freed Rome, and next month the Prime Minister and I will meet in that city to commemorate its liberation. {APPLAUSE} The sacrifices of that terrible war were shared by both our countries, and helped forge our determination to resist tyranny wherever it exists. For more than five decades, Italy has shown great resolve and courage as a member of NATO. In the past three years, America and Italy have been steadfast allies in the war on terror. {APPLAUSE}
+
+The war on terror continues in Iraq. We're standing together in that desperate country as a part of a strong coalition. America appreciates the contributions and sacrifices of nearly 3,000 soldiers that Italy has deployed in that country. We honor the memory of 19 Italians killed by a terrorist's bomb last November, and the memory of the Italian soldier killed this week.
+
+And we honor the courage of men like Fabrizio Quattrocchi, a baker who went to Iraq to work as a security guard. He was kidnapped by terrorists, and faced his killers with the bravest defiance. Just before he was murdered, he stood up and shouted, "Now I will show you how an Italian dies!" {APPLAUSE} In that moment, this good man from Genoa showed us that, and more: He showed us how a hero lives.
+
+Now all our efforts in Iraq are approaching a crucial moment. The Prime Minister and I had a strategy session on how to help the Iraqis realize their liberty. I appreciate his good, strong advice. On June 30th, our coalition will transfer its authority to a sovereign Iraqi government. With the assistance of the United Nations and our coalition, Iraqi citizens are currently making important decisions about the nature and the scope of that interim government.
+
+In time, Iraq will be a democratic nation at the heart of the Middle East. This will send a powerful message from Damascus to Tehran, that democracy and freedom can bring hope to lives in every culture. {APPLAUSE} And this advance of freedom will bring greater security to America, to Italy, and to all who love freedom.
+
+As June 30th approaches, the enemies of freedom grow even more desperate to prevent the rise of democracy in Iraq. That's what you're seeing on your TV screens -- the desperate tactics of a hateful few; people who cannot stand the thought of free societies in their midst. They're targeting brave Iraqis who are leading toward democracy, such as Mr. Saleem, who was assassinated in Baghdad on Monday. They're murdering Iraqi policemen, who stand as symbols of order. They kill foreign aid workers who are helping to rebuild Iraq. They attack our military. You see, their goal is to undermine the will of our coalition, and to drive us out before our mission is complete. They will not succeed. They will not shake the will of America or our coalition. {APPLAUSE}
+
+My resolve is firm. The resolve of the Prime Minister of Italy is firm. The resolve of the American people is firm. Our military is skilled and determined. We all understand the stakes are high for America and the world. We will not be intimidated by thugs and assassins. We will win this essential victory in the war on terror. {APPLAUSE}
+
+These are historic times. This is an historic moment. The world watches for any weakness. They will see no weakness in America. They will see no weakness in Italy. We will answer every challenge. U.S. soldiers and Iraqi security forces are systematically destroying the illegal militia in the south of Iraq. Coalition forces are working with Iraqis in Fallujah, to end control by Saddam loyalists and foreign fighters. We're building up Iraqi security forces so at some point they can safeguard their own security. We're flexible in our methods, but our goal is unchanging: Iraq will be free; Iraq will be a democratic nation. {APPLAUSE}
+
+The sons and daughters of Italy who are serving and sacrificing with us in this cause have earned the gratitude of the American people. We're honored to call the Italian Republic one of our closest friends and strongest allies in the world. {APPLAUSE} We are proud of the great Italian heritage in America. I thank each of you for carrying this heritage forward. I thank you for your warm welcome tonight. And I ask for God's blessing on the United States of America. {APPLAUSE} 
+
+{/speech}

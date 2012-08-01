@@ -1,0 +1,22 @@
+﻿{title} Vice President's Remarks Introducing the President for His Acceptance Speech {/title}
+{event} Ronald Reagan Building, Washington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} November 3, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. {APPLAUSE} It's an honor for me to be here, along with Lynne and our whole family, on this very special afternoon. This was an historic election ?- and once again, I have delivered the state of Wyoming for the Bush-Cheney ticket. {LAUGHTER ; APPLAUSE} 
+
+This campaign has been a tremendously uplifting experience. We have carried the President's message of hope and optimism across this continent ?- even to the Aloha State. {APPLAUSE} We have worked hard and gained many new friends, and the result is now clear: A record voter turnout, and a broad, nationwide victory. {APPLAUSE}
+
+We are deeply grateful to every person who joined in the effort. Thanks to you, we have gained seats in the House of Representatives. {APPLAUSE} Thanks to you, I will be presiding over a larger Republican majority in the United States Senate. {APPLAUSE} Thanks to you, President George W. Bush won the greatest number of popular votes of any presidential candidate in history. {APPLAUSE}
+
+This has been a consequential presidency -? which has revitalized our economy and reasserted a confident American role in the world. Yet in the election of 2004, we did more than campaign on a record. President Bush ran forthrightly on a clear agenda for this nation's future, and the nation responded by giving him a mandate. Now -- {APPLAUSE} Now we move forward to serve and to guard the country we love.
+
+It has been my special privilege to serve as Vice President alongside this exceptional American. He's a man of deep conviction, and personal kindness. His leadership is wise, and firm, and fearless. Those are qualities that Americans like in a President -? and those are the qualities we will need for the next four years. If ever a man met his moment as leader of this country, that man is George W. Bush. {APPLAUSE}
+
+Ladies and gentlemen, I give you the President of the United States. 
+
+{/speech}

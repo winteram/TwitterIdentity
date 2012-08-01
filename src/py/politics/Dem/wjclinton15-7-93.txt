@@ -1,0 +1,78 @@
+﻿{title} Remarks by the President in Announcement of Community Lending Initiative {/title}
+{event} Speech by President on Community Development {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 15, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President on Community Development {/description}
+
+{speech} 
+
+Thank you very much. I want to say to Joe and Beverly and Tim, they have stated more eloquently the case than I ever could for the work we are here to begin today. I thank them for their presence here and for their fine presentations. {APPLAUSE}
+
+I want to acknowledge, too, the presence in the audience of so many people who have been involved in community development financing for a long time. I thank all of you for coming from all over America. We have a remarkable group of people here from the United States government from the Executive Branch today -- Secretary Bentsen and Under Secretary Newman from the Treasury Department; Secretary Espy and Under Secretary Bob Nash from the Agriculture Department; Under Secretary Terry Duvernay and Assistant Secretary Cuomo from HUD; the SBA Administrator Erskine Bowles; the Comptroller of the Currency Gene Ludwig; the Federal Reserve Board Governor George Lindsay; the Acting Director of the Office of Thrift Supervision Jonathan Fiechter; the FDIC Acting Chair Andrew Hove and many, many others -- showing that this administration has worked together to try to come up with this proposal.
+
+I'd also like to say that we have some specific members of Congress who are here today whom I will acknowledge, but just for the rest of you who have been working in this field for a long time and who have felt left out, I'm going to do something I don't think I've ever done before -- I'm going to ask every member of Congress who is here to stand so you can see what support you have in the United States Congress. Would you all please stand? {APPLAUSE}
+
+By my quick count, there are 41 or 42 members of the Congress here, a very significant representation of people who have asked me actually to -- they felt so strongly about coming here, to delay the start of our ceremony this morning for a few moments so that they could complete their votes and still come up here.
+
+I'm particularly pleased that the House and Senate Banking Committee chairs have agreed to sponsor this legislation and shepherd its package through Congress. Representative Henry Gonzalez and Senator Don Riegle have both long been champions of reinvesting in our communities.
+
+The Senate Banking Committee will hold its hearing on this bill this afternoon at 2:00 p.m. The subcommittee chairs of the House, Congressman Neal, Kanjorski, Kennedy, Frank and Flake, have all joined to make sure this bill will receive consideration by the full House Banking Committee within the next few weeks.
+
+There are four members of the House I would like to pay some special recognition to. First, Representative Joe Kennedy of Massachusetts, who has worked to make the Community Reinvestment Act a reality for all Americans in all communities. And I thank you for that. {APPLAUSE}
+
+Representative Floyd Flake of New York, who has worked to provide innovative ways to spur reinvestment by major financial institutions and communities, and has actually tried to do something with his ideas in the private sector as well as with his work in Congress. I thank him very much for his efforts. {APPLAUSE}
+
+Next, Representative Maxine Waters of California, who had been the conscience that has kept community development banking and strengthening the CRA on the nation's legislative agenda. Thank you very much, Maxine. {APPLAUSE}
+
+And finally, Congressman Bobby Rush of Illinois, who has forged a coalition of more than 70 co-sponsors for a community development financing institution's bill that shares common ground with my initiative. I look forward to working with him in Congress and across the country to champion reinvesting in all of our communities, and I thank him for mobilizing 70 members of the House of Representatives in this cause. Thank you, Bobby. {APPLAUSE}
+
+I'd also like to pay some recognition to a person here who has for many years, more than I can remember, pointed out to the American people that most poor folks in this country, and most people who have been left outside of the mainstream want a hand up, not a hand out -- Reverend Jesse Jackson. Thank you for being here. {APPLAUSE}
+
+Ladies and gentlemen, as you know, I have just returned from the summit of the world's seven industrial nations in Tokyo. What I saw there indicated to me that, from Harlem to the South Side of Chicago, to South Central Los Angeles, there is a feeling shared from Tokyo to Toronto, people want more control over their lives, their families, their communities and their countries. The movement for political reform is running in high gear in all these countries because there is such a demand for economic opportunity so that people can live up to their God-given abilities.
+
+This administration has tried to pursue this demand in two ways. First of all, to have a good overall economic policy, a policy for bringing the deficit down, a policy for increasing investment in our country, a policy for broadening the rules of trade in ways that help Americans who are working for a living. But, secondly, we have to recognize that there are certain specific problems that are unique to our country, unique to our states, unique to our communities. And they require a specific response. And so we have developed a technology policy, a policy for defense conversion, for communities and people who have been hurt by cutbacks in defense spending. We have sent to the Congress a proposal to create empowerment zones which will complement this effort, to encourage people to invest in distressed rural and urban communities in this nation. And today we take up the community financing issue.
+
+A few days ago when I was in Japan, working to build a new global economy, my hand was strengthened because of the progress that has been made in Congress in dealing with these larger issues -- reducing the deficit and investing more in education and training. It enabled me to ask our friendly competitors to lower their trade barriers so that we can increase American jobs and American exports; to work with us to increase economic growth, keep interest rates down and make common cause to battle high unemployment, which is a problem in every advanced nation in the world today.
+
+Today, I will report to a bipartisan leadership meeting of the Congress on the achievements of this summit. But I will also have to tell them that the challenge remains. We can only enjoy the fruits of the opportunities created at the Tokyo meeting if we follow through on the commitment to pass the economic plan now before the Congress and if we take the initiatives like the one we're here to celebrate today.
+
+To those who would do nothing or let us slide back into the status quo, I would say that we must go forward, we must adopt the largest deficit reduction plan in our history. Look how low the long-term interest rates are now because of the efforts that are being made. {APPLAUSE} We must adopt these strategies to bring jobs to America. We must maintain our nation's leadership in the global economy.
+
+On the issue of whether there must be economic change in a nation desperate for jobs and growth, there can be no doubt of the answer. Today, I am sending to Congress an innovative proposal that will bring new life and new opportunity and new directions to communities all over America that lack capital and credit, the kinds of basic banking services that these three fine people needed so badly and had to look so long for.
+
+This proposal creates a fund to provide grants to new and existing community-based lenders. The fund will provide about $400 million over five years and will employ a number of measures to increase significantly the total money provided to communities through these community institutions.
+
+Under this plan every dollar the fund provides to a community development bank must be matched at least by another dollar of private capital. Other community development financial institutions will also be required to match assistance as well. The Treasury Department predicts that this matching requirement and the leverage provided by the institutions will produce at least $2 billion in additional investment.
+
+If you look at the size of the average loan in these kinds of institutions leading to the number of jobs created that are represented by the three fine people on this platform today, the potential for creating new jobs in America through this initiative is absolutely enormous. And they can be created in places where people have long given up on the free enterprise system simply by making the free enterprise system work for a change for those people. {APPLAUSE}
+
+These institutions come in a wide variety of sizes and shapes. They are banks with a special commitment to community development; they are community development banks set up for that purpose only; they are credit unions; they are micro-enterprise loan funds. I can tell you this, most of the enterprises that we are talking about helping, that were in existence in the 1980s that made loans to poor people who lived in their community or to struggling small business people had a lot lower failure rate than some of the high flown financial schemes that were subsidized by other government policies in the last decade. {APPLAUSE}
+
+Because of the commitment and understanding of people in all different kinds of financial institutions, every type of community development financial institution will be eligible for assistance under our program. The existing network of community lenders have demonstrated that when there is a constant commitment to this kind of development you can produce growth and jobs.
+
+Many of you with us today from Chicago's ShoreBank to North Carolina's Self-Help Credit Union to Arkansas' Elkhorn Bank -- which Mack McLarty and the First Lady served on the board of, and which I helped to raise funds for when I was in a previous position -- understand how economic growth is built from the grass roots. It works in urban areas, it works in rural areas. We were wondering when we set up this bank in Arkansas whether small towns and rural areas really could benefit from the kind of strategy that had worked so brilliantly for the South ShoreBank in Chicago, and the answer turned out to be a resounding yes.
+
+The government's role in this is crucial, but limited. The real solutions must come from the community, from the people who live there who know their neighbors. It is our job to empower those communities with the tools they need to generate growth and jobs. And then let the hard work and the determination of the people pay off.
+
+At the same time, I recognize that without the involvement and investment of major banks, low and moderate income communities will still be deprived of a full range of economic opportunity.
+
+The Community Reinvestment Act of 1977 requires that banks and thrifts meet the credit needs of the entire community in which they do business. And while the CRA has played an important role in making credit available to underserved urban and rural communities, I think we would all admit that it hasn't lived up to its potential. The current enforcement system relies too much on public relations documentation and not enough on real lending performance. {APPLAUSE}
+
+This has been a pain for everybody involved -- too much paperwork for the banks and not enough investment for the communities. That's why I am sending a memorandum to the four federal banking regulators that requires them to implement a series of reforms around CRA -- designed to increase investment in communities that need it, while simultaneously streamlining and clarifying the regulatory process. The policy will be good for banks, good for communities, good for borrowers, and it represents real change.
+
+These actions today fulfill a commitment I made during the last campaign when I promised that we would work hard to unlock the energy and the entrepreneurship that lies latent in the hearts and souls of men and women in this country in every community. This proposal will enable them to take a small loan and start a business; to turn their dreams into storefronts, and then expand those storefronts into chains, creating jobs for their neighbors and bringing opportunities to their neighborhoods. It will make them a part of the movement for democratic capitalism and growth that is reshaping the entire world, but has left too many Americans behind.
+
+Now, I'd like to introduce three people who are going to help us carry out these commitments: Hugh McColl, the CEO NationsBank; Irving Henderson, the chair of the National Community Reinvestment Corporation Coalition; and Ron Grzywinski, the Chairman of Shore Bank in Chicago. {APPLAUSE}
+
+***
+
+I'd like to conclude this morning's ceremony just by saying again, as I did when I opened, that I know that every one of you who's worked in this field for any length of time has a story or personal stories that you could tell. And I just want you to know that I am grateful for the work that you have done and the role that each of you have played in bringing this bill to its present point.
+
+I got on this issue as governor when I saw so many needs that were unmet, and when the now Under Secretary of Agriculture for Community Development Bob Nash and I worked hard to use our existing authorities to help people who couldn't have access to credit. I learned about the South Shore Development Bank. And, through them, I met a remarkable man named Mohammed Yunis, who told me how he, through the Grameen Bank, had made market rate interest loans to poor village women in Bangladesh. And over 95 percent of them had actually paid the loans back.
+
+And then, this became part of our reinventing government initiative of the Democratic Leadership Council, and then an idea that the Vice President championed in his efforts to examine what we're doing here. A lot of you have helped me in my understanding of this. Floyd Flake showed me the businesses around his church. Hugh McColl stayed up half the night one night, talking with me about the Community Reinvestment Act and how we could make it work. My friend, Charles Stith, there from Boston, has spent years on this.
+
+To all of you who have played any role on this, I thank you very much. And I ask you now to work with this wonderful representation from Congress to make sure we get the job done and do it in a hurry. Thank you. We're adjourned. {APPLAUSE} 
+
+{/speech}

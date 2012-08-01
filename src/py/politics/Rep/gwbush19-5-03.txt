@@ -1,0 +1,32 @@
+﻿{title} President Bush Welcomes President Arroyo in State Arrival Ceremony {/title}
+{event} Remarks by President Bush and President Arroyo of the Philippines at State Arrival Ceremony, The South Lawn  {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 19, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} For Immediate ReleaseOffice of the Press Secretary {/description}
+
+{speech} 
+
+Madam President, Attorney Arroyo, members of the Philippine delegation, members of Congress, and distinguished guests: On behalf of the American people, Laura and I welcome you to the United States.
+
+This is the first state visit by the leader of an Asian country during my administration. You honor the American people with your visit, because our two nations share special ties of history and friendship and family. And we share a commitment to the defense of democracy and the advance of freedom.
+
+Just over a century ago, Americans and Filipinos worked side by side to liberate the Philippines. Nearly half a century later, in a world war, our soldiers fought and died together in places like Bataan and Corregidor. And on this foundation of common sacrifice, America and the Philippines built an alliance that remains strong, an alliance that is essential to the peace of the Pacific.
+
+In this new century, both our nations are threatened by terrorism, and we are determined to fight that threat until it is defeated. Our diplomats, and law enforcement and intelligence officers are working arm-in-arm to disrupt terror plots, to cut off terrorist financing, and to bring the terrorists to justice.
+
+President Arroyo has welcomed American troops to train and advise their Philippine counterparts in Philippine-led antiterror operations. And she has been a leader in building broader cooperation against terror throughout the Asian Pacific region.
+
+Madam President, for all you have done to make our world safer, America thanks you. {APPLAUSE}
+
+Last week's terrorist attacks in Saudi Arabia that killed innocent civilians from the United States, the Philippines, and many other nations, remind us that the war on terror continues. The world's free nations have the courage and the determination to fight this war. And together, we will defeat the forces of global terror.
+
+President Arroyo also recognizes the threat posed by weapons of mass destruction. And she spoke with strength and conviction of the need to disarm the Iraqi dictator and to liberate the Iraqi people. Now the Philippines is helping Iraq take its place among free nations by sending military police and medical personnel. The President and I both recognize that a free and secure Iraq is good for the Philippines, is good for America, and is good for the world.
+
+We share great goals in the world. We are committed to opening markets in Asia and around the world to bring more people into an expanding circle of development and prosperity. And we are committed to adding the moral and material resources of our countries to the global fight against poverty and hunger and disease.
+
+The partnership between our nations is sustained by the friendship between our peoples. More than 2 million Americans trace their ancestry back to the Philippines, and they enrich our national life. Many Filipino Americans serve in our military, and I'm proud to recognize one of them today. Army Lieutenant General Edward Soriano is one of the highest-ranking Filipino Americans in the history of America's military. {APPLAUSE} He brings pride to both our countries, and we honor his service in the cause of freedom.
+
+The Philippines was the first democracy in Asia and has a proud tradition of democratic values, love of family and faith in God. President Arroyo, you are carrying this tradition forward, and I'm proud to call you friend. {APPLAUSE} Today the First Lady and I are honored to welcome you and Attorney Arroyo to America and to the White House. Mabuhay! {APPLAUSE} 
+
+{/speech}

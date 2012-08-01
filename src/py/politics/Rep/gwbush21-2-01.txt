@@ -1,0 +1,73 @@
+﻿{title} Remarks by the President to Teachers and Students {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 21, 2001 {/date}
+{source} http://www.ssa.gov/history/gwbushstmts.html {/source}
+{description} ----- {/description}
+
+
+{speech}
+
+Thank you all very much. Fred, thank you very much. I appreciate your invitation. 
+
+{OTHER-SPEAK} We appreciate your coming. {/OTHER-SPEAK} 
+
+And I'm glad I accepted. It's a beautiful part of the world. I was touched by the number of your citizenry who came and lined the roads as we came in, to wave and say hello. And I thank them for that, as well. I wish I could thank them in person. I hope they realize my wave was a sincere wave of gratitude. 
+
+I want to thank Gary Pack, the Superintendent of Schools. Let me say a couple things about what I've learned -- I've learned this as a parent, I've learned it as a governor, I know it as the President, that a school is really only as good as its principal, and when you have a fine principal, you've got a fine school. And I appreciate your service. And the same with the superintendents. 
+
+But with -- the heart and soul of any education system, of course, are the teachers. And I want to thank those who are teaching. I'm sorry that my wife is not here with us today. If she were giving the speech -- and most of you, if you had heard both of us, would rather hear her -- {LAUGHTER} -- she would say that one of her missions will be to convince Americans who are coming up to be a teacher. There's nothing more noble than to teach. And so the teachers of this school and the teachers throughout all of Tennessee, we thank you from the bottom of our hearts. 
+
+I also want to thank my friend, the Governor of your state, Don Sundquist. He is a good man, and he married -- like me -- he married above himself. {LAUGHTER} But Laura and I love Don and Martha. They have been our friends for a long time, and I appreciate your hospitality. 
+
+I want to thank your Senator, Bill Frist. I'm particularly nice to Senator Frist these days, since much of what I'm proposing is going to need to be passed out of the United States Senate. But I've got a strong ally in Senator Frist, and a good friend. 
+
+I want to thank members of the Tennessee congressional delegation, Congressmen Duncan and Jenkins and Van Hilleary for being here, as well. I got to know these folks during the course of the campaign, and they were stalwarts. 
+
+I also want to thank my friend, the chairman of the Education Committee, from the state of Ohio, Congressman John Boehner. I am so thankful the chairman is here. I'm going to be discussing education policy today, the framework for good policy, and it's going to require the leadership of John and -- on the House side, and Frist and others on the Senate side to get this bill through. 
+
+So, Mr. Chairman, thank you very much for not only being here -- I'm surprised they didn't check you at the border coming in. {LAUGHTER} But I'll let you on the plane so we can fly back together and talk policy. 
+
+I'm also most appreciative of the Mayor of Knoxville, Tennessee for being here. I've know Mayor Ashe for years and years and years. And he has done a fabulous job of being a fine public servant in Knoxville. So, Victor, thank you for coming. 
+
+And finally, a former public servant, a distinguished Tennessee citizen, a man whose son is -- sees my daughter at the University of Texas, hopefully in the library -- {LAUGHTER} -- and that's Lamar Alexander. 
+
+I want to thank these distinguished officials. I want to thank the local officials. Senator, thank you, as well. Thank you for coming. 
+
+There's no more important subject than public education. We must get it right to make sure no child is left behind. My philosophy is this. First, all of us in positions of responsibility must set the highest of high standards for every child. I believe every child can learn. And that ought to be indelibly etched into our national conscience, that every single child in America has got the capacity to learn and we should accept nothing less. And we must set high expectations for every child. We must raise the bar. 
+
+I also strongly believe in local control of schools. I believe the best way to chart the path to excellence for every child in America is to insist that authority and responsibility be aligned at the local level. {APPLAUSE} 
+
+So I look forward to working with the members of the House and the Senate to pass power out of Washington, to provide flexibility for the federal funds so that the governors, superintendents, principals can design programs that meet your specific needs. As the old adage, one size does not fit all in public education -- it is very true. It is very true. We had the same goal in Tennessee and Texas, and that is every child learn. But we've got different issues in Texas than you have in Tennessee, and that's why we need to have flexibility. 
+
+The cornerstone of reform, as far as I'm concerned, is not only high standards and maximum flexibility, but strong accountability systems. I think it's so important to measure. I think it's a legitimate thing -- I know it's a legitimate request from those of us in public life to say if you receive taxpayers' money, you measure, and you show us whether or not the children are learning. 
+
+And when I ask Congress to pass legislation that says, in return for federal help the state of Tennessee, local jurisdictions must develop accountability measures on an annual basis, 3 through 8, to determine whether or not our children are learning. It is essential we do so. 
+
+Now, I know there's some around who will say we can't measure, it's not the proper role of the government. Well, I believe the proper role of any government at any level is to insist upon results. There are some who will say, well, we can't have the test because all they'll do is teach the test. Well, I went to a writing class here in this school, and they were teaching the children to write, and therefore, they were able to pass the test. 
+
+You don't teach the test when it comes to literacy. We went to a Title 1 classroom -- or a classroom with Title 1 students in it, where the teacher was using some of the most advanced thought about teaching reading, a balanced approach including phonics. You teach a child to read and he or her will be able to pass a literacy test. I don't buy teaching the test as an excuse to have a system that doesn't hold people accountable for results. 
+
+Finally, there are some who will say you can't test because it is a matter of race to test. I think it is a matter of race not to test. I think it's racist not to test, because oftentimes in our school districts, those who are most easy to shuffle through are those who live in the inner cities or whose parents may not speak English as a first language. No, we must measure because we want to know. We want to know when there's success. 
+
+When a teacher told me in that classroom, she said, we're making great progress in our new reading program here; it's been in place for three years, we're making fine progress, we know because there's accountability. People should welcome accountability. It's a way to diagnose and to solve problems. It's a way to say that every single child matters in America, and not one child ought to be left behind. {APPLAUSE} 
+
+I don't support, my friends in Congress don't support the design of a national test. All a national test will do is undermine local control of schools. But we look forward to working with states and local jurisdictions to develop accountability systems that meet your needs, so we achieve what we want. And that is an education system focused on each individual; an education system that diagnoses early and solves problems early. 
+
+Yesterday I also outlined some funding priorities of mine. I'm going to submit a budget next week to the United States Congress -- it's a budget that sets clear priorities. A priority is going to be to make sure that our Social Security system and the payroll taxes are saved for Social Security and the Social Security system is strong. A priority would be Medicare. A priority is going to be to make sure our troops are well-paid and well-housed and well-trained, so that we can keep the peace. A priority is going to be pay down debt. A priority is going to be tax relief, so hardworking Americans have got more money in their pocket to pay down their own debt and to cover the cost of high energy costs. 
+
+A priority is going to be public education, as well. As a matter of fact, in the budget I submit, the largest increase of any department will be for the Department of Education. {APPLAUSE} Federal funding for the Elementary and Secondary School Act will go up by $1.6 billion, an 8 percent increase in funding. 
+
+I think it's so important for us to prioritize public education, at the same time, we prioritize -- make it a priority of making sure our money is spent well. A priority has got to be diligence when it comes to taxpayers' money. And that's why I'm confident the combination of an increase in spending coupled with education reform that holds people accountable is the right path for America to take. 
+
+And finally, yesterday I proposed additional spending for a national reading initiative that will set this goal: every child will be reading at the appropriate level by the 3rd grade. It's going to require schools, districts willing to challenge the status quo, if children are failing. It's going to mean we're going to have to think differently about Head Start. Head Start should remain, and will remain, a place where children are treated for disease and the Health and Human Service component to it. But I think Head Start ought to be moved to the Department of Education, to highlight the need to make sure that our youngsters get a head start on reading and math. {APPLAUSE} 
+
+The billion-dollar a year additional money for the reading initiative will allow districts to access money for K through 2 diagnostic testing; for curriculum development; for teacher training, to make sure that the teacher I saw today, the skills that she has are given to all the teachers who are charged with teaching reading. 
+
+We've got an aggressive program for public ed. It's a program, though, that has deep faith in the ability of local folks to make sure the children are educated. It's a program, the philosophy of which says that the people that care most about the children in towns in Tennessee are the citizens of towns in Tennessee, are the parents in towns in Tennessee, are those concerned folks who every day try to figure out how to make your community a better place to live. 
+
+The great strength of America lies in the hearts and souls of our citizens. It lies in the classrooms. It lies in the after-school activities of Scout troops, run by local citizens. And our philosophy, the philosophy of the bill that I'm going to submit to the Congress incorporates that greatness of America in its core. 
+
+It's a thrill to be here in Townsend. It is a -- you're the heartbeat of America. And you're the future of America, by making sure every single child gets educated. God bless. {APPLAUSE} 
+
+{/speech}

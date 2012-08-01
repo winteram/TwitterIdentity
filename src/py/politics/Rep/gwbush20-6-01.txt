@@ -1,0 +1,75 @@
+﻿{title} President Bush Speaks at Summit on the 21st Century Work Force {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 20, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all very much. Thank you very much. Please, be seated. Madam Secretary, thank you very much, and I appreciate so very much your service to the country. I made a good pick when I convinced Elaine to join my Cabinet; she's doing a terrific job. {APPLAUSE} 
+
+I think Rod Paige is here, too, the Secretary of Education. If he's not -- he is here. Hey -- Mr. Secretary. {APPLAUSE} Thank you, Mr. Secretary. Members of Congress, thank you all so very much for being here. I spend a lot of quality time with members of Congress these days. {LAUGHTER} I think we're making pretty good progress, and I appreciate you all for coming. 
+
+I want to thank the business and labor leaders who are here. I want to thank you all for taking an interest in the American work force. 
+
+As Elaine mentioned, I just came back from Europe and had a fascinating experience. It's such an honor to represent our great nation around the world. We've spent a lot of time talking about industry and trade and commerce -- after all, we trade over $1 trillion a year between Europe and the United States. And I reminded people a solid truth, that the strength of our economy depends upon the people who go to work every day -- that there is a lot of fiscal matters that we'll take up and monetary matters, but the truth of the matter is, the great strength of the American economy is our work force, the hard men and women who work every single day to make a living. 
+
+And that is your concern today, and I commend you all very much for giving this conference your time and your interest and your talent. 
+
+Our responsibilities are clear: We should try to make it easier for people to find good jobs by giving them the education and training they need to succeed. Second, we should help them keep good jobs, and encourage employers to do more for their workers. And, third, we owe them a chance to build a nest egg that will help them maintain a high standard of living in their retirement years. 
+
+As you well know, a successful working life usually begins with a good education. This has always been true. But it's even more true as our economy changes. We live in a time of incredible opportunities to succeed, and every child growing up in America, regardless of background or accent, deserves an equal chance to take advantage of these opportunities. 
+
+Five months after the day that I was inaugurated, I am pleased to say that we are nearing historic reforms in public education. This is a victory for every child and for every family in America. Last week, education reform passed the Senate by a vote of 91 to 8. {APPLAUSE} When these reforms become law, schools will have more freedom from needless meddling by Washington. There will be fewer mandates and regulations for schools to meet, more freedom and more flexibility, as schools live up to high standards they will now be required to meet. 
+
+You see, I believe every child can learn. I believe we've got to start with the mind-set that every child in America can learn. And we need to raise the bar and trust local people to meet the standards and -- the high standards. Every public school, starting next year, as well, will be held accountable for its performance. 
+
+It's not enough to promise and proclaim high standards. The American people expect results. Families and parents want results. And the law will soon require such results with testing every child for every grade, 3 through 8, in reading and math. 
+
+The critics say, why? The answer is, because we want to know. And we want to know early, before it's too late. This business about passing children through grades because of age had got the end. This society must ask the question, what do you know. {APPLAUSE} 
+
+I'm grateful for the hard work on Capitol Hill by both Republicans and Democrats on this measure. We've worked together from the start to what I hope is the finish soon. Congress needs to finish this work. The conference needs to come together. The House conferees and the Senate conferees need to meet, reconcile their differences and get the bill to my desk before public education starts next fall. It's time to act, and it's time to act with meaningful, real reforms. {APPLAUSE} 
+
+All of us recognize that education spending should be increased. I realize that; the Senate realizes that; the House recognizes that -- but only where we're certain that the money will be well-spent. Additional resources must be tied to demonstrated progress and results. As Congress writes the final bill, I trust that members of both parties will stay true to that principle. We must not repeat the mistakes of years past, confusing spending money with progress. We must keep the focus on reform and results. It's the least we owe the work force of tomorrow, the very least -- which is a good, sound education. 
+
+But at every turn, federal policy must keep pace with changes of our work force. This morning I took one step, with an executive order formally establishing an Office of the 21st Century Work Force within the Department of Labor. {APPLAUSE} This office will be charged with identifying new challenges and new opportunities for American workers. 
+
+My executive order also creates a presidential council to advise on labor issues, and especially on those issues affecting the lives of workers and their families. Every working person is entitled to expect fair treatment from the employers they work for. Wherever possible, we should find ways to remove conflicts between home and work. 
+
+For example, more workers should be able to take advantage of comp time. Federal workers already enjoy this privilege and private sector employees deserve the same. {APPLAUSE} Many hardworking people would prefer to be able to choose a few extra days at home instead of a few extra dollars on payday. We've got to trust the workers of America to make the decisions that's best for their families. 
+
+Until fairly recently, many Americans have never known paydays at all, nor the other rewards that work brings. They have been denied jobs on account of a disability. And one of the great advances in our time is that persons with disabilities have been more welcomed in the workplace. But there's still more to do. We must speed up the day when the last barrier has been removed to full and independent lives for every American, with or without disability. 
+
+I've sent to Congress a set of proposals called the New Freedom Initiative. {APPLAUSE} It's an important step to ensuring that all Americans with disabilities can participate more fully in the life of their communities and of our country. We'll help our fellow Americans gain greater access to assistive technology. We'll also help them gain access to public transportation and to the workplace, itself, in keeping with the requirements of the Americans With Disabilities Act. 
+
+I've also asked Congress to create a fund to help people with disabilities to buy the equipment they need to telecommute. We'll provide tax incentives to encourage employers to provide such equipment. And we'll protect home offices from needless OSHA regulations. {APPLAUSE} 
+
+Tens of millions of Americans today work out of their homes. For most, it's a convenience. For workers with disabilities, it is a revolution. And we want as many Americans as possible to share in this revolution of independence. {APPLAUSE} 
+
+An urgent issue for many workers today is quality health care. Like education reform, this issue is reaching an hour of decision, and before this year is out, I want to sign into law a patients' bill of rights. {APPLAUSE} And let me be specific again about the type of bill I'd like to sign. It must cover everyone, all patients and all private health care plans. 
+
+The standards should be strong enough to protect everyone, yet flexible enough to preserve the good work that has been done in many states. It must guarantee all patients important rights -- the right to get emergency treatment at the nearest emergency room; the right to see a specialist when they need one. A woman should be able to visit her gynecologist, and parents, their children's pediatrician, without going through a gatekeeper. 
+
+In any bill that receives my signature, patients will have the right to a fair and immediate review when medical care is denied. If a health care plan denies care, you should be able to appeal immediately to an independent, impartial review panel of medical doctors. And if they say you need the care, your health care plan must provide it, period. {APPLAUSE} 
+
+It's important for Americans to know, with that kind of strong, independent review process, most disagreements will not wind up in court. The law should allow the review process to work, not short-circuit it by inviting unnecessary lawsuits. {APPLAUSE} 
+
+I believe that an HMO that wrongly denies coverage to a patient should be held liable in court. But we must keep our eye on the purpose. We want to give patients the care they need when they need it. The idea is to serve more patients, not to create more lawsuits in America. {APPLAUSE} We can provide meaningful remedies to patients without driving up the cost of health care, or forcing employers to drop coverage. 
+
+Measured against this criterion I've described, there are some good bills and some bad bills. And I want to thank Senators John Breaux, Democrat; Senator Bill Frist, Republican; Senator Jim Jeffords, independent -- {LAUGHTER} -- for working hard to come up with a reasonable solution to this very important problem. {APPLAUSE} 
+
+Finally, the end of a working life should not be the beginning of worry and hardship. The tax reform package I signed into law two weeks ago will help in several ways. For starters, it leaves more money in every working person's pocket. We remember whose money it was we're spending up here -- it's the working people's money. {APPLAUSE} And it gives workers the chance to put more of their own money into an IRA or a 401(K) plan. 
+
+The tax bill also eased the IRS limits on pension benefits that you're allowed to receive. We heard from many unions and employers about the need for these changes, and we listened. {APPLAUSE} This will help our workers prepare for later years, sending less money to Washington and putting more money in their own savings accounts. 
+
+And I've also established a bipartisan commission to save and strengthen Social Security. With this help and with the support of Congress -- we need to get beyond the years of delay and finger-pointing and quarreling about this incredibly important issue. The days of shifting blame must end in order to save this important system. 
+
+To those who are retired and near-retired, a promise made will be a promise kept by this government. But to the younger workers who wonder whether or not there is going to be a Social Security system around, you have an administration and a vehicle now that's willing to think differently, to trust you with your own money, to say it's your money to begin with, so that you can build your own nest egg that you can pass from one generation to the next. It's time. {APPLAUSE} 
+
+One of the great virtues of the country is the value we place on hard work -- it really makes America unique, in a different place -- and the respect we have for those who work hard. Mine is an administration that understands the important resource of the men and women of America, the hardworking people who make this country grow. And ours is an administration that will always value hard work, and trust the individual and understand the limitations of government. 
+
+I want to thank you all for giving me a chance to come by and visit with you. It is a huge honor to be the President of the greatest nation on the face of the Earth. And it's a huge honor to be the President of a nation full of decent, hardworking, caring and compassionate people. I thank you for the privilege. God bless. {APPLAUSE} 
+
+{/speech} 

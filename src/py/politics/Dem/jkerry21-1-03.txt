@@ -1,0 +1,39 @@
+﻿{title} NARAL Pro-Choice America Dinner {/title}
+{event} ----- {/event}
+{speaker} John Kerry {/speaker}
+{date} January 21, 2003 {/date}
+{source} http://www.gwu.edu {/source}
+{description} ----- {/description}
+
+
+{speech}
+
+Reverend Al, you and I are going to have to have words, because you offered me the vice presidency about four months ago. {LAUGHTER} 
+
+Ladies and gentlemen, good evening. The privilege has fallen to me to have more power than I've ever had as a United States Senator because I am all that stands between you and your dinner. {LAUGHTER} 
+
+This, this is an extraordinary, extraordinary gathering, and I'm privileged to be her with my friends and colleagues who are running for the presidency and particularly privileged to be here with all of you. We gather at an extraordinary time. What is at stake, as you heard from almost every speaker, is not just the right to choose. And never in my years in the Senate have the rights of women been at such risk, never have women been assaulted in their citizenship here at home and in their womanhood around the globe as they have been by this administration. {APPLAUSE} 
+
+NARAL, NARAL is without question the front-line defense, and when judgements are made, the judgement is inescapable that Kate Michelman is one of the most effective and important civil rights leaders in our time. {CHEERS ; APPLAUSE} Together with NARAL and your efforts, I think it is fair to say that Kate has saved more women's lives, liberated more women, and taken on more tough fights that anyone else committed to this cause, but I think we also must say here tonight because so many other groups have come together and even across lines that all of you here who represent so much of the struggle are to be thanked and I join in doing that. 
+
+I learned a lot about this, as any father would, from wife and from daughters in the course of my journey. And I also learned about it as a prosecutor, setting up an early rape counseling and victim's assistance program, and I learned about heinous crimes that were all about power, about stripping women of dignity and control over thier lives. And that is exactly what this struggle is about here. It is about power. It is about who decides. And it is beyond my comprehension how on an issue so personal to women that a bunch of men in the White House and in the Congress dare to claim rectitude and make the decision that interferes with the freedom of millions of women across this globe. {APPLAUSE} 
+
+Each of us tonight has talked about the difficulty of this decision and I heard Kate's comments earlier before we came out about the difficulty of her choice. I think anyone who has talked to or knows a woman has faced the dilemma of choice knows how difficult, how painful, how lonely, and how consequential it is. We will not go back to the days of back alleys, days in which women were shamed and put to all kinds of risks in this country. We will not put women in a place where the choice is between criminality or having a child that they don't want. 
+
+Nothing we say here tonight diminishes or disrespects anybody's belief or sense of morality. On the contrary I think it respects America's fundamental fabric of justice and honors the notion that we don't impose our individual articles of faith on someone else. 
+
+In reflecting on the Supreme Court's decision when he left, Harry Blackmun said, it was a step that we had to take towards the full emancipation of women. Loose this right and literally more than 50 percent of America will not be free. 
+
+As I said {APPLAUSE} 18 years ago, as I said 18 years ago in the first speech I ever gave on the floor of the United States Senate, my so-called maiden speech, the right to choose is a fundamental right. Neither the government nor any person has a right to infringe upon that freedom. 
+
+And if I am fortunate enough to share the stage with our current president and debate him, one of the first things I'll tell him is there is a fundamental difference between he and I. I trust--I trust--women to make their own decisions, and you don't, Mr. President, {CHEERS ; APPLAUSE} and that is the difference between us. {APPLAUSE} 
+
+So I think that tonight we have to make it clear, we have to make it clear that we are not going to turn back the clock. There is no overturning of Roe v. Wade; there is no packing of the courts with judges who will be hostile to choice; there is no denial of choice to a poor woman in the United States of America; there is no outlawing of a procedure necessary to save a woman's life or health, and there are no more cutbacks on population control efforts around the world. {CHEERS ; APPLAUSE} 
+
+We need, we need to take on this president and all of the forces of intolerance on this issue; we need to honestly and confidently and candidly take this issue out to the country and we need to speak up and be proud of what we stand for. 
+
+My friends you won the right to choose. It didn't just happen; people made it happen. Women most of all. And now we need to work just as hard to protect it. We need to energize a whole new generation of citizens about freedom. People who care about and respect women, who will stand up and make it clear that we can't go back, we will never go back, we will never let this right be taken away. Thank you. {CHEERS ; APPLAUSE} 
+
+
+
+{/speech}

@@ -1,0 +1,57 @@
+﻿{title} Remarks by the President at Signing of the Trade Act of 2002 {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} August 6, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech}
+
+Well, thank you all very much for that warm welcome. Welcome to the people's house, as we celebrate a victory for the American economy. Last week, the United States Congress passed trade promotion authority and renewed an expanded the Andean Trade Preference Act. 
+
+Trade is an important source of good jobs for our workers and a source of higher growth for our economy. Trade is an important source of earnings for our farmers and for our factories. It creates new opportunities for our entrepreneurs. Trade expands choices for America's consumers and raises living standards for our families. And now, after eight years, America is back in the business of promoting open trade to build our prosperity and to spur economic growth. 
+
+I appreciate so very much Vice President Cheney's hard work on this issue. I appreciate Colin Powell and Ann Veneman, who ably serve in my Cabinet. I want to particularly thank Don Evans, who's not with us, and Bob Zoellick, members of my Cabinet who both worked tirelessly to get the vote in the House and then in the Senate. And I appreciate Elaine Chao as well. These Cabinet secretaries worked hard for trade. They understand the promise of trade, and I appreciate their hard work on behalf of American workers and farmers. 
+
+I particularly want to thank the members of Congress who are here with us, starting with the Chairman of the Senate Finance Committee, the senator from Montana, Max Baucus. Max did fantastic work to get this trade bill through the Senate. And was then able to work with Chairman Thomas. {LAUGHTER ; APPLAUSE} 
+
+Chairman Thomas was heroic in the House. He was steadfast in his support for trade and I appreciate his leadership on this issue. And I want to thank both members of the United States Congress, one Democrat, one Republican, who put their country ahead of their parties to do what was right for the people of this country. You two deserve a lot of congratulations. {APPLAUSE} 
+
+I want to thank Senator Hatch, who was a conferee and a member of the Finance Committee. Thanks for coming, Senator. 
+
+I want to thank my fellow Texan, Tom DeLay, the best vote-counter in the history of the United States Congress. {LAUGHTER ; APPLAUSE} After all, he was able to triple -- {LAUGHTER} -- the vote margin on final passage. 
+
+I appreciate so very much Cal Dooley, and a guy I call "Jeff", William Jefferson, Congressmen from California and Louisiana. And I want to thank them for their work as well. They led the Democrats in the House of Representatives, many of whom are here today, to do what's right for our country. And again, I appreciate your leadership and I appreciate your work and I appreciate your help. {APPLAUSE} 
+
+I want to thank Embajadora A-Baki from Ecuador. I want to thank you for coming. I also want to thank Carlos Alzamora from Peru, and all the other ambassadors who are here. I want to appreciate you -- appreciate your hard work on sending the message of trade to members of our Congress. I want to thank you for your diligence, and I want to thank your Presidents for their care and concern about this incredibly important initiative -- not only for Americans, but for workers all around the world. Thank you all for coming. {APPLAUSE} 
+
+With trade promotion authority, the trade agreements I negotiate will have an up-or-down vote in Congress, giving other countries the confidence to negotiate with us. Five Presidents before me had this advantage, but since the authority elapsed in 1994, other nations and regions have pursued new trade agreements while America's trade policy was stuck in park. 
+
+With each passing day, America has lost trading opportunities, and the jobs and earnings that go with them. Starting now, America is back at the bargaining table in full force. {APPLAUSE} 
+
+I will use trade promotion authority aggressively to create more good jobs for American workers, more exports for American farmers, and higher living standards for American families. Free trade has a proven track record for spurring growth and advancing opportunity for our working families. 
+
+Exports accounted for roughly one-quarter of all U.S. economic growth in the 1990s. Jobs in exporting plants pay wages that are up to 18 percent higher than jobs in non-exporting plants. And our two major trade agreements, NAFTA and the Uruguay Round, have created more choices and lower prices for consumers, while raising standards of living for the typical American family of four by $2,000 a year. 
+
+America will build on this record of success. A completely free global market for agricultural products, for example, would result in gains of as much as $13 billion a year for American farmers and consumers. Lowering global trade barriers on all products and services by even one-third could boost the U.S. economy by $177 billion a year, and raise living standards for the average family by $2,500 annually. 
+
+In other words, trade is good for the American people. And I'm going to use the trade promotion authority to bring these benefits to the American people. 
+
+Free trade is also a proven strategy for building global prosperity and adding to the momentum of political freedom. Trade is an engine of economic growth. It uses the power of markets to meet the needs of the poor. In our lifetime, trade has helped lift millions of people, and whole nations, and entire regions, out of poverty and put them on the path to prosperity. 
+
+History shows that as nations become more prosperous, their citizens will demand, and can afford, a cleaner environment. And greater freedom for commerce across the borders eventually leads to greater freedom for citizens within the borders. 
+
+The members of the diplomatic corps with us today understand the importance of free trade to their nations' success. They understand that trade is an enemy of poverty, and a friend of liberty. I want to thank the ambassadors for their role in getting this bill passed, especially the Andean ambassadors who are such strong advocates for the Andean Trade Preference Act. By providing trade preference for products from four Andean democracies, we will build prosperity, reduce poverty, strengthen democracy, and fight illegal drugs with expanding economic opportunity. 
+
+Trade promotion authority gives the United States an important tool to break down trade barriers with all countries. We'll move quickly to build free trade relationships with individual nations, such as Chile and Singapore and Morocco. We'll explore free trade relationships with others, such as Australia. The United States will negotiate a Free Trade Area of the Americas, and pursue regional agreements with the nations of Central America and the Southern Africa Customs Union. 
+
+We'll move forward globally, working with all nations to make the negotiations begun last year in Doha a success. A little more than a week ago, the United States put forward a far-reaching proposal to lower worldwide agricultural trade barriers. These innovative set of ideas can lead to real progress in this challenging area. 
+
+Trade gives all nations the hope of sharing in the great economic, and social, and political progress of our age. And trade will give American workers the hope that comes from better and higher-paying jobs. 
+
+America's committed to building a world that trades in freedom and grows in prosperity and liberty. Today, we have the tools to pursue that vision, and I look forward to the work ahead. 
+
+And now it's my honor and pleasure to sign into law the Trade Act of 2002. {APPLAUSE} 
+
+{/speech} 

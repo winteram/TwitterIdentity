@@ -1,0 +1,26 @@
+﻿{title} Remarks at the Swearing-In Ceremony for Ann D. McLaughlin as Secretary of Labor {/title}
+{event} Roosevelt Room, White House {/event}
+{speaker} Ann McLaughlin {/speaker}
+{date} December 17, 1987 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Mr. President, for those gracious comments, and to be quoted by you is quite a tribute. Thank you. Your trust is very special to me, as I rejoin your team, I might add.
+
+I want also to thank Judge Riley for administering the oath. Judge Riley is a longtime, very special friend to John and to me, but more importantly, I think he will be serving as a mentor. Judge Riley served as Solicitor at the Department of Labor under Mrs. Frances Perkins, the Secretary of Labor -- the other woman Secretary of Labor. {LAUGHTER}
+
+You know, Mr. President, in the months that I spent away from official Washington, I never really felt apart from this team at all. This is a testimony to what your leadership means to me and what I think it means to every American. We're all renewed by your vitality, by your ideals, and your focus on America's future. Evidence of that during this last historic week was certainly ample.
+
+Now, no one knows better than you, Mr. President, the importance of family and friends, and today I am so pleased and tremendously honored that so many are able to join us here, from as far away as London, England, and as close as 1700 Pennsylvania Avenue. I'm proud of my government service. I am proud that we as an administration have made a difference in the life of every American.
+
+Today the American worker's take-home pay is no longer ravaged by that double-digit inflation or by spiraling taxes. Today over 14.5 million more jobs exist in this the longest peacetime recovery in history. Today we are confident of ourselves and of our nation. But also, today I think of what remains to be done. American workers deserve safe and protected workplaces. They need affordable child care. They deserve secure pensions, fair and equitable wages, benefits, education, training opportunities. You know, workers are people we know -- our parents, our sons, our daughters, our friends, our colleagues, and our neighbors. The future of the American work force and the American workplace will look nothing like it does today and will bring tremendous challenges. My responsibility to you and to the millions of American workers is to prepare them, and us, for that tomorrow.
+
+I believe the Labor Department's role is to ensure the transition to a continuing competitive and productive future. We must provide for an economy where labor and management will work together to meet the competition from abroad. The day must never come when skilled workers have to be imported. We must never have a worker deficit in this country, because we've failed as a nation to provide opportunities for excellence in education and training. These past 6 years, we have put millions of Americans back to work. Now our goal is to keep America working.
+
+Now, on a personal note, people have told me to expect some scrutiny, because I am a woman. The first in 50 years named to this job, and the second to hold it. If that proves to be the case, so be it. But I will do my part to make that attitude a thing of the past. Simply by doing my job responsibly, I shall, perhaps, help everyone understand that women running the Government's business is business as usual. {LAUGHTER ; APPLAUSE} It's no secret I went to an all women's college, and I think many of them are here, with that applause. {LAUGHTER}
+
+I am deeply honored, Mr. President, by the office you have entrusted to me. With your support and the support of friends and family in this room and with my dedicated staff at Labor and the wonderful Labor Department workers, there is nothing we cannot achieve in this next year. I feel awed by the responsibility, but tremendously eager and enthusiastic to take on the challenges. Thank you so much. 
+
+{/speech}

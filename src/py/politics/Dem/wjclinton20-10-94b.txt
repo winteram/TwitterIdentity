@@ -1,0 +1,24 @@
+﻿{title} Remarks by the President to the People of Framingham {/title}
+{event} On Steps at Nevins Hall, Framingham, Massachusetts {/event}
+{speaker} Bill Clinton {/speaker}
+{date} October 20, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, I'm glad to be here. You heard the speech in there. I hope you'll reelect Senator Kennedy. Thank you very much. Let's go out here and say hi to them. Thank you, and thank you for the music. Give the band a hand -- UMASS-Lowell Band. Give them a hand. Thank you. {APPLAUSE}
+
+Can you hear? The sound is back. Ladies and gentlemen, it is wonderful to be back in Massachusetts, wonderful to be the first president since Harry Truman to come to Framingham. {APPLAUSE} And I thank you all for coming out here today. I thank you all for participating in this election.
+
+I want to say you heard what we had to say in there; it was broadcast out here. I want to make one comment that I didn't say in there, that I hope all of you will listen to, whatever your party or your predispositions. One of the things that this country has got to do always, in every age in time, is to believe in itself.
+
+All this business about how we should be cynical and skeptical -- I can tell you that everywhere I go around the world, people know the United States is leading the way to the future. They know our economy is coming back. They know we are dealing with our problems. They know we are promoting peace and prosperity all around the world.
+
+If you looked into the faces of those young Americans who were in Haiti last weekend when President Aristide went home, you saw the best of this country. This is a great country, and I am tired of people trying to tear it down when we ought to be building it up and moving to the future with confidence.
+
+I believe with all my heart, if you look at the results of the last 21 months, you will have to say America is in better shape. We have adopted things that help ordinary Americans: the Family Leave Law, the Brady Bill, immunizing all the kids under two, extending Head Start. These are things that make a difference to real people. And we have got 4.5 million more jobs, the economy is coming back, and we are moving to the future. This is a more peaceful and a more secure country than it was two years ago. I ask you to help us to keep the country going forward. Let us not go back to the contract our opponents have offered. They promise everybody a tax cut, they promise everybody a spending increase, they promise everybody a balanced budget. It will get Massachusetts and New England right back we were in the 1980s -- exploding deficit, compromising our children's future and sending our jobs overseas.
+
+We're going in the right direction. Help us continue to march into the future and keep this country the greatest country in the world well into the 21st century, and help elect Ted Kennedy on November 8th. 
+
+{/speech}

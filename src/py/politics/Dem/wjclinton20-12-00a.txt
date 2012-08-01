@@ -1,0 +1,62 @@
+﻿{title} Remarks by the President on Medical Privacy {/title}
+{event} Department of Health and Human Services, Washington, D.C. {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 20, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Well, first, I want to thank Jan Lori Goldman for her wonderful remarks and for her ongoing work in the area of health privacy. I thank the representatives of the doctors, nurses, consumers and privacy community who are here today and who add input into this effort.
+
+I would like to thank my great friend, Senator Pat Leahy, for being here and for his strong support of privacy issues in the United States Congress. As others have said, I want to thank the entire team of people who worked on this. They worked on this issue for months and months and months. They worked hard. Some of them worked, I might add, at great personal sacrifice to themselves, because of developments unrelated to this issue, to get this out, because they believe so strongly in what they were doing.
+
+I also would like to thank my Chief of Staff, John Podesta, who has been a fanatic on this issue in the best sense. {LAUGHTER} Now, I want to thank all the folks at HHS for -- Donna Shalala went over just some of the things that we have done in this administration over the last eight years, thanks to all of you at HHS. And she said you were beginning to feel like Nebraska. {LAUGHTER} But, look, there's a big difference.
+
+You know, they say that because of the 24-hour news cycle, we're all in a permanent campaign. And when you're in a permanent campaign, it's hard to take the time to go to someplace you have no chance of winning -- Nebraska -- {LAUGHTER} -- or someplace you have no chance of losing, the HHS Building. Right? So -- {LAUGHTER} -- {APPLAUSE}
+
+I might say, just parenthetically, I had a wonderful time in Kearney, Nebraska and Omaha, and you would be amazed at all the letters I've gotten. I have already received more letters than I thought there were Democrats in the state of Nebraska. {LAUGHTER} It was quite wonderful. So I'm grateful.
+
+I want to thank all of you, and especially Donna Shalala, for these last eight years. I believe that Donna Shalala is a superb leader, a great administrator, always full of energy. You will be happy to know, and not surprised, that she has steadfastly defended the people who work at the Department of Health and Human Services in pitched battles at the White House over various issues.
+
+You guys have so much responsibility over so many things, every day you get a new chance to wreck an administration. {LAUGHTER} The fact that you somehow managed to avoid doing so, and along the way to get us up to record levels of childhood immunization, to get the number of people without health insurance going down for the first time in a dozen years, to involve women and seniors in clinical trials to an unprecedented extent, to add 24, 25 years to the Medicare Trust Fund, and 2.5 million kids to the ranks of insured, and do so many other things, to be a positive force in the welfare reform movement, is a real tribute to you, but I think, also, to Donna Shalala and her remarkable tenure as a leader of this department. {APPLAUSE}
+
+And she makes it fun, you know? Now she's going to become President of the University of Miami. We're just sort of a weigh station on her move south. She was at Wisconsin, and then here, and then going to Miami. I think you can confidently predict two or three things that will flow our of her tenure there. She will improve the academic quality of the institution. The football team will get even better. {LAUGHTER} And they will do whatever is necessary to clarify the voting procedures in Dade County. {APPLAUSE}
+
+Look, we're having a good time today, but I want to take a moment to be very, very serious. We say that we are a free nation in a world growing increasingly free. And in so many ways, that is literally true. During the period in which I was President, I was fortunate enough to serve here at a time when, for the first time in all of human history, more than half the people on the globe live under governments of their own choosing.
+
+Now, that's a wonderful thing. That's one manifestation of freedom. Then, there's free speech, the freedom of the press, the right to travel. And also, I might add, minority rights of all kinds, restrictions on the ability of government to compromise the fundamental interests and rights of those who may not agree with the majority.
+
+But we must never forget, in this age of increasing interdependence, fueled by an explosion in information technology that is completely changing the way we work and live and relate to each other, that increasingly, we will have to ask ourselves: Does our freedom include privacy? Because there are new and different ways for that privacy to be restricted.
+
+In 1928, Justice Brandeis wrote his famous words saying that privacy was "the right most valued by civilized people," and he defined it simply as the right to be left alone.
+
+Nothing is more private than someone's medical or psychiatric records. And, therefore, if we are to make freedom fully meaningful in the Information Age, when most of our stuff is on some computer somewhere, we have to protect the privacy of individual health records.
+
+The new rules we release today protect the medical records of virtually every American, they represent the most sweeping privacy protections ever written, and they are built on the foundation of the bipartisan Kennedy-Kassebaum legislation I signed four years ago.
+
+This action is required by the great tides of technological and economic change that have swept through the medical profession over the last few years. In the past, medical records were kept on paper by doctors and stored in file cabinets by nurses; doctors and nurses, by and large, known to their patients. Seldom were those records shared with anyone outside the doctor's office.
+
+Today, physicians increasingly store them electronically, and they are now obliged to share those records in paper or electronic form with insurance companies and other reviewers. To be sure, storing and transmitting medical records electronically is a remarkable application of information technology. They're cost-effective, they can save lives by helping doctors to make quicker and better-informed decisions.
+
+But it is quite a problem that, with a click of a mouse, your personal health information can be accessed without your consent by people you don't know who aren't physicians, for reasons that have nothing to do with your health care. It doesn't take a doctor to understand that is a prescription for abuse.
+
+So, the rules that we release today have been carefully crafted for this new era, to make medical records easier to see for those who should see them, and much harder to see for those who shouldn't. Employers, for instance, shouldn't see medical records, except for limited reasons, such as to process insurance claims. Yet, too often they do, as you just heard.
+
+A recent survey showed that more than a third of all Fortune 500 companies check medical records before they hire or promote. One large employer in Pennsylvania had no trouble obtaining detailed information on the prescription drugs taken by its workers, easily discovering that one employee was HIV positive. That is wrong. Under the rules we released today, it will now be illegal. {APPLAUSE}
+
+There's something else that's really bothered me too, for years, and that is that private companies should not be able to get hold of the most sensitive medical information for marketing purposes. Yet, too often, that happens as well. Recently, expectant mothers who haven't even told their friends the good news, are finding sales letters for baby products in their mailboxes. That's also wrong. And under these new rules, it will also be illegal. {APPLAUSE}
+
+Health insurance companies should not be able to share medical records with mortgage companies who might be able to use them to deny you a loan. That actually happens today, but under these rules, it will be illegal. Health insurance companies shouldn't be able to keep you from seeing your own medical records; up to now, they could. Under these rules, they won't be able to do that anymore. {APPLAUSE}
+
+Under the rules being issued today, health plans and providers will have to tell you up front who will and won't be allowed to see your records. And under an executive order I am issuing today, the federal government will no longer have free reign to launch criminal prosecutions based on information gleaned from routine audits of medical records.
+
+With these actions today, I have done everything I can to protect the sanctity of individual medical records. But there are further protections our families need that only Congress can provide. For example, only new legislation from Congress can make these new protections fully enforceable, and cover every entity which holds medical records. So I urge the new Congress to quickly act to provide these additional protections.
+
+For eight years now, I have worked to marry our enduring values to the stunning possibilities of the Information Age. In many ways, these new medical privacy rules exemplify what we have tried to do in this administration and how we have tried to do it. We can best meet the future if we take advantage of all these marvelous possibilities, but we don't permit them to overwhelm our most fundamental values.
+
+I hope that these privacy rules achieve that goal. And again, let me say, for this and so much more, I am profoundly grateful to the people who work here at HHS, the people who work with them at OMB and in the White House. In this action, you have done an enormous amount to reassure and improve the lives of your fellow Americans.
+
+Thank you very much. 
+
+{/speech}

@@ -1,0 +1,27 @@
+﻿{title} Remarks by the President upon Arrival at Groton/New London Airport, Groton, Connecticut {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 24, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Well, this is hardly the time and place for a speech, but I am delighted to be here with Senator Dodd and Senator Lieberman, Congresswoman Kennelly, and your Congressman, Mr. Gejdenson. {APPLAUSE} 
+
+We're here to talk about health care today and to talk about the future of the people of the people Connecticut and the future of our country. I also want to say since I am fairly near Groton that, I think most of you probably know, but yesterday Electric Boat was awarded one of the administration's Technology Reinvestment Projects for defense conversion, to help to use the defense technologies that were developed in the 1980s to build the high-tech jobs here at home of the 1990s. And that will be a help in the future. {APPLAUSE} 
+
+{AUDIENCE} Sea Wolf! {/AUDIENCE} 
+
+Well, we hung in there with the Sea Wolf -- we did the Sea Wolf. I did that. {APPLAUSE} We reversed that decision. That's right. 
+
+I also want to just say a special word of thanks to all of you for braving this weather and for coming out and for bringing your messages as well as your support. My family and I are very grateful for the friendship that we've been given all across this country, especially in the last month as I've dealt with the loss of my mother, and we've tried to deal with a lot of the challenges facing our country. And when you come out here and stand in this rain after the tough snow you had last night, it's very moving to me personally. I thank you for that. {APPLAUSE} 
+
+I want you to know one other thing. We've got a lot of tough challenges still ahead facing our country. We've got a lot of hard work to do in the Congress. We are facing the health care issue, the welfare reform issue. We're going to try to redo the unemployment system of the country. We have got a lot of big challenges facing this country, but we're going to meet them with your help and your support. And I just want you to tell these folks standing behind me that you do support them when they take the chances and show the courage to change the country and move it toward the 21st century. {APPLAUSE} 
+
+Thank you very much, and God bless you all. {APPLAUSE} 
+
+
+
+{/speech} 

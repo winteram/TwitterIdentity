@@ -1,0 +1,52 @@
+﻿{title} President Attends Republican National Committee Reception in California {/title}
+{event} Toscana Country Club, Indian Wells, California {/event}
+{speaker} George W. Bush {/speaker}
+{date} April 22, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Please be seated. Thanks for coming. The lesson of the 1994 fundraiser is, I should have had a better chairman. {LAUGHTER} I want to thank you all for coming. I really appreciate your support for the Republican Party. We're the party that is the party of ideas, a party of optimism, and a party of people who know how to solve problems, which is exactly what we're doing.
+
+I, first, wish Laura were here. She's not, of course. About four people go through the photo-op line indicated that they kind of would rather have Laura here than me. {LAUGHTER} Yes, well -- I can understand why. She is really a fine person, and she sends her best to all her friends here.
+
+I thank my friend, Brad. You know, one of the great things about our life is that we've had friends before I got into politics, and they're going to be our friends after we're in politics. And Brad Freeman is such a person, and I value his friendship. I want to thank him for organizing this event.
+
+I want to thank all the folks who helped make this a very successful event. One reason why we are successful as a party is because we've got a great party chairman who understands that our message is one that should reach into every neighborhood; ours is one that is inclusive; ours is one that is hopeful, and that's Ken Mehlman. Thank you for coming. {APPLAUSE}
+
+I appreciate Duf Sundheim, Party Chairman here in California. I saw Duf yesterday at Cisco Systems, saw him here in the desert. What are you doing tomorrow, Duf? {LAUGHTER} But thank you for your service, appreciate it very much. I'm confident that Arnold Schwarzenegger will be reelected to Governor of this important state. {APPLAUSE}
+
+I am always a better person after I've been in the presence of Mary Bono. She is the Congresswoman from this district, she is smart, she's capable, she's doing an excellent job for the constituents here. I don't know if you realize this, but today is Earth Day, and Mary has led the way to make sure that some of the most valuable territory, some of the most valuable country in this part of the world are preserved for generations to come, and I want to thank you for your leadership. I also want to thank you for your strong stand in the war on terror. You're doing a fine job. {APPLAUSE}
+
+Connie Mack, from the great state of Florida, is with us. Congressman, good to see you, thank you for coming. Proud you're here. {APPLAUSE} Good friend of the brothers, and mine, too.
+
+Bruce McPherson, the Secretary of State is with us. Bruce, thank you for coming. Appreciate you being here, sir. {APPLAUSE} I call him "Senator," now we call you, "Secretary." It's good to see Mary, as well.
+
+Chuck Poochigian is with us. Chuck is running for the State Attorney General. Chuck, good luck to you. Thank you. My old buddy. Proud to see you. Thanks for coming. {APPLAUSE} Thanks for bringing Debbie with you, as well.
+
+Steve Poizner is with us, running for the Insurance Commissioner. Steve -- there he is. {APPLAUSE} Good luck to you.
+
+I just said, "hello," to Congressman Brian Bilbray. Where are you, Brian? Thanks for coming. Good luck on your race, we're pulling for you. {APPLAUSE} Finally, Ben Stein is with us. Appreciate you coming, Ben. I think he's with us. Maybe he's not with us.
+
+I'd like to make a couple of points, and then we'll sit down for a second, and then visit some more with you. Today we had an important day in the war on terror. The elected leaders of Iraq came together and formed a unity government for the sake of people -- {APPLAUSE} The formation of a unity government is a blow for the terrorists, who have tried to divide Iraq and prevent Iraq democracy from emerging forward.
+
+And the United States of America will continue to stand with the brave citizens of Iraq as this democracy grows. It is in our interests that democracy succeed in Iraq. We must defeat the terrorists by denying them safe haven, and we will defeat the terrorists with an ideology that is hopeful and optimistic and positive, and that's an ideology based upon liberty. {APPLAUSE}
+
+I've also had a wonderful time traveling your beautiful state. Yesterday I talked about a really important initiative for our country, and that is the Competitiveness Initiative. And the reason it's -- I started talking about it in my State of the Union is because it is very important for the United States of America to feel confident about our future, and not to fear it.
+
+There are some in our country that feel like we should isolate ourselves from the world. There are some who fear trade with other countries, and therefore want to throw up walls and protective barriers -- not me. I believe the United States, in order to make sure our people have got a standard of living that improves, must be a leader in the world, must not fear competition, must be willing to continue to put policies in place that will mean that other generations of Americans coming up can realize a great quality of life. And it starts with making sure that the United States of America is the leader of research and technology.
+
+And so yesterday at Cisco Systems I talked about our desire to double federal funding for the basic sciences, so as to continue to make sure we're technologically advanced. I also talked about making sure the research and development tax credit is a permanent part of the tax code to encourage private investment when it comes to research.
+
+But I spent a lot of time yesterday talking about education. I proudly signed the No Child Left Behind Act, which changed the way people should view education from one in which it was okay just to move kids through to one that said we're going to measure, and we're going to hold people to account; we're going to set high standards, and we're going to measure to determine whether our children are learning to read and write and add and subtract. And if we find out they're not able to read and write, we'll correct problems early, before it's too late. I want to extend that same rigor that we've applied in reading to math and science, so that our children have got the skills necessary to fill the jobs of the 21st century.
+
+And today I had the honor of being in West Sacramento, after my bike ride, by the way, in Napa Valley, which -- good place to ride, by the way. I talked about an issue that I know is on people's minds here in California, and that is high energy prices. And I reminded our folks that we live in a global world, and when China's demand for energy goes up, it affects the gasoline prices here. When India's demand for energy goes up, it affects the gasoline prices here, which says to me, we've got to be smart about using energy -- using investment technology to get away from use of oil.
+
+And I talked about plug-in hybrid vehicles, the research going into that, so that one day you'll be driving your first 40 miles on electricity, electric batteries. And I talked about ethanol. But I also talked about hydrogen fuel cells, which I believe will be the wave of the future for how we drive our cars.
+
+What I'm telling you is, ours is a party that has got a vision and a plan to make sure the United States of America is the leader in the world. Our message to the American people is, don't fear the future, because we intend to shape the future. {APPLAUSE}
+
+Thanks for coming. I'll answer a few questions in a little bit. Thank you for being here. {APPLAUSE} 
+
+{/speech}

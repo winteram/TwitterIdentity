@@ -1,0 +1,34 @@
+﻿{title} Remarks by the Vice President in a Post-Debate Rally {/title}
+{event} Gray's Armory, Cleveland, Ohio {/event}
+{speaker} Dick Cheney {/speaker}
+{date} October 5, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I accept. {APPLAUSE} Well, this is a very special night, and we really appreciate all of you being here this evening. These debates are always interesting. You spend a great deal of time thinking about them and getting ready for them. And -- {APPLAUSE} But it is a vitally important part of the process.
+
+The important thing, of course, is that four weeks from tonight, we will select the next President of the United States. {APPLAUSE} And it really has been an enormous privilege for me to serve this President. He's done a superb job for all of us. {APPLAUSE}
+
+When I think back over the last four years, the challenges he's met and the problems we've had to deal with -- everything from 9/11, on forward this way -- America is safer and more secure tonight because George Bush was President of the United States. {APPLAUSE}
+
+Now, we all know how close the last election was. We're going to try to do a little better this time. {APPLAUSE} And I'm convinced we will. {APPLAUSE} I know the signs are good here in Ohio, and I'm told they're even good in Massachusetts. {APPLAUSE} There was a news report the other day about a group of people leaving the Democratic convention who stopped and asked a Boston policeman for directions. He said, "Leave here and go vote Republican." {APPLAUSE}
+
+But Ohio is going to be absolutely key to this election. You've got a crucial role to play. It's absolutely essential we get everybody out on November 2nd -- friends, neighbors, everybody else. And given the closeness of the last election, don't ever let anybody tell you that individual effort doesn't matter. Every phone call, every time you ring a doorbell, every dollar that is contributed, every hour of volunteer time is absolutely crucial to making this a success. {APPLAUSE}
+
+Now, I believe this is one of the most important elections in our history because of the choice we're going to make about who the Commander-in-Chief will be for the next four years. And I'm absolutely convinced that when the votes are counted, George W. Bush will be our President. {APPLAUSE}
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+Thank you.
+
+{AUDIENCE-MEMBER} {COMMENT="Inaudible"} {/AUDIENCE-MEMBER} 
+
+Not on your life. {LAUGHTER} By the way, there's one other thing I need to clarify. Lynne has known me since I was 14, but she wouldn't go out with me until I was 17. {LAUGHTER} I'll bet tonight she's glad she did. {LAUGHTER} But, again, we want to thank all of you for being here. You're doing a fantastic job in a very, very important state. And --
+
+{AUDIENCE-MEMBER} {COMMENT="Inaudible"} {/AUDIENCE-MEMBER} 
+
+Who said that? {LAUGHTER} All right! {LAUGHTER} I got to get out of here, I'm going to get in trouble. Thank you all very much for being here. {APPLAUSE} 
+
+{/speech}

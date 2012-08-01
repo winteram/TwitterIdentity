@@ -1,0 +1,20 @@
+﻿{title} Remarks By President Barack Obama at Welcoming Ceremony {/title}
+{event} Welcoming Ceremony {/event}
+{speaker} Barack Obama {/speaker}
+{date} April 16, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, thank you very much. This is an extraordinary honor and an extraordinary pleasure to be here in Mexico with all of you today. I want to thank President Calderón and his wonderful First Lady and the delegation for their hospitality and facilitating this trip. And I want to thank the people of Mexico for the warmth with which I've been received, especially the young people who are here today. Thank you very much. {APPLAUSE}
+There is a reason why the first visit that I had with a foreign leader after my election was with President Calderón. It was a reminder, as John F. Kennedy said, that the bonds between our two countries cannot be broken. We are joined by a border, but our bonds are so much more than that. In my hometown of Chicago, the population is at least one-third made up of people of Mexican heritage. All across America, all across the United States, we have benefitted from the culture, the language, the food, the insights, the literature, the energy, the ambitions of people who have migrated from our southern neighbor.
+And my hope is, is that the United States has had something to offer to Mexico, as well. So our relationship, our friendship is strong, but as President Calderón said, we can make it stronger.
+At a time where all of us are dealing with an extraordinary global recession, where unemployment is on the rise, where credit has begun to shrink, where businesses are struggling, it is more important than ever that we work together not only to restore economic growth in Mexico and the United States, but also to make sure that growth is sustainable, and to make sure that growth is from the bottom up, so that each and every person -- every young person here in Mexico, as well as every young person in the United States -- has an opportunity to live out their dreams.
+At a time when the Mexican government has so courageously taken on the drug cartels that have plagued both sides of the borders, it is absolutely critical that the United States joins as a full partner in dealing with this issue, both through initiatives like the Merida Initiative, but also on our side of the border, in dealing with the flow of guns and cash south.
+And at a time when Mexico is not just a regional leader, but now a global leader, as shown by its outstanding participation in the G20 summit and other multilateral organizations, it's critical that we join together around issues that can't be solved by any one nation -- issues like climate change, issues like poverty, issues like terrorism. These are issues in which the United States and Mexico will have to stand side by side in order to promote common security and common prosperity.
+And so it is wonderfully fitting to see the children of Mexico, as well as, I suspect, a few children of the United States here together, waving flags of both countries, because we are reminded -- {APPLAUSE} -- because we are reminded that ultimately the reason that we serve in government, ultimately the reason that bilateral relationships like this are so important, is because it allows us to promote a better future for our children.
+That's what we're fighting for, for their dreams, for their opportunities, for their futures. And I'm very much looking forward to developing the kind of relationship between Mexico and the United States that will allow all the children here and all the children in both countries to thrive for years to come.
+So thank you very much, Mr. President, Madam First Lady, and to all of you, for welcoming me in such a gracious way. Thank you. {APPLAUSE} 
+
+{/speech}

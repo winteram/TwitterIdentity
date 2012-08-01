@@ -1,0 +1,92 @@
+﻿{title} Mrs. Bush's Remarks at Bush-Cheney '04 Rally in Philadelphia, PA {/title}
+{event} Fort Washington Expo Center, Philadelphia, Pennsylvania {/event}
+{speaker} Laura Bush {/speaker}
+{date} June 17, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thanks so much everybody. Thank you for coming out this afternoon. I'm so happy be here in Pennsylvania to meet all of you and to talk to you about why it's so important to reelect George W. Bush. {APPLAUSE}
+
+The President and I first traveled together back in 1978, when George was running for Congress. Newly married, we spent a lot of time in our car driving up and down the panhandle of West Texas. Believe me, you learn a lot about your husband when you spend that much time in a car with him. {LAUGHTER} By the end of the campaign, he'd even convinced me to vote for him. {LAUGHTER}
+
+And now, this is our last campaign. Being on the campaign trail isn't what it used to be. These days, we get to travel in a very nice airplane -- and George isn't behind the wheel anymore. {LAUGHTER} But we still love the main part about campaigns, which are the people, the great people that we get to meet all over our wonderful country. So thank you all very, very much for coming out today. {APPLAUSE}
+
+I want you all to know that I'm supporting Senator Arlen Specter, and I hope all of you are too. {APPLAUSE} He deserves to be reelected in November.
+
+And I hope you'll send Melissa Brown to Congress. {APPLAUSE} And be sure that you reelect Jim Gerlach. {APPLAUSE}
+
+Dr. Brown, Melissa Brown, has dedicated her life to serving others through medicine and education, and she'll be a very effective public servant in Washington, D.C. I also really appreciate Sheryl Perzel, who is expanding educational opportunities for Pennsylvania through -- as the president of the New Foundation Charter School. Thank you, Sheryl, and please thank John for his leadership in the Pennsylvania State House. {APPLAUSE}
+
+I also want to encourage you to vote for John Peters and Tom Corbett for auditor and attorney general. {APPLAUSE} and thanks to Cotter Edden for singing our National Anthem. Thank you very much. {APPLAUSE}
+
+And to Monsignor Timothy Senior for his beautiful invocation. {APPLAUSE}
+
+And a very special thanks to volunteer Karla Churchville. Carla spends countless hours making calls and rounding up volunteers for the President's campaign. Thank you, Carla, very, very much. {APPLAUSE}
+
+And George and I want to thank each and every one of you, everyone who is out here. I see somebody who grew up in Midland, Texas -- {LAUGHTER} -- each and every one of you for your help in his campaign. I know that you see what I see: The President is a leader during these historic times. {APPLAUSE}
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+The President is hopeful about our future because he has tremendous confidence in the American people. He has a good and compassionate heart. When he took office, he was determined to accomplish great goals on behalf of the American people. At the time, we couldn't possibly have imagined how challenging the last three years would be. But I've known George Bush for nearly 30 years, and I've known for every second of our time in the White House that the President has the character and the courage to meet the demands of our times. {APPLAUSE}
+
+On taxes, health care and education, on promoting compassion at home and democracy abroad, the President has stood solidly on the side of people who are working to make life better for themselves and their neighbors. Thanks to the President's tax relief plan, millions of families are keeping more of their own money and they're deciding how to use it. In some families, tax relief means more money to pay the monthly bills. In other families, it means money to start a college fund or a retirement fund. For small business owners, tax relief means expanding their operations and adding jobs. These millions of individual decisions are lifting our economy and improving the lives of people all across our country. {APPLAUSE}
+
+And the economy just keeps getting better. We're experiencing the fastest economic growth in 20 years. The home ownership rate is at an all-time high. And I love this fact: Minority home ownership in particular is strong. {APPLAUSE} We've set a new record in the first quarter of this year, and that is that more than half of all minority families now own their own homes. {APPLAUSE}
+
+And since August, more than 1.4 million new jobs have been created. The record is clear. More Americans are proud to be back on the job, thanks to our growing economy. {APPLAUSE}
+
+The President understands that reliable health care is fundamental to our economic security. No one can feel confident about the future if they fear that the next illness might wipe out their savings or drive them into debt. That's why the President is taking action to make health care more affordable and more accessible to millions of Americans. He worked with Congress to add a prescription drug benefit to Medicare and to help seniors afford their medicines. He's expanding health insurance options for Americans, promoting new ideas like health savings accounts. And the President has proposed a plan for reforming the medial liability system to reduce junk lawsuits. {APPLAUSE} Those junk lawsuits drive up the cost of medicine and they drive doctors out of their practices.
+
+Education is also close to the President's heart and to mine. {APPLAUSE} And I want to congratulate Jane Ring, who spoke to you earlier, who was the Teacher of the Year in her neighborhood. Thank you very much, Jane, for being here with us. {APPLAUSE}
+
+From day one, the President has been a friend to parents and teachers who want to improve America's schools. My husband is so committed to education because he looks at schools the way parents would look at schools. He wants to make sure that children who are at risk of being left behind get the help they need to be successful students.
+
+The No Child Left Behind Act is bringing more money, higher standards and stronger accountability to schools throughout America. Now parents are getting better information about their children's school, and children are getting the extra help they need. {APPLAUSE}
+
+The President and I have spent a lot of time traveling to schools around our country, talking with teachers and parents who devote every day to children. By the end of the campaign, he'd even convinced me to vote for him. {LAUGHTER}
+
+And now, this is our last campaign. Being on the campaign trail isn't what it used to be. These days, we get to travel in a very nice airplane -- and George isn't behind the wheel anymore. {LAUGHTER} But we still love the main part about campaigns, which are the people, the great people that we get to meet all over our wonderful country. So thank you all very, very much for coming out today. {APPLAUSE}
+
+I want you all to know that I'm supporting Senator Arlen Specter, and I hope all of you are too. {APPLAUSE} He deserves to be reelected in November.
+
+And I hope you'll send Melissa Brown to Congress. {APPLAUSE} And be sure that you reelect Jim Gerlach. {APPLAUSE}
+
+Dr. Brown, Melissa Brown, has dedicated her life to serving others through medicine and education, and she'll be a very effective public servant in Washington, D.C. I also really appreciate Sheryl Perzel, who is expanding educational opportunities for Pennsylvania through -- as the president of the New Foundation Charter School. Thank you, Sheryl, and please thank John for his leadership in the Pennsylvania State House. {APPLAUSE}
+
+I also want to encourage you to vote for John Peters and Tom Corbett for auditor and attorney general. {APPLAUSE} and thanks to Cotter Edden for singing our National Anthem. Thank you very much. {APPLAUSE}
+
+And to Monsignor Timothy Senior for his beautiful invocation. {APPLAUSE}
+
+And a very special thanks to volunteer Karla Churchville. Carla spends countless hours making calls and rounding up volunteers for the President's campaign. Thank you, Carla, very, very much. {APPLAUSE}
+
+And George and I want to thank each and every one of you, everyone who is out here. I see somebody who grew up in Midland, Texas -- {LAUGHTER} -- each and every one of you for your help in his campaign. I know that you see what I see: The President is a leader during these historic times. {APPLAUSE}
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE}
+
+My husband has always believed that government can be a force for tremendous good in our society, and he appreciates the great work that's done outside government by compassionate citizens who recognize a need in their community and then take action to meet that need. George and I have seen first hand the enormous good and generous hearts of the American people. Compassion and ingenuity are being put to work all over this country to lift up lives, from the mentoring of children of prisoners to bringing meals and a few minutes of friendly conversation to our elderly neighbors. America rises to meet every challenge, and we have a boundless capacity to improve the lives of people around us.
+
+As we help our neighbors at home, we also are sharing the blessings of liberty with our neighbors abroad. The terrible acts of September 11th -- and one of those ended right here in Pennsylvania, in a field in Pennsylvania -- they showed us the face of evil in the world. But they also called us to the great work of promoting freedom and democracy in the far corners of the world.
+
+Today 50 million more men and women and children live in freedom thanks to the United States of America and -- {APPLAUSE}
+
+From the very night of September 11th, when George and I were reunited at the White House, I've seen his courage and character guide his efforts. The President organized a broad coalition of different countries to remove the Taliban from Afghanistan, al Qaeda's biggest supporters were driven from power, and the people of Afghanistan are liberated from their oppressors. Today, women can walk freely on the streets in public without male supervision. {APPLAUSE} Millions of girls are going to school, many for the first time in their lives. And Afghanistan's new constitution protects the rights of all people to vote and to speak freely. {APPLAUSE}
+
+In Iraq, the brave men and women of our military, along with allies from many nations, toppled Saddam Hussein's government and liberated the Iraqi people. {APPLAUSE} They are now free from the tyranny of a brutal regime, and they are full of hope for a new government.
+
+At the end of this month, new Iraqi leaders will begin making decisions about security, economic progress and other issues that are so important to their citizens. President Bush met with the new Iraqi President at the G8 summit in Georgia last week. The Iraqi President thanked the United States and especially the men and women of our military for their sacrifices. {APPLAUSE}
+
+That same week, the United Nations Security Council unanimously passed a resolution pledging the U.N.'s help in making the new government a success and paving the way for free and fair elections in Iraq beginning tin the new year. Thanks to the tremendous work of our coalition, this is a time of great promise for the people of Iraq. {APPLAUSE}
+
+I'm proud of my husband for recognizing the new realities of the world and for taking action to meet them. I'm proud of my husband for so many reasons, not least of which is the dignity and respect he shows for every single person he meets, the same dignity and respect he has for the office he holds. {APPLAUSE}
+
+He has worked hard on behalf of all Americans from the day he took the oath of office, and now it's our time to work for him. All of you can contribute so much to our campaign by simply getting the word out about the President's record of accomplishments and his vision for the future.
+
+Please talk to your neighbors and friends, sign up with the campaign here in Pennsylvania, and make phone calls or go door to door bringing the President's message to voters. Everything you do to reach voters and to get them to the polls will be a huge help to the President. {APPLAUSE}
+
+These are hopeful times for Americans. We look to the future with great confidence in our ability to overcome challenges. And these are times that require particularly strong and determined leaders. I'm proud that my husband is that kind of leader.
+
+Thank you very, very much for your friendship. Thank you all very much. {APPLAUSE} Thank you for your friendship. Thank you for working hard to reelect President Bush. And may God bless you and may God continue to bless America. Thank you all so much. 
+
+{/speech}

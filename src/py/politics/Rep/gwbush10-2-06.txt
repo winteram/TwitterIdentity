@@ -1,0 +1,40 @@
+﻿{title} President Addresses House Republican Conference {/title}
+{event} Hyatt Regency Chesapeake Bay, Cambridge, Maryland {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 10, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. It's an honor to be back here again. Mr. Speaker, thank you for your leadership and your friendship. One of the real joys of being in Washington is to be able to work with Speaker Hastert. He is a straightforward -- {APPLAUSE} Some of my buddies at home say, what's he like? I say he's a straightforward, no-nonsense kind of guy who's here to get things done. And, Mr. Speaker, thank you for your leadership and your friendship. {APPLAUSE}
+
+I congratulate the Majority Leader, John Boehner; looking forward to working with you, John, congratulations to you. {APPLAUSE} I appreciate Roy Blunt, he's a -- right after I called Boehner from Air Force One, I called Blunt and I said, I want to say two things to you: one, thanks for waging the race for the Majority Leader; and, second, thanks for passing the reconciliation package. He said, if I could count votes as good on my race as I did on the reconciliation package -- {LAUGHTER} But I appreciate a man who is gracious in defeat. But he's still got an important position and I'm looking forward to working with you, Roy, thank you. {APPLAUSE}
+
+I appreciate the rest of the folks up here. Thank you all for coming. It is an honor to serve our country with you. I hope you feel that way, as well. There is nothing more heartwarming and exhilarating than to represent the good people of the United States of America here in Washington. I want to thank you all for your service. I particularly want to thank your families for your service to our country, as well. {APPLAUSE} The cause is noble and worthwhile.
+
+A couple of things I want to say, and then I'll be glad to answer some of your questions. First, the state of our union is strong and is getting stronger. And I want to thank you all for putting policies in place that, on the one hand, spread prosperity throughout the country and, at the same time, spread freedom and peace throughout the world.
+
+You know, we've overcome a lot in this country. If you really think about what this economy has been through, it's amazing how resilient and flexible and strong our economy is. We're growing at faster rates than any major industrialized nation in the world. We've added over 4.5 million new jobs since April of 2003. The national unemployment rate is 4.7 percent. Productivity is high. {APPLAUSE}
+
+One of the things we've been working together is to promote an ownership society. More people own a home than ever before in our nation's history. More minority families own a home than ever before in our nation's history. {APPLAUSE} Small businesses are thriving. The economic plan we put in place is working. And it starts with saying to the American people, we trust you with your own money. {APPLAUSE}
+
+We've got a record, and it's a record of accomplishment. We have worked closely together to achieve results for the American people. We've been fiscally wise with the people's money. I want to thank you for that bill you sent me that I signed yesterday. It's hard work to cut out and cut back on programs that don't work. Every program sounds beautiful in Washington, D.C., until you start analyzing the results. And I want to thank you for being wise with the people's money.
+
+You know, you hear people in Washington, D.C. saying, well, we've got to solve the deficit, and the best way to do it is raise the people's taxes. We understand that's not the way Washington works. What happens is, they'll raise your taxes and figure out new ways to spend your money. The best way to reduce the deficit is to keep pro-growth policies in place and be wise with the taxpayers' money. {APPLAUSE}
+
+The House passed a good piece of legislation to help us secure our borders, and I want to thank you for that. The House passed good energy legislation last year. The House passed good tort reform last year, including class action reform and bankruptcy. The House passed the Patriot Act last year. The House passed CAFTA last year. Last year was a year of accomplishment for the House of Representatives, thanks to the leadership here at the table. {APPLAUSE}
+
+And we're ready to lead again. We don't fear the future, because we're going to shape the future of the United States of America. And that means supporting our troops in harm's way. I want to thank you for supporting the troops last year, and I look forward to working with you to support our troops this coming year. {APPLAUSE}
+
+We'll continue to lead. And I want to appreciate your steadfast support in the war on terror. Our most important responsibility is to protect the American people from harm. And I want to thank the members of Congress for working with the administration to protect the American people from future attack.
+
+You know, in my State of the Union -- thanks for paying attention to it when I got up there the other day -- {LAUGHTER} -- I talked about how best to keep the country competitive. You know, some would lose confidence in the capacity of this country to lead, and kind of hide behind walls. That's not what we think. We're confident in America. And we're confident in our people. And we're confident that we can work together to put good policies in place that will keep this country the world's leader when it comes to the economy. So I'm looking forward to working with you to continue to be fiscally sound with the people's money and to put those tax cuts we put in place in a permanent status. {APPLAUSE}
+
+I'm looking forward to working with you on expanding health savings accounts so we can strengthen the doctor-patient relationship. I'm looking forward to working with you on making sure that we become less dependent on Middle Eastern oil by promoting alternative sources of energy. I'm looking forward to working with you on making sure our education system remains strong and our kids can learn math and science so we remain the most competitive nation in the world. {APPLAUSE}
+
+I'm looking forward to working with you, and I'm confident we'll continue the success we have had together. And so I've come to say thanks for your hard work in the past, and thanks for what we're going to do to make this country to continue to be the greatest country on the face of the Earth.
+
+God bless your work. May God continue to bless our country. {APPLAUSE} 
+
+{/speech}

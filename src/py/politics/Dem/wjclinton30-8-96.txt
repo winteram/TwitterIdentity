@@ -1,0 +1,62 @@
+﻿{title} Remarks by the President to the Citizens of Cairo, Illinois {/title}
+{event} Stafford Public Library, Cairo, Illinois  {/event}
+{speaker} Bill Clinton {/speaker}
+{date} August 30, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you.
+
+{AUDIENCE} Four more years! Four more years! {/AUDIENCE} 
+
+Thank you. Ladies and gentlemen, thank you. I want to thank the Mayor and everybody who's worked so hard to make this day happen. I thank those who sang and performed before, especially the Egyptian High School Band. Let's give them a hand over there. {APPLAUSE} The Jerry Ford Combo. {APPLAUSE} I understand Helen Bishaw made this wonderful long sign. Beautiful sign. Thank you very much. {APPLAUSE}
+
+Folks, I love to come to Southern Illinois. {APPLAUSE} When I was governor of my state, I chaired a study of the Lower Mississippi Valley, and I used to come to Southern Illinois. And I know that Senator Paul Simon's home is not far from here. {APPLAUSE} And, you know, he's retiring from the Senate, and I hope you'll elect Dick Durbin to take his place, because we need him desperately there. But Paul Simon has served you and the United States with dignity and honor and distinction. And I want him to come up here and say just two minutes of thanks to you and make a few comments because he is retiring after a great career, and you need to express your appreciation to him.
+
+Senator Simon.
+
+{OTHER-SPEAK} I have been in politics a long time, but I have never had the President of the United States introduce me to say a few words, I have to tell you. {APPLAUSE} I am pleased to be here with Bill Clinton and Al Gore and Dick Durbin and Glenn Proshard and Jerry Costello and all of my friends.
+
+But what is at stake here is our future. I see young people along the front row here, about seven or eight years old. When you think about what you're doing, don't just think about yourselves, think about those young people and their future.
+
+I have, like Al Gore mentioned, all of us have respect for Bob Dole. But the candidate for President, the candidate for Vice President who will stand for the future of these young people and a better future for our country, those candidates are Bill Clinton and Al Gore and we have to do the job that needs to be done.
+
+Thank you very much. {/OTHER-SPEAK} {APPLAUSE}
+
+Thank you, Senator, and to Congressman Costello, Congressman Proshard, all these legislative candidates and university officials and others who are up on the stage with me. Ladies and gentlemen, I am delighted to be back here.
+
+I loved coming in on the bus. And I looked at the bean fields and the river bottoms, and when I came into town, I felt like I was home. {APPLAUSE} And I saw the big welcome on the Laborers Building -- it even had a billboard up there. I appreciated that. {APPLAUSE} Then their leader was back here saying, you know, we're closer to Arkansas than Chicago. These people talk like you do. You don't have an accent here, Mr. President. You don't have an accent here. {APPLAUSE}
+
+We have had a wonderful week. I started off on a train going from West Virginia to Kentucky to Ohio to Michigan to Indiana to the Democratic Convention in Chicago to prove that we're on the right track to the 21st century, but also to see people like you who never see a President. And then we came back to our bus so we could come down here. {APPLAUSE} I learned today that the last Presidents who came to Cairo were Teddy Roosevelt in 1907 and William Howard Taft in 1909. I don't know what the others were doing, but I'm glad to be back. And it's high time. {APPLAUSE}
+
+My fellow Americans, last night I had a chance to talk at the Democratic Convention about what we were going to do in the next four years to build that bridge to the 21st century. And tonight, I just want to say again to you, the choice here is about more than a choice between two candidates. It is a choice between the future and the past, a choice between a philosophy that we're all in this together -- we have an obligation to help each other make the most of our own lives -- and a theory that you're on your own and we hope you do well. It's a choice between people who believe, as Al Gore and I do, that we have a responsibility to help you make this a strong community and help give your children the best lives.
+
+I was asking here -- right just when I was standing here -- the Congressman said, half of the police department in this town was funded by the Crime Bill. I fought hard for it. They fought against it. We were right. {APPLAUSE}
+
+We have invested a lot of money in this area in job retraining. I think there ought to be more of it. They think there ought to be less of it. That's a clear signal. You cannot expect people to go through the changes we have had in the American economy unless we do more, and more quickly, to give people immediate access, no matter their age, to whatever education and training they need to get a new job and a better job. It is critical to our future. {APPLAUSE}
+
+I'm told you have the best Job Corps retraining center in the country right here. That's the kind of thing we need to do for everybody. {APPLAUSE}
+
+And let me just say, you're going to have some races for the legislature here. I want to talk about how all of these races fit together. If we're going to build a bridge to the century, we have to keep growing this economy until it reaches every Delta town and every inner-city neighborhood in the United States. It's not enough to say there are 10 million more jobs. We want to know there's a job for everybody that lives in the Mississippi Delta who wants to go to work -- and a good job. {APPLAUSE}
+
+Last night, I said to the American people -- I say to you again here tonight -- we changed the welfare laws and we said we're going to have a new bargain with people who are poor and out of work and able-bodied with little children. We will guarantee health care. We will guarantee food. We will guarantee child care. But now the income has to come from effort. Well, that's fine. Now, I say, we have to go out and create the jobs.
+
+And I outlined a plan last night in Chicago to the American people to invest several billion dollars -- all of it paid for in my balanced budget plan -- in poor rural areas and small towns, in our inner-cities to create jobs, to give incentives to invest in those areas. The best untapped market for the United States today is those parts of the United States which haven't gotten investment, which haven't fully recovered, which need more jobs. That's what we need to do. And we have a strategy to do it. {APPLAUSE}
+
+I want everybody walking across that bridge to the 21st century. I don't intend to see the lower Mississippi Valley left behind. I want your children to have the best education, your parents to have the best jobs, and your people to have the best future. That is my commitment to you. {APPLAUSE}
+
+Let me just say a word about education. Al Gore and I, in the next four years, are committed to seeing that every classroom in America -- in the remotest mountain village, in the poorest city neighborhood, up and down this Delta -- every single classroom and library not only has the computers they need with the teachers trained to help use them, but is connected to an Information Superhighway that will give, for the first time in the history of this country, every child, rich or poor, immediate access to the highest quality information available on any subject, to any child, in any school in the United States or in the world. {APPLAUSE} That is worth fighting for.
+
+We are committed to the right kind of tax cuts for working families -- a tax cut in the form of a $500 credit for young children; a tax cut in the form of a $1,500 credit to make two years of education after high school as universal in four years as a high school education is today. We ought to make it possible for every family to go to a community college at least and have it paid for and not have to worry about it through tax cuts. {APPLAUSE} We ought to give every family with a child in college or a parent in college a deduction for the cost of tuition up to $10,000 a year. We ought to educate America and do it now. {APPLAUSE}
+
+So I say to you, if you want that kind of future, if you want the feeling you had tonight on this beautiful lawn of this magnificent old library to carry you through, if you want to feel on election day the way the Vice President says and feel that way all through the next four years, you have to help me build that bridge to the 21st century. Will you do that? {APPLAUSE}
+
+Will you help us for 68 days to talk to your friends and neighbors about going into the future instead of going back? Will you do that?
+
+{AUDIENCE} Yes! {/AUDIENCE} 
+
+God bless you. Stay with us and we will make the kind of future you and your children deserve. Thank you. We're delighted to be here. {APPLAUSE} 
+
+{/speech}

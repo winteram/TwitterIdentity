@@ -1,0 +1,41 @@
+﻿{title} President Discusses Marriage Protection Amendment {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 5, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. Please be seated. Good afternoon, and welcome to the White House. It is a pleasure to be with so many fine community leaders, scholars, family organizations, religious leaders, Republicans, Democrats, independents. Thank you all for coming. 
+
+You come from many backgrounds and faith traditions, yet united in this common belief: Marriage is the most fundamental institution of civilization, and it should not be redefined by activist judges. {APPLAUSE} You are here because you strongly support a constitutional amendment that defines marriage as a union of a man and a woman, and I am proud to stand with you. {APPLAUSE} 
+
+This week, the Senate begins debate on the Marriage Protection Amendment, and I call on the Congress to pass this amendment, send it to the states for ratification so we can take this issue out of the hands of over-reaching judges and put it back where it belongs -- in the hands of the American people. {APPLAUSE} 
+
+The union of a man and woman in marriage is the most enduring and important human institution. For ages, in every culture, human beings have understood that marriage is critical to the well-being of families. And because families pass along values and shape character, marriage is also critical to the health of society. Our policies should aim to strengthen families, not undermine them. And changing the definition of marriage would undermine the family structure. 
+
+America is a free society which limits the role of government in the lives of our citizens. In this country, people are free to choose how they live their lives. In our free society, decisions about a fundamental social institution as marriage should be made by the people. {APPLAUSE} 
+
+The American people have spoken clearly on this issue through their elected representatives and at the ballot box. In 1996, Congress approved the Defense of Marriage Act by large bipartisan majorities in both the House and the Senate, and President Clinton signed it into law. And since then, 19 states have held referendums to amend their state constitutions to protect the traditional definition of marriage. In every case, the amendments were approved by decisive majorities with an average of 71 percent. {APPLAUSE} 
+
+Today, 45 of the 50 states have either a state constitutional amendment or statute defining marriage as a union of a man and a woman. These amendments and laws express a broad consensus in our country for protecting the institution of marriage. The people have spoken. Unfortunately, this consensus is being undermined by activist judges and local officials who have struck down state laws protecting marriage and made an aggressive attempt to redefine marriage. 
+
+Since 2004, state courts in Washington and California and Maryland and New York have ruled against marriage laws. Last year, a federal judge in Nebraska overturned a state constitutional amendment banning same-sex marriage, an amendment that was approved by 70 percent of the population. And at this moment, nine states face lawsuits challenging the marriage laws they have on the books. 
+
+Some argue that defining marriage should be left to the states. The fact is, state legislatures are trying to address this issue. {APPLAUSE} But across the country, they are being thwarted by activist judges who are overturning the expressed will of their people. And these court decisions can have an impact on our whole nation. 
+
+The Defense of Marriage Act declares that no state is required to accept another state's definition of marriage. If that act is overturned by the courts, then marriage recognized in one city or state may have to be recognized as marriages everywhere else. That would mean that every state would have to recognize marriage as redefined by judges in, say, Massachusetts or local officials in San Francisco, no matter what their own state laws or their state constitutions say. 
+
+This national question requires a national solution. And on an issue of such profound importance, that solution should come not from the courts, but from the people of the United States. {APPLAUSE} An amendment to the Constitution is necessary because activist courts have left our nation with no other choice. When judges insist on imposing their arbitrary will on the people, the only alternative left to the people is an amendment to the Constitution, the only law a court cannot overturn. 
+
+The constitutional amendment that the Senate will consider this week would fully protect marriage from being redefined. It will leave state legislatures free to make their own choices in defining legal arrangements other than marriage. A constitutional amendment is the most democratic process by which our country can resolve this issue. In their wisdom, our founders set a high bar for amending the Constitution. An amendment must be approved by two-thirds of the House and the Senate, and then ratified by three-fourths of the 50 state legislatures. This process guarantees that every state legislature and every community in our nation will have a voice and a say in deciding this issue. {APPLAUSE} 
+
+A constitutional amendment would not take this issue away from the states, as some have argued. It would take the issue away from the courts and put it directly before the American people. {APPLAUSE} 
+
+As this debate goes forward, every American deserves to be treated with tolerance and respect and dignity. {APPLAUSE} On an issue of this great significance, opinions are strong and emotions run deep. And all of us have a duty to conduct this discussion with civility and decency toward one another. All people deserve to have their voices heard and a constitutional amendment will ensure that they are heard. {APPLAUSE} 
+
+I appreciate you taking an interest in this fundamental issue. It's an important issue for our country to debate and to resolve. And the best way to resolve this issue is through a constitutional amendment, which I strongly support. God bless. 
+
+{/speech} 

@@ -1,0 +1,27 @@
+﻿{title} Speech on Nuclear Security {/title}
+{event} ----- {/event}
+{speaker} John Kerry {/speaker}
+{date} June 1, 2004 {/date}
+{source} http://www.pbs.org/newshour {/source}
+{description} Sen. John Kerry, D-Mass., promised to safeguard all the nuclear weapons and materials around the world by the end of his first term if elected. Kerry made his remarks at the Port of West Palm Beach {/description}
+
+
+{speech} 
+
+We know what al-Qaida and terrorists long to do. They have told us. Osama bin Laden has called obtaining a weapon of mass destruction a "sacred duty." So take away politics. Take away the labels. The honest questions have to be asked. Since that dark day in September, have we done everything we could to secure these dangerous weapons and bomb-making materials? Have we taken every step that we should to stop North Korea and Iran's nuclear programs? Have we reached out to our allies and forged an urgent global effort to ensure that nuclear weapons and materials are, in fact, secured? 
+
+The honest answer in each of these areas is that we have done too little, often too late, and we have even cut back our efforts or turned away from the single greatest threat we face in the world today: A terrorist armed with nuclear weapons. Here's what we must do. 
+
+The first step is to safeguard all bomb-making material worldwide. That means making sure that we know where they are, and then locking those materials and securing those materials wherever they are. Our approach should treat all nuclear materials needed for bombs as if they were bombs. 
+
+The second step is to prevent the creation of new materials that are being produced for nuclear weapons. America, again, has to lead an international coalition to halt and then verifiably ban all production of highly enriched uranium and plutonium for use in nuclear weapons, and we have to do it permanently, capping the world's nuclear weapons stockpiles. Despite strong international support for such a ban, this administration is stalling and endlessly reviewing the very need for such a policy. 
+
+The third step is to reduce the excess stocks of materials and weapons. If America is asking the world to join our country in a shared mission to reduce this nuclear threat, then why would the world listen to us if our own words don't match our deeds? {APPLAUSE} As president, I will stop this administration's program to develop a whole new generation of bunker-busting nuclear bombs. This is a weapon we don't need and it undermines our credibility in persuading other nations. 
+
+Our fourth step is to end the nuclear weapons programs in states like North Korea and Iran. This administration has been fixated on Iraq while the nuclear dangers from North Korea have multiplied. We know that North Korea has sold ballistic missiles and technology in the past. And, according to recent reports, North Korean uranium ended up in Libyan hands. The North Koreans have made it clear to the world and to the terrorists that they are open for business and will sell to the highest bidder. 
+
+For 18 months, we've essentially negotiated over the shape of the table while the North Koreans have allegedly made enough new fuel to make six to nine nuclear bombs. We should maintain the six-party talks that are going on today, but ladies and gentlemen, we must also be prepared to talk directly with North Korea. This problem is... {APPLAUSE} this problem is too urgent to allow China or others at the table to speak for us. And we must be prepared to negotiate a comprehensive agreement that addresses the full range of issues of concern to us and our allies. 
+
+We must also meet the mounting danger on the other side of Asia. While we have been preoccupied in Iraq, next door in Iran, a nuclear program has been reportedly moving ahead. Let me say it plainly: A nuclear-armed Iran is unacceptable. An America -- {APPLAUSE} -- whose interest and allies could be on the target list must no longer sit on the sidelines. It is critical that we work with our allies to resolve those issues. 
+
+{/speech} 

@@ -1,0 +1,64 @@
+﻿{title} Vice President's Remarks to the Marines at Camp Lejeune {/title}
+{event} Camp Lejeune, North Carolina {/event}
+{speaker} Dick Cheney {/speaker}
+{date} October 3, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, General. And I want to thank you for the introduction and the warm welcome. It's a real pleasure to be with the men and women from the Second Marine Expeditionary Force and the "Follow Me" Division of United States Marine Corps. It sounds like you're glad to be home.
+
+{AUDIENCE} Ooh-rah! {/AUDIENCE} 
+
+For more than a half-century, Camp Lejeune has had a very simple and very critical mission -- to maintain combat-ready units for expeditionary deployment in service for the United States. And every generation to serve has fulfilled that mission with uncompromising skill, readiness, and courage. In the four years since our nation was attacked, units from Camp Lejeune have been deployed on many fronts in the war on terror, from the Horn of Africa to the broader Middle East.
+
+This morning we take special pride in recognizing the fine Marine Corps units that have returned from duty in Iraq. As battle-tested Marines you represent a superb cross-section of ground, sea, and air combat power. We also have with us some fine Navy hospital corpsmen, who have saved many lives -- and we thank you all.
+
+In recent months your country has asked you to carry out some extremely difficult and perilous work. You've met every challenge with focus, with great effectiveness and, above all, with honor. You brought credit to yourselves and to the nation. I want to thank you for a job well done, and say "welcome home" for all of us.
+
+Military service, whether active or reserve, often requires a family commitment, and I'm delighted to see all the family members who've joined us today. Our military families make many sacrifices, here at Lejeune and in communities all across the country. I want you to know that you have the respect of your fellow citizens, and the gratitude of our Commander in Chief, President George W. Bush.
+
+Let me thank Lieutenant General Amos, Major General Dickerson, Major General Moore, Brigadier General McMenamin, Colonel Qualls, Sergeant Major Colon, Sergeant Major Tucker, Sergeant Major Mason for their leadership of Camp Lejeune and the Marines of America's Second Marine Expeditionary Force.
+
+As you know, I just came from Washington, where we have a brand-new Chairman of the Joint Chiefs of Staff. He's a great American who rose from rifle platoon leader to four-star general. And he is the first Marine ever to hold that job -- General Peter Pace. {APPLAUSE}
+
+I always love getting back to Marine installations. I've always come away with renewed confidence in the men and women who wear the eagle, globe, and anchor of the United States Marine Corps. Each one of you has dedicated yourself to serving our country and its ideals, and you are meeting that commitment during a very challenging hour in American history. Some challenges have arisen close to home, as we saw last month after the devastating impact of Hurricane Katrina. Highly skilled Marine units rushed into the Gulf Coast area to provide disaster relief and humanitarian assistance. Both active Marines and reservists went in to hard-to-reach areas and saved many stranded citizens, and brought food and water to people desperately in need. In the aftermath of a terrible storm, Marine patrols and rescue and recovery efforts were skillful and swift, and a welcome sight to fellow citizens. And Americans can always count on the Marines.
+
+Our nation has counted on the Marine Corps now for 230 years, and in this young century you are repaying that confidence every day that we fight the war on terror. When this war began on a terrible September morning four years ago, President Bush said that the struggle would be lengthy and difficult, and would require our best effort and unfailing resolve. It is tough and it is dangerous to fight enemies who dwell in the shadow, who target the innocent, who plot destruction on a massive scale. And in this fight some of the hardest duties have come to the men and women of our armed forces.
+
+Your performance in Iraq -- not just the progress you've made, but also the character you have shown -- has left a lasting impression on people up and down the chain of command. You've been taking on rough assignments, adapting to enemy tactics, pressing on and hanging tough in desert temperatures. Units of the Second Marine Division helped to free Iraq in 2003, moving in swiftly to take down the regime of Saddam Hussein and liberating 25 million people from tyranny. You've played a critical role in helping Iraqis to secure their new democracy, to set up a well trained military force, and to prepare for the constitutional referendum next week and national elections in December.
+
+We're grateful to members of the First Battalion, Eighth Marine Regiment, who fought the fierce battle of Fallujah and liberated that city from terrorist control. We're grateful to members of the Third Battalion, Twenty-Fifth Marine, who served from Hit to Haditha along the Euphrates River corridor. We're grateful to the Second Light Armor Reconnaissance Battalion, which kept the main supply route open, found caches of weapons, and provided security for Army and civilian convoys. We're grateful for the Second Marine Logistics Brigade, which provided superior combat logistics throughout al-Anbar province.
+
+From duty at sea we welcome the men and women of the 26th Marine Expeditionary Unit. From air operations, we welcome the "Gunrunners" of Marine Light/Attack Helicopter Squadron 269, and Marine Medium Helicopter Squadron 264, the "Black Knights."
+
+{AUDIENCE-MEMBER} Ooh-rah! {/AUDIENCE-MEMBER} 
+
+It's all right. {LAUGHTER}
+
+Lieutenant General Amos said you're going to miss the Wadi-Watch, but he says you can still download it from home.
+
+All of you are part of a team that continues to make history, removing threats to the United States and other free nations, and bringing new hope to a troubled region of the world. As a Marine, each of you defends this country, and represents the best that is in it. And by your achievements you've made one thing very clear: The day you decided to become a Marine was a great day for the United States of America.
+
+There's still difficult work ahead, because the terrorists regard Iraq as the central front in a war against the civilized world. We are dealing with enemies that recognize no rule of warfare and accept no standard of morality. They have declared their intention to bring great harm to any nation that opposes their aims. Their prime target is the United States. And so we have a responsibility to lead in this fight.
+
+Although we've been in the struggle against terrorism for four years now, the terrorists were actually at war with this country even before 2001. But for a long time, they were the ones on offense. And they grew bolder in their belief that if they killed Americans, they could change American policy. In Beirut in 1983, terrorists killed 241 Americans -- and you're well aware of that attack because most of those men were Marines from Camp Lejeune, members of the First Battalion, Eighth Marine Regiment.
+
+Following that attack, the United States forces were withdrawn from Beirut. Time and time again, for the remainder of the 20th century, the terrorists hit America and America did not hit back hard enough. In 1993 we had the killing of American soldiers in Mogadishu, and the bombing of the World Trade Center in New York. We had the murders at the Saudi National Guard Training Center in Riyadh in 1995, the killings at Khobar Towers in 1996, the destruction of two American embassies in East Africa in 1998, and the attack on the USS Cole in 2000. The terrorists came to believe that they could strike America without paying any price.
+
+And so they continued to wage those attacks, making the world less safe and eventually striking the United State s on 9/11. Now they are making a stand in Iraq, testing our resolve, and trying to shake our commitment to democracy in that country. If the terrorists were to succeed, they would return Iraq to the rule of tyrants, make it a source of instability in the Middle East, and use it as a staging area for ever greater attacks against America and other civilized nations. As President Bush has said, the only way the terrorists can win is if we lose our nerve and abandon our mission. But this nation has made a decision: We will stand by our friends. We will help Iraqis build a nation that is free and secure, able to defend itself. We will confront our enemies on this and every other front in the war on terror. With good allies at our side, we will prevail, we will destroy the enemy.
+
+The progress we've seen in Iraq has been superb, and we can be confident going forward because the Iraqi people value their own liberty and are determined to choose their own destiny. And by staying in this fight, we honor both the ideals and the security interests of the United States. The victory of freedom in Iraq will inspire democratic reformers in other lands. In the broader Middle East and beyond, America will continue to encourage free markets, democracy, and tolerance, because these are the ideas and the aspirations that overcome violence and turn societies to the pursuits of peace. And as the peoples of that region experience new hope, progress, and control over their own destiny, we will see the power of freedom change to our world, and a terrible threat will be removed from the lives of our children and our grandchildren.
+
+Each one of you has helped to write a proud chapter in the history of freedom. As Lieutenant Colonel Tim Mundy recently put it, "I can never say enough about how great our young Marines and small unit leaders are when put to the test." He went on to express a view that each one of you probably shares. He said, "I hope people look at our success out there and realize that it was done on the backs of those Marines." Ladies and gentlemen, I want you to know that our nation does realize it, and we are grateful.
+
+This is not a country that takes its military for granted. We are a democracy, defended by volunteers who deserve all the tools and all the support we can provide. Americans appreciate our fellow citizens who go out on long deployments, endure the hardship of separation from home and family, go in harm's way for the nation. We care about those who have returned with injuries, and we have a responsibility to help them on the hard road ahead. And our nation grieves for the brave men and women whose lives have ended in freedom's cause. For so many of you, these losses have been deeply personal, and tomorrow the Third Battalion, 25th Marine Regiment will hold a memorial service for the 48 Marines and sailors who laid down their lives on this deployment. The loss to our country is irreplaceable, and no one can take away the sorrow that has come to the families of the fallen. We can only say, with complete certainty, that these Americans served in a noble and necessary cause, and their sacrifice has made our nation and the world more secure. We will honor their memory forever, and we will honor their sacrifice by completing the mission.
+
+None of us can know every turn that lies ahead for America in the fight against terror. Yet the direction of events is plain to see, and this period of struggle and testing is also a time of promise. The United States of America is a good country, a decent country, and we are making the world a better place by defending the innocent, confronting the violent, and bringing freedom to the oppressed. We understand the continuing dangers to civilization, and we have the resources, the strength, and the moral courage to overcome those dangers.
+
+As our President has made clear, our terrorist enemies will fail, because the movement of history is toward justice and human freedom. The terrorists will fail, because the resolve of America and our allies will not be shaken. And, Marines and sailors of Camp Lejeune, the terrorists will fail, because men and women like you are standing in their way and saying, "Not on our watch."
+
+Once again, I thank each and every one of you for the great service you've rendered to America. It's an honor to be in your company. All of you in the current generation of our military have shown yourselves worthy of the title you hold, the uniform you wear, and the code you live by. Your Commander-in-Chief is proud of you. On his behalf, and on behalf of the people of the United States of America, I thank you all. Semper Fi. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,18 @@
+﻿{title} Remarks by the President in "Tribute to the President" Reception Hosted by Governor Davis of California {/title}
+{event} Paramount Studios, Los Angeles, California {/event}
+{speaker} Bill Clinton {/speaker}
+{date} August 14, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+First of all, thank you. Let me say on behalf of my family, we're honored to have this Oscar. {LAUGHTER}
+
+I want to thank the Governor and Sharon for welcoming us to California, for the wonderful reception that we've had, for the great convention we've had. {APPLAUSE} And I want to say to all of you -- I don't know if any of you saw my "Home Alone" video that I did -- do you remember that? {APPLAUSE} Well, in this "Home Alone" video I was talking to myself in the mirror and I had Kevin Spacey's Oscar. And he was ungracious enough to come take it away from me, just because he won it and I didn't. So now that I have one of my very own, I'll be able to lord it over him.
+
+We have had a wonderful time. I want to thank the delegates who are here from every single state. {APPLAUSE} From the places where we started to the places where we ended, it's been a great ride. I want to thank you for being so good to Hillary tonight. {APPLAUSE} And you just remember what I told you. We had a good run tonight because we've had a good eight years. But the best way to validate all the work we've done is to win again and keep it going.
+
+God bless you. Thank you. {APPLAUSE} 
+
+{/speech}

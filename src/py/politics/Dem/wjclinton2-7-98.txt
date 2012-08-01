@@ -1,0 +1,48 @@
+﻿{title} Remarks by the President on the Environment to the People of the Guilin Area {/title}
+{event} Speech by President to People of Guilin China {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 2, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President to People of Guilin China {/description}
+
+{speech} 
+
+Thank you very much. Thank you very much, Mr. Mayor. Thank you for welcoming us to your community and for your fine remarks. And, Senator Baucus, thank you for what you said. I want to thank you and all the members of the United States Congress who are here with you. Our American ambassador to China and the Chinese ambassador to the United States and the other members of the Chinese government who are here, and especially I'd like to thank Chairman Ding for being here and our Secretary of State, Madeleine Albright, and others from the White House. We are all delighted to be among you in Guilin today.
+
+I would also like to express my appreciation to the seven Chinese citizens with whom I have just met because they are taking an active role in helping to clean up the environment, either of this area or the entire country. And I thank them for that, and they're all right there. I'd like to ask them to stand up because they spoke for all of China to me today. Please stand. {APPLAUSE}
+
+And since we're here to talk about saving the environment, I want to thank Ambassador Li for giving me this energy-efficient air conditioner. {LAUGHTER}
+
+Since Chinese civilization first began to express itself thousands of years ago, its poems and paintings have sung of the beauty of the land, the air, the water. No place in China is more evocative of the beauty of your country than Guilin. The stunning mountains along the Li River are instantly familiar to millions and millions of Americans. When we see them, the landscapes of Guilin remind of us China's past, but we know they are alive, and we are grateful for their preservation.
+
+A new sense of cooperation is building between the people of China and the people of the United States, based on our shared ties of commerce and culture, our common security interests, and our common enthusiasm for the future. But a big part of that cooperation must rest on our common understanding that we live on the same planet, sharing the same oceans, and breathing the same air.
+
+Not so many years ago in the United States, one of our rivers was so polluted it actually caught on fire. Foul air blanketed our cities, acid rain blighted our landscape. Over the last generation, we have worked hard to restore our natural treasures and to find a way conduct our economy that is more in harmony with the environment.
+
+China's extraordinary growth has put the same kind of pressures on your environment, and the costs of growth are rising right along with your prosperity. You know better than I that polluted air and water are threatening your remarkable progress. Smog has caused entire Chinese cities to disappear from satellite photographs. And respiratory illness is China's number one health problem.
+
+We also know that more and more environmental problems in the United States, in China, and elsewhere are not just national problems, they are global problems. We must work together to protect the environment and there is a great deal that we can do together.
+
+China has the world's longest meteorological records, going back over 500 years. They help us clearly to understand the problem of global warming. The five warmest years since the 15th century have all been in the 1990s; 1997 was the warmest year ever recorded. And if present trends continue, 1998 will break the record. We know that if this trend continues, it will bring more and more severe weather events and it will disrupt the lives of hundreds of millions of people in the world during the coming century.
+
+China is already taking impressive steps to protect its future. Leaded gasoline is being banned. Inefficient stoves have been upgraded. People can find out about air quality from newspapers. Communities and provinces and the national government are doing more to clean up rivers. Chinese scientists are fighting deforestation and soil erosion. And citizens are doing more to promote public education about the environment, among families and especially among children.
+
+The United States is determined to strengthen our cooperation with you. Last year our Vice President, Al Gore, and the Chinese government launched a forum to coordinate sustainable development and environmental protection.
+
+In October at our summit, President Jiang and I oversaw the beginning of a joint initiative on clean energy. This week we have made important new progress. We will provide China assistance to monitor air quality. We will increase our support for programs that support renewable energy sources to decrease China's dependence on coal.
+
+We are helping China develop its coal gasification and working with the Chinese to make financing available for clean energy projects through the Export-Import Bank. Because the United States and China are the world's two largest emitters of greenhouse gases that are dangerously warming our planet, we must do more to avoid increasing severe droughts and floods and the other kinds of destructive things that will occur.
+
+Let me say, Mr. Mayor, I want to extend my sympathies to you on behalf of the American people for the families who suffered losses in the recent flooding here. It occurred just a few days ago, and some of our young Americans were already here working on the trip. They were honored to be able to work with you in some of the sandbagging and other things that were done. But we grieve with you in the losses that were sustained.
+
+We cannot completely eliminate floods and fires and other natural disasters, but we know they will get worse if we do not do something about global warming. There are many people who simply don't believe that anything can be done about it because they don't believe that you can grow an economy unless you use energy in the same way America and Europe have used it for the last 50 years -- more and more energy, more and more pollution to get more and more growth. That's what they believe. But I disagree.
+
+Without any loss of economic opportunity we can conserve energy much more than we do; we can use clean, as opposed to dirty, energy sources much more than we do; and we can adopt new technologies to make the energy we have go further much more than we do.
+
+Now is the time to join our citizens and our governments, our businesses and our industries, in the fight against pollution and global warming, even as we fight for a brighter economic future for the people of China and the people of the entire world.
+
+As we move forward together let us, Chinese and Americans, preserve what we have inherited from the past, and in so doing, preserve the future we are working so hard to build for our children.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

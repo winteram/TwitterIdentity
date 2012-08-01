@@ -1,0 +1,26 @@
+﻿{title} Remarks by President Clinton, Vice President Gore, Chairman Yasser Arafat, Prime Minister Yitzhak Rabin, President Hosni Mubarak, and King Hussein I at Reception for Heads of State {/title}
+{event} The Corcoran Gallery, Washington, D.C. {/event}
+{speaker} Al Gore {/speaker}
+{date} September 28, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Ladies and gentlemen, thank you. {APPLAUSE} On behalf of the President and First Lady and their guests here this evening, I would like to welcome all of you to this historic occasion.
+
+To His Majesty King Hussein and Her Majesty Queen Noor, to President Mubarak and Mrs. Mubarak, to Prime Minister Rabin and Mrs. Rabin, to Chairman Arafat and Mrs. Arafat, to Secretary Christopher, to Foreign Minister Peres, to Prime Minister Sharif Zeid Bin Shaker, to Foreign Minister Moussa, to Mr. Mahmoud Abbas of the Palestinian delegation, we welcome you.
+
+To the members of Congress who are present, to the assembled ministers and members of the diplomatic corps, to the assembled friends of peace.
+
+Today, as we begin a new month in the Islamic calendar, and the new year for the house of Israel, we have witnessed the dawning of a new day of peace for the ancient lands of the Levant.
+
+Tonight, we gather to celebrate this great triumph of courage and hope. These truly are days of awe. The primitive sound of the shofar, the plaintiff echoes of the muezin, have resonated in the collective yearnings of our peoples for peace. They have awakened all of us to a new season of reason and renewal and redemption. They have called us all to compassion, humility and understanding. They have asked us to turn away from past selves to better selves, to take stock and to be reminded of our humanity and our relationship with the one God we all worship.
+
+It is fitting that we join together tonight, as Palestinians, Israelis, Egyptians, Jordanians, Russians, and other Europeans, Americans, and all friends of peace to celebrate the progress we've made on our path to peace. The historic act over which President Clinton presided today and which we were all privileged to witness this afternoon at the White House culminates months of intensive, difficult negotiations and opens a new chapter in our collective efforts to create a comprehensive lasting peace in the Middle East.
+
+I would like to welcome each of you here tonight, and to say that we are especially honored by the presence this evening of five leaders whose vision and tenacity and resolve have led all of our citizens to a grand new moment of opportunity and security. For, peace, as the philosopher Spinoza said, is not mere absence of war, but is a virtue that springs from force of character. I am privileged to welcome you to Washington and am especially honored to introduce to you as our first speaker this evening under these auspicious circumstances, Chairman Arafat.
+
+Ladies and gentlemen, Chairman Arafat. {APPLAUSE} 
+
+{/speech}

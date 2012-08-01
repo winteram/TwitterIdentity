@@ -1,0 +1,53 @@
+﻿{title} Remarks of the President During Discussion Session of Family Reunion 7: Families And Health {/title}
+{event} Discussion Session of Family Reunion 7: Families And Health {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 22, 1998 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Is there any kind of national organization of people like you, who are working for family-centered care everywhere and advocating it?
+
+{OTHER-SPEAK} There is. There actually is -- the Institute for Family-Centered Care, as a matter of fact. And there are also a lot of family support programs, such as Parent To Parent, because, as anyone knows, parents need to be around other parents who have gone through similar situations. And there is a lot of support out there and I do encourage parents who have been through situations like this to get involved. And that is one way parents can get involved. {/OTHER-SPEAK} 
+
+Don't you believe that recovery rates are better when there's family involvement when the people are in the hospital, whether it's children or parents or siblings?
+
+{OTHER-SPEAK} There is no question about it. Daniel has had at least 47 doctors -- that I can count -- 47 doctors come in and come out of his room at some given point over seven years. And I have to recognize that we -- David and I -- we are the constant, and his brother and sister, we are the constant in his life and we are the ones that can help to promote and facilitate his health care. Yes -- and I have to say that his health care has been extremely wonderful. Obviously, he wouldn't be here today if it wasn't. So, thank goodness, and we are very proud of the health care that he has received.
+
+{/OTHER-SPEAK} 
+--------------------------------------------------------------------------------
+
+If I could just reinforce something Tony said -- and I thank you for everything you said -- you may hear this in the debate in the Congress when this comes up this year -- there may be some who really don't want this to pass who say, well, look, a lot of companies are embracing these principles anyway. If a company is willing to say all the things Tony said -- if you've got to go to an emergency room, you can go; if you need a specialist, you can have it; the doctors can't be gagged, they can recommend whatever good care is; if you have a problem with your plan, you can have an appeal -- if you have all those things -- if he does that, why should somebody else be able to put him at a financial disadvantage in whether his plan can make money as compared to their plan by simply not following the same thing?
+
+It's even more unfair to the good HMOs and the good managed-care operations in this country not to have this legislation, because if they go out and do the right thing, then other people who are unscrupulous can come in and try to undercut them by appearing to offer the same service at a lower cost. So he just made a terrific argument for why this bill ought to pass this year -- by doing the right thing and because he's doing the right thing.
+
+I thank you very much. {APPLAUSE}
+
+
+--------------------------------------------------------------------------------
+
+I would just like to thank you for what you said. I hope that this order that I'm signing today will deal with that by essentially telling all the government agencies that whenever possible they have to work through people like you to do the outreach -- because -- well, this weekend Hillary and I spent some time with some friends of ours, and one of them commented that he'd just been to a high school graduation in Northern Virginia where it was announced that the graduates, just a few hundred kids, came from 70 different national and ethnic groups. That's just one high school. We have so many communities -- the Asian communities, alone, if you think -- from Southeast Asia and all the different language groups, that a lot of these people, as you pointed out, two-thirds or more, are working people; many of them, their first language is not English; and if there is not some affirmative attempt to reach them through someone they know and trust, their children will not get on this program -- I don't care how many flyers we put out or PSAs we do or anything else.
+
+This is very valuable what you've said and I think we need to work a little harder on it. But I thank you for being here.
+
+
+--------------------------------------------------------------------------------
+
+First of all, I'd like to thank you for the work you do. And I'd also like to thank Mrs. Gore for being our administration's leading person on mental health issues. If it hadn't been for her, we wouldn't have had a strong mental health component in the child health insurance program or the mental health parity legislation. And I'm very grateful for that.
+
+I'd like to ask a question which may be a little unfair, because I know you haven't been prepared for it exactly, but I'm sure you've thought about it. I just got back from a very moving trip out west, and you may have seen it. I visited Springfield, Oregon, where they had one of the many, many school shootings we've seen. And I've been studying the facts of all these cases, and it does appear that in each case -- or, in most of the cases where we've had these terrible tragedies -- I might add, against a background of dropping juvenile crime overall -- that there was some kind of early warning. And I wonder if you could recommend to me, because the Congress wants to do something on this, everybody is interested in this, this is -- how do you think we ought to deal with children who -- 6,100 kids were removed from school last year for bringing a gun to school. I'd be very surprised if more than 10 percent of them got some sort of comprehensive mental health analysis as a result of it.
+
+We have -- goodness knows how many kids made threats that they had no earthly intention of doing anything about it, but in one of these school shootings there was an explicit threat made beforehand. What advice can you give us about what the role of mental health ought to be and, sort of, early warning systems, preventive care, and that sort of thing, and particularly -- like I said, I don't want to put you on the spot on the Springfield thing, but it's very much on my mind because of what was told to me out there about the facts, and because the young man did have a gun in the school the day before and was sent home.
+
+{AUDIENCE-MEMBER} Well, one of the responses that we have pulled together is we have a family resource center in an elementary school and so we work with the teachers. And we've had to a lot of training of teacher, of youth development workers, of child care workers, to really identify the early signs of mental health needs.
+
+There are so many children with unmet needs. And so often their activities get interpreted as behavior problems, as discipline actions, and we don't ever stop and do a strong assessment of what are the needs of these children. Children that carry guns are afraid. They really have very strong reasons for carrying them. And we work with a lot of children that have been suspended or expelled because they've been carrying weapons to school, and we've been real fortunate in Houston. But I know it's of growing concern because there are so many children that don't think that they'll live to see 20. And so those are kids that carry guns to protect themselves.
+
+We've spent a lot of time and a lot of prevention efforts that focus on children being okay. And so I've seen a lot of children who suppress their emotional disturbance. They see violence on the streets, they see violence in their homes, and rather than being emotionally disturbed, they're being trained to be okay. And so when children respond that way, their sensitivity becomes dull and they can act out in those kinds of ways that really hurt humanity.
+
+And I think one of the things we need to do is make sure that everyone is well aware of some of the signs of mental health needs, and really work to make sure that we remove the stigmatism to receiving mental health services. {APPLAUSE}
+{/AUDIENCE-MEMBER} 
+Thank you. 
+
+{/speech}

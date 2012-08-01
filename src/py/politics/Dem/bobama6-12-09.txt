@@ -1,0 +1,101 @@
+﻿{title} Remarks by the President at Reception for Kennedy Center Honorees {/title}
+{event} Reception for Kennedy Center Honorees {/event}
+{speaker} Barack Obama {/speaker}
+{date} December 6, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. On behalf of Michelle and myself, welcome to the White House.
+
+{AUDIENCE-MEMBER} Thank you. {/AUDIENCE-MEMBER} 
+
+Thank you. {LAUGHTER}
+
+This a season of joy, tradition and celebration.
+
+{AUDIENCE-MEMBER} Yea! {/AUDIENCE-MEMBER} 
+
+Yes! {LAUGHTER} And today, it is our great joy to continue a White House holiday tradition —- a celebration of performers who have transformed the arts in America, our extraordinary Kennedy Center Honorees. {APPLAUSE}
+
+We are joined by Speaker Nancy Pelosi -- {APPLAUSE} -- members of Congress and members of the Kennedy family. {APPLAUSE} I see sprinkled through the crowd some pretty fancy company, as well -- you've got the Queen of Soul. {APPLAUSE} You've got Martin Scorsese -- he knows a little bit about film-making. {APPLAUSE} And my spectacular First Lady is here, as well. {APPLAUSE}
+
+I especially want to thank the man who created these Honors more than three decades ago and who has produced them ever since -- and whom I was proud to name as co-chair of the President's Committee on the Arts and Humanities -- George Stevens, Jr. George. {APPLAUSE}
+
+And I want to also thank Stephen Schwarzman and the Kennedy Center trustees. {APPLAUSE} As well as president Michael Kaiser and all those who sustain President Kennedy's vision of a "great stage" celebrating "the best coming from this country and abroad."
+
+These performers are indeed the best. They are also living reminders of a simple truth -- and I'm going to steal a line from Michelle here -- the arts are not somehow apart from our national life, the arts are at the heart of our national life. {APPLAUSE}
+
+In times of war and sacrifice, the arts -- and these artists —- remind us to sing and to laugh and to live. In times of plenty, they challenge our conscience and implore us to remember the least among us. In moments of division or doubt, they compel us to see the common values that we share; the ideals to which we aspire, even if we sometimes fall short. In days of hardship, they renew our hope that brighter days are still ahead.
+
+So let's never forget that art strengthens America. And that's why we're making sure that America strengthens its arts. It's why we're reenergizing the National Endowment of the Arts. That's why we're helping to sustain jobs in arts communities across the country. It's why we're supporting arts education in our schools, and why Michelle and I have hosted students here at the White House to experience the best of American poetry and music.
+
+And it's why we're honored to celebrate these five remarkable performers, who for decades have helped to sustain and strengthen the American spirit.
+
+You can't understand America without understanding jazz. And you can't understand jazz, without understanding Dave Brubeck. {APPLAUSE} His mother was a classical pianist with high hopes for her son. And by the time he was four, he was playing himself. But by the time he was a teenager, he was tearing up local honky-tonks. Even his mother had to admit: "There is some hope for David after all." {LAUGHTER}
+
+And perhaps it was World War II —- his service in Patton's Army -— that changed his sound, forcing him, as he said, to work the war out of his system by playing some "pretty vicious piano." Whatever it was, his sound —- the distinctive harmonies and improvisations of the Dave Brubeck Quartet —- would change jazz forever, prompting Time magazine to put him on the cover as the leader of a new jazz age.
+
+Having brought jazz into the mainstream, he then transformed it, with innovative new rhythms on albums like Time Out -- the first jazz album to ever sell more than a million copies and still one of the best-selling jazz albums of all time.
+
+Dave Brubeck has never stopped reaching new audiences: Performing for Presidents from Johnson to Reagan; composing orchestral tributes to Martin Luther King and Pope John Paul II; and even in his 80s, dazzling jazz festivals across America.
+
+And I know personally how powerful his performances can be. I mentioned this to Dave backstage. In the few weeks that I spent with my father as a child -- he came to visit me for about a month when I was young -- one of the things he did was to take me to my first jazz concert, in Honolulu, Hawaii, in 1971, and it was a Dave Brubeck concert. {LAUGHTER ; APPLAUSE} And I've been a jazz fan ever since. The world that he opened up for a 10-year-old boy was spectacular.
+
+And, Dave, for the joy that you've given millions of jazz lovers like me, for your six decades of revolutionary rhythms, you are rightly honored -- especially today, on your 89th birthday. {APPLAUSE}
+
+He was born Melvin Kaminsky --
+
+{OTHER-SPEAK} He never understood 4/4 time {/OTHER-SPEAK} -- {LAUGHTER}
+
+He's still messing it up, Mel. {LAUGHTER} Mel, I'm trying to say something nice about you, now. {LAUGHTER} Please don't upstage me. {LAUGHTER}
+
+As you can tell, he was born to entertain. {LAUGHTER} Or, as Mel Brooks explains it: "Look at Jewish history -- unrelieved lamenting would be intolerable. {LAUGHTER} So every 10 Jews, God designed one to be crazy and amuse the others." {LAUGHTER ; APPLAUSE} According to Mel, "By the time I was five I knew I was that one." {LAUGHTER}
+
+And by the time he was nine, this boy from Brooklyn had seen his first musical and dreamed of becoming "the King of Broadway." But World War II meant service in the Army -- or, as he put it, "the European Theater of Operations" with "lots of operations" and "very little theater." {LAUGHTER} Returning home, he found success cranking out quips for Sid Ceasar -- or as Mel described his reaction to success -- "panic, hysteria, insomnia…and years of psychoanalysis." {LAUGHTER}
+
+That's right, we're reading back all your golden moments here, Mel. {LAUGHTER}
+
+Unfortunately, many of the punch lines that have defined Mel Brooks' success cannot be repeated here. {LAUGHTER} I was telling him that I went to see Blazing Saddles -- {LAUGHTER} -- when I was 10. And he pointed out that I think, according to the ratings, I should not have been allowed in the theater. {LAUGHTER} That's true. I think I had a fake ID. {LAUGHTER ; APPLAUSE} But the statute of limitations has passed. {LAUGHTER}
+
+Suffice it to say, in his satires and parodies, no cow is sacred, no genre is safe. He mocked the musical -- and Hitler --in The Producers, the western in Blazing Saddles, and the horror film in Young Frankenstein.
+
+But behind all the insanity and absurdity, there's been a method to Mel's madness. He's described his work as "unearthing the truth that is all around us." And by illuminating uncomfortable truths -- about racism and sexism and anti-Semitism -- he's been called "our jester, asking us to see ourselves as we really are, determined that we laugh ourselves sane."
+
+For this, he is one of the few people ever to receive an Emmy and a Grammy and an Oscar and a Tony. Writer, director, actor, producer, composer…for his success -- and for his psychoanalysis -- we honor Mel Brooks. {APPLAUSE}
+
+Reflecting on the challenge of finding one's voice, Grace Bumbry once said: "God has already planted that in your throat. It's your job to free it up, to allow that beautiful thing to shine through."
+
+True to her name, Grace allowed her voice to shine through and touch all those within its range. Around her family's piano in St. Louis; on the talent show where, as a teenager, she moved the host to tears; and then, after being turned away from one music school because of the color of her skin -- her triumphant international debut at the Paris Opera, when she was just 23 years old.
+
+With a pitch and presence like no other, she became a global sensation, moving audiences at the great opera houses of the world. And performing here at the White House, it was said that she moved Jacqueline Kennedy to lean over and gently sing along the words to the President.
+
+Defying every expectation, Grace Bumbry then made the transition from mezzo to soprano. And over the decades that followed, she displayed a range like few others -- sometimes the middle ranges as a mezzo; sometimes the highs of a soprano; sometimes both in the same performance. Grace not only triumphed in different techniques, she transformed them.
+
+And though she gave her final operatic performance in 1997, she appears in recitals to this day. After nearly 50 years, she remains the definition of a diva in the classical sense: a divine voice worthy of the heavens. And tonight -- 32 years after she performed at the first Kennedy Center Honors for her mentor Marian Anderson -- we honor Grace Bumbry. {APPLAUSE}
+
+Growing up in New York City's Little Italy, Bobby De Niro always knew what he wanted to be. Coming home from the movies, he'd act out the parts. At age 10, in his school play, he made a rather unlikely debut in The Wizard of Oz as the Cowardly Lion. {LAUGHTER}
+
+He has said: "my joy as an actor is to live different lives." And in more than 60 films spanning more than 40 years, Robert De Niro has lived some of the most iconic and intense characters ever portrayed on film. A dying baseball player in Bang The Drum Slowly. A young Vito Corleone in The Godfather Part II. A deranged Taxi Driver. A troubled veteran in The Deer Hunter. A brutal boxer in Raging Bull. A vengeful ex-con in Cape Fear. Let's hope that Martin Scorsese was kidding when he said that Robert is "full of something that he wanted to express." {LAUGHTER} Don't worry, we did a vet on him before he came in tonight. {LAUGHTER}
+
+But alongside his Oscar-winning emotional audacity there's his versatility, from a coma patient in Awakenings, to an ever-possessive father in Meet The Parents. There's his legendary method -- not simply portraying characters, but becoming them, emotionally and physically. And there is his love for his city -- whether it's directing films like A Bronx Tale, or founding the film center and festival that has energized the arts in New York City.
+
+It is perhaps the great irony of his life -- one of America's greatest cinematic actors is a man, famously, of few words off the screen -- and I can attest to this. {LAUGHTER} So I'll simply say, thank you, Robert De Niro. {APPLAUSE}
+
+Finally, we honor the quiet kid from Jersey -- {LAUGHTER} -- who grew up to become the rock 'n' roll laureate of a generation. For in the life of our country only a handful of people have tapped the full power of music to tell the real American story -- with honesty; from the heart; and one of those people is Bruce Springsteen.
+
+He has said: "I've always believed that people listen to your music not to find out about you, but to find out about themselves." And for more than three decades, in his songs -- of dreams and despair, of struggle and hope -- hardworking folks have seen themselves.
+
+They've seen their great state of New Jersey. And they've seen their America -- in songs that become anthems. Restless kids who were "Born to Run." The struggles of workers in "My Hometown." The sacrifices of vets who were "Born in the U.S.A." Love and loss in "Streets of Philadelphia." A resilient nation in "The Rising." And, this year, a country "Working on a Dream."
+
+It's no wonder that his tours are not so much concerts, but communions. There's a place for everybody -— the sense that no matter who you are or what you do, everyone deserves their shot at the American Dream; everybody deserves a little bit of dignity; everybody deserves to be heard.
+
+I've seen it myself. Bruce was a great fan -- a great friend over the last year, and when I watched him on the steps of the Lincoln Memorial when he rocked the National Mall before my inauguration, I thought it captured as well as anything the spirit of what America should be about. On a day like that, and today, I remember: I'm the President, but he's The Boss. {APPLAUSE}
+
+And Bruce continues to inspire, along with his "house-rocking, earth-shaking" E Street Band. At 60 years old, he's still filling stadiums, still whipping fans into a frenzy, still surfing the crowd, still jumping off pianos, and still reaching new fans, and still being nominated for Grammys. It's been a long road from that stage at Stone Pony in Asbury Park to this stage today, but this much we know -- after more than 30 years and 120 million albums sold, Bruce Springsteen is still one "cool rockin' Daddy." {LAUGHTER ; APPLAUSE} 
+Dave Brubeck. Mel Brooks. Grace Bumbry. Robert De Niro. Bruce Springsteen. Their stories are their own. But the part that they play in the larger American story -- that's what we honor here tonight. What they say is that with respect for the past, we can keep strong the traditions and values that enrich us all; that with confidence in the present, and in ourselves, we can overcome whatever comes our way; and that with faith in the future, America's greatest "Glory Days" are still to come.
+
+So thank you to all of our honorees. Thank you all very much for the joy and the beauty that you've contributed to our lives. We are very grateful. Thank you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,29 @@
+﻿{title} Remarks by the President in Lancaster, Wisconsin {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 7, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all for coming. {APPLAUSE} Thank you all for coming out. Come on, Laura. As you can see, I'm traveling with the A Team of the Bush family. {APPLAUSE} We're really glad to be here in Wisconsin and I want to thank you all for coming out to say "hello." 
+
+We're on a bus trip because I'm out asking for the vote. {APPLAUSE} I'm here to tell the people of this state I'd like to be your President for four more years. {APPLAUSE} And one of the best reasons why is to keep Laura as the First Lady for four years. {APPLAUSE} 
+
+I'm not really here to politic you too much, but I do want you to know that I've got a plan to win this war on terror and I've got a plan to spread freedom and peace -- that's what I want to do. {APPLAUSE} We're going to have to be tough in the years coming, and we've got to be compassionate, too. This economy of ours is getting better. I hope the people in this part of the state are working. I know the farm economy is strong, and that's good for America, it's good for this part of Wisconsin. {APPLAUSE} 
+
+I've got a plan to keep us going, so people can find work and realize their dreams. We got some good news today. They added -- we added 288,000 new jobs last month. That's a good sign. {APPLAUSE} Part of it has to do with making sure you get to keep more of your own money. That stimulus plan is working. 
+
+And, finally, my job is to tap into the compassion of America. Let me tell you where the strength of the country is: The strength of the country is in the hearts and souls of our citizens, like the people living right here in Lancaster. That's the strength of this country. {APPLAUSE} And for those of you who are -- those of you who are loving your neighbor like you'd like to be loved yourself, I'm here to thank you for that; thanking you for mentoring children; thanking you for feeding the hungry, providing shelter for the homeless; thank you for hearing that universal call -- that universal call to help change this country one heart and one soul at a time. My job is to rally the spirit of this great country, and that's what I'm -- that's what I'm doing, traveling your great state. {APPLAUSE} 
+
+I'm proud you're here, Mr. Mayor, thanks for coming. Come on up here, Mr. Mayor. I always like to give the mayors advice. {APPLAUSE} My advice is: fill the potholes. {LAUGHTER} Thanks for coming, Mayor. 
+
+{OTHER-SPEAK} Mr. President, sir, on behalf of all these great citizens in Lancaster and the surrounding area, I'd like to present you and your lovely wife this key to the city of Lancaster. {APPLAUSE} And we, too, would like to be a key in your plan, so we really appreciate you being here today. Thank you very much, Mr. President. {/OTHER-SPEAK} 
+
+Thank you, Mr. Mayor. Thanks for coming. {APPLAUSE} 
+
+Again, thank you all for coming out to say "hello." We're kind of heading down the road, but before I leave I do want to say, I ask for God's blessings on you, and may God continue to bless our country. Thank you. God bless. {APPLAUSE} 
+
+{/speech} 

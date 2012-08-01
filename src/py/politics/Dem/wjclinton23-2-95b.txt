@@ -1,0 +1,38 @@
+﻿{title} Remarks by President Clinton, Prime Minister Chretien in Exchange of Toasts {/title}
+{event} Exchange of Toasts {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 23, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Prime Minister and Mrs. Chretien; Ambassador and Mrs. Chretien; Ambassador and Mrs. Blanchard; ladies and gentlemen: let me begin by thanking the Prime Minister for his generous words, and by thanking Prime Minister and Mrs. Chretien and all of our Canadian hosts for making Hillary and me feel so at home here today in our first day of our wonderful visit.
+
+We all have so much in common, so many roots in common. I couldn't help thinking, when we shared so many jokes in the Parliament today and so many good laughs, of all the things I might have said. One of the things that is most fascinating to Americans about Canada is the way you blend your cultures. I understand, now that we've come across the river from Ottawa to Hull, everything is first in French and then in English. And I'm trying to accommodate to all this. And I thought about a true story that I would share with you.
+
+One of the members of our official party today came all the way from Georgia -- Mr. Gordon Giffen, who's sitting out here -- but he was born in Canada. And you should know that Georgia, in the heart of the American South, has a Lieutenant Governer named Pierre Howard. He was very self-conscious about running with a name like Pierre in the South. And in desperation one day, he said, well, you have to understand, Pierre is French for Bubba. {LAUGHTER}
+
+And you all know that I come from Arkansas. I can say to you with absolute confidence that if any person were here from my state tonight, he or she would say, je me sens chez moi au Canada. {APPLAUSE}
+
+The Prime Minister and I have a lot in common. We have small- town roots and modest backgrounds; his in Shawinigan and Quebec. Did I say that right? Shawinigan? Shawinigan -- better? And mine in Hope -- I have a hometown that's easier to pronounce. We began early in political life. He entered the Parliament, I think, when he was 29. I tried to enter the Congress when I was 28. I failed, and I have been grateful for it ever since. {LAUGHTER}
+
+Our political persuasions and our programs are so similar that one magazine called me a "closet Canadian." I think that is a compliment, and I take it as such. {LAUGHTER ; APPLAUSE} We talk a lot about our humble roots. At home when our friends wish to make fun of me, they say that if I talk long enough I will convince people that I was born in a log cabin I built myself. And that's what I thought the first time I met Prime Minister Chretien. {LAUGHTER}
+
+We've had a few agonizing political defeats, and we've managed a comeback. As I think about it, I can only think of one thing that separates me from the Prime Minister -- about 15 points in the public opinion polls. {LAUGHTER} I resent it, but I'm doing what I can to overcome it. {LAUGHTER}
+
+Mr. Prime Minister, one of the glories of Ottawa is the wonderful old canal that winds through this community. It's protected by sweeping and weeping willows in the summertime, and it's as I saw today, animated by skaters in the winter. As I understand it, the canal was constructed about 150 years ago by a British engineer to help defend Canada from the United States. Thankfully, I'm told that if you ask most Canadians today why the canal was built they can't say. The fact that the canal's origin is unremembered speaks volumes about the unique relationship between our two countries -- neighbors, allies, friends. Each of us is blessed to share with the other the bounty of this magnificent continent.
+
+Over the years the partnership we have forged has produced many tangible benefits for our people, as you pointed out. We have a joint defense program that protects our skies and makes us more secure. We have a shared commitment to our environment that improves the quality of the air we breath and the water we drink. We have economies that are so complementary we enjoy the world's largest trading relationship in ways that create jobs and raise incomes on both sides of our border. We have a common passion for democracy that has united us in trying to protect freedom and peace and democracy and enterprise far from our own lands.
+
+The interest and values we share have allowed us to recognize and respect our differences as well. Canada has shown the world how to build a gentler society with a deeply felt concern for the health and well-being for all its citizens. It has shown the world that strength and compassion are not incompatible. There is much in your country from which Americans can and do draw inspiration.
+
+And so tonight in celebrating all that unites us, let us also remember that which is unique in our countries. Hillary and I enjoyed very much our all-too-brief tour of this magnificent tribute to your unique culture. Let us resolve to work together to bring out the best in each other as we move forward together as partners and as friends. Long live this great nation.
+
+Mr. Prime Minister, one of your most illustrious predecessors, Lester Pearson, put it well when he said, "I now accept with equanimity the question so constantly addressed to me -- are you an American? And merely return the accurate answer, yes, I am a Canadian."
+
+And so tonight in celebrating our countries and what unites us, let us work together and let us say, long live Canada; vive le Canada. {APPLAUSE}
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

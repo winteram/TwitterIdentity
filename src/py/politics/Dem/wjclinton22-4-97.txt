@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President in Briefing on Flood Damage by Local Officials {/title}
+{event} Briefing on Flood Damage in ND {/event}
+{speaker} Bill Clinton {/speaker}
+{date} April 22, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President in Briefing on Flood Damage in ND {/description}
+
+{speech} 
+
+Well, first of all, let me say to all of you that I'm honored to be here with the people from our administration. Thank you, Mayor Owens and Mayor Stauss, the other mayors that are here. I thank Senator Conrad and Senator Dorgan, Senator Daschle, Senator Johnson who came in with me, and Senator Wellstone and Senator Grams who met us, and Congressman Pomeroy and -- and Congressman Peterson who met us here; Governor Shaefer, Governor Carlson. I also want to thank all the people who came with me from my administration -- the Secretary of Agriculture Dan Glickman, the Secretary of Health and Human Services Donna Shalala, the Secretary of Housing and Urban Development Andrew Cuomo, the Secretary of Transportation Rodney Slater; Aida Alvarez, our Small Business Administration; and Togo West, the Secretary of the Army.
+
+I want to thank the Air Force, the National Guard, the Red Cross, the Corps of Engineers, the Coast Guard, the Salvation Army and all the people at the state and local government and the community groups that have worked so hard on this endeavor.
+
+Today we saw, obviously, these two communities that have been so devastated, but we know that there is a lot of other loss in North and South Dakota and Minnesota. We're going to meet with people now and I'm going to get a briefing from people who have, unbelievably, dealt with blizzards, floods and fires, all at the same time. I have never seen that before. And when I saw pictures of some of you stacking sandbags in a blizzard, I thought that I had bad reception on my television at first. It was an amazing thing. I don't recall ever in my life seeing anything like this. And I've been very impressed by the courage and the faith that all of you have shown in the face of what has been a terrible, terrible dilemma.
+
+I want to say before we start this roundtable discussion that we are going to do everything we can to move as quickly as possible to do as much as can be done to help. I want to be briefed by everyone here at the table. And James Lee Witt has already talked to me quite extensively about this over, as you might imagine, a long period of time now. But I wanted to say that there are three things I'd like to announce first.
+
+First of all, before I left the White House this morning, I authorized FEMA to provide 100 percent of the direct federal assistance for all of the emergency work undertaken by federal agencies in the 149 counties where disasters have been declared. {APPLAUSE} We will do this retroactively from the moment that the counties were recognized as disaster areas, which I hope will relieve the state and local governments from the worry of whether or not they're be able to actually afford to help the citizens and the communities through the clean-up.
+
+We do this only in the most difficult of circumstances. Normally, the reimbursement rate is 75 percent. But anyone who has been here and seen the destruction, as I have, knows that this is not an ordinary disaster, if there is such a thing. The people here are giving 100 percent, and we should, too.
+
+Second, we are dramatically expanding FEMA's public assistance grant program. We'll add 18 counties in Minnesota and 53 counties in South Dakota today. And these counties also will be eligible for funds for repair and restoration of their communities after the waters subside. Let me also say that we expect to make additional counties in North Dakota and Minnesota eligible for this assistance as soon as we can fully assess the damage that they have sustained.
+
+The third thing I'd like to say is that today I'm asking Congress to approve an additional $200 million of contingency emergency funds for North and South Dakota and for Minnesota. I've asked that these funds be made available both for short-term emergency response activities and for long-term efforts to help the region to rebuild in the aftermath of the flood. If approved, this action will bring to $488 million the total amount of disaster assistance we've requested for the people of the states.
+
+Finally, I'm directing our FEMA Director, James Lee Witt, to lead an interagency task force to develop and direct a long-term recovery plan for North Dakota, South Dakota and Minnesota. We know that this is going to be a long-term effort.
+
+And when we were coming in today, one of the things that I was just noting based on my now 20-plus years of experience in dealing with things like this -- although I have never seen a community this inundated by flood, this large a community -- we have to deal with the long-term problems. And you have to know that we can be relied on to be there in all these communities over the long-run.
+
+The only other thing I'd like to say, Madam Mayor, to you and the other officials, you know this already, but a lot of people are still almost in shock, I'm sure, and have not had time to focus on some of the things which will make the losses most painful -- the things that have been lost in these homes, the records of family occasions, the letters from World War II, the letters from the kids that go off to college, all the things that people will have to come to grips with in the days ahead. And I know that $488 million or $4 billion wouldn't make that go away. But at least we want you to know that we are going to be there over the long run.
+
+And the rest of America has, I think, looked with great compassion and pain, but also enormous admiration at the heroic conduct of the people of this community and of all these states in the last several days when they've gone through things that most of the rest of us can't imagine. We could never imagine facing a flood and a fire and a blizzard all at the same time. And we admire you greatly and we're going to do what we can to be there with you over the long haul.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

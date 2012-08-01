@@ -1,0 +1,80 @@
+﻿{title} Remarks by the President at Cinco de Mayo Reception {/title}
+{event} Cinco de Mayo Reception {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 5, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Viva! Good evening, everyone. Buenas noches. Michelle and I are so honored to welcome you to the White House. And you all brought outstanding weather, so we thank you for that. {LAUGHTER} Thank you. I know that a lot of you would rather be watching tonight's game —- the Spurs against “Los Suns” from Phoenix. {APPLAUSE}
+
+Tonight is another one of our great events here at the White House celebrating Latino culture in America, including our concert some of you might have attended that we had during Hispanic Heritage Month on the South Lawn —- Fiesta Latina. {APPLAUSE} And Malia and Sasha will probably never forget playing drums with Shelia E. {LAUGHTER} Michelle, on the other hand, would prefer to forget the sight of me trying to dance with Thalia. {LAUGHTER} I didn't think I was that bad. {LAUGHTER}
+
+{OTHER-SPEAK} You were okay. {/OTHER-SPEAK} {LAUGHTER}
+
+But there will be no —- there will be no repeat performances tonight.
+
+{OTHER-SPEAK} Awwww {/OTHER-SPEAK} –- {LAUGHTER}
+
+We gather to mark a day that's become as celebrated here in the United States as it is in Mexico. And we're honored to be joined by Mexico's Interior Secretary, Fernando Gomez Mont and his lovely wife Gloria. Please give them a big round of applause. {APPLAUSE} It's good to see you again. And a great friend to me and the United States —- Ambassador Arturo Sarukhan and his wonderful wife Veronica, who are also here. {APPLAUSE} It's good to see you again.
+
+Now, the events of this date in history are well-known —- how nearly 150 years ago, at the Battle of Puebla, a band of Mexican patriots faced off against a massive European army and won a victory that inspires the world to this day.
+
+Less well-known is that General Zaragoza, who led those patriots, was born in what is now the town of Goliad in Texas. In fact, you can go there today -- are you from there?
+
+{AUDIENCE-MEMBER} Yes. {/AUDIENCE-MEMBER} 
+
+You can visit his birthplace. It's a historical landmark. It includes a 10-foot tall statue of the general, presented by the people of Mexico and preserved by the people of the United States.
+
+So the glory of this day is shared by both of our countries. And so is our pride in the lasting contributions that Hispanics have made to America throughout our history, including the men and women who join us here tonight.
+
+We're joined by dedicated members of Congress and members of the Congressional Hispanic Caucus, as well as some of their staffs. This includes Senator Bob Menendez -- {APPLAUSE} Hey, Bob. Representative Xavier Becerra -- where is Xavier? {APPLAUSE} There he is, back there. Chairwoman Nydia Velazquez. Where's Nydia? {APPLAUSE}
+
+We're joined by outstanding members of my Cabinet, including Secretary of Labor Hilda Solis -- {APPLAUSE} Hilda! As well as Secretary of Homeland Security Napolitano is here. {APPLAUSE} And although she's down -- although he's down on the Gulf helping to lead our response to the oil spill, I want to acknowledge my outstanding Interior Secretary, Ken Salazar. {APPLAUSE}
+
+We're joined by Hispanic Americans serving at every level of my government. And I'm proud that we've nominated more Latinos to senior positions than any administration in history —- {APPLAUSE} -- not just because they're Latino, but because they're the best people for the job.
+
+And I should note that many of those appointments are Latinas -— “wise Latinas,” undoubtedly. {APPLAUSE} And although she's not here tonight, I think we should give a little round of applause to our first Latina on the Supreme Court —-Sonia Sotomayor. {APPLAUSE}
+
+We're also joined by leaders from every segment of American society. And I especially want to welcome those of you serving on the commission to explore the creation of a new museum in Washington to celebrate the history of Latinos in America. {APPLAUSE} And I look forward to seeing the results of the commission's hard work and to the day when we open the doors on a new National Museum of the American Latino.
+
+Tonight's performers are a wonderful example of how Latin culture has shaped and strengthened the fabric of America. So I want to say thank you to Maru and the Montero Dance Company, along with Javier Cortes. {APPLAUSE} Thank you very much. Before I came out I was listening to you guys inside. You sounded really good. {LAUGHTER}
+
+Now, by celebrating the story of Hispanics in America, we're really celebrating the larger story of America. After all, the dreams of Mexican Americans and all Latinos are the same dreams as any other American. It's why, in the face of an unprecedented economic crisis, we took bold action to get our economy growing again, creating jobs again and laying the foundation for lasting prosperity.
+
+That's good for all Americans, including Hispanics among whom the unemployment rate remains unacceptably high and who are ready to go back to work.
+
+It's why, after nearly a century, we passed historic health care reform, with the help of the Congressional Hispanic Caucus. And we're grateful to them. {APPLAUSE} That's good for all Americans. It's good for all Americans, including the millions of Latinos who will finally get the coverage they lack today, as well as the Latino small business owners who will finally be able to provide coverage for their employees. And that allows them to join the children of legal immigrants who are finally able to get health care through the SCHIP program, something that we did very early on in my administration. {APPLAUSE}
+
+It's why we've made college more affordable, why we're reforming education. And that's good for all children, including Latinos, who instead of having the highest dropout rate, deserve every chance to achieve their God-given potential.
+
+So today reminds us that America's diversity is America's strength. That's why I spoke out against the recently passed law in Arizona. {APPLAUSE} Make no mistake, our immigration system is broken. And after so many years in which Washington has failed to meet its responsibilities, Americans are right to be frustrated, including folks along border states. But the answer isn't to undermine fundamental principles that define us as a nation. We can't start singling out people because of who they look like, or how they talk, or how they dress. We can't turn law-abiding American citizens —- and law-abiding immigrants —- into subjects of suspicion and abuse. We can't divide the American people that way. That's not the answer. That's not who we are as the United States of America.
+
+And that's why I've instructed my administration to closely monitor the new law in Arizona, to examine the civil rights and other implications that it may have. That's why we have to close the door on this kind of misconceived action by meeting our obligations here in Washington.
+
+So I want to say it again, just in case anybody is confused. The way to fix our broken immigration system is through common-sense, comprehensive immigration reform. {APPLAUSE} That means responsibility from government to secure our borders, something we have done and will continue to do. It means responsibility from businesses that break the law by undermining American workers and exploiting undocumented workers -— they've got to be held accountable. It means responsibility from people who are living here illegally. They've got to admit that they broke the law, and pay taxes, and pay a penalty, and learn English, and get right before the law -- and then get in line and earn their citizenship.
+
+Comprehensive reform —- that's how we're going to solve this problem. And I know there's been some commentary over the last week since I talked about this difficult issue: Well, is this politically smart to do? Can you get Republican votes? Look, of course, it's going to be tough. That's the truth. Anybody who tells you it's going to be easy or I can wave a magic wand and make it happen hasn't been paying attention how this town works. {LAUGHTER}
+
+We need bipartisan support. But it can be done. And it needs to be done. So I was pleased to see a strong proposal for comprehensive reform presented in the Senate last week —- and I was pleased that it was based on a bipartisan framework. I want to begin work this year, and I want Democrats and Republicans to work with me -- because we've got to stay true to who we are, a nation of laws and a nation of immigrants.
+
+That's the spirit that I saw in some remarkable men and women that I recently hosted right here in the Rose Garden. They came from more than a dozen countries. And even though they weren't yet citizens, they had enlisted in the United States military. And one woman was named Perla Ramos, and she was born and raised in Mexico. She came to the United States shortly after 9/11. Her husband was a U.S. Marine, and she said, “a passion for the military grew inside me.”
+
+In time, she joined herself —- enlisting in the Navy. And she said, “I take pride in our flag and the history that forged this great nation and the history we write day by day.” And as Perla's Commander-in-Chief, I took great pride in helping to swear her in —- a daughter of Mexico and one of our newest American citizens. {APPLAUSE} So she continues a great tradition of Mexican Americans serving in our military -- someone in whom both our nations can take great pride.
+
+So, today I want us to remember —- the United States and Mexico are not simply neighbors, bound by geography and history. We're two societies that are woven together by millions of family and friends, by common interests and a shared future. Those are bonds that are unbreakable. They're bonds of an aspirational community -- you and your mothers and fathers, and brothers and sisters who struggled and sacrificed to realize the American Dream. They're also bonds of commerce and trade that sustain millions of jobs -— both in Mexico and in the United States.
+
+They're bonds that are represented in the trust and respect that I have for President Calderon as we work together to create opportunity and prosperity for our peoples, and confront the drug cartels and violence that threaten both our countries. It's the warmth that Michelle felt on her recent trip to Mexico —- her first solo trip as First Lady. {APPLAUSE} And it's the friendship and cooperation that we'll deepen when we host President Calderon and First Lady Margarita Zavala for their state visit and dinner in a couple of weeks. {APPLAUSE}
+
+That's the spirit that all of you are putting on display today. So thank you for living it in your own lives. Thank you for sharing it with us tonight.
+
+Have a wonderful party. You can be as noisy as you want. {LAUGHTER}
+
+{OTHER-SPEAK} We can hear you. {/OTHER-SPEAK} 
+
+We can hear you, though. {LAUGHTER} If it goes past a certain hour we'll kick you out. All right? {LAUGHTER}
+
+Thank you very much, everybody. God bless you. {APPLAUSE} 
+
+{/speech}

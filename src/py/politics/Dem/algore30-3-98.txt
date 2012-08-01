@@ -1,0 +1,26 @@
+﻿{title} Remarks at the Jubilee Bells Show {/title}
+{event} Jubilee Bells Show {/event}
+{speaker} Al Gore {/speaker}
+{date} April 30, 1998 {/date}
+{source} http://telaviv.usembassy.gov {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+President and Mrs. Weizman, Prime Minister and Mrs. Netanyahu, Mayor and Mrs. Olmert, "Am Israel." {APPLAUSE} "Ani mevakesh slichah! Ani lo medaber Ivrit." {APPLAUSE} But even though I speak in the language of my birth, my heart and the hearts of all Americans beat with yours this evening, as we hallow the 50th year of Israel's birth. {APPLAUSE} "We were like those who dreamed," the psalmist sang. And so we still are; those who not only dreamed, but struggled in their dream. Those who struggled not only with the human, but with the divine. Since the angel of God first wrestled with Jacob, and gave him your name: "Israel", your dream and your struggle have nurtured the children of Israel through all the bitter centuries of your wandering and dispersion, your persecution and despair. The dream which you called "Zion", was on your lips daily. You remembered Zion at every expulsion, at every oppression, at every devastation. 
+
+Since the cruel and envious brothers of Joseph the Dreamer cast him into the pit, your tormentors have marked and reviled your deepest hopes with the taunting question: What now will become of the dream? But the dream and the struggle in the dream have endured. 
+
+100 years and nine months ago, Theodore Herzl awoke to the realization that the dream and the struggle are one. "If you will it," he said, "it is not a dream." {APPLAUSE} Soon after, a young David Ben Gurion spoke for all of the ingathering exiles when he said they arrived here with the dew of dreams still moist in our hearts. A half century ago at one minute after midnight, your mothers and fathers proclaimed your freedom. In the morning they sent their children to prepare for war. The dream and the struggle were still one. And so they still are one. But what a difference there is at this jubilee celebration. I'm reminded that Joseph's brothers who had left him for dead, did not recognize him when they saw him again, long after his escape from his perils and his triumphant ascendence to power and glory. If those who persecuted you, despised you, and murdered you, could see this glorious celebration tonight, would they even recognize you? {APPLAUSE} Look at what has become of your dream. You are one of the most vibrant democracies in history. An economic and military power. {APPLAUSE} A wellspring of productivity and prosperity, of wisdom and humanity. A place of poetry and theater and learning and life. {APPLAUSE}
+
+As I lift up my eyes tonight and see the whole house of Israel, I recognize you. And I remember the prophecy of Ezekiel that God would raise you up, that bone would join to bone, sinew to sinew, and that He would breathe life into your flesh and restore you to your land. {APPLAUSE} I recognize you -- and President Clinton and I are proud, as are all Americans, that the United States was the first nation to recognize the State of Israel -- eleven minutes after you proclaimed your independence {APPLAUSE} on the 5th of Iyar, 50 years ago. {APPLAUSE}
+
+The Americans feel our ties with Israel are eternal. Our founders, like yours, also made an errand into the wilderness in search of a new Zion. Our struggle, like yours, has been with the divine, as well as the human. Our prophets, and yours, have told us they had a dream, and have summoned us with their dream to this struggle for justice and peace. 
+
+Our work, like yours, is not yet complete. It is an honor for my wife Tipper and me to be counted as your friends, and it is an honor to have you count upon our friendship, and the friendship of the nation I am here to represent. May a friend join you then, in a blessing at this intoxicating and sobering moment. Blessed art Thou our God, ruler of the Universe. "Shehekhianu v'kiemanu v'higianu la'zman hazeh!" {APPLAUSE} "He has kept us alive and sustained us and brought us to this time." {APPLAUSE}
+
+May the Eternal bring us together in peace and in justice, in security and prosperity to the time that still awaits us and our children, and our grandchildren, so that the visions born in this hallowing and harrowing place may become realities for all those who were created in the image of a good and demanding God. May God bless those who struggle in their dream. And may God bless Medinat Israel. {APPLAUSE}
+
+
+{/speech} 

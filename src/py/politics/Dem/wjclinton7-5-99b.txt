@@ -1,0 +1,34 @@
+﻿{title} Remarks By The PresidentUpon Arrival To Austin-bergstrom International Airport {/title}
+{event} Speech by President upon Arrival in Texas {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 7, 1999 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Mr. Mayor. I want you to know, folks, I spent some of the best days of my life in Austin, Texas. {APPLAUSE} And when Lloyd went up to make his remarks, I looked at the Mayor and I said, being Mayor of Austin may be the best elected job in the United States. {APPLAUSE} And he didn't dispute me.
+
+I also want to thank Lloyd Doggett for his leadership on this and so many other projects. We've been friends for many, many years. I was elated when he was elected to the Congress and I can tell you he does a terrific jobs for all the constituents of this district in Washington, D.C. {APPLAUSE}
+
+Ladies and gentlemen, I'm very, very sorry I had to miss the dedication -- you know why -- the events in Littleton, Colorado, compelled me to cancel. I do want to tell you, on Monday Hillary and Al and Tipper Gore and I are going to have a very distinguished array of people from all over the country to meet in Washington to organize a national campaign against violence involving our children. And I know it will have the support of every person here. {APPLAUSE}
+
+But I want to ask you to think a little bit about the significance of this airport not only in terms of what it means to all of you, but in terms of what it means to the future of America and how we ought to do all of our business. Six years ago, when your air base was closed, you saw that it did not have to be an economic setback. In fact, it could be an enormous opportunity. Austin-Bergstrom International Airport today is a testament to your unwavering commitment and vision.
+
+For years, this airport had the following motto: "Bergstrom Air Force Base: Global Power for America." Today this airport is still a symbol of global power for America. It's a different kind of power. Where military aircraft essential to our victory in the Cold War once landed here, now boxes of software take off for markets around the world, fueling our success in the new global economy. Where once pilots flew reconnaissance missions to survey Cold War enemies, now they fly planes that ferry high-tech visionaries between Silicon Valley and these Silicon hills.
+
+This airport will be your gateway to prosperity in the 21st century. And I especially appreciate something that's already been mentioned, that you pay tribute to some of Texas' finest citizens. I hope every visitor will be inspired by Captain Bergstrom's courage and sacrifice; by my good friend, Jake Pickle's life of service and compassion; by President Johnson's bold vision and commitment to progress for all Americans together; and by Barbara Jordan's incomparable voice for justice on common ground. {APPLAUSE}
+
+Since I'm here today, I cannot help noting that the work of Lyndon Johnson and Barbara Jordan is being carried on today here in Austin by the state legislators who are trying to pass hate crimes legislation in the name of James Bird. {APPLAUSE} As you probably saw on the tarmac, I was honored to meet with members of Mr. Bird's family. I know that what happened to him was anathema to every good citizen in Texas, as well as the United States.
+
+And I ask you, as our men and women in uniform today struggle against the killing, the rape, the looting, the uprooting of people, based solely on their ethnic and religious background in Kosovo -- as they did in Bosnia -- as we fight to reconcile people around, from the Middle East to Northern Ireland -- here in America, if we want to do good abroad, we have to be good at home. We have to stand up for what is right. {APPLAUSE}
+
+We have to acknowledge that there are differences among us that we celebrate; there are differences among us that are real differences, and we are compelled to disagree; but underneath it all, as the Founders of our Republic recognized, there is our common humanity and our equal dignity. And we must always stand for it. If we want to be a force against ethnic cleansing and genocide around the world, we have to be a force for harmony and community, here at home in every place in the United States. {APPLAUSE}
+
+And so I close with the point I tried to make at the beginning. I want you to think about what this represents and how you did it. What it represents is a commitment to a common future, where no one is left behind and everybody has a chance. How you did it is by working together, across all the elements of this richly textured community. If you think about it, we could solve all of our problems that way. Thanks for the model.
+
+Good luck, and God bless you. {APPLAUSE}
+
+Wait a minute. {APPLAUSE} I want to do one other thing. I want to thank the Barbara Jordan Elementary Choir -- {APPLAUSE} -- and the Pflugerville High School Band. Thank you very much. {APPLAUSE} How about a little more music? Let's go. {APPLAUSE} 
+
+{/speech}

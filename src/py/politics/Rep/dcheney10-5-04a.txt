@@ -1,0 +1,56 @@
+﻿{title} Remarks by the Vice President at the Diamond Casting and Machine Tool Company {/title}
+{event} ----- {/event}
+{speaker} Dick Cheney {/speaker}
+{date} May 10, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. {APPLAUSE} Thank you very much. {APPLAUSE} Thank you. {APPLAUSE} Thank you, Governor, and thank you for the introduction. Gerry, thank you very much for hosting me here today. I appreciate the warm welcome in Hollis, grateful for the chance to meet the men and women of this great company.
+
+I was thinking about coming up today -- my great grandfather was born in New Hampshire. And we've always had trouble pronouncing it, since I grew up in Wyoming -- Boscowen -- {LAUGHTER} -- Boscowen -- in 1829, a long time ago. But we're delighted to be back in New Hampshire and to have an opportunity to spend some time with all of you today. And I want to bring you greetings from the President of the United States, George W. Bush. {APPLAUSE}
+
+And I also am proud to tell you that your congressional delegation is doing well in Washington. My only real job as Vice President is as President of the Senate. When they wrote the Constitution, they got down to the end of the convention, they'd created this post called Vice President, but they hadn't given the guy anything to do. {LAUGHTER} So they made him the presiding officer of the United States Senate.
+
+And my predecessor John Adams, our first Vice President, also had floor privileges. He could actually go down into the floor of the Senate and participate in the debate. And then he did a couple of times, and they withdrew his floor privileges. {LAUGHTER} And they've never been restored. So I'm not allowed to speak in the Senate, but I cast tie-breaking votes and also can preside when I want. So I've gotten to know your senators very well. I worked for a long time with Judd Gregg in the House -- and John Sununu. And they do a great job. And of course, I know Charlie Bass and Jeb Bradley over on the House side, too.
+
+I did serve in the House of Representatives from Wyoming. I was the congressman from Wyoming for 10 years. It was only one seat in House of Representatives from Wyoming. It was a small delegation. {LAUGHTER} But it was quality. {LAUGHTER} So I'm delighted to give you a good report today on your congressional delegation. They do great work, too. I know -- {APPLAUSE}
+
+I know the town is older than America, and the spirit of independence here -- and across New Hampshire -- is still very strong. This is a bold, enterprising state -- where people have confidence in the future, where they take their responsibilities as citizens very seriously, and where they put their hearts into their work. And I see that optimistic outlook right here at Diamond Casting. You went through some tough times during the economic downturn a few years back, but you kept your determination to regain the strength and the size of your business. And you've done that.
+
+Your production is up sharply from its low point during the recession; you've rehired the same number workers as were lost earlier; and now you're in a position to expand. You're leading an economic recovery that President Bush and I are determined to spread throughout the state of New Hampshire, and to every corner of America. {APPLAUSE}
+
+When you come to a place like Diamond Casting, it doesn't take long to figure out why your recovery has been so strong. This is a company filled with skilled workers, dedicated to manufacturing some of the finest machine parts in the world. You also have effective, determined management -- the kind of leaders who care about long-term results and are willing to take intelligent risks to create new business. With hard work, with a lower federal tax burden, and powerful incentives to invest, you've built a strong, growing New Hampshire company. And I'm proud to congratulate you on a winning strategy and a winning team. {APPLAUSE}
+
+As I mentioned, our economy has been through some tough times these past three years. We've faced recession, then the terrorist attack of 9/11, the uncertainty of war. Yet, through all of these challenges, our economy has grown because of the steady effort of our citizens -- and because of the sound policies that President Bush has followed. The President and I know that the best way to expand the economy and to create jobs is to leave more money in the hands of the people who earn it. {APPLAUSE}
+
+So we proposed and delivered significant tax cuts, and we fulfilled a major economic goal: to reduce the federal tax burden on every single American who pays income taxes.
+
+Since President Bush took office, more than 525,000 taxpayers in New Hampshire have seen their income tax bills reduced; more than 180,000 married couples in New Hampshire are benefiting from marriage penalty relief; and over 125,000 families in New Hampshire have benefited from the increase in the child tax credit. Over 120,000 business owners in New Hampshire today have seen their federal tax burden go down, allowing them to invest in new equipment, expand facilities and hire more workers. {APPLAUSE}
+
+The average savings from the President's across-the-board tax cuts topped $1,500. Some critics say that's not much. But it sure feels like a lot when you have to send it to Washington, and we were right to send it back. {APPLAUSE}
+
+You've seen the results of tax relief here in Hollis, and as the Governor pointed out, we are beginning to see results around the country. In the first quarter of this year, the economy grew at 4.2 percent. And over the last three quarters, the economy has grown at a rate of 5.5 percent -- the fastest pace since the first term of President Ronald Reagan. The home ownership rate is the highest ever. Interest rates and inflation are low. Manufacturing activity is increasing. Productivity is high. Business investment and factory orders are rising.
+
+Last Friday we received more news to confirm the growing strength of our economy. The economy added 288,000 new jobs in April. {APPLAUSE} That's more than 1.1 million new jobs since last August. Manufacturing jobs in America have increased for three straight months. And here in New Hampshire, your unemployment rate is 4 percent, down from 4.9 percent in the summer of 2002 -- and well below the national average. The Bush tax relief is working. {APPLAUSE} America's economy is moving in the right direction -- don't let anyone tell you otherwise. {APPLAUSE}
+
+For all this progress, there's still more work to be done. The goal of our administration is a strong, vigorous, growing economy in every part of New Hampshire, and across the country. We want to see more opportunities for citizens, more new jobs, and more small businesses in our communities. So we're going to keep moving forward with a clear, comprehensive, pro-growth agenda.
+
+We start with a clear understanding of the role of government. We know that America's $10-trillion economy is sustained by the free enterprise system, and by the hard work of the nation's entrepreneurs and workers. Government spends a lot of money, but it doesn't build factories, or meet company payrolls, or do all the work that makes the economy go. The federal government's job is not to manage or control the economy, but to remove obstacles standing in the way of faster growth. {APPLAUSE} The key to more jobs is not more government, but free enterprise, and low taxes, and spending discipline in Washington, D.C. {APPLAUSE}
+
+We need fewer mandates, and fewer unnecessary regulations from Washington. Companies like Diamond Casting should be able to spend their time building the business and adding jobs, not filling out a lot of useless government paperwork. {APPLAUSE}
+
+Our economy also needs legal reform. Junk lawsuits are cluttering the courts, weakening our economy, and hurting employers and workers. America's entrepreneurs should be able to hire productive workers, instead of hiring lawyers. {APPLAUSE}
+
+We should also help business owners confront the rising costs of health care. Here in New Hampshire and across the country, we need to make sure frivolous lawsuits don't run good doctors out of business and drive up the cost of care. {APPLAUSE} No one has ever been healed by a frivolous lawsuit. {LAUGHTER} So Congress needs to pass medical liability reform, and do it soon. {APPLAUSE}
+
+A healthy, growing economy depends on affordable, reliable supplies of energy. We need to pass sound energy legislation that promotes efficient technology, conservation, and new production. It's time to make the U.S. less dependent on energy supplies from foreign countries. {APPLAUSE}
+
+We need to knock down trade barriers, open up new markets around the world for American farmers and ranchers and entrepreneurs and manufacturers. In 2003 exports from New Hampshire approached $2 billion -- more than twice the amount you exported just a decade ago. Exports from this state to Canada and Japan are strong. Exports to Mexico have risen. Exports to China rose more than threefold in the last four years. New Hampshire is selling what the world wants to buy. {APPLAUSE}
+
+In order to generate more jobs and maintain economic growth, we also need to create certainty in the tax code. Families and entrepreneurs need to be able to plan for the future. But under current law, many of the tax cuts we've passed are set to expire a few years down the road. We need to remove that uncertainty. For the sake of jobs, and for the sake of American families, Congress needs to make the Bush tax cuts permanent. {APPLAUSE}
+
+American workers and businesses welcomed President Bush's tax relief, and have put that money to good use by spending, saving, and creating new jobs. They've helped drive our economy forward, and are playing a crucial part in keeping America the most prosperous nation in the world. It's an honor to stand with the workers of this outstanding New Hampshire company. Once again, congratulations on your accomplishments, and good luck in the years to come. {APPLAUSE} 
+
+{/speech}

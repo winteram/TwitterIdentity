@@ -1,0 +1,30 @@
+﻿{title} President's Remarks in Aurora, MO on Anti-Terrorism Efforts {/title}
+{event} Aurora, Missouri {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 14, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} Excerpt from the President's Remarks in Aurora, Missouri {/description}
+
+{speech} 
+
+If the role of government is to create an environment in which people are willing to take risk, one of the things government must do is to work hard to create confidence in the people. And at this moment in history, the best thing I can do, along with my administration, in order to build the confidence of the American people, is to prevent the evil ones from hitting us again. {APPLAUSE}
+
+The best way to make sure this economy recovers, and people can find work is to have a homeland security system that runs down every hint that somebody might harm us; runs down every lead that we find. I want to assure you all that I spend a lot of time, as did my administration, on this top priority; that we're working with intelligence-gathering services from around the world to sniff out, to listen to, to find out who might be trying to harm us again.
+
+That we've got our law enforcement officers around our country -- at the federal, state and local level -- now understand that they must remain on alert, that there's still an enemy and we've got to stop them. The FBI's primary mission is homeland security, and we're working closely with folks in your communities to make sure that if there's any hint that somebody might try to harm America, that we're going to act, and act now, and bring them to justice.
+
+I'm proud of the efforts of many all around our country who are working endless hours to make America safe. But the best way to make America safe is to hunt the enemy down where he tries to hide and bring them to justice. And that's exactly what we're going to do. {APPLAUSE}
+
+I gave our military a mighty task, and they have responded. I want to thank those of you who have got relatives in the military -- a brother or a sister, or a son or a daughter, or a mom or a dad -- they have made me proud. And I hope they made you proud, as well. {APPLAUSE}
+
+We sent the military on a clear mission, and that is to bring the evil ones to justice. It's a mission, however, that I expanded to include this: that if you hide a terrorist, if you feed a terrorist, if you provide aid and comfort for a terrorist, you're just as guilty as the terrorist. {APPLAUSE} That's why the Taliban is no longer ruling Afghanistan.
+
+I think that one of the most joyous things for me is to see the faces of the Afghan women as they have been liberated from the oppression of the Taliban rule. Not only is our military destroying those who would harbor evil, destroying whatever military they had, destroying their defenses, but we're liberators. We're freeing women and children from incredible oppression. {APPLAUSE}
+
+The humanitarian aid workers are home -- as part of the conditions I laid down for the Taliban. The Taliban is in total rout. But we haven't completed our mission yet. And we're now at a very dangerous phase of the war in the first theater, and that is sending our boys and troops into the caves. You see, we're fighting an enemy that's willing to send others to death, suicide missions in the name of religion, and they, themselves, want to hide in caves.
+
+But you know something? We're not going to tire. We're not going to be impatient. We're going to do whatever it takes to find them and bring them to justice. They think they can hide, but they're not going to hide from the mighty reach of the United States and the coalition we have put together. {APPLAUSE}
+
+I see members of the FFA here. I want you to know that the cause that our military now wages is a just cause, it's an important cause; that I long for peace, but I also understand that this nation must lead the war against terror if you and your children and your grandchildren are going to grow up and understand the freedoms that we so enjoy in America. That if you and your children and grandchildren can grow up in a peaceful and hopeful world, now is the time for this country to lead. And lead we will. {APPLAUSE} 
+
+{/speech}

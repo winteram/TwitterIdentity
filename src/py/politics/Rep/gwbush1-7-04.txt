@@ -1,0 +1,45 @@
+﻿{title} President Commemorates 40th Anniversary of Civil Rights Act {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} July 1, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all for coming, and welcome to the White House. I am so pleased you could join us to celebrate a great anniversary of justice and equality in America. 
+
+I appreciate members of my Cabinet being here, and a lot of members of my administration. I want to thank many of our distinguished guests who have joined us today. I'm so pleased to see Dr. Dorothy Hite -- thank you so much for coming. {APPLAUSE} 
+
+We've got two Lieutenant Governors, Michael Steele and Jennette Bradley, with us. Thank you both for being here today. {APPLAUSE} Marc Morial -- where are you, Marc? He must be somewhere. There he is. Thanks for coming. {APPLAUSE} I didn't recognize you outside the "Big Easy." {LAUGHTER} 
+
+Lou Sullivan is with us. I'm honored you're here, Lou. Thanks for coming, sir. {APPLAUSE} My friend, Bob Woodson, President of the National Center for Neighborhood Enterprise, is here. Thanks for coming, glad you're here. {APPLAUSE} Bill Coleman, former Secretary of Transportation, I'm honored you're here. {APPLAUSE} Thurgood Marshall, Jr. is with us today. Thank you so much for being here. Appreciate -- I'm honored you're here. {APPLAUSE} It's pretty neat to have a great father, isn't it? {LAUGHTER ; APPLAUSE} 
+
+I'm going to save one announcement for a little later, special announcement. But I do want to recognize Jack Valenti, who was the Special Assistant to President Lyndon Johnson. Jack, we're honored you're here. Thank you for coming. {APPLAUSE} 
+
+Forty years ago, in many parts of America, basic rights were observed or denied based entirely on race. Offensive laws regulated every detail of society: where you can get your hair cut, which hospital ward you can be treated in, which park or library you could visit. A person looking for a job or even a place to stay the night could be turned away merely because the color of the skin. And that person had very little recourse under federal law. Forty years ago this week, that system of indignity and injustice was ended by the Civil Rights Act signed into law in this very room. {APPLAUSE} 
+
+As of July the 2nd, 1964, no longer could weary travelers be denied a room in a hotel or a table at a restaurant. No longer could any American be forced to drink from a separate water fountain or sit at the back of a bus just because of their race. All discrimination did not end that day, but from that day forward, America has been a better and fairer country. 
+
+Today we have here on display, outside this room, the first and last pages of the Civil Rights Act, and one of the pens that Lyndon B. Johnson used for the signature. That law was a long time in coming, and before it arrived, the conscience of America had to be awakened. That conscience was stirred by men and women who held sit-ins at lunch counters, who rode the buses on Freedom Rides, who endured and overcame the slurs and the fire hoses and the burning crosses. The conscience of America was outraged by the ambush of Medgar Evers, by kidnappings and terror bombings, and by the murder of four young girls in a church on a Sunday. Our nation's conscience was moved by hundreds of thousands who marched right here in the nation's capital to demand the full promise of the Declaration and America's founding law. 
+
+President John F. Kennedy heard the voices of the Reverend Dr. Martin Luther King, Jr., and others, and took up the challenge. Five months before his death, the President said our nation was confronted with a moral issue as old as the scriptures and as clear as the American Constitution, and he called on Congress to pass civil rights legislation. 
+
+After President Kennedy was assassinated, some wondered if the new President, a son of the south, would carry forward the work of civil rights. Very soon they would know the answer. During the Senate debate on the Civil Rights Act, one of the longest debates in Senate history, President Lyndon Johnson used all his powers of persuasion, and they were considerable. {LAUGHTER} No one escaped the LBJ treatment -- {LAUGHTER} -- not senators, not their staffs, not even their families. "It is said that when President Johnson called reluctant senators at home and a child answered, he would say, "Now you tell your daddy that the President called." {LAUGHTER} "And he'd be very proud to have your daddy on his side." {LAUGHTER} 
+
+It was more than the force of Johnson's personality that helped win the day, it was the force of President Johnson's conviction on behalf of a just cause. As a young man, he'd seen the ugly effects of discrimination. As President, he was determined to fight it by law, regardless of the political risk. One Southern senator warned him, "It's going to cost you the election." He replied, "If that's the price I've got to pay, I will pay it gladly." 
+
+Lyndon Johnson is known to history as the President who championed and signed the Civil Rights Act. And we recognize and remember the contributions of this strong Texan and great American. And we're honored to have his daughter, Luci Baines Johnson, with us today. We're honored you're here. Thanks for coming. I appreciate you coming. {APPLAUSE} 
+
+We also remember the legislators of both parties who worked tirelessly to bring the bill to passage -- in particular, Senators Mike Mansfield of Montana, Senator Edward Dirksen of Illinois, and Senator Hubert H. Humphrey of Minnesota. When it mattered most, these principled men rose to the responsibility of their time, and our nation honors them today. 
+
+After the Civil Rights Act became law, the change was felt immediately all across America. In 1964, Dale Long was a 12-year-old boy living in Birmingham, Alabama. One day, before the law was passed, Dale and his brother convinced their father to take them to a movie where blacks had to enter through an alley and could only sit in the upstairs balcony. "I could see the look of humiliation on my dad's face," he remembers. A few months after the Civil Rights Act, the Long brothers returned to that theater. As they remember it, they were with a friend. "We went to see a James Bond movie," Dale says, and this time they entered through the front door and sat where they pleased. 
+
+The indignity of Dale Long's first experience at that movie theater seems like something that happened many lifetimes ago. Yet, such experiences are within the living memory of millions of our citizens. These past four decades in American life give witness to the power of good laws to prevent injustice and encourage the finest qualities of our national character. 
+
+The Civil Rights Act of 1964 gives all Americans another reason to be proud of our country. The work of equality is not done because the evil of bigotry is not finally defeated. Yet the laws of this nation and the good heart of this nation are on the side of equality. And as Dr. King reminded us, "We must not rest until the day when justice rolls down like waters, and righteousness like a mighty stream." 
+
+I'm honored you all are here today. We'll have a reception on the other side of this beautiful house. Thank you for coming. May God continue to bless America. {APPLAUSE} 
+
+{/speech} 

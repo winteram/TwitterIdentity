@@ -1,0 +1,48 @@
+﻿{title} Mrs. Bush's Remarks at a Ray Meier for Congress Reception {/title}
+{event} Utica Hotel, Utica, New York {/event}
+{speaker} Laura Bush {/speaker}
+{date} September 26, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Ray, thank you for that very kind introduction. Thank you to each and every one of you for your warm welcome here in New York. I want to thank Ray's wife, Kim, who's here today. When your spouse is in politics, you're involved whether you want to be or not. {LAUGHTER} And Kim, I know you do a wonderful job of supporting Ray and standing with him every inch of the way. And believe me, we know that successful politicians have families who stand with them and who are always by their side. So thank you very much, Kim, for your support. And thanks to your other family members, your children and your parents who are out in the crowd, as well.
+
+I'm delighted to be with you today to support Ray Meier's campaign for the United States Congress. {APPLAUSE} Ray is right, what he said earlier about the great thing about politics, about running for office, is the friendships, the many, many friendships that you have the opportunity to make. And I know that Ray cares deeply about the people of New York. And in Washington, he'll be a powerful advocate for the 24th district. {APPLAUSE}
+
+Ray will bring to the House of Representatives the principles of efficiency and accountability that have defined his public service, ensuring that New York tax dollars are spent wisely and responsibly.
+
+Ray has already earned a national reputation for reforming New York State Medicaid and welfare systems. {APPLAUSE} During his five years as Oneida County Executive, he consistently proposed balanced budgets eliminating a $9 million deficit. As a state senator, Ray supported more than 270 tax-cutting measures in Albany. And in Washington, Ray will support President Bush's tax cuts. {APPLAUSE} These tax cuts have fueled our economy, and they've helped add 5.7 million new jobs since 2003. And that means 5.7 million more Americans wake up every morning with the dignity and sense of purpose that comes with a job. {APPLAUSE}
+
+There are few people more dedicated to creating jobs in New York than Ray. Senator Meier helped developed New York's Power for Jobs program, which offers incentives to businesses to move here and stay here by providing low-cost power to employers in New York State. And during the last round of base closings, Ray helped save Rome Labs, preserving almost 400 existing jobs, and attracting hundreds of new jobs to the Defense Finance and Accounting Services facility. {APPLAUSE}
+
+Offering young people the hope of good employment is one of the most important things we can do for our children. Another important way we can help our young people is by steering them away from dangerous behaviors and guiding them toward the knowledge and the self-respect they need to build successful lives.
+
+In his 2005 State of the Union address, President Bush announced the Helping America's Youth initiative, and he asked me to lead it. Helping young people learn to make wise decisions for their lives is at the heart of Helping America's Youth.
+
+Since the President announced the initiative, I've traveled to many parts of our country visiting with young people and with the adults who are so important to their lives. I've been to schools and after-school programs. I've visited fatherhood initiatives. I've met with mentors and Big Brothers and Big Sisters. I've visited gang intervention programs, where I've met with young people who are leaving gangs and finding jobs.
+
+All of these visits led to the White House Conference on Helping America's Youth last October, and then to two regional conferences in Indianapolis and Denver. At the conference, we introduced an online, interactive Community Guide. This guide helps concerned adults learn more about the problems facing youth in their own communities, and what local resources are available to address those problems. The guide is available at Helping America's Youth website, which is www.helpingamericasyouth.gov -- that's g-o-v. I encourage you to look at the website and to use these resources in your community.
+
+Ray has a long record of commitment to young people. In the State Senate, he's improved New York's school system through his service on the Education Committee. As chairman of the Senate's Committee on Social Services, Children and Families, Ray has sponsored legislation to better shield children from abuse, and to ensure that child welfare cases move more quickly through New York's court system.
+
+Senator Meier also supports increased federal funding for child care so that low-income mothers and fathers can provide for their families during the day without having to worry about the safety of their children. Thank you, Ray, for this important work. {APPLAUSE}
+
+We all know, though, that the well-being of young people in New York and throughout our country ultimately depends on our government's ability to protect them by defeating terrorism and increasing liberty abroad. Senator Meier appreciates the needs of our troops at this crucial time in our country's history. Ray was commissioned as an officer in the U.S. Army Reserves in 1974, and served until 1985. As a former chairman of the Senate Committee on Veterans and Military Affairs, Ray is a respected voice on the issues important to New Yorkers who have served our country in uniform. And in Congress, Ray will be a champion of the men and women of the United States military. {APPLAUSE}
+
+And thanks to the men and women of the United States military, the Iraqi people are now free from the oppression of Saddam Hussein, and they're working to build a democratic future for their country. {APPLAUSE} President Bush has pledged that the American people will stand with them as they build their democracy.
+
+And in Afghanistan, like Ray mentioned, women and girls can now be educated. It's hard for us to imagine a country that would prohibit half of its citizens from being educated, but now little girls are in school in Afghanistan. {APPLAUSE}
+
+All of us are so proud of the young men and women who are deployed around the world defending our country overseas to make sure that our families are kept safe here in the United States. {APPLAUSE}
+
+Ray's dedication to the people of New York and his achievements remind us of why he must be elected to the United States Congress. Ray understands that Americans face challenges too important to be reduced to simple politics. President Bush has an ambitious agenda for the rest of his time in Washington, and he takes his responsibility to the American people very seriously.
+
+Ending our dependence on foreign oil, reforming our immigration system, rebuilding the Gulf Coast, and keeping our country safe from terrorism are not easy tasks, but they are absolutely vital goals. To accomplish them, we must have serious national conversations, conducted with civility and respect. And Ray Meier will be a thoughtful, positive and powerful part of that dialogue. {APPLAUSE}
+
+This is just one reason why Ray is a wonderful leader for New York. When you look through his distinguished record of public service, you'll find many more.
+
+Thank you very much for coming out to support Ray. Thank you for your generous support for his election. And I urge you to redouble your efforts between now and November to make sure Ray Meier is elected to the United States Congress. Thank you all very much. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,28 @@
+﻿{title} Remarks by the Vice President and Mrs. Cheney Followed by Question and Answer at a Town Hall Meeting {/title}
+{event} Tallahassee-Leon County Civic Center, Tallahassee, Florida {/event}
+{speaker} Dick Cheney {/speaker}
+{date} October 6, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+How did I like my high school, and what am I doing to make it better. Well, I loved it. That's where I met my bride.
+
+{LAUGHTER} Lynne and I went to high school in Casper, Wyoming, went to public school. It was an excellent public school. And Wyoming, as you may know, is kind of sparsely populated. There aren't that many of us, and we're spread out over the countryside. And this was a high school that drew from the entire central part of the state, the students. So we had a fairly large high school that covered a very large area.
+
+But we had great teachers. We were the beneficiaries of a first-class education, the kind of education that every American ought to be able to get when they go to high school. And that's the kind of thing that the President and I want for all Americans, is to have public schools as good as the one Lynne and I went to.
+
+How do we do that? Well, the President's first priority when he got elected, legislatively, was what we call the No Child Left Behind Act. He had, while he was governor of Texas, firsthand experience at being concerned that we had a lot of failing schools out there, that in fact we were leaving children behind, that kids were being promoted from class to class without ever acquiring the basic skills they needed to be able to function effectively in this society. And so he worked to improve the schools in Texas, and he brought those same concepts to Washington. And his first piece of legislation, major piece of legislation we passed -- I think it was actually numbered HR1 -- was No Child Left Behind.
+
+And what it did was, it set standards and provided for testing so that we could know how individuals and individual schools are doing, and establish the basic fundamental principle of accountability in the public school system. This is for grades K through 8th grade. We, going forward, want to now take that concept and in a second term will do the same things that we've done with respect to the first eight grades with respect to high school. We want to take those same basic concepts and principles of testing and standards and accountability and apply it to high schools across the country. We think that's the right way to go to guarantee that everybody gets a shot at a first-rate education.
+
+The parents, for example, have the ability, if their kids are stuck in a failing school and they don't make progress in terms of improving performance, that they can move their kids to another school, or they can get tutoring that will help their children achieve the objectives, obviously, that they have for all of us. Whether we're talking about poverty, we're talking about jobs, we're talking about the health of our economy, or we're talking about just basic fundamental rights of Americans, every American, regardless of where they come from, or ethnicity, or their standard of living, to take advantage of the American Dream, to be able to pursue their hopes and dreams and aspirations for the future, to enjoy to the fullest extent possible the privilege of being an American, they need a first-rate education, and we're committed to providing it. {APPLAUSE}
+
+I want to thank all of you for being here this morning. It's been a great session. We enjoyed it very much. I'd like to stay longer, but you had so many hurricanes here over the course of the last six weeks, I guess it is, that we've had to cancel visits all over the state, so we've got a lot of time -- lost time to make up for.
+
+Let me say, by the way, one of the things that we've been tremendously impressed with, and I think all Americans have been impressed with, is the way the people of Florida have responded to crisis after crisis as those hurricanes blew through. We want to make certain we do everything that helps as appropriate in terms of getting everybody here in Florida back on their feet. But we've been tremendously impressed with the courage and the way you've dealt with adversity. It's really been remarkable.
+
+Thank you all very much. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,89 @@
+﻿{title} Remarks by the President at Human Rights Campaign Dinner {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 8, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Well, you have just made me feel the way I did -- 
+
+{AUDIENCE-MEMBER} We love you, Bill. {/AUDIENCE-MEMBER} {APPLAUSE} 
+
+Thank you. I sort of feel the way I did when I made my very first speech as a public official more than 20 years ago now. You know, Elizabeth just stood up here and gave that magnificent speech. Wasn't she great? {APPLAUSE} And she actually said about everything that could be said. {LAUGHTER} And then you gave me this wonderful welcome, which makes me reluctant to say anything. {LAUGHTER} 
+
+And I was sitting up here -- I was thinking, somehow flashing back to my mind, this reminded me of a Rotary Club banquet I spoke at. {LAUGHTER ; APPLAUSE} And I'll tell you why. Here's what happened. Only the punch line is the same, but you'll have to listen to this. 
+
+I had just taken office as Attorney General almost 21 years ago, and they asked me to speak to this Rotary Club banquet. And there were 500 people there. The dinner started at 6:30. I didn't get up to speak till a quarter to 10:00. {LAUGHTER} Everybody that was at this banquet got introduced but three people and they went home mad. {LAUGHTER} The guy who got up to introduce me was so nervous he didn't know what to do. And we had been there forever, and he finally said -- and he didn't mean it this way, but here's what he said, he said, in my introduction, he said, you know, we could have stopped here and have had a very nice evening. {LAUGHTER ; APPLAUSE} And we could have stopped with the applause and Elizabeth's speech and had a great evening. 
+
+I'm delighted to be here. {APPLAUSE} I thank the members of Congress who are here. I congratulate your honorees. I know that a number of my recent appointees are here, including Virginia Apuzzo, our new Assistant for Management and Administration. {APPLAUSE} Fred Hochberg, John Berry, Jim Hormel. Where's Jim Hormel? He's here. {APPLAUSE} Jesse White. {APPLAUSE} Hal Creal. 
+
+Now, Hal Creal is now the most popular person I have appointed in the Congress because the Maritime Commission broke the impasse on the Japanese ports, which destroys another stereotype here. I am so grateful for what they did, and a lot of Americans are going to have a decent income because of it, and I want to thank him for that. {APPLAUSE} 
+
+We have a lot of people here from the White House as well. I want to thank Richard Socarides, Marsha Scott, Karen Tramantano, Sean Maloney, Tom Shea, and our AIDS czar, Sandy Thurman -- {APPLAUSE} -- for all their work. 
+
+And because it's dark here, I would like to ask everyone who works for this administration in any department of the federal government or who has an appointment in any way to please stand, including the White House. {APPLAUSE} Thank you. 
+
+A little more than six years ago, I had this crazy idea that I ought to run for President. {LAUGHTER} Only my mother thought I could win. {LAUGHTER} And at the time, I was so obsessed with what I thought had to be done I thought winning would take care of itself. What bothered me was that our country seemed to be drifting and divided as we moved into a new and exciting and challenging area where we were living differently, working differently, relating to each other and the rest of the world in very different ways on the edge of a new century. 
+
+And I sat down alone before I decided to do this and asked myself, what is it that you want America to look like when you're done if you win? My vision for the 21st century, now, I have said hundreds and hundreds of times, but I still think about it every day -- I want this to be a country where every child and every person who is responsible enough to work for it can live the American dream. {APPLAUSE} I want this country to embrace the wider world and continue to be the strongest force for peace and freedom and prosperity, and I want us to come together across all our lines of difference into one America. 
+
+That is my vision. It drives me every day. I think if we really could create a society where there is opportunity for all and responsibility from all and we believed in a community of all Americans, we could truly meet every problem we have and seize every opportunity we have. 
+
+For more than two centuries now, our country has had to meet challenge after challenge after challenge. We have had to continue to lift ourselves beyond what we thought America meant. Our ideals were never meant to be frozen in stone or time. Keep in mind, when we started out with Thomas Jefferson's credo that all of us are created equal by God, what that really meant in civic political terms was that you had to be white, you had to be male, and that wasn't enough -- you had to own property, which would have left my crowd out when I was a boy. {LAUGHTER ; APPLAUSE} 
+
+Over time, we have had to redefine the words that we started with, not because there was anything wrong with them and their universal power and strength of liberty and justice, but because we were limited in our imaginations about how we could live and what we were capable of and how we should live. Indeed, the story of how we kept going higher and higher and higher to new and higher definitions -- and more meaningful definitions -- of equality and dignity and freedom is in its essence the fundamental story of our country. 
+
+Fifty years ago, President Truman stood at a new frontier in our defining struggle on civil rights. Slavery had ended a long time before, but segregation remained. Harry Truman stood before the Lincoln Memorial and said, "It is more important today than ever to ensure that all Americans enjoy the rights of freedom and equality. When I say all Americans, I mean all Americans." {APPLAUSE} 
+
+Well, my friends, all Americans still means all Americans. {APPLAUSE} We all know that it is an ideal and not perfectly real now. We all know that some of the old kinds of discrimination we have sought to rid ourselves of by law and purge our spirits of still exist in America today. We all know that there is continuing discrimination against gays and lesbians. But we also know that if we're ever going to build one America, then all Americans -- including you and those whom you represent -- have got to be a part of it. {APPLAUSE} 
+
+To be sure, no President can grant rights. Our ideals and our history hold that they are inalienable, embedded in our Constitution, amplified over time by our courts and legislature. I cannot grant them -- but I am bound by my oath of office and the burden of history to reaffirm them. 
+
+All America loses if we let prejudice and discrimination stifle the hopes or deny the potential of a single American. All America loses when any person is denied or forced out of a job because of sexual orientation. Being gay, the last time I thought about it, seemed to have nothing to do with the ability to read a balance book, fix a broken bone, or change a spark plug. {APPLAUSE} 
+
+For generations, the American Dream has represented a fundamental compact among our people. If you take responsibility and work hard, you have the right to achieve a better life for yourself and a better future for your family. Equal opportunity for all, special privileges for none -- a fate shared by Americans regardless of political views. We believe -- or we all say we believe -- that all citizens should have the chance to rise as far as their God-given talents will take them. What counts is energy and honesty and talent. No arbitrary distinctions should bar the way. 
+
+So when we deny opportunity because of ancestry or religion, race or gender, disability or sexual orientation, we break the compact. It is wrong. And it should be illegal. {APPLAUSE} Once again I call upon Congress to honor our most cherished principles and make the Employment Non-Discrimination Act the law of the land. {APPLAUSE} 
+
+I also come here tonight to ask you for another favor. Protecting the civil rights of all Americans -- 
+
+{AUDIENCE-MEMBER} People with AIDS are dying. {/AUDIENCE-MEMBER} 
+
+{AUDIENCE} Sit down. {/AUDIENCE} 
+
+Wait, wait, wait. I would have been disappointed if you hadn't been here tonight. I'm kind of used to this. {APPLAUSE} People with AIDS are dying. But since I've become President we're spending 10 times as much per fatality on people with AIDS as people with breast cancer or prostate cancer. {APPLAUSE} And the drugs are being approved more quickly. And a lot of people are living normal lives. We just have to keep working on it. {APPLAUSE} 
+
+I thank you, but this, too, is part of what makes America great. {APPLAUSE} We all have our say, and nobody has to be afraid when he or she screams at the President. {LAUGHTER} That's a good thing. That's a good thing. {APPLAUSE} And at a time when so many people feel their voices will never be heard, that's a good thing. 
+
+{AUDIENCE-MEMBER} {COMMENT="Inaudible"} {/AUDIENCE-MEMBER} 
+
+{BOOING} 
+
+What is not a good thing, however, is when people believe their free speech rights trump yours. That's not good. That's not. {APPLAUSE} 
+
+Now, I want to ask you for a favor. You want us to pass the Employment Non-Discrimination Act. You know when we do -- and I believe it will pass -- you know when we do it will have to be enforced. The law on the books only works if it is also a law in the life of America. 
+
+Let me say, I thank you very much for your support of my nominee for the Office of Civil Rights, Bill Lee. I thank you for that. {APPLAUSE} But he, too, comes from a family that has known discrimination and now he is being discriminated against, not because there is anything wrong with his qualifications, not because anybody believes he is not even-tempered, but because some members of the Senate disagree with his views on affirmative action. 
+
+Now, if I have to appoint a head of the office of civil rights who is against affirmative action -- {LAUGHTER} -- it's going to be vacant a long time. {LAUGHTER ; APPLAUSE} That office is not there to advocate or promote -- primarily to advocate or promote the policies of the government when it comes to affirmative action; it's there to enforce the existing laws against discrimination. You hope someday you will have one of those existing laws. We need somebody to enforce the laws, and Bill Lee should be confirmed, and I ask you to help me to get him confirmed. {APPLAUSE} 
+
+I'd like to say just one more word. There are some people who aren't in this room tonight who aren't comfortable yet with you and won't be comfortable with me for being here. 
+
+{AUDIENCE-MEMBER} We love you, Bill. {/AUDIENCE-MEMBER} {APPLAUSE} 
+
+Wait a minute. This is serious. On issue after issue involving gays and lesbians, survey after survey shows that the most important determinant of people's attitudes is whether they are aware -- whether they knowingly have had a family or a friendship or a work relation with a gay person. {APPLAUSE} 
+
+Now, I hope that we will embrace good people who are trying to overcome their fears. After all, all of us can look back in history and see what the right thing to do was. It is quite another thing to look ahead and light the way. Most people are preoccupied with the burdens of daily living. Most of us, as we grow older, become -- whether we like it or not -- somewhat more limited in our imaginations. So I think one of the greatest things we have to do still is just to increase the ability of Americans who do not yet know that gays and lesbians are their fellow Americans in every sense of the word to feel that way. {APPLAUSE} I think it's very important. 
+
+When I say, "I believe all Americans means all Americans," I see the faces of the friends of 35 years. When I say, "all Americans means all Americans," I see the faces of the people who stood up when I asked the people who are part of our administration to stand tonight. When I say, "all Americans means all Americans," I see kind, unbelievably generous, giving people back in my home state who helped my family and my friends when they were in need. It is a different story when you know what you are seeing. 
+
+So I say to you tonight, should we change the law? You bet. Should we keep fighting discrimination? Absolutely. Is this Hate Crimes Conference important? It is terribly important. But we have to broaden the imagination of America. We are redefining, in practical terms, the immutable ideals that have guided us from the beginning. Again I say, we have to make sure that for every single person in our country, all Americans means all Americans. 
+
+After experiencing the horrors of the Civil War and witnessing the transformation of the previous century, Walt Whitman said that our greatest strength was that we are an embracing nation. In his words, a "Union, holding all, fusing, absorbing, tolerating all." Let us move forward in the spirit of that one America. Let us realize that this is a good obligation that has been imposed upon our generation, and a grand opportunity once again to lift America to a higher level of unity, once again to redefine and to strengthen and to ensure one America for a new century and a new generation of our precious children. 
+
+Thank you and God bless you. {APPLAUSE} 
+
+{/speech} 

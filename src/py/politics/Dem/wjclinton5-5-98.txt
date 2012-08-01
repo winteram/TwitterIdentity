@@ -1,0 +1,51 @@
+﻿{title} Remarks by the President at Ronald Reagan Building Dedication {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 5, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Mrs. Reagan, Mr. Barram, Secretary Daley, Senator Moynihan, Delegate Norton, Senator Dole, Senator Lott, all the members of Congress and the Diplomatic Corps who are here; Mr. Mayor, Secretary Schultz and General Powell, and all the former members of the Reagan administration who are here and enjoying this great day; to Maureen and the friends of President and Mrs. Reagan who are here: I'd like to begin by thanking Jim Freed and his team for a magnificent building. I think we all feel elevated in this building today. {APPLAUSE} 
+
+I also want to say on behalf of Hillary and myself a special word of appreciation to Mrs. Reagan for being here. From her own pioneering efforts to keep our children safe from drugs to the elegance and charm that were the hallmarks of the Reagan White House, through her public and brave support for every family facing Alzheimer's, she has served our nation exceedingly well. And we thank her. {APPLAUSE} 
+
+The only thing that could make this day more special is if President Reagan could be here himself. But if you look at this atrium, I think we feel the essence of his presence: his unflagging optimism, his proud patriotism, his unabashed faith in the American people. I think every American who walks through this incredible space and lifts his or her eyes to the sky will feel that. 
+
+As Senator Moynihan just described, this building is the completion of a challenge issued 37 years ago by President Kennedy. I ought to say, and doggedly pursued for 37 years by Senator Moynihan. {LAUGHTER ; APPLAUSE} I must say, Senator, there were days when I drove by here week after week after week and saw only that vast hole in the ground, when I wondered if the "Moynihan hole" would ever become the Reagan Building. {LAUGHTER} But, sure enough, it did, and we thank you. 
+
+As you have heard, this building will house everything from an international trade center to international cultural activities to the Agency for International Development to the Woodrow Wilson Center for Scholars. It is fitting that the plaza on which we gather bears the name of President Wilson. And it is fitting that Presidents Wilson and Reagan are paired, for their work and, therefore, the activities which will be culminated in this building span much of what has become the American Century. 
+
+Since President Reagan left office, the freedom and opportunity for which he stood have continued to spread. For half century, American leaders of both parties waged a cold war against aggression and oppression. Today, freed from the yolk of totalitarianism, new democracies are emerging all around the world, enjoying newfound prosperity and long-awaited peace. More nations have claimed the fruits of this victory -- free markets, free election, plain freedom. And still more are struggling to do so. 
+
+Today, we joy in that, but we cannot -- indeed, we dare not -- grow complacent. Today, we recall President Reagan's resolve to fight for freedom and his understanding that American leadership in the world remains indispensable. It is fitting that a piece of the Berlin Wall is in this building. America's resolve and American ideals so clearly articulated by Ronald Reagan helped to bring that wall down. 
+
+But as we have seen repeatedly in the years since, the end of the Cold War did not bring the end of the struggle for freedom and democracy, for human rights and opportunity. If the history of this American century has taught us anything, it is that we will either work to shape events, or we will be shaped by them. We cannot be partly in the world. We cannot lead in fits and starts or only when we believe it suits our short-term interests. We must lead boldly, consistently, without reservation, because, as President Reagan repeatedly said, freedom is always in America's interests. 
+
+Our security and prosperity depend upon our willingness to be involved in the world. Woodrow Wilson said that Americans were participants in the life of the world, like it or not. But his countrymen did not listen to him, and as a result, there came a great Depression, the rise of fascism, the second world war. Our nation then learned we could not withdraw from the world. 
+
+Then a new generation of Americans reach outward in the years after World War II, building new alliances of peace and new engines of prosperity -- NATO, the United Nations, the IMF, the International Trading System. It is no accident that during this period of great American leadership abroad we experienced unparalleled economic prosperity here at home. And it is no accident that freedom's great triumph came on America's watch. 
+
+Today on the edge of a new century, the challenges we face are more diverse. But the values that guide America must remain the same. The globalization of commerce and the explosion of communications technology do not resolve all conflicts between nations. Indeed, they create new challenges. They do not diminish our responsibility to lead, therefore, instead they heighten it. Because today's possibilities are not tomorrow's guarantees, we must remain true to the commitment to lead, that every American leader of both parties, especially Ronald Reagan and Woodrow Wilson, so clearly articulated in this 20th century. 
+
+For 50 years we fought for a Europe undivided and free. Last week the United States Senate took a profoundly important step toward that goal by welcoming Poland, Hungary and the Czech Republic into NATO, an achievement I believe that would make Ronald Reagan proud. The alliance that helped to keep the peace for half century now brings us closer than ever to that dream of a Europe united, democratic and at peace. 
+
+Now Congress has other opportunities to fulfill the spirit and honor the legacy of the man whose name we affix to this building today. Congress has the opportunity to maintain our leadership by paying for our support to the IMF and settling our dues to the United Nations. I hope they will do it. 
+
+President Reagan once said we had made what he called an unbreakable commitment to the IMF, one that was unbreakable because in this age of economic interdependence an investment in the IMF is simply an investment in American prosperity. And we fought for 50 years for peace and security as part of the United Nations. 
+
+In 1985, Ronald Reagan said the U.N. stands as the symbol of the hopes of all mankind for a more peaceful and productive world. We must not, he said, disappoint those hopes. We still must not disappoint those hopes. President Reagan understood so clearly that America could not stand passively in the face of great change. He understood we had to embrace the obligations of leadership to build a better future for all. The commerce that will be conducted in this great building will be a testament to the opportunities in a truly global economy America has done so much to create. 
+
+The academic and cultural activities that will be generated from people who work here will bring us closer together as well. Because the agency for International Development will be here, we will never forget that the spark of enterprise and opportunity should be brought to the smallest, poorest villages in the world. For there, too, there are people of energy, intelligence, and hunger for freedom. 
+
+This is a great day for our country. This is a day of honoring the legacy of President Reagan, remembering the service of President Wilson, and rededicating ourselves to the often difficult but ultimately always rewarding work of America. 
+
+As I stand within the Reagan Building I am confident that we will again make the right choices for America, that we will take up where President Reagan left off -- to lead freedom's march boldly into the 21st century. 
+
+Thank you and God bless you. {APPLAUSE} 
+
+
+
+{/speech} 

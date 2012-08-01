@@ -1,0 +1,36 @@
+﻿{title} President Celebrates Black Music Month at the White House {/title}
+{event} The East Room {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 6, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. Welcome to the White House. Laura and I are honored to have some of the country's finest entertainers with us tonight. {APPLAUSE} We're here to celebrate Black Music Month, and we thank you all for coming.
+
+For decades, Presidents have taken pride in welcoming black musicians to play in this house -- and the performers seem to enjoy this place when they come. {LAUGHTER} One of the greatest black musicians to visit the White House was Dizzy Gillespie. He liked it so much here he became a write-in candidate for President back in 1964. {LAUGHTER} His platform included jazz in schools and Miles Davis as the head of the CIA. {LAUGHTER} I'm not making that up. {LAUGHTER}
+
+Teresa, thank you very much for emceeing this event. I really thank our entertainers, you were great. Thank you for filling this house -- {APPLAUSE} I want to thank the members of my Cabinet who have joined us. I appreciate Senator George Allen from Virginia, and Congressman Bobby Scott, from Virginia, for joining us, as well. {APPLAUSE} A lot of distinguished Americans here, and I'm really glad you're here. Welcome.
+
+Each June, we honor the great contributions that black musicians have made to America and to the world. The music of African American artists has enhanced our lives and created some of the nation's most treasured art forms, and that's why we celebrate this month. From Gospel music to blues to jazz to rock and roll, the songs of America's black musicians have defined their times and have enriched our culture.
+
+It's hard to imagine America without the genius of Louis Armstrong and Dizzy Gillespie, the voices of Lena Horn and Diana Ross and Ella Fitzgerald, and so many others. We just can't envision our country without those voices. Their achievements remind us that our diversity makes our country strong.
+
+The artists we celebrate this month use music to lift the human spirit. Black music in America began with the work songs and spirituals of people held in slavery. Their songs bore witness to cruelty and earthly injustice. And yet in them we hear the voice of faith lifted up to God. That music could have come only from the unique experience of African Americans, yet it speaks a language that all Americans understand.
+
+The Psalms tell us to "make a joyful noise unto the Lord." You lived up to the Psalms. {LAUGHTER ; APPLAUSE} Smokie, Mary Mary, and Donnie understand that part of the Gospel. {LAUGHTER} These Gospel artists have found a modern audience for a timeless music, and they have never forgot their purpose. Pastor Donnie likes to say that "if you ever want to get anybody in touch with God, sing to them." He has a whole congregation on Long Island saying "Amen" when he sings -- kind of like he had in the White House. {LAUGHTER}
+
+At its best, music speaks to every heart -- and some moving performances by black musicians have happened right here at the White House. You just witnessed one. {APPLAUSE}
+
+In 1882, a black choir called the Fisk Jubilee Singers moved President Arthur to tears with their performance of "Safe in the Arms of Jesus." Sissieretta Jones, the daughter of a slave, sang opera here in the White House for President Benjamin Harrison. In 1939, Marian Andersen performed Ave Maria for Franklin Roosevelt -- right here in this room. President Roosevelt said that "music can make us all more vividly aware of the common humanity which is ours." Let history record you had me jumping in my seat. {LAUGHTER ; APPLAUSE} 
+
+Throughout our history, African American artists have created music with the power to change hearts and reshape our national conscience. The songs of black musicians heralded social change. Music like jazz and blues communicated across racial barriers. That music began in America's country churches, and urban clubs of Chicago, New Orleans and Harlem. Today it is cherished here at home, and around the world.
+
+And our black musicians continue to inspire us and bring us together. Across the country, American cities and towns will celebrate Black Music Month with their own festivals. We're just a small part of a larger celebration. From The Chicago Blues Festival to the B.B. King Homecoming Festival in Mississippi to the JVC Jazz Festival in New York City, people of all races and ages and creeds will come together on warm June nights to celebrate these musicians and their music.
+
+Today, African American artists have continued to set standards of originality and creativity. The incredible talents of black musicians keep lifting their art, and lifting the souls of America. We heard that talent today. We're grateful to all the black musicians who have brought such beauty and pride to our country. And we're grateful to you all.
+
+May God bless you all. {APPLAUSE} 
+
+{/speech}

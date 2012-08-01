@@ -1,0 +1,44 @@
+﻿{title} Remarks by the Presidentto the People Of Ukraine {/title}
+{event} Speech by President to the People of Ukraine {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 5, 2000 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I believe we should give a round of applause to Natalia and Kateryna. They were fabulous. Didn't they give a good -- {APPLAUSE} -- they are a great representative of the young people of Ukraine. {APPLAUSE} Let me also thank the representatives of your government who came here with me today -- Deputy Head of Presidential Administration Rohovyi, Foreign Minister Tarasyuk. I'd like to thank Mayor Omelchenko and Patriarch Filaret, and all the distinguished representatives of the Ukraine government who have joined me and the Secretary of Energy and my National Security Advisor and our two Ambassadors for a good day of meetings.
+
+I thank all of you for coming out here on this beautiful day. I am honored to be in Kiev again, to come to the cradle of Ukrainian culture, to pay respects to Ukraine's ancient and glorious past, and to tell you America will stand by you as you fight for a free and prosperous future. {APPLAUSE}
+
+Here in this historic and beautiful square, you can see for a thousand years. Before me, the magnificent St. Sophia's Cathedral, built by Prince Yaroslav in the 11th century. And behind me, the beautiful and reborn St. Michael's Monastery, built by his grandson, with a stunning cathedral built since the last time I was here. Between them, statues of Saints Olga and Andrew, Cyril and Methodius, all proof of your extraordinary artistic and cultural accomplishments.
+
+Sadly, the people who created and cherished these treasures suffered deeply. I am honored to have laid a wreath of flowers at the memorial to the millions who perished in the forced famine of the 1930s. Ukraine has endured oppressors who carved up your lands, banned your books, starved your children, purged your writers, enslaved your workers, plundered your art, stole your rich soil, and forbade you even to talk about the tragedy of the famine.
+
+Today, the oppressors are gone. Stalin is gone. The Nazis are gone. The Soviet Union is gone. Russia is working to build a new society. But you, the people of Ukraine, you are still here, stronger than ever. {APPLAUSE} You are reclaiming your land, uniting your people, restoring your culture and raising your children in freedom and democracy. You are fulfilling the longing of your ancestors. You are building a free, sovereign and independent Ukraine. {APPLAUSE}
+
+I know you have faced disappointments, and your dream is not complete. You have your vote, but you may ask, will it lead to have a real, positive impact. You have your freedom, but you may ask, will it lead to a better future.
+
+I ask you to look around you. From Lithuania to Poland to the Czech Republic, those who chose open societies and open markets like you, started out with sacrifice, but they ended up with success. I have not lived what you have lived. I am an American, not an Ukrainian. I cannot tell you how to build your future. But I do believe this: I believe Ukraine has the best opportunity in a thousand years to achieve both freedom and prosperity. {APPLAUSE}
+
+You are on your way. President Kuchma has helped to pass a strong budget. He has moved to give people their own land, to reform the old government bureaucracy, to privatize new businesses in accord with international standards, and he has appointed a strong Prime Minister. But, my friends, you, too, must be strong leaders. You must encourage the government. You must exhort the Rada. You must build a free and prosperous Ukraine. Do not give up. Keep on fighting. Boritesya Poborete. {APPLAUSE}
+
+There will be obstacles. I know some in Ukraine want to discourage foreign investment; they oppose free markets. But that thinking is lost in the past. {APPLAUSE} But I ask you, look around the world today. The nations with the highest standards of living, the greatest security, the lowest poverty are free-market democracies. People who trade and invest in one another.
+
+Communism has lost in Ukraine, but a full commitment to free-market democracy has not yet won. If your children are to live their dreams, it must win. So again I ask you, do not give up. Keep on fighting. Boritesya Poborete. {APPLAUSE}
+
+America needs a strong, prosperous and democratic Ukraine as a partner. Together we have made the whole world safer from the risk of nuclear war. Our soldiers are serving together with courage and pride in missions of peace. There is so much more we can do together. We can explore the frontiers of science and space; increase our efforts to protect the environment, fight disease, defeat terrorism; and promote democracy, prosperity, and peace. These are challenges all nations face, and no nation can meet alone. {APPLAUSE}
+
+And so I say again, let us meet them together. We must not give up. We must keep on fighting. Boritesya Poborete. {APPLAUSE}
+
+America believes Ukraine has a right to a place among the nations of Europe. No one must take that right away from you. We reject the idea that the Eastern border of Europe is the Western border of Ukraine. Of course, your future is your own choice. But we can, and we will, keep the door to the transatlantic community of democracies open to Ukraine. {APPLAUSE}
+
+Ukraine has so much of what it takes to succeed in the global information age -- strong universities, an educated society and partners willing to stand with you. All you need now is to stay on course and pick up speed. Open the economy; strengthen the rule of law; promote civil society; protect the free press; break the grip of corruption. {APPLAUSE}
+
+In Ukraine, I understand you have a saying: "He who is an hour late will spend a year catching up." People of Ukraine: Seize this moment now, for your nation and your children. And so I say for the last time, Boritesya Poborete. {APPLAUSE}
+
+In the cathedrals around me, I see Ukraine's past. In the faces of all the young people before me, I see Ukraine's future. It is a promising future. You have kept alive your language, your unity, your dream of independence for a thousand years. You have what it takes to build the future of your dreams. Your parents battled tyranny to help you win your freedom. Now, you must use your freedom to make sure you and your children prosper in peace. America is your friend and your partner. {APPLAUSE}
+
+Again, I thank you for coming to be with me today. Again, I say America will be with you all the way. God bless you. Slava Ukrainiy. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,43 @@
+﻿{title} Campaign Snapshot: Kerry {/title}
+{event} ----- {/event}
+{speaker} John Kerry {/speaker}
+{date} December 24, 2003 {/date}
+{source} http://www.pbs.org/newshour {/source}
+{description} The latest snapshot from the 2004 campaign trail is from Sen. John Kerry, D-Mass., who previously spoke to voters in Salem, N.H. {/description}
+
+
+{speech} 
+
+Ladies and gentlemen, let me tell you something, this campaign is moving and I can feel in the last days that people are beginning to stop and question and they're asking: "Who can be president of the United States of America?" Who's ready to step into those shoes? Who's got the experience? Who knows how to make America safer? Don't look at the polls. There you are, shaking your head. 
+
+How many times has New Hampshire moved 20 or 30 points in three weeks when people start to pay attention. This race doesn't begin until people make up their minds and it doesn't end until the votes are counted on Jan. 27. {APPLAUSE} 
+
+Old George Bush thinks he can play "dress up" on an aircraft carrier. And he thinks he can stand in front of a big sign that says "mission accomplished." And he thinks that people in the United States aren't going to notice what's happening -- that every minute two people are losing their jobs; that every single day we're adding a billion dollars to our deficit of our country. And these kids are having debt piled up on them. 
+
+They think that they won't notice that all across America people are feeling the result of outsourcing, as jobs are going to India, to China, and we're not creating the jobs to replace them. George Bush has the worst jobs record of any president since Herbert Hoover. Let's measure "mission accomplished." Measure it for a moment. 
+
+When it comes to the wealthiest people in America, who got yet another tax cut; when it comes to the polluters who walk into the White House front door, back door and have secret meetings with the president of the United States and write the energy policy of America; when it comes to all that and more, George Bush can stand up and say mission accomplished. 
+
+But when it comes to jobs; when it comes to health care; when it comes to children; when it comes to keeping the promise of "leave no child behind;" when it comes to the environment and living up to our generational responsibility, it's not only not mission accomplished, it's mission not even attempted. 
+
+It's mission abandoned. I believe this president doesn't have the experience to be commander in chief. He has overextended the troops of our nation. He's turned the reserves into active duty. He has in fact made the United States of America less safe in the world as a whole, because he's creating terrorists where they weren't and because he has left our allies and our relationships in tatters across the planet. {APPLAUSE} 
+
+When I'm president of the United States, I'm going back to the United Nations on behalf of you and our country. And within weeks of being sworn in, I'm going to turn over a proud new chapter in America's relationship with the world {APPLAUSE} that opens up our relationships and makes us safer. {APPLAUSE} 
+
+Let me ask you a simple question: Next summer, when there's an international crisis, what do you think is going to happen if we don't have a nominee who can't stand face-to-face, and toe-to-toe and eye-to-eye and point out to this president with credibility, how you really make America safe. Ladies and gentlemen, I know something about aircraft carriers for real. {APPLAUSE} 
+
+And I'm ... and if George Bush wants national security to be the central issue of this campaign, then I have three words for him that he used inappropriately and I use appropriately that I know he understands: "Bring it on." {APPLAUSE} 
+
+That's a fight I want to have. That's a fight I'm ready to have. {APPLAUSE} 
+
+Let me just say to all of you: There's an enormous agenda in front of us. I am running not just for the presidency of the United States, but because of the great role that we play as a nation on this planet, we are also the leader of the free world. 
+
+And I believe it is important to elect somebody who has shown the quality of leadership throughout a lifetime that can challenge our nation and the rest of the world to do the things we know we need to do. 
+
+If you were hiring somebody to build your house, you wouldn't hire someone who hadn't built a house. And if you were hiring somebody to run your school, you'd find somebody who was an expert in education. 
+
+We're about to elect the leader of the free world, and I believe that George Bush has proven beyond any reasonable doubt, that after Sept. 11, the presidency is not the place for on-the-job training for national security. {APPLAUSE} And we need to offer answers, not just anger. 
+
+We need to offer solutions, not just slogans. So I say to you in New Hampshire, on Jan. 27 when you go to those polls, don't just go there to send America a message. Go there and send America a president of the United States, because that's what we need. {APPLAUSE} 
+
+{/speech} 

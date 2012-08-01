@@ -1,0 +1,30 @@
+﻿{title} Remarks by the President, the First Lady, the Vice President, Mrs. Gore and Dr. C. Everett Koop to Physicians and Supporters {/title}
+{event} The East Room {/event}
+{speaker} Hillary Rodham Clinton {/speaker}
+{date} September 20, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning, and thank you all -- please be seated -- for joining us. We were talking so much with Dr. Koop in the back, none of us heard our names. {LAUGHTER} And so that's one of the reasons we were a little bit slow getting here.
+
+I want to welcome you to the White House. I want to thank you for coming and being part of this process that we believe will lead to the kind of reforms in our health care system that many of you have talked about, have spoken about, and have actually done in the practices you have, in the centers in which you practice, at the medical schools that you direct. And it is a particularly exciting moment for all of us to be on the brink of what we hope will be the kind of changes that will assure health security to every American and give opportunities, again, to physicians and nurses and those on the front lines of health care to make the decisions about what needs to be done for the patients in our country.
+
+I want to acknowledge Secretary Donna Shalala who is here. {APPLAUSE} She's not only doing an excellent job at HHS, there are some who will argue that she may be the best golfer in the administration. {LAUGHTER} She played with the President last weekend.
+
+Also Dr. Joycelyn Elders, our newly confirmed Surgeon General is back there. {APPLAUSE} I think when it comes to prevention and communicating with large groups of Americans who have not been part of the health care system but need to be for their own and their families well-being, Dr. Elders will be an extraordinary voice.
+
+Dr. Phil Lee, the longtime advocate for -- {APPLAUSE} -- for better health care for Americans. We enticed him out of his position, which I think he thought was a position he would not move from in California to come back. And I personally have been very grateful for Dr. Lee's counsel and advice throughout this process.
+
+Ira Magaziner, Dr. Judy Feder, others who are here. Judy and Ira, if you would stand. {APPLAUSE} The team that they have put together, thanks to many of your institutions, which as several of the deans of the medical schools have told me, have meant you've lost people for long periods of time to be part of this process. We are very grateful.
+
+I also want to thank the chairs of the Health Professions Review Group, Dr. Steve Gleason and Dr. Irwin Redlener, if you would stand please. {APPLAUSE}
+
+And there are many others who are in this room who have been such great helps to us and will continue to be as we move forward. I'm particularly pleased that an old friend of mine, Dr. Terry Brazelton would be here. Dr. Brazelton, who gives the kind of -- {APPLAUSE} -- gives the kind of confidence to young mothers that Dr. Spock used to give to mine and that many of you have given. And we're very grateful for that.
+
+We want to spend a few minutes this morning talking about where we go and how we get there and how we hope all of you will be involved in this process. And I would like to introduce the Vice President to say a few words about the way this relates to what we're doing across the board in the administration.
+
+Vice President Al Gore. {APPLAUSE} 
+
+{/speech}

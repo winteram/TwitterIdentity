@@ -1,0 +1,54 @@
+﻿{title} President Delivers Commencement Address at Louisiana State {/title}
+{event} Remarks by the President at the Louisiana State University Commencement, Pete Maravich Assembly Center, Louisiana State University, Baton Rouge, Louisiana  {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 21, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all very much. Chancellor Emmert, and President Jenkins, and Chairman Ogden, members of the Congress, members of the faculty, trustees, families, distinguished guests, and members of the class of 2004. {APPLAUSE} I want to thank you for the warm welcome. It's great to be in the -- on this wonderful campus. I'm honored to be with you on graduation day, as all of you become proud alumni of Louisiana State University. {APPLAUSE}
+
+As you graduate from LSU, your Chancellor is graduating to new challenges, as well. We appreciate Chancellor Emmert for his fine, steadfast leadership in making LSU one of America's flagship universities. {APPLAUSE} This day is a tribute, as well, to the faculty of LSU, and we thank them for your skill and your dedication.
+
+Some in this class are graduating with honors, and I congratulate all of you on an achievement that took a lot of discipline. Others may have spent a little less time in the library -- {LAUGHTER} -- a little more time keeping the stools warm down at The Chimes. {LAUGHTER ; APPLAUSE} But you earned your degree, and you, too, can leave today with high hopes. I speak with some authority here -- {LAUGHTER} -- I've seen how things can work out pretty well for a C student. {LAUGHTER ; APPLAUSE} 
+
+All of you have learned a lot here at LSU, and you learned to take your sports seriously. {APPLAUSE} I know you're especially proud of your mighty national champs, the finest athletes to wear the LSU jersey -- the Lady Tigers of the women's track team. {APPLAUSE} Plus you've got a pretty good football team, too. {APPLAUSE} I know firsthand, when Coach Saban told me right there at the White House how good this team was. And I want to congratulate all the athletes here at LSU. {APPLAUSE}
+
+After four years of sitting through lectures, I've a feeling you're not in the mood for another one. You've probably had your fill of political speeches from Free Speech Alley. {LAUGHTER} So today, on your last day at LSU, I thought I would share a few important lessons that I've picked up along the way.
+
+Let me begin with a very valuable lesson I've learned -- a lesson that has influenced my well-being -- and here it is: Listen to your mother. {LAUGHTER ; APPLAUSE} I had little choice. My Mom has a way of speaking her mind. When I paid attention, I benefitted. When I didn't, I paid the price. That's how it still works. {LAUGHTER}
+
+In the world's eyes, you are now an independent adult. In your mother's eyes, you probably still have some growing up to do. You may not always agree with her advice, but I think of it this way: The first voice you heard is always worth listening to. {APPLAUSE}
+
+There are many moms and dads here today, and I know how some of you are feeling. It feels really good to write the last tuition check. {LAUGHTER} It also feels like the last 20 years or so went by awfully fast. I know you're proud of your sons and daughters, and I know they are grateful. Today we honor the parents of the class of 2004. {APPLAUSE}
+
+Here is another bit of advice I hope you graduates will consider, as you weigh the values and priorities of your life. Sometimes you'll hear people say that moral truth is relative, or call religious faith a comforting illusion. And when you hear talk like that, take it seriously enough to be skeptical. It may seem generous and open-minded to say that everybody, on every moral issue, is equally right. But that attitude can also be an excuse for sidestepping life's most important questions. Most people over the ages have viewed the search for moral truth as one of the main purposes of life. And they were correct. Good societies are constructed on the conviction that there is right, and there is wrong, and we can know the difference.
+
+Our country depends on businesspeople who are honest in keeping the books, and public officials who stay true to their oath, and soldiers who put their duty above comfort, and men and women in every walk of life who conduct themselves with integrity, even when no one is watching. {APPLAUSE}
+
+Good lives are also constructed on moral conviction. You will find that indifferent and cynical men and women accomplish little that makes them proud. You will find that fighting injustice and evil requires a vision of goodness and truth. You will find the only way to live an honorable life is to believe in honor. For your sake and for the sake of our country, I hope you will always strive to be men and women of conviction and character. {APPLAUSE}
+
+As you enter professional life, I have a few other suggestions about how to succeed on the job. For starters, be on time. It's polite, and it shows your respect for others. Of course, it's easy for me to say. It's easy for me to be punctual when armed men stop all the traffic in town for you. {LAUGHTER}
+
+On the job and elsewhere in life, choose your friends carefully. The company you keep has a way of rubbing off on you -- and that can be a good thing, or a bad thing. In my job, I got to pick just about everybody I work with. {LAUGHTER} I've been happy with my choices -- although I wish someone had warned me about all of Dick Cheney's wild partying. {LAUGHTER}
+
+Let me leave you with one more lesson. Wherever life takes us, and whatever challenges we meet, each one of us has much to be grateful for. And the proper measure of response of a grateful heart is service. There's no such thing as a self-made man or woman. Everyone has had a little help along the way. It is a sign of maturity to remember our debts, and a sign of grace to pass the favor along in generosity to others. There's a wise saying: We make a living by what we get; we make a life by what we give.
+
+Louisiana State University has a tradition of gratitude expressed in service to community and country. Four monuments on your campus honor those from LSU who served and died in the Armed Forces. Recently, a new name was added to the War Memorial: Navy Lieutenant Scott Lamana was killed in the attack on the Pentagon on September the 11th, 2001. He died at his post. His nation honors his memory.
+
+In the war on terror we have counted on others from LSU. With us today to receive their degrees are three young men who saw active duty in Operation Iraqi Freedom. We thank Sergeant Cavalier, Corporal Esposito, Sergeant Jarreau for their service in the United States Marine Corps. {APPLAUSE}
+
+One of the finest ways to show gratitude for freedom is to defend freedom. And those who wear the uniform of our country have repaid America many times over with their selflessness and courage. That courage is needed. We live in historic times, when the will and character of America are being tested. We're at war with enemies that have many destructive ambitions, and one overriding goal: They want to spread their ideology of hatred by forcing America to retreat from the world, in weakness and fear. Yet, they're finding that Americans are not the running kind. When this country makes a commitment, we see it through. {APPLAUSE}
+
+We have an historic opportunity, the establishment of a peaceful and democratic Iraq at the heart of the Middle East, which will remove a danger, strike a blow against terrorism, and make America and the world more secure. We will complete the mission for which so many have served and sacrificed. And the world can be certain we will defend the freedom and security of this nation, whatever it takes. {APPLAUSE} And the world can be certain we will never abandon our belief that freedom is the gift from the Almighty to every man and woman in this world. {APPLAUSE}
+
+More than 60 years ago, when America was attacked at Pearl Harbor, a senior at this university joined the Marine Corps. He was three credits short, so he didn't graduate in 1942. Instead, he found himself taking part in fierce battles at Iwo Jima and Guam, and elsewhere in the Pacific theater. Corporal Lamar Simmons returned home to Louisiana, and built a successful career running radio stations. Not so long ago, his stepson learned that LSU gives academic credit for military service, and applied for those credits on behalf of Mr. Simmons. And so a man who began his studies here in 1938 graduates with you today: Lamar Simmons, class of 2004. {APPLAUSE}
+
+Mr. Simmons, with my honorary degree, I guess that makes me the second-oldest member of your graduating class. {LAUGHTER} I speak for all of my classmates in paying tribute to this one man, and to the great generation of Americans to which he belongs. {APPLAUSE} These Americans saw faraway conflict change their lives, and took on duties they had not asked for, and did what had to be done. They kept this country free; we are still in their debt.
+
+As President, I've had the privilege of seeing another generation rise to its responsibilities, and show its character. I've seen the goodness and idealism of young Americans. I've seen confidence -- I've seen your confidence in yourselves, and I have confidence in you, in your generation, and in the great contributions you will make to our country.
+
+I wish you all the best. I thank you for letting me share this day. I'm proud to be a member of your class. Congratulations, and may God bless you. {APPLAUSE} 
+
+{/speech}

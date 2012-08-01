@@ -1,0 +1,36 @@
+﻿{title} Speech Receiving Medal of Freedom Award {/title}
+{event} Medal of Freedom Award {/event}
+{speaker} George H. W. Bush {/speaker}
+{date} March 7, 1991 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Famous statements by MT (discussions of), Foreign policy (USA), Foreign policy (Middle East), Defence (general), Conservatism, Foreign policy (Central and Eastern Europe) {/description}
+
+{speech} 
+
+Ladies and gentlemen and distinguished so many distinguished guests, and members of this administration, and friends of what is indeed a special relationship. Particularly to Sir Denis Thatcher and Mark and Diane Thatcher. And above all, the greengrocer's daughter who shaped a nation to her will.
+
+America's highest civilian award is the Medal of Freedom. And we are here to present it to one of the greatest leaders of our time. For over 11 of the most extraordinary years in British history, she helped freedom lift the peoples of Europe and the world. Former Prime Minister Margaret Thatcher, we are delighted you are with us today.
+
+She has been called the Iron Lady—irrepressible, at times incorrigible, always indomitable. {LAUGHTER} She summoned the best in the human spirit—speaking for our values and our dreams. Once she said, "Turn if you like; the lady's not for turning". And she wasn't. Instead, the Free World turned to her—for counsel, for courage, for leadership that proclaimed a belief in right and wrong—not a devotion to what is popular.
+
+It has been said that great leaders reflect their time. Margaret Thatcher did. She also transformed her time as few leaders ever have. Consider the 1980s and early 1990s—a golden age of liberty. Remember what she meant and how she mattered. Hers was not merely among Britain's finest hours. She helped mold perhaps democracy's finest hour.
+
+Think first of what she meant to the place that Shakespeare called "this blessed plot, this earth, this realm, this England". She didn't create spirit in the British people—it's been there for a millennium. But Margaret Thatcher believed in it and once again unleashed it.
+
+She cherished human dignity and self-determination. So when an antidemocratic military moved against the Falkland Islands, Britain met the challenge. And she sought to decrease what government must do and increase what the individual may do. So she put private roofs over British heads—and restored economic pride to British hearts. Like her successor, John Major, she believed passionately in free enterprise. And so she used it to renew British initiative and national pride. Margaret Thatcher didn't merely make Britain a leader in the new world order—she defined the essence of the United Kingdom.
+
+Think next of what she meant to us—what she meant to America. Mrs Thatcher understood the ties that bind our nations—moral and economic, political and spiritual—so she defended America—helped to inspire it. No country could have had a more valiant comrade in arms. No President, as another great leader, Ronald Reagan, could attest, could ask for a better friend.
+
+We will never forget her courage in helping forge a great coalition against the aggression which brutalized the Gulf. Nor will I forget one special phone conversation that I had with the Prime Minister. In the early days of the Gulf crisis—I'm not sure you remember this one, Margaret. In the early days of the Gulf crisis I called her to say that though we fully intended to interdict Iraqi shipping, we were going to let a single vessel heading for Oman enter port down at Yemen—going around Oman to Yemen—let it enter port without being stopped. And she listened to my explanation, agreed with the decision, but then added these words of caution—words that guided me throughout the Gulf crisis. Words I'll never forget as long as I'm alive. "Remember, George", she said, "this is no time to go wobbly". {LAUGHTER ; APPLAUSE} 
+
+Those who work with me in the White House know we use that expression often and have used it during some troubling days. And never, ever will it be said that Margaret Thatcher went wobbly. {LAUGHTER}
+
+Finally, think of what Margaret Thatcher meant to the world. Her resolution and dedication set an example for all of us. She showed that you can't lock people behind walls forever when moral conviction uplifts their souls. And she knew tyranny is powerless against the primary of the heart.
+
+Margaret Thatcher helped bring the Cold War to an end, helped the human will outlast bayonets and barbed wire. She sailed freedom's ship wherever it was imperilled. Prophet and crusader, idealist and realist, this heroic woman made history move her way.
+
+Prime Minister, there will always be an England, but there can never be another Margaret Thatcher.
+
+Thank you for all you've done. And now I have the great privilege to ask Commander Ross to read the citation on the Medal of Freedom. We're delighted you're here. 
+
+{/speech}

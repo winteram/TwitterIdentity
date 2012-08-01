@@ -1,0 +1,79 @@
+﻿{title} Remarks by the President in Discussion with Students on Job Training {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 18, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Question and Answer Session has been removed {/description}
+
+
+{speech} 
+
+Thank you very much. {APPLAUSE} I'm delighted to see all of you here, and I'm glad to have the chance to come. I've had a great time touring some of the facilities and seeing some of the programs that are offered here at this college and meeting some of your fellow students. Everybody here is a student, right? 
+
+{AUDIENCE} Yes! {/AUDIENCE} {APPLAUSE} 
+
+Everybody back there? I'm glad to see your president, your chancellor who are here, and Mayor Bradley I see back there. Thank you for coming. {APPLAUSE} And I see -- we have a number of members of Congress back there. If you've got anything to ask your congressman, we've got four or five options back there. Will the members of Congress stand up? Walter and Javier and Tony Beilenson, Congressman -- {APPLAUSE} It's good to see you all. 
+
+I see several state officials back there -- the Secretary of State, the State Comptroller, the Insurance Commissioner, Michael Woo -- Councilman Michael Woo, my friend, a candidate for mayor. Good for you. Good luck. {APPLAUSE} 
+
+That "woo" is interesting, isn't it? Makes a good cheer. I like it. 
+
+I want to say to all of you, first of all, I am delighted to be back in California; glad to be back in Los Angeles and to Van Nuys and -- {APPLAUSE} Yesterday I was in New Mexico, and I was at Los Alamos -- and I said Los Angeles. So I promised them when I -- they all hooted. So I promised them when I got here I'd say I was glad to be in Los Alamos. {LAUGHTER} So there, I did it. {LAUGHTER} 
+
+I came here for a very specific purpose today, and that is to try to illustrate what the economic efforts that our administration is making will do for you and how your efforts -- can we fix this -- in the work we're doing to try to turn the California economy around. And I thought that there was really no better place to come than to a college like this where all the people here have already, by definition, taken responsibility for your own future and made a real commitment to do what it takes to be competitive, to develop the skills you need to get a good job, to keep good jobs and to learn new skills continuously. 
+
+I met a very impressive man inside who has got a full-time job, as many of you do, who has been coming back here on his own just to continue to hone his skills, because he says, "what I do requires me to change over and over and over again, so I will always be able to have a good job." And this is funny --I was talking to Dan Palmer, who introduced me, he told me that before he was married and began to have children, he was a musician. And he realized that that's not a very solid basis for having job security. I thought about being a musician, too, and I wasn't as good as he was. And I knew I had no job security. So I got into another line of work where I have no job security. {LAUGHTER} But, anyway, I understand very much that sort of motivation which I imagine got a lot of you in here. 
+
+What I wanted to do was to basically just talk a little bit about our national economic efforts and how it affects California and how what you're doing here is essential if we're ever going to turn the economy of the state and nation around. 
+
+First, when I took office, I found, as you know, a government with an enormous budget deficit -- that is, we were running in the red every year, over $300 billion. Our debt had gone as a nation from $1 trillion to $4 trillion. It's hard to even imagine that kind of money in just 12 years. We were a country for 200 years, we ran up $1 trillion worth of debt. Then in 12, we ran up $3 trillion more. 
+
+Why? Because we cut taxes and increased spending. And it was fun for a while. It helped California a lot. Cut taxes, people had more money in their pocket, increased spending, mostly in defense, put a lot of people to work in plants out here. Put a lot of people to work on and around the bases out here. 
+
+In the end, it all catches up to you, and you've seen the last few years what happened: the Cold War was over, we began to reduce defense, we had no real plan for dealing with it. And what's happened to your tax money is, the deficit keeps going up even though defense has gone down because of the cost of health care -- something that won't surprise any of you. 
+
+So what I have tried to do is to come up with a plan that would bring our deficit down, give us control of our budget and your future, get interest rates down so people can refinance their homes and their businesses -- and I'll bet you there are people in this audience today who have refinanced their home loans since last November and saved a lot of money doing it, because we're determined to bring interest rates down. And at the same time, while cutting a lot of spending and raising some taxes, almost all of which -- at least well over 70 percent of it comes from people with incomes above $100,000, and we tried to give a tax cut to people with families with incomes under $30,000 so they wouldn't have to pay a tax increase. 
+
+But while doing that, there are some things which we should spend some more money on, and I want to talk about them. We ought to spend some more money on having more programs like this. Why? Because you can have the best economic policies in the world, and if the people don't have the training they need to do the jobs in a global economy, good economic policies don't put people to work. {APPLAUSE} 
+
+We also -- I'll give you another example -- there are also, in this tax bill that I have asked the Congress to pass, there are also big incentives for small businesses and big businesses to reinvest their money to put Americans to work, and special programs to induce people to invest in communities that are particularly depressed. More sweeping than anything anybody's ever offered. 
+
+Why? Because the government can't put everybody to work. Most people work on the private sector, and that's as it should be. So we have to find ways to give people special incentives to reinvest their money. 
+
+Let's take, for example, a business. If a business goes out and refinances its business loan and gets a lower interest rate, what do you want them to do with the money? Open another business, right? Or expand the business they're doing and hire more people so we can get unemployment down. 
+
+So those are the kinds of things we're trying to do. The budget I've asked the Congress to pass has over 200 specific budget cuts. It's got some really tough things in it. We freezed federal employee pay. We reduce the size of the federal work force by 150,000 over the next five years by attrition, just by not hiring people as vacancies occur. We cut everything from agriculture subsidies to Medicare. We cut a lot of things, starting with the White House staff and the administrative cost of the federal government. 
+
+We raised the money that I talked about. But we have some targeted increases in investment. So while we're going to bring the deficit down dramatically, we're going to try to get some money for more funds for dislocated workers, more funds for communities that are hurt by base closings or plants being closed because of defense cutbacks, more funds for things like the Red Line Transit System here, where our administration announced over $1 billion in funding to put people back to work and also to have some more stops in the community. 
+
+And the thing I want to say to you is that, if we're going to compete, if you're going to be able to have a good job and we're going to turn this community and this area around, we have to have the discipline to cut the things out we don't need to spend money on, to raise some money in order to bring the deficit down, because that means low interest rates and that's good for the economy. But we also have to invest in people and technology and jobs. We've got to do that. {APPLAUSE} 
+
+You know, I got amused when I was on the way in here, people holding up signs, standing next together. One of them said, don't spend any more money, and another one said, close the border to illegal aliens. In the jobs program I presented to Congress, one of the things we had was enough money to hire a lot more border patrol people. You can't have it both ways. If you're going to hire people, you've got to have the money to hire them. And we're going to have to make these kinds of tough decisions. 
+
+So I wanted to come here because all of you know this. If you didn't know this you wouldn't be here. You have this figured out. I mean, maybe not just like I said it, but you've figured it out. The average 18-year-old going into the work force now is going to change work eight times in a lifetime. Eight times. And whether you can get and keep a job now depends as much on what you can learn tomorrow as it does on what you know today. 
+
+And that's not going to change. The world will get smaller and smaller and smaller, more and more of our economy will depend on our ability to compete with people around the world. We'll have to trade more, we'll have to sell more to other countries. We'll have to be able to change constantly over and over and over again. And you really are on the cutting edge of that change. 
+
+So I wanted to come here to try to illustrate that and to ask you as citizens to support my economic program, to support our efforts to bring the deficit down, to cut spending, to ask wealthy people to pay their fair share -- {APPLAUSE} -- to give people incentives for more jobs, and to invest more in education, training and technology. {APPLAUSE} 
+
+I also want to tell you -- before I open the floor to questions I want to introduce one more person. When I was running for President out here -- 
+
+{AUDIENCE} No new taxes! {/AUDIENCE} 
+
+We tried it their way for 12 years. Look what it got us. {APPLAUSE} You know what the "no new taxes" crowd did for 12 years? They cut taxes on the rich, raised taxes on the middle class, ran the country in a ditch. They had it their way for 12 years. {APPLAUSE} It sounds great, all this talk. They had their chance. 
+
+{AUDIENCE} You broke your promise! {/AUDIENCE} 
+
+They had their chance. I broke my -- you know what else they don't say? Their crowd, what did they do after the election -- oh, after the election they said, oh, by the way -- the previous administration -- oh, by the way, the deficit is going to be $50 billion a year bigger every year than we told you. But go ahead and do everything you said you were going to do before -- sorry we didn't tell you that. 
+
+{AUDIENCE} You broke your promise! {/AUDIENCE} 
+
+What did they say, guys? So the free lunch crowd has had their chance. {APPLAUSE} And I'm telling you there is no free lunch crowd. And so we'll just have to decide whether we're going to take a different course. I want you to have a chance to do that. 
+
+The other thing I want to tell you is, we can't turn this country's economy around unless we lift California up. And so I have -- {APPLAUSE} -- I asked the Secretary of Commerce Ron Brown to head a team in my administration to develop a specific strategy to try to make sure we were doing everything we could do to help to turn this economy around. He has now made -- just since I've been President, in four months, seven trips to California, meeting with people, working with people, trying to develop a strategy for what our partnership should be. And he came with me today, so I want to introduce him. Ron, stand up, please. {APPLAUSE} He's spending more time here than in Washington. 
+
+We're going to work hard, but you've got to do your part, too. And one of the messages that I hope will come out of this event today is that thousands of people in southern California will see you -- they will see you and they will think, I've got to do my part, too. I've got to do something. I have to do something to change what I'm doing. I have to do something to lift up my circumstances. Because I'm telling you, there is nothing the President, nothing the Mayor, nothing the Governor, nothing anybody can do for you that you're not prepared to do for yourself. This has got to be a partnership and a two-way street. 
+
+Thank you very much. {APPLAUSE} 
+
+{/speech} 

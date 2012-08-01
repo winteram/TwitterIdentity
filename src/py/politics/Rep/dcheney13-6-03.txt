@@ -1,0 +1,62 @@
+﻿{title} VP Remarks at American Association of Health Plans Meeting {/title}
+{event} American Association of Health Plans Meeting, Marriott Wardman Park Hotel, Marriott Ballroom, Washington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} June 13, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. {APPLAUSE} Well, thank you, Bill. I appreciate that warm introduction. And I'm delighted to be here today to express President Bush's gratitude to the America Association of Health Plans for your support of key elements of our health care agenda, and especially for your strong support of our efforts to improve and strengthen Medicare.
+
+The health of our senior citizens is one of America's most important obligations. And it is an obligation we will honor. This has been a time of testing for the United States in recent months. Under the leadership of President Bush, we've met every test. Today, of course, we're faced with a war on terror. Every level of our government has taken important steps to protect our citizens. And today we are better prepared than we were to face the threat of a terrorist attack with a biological or chemical, radiological, or perhaps even a nuclear weapon. The national stockpile of medical countermeasures is more extensive and can be assessed more rapidly than ever. And additional diagnostic tests, drugs and vaccines are being developed.
+
+But the medical treatments that are available for some types of terrorist attacks have improved very little in decades. For example, the smallpox vaccine available today, not much different than those that were used in the 1960s. And some treatments for radiation, chemical exposure have not changed much since the 1970s. That's why it's time for Congress to enact Project Bioshield, a major initiative to develop, stockpile and use modern, effective drugs and vaccines to protect our people against bioterrorism.
+
+Project Bioshield will allow the government to buy improved vaccines for drugs for smallpox, anthrax, and botulism toxin, and to acquire countermeasures against other dangerous pathogens as soon as scientists verify the safety and the effectiveness of these products. It will speed up research in the development of medical countermeasures based on the most promising scientific initiatives. And it will give the FDA the ability to make promising treatments quickly available in emergency situations.
+
+We must act to defend our homeland before these emergencies are upon us, and Project Bioshield -- now pending before the Congress -- is a critical component of our homeland defense.
+
+Government's first obligation must always be to protect the security of our nation. But we also have a responsibility to ensure the economic security of America's workers and families. And we are moving forward to meet that responsibility.
+
+The Jobs and Growth Act that President Bush signed last month will deliver significant tax relief to 136 million American taxpayers and will help our economy grow faster and create new jobs. But there can be no economic security without affordable health care. And this year we have an opportunity to provide high quality, affordable health care for all of America's seniors.
+
+America's health care system is the finest in the world. Lifesaving drugs and cutting edge technologies are helping millions of Americans live longer, healthier lives. And as some of you may know, I have personally benefitted from these innovations. {LAUGHTER} And I must say I am grateful for the wondrous medical advances produced by our system of private health care.
+
+The President's goal is to make sure that every American has access to these benefits, but without undermining the system of private medicine that makes these advances possible. We seek a health care system where all Americans have an insurance policy and can choose their own doctors, and where seniors, the disabled, and low-income people receive the assistance they need. And we are determined to keep the patient-doctor relationship at the center of American health care.
+
+The President's vision stands in stark contrast to a centralized, government-run health care system that dictates coverage, rations care and stifles innovation and quality. The President believes that patients, doctors and nurses must be in charge of America's health care.
+
+To improve our health care system, we must address one of the prime costs of higher -- one of the prime causes of higher health care costs: out-of-control lawsuits against doctors and hospitals. Over the last few years, doctors, nurses and hospitals have faced skyrocketing medical liability insurance premiums because of our broken litigation system. Health care providers in states without reasonable limits on noneconomic damages have experienced the largest increases, ranging from 36 percent to 113 percent last year alone.
+
+These greatly increased costs have made it practically impossible for many doctors to practice medicine. As a result, communities across the country are losing access to medical care as doctors leave their practices and move to states that have enacted medical liability reforms and caps on noneconomic damages.
+
+Besides threatening access to quality health care, the unpredictability of our liability system means that even frivolous lawsuits carry the risk of enormous verdicts. This has caused doctors who fear getting sued to practice defensive medicine by prescribing costly and unnecessary medical treatments for the sole purpose of avoiding litigation, thereby raising patient's cost.
+
+The President has proposed important steps to make health care more affordable and accessible for all Americans by making the medical liability system more stable and more predictable. The President's proposals will also increase patient safety by reducing the disincentives for reporting medical errors and complications.
+
+This past March the House of Representatives passed medical liability reform, and the Senate should do so, as well. We need to get a bill to the President's desk that will fix America's broken medical liability system, and we need to do it as quickly as possible.
+
+The rising cost of litigation hurts all Americans. But we cannot forget the special needs and concerns of our senior citizens on Medicare. President Bush has called Medicare the binding commitment of a caring society. Our administration will honor that commitment by making sure that Medicare stays current with the needs of today's seniors.
+
+When Medicare was launched in 1965, medicine focused on surgery and hospital stays. And 38 years later, that is mainly what Medicare still covers. Today, however, doctors routinely treat their patients with prescription drugs, preventive care, disease screening, and groundbreaking medical devices. But Medicare coverage has not kept pace with these changes. Medicare needs to be modernized. It needs to provide seniors with the best, most innovative care. This will require a strong, up-to-date Medicare system that relies on innovation and competition, not bureaucratic rules and regulations.
+
+A key ingredient for successful reform is greater choice. When government overregulates health care, biomedical innovation suffers. And access to the newest, most effective drugs comes to depend on the often arbitrary decision of sometimes slow-moving bureaucrats. But when the patient retains the power of choice, the insurance providers are forced to offer new services quickly, because if they fail to do so, the patient will take his or her business elsewhere.
+
+President Bush has proposed a framework to strengthen and improve Medicare so that it offers seniors more choices and better benefits -- like prescription drug coverage. Today, millions of seniors on Medicare have no drug coverage at all. The President's budget has committed up to $400 billion over the next 10 years to pay for an improved Medicare program that includes prescription drug coverage. The President's framework would do the following: First, seniors who are content with traditional Medicare should be able to stay in that system and receive prescription drug benefits.
+
+Second, seniors who want even more benefits and choices will be able to select an enhanced Medicare option. This option would offer full coverage of preventive care, a comprehensive prescription drug benefit, and protection against high, out-of-pocket cost. As with other Medicare options, there would be extra help for low-income seniors in paying premiums for their drug coverage and in purchasing their medicine. And because private insurers will have to compete for business under this enhanced Medicare option, they will have every reason to offer seniors the best health care plan that fits their needs. This enhanced Medicare option is similar to the health care coverage available to all federal employees, who are given a broad choice among competing health insurance plans.
+
+Third, seniors who want the benefits and affordability of managed care plans, including prescription drug coverage, should be able to choose from a range of plans that best fit their personal needs. This third option, called Medicare Advantage, is an enhance Medicare+Choice option. Millions of Medicare beneficiaries have enrolled in these plans, which offer them affordable coverage that keeps their out-of-pocket spending for medical care low, and that often provide them with benefits that traditional Medicare does not. We must preserve this choice for America's seniors. We must learn the lessons of the past and build on what works. {APPLAUSE} And we should do so with Medicare Advantage, which would also include a subsidized prescription drug benefit.
+
+Fourth, the President has proposed extra help for low-income seniors in the form of a $600 annual subsidy to help them pay for prescription drugs. By doing so, all seniors will have the ability to choose the Medicare option that serves them best, and every senior will have the option of a prescription drug benefit.
+
+In a Medicare system based on greater choice and competition, we would be better able to address Medicare's long-term, fiscal challenges. Every senior in America would enjoy more choices and better benefits than they do today. And they would continue to benefit from the most important strength of American medicine, the ability to choose your own doctor. Americans enjoy the finest health care in the world because our free-market system is driven by the decisions of doctors and patients. And no so-called reforms must ever by allowed to undermine our system of private medicine.
+
+America's health plan organizations have designed programs that make the best use of today's modern health care delivery methods and that maximize the benefits of Medicare for the seniors of today. I urge you to continue working with us and with members of Congress to sustain the program for our seniors of future generations.
+
+The House and the Senate have begun to craft Medicare legislation that is broadly consistent with the President's framework. The House of Representatives will take up this issue in coming weeks. In the Senate, last night, the Finance Committee got the process moving by passing a bipartisan bill out of committee. While we still have more work to do, we are confident that members on both sides of the aisle and in both chambers will work together to pass strong Medicare bills before the Fourth of July recess, bills that provide our seniors with the prescription drug benefits and choices they need and deserve, and a bill -- hopefully -- that can be on the President's desk before the end of the summer.
+
+In this critical time in the history of America, I have the honor of standing beside a President who is decisive, who is determined, and who has united our nation behind great goals. We will defeat the forces of terror. We will protect the American people. And we will build greater economic security for all Americans. We will provide this country with a medical liability system that protects patients, but does not drive competent doctors out of medicine, does not limit patients' access to quality health care, and does not increase medical cost. We will keep our commitments to the elderly, strengthen and modernize Medicare, and bring the wonders of the 21st century medicine to all those who need it. Thank you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,55 @@
+﻿{title} Remarks by the President in Apology for Study Done in Tuskegee {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 16, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Ladies and gentlemen, on Sunday, Mr. Shaw will celebrate his 95th birthday. {APPLAUSE} I would like to recognize the other survivors who are here today and their families: Mr. Charlie Pollard is here. {APPLAUSE} Mr. Carter Howard. {APPLAUSE} Mr. Fred Simmons. {APPLAUSE} Mr. Simmons just took his first airplane ride, and he reckons he's about 110 years old, so I think it's time for him to take a chance or two. {LAUGHTER} I'm glad he did. And Mr. Frederick Moss, thank you, sir. {APPLAUSE} 
+
+I would also like to ask three family representatives who are here -- Sam Doner is represented by his daughter, Gwendolyn Cox. Thank you, Gwendolyn. {APPLAUSE} Ernest Hendon, who is watching in Tuskegee, is represented by his brother, North Hendon. Thank you, sir, for being here. {APPLAUSE} And George Key is represented by his grandson, Christopher Monroe. Thank you, Chris. {APPLAUSE} 
+
+I also acknowledge the families, community leaders, teachers and students watching today by satellite from Tuskegee. The White House is the people's house; we are glad to have all of you here today. I thank Dr. David Satcher for his role in this. I thank Congresswoman Waters and Congressman Hilliard, Congressman Stokes, the entire Congressional Black Caucus. Dr. Satcher, members of the Cabinet who are here, Secretary Herman, Secretary Slater, members of the Cabinet who are here, Secretary Herman, Secretary Slater. A great friend of freedom, Fred Gray, thank you for fighting this long battle all these long years. 
+
+The eight men who are survivors of the syphilis study at Tuskegee are a living link to a time not so very long ago that many Americans would prefer not to remember, but we dare not forget. It was a time when our nation failed to live up to its ideals, when our nation broke the trust with our people that is the very foundation of our democracy. It is not only in remembering that shameful past that we can make amends and repair our nation, but it is in remembering that past that we can build a better present and a better future. And without remembering it, we cannot make amends and we cannot go forward. 
+
+So today America does remember the hundreds of men used in research without their knowledge and consent. We remember them and their family members. Men who were poor and African American, without resources and with few alternatives, they believed they had found hope when they were offered free medical care by the United States Public Health Service. They were betrayed. 
+
+Medical people are supposed to help when we need care, but even once a cure was discovered, they were denied help, and they were lied to by their government. Our government is supposed to protect the rights of its citizens; their rights were trampled upon. Forty years, hundreds of men betrayed, along with their wives and children, along with the community in Macon County, Alabama, the City of Tuskegee, the fine university there, and the larger African American community. 
+
+The United States government did something that was wrong -- deeply, profoundly, morally wrong. It was an outrage to our commitment to integrity and equality for all our citizens. 
+
+To the survivors, to the wives and family members, the children and the grandchildren, I say what you know: No power on Earth can give you back the lives lost, the pain suffered, the years of internal torment and anguish. What was done cannot be undone. But we can end the silence. We can stop turning our heads away. We can look at you in the eye and finally say on behalf of the American people, what the United States government did was shameful, and I am sorry. {APPLAUSE} 
+
+The American people are sorry -- for the loss, for the years of hurt. You did nothing wrong, but you were grievously wronged. I apologize and I am sorry that this apology has been so long in coming. {APPLAUSE} 
+
+To Macon County, to Tuskegee, to the doctors who have been wrongly associated with the events there, you have our apology, as well. To our African American citizens, I am sorry that your federal government orchestrated a study so clearly racist. That can never be allowed to happen again. It is against everything our country stands for and what we must stand against is what it was. 
+
+So let us resolve to hold forever in our hearts and minds the memory of a time not long ago in Macon County, Alabama, so that we can always see how adrift we can become when the rights of any citizens are neglected, ignored and betrayed. And let us resolve here and now to move forward together. 
+
+The legacy of the study at Tuskegee has reached far and deep, in ways that hurt our progress and divide our nation. We cannot be one America when a whole segment of our nation has no trust in America. An apology is the first step, and we take it with a commitment to rebuild that broken trust. We can begin by making sure there is never again another episode like this one. We need to do more to ensure that medical research practices are sound and ethical, and that researchers work more closely with communities. 
+
+Today I would like to announce several steps to help us achieve these goals. First, we will help to build that lasting memorial at Tuskegee. {APPLAUSE} The school founded by Booker T. Washington, distinguished by the renowned scientist George Washington Carver and so many others who advanced the health and well-being of African Americans and all Americans, is a fitting site. The Department of Health and Human Services will award a planning grant so the school can pursue establishing a center for bioethics in research and health care. The center will serve as a museum of the study and support efforts to address its legacy and strengthen bioethics training. 
+
+Second, we commit to increase our community involvement so that we may begin restoring lost trust. The study at Tuskegee served to sow distrust of our medical institutions, especially where research is involved. Since the study was halted, abuses have been checked by making informed consent and local review mandatory in federally-funded and mandated research. 
+
+Still, 25 years later, many medical studies have little African American participation and African American organ donors are few. This impedes efforts to conduct promising research and to provide the best health care to all our people, including African Americans. So today, I'm directing the Secretary of Health and Human Services, Donna Shalala, to issue a report in 180 days about how we can best involve communities, especially minority communities, in research and health care. You must -- every American group must be involved in medical research in ways that are positive. We have put the curse behind us; now we must bring the benefits to all Americans. {APPLAUSE} 
+
+Third, we commit to strengthen researchers' training in bioethics. We are constantly working on making breakthroughs in protecting the health of our people and in vanquishing diseases. But all our people must be assured that their rights and dignity will be respected as new drugs, treatments and therapies are tested and used. So I am directing Secretary Shalala to work in partnership with higher education to prepare training materials for medical researchers. They will be available in a year. They will help researchers build on core ethical principles of respect for individuals, justice and informed consent, and advise them on how to use these principles effectively in diverse populations. 
+
+Fourth, to increase and broaden our understanding of ethical issues and clinical research, we commit to providing postgraduate fellowships to train bioethicists especially among African Americans and other minority groups. HHS will offer these fellowships beginning in September of 1998 to promising students enrolled in bioethics graduate programs. 
+
+And, finally, by executive order I am also today extending the charter of the National Bioethics Advisory Commission to October of 1999. The need for this commission is clear. We must be able to call on the thoughtful, collective wisdom of experts and community representatives to find ways to further strengthen our protections for subjects in human research. 
+
+We face a challenge in our time. Science and technology are rapidly changing our lives with the promise of making us much healthier, much more productive and more prosperous. But with these changes we must work harder to see that as we advance we don't leave behind our conscience. No ground is gained and, indeed, much is lost if we lose our moral bearings in the name of progress. 
+
+The people who ran the study at Tuskegee diminished the stature of man by abandoning the most basic ethical precepts. They forgot their pledge to heal and repair. They had the power to heal the survivors and all the others and they did not. Today, all we can do is apologize. But you have the power, for only you -- Mr. Shaw, the others who are here, the family members who are with us in Tuskegee -- only you have the power to forgive. Your presence here shows us that you have chosen a better path than your government did so long ago. You have not withheld the power to forgive. I hope today and tomorrow every American will remember your lesson and live by it. 
+
+Thank you, and God bless you. {APPLAUSE} 
+
+
+
+{/speech} 

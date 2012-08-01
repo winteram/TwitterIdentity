@@ -1,0 +1,56 @@
+﻿{title} Remarks by the President on Jobs and the Economy {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} August 6, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, everybody. Thank you. Please, everybody, have a seat. It is wonderful to be here. I want to acknowledge a couple folks who are present. First of all, we've got Representative Eleanor Holmes Norton right here, doing great work. {APPLAUSE} I want to thank Mayor Adrian Fenty for being here. {APPLAUSE} We've got local city council members who are here with us today. And I want to finally make sure to acknowledge Luc, Guy, and Neil Brami, the owner of Gelberg Signs. {APPLAUSE}
+
+I just had a chance to tour Gelberg Signs and see the outstanding work that they're doing. This is the last sign-making company in Washington, D.C., I just learned. And the Brami brothers, their father worked here when they were young and they came to buy the company. So it's a wonderful story of entrepreneurship. And I've been told that they don't argue as much now as they used to when they were kids. That's the story I've gotten.
+
+But the work ethic, the craftsmanship, the entrepreneurialism of this company is an example of what makes our country so great. And I really commend them for the fine company that they've built. I'll be speaking about the challenges facing small businesses like Gelberg Signs in a moment, but first, I want to say a word about where we are in our economy more broadly.
+
+We know from economic statistics what the stories of America's families have been telling us for quite some time -– that the recession that we're still recovering from is the most serious downturn since the Great Depression. We also know, from studying the lessons of past recessions, that climbing out of any recession, much less a hole as deep as this one, takes some time. The road to recovery doesn't follow a straight line. Some sectors bounce back faster than others.
+
+So what we need to do is keep pushing forward. We can't go backwards. This morning, the Department of Labor released its monthly jobs report, showing that July marked the seventh straight month of job creation in the private sector. So jobs have been growing in the private sector for seven straight months.
+
+July's jobs numbers reflect, in part, expected losses related to the census winding down. But the fact is, we've now added private sector jobs every month this year, instead of losing them, as we did for the first seven months of last year. And that's a good sign. {APPLAUSE}
+
+Meanwhile, our manufacturing sector that's been hit hard for as long as folks can remember has actually added 183,000 jobs so far this year. That's the most robust seven months of manufacturing growth in over a decade. {APPLAUSE}
+
+Just this morning, there was a report about the growing trend of manufacturing plants returning to the United States from overseas, instead of the other way around.
+
+Same time, each of the Big Three automakers -– Ford, GM, and Chrysler -– two of which were on the verge of bankruptcy a little over a year ago, a liquidation bankruptcy that would have destroyed those companies –- all three U.S. automakers are now posting a profit for the first time since 2004. {APPLAUSE} And since they emerged from bankruptcy, the auto industry as a whole has added 76,000 jobs. So there's some good trends out there.
+
+That's the good news. But for America's workers, families, and small businesses, progress needs to come faster. Our job is to make sure that happens -- not only to lay the foundation for private sector job creation, but also to accelerate hiring to fuel the small businesses that are the engines of growth; to speed our recovery so it reaches the people and places who need relief not a year from now, not six months from now, but now -- right now.
+
+And that's why I welcomed the news earlier this week that after a lot of partisan bickering and delay, the Senate passed a bill that will not only keep at least 160,000 teachers in the classroom this fall who would otherwise be out of a job, but will help states avoid making other painful layoffs of essential personnel, like police and firefighters.
+
+One of the areas where we've been losing jobs even as we're gaining in manufacturing has actually been in state and local hiring, because their budgets have been plummeting. All the city council members are nodding here. And so this bill will help. Speaker Pelosi said she's going to bring the House back in session to pass this bill and as soon as they do, I'm ready to sign it into law. {APPLAUSE}
+
+We've also got to look at industries of the future. And that's why we're investing in a clean energy economy with the potential to create hundreds of thousands of jobs across the country by spurring two private sector dollars for every tax dollar we invest, strengthening our economy at the same time cleaning up our planet and making all of us more secure in the process.
+
+And that's why it's so important to pass a jobs bill for America's small businesses. {APPLAUSE} Small businesses are where most jobs in this country are created, small businesses like the one I'm visiting today, Gelberg Signs. Now, our small businesses were especially hard hit by this recession and many are having a tough time getting back on their feet.
+
+But Gelberg Signs actually is doing pretty well and they're hopeful about the future. And that's mainly because of the people who work here -- some of whom are standing with me today -- but it's also because we've helped remove some of the obstacles that make it harder for small businesses like Gelberg Signs to grow and hire.
+
+So, for example, they've taken advantage of a new hiring tax credit we created that says small businesses don't have to pay a dime of payroll tax when they hire a worker who's been out of a job for at least 60 days. So in fact, almost half of the employees they've hired this year qualified for that tax credit, including one of the folks standing behind me today.
+
+They've also taken out what's called 7 loans that are guaranteed by the Small Business Administration. And that's a lifeline for many small businesses that help them pay off old debts, buy new equipment, and bring on more workers. Last year, we took steps to cut fees and offer more robust guarantees on these loans. And partly as a result, the number of 7 loans offered to small businesses went up substantially. But since these enhancements expired, these loans have dried up, leaving many small business owners in the lurch.
+
+So the small business jobs bill that's being debated in Congress right now would not only extend these successful policies, but the bill would also more than double the size of the loans that small businesses like Gelberg Signs can take out. It would create new small business lending funds to unlock credit for entrepreneurs. It would provide new tax cuts to small businessmen and women who want to accelerate investment in their companies and in our economy.
+
+This is the right thing to do. We want Gelberg Signs not just to hang on -- we want you guys to thrive and to grow and to hire more and more workers. {APPLAUSE} And you know you create a great product. You know you provide great service. You stand behind what you do. But sometimes it's hard to get financing; sometimes you need some help in terms of cutting your tax burden. That's what this bill does.
+
+And yet, a minority in the Senate is standing in the way of giving our small businesspeople an up or down vote on this bill. And that's a shame. These kinds of delays mean contracts are being put off, debts are adding up, workers are going without a job –- and we can't afford it. We need to do what's right, not what's political, and we need to do it right now. {APPLAUSE}
+
+We need to decide whether we're willing to do what's necessary to keep this economy moving in the right direction. Whether we're willing to rise above the election-time games and come together, all of us -- Democrats and Republicans and independents -- all of us coming together not just to pass a jobs bill that is going to help small businesses like this one hire and grow, but also to secure a clean energy future, and accelerate our recovery, and rebuild our economy around three simple words -- Made in America. That is what I'm committed to doing, and that's what I hope members of both parties will join me in doing in the days ahead and beyond.
+
+So congratulations to this outstanding company for the great work you're doing. Congratulations to the workers -- because ultimately, you are what makes this company. We want you to keep on growing and we want other companies like this one to keep on growing. And we want the next generation of young entrepreneurs, like these three brothers, who've got an idea to be able to buy a company and grow it just like they have.
+
+That's our future. That's what I'm committed to doing. And I appreciate all of you being such great models for what America is all about. Thank you very much, everybody. Thank you. {APPLAUSE} 
+
+{/speech}

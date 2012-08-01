@@ -1,0 +1,26 @@
+﻿{title} President Bush Calls "March for Life" Participants {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 24, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Nellie, thank you. Thanks a lot for inviting me to speak. I know it's chilly there in Washington, but weather hasn't stopped thousands of participants from marching for life for the past 32 years, and it did not this year, either. And so I'm honored to be a part of this tremendous witness that is taking place in our Nation's Capitol, and it's good to hear your voice again.
+
+You know, we come from many backgrounds -- different backgrounds, but what unites us is our understanding that the essence of civilization is this: The strong have a duty to protect the weak. {APPLAUSE}
+
+I appreciate so very much your work toward building a culture of life-- {APPLAUSE} -- a culture that will protect the most innocent among us and the voiceless. We are working to promote a culture of life, to promote compassion for women and their unborn babies. {APPLAUSE} We know -- we know that in a culture that does not protect the most dependent, the handicapped, the elderly, the unloved, or simply inconvenient become increasingly vulnerable.
+
+The America of our dreams, where every child is welcomed in law -- in life, and protected in law may still be some ways away, but even from the far side of the river, Nellie, we can see its glimmerings. {APPLAUSE} We're making progress in Washington. I've been working with members of the Congress to pass good, solid legislation that protects the vulnerable and promotes the culture of life. I signed into law a ban on partial birth abortion. {APPLAUSE} Infants who are born despite an attempted abortion are now protected by law. {APPLAUSE} So are nurses and doctors who refused to be any part of an abortion. {APPLAUSE} And prosecutors can now charge those who harm or kill a pregnant woman with harming or killing her unborn child. {APPLAUSE}
+
+We're also moving ahead in terms of medicine and research to make sure that the gifts of science are consistent with our highest values of freedom, equality, family, and human dignity. We will not sanction the creation of life only to destroy it. {APPLAUSE}
+
+What I'm saying is we're making progress, and this progress is a tribute to your perseverance and to the prayers of the people. I want to thank you, especially, for the civil way that you have engaged one of America's most contentious issues. I encourage you to take heart from our achievements, because a true culture of life cannot be sustained solely by changing laws. We need, most of all, to change hearts. {APPLAUSE} And that is what we're doing, seeking common ground where possible, and persuading increasing numbers of our fellow citizens of the rightness of our cause.
+
+This is the path to the culture of life that we seek for our country. And on its coldest days, and one of our coldest days, I encourage you to take warmth and comfort from our history which tells us that a movement that appeals to the noblest and most generous instincts of our fellow Americans -- and that is based on a sacred promise enshrined in our founding document that this movement will not fail. {APPLAUSE}
+
+And so on this day of compassion, where warm hearts are confronting the cold weather, I ask that God bless you for your dedication, and may God continue to bless our great country. And thank you for letting me share this moment with you, Nellie. {APPLAUSE} 
+
+{/speech}

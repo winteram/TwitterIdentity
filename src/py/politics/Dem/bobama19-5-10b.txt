@@ -1,0 +1,36 @@
+﻿{title} Remarks by President Obama at Official Arrival Ceremony {/title}
+{event} Official Arrival Ceremony {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 19, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning.
+
+{AUDIENCE} Good morning. {/AUDIENCE} 
+
+Buenos dias.
+
+{AUDIENCE} Buenos dias. {/AUDIENCE} 
+
+On behalf of Michelle, myself, and the American people, it is my great honor to welcome our neighbor, friend and partner -- President Calderón, along with First Lady Margarita Zavala, and members of the Mexican delegation. Welcome to the United States. Bienvenidos. {APPLAUSE}
+
+President Calderón was the first foreign leader that I met after my election. And this visit is an opportunity to return the extraordinary warmth and hospitality that the President, the First Lady and the people of Mexico have shown to me during my visits to Mexico, as well as to Michelle during her first solo international trip as First Lady.
+
+Mr. President, it is fitting that your visit comes during this year of celebration -- the bicentennial of Mexican independence and the centennial of the Mexican revolution. And you and the Mexican people draw strength from your proud past to forge your future. We recall the words of the great Octavio Paz who said: “between tradition and modernity, there is a bridge.” With this visit, we can also strengthen the many bridges that bind our two nations.
+
+The United States and Mexico are not simply neighbors, bound by geography and history. We are, by choice, friends and partners. We are bound by our business partners, workers and tourists who fuel our prosperity; by our students and educators who broaden our horizons; and by our men and women in uniform, who serve and sacrifice to keep us safe.
+
+In the United States, we're also proud of another bond -- the ties of family: Mexican American families have been here for centuries, as well as those who continue to -- our proud tradition as a nation of immigrants, all of whom strengthen our American family and who join us today.
+
+Mr. President, working together, we have built upon these bridges. We forged a new era of cooperation and partnership between our countries, based on mutual interest, mutual respect and mutual responsibility. And with your visit, we can advance our partnership even further.
+
+Together, we can help create jobs and prosperity for our people. We can ensure that our common border is secure, modern and efficient, including immigration that is orderly and safe. We can stand firm, and deepen our cooperation, against the drug cartels that threaten our people. And given Mexico's global leadership, we can stand together for the opportunity and security of all people, in our hemisphere and beyond.
+
+Finally, Mr. President, your visit speaks to a truth of our time -- in North America and the world. In the 21st century, we are defined not by our borders, but by our bonds. So I say to you and to the Mexican people, let us stand together. Let us face the future together. Let's us work together. Trabajemos juntos.
+
+President Calderón, Senora Zavala, welcome to the United States. {APPLAUSE} 
+
+{/speech}

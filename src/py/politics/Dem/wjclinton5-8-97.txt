@@ -1,0 +1,42 @@
+﻿{title} Remarks by the President at Signing of the Balanced Budget Act of 1997 and the Taxpayers Relief Act of 1997 {/title}
+{event} The South Lawn {/event}
+{speaker} Bill Clinton {/speaker}
+{date} August 5, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Mr. Speaker, Mr. Vice President, Senator Lautenberg, members of Congress, ladies and gentlemen: We come here today, Democrats and Republicans, Congress and President, Americans of goodwill from all points of view and all walks of life, to celebrate a true milestone for our nation. In a few moments I will sign into law the first balanced budget in a generation -- a balanced budget that honors our values, puts our fiscal house in order, expands vistas of opportunity for all our people, and fashions a new government to lead in a new era.
+
+Like every generation of Americans before us, we have been called upon to renew our nation and to restore its promise. For too long, huge, persistent and growing budget deficits threatened to choke the opportunity that should be every American's birthright. For too long it seemed as if America would not be ready for the new century, that we would be too divided, too wedded to old arrangements and ideas. It's hard to believe now, but it wasn't so very long ago that some people looked at our nation and saw a setting sun.
+
+When I became President, I determined that we must believe and make sure that America's best days were still ahead. After years in which the deficit drained our economy and dampened our spirit, in which our ability to lead the world was diminished by our inability to put our own house in order, after years in which too many people doubted whether our nation would ever come together again to address this problem, we set off on a new economic course -- to cut the deficit, to create the conditions in which business could thrive, to open more foreign markets to our goods and services, to invest in our people so that all Americans would have the tools they need to make the most of their own lives.
+
+Today, our budget deficit has been cut by more than 80 percent. It is now among the smallest in the industrialized world as a percentage of our economy. Our businesses once again lead in world markets, now made more open, more free, more fair than ever before through our efforts. Our workers are clearly the most competitive on Earth, and we have recast our old government so that a new one can take shape that does give our people the tools to make the most of their God-given abilities.
+
+This year, we -- Democrats and Republicans alike -- were given the opportunity and the responsibility to finish the job of balancing the budget for the first time in almost 30 years, and to do it in a way that prepares Americans to enter the next century, stronger than ever. By large, bipartisan majorities in both Houses, we have risen to that challenge.
+
+The balanced budget I sign into law today will continue our successful economic strategy. It reflects the most fundamental values that brought us together. It will spur growth and spread opportunity. Even after we pay for tax cuts penny by penny, there will still be $900 billion in savings, including half a trillion dollars in entitlement savings over the next 10 years. It opens the doors of college to a new generation, with the largest investment in higher education since the G.I. Bill 50 years ago. {APPLAUSE}
+
+It makes it possible for the 13th and 14th years of college to become as universal as high school is today. It strengthens our families with the largest expansion in health care for children since the Medicaid program 32 years ago. It modernizes Medicare and extends the life of the trust fund for a decade. It helps our communities to rebuild, to move a million more people from welfare to work, to bring the spark of private enterprise back to our most isolated inner city neighborhoods. It provides the largest tax relief to help families raise their children, save for the children and pass on their home and a dream to the next generation. These tax cuts are the equivalent of a $1,000 raise in take-home pay for the average family with two children.
+
+For so many Americans, what goes on here in Washington often seems abstract and remote, unrelated to their daily concerns. Well, this balanced budget deals with the big issues of the deficit and long-term economic growth in ways that respond to the practical challenges ordinary American citizens face every single day.
+
+Because we have acted, millions of children all across this country will be able to get medicine, and have their sight and hearing tested, and see dentists and doctors for the first time. Millions of young Americans will be able to go on to college. Millions of Americans not so young will be able to go back to school to get the education and training they need to succeed in life. Millions of families will have more to spend on their own children's needs and upbringing. This budget is an investment in their future and in America's.
+
+Today, it should be clear to all of us, without regard to our party or our differences, that, in common, we were able to transform this era of challenge into an era of unparalleled possibility for the American people. I hope we can tap this spirit of cooperation and use it to meet and master the many challenges that remain before us.
+
+I want to thank, in closing, the many people whose work made this day possible. I want to thank Speaker Gingrich and Senator Lott, Mr. Armey and the other members of the House and Senate leadership, especially Senator Domenici and Senator Kasich. And let me thank Chairman Archer and Chairman Roth and the other leaders of the House and Senate committees. They were dedicated partners. They fought hard for their priorities. I want to thank Senator Daschle and Congressman Bonior and Congressman Fazio and Congressman Hoyer and the other members of the House Democratic leadership who worked with us.
+
+I want to thank especially Congressman Spratt and Senator Lautenberg, Congressman Rangel and the other members of the House and Senate Democratic minority leaders in the committees for the work the they did. I thank all the members of the Congress who are here present and the many whom they represent who are already back home, who could not be. All of them deserve our thanks, and I would like to ask the members of the Congress who are here today to stand and be recognized and appreciated by the crowd. {APPLAUSE}
+
+I'd like to thank the members of our budget team: Erskine Bowles, Secretary Rubin, John Hilley, OMB Director Raines, Gene Sperling, Jane Yellen, Rahm Emanuel, Jack Lew, Larry Summers, Chris Jennings and many others, especially those who work in our legislative shop, too numerous to mention, for the enormous work that they did on this agreement. {APPLAUSE}
+
+I would like to thank the First Lady, Mrs. Gore, the Vice President for their concern for the health of our children, for the mental health of the American people -- and the Vice President, especially, who led the fight to protect our urban initiatives and our environmental program and the interests of legal immigrants in America. We owe to them a great deal. {APPLAUSE}
+
+Again, I say to all, I thank you. I believe that together we have fulfilled the responsibility of our generation to guarantee opportunity to the next generation; the responsibility of our generation to take America into a new century, where there is opportunity for all who are responsible enough to work for it, where we have a chance to come together across all of our differences as a great American community, where we will be able to continue to lead the world toward peace and freedom and prosperity. That is worthy work and you have all contributed doing it.
+
+We can say with pride and certainty that those who saw the sun setting on America were wrong. The sun is rising on America again. And I thank you all. {APPLAUSE} 
+
+{/speech}

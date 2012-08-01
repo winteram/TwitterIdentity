@@ -1,0 +1,24 @@
+﻿{title} Remarks by the President to the Citizens of Tlaxcala {/title}
+{event} Tlaxcala, Mexico {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 7, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President to Citizens of Tlaxcola {/description}
+
+{speech} 
+
+Buenos dias, Tlaxcala. {APPLAUSE} President and Mrs. Zedillo, Governor and Mrs. Alvarez-Lima, to all of our friends from Mexico and the United States. Mayor Teroba, thank you for welcoming us to this wonderful city. It is great to be here. I thank you for coming out to say hello.
+
+President Zedillo and I have been working hard, as he said, and now we have come just to celebrate Mexico's people and culture with you. This is an especially important day for my wife and for me because we were married about 22 years ago, and we came to Mexico on our honeymoon. And so we always love to come back. And this is a very romantic setting to be in today, and we thank you for that. {APPLAUSE}
+
+The partnership between Mexico and the United States, the friendship between Mexico and the United States is important to the future of the American people and the Mexican people. It must be pursued in a genuine spirit of respect, equality, and dignity.
+
+We are moving into a world with great changes in the way we work and live, and the world grows smaller because of technology and rapid communications. But some things do not change. This beautiful city, founded nearly 500 years ago, reminds us that even in times of great change some things are meant to last -- our heritage, our love of family, community, our devotion to work, our respect for the land we are blessed to inhabit.
+
+It is my purpose to work with you to preserve the things that we want to preserve, to change as we must so that the people of Mexico and the people of the United States will have more and better jobs, good health care, all our children, boys and girls alike, will have good education, and we will be able together to beat back our common enemies of drugs and crime, so that as we move into the new century we will know we have preserved our community, our values, our integrity, and we have prepared the way for our children's future.
+
+In closing, I would like to say a special thank you to the Mexican people for the many contributions that Mexican Americans have made to our life in the United States. {APPLAUSE} Two members of my presidential Cabinet, many people in my administration, many members of our Congress, people successful in all walks of life have their roots here in Mexico. They are proud of it, and so am I. And we are going to work hard to make sure that in the years ahead, we draw closer together, we work together, we maintain a spirit of pride in our own heritage, but a genuine partnership for a better future.
+
+Thank you. Thank you, Mexico. Thank you for a wonderful visit. {APPLAUSE} 
+
+{/speech}

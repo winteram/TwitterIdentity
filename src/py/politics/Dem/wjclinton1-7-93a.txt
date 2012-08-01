@@ -1,0 +1,46 @@
+﻿{title} Remarks by the President and Lee Brown, Director of Office of National Drug Control Policy {/title}
+{event} Swearing-in Ceremony {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 1, 1993 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} DURING SWEARING-IN CEREMONY {/description}
+
+{speech} 
+
+Thank you very much. Thank you. Please be seated and welcome to the Rose Garden. I want to acknowledge the presence in our audience of Lee Brown's children; the Attorney General; the Secretary of Transportation; the Secretary of Agriculture; General Powell, the Chairman of the Joint Chiefs of Staff; numerous other distinguished Americans and members of Congress, including: Senator Hatch, Senator Dodd, Senator Cohen, Senator Pressler, and Congressmen Rangel, Conyers, Gilman, and Congresswoman Waters. I may have left someone out, and Senator Kennedy just called to say he was on the way. I think that's all a great tribute to Lee Brown.
+
+We are here today to install a uniquely qualified person to lead our nation's effort in the fight against illegal drugs and what they do to our children, to our streets, and to our communities. And to do it for the first time from a position sitting in the President's Cabinet.
+
+When I named Lee Brown to head the Office of National Drug Control Policy, many called that an inspired choice. I would say that is an accurate characterization because Lee Brown brings three decades of experience in highest law enforcement offices in some of the toughest cities in our country: New York, and Houston, and Atlanta. I know if Mayor Dinkins were here today he would want me to say a special word of thanks for the unique partnership they enjoyed in a safe streets program which clearly lowered the crime rate in many neighborhoods and many categories of crime in New York City.
+
+Lee Brown's leadership in the cause of keeping our communities and citizens safe is unsurpassed, and now he must bring those skills and all that experience to deal with the destructive lure of illegal drugs.
+
+We know that successful drug control does not take place in a vacuum. This is a many-headed monster. Drugs violate our borders when smugglers bring them in as illegal cargo. Our jails are crowded and our court system is overloaded with users and dealers. Crime and violence are brought to communities large and small, and random drive-by shootings, and deliberate killings as well.
+
+Too many young Americans are robbed of their future and many, many of their very lives. For all those reasons, fighting drugs requires a multifaceted offensive and the maximum use of the resources we have as a people. That's what we've been trying to do in this administration. With all the budget cuts and with a fiveyear hard freeze on overall domestic spending, there's a 10 percent increase in the funds in our budget for demand reduction, and a dramatic increase in the funds available for community policing, as well as a clear commitment to include drug treatment in the national health care program that our administration will be advancing in the near future.
+
+But, most important, we now will have an effort that is coordinated as one, pulled together and anchored by Lee Brown. No longer will the Office of the Director of Drug Policy operate separately from the rest of the government, consigned just to being a bully pulpit. Now it will work hand-in-hand with the other Cabinet agencies, and in doing so, our effectiveness will be increased. Our aim is to cut off the demand for drugs at the knees through prevention. That means more and better education, more treatment, more rehabilitation.
+
+At the same time, we want to strangle supplies by putting more officers on the streets, by enforcing the law in our communities, at our nation's borders and by helping our friends and allies to do the same thing beyond our borders. We pledge to work with other nations who have shown the courage and the political will to take on their own drug traffickers who destabilize their own societies and their economies.
+
+Our commitment to all these things is personified in Lee Brown. A tough guy might say he's a drug trafficker's nightmare, a cop with a doctorate. {LAUGHTER} Or, a doctor of criminology with a badge. {LAUGHTER} But the most important thing to me is, he's got a track record of results. How many law enforcement officers in this country -- {APPLAUSE} -- would be proud to look on the record he has amassed of actually reducing the rate of crime in the streets where he has worked.
+
+You know, the insecurity most Americans feel, without regard to income or race, is a truly appalling thing. And anything we can do, not only to give lives back to children who might otherwise become involved in drugs, but to give the streets and the safety of the streets back to ordinary American families of all kinds is a service well done; nd it might mean more to them than anything else this government could produce during my tenure in office and for the foreseeable future.
+
+The work that Lee Brown did in pioneering community policing in Houston and New York is now legendary, with officers on foot patrol knowing their neighbors, working to prevent crime as well as to catch criminals.
+
+This is a fight that surely can unite us all, across the boundaries of party and race and region and income. We are fighting for our families, our children, our communities and our future. Each and every American -- make no mistake about it -- also bears a personal responsibility to play a role in this battle. Anyone who thinks that Lee Brown or anyone else can solve this problem for the American people instead of with the American people has another thing coming.
+
+There are people in this audience today whom I know have worked for decades to try to help come to grips with this issue. Parents educating their children, teachers working hard to prevent crime, law enforcement officers going into the schools, working in programs like the DARE program, people who have worked in drug treatment and know, as I do, from our own family's experience, that it works. All these things are an important part of what we have to do. Make no mistake about it -- we've got to try to get the streets back for our kids, too. We ought to have a time in this country when children don't have to be afraid to go down to the neighborhood swimming pool in the summertime. {APPLAUSE}
+
+I am thankful that Lee Brown has taken on this challenge. He's made the decision to do so at a time in his life when he might have reasonably been expected, for personal and professional reasons, to take a different course. He could clearly be making more money doing something else, he could have far fewer headaches doing something else. He would not have all of us investing so much of our hopes in him if he were doing something else. The simple fact that at this point in his life he resolved to do this says a great deal about him and his character.
+
+I would like now to ask Judge James Watson of the U.S. Court of International Trade to join his friend, Dr. Brown, up here to administer the Oath of Office, and I would like to invite -- James Watson, I'm sorry -- and I'd like to invite Dr. Brown's eldest daughter, Torri Clark, up here to hold the Bible for her father.
+
+Judge Watson. I understand he's a relative of yours, General Powell. Is that right? That's good.
+
+Please come up here so you'll be on the microphone.
+
+{COMMENT="The oath is administered"} {APPLAUSE} 
+
+{/speech}

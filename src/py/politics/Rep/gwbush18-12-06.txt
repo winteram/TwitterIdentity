@@ -1,0 +1,46 @@
+﻿{title} President Signs U.S.-India Peaceful Atomic Energy Cooperation Act {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} December 18, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thanks for coming. Welcome to the White House. Today, I have the honor of signing a bill that will strengthen the partnership between the world's two largest democracies. The relationship between the United States and India has never been more vital -- and this bill will help us meet the energy and security challenges of the 21st century. I want to thank the Congress for delivering this historic bill to my desk. {APPLAUSE} I'm look forward to signing it. {LAUGHTER} 
+
+The "Henry Hyde United States-India Peaceful Atomic Energy Cooperation Act" passed with strong bipartisan support. It is a fitting tribute to its sponsor and the man whose name it carries. During his 32 years in Congress, Chairman Hyde earned the respect of his colleagues on both sides of the aisle. I appreciate his effective and principled leadership. I wish him all the best in his retirement. 
+
+I'm proud to be joined here by Secretary of State Condi Rice. This bill would not have happened without her leadership. {APPLAUSE} I thank very much the members of the Senate and the House who have joined us up here, people from both parties who worked hard to get this bill passed: Senator Bill Frist, and Senator Dick Lugar, and Senator George Allen; Congressman Gary Ackerman, Frank Pallone, Joe Crowley, Thad McCotter. Thank you all for joining us. Thanks for your good work. {APPLAUSE} 
+
+I appreciate our Ambassador, David Mulford, and wife Jeannie, for joining us. Thanks for your good work, Ambassador. I'm also proud to be joined by Ambassador Jassal. I want to thank you for coming, Ambassador. I thank the Indian American community leaders who are here today. 
+
+The Indian American community was vital to explaining this strategic bill to our fellow citizens. I appreciate so very much your carrying the message not only here at home, but in India. And I want you to know that your voice was very effective, and I welcome it. {APPLAUSE} 
+
+The United States and India are natural partners. The rivalries that once kept our nations apart are no more -- and today, America and India are united by deeply held values. India is a democracy that protects rule of law and is accountable to its people. India is an open society that demands freedom of speech and freedom of religion. India is an important ally in the war against extremists and radicals. Like America, India has suffered from terrorist attacks on her own soil. And like America, India is committed to fighting the extremists, defeating their hateful ideology, and advancing the cause of human liberty around the world. 
+
+The United States and India are also working together to expand economic opportunities in both our countries. India's economy has more than doubled in size since 1991 -- and it is one of the fastest-growing markets for American exports. If you visit India today, you are going to see a lot of people using goods and services made by American companies. And that helps raise the standard of living not only in India, but here at home. Trade is good for both countries, and we're going to continue to work with India to promote free and fair trade. 
+
+In our meetings in Washington and in New Delhi, Prime Minister Singh, for whom I have a lot of respect, we discussed the importance of working together to meet the energy needs of our growing economies. We recognize that energy, clean energy is going to be important to the advancement of our economies. And on my visit to India earlier this year, we concluded an historic agreement that will allow us to share civilian nuclear technology and bring India's civilian nuclear program under the safeguards of the IAEA. This cooperation will help the people of India produce more of their energy from clean, safe nuclear power, and that, in turn, will help their economy grow. And it's in our interest that the Indian economy continue to grow. It helps make America more secure. 
+
+As part of the agreement, the United States and India have committed to take a series of steps to make nuclear cooperation a reality, and we're going to fulfill these commitments. The bill I sign today is one of the most important steps, and it's going to help clear the way for us to move forward with this process. 
+
+The bill is going to help us achieve four key goals. 
+
+First, the bill will help us strengthen cooperation between India and United States on one of the most important challenges in the 21st century, and that is energy. India is now the world's fifth largest consumer of energy -- and its demand for electricity is expected to double by 2015. The United States has a clear interest in helping India meet this demand with nuclear energy. By helping India expand its use of safe nuclear energy, this bill lays the foundation for a new strategic partnership between our two nations that will help ease India's demands for fossil fuels and ease pressure on global markets. 
+
+
+Second, the bill will help promote economic growth. This bill helps open a new important market for American businesses by paving the way for investment in India's civilian nuclear industry for the first time ever. This new trade will help American companies gain new customers abroad, and create new jobs here at home. 
+
+Third, the bill will help make it possible for India to reduce emissions -- and improve its environment. Today, India produces nearly 70 percent of its electricity from coal. Burning coal produces air pollution and greenhouse gases -- and as India's economy has grown, emission levels have risen, as well. We must break the cycle, and with nuclear power, we can. We can help India do so, and we can do so here at home by the use of nuclear power. 
+
+Nuclear power is the one source of energy that can generate massive amounts of electricity without producing any air pollution or greenhouse gases. And by sharing advanced civilian nuclear technology, we will help our friend, India, meet its growing demand for energy and lower emissions at the same time. 
+
+Finally, the bill will help keep America safe by paving the way for India to join the global effort to stop the spread of nuclear weapons. {APPLAUSE} India has conducted its civilian nuclear energy program in a safe and responsible way for decades. Now, in return for access to American technology, India has agreed to open its civilian nuclear power program to international inspection. This is an important achievement for the whole world. After 30 years outside the system, India will now operate its civilian nuclear energy program under internationally accepted guidelines -- and the world is going to be safer as a result. 
+
+The bill I'm about to sign is evidence of the growing bonds of trust between our two countries. Congress acted quickly and passed it with overwhelming bipartisan support. You know why? Because the American people have come to see India as a friend. {APPLAUSE} And I view the Prime Minister as a trustworthy man and a friend. I appreciate Prime Minister Singh's leadership on this very important issue. I look forward to continuing to work with him to make civil nuclear cooperation a reality. 
+
+And now it is my honor to sign the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006. {APPLAUSE} 
+
+{/speech} 

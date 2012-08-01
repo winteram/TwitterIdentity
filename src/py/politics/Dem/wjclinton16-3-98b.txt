@@ -1,0 +1,58 @@
+﻿{title} Remarks by the President to the Students And Teachers {/title}
+{event} Springbrook High School, Silver Spring, Maryland {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 16, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President to Students at Springbrook High School {/description}
+
+{speech} 
+
+Thank you very much. Mr. Durso, thank you for welcoming me here to Springbrook. Secretary Riley, thank you for bringing me along. I want to introduce the Secretary of Education, Dick Riley; the Secretary of Energy, Federico Pena. {APPLAUSE} I thank Governor Glendening and Senator Sarbanes, and Congressman Wynn, and the Maryland State Superintendent Nancy Grasmick; your president of the school board, Nancy King, and all the other people from Maryland who have made us feel so welcome.
+
+The Governor of West Virginia, Governor Underwood; and the Mayor of Los Angeles, Mayor Riordan; and other people who were on our panel over there -- I'd like for all the people who came from all over America to be with us to stand up -- Rudy Crew, the superintendent of New York; many other leaders there. {APPLAUSE} Thank you all very much.
+
+Those people came from all over America today to your school to discuss one very important thing for your future -- how can we improve the learning of American students in math and science on the edge of a new century and a new millennium, where so much of the public welfare and so much of people's individual lives will be determined by whether they understand and can use and apply math and science. And I think you ought to give them a hand for doing that. {APPLAUSE}
+
+Now, you may know all this, but I want to give you a few facts to try to demonstrate to you why whether you know anything about math and science, no matter what you do with your life, is likely to make a big difference. For example, in 1993, when I became President, and all of you were in an earlier grade -- {LAUGHTER} -- in 1993, now, just five years ago, there were only 50 -- 50 sites on the web, on the World Wide Web -- 50, total. Today millions of Americans and millions of organizations have web pages, up from 50 in 1993. The White House has one. Your school newspaper has one. My cat has won -- {LAUGHTER} -- 1.5 million new pages are created every day; 65,000 every hour.
+
+Today every one of you is just a click of a mouse away from some of the finest libraries in the world. And someday before long, you'll be able to reach every book, every symphony, every painting ever created through the web.
+
+I know that Bill Nye talked to you about science in ways that were probably infinitely more entertaining than anything I could say, but I'd like to say a couple of serious things to you. Our scientists are on the verge of making dramatic breakthroughs in the treatment of cancer, spinal cord injury, other serious diseases. We have just had a rover on Mars. We're about to put an international space station in the sky the size of three football fields for, in effect, permanent human residence in space.
+
+In the 1980s it took nine years for scientists to identify the gene that causes cystic fibrosis. Last year, because of improvements in genetic research, it took nine days to identify the gene that causes Parkinson's Disease. We're on our way to developing gene chips that will help us prevent illnesses in people even before they happen. A lot of you young people here today, by the time you have your first child and you bring your baby home from the hospital, you will actually be able to have a genetic map which will tell you what your child's genetic strengths are, and weaknesses, what the likely problems your child could have are, what kind of diet your child should follow, what kind of regime you should follow to guarantee your child has the healthiest possible future.
+
+Now, I guess what I'm trying to say is something you doubtless already know, but science and technology and mathematics are profoundly important to the way we live, but they will be even more important to the way you live, you work, you relate to other people, you relate to people all the way around the world.
+
+Now, I know here that preparing for that kind of future is a priority. You have more computers, more students taking computer science than any other school in the county. Congratulations. I hope more students around the country will follow your lead. {APPLAUSE} I hope more of you will go on to college. And you haven't thought of it, I hope you will decide to do it.
+
+I have worked very hard to make sure that when we start this new century, the first two years of college will be as universal as a high school education has been in the latter half of the 20th century. Why? Because we know from all of our census data that young people who have at least two years of college education are likely to get a good job with a growing income. Young people who don't are likely not to get a good job with a growing income. And we know that more and more people have to be able not just to know facts, but to understand how to use them, how to solve problems, how to think creatively.
+
+That's why we've provided now a HOPE Scholarship, a $1,500 tax credit, a reduction to help pay for tuition for the first two years of college; and tax credits for the junior year and senior year in graduate school as well. This is important. {APPLAUSE} We've also simplified the student loan program, made interest tax deductible on student loans -- if you're families or you can save money in an IRA and withdraw it to pay for a college education without having to pay any tax on it. We've increased the number of Pell Grants and the number of work-study slots, and provided for more positions in AmeriCorps for people to earn money to go to college by doing community service. All of this is designed not only to help you individually, but to make your country stronger, because we will need higher levels of education among all our young people in the new century.
+
+Every one of you -- and I wanted to be able to look at every young person in America dead in the eye and say, I don't care what your family's income is, I don't care what your racial or ethnic background is, I don't care how many struggles you've had to overcome, you will be able to afford to go to college because we have created a system which makes it possible for you -- {APPLAUSE}
+
+Now, here's the problem that we face today. Here's why all of these people came here. Not everybody in America has access to the same level of science and math and technology opportunities you do. And not everybody in America -- and I'll bet you not even everybody in this school who should be taking these courses -- is taking them. And that has given us a huge national headache.
+
+Earlier this month we learned that in the Third International Math and Science test, which compares performance of American students with students around the world, that our seniors ranked near the bottom, ahead of only two other countries out of 21, in math and science performance. Now, by contrast, we ranked right at the top in math and science performance at the 4th grade -- right at the top. We ranked second in math and tied for second in science. By the 8th grade we drop to about the middle of the pack. By the 12 grade we're ahead of only two other countries.
+
+This country is still the science and mathematics and technology and research capital of the world. But how long can we go on doing that when we need this knowledge to be more widely shared and we know that only a few people have it? That is the challenge. So I say to you, it's not just important for you to know more math and science personally; it's important for your country and your future that people like you all over this country know more as well.
+
+So what are we going to do about it? Listen to this -- half of all college-bound seniors in America -- forget about the people not going to college -- half of all the people that are going to college have not taken physics or trigonometry. Three-quarters have not taken calculus. Students around the world have to take these courses to get out of high school, in country after country after country.
+
+So I say to you, whether you have to or not, you should take trig, you should take calculus, and you should take physics. No matter what you do for the rest of your life, it will help you and you should take them.
+
+Now, let me also say that we have some things to do. We have to make sure that all of our teachers have the chance to be properly trained. Let's face it -- you know, there are almost 400,000 openings right now in America in computer science. The average entry-level salary is $48,000 a year. That ought to get you interested in taking them in college. {LAUGHTER} The average teacher's salary in America for all teachers -- including those that have been teaching 30 years -- the average salary is well below $48,000 a year, what a 22-year-old or a 23-year-old person can earn coming out of college with this kind of background.
+
+So I want to say something else to you -- you've got a good teacher and you know your teacher is doing this. I've just told you that your teacher could leave, walk out tomorrow and go make $50,000 doing something else -- you ought to thank your teachers for being here and educating you and supporting you. {APPLAUSE}
+
+And I'll tell you what we're going to try to do. We are going to do our best to make sure that schools and school districts and states have the resources to train teachers properly. We're going to challenge all the states to require that the teachers who are teaching courses have real adequate academic preparation in the courses they're teaching. I'm going to urge more and more states and school districts to require you to take more math and science just to get out of high school in the first place.
+
+But before all that happens -- well, you're seniors, it's too late -- I don't mean we're going to impose something on you. {APPLAUSE} I don't mean you have to stay. But you think about this. You think about this -- if you have a little brother or a little sister in the 9th grade or the 8th grade or the 7th grade or the 6th grade, wouldn't you like to know that when your brother or sister gets out of high school if they want to go to college, they can? And wouldn't you like to know that everybody who gets out of high school six years from now will be able to compete with everybody else in the world when they get out of high school six years from now? Isn't this something we owe each other, to make every succeeding year better and better and better?
+
+So I say this, even though -- if you're a senior and you think, oh, my goodness, I'm so glad that Bill Clinton didn't come to my school and give this speech five years ago because they might have changed the rules and made me take all these courses -- even if you think, that you should want your brothers and sisters coming up behind you to take all these courses, because it will be better for our country and for your future if we do it. {APPLAUSE}
+
+I've been told that the motto of this school is, "We expect, we believe, we achieve." {APPLAUSE} Well, when I look at you and I think of where we're going in math and science, I expect America to lead the way. I believe in you to be on the forefront of that. It's up to you to achieve.
+
+Thank you, and God bless you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,26 @@
+﻿{title} President's Remarks to the People of Ironton, Ohio {/title}
+{event} Lawrence County Courthouse, Ironton, Ohio {/event}
+{speaker} George W. Bush {/speaker}
+{date} September 10, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, all. I'm glad you all are here. Thanks for coming out. {APPLAUSE} I want to introduce you -- you know your Senator, Mike DeWine. {APPLAUSE} This is my friend, Senator Zell Miller, from Georgia. {APPLAUSE} One Republican, one Democrat, all united to making this country a better place for everybody. {APPLAUSE}
+
+Thank you all for coming out to say "hello." We're here to ask for the vote in Ironton, Ohio, and I appreciate you giving me a chance. {APPLAUSE}
+
+We've got plans to make this world a safer place, a stronger place, and a better place for every American. I'm here to ask for your help. {APPLAUSE} I'd like to -- I'd like your support, I appreciate your prayers. May God bless you, and may God continue to bless our great country. Thanks for coming out to say "hello." I appreciate you. Thank you, all. {APPLAUSE}
+
+Thank you, Mayor, I appreciate you coming.
+
+{OTHER-SPEAK} President Bush, it is certainly an honor to have you here. We're looking forward to four more years. {/OTHER-SPEAK} 
+
+Thank you, sir. {APPLAUSE}
+
+{OTHER-SPEAK} I have a proclamation here that I know will take awhile to read. And I would also like to present you with a key to the city of Ironton. {/OTHER-SPEAK} 
+
+Oh, yes. {APPLAUSE} Thanks for coming out. God bless. {APPLAUSE} 
+
+{/speech}

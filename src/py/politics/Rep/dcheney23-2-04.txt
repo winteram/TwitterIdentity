@@ -1,0 +1,30 @@
+﻿{title} Remarks by the Vice President at the El Burrito Mercado Restaurant {/title}
+{event} ----- {/event}
+{speaker} Dick Cheney {/speaker}
+{date} February 23, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. {APPLAUSE} Thank you all very much. I've got my wife, Lynne, with me today. {APPLAUSE} In fact, we simply wanted to come by. We had heard about El Burrito Mercado, and wanted to come by and spend a little bit of time. It's useful for us to get out and talk with folks who are out there every day in the real world, dealing with real problems. And you got to get out of Washington sometimes to do that.
+
+But we appreciate very much having the opportunity to spend some time here in the Minneapolis-St. Paul area. And it's especially a pleasure to come talk to somebody who has built a business like the Silvas have. And I know many of you have, as well, too.
+
+Now, as we wrestle with the problems of the economy and how we can provide jobs for all the people who want jobs and pursue the kind of economic growth that's vital for the nation, for the future of our children and grand children, you keep coming back to small businesses, that that's really the engine that drives the ingenuity and a lot of the innovation, but also that creates most of the jobs in our country.
+
+And to have the opportunity to come out and talk with you all about it, get a chance to meet some of you this afternoon is something we appreciate very much. We're obviously in the middle of the debate, getting ready -- starting a new Congress -- about what we're going to do with respect to policy. There will be a debate this year and a campaign, as there should be, about economic policy and what's the right way to go. The President and I believe very deeply that we need to continue with the tax cuts that we started to get the economy cranking again.
+
+When we took over about three years ago, of course, we were just beginning a recession. Then we had the shocks -- the 9/11 attacks, and the terrorist attacks, what that did to tourism and travel and so forth. And as we've -- now we've come out that, but I think a key part of that has been what we tried with tax policy, which is to let people keep more of what they earned on a basis that they knew better than the government how to spend it. And I think the results we're seeing in terms of growth and development have, in fact, proven that right.
+
+Some will argue that now we need to raise taxes, or we need to let those tax cuts expire, not make them permanent. We think that would be a terrible mistake. When you look at things like, for example, what we've done with respect to the death tax, the fact that we've got it set now to phase out down to zero is very important.
+
+I know out my way, I used to be the congressman from Wyoming, when I talk to business people out there, people who have small businesses, or farmers and ranchers, one of the things they worried about was their ability to pass on what they built and created and paid taxes on during their lifetime, and be able to pass that on to their kids and grandkids, and keep it in the family.
+
+And those are the kinds of issues that are involved in making those tax cuts permanent, as well as what we're able to in terms of increasing the ability of business owners to expense investments and to be able to expand their businesses, as well, too.
+
+So we appreciate very much what you all do. You really are what this is all about. Those of us in Washington have the privilege of serving, and I've been there quite a while, although I was out for a while running my own business. It was -- it wasn't a small business. We worked in about a hundred countries around the world. But I started life in a very small business. I actually worked in a candy store for a couple -- when I was in high school. That was my first job. I was about 15 years old. And so I know how much all of you contribute to the community, and how much the Silvas contribute to the community. I appreciate their hospitality today, and their willingness to talk to us about their business and about how things are going. And I want to thank all of you for being here, as well, too.
+
+Thank you all very much. 
+
+{/speech}

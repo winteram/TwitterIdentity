@@ -1,0 +1,19 @@
+﻿{title} Courting the Middle Class {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} September 18, 2000 {/date}
+{source} http://www.pbs.org/newshour {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+One of the things you'll find here, in the spirit of my platform, is that I want to help people help themselves. I don't believe the role of government is to tell people how to run your lives. My plan is one that gives people options, not orders. It's one that trusts individuals to be responsible for decisions they make in life. I trust these good families to love their children. One thing government can do is help them to help themselves. Incredibly enough-- I want you to hear this statistic-- the average family now pays more taxes than they do in housing, food, and clothing combined. The best way to help families is to provide tax relief, is to let them have some more of their own money to provide flexibility in their lives, and so I want to talk about what my blueprint means for working families and middle-class families in America. First, I want to reduce the bottom rate of our tax code from 15% to 10%. That begins to address inequities, helps address inequities in the tax system. Secondly, I want to make sure that no middle-class family pays more than a quarter of their... of their income to the federal government. In other words, the middle class families will pay 25%, no more than 25%, to the federal government. Thirdly, in order to help families, we need to greatly reduce the burden of the marriage penalty on families. What kind of tax code is it... {APPLAUSE} And fourthly, we want to increase the child credit from $500 to $1,000 per child. 
+
+As I was walking through the... I saw the cribs with the youngsters there. I was just thinking about how best... this plan frees people by increasing the child credit. It recognizes the value of children. It says to parents, we're going to give you more options with your own money. And I want you all to know, when you accumulate all the reforms I just mentioned, that accounts for 60% of the tax relief package that I've been describing all across America. 60% of the package goes to helping middle-class families help themselves. One of the things I intend to do is to expand the education savings accounts from $500 to $5,000 per taxpayer per year, to allow families to set aside money for future income, and then we draw on the money on a tax-free basis. 
+
+We trust Americans to be responsible for loving their children. We trust American families, if given more freedom, more flexibility, more options, will make the right choices for the children they bring into this world. It's such a wonderful place to start this week, to be able to be where little babies are born, to see the beginnings of life, the beginnings of what I hope is the American dream for every child from every walk of life, from every background. It begins by strengthening our families. It begins by holding up that value that is so dear to America's future, that families are the backbone of this country, and it recognizes that government must free our families. Thank you for giving me this chance to come to this place of love and compassion. {APPLAUSE} 
+
+
+
+{/speech} 

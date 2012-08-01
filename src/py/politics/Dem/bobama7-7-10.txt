@@ -1,0 +1,92 @@
+﻿{title} Remarks by the President Announcing the President's Export Council {/title}
+{event} Announcing the President's Export Council {/event}
+{speaker} Barack Obama {/speaker}
+{date} July 7, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. {APPLAUSE} Everybody, please be seated. Well, good morning. Thank you, Jim McNerney, for being here. And thank you to members of my Cabinet and my administration for coming. Thank you, Gary Locke, for that introduction and the outstanding work that you've been doing at Commerce to move America's economy forward.
+
+Now, that work has been my driving focus since we walked through these doors a year and a half ago. And at that time, our economy was shrinking at an alarming rate. Nearly 3 million jobs were lost in the last half of 2008. In January 2009 alone, more than 750,000 jobs had been lost here in the United States. So every alarm bell was ringing at the prospect of a second Great Depression.
+
+So our imperative was to stop that freefall and reverse direction -– to get our economy moving and get jobs growing again, which meant we took a series of dramatic and, frankly, sometimes unpopular actions. But as a result of those actions, we broke the recession's momentum, and we're in a much different place today.
+
+Our economy has now grown for three consecutive quarters and created nearly 600,000 private sector jobs in the first half of this year –- a stark contrast to the 3.7 millions we lost over the first half of last year. And despite uncertain world events and the resulting ups and downs in the market, we are moving America forward again.
+
+But the progress we've made to date isn't nearly enough to undo the damage that the recession visited on people and communities across our country. Our businesses are hiring again, but there are still five unemployed workers for each job opening. The economy is growing, but empty storefronts still haunt too many Main Streets. And the truth is the middle-class families that are the backbone of our economy have felt their economic security eroding since long before this recession hit.
+
+So we've got much more work to do to spur stronger job growth and to keep the larger recovery moving. The question is, over the months and years to come, how do we encourage the strong and lasting economic growth required for America to lead in this new century? Where are we going to find the growth necessary to help us address all of our priorities -– from creating jobs and prosperity, to boosting our businesses and our workers, to improving our fiscal health and reducing our long-term deficits?
+
+One thing we know is this growth won't come from an economy where prosperity is based on fleeting bubbles of consumption, of debt; it can't rely on paper gains. We've seen where that led us, and we're not going back. The truth is we've had to face over the past year and a half the truth that if we want to once again approach full employment and fuel real economic growth, then we need to put an end to the policies that got us here, tackle the challenges we've put off for decades, and move this economy forward. We need to lay a new and stronger foundation on which businesses can thrive and create jobs and rising incomes, on which innovators and entrepreneurs can lead the world in generating new technologies and products and services. We have to rely on a new foundation on which America can harness what has made our economy the engine and the envy of the world -- the talent and drive and creativity of our people.
+
+So as business leaders and labor leaders representing some of America's largest corporations and America's workers, that's what I want to talk to you about all today -- because America's success ultimately depends on your success. It's the private sector that has always been the source of our job creation, our economic growth, and our prosperity; and it's our businesses and workers who will take the reins of this recovery and lead us forward.
+
+Same time, some might argue that government has no role to play at all in our economy. But everybody in this room understands that the free market depends on a government that sets clear rules that ensure fair and honest competition, that lives within its means, that invests in certain things that the private sector can't invest on its own. In the absence of this kind of responsible government -– whenever government is dragged too far to one end or the other of the spectrum –- we see negative consequences for our economy.
+
+Too much regulation or too much spending can stifle innovation, can hamper confidence and growth, and hurt business and families. A government that does too little can be just as irresponsible as a government that does too much -- because, for example, in the absence of sound oversight, responsible businesses are forced to compete against unscrupulous and underhanded businesses, who are unencumbered by any restrictions on activities that might harm the environment, or take advantage of middle-class families, or threaten to bring down the entire financial system. That's bad for everybody. That's the reason we pursued Wall Street reforms. And when the Senate takes up its business again, I hope it moves as quickly as possible to finish this chapter and settle this issue.
+
+In the absence of sensible policies that invest in long-term public goods like education or basic research, roads, railways, broadband, a smart electric grid -- an absence of those investments can be equally disastrous. Over time, failure to make such investments slowly degrades our competitiveness, leaving us without the skilled workforce or the technologies or the basic infrastructure that a 21st century economy requires.
+
+So to make sure our workers can out-compete anybody, anywhere in the world, we've invested in the skills and education of our people. Through the Race to the Top, we're challenging our schools to raise their standards. And I've pledged that by 2020, America will once again lead the world in the percentage of students graduating from college -– and by making higher education more affordable, we're on our way to achieving that goal.
+
+To strengthen our standing in a 21st century economy, we've invested in upgrading our critical infrastructure, from high-speed rail to high-speed Internet. We've enacted reforms that will reduce the drag of health care costs on businesses and consumers alike. And we are committed to bringing down the unsustainable debt that has ballooned over the past 10 years.
+
+To spur lasting growth, we've invested in science and technology, research and development, and clean energy projects that will strengthen our global leadership. Eighteen months ago, for example, American companies commanded just 2 percent of the global capacity for advanced battery technology. Today, the seed money we provided has helped leverage substantial private investment, and by 2012, we expect America's capacity to reach 20 percent of the global market -– and as high as 40 percent in 2015.
+
+But government has another responsibility, and that is to remove barriers that stand in the way of opportunity and prosperity so that our people –- all of our people -- our workers, our entrepreneurs, our CEOs –- can build the future that we seek. And that's what I want to focus on now.
+
+In my State of the Union address, I set a goal for America: Over the next five years, we will double our exports of goods and services around the world -– an increase that will boost economic growth and support millions of American jobs in a manner that is deficit-friendly.
+
+Export growth leads to job growth and economic growth. In 2008, American exports accounted for nearly 7 percent of our total employment, one in three manufacturing jobs, and supported 10.3 million jobs in all -– jobs that pay 15 percent more than average. So at a time when jobs are in short supply, building exports is an imperative.
+
+But this isn't just about where jobs are today; this is where American jobs will be tomorrow. Ninety-five percent of the world's customers and fastest growing markets are beyond our borders. So if we want to find new growth streams, if we want to find new markets and new opportunity, we've got to compete for those new customers -– because other nations are competing for those new customers.
+
+As I've said many times, the United States of America should not, cannot, will not, play for second place. We mean to compete for those jobs -– and we mean to win. But we're going to have to change how we do business.
+
+To meet this goal, we launched the National Export Initiative -– an ambitious effort to team up with America's businesses, large and small, and help them unleash their energy and innovation, grow their markets, support new jobs selling their goods and services all across the globe. And we're bringing to bear the full resources of the United States government.
+
+One of the first things we did was establish an Export Promotion Cabinet made up of Cabinet members and senior administration officials whose work affects exports. Yesterday, I assembled this cabinet for an update on our efforts so far. We're going to hold these meetings every few months -– and I've asked for a progress report at our next meeting in September.
+
+But this is about more than what government can do; this is about what our businesses can do. And that's why we are re-launching the President's Export Council, a group that includes business and labor leaders who will offer their unfiltered advice and expertise on how best to promote exports. We've also included congressional leaders and senior representatives of my administration.
+
+And earlier today, members of my Cabinet and I met with this council to begin soliciting advice. And I want to, again, thank Jim, President and CEO of Boeing, as well as Ursula Burns, CEO of Xerox, for agreeing to serve as the chair and vice chair.
+
+Our efforts are off to a solid start. American exports grew almost 17 percent over the first four months of this year compared to the same period last year. Part of this, of course, is due to the global recovery. But we're also moving forward on improving conditions for America's exporters. And since we launched the National Export Initiative, we've made progress across its five objectives.
+
+First, we said that America would be a strong partner and better advocate in the international marketplace for its businesses and workers. And we're going to go to bat for everyone from the largest corporations to the smallest business owner with an idea that she wants to market and sell to the world.
+
+So, for example, already this year, the Commerce Department has coordinated 18 trade missions with over 160 companies that compete in 24 countries, and we've got 8 more planned over the next three months. Their Advocacy Center has assisted American companies competing for export opportunities, supporting $11.4 billion in exports and an estimated 70,000 jobs.
+
+Secretary Clinton recently held a roundtable with businesses in Shanghai, and next week, she'll host another one with Secretary Locke to discuss removing barriers that stand in the way of their success.
+
+Meanwhile, we're moving forward with strengthening our business assistance centers across the country, and in our embassies and consulates abroad, so that they can provide a comprehensive toolkit of services to help potential exporters gain a foothold in new markets and expand -– especially small businesses that might not know how to sell their products abroad.
+
+Second, we're increasing access to export financing for small and medium-sized businesses that want to export their goods and services, but just need a boost. So the Export-Import Bank has more than doubled its loans in support of American exporters since last year, and that step alone has helped support nearly 110,000 jobs.
+
+Third, we're upping our efforts to remove barriers to trade and open new markets and new opportunities for American business. On a global level, this begins with pushing hard in the Doha Round to improve those negotiations so that they have a higher level of ambition in the way that will translate directly into more opportunities for American exporters. Regionally, we're working on the Trans-Pacific Partnership Free Trade Agreement to expand our commercial presence in some of the most dynamic markets in Asia. And where our businesses run up against barriers in individual markets, we are acting.
+
+In March, for example, we reached an agreement with China to reopen their market to American pork and pork products. And last month, during President Medvedev's visit, we reached an agreement with Russia to reopen their market to American poultry. And these steps are worth more than $1 billion to American business.
+
+We're also reforming our own restrictions on exports, consistent with our national security interests. And we hope to move forward on new agreements with some of our key partners. I've instructed U.S. Trade Representative Ron Kirk to begin discussions to help resolve outstanding issues with the pending Korean Free Trade Agreement before my visit to Korea in November. It's an agreement that will create new jobs and opportunity for people in both of our countries.
+
+We also want to deepen and broaden our relations with Panama and Colombia. So we're working to resolve outstanding issues with the free trade agreements with those key partners, and we're focused on submitting them as soon as possible for congressional consideration. And we'll make sure each agreement we pursue doesn't just advance the interests of our businesses, workers, and farmers, but also upholds our most cherished values.
+
+Fourth, as we help American businesses access new markets, we're making sure that the access is free and fair. The United States offers some of the world's lowest barriers to trade, and when we give other countries the privilege of that free and fair access, we expect it in return. Where American producers face unfair trade practices, we'll use every tool at our disposal to enforce trade agreements. Last week, for example, the WTO ruled in favor of the United States on a case that found European governments were subsidizing planes that Airbus manufactures. That practice was unfair and hurt American workers. This ruling will help keep the playing field level and boost American jobs.
+
+And finally, we continue to coordinate with other nations around the world to promote strong, sustainable, and balanced growth. At last month's G20 summit, we built on the actions we took last year -– actions that have replaced global contraction with global growth, and trade that was plummeting with trade that's bounced back.
+
+Sustaining that recovery, however, also involves rebalancing our economies. As I told other leaders at the G20, after years of taking on too much debt, Americans will no longer borrow and buy the world's way to lasting prosperity. We alone cannot be the engines of economic growth. Furthermore, a strong and durable recovery requires that countries not have an undue advantage.
+
+So we discussed the need for market-driven currencies -- and I welcome China's decision to allow its currency to appreciate in response to market forces. Our discussion with China has also addressed the important challenge of how to create a more level playing field for American companies seeking to expand their access to the growing Chinese market. And I made it clear to all that the United States of America is prepared to compete aggressively for the jobs and industries and markets of the future.
+
+The bottom line is this. For a long time we were trapped I think in a false political debate in this country where business was on one side, labor was on the other. There were partisan divides. The argument was either you were pro-trade or you were anti-trade. What we now have an opportunity to do is to refocus our attention where we're all in it together. Businesses, workers, government -- everybody is focused on the same goal.
+
+We live in a interconnected world. There are global challenges and global opportunities. This nation has never shied away from the prospect of competition. We thrive on competition. And we are better positioned than anybody -- as uniquely positioned as ever -- to compete with anyone in the world. We've got the most respected brands, the best products, the most vibrant companies in the world. We've got the most productive workers in the world. We've got the finest universities in the world. We've got the most open, dynamic and competitive market in the world. When the playing field is even, nobody can beat us. And we are upping our game for the playing field of the 21st century.
+
+But we've got to do it together. We've got to all row in the same direction. There's no doubt that these are challenging times. But I'm absolutely convinced that we will rise to meet them -– to grow our economy, to put our people back to work, to forge our own future once more. We are Americans, and that is what we do.
+
+I appreciate all your participation and I'm looking forward to getting busy working with you. Thank you. {APPLAUSE} 
+
+{/speech}

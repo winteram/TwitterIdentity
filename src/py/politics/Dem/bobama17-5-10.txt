@@ -1,0 +1,40 @@
+﻿{title} Remarks by the President Honoring the NCAA Champion University of Connecticut Women's Basketball Team {/title}
+{event} Honoring the NCAA Champion University of Connecticut Women's Basketball Team {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 17, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody! Please, have a seat, have a seat. Well, welcome to the White House, everybody. Congratulations to the UConn Huskies on your second straight undefeated season and your second straight NCAA championship. {APPLAUSE} I want to point out this team has not lost a game since I was elected President. {LAUGHTER} I'm just saying. {LAUGHTER}
+
+I want to acknowledge a few UConn fans who made the trek from the other side of Pennsylvania Avenue. We've got Senators Chris Dodd and Joe Lieberman in the house. {APPLAUSE} And Congressmen John Larson and Joe Courtney are here as well. {APPLAUSE}
+
+Now, when this team came to the White House last year, I was just pointing out to Maya, we went out back -- I've got a little court, we shot a little bit. I'm not going to say who won. {LAUGHTER} But I noticed then there were people who were saying, you know, these Huskies, they've got a little too much swagger, because they said that they'd be back in 2010. They said that at the time. I'm not sure anybody believed them. I believed them, listening to them, and that confidence was well-deserved.
+
+This team has had an unbelievable run. I think most of you know the statistics: Seven of the last 16 NCAA titles; six undefeated regular seasons; four undefeated championship seasons.
+
+And last year, Coach Auriemma promised you guys would go 40-0 this year. It's not your fault that he can't do math very well -- there were only 39 games. {LAUGHTER} So, Coach, you can't win 40 if there are only 39 games. {LAUGHTER} But 39-0 is pretty good. These women beat their own NCAA record to become the first women's basketball team in history to win 78 games in a row over the past two years -- which is just a staggering achievement.
+
+And I was telling them Michelle and I work out in the morning -- we've got a little gym here in the White House. And we'd just watch Sports Center. I know you'll be surprised that we don't watch the news shows. {LAUGHTER} But this is really true. During the entire season, I just kept on repeating, and I truly believed this was the best team in all of sports, any sport, any gender, by far. {APPLAUSE} And that's just something that made us all very proud.
+
+I want to point out that Coach Geno's teams have had a 100 percent graduation rate over the past 25 years. {APPLAUSE} And that's true again this year -- because these players work as hard in the classroom as they do on the court.
+
+I want to congratulate the seniors that graduated last week -- if I'm not mistaken, number one WNBA draft pick Tina Charles -- {APPLAUSE} -- is going to be graduating. Jacquie Fernandes, Meghan Gardler, Kalana Greene and Kaili McLaren. Give them all a big round of applause. {APPLAUSE} Congratulations to Tina for winning the Naismith Trophy as player of the year -- for graduating as UConn's all-time scoring leader.
+
+I do have to say, though, Maya has her sights set on that record. She's coming after it. {LAUGHTER} And, Maya, congratulations on being named the Final Four's most valuable -- most outstanding player. When you consider that Maya says she approaches her academics as she does her basketball, it's no surprise that she was named first team Academic All-American for the third year in a row. That is worth an applause. {APPLAUSE}
+
+So obviously this team was under enormous pressure this season. Everyone was watching and waiting for them to stumble, figuring out -- figuring there was no way for them to go undefeated again. When your toughest test came in this year's national championship game -- you trailed the longest that you had all year -- you came out swinging in the second half and brought that championship home yet again to the Storrs community that loves and believes in you so deeply.
+
+And when you're at home in Storrs, you apply that same winning attitude off the court. You read with elementary children, spend time with cancer patients. Today, you brought that sense of service to Washington, visiting wounded warriors in Walter Reed. And I know they were thrilled to see you.
+
+Whether it's winning a national championship, balancing practice with schoolwork, or serving others, these young women made it all look easy, despite the fact that we all know they put in enormous amounts of work. It's that perseverance and dedication and that will to succeed that makes them so special.
+
+And that's why every single one of these young women sets a terrific example for girls and women today -- as athletes, as scholars and as leaders. And I think, Coach, you have just been an extraordinary leader, and I think all of us are extremely proud of the example that you've set.
+
+So, as your President, I commend you for setting that example. As the father of two tall girls -- {LAUGHTER} -- who are also very cute and -- {LAUGHTER} -- also do great work in the classroom -- I'm just so glad that they've got all of you to look up to, and I thank you for it. I will say I will be very impressed if you make it here a third time in a row. {LAUGHTER}
+
+Congratulations to all of you. Give them a big round of applause. {APPLAUSE} 
+
+{/speech}

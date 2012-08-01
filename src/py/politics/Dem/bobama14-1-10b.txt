@@ -1,0 +1,48 @@
+﻿{title} Remarks by The President at Opening Session of the Forum on Modernizing Government {/title}
+{event} Opening Session of the Forum on Modernizing Government {/event}
+{speaker} Barack Obama {/speaker}
+{date} January 14, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Please have a seat, everybody. Thank you so much. Well, good afternoon, everyone, and thanks for all of you for being here today.
+
+I'd like to recognize the Deputy Cabinet Secretaries who are with us for their leadership at our agencies. And it's exciting to see the leaders of some of the most innovative, cutting-edge, tech-savvy companies in the world gathered in the city where I had to fight tooth and nail just to get a BlackBerry. {LAUGHTER} There may be a little bit of a cultural clash here, but that's exactly why we want you here. I really appreciate the time all of you have taken to be in Washington for this forum. I know how busy all of you are.
+
+We stand in the midst of challenging times for our economy -- I don't think that's any secret. And I know that many of you have felt these challenges in your industries and in your businesses -- some of you have felt them quite acutely. But I also know how you've managed to meet them, and managed through them -- experimenting and innovating and finding new ways to increase productivity and better serve your customers. We're here today because I believe your government should be doing exactly the same thing.
+
+When I first started campaigning for this office, I said I wanted to change the way that Washington works. And when I said that, I meant how it works for the American people. I meant making government more responsive to their needs. I meant getting rid of the waste and the inefficiencies that bloat our deficits and squander their hard-earned savings. I meant finally revamping the outdated technologies and information systems that undermine our efficiency and threaten our security, and fail to serve their interests. And I asked all of you to this Forum on Government Modernization today because I believe that this last objective -- bringing our government into the 21st century -- is critical to achieving all those other objectives.
+
+Now, I can say without any hesitation that our government employees are some of the hardest-working, most dedicated, most competent people I know. Government workers get a bad rap. They are dedicated; they put in a lot of hours and they care deeply about what they do. And they desperately want to provide the very best service for the American people. But all too often, their best efforts are thwarted because the technological revolution that has transformed our society over the past two decades has yet to reach many parts of our government. Many of these folks will tell you that their kids have better technology in their backpacks and in their bedrooms than they have at the desks at their work.
+
+To this day, there are still places in the federal government where reams of yellow files in manila envelopes are walked from desk to desk, or boxes of documents are shipped back and forth between offices because files aren't yet online. Believe it or not, in our patent office -- now, this is embarrassing -- this is an institution responsible for protecting and promoting innovation -- our patent office receives more than 80 percent of patent applications electronically, then manually prints them out, scans them, and enters them into an outdated case management system. This is one of the reasons why the average processing time for a patent is roughly three years. Imminently solvable; hasn't been solved yet.
+
+Even worse, too often, when we've attempted to update or replace outdated technology, we end up spending exorbitant sums of money on technologies that don't meet our needs -- or that took so long to implement that they were obsolete before we even started using them.
+
+I just met with Department of Veterans Affairs Eric Shinseki, who, a veteran himself, cares so deeply about making sure that veterans get their claims processed efficiently. We've been talking for 10 years about putting electronic systems in place for Veterans Affairs to reduce the backlog, and so far it has not yet happened -- not because people don't want it to happen, but partly because previous purchasing decisions have mismatched what VA has with what the Department of Defense has; they don't speak to each other, they don't merge.
+
+None of this is acceptable -- particularly at a time when we're experiencing such economic difficulty and so many people are struggling. We've got to get the best bang for every single dollar that the government has in its possession. And when Washington lags a generation behind in how we do business that has real and serious impact on people's lives. When we waste billions of dollars, in part because our technology is out of date, that's billions of dollars we're not investing in better schools for our children, in tax relief for our small businesses, in creating jobs and funding research to spur the scientific breakthroughs and economic growth of this new century.
+
+And we know that the tools, the technology, the solutions are out there. You know because you put them in place every day. It's time we started putting them to work for the American people. If you can book dinner on Open Table, or a flight on Southwest or United online, then why shouldn't you be able to make an appointment at your local Social Security office the same way? If you can track your UPS package with your iPhone, then why not be able to check the status of your citizenship application on a website, rather than having to write a letter and wait for a letter back?
+
+Now, these are simple, cost-effective steps -- ones which we've already taken, or at least are in the process of taking. But these are just the beginning. Going forward, I want to see solutions like this in every agency. I want to ask ourselves every day, how are we using technology to make a real difference in people's lives? How are we making it easier for small business owners to get loans so they can open their doors and expand their operations and create new jobs? How are we helping young people get student loans, so they can get the education they need to pursue their dreams? How are we ensuring that the brave men and women who've served this country get their benefits as quickly and as easily as possible? How are we cutting costs and reducing our deficit so that our children and our grandchildren aren't saddled with debt?
+
+Improving the technology our government uses isn't about having the fanciest bells and whistles on our website -- it's about how we use the American people's hard-earned tax dollars to make government work better for them. And this is something I'm very serious about.
+
+Now, this is why I appointed the very first ever federal government CIO and CTO -- and Vivek Kundra and Aneesh Chopra are both coordinating our efforts and ensuring that we're embracing the best, most effective technologies possible.
+
+It's also why we introduced our IT Dashboard at usaspending.gov. Here's a website, which I've personally reviewed, where the American people can monitor every IT project in the federal government. If a project is over budget, or behind schedule, this site tells you that, and by how much -- and it provides the name, the email and the phone number of the person responsible. To date, the site has gotten 78 million hits. We've already terminated a number of projects that weren't performing -- and going forward, we won't hesitate to cut more and then take that money and reinvest it in someplace that's actually going to make a difference.
+
+But here is the reason all of you are here -- we can't do this alone. Many of you are pioneers -- harnessing new technologies to build thriving businesses; some of you have revolutionized industries; you've changed the ways that we look at the world. And if I had any doubt about how much government has to learn from all of you, then the homework assignment you all completed would have certainly convinced me otherwise. I think the depth and the thoughtfulness of your responses indicates that all of you spent real time on preparing for today, and I deeply thank you for it.
+
+I hope all of you will continue those efforts at the forum today. I want the very best of what you've got. I want you to tell us not just what we can do to better serve the American people, but how we can do it. How we can do it without spending a whole lot of taxpayer dollars is especially what I want to hear from you.
+
+And I also want to emphasize I don't want to just hear your input today -- we're going to need it in the months and years ahead as well. A lot of this stuff takes time to implement, even when it's implemented well. That's why I've charged our Federal Chief Performance Officer, Jeff Zients, who you already heard from, to work with Vivek and Aneesh, and all of you, to make sure the changes we make have a lasting impact.
+
+We'll need each of you to keep stepping up and sharing your insights and your ideas and your expertise. We're going to need you to help us build the kind of government that the American people expect and the kind of government that they deserve -- and that's one that spends their money wisely, serves their interests well, and is fully worthy of their trust and their respect.
+
+So that's the purpose of today's forum; that's the ongoing mission of this administration. And I very much look forward to hearing what you have to offer us. Thank you very much for being here, everybody. {APPLAUSE} 
+
+{/speech}

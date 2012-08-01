@@ -1,0 +1,38 @@
+﻿{title} President Discusses Embryo Adoption and Ethical Stem Cell Research {/title}
+{event} The East Room {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 24, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. Please be seated. Good afternoon, and welcome to the White House. I have just met with 21 remarkable families. Each of them has answered the call to ensure that our society's most vulnerable members are protected and defended at every stage of life.
+
+The families here today have either adopted or given up for adoption frozen embryos that remained after fertility treatments. Rather than discard these embryos created during in vitro fertilization, or turn them over for research that destroys them, these families have chosen a life-affirming alternative. Twenty-one children here today found a chance for life with loving parents. {APPLAUSE}
+
+I believe America must pursue the tremendous possibilities of science, and I believe we can do so while still fostering and encouraging respect for human life in all its stages. {APPLAUSE} In the complex debate over embryonic stem cell research, we must remember that real human lives are involved --both the lives of those with diseases that might find cures from this research, and the lives of the embryos that will be destroyed in the process. The children here today are reminders that every human life is a precious gift of matchless value. {APPLAUSE}
+
+I appreciate Mike Leavitt, Department of Health and Human Services, for being here. He's the Secretary of the Department of Health and Human Services. I picked a really good man to take on this assignment. He's doing a fine job. {APPLAUSE}
+
+I want to thank the Executive Director of Nightlight Christian Adoptions, Ron Stoddart, for joining us today. Welcome. {APPLAUSE} I want to thank Lori Maze, the Director of Snowflakes Frozen Embryo Adoption program. Welcome, Lori. Thank you for coming. {APPLAUSE} And thank you all for being here.
+
+The rapid advance of science presents us with the hope of eventual cures for terrible diseases, and with profound moral and ethical dilemmas. The decisions we make today will have far-reaching consequences. So we must aggressively move forward with medical research, while also maintaining the highest ethical standards.
+
+Research on stem cells derived from human embryos may offer great promise, but the way those cells are derived today destroys the embryo. I share the hope of millions of Americans who desperately want to find treatments and cures for terrible diseases such as juvenile diabetes and Parkinson's disease. That is why my administration completing -- completed the doubling of the NIH budget to $29 billion a year, to encourage research. I also made available for the first time federal funds for embryonic stem cell research in order to explore the potential of these cells.
+
+But I also recognize the grave moral issues at stake. So, in August 2000 first -- 2001, I set forward a policy to advance stem cell research in a responsible way by funding research on stem cell lines derived only from embryos that had already been destroyed. This policy set a clear standard: We should not use public money to support the further destruction of human life. {APPLAUSE}
+
+Under this policy we have supported a great deal of ethical research. About 600 shipments of eligible stem cell lines are already being used by researchers across the country, and over 3,000 more shipments are still available. We've increased funding for all forms of stem cell research by more than 80 percent since I took office. A tremendous amount of both public and private research is underway in America on embryonic, as well as adult stem cells, and stem cells from umbilical cord blood.
+
+Today the House of Representatives is considering a bill that violates the clear standard I set four years ago. This bill would take us across a critical ethical line by creating new incentives for the ongoing destruction of emerging human life. Crossing this line would be a great mistake.
+
+Even now researchers are exploring alternative sources of stem cells, such as adult bone marrow and umbilical cord blood, as well as different ethical ways of getting the same kind of cells now taken from embryos without violating human life or dignity. With the right policies and the right techniques, we can pursue scientific progress while still fulfilling our moral duties.
+
+I want to thank Nightlight Christian Adoptions for their good work. Nightlight's embryo adoption program has now matched over 200 biological parents with about 140 adoptive families, resulting in the birth of 81 children so far, with more on the way. {APPLAUSE}
+
+The children here today remind us that there is no such thing as a spare embryo. Every embryo is unique and genetically complete, like every other human being. And each of us started out our life this way. These lives are not raw material to be exploited, but gifts. And I commend each of the families here today for accepting the gift of these children and offering them the gift of your love. {APPLAUSE}
+
+Thank you for coming today. By the way, we're having a little birthday gathering just in a second for Tanner and Noelle. You all are invited to partake in a little birthday cake. {LAUGHTER} In the meantime, may God bless you and your families, and may God continue to bless our country. Thank you. {APPLAUSE} 
+
+{/speech}

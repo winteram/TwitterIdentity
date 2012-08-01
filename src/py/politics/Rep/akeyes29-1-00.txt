@@ -1,0 +1,41 @@
+﻿{title} Speech in Franklin, New Hampshire {/title}
+{event} ----- {/event}
+{speaker} Alan Keyes {/speaker}
+{date} January 29, 2000 {/date}
+{source} http://www.renewamerica.us {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Well, first of all, thank all of you for coming. We've had a very lovely afternoon here today. I had a chance to meet some folks up and down the street there in Franklin. And actually, I guess -- maybe unusually, I'm not sure, for this campaign context -- I actually found a couple of folks who were actually willing to talk about the issues. This is always good. And more surprising to them, they found a candidate who was actually willing to talk about the issues. Golly!
+
+I actually think, though, that whether you look at it from the point of view of political expediency, or from the point of view of what this country requires as we step into the new century ahead, there is, in fact, one overriding issue of importance to this nation's life -- and that is the issue of our allegiance to the moral principles on which our country was founded. {APPLAUSE}
+
+And of course, in the last several years we've seen all kinds of evidence that our departure from the moral heritage of our country is beginning to have effects that are very destructive -- in terms of our institutions and our leadership. They have produced an episode more shameful, perhaps, than any in the history of the country. They have revealed a degree of moral paralysis and timidity in our representatives that does not bode well for the future of our institutions.
+
+But I don't think the moral crisis of this country is about one man, one party, or even one institution in our society. I think it's about us. It's about who we are, as a people, and who we mean to be, and whether or not we are going to reclaim the character and identity that is needed to hold on to and perpetuate our liberty. That's a very serious challenge in every generation of America's life, but it is especially so for us, because I think we've come to that crisis that Lincoln and others predicted -- the crisis that will determine the fate of our institutions of self-government, because it involves the question of whether or not we, in fact, in our actions, and choices, and in our hearts, respect the moral requirement of our freedom.
+
+Our founders articulated a clear and great principle when the nation was founded, that our rights come from the Creator, God. Those rights are the basis of our elections, of our self-government, of our due process in the courts, of our sense of security in our life, and person, and property. But they rest upon a single, clear premise: that our rights come from God and must be exercised with respect for the authority of God. {APPLAUSE}
+
+In the course of the last thirty-odd years, we've turned our back on that one, though. As a result of the Supreme Court's decision in Roe vs. Wade, we, sadly, have gone from a regime that respects that basic truth to one that now is trying an experiment that I think is very dangerous. It harks back to the days of slavery in the pre-Civil War era -- an experiment based on believing that the rights of our humanity are conditioned by human choice, rather than based on the unconditional will of God.
+
+If we stay on this road, we'll lose everything that is valuable in our free way of life. It is not possible for us to remain today a society in which we have thrown away the idea that every human being, regardless of their power, or position, or circumstance, has a dignity that rests on a claim that is not subject to human choice. It's not possible for us reject that and remain free -- and I mean that both in a principled sense, but also in a literal sense. That's the basis for conscience, and self-control, and self-discipline. Lose those things, and freedom becomes a curse. It leads to violence, and to broken families, and to broken homes. It leads to schools in which the environment is no longer conducive to education because it is colored by fear, and anxiety, and violence.
+
+We are seeing these symptoms all around us now, throughout our society, touching up as individuals in our lives. These are not abstractions. These are real consequences that come from our unwillingness to acknowledge that moral heritage is the indispensable condition of liberty.
+
+I think that our top priority, therefore, has to be to address these moral issues, to restore our allegiance to our great moral principles, and then -- on the basis of our restored moral self-confidence -- to begin to reclaim, in those areas of our lives where we have surrendered rights and responsibility, to begin to reclaim those rights.
+
+That's why I think it's important that we should stand forward to reclaim control of our money, by abolishing the income tax and returning to a system of taxation that puts the control and decision-making power and responsibility back in the hands of the people, themselves. {APPLAUSE}
+
+I think that it's important, as well, to reclaim control of our future. As we restore respect for that principle which allows the children who are the bearers of that future to sleep peacefully in the womb, I think we need to reassert our responsibility for that future by restoring control of our schools to the hands -- not of government, not of state government, not of local government -- to the hands of the parents who stand before God as responsible for the education of their children.
+
+I think these things are critical to our future success. But they rest, in the end, on our willingness to renew our self-confidence by restoring our faith and allegiance in the moral heritage and the moral principles of our country. That's why I spend so much time talking about the issue of abortion, because it is an issue that epitomizes this moral challenge -- an issue that constitutes the explicit rejection of our most important moral principles.
+
+Until we have gotten it right again, until we have brought our position on this in line once again with the principles of our great Declaration of Independence, we will not be able to renew our moral strength, we will not be able to face our future with confidence.
+
+But if we do, then I think we need have no fear. Great horizons of opportunity are opening up -- based on our science and on our technology, based on our renewed willingness to work together as one people, as one nation under God. If we, in fact, rediscover that common moral ground, then we can move forward into the new century sure that we shall fulfill what is, in each generation, the responsibility of Americans to pass on the blessings of liberty to new generations, to hold high the better hope that we are supposed to represent -- not just for our children, but for people all over the world.
+
+God bless you. {APPLAUSE}
+
+{/speech} 

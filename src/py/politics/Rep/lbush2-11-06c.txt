@@ -1,0 +1,58 @@
+﻿{title} Mrs. Bush's Remarks at Iowa Victory 2006 Rally {/title}
+{event} Five Sullivan Brothers Convention Centet, Waterloo, Iowa {/event}
+{speaker} Laura Bush {/speaker}
+{date} November 2, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all, thanks so much. Thank you, Mike. Thank you, Mike and Jim. I'm honored today to be standing with these men -- Jim Nussle, who's running for governor, Mike Whalen who's running for Congress, and, of course, your great U.S. senator, Charles Grassley. {APPLAUSE}
+
+Also with us today is Ray Hoffman, the Chairman of the Republican Party of Iowa, the State Auditor David Vaudt, who's running unopposed. Those are the kind of races we all wish we had. {LAUGHTER} I think Mary Ann Hanusa is here, who's running for Secretary of State. Mary Ann, I hope -- is she here? Great, good. Good to see you, Mary Ann. And then, of course, I have to recognize Karen Nussle and Kim Whalen, who are here with us on the stage. When your spouse is in politics, you're involved whether you want to be or not. {APPLAUSE} And we know that successful candidates are the ones whose families are there with them the whole time. And so I want to thank both Kim and Karen for your support.
+
+I'm delighted to be with you today to support Mike Whalen's campaign for the United States Congress. {APPLAUSE} And I'm so happy to have this chance to campaign with Congressman Jim Nussle in his election for governor. {APPLAUSE}
+
+These men care deeply about the people of your state. And in Washington and Des Moines, they'll be passionate advocates for Iowa's families.
+
+Kim and Mike Whalen were partners even before they were married, when Mike hired Kim to be the bookkeeper for his new business. In 1978, Mike had just graduated from Harvard Law School and he'd taken the bar exam. Two days after the bar exam, he opened a restaurant in Davenport along Interstate 80. Ever since, Mike has been a successful restaurateur. Even when he's in a business meeting, they say that Mike will pick up the coffeepot and begin pouring coffee for everyone without even thinking about it. So when Mike says he's committed to serving the people of Iowa, he means it. {APPLAUSE}
+
+Mike will bring to Congress the principles of efficiency and accountability that have defined his successful business career. He'll make sure Iowa's tax dollars are spent wisely and responsibly. He supports the Presidential Line Item Veto, which will help eliminate unnecessary spending from the federal budget.
+
+Mike Whalen supports tax cuts. The tax cuts that were enacted over the last six years have fueled our economy, and they've added 6.6 million new jobs since 2003. That means 6.6 million more Americans wake up with the dignity and the sense of purpose that comes with a job.
+
+And here in Iowa, your unemployment rate is a low 3.4 percent. Congratulations to the hard-working Iowans. {APPLAUSE}
+
+Mike Whalen is dedicated to bringing jobs to Iowa. Mike first learned the value of a job when he was 14 and employed as an entry-level salad bar worker at a local restaurant. I just told you how Mike opened his own restaurant after he graduated from law school. That one restaurant has grown into a full business -- Heart of America, Inc. Mike's company now operates 18 restaurants, and nine hotels and motels, in Iowa and five other states.
+
+These enterprises promote Iowa cooking. Mike's best-known restaurant, the Iowa Machine Shed, has introduced the public to new methods of serving pork, turkey, and other Iowa agricultural products, boosting your state's farming industry. In good economic times and bad, Mike's dedication and skill have sustained his business, and created thousands of Iowa jobs. {APPLAUSE}
+
+Jim Nussle is dedicated to improving employment opportunities in your state. Corn production is vital to Iowa's economy, and one of the many promising uses for corn is as an alternative source of energy. Congressman Nussle has worked to make our country less dependent on foreign sources of oil. He promotes renewable fuels, including ethanol and biodiesel. As governor, Jim's support for alternative energy will create good agriculture jobs in your state.
+
+As Chairman of the House Budget Committee, Jim has consistently supported tax cuts. In Des Moines, he'll work to reform the tax code, which will improve the business climate for Iowa entrepreneurs so they can create high-paying jobs. And these jobs will keep young Iowans home, and help them raise their families here in your state. Thank you very much, Jim. {APPLAUSE}
+
+Offering young people the hope of good employment is one of the most important things we can do for our children. Another way we can help young people is by steering them away from risky behaviors and guiding them toward the knowledge and the self-respect they need to build successful lives.
+
+Mike Whalen has a strong record of commitment to young people. He launched a Christian radio station to provide Iowa youth with music that carries a positive and encouraging message. Four years ago, Mike and Kim co-founded the Wildwood Hills Ranch in St. Charles, Iowa. Wildwood Hills serves abused and needy youth from across your state. The ranch offers summer camps that allow children to explore the outdoors, and develop healthy new interests like swimming and horseback riding.
+
+At Wildwood, young people build character, leadership skills, and self-confidence in a supportive and faith-based environment. Thank you, Kim and Mike, for this very important work. {APPLAUSE}
+
+We all know, though, that the well-being of young people in Iowa and across our country ultimately depends on our government's ability to protect them -- by defeating terrorism and by increasing liberty abroad. In Congress, Mike Whelan will be a champion of the men and women of the United States military. {APPLAUSE}
+
+All of us are proud of the men and women who are deployed around the world defending our country. Every day, thousands of men and women risk their lives overseas to make sure that their families, and all of our families, are kept safe here in the United States.
+
+Mike Whalen stands with our troops. {APPLAUSE} He understands that this election is critical to the future of our country. And he knows that America faces challenges too important to be reduced to just politics.
+
+Ending our dependence on foreign oil, reforming our immigration system, rebuilding the Gulf Coast, and keeping our country safe from terrorism are not easy tasks, but they're absolutely vital goals. To accomplish them, we must have serious national conversations, conducted with civility and respect.
+
+The right to have these conversations is part of what makes our country great, and our democracy strong. We must be mindful that people around the world are listening to these discussions. Responsible candidates understand that the men and women of our military are risking their lives for us overseas, and that we must conduct the debate here at home in a way that does not jeopardize our troops in harm's way.
+
+Mike Whalen understands his responsibility to you and to our country. So it's so important that we stand with Mike during this important time in our country's history. {APPLAUSE}
+
+Thanks to each and every one of you for your support for Mike Whalen and Jim Nussle. Thanks especially to all the volunteers out there in the audience who are working hard making the phone calls and knocking on doors.
+
+We're looking forward to Election Day. This is a spirited contest, and we've got great candidates. And we've got the best grassroots volunteers. Our candidates are depending on you, so be sure to get everyone you know to the polls, go to the phone banks, knock on those doors, and talk to your friends and neighbors about Mike Whalen and Jim Nussle and all of Iowa's great Republican candidates. They need your support, and our country needs them. {APPLAUSE}
+
+Thank you all so much for coming out today. Thank you for working hard to make sure Mike Whalen and Jim Nussle are elected on November 7th. Thank you all very, very much. {APPLAUSE} 
+
+{/speech}

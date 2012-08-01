@@ -1,0 +1,82 @@
+﻿{title} Howard Dean Addresses Supporters {/title}
+{event} ----- {/event}
+{speaker} Howard Dean {/speaker}
+{date} January 19, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Well, you guys, you have already got the picture here. I was about to say, you know, I'm sure there are some disappointed people here. You know what? You know something? You know something? 
+
+If you had told us one year ago that we were going to come in third in Iowa, we would have given anything for that. 
+
+And you know something? You know something? 
+
+Not only are we going to New Hampshire, Tom Harkin, we're going to South Carolina and Oklahoma and Arizona and North Dakota and New Mexico, and we're going to California and Texas and New York. And we're going to South Dakota and Oregon and Washington and Michigan. And then we're going to Washington, D.C. To take back the White House. Yeah. {APPLAUSE}
+
+We will not give up. 
+
+{AUDIENCE} No! {/AUDIENCE} 
+
+We will not give up in New Hampshire. We will not give up in South Carolina. We will not give up in Arizona or New Mexico, Oklahoma, North Dakota, Delaware, Pennsylvania, Ohio, Michigan. 
+
+We will not quit now or ever. We'll earn our country back for ordinary Americans. {APPLAUSE}
+
+I -- and we're going to win in Massachusetts. And North Carolina. And Missouri. And Arkansas. And Connecticut. And New York. And Ohio. {APPLAUSE}
+
+Let me -- wait a minute. Wait a minute. Wait. 
+
+I -- there are some polite things we have to do here. And the first is to thank some people. And I want to thank Jeani Murray and her extraordinary Iowa people. She has worked so hard. 
+
+Come on up here, Jeani. Come on up. Come on up. Jeani Murray. Come on. {APPLAUSE}
+
+Let me thank Jeani and all her people in Iowa. You worked hard. You got our ticket punched to New Hampshire and I appreciate it. 
+
+You should be so proud of it. You are a hardworking Iowa staff. 
+
+Let me thank -- let me thank Tom Harkin. You are so lucky. {APPLAUSE}
+
+You are so lucky. You are so lucky to have a United States senator who understands what it is to stand up for ordinary Americans. And he is the leader in the United States Senate to take our country back for ordinary Americans again. {APPLAUSE}
+
+Let me thank Burt Libadel and Dave Nagle, two former congressmen from Iowa who have been all over Iowa for us, helping us. 
+
+I don't know where Dave is tonight, but I want to thank him. 
+
+Let me thank the International Union of Painters and Allied Trades for standing up. {APPLAUSE}
+
+Let me thank the American Federation Of State And County And Municipal Employees for all the help they've been. The Service Employees International Union, SEIU, thank you so much. 
+
+But most of all, let me thank you from all over America, coming to change this country. We haven't seen this in 30 years. 
+
+Now, in my generation was the last time I saw all this stuff going on with people your all age, under 30 years old. And we were a little more -- we were -- what? 
+
+Now, when I was -- when I was your age -- when I was your age, we did change two presidents and change the foreign policy of the United States of America. 
+
+Now, the only difference is it took six years. And we've got six months to go before we're going to do it here. {APPLAUSE} This is the changing of the generations, the passing of the torch to the new generation. It is your generation. And it's your generation that's fueling this campaign because you know that the half trillion-dollar deficit this president is piling up are going to be billed to you and your children, because of the terrible damage this president is doing to the environment are going to be things that you're going to have to live with. 
+
+And we're going to change that. And you have the power to change that. And we are starting right tonight. {APPLAUSE}
+
+We have just begun to fight. We have just begun to fight. 
+
+And we're going to fight and fight and fight until this country becomes a place where we'll put more money into small children and their families than we will into prisons. {APPLAUSE}
+
+Where, instead of giving $16 billion worth of tax breaks to oil companies and gas companies, we'll put it into renewable energy and ethanol and biodiesel. {APPLAUSE}
+
+Where, instead of giving $200 billion to the HMOs and insurance companies and the pharmaceutical companies, we'll give seniors a real prescription benefit. {APPLAUSE}
+
+I would have liked to come in first tonight, and so would you. But you know what? I want to thank the people of Iowa. I do. I have spent two years here. I've gone to all 99 counties. This is a wonderful, wonderful state with wonderful, wonderful people, and I appreciate very, very much. {APPLAUSE}
+
+I have called Senator Kerry and Senator Edwards and congratulated them and told them we would see them around the corner on the other side of the block starting tomorrow morning. {APPLAUSE}
+
+I have called Representative Gephardt and thanked him for a courageous run. I worked for him in 1988. I still feel some loyalty to him. He did the best he could, and I appreciate his long career of service for the United States of America. {APPLAUSE}
+
+And now I want every single one of you who can do it to go to New Hampshire. And if you can't go to New Hampshire, I want you to go to Arizona or New Mexico or Oklahoma or Delaware or South Carolina or North Dakota. {APPLAUSE}
+
+{AUDIENCE} Dean, Dean, Dean, Dean. {/AUDIENCE} 
+
+Viva New Mexico. Si se puede. Si se puede. Si se puede. Si se puede. {APPLAUSE}
+
+
+{/speech} 

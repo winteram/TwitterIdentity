@@ -1,0 +1,46 @@
+﻿{title} Remarks by the President And Vice President to Silicon Graphics Employees {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 22, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+First of all, I want to thank you all for the introduction to your wonderful company. I want to thank Ed and Ken --we saw them last night with a number of other of the executives from Silicon Valley -- people, many of them with whom I've worked for a good length of time; many of whom the Vice President's known for a long time in connection with his work on supercomputing and other issues.
+
+We came here today for two reasons, and since mostly we just want to listen to you I'll try to state this briefly. One reason was to pick this setting to announce the implementation of the technology policy we talked about in the campaign, as an expression of what we think the national government's role is in creating a partnership with the private sector to generate more of these kinds of companies, more technological advances to keep the United States always on the cutting edge of change and to try to make sure we'll be able to create a lot of good new jobs for the future.
+
+The second reason -- can I put that down? We're not ready yet for this. The second reason I wanted to come here is, I think the government ought to work like you do. {APPLAUSE} And before that can ever happen we have to be able to get the people, the Congress, and the press who have to interpret all this to the people to imagine what we're talking about.
+
+I have, for example, the first state government in the country that started a total quality management program in all the departments of government, trying to figure out how we could reinvent the government. And I basically believe my job as President is to try to adjust America in good ways so that we can win in the 21st century, so that we can make change our friend and not our enemy.
+
+Ed said that you plan your new products knowing they'll be obsolete within 12 to 18 months, and you want to be able to replace them. We live in an era of constant change. And America's biggest problem, if you look at it through that lens, is that for too many people change is an enemy, not a friend. I mean, one reason you're all so happy is you found a way to make change your friend, right? Diversity is a strength, not a source of division, right? {APPLAUSE} Change is a way to make money, not throw people out of work, right?
+
+If you decentralize and push decisions made down to the lowest possible level you enable every employee to live up to the fullest of their ability. And you don't make them -- by giving them a six-week break every four years, you don't force them to make these sharp divisions between your work life and your private life. It's sort of a seamless web. These are things we need to learn in America, and we need to incorporate even into more traditional workplaces.
+
+So I'd like to start -- we'll talk about the technology policy later, and the Vice President, who had done so much work, will talk a lot about the details at the end of this meeting. But I just want to start by telling you that one of our missions -- in order to make this whole thing work we're going to have to make the government work differently.
+
+Example: We cut the White House staff by 25 percent to set a standard for cutting inessential spending in the government. But the work load of the White House is way up. We're getting all-time record telephone calls and letters coming in, and we have to serve our customers, too. Our customers are the people that put us there, and if they have to wait three months for an answer to a letter, that's not service.
+
+But when we took office, I walked into the Oval Office -- it's supposed to be the nerve center of the United States -- and we found Jimmy Carter's telephone system. {LAUGHTER} All right. No speaker phone, no conference calls, but anybody in the office could punch the lighted button and listen to the President talk. {LAUGHTER} So that I could have the conference call I didn't want but not the one I did. {LAUGHTER ; APPLAUSE} 
+
+Then we went down into the basement where we found Lyndon Johnson's switchboard. {LAUGHTER} True story -- where there were four operators working from early morning till late at night -- literally, when a phone would come and they'd say, "I want to talk to the Vice President's office," they would pick up a little cord and push it into a little hole. {LAUGHTER} That's today -- right?
+
+We found procedures that were so bureaucratic and cumbersome for procurement that Einstein couldn't figure them out, and all the offices were organized in little closed boxes -- just the opposite of what you see.
+
+In our campaign, however -- we ran an organization in the presidential campaign that was very much like this. Most decisions were made in a great big room in morning meetings that we had our senior staff in, but any 20-year-old volunteer who had a good idea could walk right in and say, "here's my idea." Some of them were very good and we incorporated them.
+
+And we had a man named Ellis Mottur who helped us to put together our technology policy who said -- he was one of our senior citizens; he was in his 50s. {LAUGHTER} And he said, "I've been writing about highperformance work organizations all my life. And this is the first one I've ever worked in and it has no organizational chart. I can't figure out what it looks like on paper, but it works."
+
+The Vice President was making fun of me when we were getting ready for the speech I gave Wednesday night to the Congress; it was like making sausage. People were running in and out saying, put this in and take this out. {LAUGHTER} But it worked. You know, it worked. {APPLAUSE}
+
+So I want to hear from you, but I want you to know that we have hired a person at the Office of Management and Budget who has done a lot of work in creating new businesses and turning businesses around -- to run the management part of that. We're trying to review all these indictments that have been issued over the last several years about the way the federal government is run. But I want you to know that I think a major part of my missions is to literally change the way the national government works, spends your tax dollars, so that we can invest more and consume less and look toward the future. And that literally will require rethinking everything about the way the government operates.
+
+The government operates so much to keep bad things from happening that there's very little energy left in some places to make good things happen. If you spend all your time trying to make sure nothing bad happens there's very little time and money and human energy left to make good things happen. We're going to try to pare away a lot of that bureaucracy and speed up the decision-making process and modernize it. And I know a lot of you can help. Technology is a part of that, but so is organization and empowerment, which is something you've taught us again today. And I thank you very much. {APPLAUSE}
+
+We want to do a question and answer now, and then the Vice President is going to talk in more detail about our technology policy later. But that's what we and Ed agreed to do. He's my boss today; I'm doing what he -- {LAUGHTER} So I wonder if any of you have a question you want to ask us, or a comment you want to make.
+
+Yes, go ahead. 
+
+{/speech}

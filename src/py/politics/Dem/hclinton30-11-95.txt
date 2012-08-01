@@ -1,0 +1,30 @@
+﻿{title} Remarks by the President and the First Lady at the Lighting of the City Christmas Tree {/title}
+{event} Belfast City Hall, Belfast, Northern Ireland {/event}
+{speaker} Hillary Rodham Clinton {/speaker}
+{date} November 30, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Lord Mayor. And thank all of you. {APPLAUSE} Tonight is a night filled with hope and peace. And for those of us gathered here throughout Northern Ireland and around the world, often it is our children who offer us the clearest and purest reasons why peace and why this peace process is so important.
+
+In a national competition, asking students to share their hopes for a peaceful Northern Ireland in letters to my husband, two students whom you see here tonight, Cathy Harte and Mark Lennox won the top prize. We will be privilege to have them in America at summer camp this coming summer. Tonight it is my privilege to read excerpts from their letters.
+
+This is what Cathy said: "My name is Cathy Harte and I am a 12-year-old Catholic girl. I live in Belfast in Northern Ireland, and I love it here. It's green, it's beautiful, and, well, it's Ireland." {APPLAUSE} "All my life, I have only known guns and bombs with people fighting. Now, it is different. There are no guns and bombs."
+
+Cathy continues: "My dream's for the future, well, I have a lot of them. Hopefully, the peace will be permanent; that one day Catholics and Protestants will be able to walk hand-in-hand and will be able to live in the same areas." {APPLAUSE} "Catholics, Protestants, black or white, it is the person inside that counts." {APPLAUSE} "What I hope," said Cathy, "is that when I have my own children that there will still be peace and that Belfast will be a peaceful place from now on."
+
+Thank you, Cathy. {APPLAUSE}
+
+Mark Lennox is the same age as our daughter, 15. And he explains in his letter the simple hows of achieving peace. And this is what he says: "I am a 15-year-old schoolboy from Glengormley High School. I am very pleased about the chance of permanent peace in Northern Ireland and the chances of living in a secure atmosphere.
+
+"If Northern Ireland is to have a future, then we must all learn to live with each other in a more tolerant way. Also, we must all work hard for peace and make a real effort. We will have to change our ideas and work for change. Change must mean changing our own understanding of each other. We must learn together and know more about our different traditions.
+
+Some people want to destroy peace and the peace process in Northern Ireland." And Mark says, "We must not allow this to happen." {APPLAUSE}
+
+As the Lord Mayor said, in a moment the Christmas tree will be lit as Christmas trees will be lit all over the world in the days to come. This Christmas let us remember the reason behind why we light Christmas trees. Let us remember the reason for this great holiday celebration. And let us remember that we seek peace most of all for our children. May this be one of many, many happy and peaceful Christmases in Northern Ireland this year and for many years to come. {APPLAUSE} And may God keep you and bless you and hold all of you in the palm of His hand. Thank you and God bless you.
+
+{APPLAUSE} 
+
+{/speech}

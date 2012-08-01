@@ -1,0 +1,31 @@
+﻿{title} President Bush's Remarks Upon Arrival in Utah {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} August 30, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all for coming out. {APPLAUSE} I can't thank you enough for this fantastic Utah welcome. I am delighted to be here in Salt Lake City. {APPLAUSE} My only regret is that Laura is not here to see this great crowd. {APPLAUSE} She sends her best, she sends her love. 
+
+I want to thank the Governor for being here today. Governor, thank you for coming. I want to thank your two fine United States Senators, Senator Hatch and Bennett for joining us. {APPLAUSE} I thank Congressmen Matheson, Bishop and Cannon for being here, as well. I want to thank you all for coming. 
+
+Most of all, I want to thank you all for staying up a little past your bedtime, for some of you, to greet me. {APPLAUSE} 
+
+I'm looking forward to talking tomorrow to our veterans. {APPLAUSE} I'm going to tell the veterans how much America appreciates their service to the United States of America. {APPLAUSE} And I'm going to thank our veterans for setting such a great example for incredibly fine men and women who wear the uniform of the United States military today. {APPLAUSE} 
+
+These are challenging times. I wish I could report to you that all is well. But there's still an enemy that wants to harm the United States of America because of what we stand for. We learned that lesson earlier this month, when because of the good work of our friends in Great Britain, and some of our own help, we stopped a terrorist plot against the United States. This is the challenge of our time, and my most important duty. And the most important duty of our government is to protect the American people from further attack. {APPLAUSE} 
+
+We will stay on the offense and defeat the terrorists abroad so we do not have to face them here at home. {APPLAUSE} And as we do so, we'll remember the power of freedom and liberty to transform regions of hate to regions of compassion. I believe there's an Almighty, and I believe the great gift of the Almighty to every man and woman on the Earth is the desire to live in freedom. {APPLAUSE} 
+
+Iraq is the central front in this war on terror. If we leave the streets of Baghdad before the job is done, we will have to face the terrorists in our own cities. We will stay the course, we will help this young Iraqi democracy succeed, and victory in Iraq will be a major ideological triumph in the struggle of the 21st century. {APPLAUSE} 
+
+I firmly believe we'll succeed. We'll succeed in spreading liberty. And as we do so, we can say that this generation did our duty and laid the foundation of peace for generations to come. {APPLAUSE} 
+
+For those of you with loved ones in the United States military, I thank you from the bottom of my heart. {APPLAUSE} I can't tell you how proud I am to be the Commander-in-Chief of such a fantastic group of young men and women. {APPLAUSE} And I'll make this pledge to you: Our government will make sure your loved ones have all the support, all the help, all the training necessary to do their job of defending freedom, defending America, and spreading liberty that will yield the peace we all want. {APPLAUSE} 
+
+So I want to thank you all for coming. It warms my heart to see such a huge crowd. May God bless the great state of Utah, and may God bless America. Thank you all very much. {APPLAUSE} 
+
+{/speech} 

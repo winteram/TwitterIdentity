@@ -1,0 +1,38 @@
+﻿{title} Clinton Global Initiative Workshop Summation and Action Plan Plenary {/title}
+{event} New York, NY {/event}
+{speaker} David Sandalow {/speaker}
+{date} September 17, 2005 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Participants:President William J. Clinton, Former President of theUnited States David Sandalow – Climate Change Panel Lael Brainerd – Governance Panel Gayle Smith – Poverty Panel Rob Malley – Religion Panel {/description}
+
+{speech} 
+
+Thank you very much, Mr. President. Thank you for the opportunity. I think it is fairly clear that you have created something extraordinary here.
+{APPLAUSE}
+
+Several people in the hall have commented that this is a new form of global NGO, bringing together different sectors. There's a sense of being present at the creation of, at a minimum, an interesting new development in global governance. So thank you for the opportunity of being part of it. I also want to recognize and thank Aimée Christensen, who has the exalted title of deputy topic coordinator for climate change at this conference, and I just can't say enough about the extraordinary work that she has done helping prepare for this meeting. And I thank the incredible team of volunteers who came forward on climate change. There is many, many too many to mention but they've been keeping my phone and Amy's phone ringing for the last month, and this wouldn't have happened without them.
+
+The climate sessions of this meeting were a combination of terrific dialogue and terrific recommendations for action. I think the dominant theme overall was opportunity – technological opportunity first. A lot of discussion about ethanol, and not just cornbased ethanol but also sugar cane-based ethanol, cellolusic ethanol, and how that can help us contribute to a solution to the greenhouse gas problem. Discussions of wind and solar power, and a big focus on energy efficiency, and a belief that that is the quickest way to get gas reductions since there's lots of money to be made by pursuing energy efficient opportunities.
+
+Lots of discussions of market opportunities. Companies big and small talked about how to make money in this area. We heard from GE, DuPont, Lefarge and others, from small companies. We heard from a small company, Amaresco, which is selling energy efficiency services. It's quadrupled in size in the past several years in this area. And we heard from financiers. We heard from leading venture capitalists, and we heard from a new breed of financier, those playing in the carbon markets. All of them are making money right now helping to solve this problem.
+
+I think after opportunity probably the second biggest theme we discussed in the climate session was the role of government. An overwhelming theme was that the US government must lead in the solution to this problem. Lots of discussion of the necessity for a federal cap and trade program. One of our CEO's said today he cannot imagine not supporting this in the next five years. Discussions of the role of state and local government and their important roles in solving this problem, in the absence of federal leadership, to be sure, but even when the federal government is playing a role.
+
+We heard reports from the United Kingdom and Japan and their very successful programs in reducing emissions, and had discussions about the opportunities and the challenges for developing countries. There was by no means complete agreement in our discussion about the role of government. There were different views about how heavy the hand of government should be in solving this problem. I think a consensus that government at a minimum should help to, quote, “get prices right.” That was a phrase that ran through lots of our sessions.
+
+The third theme that was dominant in our discussion was the importance of education, the feeling that people don't understand the gravity of the climate problem, or the opportunities in solving it. One person in the room today said, I'm astonished to find myself so poorly informed of these issues. And I thought as I read that come across the screen, if somebody who chose to come to this room makes that statement, what do people outside, how are they thinking about these issues. The level of education is much lower than it needs to be.
+
+A slightly different point was the view that new ways of thinking are needed, and somebody said we need to think outside the barrel in order to solve this problem.
+{LAUGHTER}
+
+We had a long list of recommendations for action, many of them very technical, and I thought I would just pick out three that were particularly interesting. We had recommendation that corporate leaders, and we heard from some visionary ones, that corporate leaders should push awareness within their companies and down the supply chain, that CEO's should set energy efficiency metrics for their business units, that they should move these issues involving energy efficiency, global warming, renewable energy out of the environment, health and safety box and into the CFO's box and the CEO's box.
+
+A lot of discussion about new ways of talking about this issue to make it more compelling to the average person, focusing on solutions, talking in human terms, drawing the link we heard about at lunch with severe weather events, and indeed discussing this in terms of national security.
+
+And a final recommendation which many found compelling, quite interesting is that we rebuild New Orleans as a model of energy efficiency.
+{APPLAUSE}
+
+There was a strong view that from this terrible tragedy we must look for and find the opportunities and the sense in the room, Mr. President, a hope that you can help make that happen. So thank you again for your vision and for your leadership and this extraordinary opportunity.
+{APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,32 @@
+﻿{title} Remarks by the Vice President Following a Presidential Debate Watching Party {/title}
+{event} Denver Marriott City Center Denver, Colorado {/event}
+{speaker} Dick Cheney {/speaker}
+{date} September 30, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+Good evening.
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+Thank you, thank you. {APPLAUSE} Well, we're delighted you were here tonight. I thought the President did a great job. {APPLAUSE} I was fascinated to watch on the one hand John Kerry saying that he's committed to winning the war on terror, and to winning in Iraq, and then he turns around and is unrelentingly negative about the proposition, the decision.
+
+{AUDIENCE-MEMBER} Useless. {/AUDIENCE-MEMBER} 
+
+Useless was your comment. {LAUGHTER} But I thought it's -- the President made several very good points, especially saying how can you expect to get support from our allies when you consistently trash our allies' efforts? {APPLAUSE}
+
+And the real bottom-line decision in terms of what this election is all about is who is going to be Commander-in-Chief, who do we want to have in the Oval Office making those life decisions -- life-and-death decisions for the United States, for our people, and the man who makes the decisions about when we're going to send troops in harm's way. And I don't think you can look at that debate tonight and conclude anything other than on the one case we've got in George Bush a man who has done it, who has been there, done it four different -- for four different years now, and done a superb job, made the right decisions for America; is absolutely committed to taking offensive action whenever it's necessary in order to defend the United States of America, and the wanna-be Senator who says -- {LAUGHTER} -- says that in response to the question on preemptive action, he would support it as long as it passed some kind of global test.
+
+{BOOING} 
+
+What George Bush has made clear repeatedly is that we're perfectly prepared to seek international support for international efforts. We've got a great alliance -- we've got 30 countries fighting alongside of us in Iraq. And we're prepared to work to lead a coalition, but we will never submit to the objections of a few. We will never seek a permission slip to defend the United States of America. {APPLAUSE}
+
+So I want to thank all of you for being here tonight. I've got to go do some interviews. And of course, I would invite all of you to watch next Tuesday when we'll do it all over again from Cleveland. {APPLAUSE} John Edwards and myself -- I'm very, very proud to have had the privilege of serving alongside this President. And I'm delighted that the American people are going to give him four more years to lead this nation. {APPLAUSE}
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+{/speech}

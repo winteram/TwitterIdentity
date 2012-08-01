@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President in Signing Bill to Extend Unemployment Benefits {/title}
+{event} Signing Bill to Extend Unemployment Benefits {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 7, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I want to, first of all, acknowledge the presence here of Senators Mitchell, Moynihan, Riegle, Sarbanes, Sasser, Hatfield and Durenberger; the Speaker, and Congressman Matsui and Congressman Fish. I would also like to acknowledge the Labor Secretary and two of his employees, whom I will recognize formally in just a moment.
+
+Today I am signing important legislation to extend unemployment benefits long-term. I want to thank the Congress for passing this bill, which is the first provision in the economic package I recommended to them in my joint address.
+
+The bill reforms existing law. It symbolizes the success of a new management style we are bringing to the government. And it reminds us of how critical it is to adopt the rest of our economic plan -- to increase investment, reduce the deficit, create private-sector jobs and increase the incomes of working Americans.
+
+We have extended unemployment benefits. Now it's time to extend jobs. It's been less than a month since I asked the Secretary of Labor to prepare the emergency legislation. I want to commend the leadership of the Congress, of those who are here and those who are not, who made rapid action possible. Thanks to them, the benefits of millions of Americans will proceed without interruption. More important, this legislation takes an existing pilot program and applies it nationally in ways that I am convinced will help tens of thousands of workers immediately.
+
+This reform was brought to the attention of Secretary Reich by line workers at the Department of Labor and it reflects the kind of innovation and imagination we must bring to the entire federal government. It is at the core of the national performance review initiative that the Vice President and I announced yesterday.
+
+The Department of Labor funds a demonstration project in New Jersey that matches up workers who are permanently displaced with training and reemployment services. They use existing data to provide services to people in need. Once they're identified, the workers receive the kind of counseling, training and retraining that gets them back to work faster and often at higher wages than would have otherwise been the case.
+
+Secretary of Labor Reich held a town meeting in his Department of Labor to break down the walls that too often have existed between senior management and federal employees. Because two dedicated public employees brought this successful innovation to his attention, today it is becoming the law of the land everywhere, thanks to the Congress. It's a great example of what we can and must do throughout the government.
+
+And the people who made it happen have joined us here for this important moment. With this bill becoming law, one and a half million unemployed Americans who need help making the rent and buying groceries and paying for school clothes will receive it. I hope they will also recognize the efforts of the two gentlemen to my left with the Secretary of Labor, Steve Wandner and Steve Marler, the Labor Department employees who brought the profiling reform to the Secretary's attention. Thank you very much. {APPLAUSE}
+
+Some of the indicators are that we are coming out of a long and deep recession. But, as all of you know, this has been a slow, anemic recovery when it comes to job growth especially. It is time now to get on to the important work of stimulating our economy and putting the American people back to work, to creating the conditions that will allow the private sector to create jobs and to create jobs at good wages. I hope that this is a good first step.
+
+There are those who say we don't need to do anything else to our economy, but I would remind you all that we are three million jobs behind where we would be at this point in an ordinary American recovery. Claims for unemployment benefits are up again this week, and there are still deep structural changes going on in this economy, as well as a recession in Europe and a very difficult economic problem in Japan -- all of these things affecting our future prospects. I think we can grow our economy and we can create jobs, but we have to be committed, as I said, to a long-term program to create jobs and raise incomes. That is what our economic plan seeks to do.
+
+As I said, we're now extending unemployment benefits, and that's a good thing to do. We are recognizing the fact that more and more Americans who lose their jobs now don't expect to go back to those old jobs. There's been a stunning increase in the number of people who say when they lose their jobs today, I don't expect to get this jobs back. And the reform brought to our attention by these two fine gentlemen will help us to help those people. But in the end, what we have to do is to extend jobs and not unemployment. That is our next great test, and I think we're off to a good beginning today.
+
+{COMMENT="The bill is signed"} {APPLAUSE} 
+
+{/speech}

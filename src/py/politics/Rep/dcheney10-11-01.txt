@@ -1,0 +1,40 @@
+﻿{title} Remarks by the Vice President at Celebration for the Marine Corps Birthday {/title}
+{event} ----- {/event}
+{speaker} Dick Cheney {/speaker}
+{date} November 10, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+It was less than a year ago that I became Vice President, and I was very grateful for the chance to return to public life. I especially look forward to renewing the many friendships and associations with the United States military. Eight years is a long time. I hope you're as happy to see me as I am to see all of you. {APPLAUSE}
+
+I have heard about some changes in the Armed Forces in recent years. A few people on the outside told me to expect a more sensitive Marine Corps -- {LAUGHTER} -- with a smoother edge, more in touch with its gentle side. {LAUGHTER} I've got to tell you, I don't see it. And that's just fine to me. {APPLAUSE}
+
+This is a proud anniversary for the men and women of the Corps. And I'm sure the happiest Marines tonight are the newest ones who just finished up at Parris Island and San Diego. Someone has shared with me excerpts from a young man's first letter home from training last summer.
+
+Knowing their son, his parents were expecting a thorough recounting of his experiences, the names of his new friends, impressions of his new surroundings, maybe a request or two. What they got instead was a brisk summary of the situation on the ground.
+
+"Dear Mom and Dad," he wrote, "I have made it to recruit training. I'm doing well. I may receive mail." {LAUGHTER} "However, you must not send any large care package, for all my needs are taken care of." {LAUGHTER} "And I will make every attempt to write. Will you please do the same."
+
+At the bottom of the letter, the recruit added, "P.S. I will not return home until I have become a United States Marine." {APPLAUSE} Recently, this young man did exactly that. He was one of 867 last week who received the received the eagle, globe, and anchor of a United States Marine. Their experiences were very much like those of every Marine who ever made it through training.
+
+The writer, Clare Boothe Luce, remembered letters from her brother in Parris Island, some 85 years ago. "His letter," she said, "filled me with pity and alarm; so much did they sound like epistles from a slave labor camp, or a military gulag." {LAUGHTER} "But gradually," she observed, "I became aware that the note of self-pity and the plaintive 'I-me' seemed to disappear from his letters, to be replaced by a more confident 'we-us.'"
+
+Every new Marine gives some something to the Corps and to its mission The Corps gives something to them in return and forms It forms commitments above self-interest. It gives them greater confidence, stronger will, an unshakable sense of duty, and a clarity of purpose about themselves and their country. Our new Marines and all those they now join can also know that they have the complete confidence and full support of our Commander-In-Chief, President George W. Bush. {APPLAUSE}
+
+The military of this new generation will witness many changes in the years to come. Improvements in the tactics, strategies and technologies of warfare. All of these will be directed toward the same basic objective: Security for the United States and success for the cause of freedom. If whatever changes we choose to make, our security and our freedom will stand or fall in the character of our men and women in uniform.
+
+We could have the finest technology and equipment, and we do. We could have the most lethal weapons, and we do. But in the hours when wars are won, what matters are people. It always comes down to a man with his rifle and bayonet, when this country needs him, will go the last 200 yards to beat the enemy. {APPLAUSE}
+
+At this moment, all branches of the Armed Services are fighting a new war against the most ruthless enemy. Those who attacked America have proven their eagerness to kill innocent men, women and children by the thousands. They seek weapons of mass destruction, and would not hesitate to use them at the first opportunity.
+
+Our enemies employ the tools of terror for the goals of genocide. They must be stopped, and they will be stopped. {APPLAUSE} America fights now to save ourselves and our children from living in a world of fear. We fight now in defense of civilization and humane values. We fight now because we will not permit a small group of vicious and violent men to impose their will on America or the world. {APPLAUSE}
+
+We did not seek this war, but it found us prepared. Americans are united. We love our country and what it stands for. We will defend our country and our freedom -- and we will prevail. {APPLAUSE} We will prevail because of men and women like you. In his book, Making Patriots, Walter Burns recounts a story about one Marine stationed abroad. A foreign diplomat was paying a visit to an American embassy overseas. It was the end of the day. And a Marine guard in his spotless uniform asked the visitor to please wait while the flags were lowered. Slowly and reverently, the Marine went about the ceremony of lowering and folding and, after making an about face, carrying the flag and formally placing it on a stand.
+
+As the observer recalled, the Marine then marched over to the second flag and repeated the same lonesome ceremony. After completing his task, he apologized for the delay and said, thank you for waiting, sir. I had to pay honor. On that occasion, someone was there to see this young man doing his duty. But everyone knows that he would have acted with the same precision, the same care, the same devotion without a soul there to watch him.
+
+In any place and in any task for a United States Marine, there is only one standard: Do your duty and do it right. For 226 years, you have defended this nation, representing the best that is in it. You believe in your country, and your country believes in you. Tonight, I proudly join you in honoring the spirit of the Corps, and the men and women it continues to inspire. Semper Fi. {APPLAUSE} 
+
+{/speech}

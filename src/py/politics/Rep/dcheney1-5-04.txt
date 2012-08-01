@@ -1,0 +1,53 @@
+﻿{title} Remarks by the Vice President at the Florida State University Commencement Ceremony {/title}
+{event} Florida State University Commencement Ceremony  {/event}
+{speaker} Dick Cheney {/speaker}
+{date} May 1, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Well, thank you very much, Chairman Thrasher. And thank all of you for that warm welcome -- President Wetherelo, Chairman Carolyn Roberts, deans of the university, distinguished guests, veterans in the Seminole Color Guard, members of the faculty, parents and families, members of the Class of 2004.
+
+I'm delighted to be with you this morning. I've been looking forward to visiting Tallahassee and sharing this day with all of you graduates. I'm honored to be here, and I bring congratulations to each and every one of you from our President, George W. Bush. {APPLAUSE}
+
+I also want to congratulate the men and women whose dedication year after year have made this institution a place of excellence and achievement, the fine faculty members of Florida State University. And I join the graduates in thanking the people who have stood by you all the way, and who have helped make this day possible, the parents of the Class of 2004. {APPLAUSE}
+
+In addition to all of you receiving your bachelor's degrees today, I'm told we have 170 receiving their master's degrees, and 30 more who have earned their PhDs. Their presence here reminds me that I was once a PhD candidate myself -- met all the requirements except for the dissertation. I'm still trying to think of the topic. {LAUGHTER}
+
+On this, your final day at Florida State, I'm sure you feel a mix of excitement starting new things, maybe a bit of sadness at leaving behind this great school at this time in your life. You'll remember the routine of this place, the pressures of student life, the feeling of accomplishment at the end of a tough semester. Some of you will remember -- or maybe try to forget -- an involuntary dip in Westcott Fountain. {LAUGHTER} You'll all miss a horse named Renegade, charging across the field with Chief Osceola in the saddle, and on the sidelines, the winningest coach in college football history, Bobby Bowden. {APPLAUSE}
+
+You're graduating today from a great university and taking your place among generations of alumni who have gone on to lives of great accomplishment here in Florida and well beyond. It speaks very well of FSU that so many of you here today are the first in your family to attend college. For other families here, FSU is a tradition going back several generations. And for all who pass through here, Florida State has inspired loyalty and gratitude for the opportunities you found here.
+
+Another notable tradition here is that of service to the community and the country. Many graduates are current or former members of the military. And at this very hour, 25 FSU students are on active duty in the Middle East. {APPLAUSE} As we celebrate commencement, we are thinking of them all, and we proud of their brave service in the armed forces of the United States.
+
+After these years of hard effort, something tells me you're not all that excited to hear another lecture before you leave, so I'll keep it short. {LAUGHTER ; APPLAUSE} 
+I know it's the custom for graduation speakers to draw from their experiences and share some of the lessons they've learned along the way, so as you begin a new chapter in your life, let me offer a few thoughts of my own. There's one very practical lesson that comes immediately to mind. I learned it in the year 2000, when President Bush called to ask if I would help him find a running mate for Vice President. The lesson is: if you're ever asked to head up an important search committee, say yes. {LAUGHTER}
+
+That decision four years ago set me on a path I had not expected to take. I was certain that my time in public office had passed. And looking back there seems to be a pattern in my life, the unexpected turns, the opportunities that come suddenly and change one's plans overnight.
+
+On the day of my own graduation from the University of Wyoming, I had no ambition for public office. If you'd asked me at the time what I planned on doing, I could have described in some detail my next 10 years. First, there would have been graduate school, then wrapping up that unfinished PhD, and down the road, with some luck, a faculty position at a university. Of course, it all worked out very differently.
+
+Within a few years of graduation, my wife, Lynne, and I were living in Washington, D.C., beginning a journey in government and public life that neither of us had ever imagined.
+
+Many of you will leave Tallahassee today with definite plans of your own. And setting a plan for life can be a good thing. It keeps you focused on the future, gives you a standard against which you can measure progress. Yet, I'll wager that 10 years from now, many of you will find yourselves following a very different course all because of an opportunity that came out of the blue.
+
+Be on watch for those certain moments and certain people that come along and point you in a new direction. I think, for example, of the first time I met my friend and colleague Secretary Don Rumsfeld. It was back in the 1960s. He was a congressman, and I was interviewing for a fellowship in Washington, D.C. Congressman Rumsfeld agreed to interview me, but things didn't go all that smoothly -- just 15 minutes later, I found myself back out in the hallway. Don's impression of me was that I was kind of a detached, impractical, academic type. And I thought he was a brash, cocky, young politician. And we were both right. {LAUGHTER}
+
+We didn't click that day, but a few months later, it was Don Rumsfeld who noticed my work and offered me a position in the executive branch. And later on, when Gerald Ford became President, and made Rumsfeld his chief of staff, it was once again Don who gave me a position of great responsibility in the White House.
+
+Standing here today, I can promise that there will be people like this in your own life who keep an eye on you, who reward your efforts, and help bring out your strengths. Sometimes others know better than we do just what our gifts are and how we can best use them. For all the plans we make in life, sometimes life has other plans for us.
+
+Those of you who have been around a while can also recall a few times when life took an unexpected turn not always in a positive direction. As I mentioned a moment ago, I received my undergraduate degree from the University of Wyoming. My undergraduate experience, though, began at a place called Yale. But I didn't finish. I dropped out after a few semesters. Well, actually dropped out isn't quite accurate. {LAUGHTER} Asked to leave would be more like it. {LAUGHTER} Twice. {LAUGHTER} The second time around they said, don't come back.
+
+You, too, may face some disappointing turns of your own, times when you fall short, knowing you could have been better. And when that happens, don't let your doubts get the best of you. I have met some very successful people in my day, men and women of talent and character who have risen to the top of their fields. And it's the rare one who hasn't had a taste of failure or a false start along the way. Setbacks in life can stop you dead in your tracks, or they can inspire you forward. Either way, you will look back on them as turning points. They are crucial days in your life when you see the starkest kind of choice and know that the decision belongs to you alone.
+
+One of the things I love most about our country is that we have such opportunity. There are places in the world where failure is final, and only one misstep will decide your fate forever. But America is still the country of the second chance. Most of us end up needing one. And when we've gone on to accomplish something we can be that much more grateful.
+
+Gratitude in general is a good habit. It is usually a correct appraisal of our situation. Most of us are able to succeed and rise in the world because someone helped out along the way, whether it was a memorable teacher, or a boss who handed us a great opportunity, or the person who took a chance and gave us the first big break in our career. A grateful heart is an honest understanding of all that we have been given, and all that is expected of us in return.
+
+There's always the temptation to forget this, to carry ourselves with an air entitlement, as if good things come to us by right. They rarely do. And life has a way of working out better when we don't take things for granted, when we have a long memory for what others have given us, and when we look for the blessings -- great and small -- that come with every day we're alive on this Earth.
+
+For all of you, this day will forever stand out as a marker of gifts well used, aspiration fulfilled, and hard work rewarded. It's been my privilege to share it with you and your families. And once again, my congratulations to all of you. Good luck and Godspeed to the Florida State University Class of 2004. {APPLAUSE} 
+
+{/speech}

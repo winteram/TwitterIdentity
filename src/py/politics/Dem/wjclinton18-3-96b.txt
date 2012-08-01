@@ -1,0 +1,32 @@
+﻿{title} Remarks by the President to the People of Alexandria {/title}
+{event} England Airpark, Alexandria, Louisiana {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 18, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President to People of Alexandria Louisiana {/description}
+
+{speech} 
+
+Ladies and gentlemen, thank you for waiting in the cold and the wind. {APPLAUSE} I am so glad to be here. I want to thank the Tioga High School band for playing. Didn't they do a great job? {APPLAUSE} Mayor Randolph, Mayor Baden, Senator Johnston, Senator Breaux, Congressman Fields, Congressman Jefferson, Chairman Meyer; I am delighted to be here, and I thank you for waiting for me.
+
+I want to talk just a minute, very briefly, about what you have done here with England Air Force Base and why that's a model of what I hope we'll see more of all across America. You know, when the Cold War ended and we were moving into this global economy the first thing that happened that scared a lot of Americans was the need to downsize the military, and the plain need that the country had to reduce the size of our bases. A lot of people were afraid. But you people were not afraid. You worked together and you were determined to make some good things happen here.
+
+And I have to tell you that I have been all over this country looking at military bases. I have worked with communities all over America, personally, to help them start their communities up and to use these bases as economic assets. There is no place in the entire United States that has done a better job than Alexandria has. {APPLAUSE}
+
+Now, what I want to say -- even in all this wind --is that there are other challenges facing us. You read in the press, I'm sure, that some big companies, for example, are restructuring and laying off a lot of people. All the time in this economy there are jobs being created, jobs being abolished, jobs being created, jobs being abolished. But what I want to say to you is that this country is moving in the right direction. We have 8.4 million more jobs today than we had three years ago because the American people, when they work together, can find ways to solve problems, meet challenges and move forward. {APPLAUSE}
+
+And if we will commit ourselves to a few simple things -- educating all of our children and providing education for adults whenever they lose jobs, the moment they lose jobs; making the most of our resources; selling America's products around the world; and taking the things we have in this country, like these military bases, and turning them into opportunities; and if we will commit to say if a person loses a job they at least ought to be able to carry their health insurance and their pension with them so they can take care of their families when they start anew. {APPLAUSE}
+
+If we will commit ourselves to making it possible for people to start small businesses and for every community in America to participate in the economic recovery, then this country is going to do just fine.
+
+I want you to know, when I became President, because I had been through a base closing in my home state, I started a whole new program to get the Pentagon to move more quickly, to move properties out and give them to the communities so that they could be used to generate jobs. And that is what we have done now all across America and we're using you as a model.
+
+Now, let me say that there's one official reason we're all out here on this windy day, and that is that I am here to take the next step in the official transition of this Air Force Base to the central Louisiana community by formally presenting the deed for 165 acres of the base to Jim Meyer. So I'd like to ask him to come up here and let me present the deed. Mr. Meyer? {APPLAUSE}
+
+Here it is. It is now yours. {APPLAUSE}
+
+{OTHER-SPEAK} Thank you. {/OTHER-SPEAK} 
+
+Thank you again. God bless you. It's great to see you. I've had a great day. Thank you. {APPLAUSE} 
+
+{/speech}

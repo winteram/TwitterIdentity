@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President to Governors for Nafta {/title}
+{event} West Wing Driveway {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 16, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Thank you, Mr. Vice President, and thank you to all the governors who are here and to the many governors who are not here who have helped us in this battle to pass NAFTA.
+
+I think I should say by way of sort of a parenthesis at the outside of my remarks, in reaction to Governor Thompson's eloquent comments about the Rose Bowl, that in view of the wisdom of the voters in Michigan, Ohio, and Wisconsin in the last election, this administration has no position on that football game. {LAUGHTER}
+
+You know, I looked at the governors who are here with me and I had to think -- I actually counted -- we are about equally divided back here between Democrats and Republicans. And I think it is an interesting statement that these who have come here and those who are not here who have also endorsed this agreement are more or less equally divided and about the ratio the parties hold of gubernatorial offices. And the reason for that is that if you're a governor today, a big part of your job is keeping the job base you have, trying to find more jobs, and when you lose jobs, trying to replace them as quickly as possible.
+
+It's not unusual to see a governor who actually knows huge numbers of employers by name, who's been in , in my case, literally hundreds of manufacturing facilities and different small businesses and who understands how businesses rise and fall and how they fit within the economy of the state, the nation, and the globe. The job of governors is to create jobs, to keep jobs, to enhance the economic base and the economic security of our people.
+
+Any of these governors will tell you that it is difficult to hold on to this job if your voters don't believe you have a clear economic program and that your state is moving in the right direction against all the odds. Many of us have served in very difficult economic times, with high unemployment rates caused by all kinds of factors. But we always found that the people of our state wanted us to have a theory about how the economy works and how we were going to get more jobs. That is what these folks do for a living.
+
+So I am especially honored to have these governors here and to have their support because they understand on a bipartisan basis that a big part of America's national security involves the ability to create economic security for our people. They further understand that the only way to have economic security is to compete and win in the global economy.
+
+As I have said many times, and I want to say here on the eve of this great vote, every wealthy country in the world today is having trouble creating new jobs. Productivity increases, which are necessary to compete in the global economy, in the short run sometimes cause difficulty in creating jobs because a more productive worker means fewer people can produce more products and services. Therefore, if you want more jobs at higher wages in this world, you have to have more customers. There is no way around that.
+
+No one has seriously advanced the proposition that the United States can grow jobs and raise incomes -- our most urgent economic priority -- without having more customers for our products and services. The governors understand that. That is why they do not seek to run away from change or to shield their people from change, but instead to embrace it, to compete and win. That is the great message that must be carried to the Congress over the next 24 hours as the members prepare for this vote.
+
+This really is a vote about whether we're going to try to hold on to yesterday's economy or embrace tomorrow's economy. It's about the past and the future. If I could wave a magic wand and return every American to absolute job security with no competition at all, I might do that, although I'm not sure our country would be better off. At least more and more people think that that is a possibility as you hear this NAFTA vote. And I'm telling you folks, these governors understand that is not a possibility.
+
+Governors have stood at the doors of plants when they closed. I have stood by plants and shaken hands with workers -- hundreds of them -- when they walked off the job for the last time. If I thought that this was going to cost the American people jobs, I would not be for this agreement, and neither would these governors. Our work is putting Americans to work.
+
+Now, in the last 10 months, with the deficit down, with inflation down, with interest rates down, this economy has produced more jobs in the private sector than in the previous four years. And every American can tell you that's very fine, but it's no where near enough. We cannot get more jobs in this economy until we have more customers for our products and our services.
+
+Tomorrow the Congress has simply got to vote for hope over fear, for the future over the past; has got to vote for confidence in the ability of the American people to compete and win. These governors are closer to their workers than any other public officials in the country. They know we can compete and win. So do I. And tomorrow I think the House of Representatives will say the same thing. Thank you very much. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,28 @@
+﻿{title} Remarks by the President at "Let Freedom Ring!" Concert {/title}
+{event} "Let Freedom Ring!" Concert {/event}
+{speaker} Barack Obama {/speaker}
+{date} January 19, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you so much to Dr. DeGioia -- thank you. {APPLAUSE} Thank you very much. Thank you. Thank you to Dr. DeGioia. Thank you so much to the entire Georgetown family; to my Cabinet, who is working tirelessly each and every day on behalf of the American people; to members of Congress who are in attendance; to dignitaries and ambassadors; to tonight's honorees; to Coach. It is wonderful to be here this evening. It is a great privilege. Thank you. {APPLAUSE}
+
+It is a great privilege to be with all of you tonight in this place that we set aside to celebrate America's arts, but on this day we set aside to commemorate an American giant. And it's fitting that we are commemorating the life of the Reverend Dr. Martin Luther King with an evening of song. {APPLAUSE} Because songs played, as all of you know, an important part in the civil rights movement that he led.
+
+It's been said that during the civil rights movement, Dr. King and his associates would go around to different communities in the hopes of organizing and mobilizing them, and they'd know which were serious about the boycott -- which had the discipline to actually help pull it off -- if folks in those communities were singing freedom songs. And when he saw young people singing in the face of hostility, he said that's when he first saw "the real meaning of the movement." He said it was about the "faith in the future." He said that it was "based on hope." So I'm pleased to be here tonight to listen to some beautiful music that I think would have made Dr. King share a little extra faith in our future.
+
+Of course, as we gather here to celebrate Dr. King's life with an evening of the arts, we're also mindful that this is a difficult time for our people and for our world. Across this country, Americans are struggling, and few more than African Americans -- those very same inheritors of progress sown by Dr. King and the civil rights movement. Too many are struggling right now. Around the world, our sons and daughters are fighting two wars. Closer to home, our Haitian neighbors are in desperate need. Across an ocean, in Africa, many people are still living amid poverty and violence and disease -- of the kind that Dikembe Mutombo, who's being honored here tonight, is attacking with the same ferocity with which he used to block shots in the NBA. {LAUGHTER ; APPLAUSE} And I want to commend Dikembe on his outstanding leadership in giving back to his nation and his people and in honoring the life and legacy of Dr. King by doing such extraordinary acts of service.
+
+The bottom line is, this is a difficult time. But we are here tonight to remember and celebrate a man who inspired a people and a nation to overcome another difficult time. That's why they sang "We Shall Overcome," because it was hard. There was something to overcome. We're all very familiar, of course, with the speech Dr. King delivered from the steps of the Lincoln Memorial in the late summer of 1963. We're all familiar with the booming voice echoing across a sea of people from all corners of the country. We're familiar with the dream he described to a nation.
+
+But what I don't think we stop to reflect on enough is the strength it took to articulate that dream. It would have been easy for Dr. King to rise to that podium and preach a message of division or hate or blame somebody else. This is a man whose own life and whose own family had been the target of attacks; a man who had been beaten, a man who had been stabbed, a man who had been jailed; a man who had been denied his most basic rights despite all the erudition, despite his fancy degrees, because of the color of his skin.
+
+Throughout the land, he saw segregation still rife. Throughout the land he saw states and schools, governors and police chiefs, unwilling to accept the onward march of history, unwilling to accept an expansion of the American Dream to include all of its citizens.
+
+And yet despite all of this, despite the bitterness of the past, despite the difficulties of the present, despite the uncertainty of the future, Dr. King held fast to his dream. King rose to that podium and said, clear-eyed and straight-backed to the multitude that had gathered, "Even though we face the difficulties of today and tomorrow, I still have a dream."
+
+So tonight, let us remember the courage of the man who had that dream. Let us remember the perseverance of all those who have worked to fulfill that dream. Let us recommit ourselves to doing our part, in our own lives and as a nation, to make that dream real in the 21st century. Thank you very much, everybody. {APPLAUSE} 
+
+{/speech}

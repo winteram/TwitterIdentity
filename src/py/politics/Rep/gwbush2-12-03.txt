@@ -1,0 +1,42 @@
+﻿{title} President Bush Congratulates 2003 Winston Cup Drivers {/title}
+{event} Remarks by the President to 2003 NASCAR Drivers,The South Lawn {/event}
+{speaker} George W. Bush {/speaker}
+{date} December 2, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good to see you all. Welcome. Please be seated. Thanks for coming. Welcome to the White House. Congratulations on a great NASCAR Winston Cup Series. We're honored you all are here. I see a lot of the Bubbas who work in my administration who have shown up. {LAUGHTER} I wonder why. I've hosted champions from many sports here at the White House -- the first time, however, we ever parked stock cars in the South Lawn. {LAUGHTER} We're proud you all are here. {APPLAUSE}
+
+I'm proud to be here with such an outstanding group of NASCAR drivers. I didn't realize you all dressed up so well. {LAUGHTER} The NASCAR owners, the crew members, and the executives of this fine sport.
+
+I appreciate the members of Congress who are here. I see Senator John Kyl of Arizona. I didn't realize you were such a race fan, Senator. Helped us get the Medicare bill through the Senate, by the way. {APPLAUSE} I appreciate Bart Gordon of Tennessee for joining us. Congressman Mac Collins -- I knew he was a race car fan -- good to see you, Mac. You are a Bubba. {LAUGHTER} I'm glad you all are here. I thought you might be here just because you were looking for a fast ride back up to the Capitol.
+
+I want to congratulate Matt Kenseth, the 2003 Winston Cup Points Champion. Like all champs, he succeeded because of his dedication and his hard work. He started racing late-model cars in his home state of Wisconsin before he was 20 years old. He worked his way up the ranks to the Busch Series. I kind of like the name of that series. {LAUGHTER} This year, he drove his Number 17 Ford all the way to the Winston Cup title. {APPLAUSE} He's a great driver, and, like me, he married well. We appreciate Katie coming here today. Thanks for being here, Katie.
+
+But every NASCAR fan knows that behind the -- the talent behind the wheel is not just enough, that NASCAR is a team sport. When you hear these drivers talk after a victory, they're always talking about how well their team performed, how well the team did. He had a great group in the pit, obviously -- otherwise, he wouldn't be the champion -- starting with the Cat in the Hat, the team owner, Jack Roush. Thank you for coming, Jack, and congratulations. {APPLAUSE} Every team needs a strong crew chief, and Matt had a great one in Robbie Reiser. Robbie, thank you for coming. I appreciate you being here. {APPLAUSE}
+
+Some of the other members of the crew are here, as well. Where are they, Robbie? Where are the members of your crew? Well, they must have -- couldn't pass the security check. {APPLAUSE} Let them in the gate. {LAUGHTER} But all of you have earned your right -- earned the right to call yourselves champs. I congratulate you, welcome you to the White House. I'm really proud of the job you've done.
+
+One of the reasons for the success of NASCAR is the strength of its leadership. I want the thank Mike Helton, who is the president of NASCAR, for coming today. Mike, you're doing a great job. But there's no doubt NASCAR is where it is today because of the great entrepreneur, a person who understands the consumer, the customer, and built this sport up to what it is, and that is Bill France, Jr. We're honored you're here, Bill. Thank you for coming. {APPLAUSE}
+
+I appreciate Betty Jane coming, as well. It's great to see you again, Betty Jane. I'm also so pleased that Lisa Kennedy, who is the President of the Daytona International Speedway, is with us. Brian France, who's taken over his Dad's position at NASCAR. You know, there's nothing wrong, Brian, with following your father's footsteps. {LAUGHTER} The France family is a great American family, and we're really proud you're here. We're proud some of the members of the board from NASCAR are with us today. I'm glad my friend, former Governor Bill Graves, is here. Thank you all for coming.
+
+We also have some former Winston Cup champs -- Tony Stewart -- I had the honor of greeting Tony at the Oval Office last year. Bill Elliott is with us. Some pretty fine Texans are up here, too -- the Labonte boys, Bobby and Terry -- from Corpus, right? That's what I thought. You still from Corpus? They still claim you in Corpus. {LAUGHTER}
+
+Mark Martin is not on the stage with us, but he's one of the fine drivers on the NASCAR circuit. Mark, we're proud you're here. Thank you for coming. Some of the young drivers are with us today. These are the ones that are attracting some of the young fans to this fantastic sport -- Jimmie Johnson and Dale Earnhardt, Jr., Kevin Harvick and Ryan Newman. I'm really glad you all are here. Thanks for coming. It's such a thrill to have you on the South Lawn.
+
+NASCAR is one of the fastest growing sports in America today -- 75 million Americans now count themselves as fans. And NASCAR has followers around the world who listen to your races in 21 languages and a hundred different countries. It's a fantastic international sport. And it's easy to figure out why the sport is so popular -- the competition is intense, the drivers and their crews are skillful, the finishes are oftentimes dramatic.
+
+NASCAR has a proud history, dating back to 1948. And today you're carrying on the tradition set by some of the great legends of American sport -- Richard Petty and Cale Yarborough and Dale Earnhardt.
+
+It's a time of change for NASCAR. It's one of the reasons why the sport is continuing to attract a lot of fans. Yet the values long held by the drivers in this sport endure. It's one of the things I like most about NASCAR. You know the work you do away from the track is really what makes the NASCAR drivers the true champs.
+
+After Hurricane Isabelle and the California wildfires, Jimmie Johnson worked with Lowe's and the American Red Cross to raise money for the victims for those disasters. Tony Stewart donated $1 million to the Petty family for the Victory Junction Gang Camp, which is a great facility in North Carolina where seriously ill children can have fun while undergoing treatment. Jeff Gordon has run a foundation to benefit children and families in need. These champs are champs on the race track, and they're champs off the race track, for which this country is grateful.
+
+I also appreciate the strong support that NASCAR's drivers and crew members and executives continue to give to our Armed Forces. By reminding your millions of fans that America's heroes are the men and women who defend our nation, you're reminding us all about the importance of serving a cause greater than ourself. {APPLAUSE}
+
+I want to thank you all for coming today. I want to congratulate you all for being such great champs. Good luck in the upcoming year. May God bless you all, and may God continue to bless our great country. Thanks for coming. {APPLAUSE} 
+
+{/speech}

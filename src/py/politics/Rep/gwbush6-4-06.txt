@@ -1,0 +1,47 @@
+﻿{title} President Welcomes 2005-06 NCAA Sports Champions to the White House {/title}
+{event} The South Lawn {/event}
+{speaker} George W. Bush {/speaker}
+{date} April 6, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all, welcome. Please sit down. Thanks for coming. It's an honor to welcome outstanding athletes to the White House. I welcome the athletes and their coaches. We offer our congratulations, and we're thrilled to call you national champs. {APPLAUSE}
+
+I'd like to say Champions Day is also National Student Athlete Day. It's a chance for us to honor those who excel on the field, as well as those in the classroom. I'm especially pleased to welcome the members of the United States Congress here, senators and congressmen from the states that we're honoring. Thank you all for coming. Proud you're here. I know you'll want to congratulate the coaches and the team members after these brief remarks. I want to welcome the school officials who are here.
+
+Today is the day we recognize that millions have competed in the NCAA, but only a few become champs. And the first champs we honor are the mighty Florida Gators -- {APPLAUSE} -- ably coached by Billy Donovan. {APPLAUSE} People are making hand gestures back there. {APPLAUSE}
+
+I want you all to recognize that the Gators started the season with 17 wins in a row, and they ended with 11 in a row -- the most important 11 wins of the season. They have a following all over the country, including my brother. {LAUGHTER} I'm pleased to welcome you here. I'm also pleased to remind the Gator fans the captain of your team, Adrian Moss, was from Humble, Texas. {LAUGHTER}
+
+We have three teams today from the great state of Maryland. {APPLAUSE} Perhaps one theme of Champion's Day is: Fear the Turtle. {APPLAUSE}
+
+I want to welcome Brenda Frese and the University of Maryland Women's Basketball Team. They are the NCAA's newest national champions. Less than 48 hours ago they were cutting down the nets in Boston. Here they are soaking up the sun in the White House. We welcome you here. We marvel at your dramatic overtime win, and we thank you for being such fantastic athletes.
+
+We also welcome the University of Maryland Field Hockey Team. Missy Meharg is with us, as well. {APPLAUSE} These women were the number one seed in the NCAA tournament, and they win the NCAA championship. We're proud you're here. It probably gave you a special delight to be able to beat your arch rival, Duke. {APPLAUSE}
+
+We want to welcome Sasho Cirovski's University of Maryland Men's Soccer Team. {APPLAUSE} The men's soccer team won its first national championship in almost 40 years. I thought it was interesting that on Times Square, the NASDAQ ticker displayed a message that said, "Go Terps," in honor of the soccer team. {APPLAUSE}
+
+I want to welcome the University of Portland Women's Soccer Team, coached by Garrett Smith. Portland came to celebrate -- {APPLAUSE} -- the championship here in the year 2003. I think one of them said to herself, you know, we'll be back, but I'm not sure if old George W. is going to make it. {LAUGHTER} You're back, and so am I. {LAUGHTER} I appreciate the fact that the Pilots dominated the season. They did not lose a single game. I appreciate what Father Beauchamp said -- he's the university president -- "They are Portland's team. They brought us together as a community." Congratulations, ladies, for the championship. {APPLAUSE}
+
+Jerry Schumacher of the University of Wisconsin Men's Cross Country Team is with us today. {APPLAUSE} For three years in a row, Wisconsin finished second in the NCAA championships. This year, they broke the pattern, and they come to the White House as national champs. Congratulations. {APPLAUSE}
+
+I welcome Peter Tegen and the Stanford Women's Cross Country Team. {APPLAUSE} Stanford won its second women's cross country national championship in the past three years. Lauren Centrowitz is with us. She asked me not to mention her name. I kind of mentioned some names, but I did it anyway. Sorry, Lauren. And the reason I did is because her dad, Lauren -- I mean, Lauren's dad, Matt, won a national cross country championship of his own in 1977. The daughter and the dad on national cross country championship teams -- there's nothing better than someone following in a famous father's footsteps. {APPLAUSE} Congratulations to Stanford's team.
+
+Jim McLaughlin and the University of Washington Women's Volleyball Team is here. Congratulations to the Huskies. {APPLAUSE} These women won their first national championship in school history. They weren't supposed to win. They were the underdog. They had low expectations. It's a good thing, is to keep expectations low, by the way. And they brought home a national championship to the University of Wisconsin. Congratulations to you all. I mean, the University of Washington, I beg your pardon.
+
+Now we've got the University of Auburn Men's and Women's Swimming and Diving Teams. {APPLAUSE} Coach David Marsh is with us, both the men's swimming and diving teams earned national championships. That's rare to do. And I welcome both teams with us today. It kind of says that, in a year of swimming, this is the year of War Eagle. I want you all to know that the women's swimming team kindly brought me a -- {LAUGHTER} -- awfully thoughtful of you. {LAUGHTER} I'm not going to wear it. {LAUGHTER}
+
+I welcome the University of Colorado Ski Team, under Richard Rokos. {APPLAUSE} This is a coed team. The Colorado ski team's motto was "One team, one goal," and you achieved your goal by winning the National Championship. We welcome you. Your coach is an interesting story. He escaped communist Czechoslovakia. He's a proud American coaching a wonderful group of athletes. Congratulations, and we're glad you're here. {APPLAUSE}
+
+
+The university -- the United States Military Academy Men's Rifle Team is with us. I congratulate the team here today. This is West Point's first championship in any varsity sport in a half a century. Congratulations to you. If you happen to be walking around and run into the Vice President -- {LAUGHTER} -- you might give him a few pointers. {LAUGHTER} In the meantime, I look forward to coming to see you as your -- as the graduation speaker here in May.
+
+The thing I like about these teams is they're not only great athletes, but they also are champs off the field. When you think about the folks here from West Point, they decided to serve our country in a time of war. And I want to thank you for your contributions to our country. {APPLAUSE}
+
+Florida basketball players spent Thanksgiving morning serving hot meals at a local shelter. The Maryland basketball players raised money to support breast cancer research. The Maryland field hockey players worked as counselors in summer camps for girls. They served as mentors. The Maryland soccer players helped the school canned food drive. The Portland soccer players arranged for the university to donate money for hurricane relief for every goal the team scored. The Wisconsin cross country runners participated in the Frost Bite road race to raise money for the local YMCA. The Stanford cross country team visited schools in East Palo Alto to talk about the importance of education and staying off drugs. The Washington volley ball players visited children in hospital. The Auburn swimmers helped raise funds for hurricane relief. The Colorado skiers participated in the Read with the Buff Program in elementary schools. What I'm telling you is we've not only got fine athletes with us, we've got fine Americans with us. Thank you for serving your communities.
+
+Welcome to the White House. God bless. {APPLAUSE} 
+
+{/speech}

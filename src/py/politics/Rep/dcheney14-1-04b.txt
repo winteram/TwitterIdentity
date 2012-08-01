@@ -1,0 +1,29 @@
+﻿{title} Vice President's Remarks to the Jet Propulsion Laboratory {/title}
+{event} ----- {/event}
+{speaker} Dick Cheney {/speaker}
+{date} January 14, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Thank you all very much. And thank you for that warm welcome. It's an honor today to be here, a beautiful day in Southern, California, at JPL, and to spend some time with America's most dedicated and successful scientists and researchers. And I appreciate, as well, the hard work of our NASA team, Sean O'Keefe, Fred Gregory, as well as the director of this outstanding facility, Dr. Charles Elachi, and all of the employees gathered here today at Jet Propulsion Laboratories. {APPLAUSE}
+
+And I want to personally bring you the warm wishes of the President of the United States, George W. Bush, who joins me in thanking all of you for your hard work and your dedicated service to the nation.
+
+The Jet Propulsion Lab has a proud history that extends back nearly seven decades. Scientists and engineers here made vital contributions to military aviation in World War II; developed crucial ballistic missile technology in the early days of the Cold War; launched into orbit Explorer One, America's first satellite; and designed and deployed the Voyager spacecraft, which are now both approaching our solar system's edge.
+
+And today, of course, you are capturing the nation's imagination with the Mars Exploration Rovers. I have just taken a tour of the Rovers' operations center here at the lab, had a tremendous briefing, but don't worry, I did not touch the controls.
+
+The Spirit mission is showing your ingenuity in its absolute highest form. You have landed a five-foot tall Rover on a harsh planet over 100 million miles away, and already we are receiving pictures and data that have changed our conception of Mars. And just hours from now, the Rover built here in Pasadena will begin moving across and through the Martian soil. {APPLAUSE} Each of the hundreds of people here who worked on this project can be enormously proud of the mission's success -- and you can know that people all across the country, indeed, around the world, are thrilled and inspired by your work.
+
+Earlier today, in Washington, President Bush visited NASA Headquarters and outlined his vision for a second great age of space exploration. Our goals are aggressive -- to complete the International Space Station by 2010, to send manned flight beyond Earth's orbit in 2014, to return to the moon by 2020, and to use our presence on the moon as a platform for missions to Mars and beyond.
+
+These aims are ambitious. They're difficult, and they're very demanding. The effort will be repaid many times over in scientific advancement, useful new technologies, the discovery of resources on Earth and beyond, and the discovery of more about ourselves. Our continuing journeys into space will pose countless challenges. Yet we will embark on these missions with confidence, because we have chosen exactly the right people to do the job.
+
+
+The President and I appreciate the outstanding work performed by everyone at the JPL. You are using your talent and your dedication for the benefit of your country and all mankind. America is proud to lead the world into space, and the American people are proud of all of you.
+
+Thank you very much. 
+
+{/speech}

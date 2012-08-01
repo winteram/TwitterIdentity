@@ -1,0 +1,20 @@
+﻿{title} Remarks by the President upon Departure {/title}
+{event} Departure, Idaho Air National Guard Base Operations, Boise, Idaho {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 14, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{COMMENT="In progress"} -- what needs to be done not only now, in the next few days, but for as long as it takes, until the people there are back on their feet and back to normal.
+
+Let me also say that, as I'm sure all of you know, this has been a long day for me, but it's been a very rewarding one, even though I've seen a lot of sad and heartbreaking things. And not only in my conversations here, but in my trip to Oregon and to Washington, I've seen a lot of loss, but I've also seen what happens when the American people work together in a spirit of genuine community and when people exhibit individual acts of courage and kindness that seem to overwhelm the dimensions of even the worst tragedy. And I have seen that as well.
+
+I think the lesson that I have learned more than any other in three years and a few days as President is that when this country works together we never lose. And when we permit ourselves to be divided, we often wind up being less than we ought to be.
+
+I thank again everybody here in the Northwestern part of our country for what I have seen today, for the work that they have done. And I want to say again specifically to the people of Idaho, I will follow up on the suggestions that we have gotten. I look forward to working with you, and I hope -- as the members of your congressional delegation suggested to me in there, Senator Kempthorne in particular, that maybe the model of cooperation that we've seen in dealing with this flood can become a model for other kinds of cooperation in the future, so that Americans everywhere feel that their government is a partner in a common endeavor to help individuals and families and communities make the most of their God-given capacities.
+
+Thank you. Good luck, and we'll be at work on this immediately. Thank you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,34 @@
+﻿{title} Opening And Closing Remarks by the Presidentto the American Chamber of Commerce {/title}
+{event} Speech by President to American Chamber of Commerce Japan {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 9, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President to American Chamber of Commerce Japan {/description}
+
+{speech} 
+
+I would like to resume the discussion because I want to have as much time as possible just to listen and learn today. Let me say that in my former life I came here several times and met with business leaders on behalf of the interests of my state.
+
+I'm sure that the people who have spoke before me have basically outlined the strategy we are attempting to pursue back home. But essentially what we're trying to do is to deal with the major problems of America at home and then try to get ourselves in a better position to do what we can to be a good partner for the private sector in competing in a global economy.
+
+We are well on the way to passing a record-breaking deficit reduction plan that has great credibility in the financial markets. And we've got a big decline in long-term interest rates at home, which I think is quite good. For all the economic softness, and it's quite considerable at home, we have over 950,000 new jobs in the economy in the last five months. That's about as many as the United States produced in the previous three years.
+
+We've got a serious attempt going on to bring health care costs under control, which as all of you know, is one of the major causes of America's lack of competitiveness. We're over 14 percent of GDP in health care; nobody is over nine except Canada and they're barely over nine. And we're working on significant changes in our policies with regard to technology defense conversion and trade among other things.
+
+So, that's a basic outline of what I've been trying to do for the last five months. I wanted to come here and just listen to you today because you've been able to do something that I think is very important, which is to operate in Japan to create opportunity. And I just want to know what you think we should be doing and how we can do more to help you and to create more people like you. {APPLAUSE}
+
+I didn't hear what Mr. Fallon said but if the Ambassador fairly characterizes it, and he's pretty good at doing that -- my attitude about this is that I prefer an open trading system. I don't think a wealthy nation can grow wealthier unless there is global economic growth. There are all kinds of challenges to that. Now, I think the environmental movement that is sweeping the globe actually gives us a chance to create more jobs not lose them if we do it in an intelligent way.
+
+But my view is also that the United States should try to get better rules but play by the rules that are in play. That's sort of always been my attitude. I could never have won an election if I wanted the rules to be different from those that have that obtain at this time. You can always try to improve the rules. We're trying to have a different campaign finance reform system; we're trying to have a different lobby reform system in America -- but meanwhile we all play by the rules that are there.
+
+So, that's my attitude about that. I wish I'd heard exactly what you had to say but I think -- I get criticized in some quarters for saying that, but normally when you show up for a game you've got to play by the operative rules not the ones you wish were in play.
+
+I was just going to make one other comment about this. You made a very perceptive observation when you said the Justice Department only has -- Ministry only has this issue to negotiate and we've got nothing to give back because they can't imagine why Japanese lawyers would set up offices in New York to do business or anything like that. I mean I can understand that.
+
+Most people just assume when they go to another country they'll use lawyers who understand the law and practice in those countries. But one of the big problems we've got in America, as I'm sure you know, is that we don't have enough lawyers who are facilitators and we have too many who are in effect litigators. We have too many who slow down the operations of the private sector rather than who speed it up.
+
+And there may be a little something we can do on the political side by indirection, you know, by sort of saying that Japanese companies doing business in America -- one of the things that this administration is looking at in the whole productivity mix is how we can reduce the cost of litigation and the cost of decision making and the delays there. And there may be some merit in our taking some initiative to bring some Japanese lawyers who do business work to the United States to work with American lawyers, to work with American businesses to see if we can kind of change the culture a bit and maybe some of the laws in our country.
+
+That is a little something we could give back, and it wouldn't do us any harm to do that anyway. 
+
+{/speech}

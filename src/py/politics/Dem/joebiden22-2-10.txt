@@ -1,0 +1,44 @@
+﻿{title} Remarks by the President and the Vice President to the National Governors Association {/title}
+{event} ----- {/event}
+{speaker} Joe Biden {/speaker}
+{date} February 22, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning, everyone. Well, I hope you all had a good time last night. And I kept my tradition of not making more of a fool of myself than I usually do by not letting you all see me try to dance. There was one reason -- I used to say to Governor Markell of Delaware -- why I never ran for governor -- you have to have an inaugural ball. {LAUGHTER} And that's why I stayed in the Senate all those years.
+
+First of all, thank you all for being here. It seems I've spent so -- you guys have spent, and ladies have spent, so much time with me on the telephone. I can't tell you how much I appreciate our almost biweekly conversations. But now I've gotten a chance to speak to all of you but two, and most of you twice for a half hour or so about the Recovery Act.
+
+And the first message I want to deliver to you is thanks. You have -- we put out a lot of money for a lot of projects, a lot of money that isn't projects -- tax cuts going into your states as well as health care monies. And the truth of the matter is the hardest part is accounting for the projects. And a lot of those projects weren't directly in your control, Gov. I know that. But yet you guys oversaw it. And we had -- in the Recovery Act, there's been 160,000 reports filed. They've been sent out -- sent in from around the country. And anyone can go to our Web site, recovery.gov, to find out exactly how those projects -- how that money was spent out, where it was spent.
+
+And the thing I want to thank you most for -- and I kid you all when I'm on the conversation with you, say, well, why am I being so responsive. Well, if it doesn't work it's my problem with the boss -- coming in in a minute here. {LAUGHTER} And so that's why I try to be -- we try to be as responsive as we can. But what I'm here to say to you all is you've been incredibly responsive to me, and to us, in terms of getting those reports in.
+
+And as I said, the thing I'm, quite frankly, proudest of is that dog hasn't bitten yet. Remember at the beginning we were going to have all these massive fraud programs, anything this big was going to -- and you know, there's been some mistakes and some of the programs don't really pass the smell test. They're legal and they're appropriate, but they just don't look right on paper. But it's a very small percentage.
+
+The inspector generals who have been looking at each one of these projects -- there's a panel of 10 inspector generals that reviews this -- there's very, very few -- I mean, less than a couple dozen that have been referred for further investigation, based on all the reports of any fraud coming in as a conduct of the program. That's a great tribute to you all.
+
+But I also know how difficult it is, the reporting piece of this. It takes a lot of your time, a lot of your effort. I apologize for being such a pain in the neck about it, but you've been great.
+
+And the fact is, folks, that part of the program, the Recovery Act now -- and by the way, I think most people, and you all, Republican and Democrat, have been great. The truth of the matter is that a lot of people thought, as my grandpop would say, the Recovery Act was the horse that was going to carry the sleigh, the entire economy, and pull it. It was only one piece of the economic recovery program. But almost everyone now agrees that it created somewhere between -- or saved -- somewhere between 1.6 million and 2.4 million jobs. We're confident it's over 2 million jobs.
+
+And we also know, as the President said last night from the podium when we were sitting right here that a lot of you have a FY'11 budget that's pretty steep as well, but last year out a lot of you were able to keep firefighters, school teachers, police officers on the job.
+
+And one of the things that everyone, even the critics, now acknowledge is that the Recovery Act played a significant part in the growth of the GDP. The first quarter of last year the economy shrunk by over 6 percent -- 6.4 percent. Last quarter, a year later, it actually grew almost 6 percent -- 5.7 percentt. But we all know a lot of people are still hurting. I mean, I've traveled into now 65 cities, I think it is, in your states and a lot of people are still hurting. Employment is lagging, and it's going to be -- it's a real scramble for a lot of people.
+
+My grandpop used to have an expression -- a couple of you heard me say -- when the guy -- he was from Scranton -- when the guy in Oliphant's is out of work it's an economic slowdown -- that's a little town outside of Scranton. When your brother-in-law is out of work it's a recession. When you're out of work it's a depression. It's a depression for a lot of Americans. You all are right on the front lines trying to deal with the concerns and problems of those people.
+
+But the next phase of the act -- and I'll conclude with this and introduce the President -- the next phase of the recovery monies -- and there's a lot of it left -- is in projects, but also in signature projects that we hope are not only going to create -- we're confident are going to create jobs, we hope they're going to begin to lay a new platform for an economic growth cycle in the 21st century. They are innovative. They range from everything from broadband that a lot of you are working on to high-speed rail, to a new electric grid and meters, and investment in battery technologies -- a range of things that are designed not just merely -- which is critical -- to get the economy moving and keep it moving, provide jobs and initiate new jobs, but they're also leveraging a lot of private capital, a lot of money.
+
+I was talking to Governor Christie a moment ago. It used to be, five years ago when we tried to talk about wind power along the East Coast, there was Delaware and no one else was doing it. All of sudden we started to invest in it and now you've got millions of megawatts of programs that are being suggested. Same way with solar energy. We're making major new investment in the Mohave Desert, a billion-dollar commitment.
+
+So there's some real -- there's some real hope that we're going to be able to generate significant, new projects. I know in the far West we're having some trouble about getting some of this off the ground and transmission and the rest. But you all have worked with us, you've given us great insight as to where the biggest problems are. We're trying to work through them, but we can't do it without you.
+
+And so in this last phase, which is this next year, of the Recovery Act, I hope you will continue to be willing to be as available to me as you have been, and I hope we've proved to you that we're looking for your ideas. We don't think everything is invented here, and so let us know how we can best implement the last portions of the most innovative parts of the Recovery Act.
+
+With that, ladies and gentlemen, I'd like to introduce the President, who is focused on rebuilding our infrastructure and sparking a new clean energy revolution, creating the best education system in the world. That's what he's undertaking. Some say we're doing too much, but the truth of the matter is, is there's no way that we can lead in the 21st century with the same energy policy, the same education system, and the same effort, same infrastructure we have now. So we've got to deal with all this. I think we're on the right path. I'm glad you all are the ones that are leading the effort for us. You've been a great source of ideas. And again let us know what you think we're doing right and what you think we're doing wrong.
+
+With that, ladies and gentlemen, let me introduce the President of the United States, Barack Obama. {APPLAUSE} 
+
+{/speech}

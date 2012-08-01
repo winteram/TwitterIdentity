@@ -1,0 +1,24 @@
+﻿{title} Remarks by the President to the People of Idaho Falls, Idaho {/title}
+{event} Fenning Field, Idaho Falls Airport, Idaho Falls, Idaho {/event}
+{speaker} Bill Clinton {/speaker}
+{date} August 17, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you so much. Thank you. I'm glad to see you. Thank you. First of all, let me thank --
+
+{COMMENT="Crowd sings happy birthday"} 
+
+Thank you very much. Thank you all for coming out. Hillary and Chelsea and I are delighted to see you. I even thank you for singing "Happy Birthday" to me. I've been a little apprehensive about turning 50 and getting my AARP card, but the music makes it a little easier to bear. We've had a wonderful family vacation in the west; we go back east refreshed, ready to go to work.
+
+I just wanted to say to all of you that next week will be a good week for our country. I'll have a chance to sign a bill that increases the minimum wage and increases tax incentives. {APPLAUSE} Thank you. The bill also -- a lot of people don't know this -- the bill also increases incentives, tax incentives for small business people to invest in their business and makes it easier for small business people and their employees to take out and keep retirement plans, even during periods when they're not employed. So it's a great bill for America, it's a good thing. {APPLAUSE}
+
+And I have a chance to sign a bill next week that says you don't lose your health insurance if somebody in your family gets sick or if you change jobs -- the Kassebaum/Kennedy bill. {APPLAUSE} And, of course, the welfare reform bill, which will give states more funds for child care and for health care, and then require people who can to move from welfare to work.
+
+It'll be a very good week for America. And all those bills passed with very strong bipartisan majorities. I can only say that I wish we had more of that in Washington, and I know you do, too. But I am very, very happy, I'm delighted to be here. I love seeing all these signs here. You've made us very, very, happy and we'd like to come out and say hello to you in time for this plane to leave.
+
+Thank you and God bless you, Idaho. Thank you. {APPLAUSE} 
+
+{/speech}

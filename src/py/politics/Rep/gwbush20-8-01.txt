@@ -1,0 +1,77 @@
+﻿{title} Remarks by the President to the Veterans of Foreign Wars {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} August 20, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. {APPLAUSE} Thank you very much. At ease. {LAUGHTER} 
+
+Thank you for that warm welcome. Before I begin my address, I know you'll want to join me in paying tribute to a fine friend and a good man who left us last week. We mourn the loss of Floyd Spence, who served our country well as a congressman from South Carolina and was chairman of the Committees on National Security and on the Armed Services, a senior member of the Committee on Veterans Affairs. He was a strong advocate for national defense. Our prayers are with his wife, Deborah, and his four sons. {APPLAUSE} 
+
+My, time flies. I was here a year ago, minus one day. {LAUGHTER} Since then, I have had a change of address -- {LAUGHTER ; APPLAUSE} -- and I received a great honor. Another honor comes to me today, to speak as Commander-in-Chief to the Veterans of Foreign Wars of the United States of America. {APPLAUSE} 
+
+Today, I bring the respect of our nation, and a special greeting from one of your own members, from VFW Post 4344 of Houston, Texas, the former President, George H.W. Bush. {APPLAUSE} 
+
+I want to thank your Commander-in-Chief. John has been in the Oval Office. He is a true advocate for the veterans. He has done a fine job. {APPLAUSE} And, like me, he married well. {APPLAUSE} 
+
+And I want to congratulate John's successor, Jim Goldsmith. And I look forward to working with Jim, just as I have with John. {APPLAUSE} 
+
+I also want to thank Bob Wallace. I want to thank Bob Wallace, the VFW's man in Washington, D.C., for working closely with my administration and representing your interests very well. {APPLAUSE} 
+
+I want to thank Pat Jankowski of the Ladies Auxiliary who are gathered here as well in Milwaukee, and I want to thank her for her leadership. {APPLAUSE} And I want to congratulate Diana Stout, who will become the incoming president of the Ladies Auxiliary. {APPLAUSE} 
+
+As well, I want to thank the governor of Wisconsin, Scott McCallum for his hospitality, and I want to thank all the good people of Wisconsin, particularly Milwaukee for being such a welcoming city to this great convention. {APPLAUSE} 
+
+I want to pay tribute to a good friend of mine and a good friend of yours, the Secretary of Veterans Affairs, Tony Principi. {APPLAUSE} Last year, he was giving me advice about veterans affairs. This year, he sits around the Cabinet, making sure I understand what we are doing in veterans affairs. {APPLAUSE} And I appreciate so very much Tony's return to public service. He is doing a fine job. 
+
+I want to thank you all for having me come to this convention. I have been looking forward to this visit. I appreciate every chance I get to travel our country. It is important for a president never to become isolated in the seat of power. As great and influential as that city is, sometimes the President just has to get out of Crawford, Texas. {LAUGHTER ; APPLAUSE} 
+
+This is a fine organization. General Douglas MacArthur called the VFW the greatest organization in the world. He and his dad were both members, and they would be proud of all you have done for your country, and they would be proud of the more than 1.9 million members of the VFW. {APPLAUSE} 
+
+Each one of you is a living example of a special kind of patriotism, the love of country, expressed not just in word but in lifetimes of service. You defended America in hours of need. You help your fellow veterans in times of their need. And you have done so much to build the character of our young people, to teach them to live by good values, to honor their parents, to trust in God. You helped them to appreciate freedom, to love America, and to respect our flag. 
+
+You understand as well that showing a basic respect for our nation's flag is not merely the option of every citizen, it should be a matter of constitutional law. {APPLAUSE} 
+
+In Europe last month, one of my last stops was Camp Bondsteel in Kosovo. I went there to thank our servicemen and women for their sacrifice for our nation. I took the occasion to make good on a promise, by signing a bill to allocate over $2 billion in additional appropriations for military pay, benefits, health and housing. {APPLAUSE} 
+
+To restore the strength and morale of America's armed forces, we must first take care of the people who wear our uniform. {APPLAUSE} I believe we're making every branch of service a place where men and women are proud to serve, and as importantly, proud to stay. {APPLAUSE} 
+
+My administration understands America's obligations not only go to those who wear the uniform today, but to those who wore the uniform in the past: to our veterans. And at times, those obligations have not been met. {APPLAUSE} Veterans in need of care have been kept waiting, and thousands of veterans' claims have been delayed, or in some cases lost in the bureaucracy. 
+
+Many veterans have observed that the government seemed to work a lot more efficiently when it wanted something from them. When the Draft Board got your file, it worked efficiently. {LAUGHTER} But now, when you need health care, forms get lost and answers come late. That is no way to treat America's veterans, and that is going to change. {APPLAUSE} 
+
+Secretary Principi is conducting a top-to-bottom review of the claims processing. Currently, there are about 600,000 pending applications, of which 53,000 have been pending over a year. Many of those belong to veterans over 70 years of age. That's not right. I have given Secretary Principi the clearest of clear mandates. He must bring those claims to a speedy and fair resolution. We must move as quickly as possible on the backlog, and we will. {APPLAUSE} We will improve cooperation between the VA and the Department of Defense in providing care to those who served. 
+
+In May, I signed an executive order creating a presidential task force to recommend major reforms in the delivery of health care to veterans in military retirees. Two distinguished Americans will lead that task force. Dr. Gail Wilensky, an expert on health policy and a faithful friend to the veterans, and former Congressman Jerry Solomon. One might be tempted to call him an ex-Marine, but we all know there is no such thing as an ex-Marine. {APPLAUSE} 
+
+We are making great progress on implementing the Veterans Millennium Health Care Act to ensure that our veterans receive high-quality care. In the budget I submitted to Congress, I requested an increase of $1 billion, additional money for veterans services. Secretary Principi recently announced new health care facilities for veterans. Six new centers for Parkinson's disease, research and care, and 41 new outpatient clinics in 28 states. Veterans are a priority. {APPLAUSE} 
+
+Veterans are a priority for this administration. I put a good man in charge, and that priority is reflected in my budget. Our budget also meets the most fundamental responsibility a President bears, to provide security for the United States of America. Not only does the budget take care of our people, we give today's military what it needs to operate, equipment, spare parts, advanced training. 
+
+In all, I've asked Congress to provide our military an increase of $39 billion over the original 2001 appropriations. This is the largest increase in military spending since Ronald Reagan was the Commander-in-Chief. {APPLAUSE} We are not only going to spend more on national defense, we're also going to spend it more wisely. 
+
+Secretary Rumsfeld is charged with developing a strategy to bolster today's military and he is charged with developing a strategy to develop a military that is ready to defend America tomorrow as well. A modern military requires major investment in research and development, so that our military is always the finest in the world. {APPLAUSE} 
+
+And something I offered last year as a promise is today a commitment, to research, develop and deploy a defense against ballistic missiles. {APPLAUSE} These are the priorities I submitted to Congress in February and priorities reflected to the budget amendment in June. I trust they will be reflected in the appropriations bills Congress sends me this fall for my signature. 
+
+As we enter the appropriations process, I have great hopes, but no illusions. Washington has its own way of doing things, especially around the time of year when final appropriations are made. The spending bills are passed one after another, 13 in all. Everybody in Washington knows there is a budget. But new spending gets thrown in along the way. 
+
+Finally, when it is time to pass the last bill, they realize they are just about to go over the budget. And often, and sadly, the final bill has been the Defense Appropriations Bill. And, therefore, defense appropriations has gone without adequate funding. That's the old way of doing business. That's old style of thinking. 
+
+I have a better idea. Let's abandon the old ways of gamesmanship, standoffs and government shutdowns. Let us keep our priorities strait and start with the things that matter most to our country's security and our country's future. This year, let us have responsible spending from day one and put the national security and education of our children first in line when it comes to the appropriations process. {APPLAUSE} 
+
+I hope you all -- I hope you all watch very carefully. It's important that people pay attention to what goes on in Washington. It will be an interesting signal about the priorities of the leaders of the United States Congress when they let those appropriation bills out to come to my desk. I'm confident I can work with Congress on appropriations, because we have worked closely together on other issues. We saw bipartisan votes on the budget itself. And they passed and I signed and the mailman is delivering the first major income tax relief in a generation. {APPLAUSE} And we also work together in honoring veterans. 
+
+Members of the VFW have long advocated a fitting memorial to those who served in the Second World War. The World War II Memorial has been in the works for an awfully long time. The final obstacles have been removed. I've signed it into law, and soon the veterans of World War II will have their place of honor in the heart of our nation's capital. {APPLAUSE} 
+
+In the heart of Washington, D.C., that monument will stand for all time as a reminder of service and sacrifice. Not far away are monuments to those who fought in other wars across the world. For all of you, service in time of war was a defining experience in your life. Your brave and selfless conduct has defined the best of our country. 
+
+America does not seek to produce more generations of war veterans; we are a peaceful nation. But we'll always need the commitment and courage and honor that we find in our veterans. Those who have worn the uniform have made a contribution, not just to the defense of our nation, but to the character of our nation. You've given your best to America and in so many ways you are the best that is in America. 
+
+For all that, you have the deep respect of those who wear the uniform today, the Commander-in-Chief as well. And you have the gratitude of a nation that is in debt. Thank you for letting me come. May God bless our veterans. {APPLAUSE} 
+
+{/speech} 

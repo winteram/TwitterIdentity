@@ -1,0 +1,24 @@
+﻿{title} Summation and Closing Address of the Clinton Global Initiative {/title}
+{event} New York, NY {/event}
+{speaker} David Sandalow {/speaker}
+{date} September 22, 2006 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Mr. President. How about that Richard Branson? {CHEERS ; APPLAUSE} So, Richard's $3 billion commitment, signed in this hall yesterday, is front page news around the world. Your commitment this morning, along with Vinod Khosla, Jim Wolfensohn, Steve Bing, and Ron Burkle -- of a billion dollars in green investments -- is simply remarkable, too.
+
+And, I'm happy to report, members of this conference have also made dozens of other commitments to help fight global warming. We've heard commitments to mobilize religious groups, college students, college presidents, corporate boards, farmers, cities - - the list goes on. Josh Fink, a 28-year-old financial wizard, came to this conference and pledged $50,000, plus his very valuable time and energy, toward helping protect the environment in the developing world. Adam Strum, publisher of Wine Enthusiast magazine, was inspired by the CGI midyear meeting to run an article on the impact of global warming on vineyards. Now he's pledged $50,000 for public awareness on global warming. And the Appleton Foundation out of Canada was inspired by last year's meeting to launch a million dollar program to convert public transport vehicles to hybrids.
+
+Mr. President, my last 24 hours have been filled with an immensely gratifying number of thank yous, from people who have used this conference to advance their work in fighting global warming and to educate themselves on this topic. But those thanks really belong to you, Mr. President, and so I pass them along here. Please know that there are hundreds and hundreds of people in this room, some of whom may never have the chance to express this personally, who are deeply grateful for your vision, energy, and commitment in creating this conference. {APPLAUSE}
+
+Our energy and climate sessions were filled with dazzling dialogue, creative ideas, and strong opinions. From these sessions, three themes emerged. First, there are many steps people in this room can take today to reduce their own contributions to global warming; simple things like video conferencing, buying energy efficient appliances, and doing a home energy audit; smart and strategic things like making people within organizations accountable for energy waste. In several panels, we heard suggestions for making energy use part of each employee's performance appraisal. And I think you'll be glad to know, Mr. President, that we were reminded not to forget about compact fluorescents. Mayor Rocky Anderson described how Salt Lake City saved tens of thousands of dollars each year by eliminating incandescent bulbs from city buildings.
+
+A second theme: Companies are investing now, and they are ready to invest more. John Doerr described his investments in the next generation of clean energy technologies and pledged another $100 million dollars in new investments in this area. We heard about record growth in the solar and wind industries, about rapid advances in biofuels, about companies committed to finding new opportunities in this area. There was an almost palpable sense of excitement about the growth in clean energy markets. As John Podesta said, “The opportunity is here, it's real, and it's accelerating.”
+
+A third theme, and for many CGI members, the most important, was the need for leadership from government to unleash these market forces. Brenda Davis from Johnson & Johnson said, “We've got to have government policy that puts economic value on greenhouse gas emissions and is backed by caps.” Abby Joseph Cohen said that investors like Goldman Sachs are hearing complaints that regulations are not yet in place. Time and again, CGI members in our table discussions stressed that mandatory measures from government are an essential part of the solution to this problem. And our track sponsor, Julian Robertson, who knows something about money, noted that if the government leads by setting a limit on carbon pollution, a whole lot less money will be going from American wallets to other parts of the world.
+
+The past two days have been exciting, dynamic and inspiring. Wangari Maathai brought us a powerful message about hope and the ability to meet great challenges. The past two days have also been rewarding. You asked for commitments, Mr. President, and CGI members delivered. They're leading by example. They're raising the bar. And they're helping point the way to lasting solutions. We leave today inspired, challenged, and ready to do our part to shape a clean energy future. Thank you. {APPLAUSE} 
+
+{/speech}

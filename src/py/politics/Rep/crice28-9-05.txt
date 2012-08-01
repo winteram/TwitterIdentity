@@ -1,0 +1,59 @@
+﻿{title} Remarks at the Global Business Coalition on HIV/AIDS 2005 Awards for Business Excellence Gala {/title}
+{event} Global Business Coalition on HIV/AIDS 2005 Awards for Business Excellence Gala {/event}
+{speaker} Condoleezza Rice {/speaker}
+{date} September 28, 2005 {/date}
+{source} http://www.state.gov/secretary/rm/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you very much, Richard, for that warm introduction and I'm glad to know that I saved you a few minutes during dinner. {LAUGHTER} But I can't think of a more passionate public servant than Dick Holbrooke. Thank you for your years of leadership and thank you for keeping HIV/AIDS at the forefront of the international agenda.
+
+And thank you, Senator and Mrs. Nelson, for that beautiful invocation. It was enormously inspiring. Thank you very much for that. And Mrs. Nelson, in particular, I know your tremendous commitment to AIDS and thank you for all that you do every day. Sir Mark, members of the Board of Directors and the Corporate Advisory Board, Executive Director Neilson and especially this year's winners of the Business Excellence Award, I congratulate you and all companies participating in the Global Business Coalition on HIV/AIDS, for addressing one of the great humanitarian issues of our time, indeed of any time.
+
+
+As I look around the room I see so many familiar faces and friends and colleagues and leaders and heroes. Angelina Jolie, your tireless advocacy work and compassion and grace and personal commitment has brought AIDS and other compelling humanitarian issues to the attention of publics that otherwise might not have been reached. We are all so very grateful to you.
+
+
+And Senator Clinton, it is really a pleasure to share the program with you. I especially want to thank you for your dedication to fighting the global AIDS scourge, particularly as it affects women and girls. And I look forward to working with you and your colleagues in Congress as we continue to develop innovative ways to address the challenges women and girls face in protecting themselves from this awful disease.
+
+
+We are here tonight to recommit ourselves to taking concerted action to bring hope to those afflicted and affected by HIV/AIDS. Our Global AIDS Coordinator, Ambassador Tobias, asked me to send everyone his warm congratulations and his appreciation for your partnership. As Ambassador Holbrooke said, Randy is in Geneva at a board meeting of the Global Fund for HIV/AIDS, Tuberculosis and Malaria. And I just want to say that Randy and his team are doing a terrific job.
+
+
+As President Bush has said, "Confronting HIV/AIDS is the responsibility of every nation and a moral imperative for the United States." HIV/AIDS is not only a human tragedy of enormous magnitude; it is also a threat to the stability of entire countries and to entire regions of the world.
+
+
+To turn the tide against this devastating pandemic, President Bush launched his historic $15 billion Emergency Plan for AIDS Relief with strong bipartisan support -- the largest commitment any nation has ever made to an international health initiative. And I want to underscore that we continue to get the strong support of the United States Congress from both sides of the aisle, and I would just like to take a moment to thank those of you who are here from the Congress. I think I've never seen a better bipartisan spirit and thank you very much for your support of the initiative.
+
+
+The Emergency Plan is combating the disease in 123 countries across the globe through prevention, treatment and care, and placing special emphasis on 15 countries where the need is most urgent: in Africa, Asia and the Caribbean. The early results from this far-reaching initiative have been encouraging, but governments alone cannot win the fight against HIV/AIDS. All elements of civil society, and especially the private sector, must play leading roles.
+
+
+President Bush believes deeply in the importance of private sector leadership, and that's why I'm so delighted that the members of the Global Business Coalition are our strong partners in putting the emergency plan to work on the ground. In Ethiopia, for example, we're working with Coca-Cola to support an innovative job skills program for orphans and vulnerable children affected by HIV/AIDS. Some of these children are heads of households, raising young brothers and sisters. The job skills that these children learn will, thus, benefit entire families.
+
+
+In South Africa, the Emergency Plan is providing support for Anglo America's drive to provide antiretroviral treatment, not only to minors but also to the families of those minors. And the U.S.-India HIV/AIDS Private Sector Corporate Initiative announced this July will improve access to quality antiretroviral drugs, especially for pediatric treatment.
+
+
+These and many other partnerships that we are forging with the community, the corporate community, are designed to strengthen the capacity of host nations. Ultimately, only locally owned, locally led efforts will succeed. The countries fighting AIDS know what they need to do to help their people. If we support the sound national strategies of host governments, and involve local partners, we will not just fight the disease more effectively, we will also foster long-term growth and stability and security in the countries with which we are working.
+
+
+In closing, let me share a personal reflection with you. I feel very privileged to have taken part in some of the early discussions that led to the Emergency Plan, and I remember one meeting, in particular, in the Oval. The President said that he felt that our initiative should include taking on the challenge of supporting treatment on a massive scale. And he asked everybody in the room what they thought of this. And of course, there was a debate at the time: If you couldn't cure, did it make sense to at least try and prolong life?
+
+
+And that question brought to mind my own personal story. You see, when I was 15 years old, my mother was diagnosed with breast cancer. Because of treatment, she lived an additional 15 years, until I was 30. What a difference in my life to have my mother see me grow up and go to college and become a professor at Stanford. How sad to have lost her when I was 15. {APPLAUSE}
+
+
+The experience of the importance of extending life even if you cannot cure, and certainly we hope one day for a cure for this awful disease, but even the extension of life is being appreciated now by people who are taking advantage of the breakthroughs in treatment that are now possible. These are the words of Elisa, a 42-year-old widow living with HIV/AIDS in Rwanda. Elisa is being treated by antiretroviral services by the Biryogo Medical in Kigali with support from the Emergency Plan.
+
+
+"I am ready for every occurrence," she said. "As long as I can increase my life by a few or many years, because my three young children need me. Even the ones who are still married need me. I want to advise other people who have AIDS not to despair, but to be strong and have hope. I will give them testimony on how the medication helped me. I will tell them that my life is going on and how grateful I am toward the health center and toward God who is working miracles for me."
+
+
+That is the charge that we have, to try to be a part, a small part, of those miracles, those miracles that give people hope, that give people a chance at extended life, and that one day we'll find a cure for this terrible disease. And I want to thank you, the members of the Global Business Coalition on HIV/AIDS, for the extraordinarily important part that you are playing in this, a great moral responsibility of our time. Thank you very much.
+
+
+{APPLAUSE} 
+
+{/speech}

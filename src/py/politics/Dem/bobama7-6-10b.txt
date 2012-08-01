@@ -1,0 +1,23 @@
+﻿{title} Remarks by the President at Ford's Theatre Reception at the White House {/title}
+{event} Ford's Theatre Reception at the White House {/event}
+{speaker} Barack Obama {/speaker}
+{date} June 7, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. It is a pleasure to welcome all of you to the White House. I'm going to be very brief, because I know you're all looking forward to heading down the street a little bit later for a wonderful night -- and Michelle just mentioned, and the women are wearing heels. {LAUGHTER}
+
+That's why I want to take a moment to thank all the performers for taking time out of their busy schedules to share their gifts with us and be part of this wonderful event. I also want to thank the Cabinet officials and members of Congress who are with us –- including Senator Reid. Thank you all for coming and for your support of this wonderful institution. {APPLAUSE}
+Tonight is about celebrating the great work at Ford Theatre, what it's done to preserve the legacy of our 16th President and highlight the importance of the arts and education in our own lives and in the life of our nation.
+
+In many ways, it's impossible to separate the history of America from the history of its music and its spoken word. Soldiers have sung as they marched to war, and raised their voices again while laying a brother to rest. Lyrics on a page and voices on a stage have helped connect us across generations and across cultures, backgrounds and faiths. Our greatest leaders -– including Lincoln himself -– have drawn inspiration and courage from the arts. And on a personal level, they help each of us express the joys and hardships of life while bringing us closer to each other.
+
+This is especially true during moments of trial -- and we have had a lot of trials over the past year and a half. Right now we've got brothers and sisters in the Gulf Coast who are going through an incredibly difficult time in the face of a disaster unlike any that we've ever seen of late. I want to emphasize again that we're going to do everything we can in the weeks and months and years ahead to make things right. And I know everybody here feels the same way.
+
+But tonight we will celebrate not only music and song and performances, but we're also going to be celebrating the incredible legacy of the Ford's Theatre -- celebrating some award recipients who are extraordinarily worthy and have done so much to help not just people in this country but all around the world.
+
+So, on behalf of Michelle and our entire family, I want to say how grateful I am that all of you are here. Thank you for support the theatre. We are looking forward to a wonderful evening. Good night. {APPLAUSE} 
+
+{/speech}

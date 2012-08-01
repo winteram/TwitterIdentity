@@ -1,0 +1,16 @@
+﻿{title} Speech in Green Bay, Wisconsin {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} September 28, 2000 {/date}
+{source} http://www.pbs.org/newshour {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+Today I want to talk about our government finances. We have a surplus and our nation has a choice, one of the clearest choices of this campaign. Will we use the money wisely or will we spend it on permanently larger government? That's the fundamental question. Today our projected surplus is $4.6 trillion. Now that's extra money after government budgets have been increased. I see America's $4.6 trillion surplus as an opportunity to protect and extend our present prosperity. We will use half of the surplus to strengthen Social Security and pay down debt -- national commitments that we must keep. We will make important investments in Medicare and education, the environment and national defense. And we will return about one- fourth of the surplus to the American people who earned it -- {CHEERS ; APPLAUSE} who earned it, who paid for the surplus, and deserve to have part of it back. {APPLAUSE} A family of four in the state of Wisconsin making $50,000 will receive a 50% cut in federal income taxes. {APPLAUSE} Ours is a plan that simplifies the code. It makes it easier to understand. It reforms the code by eliminating the death tax, doing something on the marriage penalty, and drops the bottom rate from 15% to 10%, and increases the child credit from $500 to $1,000. We not only hear the voices in our tax reform of the entrepreneurs and small business people, we hear the voices of those struggling at the bottom end of the economic ladder of wealth. See, this is a matter of principle for me. A surplus, after all, means a surplus of tax collection. It means Americans have been overcharged and they should see some of that money back again. {APPLAUSE} 
+
+This tax reduction serves another purpose. It is an insurance policy against an economic slowdown or a recession. You see, putting more money into the hands of the earners and creators of wealth before trouble comes, would give our current expansion a second wind. My opponent has a plan for the surplus as well. He's proposing the largest increase in federal spending in 35 years, since the presidency of Lyndon Baines Johnson. The contrast between our two economic plans could not be clearer. I see our record surplus as an opportunity to save Social Security, pay down debt, provide families with tax relief, improve public education and extend our prosperity. He sees this as a foundation for permanent expansion of government and his plan to spend it all would threaten our current prosperity. I want tax reductions that are broad and fair. He wants tax cuts as a reward for good behavior, as he defines it. I believe government should help people live their lives, not run their lives. {APPLAUSE} He believes in choices, but he makes most of them for us. This election I'm trying to earn the trust of the Americans by trusting them in return. I want this country to he a present you can believe in, but also a President that believes in the people. {CHEERS ; APPLAUSE} 
+
+
+{/speech} 

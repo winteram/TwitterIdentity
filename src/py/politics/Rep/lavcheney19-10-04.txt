@@ -1,0 +1,32 @@
+﻿{title} Vice President and Mrs. Cheney's Remarks and Q&A in Carroll, Ohio {/title}
+{event} Fairfield County Airport, Historical Aircraft Squadron Hangar, Carroll, Ohio {/event}
+{speaker} Lynne Anne Vincent Cheney {/speaker}
+{date} October 19, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, thank you so much. {APPLAUSE}
+
+{OTHER-SPEAK} Sit down, please. {/OTHER-SPEAK} 
+
+That's terrific. What a warm welcome. Do you suppose that this is Bush-Cheney country? {APPLAUSE} 
+
+Well, I have the honor of introducing Dick today because I have known him for so long. {LAUGHTER} I have known him since he was 14 years old. This is true. And his job that summer when I first knew him was sweeping out the Ben Franklin store in our hometown, in Casper, Wyoming. {LAUGHTER} And I've known him through many jobs since. I have known him since he was digging ditches at the Central Wyoming Fair and Rodeo Grounds, and I've known him since he was loading bentonite, 100-pound sacks of bentonite onto railroad cars. And I've known him since he was building power line all across the West, to help pay his way through school. And I like to tell those stories because when you grow up working hard, you learn some important lessons. And one of those lessons is how important it is for the hardworking men and women of this country to get to keep as much of their paychecks as possible. {APPLAUSE}
+
+And I've been so honored this past three-and-a-half, four years to really have a front row seat on history and to watch as our whole nation rose up to comfort those whose lives were changed forever by 9/11, and to watch our President lead this country, not only to protect us here at home, but to go on the offense after the terrorists, go on the offense, which is what we all know we should be doing. {APPLAUSE}
+
+And there are so many issues in this campaign. And I know that you all feel that way, too. But I'm a mother and I'm a grandmother, and when I think about this campaign, I think about keeping my children and my grandchildren safe. And when I think about that, and I ask myself, are the terrorists going to try to get us again, I say, yes, I know they will. They'll try. Who do I want standing in the doorway when that happens? It's not John Kerry and it's not John Edwards. {APPLAUSE} I'll tell you who it is, it's George Bush and Dick Cheney. {APPLAUSE}
+
+Yesterday, 200 and some 9/11 family members put out a letter. And I know this hasn't gotten much attention. So I just wanted to read part of it to you today. They all wrote -- they wrote this letter and then two -- or the letter, they all signed this letter, and it says:
+
+We speak to you from the heart as citizens from all across the country and every political stripe. We are Republicans and Democrats, liberals and conservatives, young and old, mothers, fathers, husbands, wives, sisters, brothers, sons, daughters, and friends. And we speak from a profound sense of obligation to those we have lost -- guided by core principles, President Bush has steadfastly told us who he is, what he believes, and what he will fight for.
+
+As Americans who have keenly felt the scourge of terrorism, we are inspired and energized to follow the President's lead, to rise to the occasion and get the job done. Three years ago, George Bush stood with us and vowed that he would never forget. We stand with him now. {APPLAUSE}
+
+Well, our President has been a magnificent leader. And if you don't mind my saying so, the Vice President is no slouch either. {APPLAUSE}
+
+So, ladies and gentlemen, my husband, Dick Cheney, the Vice President of the United States. {APPLAUSE} 
+
+{/speech}

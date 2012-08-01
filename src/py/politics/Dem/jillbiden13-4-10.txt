@@ -1,0 +1,23 @@
+﻿{title} Remarks by the First Lady and Dr. Biden at Thank You Event {/title}
+{event} Thank You Event {/event}
+{speaker} Jill Biden {/speaker}
+{date} April 13, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you Mr. Mulet for that introduction, for hosting us on this important visit, and for the ongoing leadership that you and the United Nations team have provided here in Haiti. And good afternoon and thank you to everyone gathered here today.
+It's truly an honor to be with all of you –- individuals from across the world, along with many Haitians, who have been at the core of the relief and the recovery efforts.
+I am honored to be with you today and want to simply say thank you for your heroic actions in recent months. Your commitment and compassion in the face of unthinkable challenges has inspired the entire world.
+Some of your very own here have lost lives, others have risked their lives, and all of you have made us incredibly proud with your determined efforts to save men, women and children –- to provide comfort, and to put Haiti on a path to a brighter future.
+All of you in this room know that the devastation in Haiti was unconceivable, and that there is much work to be done. But after visiting for just a day, I will leave with a renewed sense of hope and optimism because of the will of the Haitian people and the steadfast commitment of those of you standing here today and the international community you represent.
+As a teacher, I was especially pleased to visit a school this morning that is providing a sense of normalcy and hope for the children in this area. And I spoke with Mrs. Préval about the importance of a strong education system to provide young Haitians the chance at a better life.
+I also saw rebuilding efforts that will result in more schools. And with the leadership of the Haitian government, your help and that of the international community, I know these schools will educate Haiti's future leaders of government, arts, science and business.
+Each of you is essential to these efforts. There is much hard work ahead. But I know that together with the leadership of the Haitian people, the commitment of the global community, and the ongoing sweat and compassion of those in this room today, we will help Haiti build back better. {APPLAUSE}
+The First Lady and I came here to listen and learn, but also to deliver a sincere and simple message: Thank you for what you have done and what you will do for this ongoing mission.
+I am honored to join First Lady Michelle Obama for this meaningful visit to Haiti.
+The President asked Michelle to come here to reiterate the commitment of the United States to Haiti as a steadfast partner, and he could not have asked a more able, dedicated, or compassionate person to deliver this message on behalf of the United States.
+I am so proud -- {APPLAUSE} -- I am so proud and honored to introduce my friend, and a woman we are so fortunate to call our First Lady: Michelle Obama. {APPLAUSE} 
+
+{/speech}

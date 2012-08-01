@@ -1,0 +1,24 @@
+﻿{title} Remarks by the President at National Turkey Pardoning Ceremony {/title}
+{event} The Rose Garden {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 26, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning, ladies and gentlemen. I want to welcome the folks from the National Turkey Federation here; the Chairman, Sonny Faisun and the President, Stuart Proctor. And a special word of welcome to all the kids who are here from Horton's Kids in Anacostia, and all the rest of you who want to see one more turkey for Thanksgiving. {LAUGHTER}
+
+This is a special day in the Rose Garden every year, and let me thank again the National Turkey Federation on their golden anniversary for donating a Thanksgiving turkey to the White House every year for 50 years. That's right. Now, this marks the 50th year when we give one more turkey in Washington a second chance. {LAUGHTER}
+
+I want to acknowledge our special guest, this fine tom from the Tarheel State of North Carolina, the number one turkey-producing state in our nation. President Truman was the first President to pardon a turkey. But in some ways, the tradition actually began 83 years earlier when President Lincoln received a turkey for Christmas holiday. His son, Tad, grew so attached to the turkey that he named him "Jack," and President Lincoln had no choice but to give Jack the full run of the White House.
+
+Jack was here, actually, for some monumental events. On Election Day in 1864 when Mr. Lincoln was running for reelection, a special polling place was actually set up right here on the grounds of the White House so that the soldiers could vote. Well, Jack the turkey actually strutted in front of some of the would-be voters and broke in line. Lincoln asked his son, "Why is your turkey at the polls? Does he vote?" Without hesitation, Tad said, "He's not old enough yet." {LAUGHTER}
+
+Tomorrow, 45 million turkeys will make the ultimate sacrifice for America's feast. But not this one. I'm granting this turkey a permanent reprieve. After many years in the coop, he's on his way to a farm in Virginia to bask in the sun, collect his hard-earned pension, and enjoy his golden years. And that's one less turkey in Washington. {LAUGHTER} Happy Thanksgiving. {APPLAUSE}
+
+{OTHER-SPEAK} Mr. President, how is the Attorney General? {/OTHER-SPEAK} 
+
+She's fine. I talked to her this morning. She said she was feeling great. 
+
+{/speech}

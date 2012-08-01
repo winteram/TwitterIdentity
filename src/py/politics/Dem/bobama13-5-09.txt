@@ -1,0 +1,15 @@
+﻿{title} Remarks By The President and The First Lady at Poetry Jam {/title}
+{event} Poetry Jam {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 13, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. Hello, hello, hello. {APPLAUSE} Thank you. Thank you so much. Please, everybody be seated. It is a great pleasure to welcome all of you to the White House for an evening of music and poetry and spoken word -- {APPLAUSE} -- from some of our nation's most gifted performers, both distinguished veterans and up and coming young talents.
+We're here tonight not just to enjoy the works of these artists, but also to highlight the importance of the arts in our life and in our nation -- in our nation's history. We're here to celebrate the power of words and music to help us appreciate beauty, but also to understand pain; to inspire us to action, and to spur us on when we start to lose hope; to lift us up out of our daily existence -- even if it's just for a few moments -- and return us with hearts that are a little bit bigger and fuller than they were before.
+The great jazz musician, Louis Armstrong, once said simply, "What we play is life." What we play is life. And that is what these artists do -- they express the joys and hardships of life and remind us how much all of us have in common. It's a great gift and a great responsibility. And we're honored to host them here at the White House tonight.
+I now have the privilege of introducing the star of the show, somebody who brings a lot of poetry to my own life -- the First Lady, Michelle Obama. {APPLAUSE} 
+
+{/speech}

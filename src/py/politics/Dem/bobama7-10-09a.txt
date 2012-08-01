@@ -1,0 +1,41 @@
+﻿{title} Remarks By The President at an Astronomy Event With Students {/title}
+{event} Astronomy Event With Students {/event}
+{speaker} Barack Obama {/speaker}
+{date} October 7, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+It is good to see you, all of you. Good evening. I want to welcome all the students and teachers and amateur astronomers to the White House tonight. I won't speak long, because we've got a bunch of telescopes and great exhibits to get our hands on. But before we begin, let me first acknowledge a few other stars who are out tonight.
+First of all, John Holdren, my science advisor -- an actual physicist -- is here and eager to look through one of these telescopes. Our NASA Administrator, Charles Bolden, who's spent some time orbiting the Earth himself, and his deputy, Lori Garver, are here. Where's Charles and Lori? There're in the back there. Give them a round of applause. {APPLAUSE} We've got some specialists from NASA, the Smithsonian, and the American Museum of Natural History in New York here with us as well.
+And we've got some of the heroes who have flown closer to the stars than anybody else -- Buzz Aldrin, a man who actually walked on the moon. Where's Buzz? Right there. {APPLAUSE} Sally Ride -- Sally Ride, the first American woman in space, is here. {APPLAUSE} Mae Jemison, the first African American woman in space. Give her a big round of applause. {APPLAUSE} And John Grunsfeld is here, the man they call the "Hubble Repairman," not to be mistaken with the Maytag repairman -- {LAUGHTER} -- for all the upgrades that he's made up there to the telescope that allows us to see farther than anyone ever imagined. So give John a big round of applause. {APPLAUSE}
+Now, NASA's equipment is some pretty powerful stuff. But astronomy also depends on the curiosity and the contributions of amateur astronomers. And there are two students here tonight who've made some pretty amazing discoveries of their own.
+First of all, Caroline Moore and her dad Robert -- raise your hand -- where's Dad? There's Robert. {APPLAUSE} They look at the stars together in New York. And last year -- think about this -- when she was only 14 years old, she became the youngest person ever to discover a supernova -- and not just any supernova, but a kind that we may have never seen before. And earlier this year, Lucas Bolyard -- Lucas, raise your hand. Where are your folks? Where's Lucas's folks? Raise your hands, I know you guys are proud. {APPLAUSE} A high school sophomore from West Virginia, discovered some unusual data that turned out to be an extremely rare kind of star called a pulsar. And Lucas was explaining to me just what a pulsar was so that I wasn't embarrassed when I came out here. {LAUGHTER}
+Now, if they can discover something great, so can any of you other students who are here tonight. All you need is a passion for science.
+From the moment humans first walked on this Earth, we've been endlessly fascinated by the stars. As long as we've been around, we've been trying to unlock the mysteries of the universe and figure out our proper place in the cosmos and somehow make sense of it all.
+It was 400 years ago this year that Galileo built his first telescope. It was just three times more powerful than the naked eye. But he kept on working on it, and improving on it, until he built one 33 times as powerful. And then he turned it towards the sky. And he discovered that our moon wasn't smooth, that Venus had phases, that Jupiter had moons, and that Copernicus was right -- that we do revolve around the sun.
+Now, we've come a long way since then. While Galileo's first telescope had lenses an inch wide, the Hubble Space Telescope has mirrors about seven and a half feet wide. A few years ago, the Hubble showed us the deepest image of the universe ever taken. And in that image, we can see about 10,000 galaxies, and each of those galaxies can hold billions of stars. Now, that's a lot, but get this: It would take 13 million of those images to map the entire sky. That's how immense it is.
+So there are a lot of mysteries left and there are a lot of problems for you students to solve. And I want to be a President who makes sure you have the teachers and the tools that you need to solve them.
+And that's why we're working to reinvigorate math and science in your schools and attract new and qualified math and science teachers into your classrooms, some with lifetimes of experience. That's why we've launched a Race to the Top to raise standards and upgrade your curricula and improve teaching and learning in math and science. That's why we're making a college education more affordable, so that by the time many of you graduate in 2020, America will once again have the highest proportion of college graduates in the world.
+And that's how we'll move American students to the top of the pack in math and in science over the next decade, and guarantee that America will lead the world in discovery in this new century.
+But that's going to take more than just what I as President or anybody in government can do -- it's going to take each and every one of you students. It'll take your sense of wonder, your passion, your persistence, your willingness to dedicate your lives to the pursuit of discovery. And it's going to take some hard work. Caroline and Lucas didn't just get lucky; they pored over data before they knew what they had found. Galileo worked for years to prove his theories. The Hubble's journey from paper to space took decades, because that's how success is won -- test by test and trial by trial.
+Now, this morning, I awarded the National Medals of Science and Technology to individuals who've made extraordinary contributions to the advancement of human knowledge. And here's my question: Which one of you are going to come back here to claim your prize?
+{OTHER-SPEAK} Me! {/OTHER-SPEAK} 
+I like that. Are you going to find a new star, or a cure for a disease? Will you invent the next iPhone, or a brand new industry that no one's even dreamed of yet? What will your great discovery be?
+Galileo changed the world when he pointed his telescope to the sky, and now it's your turn. We need you to study, do well in school, explore everything from the infinite reaches of space to the microscopic smallness of the atom. We need you to think bigger and to dig deeper and to reach higher. And we need your restless curiosity and your boundless hope and imagination. Our future depends on it.
+So, don't let anybody tell you that there isn't more to discover. Don't let anybody tell you that there's knowledge that's beyond your reach. There's something out there for each and every one of you to discover. And seeing how it's a beautiful night, and we've got a bunch of telescopes out on the lawn, let's get started together. {APPLAUSE}
+All right? So, thank you very much, everybody. I'm glad you guys are here. Let's go have some fun. I think I'm going to get the first dibs at looking through one of these telescopes. Is that right, John?
+{OTHER-SPEAK} That is absolutely right. {/OTHER-SPEAK} 
+All right, now why don't you explain to us what exactly this telescope is here? What do we got?
+{OTHER-SPEAK} Well, the first thing {/OTHER-SPEAK} --
+Talk in the mic.
+{OTHER-SPEAK} I'm sorry. {LAUGHTER} The first thing to notice is that there are two eyepieces you could look through. The one that is aligned with the barrel of the telescope is just the aimer that points it in the right direction. The eyepiece you want to look in, Mr. President, is the angled one at the bottom. And if you look in there -- that's the one -- if you look in there, you will see a double-double-star in the Constellation Lyra, 160 light years away. {/OTHER-SPEAK} 
+A hundred and sixty light years -- that's far away. {LAUGHTER}
+{OTHER-SPEAK} That means it takes the light from those stars 160 years to get here. So what you are seeing, Mr. President, happened 160 years ago. But have a look. {/OTHER-SPEAK} 
+Let's take a look. That's pretty far away. {LAUGHTER} That's pretty cool. All right.
+All right. Outstanding. Well, let's go take a look at everything, all right?
+{OTHER-SPEAK} Absolutely. {/OTHER-SPEAK} 
+All right, guys. Have fun. {APPLAUSE} 
+
+{/speech}

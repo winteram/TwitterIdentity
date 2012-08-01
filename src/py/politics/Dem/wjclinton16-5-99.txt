@@ -1,0 +1,89 @@
+﻿{title} Remarks by the President to Dnc Reception {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 16, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. First, I would like to say to Elias and Jodi, we're grateful to be here, and thank you for turning the Muzak off. {LAUGHTER} And all the televisions -- I couldn't compete with them. {LAUGHTER} And I thank you for being my friend for so many years, when I was up and when I was down; and for being my mother's friend, something I will never forget; and for having me into your home for the second time. 
+
+I thank Senators Reid and Landrieu and Senator Bryan and Bonnie for being here; and Representative Berkeley, newly married -- glad that Larry came. And your Attorney General Frankie Sue Del Papa; Mayor Jones; and former Governor Miller and his wife who, as of this morning, is Dr. Miller, so we have to be appropriately respectful there. {APPLAUSE} Former Congressman Bill Bray, my good friend; and Chairman Andrew and Beth Dozoretz, our National Finance Chair, and her husband, Ron. And to all of you, my old friends in Las Vegas, and some of you I have not met before. I'm delighted to be here. 
+
+I was sitting here thinking -- you know, I've had a rather rigorous schedule. Last week, I went to Europe, to Germany to see our forces who are involved in the operation in Kosovo and then to meet with the refugees. And then I had to go right down to Texas and then to Oklahoma to see the aftermath of the worst -- the most powerful tornado ever measured in the history of the United States down there. 
+
+And then I came back to Washington and then I came right back out here a couple of days later; and I was in Seattle, Northern California, Los Angeles, San Diego, and now I'm here. So I'm slightly disoriented. And I was wondering if maybe Rich Little would come and give the speech for me. We would never know the difference. {LAUGHTER ; APPLAUSE} And if you got tired of me, then you could hear President Carter, President Reagan, President Nixon, you know. {LAUGHTER} Sort of a little walk through of American history. Thank you for coming. 
+
+{OTHER-SPEAK} Oh, it's a pleasure. {/OTHER-SPEAK} 
+
+I won't take a lot of time today. I enjoyed having a chance to visit with all of you in the line. I would like to begin with what is to me the most obvious thing about this day. I want to thank all of you who brought your children here. I'm delighted to see all these young people here. 
+
+When I ran for President in 1991, when I made the decision it was, believe it or not, a rather difficult one for me to make, because our daughter was in the 8th grade, or then finishing the 7th grade. She was happy as a clam and doing well, and Hillary and I were doing well. We had our friends and I had been governor for, at that time I was in my 11th year. And, believe it or not, I was still having a great time. I loved my state, I loved my job. 
+
+And I decided to run because I was convinced that our country was sort of stumbling toward the 21st century with no governing vision that would create an America where every person who would be responsible enough to work for it would have opportunity, where all the diversity that you see so glittering in this room, all the differences among us would be respected, even celebrated, but where our common sense of humanity would give us a stronger American community as we grow more diverse, and where our country would still be the world's most important force for peace and freedom and prosperity. 
+
+I knew -- I believed, and now I believe more strongly -- that to have that kind of vision come alive in the 21st century we had to be able to deal with what was going on here that is different. And what is going on here that is different? We're in the middle of the biggest explosion of technology in the history of the country, in the history of the world. We also are seeing the shattering of all kinds of barriers, making people ever more interdependent and drawing us closer and closer together across all national lines. 
+
+Most of that is quite good, but we know there are some serious problems. The global economy and the information revolution has made untold numbers of new millionaires, but it threatens to leave people without an education behind. Drawing closer together has given greater mobility, greater knowledge, greater access to things through the Internet and through travel than ever before; but the open borders and the Internet technology mean that people who want to use it for bad ends can learn how to make bombs on the Internet, and that the possibilities for collision of terrorism and organized crime and weapons of mass destruction are greater, and we have to deal with that. 
+
+And so what I have tried to do for the last six and a half years is to lead first the Democratic Party and then the nation to a whole different approach to politics nationally, to say that we have enough tough decisions to make, but we're going to put behind the false ones. We believe, for example, we can grow the economy and reward entrepreneurs and still expand the middle class and give poor people a chance to work their way up. 
+
+We believe that working people should be able to succeed at work, but also at home. Because the most important job of any society is to raise its children well. We believe we can improve the economy and actually improve -- not just protect, but improve -- the environment, because we no longer have to use the same energy patterns of the industrial age to grow the economy. 
+
+We believe we can reduce crime by not only prosecuting it more vigorously, but by doing a better job of preventing it in the first place. We believe we can reduce the welfare rolls without hurting the children on welfare. 
+
+These are things we believe we can do. We believe we can be a force for peace from the Middle East to Northern Ireland and still stand up against ethnic cleansing and terrorists. And in large measure, the work that Hillary and I and the Vice President and our Cabinet, our administration and our allies in Congress have done the last six years has been a vigorous effort to take these ideas and turn them into policies so they could be made real in the lives of the American people. 
+
+We also have tried to change our notion of the primary role of government. I have downsized the government dramatically. Most people have a hard time believing this, but the federal establishment is now almost exactly the size it was when John Kennedy was President in 1962 -- smallest federal government in 37 years now. But it is more active and we focus on two things. One, creating the conditions for prosperity and for security; and, two, giving people the tools to solve their own problems and to make the most of their own lives. 
+
+I am very grateful for all the good things that have happened in America and for whatever force for good we've been in the world in the last six years. And I'm grateful for the people who have expressed their support for me through thick and thin. But I am here today for the Democratic Party because what I want you to understand is, that while I am grateful I had a chance to serve -- and I hope that my leadership had something to do with the good things that have happened -- the most important thing is, we had the right vision and the right ideas, we had a sense of teamwork and we got up and went to work every day doing the right things. 
+
+And that's why it's important that your Congresswoman be reelected, that we elect a new Democratic Senator from this state, that we win the presidential election and that we keep the country on the direction it is going. 
+
+I am very grateful to the citizens of this state for voting for me and Al Gore twice, when most people didn't think any Democrat would ever win here again. And I'm very grateful to Governor Miller and your two Senators for making sure that I never made a mistake on a local issue so that at least I wouldn't fall off the knife edge we were on and we could hold on to our victory. {LAUGHTER} 
+
+But what I want you to know when you leave here today is, it's important that people who have supported me all these years understand that no person, not even the President, can have a good impact unless you have a good vision, good ideas, a good team and you're doing the right things. And all of that will be here when I am gone. I won't be on the ballot in 2000. But all these issues really matter. It matters where we stand on these issues. 
+
+If I could just mention two or three things today. In the next two years, I'm going to do a lot to try to keep this going. We were talking -- the Senators and I were, on the way in -- we want to have our version of saving Social Security and Medicare, helping people deal with long-term care, helping people to save more for their own retirement. We want to see this debt paid down. Would have ever though we'd be paying the debt down? First, you thought you'd be grateful to see the budget balance. We now have the biggest surplus ever. I want to pay the debt down. I want to pay it down. {APPLAUSE} I'll tell you why. I'll tell you why. 
+
+I want to pay it down because I know the more we pay it down, the more we'll have low interest rates, high investment, more jobs and better incomes. And the less we need to borrow money around the world, the more our friends who are in trouble, who are our trading partners and our neighbors will be able to borrow money. The Japanese are in trouble today. We want to help them. When they do well, we do well. If they need to borrow money, they can borrow it at less cost if we're paying our debt down. This is a good thing. 
+
+I want to do some more things in education. I'm going to spend an enormous amount of time both trying to raise educational standards, to bring technology and good facilities and good teachers to all of our kids, and continuing to open the doors of college to all Americans -- I want to do that. And there are lots of other things. But what I want to say today, I want to think about one thing. We look at these kids. And look at this audience. Look how different we all are. Look at Elias's background -- the story of the American Dream. Coming out of the Middle East, coming here without a nickel to his name, struggling through college, doing all the things that he has done, and then marrying way above himself. {LAUGHTER ; APPLAUSE} 
+
+{OTHER-SPEAK} I agree. I agree with you. {/OTHER-SPEAK} 
+
+Having all these wonderful children. Look at all these kids here. I want you to listen. This is the most important thing. You know, tonight I woke up in the middle of the night, and the good Lord appeared to me and he said, I'm sorry, but you've already had a heck of a good life and I'm not going to let you do all these things. But I will let you do one thing for the next 18 months. You only get to do one thing. And then here's what my answer would be. 
+
+I would think about Littleton, Colorado and I would think about Kosovo and I would say, it seems to me supremely ironic and very humbling that here we are on the edge of the 21st century, where we have all these wonderful, high-tech dreams for our kids. Right? I mean, these kids can have pen-pals in Mongolia and Botswana and Singapore. They can look forward to going everywhere, doing everything; maybe we'll all be living to be 125 years old within 20 years. We'll unlock the mysteries of the human gene and all that. 
+
+Isn't it ironic that on the verge of such an incredible era of discovery and potential that what we are bedeviled by at home and abroad are the oldest demons of human society -- these children talking in Littleton about how they were disrespected by the athletes, so they hated them. And then they had to look for someone they could disrespect, so they looked down on the minority kids. 
+
+I was in Texas the other day with the very pregnant young daughter of James Bird, the African American man who was dragged to death not very long ago there, trying to help them pass the hate crimes legislation, the Texas legislation. The Leadership Conference on Civil Rights had its annual dinner last week in Washington and I went by and acknowledged the presence of Matthew Shepard's mother, the young man who was murdered in Wyoming because he was gay. 
+
+Don't you think it's interesting that here we are, celebrating all this wonderful, high-tech, modern future, and what bedevils us most is the darkness of the heart, the fear of the other. It is as old as when people first had to join into tribes to stay alive in the cold and to kill game and to live in caves, before there was language, before there was writing, before there was anything. And maybe at some point there was some rational reason for it. 
+
+And then as people developed their religious fates, very often they fought more over their religious faith than the fact that the color of their skin or the nature of their history was different. But when you strip it all away, it starts with: you're different from me, I'm afraid of you; therefore I don't like you -- no, I take it back, I hate you; therefore, I will dehumanize you; therefore it's okay for me to kill you. It is a very short step. 
+
+And it is easy for us to demonize others, but the truth is, every one of us gets up every day with a little light and a little darkness inside. And it's almost like they're on scales, and we fight this lifelong battle to make sure that the light always outweighs the darkness on the scales. 
+
+So if I were given one wish, I would say I would like to build a stronger sense of community in America, and I would like to do something to advance a sense of common humanity around the world. Because if we could do that, you and people like you all over our country would take care of the other problems. {APPLAUSE} 
+
+That's why I'm for the hate crimes legislation. That's why I'm for the non-discrimination employment bill. That's why I'm for all these sensible gun control measures. That's why I've asked the whole country to join with Hillary and me and Al and Tipper Gore in a national campaign to reduce violence against children. That's why I've spent all my life trying to advance the cause of civil rights. That's why I've worked for peace in the Middle East and Northern Ireland, and why I'm proud that we stopped the war in Bosnia -- and why I'm trying to stop it in Kosovo. 
+
+We can't stop every war. People have a right even to fight, sometimes. That's how we, after all, created our country. But on the eve of the 21st century, we should say, you know, you don't have to like each other around the world, but we won't tolerate mass killing based on religious and racial and ethnic differences. {APPLAUSE} 
+
+I know that in a world where we're used to seeing the news be different every day, it is frustrating to some people that this difficulty in Kosovo is not yet done. And I know there are many questions about it. I wish I had time to spend three or four hours here and answer your questions. But I can tell you this: I would far rather be here today, where we are, standing up against ethnic cleansing; standing for the rights of a different people not to be exterminated because they happen to be Muslims, and they happen to have Albanian heritage, and they happen to have no guns -- than if I were here asking you to give money to me, and to our party, and we were sitting on our hands enjoying the sunshine, and I had not lifted a finger to stop it. {APPLAUSE} 
+
+And so I leave you with that thought. I have tried to make our party a party where all people of goodwill could feel at home and, more importantly, our country. 
+
+Life is infinitely more interesting because it's more different, more various. Look around this room. This is an incredible group of people, from all over everywhere. And if we can respect and celebrate our differences, our lives are literally more fun, and almost always more profitable. But if there are no limits on the importance to which we give our differences, life can quickly become unbearable. So I ask you to think about that, and help us. 
+
+I thank you for your contributions. I thank you for your support. I thank you for your friendship to Elias and Jodi. I thank you for helping me be President. 
+
+But remember, what has made these last six and a half years, and what will keep America going for the next 220 years, is not any one leader, but it's having the right vision and the right ideas and working together. And we need more of that. 
+
+Thank you, and God bless you. {APPLAUSE} 
+
+{/speech} 

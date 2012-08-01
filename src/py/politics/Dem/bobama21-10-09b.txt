@@ -1,0 +1,56 @@
+﻿{title} Remarks By The President on Small Business Initiatives {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} October 21, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Please, everybody, have a seat. Thank you so much. Thank you, Joe, for that introduction, and for inviting us here to Metropolitan Archives.
+
+I want to acknowledge a few other extraordinary guests. First of all, the governor of the great state of Maryland, Martin O'Malley, is here. {APPLAUSE} Senator Ben Cardin, who is doing an outstanding job on behalf of the state; House Majority Leader Hoyer; Representative Chris Van Hollen; Representative Donna Edwards, whose congressional district we are in; County Executive Jack Johnson; Mayor William Gardner, the mayor of Hyattsville; and my outstanding Secretary of the Treasury, Tim Geithner; as well as my extraordinary SBA administrator, Karen Mills. I am so glad to have them standing behind me today.
+
+Five years ago, this company was founded by Joe and his old fraternity brother, Doug Peters. I have not had a chance to ask them what they were doing during those frat years. {LAUGHTER} But they were two friends who had known each other since middle school. And today, their families took this company from an empty warehouse to a small business that stores and delivers records for some of the largest firms in the world.
+
+And the success -- the story of their success has been the story of small business owners all across the country -- men and women from big cities and from small towns who've had both a good idea and the drive to follow through on it; who've convinced family and friends to join them in taking a chance on a dream.
+
+Now, these entrepreneurial pioneers embody that spirit of possibility and the tireless work ethic and the simple hope for something better that lies at the heart of the American ideal. And they've always formed the backbone of the American economy. They're the ones who've opened up the mom-and-pop stores and started the computer tinkering that's led to some of the biggest innovations and corporations in the world. After all, Hewlett-Packard began in a garage. Google began as a research project. McDonald's started with just one restaurant.
+
+Over the past decade and a half, America's small businesses have created 65 percent of all new jobs in the country. And more than half of all Americans working in the private sector are either employed by a small business or own one -- more than half. These companies are the engine of job growth in America. They fuel our prosperity. And that's why they have to be at the forefront of our recovery.
+
+The problem is, our small businesses have been some of the hardest hit by this recession. From the middle of 2007 through the end of 2008, small businesses lost 2.4 million jobs. And because banks shrunk from lending in the midst of the financial crisis, it's been difficult for entrepreneurs to take out the loans they need to start a business. For those who do own a small business, it's been difficult to finance inventories and make payroll, or expand if things are going well.
+
+And that's why we made sure the Recovery Act focused on helping small businesses expand and create jobs. In it, we temporarily reduced or eliminated fees on SBA loans -- loans that give small businesses more money to reinvest in their own futures. And we guaranteed some of these loans by up to 90 percent, which has given local banks and credit unions the confidence they need to lend.
+
+In the last eight months, these steps have made a real difference for small businesses across America. So far, the Recovery Act has supported over 33,000 loans to small businesses that have already helped save or create nearly tens of thousands of jobs -- nearly $13 billion in new lending -- $13 billion. And more than 1,200 banks and credit unions that had stopped issuing SBA loans when the financial crisis hit are lending again today. And more than $4.3 billion in federal contracts are now going to small businesses.
+
+We're also providing tax relief to small businesses under the Recovery Act -- relief that will give these businesses back over $5 billion this year. And we're giving tax cuts directly to 95 percent of working Americans, which includes the vast majority of small business owners and their employees.
+
+So there's no question that our Recovery Act has given a boost to every American who works at a small business, or owns one, or aspires to own one. There's no question that the steps we've taken have improved the overall climate for small business across the country.
+
+But there's also no question that we've got a long way to go. There's still too little credit flowing to our small businesses. There's still too many entrepreneurs who can't get the loans they need to open up their doors and start hiring. There's still too many who are struggling to make payroll and to stay open. And there's still too many successful small businesses that want to expand further and hire more but just don't have the capital to do it.
+
+Metropolitan Archives is one of these companies. Last February, Joe and Doug were able to purchase the building we're standing in with an SBA loan -- an expansion that has already helped them retain 10 jobs, and one that will create 10 new ones in the months ahead. In fact, business is going so well that they're already hoping to expand again. But they need another loan to make it happen.
+
+These are the kind of stories I hear from small business owners all the time. And they're the kind of stories that my unbelievable administrator for the SBA, Karen Mills, hears every single day. And that's why today, we're announcing new steps to support more lending to America's small businesses -- steps that will lead to more jobs, more growth, and a stronger economic recovery.
+
+The first thing we need to do is increase the maximum size of various SBA loans. So I'm calling on Congress to increase the cap on what's called 7(a) loans to $5 million. These are the loans most frequently handed out by the Small Business Administration to help folks open their doors and buy machinery, equipment, land and buildings. These larger loans will help more small business owners and franchisees grow. We also need to increase the maximum size of what's called 504 loans to $5 million. These are the type of loans that Joe and Doug used to expand this business and create new jobs. And we should also increase the maximum size of microloans -- these are smaller loans -- that go to start-ups and other smaller businesses.
+
+Today, we're also taking additional steps to boost credit for small businesses through our financial stability plan. The major banks that were in critical condition a year ago need no new assistance from the government, and so we're winding down that portion of the TARP program. But to spur lending to small businesses, it's essential that we make more credit available to the smaller banks and community financial institutions that these businesses depend on. These are the community banks who know their borrowers; who gave them their first loan; who've watched them grow from down the street -- not from Wall Street. The large majority of the business loans from these smaller banks are not to major corporations -- they're to entrepreneurs like Joe and Doug. And when banks like these are hit by recession and financial crisis, creditworthy small businesses lose out, and that means less expansion and fewer new jobs just when we need them most.
+
+And that's why we must do more to give these new opportunities to smaller banks so that they have the ability to access capital -- so that they can lend to small businesses in their communities. So under the new steps that we're announcing today, if these institutions put forth a plan to increase lending to small businesses, we will help them get the credit they need to do it at rates that are more affordable than the ones offered to our largest financial institutions. {APPLAUSE} And we will make capital even more affordable to the community development financial institutions that focus on providing credit to America's small businesses in our hardest hit rural and underserved communities. {APPLAUSE}
+
+Finally, I've asked Tim Geithner and Karen Mills to convene a conference in the coming weeks that will bring together regulators, congressional leaders, lenders and small businesses to determine what additional steps we can take to get credit flowing to small businesses that want to expand and create more jobs. Of all the steps we're taking to move this economy from recession to recovery, I continue to believe that the success of our small businesses will be a foundation upon which our future prosperity is built. So we will continue to do whatever we can to help these businesses grow and thrive. And I'm confident that the steps we announced today will do that for small business owners across the country, men and women we hear from every day.
+
+They're people like Andy Cabral. Son of Portuguese immigrants, Andy started his business on an SBA loan and now runs 10 stores across Maryland and Virginia that employ 130 people. And Andy has already seen one loan fall through the cracks because of the financial crisis and he's hit the cap on his SBA loans. But the measure we're announcing today will help Andy and other franchisees pursue their plans to expand and create more jobs.
+
+And these steps will make a difference for more small businesses like Pete's APizza in Washington, D.C. I recommend it -- that everybody go out there. {LAUGHTER} When the three owners had little more than a dream of opening up a casual pizza restaurant, they found it challenging to get financing. Ultimately they got a loan through City First Bank, a community development bank right in Washington. Today, business is booming. And the initiative we're announcing today will help more banks provide more loans to businesses like Pete's.
+
+And the steps we've announced will make a difference for Joe and Doug, and all the folks who work here at Metropolitan Archives. In the past five years, you've done all that's asked of Americans who hope to pursue a dream of owning their own business -- you've taken a risk on a good idea, you've worked hard for your success, you've met your responsibilities to your employees and your customers. It's time that responsibility and that success are rewarded with the opportunity to keep growing, keep hiring, keep contributing to the success of your community and of your country. That's the opportunity we're providing today, and that's the opportunity I will continue to fight for as your President in the weeks and months ahead.
+
+So to all the small business owners out there, I just want to close by saying this. I know that times are tough and I can only imagine what many of you are going through, in terms of keeping things going in the midst of a very tough economic climate, but I guarantee you this: This administration is going to stand behind small businesses. You are our highest priority because we are confident that when you are succeeding, America succeeds.
+
+Thank you very much, everybody. {APPLAUSE} 
+
+{/speech}

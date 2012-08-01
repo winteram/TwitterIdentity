@@ -1,0 +1,158 @@
+﻿{title} Let's take back the White House {/title}
+{event} ----- {/event}
+{speaker} John Kerry {/speaker}
+{date} February 4, 2004 {/date}
+{source} http://www.unv.net/ {/source}
+{description} Sen. John Kerry picked up five of the seven states holding contests for the Democratic presidential nomination. "We will take nothing for granted. We will compete everywhere. And in November, we will beat George W. Bush," Kerry told supporters gathered in Seattle, Washington, where caucuses were scheduled for the next Saturday. {/description}
+
+
+{speech} 
+
+Thank you Washington. Thank you so much. I wish the caucuses were right here tonight. {APPLAUSE} 
+
+Well, for the second time in a few days, a New England patriot has won on the road. {APPLAUSE} 
+
+And I hope the Seahawk fans will forgive me. {LAUGHTER} 
+
+Now we carry this campaign and the cause of a stronger, fairer, more prosperous America to all parts of the country. And we will take nothing for granted. We will compete everywhere. And in November, we will beat George W. Bush. {APPLAUSE} 
+
+Once again tonight let me pay a special to the veterans who have lifted this campaign up... {APPLAUSE} 
+
+... all the way from Iowa to what we have achieved, we, all of us together across this country today. 
+
+For months and for miles, I have depended on the same band of brothers that I depended on 35 years ago. And it is true, as I said in New Hampshire, we are a little older, we are a little grayer, but we still know how to fight for our country. And we're going to win. {APPLAUSE} 
+
+You know, this president doesn't even mention veterans in his State of the Union message. 
+
+{BOOING} 
+
+And then he offers a VA budget that the VFW calls a sham and a disgrace. 
+
+Well, I pledge that when I am president, I pledge to those who have worn the uniform of our country and to those who wear it today that I will be a champion for them in the Oval Office, and I will never forget that patriotism is defined by never forgetting those who wore the uniform of our country. {APPLAUSE} 
+
+I am humbled and I am honored that so many Americans have joined this cause today and in the past weeks. Today I thank those in Delaware and Missouri and in North Dakota and in Mexico and Arizona and those who went to vote for me and created an enormously close contest in South Carolina and in Oklahoma. 
+
+I am proud of those who have joined this cause. And to those of you who have not yet joined us, I ask you to go to JohnKerry.com and make yourselves part of this cause; enlist with us. 
+
+And if I am president, you will continue... {APPLAUSE} 
+
+{AUDIENCE} When, when, when. {/AUDIENCE}
+
+They were more persistent in New Hampshire, you know. {LAUGHTER} 
+
+When I am president... {APPLAUSE} 
+
+... you will continue to be heard not just in the White House and through our administration, but you will continue to be heard because JohnKerry.com will continue to be online every day of the Kerry presidency. {APPLAUSE} 
+
+And as I have traveled our extraordinary nation, I've listened to so many of you from the snows of the heartland and of New England, to the sunshine of South Carolina -- and may I say the wonderful sunshine of Arizona yesterday. {LAUGHTER} 
+
+And everywhere I've been, the people of our nation are determined to restore hope and to change the direction of our country. 
+
+Together, we can lift our country up to the America that it can become. And at the heart of this campaign, at the heart of this campaign is a commitment to an America with a future that is built on fairness for all, not on a privilege for few. 
+
+And we will... {APPLAUSE} 
+
+So we will repeal the Bush tax cuts for the wealthy and invest in health care... {APPLAUSE} 
+
+... and education. {APPLAUSE} 
+
+And we believe in an America where recovery is measured not in the joblessness that we have seen in our economy, but in opportunity and in rising incomes for working families and for the middle class. 
+
+And so we will, I pledge to you, shut down every loophole, every incentive, every reward for every Benedict Arnold CEO or company that want to exploit the tax code and take jobs and money overseas at the expense of the American people. {APPLAUSE} 
+
+We will offer rewards to good companies that create jobs and keep jobs here at home. And we will raise the minimum wage. And we will invest in Head Start and Early Head Start and give the children of this country a chance to be full citizens for life. {APPLAUSE} 
+
+We will meet the needs of a neglected and a forgotten America, because we believe in a prosperity where we cut the poverty of millions, not the taxes of millionaires. {APPLAUSE} 
+
+And we believe deeply in the fundamental decency that health care is a right and not a privilege for the powerful and for the wealthy in our nation. {APPLAUSE} 
+
+So I pledge to you that we will complete the mission that was begun by Harry Truman in 1948. And we will cut the cost of health care in America and make it available to those who cannot afford it today. And we will guarantee that every person, every family's health care in America is as important as any politician in Washington D.C. That is a principle by which we will live. {APPLAUSE} 
+
+And I know, as you do, that there are powerful interests arrayed on the other side of this struggle. And the obstacles sometimes seem overwhelming to Americans. But I am ready for this mission, from standing up to Richard Nixon to stop the war in Vietnam, to stopping... {APPLAUSE} 
+
+... to stopping George Bush and the big oil companies from drilling in the Alaska wildlife refuge... {APPLAUSE} 
+
+I know how to take on those powerful interests. I've done it all my life. I've fought against the polluters, against the HMOs and the drug companies. And I pledge to you tonight: I have only just begun to fight. We will take this fight to America. {APPLAUSE} 
+
+We believe deeply in the possibility of energy security and energy independence and clean energy for the United States of America. {APPLAUSE} 
+
+We will invest in the technologies of the future so that the cars of the future can be built into Detroit, built by American workers, so that America's sons and daughters will never have to fight and die in the Middle East because of our dependency on oil from that region. {APPLAUSE} 
+
+{AUDIENCE} Kerry, Kerry, Kerry, Kerry. {/AUDIENCE} 
+
+And we believe -- we believe in an America where the Constitution is respected, a country... {APPLAUSE} 
+
+... a country of equal rights and civil liberties and where the attorney general is no longer John Ashcroft. {APPLAUSE} 
+
+George Bush, who promised to be a uniter, has, in fact, become -- has in fact become the great divider. And we will resume the great march of our history to a country where everyone can hope and strive and move ahead no matter where you come from no matter who you are or no matter what the color of your skin. 
+
+And we believe, all of us... {APPLAUSE} 
+
+... and we believe in a stronger America. George Bush, who speaks of strength, has made America weaker -- weaker economically, weaker in education, weaker in health care. 
+
+And the truth is that George Bush has made America weaker by overextending the armed forces of the United States, overstraining, overstraining our reserves, driving away our allies and running the most arrogant, reckless, inept and ideological foreign policy... {APPLAUSE} 
+
+... in the modern history of our country. {APPLAUSE} 
+
+Our opponents say that they want to run on national security. Well, we will not run from that debate. I welcome it. {APPLAUSE} 
+
+If they want that debate, I will remind them happily that some of us know something about aircraft carriers for real. {APPLAUSE} 
+
+And I look forward... {APPLAUSE} 
+
+And if George Bush wants to make national security the centerpiece of this campaign, we have three words for him that we know he understands: Bring it on. 
+
+{AUDIENCE} Bring it on. {/AUDIENCE} {APPLAUSE} 
+
+When I was flying in here today and shared that extraordinary vista from the air that you see of your mountains, of the Columbia River, I remembered how, two centuries ago, on the shores of Washington, Lewis and Clark completed their epic journey westward and touched the waters of the Pacific for the first time. Their daring and their vision symbolized what was best in America. 
+
+And now I ask all Democrats, all Americans to join now in the journey of our time all across this continent, all across our states, to define our character and recapture our own spirit. With faith in our ideals and in each other, we can return America to a road of greatness and of justice. 
+
+Before I finish, let me just pay tribute, if I may, to a few people tonight. 
+
+First of all, I hope you will join me in expressing our admiration and our respect to two friends of mine and of America's, to Joe and Hadassah Lieberman. {APPLAUSE} 
+
+I have had the privilege of knowing Joe since we were in college together. And I think that together he and Hadassah brought a grace, a steadfastness of spirit, of belief, of principle and a civil discourse for our nation that we need in this country. And their spirit will be missed from this trail but not from our nation's dialogue as we continue forward. 
+
+And all of us join in saying thank you to them for their contribution to our nation. {APPLAUSE} 
+
+And I also want to congratulate John and Elizabeth Edwards, my friends, for their showing in South Carolina tonight and for his spirited campaign and for what he has brought to our party and to our efforts. {APPLAUSE} 
+
+And I want all of you to join me in a very special welcome and a very special thank you to a remarkable, stunning campaigner, a person who is creating her own following across the country. You'd be amazed how many places I've gone and people say to me, "If she were running for president, I'd vote for her." {LAUGHTER} 
+
+But she isn't -- let me remind you. {LAUGHTER} 
+
+Will you welcome with me someone I hope could be the next first lady of the United States, Teresa Heinz Kerry. {APPLAUSE} 
+
+And fighting by my side all the way have been a great group of folks. And I want to thank and begin by thanking the first person who joined this great effort out here in Washington, and he has been absolutely remarkable all along the way. And that's my chair, Adam Smith, Congressman Adam Smith. 
+
+Thank you, Adam. {APPLAUSE} 
+
+And the dean of your delegation, Norm Dicks and Jay Inslee, Brian Baird, Rick Larsen, Congressman Rick Larsen. 
+
+And I especially want to thank my colleague, my friend, who has worked with me on so many issues and who yesterday endorsed me here in the state, Senator Maria Cantwell. I'm very appreciative for her. {APPLAUSE} 
+
+And I want to thank Governor Gary Locke and Mona, for his leadership, for his support here. {APPLAUSE} 
+
+And I want the state of Washington to return Patty Murray to the United States Senate... {APPLAUSE} 
+
+... so that we can do what we need to do. {APPLAUSE} 
+
+And I want to thank a very, very special group. They've been with me all across this nation, and they're a symbol of the gift of individuals in America who make our nation strong and safe. They put themselves on the line every day. And they face danger every day. They have for centuries. 
+
+But they came more to America's consciousness in the last years because of New York and Washington and Pennsylvania. And I'm talking about these people in black and gold and been with me every step of the way: the firefighters of the United States of America. {APPLAUSE} 
+
+Thank you so much Harold Schaitberger and the firefighters. {APPLAUSE} 
+
+Now, my friends, the campaign in the state of Washington and across this nation continues. We will go out of here taking nothing for granted, fighting for every vote. But I pledge to you that, every step of the way, I will never forget the trust, I will never forget that you are joined together in effort to overcome the cynicism that has gripped our politics and our country. 
+
+We deserve a president of the United States who doesn't look for the lowest common denominator of American politics, but one who looks for the highest; not one who drives wedges between people, but one who brings America together and remembers we are one America, one people, one spirit. {APPLAUSE} 
+
+Let's go out and win. Let's take back the White House and our democracy in the United States. 
+
+Thank you and God bless. {APPLAUSE} 
+
+Thank you very much.
+
+
+{/speech} 

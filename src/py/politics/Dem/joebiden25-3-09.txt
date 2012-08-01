@@ -1,0 +1,21 @@
+﻿{title} Remarks By The President, the Vice President and Archbishop Demetrios to Commemorate Greek Independence Day {/title}
+{event} Greek Independence Day {/event}
+{speaker} Joe Biden {/speaker}
+{date} March 25, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, Your Eminence, as some of my good friends sitting and standing in front of me here said, I'm an honorary Greek not only today -- {APPLAUSE} -- not only today, but every day. It's great to be with you all. And it's great to be commemorating such an important day, quite frankly, not just for Greece, but for America, as well.
+The great Greek fabulist Aesop once wrote: "In union there is strength." Today, both literally and figuratively, we stand together -- a union forged throughout our history, and a strength that grows each and every day. It's a strength stemming from, quite frankly, the very core of our existence. When I say I'm Greek every day, it's not merely because my first election the Greek community elected me. But the truth of the matter is that Greece in America -- Greece and America share common values, common goals, a common philosophical tradition going back to the great scholars of ancient Greece.
+And it was once said that except the blind forces of nature, nothing moves in this world which is not Greek in origin. Nothing moves in this world that is not Greek in origin. And I, for one, am very proud to move in this world with those origins as part of our country's tradition, and as part of my tradition and the President's.
+And I'm even prouder to introduce the Archbishop. The Archbishop and I go back a little bit. We've met a number of times, and I was -- he was kind enough to have me at his residence. And the Archbishop knows that, at a very deep level, our countries come from the same historical DNA, and that he sets out each and every day not just to enrich his history and the history of Greek and Greek Orthodoxy, not just to educate, but this is a man who impresses me because he is always -- always, always -- seeking knowledge; always seeking to learn something new. It always amazes me every time we have a conversation, Your Eminence.
+He came to Harvard, which as a University of Delaware graduate I will not hold against him -- {LAUGHTER} -- because there's so many Harvard guys in the room. {LAUGHTER} But he came to Harvard in the 1960s, and has contributed greatly to the growth of our two nations for decades now.
+In his Archbishop enthronement address 10 years ago, he said of America, "Here, a remarkably wide field of truly great work is open to us." Well, he has entered that wide world, he has entered that field, and he has continued to open himself up to the truly great work ever since. And he's shared what he's learned with so many of us, both personally and publicly.
+I speak in behalf of every American, Greek or otherwise, who cares about the union we share when I say that, Archbishop, we are truly lucky to have you here. And I feel and the President feel fortunate to be able to call you a friend, as well as a leading leader of one of the great faiths in the world.
+Your endless curiosity, your thirst for knowledge only serve to make all of us stronger. If that old Greek saying is true that curiosity is the beginning of wisdom, well, ladies and gentlemen, I'm proud to introduce one very wise man: His Eminence, the Archbishop Demetrios. {APPLAUSE}
+I'm not very good at this Archbishop, it's stuck there. Hang on just a second here. There you go. Thank you. {OTHER-SPEAK} That constitutes an event. {/OTHER-SPEAK} {LAUGHTER}
+That is an event. That is an event. {LAUGHTER} 
+
+{/speech}

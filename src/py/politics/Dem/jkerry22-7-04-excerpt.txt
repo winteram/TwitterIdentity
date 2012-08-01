@@ -1,0 +1,99 @@
+﻿{title} Kerry Speaks Before National Urban League Convention {/title}
+{event} ----- {/event}
+{speaker} John Kerry {/speaker}
+{date} July 22, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+Vernon has been enormously helpful in my own campaign, and I'm very grateful, as I think you are, for his common sense and the experience that he brings to our public lives. I'm grateful for his leadership as the head of my presidential debate team.
+
+And the issues that we're grappling with today are, as Marc Morial said, especially important. So let me make it clear as I have from the beginning, I'm happy to discuss them anywhere, anytime with any American, because that's what's important to this country. {APPLAUSE} 
+
+As you all know so well, Vernon is one of America's most effective movers and shakers. He's a man of stature in every sense of the word. And I don't have to tell you how he moved and he shook the conscience of America during his tenure as head of this great organization during the 1970s. But then anyone who knows Vernon knows that he is not the retiring type. During my 20 years in the Senate he has constantly reached out to offer quiet counsel and gentle persuasion, and sometimes tough criticism. I think that he is an American treasure. And I'm proud and happy to be call him my friend, my supporter, my counsel. {APPLAUSE} 
+
+The Urban League has always had great leaders. You've been blessed, from George Edmund Haynes, through Eugene Kinckle Jones, Lester Blackwell Granger, Whitney Young. Those who've succeeded Vernon have continued to raise the bar each time, John Jacobs, Hugh Price, and now Marc Morial have continued to challenge this organization, and by doing that, to challenge the nation, to reach higher, to dream bigger and to fight harder for the things that we all believe in: empowerment, opportunity, responsibility, economic justice and helping to move people into the mainstream of the American Dream, just like Marc Morial did in New Orleans. 
+
+Mark, you've been an outstanding leader. You're a great mayor. And you're now infusing wonderful energy right here, new life into the Urban League, and everyone joins you in saying thank you for that leadership. {APPLAUSE}
+
+Let me tell you, ladies and gentlemen, now more than ever, when it comes to empowerment, social rights, civil rights, justice, we need to listen to every single voice in this country, we need to listen to every voice that stands up and speaks truth to power. 
+
+I want to say that for me, this is not a stop that represents just a check-the-box campaign stop. Teresa and I, we are proud to say, are no strangers to the Urban League, or to the causes that you champion. I'm proud of the relationships that we've established and the partnerships that we've formed, particularly with Esther Bush in Pittsburgh, with Henry Thomas in Springfield, and with Darnell Williams in Boston. And we thank them. 
+
+As president, president of the United States, I will show up, not just at national meetings during election season, but I want you at the table with me in a full partnership to build a stronger America at home and an America more respected in the world again. {APPLAUSE}
+
+You know, when you come to think of it, there really is no other way. There's no other way to advance our cause. And when I talk about advancing our cause, I'm not talking about the cause of one group or another in America, I'm talking about advancing the cause of America, advancing the dream, climbing to that mountain top that Dr. King talked about so eloquently to our generation. I'm talking about advancing the cause of nation and citizenship. That's what my campaign is really all about. 
+
+In an address at Cadillac Square here in Detroit in 1960, John Kennedy said, I am confident that in November, you will make a choice for progress, not for standing still. We want America to move again. If we stand still, freedom stands still. Those words ring even more true today. When I look around this city, and Kwame knows what I'm talking about, it's not for lack of effort, it's not for lack of caring, it's not lack of passion, it's for lack of follow-through, it's for lack of leadership at the national level. 
+
+When I look around neighborhoods and towns all across America that I visited over the course of these last months, I see exactly what so many of you see every single day. We see jobs to be created. We see families to house. We see violence to stop. We see children to teach and to lift up and to care for. We see too many people without health care, and too many people of color suffering and dying from preventable diseases, like cancer and AIDS and diabetes. In too many places, we see freedom standing still. When we look at what is happening in America today, you have to ask yourself, where are the deeds the Bible teaches us? It's not enough, my brother, to say you have faith when there are no deeds. Faith without deeds is dead. {APPLAUSE}
+
+Fifty years ago, Thurgood Marshall, the National Urban League and America turned faith into deeds when you brought and won Brown versus Board of Education. Forty years ago... {APPLAUSE} 
+
+Forty years ago, Lyndon Johnson, Dr. King, the National Urban League and America turned faith into deeds when the nation passed the Civil Rights Act of 1964. And next year, the nation will again be reminded that you helped turn faith into deeds 40 years ago to push for the passage of the Voting Rights Act of 1965. {APPLAUSE} 
+
+Today, I'm sad to say, we have an administration in Washington that looks at the challenges that we face here and around the world and says, this is the best that we can do. They say that what we have now is the best economy of our lifetimes. They've even called us pessimists for speaking the truth to power. Well, I say the most pessimistic thing that you can say is that America can't do better than we are doing today. {APPLAUSE} 
+
+Don't tell us that 1.8 million jobs lost is the best that we can do when we can create millions of new jobs here in this country that pay more than the jobs that we're losing. We can change that, and we will. Don't tell us that unemployment is not a problem when we see that African-American unemployment is now above 10 percent, double the rate for whites. 
+
+It's unacceptable in the wealthiest nation on Earth that we tolerate a vast and growing pocket of poverty from the hills of Appalachia to the streets of Detroit, raising the minimum wage alone and making life better for the working poor is part of our vision for a stronger America. We can change what's happening, and we will. {APPLAUSE}
+
+Don't tell us that crumbling and overcrowded schools and underpaid teachers are the best that we can do. We have the means to give every child in our country a first-rate education. We don't have to live 50 years after Brown versus Board of Education with a separate and unequal school system as we do today. We can change that. And we will. {APPLAUSE}
+
+Don't tell us that we have to accept racial profiling, hate crimes, or an assault by right-wing judges on our precious civil rights when we can uphold the Constitution of the United States and protect America at the same time. We can change that, and we will. {APPLAUSE}
+
+Don't tell us in the strongest democracy on Earth that a million disenfranchised finish African-Americans in an election is -- and the most tainted election in American history is the best that we can do. And now we're seeing purges of people from the polls. We can change that and be accountable to our own democracy, and we will. {APPLAUSE} 
+
+Don't tell us that in the richest country in the world, we can't do better than 44 million of our fellow citizens who are uninsured. Nearly 60 percent of Hispanics and 43 percent of African-Americans lack health insurance for all or part of the last two years. We can change that. We have it in our power to change that, and we will. {APPLAUSE}
+
+W.E.B. Dubois talked about the two Americas two years ago. He called it a nation within a nation. Franklin Roosevelt talked about it. Others have. Here we are in 2004 witnessing the gap growing wider. The haves have more, and there are more working poor, more people working harder, and the struggle now is to make America fair again. 
+
+Our job between now and November is to end the division between the fortunate America and the forgotten America. John Edwards and I have talked about closing that gap for many years now. I think we have to come together to build one America, and to give meaning to the words of our politics again. 
+
+During the course of this campaign, I've met young people who want nothing more than to be able to find a job, and raise a family and live in the place where they were raised. I've met steel workers, oil workers, mine workers who've seen their jobs and their equipment unbolted before their eyes and shipped overseas. Some have even had to train their own foreign replacements. I've spent time with seniors who've worked for a lifetime, but they can't pay for their medicines, or they hardly make ends meet on a Social Security check when the prescription drug check is larger than the Social Security every month. 
+
+I've talked with parents full of hope and full of ambition for their children. But they don't know what to do about classrooms that are overcrowded and teachers who are underpaid, and they're worried that they're not going to be able to afford to send their kids to college. 
+
+My faith teaches me that where your treasure is, there your heart will be also. Well, let me tell you where my heart is. Let me tell you where my heart is. My heart is with the middle class who are the heart of this country. It's with the working families who literally built this country. It's with the veterans who saved this country. It's with the cops and firefighters and the soldiers who protect this country, and it's with the children who are the future of this country, and that's where we need to put our treasure. {APPLAUSE}
+
+All of them deserve a president -- you deserve a president -- who believes in these things, who shares their values, and who, with every fiber of being, is going to fight to uphold them. For four years, we've heard a lot of talk about values. John Edwards and I have the vision and the values to bring our country together again, and to literally build stronger communities to do the work that the Urban League has invested in. And I ask you to go look at my 20-year record in the Senate of fighting to do exactly that. For us and for you, values are more than just words on a page. They're about the causes that we champion and the choices we make, and I am running for president because I believe that what matters most is not the narrow values that politicians play and use to divide, but the shared values that unite all of us in this country, and bring us together as a nation. {APPLAUSE} 
+
+Let me tell you what values mean to me and John Edwards. Values mean having an opportunity, agenda, for metropolitan America. That means bringing capital, small business opportunities, and job creation to all of our communities, especially our central cities, which have such a hard time, because they don't have the tax base, and the surrounding metropolitan areas, and people are moving further and further out, having to work farther and farther away -- having to live farther away from the place they have to work. As president, I will creation a small business opportunity fund to ensure that small businesses have all of the support that they need to grow and to thrive, expanding loans to micro-enterprises, increasing the federal government's venture capital investments and expanding loan programs for small businesses. 
+
+And when I say these things to you, these aren't just new things i've pulled out of the sky and written on an envelope for the course of this campaign; these are things I voted on and fought for, for 20 years. I've been chairman of the Small business Committee, and I've been ranking member as the senior Democrat. And we fought -- I wrote the historically underutilized business own bill with Kit Bond of Missouri. We fought to create the new markets initiative. We fought for micro-lending. We fought to get rid of paperwork, we fought to create the set-asides and hold on to them when they were under assault and attack, and that's why I tell you I will increase federal contracting opportunities for minority-owned small business growth in urban areas of America, because that's how you build justice in this country. {APPLAUSE} 
+
+I will maintain support for empowerment zones, new markets tax incentives, and the Community Reinvestment Act, which I fought hard to hold on to when it was under assault by powerful interests in this country. And I will make sure the new market venture capital program has the funding that it needs to fulfill the promise of meeting the unmet equity needs of low-income communities in our country. {APPLAUSE}
+
+I will also give states and metropolitan areas the flexibility to use transportation dollars the way you see fit. Rodney Slater knows what I'm talking about, and I fought, together with Pat Moynihan, in order to create the whole new model by which we give those choices to mayors, to be able to make the most and leverage their own dreams and vision for what they know best in their own city, and I will provide adequate funding for a homeland security and port security, so that the people in our metropolitan areas are able to move about freely, and get good jobs and live without fear in America. {APPLAUSE}
+
+Values means helping all Americans lay the cornerstone of the American dream, with the purchase of their own home. The Urban League has a long track record in counseling people, and helping consumers fighting to help make the dream of home ownership real for millions of people. Yes, it is true. Since the 1990s, home ownership has grown up in America, as a whole. And that's a good thing, but it's not that simple. 
+
+While home ownership has risen, programs that help hard-pressed families put a roof over their head have been cut. Those are the people we need to help the most. This administration's budget would cut section 8 vouchers by more than $1 billion, denying 250,000 families housing assistance. Why? So we can have a great big tax cut at the top end. 
+
+At the same time, this administration has proposed to entirely eliminate the Hope 6 program that's been critical to revitalizing distressed public housing in America. 
+
+John Edwards and I understand what you understand. Programs like section 8 and Hope 6 are just the right kind of community-based solutions that some people need in order to get on the road to home ownership. And when I am president, we will strengthen, not weaken, those bridges to opportunity. {APPLAUSE}
+
+Values also mean building an America with middle class is doing better, not being squeezed. During the 1990s, under President Clinton, average wage earners in America saw their incomes go up over eight years by about $7,100. Over the last four years, the income of those same average Americans has gone down by $1,600. 
+
+But while the wages have gone down, health care costs went up 50 percent, tuitions went up 35 percent, gasoline prices went up 41, 45 percent. Everything's gone up but the wages and fairness for the average American. And that's why John Edwards and I understand that means cutting middle-class taxes, so middle class incomes go up. And that is exactly what we're going to do. {APPLAUSE} 
+
+The wealthiest among us enjoy a nice tax cut, but they don't need another tax cut, but middle class families do. America does, because that's the way you begin to put more money into the system, pay for health care, and be able to move forward. That's how we will pay the college tuitions and that's how we'll help hard working Americans actually get ahead. Creating opportunity, as Michigan understands, as well as anywhere, means creating good-paying jobs. 
+
+More than a million Americans who were working three years ago have lost their jobs. African-American unemployment, as I mentioned, is at 10 percent, which is double the rate for whites. And the new jobs that are finally being created pay an average of $9,000 less than the jobs that we're losing overseas. We value an America that exports products, not jobs. {APPLAUSE}
+
+And we believe -- this is extraordinary. Your tax code today, it's supposed to belong to you. I don't know if you've ever taken a look at it. It's gone from 14 pages when it started to 17,000 pages. Any of you have your own page? You ought to think about that some time. Because the fact is that you -- when you go to work today, part of that money you earn is actually going to reward companies that take the jobs overseas. They get paid for it. They're helped for it. And John Edwards and I believe American workers should never be called on to subsidize the loss of their own job. We will end that subsidy. 
+
+We're going to compete abroad. I intend to be a president who understands, as I do, that America needs to compete, and we want to win in the marketplace, and yes, we want to be able to sell abroad, and yes, we'll have companies that will do business abroad. But we don't need to reward decisions that are against our own interests for creating the jobs right here at home. So I intend to fight to close the tax loopholes that actually pay a company to move the job overseas. And we're going to reward the companies that create the jobs right here in the good old USA. That's smarter. {APPLAUSE}
+
+Now this is something the Urban League knows because it's in your blood and it's been in your guts ever since you started. Values mean doing what adults are supposed to do, which is take care of children. Values mean giving all our children a first-rate education, with smaller classrooms and better paid teachers. 
+
+Today, we see two school systems in America, one for the well off and one for the left out. For us, and for you, values mean opening the doors of opportunity to all of our children. We believe that educating our kids is more important than another tax break to the wealthiest Americans. This administration falls $27 billion short of its own promise to fully fund No Child Left Behind. 
+
+John Edwards and I have a plan to invest in our future, to provide the needed funding and to put a good teacher in every classroom so that finally and truly we will give meaning to the words "leave no child behind." {APPLAUSE}
+
+Values also mean that parents shouldn't wake up in the middle of the night, in a cold sweat, worried about whether or not they're going to get sick, or they got a sick kid, and they don't have the health care and they can't afford it and they don't know what to do about it. Values...
+
+{/speech} 

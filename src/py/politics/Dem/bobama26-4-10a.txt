@@ -1,0 +1,38 @@
+﻿{title} Remarks by The President Honoring the 2009 World Series Champion New York Yankees {/title}
+{event} Honoring the 2009 World Series Champion New York Yankees {/event}
+{speaker} Barack Obama {/speaker}
+{date} April 26, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. Everybody have a seat, please. Hello, everybody, and welcome to the White House. And congratulations on being World Series champions. {APPLAUSE}
+
+As you can see, we've got a few Yankees fans here in the White House -- {APPLAUSE} -- who are pretty excited about your visit. I want to actually start by recognizing Secretary of Treasury Tim Geithner, who is here -- {APPLAUSE} -- and Secretary of Transportation Ray LaHood. Now, I understand Ray and Joe went to the same high school -– a few years apart. {LAUGHTER} But they grew up obviously big Yankees fans.
+
+I want to congratulate the Steinbrenner family, Brian Cashman and all the folks who helped to make this team what it is. {APPLAUSE} And I want to thank all of the members of the New York congressional delegation. And I noticed a couple of Connecticut and North Dakota guys showing up here, too -- {LAUGHTER} -- all of whom take credit for the Yankees' success. {LAUGHTER}
+
+Now, it's been nine years since your last title -– which must have felt like an eternity for Yankees fans. I think other teams would be just fine with a spell like that. {LAUGHTER} The Cubs, for example. {LAUGHTER} But this is a team that goes down to spring training every year expecting to win it all -- and more often than not, you guys get pretty close. Of course, if I had Rivera, I'd get pretty close, too. {LAUGHTER} My White Sox would get close every year. That attitude, that success, has always made the Yankees easy to love -- and, let's face it, easy to hate as well. {LAUGHTER} For a White Sox fan like me, it's painful to watch Mariano's cutter when it's against my team, or to see the Yankees wrap up the pennant while the Sox are struggling on the South Side. Although I do remember 2005, people -– {LAUGHTER} -- so don't get too comfortable. {LAUGHTER}
+
+But for the millions of Yankees fans in New York and around the world who bleed blue, nothing beats that Yankee tradition: 27 World Series titles; 48 Hall of Famers -- a couple, I expect, standing behind me right now. From Ruth to Gehrig, Mantle to DiMaggio, it's hard to imagine baseball without the long line of legends who've worn the pinstripes. Last season, this team continued that legacy, winning 103 games and leaving no doubt who was the best team in baseball.
+
+But what people tend to forget -– especially after watching their teams lose -– is that being a Yankee is as much about character as it is about performance; as much about who you are as what you do. Being successful in New York doesn't come easy, and it's not for everybody. It takes a certain kind of player to thrive in the pressure cooker of Yankee Stadium -– somebody who is poised and professional, and knows what it takes to wear the pinstripes. It takes somebody who appreciates how lucky he is, and who feels a responsibility for those who are less fortunate.
+
+So it's somebody like Mark Teixeira. Before he was a three-time Golden Glove winner, Mark was a 21-year-old kid fresh out of Georgia Tech. Shortly after signing his first Major League contract, Mark visited his old high school and asked how much it would cost to set up a scholarship in the name of a friend who had been killed in a car accident. And when he was told it would cost $75,000, he wrote a check on the spot. He's been funding that scholarship ever since -– helping to make the dream of college a reality for students in his hometown. {APPLAUSE}
+
+Someone like Jorge Posada. The first time I met Jorge was with his wife. Where'd Jorge go? Right here. {APPLAUSE} At a fundraiser on behalf of folks who needed help in New York City. Five-time All Star, one of the emotional leaders of this team, but he's also the father of a son born with a rare birth defect that has required numerous surgeries and expensive treatments. And Jorge and his wife have made it their mission to reach out to families who aren't as fortunate as they are -– offering resources, providing a support network for parents, helping children who suffer from the disease live healthy and happier lives. And so we're very proud of the kind of work that Jorge has done. {APPLAUSE}
+
+And of course then there's Jeter. Where's Jeter? {APPLAUSE} There he is right there. Sportsman of the Year, according to Sports Illustrated, and you can see why -- passed Lou Gehrig to become the all-time Yankee hit leader. But Derek would rather tell you a story about being in spring training with another Yankee legend, Don Mattingly. I love this story. Walking off an empty field together one day, Mattingly suggested they run to the clubhouse, telling Derek, “You never know who's watching.” And Derek took that lesson to heart, and 15 years later, he still runs everywhere like he's trying out for the track team -– always setting an example, always hustling -- which is why I think everybody says that he epitomizes the best of the Yankee tradition. {APPLAUSE}
+
+And then somebody like Joe -– a proud son of Illinois, I want to note. {LAUGHTER} As the youngest manager in Yankee history to win a World Series, Joe is still in better shape than some of the players. {LAUGHTER} I just want to -- he looks good. But what makes Joe proudest is HOPE Week -- a program where the Yankees help make a difference in the lives of folks in need. Last year, Joe put out a sign-up sheet for anyone who wanted to participate. And when he checked the next day, every player, manager and coach had written their name down. The team ended up winning all five games that week -– a fact that Joe doesn't think was a coincidence. And this summer, they'll be doing it all over again.
+
+That same spirit was on display today, when the team visited members of our Armed Forces recovering at Walter Reed. They spent time with soldiers and their families -– bringing hope and joy to folks who really need it at a time of great difficulty. And so I just want to thank you personally for taking the time to do that. {APPLAUSE}
+
+In the end, that's what makes the Yankees special. It's not simply the names on the roster or the size of their trophy case -– it's the people underneath the pinstripes that set this team apart. It's the players and coaches who shoulder a legacy unlike any other, but who share a belief that anybody blessed with first-class talent also has an obligation to be a first-class person.
+
+That's what being a Yankee is all about. That's why I want to congratulate this team –- for winning the World Series, and for showing every young person what it means to be a true professional.
+
+Congratulations, everybody. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,44 @@
+﻿{title} Remarks by the President and Prime Minister Tony Blair of Great Britain to the Students of Montgomery Blair High School {/title}
+{event} Montgomery Blair High School, Silver Spring, Maryland {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 5, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Let's give the band a hand. Are they good or what? {APPLAUSE} Thank you. Thank you very much.
+
+First of all. I want to thank Elizabeth for her introduction, and Nikole for her introduction of Prime Minister Blair. Weren't you proud of your fellow students today? They were good. {APPLAUSE}
+
+Governor, Senator, members of Congress, Nancy, all the faculty and administration staff here at Montgomery Blair High School, we are very glad to be here. I want to paraphrase something President Kennedy said when he and his wife went to Paris: I now will go down into history as the man who accompanied Tony Blair to Montgomery Blair High School. {APPLAUSE}
+
+I want all of you to know that in years to come you will be very glad you were here -- {APPLAUSE} -- for many reasons. But one of them is that Hillary and I are convinced, based on our friendship with Prime Minister Blair and his wonderful wife, Cheri, that they are going to make truly historic contributions to the world of the 21st century and you are a part of that because you invited him here today and I thank you for that. {APPLAUSE}
+
+I want to just say a couple of things very briefly about this whole issue of education. You know that we just were in your computer room and we were e-mailing students in England. And I was thinking about how the first time I went to England, 30 years ago this year, I went on a ship and it took me six days. Now, people can look at me over a computer and we can communicate in a matter of seconds.
+
+One of the biggest questions we have to face as a people, and one of the great questions they're facing in Great Britain, is whether or not this new technology-driven, information-driven, scientifically exploding world all of you will live in will work to the benefit of all of our people without regard to their racial, their ethnic, their religious background, their income; or will it just benefit even more people who are privileged by birth to have a high income and then can get a good education. I am committed to making sure that every single American child is a part of the 21st century revolution. {APPLAUSE}
+
+And I just want to say that the first thing that I tried to do was to open the doors of college to everyone who would work for it. And I believe I can look at every one of you today and say, because of the Hope Scholarship of $1,500 tax credit for the first two years of college, because of the lifetime learning credit, because of more Pell Grants and more work study positions and more national service positions and better student loans with better repayment terms -- if you will work for it, you can go to college in America today. You can do it, and that's important. {APPLAUSE}
+
+And now what we have to do in our country --
+
+{AUDIENCE} We love you! {/AUDIENCE} 
+
+Thank you. {APPLAUSE}
+
+What we've got to do is to make sure that every American has access to the best elementary and secondary education in the world. And in order to do that, we have to do a lot of things. If you saw the State of the Union the other night, I talked about it. I want to lower class sizes in the first three grades to 18. {APPLAUSE} I want to help build new classrooms or remodel them in 5,000 schools so we can deal with the problems of overcrowding. {APPLAUSE} I want to help to lift standards in the poorest school districts in America. And I want to make sure the we hook up every classroom and library in every school in America to the Internet by the year 2000. {APPLAUSE}
+
+There are two things I want to say about this, and one of them you know I'm accurate about. The first thing is, it's one thing to say we can hook up the schools and the classrooms, and another thing for the schools to be able to afford it. So the Federal Communications Commission -- and we have some members here from the FCC -- have given a $2 billion education discount to the schools of America so all our schools can afford to be on the Internet by the year 2000. {APPLAUSE}
+
+And the second thing I want to say is that a lot of school teachers are like the President -- they're sort of technologically challenged. {LAUGHTER} And there are a lot of classes in America where the kids know a whole lot more about the Internet than their teachers do, right? {APPLAUSE}
+
+So now we can laugh about it and have a lot of fun, but if our objective is to make sure that every single child can tap the full potential of the Information Age, then every single teacher must be in a position to know all he or she needs to know. So we are also investing to make sure that from now on, every newly-certified teacher will be trained to know at least as much, if not more, about those computers and the Internet and communication as the students in the classroom. That is important. {APPLAUSE}
+
+I want to make this last point. Prime Minister Blair complimented you on your school spirit; and we loved it when you cheered when we came in, and we thank you. {APPLAUSE} But look around this room, look around, look at each other. This is a picture of America in the 21st century. People from all backgrounds, all walks of life, all -- {APPLAUSE}
+
+And what you have to believe with all your heart and soul is that if you get an education, you can live out your dream. And if all of you get an education, we can prove that America can accommodate all this diversity and grow stronger by the values we have in common; that we will only grow stronger and more prosperous and give more opportunities to more people to live out their dreams if we can give everybody a good education and then we prove that we can get along across the lines that divide us as one America. That's the America I want you to help me build for the new century.
+
+Thank you and God bless you all. Thank you. {APPLAUSE} 
+
+{/speech}

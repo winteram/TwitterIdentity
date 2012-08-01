@@ -1,0 +1,32 @@
+﻿{title} Remarks by the Presidentto the Kosovar Refugees {/title}
+{event} Speech by President to Kosovar Refugees {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 6, 1999 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+: Good afternoon. Let me begin by thanking Chancellor Schroeder, the representatives of his government who are here and all the people of Germany for their strong, strong leadership in NATO, in defense of the people of Kosovo and for making this place of refuge and shelter for people in need.
+
+I thank Minister President Beck and the government of Rheinland-Pfalz and the townspeople of Ingelheim for making this center available, as well, and for supporting your presence here.
+
+Most of all, I would like to express my respect to the families who are here today from Kosovo; and my very special thanks for those who met earlier with Chancellor Schroeder and me. To those of you who told us the stories of your lives -- the heartbreak, the nightmare, the cruelty, the uncertainty; those who are young, those who are old and those who are in the middle of their lives. I listened very carefully to all of you.
+
+I hope that as you mustered the courage to meet with us you know that because you have done so, the world will hear your stories. It is very important that every freedom-loving person in the entire world know the story of Kosovo. It is important that people not forget that what is called ethnic cleansing is not some abstract idea; it is real people with real families and real dreams being uprooted from their homes, their schools, their work, their children, their parents, their husbands and wives. NATO has acted in Kosovo because we believe ethnic cleansing must be opposed, resisted, reversed.
+
+We are doing all we can to bring aid to the victims of the violence. We are helping as many as we can in Albania and Macedonia. Both Germany and the United States and our other allies are taking refugees out of the camps in Macedonia into our nations. We are helping relief groups to improve their registration systems so those of you who have missing family members can find them, and so that we can restore identity papers.
+
+I know you will understand what a difficult task this is. More people are pouring into Macedonia every day. More people are pouring into Albania every day. And then we are taking some people from the camps into Germany, into the United States, into other countries. But we know this is an agony for those of you who do not know what has happened to your family members, and we are working on it. Just this week, we will begin to put in computer terminals, here and in other refugee centers so that you can constantly get news in your own language on the situation in Kosovo and the status of the NATO campaign.
+
+Let me say on a very personal level, Chancellor Schroeder and I understand that what has been done to you and your children and your homeland cannot be undone. But you must know that you have not been forgotten or abandoned. Mr. Milosevic has not succeeded in erasing your identity from the pages of history, and he will not succeed in erasing your presence from the land of your parents and grandparents. You will go home again -- in safety and in freedom. {APPLAUSE}
+
+Now, in closing, I would like to ask of all of you something I asked of the smaller group with whom I just met. When you have gone through something as awful as this, it is very easy to have your spirit broken, to spend the rest of your life obsessed with anger and resentment. But if you do that, you have already given those who oppressed you a victory.
+
+I am of Irish heritage. The great Irish poet, William Butler Yeats, once said this -- I hope you can remember this. He said, "Too long a sacrifice can make a stone of the heart."
+
+I ask you all to work with each other, to support each other, not to let your hearts turn to stone, to be determined to go home to a Kosovo where all the children can go to school and all the children can laugh and play; and we can have a future that is not only free of the bad things that have happened to you, but is full of hope and opportunity, where you're a part of Europe and a free world, where all the children can pursue their faith, their religion and their dreams. We are working hard for that day.
+
+God bless you and thank you very much. {APPLAUSE} 
+
+{/speech}

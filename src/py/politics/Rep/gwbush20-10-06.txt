@@ -1,0 +1,41 @@
+﻿{title} President Attends National Italian American Foundation Dinner {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} October 20, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Ken, thank you for that kind introduction. But what you forgot to tell the people was that my mother said, "Listen, son, I know you're going to be going over there this evening. Remember your father has already spoken, so keep your remarks short." {LAUGHTER} 
+
+I thank you for your kind words about my mother and father. I am real proud they're with you today. He is a remarkable guy and -- {APPLAUSE} The only mistake you made was not to insist that Laura spoke instead of me. {LAUGHTER} She's doing great. She said, "Look, you keep it short, too, because the food is on the table." {LAUGHTER} 
+
+But thanks for letting me come by to say hello. I'm honored to be with you. I love to pay homage to the Italian Americans that have made our country so great. {APPLAUSE} And that's precisely what you do. The National Italian American Foundation is an important organization because it reminds people of the great Italian heritage of many of our citizens. It also heralds the great diversity of our country. So thanks for what you're doing. Thanks for letting me come by to say hello. 
+
+I'm honored to be here with the Ambassador from the great country of Italy. Mr. Ambassador, it's good to see you, sir. {APPLAUSE} I am proud to say that Italy is a strong ally of the United States of America. {APPLAUSE} I see we've got some of the third branch of government with us -- Justice Scalia and Justice Alito. Thank you all for being here. {APPLAUSE} 
+
+I know that you are paying Alito an honor, and I tell you, he paid this country an honor by agreeing to serve on the Supreme Court of the United States. I make a lot of decisions as your President, and one of the finest decisions I made was to ask this man to serve. {APPLAUSE} 
+
+And I understand you're honoring Frankie Valli. {APPLAUSE} Sorry I'm not going to be around to hear you. But rest assured I've heard plenty of you when I was growing up. {LAUGHTER} Congratulations to both you men. You picked fine winners here. Thanks for letting me come and pay homage to them, as well. 
+
+I'm proud to be with Secchia -- Peter Secchia. See, he picks up the phone, calls the Oval Office, and says, "Man, you're the only sitting President who's never come to this organization." He said, "You better get over here tonight." {LAUGHTER} I said, "All right, Secchia." But I'm proud to call you friend. 
+
+You know, the story of this country is a story of immigrants, and we've always got to remember that. And some of the greatest stories of our country are the result of your ancestors who came to America and realized the big dream of our country. And what this country must always do is be a land of dreamers and doers; is to reward hard work and honor faith and family. And the Italian Americans inspire that greatness of America every day through your acts of kindness and generosity and through your contributions to the country. 
+
+You know, the list of Italian Americans that have made a significant contribution to our country is long. I mean, Tommy Lasorda. {APPLAUSE} Yogi Berra. {APPLAUSE} And for you Colt 45 fans -- that's the old Houston baseball team -- "Hollywood" Kenny Aspromonte. {APPLAUSE} Where are you, Aspro? Yes, sir. 
+
+I'm sorry tonight that one outstanding Italian American can't join you, but he'll be joining me tomorrow at a meeting in the White House, and that's Peter Pace. {APPLAUSE} Peter "Pacé." {LAUGHTER} Four-star general in the United States Marine Corps, Chairman of the Joint Chiefs. The reason I bring him up, and the reason I'm meeting with him, first, there's no finer American than Peter Pace. He's an outstanding American -- an outstanding Italian American. 
+
+I bring it up because we are in a titanic struggle between extremists and radicals who cannot stand the way of life of America. They don't like the thought that people from different backgrounds are able to live under a nation and work together and achieve greatness. They can't stand the thought of free societies flourishing in their midst. And generations of Italian Americans before this generation have served with such valor to make sure freedom still stands. 
+
+And now another generation of Americans is challenged. There are many Italian Americans who wear our uniform today, brave men and women who have volunteered in the great challenge of the 21st century, which is to protect our country from terrorist attack, and at the same time, spread the great blessings of liberty so that a generation of Americans can grow up in peace. {APPLAUSE} 
+
+Taking the inspiration of those who have come before us, there's no doubt in my mind that this generation of Americans will succeed. We won't falter in the face of danger. We'll be steadfast in our resolve to protect you. We will be confident in the power of liberty to transform hostile regions into hopeful regions. And when we persevere, some day somebody will step up here to this mike, years from now, and say, thank goodness, a generation of Americans did their duty for the sake of the security of the United States and the peace of the world. {APPLAUSE} 
+
+So I come before you with a lot on my mind. But one of the things that's on my mind is how grateful I am to be the President of such a fabulous country -- {APPLAUSE} -- a country full of spirited, entrepreneurial, decent, compassionate people. 
+
+I hope you enjoy your evening tonight. Thanks for letting me come by. God bless you. God bless America. {APPLAUSE} 
+
+{/speech} 

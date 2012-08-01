@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President at Federal Law Enforcement Meeting {/title}
+{event} Federal Law Enforcement Meeting {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 20, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Federal Law Enforcement Meeting {/description}
+
+{speech} 
+
+Thank you very much, Eljay. If you want to see which job has more stress, this is the print on his introduction and this is the print on my card. {LAUGHTER}
+
+Let me say, first of all, I came here to express my appreciation to all of you for continuing these regular meetings and increasing our ability to do the work of law enforcement by this kind of coordination. I think it is terribly important, and I thank you for doing it.
+
+Because so many issues involving federal law enforcement have been in the public's mind in the last several weeks, I would like to say a few things and then just sit here and visit with you and listen to you for a while. Let me begin by saying that we all know that this country still has too much violence, too many drugs, too many gangs; that the culture of violence is still causing enormous difficulty in our country.
+
+There was a profoundly moving story in one of our newspapers today about a 16-year-old boy who just shot a 12-year-old boy dead because he thought he'd been treated with disrespect. And this comes just a few days after a national survey in which two-thirds of young gang members said they thought it was acceptable just because they treated you with disrespect.
+
+This is the environment that we have to change in America today -- the paranoia, the division, the willingness to resort to that kind of destructive behavior. And that's why I've been so disturbed about the recent attempts to attack police officers, in general, for doing their jobs. People may disagree with certain laws, like the ban on assault weapons. But that doesn't give them a right to disobey the law. People have no right to assault or kill police officers simply for doing their duty.
+
+Now, I want to talk just a minute about the Waco hearings, and especially what happened yesterday. We know that law enforcement people made mistakes at Waco. Our administration said that in 1993. We had an exhaustive review and when the results came in, we took appropriate action. Changes were made; people were dismissed. That's the way our system is supposed to work in an open and accountable way. Congressional hearings were held in 1993 and in 1994. And if Congress wants to have further hearings today, that is their right and it is entirely appropriate. We have to hope some more good things will come out and we can learn how to better do our jobs.
+
+But I think it's important to get the facts here quite clear. Yesterday's testimony was a sad and painful reminder of the depravity that took place inside that compound and the facts which confronted the President, the Attorney General and the federal law enforcement officials at the time. Here was a man who was molesting young girls and paddling children with boat oars; a man who was laying up supplies and illegal weapons for Armageddon; a man who was instructing women and children about how to commit suicide; a man who took the trust of young children and twisted it, who told people that if they wanted to do the will of God they had to be willing to kill for God.
+
+Those are the facts. There is no moral equivalency between the disgusting acts of which took place inside that compound in Waco and the efforts that law enforcement officers made to enforce the law and protect the lives of innocent people. There is no moral equivalency. That is the point that has to be hammered home over and over. It is irresponsible for people in elected positions to suggest that the police are some sort of armed bureaucracy acting on private grudges and hidden agendas. That is wrong, it's inaccurate, and people who suggest that ought to be ashamed of themselves.
+
+People in law enforcement make mistakes. There are all kinds of people in law enforcement, just like there are all kinds of people in any endeavor, and all people, the last time I checked, were imperfect. When people make mistakes, they ought to be held accountable and appropriate action ought to be taken.
+
+I said yesterday, I am appalled by what happened at that gathering in Tennessee. We're going to find the facts; we're going to take appropriate action. But that is a very different thing from suggesting that there is some sort of equivalency between what the law enforcement officers tried to do at Waco and the kind of things that were going on in that compound. And this country needs to be able to make that distinction and not to forget it.
+
+In Oklahoma City, after the terrible bombing, Americans were wearing a T-shirt -- I've got a copy of it here that was given to me -- and I'd never seen this before. But this T-shirt shows all the different things that federal law enforcement officials do and mentions all the different agencies and has the following quote on it: "A society that makes war against its police had better learn to make friends with criminals." That's a fact.
+
+We need to be accountable. We need to get all the facts out. If we make a mistake we need to correct it. But we must not make war against police. And we must not confuse making mistakes with the moral equivalency of what decent people are doing to protect the citizens of this country with the awful things that happened in that compound at Waco.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

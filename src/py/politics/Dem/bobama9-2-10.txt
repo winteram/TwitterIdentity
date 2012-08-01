@@ -1,0 +1,30 @@
+﻿{title} Remarks by the President at Signing of Memorandum on Childhood Obesity {/title}
+{event} Signing of Memorandum on Childhood Obesity {/event}
+{speaker} Barack Obama {/speaker}
+{date} February 9, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning, everybody. I am so proud of the work that the First Lady, along with the Cabinet Secretaries behind me, have done in trying to tackle one of the most urgent health issues that we face in this country, and that is the increase of childhood obesity.
+
+And because of the outstanding planning that they've done, they are going to be rolling out a terrific plan of action that involves the private sector as well as government agencies coordinating much more effectively a lot of public information out there to help parents make good decisions about allowing their children to be active and eating healthier.
+
+And what the executive order I'm going to be signing today does is to create a 90-day plan that allows optimal coordination as we move forward, in addition to the coordination that we're doing with private sector companies and not-for-profits and other organizations out there that are interested in this issue.
+
+So we think that this has enormous promise in improving the health of our children, in giving support to parents to make the kinds of healthy choices that oftentimes are very difficult in this kind of environment. And so I just want to say how proud I am of the First Lady for her outstanding work and I will now sign this order.
+
+{COMMENT="The executive order is signed"} 
+
+There you go.
+
+{OTHER-SPEAK} 
+
+It's done, honey. Thanks. {APPLAUSE}
+
+{OTHER-SPEAK} Now we work. {/OTHER-SPEAK}
+
+Now they get to work. Thank you, guys. 
+
+{/speech}

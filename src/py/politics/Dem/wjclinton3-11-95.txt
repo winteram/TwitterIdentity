@@ -1,0 +1,87 @@
+﻿{title} Remarks by the President on Project Xl {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 3, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much, Scott, for your introduction and also for your very impressive remarks and your even more impressive work. Thank you, Mr. Vice President, for the work you have done on this project; and Administrator Carol Browner; the Chair of the Council of Environmental Quality Katie McGinty; to Fred Hanson, the EPA Deputy Administrator who is in charge of Project XL, thank you. And thank you, Andy Lietz. I thought you were going to start trying to sell your product up here. {LAUGHTER} 
+
+I must say I was even more impressed when you talked about how you invited us to visit in New Hampshire, New York, and California. I thought, there's a man with a strategically placed company. {LAUGHTER} 
+
+I want to thank every one of you for being here, and for helping us to move a little closer to our vision of the 21st century. 
+
+Let me say that I sought the presidency because I had a vision of what I wanted our country to look like in the 21st century. I wanted the American Dream to be alive for all of our people, and I wanted our nation to be the strongest force in the world for peace and freedom and prosperity. And we have a simple straightforward, but quite comprehensive strategy for achieving that. We believe in pro-growth economics that rewards entrepreneurs and expands the middle class and shrinks the under class. We believe in common-sense government that is smaller, less bureaucratic, more flexible, focusing on partnerships with the private sector and empowering communities and citizens. And we believe in rooting all this in old-fashioned mainstream values, rewarding opportunity, but insisting on responsibility; valuing work, but recognizing that helping families to be strong and stay together is even more important; and what the Vice President referred to -- we believe in community and common ground, not division in the United States. 
+
+The project we announce today reflects all those strategies. That's what Project XL is all about. It will advance our economic agenda. It is an example of common sense government. And it is rooted in our deepest American values. It will help us -- it will help us -- to make the American Dream available to all Americans in the 21st century, and it will certainly help America to be the world's strongest nation in the 21st century. 
+
+In March I announced the creation of this project, which gives our companies the freedom to meet tough pollution standards in ways that make sense to them, instead of following a government rule book. Today we are announcing the first eight pilot projects for these cutting edge initiatives: Anheuser-Busch, AT&amp;T, HADCO, Intel, Merck, the Minnesota Pollution Control Agency, 3M and the South Coast Air Quality Management District. All of them have put together projects which will help us to blaze the way to a new era of environmental protection. Two of them are represented in the Congress by my friend, Senator Robb, and Congressman Vento. I thank them for coming today and for their support of this from an economic and an environmental perspective. 
+
+I want to thank all of the companies here and the other organizations for their dedication. And I want you to know that we are here to honor your pledge to reduce pollution creatively, effectively, and in partnership with your neighbors. 
+
+I want to especially commend the Department of Defense, which is committed to undertaking a similar effort at military installations throughout our country. And this is very important because of all the base closings. And a lot of you are very familiar with our efforts to accelerate our ability to turn these closed bases back to communities and to turn them into community assets. It's a huge issue. And the environmental difficulties and challenges have slowed that effort, and I thank all the representatives from the Defense Department here for their commitment to this endeavor because it will have a major impact on both the environment and our ability to spark economic opportunity in communities throughout the nation. 
+
+To industry, Project XL shows that protecting the health and safety of our citizens doesn't have to come at the expense of a bottom line. And to those in the environmental community, XL shows that strengthening the economy doesn't have to come at the expense of the air we breathe, the food we eat, the water we drink. 
+
+I hope to our citizens that this will stand as an example of what we can do when we work together and when we look out for one another, when we recognize that our obligations to one another, when properly fulfilled, actually help us to improve our own lot in life. 
+
+I guess there was a time not so long ago that if I said there was a government program named XL, everybody would have thought it stood for extra large, and was well-named. {LAUGHTER} I want to say again, that not withstanding my own size, this does stand for excellence and leadership. {LAUGHTER} We want to back our words up by action and we intend to do so. 
+
+Much of our effort in developing common sense government has been devoted simply to reducing the sheer size of government. Our government was organized for a much more sort of top-down, bureaucratic industrial age than the one in which we are living. 
+
+Thanks to the Vice President, our reinventing government task force, and the support we have received in the past from the Congress, there are now 163,000 fewer people working for the federal government than there were the day I was sworn in as President. With next year's already planned down-sizing, the government next year will be the smallest it's been since Mr. Kennedy was President. And as a percentage of the federal -- the civilian work force of the United States, next year the federal government will be the smallest it has been since 1933. That is an astonishing change in a short period of time. 
+
+And I want to say, I think we've done it in the right way. Like I say, that if you want to read about it, the Vice President's got a little book out here. {LAUGHTER} He made me write a forward to it. {LAUGHTER} 
+
+{OTHER-SPEAK} It's available in New York, California {/OTHER-SPEAK} {LAUGHTER ; APPLAUSE} 
+
+Philip Howard, the author of the wonderful book, "The Death of Common Sense," also wrote an introduction. And the Vice President gets no money out of the book. That's part of reinventing government. {LAUGHTER} Work harder, be poorer. {LAUGHTER ; APPLAUSE} But this book reflects what it is we're trying to do. The reason I bring it up is that most Americans don't know that the government is 163,000 smaller, don't know how much smaller it is. But there are maybe some bad reasons for that, but I think there are two good reasons I'd like to mention. 
+
+One reason is that the federal employees were treated properly in the downsizing. They weren't just put on the street. There were generous early retirement packages approved by the Congress. There were generous separation packages. They were treated with the dignity and respect to which they were entitled. So we didn't just have a slash and burn policy. The other reason is that the federal employees who stayed were able to dramatically increase their productivity so that people didn't notice it in diminished services. 
+
+And so I think what I'd like to do is to say I'm very proud of the fact that we have downsized the government more rapidly and to a greater extent than at, as far as I know, any time in history. But the real credit goes to the federal employees who have continued to do the work of America with good humor and increased creativity. And I'm very proud of that. 
+
+And so the first thing we did was to try to shrink the government. The second thing we're doing is getting rid of 16,000 of the 86,000 pages of government regulations. I think the most successful talk I've given since I've been President was at the White House Conference on Small Business where all I did was simply read them the federal regulation on grits. {LAUGHTER} Some of you not from the South don't even know what grits are probably. {LAUGHTER} But all of us who do found it amazing that there had to be a federal regulation to define it and that it was two pages long. {LAUGHTER} And there wasn't a dry eye in the place when I got done reading it. {LAUGHTER} Most of them were laughing and crying; some of them were actually crying to think their government had done such a thing. {LAUGHTER} 
+
+So every department has got a quota, a target, and we are in the process of getting rid, just purely getting rid of 16,000 of the 86,000 pages of federal regulations. 
+
+But that is only part of the vision because common-sense government recognizes that there is still a public interest in America that has to be advanced, that can only be advanced when the elected representatives of the American people use the power given to them under the Constitution of the United States to deal with the problems of the moment in a public way, and to do it in the way that is the most efficient, the most effective for the moment. That is what we are celebrating today. 
+
+The environmental regulations that we are reforming today were designed for a time when the environmental problems were different, when there were in some places dark clouds of pollution literally blocking the sun; a time when the Bald Eagle was on the edge of extinction; a time when we had a river in America that actually caught fire. And for people who think it's been a bad thing, this environmental effort, I'll ask you to remember that all happened in the lifetime of everybody in this room. 
+
+These laws and regulations have served us well. Though we've got a lot more work to do, we've made a lot of progress as a people. Our environment is the envy of the world compared to other industrial countries. But what worked yesterday is not adequate for today, and we now know it certainly won't work tomorrow. And going through Washington is plainly not the only road to ensuring a cleaner or a safer world. That's why we have challenged our businesses and our communities to work together to achieve better results where thy live and work at lower cost. 
+
+At the core of this whole approach are the values I mentioned earlier. We are saying the government should enhance opportunity, but should insist on responsibility. The people who are in Project XL are saying we want the opportunity to do this in a better, more sensible, less bureaucratic, more hassle-free way. But we recognize that before opportunity comes responsibility. And our commitment is to maintain high standards. 
+
+To understand what we're trying to do, the Vice President used a see-saw analogy, which I thought was pretty good, by the way. I may steal it from him tomorrow. {LAUGHTER} Think of a high-jump competition. In this case, the government would set the bar in the high-jump competition, and set it high, as high as it takes to ensure that our people have the essential security of knowing that the world that we live in will be vibrant, healthy and clean. But we wouldn't tell the government how to jump over the bar. If you've ever watched the high-jump competition, people jump in different ways. The way it works today is the government gives you a rule book, and if you can't jump over in the prescribed way you just never get over the bar. What we want to say is, here is the bar; if you can figure out how to jump over it, any old way -- the old way, the new way, a different way, forward or backward -- all you have to do is jump over the bar. Then you make the grade. 
+
+Project XL is built on the simple premise that in many cases companies know their business a whole lot better than the government does; that they understand how best to reduce their own pollution; that we will all benefit if private enterprise brings its energy, its innovation, its creativity to the task of reducing pollution; and that cost-effective ways that are found to clear certain specific goals by certain companies and certain industries will certainly be adopted by others and it will help us to create whole new sectors of economic opportunity by promoting a whole new round of entrepreneurialism in environmental cleanup. 
+
+We also recognize that if companies have the freedom to devise their own strategies, they will have the obligation to work with and consult with their neighbors. 
+
+This project marks the end of one-size-fits-all government regulations. We know what works for one community and one company simply doesn't necessarily work for others. This is real reform. It eases the burden of regulation. It helps to achieve superior environmental performance. It gives each company the chance to find its own way while always, always reaffirming the responsibilities that all companies have to their communities. 
+
+You know, I look at Project XL and I have a hard time understanding those who are still fighting yesterday's regulatory battles today -- those who still think we're only faced with two choices: no regulation at all, or more regulation. Under the banner of regulatory reform, some of these would weaken or even abolish previous environmental safeguards. The Republican majority in Congress would deny citizens the right to know what's in the air they breathe and the water they drink. They'd rob our agencies of the ability to enforce environmental laws at all. They'd slow the cleanup of toxic waste in our communities. 
+
+I tell you today that I do not intend to let this happen. As you know, I have been very clear about the 17 special interest provisions the congressional majority put in its EPA budget. These riders would seriously jeopardize the enforcement of our vital environmental laws. And I was very, very pleased yesterday to see what I hope is only the beginning of a trend that will sweep this Congress when a bipartisan majority in the House sit up for our basic values, for common-sense government, and voted against these 17 riders. I hope there will more of this in the future. {APPLAUSE} 
+
+Project XL is proof that we can find a better way. We don't have to -- it's also about common ground. Why should we have a fight about this when we all will be better served if we work together to protect our environment and to promote our economic interests? There is clearly a wrong way and a right way to change the regulatory environment of America and to get rid of outdated regulations. The wrong way is to toss away our essential health and environmental concerns just because we don't have the patience to sit down and fix them. 
+
+The right way is to roll up our sleeves, make regulations work, demand responsibility, but give opportunity. It may take a little longer, it may be a little harder, but it is the right way to meet the challenges of the next century. And I want to say again -- the most important thing I want to say is I honor these eight projects and the people who are committed to doing it in this way. I honor the commitment the Defense Department has made to do this in its sights. 
+
+If we can prove that this works, we can literally change the way Americans look with fear either on environmental threats, or on the government, or on some new economic enterprise. We can literally give the future back to the American people at the grass-roots level, and have the government doing what it ought to do: be in the business of defining the public interest, making it clear, making sure it's advanced, but not prescribing every little jot and tiddle detail about how people pursue it in every business, in every community, in every enterprise all across the land. That is our goal. 
+
+Project XL is designed to put the focus back where it should be -- on progress, not process; on families and businesses, not government. We have a model here that I think will be good not only for protecting the environment, not only as an example of effective regulatory reform -- I think it's a blueprint for the future. I think it's a way we can deal with a whole range of our other economic and social problems. 
+
+A lot is riding on those of you who have agreed to participate in this project. I think we can really change the way people look at our common problems is we can prove, as I believe you will, that this works. 
+
+I am deeply indebted to the Vice President, and to Carol Browner, and to Katie McGinty, to all those in our administration who have done this. But as I said, we really respect more than anything the companies and the people from the Department of Defense that are prepared to engage in this great endeavor. We have to make this work. This is the only way to take our country into the 21st century with a growing economy, being steadfast to our values, with a common-sense government that keeps the American Dream alive for all. Let's prove the cynics wrong. 
+
+Thank you very much. {APPLAUSE} 
+
+
+
+{/speech} 

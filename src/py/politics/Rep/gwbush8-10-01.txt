@@ -1,0 +1,46 @@
+﻿{title} Remarks by the President {/title}
+{event} In Signing of Columbus Day Proclamation, The East Room {/event}
+{speaker} George W. Bush {/speaker}
+{date} October 8, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech}
+
+Thank you very much. I'm glad I invited you. {LAUGHTER} Thank you all for coming. Laura and I are delighted to have you here to celebrate Columbus Day. Since 1934, when Franklin Roosevelt first proclaimed the national holiday, our entire nation has observed Columbus Day to mark that moment when the Old World met the New. We honor the man from Genoa and the vision that carried him throughout his ten-week voyage. And we recognize -- as well we recognize the unique contributions that people of Italian descent have made here in our country for more than five centuries.
+
+Italian-Americans were among the many public servants last month who gave extraordinary service in an hour of dire emergency. Some are with us today. The Fire Department of Arlington, Virginia was first on the scene after the attack on the Pentagon. And we're so honored to have Battalion Chief, Jim Bonzano with us today. {APPLAUSE}
+
+We have representatives of the New York Police and Fire Departments with us, representatives of people who showed incredible bravery and sacrifice and determination. Please welcome Joe Esposito and Chief Dan Nigro. {APPLAUSE}
+
+Chief Nigro is the successor of Peter Ganci, Jr., whom I had the privilege of meeting two years ago. Chief Ganci gave his life at the World Trade Center and was laid to rest on September the 15th. We're so delighted today to have heroes here representing the Ganci family: his wife, his two sons and his daughters. Welcome, and thank you for being here. {APPLAUSE}
+
+I can't remember if it was Chris or Peter III who looked out at the South Lawn and said, God, I wish Dad were here. He could hit a three wood right over the fence. {LAUGHTER} I said, it might make him nervous; he might shank it into the water. {LAUGHTER} He said, no, you don't know my Dad.
+
+I want to thank the Sons of Italy who have joined us today, as well as the leadership of the National Italian American Foundation and UNICO National who are here as well. Thank you all for coming. {APPLAUSE}
+
+Ambassador Salleo from Italy; we're so glad you're here, and thank you for bringing your wife with you as well. I just got off the phone call with your Prime Minister, Prime Minister Berlusconi, who is a good friend of mine and a good friend of America's. He sends his best, by the way. Welcome. {APPLAUSE}
+
+I want to thank the members of Congress who are here. Thank you all for coming. And I also am so pleased that the first Italian-American to serve on our Supreme Court, has agreed to join us as well. Justice Scalia, thank you for being here, sir. {APPLAUSE}
+
+I'm proud to have a number of Italian-Americans in my administration. A member of my Cabinet unfortunately is not here, but I can assure you he's doing a great job, and that's Tony Principi. So Proud of Tony's service to the veterans of our country. He's doing a really outstanding job.
+
+As you know, that sometimes we have to do battle on Capitol Hill. I try to avoid those battles, but occasionally, it has to happen. And, therefore, I picked an Italian-American to lead that battle for the White House. {LAUGHTER} Nick Calio. Where are you, Nick? {APPLAUSE} There you are. I know Congresswoman Pelosi is saying, all you've got to do is do it the way she tells you to, and things will be fine. {APPLAUSE} I'm also honored that Gian-Carlo Peressutti of my staff has put this event together. And I want to thank Gian-Carlo as well for his hard work. {APPLAUSE}
+
+Our White House has been -- has welcomed many entertainers before. And today, we have the honor of welcoming a lady who you all know well, whose mom had entertained at the White House years ago. She entertained the Kennedys. And today, after I sign the proclamation, Liza Minnelli has agreed to entertain us in this beautiful room in this beautiful house of the people.
+
+I was in New York last week. Like all Americans, I am amazed at what a great job the New York City folks are doing. The spirit of New York. The willingness for people to pull together and to help a neighbor in need. And I'm most impressed by the character of the leadership there. Two people of Italian heritage, I might add: The Governor -- {LAUGHTER} -- and Mayor Rudy Giuliani. {APPLAUSE}
+
+The evil ones thought they were going to hurt us, and they did, to a certain extent. But what they really did was, they enabled the world to see the true character and compassion and spirit of our country. And no finer example of that than New York City.
+
+This Columbus Day should be one of deep pride for all Americans -- all Americans -- especially those for Italian descent. From the very beginning of our country, the sons and daughters of Italy have brought honor to themselves and have enriched our national life. In the beauty of this Capital City we see the hand of Italian immigrants who spent more than 10 years carving the great seated figure in the Lincoln Memorial, who adorned the National Cathedral with statues, and who graced the dome and corridors of the Capitol building with magnificent art.
+
+Our freedom itself was gained with the help of three Italian regiments that crossed the Atlantic to fight in the Revolutionary War. Our Declaration of Independence bears the signatures of two Italian-Americans. In later struggle, dozens of Italian-Americans would receive the Medal of Honor. And today, when Americans pay tribute to the Greatest Generation, we have in mind people like Captain Don Gentile, the fighting ace whom General Eisenhower described as a "one-man air force."
+
+Take any field of endeavor -- any achievement of this country -- and Italian-Americans are part of it. For generation after generation, the success of our country has drawn heavily from the industry and resourcefulness of Italian immigrants and their families. The same can be said for the values that make us great nation. The millions who came here brought with them a distinct strength of character, faith in God, devotion to family, and love of life.
+
+This summer I visited Genoa, where, 550 years ago, Christopher Columbus was born. All around that vibrant, modern city are glimpses of the ancient civilization that still inspires the world's admiration, and always will. In so many ways, that culture has added to our own -- first on three small ships, then on many more. It is our good fortune to be an immigrant nation -- to be the keepers of traditions and gifts that have come to us from great nations like Italy.
+
+More than 15 million Americans claim Italian heritage. And all Americans have reason to be grateful, because we would be poorer without it. I now have the singular honor of signing the official document proclaiming October 8th, 2001 as Columbus Day in the United States of America. {APPLAUSE}
+
+{/speech}

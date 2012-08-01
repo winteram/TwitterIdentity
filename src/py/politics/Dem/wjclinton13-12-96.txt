@@ -1,0 +1,60 @@
+﻿{title} Press Conference of the President {/title}
+{event} Room 450, Old Executive Office Building {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 13, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good afternoon. Please be seated.
+
+As President, I have worked to keep the American Dream alive for all those who are willing to work for it -- to restore economic growth and to put our nation on the path to long-term prosperity. One of the accomplishments I'm proudest of since 1992 is the way our economic advisors have worked as a team to advance America's interests at home and abroad.
+
+Working together, this team has helped to cut our deficit by 60 percent; increase our investments in education, the environment, and technology; expand America's exports to record levels; and to help our economy create nearly 11 million new jobs.
+
+Today we see new results of that kind of teamwork. American negotiators have agreed with the other members of the World Trade Organization on a landmark information technology agreement -- the pact that I worked so hard on at the APEC meeting in Manila recently. I am pleased that it will eliminate by the year 2000 all tariffs on computers, semiconductors, and telecommunications equipment. That's a $5 billion cut in tariffs on the American products exported to other nations.
+
+America leads the world in these industries, and this agreement means that there will be extraordinary new opportunities for American businesses and workers, so the American people can reap the rewards of the global economy as we move into the 21st century.
+
+Today I'm pleased to introduce most of the members of the team that will build on our work:
+
+The Treasury Department has never been in better hands. Bob Rubin has been the captain of our economic team for four years, first as Director of the National Economic Council, and now as Secretary of the Treasury. And I am pleased that he will stay on.
+
+Larry Summers will continue as Deputy Secretary of the Treasury, and we'll be calling upon his unique policy and analytic skills in an enhanced capacity. Today I am also naming him as a principal on the National Economic Council, which will benefit greatly from his expertise in domestic and international economic policy.
+
+As we work toward a balanced budget, the Office of Management and Budget will play a critical role, because we have to do it in a way that reflects our values and the other policy objectives of this administration. Frank Raines has been on the job there for several months now, working hard to reach a bipartisan agreement on a balanced budget plan. I am happy to say that after four months he has agreed to stay on the job, in a job that is often the biggest headache in town.
+
+To prepare America for the 21st century, we must maintain a strong Commerce Department. In the last four years, two exceptionally gifted leaders -- my friends, the late Ron Brown and Mickey Kantor -- have headed that department and turned it into an economic powerhouse for the American people. It has promoted American business, created American jobs through exports and innovative technologies. I understand Mickey Kantor's desire to return to private life after four grueling years, but I regret it very much. He is a great talent, a great citizen, and I will miss him.
+
+Today I am pleased to nominate Bill Daley of Chicago as the new Secretary of Commerce, a man of rare effectiveness, a long-time civic leader, a prominent attorney and business leader. As Special Counsel to the President for the North American Free Trade Agreement, he coordinated our administration's efforts to forge a broad, bipartisan coalition to pass that landmark trade agreement. He embodies the values of hard work and fair play, faith and family, that will serve him in very good stead as the Secretary of Commerce.
+
+Second, I am pleased to announce my intention to nominate Charlene Barshefsky to be our United States Trade Representative, a job she has held on an acting basis for eight months. She's a tough and determined representative for our country, fighting to open markets to the goods and services produced by American workers and businesses. Her skill is demonstrated by the information technology agreement I just announced. She has been negotiating it around the clock in Singapore for the last week.
+
+Indeed, I'm not sure she's had any sleep in the last week, but this is a remarkable achievement. I'm sorry she could not be here, but her husband, Ed Cohen, and her daughters are with us. I spoke to her last night in Singapore to congratulate her on this remarkable achievement. I know she wishes she could be here, and I'm very glad she'll be on the job for America.
+
+Finally, when I took office four years ago, I established for the first time a National Economic Council, to coordinate economic policy, to make sure we get the best advice and a range of options as well as new ideas. Today, I am pleased to appoint Gene Sperling to be the Assistant to the President for Economic Policy and Director of the National Economic Council. Gene was my chief economic policy advisor in the 1992 campaign. He's been Deputy Director of the NEC since its creation. He has been central to the development of our budget, our tax, our education, our training policies.
+
+I rely on him heavily, on his knowledge and skill, his mind and his heart. As all of you know, he certainly shows that the work ethic is still alive and well in America. Indeed, I made him promise as a condition of getting this appointment that he would adopt a dramatic new idea in the next few years -- sleep. {LAUGHTER} I suppose if we were giving MVP awards for our economic team, Gene would have been there in each one of the last four years. And I'm very proud of his service and excited about his promotion.
+
+We know that our economic future is increasingly dependent upon mastering the challenges of the global economy. Today I am pleased to announce that I am appointing Dan Tarullo to be Assistant to the President for International Economic Policy. In his job, Dan will report to the heads of both the NEC and the NSC bringing, thus, even closer coordination between our foreign and our economic teams. He's represented the United States around the world as we have negotiated trade agreements as Assistant Secretary of State and Deputy Director of the NEC.
+
+I'm also pleased to announce the completion of our foreign policy team. Our Ambassador to the United Nations must be someone who can give voice to America's interests and ideals around the world, someone who can work to reform the United Nations so that it costs less and is prepared to meet its new challenges, someone who can not only talk but who can also act effectively.
+
+All Americans have watched admiringly as Bill Richardson has undertaken the toughest and most delicate diplomatic efforts around the world -- from North Korea to Iraq. Just this week, Congressman Richardson was huddled in a rebel chieftain's hut in Sudan, eating barbecued goat and negotiating the freedom of three hostages.
+
+Today I am proud to nominate him to be our next Ambassador to the United Nations, to serve in my Cabinet and as a principal on our foreign policy team.
+
+In addition to his already long list of foreign policy achievements, he has represented the people of northern New Mexico for 14 years now as a member of the House Democratic leadership, and as one of our nation's most prominent and proud Hispanic leaders. He told me last night how much he loved the people of his district. He and Al Gore used to compete for who held the most town meetings in the entire Congress. I know he will serve those constituents, and all the American people, exceedingly well as the United Nations Ambassador.
+
+I'm very proud of this team. We're making good progress in putting our new people in place, and in resolving all the other outstanding questions. I hope the Senate now will move as quickly as possible to confirm them. I was very pleased that in 1993, with only one exception, all the members of my Cabinet were confirmed the day after the inauguration and I hope we can continue to push through that process.
+
+Finally, before our new appointees have a chance to say a few words, I know you're all interested in a couple of other matters. I have been having talks with a number of other Cabinet members, as all of you know. I have not yet finished my conversations, but in the last several days I have spoken with Secretary of Health and Human Services Donna Shalala, Attorney General Janet Reno, and just this morning, our EPA Administrator Carol Browner. I have asked all of them to stay on in their current jobs. We will make those and some other announcements formally soon, when I finish my round of interviews, so that we can announce the rest of our domestic economic team.
+
+And the last matter I want to mention is, as all of you know, Jack Quinn has announced that he will have to leave the White House as White House Counsel because of family obligations. Jack and I have known each other a long time. He and the Vice President have known each other a long time. I just want to say a word of thanks for the integral and invaluable work he has done as a White House staff member, the fine job he has done as Counsel to the President. He has really been a superb Counsel. I will miss him very much.
+
+We had a long talk about the reasons -- I think the good reasons, indeed the best reasons anyone can ever have for leaving public service. I will regret that, but I wish him well, and I look forward to making an expeditious appointment of a replacement.
+
+Now I would like to ask Bill Daley, Bill Richardson, Gene Sperling, and Dan Tarullo to make brief statements and we will proceed to questions. 
+
+{/speech}

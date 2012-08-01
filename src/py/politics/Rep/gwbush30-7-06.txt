@@ -1,0 +1,32 @@
+﻿{title} President Attends White House Tee Ball Game {/title}
+{event} The South Lawn {/event}
+{speaker} George W. Bush {/speaker}
+{date} July 30, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. You know, as we listen to our "National Anthem," it reminds us how blessed we are to live in a land where our boys and girls can grow up in a peaceful world. And on today, our hopes for peace for boys and girls everywhere extends across the world, especially in the Middle East. Today's actions in the Middle East remind us that the United States and friends and allies must work for a sustainable peace, particularly for the sake of children.
+
+And so I want to welcome you here to the White House. What an honor to be with the Commissioner, Willie Mays. {APPLAUSE} See, when I was growing up, I wanted to be the Willie Mays of my generation, but I couldn't hit a curve ball. So instead, I ended up being President.
+
+Laura and I welcome you here, along with the Commissioner. It's a proud day for us to welcome -- a little hot for baseball, but I know these teams are up for it. First I want to welcome the Civitan Club of Frederick Challengers from Thurmont, Maryland. {APPLAUSE} We're glad you all are here. We also want to welcome the Mayor, Mayor Marty Burns of Thurmont. Welcome, Mr. Mayor. {APPLAUSE} Thanks for coming. There he is. {APPLAUSE} Marty used to work at Camp David, by the way.
+
+I also want to welcome the Challenger Braves from Shady Spring, West Virginia. {APPLAUSE}
+
+We welcome both teams, the coaches, the helpers, and the families. We're glad you're here. {APPLAUSE} We're lucky today to have not only one Major Leaguer, but three Major Leaguers with us. Coaching first base, the lefty, Al Leiter. Welcome, Al. {APPLAUSE} At third base, Dan Wilson. Glad you're here, Dan, thanks for coming. {APPLAUSE} Proud you're here.
+
+We welcome Steve Keener, who is the President and CEO of Little League International. {APPLAUSE} We want to thank the Girl Scout Council of the Nation's Capital who carried the colors. {APPLAUSE} I want to thank Nichola Kouzes, who sang the "National Anthem." Nicola did a fabulous job here on the South Lawn. Thank you. {APPLAUSE} She did a good job, didn't she. {APPLAUSE} Not only a good job, but a great job.
+
+We're lucky today to have an old hand at calling this game -- the former announcer of the Washington Senators, Charlie Brotman. Welcome, Charlie. Glad you're here, thanks for coming. {APPLAUSE} Glad you're here.
+
+And finally, we have a tradition here, and that is we actually don't throw out the first ball, we actually put the first ball on the tee. And joining me today is Kevin Turley. He's a Special Olympics gold medalist. Kevin, thanks for coming. Thank you for being a part of this. {APPLAUSE}
+
+You ready? Everybody ready? And right before we play ball we'll give the Little League Pledge. Ready for the pledge?
+
+"I trust in God. I love my country and will respect its laws. I will play fair and strive to win. But win or lose, I will always do my best."
+
+Play ball. {APPLAUSE} 
+
+{/speech}

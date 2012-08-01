@@ -1,0 +1,61 @@
+﻿{title} Remarks by the President at Social Security and Y2K Event {/title}
+{event} Social Security and Y2K Event {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 28, 1998 {/date}
+{source} http://www.ssa.gov/history/clntstmts.html {/source}
+{description} ----- {/description}
+
+
+{speech}
+
+Let me say, one of the things that she might have told you is that before she volunteered for the National Council of Senior Citizens for 20 years, she was an employee until 1972, when she retired, of the Bureau of Engraving and Printing. Therefore, she worked for the Treasury Department. And on New Year's Eve, she will be 90 years old. {APPLAUSE}
+
+Ladies and gentlemen, before I get into my remarks, because this is the only opportunity I will have to appear before the press today, I think I should say a few words about an incident early this morning over the skies of Iraq, where American and British air crews were enforcing a no-fly zone in Northern Iraq. They were fired on by Iraq surface-to-air missiles. They took evasive action, returned fire on the missile site, and returned safely to their base in Turkey.
+
+We enforce two no-fly zones in Iraq, one in the North, established in 1991; another in the South, established in 1992, which now stretches from the southern suburbs of Baghdad down to the Kuwaiti border. The no-fly zones have been and will remain an important part of our containment policy. Because we effectively control the skies over much of Iraq, Saddam has been unable to use air power to repress his own people or to lash out again at his neighbors. Our pilots have the authority to protect themselves if they're threatened or attacked. They took appropriate action today in responding to Iraq's actions.
+
+Once again, I want to tell you I am very proud of the work they do, the risks they take, the skill and the professionalism with which they do it. They attacked because they were attacked. And they did the appropriate thing. We will continue to enforce the no-fly zones.
+
+Now, let me say, this is a very happy announcement today. And I want to thank Secretary Rubin -- who most people associate with saving the economy, not saving Social Security, but that's an important part of his job, too. I want to thank Kathy Adams, who is one of the those people in the government that makes it go and never gets enough credit for it. So I'm delighted to see her up here and through her, all the other people who work every day to make America work.
+
+I've already told you about Pauline Johnson Jones. And I want to say, too, I have been very moved by how passionate Ken Apfel has been about making sure that this problem got solved, and today we saw that he has a vested interest in it -- {LAUGHTER} He doesn't want his father to cut him out of his will -- {LAUGHTER} -- and everybody always needs to be in better stead with their in-laws. {LAUGHTER}
+
+You know, this Y2K problem is a stunning problem -- oh, one other thing. I want to acknowledge the presence here in the audience of the member of Congress from Guam, Congressman Robert Underwood, his wife and their five children. They're here; we're delighted to see all of them. We're delighted that they're here with us in this cold weather, instead of on warm and sunny Guam today.
+
+We just heard that the new millennium is only 368 days away. And we want it to be a carefree celebration. The reason we're here today is to announce that on New Year's Day 2000, and on every day that follows, people like Pauline can rest easy because the millennium bug will not delay the payment of Social Security checks by a single day.
+
+The Social Security system is now 100 percent compliant with our standards and safeguards for the year 2000. To make absolutely certain, the system has been tested and validated by a panel of independent experts; the system works, it is secure. And therefore, older Americans can feel more secure.
+
+I thank all those who are responsible. This is a good day for America. Thank you very much. {APPLAUSE}
+
+The Social Security Administration and the Financial Management Service can be proud. The Social Security Agency was the very first one to start work on the Y2K problem; it's been a leader and a model ever since. They couldn't have done it, these two agencies, if they hadn't worked as a team. Social Security generates the Social Security payments; the Financial Management Services issues those payments. They are in this together.
+
+Indeed, we're all in this together. This involves not just federal agencies, but every one who depends upon a computer, which is every one directly or indirectly. Federal and state governments and local governments, businesses large and small, the year 2000 problem reveals the connections between all of us.
+
+We also, I want to point out, have been working very hard with other countries -- Sally Katzen just told me that there was a meeting at the United Nations recently where we met with representatives of 120 other countries who are all now working together to solve this, because, as all of you know, a lot of our economy is tied up with economic endeavors throughout the world, so even a problem a long way from our shores can have ramifications within our borders. And of course, we don't want any of our friends and neighbors hurt by this change, either.
+
+People are meeting this challenge, but I think a lot of people can still hardly imagine what caused this. I mean, computers, after all, are supposed to save us time, right? And I was describing this Y2K problem to Hillary, and she got so technophobic that I gave her a little digital alarm clock for Christmas and she gave it back to me after I talked to her about it, and she said, why don't you just go get me one that winds up that I can change in my hand. {LAUGHTER}
+
+It happened, you know, because in the older computers the memory put on the chip was precious and much more limited than the phenomenal capacity of computer chips today, so that, in effect, they were all programmed, these older computers, just to change the last two digits on the four numbers of any date. And so what would happen is, when you get to the year 2000, it would show 1900 instead of 2000, because there is no provision for the 19 to go to 20, because of the limitations of memory in the older computer chips. The problem is, obviously, that a lot of new computers are also interconnected with older computers and a lot of people can't even be sure what chips are in what computers and what links are there. That's what makes this labor-saving device of the computer present the most labor-intensive problem imaginable. Retired people have had to come back -- people with skills in working with the old computers have had to come back to help all kinds of businesses figure out how to unravel this problem. It sounds so simple, but it is so mammoth because you have to identify what computers and what chips are where and what the interconnections are.
+
+And so it's an enormous, enormous effort, and we really, all of us, are so indebted to these people who have been recognized today with these two agencies, and to others all across the country who are working on this problem in the public and in the private sectors.
+
+I say again, the American people don't know who -- or didn't before today -- know who Kathy Adams was. They don't know any of the people who are working with her. But when they get the checks for the first Social Security payment in the new millennium, it will be because of them. And I would just ask the American people today to be very sensitive, because there are people like Kathy Adams working in all these agencies, in state and local government and all these businesses throughout the country, and they need to be encouraged. And those who have not yet undertaken this task need to get on it and get on it now because we just have a little more than a year to get the job done.
+
+Now, we have made sure that Social Security checks will keep coming in the year 2000. I'd also like to say that after we got the computer problem behind us, we have to continue to focus on the larger issue, the policy issue, which is to make sure the Social Security checks keep coming throughout the 21st century. All of you know that at present rates of contribution and payment, present rates of retirement, present rates of aging and birth and immigration, we estimate that the Social Security trust fund will be exhausted in about 34 years. We have typically tried to keep the life of the trust fund at about 75 years to make sure it was absolutely stable. Thirty-four years seems like a long time away -- I suppose the younger you are, the further away it seems. It doesn't seem so far to me now, because things that happened 34 years ago are implanted in my mind as if they occurred only yesterday.
+
+But we are going to face early next year a great challenge of fashioning a bipartisan solution to save Social Security for the 21st century. I tell everybody it is a formidable problem, but it will only get worse if we delay it. And it is a high-class problem -- we have this problem because we're living longer. The average life expectancy of the American people, as reported just a few weeks ago, exceeds 76 years. And that is a high-class problem. We should be grateful for this problem.
+
+When Social Security was established and there was no early retirement at 62, and you couldn't draw until '65, the average male life expectancy in America was 56 -- in the 1930s. So we've gone from 56 to over 76, and of course, for women it's a couple of years higher. And as Pauline says, women are especially dependent on Social Security for reasons that I think would be obvious to anyone, and therefore, have a particularly large stake in our resolving this problem in a prompt and appropriate way.
+
+Now, in the last year -- in this year, 1998 -- I have gone around the country and held these bipartisan forums. Members of Congress in both Houses and both parties have taken a special interest and have been very good to attend these forums. Just a few days ago, we had a two-day first White House Conference on Social Security. The second day I went over to Blair House and met with nearly 50 members of Congress from both parties and both Houses. It was an astonishing outpouring of genuine interest.
+
+Now, I don't want to minimize the problems, and they're different from the Y2K problem. The Y2K problem, you know what to do to fix it once you identify it. Here we've identified it and there are obvious differences about what should be done to fix Social Security for the 21st century. But we all know that there are basically only three options: We can raise taxes again, which no one wants to do because the payroll tax is regressive. Over half the American people who are working pay more payroll tax than income tax today. We can cut benefits and it might be all right for someone like me who has a good retirement plan, but it's not a very good idea for someone like Pauline. Or we can work together to try to find some way to increase the rate of return. And there are a number of options that we are discussing.
+
+The point I want to make to all of you is that we have the same obligation to fix the system in policy terms for the 21st century that these fine people we honor today have discharged in fixing the Y2K problem. And if we approach it with the same can-do attitude and the same determination to reach a result, we can achieve that.
+
+So today we celebrate and I hope the celebration that we have today will steel our determination to make sure that people like Pauline can be making this speech 50 years from now.
+
+Thank you very much, and happy New Year. {APPLAUSE}
+
+{/speech}

@@ -1,0 +1,55 @@
+﻿{title} President Calls for Crime Victims Rights Amendment {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} April 16, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Well, John, thank you very much for inviting me to this beautiful room, and thank you all for coming today. 
+
+Justice is one of the defining commitments of America. In our war against terror, I constantly remind our fellow citizens we seek justice, not revenge. We seek justice for victims. We seek justice for their families. And for justice to prevail in our struggle for freedom, we must rout out terrorist threats wherever they exist. And that's exactly what this country is going to do. {APPLAUSE} And while the war goes on, and while our fight for freedom continues, we will continue to work for justice at home, including justice for the victims of violent crime. 
+
+I appreciate John Ashcroft's leadership, his stand on principle, and his wise counsel during my time as President. I appreciate so very much Senator Feinstein and Senator Kyl carrying this cause that I'm here to support. I want to thank the Chairman, and I want to thank the ranking member of the Judiciary Committee for coming, as well, Senator Leahy and Senator Hatch. I want to thank all the members from the United States Congress for being here -- {APPLAUSE} -- Congressmen Barrett, and Chabot, and Wicker. 
+
+I, too, want to thank John Walsh. I appreciate not only you standing up for victims, I appreciate you putting up pictures of the al Qaeda killers on the TV screen, to help America remain alert, to help this country understand that we're still in danger from attack. I want to thank you for being a good American, and I want to thank you for helping the cause. {APPLAUSE} 
+
+I want to welcome the leaders of victim' rights groups from all around the country. I particularly want to thank and congratulate those who are award winners today. 
+
+As John mentioned, in the year 2000, Americans were victims of millions of crimes. Behind each of these numbers is a terrible trauma, a story of suffering and a story of lost security. Yet the needs of victims are often an afterthought in our criminal justice system. It's not just, it's not fair, and it must change. {APPLAUSE} As we protect the rights of criminals, we must take equal care to protect the rights of the victims. {APPLAUSE} 
+
+Many of the victims of crime have gotten a crash course in the complications and frustrations of our criminal justice system. One victim put it this way: "They explained the defendant's constitutional right to the nth degree. They couldn't do this and they couldn't do that because of his constitutional rights. And I wondered what mine were. And they told me, I hadn't got any." The guy sounded like he came from Texas. {LAUGHTER} 
+
+But too often, our system fails to inform victims about proceedings involving bail and pleas and sentencing and even about the trials themselves. Too often, the process fails to take the safety of victims into account when deciding whether to release dangerous offenders. 
+
+Too often, the financial losses of victims are ignored. And too often, victims are not allowed to address the court at sentencing and explain their suffering, or even to be present in the courtroom where their victimizers are being tried. 
+
+When our criminal justice systems treats victims as irrelevant bystanders, they are victimized for a second time. And because Americans are justifiably proud of our system and expect it to treat us fairly, the second violation of our rights can be traumatic. "It's like a huge slap," said one victim, "because you think the system will protect you. It's maddening and frightening." 
+
+Thirty years ago, a grass-roots movement began to stand up for the rights of victims. It resulted in domestic violence shelters, support groups for families of homicide victims, rape crisis centers. They exist in cities and neighborhoods all across America, because Americans care about their neighbors in need. 
+
+One good example is in John's home state of Missouri. It's called Aids -- Aid for Victims of Crime, Inc., in which volunteers provide counseling and court advocacy and other essential services to the victims of crime. Victims' rights groups are active every single day. There isn't a day that goes by that they're not involved in somebody's life, and they're especially important during times of disaster and crisis. 
+
+You know, when the bomber hit Oklahoma City, victims' rights groups were on the scene immediately thereafter to help. And the same happened after 9/11 in New York and Washington, Pennsylvania. Victims' rights groups were there, hundreds of counselors and chaplains and social workers, victims' service providers helped their fellow Americans deal with the unspeakable pain and suffering caused by the terrorist murders. 
+
+The Attorney General will shortly present awards to outstanding individuals and groups for their work on behalf of victims. I had the honor of meeting the winners, and I want to congratulate them publicly for loving your neighbor just like you'd like to be loved yourself. You've chosen to live out the words of Saint Paul: "Be not overcome of evil, but overcome evil with good." 
+
+And our nation struggles -- as our nation struggles to overcome the evil of September the 11th, your lives, the example you set, stand out as models of compassion and integrity. 
+
+The victims' rights movement has touched the conscience of this country, and our criminal justice system has begun to respond, treating victims with greater respect. The states, as well as the federal government, have passed legal protections for victims. However, those laws are insufficient to fully recognize the rights of crime victims. 
+
+Victims of violent crime have important rights that deserve protection in our Constitution. {APPLAUSE} And so today, I announce my support for the bipartisan Crime Victims' Rights amendment to the Constitution of the United States. {APPLAUSE} 
+
+As I mentioned, this amendment is sponsored by Senator Feinstein of California, Senator Kyl of Arizona -- one a Democrat, one a Republican. Both great Americans. {APPLAUSE} 
+
+This amendment makes some basic pledges to Americans. Victims of violent crime deserve the right to be notified of public proceedings involving the crime. They deserve to be heard at public proceedings regarding the criminal's sentence or potential release. They deserve to have their safety considered. They deserve consideration of their claims of restitution. We must guarantee these rights for all the victims of violent crime in America. 
+
+The Feinstein-Kyl Amendment was written with care, and strikes a proper balance. Our legal system properly protects the rights of the accused in the Constitution. But it does not provide similar protection for the rights of victims, and that must change. {APPLAUSE} 
+
+The protection of victims' rights is one of those rare instances when amending the Constitution is the right thing to do. And the Feinstein-Kyl Crime Victims' Rights Amendment is the right way to do it. 
+
+May God bless you all, and may God bless America. {APPLAUSE} 
+
+{/speech} 

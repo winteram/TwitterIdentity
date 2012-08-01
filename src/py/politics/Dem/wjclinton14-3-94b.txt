@@ -1,0 +1,50 @@
+﻿{title} Remarks by the President to the Citizens of Boston {/title}
+{event} Boston {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 14, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President to the Citizens of Boston {/description}
+
+{speech} 
+
+Thank you so much. Thank you for this wonderful, warm welcome to this magnificent old city that is forever young. I am so happy to be back here. I'm thrilled by this enormous crowd, honored by your enthusiasm and support, your concern and your commitment for your country.
+
+I thank all those who are here with me -- your State Attorney General; your State Auditor; the State Chair of our Democratic Party; your wonderful new Mayor, Mayor Menino -- it's nice to see you. {APPLAUSE}
+
+Congressman Moakley, who said that you can tell how much I love Massachusetts by how many times I come to his congressional district. That's a good political remark if I ever heard it. {LAUGHTER} Congressman Markey, Congressman Meehan who are here.
+
+I want to say a special word of thanks to your two United States senators -- first, to John Kerry for his steadfast leadership to try to help us pass a crime bill in the United States Congress that is both tough and smart, that gives our young people something to say yes to while we're being tougher on crime, that takes assault weapons off the street and puts policemen on the beat and gives our kids a better future. I thank him for that, and so should you. {APPLAUSE}
+
+I also thank him for the work that he has done in putting the credibility he justly earned as a valiant veteran in the war in Vietnam on the line to help us reconcile with Vietnam and move forward to a new chapter in our relationship with that country, and get a full and fair accounting of all of our MIAs and POWs.
+
+And I want to thank Senator Ted Kennedy not only for his warm personal support, but for being the lion, the champion, the stalwart of the elemental principle that health care is a fundamental right, and every American ought to have it. He's been fighting for that for almost two decades now, and he has the President by his side. And we're going to get it done this year. {APPLAUSE}
+
+My fellow Americans, I have just come from Detroit, a city which was racked during the 1980s with massive job losses in the automobile industry; a city which is rebuilding itself, even as our car industry comes back with increasing productivity and quality, taking back market share all across our country and in other countries. We have there going on now a conference of the world's great industrial nations, where the finance ministers and the commerce ministers and others have come together to discuss this vexing question: Why is it that all the wealthy countries in the world are having trouble either creating new jobs or rewarding their workers with higher incomes? This is not just an American issue.
+
+But I can tell you I was proud to go there today and say to them, you said to us for years we should bring down our budget deficit; well, we have. The other guys talked about it and we did it. And if the Congress passes our budget this year, for the first time since Harry Truman was President, the deficit will go down for three years in a row. {APPLAUSE}
+
+And what has happened? Low inflation, low interest rates, high investment, over two million new jobs in the first 13 months of this administration -- 90 percent of them not in government, but in the private sector. I know that there is more to do, but we are making a beginning.
+
+I also want to say that we are doing what we can to give our young people access to the education and training they need. With the leadership of Senator Kennedy and others last year, we completely rewrote the student loan law, a very important issue in this bastion of higher education. {APPLAUSE} So that when this law becomes fully effective, our young people will be able to borrow money to go to college, whether they are middle-class or poor, at lower interest rates and pay it back on easier terms not based on how much they borrowed or loaned, but also based on how much they make when they go to school; so they will never be discouraged from borrowing the money to go to college and get the education they need. {APPLAUSE}
+
+Finally, last year we did something that I was inspired to do by all these wonderful young people from City Year - -- we passed a National Service Program. {APPLAUSE} This year there will be 20,000 more like them all across the country, and year after next, 100,000 more -- {APPLAUSE} -- earning credit against college, solving the problems of this country, building up America instead of tearing it down. {APPLAUSE}
+
+And now, and let me say, the most important sign I saw of all the wonderful signs you held up today was the sign the young people from City Year had on that boat -- they said, "Thank you for believing in the youth of America." I do and I think you do, too. {APPLAUSE}
+
+My fellow Americans, this year we have much work to do. In the Congress, we are working on totally revamping the unemployment system of our country so people can begin to get new training from the moment they lose their jobs. We are working on reforming the welfare system so that more people can move from dependence to independence; can be successful parents and successful workers. We are working on a dramatic change in our criminal justice initiatives, as Senator Kerry said, to put another 100,000 police officers on the street, take assault weapons off the street, stiffen our ability to get guns out of the hands of people who should not have them -- the Brady Bill is already beginning to work in that regard -- and provide alternatives for first-time youthful offenders so they will have a better future. Those are the kinds of things that we are doing.
+
+And, finally, as Senator Kennedy said, we are going to do our dead-level best this year and I believe we are going to make it to finally, finally, finally join the ranks of every other advanced nation in the world and give our American families health care security that is always there that can never be taken away from them. {APPLAUSE}
+
+I know there will always be problems that we have to address, with all of the changes that are coming on into our economy. On the way over here, I spoke with your congressional delegation about the difficulties that the fishermen in Massachusetts and New England are facing. Let me tell you something: We are going to make sure that you do not become an endangered species. You have earned the right to go forward, and we will work on that. {APPLAUSE}
+
+We have defense workers from Connecticut to California who are threatened, and we are working on that. But what I want to tell you is, we are going in the right direction, and we can keep going in the right direction if we remember to keep our eyes on those things which really matter, and if we do not become diverted.
+
+Just before I got on the plane to come here, I visited a fascinating plant in Detroit, owned by a man named Roger Penske. You may know him because his teams have won eight Indianapolis 500 races. But let me tell you what he did. This plant was about to be closed several years go. He went in and bailed it out, made an agreement with the union that they would solve all their problems together. Grievances on the plant floor dropped to virtually zero. A new spirit of partnership took over. They began to sell their diesel engines all around the world. They began to increase production and sales. They hired more people. And, today, this plant that was on the verge of being closed, with 3,000 people losing their jobs, have doubled their sales, added employment. They have the best labormanagement cooperation anyone can imagine.
+
+Do you know how they did it? They did it because fundamentally, they were interested in building up one another. They recognized the dignity of every man and woman in that plant. They understood that people wanted to be able to be successful as workers and as parents, building their families and their future. And, by doing that, and focusing on that, everything else worked out all right. I tell you today, my friends, if we can go back to Washington and wipe away all of the forces that seek to demean, to divide, to downgrade, and just focus on the spirit and the hope and the dignity that we see in the faces of these young people here, we could solve the problems of this country and do it in short order. That is what we ought to be about. {APPLAUSE}
+
+And I pledge to you that I will honor the support the people of Massachusetts gave me in 1992. I will honor the signs that greeted me here today. I will never forget the spirit, the drive, the imagination and the talent that the people of this state have. And when I go back to Washington, I will be there working with your friends here to make sure that we restore the kind of spirit and dignity and possibility to our national government that will make it possible for us to keep this economy on the move, to pass health care and a crime bill and welfare reform and redo the unemployment system, and do all those things that in the end will just allow all of us to live up to the fullest of our God-given potential as one united nation, moving into the 21st century, with the kind of pride and success that you deserve.
+
+Thank you very much, and God bless you all. Thank you. {APPLAUSE} 
+
+{/speech}

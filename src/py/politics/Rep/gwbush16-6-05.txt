@@ -1,0 +1,38 @@
+﻿{title} President Attends National Hispanic Prayer Breakfast {/title}
+{event} Andrew W. Mellon Auditorium, Washington, D.C. {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 16, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Gracias, y siéntese. {LAUGHTER} Thank you for the warm welcome. It's an honor to be here at the National Hispanic Prayer Breakfast. Thanks for inviting me back. I understand this, like you understand this: America is founded on los valores de fe y familia. {APPLAUSE} These are the values at the heart of the Hispanic American community. These are the values that enrich our nation. And I am grateful.
+
+Your good works and reverence bring compassion to our country, and more importantly, honor to the Almighty. This morning we come together to pray, to pray for God's help as we serve our fellow citizens. Danny, thank you very much for the invitation and the introduction. I'm proud to be with a lot of the faith leaders from around our country. I saw my friend Luis Cortés. It's good to see you again, Luis. I want to thank John von Seggern, who is the Chairman of the Prayer Breakfast.
+
+I want to thank the members of the Congress who are here -- Nancy Pelosi, Chris Cannon, Hilda Solis, Rahm Emanuel, Luis Fortuno. I want to thank you all for serving our country, and thank you for setting aside politics to come and honor the Almighty through prayer.
+
+It's good to see my old buddy, former member of the Cabinet, Ridge. Tom Ridge is with us. Good to see Hector Barreto. He runs the SBA. Go ahead and pray, and then get back to work. {APPLAUSE} It's good to see Don Powell, Gaddi -- who runs the FDIC, by the way -- Gaddi Vasquez is the Director of the Peace Corps.
+
+And finally, I want to pay homage to the First Lady of Panama. I want to welcome you here, Madam First Lady. Thank you for coming. {APPLAUSE} We're really glad you're here. Your husband is kind of like me; we both married well. {LAUGHTER}
+
+We come from many faiths. In America, every religion is welcome. That's the great thing about our country: every faith is important. In America, people of faith have no corner on compassion, but people of faith need compassion to be true to the call to "Ame al projimo como a sí mismo," love your neighbor like you'd like to be loved yourself. That's a universal call.
+
+For Hispanic Americans, a love of neighbor is more than a gospel command -- it's a way of life. We see the love of neighbor in the strong commitment of Hispanic Americans to family and the culture of life. For Hispanic Americans, families are a source of joy and the foundation of a hopeful society. We're working to support and defend the sanctity of marriage and to ensure that the most vulnerable Americans are welcomed in life and protected in love. {APPLAUSE}
+
+We see the love of neighbor in the tireless efforts of Hispanic American faith-based and community organizations that work daily to bring hope to harsh places. In Boston, the León de Judá Congregation mentors inner-city teens so they have a chance to realize the great dreams of America. In St. Louis, Acción Social Comunitaria helps immigrants and their children adapt to American life. In the archdiocese of Miami, Catholic Charities ministers to people with HIV/AIDS; inner-city Philadelphia, Cortés runs a fantastic program to help lift the spirits of every single child. {APPLAUSE}
+
+Many in the Hispanic community understand that by serving the least of -- nuestros hermanos y hermanas -- that we're serving a cause greater than ourselves. And by doing so, we're helping all citizens have an opportunity to realize their dreams here in America.
+
+Finally, we see the love of neighbor in tens of thousands of Hispanics who serve America and the cause of freedom. One of these was an immigrant from Mexico named Rafael Peralta. The day after Rafael got his green card, he enlisted in the Marine Corps. Think about that. While serving in Iraq, this good sergeant wrote a letter to his younger brother. He said, "Be proud of being an American. Our father came to this country, became a citizen because it was the right place for our family to be." Shortly after writing that letter, Sergeant Peralta used his own body to cover a grenade an enemy soldier had rolled into a roomful of Marines.
+
+This prayer breakfast, we remember the sacrifices of honorable and good folks like Sergeant Peralta, who have shown their love of neighbor by giving their life for freedom.
+
+Hispanic Americans answer the call to service willingly, because you understand that freedom is a divine gift that carries with it serious responsibilities. And as you go about the work of repairing broken lives and bringing love into the pockets of hopelessness and despair, be strong, because you're sustained by prayer. Through prayer -- {APPLAUSE}
+
+One of the most powerful aspects of being the President is to know that millions of people pray for me and Laura. People that I'll never have a chance -- {APPLAUSE} Think about a country where millions of people of all faiths, people whom I'll never have a chance to look face-to-face with and say, thank you, take time to pray. It really is the strength of America, isn't it? Through prayer we ask that our hearts be aligned with God's. Through prayer we ask that we may be given the strength to do what's right and to help those in need.
+
+I want to thank you for the fine tradition you continue here today. This is an important tradition to continue right here in the heart of the nation's capital. I want to thank you for what you do for our nation. Que dios les bendiga, and may God continue to bless our country. Thank you very much. {APPLAUSE} 
+
+{/speech}

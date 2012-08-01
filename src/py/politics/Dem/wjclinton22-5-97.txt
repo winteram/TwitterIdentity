@@ -1,0 +1,28 @@
+﻿{title} Remarks by the President to the Students of Robert C. Byrd High School {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 22, 1997 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Well, did you see it?
+
+{AUDIENCE} Yes! {/AUDIENCE} 
+
+On the screen and the Internet?
+
+AUDIENCE} Yes! {/AUDIENCE}
+
+Well, you may have had the better deal, because it's cooler in here. {LAUGHTER} Let me thank Danny Phares for his introduction. And I want to say I'm glad to be here with Governor Underwood; and with Secretary of Education, Dick Riley; and with Cleo Matthews, the President of the State Board of Education. And you may have heard me say that her daughter, Sylvia, who is here today, is my Deputy Chief of Staff in the White House and she graduated from high school in Hinton, West Virginia.
+
+So I think that's a pretty good statement of West Virginia's educational quality. And I have to tell you, I did not have an auditorium this nice when I was in high school. I love this school. Congratulations on having a beautiful, beautiful school. {APPLAUSE}
+
+You heard the Town Hall meeting -- I'm just going to come down here and shake hands with anybody who wants to come down and say hello -- but I just want to say one thing to all of you. We are about to enter not only a new century, but a new millennium, literally a time which happens once every thousand years. By coincidence, you are also entering a period in our history which will be very different from the past -- different in the way people work, different in the way people learn, different in the way people relate to each other. And it can be the greatest moment of human promise in all history. It may be, if we do everything as we should, that young people your age and those coming along behind you will have more opportunities to live their dreams than any group of people who ever lived.
+
+But none of this will happen unless we continue to put top priority on education, continue to believe that all young people can learn and continue to be dedicated to the proposition that everybody should have a maximum opportunity to learn as much as possible. So when you leave this high school I hope you will keep that conviction with you for the rest of your lives and be dedicated to the proposition that not only you, but all the young people coming behind you, should have those opportunities.
+
+Thank you. God bless you and good luck. 
+
+{/speech}

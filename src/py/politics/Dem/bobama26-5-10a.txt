@@ -1,0 +1,88 @@
+﻿{title} Remarks by the President on the Economy {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 26, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Everybody please have a seat. {APPLAUSE} It is wonderful to be here and to see all of you here today. And I would be remiss if I did not note the presence of your governor, give him a big round of applause, Arnold Schwarzenegger. {APPLAUSE} I'm just going to go ahead and mention our district attorney, Kamala Harris, who's here. {APPLAUSE}
+
+It is great to be in Fremont, good to be back in Northern California. I was reminiscing a little bit -- Michelle and I took our honeymoon in Napa Valley. That was almost 17 years ago when we drove down the Pacific Coast Highway, and so I was -- I was fantasizing about going and renting a car. {LAUGHTER} But I was told that would cause a stir, so next time.
+
+But it's wonderful to be here in Northern California. It is always nice to get out of Washington a little bit. Now, don't get me wrong, the capital is a beautiful place, nice monuments. I have no commute -- {LAUGHTER} -- which very few people in California can say is true for them.
+
+But the truth of the matter is, is that when you're in Washington a lot of times all you're thinking about or all that's being talked about is politics -- who's up, who's down, the contest between the parties, instead of people remembering why it is that they aspired to go into politics in the first place. We end up getting caught up in the moment instead of what is important for the future.
+
+So I try to visit places like this about once a week, hear from folks as often as possible who are actually doing the extraordinary work of building up America. And I appreciated the chance to tour your plant and to see the incredible, cutting-edge solar panels that you're manufacturing, but also the process that goes into the manufacturing of these solar panels. And it is just a testament to American ingenuity and dynamism and the fact that we continue to have the best universities in the world, the best technology in the world, and most importantly the best workers in the world. And you guys all represent that. So thank you very much for that. {APPLAUSE}
+
+And while I'm at it, I also want to give some credit to those guys in the back who have been building this facility so that we can put more people back to work and build more solar panels to send all across the country. Thank you for the great work that you guys are doing. {APPLAUSE}
+
+Now, it's fitting that this technology is being pioneered here in California. Where else, right? For generations, this part of the country has embodied the entrepreneurial spirit that has always defined America's success. People heading West.
+
+It was here where weary but hopeful travelers came with pickaxes in search of a fortune. It was here that tinkerers and engineers turned a sleepy valley into a center of innovation and industry. It's here that companies like Solyndra are leading the way toward a brighter and more prosperous future.
+
+And you're doing so at a time of real challenge for America. I don't have to tell you that. The Governor doesn't have to tell you that. California was hit as hard as any state by the home mortgage crisis and the economic storms that followed. Even this high-tech corridor wasn't immune. Foreclosures skyrocketed. Home values fell. Businesses slowed, from family restaurants to Fortune 500 companies. Fremont lost thousands of jobs as the NUMMI auto plant slowed production and shut down -- and that hurt not only autoworkers but local businesses and parts suppliers.
+
+Many in this community are still reeling from the effects of the recession -- and that followed a decade of struggle and growing economic insecurity for a lot of middle-class families. The truth is, even though the economy is growing and adding jobs again, it's going to take a while to create the favorable conditions for communities like this one to rebound and to flourish. But what was clear when I walked through the Oval Office door, at a time of maximum peril in our economy, when economists were warning we might be going into a Great Depression, the financial system might be on the verge of collapse -- what was clear was that even though it might be difficult and even though some of the things we had to do might not be politically popular -– we had to act. We couldn't accept a future that was marked by decline.
+
+And that's why we took a series of steps to stop what was nothing short of an economic freefall. We passed a series of tax cuts to put more money in the pockets of working families right away -- including more than 12 million families in California. We increased the Pell Grant -- which brought 4 million additional dollars -- $4 million of additional aid to students right here in Fremont. We backed loans to small businesses -- including $20 million to companies in this community alone.
+
+We also provided relief for those hardest hit -- who not only needed help, but would most likely use the relief to generate more economic activity. So we extended unemployment benefits for more than 3 million California residents and made COBRA cheaper for people who'd lost their jobs so they could keep their health care for their families. We provided $250 in relief to more than 5 million California seniors -- many whose life savings had taken a big hit in the financial crisis. And we provided emergency assistance to our governors to prevent teachers and police officers and firefighters from being laid off as a result of state budget shortfalls. At a time when California is facing a fiscal crisis, we know that this has saved the jobs of tens of thousands of educators and other needed public servants just in this state. And what was true in California was true all across the country.
+
+But our goal in dealing with this economic crisis wasn't just about bringing an end to the recession. We said to ourselves, we've got to build a new foundation for lasting growth. We can't have an economy that's just built on maxing out on credit cards and home equity loans and complex financial instruments that are generating big bonuses but can potentially bring an entire economy down.
+
+So we recognized that we've got to go back to basics. We've got to go back to making things. We've got to go back to exports. We've got to go back to innovation. And we recognized that there was only so much government could do. The true engine of economic growth will always be companies like Solyndra, will always be America's businesses. But that doesn't mean the government can just sit on the sidelines. Government still has the responsibility to help create the conditions in which students can gain an education so they can work at Solyndra, and entrepreneurs can get financing so they can start a company, and new industries can take hold.
+
+So that's why, even as we cut taxes and provided emergency relief over the past year -- we also invested in basic research, in broadband networks, in rebuilding roads and bridges, in health information technology, and in clean energy. Because not only would this spur hiring by businesses -- it would create jobs in sectors with incredible potential to propel our economy for years, for decades to come. There is no better example than energy.
+
+We all know the price we pay as a country as a result of how we produce and use -- and, yes, waste -- energy today. We've been talking about it for decades -- since the gas shortages of the 1970s. Our dependence on foreign oil endangers our security and our economy. Climate change poses a threat to our way of life -- in fact, we're already beginning to see its profound and costly impact. And the spill in the Gulf, which is just heartbreaking, only underscores the necessity of seeking alternative fuel sources. We're not going to transition out of oil next year or 10 years from now. But think about it, part of what's happening in the Gulf is that oil companies are drilling a mile underwater before they hit ground, and then a mile below that before they hit oil.
+
+With the increased risks, the increased costs, it gives you a sense of where we're going. We're not going to be able to sustain this kind of fossil fuel use. This planet can't sustain it. Think about when China and India -- where consumers there are starting to buy cars and use energy the way we are. So we've known that we've had to shift in a fundamental way, and that's true for all of us.
+
+Now, earlier today I spoke to Energy Secretary Steven Chu, who, as you know, is a Nobel Prize-winning physicist. And he's been on the scene in the Gulf, deeply involved in our efforts to bring this crisis to an end. And we discussed today's attempt to stop the leak through what's known as the “top kill,” plugging the well with densely packed mud to prevent any more oil from escaping. If it's successful -- and there are no guarantees -- it should greatly reduce or eliminate the flow of oil now streaming into the Gulf from the sea floor. And if it's not, there are other approaches that may be viable.
+
+And as work continues in the next couple of months to complete relief wells, my administration is intensively engaged with scientists and engineers to explore all alternative options, and we're going to bring every resource necessary to put a stop to this thing. But a lot of damage has been done already -- livelihoods destroyed, landscapes scarred, wildlife affected. Lives have been lost. Our thoughts and prayers are very much with the people along the Gulf Coast.
+
+And let me reiterate: We will not rest until this well is shut, the environment is repaired, and the cleanup is complete. And I look forward to returning there on Friday to review the efforts currently underway and lend my support to the region.
+
+But even as we are dealing with this immediate crisis, we've got to remember that the risks our current dependence on oil holds for our environment and our coastal communities is not the only cost involved in our dependence on these fossil fuels. Around the world, from China to Germany, our competitors are waging a historic effort to lead in developing new energy technologies. There are factories like this being built in China, factories like this being built in Germany. Nobody is playing for second place. These countries recognize that the nation that leads the clean energy economy is likely to lead the global economy. And if we fail to recognize that same imperative, we risk falling behind. We risk falling behind. {APPLAUSE}
+
+Fifteen years ago, the United States produced 40 percent of the world's solar panels -- 40 percent. That was just 15 years ago. By 2008, our share had fallen to just over 5 percent. I don't know about you, but I'm not prepared to cede American leadership in this industry, because I'm not prepared to cede America's leadership in the global economy.
+
+So that's why we've placed a big emphasis on clean energy. It's the right thing to do for our environment, it's the right thing to do for our national security, but it's also the right thing to do for our economy.
+
+And we can see the positive impacts right here at Solyndra. Less than a year ago, we were standing on what was an empty lot. But through the Recovery Act, this company received a loan to expand its operations. This new factory is the result of those loans.
+
+Since the project broke ground last fall, more than 3,000 construction workers have been employed building this plant. Across the country, workers -- {APPLAUSE} -- across the country, workers in 22 states are manufacturing the supplies for this project. Workers in a dozen states are building the advanced manufacturing equipment that will power this new facility. When it's completed in a few months, Solyndra expects to hire a thousand workers to manufacture solar panels and sell them across America and around the world. {APPLAUSE}
+
+And this in turn will generate business for companies throughout our country who will create jobs supplying this factory with parts and materials. So there's a ripple effect. It's not just localized to this area.
+
+Meanwhile, down the road, we're seeing some other welcome signs. I know the closure of the NUMMI plant was devastating to this community and thousands of jobs were lost. And it was all the more painful and heartbreaking because the factory had been held up as an example of how America could lead in manufacturing.
+
+But thanks to loans through the Department of Energy, which helped provide Tesla motors with the financial wherewithal to expand, that shuttered plant is soon going to reopen. {APPLAUSE} And once again -- once again, it will be a symbol of promise, an example of what's possible here in America.
+
+Tesla is joining with Toyota in a venture to put a thousand skilled workers back to work manufacturing an all-electric car. {APPLAUSE} And this is only the beginning. We're investing in advanced battery technologies to power plug-in hybrid cars. In fact, today in Tennessee there's a groundbreaking for an advanced battery manufacturing facility that will generate hundreds of jobs. And it was made possible by loans through the Department of Energy, as well as tax credits and grants to increase demand for these vehicles.
+
+We used to account for about 2 percent of advanced battery technologies for cars. We're expecting, in the next couple years, to get up to 20, 30, maybe even 40 percent, building our market share right here in the United States of America.
+
+We're investing in an advanced electricity grid. And Governor Schwarzenegger and I were just talking about this before we came out, because this has been a big priority for him -- that will be more efficient and better able to harness renewable energy sources. We're providing grants to build wind farms and install these solar panels, helping us double our ability to generate renewable energy. We're expanding our capacity in biofuels to reduce our dependence on oil. We've helped forge one historic agreement -- and are on track to produce a second -- to dramatically increase the fuel efficiency of America's cars and trucks. So we are making progress. It's progress that's going to produce jobs, that's going to help secure our future.
+
+But we've still got more work to do, and that's why I'm going to keep fighting to pass comprehensive energy and climate legislation in Washington. {APPLAUSE} We're going to try to get it done this year, because what we want to do is create incentives that will fully unleash the potential for jobs and growth in this sector.
+
+Already we're seeing the results of the steps we've taken. As I said, before the Recovery Act, we had the capacity to make less than 2 percent of the world's advanced vehicle batteries. In the next five years, we'll make 40 percent of these batteries here in the United States. Before the Recovery Act, we could build just 5 percent of the world's solar panels. In the next few years, we're going to double our share to more than 10 percent.
+
+Here at this site, Solyndra expects to make enough solar panels each year to generate 500 megawatts of electricity. And over the lifetime of this expanded facility, that could be like replacing as many as eight coal-fired power plants. It's also worth noting, to achieve this doubling of our share of solar capacity, we actually need to make four times as many solar panels, because other countries are adding capacity, too. Nobody in this race is standing still.
+
+So these steps are helping to safeguard our environment. They're helping to lower our dependence on oil. At a time when people are struggling and looking for work, these steps are helping to strengthen our economy and create jobs. We all know how important that is, because times here in California are still tough. It's going to take time to replace the millions of jobs we lost in this recession.
+
+Unemployment remains high, even though the economy is growing and has started adding hundreds of thousands of jobs each month. So it took years to dig our way into this hole; we're not going to dig our way out overnight. But what you are proving here -- all of you, collectively -- is that as difficult as it will be, as far as we've got to go, we will recover. We will rebuild. We will emerge from this period of turmoil stronger than ever before.
+
+That's not all. You're also proving something more. Every day that you build this expanded facility, as you fill orders for solar panels to ship around the world, you're demonstrating that the promise of clean energy isn't just an article of faith -- not anymore. It's not some abstract possibility for science fiction movies or a distant future -- 10 years down the road or 20 years down the road. It's happening right now. The future is here. We're poised to transform the ways we power our homes and our cars and our businesses. And we're poised to lead our competitors in the development of new technologies and products and businesses. And we are poised to generate countless new jobs, good-paying middle-class jobs, right here in the United States of America.
+
+That's the promise of clean energy. And thanks to the men and women here today -- and the innovators and the workers all across America -- it's a promise that we've already begun to fulfill.
+
+So thank you very much. God bless you. God bless the United States of America. {APPLAUSE} 
+
+{/speech}

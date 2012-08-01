@@ -1,0 +1,64 @@
+﻿{title} Vice President Delivers the Commencement Address at Natrona County High School {/title}
+{event} Casper Events CenterCasper, Wyoming {/event}
+{speaker} Dick Cheney {/speaker}
+{date} May 27, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Well, thank you, Dr. Lowham, Mr. Moore, members of the school board, faculty, parents and families, and members of the class of 2006:
+
+I want to thank you for that warm welcome this afternoon. And I want to thank my wife, Lynne, for the introduction. It's fitting that she should speak first because her grades were much better than mine. {LAUGHTER}
+
+But it's good to be home again, especially as we gather to honor the newest graduates of Natrona County High School. {APPLAUSE} It's a special day for us all. You've made it one of those milestones in life, and the real joy of the experience is being able to share it with the people who know you best and care about you the most. This is a proud moment for them, as well. So I think we should have a round of applause for the moms and dads of the class of 2006. {APPLAUSE}
+
+Over the last four years you've also had the guidance and the good example of some very fine educators. So I want to recognize and thank the faculty and staff of Natrona County High School. {APPLAUSE}
+
+I've been looking forward to being with you today. It takes me down a trail of memory to look at that picture of our high school, see the orange and black tassels of the class of 2006. I think back to our own graduation ceremony in 1959. Of course, we had a commencement speaker, too -- but darned if I can remember who it was. {APPLAUSE}
+
+But I do remember that my job at graduation was to be one of the student speakers at the ceremony, because I was the class president. That was my first campaign for office.
+
+But the absolute best thing that happened to me at NCHS was that I met Lynne. She was an outstanding student, a champion baton twirler, our homecoming queen in 1958, and in August, we'll celebrate our 42nd wedding anniversary. {APPLAUSE}
+
+Some of you may remember that I was actually born in Nebraska. My family moved to Casper -- {APPLAUSE} Control yourselves. {LAUGHTER} We moved to Casper in 1954 when I was in the eighth grade. I explained to a group of friends the other day that if it hadn't been for that move to Casper, Lynne would have had to marry someone else. And Lynne said, "Right, and now he'd be Vice President of the United States." {LAUGHTER ; APPLAUSE} 
+
+In our day, NCHS was the only high school in Casper. Nowadays, of course, it's just known as the best high school in Casper. {APPLAUSE} My classmates and I were fortunate, as all of you have been, to go to school with the terrific teachers and coaches. I liked sports. I played football and baseball. I was not the fastest player on our football field, but the coach one day praised me. He said I was a great "mudder" -- meaning I could run well in mud. But then he added the only problem was that it never rained in Wyoming during football season. {LAUGHTER}
+
+This is my second commencement speech this week. Just yesterday I joined in the commissioning of nearly a thousand new Naval and Marine officers at the U.S. Naval Academy in Annapolis. {APPLAUSE} I was delighted to learn that a member of this very class has been appointed to the Naval Academy, and I want to congratulate Greg Knopik. {APPLAUSE} And I also want to thank the other members of the class who've enlisted in the military. We appreciate your service to the United States of America. {APPLAUSE}
+
+I'm deeply impressed with this class, all across the board. In these four years you've achieved excellence in academics, art, athletics, drama, and music. You've also proved to be good citizens -- serving in ROTC, volunteering in the community, raising money to help people in need, doing your part to make a difference in the world. The class of 2006 is more than talented and smart -- you're also generous and good-hearted, and a tremendous credit to the city of Casper, Wyoming. {APPLAUSE}
+
+As an alumnus called back to speak at graduation, I can't help but think of my own journey, and a few lessons I've learned along the way. After high school it took a while for me to find a direction in life. I won't go into a lot of detail. Let's just say I did not distinguish myself in those first years after graduation. Eventually I decided to get serious about an education. I enrolled at the University of Wyoming, buckled down, went to work. I was given a second chance, and I needed it. And UW was there to provide it.
+
+So that's one important thing I've learned. Sometimes in life we fall short of the mark, or have a false start, or a taste of disappointment. But if we're ready to take it, life usually gives us a second chance.
+
+I've also been struck by how many times we end up taking a different path than the one we set out on. In that first decade after college I had a plan of pursuing an academic career. The idea of running for office or working in government was not part of the picture at all. Instead, the way Lynne and I saw things, we were both going to stay in graduate school, earn Ph.D.'s, and find jobs as professors. But before long we found ourselves in Washington, and following a journey in government and public life that would not have occurred to us just a few years earlier.
+
+This has been sort of a pattern in my life -- the unexpected opportunities that arise suddenly and set you on a different course. Even in the year 2000, more than 40 years after I finished high school, something entirely new came along. George W. Bush was campaigning for President, and he called and asked if I would help him find a running mate to be his Vice President. Well, we all know how that turned out. And let me put this lesson in very specific terms: If you ever get asked to head up an important search committee, say yes.
+
+I've long since let go of the notion that we can plan out our whole lives. Sometimes we take a new direction because of people we meet, experiences we have, or ideas that come to us out of the blue. And I've found that this usually works to the good. The best part of life is going out and living it.
+
+Even if we cannot predict all the turns that lie ahead of us, I suppose a few things can be counted on. In any productive life you're going to find a lot of hard work, and belief in that work.
+
+On top of a sound work ethic and doing what interests you, another good rule is to stay focused on the job you have, not the next job you might want. In your careers, people will give you more responsibility when they see that you take your present job seriously. Do the work in front of you. Try to find ways to make yourself indispensable. And I can almost guarantee that recognition, advancement, and other good things will follow.
+
+I think there's also a lot of truth to the old wisdom that you should choose your friends carefully. They have a big influence on the kind of person you become. So when you see good qualities in people -- things you admire, habits you'd like to pick up, principles you respect -- keep those people close at hand in your life. In many ways, when you choose your friends you choose your future.
+
+Remember, too, that the best friends you'll ever have are also the first people you ever knew. Nobody understands you better; nobody will ever have your interests more deeply at heart, than your Mom and Dad. Before long, more than a few of you will find yourselves leading busy lives far from home. But whatever the distance in miles, I promise that you will never regret staying close to your parents.
+
+Wherever life takes us, it's also good to keep an eye out for people who can give you advice, or give you a hand, or simply be trusted to help you think and figure out a problem. In this world there is information and opinion -- and then there is knowledge and wisdom. And a lot turns on knowing the difference. I've been fortunate to have some great mentors in my life.
+
+One of them was Stan Hathaway from Torrington, our former governor. Stan gave me my first job in politics as an intern in the Wyoming legislator in 1965. After I came back to Wyoming in the late '70s, I sat down with Stan, told him I was thinking about running for the U.S. Senate. Stan listened to me. He said, well, he said, you could do that, but there's one problem. He said, Dick, if you run for the Senate, Al Simpson will kick your fanny. {LAUGHTER}
+
+I took that advice to heart and ran instead for the House of Representatives. Sure enough, Al Simpson did run for the Senate; and sure enough, somebody else got their fanny kicked. And I didn't tell that -- just how until many, many years later. The decision was mine, and I needed Stan's wisdom to help me think it through. We're always better off if we seek out people who know more than we do, and ask them questions, and take their good advice.
+
+I mentioned Al Simpson, and that brings me to mind a story that illustrates a very important value. It took place some years ago when he and I were serving together in Washington in Congress. They were having a very important vote in the Senate, and the whole matter came down to a single senator who had given his word, but was now feeling a lot of pressure to change his mind. It turned into a quite a scene on the floor of the Senate -- one man beset from all directions by fellow senators trying to make him go back on his pledge. And then Al Simpson, one of the tallest men in the chamber, walked over to the group, looked directly at his wavering colleague and said, "Five years from now, no one will remember how you voted. But they'll all remember if you didn't keep your word."
+
+That kind of wisdom is characteristic of my friend Al, and it's characteristic of the people of Wyoming. I've seen a fair bit of the world since I left here in 1959, with a diploma in my hand and the homecoming queen at my side. But in the way of integrity, common sense, and decency, I've never found a place to set above this one. There's a spirit here that holds up well over time. In Wyoming you find independence, sincerity, loyalty -- and people who will look you in the eye, speak their mind, assume no airs, and are always ready to lend a hand. And here in the open country, people don't just talk about what they want to do -- they do it.
+
+Each one of you grew up with these values all around you. They are part of you in ways you may not even have noticed yet. You're going out into the world with a sense of right and wrong, and you can trust that instinct. In every respect of your life -- in every aspect of your life, do what you know is right, and whatever time brings you, you'll always have your bearings. You'll know who you are, what matters to you, and what you stand for. As long as you carry yourself with that kind of integrity, you'll be a person of character -- and for that reason alone, you'll be a person of success.
+
+With that, I want to congratulate you on earning your diploma. It's been my privilege to share the day with you and your families. You make the home town mighty proud. Good luck and Godspeed to my fellow alumni -- the Natrona County class of 2006. {APPLAUSE} 
+
+{/speech}

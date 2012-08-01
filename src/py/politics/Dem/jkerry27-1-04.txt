@@ -1,0 +1,87 @@
+﻿{title} John Kerry Addresses Supporters {/title}
+{event} ----- {/event}
+{speaker} John Kerry {/speaker}
+{date} January 27, 2004 {/date}
+{source} http://transcripts.cnn.com {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Well, I love New Hampshire. {APPLAUSE}
+
+
+{AUDIENCE-MEMBER} We love you. {/AUDIENCE-MEMBER} 
+
+And I love Iowa, too. {APPLAUSE}
+
+And I hope with your help to have the blessings and the opportunity to love a lot of other states in the days to come. {APPLAUSE}
+
+Thank you. Thank you, New Hampshire for lifting up this campaign and the cause of an America that belongs not to the privileged, not to the few, that belongs to all Americans. And I've... {APPLAUSE}
+
+And let me tell you this victory belongs to all of you who made the phone calls, walked the snowy, cold streets... {APPLAUSE}
+
+... gave your hearts, your hands and countless sleepless nights. {APPLAUSE}
+
+You stayed the course here in New Hampshire. And because of you, this has been a successful and a happy campaign. {APPLAUSE}
+
+And I make this pledge to you tonight: I have spent my whole life fighting for what I think is right and against powerful special interests, and I have only just begun the fight. {APPLAUSE}
+
+{AUDIENCE} Bring it on. Bring it on. Bring it on. Bring it on. {/AUDIENCE} 
+
+I intend to. I will.
+
+So I have a message -- I have a message for the influence peddlers, for the polluters, the HMOs, the big drug companies that get in the way, the big oil, and the special interests who now call the White House their home: We're coming, you're going and don't let the door hit you on the way out. {APPLAUSE}
+
+{AUDIENCE} Go, go, go. Go, go, go. {/AUDIENCE} 
+
+This victory belongs also, in a special way, to the veterans who marched with us. {APPLAUSE}
+
+And they helped to lift us up from the lowest points, to the point where we are today.
+
+I know that all of you will join me in saying a special thank you to Max Cleland and... {APPLAUSE}
+
+In the hardest moments of the past month, I depended on the same band of brothers that I depended on some 30 years ago. We're a little older... {LAUGHTER}
+
+... and a little grayer. But I'll tell you this: We still know how to fight for our country. {APPLAUSE}
+
+And if I am president, I pledge... {APPLAUSE}
+
+{AUDIENCE} When, when, when, when. {/AUDIENCE} 
+
+And when I am president... {APPLAUSE}
+
+... I pledge that those who wore the uniform of the United States of America will have a voice and a champion in the Oval Office. {APPLAUSE}
+
+Now this campaign goes on to places all over this country. And I ask Democrats everywhere... 
+
+{AUDIENCE-MEMBER} We're with you. {/AUDIENCE-MEMBER}
+
+... to join us so that we can defeat George W. Bush and the economy of privilege. {APPLAUSE}
+
+And so that we can fulfill the ideal of opportunity, not just for some, but for all Americans. I ask you... {APPLAUSE}
+
+I ask those of you who are not yet part of this campaign to go to johnkerry.com. {APPLAUSE}
+
+And I want you to march with us across this land and demand a government that's on your side again. That is the mission of this campaign. And together, we can lift our country up, up to the America that all of us know that we can become. 
+
+So stand with me. Stand with me, and together we're going to give America back its future by repealing the Bush tax cuts for wealthy Americans and investing in health care and education, children. {APPLAUSE}
+
+Stand with us -- stand with us, and together we will build a prosperity in this country where Americans are not just working for the economy, but the economy is working for Americans... {APPLAUSE}
+
+... a prosperity where we will reduce the poverty of millions, rather than reducing the taxes of millionaires... {APPLAUSE}
+
+... a prosperity where we create jobs here at home and where we shut down every loophole, every incentive, every reward that goes to some Benedict Arnold CEO or company that take the jobs overseas and stick Americans with the bill. {APPLAUSE}
+
+Stand with us, and together we will give America the fundamental decency of health care that is affordable and accessible and a right and not a privilege, that is available to all Americans. And we will make the same plan available to all Americans that is available to senators and congressmen, because your health care... {APPLAUSE}
+
+Stand with us, and we will fight for an America where Medicare is protected, where health care costs are kept down and where your family's health care is just as important as any politician in Washington, D.C. {APPLAUSE}
+
+Stand with us -- stand with us, and we will give America the security of energy independence, because... {APPLAUSE}
+
+... because no young American in uniform should ever be held hostage to America's dependence on oil from the Middle East. {APPLAUSE}
+
+Stand with us, and we will give America back its truth as a country where freedom really rings, a country of equal rights and civil liberties, where the attorney general is not named John Ashcroft. {APPLAUSE}
+
+
+{/speech} 

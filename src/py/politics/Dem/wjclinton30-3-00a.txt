@@ -1,0 +1,70 @@
+﻿{title} Remarks by the President at DNC Dinner {/title}
+{event} DNC Dinner {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 30, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at DNC Dinner at the Waldorf Astoria {/description}
+
+{speech} 
+
+Thank you, Mark. Thank you, Jeff. And thank you for coming, all of you.
+
+And I wanted to say a special word of appreciation to all of our musicians here. Thank you for playing tonight. You did such a wonderful job. {APPLAUSE} And I want to thank Luther Vandross. We've never had a conversation about "Evergreen," but I think it's the best love song of the last 25 years. {LAUGHTER} And so I was very happy when he sang it tonight.
+
+I want to thank all of you for coming here. And I will be quite brief, because I want to spend time visiting with you and letting you say whatever you want to say to me, or ask questions, or whatever.
+
+But you know, I'm not running for anything this year. {LAUGHTER} And most days, I'm okay about it. I am campaigning to become a member of the Senate Spouses' Club, however. {LAUGHTER ; APPLAUSE} And I'm feeling better about that.
+
+But I want to say just a couple things to you, to amplify what my good friend Ed Rendell said. When I came to Washington in January of 1993, our country was, I thought, in quite a bit of trouble. We had high unemployment, we had high interest rates, we had quadrupled the debt of the country in four years. We had no real, serious technology policy; no real, serious environmental policy; no real, serious long-term economic policy. We certainly had no health care policy.
+
+And our elections were basically -- I thought it almost turned into caricature affairs, where basically for several years, even decades, the Republicans had succeeded in convincing enough Americans that the Democrats were weak on defense, weak on the economy, weak on the budget, weak on welfare, weak on crime, weak on this, that and the other thing. We couldn't be trusted with the White House. And the wheels had to practically come off before any of us could win. And I happened to be standing there when the wheels ran off.
+
+It wasn't quite that simple. But I guess what I would like to say to you is that all of you here in your different ways have been immensely successful, or you wouldn't be here tonight. All of you, also, are capable of looking beyond your immediate self-interest, or you wouldn't be here tonight, because the other guys would give you a bigger tax cut quicker. And yet you're here.
+
+So the first thing I want to say to you is that all these elections are for people to hold jobs. They're not to posture; they're to hold jobs. It matters what your vision of the country is. It matters what your vision of the job is. It matters what you know, and how you go about your business, and whether you care. In other words, it's a job, the presidency.
+
+You know, I want Al Gore to be elected because I know him better than anybody in this room, and most people in the world. And I think he's a good man, and I know he's a courageous person. And I'm devoted to him, and he's been loyal to me -- yes, that's all true. But I also want him to be elected because I think he understands the future, and has not only the ideas, but the experience and the work habits to get us there.
+
+This is a job. It's not a place just of rhetorical or political posturing.
+
+And the same thing is true of the Congress. And I go about doing as much work as I can to try to help all these folks raise enough money to be competitive -- they're all going to be outspent. You know, our candidate for President is going to be outspent. Hillary's going to be outspent. They're all -- no matter how much money we raise, they're all going to be outspent.
+
+But in 1998, we were outspent by $100 million, and we gained seats in the House of Representatives in the sixth year of a President's for the first time since 1822. Why? Because we had ideas, we had a message. People thought we were interested in them, and they thought the Republicans were interested in themselves, and playing Washington power games. And it didn't matter that they had more money; all that mattered was, we had enough.
+
+So I thank you for being here. But I hope that in addition to being here, you'll be able to manifest this commitment throughout this year. Because this is a profoundly important election, this millennial election. And there are real differences between us. The differences that we have, from our nominees for President to the nominees for Congress, including the big Senate race here in New York, over the budget alone, should determine the outcome of the election.
+
+We want a tax cut, all right, but we think it ought to be small enough and targeted enough to help families like those who served us tonight and entertained us tonight to raise their kids, provide long-term care for their parents, get a tax deduction for college tuition, afford better child care, induce people like you to invest your money in poor areas in America so everybody can be part of this economic recovery -- and still have enough money left over to pay this country out of debt for the first time since 1835; to save Social Security and Medicare when all the baby boomers retire and there will only be two people working for every one person retired; to invest in world-class education and stop investing in things that don't work; to make major commitments to science and technology, and to basic research.
+
+So many of you tonight are here because of your achievements in health care, or in the information revolution, the telecommunications revolution, or a combination of both. And I think you share my conviction that we need to continue basic research -- to enable us to build a new energy future for America. This is a huge deal -- you know, this global warming is not a canard. It's not a false threat. It's a reality. And the good news is that for the last several years, it is no longer true that you have to put more greenhouse gases into the atmosphere to grow an economy. In fact, if we were more diligent about building a different energy future, we'd be generating even more jobs, by far. And I won't bore you with a long wonkish solution why, but if you want to talk about it I'd be glad to. It is stunning to me, the prospects that we have.
+
+You know, in a few weeks I'll have the privilege of announcing that the sequencing of the human genome has been completed. What this means is that, I think, within ten years, the practice of medicine will be totally unrecognizable, as we know it. And a lot of you who have been on the forefront of trying to get us to live healthier lifestyles and take more preventive action, it will be a joyous treasure trove of opportunity that will lead to a lengthening of our lives and the quality of life.
+
+So what I'm trying to say to you is there's big, big opportunities out there. But there are not big guarantees out there. Are we going to continue this economic policy, that has brought us to this point, and continue to pay our debt down and continue to be responsible? Or not? Are we going to invest in education and health care, and science and technology, and a different energy future? Or not?
+
+Are we going to assume our responsibilities around the world to try to take the world away from a dangerous future of the proliferation of weapons of mass destruction? Or are we going to agree with the Republican Senate, their presidential nominee and their nominee here, that we shouldn't adopt the Comprehensive Test Ban Treaty -- a historic abandonment by the Republican Party of their normal bipartisan commitment to disarmament? These are big questions.
+
+So I hope that you will embrace this. You know, a lot of you here who have done very well are younger than I am by a good stretch. So I just want to -- I'll close with this story. I try to tell this story every time I have a meeting like this.
+
+We celebrated in February the longest economic expansion in American history -- 21 million new jobs, a 30-year low in unemployment, a 30-year low in welfare, a 20-year low in poverty, a 25-year low in crime. And I was happy as a clam.
+
+But I -- I always try to study the history of my country, as well as to think about the future. So I -- we had the Council of Economic Advisors in there, and I said, well, when was the last longest expansion in American history? And they said, Mr. President, it was the 1960s, 1961 to 1969.
+
+So for those of you who are my age or older, take a walk down memory lane. And for those of you who are younger than me, listen to this. This is a magical moment of opportunity in this country. And most of you are completely immersed in the future, and imagining all these possibilities. And so am I.
+
+But when the last longest economic expansion occurred in the 1960s -- I can tell you; I graduated from high school in 1964. We thought it would go on forever. And we thought it was on automatic. We thought -- we had low inflation, we had low unemployment, we had high growth. We had a civil rights challenge, but we thought it would be solved in the Congress and the courts, not in the street. We thought we would win the Cold War because of our innate and self-evident superiority, and never dreamed the country would be divided over Vietnam. We thought it would just happen -- 1964, when I finished high school.
+
+Within two years, there were riots in the streets over civil rights. Within four years, when I graduated from college, it was two days after Robert Kennedy was killed, two months after Martin Luther King was killed, nine weeks after Lyndon Johnson couldn't run for re-election because the country was split right down the middle over the war in Vietnam.
+
+A couple months later, President Nixon was elected on a campaign of representing the "silent majority" -- which means if you weren't for him, you were in the loud minority, beginning the construct we saw all the way through the 1980s, right to the '92 election, to the '96 election; that you will see in 2000, where the other party tries to divide the American people between us versus them. And I'm supposed to be one of "them" because I believe things like we shouldn't discriminate against gay people, if they're good, God-fearing, taxpaying citizens and they show up and do their duty. I'm for hate crimes legislation. I'm for the employment non-discrimination legislation. So that makes me one of "them" instead of one of "us"? I don't think so.
+
+But that was the portrait of what happened between 1964 and 1968. And within four months after that, the longest expansion in American history was history.
+
+And what I want you to know, you young people here, is, I have waited for 35 years for my country to have the chance to build the future of our dreams for our children. And I am determined to see the politics of America focused on, how can we make the most of the sequencing of the human genome? How can we build a different energy future? How can we bring economic opportunity to the people and places that have been left behind? How can we be a force for peace and prosperity and unity in troubled places around the world?
+
+How can we build one America? That's what I think politics is about.
+
+If somebody asks you tomorrow morning why you were here tonight, I hope you'll give them that answer. This is the best chance you will ever have to build the future of your dreams for your children.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

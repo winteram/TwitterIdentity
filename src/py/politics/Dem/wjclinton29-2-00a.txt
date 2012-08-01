@@ -1,0 +1,51 @@
+﻿{title} Remarks by the President at DNC Fundraiser {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 29, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. {COMMENT="Aircraft noise"} The Republicans control the airlines schedule. {LAUGHTER} Let me say, first of all, I'm delighted to be here. I want to thank Philip for opening his home and for helping our party. I want to thank Chris for helping tonight; I want to thank our great Chairman Ed Rendell, and Andy Tobias for coming down. And I know Andy used to live here, used to tell me how much better the Florida tax system was than most of the places that I lived. {LAUGHTER} 
+
+I want to thank my good friend, Bill Nelson, of many years for running for the Senate, and ask you all to help him. And my friend, Representative Elaine Bloom, one of my first supporters in Florida when I ran for President, is now a candidate for Congress. We've just come from an event for her. I hope you will support her. And I want to thank Congressman Peter Deutsch and his wife Lori for being good friends to me and great supporters over these last several years. 
+
+I'll be very brief because I want to get out here and visit with you and talk and hear what's on your mind. I'm not running for anything and I'm down here. {LAUGHTER} And some people think it's just because I'm a political junky and can't help it. {LAUGHTER} At election time I've got to get wired and go around -- but that's not quite all there is to it. I appreciate what Philip said about how well our country is doing, and I'm grateful for the chance I've had to contribute to that. 
+
+But all of you who have paid any attention at all, not just to economics, but to social problems, to world development, know that we are living in a very dynamic time. Things are changing very rapidly. If you want to continue to do well, we can't just stay in neutral, we have to try to do better. If you want America to continue to do well -- let me say it again -- we have to continue to do better. We have to think of the big challenges that are still out there. We have to think of the bumps in the road we know are out there. 
+
+Here in Florida, I can say we have to imagine what's it going to be like when we double the number of people over 65 in the next 30 years. How are we going to preserve Social Security. How are we going to preserve Medicare. If people are living loner, how can they do it if they don't have access to affordable prescription drugs. If our children are more and more diverse than ever before and you want America to continue to do well, we have to make our schools better. We have to make it possible for more of them to go on to college. 
+
+If you want more and more young people to be able to live the future of their dreams and still be able to raise their children, then we have to do a better job of helping people balance work and family. If you want America to do well at home, we have to do a better job of being a force for peace and freedom around the world. If you're doing well and you want to continue to see the economy expand, we have to sell more of our products overseas and we have to do more to create opportunity here at home for the people and places that have been left behind. 
+
+We're out here tonight and you clapped when our host said he had done well for the last eight years. Unemployment on some of our Indian reservations is still as high as 70 percent. It's still two, three times the national average in many of our inner-city neighborhoods and small rural towns. We ought to bring free enterprise to those people, too. If we don't do it now, we'll never get around to it. 
+
+If you want America to do well, we have to continue to do better in making our streets safer and keeping guns out of the hands of criminals and away from children. Tragic lead story on the news tonight, a six-year-old child kills another six-year-old child in a school. How did the kid get the gun in the first place and take it to school. I don't know the facts, and I'm not criticizing anybody. I'm just pointing out -- you forget about this incident, the accidental gun death rate in America, the accidental gun death rate in America of children is nine time higher than it is in the next 25 largest countries combined. 
+
+We can do better. The crime rate's at a 25-year low; we can do better. I'm not going to be satisfied until every little kid can walk safely on every street in this country, can play safely in every park, until we know we have done all we can to save lives. 
+
+The last thing I'd like to say is, if you want America to do well, we've got to do better at purging our own society of the continuing bigotry that still exists against people because of their race or because they're gay or because of their religion. And sometimes, even because of their political views. 
+
+This is a country that ought to be more committed than any other to that kind of reconciliation. You know, if you want America to be able to make peace from Northern Ireland to the Middle East to the African tribal wars to the Balkans, if you want us to do good around the world, we have to first be good at home. And we have to work on this. 
+
+And I often ask myself when I come to a beautiful home like this, and I see all of you out there and I'm so happy for your success, I say, don't these people know they get a bigger tax cut from the Republicans? {LAUGHTER} And I think the answer is, yes. So why are they here? Number one, I think you really understand economics and you know that it's better to pay the debt down and keep interest rates down and keep capital available for a strong long-term economic recovery. 
+
+But I think also you believe as I do that in a funny way we're all in this together. And I'll just close with these two thoughts. One is, the most important fact I learned in 1999 was at a dinner my wife held as a series of her celebrations of the millennium, where we had a man named Vince Cerf who was the first person ever to send an e-mail. Eighteen years ago, he had a profoundly deaf wife, and it bothered him that he couldn't call his wife when he was at work. And he was a computer wiz, and one of the real creators of the Internet, and he discovered he could send her e-mail and he could communicate. Now, because of the digital revolution, his wife has deeply embedded hearing assistance devices, so that when she was 50 years old she heard for the first time -- in 50 years. 
+
+And the other guy was a guy named Eric Lander who is a scientist and an expert on the human genome. And what they talked about was how the computer revolution and our attempt to decode the human gene go together, and how we couldn't have done the genetic work without the computer work. But the end of it was, Lander got up and said, let me tell you one thing we've found already, and that is that we're genetically 99.9 percent the same, without regard to race; and that if you take racial groups -- say you take in America Latinos, African Americans, and Asians -- the differences between individuals within the group would be greater than the differences from group to group. That's important to remember. 
+
+When I told that story at the State of the Union address, the Republicans and the Democrats looked at each other and they were very uncomfortable to think that they were 99.9 percent the same. {LAUGHTER} But it's important to remember. 
+
+The last point I want to make is this. I've got on my table in the Oval Office -- people come in to meet with me and they sit on couches -- you've seen the couches and the chairs on television. Look the next time, you'll see there's something on the table there, a glass triangle-shaped figure. It's a vacuum-packed container within which is a moon rock that was given to me by Neal Armstrong last year to celebrate the 30th anniversary of his walk on the moon. And it's only on loan, relax. It belongs to NASA. But I'm a big supporter of the space program, so I've got this moon rock there. 
+
+Now, this moon rock is 3.6 billion years old. So when people come in and they see me and they get all up tight, and they're so angry and they're so agitated and everything, I say, wait a minute, time out, look at that rock. It's 3.6 billion years old. Chill out, we're just passing through {LAUGHTER ; APPLAUSE} We're just passing through. 
+
+And I say that not because what they want to do is unimportant, but because it's important the human connection we all share with each other and to maintain a little humility. 
+
+This is a big election, folks. We've turned this country around. It's moving in the right direction. The only way we can continue to do well is if we're committed to do better. It really matters whether we win the House, whether we win those seats in the Senate. It matters profoundly whether we hold the White House. It matters. For all the things I said. 
+
+So if somebody asks you tomorrow why you came, remember we're 99.9 percent the same; remember the story of the moon rock; and remember if we want to continue to do well, we have to be committed to doing better. Thank you very much. {APPLAUSE} 
+
+{/speech} 

@@ -1,0 +1,53 @@
+﻿{title} Gore Endorses Dean {/title}
+{event} ----- {/event}
+{speaker} Al Gore {/speaker}
+{date} December 9, 2003 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Thank you very much. Thank you very much. {APPLAUSE} I'm really proud and happy to be here with you. It's great to be back in Harlem. We shot basketball together one of the last times I was here. 
+
+Howard Dean and I are traveling from here to Iowa, and I'm going to make a more extensive speech at Cedar Rapids a little bit later today, but I said when I announced last year that I was not going to be a candidate for president myself that I would endorse one of the candidates who is running. And I had no idea at that time which candidate that would be. 
+
+But I have watched this campaign and I have listened to all of the candidates. I think it's a great field. There are a lot of great Democratic candidates out there. But what I'm about to say doesn't come as a secret or as a surprise to anybody within the sound of my voice, and that is that Howard Dean really is the only candidate who has been able to inspire, at the grassroots level all over this country, the kind of passion and enthusiasm for democracy and change and transformation of America that we need in this country. {APPLAUSE}
+
+We need to remake the Democratic Party. We need to remake America. We need to take it back on behalf of the people of this country. 
+
+So I'm very proud and honored to endorse Howard Dean to be the next president of the United States of America. {APPLAUSE}
+
+Democracy is a team sport, and I want to do everything I can to convince anybody that is interested in my judgment about who among these candidates has the best chance to win and the best chance to lead our country in the right direction -- I want do everything I can to convince you to get behind Howard Dean and let's make this a successful campaign as a group. 
+
+It is about all of us. And all of us need to get behind the strongest candidate. 
+
+Now, I respect the prerogative of the voters and caucuses and in the primaries and I'm just one person, but I'm offering my judgment.
+
+And I'm also going to say one other thing here. Years ago, former President Ronald Reagan said in the Republican Party that there ought to be an 11th Commandment, "Speak no ill of another Republican." 
+
+Well, now, we're Democrats and we may well not find that kind of commandment as accessible. But to the extent that we can recognize the stakes in America today, I would urge all of the other candidates and campaigns to keep their eyes on the prize. Here we are in Harlem. We need to keep our eyes on the prize.
+
+This nation cannot afford to have four more years of a Bush- Cheney administration. We can't afford to be divided among ourselves to the point that we lose sight of how important it is for America. {APPLAUSE}
+
+What is going on in this Bush White House today is bad for our country. And it's slowly beginning to sink in to more and more people out there. And we don't have the luxury of fighting among ourselves to the point where we seriously damage our ability to win on behalf of the American people this time around. 
+
+Now, one other thing: I've spent a long time thinking about national security and national defense, and I've heard a lot of folks, who in my opinion made a judgment about the Iraq war that was just plain wrong, saying that Howard Dean's decision to oppose the Iraq war calls his judgment on foreign policy into question. 
+
+Well, excuse me. He was the only major candidate who made the correct judgment about the Iraq war. {APPLAUSE}
+
+And he had the insight and the courage to say and do the right thing. And that's important... {APPLAUSE}
+
+... because those judgments, that basic common sense, is what you want in a president. 
+
+Our country has been weakened in our ability to fight the war against terror because of the catastrophic mistake that the Bush administration made in taking us into war in Iraq. It was Osama bin Laden that attacked us, not Saddam Hussein. {APPLAUSE}
+
+Saddam Hussein is a bad guy and he's better off not in power. We're all better off. But it was a mistake to get us into a quagmire over there. 
+
+So don't tell me that because Howard Dean was the only major candidate who was right about that war, that that somehow calls his judgment into question on foreign policy. 
+
+So whether it is inspiring enthusiasm at the grassroots and promising to remake the Democratic Party as a force for justice and progress and good in America, whether it is a domestic agenda that gets our nation back on track, or whether it is protecting us against terrorists and strengthening our nation in the world, I have come to the conclusion that in a field of great candidates, one candidate clearly now stands out. 
+
+And so I'm asking all of you to join in this grassroots movement to elect Howard Dean president of the United States. Thank you. {APPLAUSE}
+
+{/speech} 

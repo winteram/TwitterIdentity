@@ -1,0 +1,34 @@
+﻿{title} Remarks by President Clinton and President Ernesto Zedillo of Mexico in Exchange of Toasts {/title}
+{event} State Dining Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} October 11, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Ladies and gentlemen, I want to begin by again welcoming President and Mrs. Zedillo, and the members of the Mexican delegation. To all of our distinguished guests, Hillary and I are pleased to welcome you back to the White House.
+
+I have known President Zedillo less than a year now, but I feel as if I have known him for a very long time because of the remarkable similarities in our lives, some of which will surprise you; perhaps some of which will amuse you.
+
+Both of us were lucky enough to come from families where everyone worked hard. His mother was a nurse, and so was mine. We both had the chance to do graduate work in England, and both continued our studies at Yale on scholarships. We both married up. {LAUGHTER}
+
+Like her husband, Mrs. Zedillo is a trained economist, and a quite good one. And I thought I would be a pretty good lawyer until I met Hillary. {LAUGHTER} Most important of all, and most unbelievably to me, we both went to Acapulco on our honeymoons. {LAUGHTER} And we both went on our honeymoons not only with our wives, but with our in-laws. {LAUGHTER}
+
+What that says about our judgment, character and vision, I leave for you to determine. {LAUGHTER} But, Mr. President, we clearly have a lot in common.
+
+We are also privileged to lead two great nations whose histories and destinies are intertwined. Our strides are longer and our burdens are lighter because we advance together in partnership.
+
+President Zedillo, you took office at a time of great challenge for your country. You held up a vision of Mexico for the future, a Mexico united in democracy and in prosperity. You also knew that Mexico would have to change to succeed, and you called on the Mexican people to join in your campaign for progress.
+
+Only three short weeks later, financial crisis struck, and pessimists predicted collapse. But while those people were wringing their hands, Mr. President, you and I were ringing each other on the telephone. I knew that you were determined to lead Mexico forward, and we both knew that we were in the fight for the future together. The United States rallied the international community to Mexico's cause, and you, Mr. President, made the courageous and difficult choices that opened the door to recovery without closing the door to reform.
+
+Because of your faith in the people of Mexico, because of your love for your homeland, because of your willingness to lead by example, putting long-term good ahead of short-term gain, Mexico's economy is back on track, and its democracy is stronger than ever. And, Mr. President, the United States is proud to be your partner.
+
+In your inaugural address, you offered the following challenge: Let it be said of us that we have dared have high aspirations, and we knew how to make our dreams come true.
+
+With respect to your achievements, let us raise a glass to your dreams, and honor the President and the people of Mexico, the ties that bind us and the friendship between us, and our common vision and destiny in the future. Viva Mexico.
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

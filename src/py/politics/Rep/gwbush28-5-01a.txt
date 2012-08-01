@@ -1,0 +1,49 @@
+﻿{title} Remarks by the President at White House Memorial Day Breakfast {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 28, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Well, Tony, thank you very much. I appreciate so very much the fine work you are doing on behalf of the veterans for America. I knew that I made a pretty good selection when I picked Tony. I didn't realize that so many would agree with me so quickly, and I thank you very much for taking on such a tough assignment. 
+
+I am also honored that the Secretary of Defense is here. Mr. Secretary, thank you, and thanks for bringing your great wife as well. I'm pleased to know that Mel Martinez and his wife are here, another Cabinet secretary, as well as Ann Veneman and Tommy Thompson, head of Health and Human Services. Thank you all for being here today. Jenny, thank you for your kind prayer. 
+
+Senator Dole, it's great to see you, sir. I'm really pleased you brought your better half. {LAUGHTER} Elizabeth is one of our all-time favorites. I know you've worked hard for this moment and I want to thank you for being here. I see Freddie Smith as well, who you did a fine job of twisting his arm to take over the head of the World War II Memorial Fund. And thanks, Fred, so much for your hard work. 
+
+I'm glad members of the Congress who are here -- I thought most of you were trying to escape town, but some of you stayed behind to help celebrate this occasion. Senator Hutchinson from the great state of Arkansas is here and thank you very much, Tim, for being here. Senator Bob Smith, thank you, sir, for coming. Senator Ted Stevens, I appreciate so very much, you being here. And, of course, the Chairman, John Warner, thanks for coming. Members of the House, Cass Ballenger and Ralph Regula, Ike Skelton and Chris Smith are here as well. Thank you all for coming. 
+
+I've got to say something about an ex-congressman. I just saw Sonny Montgomery sitting here and, Sonny, you may not be in the House but a lot of people wish you still were, and thanks so much for being here. 
+
+I want to thank the members of the Joint Chiefs who are here. I also want to thank all the World War II vets who are here. And if you wouldn't mind standing, I wish you would, please. {APPLAUSE} 
+
+William Smit, an ex-POW, and Joseph Alexander, a defender of Bataan and Corregidor are here. You just stood, but I want to thank you two gentlemen for coming as well. 
+
+I want to welcome everybody to the White House. Laura and I are so honored you are here this morning. Later today, I will lay a wreath at the Tomb of the Unknowns, one of the many acts of remembrance that will mark this day. Many of you will be there and thank you for coming, not only here but there as well. 
+
+Each of you is not only a veteran in this room, but each of you is a servant to other veterans, and for that our nation is grateful. America's veterans have earned not only honors but specific benefits, and those only become more necessary with the years. 
+
+My administration will do all it can to assist our veterans and to correct oversights of the past. My budget provides a significant increase for health care at the Department of Veterans Affairs, where Senator Principi is very much in charge. We are making considerable progress on implementing the Veterans Millennium Health Care Act. And the Secretary -- did I say Senator Principi? {LAUGHTER} Always worried about that balance of power. {LAUGHTER ; APPLAUSE}
+
+Secretary Principi has begun a top-to-bottom review of VA claims processing in order to identify weaknesses and areas of improvement. 
+
+These are good first steps, but they are only first steps. We must also improve the way the VA and the Department of Defense work together to provide care to those who have served in uniform. I am today announcing the creation of a presidential task force to recommend major reforms in the delivery of health care to veterans and military retirees. {APPLAUSE} 
+
+I have asked two distinguished Americans to lead it. Dr. Gail Wilensky is a prominent expert on health policy and a faithful friend to veterans. She will work with Gerry Solomon, who is a long-time advocate for veterans and a former congressman. One might be tempted to call him an ex-Marine, but we all know there is no such thing as an ex-Marine. {LAUGHTER ; APPLAUSE} I'm honored that both have agreed to serve. I am honored they are both here. Please stand. Thank you for coming. {APPLAUSE} 
+
+America really has been given so much. Yet, of all our assets, resources and strengths, none have counted more than the courage of our young soldiers in the face of battle. They have cleared the seas, crossed the rivers, charged the hills and covered the skies and they have never let America down. 
+
+I know that those who have seen war are rarely eager to look back on it, and the hardest memories of all concern those who serve their country and never live to be called veterans. Yet memory is our responsibility. We are in their debt more than a lifetime of Memorial Days could repay. Their sacrifices left us with a duty that goes on through the generations, to honor them in our thoughts and our words and in our lives. 
+
+We have been given that opportunity this morning. On your way to Arlington National Cemetery, you will pass the Mall where our nation raised up memorials to Washington, Lincoln and those lost in Vietnam. That same Mall will soon be the site of the World War II Memorial. 
+
+The generation of World War II defeated history's greatest tyranny, leaving graves and freedom from Europe to Asia. Our nation must always remember their heroism and humility and terrible suffering. And that memory must be and will be preserved on the Washington Mall. {APPLAUSE} 
+
+The World War II Memorial has been in the works for a long time. The Congress of the United States has acted to remove the obstacles and begin the project. What is required now is a signature, and I am glad to give it. In the sixtieth year after Pearl Harbor -- {APPLAUSE}
+
+In the sixtieth year after Pearl Harbor, it is my huge honor to set my name on this bill, ordering construction of a monument that will stand for the ages. Not only will I sign the bill, I will make sure the monument gets built. Thank you all for coming. {APPLAUSE} 
+
+{/speech} 

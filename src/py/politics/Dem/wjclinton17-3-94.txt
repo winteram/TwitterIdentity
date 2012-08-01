@@ -1,0 +1,52 @@
+﻿{title} Remarks by the President at Advertising Council Event {/title}
+{event} Advertising Council Event {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 17, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Advertising Council Event {/description}
+
+{speech} 
+
+Thank you very much, Alicia. I think your family is here with you -- your family members, would you all stand up. Thank you for coming here with her. {APPLAUSE}
+
+I want to thank Alicia for that remarkable performance. You know what I said to her when I saw the PSAs? The same thing all of you are thinking -- I said, the one with you in it was a whole lot better. {LAUGHTER}
+
+This is the culmination of a long effort by good people who want to do something about this terrible problem. I thank Phil Geier, the chairman of the Ad Council, and all those who comprise that Council and who support this work. I want to thank Jack Calhoun for the work he's done and the 123 organizations that make up his Crime Prevention Coalition and for his remarkable remarks here today.
+
+I thank Saatchi and Saatchi for the work they did and others -- members of the Creative Community who are here with us today who have done their own public service announcements, changed their programming, made a common commitment in an earlier meeting with the Vice President and me to try to make a sustained effort to change the culture of violence that is gripping our country.
+
+I want to say a special word of thanks and greeting to the chairman of our Corporation for National Community Service, Eli Segal, who is in Miami at the 7th Annual Youth Crime Prevention Conference. With 1,200 officers, teachers, community leaders and others active in crime watch projects, peer counseling, drug prevention programs and others, these people are going to have to carry a lot of the future of our common efforts to reduce violence in America.
+
+You know, if you just read the big headlines in the papers today, a lot of them are very good. There's more growth, more jobs, more opportunity, a real sense of recovery in the country. But we will never become the country we ought to be if we lose another generation of our children to the violence that killed so many and holds the rest hostage.
+
+I can tell you as the father of a teenager, every teenager in the country talks about this issue at home at night, discusses it over the dinner table, is concerned about it, worries about whether they have friends that are going to fall victim to crime. And this is an incredible burden -- a burden you can see in the eyes and hear in the voice of Alicia; one that imposes on those of us who are grown an inordinate responsibility to change the conditions and the attitudes which have produced this incredible range of violence.
+
+We now have a higher percentage of our people in prison than any country on the face of the Earth. No other nation has so high a percentage of their people in prison. And yet we worry that we don't have enough jail space and we have to build more.
+
+The broadcast, the cable networks that are here who are supporting this effort and who will make time available are helping us to begin to make a difference. I want to say a special word of encouragement and thanks to them because they've done so much to help change our country for the better with other such campaigns -- the campaign to reduce smoking, the campaign to increase seatbelt use, the campaigns to remind so many young people that a mind is a terrible thing to waste, or friends don't let friends drink and drive.
+
+President Roosevelt once said if he hadn't gone into politics he would like to have had a career in advertising. President Kennedy generated his first Peace Corps volunteers through ads like this. Messages can speak to dreams and respond to fears and bring people out of their shells. I hope that we can do that here today.
+
+This industry, the entertainment industry, is working hard now to help America reduce violent behavior, by showing young people that there are alternatives to violence. They can help us in the search for a safer and a saner land.
+
+To change people have to have a willing heart. We're working hard here on a crime bill which I hope so much will be passed soon to put more police officers on the street, to take more assault weapons off the street, to try to change the conditions in communities that exist by giving communities opportunities to help young people have something to say yes to instead of just something to say no to. But we have to have more willing hearts.
+
+The cable industry will air these ads on 32 cable networks. The networks themselves have committed a high level exposure. Already 2,000 movie theaters have agreed to show the PSA on their screens. And we are now getting offers to put these PSAs on movies that are rented at video rental stores.
+
+The motion picture association of American, under the able leadership of Jack Valenti and the video software dealers are really going to do a lot of good work on this. These commitments are new and unprecedented. I think they reveal an understanding by people in the entertainment industry that our children have an share with us daily.
+
+We somehow have to find a way to encourage young people to settle arguments with words instead of weapons. We also have to encourage their parents to do the same thing, for domestic violence is still the cause of a lot of these killings. We have to show adults how common sense can ease tensions. We have to help communities set up programs to deal with this.
+
+Last week, I was in Brooklyn College with nine people who are giving their lives to various efforts to help people turn away from violence. I just want to mention two of them to you. I met a women named Clementine Barfield from Detroit, who had two sons, two of her teenage sons shot, and one killed in gang fighting. She is devoting her life to try to reach kids to make sure not only that they don't become victims like her son, but they don't become killers like the people who killed her sons.
+
+I met a young man named Sherman Spears from Oakland, California, who is confined to a wheelchair, has had one leg amputated, lost the use of one of his eyes, often still in pain because he was caught in the cross-fire of a gun shooting. He is devoting his life to an organization which reaches out to victims and tries to tell them not to retaliate, not to seek vengeance, not to seek revenge; that no one ever gets even, and you have to go on with your lives.
+
+These are the kinds of people we want to support. We will send specific suggestions to anyone who responds to the 800 line -- it's 1-800-WE-PREVENT. It's mentioned in the ad, and it's very important because the people who are going to air the ads can't do the grass-roots one-on-one work after the air is quiet.
+
+In closing, let me just say this -- you probably heard Alicia Brown say this, I want to reemphasize it. In a few moments, she is going to the funeral of her sixth friend to die from gunshot wounds -- a 14-year-old child -- not in a war zone in a far away country, not in Somalia, not in Sudan, not in Angola, not in Burundi, not in Sarajevo, but in the capital of the greatest nation on the face of the Earth.
+
+That is what has become of childhood, my fellow Americans. While the rest of us have pursued our dreams in life, had our families, raised our children, enjoyed the fruits of freedom, that is what has become of childhood. It is indecent; it is unacceptable. We can do something about it. And we owe it to them to do it.
+
+Thank you very much. 
+
+{/speech}

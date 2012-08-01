@@ -1,0 +1,30 @@
+﻿{title} Vice President's Eulogy for Former Senator Thurmond {/title}
+{event} First Baptist Church, Columbia, South Carolina {/event}
+{speaker} Dick Cheney {/speaker}
+{date} July 1, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+We are here to honor the memory of a man whose life was rich in years, whose career was filled with accomplishments; and whose calling was to serve his state and his country.
+
+There has never been a political career quite like Strom Thurmond's -- and unless medical science unlocks the secret of his vitality and energy, there probably won't be a career like his ever again.
+
+Strom was born in 1902 when the flag had 45 stars and Theodore Roosevelt was President. He began his career in the 1920s when Calvin Coolidge occupied the White House. He attended the Democratic National Convention in 1932 and voted for Franklin Delano Roosevelt; became Governor of South Carolina in 1947, during the Truman years. He was elected to the United States Senate in 1954 when Dwight Eisenhower held office. And Senator Thurmond celebrated his 100th birthday last December at a White House party hosted by President George W. Bush.
+
+In all, America had 18 presidents during Strom's lifetime, including 10 who held office while he was a senator. And Strom himself received 39 electoral votes in his own bid for the presidency against Harry Truman and Tom Dewey in 1948.
+
+Strom spent more than seven decades in the political arena, and his political history is filled with firsts, from being the first person ever elected to the Senate on a write-in ballot, to becoming -- at age 94 -- both the oldest and the longest serving senator in history.
+
+Strom was a man of deep convictions. And no issue mattered more greatly to him than the security of our nation. He volunteered for combat in World War II; flew behind enemy lines in a glider during the Normandy invasion; and captured German soldiers at gunpoint. He earned 18 decorations for his military service, including the Bronze Star for Valor. And he became a major general in the United States Army Reserves. Strom cared deeply about our soldiers, sailors, airmen and Marines. And he acted on that concern during his decades of service on the Armed Services Committee. I remember from my time as Secretary of Defense that we could always count on Senator Thurmond to stand up for a well trained and well equipped military. And in this time of challenge for our country, when we have had to call upon the skill and bravery of our people in uniform, we've seen the quality force that Strom Thurmond helped to build. All Americans are grateful to our military, and I know that all branches of the service are grateful to their faithful advocate from South Carolina.
+
+Strom was devoted to the people of his state, and he did everything in his power to ensure that they got their fair share of federal funds -- and maybe just a tad extra. {LAUGHTER} "We looked out for our state," he once said, "and everything that was honorable to get, we got." Not surprisingly, the voters returned him to office at every opportunity. Yet I am convinced that in all of those decades of service, Strom never once took his office or his constituents for granted. He was sincerely grateful for the chance to serve, and we saw that gratitude every day in Strom's daily work ethic. It was a life of steady, tireless effort on behalf of South Carolina and its people.
+
+In Washington, those of us who worked with Strom knew him as his neighbors knew him, not just as a conscientious public servant, but also as a human being who was unfailingly courteous to others and had a kind word for everyone he ever met. We have thought of him so many times in these months since he left the Senate. And regardless of party or point of view, we always remember him with fondness and respect.
+
+Strom Thurmond lived a hundred years. And he managed to pack an extraordinary amount of living into those years. He was a senator, a governor, a state legislator, a Democrat, a Republican, and a third-party presidential candidate. He was a farmer, a teacher, a circuit judge and a war hero. He was a beloved husband, father and grandfather. And always, and above all, he was a proud and brave America patriot.
+
+Strom Thurmond's name will live on in American history, and in the memory of all who were privileged to know him. We mourn his passing, but we take comfort in knowing that another chapter has just begun, and that this chapter will be far longer than the many days he spent on this Earth. 
+
+{/speech}

@@ -1,0 +1,22 @@
+﻿{title} Remarks by the President and the Vice President at St. Patrick's Day Reception {/title}
+{event} St. Patrick's Day Reception {/event}
+{speaker} Joe Biden {/speaker}
+{date} March 17, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+It's an honor to be here. It's an honor to be here with two great leaders, to welcome the Taoiseach and to celebrate the friendship between -- between our two great nations; two nations that in my case both most define who I am.
+There's an Irish proverb that says, "There is no strength without unity." And today we celebrate the strength, the rise, and the unity the Irish and the American people have shared for centuries.
+Now, actually, it was from the very beginning. We all know about the importance of St. Patrick's Day in Irish history, but today is a pretty significant day in America, as well. It was on March 17, 1776, I'm sure you all know, that British General Howe evacuated Boston in the Revolutionary War -- {APPLAUSE} -- paving the way for our ultimate victory. And the password, literally, the password at General Washington's encampment that day was "St. Patrick."
+Now, St. Patrick's Day has been entwined in American history literally since our birth. So when America's -- Americans are all done up tonight in Kelly green, involved in revelry outside and inside the White House, I'm sure it's likely a result of their keen desire -- keen desire -- to more deeply understand the Revolutionary War here in America. {LAUGHTER} Or maybe not -- maybe not. {LAUGHTER}
+For me, of course, St. Patrick's Day and the Irishness it celebrates are inextricably part of my character and many of you, as well, as well as the President. It's part of my history, as it is for many of you here tonight.
+My mother, Catherine Eugenia Finnigan Biden is the soul, spirit and essence of what it means to be an Irish American, in my view. She's spiritual, she's romantic, she honors tradition and she understands that the thickest of all substances is blood, and the greatest of all virtues is courage.
+She taught me and every child who walked through her door that bravery lives in the heart of every one of us, and you should fully expect it to be summoned one day. She taught me that at some point failure in everyone's life was inevitable, but giving up was absolutely unforgivable.
+It's funny, I think a little bit later she may have been tutoring President Barack Obama on the side -- {LAUGHTER} -- for he shares precisely that same ethic. It's an ethic that is not unique to us Irish, but it's one we embrace fully. It's an ethics of -- an ethnic of toughness and compassion, intellect and humor, deep honor and a deeper commitment to those around him. That's who he is.
+Come to think of it, maybe he should put, as it was said earlier today, an apostrophe after the "O" in his name. {LAUGHTER} As a matter of fact, we were kidding in the other room, and Michelle was recalling how she once introduced Jill as "Jill O'Biden." {LAUGHTER} So I could use an "O," as well, Mr. President. {LAUGHTER}
+Seriously, though, there's another old Irish proverb, and it goes like this. It says, "A friend's eye is a good mirror." A friend's eye is a good mirror. I hope that's true, because when I look into the President's eye, I sure like what I see reflecting back.
+Ladies and gentlemen, it's my honor to introduce my friend and yours, the President of the United States of America, Barack Obama. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,52 @@
+﻿{title} Press Conference by the President {/title}
+{event} The East Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 8, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good afternoon. Please be seated. Before I begin I'd like to ask the Vice President and Leon Panetta and Erskine Bowles to join me up here. In no particular order. {LAUGHTER}
+
+Let me begin by once again thanking the American people for the honor they have bestowed upon me and the responsibility they have once again placed in my hands. I will work hard over the next four years to uphold their trust, to protect our shared values, and to meet our common challenges.
+
+To do that, I want our administration to be able to serve the American people as well in the next four years as we have in the past four. I must, therefore, begin by announcing that Leon Panetta, who has been my Chief of Staff since 1994, will be resigning to return to California.
+
+I understand why he wants to return home, after so many long years and long hours, but that doesn't make it any easier for me to see him go. No one in recent memory has better served the administration -- any administration -- or the American people than Leon Panetta in what is perhaps the most difficult of all the jobs in public service in Washington today.
+
+As a civil rights official, a distinguished member of Congress, an OMB director, Leon Panetta brought his sharp mind and his huge heart to bear on every task he ever undertook. He became my Chief of Staff at a difficult time. He leaves with a remarkable record. Deep reduction in the deficit, millions of new jobs, a strong defense of programs for those in need, including food stamps -- all these bear Leon's stamp.
+
+Just as important as the work he did was the way he did it. He saw our White House staff as a family. They returned his devotion. His easy laugh and his level head kept our priorities straight and our spirits up.
+
+He and I have often had the opportunity to wonder at the miracle of America that took us this far. He is a child of immigrants who came to this country in search of a better life and found it in the walnut groves of California. He has become my great friend, more than my countryman, more than my fellow Democrat, more even than my fellow worker. In the language of his people, he is my paison. {LAUGHTER} And I love him very much.
+
+To Sylvia, Christopher, Carmelo, Jim, Elizabeth, Christina, and the grandchildren, Michael and Elizabeth, I know how proud he is of you, and you must be very proud of him.
+
+To succeed Leon Panetta, I wanted someone of stature, intellect, dedication, drive, and the capacity to do this virtually impossible job -- both a manager and a leader. I'm proud to announce that I am naming Erskine Bowles as the next White House Chief of Staff. He's combined brilliant business success and dedicated public service. As an investment banker, he recognized that our success come not just from our big firms, but from small and medium-size ones, entrepreneurs with energy and ideas. He worked hard to give the opportunity to start new businesses and to expand the ones they were running.
+
+When I became President, I wanted to transform the Small Business Administration from a political backwater to an engine of economic growth. Erskine Bowles did it beyond my wildest expectations. He revitalized the SBA. He doubled the loan volume. He dramatically increased loans to women and minority business owners, even as he cut paperwork and trimmed bureaucracy.
+
+I then asked him to serve as the Deputy Chief of Staff. He was one of those most responsible for bringing focus and direction to our efforts. Quietly, behind the scenes, he led our effort to educate the public on what was at stake in last year's budget fight. Through it all, he became my close friend and trusted adviser. He returned to North Carolina to be with his family, to start a new business, and continue his work for the Juvenile Diabetes Foundation, which he had previously served as president.
+
+I know how much Erskine Bowles loves private life. I know that I have asked from him a real sacrifice, and not only from him but also from his wife, Crandall, and his children, Sam, Anne and Bill. But his country needs him and I need him. I have absolute faith in his ability to do this job. He will bring discipline, focus and deep values to the work. He will help us finish the job the American people sent us here to do. In a sense, this is a homecoming for him, for Erskine is a part of our family here and I'm happy to have him back.
+
+As Leon will tell you, I expect a lot of the Chief of Staff. I kept Leon Panetta up until 6:00 a.m. in the election morning playing hearts. {LAUGHTER} Yes, Erskine Bowles can play hearts. {LAUGHTER} He also plays golf, but he plays golf better than he plays hearts. I prefer to focus on his hearts playing. {LAUGHTER}
+
+It has become more apparent than ever that our country is moving forward with confidence and vigor toward the 21st century. It has become more apparent than ever since the election that the American people want us to fulfill our responsibilities as Democrats, Republicans and independents second and Americans first -- to set aside our differences and join hands to make the most of this moment of possibility.
+
+That's how we achieved so much at the end of the past Congress. Just think of what happened -- historic welfare reform, a minimum wage increase, dramatic expansion of pension opportunities for people in small businesses, the adoption tax credit, the extension of the Brady Bill to cover incidences of domestic violence, the Kennedy-Kassebaum health care reform bill that let's people keep their health insurance as they change jobs or when someone in the family has been sick; an end to the drive-by pregnancies and deliveries where people are kicked out of the hospital after only 24 hours; help for families with mental health needs; and assistance to Vietnam veterans' children with spina bifida. All this happened and shows you what we can do if we work together to give our people the tools they need to make the most of their own lives.
+
+It's a good sign for America that all parties now say they want to reach common ground. And I want us to forge a partnership to produce results for the American people. On Tuesday our people voted for the ideas of the vital American center. Now let us make that vital center the place for the vigorous actions to move us into the 21st century.
+
+We should begin with our most pressing challenges -- balancing the budget, giving our children the world's best education, opening wide the doors of college to everyone willing to work for them, finishing the job of welfare reform, passing real campaign finance reform. Nothing is more fundamental than balancing the budget. Our progress has already produced lower interest rates, steady growth, expanded homeownership. Now we must keep our economy going steady and strong by finishing the job of balancing the budget in a way that truly reflects our values.
+
+I am inviting the bipartisan leadership of Congress to meet with me next week here at the White House to discuss how we can develop a plan together to pass a balanced budget and to keep our economy going. I've asked Leon Panetta and OMB Director Frank Raines to coordinate this effort.
+
+I want these negotiations to cover a broad range of issues involved in balancing the budget, including strengthening the Medicare trust fund, cuts in spending, and a tax cut. I believe our highest priority must be education, especially college opportunities. As I told the American people, we should make the 13th and 14th years of education as universal as a high school diploma is today. So will work to see to it that this balanced budget includes the education tax cuts I outlined during the campaign, which had very broad and overwhelming support among the American people.
+
+I will also discuss with the congressional leadership how we can enact bipartisan campaign finance reform as soon as possible. We clearly have a unique moment of opportunity now, when the public and you in the press are focused on this issue. Now is the time to seize it, before the moment fades. The American people will be watching to see whether our deeds match our words.
+
+The lesson of our history is clear: When we put aside partisanship, embrace the best ideas regardless of where they come from, and work for principled compromise, we can move America not left or right, but forward. That is what I am determined to do. 
+
+{/speech}

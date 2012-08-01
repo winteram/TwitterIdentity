@@ -1,0 +1,40 @@
+﻿{title} Vice President's Remarks at a Remembrance Ceremony for Veterans Day {/title}
+{event} Tomb of the UnknownsArlington National CemeteryArlington, Virginia {/event}
+{speaker} Dick Cheney {/speaker}
+{date} November 11, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Members of the Cabinet, members of Congress, members of the Armed Forces, veterans, fellow Americans: thank you for the warm welcome. It's a high honor to join in this ceremony, and to be in the company of so many veterans of the United States military.
+
+It is fitting that we gather at Arlington National Cemetery, for it is the final resting place of thousands of our veterans. Near us are President John F. Kennedy, General John J. Pershing and General Marshall, Major Audie Murphy, and Chief Justice William Rehnquist.
+
+All around us today are reminders of the men and women who stepped forward, in every generation, to serve the United States and the cause of freedom and who as veterans continue to make a contribution for the welfare of our nation.
+
+Each year, on the 11th of November the American people pause to recognize the veterans who served across the years. And we offer special thanks to those who still walk among us. Approximately 25 million of our fellow citizens once carried the title of Marine, soldier, airman, sailor, Coast Guardsman, National Guardsman, Merchant Mariner, and now carry the title of veteran. We know them as our neighbors, friends, colleagues, and family members. They make us proud to be Americans.
+
+Many of our veterans served in a great war in the middle of the last century. You are the ones who fought in Europe and the Pacific to throw back tyrants, to answer aggression, and to liberate millions. Others of you defended our interests in the mountains of Korea, or in the jungles of Vietnam, or during the long vigil of the Cold War, or in the caves of Afghanistan and the sands of the Middle East. Whenever and wherever your service took place, you earned this nation's respect on the day you first put on the uniform -- and you still have our respect today.
+
+America is still home to a few who served in uniform during the First World War, which came to an end 87 years ago today. Their ranks have grown very thin, yet this nation will never forget all they did for us. One of these gentlemen, Emiliano Mercado del Toro, recently celebrated his 114th birthday. {APPLAUSE} He is believed to be the oldest man in the world, and he is a proud veteran of the United States Army. {APPLAUSE}
+
+America's military veterans served our country in many different circumstances -- from intense battlegrounds, to the high seas, to far-away landing fields, to bases closer here to home. Yet all of them, throughout their service, shared the same fundamental commitments. They took an oath to serve a cause greater than self-interest. They lived by a code, and dedicated themselves to the highest standards of discipline and loyalty, diligence and faithfulness to duty. And they stood ready, if duty required it, to fight and to die for our country.
+
+Because such men and women have always been willing to serve, our nation has been able to win freedom for others, to hold off the ambitions of the violent, and to keep the peace in troubled places. And above all, thanks to our veterans, the people of this great nation have lived in freedom for 229 years. We owe them our liberty.
+
+Veterans understand profoundly the meaning of service and sacrifice -- so they are not the kind of people who take life for granted. And they, along with all Americans, hold a special place in memory for those who fell in the line of duty, many of whom also rest here in Arlington.
+
+A few moments ago I presented a wreath at the Tomb of the Unknowns, as a symbol of this nation's respect for those who never lived to be called veterans. Marine Joe Foss, who earned the Medal of Honor in World War II, used to say, "Those of us who lived have to represent those who didn't make it." And this, also, is a sign of the character of our veterans. Across this country, in communities of every size, military veterans show the very ideal of good citizenship.
+
+Veterans are comfortable with responsibility and gladly accept positions of leadership. They look out for each other, and move swiftly to the side of fellow citizens in need. They build and care for war memorials. They stand behind our men and women in uniform, and welcome home our returning soldiers. They give moral support and encouragement to those who have come home with injuries and who face a hard road ahead. And they provide a daily example of dependability, physical and moral strength, and unselfish courage.
+
+Americans appreciate these qualities even more during a time of war. In this young century, our nation has seen what harm our enemies can inflict, and the kind of destruction they still intend for free nations. And we are deeply grateful to the men and women who rise every day in defense of America and our friends. Today's generation of American service members are performing their duties with skill, with effectiveness, and with honor. They are deployed on many fronts in the war on terror, tracking the enemies of freedom and holding them to account. They have taken down two dictatorships and liberated 50 million people from tyranny. And at this hour they continue their work -- striking hard against the forces of murder and chaos, conducting raids, countering attacks, seizing weapons, capturing killers. Members of the active duty armed forces, National Guard, and reserves have faced hard conditions -- tough duty, long deployments, and the loss of comrades. Our nation has said farewell to some of our finest, and we mourn their passing. We grieve with their families. We will honor their memory forever.
+
+Many times since this war began, the people of the United States have learned of heroic actions taken by members of our military. There is simply no way to overstate the quality and the bravery of their performance. Difficult missions are still to come, and we cannot know every turn that lies ahead. Yet we can be certain that by the resolve of our country, by the rightness of our cause, and by the character of our fighting forces, we will prevail. {APPLAUSE}
+
+Well over two centuries have passed since George Washington first took command of the Continental Army. Yet we can see in today's military the same virtues that won this nation our independence, and which have safeguarded our country despite all the challenges of history. The men and women who wear the uniform in the year 2005 follow in a long, honorable, and unbroken tradition of service passed down to them by our veterans. To every veteran, this nation owes a debt we cannot possibly discharge but we will always acknowledge. And so on this day of reflection and appreciation, on behalf of the President, I offer the nation's esteem and gratitude to all the veterans of the United States Armed Forces.
+
+Thank you very much. 
+
+{/speech}

@@ -1,0 +1,54 @@
+﻿{title} Remarks by the President at White House Medal of Freedom Awards Ceremony {/title}
+{event} The East Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 9, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Ladies and gentlemen, welcome to the White House. It's a great pleasure for Hillary and for me to welcome all of you here, but especially our distinguished honorees and their families; members of Congress who are here --Senator Lugar, Congresswoman Collins, Congressman Conyers, Congressman Dellums; Secretary Christopher, Secretary Shalala and Secretary Cisneros.
+
+We're here to award the highest honor our nation can bestow on a citizen, the Presidential Medal of Freedom. President Harry Truman established these awards as a tribute to those who helped to win the fight for democracy in World War II. President Kennedy elevated the medals to honor contributions by citizens to all aspects of American life.
+
+Although we confer these medals today on worthy individuals, we recognize even more than individual achievement. We honor the American values that unite us as a people -- opportunity and responsibility; a community in which all have a part; determination, dedication and loyalty; faith, courage and country. We are honoring renewed faith in the freedom that has brought this nation this far, and the freedom that will sustain us into the next century.
+
+William Faulkner once said that we must be free not because we claim freedom, but because we practice it. The 11 men and women we honor today have raised the practice of freedom to new heights. I would like to introduce each of them to you now.
+
+As the Archbishop of Chicago, Joseph Cardinal Bernadin, is one of our nation's most beloved men and one of Catholicism's great leaders. When others have pulled people apart, Cardinal Bernadin has sought common ground. In a time of transition in his Church, his community, his nation and the world, he has held fast to his mission to bring out the best in humanity and to bring people together.
+
+Throughout his career, he has fought tirelessly against social injustice, poverty and ignorance. Without question, he is both a remarkable man of God and a man of the people.
+
+Fifteen years ago, James Brady was at President Reagan's side when a would-be assassin nearly killed them both with a handgun he had purchased at a gun shop. But Jim Brady is living proof that courage and determination were stronger than the assassin's bullet. Since that day, Jim and his wonderful wife, Sarah, who is with us today, have waged a moral and political battle to save lives and to keep handguns out of the hands of criminals. His life is a testament to bravery and every American family and every American child is safer because of it.
+
+I don't think it's an exaggeration to say that Millard Fuller has literally revolutionized the concept of philanthropy. Twenty years ago he founded Habitat For Humanity to provide decent homes for disadvantaged people. To fund this plan he didn't ask people for their money; instead, he asked for the sweat of their brows. In return he gave them something no tax deduction ever could -- tangible proof that they had improved someone else's life with a home.
+
+Hillary, the Vice President, Tipper and I, like so many Americans, have all swung hammers for Habitat For Humanity, and I was honored to sign a law passed earlier this year to provide the first federal support for land and infrastructure for Habitat. It's an interesting testament to Millard, to his wife, Linda, to all the wonderful people at Habitat that the three people who testified in favor of the law were Millard Fuller, Henry Cisneros and Newt Gingrich. They did a good job at bringing America together, and we are all the beneficiaries of Millard Fuller's vision.
+
+Physician, scientist and educator, David Hamburg has devoted his life to understanding human behavior, preventing violent conflict and improving the health and well-being of our children. At Stanford he did pioneering work in the biology of mental illness, and went to Tanzania to rescue four biology students who had been kidnapped there. He has worked to avoid all kinds of violent conflict, from nuclear war to ethnic strife. He has used his presidency of the influential Carnegie Corporation to support efforts for better parenting, strong families and stronger childhoods, focusing especially on early childhood and adolescence. He is a truly remarkable man and a genuinely effective humanitarian.
+
+Ten years ago I had the honor of recognizing John Johnson for his contributions as a native of our native state, Arkansas. John rose from poverty in Arkansas and Illinois to become one of the world's greatest pioneers in media, founding the landmark magazines Ebony and Jet. He gave African Americans a voice and a face, in his words, "a new sense of somebody-ness," of who they were and what they could do, at a time when they were virtually invisible in mainstream American culture. A humble man, despite becoming the most influential African American publisher in history, he continues to inspire young African Americans to succeed against the odds and to take advantage of their opportunities.
+
+Speaking of opportunity, hardly anyone has ever done more personally to give people who didn't have it, opportunity, than Eugene Lang. In 1981 he made a simple promise to pay the college tuition of every student from his East Harlem alma mater who graduated from high school and wanted to go to college. Since then, his I Have A Dream Foundation has opened the doors of college for thousands of young people who seize the opportunity he offered. He has helped to make the most of their God-given abilities. We are all the beneficiaries of Eugene Lang's innovative vision, and it is a great tribute to him that since 1981 other philanthropists, many state governments and now, I hope, our national government, have joined him in trying to guarantee the dream of a college education to all people. He began it and we are all in his debt.
+
+Jan Nowak has dedicated his life to the fight for freedom. In World War II, he risked everything to carry vital information to the allies. After the Nazis' defeat, he saw his native Poland once again in the grip of oppression and he vowed to break it. For 25 years he was a dominant voice in Radio Free Europe, the great beacon of hope that brought so many people through the dark hours of communism. He continued to fight until the day he saw freedom triumph over tyranny. In America, his commitment to the ideal of democracy continues to inspire us all, and I can tell you that his inspiration is still felt in his native Poland where the people will never forget what he did and what he stood for. {APPLAUSE}
+
+Paz e respecto, peace and respect. These are the values that define the life and work of Antonia Pantoja. Her efforts to create educational and economic opportunity for all Puerto Ricans have made her the most respected and beloved figure in the Puerto Rican community. Through a Aspira, the educational program she helped to found 35 years ago. She's still there as young Puerto Ricans to dream and to work to achieve their dreams, her dedication to her people and, therefore, her contribution to our country is unsurpassed.
+
+When Rosa Parks refused to give up her seat to a white man on an Alabama bus 40 years ago, she ignited the single most significant social movement in American history. When she sat down on the bus, she stood up for the American ideals of equality and justice and demanded that the rest of us do the same. When our descendants look back in time to trace the fight for freedom, Rosa Parks will stand among our nation's greatest patriots, the legendary figures whose courage sustained us and pushed us forward. She is, and continues to be, a national treasure.
+
+Ginetta Sagan's name is synonymous with the fight for human rights around the world. In World War II, she paid dearly for her dedication to the cause of freedom. For more than a year, she was imprisoned and tortured, but not broken. Instead, she devoted her life after the war to saving others from the ordeal she had endured. To her tireless work with Amnesty International and her own Aurora Foundation, she has drawn the world's attention to the plight of prisoners of conscience and of their families. Amnesty International has created a fund named in her honor designed to help stop torture and especially to stop the persecution of women and their children. She represents to all the triumph of the human spirit over tyranny.
+
+Morris Udall represents everything a lawmaker should be -- dedicated to seeking common ground, committed to improving the political process and singularly possessed as no one in my adult lifetime has been of the one trait no member of Congress should be without -- an extraordinary sense of humor. {LAUGHTER}
+
+Mo was fond of quoting Will Rogers, who once advised us that in life you ought to get a few laughs and do the best you can. Well, he got a lot of laughs and he did better than most. He set a standard few could match by his passionate commitment to preserve our national resources and to leave our children a safer environment. His life is an inspiration and more. His work is a gift to all Americans and we are especially grateful that his son could be with us today.
+
+Now it my great honor and privilege to present to each of you the Presidential Medal of Freedom with great respect for your work, your dedication, the example you have set for all your fellow Americans.
+
+I ask now the military aid to read the citations. {COMMENT="The medals are presented"} 
+
+Ladies and gentlemen, we're going in for a reception now. But I just -- I wanted to say one thing. Rosa Parks was delayed in Detroit just as many of these people were delayed trying to get here because of the traffic. So we will have another time to give her her medal. We're sorry she couldn't be here. We're delighted everyone else is here. Please come in for the reception.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

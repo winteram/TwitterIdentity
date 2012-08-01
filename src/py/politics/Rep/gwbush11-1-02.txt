@@ -1,0 +1,61 @@
+﻿{title} President Signs Brownfields Bill {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 11, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} Remarks by the president in signing of h.r. 2869, the small business liability relief and Brownfields revitalization act {/description}
+
+
+{speech} 
+
+Thank you very much for that warm welcome. It's great to be back here in Pennsylvania. {APPLAUSE} I'm glad to be traveling with one of the most effective members of my Cabinet, the former Governor of New Jersey, now the Administrator of the EPA, Christie Todd Whitman. {APPLAUSE} 
+
+America is getting to know what people in this part of the world understand, that she is an able Administrator, a fine person, a person who cares deeply about the environment and our country. And she's going to go down as one of the best selections I have made in my Cabinet. So Christie Todd, thank you for coming, and thank you for your leadership. {APPLAUSE} 
+
+I want to thank you all for coming. When I saw the family over there, it reminded me that we have more responsibilities than just those on the war. And that is, we've got a responsibility of making sure every child is educated, and that the environment in which our children grow up is healthy and clean. 
+
+I'm here to sign this bill, and it's a very important piece of legislation. It's a great accomplishment. And I do so in Pennsylvania, because your state has been on the forefront of brownfield legislation, thanks to now the -- in part, to the Director of our homeland security effort, Governor Tom Ridge. {APPLAUSE} 
+
+I want to share with you, just right quick, my attitudes about how to keep the peace. And the reason I brought up the family is, is that it's so important for our fellow Americans to understand that our efforts overseas and our efforts at home are all aimed at making sure that little fellow can grow up in a peaceful world, and in a world that understands freedom. We have learned that there are some on this globe that hate America, and hate what America stands for. 
+
+Those folks didn't understand our country. They thought because we were prosperous and free, we would be soft and complacent. They made a grave mistake. Our war overseas, and our war at home, to stop terrorist activity, is all aimed at making sure the youth of America can grow up in a free society. They will not stop us. They will not deter us. We will achieve our aims and bring the terrorists to justice, no matter where they hide, or where they exist. {APPLAUSE} 
+
+So we'll be focused overseas. And we'll be making sure we follow every single lead about whether or not they're going to try to hit us again. But we've also got a lot of work to do here at home. I made that clear the other day when I signed a really good peace of legislation, and that's the education reform bill. And I'm now making that statement again when I sign this sensible peace of legislation, one that emphasizes the need for environmental stewardship all across the country, and a piece of legislation that will enhance prosperity and the safety of Americans living in urban areas. 
+
+This bill was passed because of the work of both Republicans and Democrats. It's an example of what can happen when people put partisanship aside, and focus on what's best for America. It shows what can happen when people say, I'm proud of my political party, but I'm more proud of my country, and I'm in Washington, D.C., to do what's right for America first, not my political party. {APPLAUSE} 
+
+And so I want to thank Paul Gillmor, from the state of Ohio. {APPLAUSE} Paul flew over today from his district outside of Toledo, in order to watch this bill being signed. And it's right that he's here, because he was the main sponsor in the House, who has worked hard to get this piece of legislation through. Paul, I want to thank you for coming. I look forward to giving you the pen, as I sign the bill. This should be one of the high marks of your leadership and your service to the country. So thank you for being here, sir. {APPLAUSE} 
+
+I want to thank two members of the Pennsylvania delegation for being here, Joe Hoeffel and Bob Borski. Thank you both for being here and taking time out of your day to come. {APPLAUSE} It's good to see the old Governor here. I appreciate Mark coming today. I appreciate his leadership. And I know the people of the Commonwealth of Pennsylvania appreciate his willingness to step in when Ridge left. And he's doing a fine job. {APPLAUSE} 
+
+I want to thank the Attorney General, Mike Fisher, for being here as well. Michael, thanks for coming, and thanks for your service to Pennsylvania. {APPLAUSE} And then I want to thank Brian O'Neill. {APPLAUSE} I knew the O'Neills were a big family, but I didn't realize -- {LAUGHTER} -- they were that big. But I thank Brian for being a risk taker; somebody who understands that in order to create jobs, you have to take a risk; somebody who is an entrepreneur; somebody who has had the vision to take these eyesores and convert them into positive economic assets that benefit the community at large. And so, Brian, I'm proud of the work you do, no more so than the citizens of this community. You're leaving behind a legacy that is positive and strong. And I'm honored to be here at your place of business. Thank you, sir. {APPLAUSE} 
+
+I also want to thank some of the Senators that worked on this piece of legislation, none of whom could be here today. They're traveling around in different parts of the globe. One is Senator Lincoln Chafee from Rhode Island. He sponsored the bill. {APPLAUSE} Kit Bond worked on it, Senator Bob Smith, Senator Harry Reid all worked hard to get this legislation out of the Senate, and eventually onto my desk. 
+
+All of us have a responsibility to be the stewards of our land. When we use the land, we must do so wisely and responsibly, balancing the needs of the environment with the best interests of those who live and work on the land. 
+
+The law I sign today addresses the problem of land which has already been developed, and then abandoned. American cities have many such eyesores -- anywhere from 500,000 to a million brownfields are across our nation. These areas once supported manufacturing and commerce, and now lie empty -- adding nothing of value to the community, and sometimes only causing problems. 
+
+Many communities and entrepreneurs have sought to redevelop brownfields. Often they could not, either because of excessive regulation or because of the fear of endless litigation. As a consequence, small businesses and other employers have located elsewhere -- pushing development farther and farther outward, taking jobs with them, and leaving cities empty. 
+
+For its part, the federal government sometimes spent more time haggling over regulatory details than it did working with states and cities to fix the problem. The old way of doing things was to mandate, regulate, and litigate. That began to change a few years ago as some states, such as Pennsylvania, and some communities and local businesses began to work together, in a constructive relationship, to find positive solutions to the brownfield problem. And the federal government began to help, by pursuing a more cooperative approach -- with regulatory relief, with loans and with technical support. 
+
+Here at the Millennium Corporate Center, if people take time to find out what happened, you'll see the possibilities of what can happen when people work together. For a long time this site was the site of a steel foundry. After the foundry closed, the property sat in disrepair. Finally, with a grant from the EPA, Montgomery County began to work to turn things around. Then O'Neill came in, with private investment, and he received cooperation at every level of government. This place is a good place to work. It is now a good place to live. And there are going to be more people employed here than before. {APPLAUSE} This is an example of what can happen, of what is possible. 
+
+And the bill I am about the sign will enable this success to be repeated many times over, all over America. It gives protection against lawsuits to prospective buyers and others who didn't create the brownfields, but want to help clean them up and develop them. And it will help strengthen state cleanup programs, with more federal funding and less federal meddling. My budget for next year will meet this commitment by requesting that Congress double EPA's brownfields funding. 
+
+The law will also make way for the creation of more jobs. As the employees here know, when a business develops a brownfield, it turns a stagnant plot of land into a productive neighborhood. What we ought to be asking in America is, what does it take to create more jobs? Sure, we want those who have been affected by 9/11 to be helped with an unemployment check, but what they really want is a permanent paycheck, in all public policy. {APPLAUSE} Public policy ought to figure out ways to make sure that the entrepreneurs can succeed, so that there is job creation taking place all over the country. This is a good jobs creation bill. 
+
+Further benefit will come as businesses recycle older properties and spare surrounding lands from development. There has been a lot of talk about urban sprawl. Well, one of the best ways to arrest urban sprawl is to develop brownfields, and make them productive pieces of land, where people can find work and employment. {APPLAUSE} By one estimate, for every acre of redeveloped brownfields, we save four and a half acres of open space. 
+
+This legislation will also protect small business owners from unwarranted Superfund liability. Lawyers and governments used to tell small business owners that because they sent their trash to a landfill -- and because that landfill became contaminated -- they were potentially liable for cleaning up the entire site. 
+
+When government acts in such a heavy-handed way, it hurts a lot of people, and works against its own purposes. It discourages small business growth. With this bill, we are returning common sense to our cleanup program. We will protect innocent small business owners and employees from unfair lawsuits, and focus our efforts instead on actually cleaning up contaminated sites. {APPLAUSE} 
+
+Environmental protection and economic growth can go on together. It is possible for the two to exist, if we're wise about public policy. And the law that I'm about to sign is good public policy. It's got a lot of common sense in it. It's wise. It encourages growth. It fosters the environment. It is the best -- it shows what can -- it is the best of Washington, when people decide to cooperate, not bicker, when people put the national interests ahead of political interests. 
+
+And so it's an honor to be here in Pennsylvania, to sign the most important piece of environmental legislation that came out of the Congress last year, the Small Business Liability Relief and Brownfields Revitalization Act. {APPLAUSE} 
+
+Thank you very much. {APPLAUSE} 
+
+{/speech} 

@@ -1,0 +1,398 @@
+﻿{title} John Kerry's Acceptance Speech at the Democratic National Convention {/title}
+{event} ----- {/event}
+{speaker} John Kerry {/speaker}
+{date} July 29, 2004 {/date}
+{source} http://www.washingtonpost.com {/source}
+{description} Sen. John Kerry's speech accepting the presidential nomination of the Democratic Party at the Democratic National Convention at the FleetCenter in Boston, Mass. {/description}
+
+
+{speech} 
+
+I'm John Kerry, and I'm reporting for duty. {APPLAUSE} 
+
+We are here tonight because we love our country. We're proud of what America is and what it can become. 
+
+My fellow Americans, we're here tonight united in one purpose: to make America stronger at home and respected in the world. {APPLAUSE} 
+
+A great American novelist wrote that you can't go home again. He could not have imagined this evening. Tonight, I am home... {APPLAUSE} 
+
+... home where my public life began and those who made it possible live; home where our nation's history was written in blood, idealism and hope; home where my parents showed me the values of family, faith and country. 
+
+Thank you, all of you, for a welcome home I will never forget. {APPLAUSE} 
+
+I wish my parents could share this moment. They went to their rest in the last few years. 
+
+But their example, their inspiration, their gift of open eyes -- open eyes and open mind and endless heart and world that doesn't have an end are bigger and more lasting than any words at all. 
+
+I was born, as some of you saw in the film, in Fitzsimmons Army Hospital in Colorado... {APPLAUSE} 
+
+... when my dad was a pilot in World War II. Now, I am not one to read into things, but guess which wing of the hospital the maternity ward was in? {APPLAUSE} 
+
+I'm not kidding. I was born in the West Wing. {APPLAUSE} 
+
+My mother was the rock of our family, as so many mothers are. She stayed up late to help me with my homework. She sat by my bed when I was sick. She answered the questions of a child who, like all children, found the world full of wonders and mysteries. 
+
+She was my den mother when I was a Cub Scout, and she was so proud of her 50-year pin as a Girl Scout leader. 
+
+She gave me her passion for the environment. She taught me to see trees as the cathedrals of nature. And by the power of her example, she showed me that we can and must complete the march toward full equality for all women in the United States of America. {APPLAUSE} 
+
+My dad did the things that a boy remembers. My dad did the things that a boy remembers. He gave me my first model airplane, my first baseball mitt, my first bicycle. 
+
+He also taught me that we are here for something bigger than ourselves. He lived out the responsibilities and the sacrifices of the greatest generation to whom we owe so much. 
+
+And when I was a young man, he was in the State Department, stationed in Berlin when it and the world were divided between democracy and communism. 
+
+I have unforgettable memories of being a kid mesmerized by the British, French and American troops, each of them guarding their own part of the city, and Russians standing guard on that stark line separating East from West. 
+
+On one occasion, I rode my bike into Soviet East Berlin, and when I proudly told my dad, he promptly grounded me. 
+
+{LAUGHTER ; APPLAUSE} 
+
+But what I learned has stayed with me for a lifetime. I saw how different life was on different sides of the same city. I saw the fear in the eyes of people who were not free. I saw the gratitude of people toward the United States for all that we had done. I felt goosebumps as I got off a military train and heard the Army band strike up "Stars and Stripes Forever." 
+
+I learned what it meant to be America at our best. I learned the pride of our freedom. And I am determined now to restore that pride to all who look to America. {APPLAUSE} 
+
+Mine were Greatest Generation parents. And as I thank them, we all join together to thank a whole generation for making America strong, for winning World War II, winning the Cold War and for the great gift of service which brought America 50 years of peace and prosperity. 
+
+My parents inspired me to serve, and when I was in high school, a junior, John Kennedy called my generation to service. It was the beginning of a great journey, a time to march for civil rights, for voting rights, for the environment, for women, for peace. 
+
+We believed we could change the world. And you know what? We did. 
+
+But we're not finished. But we're not finished. 
+
+The journey isn't complete; the march isn't over; the promise isn't perfected. 
+
+Tonight, we're setting out again. And together, we're going to write the next great chapter of America's story. 
+
+We have it in our power to change the world, but only if we're true to our ideals. And that starts by telling the truth to the American people. {APPLAUSE} 
+
+As president, that is my first pledge to you tonight: As president, I will restore trust and credibility to the White House. {APPLAUSE} 
+
+I ask you, I ask you to judge me by my record. As a young prosecutor, I fought for victims' rights and made prosecuting violence against women a priority. {APPLAUSE} 
+
+When I came to the Senate, I broke with many in my own party to vote for a balanced budget, because I thought it was the right thing to do. I fought to put 100,000 police officers on the streets of America. 
+
+And then I reached out across the aisle with John McCain to work to find the truth about our POWs and missing in action and to finally make peace in Vietnam. {APPLAUSE} 
+
+I will be a commander in chief who will never mislead us into war. {APPLAUSE} 
+
+I will have a vice president who will not conduct secret meetings with polluters to rewrite our environmental laws. {APPLAUSE} 
+
+I will have a secretary of defense who will listen to the best advice of the military leaders. 
+
+And I will appoint an attorney general who will uphold the Constitution of the United States. {APPLAUSE} 
+
+My fellow Americans, this is the most important election of our lifetime. The stakes are high. We are a nation at war: a global war on terror against an enemy unlike we've ever known before. 
+
+And here at home, wages are falling, health-care costs are rising, and our great middle class is shrinking. People are working weekends -- two jobs, three jobs -- and they're still not getting ahead. 
+
+We're told that outsourcing jobs is good for America. We're told that jobs that pay $9,000 less than the jobs that have been lost is the best that we can do. They say this is the best economy that we've ever had. And they say anyone who thinks otherwise is a pessimist. 
+
+Well, here is our answer: There is nothing more pessimistic than saying that America can't do better. {APPLAUSE} 
+
+We can do better, and we will. 
+
+We're the optimists. For us, this is a country of the future. We're the can-do people. 
+
+And let's not forget what we did in the 1990s: We balanced the budget. We paid down the debt. We created 23 million new jobs. We lifted millions out of poverty. And we lifted the standard of living for the middle class. 
+
+We just need to believe in ourselves and we can do it again. {APPLAUSE} 
+
+So tonight, in the city where America's freedom began, only a few blocks from where the sons and daughters of liberty gave birth to our nation, here tonight, on behalf of a new birth of freedom, on behalf of the middle class who deserve a champion, and those struggling to join it who deserve a fair shot, for the brave men and women in uniform who risk their lives every day and the families who pray for their return, for all those who believe our best days are ahead of us, with great faith in the American people, I accept your nomination for president of the United States. {APPLAUSE} 
+
+I am proud... {APPLAUSE} 
+
+Thank you, thank you, thank you. 
+
+{AUDIENCE} Kerry, Kerry, Kerry... {/AUDIENCE} 
+
+Thank you. I am proud that at my side will be a running- mate whose life is the story of the American dream, and who's worked every day to make that dream real for all Americans, Senator John Edwards of North Carolina and his wife Elizabeth and their family. Thank you. {APPLAUSE} 
+
+This son of a millworker is ready to lead. 
+
+And next January, Americans will be proud to have a fighter for the middle class to succeed Dick Cheney as vice president of the United States. {APPLAUSE} 
+
+And what can I say about Teresa? {APPLAUSE} 
+
+She has the strongest moral compass of anyone I know. She's down to earth, nurturing, courageous, wise and smart. She speaks her mind, and she speaks the truth, and I love her for that, too. And that's why America will embrace her as the next first lady of the United States. {APPLAUSE} 
+
+For Teresa and me, no matter what the future holds or the past has given us, nothing will ever mean as much as our children as you can sense listening to them. We love them, not just for who they are and what they've become, but for being themselves, making us laugh, holding our feet to the fire and never letting me get away with anything. {LAUGHTER} 
+
+Thank you, Andre, Alex, Chris, Vanessa and John. 
+
+And in this journey, I am accompanied by an extraordinary band of brothers led by that American hero, a patriot called Max Cleland. {APPLAUSE} 
+
+Our band of brothers... {APPLAUSE} 
+
+Our band of brothers doesn't march together because of who we are as veterans, but because of what we learned as soldiers. 
+
+We fought for this nation because we loved it, and we came back with the deep belief that every day is extra. We may be a little older, we may be a little grayer, but we still know how to fight for our country. {APPLAUSE} 
+
+And standing with us in that fight... 
+
+... standing with us in that fight are those who shared with me the long season of the primary campaign: Carol Moseley Braun, General Wesley Clark, Howard Dean... {APPLAUSE} 
+
+... Dick Gephardt, Bob Graham, Dennis Kucinich, Joe Lieberman and Al Sharpton. {APPLAUSE} 
+
+To all of you, I say thank you for teaching me and testing me. But mostly, we say thank you for standing up for our country and for giving us the unity to move America forward. {APPLAUSE} 
+
+My fellow Americans, the world tonight is very different from the world of four years ago. But I believe the American people are more than equal to the challenge. 
+
+Remember the hours after September 11th when we came together as one to answer the attack against our homeland. We drew strength when our firefighters ran up stairs and risked their lives so that others might live; when rescuers rushed into smoke and fire at the Pentagon; when the men and women of Flight 93 sacrificed themselves to save our nation's Capitol; when flags were hanging from front porches all across America, and strangers became friends. It was the worst day we have ever seen, but it brought out the best in all of us. {APPLAUSE} 
+
+I am proud that after September 11th all our people rallied to President Bush's call for unity to meet the danger. 
+
+There were no Democrats. There were no Republicans. There were only Americans. And how we wish it had stayed that way. {APPLAUSE} 
+
+Now, I know there that are those who criticize me for seeing complexities -- and I do -- because some issues just aren't all that simple. Saying there are weapons of mass destruction in Iraq doesn't make it so. Saying we can fight a war on the cheap doesn't make it so. And proclaiming "Mission accomplished" certainly doesn't make it so. {APPLAUSE} 
+
+As president, I will ask the hard questions and demand hard evidence. I will immediately reform the intelligence system, so policy is guided by facts and facts are never distorted by politics. 
+
+And as president, I will bring back this nation's time-honored tradition: The United States of America never goes to war because we want to; we only go to war because we have to. That is the standard of our nation. {APPLAUSE} 
+
+I know what kids go through when they are carrying... {APPLAUSE} 
+
+I know what kids go through when they're carrying an M-16 in a dangerous place, and they can't tell friend from foe. I know what they go through when they're out on patrol at night and they don't know what's coming around the next bend. I know what it's like to write letters home telling your family that everything's all right, when you're not sure that that's true. 
+
+As president, I will wage this war with the lessons I learned in war. Before you go to battle, you have to be able to look a parent in the eye and truthfully say, "I tried everything possible to avoid sending your son or daughter into harm's way, but we had no choice... {APPLAUSE} 
+
+... we had to protect the American people, fundamental American values against a threat that was real and imminent." {APPLAUSE} 
+
+So, lesson number one, this is the only justification for going to war. 
+
+And on my first day in office, I will send a message to every man and woman in our armed forces: You will never be asked to fight a war without a plan to win the peace. {APPLAUSE} 
+
+I know what we have to do in Iraq. We need a president who has the credibility to bring our allies to our side and share the burden, reduce the cost to American taxpayers, reduce the risk to American soldiers. That's the right way to get the job done and bring our troops home. {APPLAUSE} 
+
+Here is the reality: That won't happen until we have a president who restores America's respect and leadership so we don't have to go it alone in the world. 
+
+And we need to rebuild our alliances so we can get the terrorists before they get us. 
+
+I defended this country as a young man, and I will defend it as president. {APPLAUSE} 
+
+Let there be no mistake: I will never hesitate to use force when it is required. Any attack will be met with a swift and a certain response. 
+
+I will never give any nation or any institution a veto over our national security. 
+
+And I will build a stronger military. We will add 40,000 active duty troops, not in Iraq, but to strengthen American forces that are now overstretched, overextended and under pressure. 
+
+We will double our Special Forces to conduct terrorist operations, anti-terrorist operations, and we will provide our troops with the newest weapons and technology to save their lives and win the battle. And we will end the backdoor draft of the National Guard and reservists. {APPLAUSE} 
+
+To all who serve in our armed forces today, I say: Help is on the way. {APPLAUSE} 
+
+As president, I will fight a smarter, more effective war on terror. We will deploy every tool in our arsenal: our economic as well as our military might, our principles as well as our firepower. 
+
+In these dangerous days, there is a right way and a wrong way to be strong. Strength is more than tough words. 
+
+After decades of experience in national security, I know the reach of our power, and I know the power of our ideals. 
+
+We need to make America once again a beacon in the world. We need to be looked up to, not just feared. 
+
+We need to lead a global effort against nuclear proliferation, to keep the most dangerous weapons in the world out of the most dangerous hands in the world. {APPLAUSE} 
+
+We need a strong military and we need to lead strong alliances. {APPLAUSE} 
+
+And then, with confidence and determination, we will be able to tell the terrorists: You will lose, and we will win." The future doesn't belong to fear; it belongs to freedom. {APPLAUSE} 
+
+And the frontlines of this battle are not just far away. They're right here on our shores. 
+
+They're at our airports and potentially in any town or city. 
+
+Today, our national security begins with homeland security. The 9/11 commission has given us a path to follow, endorsed by Democrats, Republicans and the 9/11 families. As president, I will not evade or equivocate; I will immediately implement all the recommendations of that commission. 
+
+We shouldn't be letting 95 percent of our container ships come into our ports without ever being physically inspected. We shouldn't be leaving nuclear and chemical plants without enough protection. And we shouldn't be opening firehouses in Baghdad and shutting them in the United States of America. {APPLAUSE} 
+
+And tonight, we have an important message for those who question the patriotism of Americans who offer a better direction for our country. Before wrapping themselves in the flag and shutting their eyes to the truth and their ears, they should remember what America is really all about. They should remember the great idea of freedom for which so many have given their lives. Our purpose now is to reclaim our democracy itself. 
+
+We are here to affirm that when Americans stand up and speak their minds and say America can do better, that is not a challenge to patriotism; it is the heart and soul of patriotism. {APPLAUSE} 
+
+You see that flag up there. We call her Old Glory, the stars and stripes forever. I fought under that flag, as did so many of those people who were here tonight and all across the country. That flag flew from the gun turret right behind my head and it was shot through and through and tattered, but it never ceased to wave in the wind. It draped the caskets of men that I served with and friends I grew up with. 
+
+For us, that flag is the most powerful symbol of who we are and what we believe in: our strength, our diversity, our love of country, all that makes America both great and good. 
+
+That flag doesn't belong to any president. It doesn't belong to any ideology. 
+
+It doesn't belong to any party. It belongs to all the American people. {APPLAUSE} 
+
+{AUDIENCE} USA, USA, USA {/AUDIENCE} 
+
+My fellow citizens, elections are about choices. And choices are about values. In the end, it's not just policies and programs that matter; the president who sits at that desk must be guided by principle. 
+
+For four years, we've heard a lot of talk about values. But values spoken without actions taken are just slogans. {APPLAUSE} 
+
+Values are not just words, values are what we live by. They're about the causes that we champion and the people we fight for. 
+
+And it is time for those who talk about family values to start valuing families. {APPLAUSE} 
+
+You don't value families... {APPLAUSE} 
+
+You don't value families by kicking kids out of after-school programs and taking cops off the streets, so that Enron can get another tax break. 
+
+We believe in the family value of caring for our children and protecting the neighborhoods where they walk and play. 
+
+And that is the choice in this election. 
+
+You don't value families by denying real prescription drug coverage to seniors so big drug companies can get another windfall. 
+
+We believe in the family value expressed in one of the oldest Commandments: "Honor thy father and thy mother." 
+
+As president, I will not privatize Social Security. I will not cut benefits. And together, we will make sure that senior citizens never have to cut their pills in half because they can't afford lifesaving medicine. 
+
+And that is the choice in this election. {APPLAUSE} 
+
+You don't value families if you force them to take up a collection to buy body armor for a son or daughter in the service, if you deny veterans health care, or if you tell middle-class families to wait for a tax cut, so that the wealthiest among us can get even more. 
+
+We believe in the value of doing what's right for everyone in the American family. And that's the choice in this election. {APPLAUSE} 
+
+We believe that what matters most is not narrow appeals masquerading as values, but the shared values that show the true face of America; not narrow values that divide us, but the shared values that unite us: family, faith, hard work, opportunity and responsibility for all, so that every child, every adult, every parent, every worker in America has an equal shot at living up to their God-given potential. That is the American dream and the American value. {APPLAUSE} 
+
+What does it mean in America today when Dave McCune, a steelworker that I met in Canton, Ohio, saw his job sent overseas and the equipment in his factory was literally unbolted, crated up and shipped thousands of miles away, along with that job? 
+
+What does it mean when workers I've met have had to train their foreign replacements? 
+
+America can do better. And tonight we say: Help is on the way. {APPLAUSE} 
+
+What does it mean when Mary Ann Knowles, a woman with breast cancer I met in New Hampshire, had to keep working day after day, right through her chemotherapy, no matter how sick she felt, because she was terrified of losing her family's health insurance? 
+
+America can do better, and help is on the way. {APPLAUSE} 
+
+What does it mean when Deborah Kromins from Philadelphia, Pennsylvania, works and she saves all her life, and finds out that her pension has disappeared into thin air and the executive who looted it has bailed out on a golden parachute? 
+
+America can do better, and help is on the way. 
+
+{AUDIENCE} Help is on the way. {/AUDIENCE} 
+
+What does it mean when 25 percent of the children in Harlem have asthma because of air pollution? 
+
+We can do better, America can do better, and help is on the way. 
+
+{AUDIENCE} Help is on the way. {/AUDIENCE} 
+
+What does it mean when people are huddled in blankets in the cold, sleeping in Lafayette Park, on the doorstep of the White House itself, and the number of families living in poverty has risen by 3 million in the last four years? 
+
+America can do better, and help is on the way. 
+
+{AUDIENCE} Help is on the way. {/AUDIENCE} 
+
+So tonight we come here tonight to ask: Where is the conscience of our country? 
+
+I'll tell you where it is. 
+
+I'll tell you where it is. It's in rural and small-town America; it's in urban neighborhoods and the suburban main streets; it's alive in the people that I've met in every single part of this land. It's bursting in the hearts of Americans who are determined to give our values and our truth back to our country. 
+
+We value jobs that actually pay you more than the job that you lost. We value jobs where, when you put in a week's work, you can actually pay your bills, provide for your children, lift up the quality of your life. {APPLAUSE} 
+
+We value an America where the middle class is not being squeezed, but doing better. 
+
+So here is our economic plan to build a stronger America: first, new incentives to revitalize manufacturing; second, investment in technology and innovation that will create the good-paying jobs of the future; third, close the tax loopholes that reward companies for shipping jobs overseas. {APPLAUSE} 
+
+Instead, we will reward the companies that create and keep good- paying jobs right where they belong, in the good old USA. {APPLAUSE} 
+
+We value an America that exports products, not jobs. And we believe American workers should never have to subsidize the loss of their own job. 
+
+Next, we will trade, and we will compete in the world. But our plan calls for a fair playing field, because if you give the American worker a fair playing field, there's no one in the world that the American worker can't compete against. {APPLAUSE} 
+
+And we're going to return to fiscal responsibility because it is the foundation of our economic strength. Our plan will cut the deficit in half in four years by ending tax giveaways that are nothing more than corporate welfare, and we will make government live by the rule that every family has to live by: Pay as you go. 
+
+And let me... {APPLAUSE} 
+
+Let me tell you what we won't do: We won't raise taxes on the middle class. {APPLAUSE} 
+
+You've heard a lot of false charges about this in recent months. So let me say straight out what I will do as president: I will cut middle-class taxes. I will reduce the tax burden on small business. And I will roll back the tax cuts for the wealthiest individuals who make over $200,000 a year, so we can invest in health care, education and job creation. {APPLAUSE} 
+
+Our education plan for a stronger America sets high standards and it demands accountability from parents, teachers and schools. It provides for smaller class sizes, and it treats teachers like the professionals that they are. {APPLAUSE} 
+
+And it gives a tax credit to families for each and every year of college. 
+
+When I was a prosecutor, I met young kids who were in trouble, abandoned, all of them, by adults. And as president, I am determined that we stop being a nation content to spend $50,000 a year to send a young person to prison for the rest of their life, when we could invest $10,000 in Head Start, Early Start, Smart Start, a real start to the lives of our children. {APPLAUSE} 
+
+{AUDIENCE} Kerry, Kerry, Kerry... {/AUDIENCE} 
+
+And we value health care that's affordable and accessible for all Americans. 
+
+Since 2000, 4 million people have lost their health insurance. Millions more are struggling to afford it. You know what's happening. 
+
+Your premiums, your co-payments, your deductibles have all gone through the roof. 
+
+Our health care plan for a stronger America cracks down on the waste, and the greed and the abuse in our health-care system, and it will save families $1,000 a year in premiums. You'll get to pick your own doctor. And patients and doctors, not insurance company bureaucrats, will make medical decisions. {APPLAUSE} 
+
+Under our health care plan... {APPLAUSE} 
+
+... Medicare will negotiate lower drug prices for seniors. And all Americans will be able to buy less expensive prescription drugs from countries like Canada. 
+
+The story of people struggling for health care is the story of so many Americans. But you know what? It's not the story of senators and members of Congress, because we give ourselves great health care, and you get the bill. 
+
+Well, I'm here to say tonight: Your family's health care is just as important as any politician's in Washington, D.C. {APPLAUSE} 
+
+And when I am president, we will stop being the only advanced nation in the world which fails to understand that health care is not a privilege for the wealthy, and the connected and the elected; it is a right for all Americans. {APPLAUSE} 
+
+And we will make it so. {APPLAUSE} 
+
+We value an America that controls its own destiny because it's finally and forever independent of Mideast oil. What does it mean for our economy and our national security when we have only 3 percent of the world's oil reserves, yet we rely on foreign countries for 53 percent of what we consume? 
+
+I want an America that relies on its ingenuity and innovation, not the Saudi royal family. {APPLAUSE} 
+
+And our energy plan for a stronger America -- our energy plan will invest in new technologies and alternative fuels and the cars of the future, so that no young American in uniform will ever be held hostage to our dependence on oil from the Middle East. 
+
+I've told you about our plans for the economy, for education, for health care, for energy independence. I want you to know more about them. 
+
+So now I'm going to say something that Franklin Roosevelt could never have said in his acceptance speech: Go to johnkerry.com. {APPLAUSE} 
+
+I want to address these next words directly to President George W. Bush. {APPLAUSE} 
+
+In the weeks ahead, let's be optimists, not just opponents. Let's build unity in the American family, not angry division. Let's honor this nation's diversity. Let's respect one another. And let's never misuse for political purposes the most precious document in American history, the Constitution of the United States. {APPLAUSE} 
+
+{AUDIENCE} Kerry, Kerry, Kerry... {/AUDIENCE} 
+
+My friends, the high road may be harder, but it leads to a better place. 
+
+And that's why Republicans and Democrats must make this election a contest of big ideas, not small-minded attacks. 
+
+This is our time to reject the kind of politics calculated to divide race from race, region from region, group from group. 
+
+Maybe some just see us divided into those red states and blue states, but I see us as one America: red, white and blue. {APPLAUSE} 
+
+And when I am president, the government I lead will enlist people of talent, Republicans as well as Democrats, to find the common ground, so that no one who has something to contribute to our nation will be left on the sidelines. 
+
+And let me say it plainly: In that cause, and in this campaign, we welcome people of faith. America is not us and them. 
+
+I think of what Ron Reagan said of his father a few weeks ago, and I want to say this to you tonight: I don't wear my religion on my sleeve, but faith has given me values and hope to live by, from Vietnam to this day, from Sunday to Sunday. 
+
+I don't want to claim that God is on our side. 
+
+As Abraham Lincoln told us, I want to pray humbly that we are on God's side. {APPLAUSE} 
+
+And whatever our faith -- whatever our faith, one belief should bind us all: The measure of our character is our willingness to give of ourselves for others and for our country. 
+
+These aren't Democratic values. These aren't Republican values. They're American values. We believe in them. They're who we are. And if we honor them, if we believe in ourselves, we can build an America that is stronger at home and respected in the world. 
+
+So much promise stretches before us. Americans have always reached for the impossible, looked to the next horizon and asked, "What if?" 
+
+Two young bicycle mechanics from Dayton asked, "What if this airplane could take off at Kitty Hawk?" It did that, and it changed the world forever. 
+
+A young president asked, "What if we could go to the moon in 10 years?" And now we're exploring the stars and the solar systems themselves. 
+
+A young generation of entrepreneurs asked, "What if we could take all the information in a library and put it on a chip the size of a fingernail?" We did, and that, too, changed the world. 
+
+And now it's our time to ask, "What if?" 
+
+What if we find a breakthrough to cure Parkinson's, diabetes, Alzheimer's and AIDS? {APPLAUSE} 
+
+What if we have a president who believes in science, so we can unleash the wonders of discovery like stem-cell research and treat illness for millions of lives? {APPLAUSE} 
+
+What if we do what adults should do, and make sure that all of our children are safe in the afternoons after school? What if we have a leadership that's as good as the American dream, so that bigotry and hatred never again steal the hope or future of any American? {APPLAUSE} 
+
+I learned a lot about these values on that gunboat patrolling the Mekong Delta with Americans -- you saw them -- who come from places as different as Iowa and Oregon, Arkansas, Florida, California. {APPLAUSE} 
+
+No one cared where we went to school. No one cared about our race or our backgrounds. We were literally all in the same boat. We looked out, one for the other, and we still do. 
+
+That is the kind of America that I will lead as president: an America where we are all in the same boat. 
+
+Never has there been a moment more urgent for Americans to step up and define ourselves. I will work my heart out. But, my fellow citizens, the outcome is in your hands more than mine. 
+
+It is time to reach for the next dream. It is time to look to the next horizon. For America, the hope is there. The sun is rising. Our best days are still to come. 
+
+Thank you. Good night. God bless you, and God bless the United States of America
+
+
+{/speech} 

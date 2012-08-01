@@ -1,0 +1,47 @@
+﻿{title} Remarks by the President at National Prayer Breakfast {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 1, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Well, thank you all very much for that warm welcome. Laura and I are honored to be here this morning. I did a pretty good job when it came to picking my wife, by the way. She's going to be a fabulous First Lady. {APPLAUSE} 
+
+Mr. Vice President, it's good to see you; of course, your wife, Lynn. And I want to thank the members of my Cabinet who are here. I appreciate you, Senator Frist, for your commitment and strong comments. And, Zach, thanks for your introduction. And thank you both for organizing this important event. 
+
+I want to thank the members of the House and Senate who are here. I appreciate the number of foreign dignitaries who are here. It just goes to show that faith crosses every border, and touches every heart in every nation. 
+
+Every President since the first one I can remember, Dwight Eisenhower, has taken part in this great tradition. It's a privilege for me to speak where they have spoken, and to pray where they have prayed. All Presidents of the United States have come to the National Prayer Breakfast, regardless of their religious views. No matter what our background, in prayer we share something universal -- a desire to speak and listen to our Maker, and to know His plan for our lives. 
+
+America's Constitution forbids a religious test for office, and that's the way it should be. An American President serves people of every faith, and serves some of no faith at all. Yet I have found my faith helps me in the service to people. Faith teaches humility. As Laura would say, I could use a dose occasionally. {LAUGHTER} A recognition that we are small in God's universe, yet precious in His sight. It has sustained me in moments of success, and in moments of disappointment. Without it I would be a different person, and without it I doubt I'd be here today. 
+
+There are many experiences of faith in this room. But most of us share a belief that we are loved, and called to love; that our choices matter, now and forever; that there are purposes deeper than ambition and hopes greater than success. These beliefs shape our lives and help sustain the life of our nation. Men and women can be good without faith, but faith is a force of goodness. Men and women can be compassionate without faith, but faith often inspires compassion. Human beings can love without faith, but faith is a great teacher of love. 
+
+Our country, from its beginnings has recognized the contribution of faith. We do not impose any religion; we welcome all religions. We do not prescribe any prayer, we welcome all prayers. This is the tradition of our nation, and it will be the standard of my administration. {APPLAUSE} We will respect every creed. We will honor the diversity of our country and the deep convictions of our people. 
+
+There's a good reason why many in our nation embrace the faith tradition. Throughout our history people of faith have often been our nation's voice of conscience. The foes of slavery could appeal to the standard that all are created equal in the sight of our Lord. The civil rights movement had the same conviction on its side -- that men and women bearing God's image should not be exploited and set aside, and treated as insignificant. The same impulse over the years has reformed prisons and mental institutions, hospitals, hospices, and homeless shelters. 
+
+The Reverend Martin Luther King, Jr. said this: "The church must be reminded that it is not the master or the servant of the state, but rather the conscience of the state." As in his case, that sometimes means defying the times, challenging old ways and old assumptions. This influence has made our nation more just and generous and decent. And our nation has need of that today. 
+
+Faith remains important to the compassion of our nation. Millions of Americans serve their neighbor because they love their God. Their lives are characterized by kindness and patience, and service to others. They do for others what no government really can ever do -- no government program can really ever do: They provide love for another human being. They provide hope even when hope comes hard. 
+
+In my second week in office we have set out to promote the work of community and faith-based charities. We want to encourage the inspired, to help the helper. Government cannot be replaced by charities, but it can welcome them as partners instead of resenting them as rivals. {APPLAUSE} 
+
+My administration will put the federal government squarely on the side of America's armies of compassion. {APPLAUSE} Our plan will not favor religious institutions over non-religious institutions. As President, I'm interested in what is constitutional, and I'm interested in what works. {APPLAUSE} The days of discriminating against religious institutions, simply because they are religious, must come to an end. {APPLAUSE} 
+
+Faith is also important to the civility of our country. It teaches us not merely to tolerate one another, but to respect one another -- to show a regard for different views and the courtesy to listen. This is essential to democracy. It is also the proper way to treat human beings created in the divine image. 
+
+We'll have our disagreements. Civility does not require us to abandon deeply-held beliefs. Civility does not demand casual creeds and colorless convictions. Americans have always believed that civility and firm resolve could live easily with one another. But civility does mean that our public debate ought to be free from bitterness and anger, rancor and ill-will. {APPLAUSE} We have an obligation to make our case, not to demonize our opponents. {APPLAUSE} As the Book of James reminds us, fresh water and salt water cannot flow from the same spring. 
+
+I am under no illusion that civility will triumph in this city all at once. {LAUGHTER} Old habits die hard -- and sometimes they never die at all. I can only pledge to you this; that I will do my very best to promote civility, and ask for the same in return. {APPLAUSE} 
+
+These are some of the crucial contributions of faith to our nation: justice, and compassion, and a civil and generous society. I thank you for displaying these values, and defending them, here in America and across the world. You strengthen the ties of friendship and the ties of nations. And I deeply appreciate your work. 
+
+I believe in the power of prayer. It's been said: "I would rather stand against the cannons of the wicked than against the prayers of the righteous." The prayers of a friend are one of life's most gracious gifts. My family and I are blessed by the prayers of countless Americans. Over the last several months, Laura and I have been touched by the number of people who come up and say, "We pray for you." Such comforting words. I hope Americans will continue to pray that everyone in my administration finds wisdom, and always remembers the common good. 
+
+When President Harry Truman took office in 1945, he said: "At this moment, I have in my heart a prayer. I ask only to be a good and faithful servant of my Lord and my people." This has been the prayer of many Presidents, and it is mine today. God bless. {APPLAUSE} 
+
+{/speech} 

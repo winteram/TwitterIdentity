@@ -1,0 +1,26 @@
+﻿{title} Remarks by President Clinton, Foreign Minister Shimon Peres, Plo Executive Council Member Mr. Mahmud Abbas, Secretary of State Warren Christopher, Foreign Minister Kozyrev, Prime Minister Yitzhak Rabin, Chairman Yasser Arafat in Ceremony for the Signing of the Israel-palestinian Agreement {/title}
+{event} The South Lawn {/event}
+{speaker} Warren Christopher {/speaker}
+{date} September 13, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, Mr. Prime Minister, Chairman Arafat, members of Congress, distinguished visitors, guests, friends and colleagues, I'm honored to have witnessed the signing of this agreement on behalf of the United States.
+
+Millions of people have dreamed of this moment -- this moment for this very region. The Israelis and the Palestinians have taken a dramatic step toward a just, lasting and comprehensive peace that can lift the lives of the people of the Middle East. They overcame seemingly insurmountable obstacles in framing the Declaration of Principles and the terms for a mutual recognition. They've broken through the barriers of hatred and fear. Throughout the process, they've demonstrated extraordinary courage and statesmanship. This gives genuine hope that they will complete the journey that has been begun today.
+
+This achievement was the product of a sustained effort, international in scope, and thoroughly bipartisan here in the United States. The foundation for the breakthrough, as the President said, was laid at the Madrid Conference of October 1991, which overcame the impediments to direct Arab-Israeli talks and launched a real peace process. The Madrid success, in turn, could not have been realized without its own foundation, the 1978 Camp David Accords, and the 1974 and '75 disengagement agreements involving Israel, Egypt and Syria.
+
+In the distinguished group here assembled today seated down here in the front rows, I see those responsible not only for today's breakthrough, but also men and women who have toiled for decades in the search for peace in the Middle East. I salute and congratulate each one of you. {APPLAUSE}
+
+I also salute and congratulate those who have helped at particular times. In particular, I express appreciation to Foreign Minister Holst and his Norwegian colleagues who worked under very difficult circumstances -- {APPLAUSE} -- and made it possible to facilitate the negotiation of the Declaration of Principles. We also owe a debt of gratitude to Foreign Minister Moussa and his Egyptian colleagues, and many many others who gave unstinting help to the peace process. {APPLAUSE}
+
+We are all proud of this remarkable achievement. But we also understand that much more remains to be done if this newly planted tree is to bear fruit.
+
+The United States is committed to a comprehensive peace between Israel and all of its Arab neighbors. We hope and believe that this agreement will spur progress in the talks between Israel and Syria, Jordan and Lebanon. The United States is prepared to do its part in the negotiations that lie ahead. We will spare no effort in helping the parties turn the agreements at the table into realities on the ground. We will remain a full partner in the search for peace.
+
+But, certainly, we are not the sole partner. We need the entire international community to join us in this work and to oppose any effort to subvert the peace. This Israeli-Palestinian agreement cannot be permitted to fail. {APPLAUSE} Many, many problems remain to be solved. Today's historic agreement demonstrates that the Middle East does not need to be a cauldron of hostility, it can instead be a cradle of hope. Thank you. {APPLAUSE} 
+
+{/speech}

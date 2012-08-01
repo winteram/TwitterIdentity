@@ -1,0 +1,38 @@
+﻿{title} Remarks by the President from the Metropolitan Baptist Church {/title}
+{event} Washington, D.C. {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 7, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you, Reverend Hicks, Mrs. Hicks, members of the ministry. Thank you, Congresswoman Eleanor Holmes Norton, for telling me I should come here today -- thank you. {APPLAUSE} I must say, I would rather be in the choir than in the pulpit. {LAUGHTER} They were wonderful. Thank you. {APPLAUSE}
+
+Mr. Mayor, City Council Chair Cropp and members of the Council; Dr. Swygert and Mrs. Swygert; my good friend, Maya Angelou, thank you for being here; David DuBois. I thank three members of my Cabinet, Secretary of Labor, Alexis Herman; the Secretary of Transportation, Rodney Slater; and the Director of the Office of Management and Budget, Frank Raines, for coming with me; and many members of the White House staff and friends. We're all glad to be here. And we have a happy heart after hearing all the wonderful music and seeing the people here, and especially the children. {APPLAUSE}
+
+Sean and Ahjah and the other children gave me the letters and the drawings, I was back there reading them. One letter said, "Can Project Spirit come and visit the White House and see the Christmas tree?" {LAUGHTER} Yes. {APPLAUSE} As a matter of fact, Dr. Hicks, anybody, any of these children in your youth group you want to bring, just bus them on in. We'd be glad to see them and we'll arrange it. I'd like that. {APPLAUSE}
+
+Now, the letters contain some interesting things. One young man wrote, "I'm not trying to get myself in trouble, but I've always had a crush on Hillary." {LAUGHTER ; APPLAUSE} Now, I can certainly understand that. {LAUGHTER} A lot of the letters were serious. They said, can I do more to get rid of violence, guns. A lot of them said very specific things about what they'd like to do to make their schools better.
+
+Why are we here today? Or, at least, why am I here today, instead of down the street at the Foundry, where I normally am on Sunday. Ephesians says we should speak the truth with our neighbors, for we are members, one of another. I believe that. I think that is the single most important political insight, or social insight, in the bible. And I think it is what should drive us as we behave together. We have to decide whether we are members, one of the other; is my destiny caught up in yours; are your children my children; do you care about my daughter; are we part of the same family of God. It's not enough to say that we are all equal in the eyes of God. We are all also connected in the eyes of God. {APPLAUSE}
+
+Now, just because we have responsibilities one to another doesn't mean we don't have a primary responsibility to ourselves. God helps those who help themselves. One great athlete once said, you know, it's amazing, the more I practice, the luckier I get. {LAUGHTER} So we have responsibilities to ourselves, but we owe a lot to each other.
+
+I come here to say that I don't believe our national government has always been the best neighbor to the City of Washington, Mr. Mayor, Ms. Cropp, Congresswoman Norton. {APPLAUSE} But we are committed to becoming a better neighbor. Washington has gotten a lot of lectures from people in national politics about being more responsible from making the schools work better to the streets become safer to the neighborhoods having more hope and economic opportunity. But in the essence of our Constitution is the idea that responsibility requires freedom.
+
+And so I believe in the independence of Washington, D.C. I want Washington, D.C. to be able to run its own affairs. {APPLAUSE} I want the crime to go down and the schools to go up and the neighborhoods to be strong and full. {APPLAUSE} We are trying to do better. In this last meeting of Congress we did more things to take loads off of Washington that it should not have, and to give Washington responsibilities that it should have. And we must do more. I met with the Mayor, the City Council, the Control Board and a lot of community leaders just a few days ago, a meeting that the Congresswoman requested. And we talked about what we could do together.
+
+But I want to say to you that I come here at this Christmas season to say that I hope one of the gifts that I and our administration can leave for the 21st century is a national capital that is a shining city on the hill for all America, that every American is proud of. {APPLAUSE} I want a national capital where every child looks like the children that I heard sing and who brought me those letters today, where they're all filled with a spirit of their own goodness, where they all believe they are children of God, where they all are animated to believe that they can have hope to live out their dreams. And this place symbolizes that. Wouldn't you like it if your city and your country worked the way this church did? Wouldn't you like that? {APPLAUSE}
+
+And I'm not violating the First Amendment by saying that. {LAUGHTER} This has nothing to do with the separation of Church and State. This has to do with the values we all share. Most people who are not even Christians -- who are Jewish people, who are Muslims, who are Buddhist, who are all the different religions we have in our country today -- they'd still like it if our country worked more the way this church does. And often the way their houses of worship do.
+
+And so I say to you it begins when we speak the truth to one another, when we feel free to disagree, when we don't hide what we feel -- but if you go on down in that chapter, when we don't let the sun go down on our anger, when we are genuinely kind to one another. {APPLAUSE} For we are members, one of another.
+
+Now, on Christmas, we celebrate the birth of a child born in poverty, who never got elected to anything, never had a nickel to his name and has more followers than any politician who ever lived -- {APPLAUSE} -- for simply reminding us that we are all children of God and that we are members, one of another.
+
+So let us go out of here resolved to keep working together until every child is in a good school, until every family can be safe in their neighborhoods, until every grownup has a place to go to work in the morning. And we'll all be better off when we are selfishly selfless, recognizing that we are members, one of another.
+
+Thank you and God bless you. {APPLAUSE} 
+
+{/speech}

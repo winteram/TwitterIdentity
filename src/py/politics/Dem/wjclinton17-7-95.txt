@@ -1,0 +1,50 @@
+﻿{title} Remarks by the President at Unveiling of Bush Portrait {/title}
+{event} Unveiling of Bush Portrait {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 17, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Remarks by President and Bush at Portrait Unveiling {/description}
+
+{speech} 
+
+Thank you. Thank you very much, Mr. Breeden, for your kind remarks and for your essential work on behalf of the White House and the history of this country.
+
+We're delighted to be here with President and Mrs. Bush today, and Vice President and Mrs. Quayle, all the members and former members of Congress, the members of the Bush administration, and friends of George and Barbara Bush, and especially the family members. We welcome you all here to the White House.
+
+It's impossible to live in this wonderful old place without becoming incredibly attached to it -- to the history of our country and to what each and every one of these rooms represent. In a way, I think every family who has ever lived here has become more and more a part of our country's history, just for the privilege of sleeping under this roof at night. And so, perhaps the most important thing I can say to President and Mrs. Bush today is, welcome home. We're glad to have you back.
+
+I want to say, too, that we thought that we ought to have this ceremony in the East Room. This has always been the people's room. In the 19th century it used to get so crowded at receptions that one of the windows over here was turned into a door so people could get out if they couldn't bear the crowds anymore. There are so many here today, perhaps we should have done it again. But we thought the air-conditioning made it advisable for us to all stay put.
+
+Many of you know that it was in this room that Abigail Adams used to dry the family laundry when the room was nothing more than a brick shell. You may not know that the great explorer, Meriwether Lewis, set up camp here, surrounded by canvas tarps, books and hunting rifles in the day when he was Thomas Jefferson's secretary. John Quincy Adams frequently would come here to watch the sun rise after he finished his early morning swim in the Potomac. That also is something we're considering taking up if the heat wave doesn't break. {LAUGHTER}
+
+The portraits that we add here today celebrate another chapter to our rich history, and particularly to the rich history of the East Room where they will remain for a few days before they are properly hung. I managed to get a glimpse of these portraits and I must admit that I think the artist did a wonderful job, and we're all in his debt. But I also want to say, President Bush, if I look half as good as you do when I leave office, I'll be a happy man. {LAUGHTER}
+
+I want to again compliment Herbert Abrams, the artist. He also painted the portrait of President Carter. So, once again, President Bush has set another outstanding example of bipartisanship.
+
+These portraits, as has already been said, will be seen by millions of Americans who visit here, reminding them of what these two great Americans stood for, and for what they have done to strengthen our country. The portraits in the White House are more than likenesses. They tell the story of the promise of one American life, and in so doing, the promise of all American life. They offer a lesson, an example, a challenge for every American to live up to the responsibilities of citizenship.
+
+As Americans look for ways to come together to deal with the challenges we face today, they can do well in looking at the lives of President and Mrs. Bush. They have been guided by the basic American values and virtues of honesty, compassion, civility, responsibility and optimism. They have passed these values on to their family and on to our American family as well. And for that we should all be profoundly grateful.
+
+Mrs. Bush's portrait will hang adjacent to the Vermeil Room on the ground-floor corridor, taking her place in history in the line of America's first ladies. One role of the First Lady is to open the doors to the White House. Mrs. Bush will be in the hearts of Americans forever for the gracious way in which she opened so many doors not just to this house, but to a world of endless possibility through reading. Her campaign for literacy exemplified our country's great spirit of volunteerism, and our primary concern for the potential of every individual American.
+
+Her life of helping others has brought recognition to all those Americans, especially to American women, who have seen unmet needs in their communities and reached out to meet them. We cannot thank her enough.
+
+President Bush's portrait will hang out here in the Grand Foyer, across from the portrait of President Franklin Roosevelt, the Commander in Chief, he served in World War II. It will stand as a reminder of George Bush's basic integrity and decency, and of his entire adult lifetime devoted to public service. Most of all, it will stand as a testimony to a leader who helped Americans move forward toward common ground on many fronts. We see this clearly in the causes George Bush led us in as President -- causes that aimed at improving the lives not just of Republicans, but of all Americans.
+
+He made education a national priority when he hosted the Education Summit in 1989, something I will never forget and always be especially personally grateful for, because he understood that a solid education is essential to every American's ability to meet the challenges of the 21st century.
+
+He led us to a new dedication to service, and extolled the real heroes in America -- the ordinary Americans who every day go about solving the problems of this country in courageous, brave, and quiet manners. The Points of Light Initiative held up the best in America, reminded us of what we can do when we truly work together. And I can say that it was the one thing that he did that he personally asked me to continue when I took this office, and I was honored to do because it was so important and it remains important to the United States today.
+
+He signed the Americans With Disabilities Act, something that has now acquired broad support among people of all parties and all walks of life, and which has made a real difference to the quality of life of Americans who are now making larger contributions to the rest of us. And he supported and signed the Clean Air Act, which is terribly important today in preserving the quality of American life.
+
+He also led our nation and the world in the Gulf War Alliance, in an example of contributions and cooperations in the aftermath of the Cold War that I believe will long be followed.
+
+Finally, since he has left this office, he has continued to be an active and aggressive citizen for what he believed in. He worked here to help us to pass NAFTA, something for which I am profoundly grateful. And just the other day, he earned the gratitude of all Americans who believe in law and order and believe in civil citizenship when he defended the honor and reputation of law-abiding law enforcement officers and government employees. For all these things, all Americans should be grateful to George Bush.
+
+For President and Mrs. Bush, love of country and service to it have always meant the same thing. We honor them both today for their leadership, their character and their concern for their fellow citizens.
+
+On November 2, 1800, the day after his very first night in the White House, John Adams wrote to his wife, "I pray heaven to bestow the best of blessings on this house and on all that shall hereafter inhabit it. May none but honest and wise men ever rule under this roof." In the case of George Bush, John Adams' prayers were surely met.
+
+It is my great honor and pleasure now to unveil the official portraits of President and Mrs. Bush. {APPLAUSE} 
+
+{/speech}

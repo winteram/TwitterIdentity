@@ -1,0 +1,31 @@
+﻿{title} President's Remarks at 80th Birthday Celebration for Former President George H. W. Bush {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 12, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. As you can see, I have been given the high honor to represent my three brothers, my sister, and our respective families at the 80th birthday party for our dad, our Gampy. 
+
+You're probably wondering how I got to be the family spokesman. {LAUGHTER} Well, we polled the family. And rumor has it, somewhere in our large family, the tiebreaking vote for tonight's speaker was cast by a fourth cousin by the name of Chad. {LAUGHTER ; APPLAUSE} While holding his son above the crib, Chad's father reports that the lad burped, and it sounded like, "George W." {LAUGHTER} Once again, my life was affected by a dangling chad. {LAUGHTER ; APPLAUSE} 
+
+Yesterday we said farewell to a good man, our 40th President, Ronald Reagan. {APPLAUSE} Today we honor another good man. I want to thank you all for coming to wish our dad a happy birthday. {APPLAUSE} We thank those who worked so hard to make this event a great success. We thank the entertainers for coming. Right before I came on the stage, I had a chance to say hello to Dennis Miller. He was somewhat disappointed. I said, "Why"? He said, "I thought we were raising money for a thousand pints of light." {LAUGHTER} 
+
+We thank the underwriters, the sponsors and the organizing committee. We thank the Honorary Chairman, Dan Quayle. Dan's not only a good friend, he's also one of our three favorite Vice Presidents; you know, Dick, Dan and Dad. {LAUGHTER ; APPLAUSE} 
+
+Most of you are here because over the years you have come to know and love our dad -- {APPLAUSE} -- as well as his rather shy and retiring wife. {APPLAUSE} He has touched you because of his decency and warmth, his humility and humor. You know what we know: that we are all fortunate to have George Bush as a part of our lives. {APPLAUSE} 
+
+Some of you are here to pay tribute to a man who has made your life's calling a little easier. Because of our honoree's sense of duty and service, millions have been raised to heal hurt and disease, as well as educate our young. Some are here to see the 80 year old dude, who tomorrow will strap on a helmet, zip up a suit, and launch forth from a perfectly safe aerospace vehicle, arms sprayed, back arched, yelling at Father Time, "Take this, you old man." {APPLAUSE} One or two of you thought the Astros were at home. {LAUGHTER} 
+
+Jeb, Neil, Marvin, Doro and I are here with our families because of our deep and pure love for our dad. We love his enthusiasm for life, and his dedication to his faith, his family, his friends and his country. {APPLAUSE} We respect and honor the example he has set in service to our nation, as a fighter pilot, a representative, a diplomat and a President. We take comfort in knowing he was the same caring, decent man before, during and after his time in the arena. {APPLAUSE} 
+
+We like to do things with him. He is a fun guy. We like to fish, throw a shoe, play peggity or play golf with him. We like to talk and laugh with him. We still get a kick out of his dirty shirt joke, or, "show him a clean one" line. We understand his gentle tease, and have learned the art of the effective needle from him. We appreciate those times when he gives us ample material with his weird taste in clothes. {LAUGHTER} 
+
+We are awed by his energy, his zest for life. If ever there was a guy who could say his dance card was completely full, it is our dad. {APPLAUSE} We love the fact that he loves Mother. {APPLAUSE} And we are amazed and deeply touched by his unconditional love for us. {APPLAUSE} 
+
+So here's to you, young fella'. May God grant you health, joy and many years of happiness. God bless. {APPLAUSE} 
+
+{/speech} 

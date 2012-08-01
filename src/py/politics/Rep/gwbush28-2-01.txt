@@ -1,0 +1,97 @@
+﻿{title} Remarks by the President at Nebraska Welcome {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 28, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. {APPLAUSE} Thank you very much. {APPLAUSE} I'm glad I came. {APPLAUSE} I'm not saying I don't like my new address, I do. But it's good to get out in the countryside, too. {APPLAUSE} It's good to get out so I can shake hands with the folks that make America work. {APPLAUSE} It's good to get to the heartland. {APPLAUSE} Where people proudly stand on values of faith and family. {APPLAUSE} 
+
+I'm honored you'd invite me. I'm glad I came. Mr. Mayor, thank you for your friendship. It's great to be here with the Governor and First Lady of the state of Nebraska, two fine people. {APPLAUSE} And two good friends of Laura and mine. 
+
+It's also a thrill to travel from Washington with two fine United States Senators. {APPLAUSE} Senator Hagel -- {APPLAUSE} -- and Senator Nelson. {APPLAUSE} The good thing about these two Senators is this: I know I'm going to be able to count on them in the pinch. {APPLAUSE} I know when it comes to doing the right thing, they'll listen to the people of Nebraska. {APPLAUSE} 
+
+I'm also honored to be traveling with the Congressman Lee Terry. He's a good, solid man. {APPLAUSE} I'm proud to be on the stage with three Iowa Congressmen. And I appreciate you relaxing your border standards to let them in. {LAUGHTER} The Lt. Governor is here. My fellow citizens, it is an honor to be your President. {APPLAUSE} 
+
+I'm proud to call 1600 Pennsylvania Avenue home. And so is the First Lady. {APPLAUSE} And I was proud to stand up in front of the United States Congress last night to bring a message of the American people, a common-sense message, a message of budgets and priorities. I truly felt like I was representing you when I talked about fiscal sanity and talked about the need for our government to set clear priorities. 
+
+One of our priorities in the budget and one of our national priorities must be to make sure that every child -- I mean every child -- gets educated in the great land called America. {APPLAUSE} Even though I have a Washington, D.C., temporary address, I want you to know I strongly believe in local control of schools. {APPLAUSE} I believe the people who care more about the children of Nebraska are the citizens of Nebraska -- {APPLAUSE} -- and we must work together, the Congress and the Executive Branch must work together to pass power out of Washington to provide flexibility at the local level. One size does not fit all when it comes to educating the children of our country. 
+
+I want to insist that we spend more money on programs like reading initiatives, an initiative that will help all children learn to read, an initiative that will be based upon the fact that reading is a science and we must use curriculum that will work. Phonics needs to be an integral part of the curriculum. {APPLAUSE} 
+
+We're going to raise the standards. You see, what we believe is that every child in America can learn. We're going to reject the thought that certain children can't learn, so we'll just move them through the system. That's got to end. It's got to end. And what we stand for, what the people know makes sense is that, in order to determine whether or not all children are learning, it's essential that we measure. It's essential that local folks develop strong accountability systems. So we ask the question, do you know how to read? 
+
+And if you do, we'll praise the teachers. And we always have got to praise the teachers. But if our accountability system shows that children are not learning to read, instead of sitting by and saying, oh, maybe something positive will happen, it will serve as a go-by, it will serve as an opportunity for us to say, let's solve the problems early before it's too late. There are no second-rate children in America and there are no second-rate dreams. {APPLAUSE} So our budget prioritizes education with the understanding, however, that the schools should be run at the local level. 
+
+I set another priority, and that's to pay the men and women who wear our uniform better wages. {APPLAUSE} I am proud to be the Commander in Chief. {APPLAUSE} The mission of the United States military will be to train our troops to be prepared to fight and win war, and therefore, prevent war from happening in the first place. {APPLAUSE} 
+
+A priority in the budget is to make sure the people who don't have health care insurance who work have health care insurance. A priority in the budget is to fulfill our promise to the seniors by funding Medicare. I want you to know you can hear all the rhetoric about the apologists for bigger government in Washington, but with the right priorities and the right focus, we will double the Medicare budget over the next 10 years, to make sure our seniors have got a Medicare system that we can be proud of; one that, by the way, includes prescription drugs. {APPLAUSE} 
+
+Oh, I know you'll hear a lot of talk about Social Security, and we should talk about Social Security. But under our vision of what we ought to do with the budget, we set aside all $2.6 trillion of the payroll taxes that are heading into Social Security and spend them only on Social Security. {APPLAUSE} 
+
+Now, some of the people in Washington aren't going to like my budget because we don't grow the budget quite as fast as they would like. The budget increased last year by 8 percent. That's significantly higher than the rate of inflation. That was higher than real income grew. I mean, they were growing that budget, it was like a bidding contest to see who could spend the most money got out of town first. Those days must end. {APPLAUSE} The budget I submitted to the Congress is one that said we could meet our needs and grow our discretionary spending at a realistic and reasonable 4 percent. {APPLAUSE} 
+
+There's a lot of talk in Washington about debt, and like you I'm concerned about debt. I want to remind you there's two types of debt; one is at the government level, and one is at the individual level. First let me talk about government debt. With the right kind of leadership and the right kind of focus, and working with members of both parties, we can pay down $2 trillion of the national debt over the next decade. {APPLAUSE} 
+
+Somebody said, well, why don't you pay down more than that. Well, first of all, a lot of the bonds don't retire, aren't to be retired, they don't expire during the 10-year period. It makes absolutely no sense to prepay debt which will cost the taxpayers more money. That doesn't make any sense. We ought to pay debt as it comes due. And the only debt that comes due is $2 trillion over the next 10 years, and that's the debt we'll repay. {APPLAUSE} 
+
+We paid down debt, we've met our priorities, there's still money left over. And like any wise -- any wise person who cares about budgets, we ought to set some aside for contingencies. So we set aside a trillion dollars over the next 10 years for contingencies. 
+
+And what might some of those contingencies be? Well, making sure we take care of the seniors. As you know, one of the things I'm going to do is have a full review of our military's capabilities and how we ought to restructure our forces to meet the future. {APPLAUSE} And perhaps we'll need more money to fund those priorities. 
+
+I can assure you, we're going to worry about the agricultural sector here in the United States. {APPLAUSE} And perhaps -- and perhaps we'll need to spend some of that contingency money on the ag sector as we transform our agriculture sector to one that is going to be able to trade freely around the world. 
+
+Let me say as an aside, I strongly support ethanol. Let me say as an aside -- {APPLAUSE} -- we should not use food as a diplomatic weapon from this point forward. {APPLAUSE} We shouldn't view agriculture as a stepchild when it comes to international trade negotiations. {APPLAUSE} 
+
+So we've set priorities, we've paid down $2 trillion dollars of debt. We've got a trillion dollars of contingency set aside over the next 10 years and there's still money left over -- there's still money left over, and there's a fundamental choice -- do we spend it? 
+
+{AUDIENCE} No! {/AUDIENCE} 
+
+Or do we remember whose money it is in the first place? {APPLAUSE} 
+
+The surplus is not the government's money. The surplus is the people's money. {APPLAUSE} And I'm here to ask you to join me in making that case to any federal official you can find. I think we're in pretty good shape with the Nebraska delegation. {APPLAUSE} I certainly hope so. I certainly hope so. 
+
+But this is a plan that hears the voices of thousands of working Americans, people who are struggling to get ahead. I'm keenly aware the energy bills are going up all across the country. We need an energy policy. We also must have a tax relief policy that understands working Americans are paying energy costs than ever before. 
+
+I'm keenly aware that many of our citizens have got a lot of consumer debt. There's a lot of talk about debt at the national level, and I'm worried about it. I'm also worried about consumer debt on individual families. I'm aware that this economy is beginning to sputter a little bit, and it makes sense to combine good monetary policy with good fiscal policy. I believe by giving people some of your own money back it will help kick-start this economy so people will be able to find work who's looking for a job. {APPLAUSE} 
+
+In case anybody asks you, here's the plan. We're going to drop the bottom rate from 15 percent to 10 percent. {APPLAUSE} We increase the child credit from $500 to $1,000. {APPLAUSE} We drop all rates and simplify the code. We drop the top rate from 39.6 to 33 percent, and there's two primary reasons, two reasons I want to share with you. One is there ought to be some principle involved in the tax code, and one of the principles is the federal government should take no more than a third of anybody's check. {APPLAUSE} 
+
+But there is a second principle. We must understand that there are thousands of unincorporated small businesses in America and thousands of sub-S corporations that pay the highest income tax rate. And in order to stimulate the entrepreneurial spirit of America, in order to encourage capital formation in small businesses, it makes sense to drop the top rate from 39.6 to 33 percent. {APPLAUSE} 
+
+I know the advocates -- I can already hear some of the voices of the advocates for big government, the folks that want to keep your money in Washington to expand the size of the government. They're going to say, oh, this is only for the rich. Well, first of all, we're going to reject class warfare. {APPLAUSE} Secondly, we don't believe in targeting some people in or some people out. We believe everybody who pays taxes ought to get tax relief. {APPLAUSE} 
+
+Thirdly, ours is a philosophy that says we know government's role is not to create wealth, but to create an environment in which entrepreneurs and small businesses can realize their dreams in America. {APPLAUSE} Fifthly, we understand the marriage penalty is unfair and we better do something about it. {APPLAUSE} And those of us who have spent some time in the agricultural sector and in the heartland, understand how unfair the death penalty is -- the death tax is, and we need to get rid of it. {APPLAUSE} 
+
+I don't want to get rid of the death penalty -- {LAUGHTER} -- just the death tax. {APPLAUSE} 
+
+There is a lot of talk, there is a lot of talk about how this plan isn't really going to affect people. Today, the Ojedas are with us, Tony and Cynthia, and I want to thank you all for coming. And I appreciate the patience of your children. {LAUGHTER} As you can see, they are proud parents of three children. Right now, last year, they paid $3,170 in federal income taxes. 
+
+Under our plan, a plan that benefits everybody who pays taxes, a plan where the greatest percentage of tax relief goes to the people at the bottom end of the economic ladder, a plan that is eminently fair, a plan that doesn't affect the size of the federal government in a negative way, a plan that helps meet priorities -- these folks will save $2,120. {APPLAUSE} 
+
+Oh, I know that doesn't sound like a lot of money to folks that are rolling in dough. But $2,120 means a lot to the Ojeda family. It means a lot when you're paying high energy bills. It means a lot when you are worried about the education of your three children. It means a lot when you want to save. It means a lot when you want to do your duty as a mom and a dad to prepare for your children's future. No, $2,120 is a significant amount of money. {APPLAUSE} It's the right thing to do for America. 
+
+Now, we've submitted the people's budget to Congress. It's a budget that sets priorities, a budget that pays down debt, a budget that worries about the future. But a budget that keeps in mind that our people are overtaxed. And I am here asking Congress to give you a refund. {APPLAUSE} 
+
+{AUDIENCE} Re-fund! Re-fund! {/AUDIENCE} 
+
+I want to thank you all for coming out. It is so refreshing to travel the -- to travel your streets and to see people come out. I know there is an overflow room here of a thousand people and I want to thank you all for coming. 
+
+I want to tell you -- {APPLAUSE} -- there is something bigger though than just a legislative agenda at hand. It is truly the greatness of the country. My job is to remind all of us that responsibility begins at home, that the biggest job, if you happen to be fortunate enough to be a mom or a dad, your biggest job is not your day job. Your biggest job is your 24-hour job of loving your children with all your heart and all your soul. {APPLAUSE} That's the best thing all of us can do. 
+
+The best thing all of us can do in this nation, whether our job is President or Boy Scout leader or Sunday school teacher, or teacher, is to teach our youngsters the difference between right and wrong. Is to encourage them to be responsible for the decisions they make in life -- {APPLAUSE} -- is to make sure that every child, regardless of how he or she are born, knows somebody cares for them, somebody loves them. 
+
+No, the great strength of this country, the great strength of this country can be found in the heartland of America, where neighbor turns to neighbor and says, what can I do to help you, neighbor, if you've got a problem, where there are thousands of people saying, I want to help somebody in need, coming out of our churches and synagogues and mosques. 
+
+My job -- my job is not only to argue and work to get a legislative agenda passed that will help Americans help themselves. My job is also to remind America how great we are, that we're a blessed nation, a nation indivisible under God, the greatest nation on the face of the earth. {APPLAUSE} 
+
+Together, together we can help this nation fulfill its greatest promise, where every child realizes the American experience is meant for them, where every child can learn to read, where moms and dads understand the top priority is to love their children. 
+
+No, the greatness of this country is ahead of us. We've been great in the past, but the future has never been brighter. {APPLAUSE} And the future has never been brighter. The future has never been brighter because the people of this country have never been greater. It is my honor to be your President. 
+
+Thank you for coming and God bless. {APPLAUSE} 
+
+{/speech} 

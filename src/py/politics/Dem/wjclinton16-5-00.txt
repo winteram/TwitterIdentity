@@ -1,0 +1,37 @@
+﻿{title} Remarks by the President at Reception Following New York State Democratic Convention {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 16, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+First of all, I want you to know how I came to be here tonight. {COMMENT="Inaudible"} -- but before we knew exactly when Hillary was going to give her speech, I agreed to appear tonight at the Mexican American Legal Defense Fund and to a campaign event for the Democratic Senate Campaign Committee. So I told, all that group, I said, I've been with you folks a long time and if you'll let me go hear my wife give a speech, I'll do any event you want, anywhere in America, any time -- {LAUGHTER} And I told the Democratic Senate Campaign Committee that the Senate campaign I was most interested in was otherwise occupied tonight and I was going there. {LAUGHTER ; APPLAUSE} 
+
+So I'm delighted to see you. And I want to thank Judith Hope for doing a wonderful job as the Chair. {APPLAUSE} A lot of you don't know this, but Judith Hope grew up in Warren, Arkansas, in a community that I never failed to carry as governor -- proof positive that people from Arkansas can do very well in New York. {APPLAUSE} 
+
+I want to thank all the leaders of Congress and the state legislature and your state officials who are here with me tonight. And my good friend, Andrew Cuomo, for the wonderful job he's done as our HUD Secretary. {APPLAUSE} 
+
+I want to ask you one question: did Hillary give a great speech tonight? {APPLAUSE} I was sitting next to Senator Moynihan, and she kept going over all these issues. And Senator Moynihan looked at me and he said, good speech. {LAUGHTER} Now, that would be like the rest of us who {COMMENT="Inaudible"} into the Gettysburg Address. {LAUGHTER} And I knew that she was on a roll. 
+
+I want to say three things very quickly. First of all, I do not have the words to express to the people of New York my gratitude for the primary victory in '92, for the magnificent convention in '92, for the overwhelming margin of victory in '92 and the even bigger margin of victory you gave to me and to Al Gore in 1996. I will never forget it. {APPLAUSE} 
+
+The second thing I want to say is that I am profoundly grateful to you for the way you have embraced Hillary and the way you supported her tonight and the way you have been helping her. And I thank you for that. But I can tell you this: that she will not disappoint you. She'll be one of the great senators this country has ever -- {APPLAUSE} 
+
+And the last thing I want to say is this. On this night we've had a lot of fun. And big tests facing New York and America is, what are we going to do with this magic moment of prosperity we have all worked so hard for? And a moment like this imposes a test on people just as severe as great adversity does. When we were flat on our back in the Depression and we elected Franklin Roosevelt President, we did in part out of desperation. We knew we had to have somebody who was upbeat and strong and who would try new things. 
+
+When I was elected President in 1992, the American people took a huge chance. I was just, as President Bush used to say, the governor of a small southern state. {LAUGHTER} And I was so dumb and inexperienced I thought he was complimenting me, I was kind of proud of it. {LAUGHTER} 
+
+But we were feeling rather desperate. And now we feel good. But I was so proud by the response you gave Hillary tonight, because this is a great test for us. And make no mistake about it, this election in 2000 is every bit as important as the election in '96 was; every bit as important as the election in '92 was. I worked so hard for eight years with clearly the finest and most effective Vice President in the history of the United States to turn this country around. {APPLAUSE} 
+
+Now we've got a campaign and the people have to choose. And the Republicans are telling us they're compassionate. {LAUGHTER} And they're saying, I'm for all the same things that they're for, we're just doing it a little different; and we want to give you a whole lot bigger tax cut, we'll give you everything else you ever dreamed of. And it's all sort of being blurred. 
+
+What I want to tell you is, if you believe the things that Hillary said that you clapped for tonight, if you believe that she's worth fighting for -- {APPLAUSE} -- then you have to believe me. I'm not running for anything -- {LAUGHTER} -- but I know a little something about American history. It may be 30, it may be 50, it may be 80 or 100 years before our country ever has so much prosperity, so much social progress, so little internal crisis and external threat as we have today. We are being tested as surely as if we were in the middle of war or a depression. And we are being tested. 
+
+It's easy for us to be distracted. And I'm telling you, if you want this to go on, if you want to continue to change in this direction, you've got to elect Al Gore, you've got to elect Hillary, you've got to elect these democrats who have supported this direction. I will do my best to be a supporting part in that -- {APPLAUSE} 
+
+The next senator of New York, my wife. {APPLAUSE} 
+
+{/speech} 

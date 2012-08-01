@@ -1,0 +1,70 @@
+﻿{title} President Bush Meets with Troops in Fort Carson, Colorado {/title}
+{event} Remarks by the President to the Troops, Butts Army Air Field, Fort Carson, Colorado {/event}
+{speaker} George W. Bush {/speaker}
+{date} November 24, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all.
+
+{AUDIENCE} U-S-A, U-S-A! {/AUDIENCE} {APPLAUSE}
+
+Thank you all very much. Thank you for the warm welcome. I'm honored to be in the Rocky Mountain state. I'm honored to be in Fort Carson. {APPLAUSE} More importantly, I'm honored to be in the presence of so many fine Americans, so many great citizens who proudly wear our nation's uniform. {APPLAUSE}
+
+The soldiers of Fort Carson are now engaged in the largest deployment from this post since World War II. You reflect tremendous credit to the United States Army. You bring great pride to the people of the United States of America. {APPLAUSE} The people of our armed forces are serving at a crucial period for America and for all free nations. We're at war with terrorists who hate what we stand for: liberty, democracy, tolerance and the rights and dignity of every person. We're a peaceful nation, yet we are prepared to confront any danger. {APPLAUSE}
+
+We are fighting the terrorists in Iraq and Afghanistan and in other parts of the world so we do not have to fight them on the streets of our own cities. {APPLAUSE} And we will win. {APPLAUSE} In this war, America depends on our people in uniform to protect our freedom and to keep our country safe. And all who serve depend every day on the support of your families. These are challenging times for military families. You in the Pikes Peak community know that very well. Military life makes many demands on wives and husbands and sons and daughters. You have faced hardships, and you have faced them together. And I want you to know, our whole nation is grateful to our military families. {APPLAUSE}
+
+America is also indebted to the men and women of the Guard and Reserve who are serving abroad. {APPLAUSE} And to those who are called for homeland security assignments. Hundreds of reserve units across America have been activated in this time of war. Our country thanks these fine citizens, and we thank their employers for putting duty first.
+
+I want to thank Major General Bob Wilson for his leadership and his strength of character. I want to thank General Larry Ellis, as well, for greeting me here today. It's my honor to have met General Lance Lord, Commander of the Air Force Space Command. I appreciate Colonels Orr, Terry, Wininger and Resty for being such strong leaders and for greeting me here. It was my privilege to have lunch with Sergeant Major Mac McWilliams. {APPLAUSE} He's the kind of guy you don't want to cross. {LAUGHTER ; APPLAUSE} He's the kind of guy you want on your side. {APPLAUSE} I'm glad he's on my side, and I'm glad you're on my side. {APPLAUSE}
+
+I appreciate Bill Hybl, who is the Civilian Aide to the Secretary of the Army. I want to thank the families of the fallen soldiers who are here with us today. Our prayers are with you. We ask for God's strength and God's guidance. {APPLAUSE} I'm honored that the great governor of the great state of Colorado is with us today, Governor Bill Owens. {APPLAUSE}
+
+We've got some members of the United States Congressional delegation here who are strong supporters of our military and our military families: Congressman Hefley and McInnis, Tancredo, Beauprez and Musgrave, thank you all for coming. I'm honored you're here. {APPLAUSE} The Speaker of the House is here. Madam Speaker, thank you for coming, Lola Spradley. The Mayor of Colorado Springs and the Mayor of Fountain, Mayor Rivera and Mayor Barela are with us, as well. Thank you all for coming. I thank all state and local officials for being here. But most of all, I want to thank you all for coming. It's my honor to be here. {APPLAUSE}
+
+When I landed, and I got off that magnificent bird, Air Force One, I was greeted by a lady named Diane Campbell. {APPLAUSE} She brought her family with her. {LAUGHTER} She's an active volunteer with the Army Family Team Building program. {APPLAUSE} As I said, she brought her family with her. {LAUGHTER}
+
+The reason I bring up Diane Campbell is, oftentimes, people measure the strength of America based upon the number of tanks and airplanes we have, or the size of our wallets. No, the strength of America lies in the hearts and souls of our citizens. You see, people like Diane Campbell are providing training and information to military spouses and families to help them adjust to the life in the Army. See, they're reaching out. They've heard the universal call to love a neighbor just like they would like to be loved themselves. The true strength of America is the American people, because we're a compassionate, decent, caring, loving people, just like Diane Campbell. {APPLAUSE}
+
+I want to thank Diane and all the Army Family Team Building members for your service. I ask you all to reach out a hand to somebody who hurts. I ask you to help us change our country one lonely soul at a time.
+
+For more than 60 years, the units of Fort Carson have been known for training hard and being prepared at all times. Men and women have gone forth from this base to make history. From the Pacific Theater in World War II, to Korea, Vietnam and Desert Storm. Many thousands who served in these causes still live here in this area. I don't blame you. {LAUGHTER} It's a beautiful part of our country.
+
+Our veterans and military retirees play their part in maintaining the greatest fighting force in the world. They kept our country free, and we are grateful to the veterans who are with us here today. {APPLAUSE} Today a new generation has been called to great challenges. The soldiers of the Mountain Post have been called to serve in the first war of the 21st Century.
+
+This war began more than two years ago, on September the 11th, 2001, when America was attacked, and thousands of our fellow citizens were murdered. The events of that morning changed our nation. We awakened to new dangers and we accepted new responsibilities. That day we saw the harm that our enemies intend for us. And last week, we saw their cruelty again, in the murders in Istanbul. Today America, Britain and Turkey and all responsible nations are united in a great cause: We will not rest until we bring these committed killers to justice. {APPLAUSE}
+
+These terrorists will not be stopped by negotiations, or by appeals to reason, or by the least hint of conscience. We have only one option: We must, and we will continue to take the fight to the enemy. {APPLAUSE}
+
+We fight this war against terror on many fronts. Terrorists hide and strike within free societies, so we're draining their bank accounts, disrupting their plans. We're hunting them down one by one until they can no longer threaten America and other free peoples.
+
+Terrorists need places to hide, to plot, and to train, so we're holding their allies, the allies of terror to account. {APPLAUSE} Working with a fine coalition, our military went to Afghanistan, destroyed the training camps of al Qaeda, and put the Taliban out of business forever. {APPLAUSE}
+
+In Iraq, where a dictator defied the world, cultivated ties to terror, armed with deadly weapons, America led a mission to make the world safer, and to liberate the Iraqi people. And that brutal dictator's regime is no more. {APPLAUSE} Thanks to our great military, Iraqi citizens do not have to fear the dictator's secret police or ending in a mass grave. Thanks to our military, the torture chambers are closed, and the prison cells for children are empty. Thanks to our military, we have captured many members of the former regime, and the rest of them have a lot to worry about. {APPLAUSE}
+
+Recently, in Operation Iron Hammer, our coalition worked with the Iraqi Civil Defense Corps and police to strike hard against the forces of murder and chaos. We countered attacks, we seized weapons, we brought cold-blooded killers to justice. We're proud of all who participated in these forceful and successful operations. And we're sending a clear message: Anyone who seeks to harm our soldiers can know that our great soldiers are hunting for them. {APPLAUSE}
+
+Our mission in Iraq and Afghanistan is clear to our service members, and it's clear to our enemies. America's military is fighting to secure the freedom of more than 50 million people who recently lived under two of the cruelest dictatorships on earth. America's military is fighting to help democracy and peace and justice rise in a troubled and violent region. And because we're fighting terrorist enemies thousands of miles away, in the heart and center of their power, we are making the United States of America more secure. {APPLAUSE}
+
+Units from this base have been vital to our campaigns in Afghanistan and Iraq. The 7th Infantry Division has done fine work preparing guard brigades for combat duty overseas, with one battalion in Iraq from the start of Operation Iraqi Freedom; preparing a brigade to deploy and a brigade now in Afghanistan; helping to train the Afghan National Army. We're grateful for the 3rd Brigade Combat Team -- {APPLAUSE} -- the 3rd Armored Calvary Regiment -- {APPLAUSE} -- the 10th Special Forces Group -- {APPLAUSE} -- the 43rd Area Support Group. {APPLAUSE} These and other units are showing the skill and the discipline that define Fort Carson, and you're showing the courage that defines the United States Army. {APPLAUSE}
+
+Today, American forces in Iraq are joined by about 24,000 troops from 32 other countries. Together, we're helping the Iraqi people move steadily toward a free and democratic society. Economic life is being restored to cities of Iraq. A new Iraqi currency is circulating. Local governments are up and running. Iraq will soon begin the process of drafting a constitution, with free elections to follow. As Iraq joins -- rejoins the world, it will demonstrate the power of freedom and hope to overcome resentment and hatred. And this transformation will help make America more secure. {APPLAUSE}
+
+The work we are in is not easy, yet it is essential. The failure of democracy in Iraq would provide new bases for the terrorist network and embolden terrorists and their allies around the world. The failure of democracy in those countries would convince terrorists that America backs down under attack. Yet democracy will succeed in Iraq, because our will is firm and our word is good. Democracy will succeed because every month, more and more Iraqis are fighting for their own country. People we have liberated will not surrender their freedom. Democracy will succeed because the United States of America will not be intimidated by a bunch of thugs. {APPLAUSE}
+
+This community knows firsthand that the mission in Iraq is difficult and the enemy is dangerous. Saddam loyalists and foreign terrorists are attacking the symbols of order and freedom, from international aid workers to coalition forces to innocent Iraqi citizens. Terrorists have chosen to make a stand and test our resolve. Our resolve will not be shaken. {APPLAUSE}
+
+It is the nature of terrorism that a small number of people can inflict terrible grief. And here, you felt loss. Every person who dies in the line of duty leaves a family that lives in sorrow, and comrades who must go on without them. The Fort Carson community said farewell to some of your best. One of them was Staff Sergeant Daniel Bader. This good man left behind his wife, Tiffany, and their 14-month-old daughter. Tiffany Bader said this to a reporter recently, "I'm going to wait until she is old enough to realize what happened, and I will tell her exactly what her daddy did for her. He died serving his country so that my little girl could grow up free." {APPLAUSE}
+
+The courage of that soldier, and the courage of that wife, show the spirit of this country in the face of great adversity. And all our military families that mourn can know this: Our nation will never forget the sacrifice their loved one made to protect us all. {APPLAUSE}
+
+By the unselfish dedication of Americans in uniform, children in our own country and in lands far away will be able to live in freedom, and know the peace that freedom brings. As Americans, we believe that freedom is not America's gift to the world, freedom is the Almighty God's gift to every person who lives in the world. {APPLAUSE}
+
+As men and women who served the cause of freedom, each one of you has answered a great calling. You live by a code of honor, in service to your nation, for the safety and security of your fellow citizens. You and I have taken an oath to defend America. We're meeting that duty together, and I'm proud to be the Commander-in-Chief of the greatest military, full of the finest people on the face of this earth.
+
+God bless you all. God bless America. {APPLAUSE} 
+
+{/speech}

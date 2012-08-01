@@ -1,0 +1,91 @@
+﻿{title} Calls for National Unity in Concession Speech {/title}
+{event} ----- {/event}
+{speaker} John Kerry {/speaker}
+{date} November 3, 2004 {/date}
+{source} http://www.pbs.org/newshour {/source}
+{description} In his concession speech, Sen. John Kerry called for his supporters to find a "common effort" without anger or recrimination after the bitter and divisive election. {/description}
+
+
+{speech} 
+
+Thank you. Thank you. Thank you so much. Thank you. Thank you. {CHEERS ; APPLAUSE} Thank you so much. Thank you so much. You just have no idea how warming and how generous that welcome is, your love is, your affection, and I'm gratified by it.
+
+I'm sorry that we got here a little bit late and a little bit short. {LAUGHTER}
+
+Earlier today, I spoke to President Bush, and I offered him and Laura our congratulations on their victory. We had a good conversation, and we talked about the danger of division in our country and the need, the desperate need for unity, for finding the common ground, coming together. 
+
+Today, I hope that we can begin the healing. In America -- {APPLAUSE} 
+
+In America it is vital that every vote count, and that every vote be counted. But the outcome should be decided by voters, not a protracted legal process. I would not give up this fight if there was a chance we would prevail. But it is now clear that even when all the provisional ballots are counted -- which they will be -- there won't be enough outstanding votes for us to be able to win Ohio, and therefore we cannot win this election.
+
+My friends, it was here that we began our campaign for the presidency, and all we had was hope and a vision for a better America. It was a privilege and a gift to spend two years traveling this country, coming to know so many of you. 
+
+I wish that I could just wrap you up in my arms and embrace each and every one of you individually all across this nation. I thank you from the bottom of my heart. {CHEERS ; APPLAUSE} Thank you. {APPLAUSE} Thank you. {CHEERS ; APPLAUSE} Thank you. {APPLAUSE}
+
+{AUDIENCE-MEMBER} We absolutely love you! {/AUDIENCE-MEMBER} 
+
+{AUDIENCE-MEMBER} We've still got your back! {/AUDIENCE-MEMBER} {LAUGHTER}
+
+Thank you, man. {CHEERS ; APPLAUSE} And I'm -- and I assure you, you watch: I'll still have yours. So hang in there. {CHEERS ; APPLAUSE} 
+
+I will always be particularly grateful to the colleague that you just heard from who became my partner, my very close friend, an extraordinary leader, John Edwards. And I thank him for everything he did and I just - 
+{CHEERS ; APPLAUSE}
+
+Thank you. John -- John and I would be the first to tell you that we owe so much to our families. They're here with us today. They were with us every single step of the way. They sustained us. They went out on their own and they multiplied our campaign all across this country. No one did this more with grace and with courage and candor that I love than my wife, Teresa, and I thank her. {CHEERS ; APPLAUSE} Thank you. 
+
+And our children were there every single step of the way. It was unbelievable. Vanessa, Alex, Chris, Andre and John from my family. And Elizabeth Edwards, who is so remarkable and so strong and so smart. {CHEERS ; APPLAUSE} And Johnny and Cate, who went out there on her own, just like my daughters did, and also Emma Claire and Jack, who were up beyond their bedtime last night, like a lot of us. {CHEERS ; APPLAUSE} 
+
+I want to thank my crewmates and my friends from 35 years ago, that great band of brothers who crisscrossed this country on my behalf through 2004. {SUSTAINED APPLAUSE} They had the courage to speak the truth back then, and they spoke it again this year, and for that I will forever be grateful. 
+
+And thanks also, as I look around here, to friends and family of a lifetime, some from college, friends made all across the years, and then all across the miles of this campaign.
+
+
+You are so special. You brought the gift of your passion for our country and the possibilities of change, and that will stay with us and with this country forever. 
+
+Thanks to Democrats and Republicans and Independents who stood with us, and everyone who voted, no matter who their candidate was. 
+
+And thanks to my absolutely unbelievable, dedicated staff, led by a wonderful campaign manager, Mary Beth Cahill, who did an extraordinary job. {CHEERS ; APPLAUSE} 
+
+There's so much written about campaigns and there's so much that Americans never get to see. I wish they could all spend a day on a campaign and see how hard these folks work to make America better. 
+
+It is its own unbelievable contribution to our democracy, and it's a gift to everybody, but especially to me. 
+
+And I'm grateful to each and every one of you, and I thank your families, and I thank you for the sacrifices you've made, and to all the volunteers all across this country who gave so much of themselves. 
+
+You know, thanks to William Field -- {LAUGHTER} -- a 6-year-old who collected $680, a quarter and a dollar at a time selling bracelets during the summer, to help change America. {CHEERS ; APPLAUSE} Thanks to Michael Benson from Florida, who I spied in a rope line holding a container of money, and it turned out he had raided his piggy bank and wanted to contribute. 
+
+And thanks to Ilana Wexler, 11 years old, who started "Kids for Kerry" all across our country. {CHEERS ; APPLAUSE}
+
+I think of the brigades of students and people, young and old, who took time to travel, time off from work, their own vacation time, to work in states far and wide. They braved the hot days of summer and the cold days of the fall and the winter to knock on doors because they were determined to open the doors of opportunity to all Americans. 
+
+They worked their hearts out. And I wish you, you don't know how much, that I could have brought this race home for you, for them. And I say to them now: Don't lose faith. What you did made a difference. And building on itself -- {APPLAUSE} Building on itself, we go on to make a difference another day. I promise you that time will come. The time will come, the election will come when your work and your ballots will change the world. And it's worth fighting for. {APPLAUSE}
+
+I want to especially say to the American people, in this journey you have given me the honor and the gift of listening and learning from you. I have visited your homes, I visited your churches, I visited your community halls. I've heard your stories. I know your struggles. I know your hopes.
+
+They are part of me now. And I will never forget you, and I'll never stop fighting for you. {CHEERS ; APPLAUSE} You may not understand completely in what ways, but it is true when I say to you that you have taught me and you've tested me and you've lifted me up, and you've made me stronger.
+
+I did my best to express my vision and my hopes for America. We worked hard, and we fought hard, and I wish that things had turned out a little differently. 
+
+But in an American election, there are no losers, because whether or not our candidates are successful, the next morning, we all wake up as Americans. {APPLAUSE} And that -- that is the greatest privilege and the most remarkable good fortune that can come to us on Earth.
+
+With that gift also comes obligation. We are required now to work together for the good of our country. 
+
+In the days ahead, we must find common cause, we must join in common effort, without remorse or recrimination, without anger or rancor. America is in need of unity and longing for a larger measure of compassion. I hope President Bush will advance those values in the coming years.
+
+I pledge to do my part to try to bridge the partisan divide. I know this is a difficult time for my supporters, but I ask them, all of you, to join me in doing that. Now more than ever, with our soldiers in harm's way, we must stand together and succeed in Iraq and win the war on terror.
+
+I will also do everything in my power to ensure that my party, a proud Democratic Party, stands true to our best hopes and ideals. I believe that what we started in this campaign will not end here. {CHEERS ; APPLAUSE} 
+
+Our fight goes on to put America back to work and to make our economy a great engine of job growth. Our fight goes on to make affordable health care a accessible right for all Americans, not a privilege. Our fight goes on to protect the environment, to achieve equality, to push the frontiers of science and discovery, and to restore America's reputation in the world. I believe that all of this will happen, and sooner than we may think because we're America and America always moves forward. {APPLAUSE}
+
+I've been honored to represent the citizens of this commonwealth for the - in the United States Senate now for 20 years, and I pledge to them that in the years ahead I'm going to fight on for the people and for the principles that I've learned and lived with here in Massachusetts.
+
+
+I'm proud of what we stood for in this campaign and of what we accomplished. When we began, no one thought it was possible to even make this a close race. But we stood for real change, change that would make a real difference in the life of our nation and the lives of our families, and we defined that choice to America. 
+
+I'll never forget the wonderful people who came to our rallies, who stood in our rope lines, who put their hopes in our hands, who invested in each and every one of us. I saw in them the truth that America is not only great, but it is good. {APPLAUSE} 
+
+So with a grateful heart, I leave this campaign with a prayer that has even greater meaning to me now that I have come to know our vast country so much better, thanks to all of you, and what a privilege it has been to do so, and that prayer is very simple: God bless America. Thank you. {CHEERS ; APPLAUSE} 
+
+
+{/speech} 

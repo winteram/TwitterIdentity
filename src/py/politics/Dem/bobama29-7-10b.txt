@@ -1,0 +1,48 @@
+﻿{title} Remarks by the President Before Signing the Tribal Law and Order Act {/title}
+{event} Signing the Tribal Law and Order Act {/event}
+{speaker} Barack Obama {/speaker}
+{date} July 29, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, everybody. Please have a seat.
+
+I want to start, obviously, by thanking Lisa for her introduction and having the courage to share her story with all of us today. It's for every survivor like Lisa who has never gotten their day in court, and for every family that feels like justice is beyond reach, and for every tribal community struggling to keep its people safe, that I'll be signing the Tribal Law and Order Act into law today.
+
+And in doing so, I intend to send a clear message that all of our people -- whether they live in our biggest cities or our most remote reservations -- have the right to feel safe in their own communities, and to raise their children in peace, and enjoy the fullest protection of our laws.
+
+As many of you know, I campaigned on this issue. And during our last -- during our tribal conference last year, I pledged my administration's fullest support for this bill. And I told Senator Dorgan last week that I intended to sign it in a ceremony here at the White House with all of you. So today, I am proud to make good on my word.
+
+Now, I'm told there's a Seneca proverb that says “He who would do great things should not attempt them all alone.” {LAUGHTER} And that's particularly true of this legislation, which is the product of tireless efforts by countless individuals across this country. Congressional leaders like Senator Dorgan, Representative Herseth Sandlin, and others who are here today, and tribal leaders like Chairman Marcus Levings, President Theresa Two Bulls, President Diane Enos, Chief Chad Smith, Vice Chairman Jonathan Windy Boy -- we are grateful to all of them for their extraordinary support. And then we've got leaders in our administration like Attorney General Holder and Secretary Salazar, Kimberly Teehee, Jodi Gillette here at the White House who work tirelessly on this legislation.
+
+And that's nothing to say of all the dedicated judges and prosecutors and tribal and BIA law enforcement officers -- some of whom are here today -- who've supported these efforts. And the determined survivors most of all, like Lisa, who even when it's too late to undo what happened to them, still speak out to seek justice for others.
+
+All of you come at this from different angles, but you're united in support of this bill because you believe, like I do, that it is unconscionable that crime rates in Indian Country are more than twice the national average and up to 20 times the national average on some reservations. And all of you believe, like I do, that when one in three Native American women will be raped in their lifetimes, that is an assault on our national conscience; it is an affront to our shared humanity; it is something that we cannot allow to continue.
+
+So ultimately, it's not just the federal government's relationship with tribal governments that compels us to act, it's not just our obligations under treaty and under law, but it's also our values as a nation that are at stake. And that's why earlier this year, after extensive consultations with tribal leaders, Attorney General Holder announced significant reforms to increase prosecutions of crimes committed in Indian Country. He hired more Assistant U.S. Attorneys and more victim-witness specialists. And he even created a position for a National Indian Country Training Coordinator who will work with prosecutors and law enforcement officers throughout Indian Country.
+
+And under Secretary Salazar's leadership, we're launching new community policing pilot programs. We've overhauled the recruitment process for BIA officers, resulting in a 500 percent jump in applications and the largest hiring increase in history. And we're working to deploy those officers to the field as quickly as possible.
+
+The bill I'm signing into law today will build on these efforts, because it requires the Justice Department to disclose data on cases in Indian Country that it declines to prosecute and it gives tribes greater authority to prosecute and punish criminals themselves. It expands recruitment and retention and training for BIA and Tribal officers and gives them better access to criminal databases. It includes new provisions to prevent counterfeiting of Indian-produced crafts and new guidelines and training for domestic violence and sex crimes. And it strengthens tribal courts and police departments and enhances programs to combat drug and alcohol abuse and help at-risk youth.
+
+So these are significant measures that will empower tribal nations and make a real difference in people's lives. Because as I said during our tribal conference, I have no interest in just paying lip service to the problems we face. I know that too often, this community has heard grand promises from Washington that turned out to be little more than empty words. And I pledged to you then that if you gave me a chance, this time it would be different. I told you I was committed to moving forward and forging a new and better future together in every aspect of our government-to-government relationship.
+
+And slowly but surely, that is exactly what we are doing. At this moment, agencies across our government are implementing detailed plans to increase coordination and consultation with tribal governments -- and I intend to hold them accountable for following through.
+
+We've also included a permanent reauthorization of the Indian Health Care Improvement Act in the health care reform legislation we passed this spring. We're strengthening Tribal education. We're working to spur economic development throughout Indian Country. And in consultation with Indian tribes, we're now formally reviewing the United Nations Declaration on the Rights of Indigenous Peoples. And after 14 long years, we've finally settled the Cobell case and we're working with Congress to get the settlement approved as quickly as possible.
+
+So we're moving forward, and we're making progress. And as we celebrate today, I'm reminded of a visit I made a couple of years ago to the Crow Nation out in Montana. While I was there, I was adopted into the Nation by a wonderful couple -- Hartford and Mary Black Eagle -- so I'm Barack Black Eagle. {LAUGHTER} But I was also -- I was also given a Crow name that means “One Who Helps People Throughout the Land.” And it's a name that I view not as an honor that I deserve, but as a responsibility that I must work to fulfill.
+
+And looking back, I can't help but think that only in America could a guy like me named Barack Obama -- adoptive son of the Crow Nation -- go on to become President. {LAUGHTER ; APPLAUSE} That was improbable when it happened two years ago -- {LAUGHTER} -- but it would have been inconceivable a generation or two before that. And I think the same could be said of this legislation.
+
+And that should ultimately give us all hope. It should remind us that our union has a way of -- over time -- becoming more, and not less, perfect -- more inclusive, more fair, more free. And that's because of people like you -- leaders and public servants and everyday folks who understand that we're more than just heirs to a difficult past. Here in America, we have a chance to choose a different future, and to heed those better angels of our nature and cast our lot with something bigger than ourselves.
+
+So it's in that spirit that I hope we define the relationship between our nations in the years ahead, and it is the goal of this legislation that I am proud to sign into law today.
+
+Thank you very much, everybody. God bless you. God bless the United States of America. {APPLAUSE}
+
+{COMMENT="The bill is signed"} 
+
+{/speech}

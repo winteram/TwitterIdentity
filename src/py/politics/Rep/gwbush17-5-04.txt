@@ -1,0 +1,39 @@
+﻿{title} President Speaks at Brown v Board of Education Natl Historic Site {/title}
+{event} Remarks by the President at Grand Opening of the Brown v Board of Education National Historic Site, Brown VP Board of Education National Historic Site, Topeka, Kansas {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 17, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. Thanks a lot. Please be seated. Thank you all for coming out today. Cheryl, thank you very much for your kind introduction. I appreciate all the Brown family who are here. Justice Breyer. Governor Sebelius is with us today -- Governor, thank you for being here. Leader Frist; Senator Brownback and Senator Roberts from the great state of Kansas. {APPLAUSE} Congressman Jim Ryun -- {APPLAUSE} -- Congressmen Tiahrt, Moran, and Moore, as well, from Kansas. {APPLAUSE} Congressman Elijah Cummings -- thank you for being here, Congressman. Proud you're here. {APPLAUSE} Secretary Norton, and Secretary Paige, distinguished guests; and ladies and gentlemen:
+
+I'm honored to join you at this historic place, to mark a day and a decision that changed America for the better, and forever. {APPLAUSE} Fifty years ago today, nine judges announced that they had looked at the Constitution and saw no justification for the segregation and humiliation of an entire race. Here at the corner of 15th and Monroe, and at schools like it across America, that was a day of justice -- and it was a long time coming.
+
+For millions of African descent, the experience of segregation began in chains and darkness beneath the deck of a ship. A terrible civil war ended their slavery, but did not end their oppression. Generations of African American citizens grew up, and grew old, under laws designed to demean them. Under the rule of Jim Crow, almost no detail of life escaped the supervision of cruel and petty men. The color of your skin determined where you could get your hair cut, which hospital ward you could be treated in, which park or library you could visit, or who you could go fishing with. And children were instructed early in the customs of racial division -- at schools where they never saw a face of another color.
+
+This was codified cruelty, at the service of racism. Segregation dulled the conscience of people who knew better. It fed the violence of people with malice in their hearts. And however it was defended, segregation could never be squared with the ideals of America.
+
+The legal challenges to school segregation began more than 100 years before the Supreme Court heard the case of Brown v. Board of Education. In 1849, African American parents brought suit against Boston's divided schools. Here in Kansas, segregation was challenged in several cases between 1881 and 1949. These early efforts did not bring victory; yet they inspired words and warnings that have spoken across the years. As Justice John Marshall Harlan wrote in his dissenting opinion in Plessy v. Ferguson: "In view of the Constitution, in the eye of the law, there is in this country no superior, dominant ruling class of citizens. The humblest is the peer of the most powerful. The law regards man as man, and takes no account of his surroundings, or of his color."
+
+The fulfillment of that vision decades later fell to a small group of earnest and tenacious lawyers. Two of them would travel thousands of miles together in a 1929 Ford, driving from courthouse to courthouse, with Charles Hamilton Houston and young Thurgood Marshall typing briefs in the car. They documented the often poor conditions of black-only schools -- the holes in the roofs, and dirt floors that ran with mud when it rained. And they pursued a strategy to bring down the whole sorry structure of segregation, case by case.
+
+Eventually, in December of 1953, Thurgood Marshall stood before the Supreme Court as counsel in a consolidated action involving four states and nearly 200 plaintiffs, including 13 families from Topeka, Kansas. Many legal arguments were advanced in the case. Yet the stakes were summarized in the brief Marshall presented to the Court. It stated, "Separate but equal is legal fiction. There never was, and never will be, any separate equality." The Court agreed. As the decision was announced, some were waiting to see which justices would be in dissent. The answer came when Chief Justice Warren declared that the opinion was unanimous. {APPLAUSE}
+
+The decision in Brown versus Board of Education did not end all segregation; did not even end school segregation for many years. The civil rights movement was still waiting on other heroes and cases and laws. Yet, all sides of the equation knew that on May 17th, 1954, a line had been crossed in American history. The system of racial oppression in our country had lost its claim to legitimacy, and the rising demand for justice would not be denied.
+
+Putting the Brown decision into effect would take presidential orders, and the presence of federal troops and marshals, and the courage of children. One of the children who integrated Central High School in Little Rock was Melba Patillo. She recalls white students after gym class turning her shower to scalding. Others broke a bottle and tripped her on the glass, leaving scars that remain today.
+
+Yet, Melba has other memories, as well. She says, "I went in not through the side doors, but up the front stairs, and there was a feeling of pride and hope that, yes, this is the United States; yes, there is a reason I salute the flag; and it's going to be okay." {APPLAUSE}
+
+In the years after Brown, many would know the fears and insults this young woman had faced. A court can make an order, but it was a child that had to walk the gauntlet of slurs and jeers into a school. And America is still grateful to every child who made that walk. {APPLAUSE}
+
+
+In many ways, the events of those years seemed long ago. We tend to think of them as the distant dramas of a different country. Yet, segregation is a living memory, and many still carry its scars. The habits of racism in America have not all been broken. The habits of respect must be taught to every generation. Laws against racial discrimination must be vigorously enforced in education and housing and hiring and public accommodations. Many African Americans with no inheritance but their character need access to capital and the chance to own and build for the future. And while our schools are no longer segregated by law, they are still not equal in opportunity and excellence. Justice requires more than a place in a school. Justice requires that every school teach every child in America. {APPLAUSE}
+
+America has yet to reach the high calling of its own ideals. Yet we're a nation that strives to do right. And we honor those who expose our failures, correct our course, and make us a better people. On this day, in this place, we remember with gratitude the good souls who saw a great wrong, and stood their ground, and won their case. And we celebrate a milestone in the history of our glorious nation.
+
+Thank you for having me. May God bless America. {APPLAUSE} 
+
+{/speech}

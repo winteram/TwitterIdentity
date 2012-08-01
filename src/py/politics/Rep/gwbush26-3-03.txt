@@ -1,0 +1,84 @@
+﻿{title} President Rallies Troops at MacDill Air Force Base in Tampa {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} March 26, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you, all. {APPLAUSE} Thank you, all. Thank you, all, very much. General Delong, thanks for such a kind introduction. 
+
+Laura and I are really proud to be here with the good men and women of CENTCOM and MacDill Air Force Base, Florida. {APPLAUSE} 
+
+We are pleased to see so many family members who are here. We want to -- {APPLAUSE} -- we thank you for coming. And I want you to know your nation appreciates your commitment and your sacrifice in the cause of peace and freedom. {APPLAUSE} 
+
+We're also proud to be here today with our friends and allies, representative of the 48 nations across the world who have joined America in Operation Iraqi Freedom. {APPLAUSE} Over the last week the world has witnessed the skill and honor and resolve of our military in the course of battle. We have seen the character of this new generation of American Armed Forces. We've seen their daring against ruthless enemies and their decency to an oppressed people. Millions of Americans are proud of our military, and so am I. I am honored to be the Commander-in-Chief. {APPLAUSE} 
+
+I appreciate very much General Peter Pace, Vice Chairman of the Joint Chiefs of Staff, who has joined us from Washington, D.C. today. He is representative of the caliber of our generals. He's one of the finest people I know. I'm proud you're here, General Pace. Thank you for representing the Marine Corps so well, and all the fighting men and women. {APPLAUSE} 
+
+I'm proud, also, to be here with Charles Holland, Commander of SOCOM -- {APPLAUSE} , the Wing Commander of MacDill Air Force Base, Colonel Tanker 
+
+Snyder. {APPLAUSE} He told me that was his given name, Tanker. {LAUGHTER} That's a heck of a name, Tanker. {LAUGHTER} 
+
+Of course, I'm really proud of your Governor. {APPLAUSE} 
+
+{AUDIENCE-MEMBER} God bless you, sir! {/AUDIENCE-MEMBER} {LAUGHTER ; APPLAUSE} 
+
+I want to thank members of the Florida congressional delegation who flew down with us today on Air Force One, starting with the Chairman of the Appropriations Committee, a Floridian committed to making sure our military has what it takes to win war and, therefore, be able to keep the peace -- the Chairman, Bill Young. {APPLAUSE} As well, Congressman Jim Davis, Mike Bilirakis, Adam Putnam and Katherine Harris came down today. {APPLAUSE} I know we've got some of the Mayors from the local area here, Rick Baker, Brian Aungst and my old buddy, Dick Greco, the Mayor of Tampa, Florida -- for being here. {APPLAUSE} 
+
+I want to thank everybody in uniform who is here today -- thank you for your service, your sacrifice, and your love of America. {APPLAUSE} I appreciate the members of the United States Coast Guard who are here today. {APPLAUSE} Our Coast Guard is deployed in the Middle East, at the same time it protects this homeland of ours. And you're doing a fine job on behalf of the American people, all up and down the coastlines of this great country. 
+
+I want to thank members of the Florida Army National Guard who are here. {APPLAUSE} And I suspect we might have a few veterans -- {APPLAUSE} 
+
+-- as well as retired members of our military. I want to thank you all for your service, for setting such a clear example for future generations of 
+those who wear our uniform. I think you'll agree that our military is not letting you down when it comes to upholding the great tradition of peace through strength. {APPLAUSE} 
+
+One of the problems with being the President is you always end up being the last guy here. {LAUGHTER} So I'm sorry I didn't get to hear Toby Keith and Daryl Worley. But I want to thank you all for coming and providing your talents today in support of -- support of our efforts to make the world a more peaceful place. I also want to thank Chaplain Stone. I appreciate your words of prayer for our men and women in uniform, especially for your prayers for the loved ones of American and British troops whose lives were lost. 
+
+People across this country are praying. They are praying that they hope those families and loved ones will find comfort and grace in their sorrow. We pray that God will bless and receive each of the fallen, and we thank God that liberty found such brave defenders. {APPLAUSE} 
+
+At MacDill Air Force Base, I know you're proud of a certain Army general who couldn't -- {APPLAUSE} -- who couldn't be with us today on the account of some pressing business. {LAUGHTER ; APPLAUSE} Tommy Franks has my respect, the respect of our military, and the thanks of the United States of America. {APPLAUSE} 
+
+MacDill is the Command Center of our Special Operations Forces -- {APPLAUSE} -- the silent warriors who were first on the ground -- were first on the ground there in Iraq. And here at CENTCOM, you coordinate the work of a grand coalition that is disarming a dangerous enemy and freeing a proud people. {APPLAUSE} 
+
+Every nation in our coalition understands the terrible threat we face from weapons of mass destruction. Every nation represented here refuses to live in a future of fear, at the mercy of terrorists and tyrants. And every nation here today shares the same resolve: We will be relentless in our pursuit of victory. {APPLAUSE} 
+
+Our military is making good progress in Iraq; yet this war is far from over. As they approach Baghdad, our fighting units are facing the most desperate elements of a doomed regime. We cannot know the duration of this war, but we are prepared for the battle ahead. We cannot predict the final day of the Iraqi regime, but I can assure you, and I assure the long-suffering people of Iraq, there will be a day of reckoning for the Iraqi regime, and that day is drawing near. {APPLAUSE} 
+
+Many of you here today were also involved in the liberation of Afghanistan. {APPLAUSE} The military demands are very different in Iraq. Yet our coalition is showing the same spirit, the same resolve -- that spirit and resolve that destroyed the al Qaeda terror camps, that routed the Taliban and freed the people of Afghanistan. {APPLAUSE} 
+
+In Iraq today, our military is focused and unwavering. We have an effective plan of battle and the flexibility to meet every challenge. Nothing -- nothing -- will divert us from our clear mission. We will press on through every hardship. We will overcome every danger. And we will prevail. {APPLAUSE} 
+
+It has been six days since the major ground war began. It's been five days since the major air war began. And every day has brought us closer to our objective. At the opening of Operation Iraqi Freedom, Special Forces helped to secure air fields and bridges and oil fields, to clear the way for our forces and to prevent sabotage and environmental catastrophe. Our pilots and Cruise missiles have struck vital military targets with lethal precision. 
+
+We've destroyed the base of a terrorist group in Northern Iraq that sought to attack America and Europe with deadly poisons. We have moved over 
+
+200 miles to the north, toward Iraq's capital, in the last three days. {APPLAUSE} And the dictator's major Republican Guard units are now under direct and intense attack. {APPLAUSE} Day by day, Saddam Hussein is losing his grip on Iraq; day by day, the Iraqi people are closer to freedom. {APPLAUSE} 
+
+We are also taking every action we can to prevent the Iraqi regime from using its hidden weapons of mass destruction. We are attacking the command structure that could order the use of those weapons. Coalition troops have taken control of hundreds of square miles of territory to prevent the launch of missiles, and chemical or biological weapons. 
+
+Every victory in this campaign, and every sacrifice serves the purpose of defending innocent lives, in America and across the world, from the weapons of terror. We will not wait to meet this danger, with firefighters and police and doctors on the streets of our own cities. Instead, we are meeting the danger today with our Army, Navy, Air Force, Coast Guard, and Marines. {APPLAUSE} 
+
+All the nations in our coalition are contributing to our steady progress. British ground forces have seized strategic towns and ports. The Royal Air Force is striking targets throughout Iraq. The Royal Navy is taking command of coastal waters. The Australian military is providing naval gunfire support, and Special Forces, and fighter aircraft on missions deep in Iraq. Polish military forces have secured an Iraqi oil platform in the Persian Gulf. A Danish submarine is monitoring Iraqi intelligence providing early warning. Czech, Slovak, Polish, and Romanian forces, soon to be joined by Ukrainian and Bulgarian forces, are forward deployed in the region, prepared to respond in the event of an attack of weapons of mass destruction anywhere in the region. Spain is providing important logistical and humanitarian support. Coalition forces are skilled and courageous, and we are honored to have them by our side. {APPLAUSE} 
+
+In the early stages of this war, the world is getting a clearer view of the Iraqi regime and the evil at its heart. In the ranks of that regime are men whose idea of courage is to brutalize unarmed prisoners. They wage attacks while posing as civilians. They use real civilians as human shields. They pretend to surrender, then fire upon those who show them mercy. This band of war criminals has been put on notice: the day of Iraq's liberation will also be a day of justice. {APPLAUSE} 
+
+And in the early stages of this war, we have also seen the honor of the American military and our coalition. Protecting innocent civilians is a central commitment of our war plan. Our enemy in this war is the Iraqi regime, not the people who have suffered under it. As we bring justice to a dictator, today we started bringing humanitarian aid in large amounts to an oppressed land. {APPLAUSE} 
+
+We are treating Iraqi prisoners of war according the highest standards of law and decency. Coalition doctors are working to save the lives of the wounded, including Iraqi soldiers. One of our servicemen said this about the injured Iraqis he treated: "We can't blame them for the mistreatment their government is doing to our soldiers. I'm all for treating them. That's what we do. That's our job." {APPLAUSE} 
+
+Our entire coalition has a job to do, and it will not end with the liberation of Iraq. We will help the Iraqi people to find the benefits and assume the duties of self-government. The form of those institutions will arise from Iraq's own culture and its own choices. Yet, this much is certain: The 24 million people of Iraq have lived too long under a violent criminal gang calling itself a government. 
+
+Iraqis are a good and gifted people. They deserve better than a life spent bowing before a dictator. The people of Iraq deserve to stand on their feet as free men and women -- the citizens of a free country. {APPLAUSE} 
+
+This goal of a free and peaceful Iraq unites our coalition. And this goal comes from the deepest convictions of America. The freedom you defend is the right of every person and the future of every nature. The liberty we prize is not American's gift to the world; it is God's gift to humanity. {APPLAUSE} 
+
+The Army Special Forces define their mission in a motto, "To liberate the oppressed." {APPLAUSE} Generations of men and women in uniform have served and sacrificed in this cause. Now the call of history has come once again to all in our military and to all in our coalition. We are answering that call. We have no ambition in Iraq except the liberation of its people. We ask no reward except a durable peace. And we will accept no outcome short of complete and final success. {APPLAUSE} 
+
+The path we are taking is not easy, and it may be long. Yet we know our destination. We will stay on the path -- mile by mile -- all the way to Baghdad, and all the way to victory. {APPLAUSE} 
+
+Thank you, all. And may God bless America. {APPLAUSE} 
+
+{/speech} 

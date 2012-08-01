@@ -1,0 +1,154 @@
+﻿{title} Speech at Southwest Missouri State University {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} July 30, 2004 {/date}
+{source} http://www.gwu.edu {/source}
+{description} Bush's first speech following the Democratic National Convention. {/description}
+
+
+{speech} 
+
+Thank you, all. 
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+Thank you all very much. Thank you, please be seated. Thanks for coming. {APPLAUSE} It's great to be in the heartland of our country. {APPLAUSE} And I want to thank you all for being here this morning to help kick off our Heart and Soul of America Tour. {APPLAUSE} 
+
+There will be big differences in this campaign. They're going to raise your taxes, we're not. {APPLAUSE} I have a clear vision on how to win the war on terror and bring peace to the world. {APPLAUSE} They somehow believe the heart and soul of America can be found in Hollywood. 
+
+{BOOING} 
+
+The heart and soul of America is found right here in Springfield, Missouri. {APPLAUSE} 
+
+I'm looking forward to the campaign. I'm looking forward to getting out amongst the people. We're going to Michigan and Ohio this weekend. Everywhere I've been going the crowds are big, the enthusiasm is high, the signs are good -- with your help, Dick Cheney and I will lead this nation for four more years. {APPLAUSE} 
+
+I'm sorry Laura is not here -- I know you are, too. {LAUGHTER} You probably wish she was speaking, and not me. {LAUGHTER} She is a great First Lady. {APPLAUSE} Today you'll hear some reasons why I think you need to put me back into office. But perhaps the most important reason of all is so that Laura will be First Lady for four more years. {APPLAUSE} 
+
+I appreciate my running mate. I tell you, he's not the prettiest man in the race -- {LAUGHTER} -- but he's got sound judgment -- {APPLAUSE} -- and he's got great national -- he's got great experience in national security. He's a steady man. I'm proud to have him by my side for four more years. {APPLAUSE} 
+
+I thank my friend, Roy Blunt, for his leadership and for his great introduction. I'm proud to be working with you. {APPLAUSE} I appreciate my friend, Kit Bond. You need to send him back to Washington, D.C. {APPLAUSE} And two years ago, you sent a good one from Missouri in Jim Talent. I appreciate you, Senator. Thank you for being here. {APPLAUSE} 
+
+I'm honored that Kenny Hulshof and Jo Ann Emerson are with us, two fine members of the House of Representatives. Thank you all for coming. Proud you're here. {APPLAUSE} Speaker Catherine Hannaway, it's good to see you again. It wasn't just but yesterday, it seemed like, we were in St. Charles, Missouri together. Thank you for coming. I appreciate your warm introduction there. {APPLAUSE} 
+
+Can't help but notice my friend Johnny Morris is here. Gosh, I wish we were fishing. {LAUGHTER} I was in the Bass Tracker, I want you to know, over the weekend in Crawford. It didn't sink. {LAUGHTER} Great to see you, friend. Thanks for coming. 
+
+I'm proud so many citizens showed up here. I appreciate the grassroots activists who are here. I'm here to ask for your help. I'm not only traveling the country to ask for the vote, I'm here to ask for your help. I'd like you to call up people on the phone and encourage them to register to vote. Encourage them to do their duty on election day to vote. And when you get them headed toward the polls, make sure you nudge them toward that George Bush/Dick Cheney lever. {APPLAUSE} 
+
+I'm glad Joe White is here. He runs Kanakut Camps. Thanks for coming, Joe, I appreciate you coming. {APPLAUSE} I met a fellow named Charlie Graas. He's a volunteer with the Stone County Food Pantry. Let me tell you why I mention him. The strength of America is in the hearts and souls of our citizens, people who are willing to feed the hungry, provide shelter for the homeless, love a neighbor in need. Charlie, thank you for being an army -- a soldier in the army of compassion. {APPLAUSE} 
+
+Every incumbent who asks for the vote has to answer one question: Why? Why should the American people give me the great privilege of serving as your President for four more years? In the past few years, we've been through a lot together. We've accomplished a great deal. But there's only one reason to look backward at the record, and that is determine who best will lead the nation forward. {APPLAUSE} I'm asking for your vote because so much is at stake: prosperity and peace. We have so much more to do to move this country forward. Give me four more years, and America will continue to march toward peace and better prosperity. {APPLAUSE} 
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+I'm asking for four more years to make our country safer, to make the economy stronger, to make our future better and brighter for every, single citizen. From creating jobs to improving schools; from fighting terror to protecting our homeland, we have made much progress, and there is more to do. {APPLAUSE} 
+
+We have more to do to make America's public schools the centers of excellence we all know they can be, so that no child is left behind in America. When we came to office three-and-a-half years ago, too many of our children were being shuffled from grade to grade, year after year, without learning the basics. We're challenging the soft bigotry of low expectations. We've raised the bar. We're setting high standards. We're focusing on results. We're insisting on accountability. We're empowering parents. We're making sure local folks are in charge of schools. And, today, children across America are showing real, substantial progress in reading and math. {APPLAUSE} When it comes to improving America's public schools, we are turning the corner and we're not turning back. {APPLAUSE} 
+
+This world of ours is changing. The jobs of the future will require greater knowledge and higher level skills. We'll reform our high schools to make sure a high school diploma means something. We will expand math and science education so our young people can compete in a high tech world. We will expand the use of the Internet to bring high-level training into our classrooms. With four more years, we'll help a rising generation gain the skills and the confidence to achieve the American Dream. {APPLAUSE} 
+
+We have more to do to make quality health care available and affordable. When we came to office, too many older Americans could not afford prescription drugs. Medicare didn't pay for them. Leaders in both political parties had promised political -- had promised prescription drug coverage for years. We got it done. {APPLAUSE} More than 4 million seniors have signed up for drug discount cards that provide real savings. And beginning in 2006, all seniors on Medicare will be able to choose a plan that suits their needs and gives them coverage for prescription drugs. 
+
+We've expanded community health centers for low income Americans. We've created health savings accounts so families can save, tax-free, for their own health care needs. When it comes to giving Americans more choices about their own health care and making health care more affordable, we are turning the corner and we're not turning back. {APPLAUSE} 
+
+This world of ours is changing. Most Americans get their health care coverage through their work. Most of today's new jobs are created by small businesses, which too often cannot afford to provide health coverage. To help more American families get health insurance, we must allow small employers to join together to purchase insurance at discounts available to big companies. {APPLAUSE} 
+
+To improve health care we must limit the frivolous lawsuits that raise the cost of health care and drive good doctors out of medicine. {APPLAUSE} We must harness technology to reduce costs and prevent deadly health care mistakes. We must do more to expand research and development for new cures for terrible diseases. 
+
+In all we do to improve health care in America, we will make sure the health decisions are made by doctors and patients, not by bureaucrats in Washington, D.C. {APPLAUSE} 
+
+We have more to do to make America's economy stronger. We've come through a recession, terrorist attacks, corporate scandals. We overcame these obstacles because of the hard work and will of the American entrepreneur, the small business owner, the farmers and the workers. And we came through these obstacles because of well-timed tax cuts. {APPLAUSE} 
+
+We gave tax relief to every American who paid taxes. We didn't play favorites with the tax code, we didn't try to pick winners or losers. We made sure families with children, and married couples and small businesses got tax relief. {APPLAUSE} And this time the check really was in the mail. {LAUGHTER ; APPLAUSE} 
+
+Because we acted, our economy since last summer has grown at a rate as fast as any in nearly 20 years. {APPLAUSE} Because we acted, America has added more than 1.5 million new jobs since last August. {APPLAUSE} Because we acted, Missouri has added more than 82,000 jobs over the past 11 months; your unemployment rate is now 5.2 percent. {APPLAUSE} When it comes to creating jobs for America's workers, we are turning the corner and we are not turning back. {APPLAUSE} 
+
+Today, I met a fellow named Kit Carson. He's a small business owner here in Springfield. The most new jobs in America are created by small business owners. That's why the cornerstone of our tax relief plan says we're going to help the small business owners. {APPLAUSE} 
+
+Here's what he said about tax relief. This is a fellow who's hiring people right here in this area; this is a fellow who's making investments. He said the effect is already -- is showing already. It's going to get better. I'm an optimistic guy, he says; I think we might see a boom bigger than the 90's. The tax relief we passed is working. {APPLAUSE} 
+
+We will do more to make America more job friendly and America's workplaces more family friendly. To keep American jobs in America, regulations should be reasonable and fair. To keep the jobs here at home, we must lessen our dependence on foreign sources of energy. {APPLAUSE} To keep American jobs here, we must end the junk lawsuits that hurt our small businesses. {APPLAUSE} And to keep this economy growing so people can find work, we will not overspend your money, and we will keep your taxes low. {APPLAUSE} 
+
+We'll offer America's workers a lifetime of learning, and help them get training for jobs of the future at places like our community colleges. The education and training they offered can bridge -- can be the bridge between people's lives as they are, and people's lives as they want them to be. 
+
+Today, I met Kristin Heydt. She's from Springfield, as well. She used to be a bank teller. With the tax relief she and her family had as a result of the tax cuts, she went back to school. She's now a nurse. She completed a program. She now makes three times the amount of money she made before, because of education. {APPLAUSE} 
+
+Good education means workers can realize their dreams. To make sure we continue to grow our economy, we will insist on a level playing field when it comes to trade. We want Missouri farmers selling Missouri crops all over the world. {APPLAUSE} And we'll make sure American families keep more of something they never have enough of, and that's time -- time to play with the kids, time to go to the little league games, time to care for elderly parents, or time to go to class themselves. I believe Congress ought to enact comp-time and flex-time to help America's families better juggle the demands of work and their home. {APPLAUSE} 
+
+The goals of the economic agenda are clear. After four more years, our nation will have more small businesses, greater opportunities, better jobs, and higher wages for the American people. {APPLAUSE} 
+
+We have more to do to wage and win the war against terror. America's future depends on our willingness to lead in the world. If America shows uncertainty and weakness in this decade, the world will drift toward tragedy. This will not happen on my watch. {APPLAUSE} The world -- the world changed on a terrible September morning. And since that day, we changed the world. 
+
+Before September the 11th, Afghanistan served as the home base for al Qaeda, which trained and deployed thousands of killers and set up terror cells in dozens of countries, including our own. Today, Afghanistan is a rising democracy, an ally in the war on terror, a place where many young girls go to school for the first time. And as a result of our actions, America and the world are safer. {APPLAUSE} 
+
+Before September the 11th, Pakistan was a safe transit point for terrorists. Today, Pakistani forces are aggressively helping to round up the terrorists, and America and the world are safer. {APPLAUSE} Before September the 11th, in Saudi Arabia, terrorists were raising money and recruiting and operating with little opposition. Today, the Saudi government has taken the fight to al Qaeda, and America and the world are safer. {APPLAUSE} Before September the 11th, Libya was spending millions to acquire weapons of mass destruction. 
+
+Today, because America and our allies have sent a strong and clear massage, the leader of Libya has abandoned his pursuit of weapons of mass destruction and America and the world are safer. {APPLAUSE} Before September the 11th, the ruler of Iraq was a sworn enemy of America. He was defying the world. He was firing weapons at American pilots and forcing the world to sanctions. He has pursued and used weapons of mass destruction against his own people. He had harbored terrorists, he invaded his neighbors, he subsidized the families of suicide bombers. He had murdered tens of thousands of his own citizens. He was a source of great instability in the world's most vulnerable region. 
+
+I took those threats seriously. After September the 11th, we had to look at the threat in a new light. One of the lessons of September the 11th is we must deal with threats before they fully materialize. {APPLAUSE} 
+
+The September the 11th Commission concluded that our institutions of government had failed to imagine the horror of that day. After September the 11th, we cannot fail to imagine that a brutal tyrant who hated America, who had ties to terror, had used weapons of mass destruction and might use those weapons or share his deadly capability with terrorists was not a threat. 
+
+We looked at the intelligence; we saw a threat. Members of the United States Congress from both political parties, including my opponent, looked at the intelligence and they saw a threat. {APPLAUSE} We went to the United Nations, which unanimously demanded a full accounting of Saddam Hussein's weapons programs, or face serious consequences. After 12 years of defiance, he refused to comply with the demands of the free world. When he continued to deceive the weapons inspectors, I had a decision to make: to hope for the best and to trust the word of a madman and a tyrant, or remember the lessons of September the 11th and defend our country. Given that choice, I will defend America every time. {APPLAUSE} 
+
+When it comes to fighting the threats of our world and making America safer and promoting the peace, we're turning the corner and we're not turning back. {APPLAUSE} We have more to do. We will continue to work with our friends and allies around the world to aggressively pursue the terrorists and foreign fighters in places like Iraq and Afghanistan and elsewhere. See, you can't talk sense to the terrorists. You can't hope for the best. You can't negotiate with them. We will engage those enemies around the world so we do not have to face them here at home. {APPLAUSE} 
+
+We will continue to lead the world with confidence and moral clarity. We've put together a strong coalition to help us defeat the terrorist threats. Over 40 nations are involved in Afghanistan, some 30 nations are involved in Iraq. Over the next four years, I will continue to work with our friends and build alliances. But I will never turn over America's national security decision to leaders of other countries. {APPLAUSE} 
+
+We will keep our commitment to help Afghanistan and Iraq become peaceful, democratic societies. These two nations are now governed by strong leaders. They're on the path to free elections. More and more people in Afghanistan and Iraq are stepping up to secure their own country from these killers. They understand the benefits of a free society. Moms and dads in Afghanistan and Iraq want their children to grow up in a peaceful world, and so do we. {APPLAUSE} 
+
+The people of these countries can count on our continued help. When we acted to protect our own security, we promised to help deliver them from tyranny, to restore their sovereignty, to set them on the path of liberty. And when America gives its word, America will keep its word. {APPLAUSE} 
+
+In these crucial times, our commitments have been kept by the men and women of our military. {APPLAUSE} I thank those who are here today who wear our uniform, and I thank their families, as well. {APPLAUSE} I've seen their great decency and the unselfish courage of those who wear our uniform. The cause of freedom is in good hands. And when these good folks are in harm's way, they deserve the best pay, the best equipment, the best possible training. {APPLAUSE} 
+
+That's why last September, when our troops were in combat in both Afghanistan and Iraq, I proposed supplemental funding to support them in their missions. The legislation provided for body armor and vital equipment, hazard pay, health benefits, ammunition, fuel, spare parts. In the Senate, only a handful of what I would call "out of the mainstream" folks -- that would be 12 senators -- voted against that legislation. Two of the 12 are my opponent and his running mate. {APPLAUSE} 
+
+{BOOING} 
+
+He tried to explain his vote by saying: I actually did vote for the $87 billion, before I voted against it. {LAUGHTER} End quote. He's got a different explanation now. One time he said he was proud he voted against the funding, then he said the whole thing was a complicated matter. {LAUGHTER} There is nothing complicated about supporting our troops in combat. {APPLAUSE} 
+
+In the long run, our security is not guaranteed by force, alone. We must work to change the conditions that give rise to terror: poverty and hopelessness and resentment. You see, a free and peaceful Iraq and a free and peaceful Afghanistan will be powerful examples to a neighborhood that needs the example of liberty. Free countries do not export terror. Free countries do not stifle the dreams of their citizens. By serving the ideal of liberty, we're bringing hope to others, and that makes America more secure. By being resolute and strong, by working for the ideal of liberty -- after four more years, America will be more secure and the world will be more peaceful. {APPLAUSE} 
+
+These are still dangerous times. There's an enemy out there that would like to hurt us and change our way of life and shake our will and shake our confidence. I agree with the conclusion of the September 11th Commission when they said our homeland is safer, but we are not yet safe. We've started the hard process of reform. We've transformed our defenses and created a new Department of Homeland Security. We passed the Patriot Act to give law enforcement new tools to track terrorists. {APPLAUSE} The mission of the FBI is now focused on preventing terrorism. 
+
+We're integrating intelligence and law enforcement better than we have ever before. When it comes to better protecting America, we're turning the corner, and we're not turning back. {APPLAUSE} We will do more to better secure our ports and borders, to train first responders, to dramatically improve our intelligence gathering capabilities. Reform is not easy, and it never is; achieving reform takes -- requires taking on the special interests, requires challenging the status quo. 
+
+You see, it's not enough to advocate reform -- you have to be able to get it done. {APPLAUSE} When it comes to reforming schools provide an excellent education for all our children, results matter. When it comes to health care reforms to give families more access and more choices, results matter. When it comes to improving our economy and creating new jobs, results matter. {APPLAUSE} When it comes to better securing our homeland and fighting the forces of terror, results matter. {APPLAUSE} And when it comes to choosing a President, results matter. {APPLAUSE} 
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+This week, members of the other party gathered in Boston. We heard a lot of clever speeches, and some big promises. My opponent has good intentions, but intentions do not always translate to results. {APPLAUSE} 
+
+After 19 years in the United States Senate, my opponent has had thousands of votes, but very few signature achievements. {APPLAUSE} During eight years on the Senate Intelligence Committee, he voted to cut the intelligence budget. And he had no record of reforming America's intelligence-gathering capability. He had no significant record for reforming education and health care. As a matter of fact, he and his running mate consistently opposed reforms that limit the power of Washington and leave more power in the hands of the people. {APPLAUSE} 
+
+He's spent nearly 20 years in the federal government, and it appears he's concluded that it's just not big enough. {LAUGHTER} He's proposed more than $2 trillion of additional federal spending, and he's just getting started. {LAUGHTER} The problem is, he hasn't told us how he's going to pay for it. We can figure it out, can't we? 
+
+{AUDIENCE} Yes! {/AUDIENCE} 
+
+He's had a history of voting for higher taxes. 
+
+{AUDIENCE} Yes! {/AUDIENCE} 
+
+We're going to make it clear his prescription for America is the wrong medicine. {APPLAUSE} We're not turning back to the old days, the old Washington mind set that says they will give the orders, you will pay the bills. We've turned a corner from that way of thinking, and we're not turning back. {APPLAUSE} 
+
+These are exciting times for our country. It's a time of amazing change. The economy is changing. The world is changing. In our parents' generation, moms usually stayed home while fathers worked for one company until retirement. The company provided health care, and training, and a pension. Many of the government programs and most basic systems, from health care to Social Security to the tax code were based, and still are based on those old assumptions. 
+
+This is a different world. Workers change jobs and careers frequently. Most of these jobs are created by small businesses. They can't afford to provide health care or pensions or training. Parents are working; they're not at home. We need to make sure government changes with the times, and to work for America's working families. You see, American workers need to own their own health care accounts. They need to own and manage their own pensions and retirement systems. {APPLAUSE} They need more ownership so they can take the benefits from job to job. They need flex-time so they can work out of the home. 
+
+All of these reforms are based on this conviction: The role of government is not to control or dominate the lives of our citizens. {APPLAUSE} The role of government is to help our citizens gain the time and the tools to make their own choices and improve their own lives. {APPLAUSE} That's why I will continue to work to usher in a new era of ownership and opportunity in America. We want more people owning their own home. We want more people owning their own business. We want more people owning and managing their own health care system. We want more people owning and managing a part of their retirement systems. When a person owns something, he or she has a vital stake in the future of the United States of America. {APPLAUSE} 
+
+In this world of rapid change, some things will never change. Our conviction that every life matters and every life counts will not change. {APPLAUSE} Our belief in liberty and opportunity and the non-negotiable demands of human dignity will not change. {APPLAUSE} The individual values we try to live by -- courage and compassion, reverence and integrity, hard work and duty -- won't change. {APPLAUSE} We'll always honor the institutions that give us direction and purpose, our families, our schools, our religious congregations. {APPLAUSE} These values and institutions are fundamental to our future. They deserve the respect of our government. {APPLAUSE} 
+
+We stand for institutions like marriage and family, which are the foundations of society. {APPLAUSE} We stand for a culture of life in which every person matters and every person counts. We stand for judges who strictly and faithfully interpret the law, instead of legislating from the bench. {APPLAUSE} And we will work together to build a culture of responsibility. The culture of this country is changing from one that has said, if it feels good, just go ahead and do it, and, if you've got a problem, blame somebody else, to a culture in which each of us understands that we're responsible for the decisions we make in life. {APPLAUSE} 
+
+If you are fortunate to be a mother or a father, you're responsible for loving your child with all your heart and all your soul. {APPLAUSE} If you're worried about the quality of the education in the community in which you live, you're responsible for doing something about it. {APPLAUSE} If you're a CEO in corporate America, you're responsible for telling the truth to your shareholders and your employees. {APPLAUSE} And in a responsibility society, each of us is responsible for loving our neighbor, just like we'd like to be loved ourselves. {APPLAUSE} 
+
+For all Americans, these years in our history will always stand apart. There are quiet times in the life of a nation when little is expected of its leaders. This isn't one of those times. None of us will ever forget that week when one era ended and another one began. September the 14th, 2001, I stood in the ruins of the Twin Towers. It's a day that I will never forget. I remember the workers in hard hats yelling at me, "Whatever it takes." I remember a fireman or a policeman, I can't remember which one, looking me in the eyes and saying, "Do not let me down." As those folks did that day, and like many other Americans, we took it personally. I took it personally. I have a responsibility that goes on. I wake up every morning thinking about how to better protect our country. I will never relent in defending America, whatever it takes. {APPLAUSE} 
+
+We've come through much together. We've done some hard work. We've turned a corner. We've moved -- we're moving America forward by extending freedom and peace around the world. We're expanding opportunity here at home. During the next four years, we will spread ownership and opportunity to every corner -- every corner of this country. We will pass the enduring values of our country to another generation. We will lead the cause of freedom and peace and we will prevail. With your support, and with your prayers, I will be a leader America can count on in a world of change. {APPLAUSE} 
+
+Four years ago, as I traveled this great country asking for the vote, I made a pledge to my fellow Americans, that if you honored me with this great responsibility, I would uphold the dignity and the honor of the office to which I had been elected. {APPLAUSE} With your help, I will do so for four more years. {APPLAUSE} 
+
+Thanks for coming. May God bless. Thank you, all. {APPLAUSE} 
+
+
+{/speech} 

@@ -1,0 +1,20 @@
+﻿{title} Remarks by the President at Launch of Public Service Announcements {/title}
+{event} Launch of Public Service Announcements {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 2, 1997 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Thank you, Bud Selig, Peter Angelos, Jim Hunter. To Norm Augustine, the Chairman of Lockheed Martin and our Educational Excellence Partnership and to Cal Ripken, who is the very embodiment of excellence. {APPLAUSE}
+
+Ladies and gentlemen, excellence in baseball requires teamwork, hard work and setting high standards of excellence. So does excellence in education. The Educational Excellence Partnership, including all-star athletes, businesses, governors and teachers, are pitching in to help our children aim high. The young people here behind me from the Boys and Girls Clubs of America embody the kind of future we're trying to build for them.
+
+I want to thank all of you out there who have worked hard to set high standards, not only for your own children but for the other children in your community. I want to thank Cal and Kelly Ripken for the outstanding contribution they are making to literacy here in Baltimore. And I want to urge all of you to rededicate yourselves to the idea that every one of our children can learn; and we will not get into the 21st century with the future we want for them until we expect every one of them to learn and we give them the ability, the tools and the support they need to learn. {APPLAUSE}
+
+We are very fortunate that outstanding major league baseball players, along with business leaders like Norm Augustine, have supported this public service campaign for educational excellence. I want you to watch these ads now and I hope you will heed them. I hope you will support my call for national standards of excellence in reading and math and go back home and think about what you can do to make sure that every one of our children is as devoted to excellence in education as the baseball players we'll enjoy watching today from the Phillies and the Orioles, are to excellence in their sport.
+
+Thank you and God bless you all. {APPLAUSE} 
+
+{/speech}

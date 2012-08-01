@@ -1,0 +1,44 @@
+﻿{title} Remarks by the President in Meeting with Mayors {/title}
+{event} Meeting with Mayors {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 5, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I want to thank all of the mayors who spoke and all the ones who are here who have not spoken for their strong support without regard to party or region or the size of the communities from which they come. As a matter of fact, when I heard the Mayor of York, Pennsylvania speak, I was trying to decide whether his tie was a Republican or a Democratic tie. {LAUGHTER}
+
+I think it is really an all-American tie. It's a bold tie, the Vice President said. {LAUGHTER}
+
+I want to say a special word of thanks, too, to the Secretary of the Department of Housing and Urban Development Henry Cisneros who is with us who has worked very closely with the mayors.
+
+I have just a few things I want to say about this. First of all, any mayor who has served for any length of time has been compelled to make the kinds of choices that are embodied in this economic program. If you look at the budgets of the cities of this country or the budgets of the states of this country over the last decade you will see the choices that have been imposed in order to balance books and keep the functions of our cities running, in order to deal with relative reductions in federal assistance and all the economic crises that have ripped our communities. Mayors have learned to cut budgets and to shift funds away from inessential things toward investments in our futures.
+
+I know that that is one reason that mayors intuitively and without regard to party have responded to my efforts to increase investment and reduce the deficit at the same time. We have to do both. Today there was a report that the unemployment rate in February dropped to seven percent, one-tenth of one percent, and that 365,000 jobs were created -- an estimated 365,000 jobs. That is good news. But if you look behind the numbers, it also reveals the stark challenges before us, for most of those jobs were part-time jobs, and we are still about three million jobs behind where we would ordinarily be in a recovery.
+
+Indeed, we are, according to the aggregate economic statistics, in a recovery in which, ironically, the unemployment rate is still higher than it was at the very bottom of the recession. That shows you that there is a fundamental restructuring going on in the American economy which requires an extraordinary approach to the creation of jobs in the short and in the long-term.
+
+That's why these investments in repairing our streets and bridges, renovating our housing, rebuilding our water and sewer lines, improving mass transit, retooling our industrial parks, and protecting our environment are important parts of the larger plan also to invest in our people and their economic, educational and technological futures.
+
+Through $3 billion in additional funding for highways, airports and mass transit; $2.5 billion in community development block grants, which can be used to create new jobs and improve the quality of life, communities will be able to complete projects they've needed for years but haven't been able to finance. They will create new jobs today, but they will also build the foundations for broader economic growth in the private sector tomorrow.
+
+This plan also will create almost 700,000 new jobs this summer for unemployed young people -- something that will be profoundly important again in sending the right signals. We all know, for example, that the financial markets, as Mayor Dinkins said, respond to the right signals -- interest rates are down almost one full point now. And if we can keep them down for several months, we may well put another $100 billion in refinancing back into this economy for investment and growth.
+
+Why? Because the markets have responded to a signal. Well, people respond to signals, too. People in San Diego, where the unemployment has been so high, will respond to a signal. Will this stimulus program give a job to every person in San Diego? Of course, not, but it will send a signal that America is on the move again. Will this stimulus program provide a summer job for every young person in South Central Los Angeles that Mayor Bradley is so concerned about? Of course not, but it will sure send a signal that America is on the move again and coming together again.
+
+Will it in the beginning provide enough funds for everybody to do in every city what Mayor Lanier and Mayor Friedman and others have done in parts of their communities with community policing? Of course, not. But it will provide a beginning, and it will send a signal that we are moving in the right direction. And it will actually have an economic impact that is positive. These things are very important.
+
+I also don't want to forget the fact that a significant percentage, almost half, of this stimulus package is as incentives to the private sector for private investment in these same communities. Small businesses have created virtually all of the new jobs in our country in the last 10 years. Their inability to create more jobs than larger employers have been shedding is the central cause of stagnant employment in America. So the small business tax credit that we offer, the new business long-term capital gains tax and the other incentives for businesses, both small and large to create new jobs is very important.
+
+This plan is based on the idea that we all have to work together to build our future; the idea that we have to look at the long run needs for the 365,000 or so kids that will be in Head Start; for the millions of young people who we want to provide for education and training; for all the people who have lost their jobs because of defense cutbacks or other industrial relocations, that they need intense efforts to reinvest in their community as well as to retraining opportunities. That we need to couple those long-term efforts with the short-term stimulus that will send the right signal, spark this economy and get some job growth back in to this recovery.
+
+This is not, as so many have said, a partisan issue. It is not a small town or a large city issue. It is something that we all have to face to get the job done. And I'm very grateful for the support that's been given.
+
+Now, before I answer questions, I'd like to make just a very brief announcement that I think the press here already knows about. But I want to formally announce that in Vancouver, Canada on April 3rd and 4th, I will meet with President Yeltsin of Russia to explore what the United States can do to support his efforts to strengthen democracy and to create a vibrant market economy, and to support our common interests in solving crises around the world in maintaining a general march toward peace and freedom and democracy.
+
+I will try to be rather specific at that time in terms of what the United States will be prepared to do, and we will try to offer some innovative solutions to the difficulties faced by the President and by the Russian people.
+
+I hope that this will be a very productive thing. I look forward to it. I'll be glad to answer a few questions about that, but I hope, too, that you recognize that the significance of this action today is that if we can have enough bipartisan support to pass an economic program in the Congress that will strengthen America, America, in turn, will be better able to deal with the problems that we face beyond our borders. Unless we're strong here, it's going to be very difficult for us to meet our responsibilities around the world. 
+
+{/speech}

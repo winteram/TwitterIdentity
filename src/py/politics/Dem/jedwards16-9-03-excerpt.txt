@@ -1,0 +1,40 @@
+﻿{title} Official Announcement of Candidacy for President of the United States {/title}
+{event} ----- {/event}
+{speaker} John Edwards {/speaker}
+{date} September 16, 2003 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+Good morning. And welcome to my hometown, Robbins, North Carolina! {APPLAUSE}
+
+It is great to be home with family, my parents, my wife Elizabeth, all my children, and with my dearest friends. Thank you for giving me the life and for the example that you have set for me. Thank all of you for being here today. I have come home to stand in the shadow of the mill where my father worked, where I, myself, worked as a young boy, and where I learned the value of hard work and a hard day's work. 
+
+We're not far today from the post office where my mother worked, the church which is right over here, where we went to church every Sunday, and the high school where I played football and dreamed that I'd be the first person in my family to go to college. 
+
+I grew up in an American town, and I grew up with America's dream. I owe everything I have to the America that I grew up in. This is where I learned that a job is about more than a paycheck, it's about dignity, self-respect, self worth. This is where I learned that the simple promise of America is the enduring greatness of America, a better life for all who worked for it. {APPLAUSE} 
+
+And so, this is where today, to make opportunity the birth right of every single American, I declare myself a candidate for president of the United States. {APPLAUSE} 
+
+Thank you. Thank you. Thank you. 
+
+America deserves a president who understands that the people of this country work, and the people of this country work hard and a president who will stand up for those people, someone who will stop at nothing to create opportunity for all the great people of this country. That's the promise of America, a fair shake for all and a free ride for none. 
+
+We want to live in a country where the promise of America is always kept and never broken. We want the America we believe in to be the America our children grow up in, where all children have the same opportunity that I had, the chance to live out their dreams and make the most of the talents God gave them. We want to live in an America that works for all of us. That's the America I grew up in. That is the America I believe in. {APPLAUSE} 
+
+I have spent my life fighting my heart out for the kind of people that I grew up with right here in Robbins. As a lawyer for two decades, I stood with families and children against HMOs and insurance companies, standing up for folks who played by the rules against those who didn't. We fought those battles and we won, and I promise to fight for you with the same passion and energy that I fought for them. 
+
+I haven't spent most of my life in politics, which most of you know, but I have spent enough time in Washington to know how much we need to change Washington. {APPLAUSE} 
+
+You know, the truth is, folks from here in Robbins, they don't have lobbyists in Washington D.C. They don't have lobbyists working for them and fighting for them. They count on their government to protect them, to protect their interests, and they deserve a president who goes to work every day thinking about them, fighting for them, protecting them. That's the president that the people of Robbins need. {APPLAUSE} 
+
+Well, I have never taken a dime from special interest pacts or Washington lobbyists. I have spent my life working for people against those special interests. I know this fight, I am ready for this fight, and we will win this fight. {APPLAUSE}
+
+And we deserve a president who's close to our people, not close to the lobbyists, who listens to our people because he knows them, because he works for them, a president who hearse them, even when they can't speak, when they can't speak because they've lost their job, because they're caring for a child, or just because the simple struggle to make ends meet leaves them with no time for anything else. 
+
+Well, George Bush's guiding principle is a twisted reflection of the American bargain. Instead of opportunity for all, special privileges for none. He's given us, opportunity for all the special interests. 
+
+
+{/speech} 

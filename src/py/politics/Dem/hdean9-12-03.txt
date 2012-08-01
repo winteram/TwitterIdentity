@@ -1,0 +1,79 @@
+﻿{title} Speech in Harlem {/title}
+{event} ----- {/event}
+{speaker} Howard Dean {/speaker}
+{date} December 9, 2003 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} This speech is composed of two parts. Between the two there was Gore speech to endorse Dean. {/description}
+
+
+{speech} 
+
+I want to note that we have the speaker of the city council here, Gifford Miller. I don't where he is, but I know he's here. We thank him for being here. 
+
+And I also want to note, in addition to our special guest, that we have Karenna Gore here. 
+
+And we thank you very much for being here as well. {APPLAUSE}
+
+I am deeply grateful to my former roommate, Ralph Dawson, and all his friends and committee that put this together. It is great to be back in Harlem and I really appreciate all the community leaders that have come out.
+
+And I thank you for your help.
+
+I am, of course, going to make very brief remarks. When we set this even up, I had absolutely no idea that we were going to have the elected president of the United States here with us today. {LAUGHTER ; APPLAUSE}
+
+And I am very, very grateful for our special guest.
+
+I'm just going to make a few very, very short remarks. 
+
+First, I think many of you know that this campaign is about some issues that are important: about jobs in America again; about investing -- instead of giving $3 trillion worth of tax cuts to the top 1 percent of Americans, it's about mass transit and schools and investing in roads and bridges and renewable energy and broadband telecommunications so we can eliminate the digital divide and have jobs all over America. 
+
+It's about health insurance for every American. In my state, everybody under 18 has health insurance. And if we can do those kinds of things in a small rural state, we can do that in the wealthiest and most powerful nation on the face of the Earth. 
+
+It's about educational opportunity. It's about a president who says, "No child left behind," but leaves many children behind. We're going to change that and this time there really will be no child left behind. We're going to start right here in Harlem. {APPLAUSE}
+
+But there's also a much broader theme, and that is a theme to do with community. When I was 21 years old, it was toward the end of the civil rights movement, and it had been a very difficult time for America. Martin Luther King had been killed, Bobby Kennedy had been killed and a number of other people, including four little girls in a Birmingham church, gave their lives so that every American could have equal rights under the law.
+
+But it was also a time of extraordinary hope, a time where we felt like we were all in it together; that if one person was left behind, then America wasn't as good as it could be or as strong as it should be. 
+
+That's the kind of America we want back again, the America where Medicare passed for the first time, Head Start passed, the Voting Rights Act, the Civil Rights Act, the first African-American justice of the United States Supreme Court. 
+
+A time when it wasn't enough for me, as a citizen of Vermont, to say, "I wanted good schools," or you, as a citizen of New York, to say, you want good schools. But I had a responsibility not just to have good schools in Vermont or you to have good schools in New York, but as Americans we had a responsibility to have good schools in our states and our towns and good schools in Alabama and in Mississippi and in Brownsville, Texas, and in Oakland, California, and East New York; that was our responsibility too. {APPLAUSE}
+
+What we want is our community back and our country back, the country where we are all in this together. 
+
+It is an extraordinary honor for me to be standing on the stage with someone who I have admired greatly, who has taught me a great deal during this campaign on issues such as foreign policy, such as defense. 
+
+He's an extraordinary human being who I have gotten to know over the past few years, someone who has a long career in public service, who served his country honorably in the armed services, someone who I believe in and somebody who we believe in and we admire. 
+
+It is an honor and privilege to present to you former Vice President of the United States Al Gore. {APPLAUSE}
+
+
+{COMMENT="Al Gore speech"}
+
+
+Mr. Vice President, I want to thank you for your generous and thoughtful words, particularly those words that said that the 11th Commandment now also ought to apply to Democrats. As you know, I've been picking buckshot out of my rear end in these some of these debates, and we're going up to New Hampshire tonight and see if I do some more. {LAUGHTER}
+
+And I particularly appreciate all the people that put this event together. 
+
+I think it's important that we started in Harlem. And the reason I think it's important that we started in Harlem is because in 2002 we lost a lot of races in the Democratic Party because we decided that we were going to go to the swing votes and we were going to try to get them and our base is going to come along later on. 
+
+I think it's important in this campaign that we recognize those people who were with us all the time. {APPLAUSE}
+
+And so we made a conscious decision to start with women, to start with the African-American community, to start with the Latino community, to start with the trade union movement, and make sure that people understood that when they went to the polls this time we lost five great governors and some senators in the last three years because our campaign was, "I voted with the president 85 per cent of the time." 
+
+If you're a Democrat and your campaign is that you voted 85 percent of the time with the president who's the most conservative -- well, he's not a conservative -- radical president since we've had -- in my lifetime, then of course, the people are going to say, "Let's vote for the guy that's going to be with the president 100 percent of the time."
+
+I thank Al Gore for his extraordinary leadership in this party in the last couple of years. I told him -- and I'm embarrassing him in front of you all -- but I told him -- you know how I am; I say what I think, for better or worse -- I told him that the two best speeches in this campaign were given for somebody who's not running for president. And that was his March speech and his September speech about the war and about foreign policy. {APPLAUSE}
+
+We have needed a strong, steady hand in this party. And I appreciate Al's willing to stand up and be one. 
+
+And so let me thank you again. 
+
+This event turned out a little differently than I expected. A little more higher profile. {LAUGHTER}
+
+The one thing I regret is that I have not had a chance to come around and meet all of the people individually who have come here and made this event. I am proud to be here in the city of my birth. I am proud to be here in the capital of African-American community in the country in the United States of America, a community that goes back a long, long time and has contributed so much to America. 
+
+And I am very proud of your support. This campaign is not about Howard Dean going to the White House. This campaign is about us going to the White House, all of us. And I look forward to the day, on January 20th, 2005, when we do what Andrew Jackson, another great Tennessean, did: We will open the doors to the White House and let the American people back in. 
+
+Thanks very much. {APPLAUSE}
+
+{/speech} 

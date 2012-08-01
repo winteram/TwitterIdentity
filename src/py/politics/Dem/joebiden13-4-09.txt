@@ -1,0 +1,18 @@
+﻿{title} Remarks By The President and The Vice President on The American Recovery And Reinvestment Act {/title}
+{event} ----- {/event}
+{speaker} Joe Biden {/speaker}
+{date} April 13, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Mr. Secretary. Mr. President. {APPLAUSE} I think the Secretary perfectly summed up at his confirmation hearing what we're doing here, and I want to quote him. He said, "The most compelling reason for infrastructure investment is that economic" -- excuse me -- "it is the listing of not only economic, but social benefits that get brought as a consequence of decades" -- "for decades and for generations."
+The bottom line is what we're doing here is not just for today, it's going to last well beyond this time; and that's exactly why we're here. The Recovery Act is being implemented with speed, transparency, and accountability. And don't take my word for it, just look at what's happening here today. We're creating -- not only creating new jobs, we're saving jobs that were about to be put on hold; we're making it easy for folks to get to work, those who have a job; and we're improving the nation's infrastructure, all at the same time.
+Just eight weeks into this, and we're already seeing -- beginning to see exactly how the Recovery Act and the Department of Transportation are building the economy of the future and making life better for communities everywhere, not just in Maryland or Virginia -- which we're going to talk about here. In Virginia, the Department of Transportation is already bidding $176 million for paving bridge and -- road and bridge projects funded by the Recovery Act, with another $75 million of highway jobs expected later this week.
+In Missouri, by late March $1.5 million in Recovery Act funds had already been awarded to Missouri construction companies to provide gravel to the Forest Service roads damaged by extreme weather over the past few years.
+I see stories like this everywhere I go, and Ray and I have been going around the country pointing this out. Around this country we're making deep investments in our infrastructure, making sure it's sound, secure, and able to handle the full-speed-ahead progress that this economy has underway now. We're stimulating billions of dollars in economic activity; we're creating millions of new jobs, and breaking ground on a brighter economic future.
+Folks, the road to recovery must, quite literally, be repaved. And with the leadership of Secretary LaHood and President Barack Obama, we're doing just that. Each and every day we're making that road a little bit smoother and much easier to travel.
+And ladies and gentlemen, it's now my pleasure to introduce the President of the United States, Barack Obama. {APPLAUSE} 
+
+{/speech}

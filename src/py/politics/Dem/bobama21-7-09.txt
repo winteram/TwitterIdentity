@@ -1,0 +1,18 @@
+﻿{title} Remarks By The President at "An Evening Of Country Music" {/title}
+{event} An Evening Of Country Music {/event}
+{speaker} Barack Obama {/speaker}
+{date} July 21, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Welcome to the White House. Tonight marks the second in a series that we are using to celebrate the music that's contributed to the life of this nation and chronicled the history of our people.
+We began this tradition last month with an evening of jazz. And tonight, we celebrate another uniquely American art form: country music.
+We are thrilled and honored to be joined by three of country music's biggest acts -- three of music's biggest acts, period -- Alison Krauss and Union Station, Brad Paisley, and Charley Pride. And I want to thank -- {APPLAUSE} -- and I want to thank and applaud Alison and Brad for taking some time earlier today to lead a country music workshop here at the White House for the next generation of young musicians.
+Now, I know folks think I'm a "city boy" -- {LAUGHTER} -- but I do appreciate listening to country music because like all Americans, I appreciate the broad and indelible impact that country has had on our nation. It's touched countless lives, it's influenced all genres of music, it's helped us make the American people more hopeful, it's captured our restlessness and resilience, and told so much of our story in the process.
+After all, that's what country music is all about -- storytelling. It's about folks telling their life story the best way they know how -- stories of love and longing, hope and heartbreak, pride and pain. Stories that help us celebrate the good times and get over the bad times. Stories that are quintessentially American. After all, name me any other country that would have produced a Hank Williams or a Willie Nelson. {LAUGHTER}
+And like all great art, a great country song also has a commitment to truth -- to telling the truth like it is, without pulling any punches. And generations of performers have honored that commitment. Harlan Howard proclaimed country music "three chords and the truth." {LAUGHTER} Garth Brooks said it's "honesty, sincerity, and real life to the hilt." And Dierks Bentley called it "the best shrink that 15 bucks can buy." {LAUGHTER}
+So to all those watching, either here or at home, here's a free session -- with some of the best storytellers and truth-sellers around. We hope that you have a wonderful time this evening. Thank you. Enjoy. 
+
+{/speech}

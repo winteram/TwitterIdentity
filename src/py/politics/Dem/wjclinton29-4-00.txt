@@ -1,0 +1,48 @@
+﻿{title} Remarks by the President at the Annual White House Correspondents Dinner {/title}
+{event} Annual White House Correspondents Dinner {/event}
+{speaker} Bill Clinton {/speaker}
+{date} April 29, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good evening, ladies and gentlemen; President Page; President-elect Dillon; distinguished guests. I am really happy to be here. Happy to be reunited at long last with the White House Press Corps. {LAUGHTER} If I may, let me direct your attention to a photograph. {LAUGHTER} Taken just moments ago, it proves beyond a doubt that I am indeed happy to be here. {LAUGHTER}
+
+Now, wait a minute. It seems that my hair in that photo -- {LAUGHTER} -- is a little longer than it is tonight. {APPLAUSE} So maybe I am happy to be here and maybe I'm not. Feel free to speculate. {LAUGHTER} Admittedly, looks and photos can be deceiving. Now, look at this photo. It's a recent one of the Vice-President applauding one of my policy initiatives. {LAUGHTER} But look a little closer. Those are not his real hands. {LAUGHTER}
+
+Now, this photo. {LAUGHTER} It made all the papers, but I have to tell you something. I am almost certain this is not the real Easter Bunny. {LAUGHTER} The next one is my favorite. I really like it. Let's see the next photo. {LAUGHTER ; APPLAUSE} Isn't it grand? {LAUGHTER} I thought it was too good to be true. But there is one thing beyond dispute tonight. This is really me. I am really here. And the record on that count is clear, in good days and bad, in times of great confidence or great controversy, I have actually shown up here for eight straight years. {APPLAUSE}
+
+Looking back, that was probably a mistake. {LAUGHTER} In just eight years, I've given you enough material for 20 years. {LAUGHTER} This is a special night for me for a lot of reasons. Jay Leno is here. {APPLAUSE} Now, no matter how mean he is to me, I just love this guy. {LAUGHTER} Because, together, together, we give hope to grey-haired, chunky baby boomers everywhere. {LAUGHTER ; APPLAUSE} 
+
+Tonight marks the end of an era -- the after-dinner party hosted by Vanity Fair. {LAUGHTER} As you may have heard, it's been cancelled. Every year, for eight years, the Vanity Fair party became more and more and more exclusive. So tonight, it has arrived at its inevitable conclusion: This year, no one made the guest list. {LAUGHTER} Actually, I hear the Bloomberg party will be even harder to get into than the Vanity Fair party was. But I'm not worried, I'm going with Janet Reno. {LAUGHTER ; APPLAUSE} 
+
+Now, the Bloomberg party is also a cast party for the stars of "The West Wing", who are celebrating the end of their first season. You'll have to forgive me if I'm not as excited as everyone else is at the thought of a West Wing finale party. But I've got to give them credit; their first season got a lot better ratings than mine did -- {LAUGHTER} -- not to mention the reviews. The critics just hated my travel office episode. {LAUGHTER ; APPLAUSE} And that David Gergen cameo fell completely flat. {LAUGHTER}
+
+Speaking of real-life drama, I'm so glad that Senator McCain is back tonight; I welcome him, especially. {APPLAUSE} As you all know, he just made a difficult journey back to a place where he endured unspeakable abuse at the hands of his oppressors -- the Senate Republican Caucus. {LAUGHTER}
+
+I am glad to see that Senator McCain and Governor Bush are talking about healing their rift. Actually, they're thinking about talking about healing their rift. And you know, I would really like to help them. I mean, I've got a lot of experience repairing the breach. I've worked with Catholics and Protestants in Northern Ireland, I've worked with Israelis and Palestinians, with Joe Lockhart and David Westin. {LAUGHTER} But the differences between Bush and McCain may be just too vast. I mean, McCain as Bush's running mate? Hasn't the man suffered enough? {LAUGHTER ; APPLAUSE} 
+
+George W. Bush has got a brand-spanking-new campaign strategy. He's moving toward the political center, distancing himself from his own party, stealing ideas from the other party. I'm so glad Dick Morris has finally found work again. {LAUGHTER ; APPLAUSE} 
+
+You know, the clock is running down on the Republicans in Congress, too. I feel for them. I do. They've only got seven more months to investigate me. {LAUGHTER} That's a lot of pressure. So little time, so many unanswered questions. {LAUGHTER ; APPLAUSE} For example, over the last few months I've lost 10 pounds. Where did they go? {LAUGHTER} Why haven't I produced them to the Independent Counsel? How did some of them manage to wind up on Tim Russert? {LAUGHTER ; APPLAUSE} 
+
+Now, some of you might think I've been busy writing my memoirs. I'm not concerned about my memoirs, I'm concerned about my resume. Here's what I've got so far. Career objective: To stay President. {LAUGHTER} But being realistic, I would consider an executive position with another country. {LAUGHTER} Of course, I would prefer to stay within the G-8. {LAUGHTER} I'm working hard on this resume deal. I've been getting a lot of tips on how to write it, mostly from my staff. They really seem to be up on this stuff. {LAUGHTER}
+
+They tell me I have to use the active voice for the resume. You know, things like "Commanded U.S. Armed Forces," "Ordered air strikes," "Served three terms as President." Everybody embellishes a little. {LAUGHTER} Designed, built, and painted Bridge to 21st Century. {LAUGHTER ; APPLAUSE} Supervised Vice-President's invention of the Internet. {LAUGHTER ; APPLAUSE} 
+
+Generated, attracted, heightened and maintained controversy. {LAUGHTER}
+
+Now, I know lately I haven't done a very good job at creating controversy, and I'm sorry for that. You all have so much less to report. I guess that's why you're covering and commenting on my mood -- my quiet, contemplative moments; my feelings during these final months in office. {LAUGHTER} In that case, you might be interested to know that a film crew has been following me around the White House, documenting my remaining time there.
+
+This is a strange time in the life of any administration, but I think this short film will show that I have come to terms with it. Can we see the film?
+
+{COMMENT="Film is shown"} {APPLAUSE}
+
+You like me. You really like me. {LAUGHTER} Now, you know, I may complain about coming here. But a year from now, I'll have to watch someone else give this speech. And I will feel an onset of that rare affliction, unique to former presidents. AGDD -- Attention-Getting Deficit Disorder. {LAUGHTER} Plus, which I'll really be burned up when Al Gore turns out to be funnier than me. {LAUGHTER ; APPLAUSE} 
+
+But let me say to all of you, I have loved these eight years. You know, I read in the history books how other presidents say the White House is like a penitentiary and every motive they have is suspect; even George Washington complained he was treated like a common thief, and they all say they can't wait to get away. I don't know what the heck they're talking about. {LAUGHTER}
+
+I've had a wonderful time. It's been an honor to serve and fun to laugh. I only wish that we had even laughed more these last eight years. Because power is not the most important thing in life, and it only counts for what you use it. I thank you for what you do every day, thank you for all the fun times that Hillary and I have had. Keep at it. It's a great country, it deserves our best. Thank you and God bless you. {APPLAUSE} 
+
+{/speech}

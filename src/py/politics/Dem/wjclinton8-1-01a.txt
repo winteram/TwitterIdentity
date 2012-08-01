@@ -1,0 +1,63 @@
+﻿{title} Speech at DNC Event {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 8, 2001 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Well, first of all, I want to say to all of you, I'm sorry I kept you waiting, but I promised you I was going to work until the last day and that's what I'm doing. {LAUGHTER} 
+
+I spent a little time today working on the Middle East and a little time today rededicating the AFL-CIO Building, and rededicating myself to their issues and their cause and to not letting the progress they've made in the last eight years be reversed, and a number of other things. 
+
+I have my Chief of Staff, John Podesta and Maria Echaveste and my Political Director, Minyon Moore, Lynn Cutler -- {APPLAUSE} -- a lot of people came over from the White House. They love you guys, they wanted to be here with me. 
+
+I want to thank my friend, Ed Rendell, who even went to the point of shooting baskets with me in a neighborhood in Philadelphia in '92, to make sure I could get plenty of votes and win Pennsylvania. {APPLAUSE} 
+
+For all the trips that we made together, I want to thank the indefatigable, Joe Andrew, for leaving his home in Indiana and coming here and working so hard. I want to thank Dennis Archer and Loretta Sanchez, who aren't here; and Senator Torricelli; and Representative Kennedy, who worked with me and gave me the opportunity to do a gazillion events. {LAUGHTER} Martin Frost and Paul Patton and my dear friend, State Senator Mike Miller, from Maryland. Thank you, Rob; thank you to all the staff members. 
+
+I also want to express my appreciation for those of you who are here day in and day out. I think it was Joe who said some of you go back to President Carter's administration. 
+
+One person who has been here a long time, who passed away today, is Elber Suggs, and I want to say how grateful I am. I know a lot of you knew him. He not only was a long-time employee of the DNC, but he was a long-time member of the UAW. So he was a two-fer in more ways than one. And I know that we all send our prayers and thoughts to his family, and our gratitude for all he did for the DNC and for the causes we believe in. 
+
+I wanted to come by before I left office to thank you for what you did in this election. You know, I tell everybody as I'm sort of dwindling into irrelevancy -- {LAUGHTER} -- the only way I can really get any big headlines is to say what I really think. {LAUGHTER} But I think I'll show some restraint tonight, since I'm preaching to the saved. 
+
+I want to thank you for what you did in the year 2000. It was an election in which a lot of forces were arrayed against us and a lot of money was spent. We had to work hard to raise a lot. And all of you in these various organizations, you gave me the opportunity to do 169 different phone messages and radio spots at the end of the campaign. And on the day before and the day of the election, I did 66 radio interviews. So for all of you who were personally responsible for practically working me into an early grave -- {LAUGHTER} -- I want to thank you, because that's what we all hired on to do. 
+
+And when you're in this sort of struggle, you want to leave it all out there on the floor -- you don't want to wonder when it's all said and done if there's just one more thing you could have done, one more phone call you could have made. I believe you've done everything you could do and I'm proud of you and grateful to you. 
+
+You know, one other thing I want to say is that I think that the dividing line between politics and policy is not very clear. And most people say that in a pejorative way. I say it in a proud way. This is a political system we live in. The framers of the Constitution expected it to be and didn't think politics was a bad word. They thought it was a good word, and so do I. I am proud that I have spent my life in the American political system. {APPLAUSE} 
+
+So even though you have to worry about recruiting candidates and raising money and getting the talking points out there and answering the charges and doing all the things you have to do, the sort of nitty-gritty work of political life, you should never forget that it bears a direct relationship to the way the American people live. 
+
+Our friend, Terry McAuliffe, buried his father a few days ago, and I went to Syracuse to the funeral. He was a great friend of mine. He was the treasurer of the Onondaga Democratic Party for 27 years. And at 83, he was putting out yard signs for Hillary in this Senate race, because he knew that there was a direct connection between putting up the yard signs and the kind of economy and kind of life the people in the community in which he had spent his life would have. And you should never lose sight of that. 
+
+When you go home tonight and people ask you for the rest of your life, why did you do this -- {LAUGHTER} -- tell them, well, there are 22.5 million reasons in the people who have jobs that didn't have them when we took over eight years ago. {APPLAUSE} There are roughly 25 million reasons in the people who have taken advantage of the Family and Medical Leave law, which was vetoed when the other party had the White House. {APPLAUSE} 
+
+There are 600,000 reasons in the people who had a criminal record and couldn't get handguns, and lots of people are alive because of that, because we passed the Brady Bill. {APPLAUSE} There are over 10 million reasons in the people who have taken advantage of the Hope Scholarship tax credit and the other college tax reductions and benefits that have been increased under this administration. 
+
+There are $8 billion worth of savings to college students in the Direct College Loan program. Ninety percent of the kids in this country under two are immunized against serious diseases for the first time in history. And you did that. {APPLAUSE} 
+
+The air is cleaner, the water is cleaner, the food is safer. More land has been set aside. Bruce Babbitt says by the time we finish, we'll finally eclipse Teddy Roosevelt's record that stood for a hundred years in preserving land and natural resources for all time to come. You were a part of that. Don't ever forget that. {APPLAUSE} 
+
+Why? Because if I hadn't won those two elections with Al Gore and if we hadn't had help in the Senate and the House, and we hadn't had governors and mayors and others willing to stick up for us, none of it would have happened. 
+
+Last year, we had the biggest drop in child poverty in a generation, the lowest poverty rate overall in 20 years. Last year, people in the lowest 20 percent of the working people in this country had the biggest percentage increase in their income of any group of Americans. This was a recovery that didn't just help wealthy people, it made more millionaires and more billionaires, but it also let more people work their way in the middle class, too. You did that, and you should be proud of that. {APPLAUSE} 
+
+We mended affirmative action instead of throwing it away, because of politics, because of what you did, because we had enough people in the Congress who would support me to do that. I could go on and on and on. But you just remember: every single decision that advanced the cause of the American people for the last eight years grew out of a political decision made by voters on election day all across this country. And this country is going to be just fine, as long as we get all the votes counted. {LAUGHTER ; APPLAUSE} And don't you ever forget it. 
+
+The other thing I want to tell you is that you can't be discouraged when you lose. My Chief of Staff, Mr. Podesta, celebrated his 52nd birthday today. {APPLAUSE} It looks good on him. He's more than two years younger than I am. {LAUGHTER} We met in a Senate campaign in 1970, which we lost. And those of us who are about our age, we went for the longest time, we thought we'd never win anything. {LAUGHTER} And we finally won the White House in 1976 and we didn't hold it. 
+
+But you know, when you look back, Jimmy Carter looks pretty good in the light of history; and the campaign for human rights and the campaign for a sensible energy policy, the things that he stood for, it looks awful good in the light of history. And the life that he's made since then, which would not have been possible if he hadn't been elected President in the first place, looks awfully good in the light of history. 
+
+So I want you to feel good about it, and I don't want you to be discouraged because we didn't win every fight we were in. And I don't want you to be cynical because of the decision of the Supreme Court. I want you to be invigorated. I want you to look ahead to the races two years from now, to the races next year for governor. 
+
+And I want you to remember, in this country, nobody gets a guarantee, you just get a chance. That's what an election is, it's a chance. But there are people all over this country that wouldn't have a chance if you hadn't been here, doing what you've done the last eight years. 
+
+And I hope when you are as old as I am, or even older, you will look back on this period and be very, very proud and remember those numbers I gave you tonight, those people in this country, all kinds of people of all races, all religions, all backgrounds, have a more decent, a more united, a more forward-looking country, because you stood here and did your job these eight years. 
+
+Thank you and God bless you. {APPLAUSE} 
+
+{/speech} 

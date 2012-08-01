@@ -1,0 +1,71 @@
+﻿{title} Remarks By The President At Democratic Unity Event {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 10, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Let me say how delighted and profoundly honored I am to be here with Senator Daschle and Leader Gephardt, with their colleagues in the Senate and the House who are here in large numbers, and all those who aren't here who are with us in spirit today; how much I appreciate Bob Hatcher, and Thelma -- and Ginny May -- for being here to remind us of why we're all here in the first place. 
+
+Their testimony makes clear that our agenda is America's agenda, and our presence here makes clear that we are united in our support of that agenda. 
+
+I know some of our friends on the other side of the aisle have suggested that because this is an election year we really shouldn't do much. Well, I don't think that the two people who just spoke could take a year off from their jobs. And since everybody here is still drawing a salary, I don't think we could take a year off from our jobs either. {APPLAUSE} 
+
+I want to join with what Senator Daschle and Leader Gephardt have said in thanking the members of this caucus for your role in this long boom and so much of the social progress we have enjoyed, beginning with the courageous vote for the economic plan in 1993. Your commitment, constant over the years, to opportunity for every responsible American, and for a community of all Americans, to a government that gives Americans the tools to live their own dreams, has been absolutely critical to anything that our administration has achieved. 
+
+I know that we've had a lot of different policies, but more important than all of the specifics was our common commitment. We wanted Bob and Thelma to be here today because we believe that every American counts. We believe every American should have a chance, and we believe we all do better when we help each other. That is what we believe. {APPLAUSE} 
+
+Today, I received the Annual Economic Report from my Council of Economic Advisors. It provides further evidence that Americans have built a new economy, and that what we believe actually works. The report makes clear that this is the strongest economic expansion in history, not just the longest, that unlike previous economic expansions which, in the end and somewhere in the middle normally bring you higher deficits, slower productivity and higher inflation; this one has turned it around -- unlike the 1980s when income inequality increased, and many hard-pressed working families saw their incomes fall while we were told that the expansion was going on. We now see solid income growth across all groups of American workers since 1993. 
+
+All groups are sharing in the prosperity by income, by region, by race. Now, as my leaders said so eloquently, it is for us here in Washington and for the American people to decide what we were going to do with what is truly a magic moment. I argued in the State of the Union address that we ought to be thinking about people like Bob and Thelma and Ginny May, that we ought to ask ourselves, what are the great challenges before us. We ought to clearly state what we believe America's goals ought to be and what steps we intend to take toward them this year. That is what we are united in doing. 
+
+And let me say -- we have a lot of young people here -- I want to say something now and something to you at the end. Anybody over 30 in this audience can recall at least one time in your life and probably more than one time when you made a big mistake, not because you were under the gun, but because things were going so well you thought there were no consequences, you thought you could relax, you thought you really didn't have to think about what you knew was out there plainly before you, so you didn't really have to take those tough decisions, just sort of sit back, relax, enjoy the things that were going on. 
+
+That is a message that some people suddenly are sending America today, and that is dead wrong. We will never, in all probability, have another time in our lifetime, with so much prosperity, so much progress, so much confidence and so little trouble at home and abroad, to define the future of our dreams for the next generation of Americans. And we had better take this chance and make the most of it. {APPLAUSE} 
+
+I must say, I have been quite amused by a lot of the commentators on both sides of our policy of paying the debt off. Some have said I sound like Calvin Coolidge, and others say that I'm using it as an excuse to spend money on Americans. All I know is, it works. If we get this country out of debt it means the American people can borrow money at lower interest rates to invest in new businesses, to pay their home loans, to pay their college loans, to pay their car loans. It means that all the young people here for a generation will have a healthier economy and a more affordable life than otherwise would have been the case, and it will be more possible for us to meet the great challenges of this country. That is our united commitment and we ought to do it. {APPLAUSE} 
+
+We are united in meeting the challenge of the aging of America. And believe me, this is not an option. I know things are going well, so we can sort of say, well, we'll let this slide a while. The people in this country, the number of people over 65 are going to double in the next 30 years. Now, if we start to prepare for it now -- to reform and modernize and strengthen Medicare, and to take Social Security out beyond the life expectancy of the baby boom generation -- we can do it relatively painlessly. 
+
+But make no mistake: this country will do it. And if we just fool around and ignore this for 10 years, who knows what the economy will be like 10 years from now? Who knows what the demands on the American people will be like 10 years from now? Now is the time to add a prescription drug benefit to Medicare, and to take Social Security out to 2050, and take Medicare out for 25 years. Now. Do it now. Save Social Security and Medicare for the baby boomers' retirement. {APPLAUSE} 
+
+We know that we live in a marvelous world, where the kids with a good education are going to be able to do things their parents could not even have imagined. And yet, we know that the penalty of not having an education is even greater than ever. We know that it's more challenging than ever before because we have a more diverse group of students, from different racial, cultural, religious, even linguistic backgrounds. We know that right now. And we know that's only going to become a more pronounced trend. 
+
+Within a decade, our largest state, California, will have no majority race. Now, we know that. We also know that there's nowhere near equal educational opportunity in the country, and we know what the challenges are. So we say, now; not later. Now is the time for high standards, smaller classes, well-trained teachers. Now is the time for all the kids who need it to have the preschool and the after-school programs they need. Now is the time. Not later; now. {APPLAUSE} 
+
+We know that more and more families will have the parents working, whether they're single-parent families or two-parent families. And we know right now that for all of our success, America gets less support to help people balance the demands of child-rearing and work than any other advanced country. 
+
+We can be proud of what we did with Family and Medical leave. We can be proud with what we did with the Children's Health Insurance Program. We can be proud with what we did with the Kennedy-Kassebaum bill to let people take their health insurance from job to job. But we know that we do not do enough to help people balance the demands of work and child-rearing. And raising children, like that beautiful little girl, is still America's most important work. It always will be. And we know we have to do more. {APPLAUSE} 
+
+So we believe now is the time to increase the child care tax credit and make it refundable; to help parents do more to pay for college tuition, so that we can go beyond where we were with the HOPE Scholarship, which opens the doors of community college to all Americans. With the college tax deduction at 28 percent for all income groups, we can open the doors of four years of college to all Americans. {APPLAUSE} 
+
+We know we should increase the earned income tax credit for lower income working people. We know we should genuinely ease the marriage penalty for both middle and lower-middle income groups. We know we should do this. We don't know whether 10 years from now we will be able to do this, and we don't know what the consequences to countless families will be if we don't do it now. We are united in saying let's do it now. We don't have to wait. Now is the time to help families to balance the demands of home and work. {APPLAUSE} 
+
+You heard Thelma's story. So you know that the one area where the social indicators have not gone in the right direction since 1993 is in the number of people who are covered with health insurance. One of the wits in our Democratic caucus said to me the other day, you know, all those insurance companies told me back in 1993 or '94 if I voted for your health care plan the number of uninsured Americans would go up. I voted for it and, sure enough, that's what happened. {LAUGHTER} 
+
+We know we need a strong, enforceable patients' bill of rights. And the Congress has fooled around with it long enough. The time is now to pass it. {APPLAUSE} We know we should do more to help enroll more children in the Children's Health Insurance Program. Two million children are enrolled. This Congress provided enough money for somewhere between 4 and 5 million children to be enrolled. And we know -- and that's why it's so important. 
+
+You remember Thelma's story. I was four years old, like this little girl, once, with a mother who was working, and then a single mother. There are people like her all over the country. One of the most important things we have proposed in this Congress is to let the parents of children who are in this CHIP program also get insurance. They need it; they're working out there. And we ought to do it. {APPLAUSE} And we ought to do it now, not later. {APPLAUSE} 
+
+We know the crime rate has gone down to a 30-year low, and it's still too high. And we believe not later, now is the time to learn the lessons of Columbine and all the other things we've seen, and pass common-sense legislation to do more to keep guns out of the hands of criminals and away from kids. We can do that -- and honor every constitutional provision in our founding document, and every fundamental value in our society. 
+
+We know we've got to keep putting more police on the street in high-crime areas. Who knows, five years from now, what kind of condition this country will be? Why should any more children die we can save? Why should any more crimes be committed we can prevent? Now is the time to take strong action to make America the safest big country in the world. {APPLAUSE} 
+
+We know there are still too many people and places that haven't participated in this prosperity. We know that. That's why we favor increasing the number of empowerment zones, increasing the incentives to invest in them, and giving Americans all over this country -- people like Bob Hatcher -- we know there are inner-city neighborhoods where he might be able to put people to work; I think we ought to give him the same tax incentives to invest in those neighborhoods we give him today to invest in Latin America, Africa or Asia. And we ought to do it now -- not later, now. {APPLAUSE} 
+
+We are united in that. And as I look at Senator Feingold, I think I should say one other thing. Unlike the other party, we are united -- united, down to the last vote in both Houses -- in saying now is the time to pass meaningful campaign finance reform legislation in this Congress. {APPLAUSE} 
+
+We are also united in believing we have to build one America. That's why we want to pass the Hate Crimes Prevention Act. That's why we want to end all discrimination in employment. We don't -- I'll say again -- we think everybody counts, everybody ought to have a chance, we all do better when we help each other. 
+
+I want to make this last point. I see all these young people here. The last time America had a chance like this was when I was about your age. I finished high school in 1964. The nation was heartbroken when President Kennedy was killed. But President Johnson lifted our spirits, united the country, began to deal with the challenges of civil rights, and we believed that our economy would grow on forever. We believed we would meet the challenges of civil rights in a lawful, peaceful way. We believed we could win the Cold War without what ultimately happened in the dividing of our country in Vietnam. And we thought it would go on forever and everything was hunky-dory. 
+
+Four years later, when I was graduating from college, it was two days after Robert Kennedy had been killed, a couple of months after Martin Luther King had been killed and Lyndon Johnson said he wouldn't run for reelection. We had riots in the street. The economy came a cropper on the burdens of paying for a war and inflation. And all that we thought would happen was lost. And the presidential election in that year was decided on the politics of division, something called the Silent Majority, which means the world and America is divided between "us" and "them" -- I'm with "us" and they're with "them." And I have lived with that as a citizen for 30 years. 
+
+Now, I'm not running for anything. I am not on the ballot. I am telling you this as an American. I have waited for 30 long years to see my country in a position to pull together and move forward together and build the future of our dreams for our children. We dare not blow that chance. 
+
+Thank you and God bless you. {APPLAUSE} 
+
+{/speech} 

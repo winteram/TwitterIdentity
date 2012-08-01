@@ -1,0 +1,28 @@
+﻿{title} President's Remarks at a U.S. Reception for Heads of State {/title}
+{event} The Waldorf-Astoria, New York, New York {/event}
+{speaker} George W. Bush {/speaker}
+{date} September 22, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. Please be seated, for what is going to be a short speech. We're honored you're here in New York City. Laura and I are thrilled to host this reception. We hope you've enjoyed it as much as we have. And it's a great opportunity for Laura and me to say hello to many of our friends who are Prime Ministers and Presidents and Foreign Ministers and Perm representatives to the various countries represented here.
+
+I do want to pay tribute to our great Secretary of State Colin Powell who's done such a wonderful job for our country. {APPLAUSE} As well, I want to say thanks to Jack and Sally Danforth. Jack is the new Ambassador to the United Nations for our country. Thank you all for your service. {APPLAUSE}
+
+I think my friend, the Governor of New York is still here, George Pataki, and First Lady Libby Pataki. {APPLAUSE} One thing about New York City is they know how to host big events. The U.N. General Assembly is a big event. There's a lot of us with nice automobiles driving around the city, and they make it quite convenient. One reason why is they've got a great Mayor in Michael Bloomberg who is not -- was here, and left, but he's -- {APPLAUSE} But, as well, I do want you to recognize the Commissioner of Police for this great city, Ray Kelly, and Veronica, is with us tonight. {APPLAUSE}
+
+I saw Kofi Annan earlier. I don't know if Kofi is still here or not, but I do respect him. He's a decent, kind man, and I'm proud of the job he does at the United Nations. And Laura and I are very fond of his wife, Nane, as well.
+
+And most of all, I appreciate you serving your respective countries and working together to make the world a better place. It's -- these have been tough times in the world. But I think if we stick true to the values that unite most of us, which are human rights, human dignity, the deep desire for people to live in freedom, the world will be a better place. And that's really how I view this time here at the United Nations, a chance to find common purpose and common ground, all aiming at achieving the peace we all desire.
+
+I am floored by the progress that's being made in parts of the world that used to be dark, places where people had no hope, and today they see light.
+
+Today in my speech at the U.N. I pointed out the fact that 10 million citizens in Afghanistan have registered to vote in the upcoming presidential election, 41 percent of whom are women. This is a society that three years ago was a place where young girls weren't allowed to go to school, and their mothers were whipped in the public squares because they didn't toe the dark line of a group of people whose vision was limited by hatred. And today, three years later, 10 million citizens have said, I love freedom, I want to be free. And they're going to the polls. {APPLAUSE}
+
+And the world is going to be more peaceful for it. We believe that liberty and freedom go hand in hand. We believe every human heart desires to be free. And I believe every free nation has a responsibility to free every human heart, as best we can.
+
+So that's how I view the 59th session of the U.N. General Assembly. It's an honor to be here. It's great to see mis amigos, my friends. I want to thank you all for your hard work, and may God bless you and your countries. Thank you for coming. {APPLAUSE} Good night, everybody. Thank you all. 
+
+{/speech}

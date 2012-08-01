@@ -1,0 +1,107 @@
+﻿{title} John Kerry Talks to Supporters in Michigan {/title}
+{event} ----- {/event}
+{speaker} John Kerry {/speaker}
+{date} March 26, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+... believe Jeffrey did just that, and we will miss her. And we honor her here today. 
+
+This election is about a new direction for our country and a new direction for our economy, to restore fiscal responsibility, help our workers become competitive and bring back jobs. 
+
+In this campaign, as the governor mentioned, I've traveled this nation, talking and listening to people, to real people who are the backbone of our economy. From computer programmers to auto workers, from nurses to firefighters to police officers, from teachers to small business owners. 
+
+Over and over again, I have been reminded of the optimistic, patriotic and entrepreneurial spirit of Americans, who passionately believe in the best hopes of America. 
+
+Yet, talking to them, I have also seen and heard a sense of injustice unlike anything that I have heard in all the years that I've been in public life, and that sense of injustice needs to be reversed. 
+
+Under this president, more and more of our people have begun to lose confidence in our economy, that it's moving in the right direction. Americans, who in the 1990s never felt more confident, now wonder whether our economy will ever again provide good middle class jobs. Whether our leaders are more concerned with special interests and the most fortunate among us with insuring that our trading partners play by the rules or that we have education and technology that we need in order to be able to compete and win the future. 
+
+Too many of the people that I've spoken with in town meetings, coffee shops, malls across this nation have lost confidence that we have a president who wakes up every morning, ready to fight for their jobs, their families, and for our economic future. 
+
+And with your -- with your help, that is the kind of president that I intend to be. The Americans that I've met, no matter where they come from, or whatever their walk of life, they live by a basic set of values. They work hard. They pay their bills. They try to do what's right for their children and for their communities. 
+
+But this administration hasn't honored those values, and it certainly hasn't lived by them. Instead of giving us an economy that creates jobs and opportunity, our present leadership has given us wedge issues designed to divide Americans.
+
+Instead of a real economic plan, they've given us the old politics of negative attacks. The truth is this president doesn't have a record to run on, but , but a record to run from. {CHEERS ; APPLAUSE}
+
+And that's what he's doing. {CHEERS ; APPLAUSE}
+
+A record of negative job growth and stagnant incomes, with long-term unemployment at its highest levels in 20 years, and manufacturing jobs at a 50-year low. Under President Bush, 3 million more Americans have slipped into poverty and 4 million more have lost their health insurance. Families struggle to pay the biggest increase in college tuition in history. I asked the president a moment ago about that, and he said they've gone up 10 percent a year the last years. Except for the governors intervention this year to try to hold them at 2 percent, which becomes more and more difficult, as the pressures increase on the states because of the loss of revenue at the federal level. 
+
+Bankruptcies and foreclosures are the highest ever. We've gone from record surpluses to record deficits. America cannot afford four more years of a president who is the first president to loose jobs since Herbert Hoover and the Great Depression. {APPLAUSE}
+
+When Franklin Roosevelt sought the presidency, he pledged bold, persistent experimentation. He said take a method and try it. If it fails, admit it, frankly. And try something else. But above all, try something else. {APPLAUSE}
+
+But President Bush took a method and tried it. It failed. But he stubbornly refuses to admit it. And his only answer to failure is more of the same. He tried tax giveaways for the wealthy, and the budget went into deficit and the country lost jobs. So he tried it again, and the budget went deeper into deficit and country lost more jobs. He tried it a third time. And the country went into record deficit. And all those wasted billions still haven't brought back the jobs America lost over the last three years. 
+
+Now, his major proposal is tax cuts that won't even take effect until seven years from now. And in this campaign, to defend his discredited policy, the president has turned to distorted attacks. The real difference between us on taxes could not be more simple. I will roll back the tax cuts, for those who make over $200,000 a year, so that we can invest in health care and education, because that's the right thing to do for America. {APPLAUSE}
+
+And everything that the Bush campaign is trying do is designed to distort one clear fact. My plan doesn't raise taxes on the middle class. My plan cuts taxes for the 98 percent of Americans who make under $200,000 a year. 
+
+Now, honorable people could disagree about the real choice between tax giveaways to the wealthiest Americans and health care and education for America's families. But this president doesn't want an honest debate about that. I'm ready for that honest debate. I'm ready to debate that choice anytime, any place, anywhere in this country. And America deserves that debate. {APPLAUSE}
+
+Now all of you know that economic plans are not just about dollars and decimals. They're about choices. Time after time, this administration has put ideology first and jobs last. Today, I'm announcing a new economic plan that will put jobs first. {APPLAUSE}
+
+We will renew America's competitiveness. Make tough budget choices. And invest in our future. My pledge and my plan is for 10 million new jobs in the next four years. {APPLAUSE}
+
+Let me make it clear. This is a realistic plan. I won't tell you that we can bring back every lost industry, or every lost job, or protect every job. But my plan will enable our economy to create jobs, and to keep more good jobs here in America. It offers a long-term strategy to win our economic future. We won't do it through government make work. But by making our economy work, so that businesses put Americans back to work. I will set out the details of this economic plan in the weeks ahead. Each plank of it is part of a comprehensive approach, which is the only way to restore confidence in job creation and in the marketplace. 
+
+I will focus on raising American competitiveness by spurring the growth of new industries, like the broadband technology that will dominate the future. By lowering health care costs that put American businesses at a competitive and price disadvantage. By lowering energy costs, which burdens businesses and consumers. And by creating half a million new jobs in renewable fuels to make America energy independent of Mid East oil in 10 years. {APPLAUSE}
+
+And by making sure that our children have the education and our workers have the training and the skills that they need. 
+
+I will outline specific steps to restore economic confidence and fiscal discipline, by cutting the budget deficit in half in four years. And if we have to forgo some of the most favorite things we'd like to do to do it, we may have to do that. But we will make the federal government smaller, but smarter, more expensive and less expensive. So, I'm not running just to oppose present failures, but to propose new policies for our nation. {APPLAUSE}
+
+This spring, in a series of speeches, I will tell the American people in specific terms how we can enable our economy to create those 10 million jobs. Today, I will begin with a proposal for major tax reforms to help our workers compete in the global marketplace. Our Jobs First economic plan will end laws that encourage companies to export jobs. 
+
+{AUDIENCE-MEMBER} All right! {/AUDIENCE-MEMBER} 
+
+And it will... {APPLAUSE}
+
+And equally importantly, it will plow back every dollar that we save into new incentives, in order to help companies create and keep jobs in America. 
+
+We now have tax code that does more to reward companies for moving overseas than it does to reward them for create be jobs here in America. So if I am elected president, I will fight for the most sweeping international tax law reform in 40 years. A plan to replace tax incentives to take jobs offshore with new incentives for job creation on our own shores. 
+
+Let me explain. Today in America, if a company is trying to choose between locating a factory in Michigan -- or staying in Michigan, or Malaysia, our tax code has a feature called "deferral" that provides major tax savings if they locate abroad. So companies are driven to take advantage of a legal tax incentive that's been on the books for too long and doesn't serve the economic interests of our nation. 
+
+For instance, a company with 10 million dollars in profits in Michigan will pay taxes at the standard corporate tax rate. But if that company moves to Malaysia, and makes the same $10 million in profits, they can avoid paying U.S. taxes, perhaps forever, as long as they keep the money overseas. 
+
+So we have a special tax incentive to actually keep money overseas, send jobs overseas, that has nothing to do, or little to do with the normal marketplace or economic forces. The reform that I am proposing today is based on a simple principle. Money made by American businesses overseas should be taxed at the same rate as money made by businesses here at home. {APPLAUSE}
+
+Now, I understand global competition and how the world works. So this will not affect American companies that locate production or services in a foreign country to sell to consumers in that country. But it will apply to those who use those foreign locations to export products back to the United States or to other nations. If a company is torn between creating jobs here or overseas, we now have a tax code that tells you, go overseas. And that makes no sense. And if I am president, it will end as soon as possible. {APPLAUSE}
+
+The fact is, that taken together, companies that take advantage of this in the current tax laws don't pay a dollar in taxes. We actually end up paying them eight billion a year to send their money and ship our jobs overseas. 
+
+My proposal offers American companies a reasonable transition period to adapt to this sweeping change. I don't want to punish anyone. But I believe it is long past time that we put Our Jobs First and put tax benefits that discourage jobs in America out of business. I also propose to use the money that we save from ending this tax giveaway for outsourcing, to finance smart tax cuts that will create jobs here in America. 
+
+Last August, I proposed a new jobs credit that will give manufacturers a break on the payroll taxes for every new worker that they hire. I believe we should expand that to industries outside of manufacturing, where jobs are now endangered by outsourcing, so that we can help create more jobs, whether it comes to cars, or computers, software, or call centers. 
+
+Second, the savings from ending the tax incentives for outsourcing can also expand the jobs tax credit to cover all small business and their employees. For the most part, small business owners; that means that if they create jobs, they will pay a lower tax in a Kerry administration, than they do under President Bush today. {APPLAUSE}
+
+Third, the savings can finance a 25 percent tax credit for small businesses when they provide health care for their workers. {APPLAUSE}
+
+The rise in health care costs, under this administration, has hit every one hard. But no one harder than small business owners and their employees. I know this. As the chair of the Small Business Committee in the Senate, I saw again and again how small businesses can be the engine of job creation in our nation. And those jobs are the ones that are the most likely the ones to be created here and to stay here. 
+
+Fourth, if we are willing to close loopholes and abuses in our tax system, then we can afford to lower taxes in the right way to spur growth in our jobs here at home. With the savings that I've proposed today, we can and we should reduce the corporate tax rates by five percent to improve the competitiveness and then narrow the difference between corporate tax rates here and oversea. 
+
+Some maybe surprised to hear a Democrat calling for lower corporate tax rates. The fact is, I don't care about the old debates. I care about getting the job done and creating jobs here in the United States of America. {APPLAUSE}
+
+Finally, I won't let America wage the fight for economic future one hand behind our back. No one should misunderstand me. I am not a protectionist but I am a competitor. American workers are the most competitive in the world, and they deserve a government that's as competitive for them as they are. We will demand that our trading partners play by the rules that they've agreed to, and show them that America means business when it comes to enforcing our trade agreements. {APPLAUSE}
+
+The Bush administration has refused to enforce them. That not only costs jobs, over time it threatens to erode the support for open markets and a growing global economy. And it deprives us of one of the most important tools that we have in order to safeguard our own workers and our environment. And that is to raise the standards internationally. 
+
+As president, will hold countries like China accountable when they manipulate their currency to inflate their export and depress ours. Four years ago in the Senate, we fought for and we won a provision to prevent Chinese companies from flooding the American market and destroying American jobs. Three times, a bipartisan independent commission recommended to President Bush that he used this power to aid American workers. But George Bush waited until November 2003 to take even a token action. And just a few months ago, the administration said that they opposed efforts to increase the funds for enforce trade agreements with China. They said the money was simply unnecessary. 
+
+I'll tell you what's absolutely necessary. A president who understands that open trade is essential for our prosperity, but unfair trade practices can undermine it. And we deserve a president who stands up and fights for the American worker to have a fair playing field to compete on. {APPLAUSE}
+
+It is time to insist on and enforce real worker and environmental provisions in the core of every trade agreement, so that we don't exploit workers at other countries or sell them out here at home. And it's time to break the deadlock in Congress, and pass real tax breaks for our manufacturing industries. 
+
+For the vast majority of companies in America, 99 percent, Our Jobs First plan will cut their taxes and help them create new jobs. Some companies, however, that benefit from tax loopholes, will fiercely defend the status quo. I know how tough their lobbying will be and so do my colleagues in Congress. But I believe that's why we have elections in America. So that the people can set us on a new course. And I don't believe the course that they want is to ask the American taxpayer to subsidize the loss of their own jobs. I have fought for my country for 35 years. And I am ready for this fight. {APPLAUSE}
+
+My friends, with tax reform and tax cuts, with real fiscal responsibility, with new investments in the industries of the future, we can and we will create 10 million new jobs for America. And we will lead our economy in a new direction and our country in a new direction. Together, let's give America back its prosperity and its future. Thank you very, very much. {CHEERS ; APPLAUSE}
+
+{/speech} 

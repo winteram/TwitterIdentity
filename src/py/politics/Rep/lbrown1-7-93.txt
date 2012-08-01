@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President and Lee Brown, Director of Office of National Drug Control Policy {/title}
+{event} Swearing-in Ceremony {/event}
+{speaker} Lee Brown {/speaker}
+{date} July 1, 1993 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} DURING SWEARING-IN CEREMONY {/description}
+
+{speech} 
+
+Thank you. First, let me introduce my children. My oldest son, my only son, is Patrick from Chicago. {APPLAUSE} And my oldest daughter, Torie you just met, and her husband Tony, and their daughter, my granddaughter, Tyler. {APPLAUSE} And my twin daughters from Houston, Robyn and Jenna. {APPLAUSE}
+
+We're very pleased that my Congressman from Texas, Congressman Washington, was able to join us as well. {APPLAUSE} Let me begin, Mr. President, by expressing my sincere appreciation to you for appointing me to your Cabinet as Director of the Office of National Drug Control Policy. By elevating the post to Cabinet rank, you have signaled to the nation and the world your resolve to protect and defend the American people at home as unmistakenly as your resolve to do so abroad.
+
+And so it should be. For America's addiction to drugs, claiming so many of its victims from among our young, even among our newborns, has shown itself to be an implacable, remorseless enemy. It has vanquished whole neighborhoods and turned streets into freefire zones. It has robbed America of its vitality and competitiveness and it is plundering our future.
+
+Implacable though the enemy may be, it has a tenacious foe in this administration. And I pledge to you, Mr. President, and the American people to work with every ounce of strength I have and with all the time that God allows me to help defeat the enemy. {APPLAUSE}
+
+I also want to thank the Senate of the United States for its vote of confidence in me. Before and since my confirmation I had the great privilege of meeting many of the men and women of that august body, including those assembled here today. And I came away convinced that their concern about the drug problem was surpassed only by their love of country, and the two are irrevocably bound together.
+
+I pledge to work with the Congress and the other members of the Cabinet toward the construction of effective, lasting public policy in the areas of prevention, education, treatment, enforcement, and interdiction. The national drug control strategy I would develop for the President and the American people would put resources where the problems are the most severe. It would support those approaches of demonstrated effectiveness, such as community policing. We will underscore the fact that drug addiction is as much a public health problem as it is a criminal justice one by expanding the availability of treatment and enhancing the quality of same. {APPLAUSE}
+
+We will redouble our efforts to instill in America's youth a set of values to, in effect, immunize them against the allure of drug trafficking and the escape of drug addiction. We will convince the American people that their sobriety and that of their children is as much a part of the American Dream as homeownership or college education. And that home and family are easily lost if ever obtained at all when set adrift in the nightmare of drug addiction.
+
+Although the drug problems appears to have lost some of its hold On the public's imagination, we will ask the American people to make the campaign against drugs a personal crusade. And I'm convinced we will succeed. We will examine past interdiction efforts, abandoning those which have not worked, learning from our failures and moving on.
+
+We will work closely with our friends in the world, particularly our Latin American neighbors, to mobilize international opposition to drug trafficking and its criminal gains. We will do this and more. But one thing we will never do is surrender to those who would have us believe that the drug problem is too widespread, too deeply rooted or too expensive to do anything about. We will resist the siren songs of legalization -- {APPLAUSE} -- and send those who deal in drugs a time-honored message of sending them to jail.
+
+We will always treat drug trafficking as a serious crime against society. And we will treat those who want to escape the clutches of addiction with compassion and real support. Our goal will be to reduce drug use in America, not because it is an easily attainable goal, but because the well-being of the nation requires it and the good conscience of every American demands it.
+
+And, finally, I want to thank my family, friends and colleagues who have joined me here today. You have been, and continue to be, a source of strength; and I'll need it now more than ever.
+
+Mr. President, you've honored me with both your trust and with the enormity of the task at hand. And I have no illusions about the difficulties ahead, but I embrace them eagerly and competently, certain that America will rally with us to defend her future. Thank you, Mr. President. {APPLAUSE} 
+
+{/speech}

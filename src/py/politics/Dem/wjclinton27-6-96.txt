@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President to the People of Perouges, France {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 27, 1996 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mayor De la Chapelle; Mayor Bussy; Prefect Ritter; to Mr. Mavereaux, the president of the local veterans association; to Henri Girousse; to all the World War II veterans who are here; to members of Parliament; especially to the children and the teachers of Perouges and Meximieux; to my fellow Americans -- let me begin by saying that Hillary and I and our party are very, very pleased to be here in Perouges today, to be so warmly welcomed by you, and especially to be here with all the school children. Thank you very much. {APPLAUSE}
+
+I would like to say a special word of thanks to the very large number of members of Parliament who are here and to the military band for providing such excellent music today. {APPLAUSE}
+
+Mayor de la Chapelle, I know that your ancestor, Pierre, fought in our Revolutionary War and even advised our first president, George Washington. So, Mr. Mayor, I'm glad to be here with you today and I would be happy to have any advice you might have for me today. {LAUGHTER ; APPLAUSE} Thank you.
+
+Americans have been at home here since our soldiers trained together during World War I and our people fought together in the final days of World War II. I am glad to be here to renew our friendship with the people of Perouges, as we stand on the brink of a new century and an age of great possibility for the children who are here.
+
+As we drove from Lyons, Perouges rose in the distance, its great ramparts crowned by your beautiful church tower and tile roofs. Then we discovered the cobblestone streets, the narrow lanes, the hand-painted signs, the sundials, the drinking wells. The sense of timelessness is so strong in this beautiful place it is easy to forget the story of Perouges is also the story of change. Weavers, craftsmen and farmers once made this town a great Medieval trading center. A century ago, the railroads passed you by, and people began to leave. But then artists, historians and ordinary citizens worked with government to establish a community as a historic monument. And ever since, the history you have preserved here has brought people like me from all around the world and allowed this wonderful community to thrive.
+
+We should all learn from this lesson. Today the world we live in is changing faster than ever. While more and more people prosper in this new global economy, others struggle without the proper education and training. While new technologies and rapid movements of information and money and people across national borders bring all of us closer together, they also make all of us more open to common dangers -- crime, drug trafficking and terrorism, as we saw in Saudi Arabia, where 19 Americans were killed and many more were wounded. And I thank you, Mr. Mayor, for that moment of silence in their memory.
+
+To meet these challenges, we must show strength and steadiness and judgment and flexibility. We must meet our challenges and protect our values just as you have here. That is what this G-7 meeting is all about because I know that if we all work together, we can keep the world economy growing so that more and more of our people have the opportunity to make the most of their own lives. And if we all work together, we can face these terrible new threats to our security successfully.
+
+Terrorism is on our minds today because of the cowardly bombing in Saudi Arabia. So let me repeat what I said yesterday to the American people -- we will not rest in our efforts to discover who is responsible, to track them down and to bring them to justice. My friends, we must rally the forces of tolerance and freedom everywhere to work against terrorism, just as we are working together for peace in Bosnia today with the strong leadership of France and President Chirac.
+
+Last year the United States launched an international initiative to fight terrorism, organized crime, drug trafficking and nuclear smuggling. Here in Lyon, I expect the G-7 nations to adopt 40 very specific recommendations to combat crime and terror, to increase our efforts to prevent terrorists from committing their crimes and our ability to track, catch, and punish them when they do. The future of the children here depend upon our success in this effort. {APPLAUSE}
+
+Fifty-two years ago the French Resistance worked here in common cause with American GIs to win your freedom back. Now we must join together to face down the new threats to our freedom. Your unshakable devotion to freedom is literally rooted here in the heart of your town in this mighty linden tree, which was planted just over 200 years ago during the French Revolution. You call it the Tree of Liberty.
+
+Today's threats to the liberty your tree symbolizes are very different from those of 200 years ago, different from the threats of World War II or the Cold War, but they are real, and we must face them. We must face them so that the children here today will enter the 21st century free and secure, with the greatest opportunity to live out their dreams of any generation in human history.
+
+That is my dream. It is one I hope we all share. Thank you very much. God bless America, and vive la France. 
+
+{/speech}

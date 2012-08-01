@@ -1,0 +1,35 @@
+﻿{title} Remarks by the President at Arlington National Cemetery Memorial Day Commemoration {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 31, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all very much. Thank you all. Welcome. Mr. Secretary, thank you for your great leadership as Secretary of Defense for our country. {APPLAUSE} General Myers, members of the United States military, veterans, honored guests, and fellow Americans. This morning I had the honor of placing a wreath before the Tomb of the Unknowns. This custom is observed every Memorial Day on behalf of the American people as a mark of gratitude and respect. 
+
+And when this ceremony is concluded, and all of us have gone on our way, the Honor Guard will keep watch over the Tomb. Every hour of every day, on the coldest nights, in the hardest rain, there is a sentinel of the 3rd U.S. Infantry standing guard. The soldiers entrusted with that duty count it a privilege. And, today, as we reflect on the men and women who have died in the defense of America, all of us count it a privilege to be citizens of the country they served. {APPLAUSE} 
+
+In the military tradition, no one is left behind on the field of battle. And our nation is determined to account for all of the missing. The same spirit can be seen in the respect we show to each life laid down for this nation. We receive them in sorrow, and we take them to an honored place to rest. At this and other cemeteries across our country, and in cemeteries abroad where heroes fell, America acknowledges a debt that is beyond our power to repay. 
+
+This weekend, we dedicated the World War II Memorial, which will stand forever as a tribute to the generation that fought that war and the more than 400,000 Americans who fell. {APPLAUSE} Some here today can turn their minds back across 60 years and see the face of a buddy who never made it home. You are veterans who have not forgotten your comrades. And America will always honor the achievements and the character of your brave generation. {APPLAUSE} 
+
+Through our history, America has gone to war reluctantly, because we have known the costs of war. And the war on terror we're fighting today has brought great costs of its own. Since the hour this nation was attacked, we have seen the character of the men and women who wear our country's uniform. In places like Kabul and Kandahar, in Mosul and Baghdad, we have seen their decency and their brave spirit. Because of their fierce courage, America is safer, two terror regimes are gone forever, and more than 50 million souls now live in freedom. {APPLAUSE} 
+
+Those who have fought these battles and served this cause can be proud of all they have achieved. And these veterans of battle will carry with them for all their days the memory of the ones who did not live to be called veterans. They will remember young soldiers like Captain Joshua Byers, a West Point man born in South Carolina who died in Iraq. When this son of missionaries was given command of a 120-man combat unit, he wrote this to his parents: "I will give the men everything I have to give. I love them already, just because they're mine. I pray, with all my heart, that I will be able to take every single one of them home safe when we finish our mission here." 
+
+Sergeant Major Michael Stack, who was laid to rest at Arlington, wore the uniform for 28 years and is remembered as a soldier's soldier. The sergeant major must have been quite a guy. When he was a young platoon sergeant, the recruits gave him a nickname: No Slack Billy Jack Stack. {LAUGHTER} By all accounts, he was the kind of man you want in charge of a tough situation. And by the account of his mother, he finished his goodbyes with these words: "Mom, I'm going because I believe in what I am doing. And if I don't come back, we will meet in a better place." {APPLAUSE} 
+
+Those who risked their lives on our behalf are often very clear about what matters most in their own lives, and they tell it to those they love. Master Sergeant Kelly Hornbeck, of the Special Forces, was killed in action last January, south of Samarra. To his parents back in Fort Worth, Texas, he wrote this: "I am not afraid, and neither should either of you be -- For I trust in my God and my training, two powerful forces that cannot be fully measured." 
+
+After Private First Class Jesse Givens, of Springfield, Missouri was lost last May, his family received a letter he had written to them in the event of his death. He wrote this to his son, Dakota: "You've taught me that life isn't so serious, and sometimes you just have to play. You have a big, beautiful heart. Through your life, you need to keep it open and follow it. I will always be there in our park when you dream, so we can play." To his wife, Melissa, Private Givens wrote, "Do me a favor after you tuck the children in -- give them hugs and kisses from me. Go outside and look at the stars and count them. Don't forget to smile." This is the quality of the people in our uniform. {APPLAUSE} 
+
+And this is the loss to our nation. Markers on these hills record the names of more than 280,000 men and women. Each was once or still is the most important person in someone's life. With each loss in war, the world changed forever for the family and friends left behind. Each loss left others to go on, counting the years of separation, and living in the hope of reunion. 
+
+Although the burden of grief can become easier to bear, always there is the memory of another time, and the feeling of sadness over an unfinished life. Yet, the completeness of a life is not measured in length only. It is measured in the deeds and commitments that give a life its purpose. And the commitment of these lives was clear to all: They defended our nation, they liberated the oppressed, they served the cause of peace. And all Americans who have known the loss and sadness of war, whether recently or long ago, can know this: The person they love and missed is honored and remembered by the United States of America. 
+
+May God bless our country. {APPLAUSE} 
+
+{/speech} 

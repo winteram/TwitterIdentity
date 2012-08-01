@@ -1,0 +1,141 @@
+﻿{title} Announcement Speech {/title}
+{event} ----- {/event}
+{speaker} John McCain {/speaker}
+{date} September 27, 1999 {/date}
+{source} http://www.gwu.edu {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+I have the privilege of beginning my campaign with you here in New Hampshire, but I began this day as I began my career of service to our nation...in the company of United States Naval Academy midshipmen. 
+Whenever I see those young men and women, and think of their dedication and the purposeful careers on which they will soon embark, I am reminded of how lucky I was to have been one of them. So there is no more appropriate place for me to have begun this mission than Annapolis. 
+
+I do not announce my candidacy to satisfy my personal ambitions. My life has already been blessed more than I deserve. 
+
+I don't begin this mission with any sense of entitlement. America doesn't owe me anything. I am the son and grandson of Navy admirals, and I was born into America's service. It wasn't until I was deprived of her company that I fell in love with America. And it has been my honor to serve her and her great cause - freedom. I have never lived a day since that I wasn't more than thankful for the privilege. 
+
+It is because I owe America more than she has ever owed me that I am a candidate for President of the United States. {CHEERS ; APPLAUSE} 
+
+I run for President of the United States because I want to return our government back to whom it belongs—the people. {CHEERS ; APPLAUSE} So that Americans can believe once again that public service is a summons to duty and not a lifetime of privilege. 
+
+I run because I believe deeply in the greatness of America's destiny and in the goodness of our cause. We are a lantern of freedom and opportunity to the world, the bright beacon of hope that our fathers died to bequeath us, and our children will be asked to defend. 
+
+Unless we restore the people's sovereignty over government, renew their pride in public service, reform our public institutions to meet the demands of a new day, and reinvigorate our sense of national purpose we will deny our destiny, we will abandon the cause our founding fathers called glorious. 
+
+The first responsibility of the next president will be keep our country safe so that we might secure for ourselves and humanity a future worthy of our highest aspirations. {CHEERS ; APPLAUSE} That obligation requires a commander-in-chief who has the experience to understand and lead a volatile and changing world. 
+
+Although the next century will hold many dangers for America and our cause, it will, more than ever, be an age of untold possibilities for good. It is our destiny to seize this opportunity to build a safer, freer and more prosperous nation and a world free of the tyranny that has made the passing century such a violent one. 
+
+This is a great and worthy cause that beckons us all. It is bigger than any one of us. It is larger than personal ambition. It is more important than self-seeking. 
+
+As a young man I discovered how liberating it is to sacrifice with others for a cause greater than self-interest. I run for President because I want the next generation of Americans to know the sense of pride and purpose of serving a cause greater than themselves. {CHEERS ; APPLAUSE} 
+
+I entered politics with the same expectations I had when I was commissioned an ensign in the Navy. First among them was my belief that serving my country is an honor, indeed, the most honorable life an American can lead. 
+
+As a candidate, I will campaign with respect for the dignity of the office I seek and the people I seek to serve. {CHEERS ; APPLAUSE} On my honor, I swear to you that from my first day in office to the last breath I draw, I will do everything in my power to make you proud of your government. {CHEERS ; APPLAUSE} 
+
+Something has gone terribly wrong when parents no longer want their children to grow up to be President. That shames me, that shames me. And I want to do something about it. {CHEERS ; APPLAUSE} 
+
+When our government has been taken from us by the special interests, the big-dollar donors, pride is lost to shame. When our politics are corrupted by money and lies, trust is lost to cynicism. {CHEERS ; APPLAUSE} 
+
+We have a choice. We have a choice. We can continue to watch as the American people grow ever more alienated from the practice and institutions of democracy. We can continue to tolerate a government that has become little more than a spectacle of selfish ambition, a government auctioned to the highest bidder. 
+
+Or, we can take a stand. 
+
+We can stand together to take up our country's cause. We can fight together to reclaim our government from those who corrupt it; to rescue our political system from those who debase it; to defend the proposition that democracy is not only the most effective form of government, but the only moral government. {CHEERS ; APPLAUSE} 
+
+This is our New Patriotic Challenge. It is a challenge to each of us to join in the fight against the pervasive cynicism that is debilitating our democracy, that cheapens our political debates, that threatens our public institutions, our culture and, ultimately, our private happiness. It is a fight to take our government back from the power-brokers and special interests, and return it to the people, and the noble cause of freedom it was created to serve. {CHEERS ; APPLAUSE} 
+
+If we are to meet the challenges of our time, we must take the corrupting influence of special interest money out of politics. Restoring honesty to our political system is the gateway through which all other policy reforms must pass. 
+
+To make our schools better, we must reduce the influence of the teachers unions and their lobbyists. {CHEERS ; APPLAUSE} 
+
+To improve our health care system, we must rein in the power of trial lawyers and the influence of insurance companies. {CHEERS ; APPLAUSE} 
+
+To relieve the tax burden imposed on working families we must eliminate the special interest loopholes and pork barrel spending that are the result of a campaign financing system that is nothing more than a sophisticated influence peddling scheme. {CHEERS ; APPLAUSE} 
+
+Once we win our government back, there is no limit to what we can accomplish. 
+
+If elected President, I will not allow your Social Security money to be used for any purpose except Social Security -- no ifs, ands, or excuses. {CHEERS ; APPLAUSE} 
+
+Social Security money will be taken completely off budget - every single dollar. So politicians can't get their hands on your retirement money to finance another big government scheme. {CHEERS ; APPLAUSE} 
+
+I will keep the promise that Bill Clinton broke. I'll reserve more than sixty percent of the surplus to save Social Security. I'll do it in the first year of my presidency. It won't be easy, but being President isn't supposed to be easy. {CHEERS ; APPLAUSE} 
+
+My commitment to save Social Security will not prevent me from providing vital tax relief to the millions of Americans who have been overcharged by government for years. I will cut taxes, not for the special interests and the big-dollar donors, but for the working men and women of this country. {CHEERS ; APPLAUSE} 
+
+I will repeal the indefensible tax penalty that punishes couples who want to get married. 
+
+I will slash the inheritance tax that penalizes those who wish to leave the fruits of their labor to their children. 
+
+I will end the earnings test penalty for seniors that taxes their income twice and denies them the self-respect that comes from working. {CHEERS ; APPLAUSE} 
+
+And I will dramatically increase the number of Americans who qualify for the lowest tax rate of fifteen percent by raising the eligible income to $70,000 per couple. 
+
+I'll pay for middle class tax relief by using the surplus funds not needed to save Social Security, and with the money saved by eliminating tax loopholes and corporate welfare that serve powerful special interests at your expense. 
+
+Day after day, I have fought to stop Congress from treating your money like lottery winnings. I want you to know, what every member of Congress knows, that if I am President, I will refuse to sign any pork barrel bill that crosses my desk. And if Congress overrides my veto and tries to force me to waste your money, I'll make sure you know who they are - every single one of them. {CHEERS ; APPLAUSE} Every single one of them. 
+
+Fixing a broken political system is the key to necessary reform in almost every area where the government touches your life. But nowhere are the stakes greater than in the education of our children. 
+
+First and most importantly let's return control of education back to parents and teachers. {CHEERS ; APPLAUSE} We can do this by sending ninety percent of all federal education dollars back to community classrooms rather than wasting it on Washington bureaucrats. Let's put your child's education back in the hands of someone who knows your child's name. 
+
+It's time that we encourage and reward excellence, for students and teachers alike. 
+
+There's no reason on earth that a good teacher should be paid less than a bad Senator. {CHEERS ; APPLAUSE} But all pay should be based on merit, and teachers should be periodically tested for competence. {APPLAUSE} Parents demand it; now they will finally have the control to require it. 
+
+Every child in every classroom deserves a teacher who is qualified and enthusiastic about teaching. Some people just aren't meant to be teachers, and we should help them find another line of work. {CHEERS ; APPLAUSE} Because if teachers can't teach, our kids can't learn. 
+
+Our children deserve the best education we can provide to them, whether that learning takes place in a public, private or parochial school. It's time to give middle and lower income parents the same right wealthier parents have -- to send their child to the school that best meets their needs. It's time to conduct a nationwide test of school vouchers. {CHEERS ; APPLAUSE} It's time to democratize education. 
+
+I have fought to make sure that every American child has access to the technological wonders that are remaking our world. Some day very soon every school in America will be wired to the Internet. Children on the Navajo reservation in Northern Arizona and children from the wealthiest neighborhoods will have access to the same information. 
+
+The blessings of technology give us the means to breach the wall of ignorance and isolation. At the dawn of every century we face the prospect of reaching the full promise of our founding ideal that all men are created equal by giving all Americans access to information and knowledge, and an equal opportunity not only to pursue, but to attain happiness. 
+
+Education is the great equalizer and used wisely, the information revolution will hasten the end of a two-tiered society of haves and have nots, and advance human freedom into the even the darkest corners of tyranny. 
+
+Our ideals have made much progress in the world. But if they are to achieve further we will need the service of all our children, not just the sons and daughters of a privileged elite. We need capable, committed leaders from every part of American society to continue the American experiment and promote the American cause in a still dangerous world. {CHEERS ; APPLAUSE} 
+
+There is no safe alternative to American leadership. The history of this violent century has surely taught us that. We cannot hide behind empty threats, false promises, meaningless rhetoric, and photo op diplomacy. We must confidently defend our interests and values wherever they are threatened. And the first priority of our world leadership is to protect our own security. {CHEERS ; APPLAUSE} 
+
+As President, I won't ask how much security we can afford. I'll ask how much security do we need, and I will find the resources to pay for it. But I won't tolerate one dime of our defense budget being wasted to re-elect shortsighted politicians who put their own ambitions before the national interest. {CHEERS ; APPLAUSE} 
+
+I believe that President Clinton has failed his first responsibility to the nation by weakening our defenses. But he's not the only one to blame. Both parties in Congress have wasted scarce defense dollars on unneeded weapons systems and other pork projects while 12,000 enlisted personnel, proud young men and women, subsist on food stamps. That's a disgrace. {CHEERS ; APPLAUSE} 
+
+We shortchange those priorities most vital to our security, including the training, missile defense, weapons modernization, and counter-terrorism. 
+
+My friends, our nation has a unique place in the world. We are the greatest force for good on earth. We chart history's course. Yes, we must be involved in the destiny of other nations. But that does not mean we have relinquished our sovereignty. It means we have persuaded much of the world to share our ideals. And that's not a cause for concern. It's a cause for hope. 
+
+We Americans are a strong confident people. We know that in open competition our ideals, our ingenuity, and our courage ensure our success. Isolationism and protectionism are a fool's errand. We should build no walls in a futile attempt to keep the world at bay. Walls are for cowards, not for us. {CHEERS ; APPLAUSE} 
+
+We are the world's only superpower. We must accept the responsibilities along with the blessings that come with that distinction. And if America is to lead, then America's leader must be prepared for that challenge. The most solemn responsibility given the President is the role of Commander-in-Chief. {APPLAUSE} 
+
+When it comes time to make the decision to send our young men and women into harm's way, that decision should be made by a leader who knows that such decisions have profound consequences. There comes a time when our nation's leader can no longer rely on briefing books and talking points, when the experts and the advisors have all weighed in, when the sum total of one's life becomes the foundation from which he or she makes the decisions that determine the future of our democracy. 
+
+When a President makes life-and-death decisions he should draw strength and wisdom from broad and deep experience with the reasons for and the risks of committing our children to our defense. For no matter how many others are involved in the decision, the President is a lonely man in a dark room when the casualty reports come in. 
+
+I am not afraid of that burden. I know both the blessing and the price of freedom. 
+
+I am not afraid. I have faith in my country and the good men and women of every American generation who know the honor of defending our cause. 
+
+I am not afraid. I learned long ago how powerful America is when she has the courage of her convictions. 
+
+I am not afraid. My life has taught me that the strength and courage of others will always help sustain me in an hour of need. 
+
+I am not afraid, because I know that, as we prepare to take on the challenges of the next century, enough Americans will serve together a glorious cause greater than our narrow self-interests. {CHEERS ; APPLAUSE} 
+
+There are have always been those who question the moral imperative of American government and diplomacy. They are profoundly wrong. We embrace the virtues of inclusion in our party and in politics but we hold firm to our core national values. 
+
+We are all part of a great experiment: that people who are free to act in their own interests will perceive their interests in an enlightened way, and will gratefully accept the obligation of freedom to make of our wealth and power a civilization for the ages, a civilization in which all people share in the promise of freedom. 
+
+I have passed from a young man to an old man in the service of my country. When my time is over, I want only the satisfaction of knowing I was true to the faith of our fathers; true to the faith of a young Czech student who ten years ago stood before a million of his countrymen, while a hundred thousand Soviet troops occupied his country, and read a manifesto that declared a new day for the people of Czechoslovakia. But he began the new day with borrowed words, when, trembling with emotion, he proclaimed: 
+
+"We hold these truths to be self-evident: that all men are created equal, that they are endowed by their Creator with certain unalienable rights, that among these are life, liberty and the pursuit of happiness." 
+
+I want to be President to protect, until my life's end, our magnificent dream of freedom - God's great blessing to the world. And with your help I will. 
+
+Thank you. {CHEERS ; APPLAUSE} 
+
+
+{/speech} 

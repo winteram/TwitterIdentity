@@ -1,0 +1,94 @@
+﻿{title} Remarks by the President at Hampton University Commencement {/title}
+{event} Hampton University Commencement {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 9, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. {APPLAUSE} Thank you very much. Thank you. Thank you, Hampton. Thank you, Class of 2010. {APPLAUSE} Please, everybody, please have a seat.
+
+{AUDIENCE-MEMBER} I love you! {/AUDIENCE-MEMBER} 
+
+I love you back. {APPLAUSE} That's why I'm here. I love you guys.
+
+Good morning, everybody.
+
+{AUDIENCE} Good morning. {/AUDIENCE} 
+
+To all the mothers in the house: As somebody who is surrounded by women in the White House -- {LAUGHTER} -- grew up surrounded by women, let me take a moment just to say thank you for all that you put up with each and every day. We are so grateful to you, and it is fitting to have such a beautiful day when we celebrate all our mothers. Thank you to Hampton for allowing me to share this special occasion -- to all the dignitaries who are here, the trustees, the alumni, parents, grandparents, aunts, uncles, cousins -- that's a cousin over there. {LAUGHTER}
+
+Now, before we get started, I just want to say, I'm excited the Battle of the Real H.U. will be taking place in Washington this year. {LAUGHTER} You know I am not going to pick sides. {LAUGHTER} But my understanding is it's been 13 years since the Pirates lost. {APPLAUSE} As one Hampton alum on my staff put it, the last time Howard beat Hampton, The Fugees were still together. {LAUGHTER}
+
+Well, let me also say a word about President Harvey, a man who bleeds Hampton blue. In a single generation, Hampton has transformed from a small black college into a world-class research institution. {APPLAUSE} And that transformation has come through the efforts of many people, but it has come through President Harvey's efforts, in particular, and I want to commend him for his outstanding leadership as well as his great friendship to me. {APPLAUSE}
+
+Most of all, I want to congratulate all of you, the Class of 2010. I gather that none of you walked across Ogden Circle. {LAUGHTER} You did? Okay.
+
+You know, we meet here today, as graduating classes have met for generations, not far from where it all began, near that old oak tree off Emancipation Drive. I know my University 101. {LAUGHTER ; APPLAUSE} There, beneath its branches, by what was then a Union garrison, about 20 students gathered on September 17th, 1861. Taught by a free citizen, in defiance of Virginia law, the students were escaped slaves from nearby plantations, who had fled to the fort seeking asylum.
+
+And after the war's end, a retired Union general sought to enshrine that legacy of learning. So with a collection from church groups, Civil War veterans, and a choir that toured Europe, Hampton Normal and Agricultural Institute was founded here, by the Chesapeake –- a home by the sea.
+
+Now, that story is no doubt familiar to many of you. But it's worth reflecting on why it happened; why so many people went to such trouble to found Hampton and all our Historically Black Colleges and Universities. The founders of these institutions knew, of course, that inequality would persist long into the future. They were not naïve. They recognized that barriers in our laws, and in our hearts, wouldn't vanish overnight.
+
+But they also recognized the larger truth; a distinctly American truth. They recognized, Class of 2010, that the right education might allow those barriers to be overcome; might allow our God-given potential to be fulfilled. They recognized, as Frederick Douglass once put it, that “education…means emancipation.” They recognized that education is how America and its people might fulfill our promise. That recognition, that truth –- that an education can fortify us to rise above any barrier, to meet any test –- is reflected, again and again, throughout our history.
+
+In the midst of civil war, we set aside land grants for schools like Hampton to teach farmers and factory-workers the skills of an industrializing nation. At the close of World War II, we made it possible for returning GIs to attend college, building and broadening our great middle class. At the Cold War's dawn, we set up Area Studies Centers on our campuses to prepare graduates to understand and address the global threats of a nuclear age.
+
+So education is what has always allowed us to meet the challenges of a changing world. And Hampton, that has never been more true than it is today. This class is graduating at a time of great difficulty for America and for the world. You're entering a job market, in an era of heightened international competition, with an economy that's still rebounding from the worst crisis since the Great Depression. You're accepting your degrees as America still wages two wars –- wars that many in your generation have been fighting.
+
+And meanwhile, you're coming of age in a 24/7 media environment that bombards us with all kinds of content and exposes us to all kinds of arguments, some of which don't always rank that high on the truth meter. And with iPods and iPads; and Xboxes and PlayStations -- none of which I know how to work -- {LAUGHTER} -- information becomes a distraction, a diversion, a form of entertainment, rather than a tool of empowerment, rather than the means of emancipation. So all of this is not only putting pressure on you; it's putting new pressure on our country and on our democracy.
+
+Class of 2010, this is a period of breathtaking change, like few others in our history. We can't stop these changes, but we can channel them, we can shape them, we can adapt to them. And education is what can allow us to do so. It can fortify you, as it did earlier generations, to meet the tests of your own time.
+
+And first and foremost, your education can fortify you against the uncertainties of a 21st century economy. In the 19th century, folks could get by with a few basic skills, whether they learned them in a school like Hampton, or picked them up along the way. As long as you were willing to work, for much of the 20th century, a high school diploma was a ticket into a solid middle class life. That is no longer the case.
+
+Jobs today often require at least a bachelor's degree, and that degree is even more important in tough times like these. In fact, the unemployment rate for folks who've never gone to college is over twice as high as for folks with a college degree or more.
+
+Now, the good news is you're already ahead of the curve. All those checks you or your parents wrote to Hampton will pay off. {LAUGHTER} You're in a strong position to outcompete workers around the world. But I don't have to tell you that too many folks back home aren't as well prepared. Too many young people, just like you, are not as well prepared. By any number of different yardsticks, African Americans are being outperformed by their white classmates, as are Hispanic Americans. Students in well-off areas are outperforming students in poorer rural or urban communities, no matter what skin color.
+
+Globally, it's not even close. In 8th grade science and math, for example, American students are ranked about 10th overall compared to top-performing countries. But African Americans are ranked behind more than 20 nations, lower than nearly every other developed country.
+
+So all of us have a responsibility, as Americans, to change this; to offer every single child in this country an education that will make them competitive in our knowledge economy. That is our obligation as a nation. {APPLAUSE}
+
+But I have to say, Class of 2010, all of you have a separate responsibility. To be role models for your brothers and sisters. To be mentors in your communities. And, when the time comes, to pass that sense of an education's value down to your children, a sense of personal responsibility and self-respect. To pass down a work ethic and an intrinsic sense of excellence that made it possible for you to be here today.
+
+So, allowing you to compete in the global economy is the first way your education can prepare you. But it can also prepare you as citizens. With so many voices clamoring for attention on blogs, and on cable, on talk radio, it can be difficult, at times, to sift through it all; to know what to believe; to figure out who's telling the truth and who's not. Let's face it, even some of the craziest claims can quickly gain traction. I've had some experience in that regard.
+
+Fortunately, you will be well positioned to navigate this terrain. Your education has honed your research abilities, sharpened your analytical powers, given you a context for understanding the world. Those skills will come in handy.
+
+But the goal was always to teach you something more. Over the past four years, you've argued both sides of a debate. You've read novels and histories that take different cuts at life.
+
+{AUDIENCE-MEMBER} Amen! {/AUDIENCE-MEMBER} 
+
+You've discovered -- see, I got a little “Amen” there, somebody -- {LAUGHTER} -- you've discovered interests you didn't know you had. You've made friends who didn't grow up the same way you did. You've tried things you'd never done before, including some things we won't talk about in front of your parents. {LAUGHTER}
+
+All of this, I hope, has had the effect of opening your mind; of helping you understand what it's like to walk in somebody else's shoes. But now that your minds have been opened, it's up to you to keep them that way. It will be up to you to open minds that remain closed that you meet along the way. That, after all, is the elemental test of any democracy: whether people with differing points of view can learn from each other, and work with each other, and find a way forward together.
+
+And I'd add one further observation. Just as your education can fortify you, it can also fortify our nation, as a whole. More and more, America's economic preeminence, our ability to outcompete other countries, will be shaped not just in our boardrooms, not just on our factory floors, but in our classrooms, and our schools, at universities like Hampton. It will be determined by how well all of us, and especially our parents, educate our sons and daughters.
+
+What's at stake is more than our ability to outcompete other nations. It's our ability to make democracy work in our own nation. Now, years after he left office, decades after he penned the Declaration of Independence, Thomas Jefferson sat down, a few hours' drive from here, in Monticello, and wrote a letter to a longtime legislator, urging him to do more on education. And Jefferson gave one principal reason –- the one, perhaps, he found most compelling. “If a nation expects to be ignorant and free,” he wrote, “it expects what never was and never will be.”
+
+What Jefferson recognized, like the rest of that gifted founding generation, was that in the long run, their improbable experiment –- called America –- wouldn't work if its citizens were uninformed, if its citizens were apathetic, if its citizens checked out, and left democracy who those -- to those who didn't have the best interests of all the people at heart. It could only work if each of us stayed informed and engaged; if we held our government accountable; if we fulfilled the obligations of citizenship.
+
+The success of their experiment, they understood, depended on the participation of its people -– the participation of Americans like all of you. The participation of all those who have ever sought to perfect our union.
+
+I had a great honor of delivering a tribute to one of those Americans last week, an American named Dorothy Height. {APPLAUSE}
+
+And as you probably know, Dr. Height passed away the other week at the age of 98. One of the speakers at this memorial was her nephew who was 88. And I said that's a sign of a full life when your nephew is 88. Dr. Height had been on the firing line for every fight from lynching to desegregation to the battle for health care reform. She was with Eleanor Roosevelt and she was with Michelle Obama. She lived a singular life; one of the giants upon whose shoulders I stand. But she started out just like you, understanding that to make something of herself, she needed a college degree.
+
+So, she applied to Barnard College –- and she got in. Except, when she showed up, they discovered she wasn't white as they had believed. And they had already given their two slots for African Americans to other individuals. Those slots, two, had already been filled. But Dr. Height was not discouraged. She was not deterred. She stood up, straight-backed, and with Barnard's acceptance letter in hand, she marched down to New York University, and said, “Let me in.” And she was admitted right away.
+
+I want all of you to think about this, Class of 2010, because you've gone through some hardships, undoubtedly, in arriving to where you are today. There have been some hard days, and hard exams, and you felt put upon. And undoubtedly you will face other challenges in the future.
+
+But I want you to think about Ms. Dorothy Height, a black woman, in 1929, refusing to be denied her dream of a college education. Refusing to be denied her rights. Refusing to be denied her dignity. Refusing to be denied her place in America, her piece of America's promise. Refusing to let any barriers of injustice or ignorance or inequality or unfairness stand in her way. {APPLAUSE} That refusal to accept a lesser fate; that insistence on a better life, that, ultimately, is the secret not only of African American survival and success, it has been the secret of America's survival and success. {APPLAUSE}
+
+So, yes, an education can fortify us to meet the tests of our economy, the tests of our citizenship, and the tests of our times. But what ultimately makes us American, quintessentially American, is something that can't be taught -– a stubborn insistence on pursuing our dreams.
+
+It's the same insistence that led a band of patriots to overthrow an empire. That fired the passions of union troops to free the slaves and union veterans to found schools like Hampton. That led foot-soldiers the same age as you to brave fire-hoses on the streets of Birmingham and billy clubs on a bridge in Selma. That led generation after generation of Americans to toil away, quietly, your parents and grandparents and great-grandparents and great-great grandparents, without complaint, in the hopes of a better life for their children and grandchildren.
+
+That is what makes us who we are. A dream of brighter days ahead, a faith in things not seen, a belief that here, in this country, we are the authors of our own destiny. That is what Hampton is all about. And it now falls to you, the Class of 2010, to write the next great chapter in America's story; to meet the tests of your own time; to take up the ongoing work of fulfilling our founding promise. I'm looking forward to watching.
+
+Thank you, God bless you, and may God bless the United States of America. {APPLAUSE} 
+
+{/speech}

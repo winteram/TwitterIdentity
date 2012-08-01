@@ -1,0 +1,47 @@
+﻿{title} Remarks by the Vice President at 0ff the Record Stop at Hazleton Memorial Park {/title}
+{event} 0ff the Record Stop at Hazleton Memorial Park  {/event}
+{speaker} Dick Cheney {/speaker}
+{date} August 26, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. {APPLAUSE}
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+Thank you all very much. This is the first time I've stood in front of the bus with the sound system on the back here. It's pretty potent. {LAUGHTER}
+
+Well, it's great to be here in Hazleton, and back in Pennsylvania today. I've got family with me, my wife, Lynne, of course. {APPLAUSE} Oldest daughter, Elizabeth. {APPLAUSE} And three of our four grandchildren -- this is Kate. {APPLAUSE} This is Elizabeth. {APPLAUSE} And this is Grace. {APPLAUSE} And Daughter Mary is around someplace. She's working.
+
+But we're delighted to be here today and have an opportunity to spend a few minutes with you. We really appreciate your coming out and your signing on to be part of this very important election. This is perhaps the most important election of my lifetime. I say that not just because my name is on the ballot with the President, but because I think we're going to make the kinds of decisions this year that will shape the course of America history for the next 40 or 50 years. Not only -- {APPLAUSE} It's important for us to get it right, not only from the standpoint of national security and having to deal with the new threats that we've had to deal with now since 9/11, but ensuring that the nation is safe and secure for our kids and our grandkids, and for their kids, as well. There's no more important piece of business for us this year. {APPLAUSE}
+
+And it's also vital from a standpoint of economic policy. Now, when President Bush and I took the oath of office January of 2001, we were headed into a recession. Then we got hit with the attacks of 9/11, and that shook the economy once again. We've been battling our way back. The President has provided the kind of bold, aggressive leadership that's absolutely crucial. We've added 1.5 million new jobs in the last year. We've gotten tax policy three times. {APPLAUSE} He made those decisions and pushed through the doubling of the child tax credit, and reduction of the marriage penalty, and cutting rates across the board so that everybody in America who pays income taxes pays fewer taxes today than they did before. {APPLAUSE}
+
+In the election this year, we're going to have a basic fundamental debate and decision over these fundamental issues -- because there are big differences between the positions the President and I have taken, the work we've done now for three-and-a-half years, versus the record of our opponents. And they do have a record. Well, maybe I better rephrase that. {LAUGHTER} They've been voting in the United States Senate -- John Kerry now for about 20 years, so you can go check the facts and see where is he on tax policy. And you'll find that he pretty consistently votes for higher taxes, not lower taxes. And they've now promised about a $2 trillion increase in federal spending based on all the programs they've added out there. The only way they're going to be able to do that and meet the objectives they've talked about with respect to the budget, is to raise taxes. That's the only program they've got.
+
+So as we go forward this year, and we address some of those basic fundamental issues, like making certain we've got adequate health care that people can afford, I know it's a problem here in Pennsylvania -- because it is in my home state of Wyoming, as well. {APPLAUSE} We need medical liability reform because we've driven up malpractice insurance rates so high in my home state, doctors can't even practice any more. {APPLAUSE}
+
+There are a whole range of issues that we need to work across the board, in terms of getting a decent energy policy so that Americans no longer rely to the extent we are today on foreign sources of energy, and we've got affordable supplies that can get to everybody who needs it. {APPLAUSE}
+
+I am privileged to serve alongside George Bush. This has been a remarkable four years since he asked me to be his running mate, just about four years ago this month. And he's been a remarkable President. I can't think of a man better qualified for the times we're in. {APPLAUSE}
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+As you think about the election this year, I know we're talking about registering voters here. The Mayor has got a great program underway to make sure we get everybody registered. {APPLAUSE} But if anybody tells you that your efforts don't matter, that it doesn't matter whether you vote, or whether you get out and volunteer your time and effort, or contribute to a campaign, just remember what happened four years ago, when the outcome of the election, the decision about who would be President of the United States for the next four years was turned on the question of 537 votes in Florida. In one of the closest elections in our history, it makes a huge difference whether or not people actually get out there and participate. You want to make sure you're registered. You want to make sure your friends and neighbors are registered, and your family is registered, that you take advantage of that tremendous privilege we have as Americans to participate in the political process to select our leadership, to hold them accountable for their performance. It's a privilege that few people in the history of the world have had. And we have it as Americans, thanks to those who have gone before, thanks to our veterans who've served so well to protect and preserve our freedom. {APPLAUSE}
+
+So we really do appreciate the fact you're out here today. We want to thank you for your help and support, and we're going to be campaigning -- I guess, we've got somebody said 68 or 69 days to go. We'll be out there every single day. We've got a great convention coming up next week in New York. {APPLAUSE} And then we'll be going flat out, right on down to the wire. {APPLAUSE} And on November 2nd, we're going to win. And Pennsylvania is going to be Bush-Cheney country. {APPLAUSE}
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+I just want to say how great it is to see all the kids here today. Politics should be a family affair, and I am glad to see you all getting kids involved in this most American of events when we decide who is going to be our leader.
+
+{OTHER-SPEAK} I love traveling with Dick. I love listening to him speak, and we've both been so privileged to serve by this President. He has been a magnificent leader for the past four years. {APPLAUSE} And I just want to add -- if you will permit me -- I would just like to say the Vice President is no slouch either. {/OTHER-SPEAK} {APPLAUSE}
+
+I also wanted to note today the presence of one of my heroes, a man that I've watched since I was probably as young as Gracie here, Jack Palance is down here. I know he's a neighbor of all yours. {APPLAUSE} Great to see him out here today, as well, too.
+
+But again, thank you for all of your efforts. Don't forget us on November 2nd, remember to get everybody out to the polls, and November 2nd, we'll see a tremendous victory not only here in Pennsylvania, but all across America, for the United States and the Bush-Cheney ticket.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

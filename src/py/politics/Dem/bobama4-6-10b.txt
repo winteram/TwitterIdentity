@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President in Honor of the MLS Cup Champion Real Salt Lake {/title}
+{event} Honoring the MLS Cup Champion Real Salt Lake {/event}
+{speaker} Barack Obama {/speaker}
+{date} June 4, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. Please have a seat. Well, welcome to the White House. And congratulations on winning your first MLS Cup Championship –- and for bringing the state of Utah its first professional sports title in almost 40 years. That's a pretty big deal. You can give them a round of applause for that. {APPLAUSE}
+
+I want to acknowledge the senator from the great state of Utah, Senator Bennett, who is here. {APPLAUSE} He is incredibly proud of this team -- too tall to play soccer. {LAUGHTER}
+
+I want to congratulate Dave Checketts for his leadership –- and for dedicating his career to expanding the world of professional sports. And, of course, I want to congratulate the players and coaches from Real Salt Lake.
+
+I know that this team had a pretty unlikely journey to get here. You qualified for the playoffs on the last day of the season with a losing record. {LAUGHTER} That's cutting it a little close, guys. {LAUGHTER} You beat your biggest rival, took down the defending champions on your way to the title game. And with the Cup on the line, you held two of the game's biggest stars scoreless in regulation and went on to win in a shootout -- all of which goes to show that in Major League Soccer, there's no such thing as a foregone conclusion.
+
+Now, you did it because, in the words of Coach Kreis -- and I have to say this is one of the rare coaches that I see in these events who I think might be able to still play -- {LAUGHTER} -- he looks very fit. {LAUGHTER} But Coach Kreis said, “We believe in each other as much as everybody disbelieved in us.” For this group, the team really is the star. This is a team that shows up every day, puts in an honest effort no matter what the critics say or how steep the odds. And last season, that attitude paid off.
+
+For a group that prides itself on unity, I'm a little hesitant to acknowledge any individuals. But there are a few people who did an exceptional job of helping this team go all the way.
+
+I want to congratulate Robbie Findley for becoming Salt Lake's all-time leading scorer, and for being named to this year's World Cup roster. So give Robbie a big round of applause. {APPLAUSE} Where is he? He's already left. I just realized I met Robbie last week, when the World Cup team was here. I thought he might be stopping by. {LAUGHTER}
+
+We are incredibly proud, obviously, of everyone who's going to be representing our country this month. Joe Biden will be leading the American delegation to the World Cup, and the rest of us are going to be cheering them on here at home.
+
+But it is because of the efforts of Robbie and the rest of the folks here today that soccer continues to get more popular every year in the United States. And as the father of soccer-playing daughters, I can tell you that it shows no sign of slowing down.
+
+I want to recognize Nick Rimando for being named MVP of the championship game, and for being such a force in goal for this team. {APPLAUSE} And, of course, I want to congratulate Coach Kreis for becoming the youngest MLS manager ever to win the Cup –- just two years after retiring -- see, I wasn't wrong -- {LAUGHTER} -- just two years after retiring as the third leading scorer in league history –- and for doing it with such a diverse group of players.
+
+This team includes members from Argentina, Armenia, Brazil, Canada, Colombia, Haiti, Holland, Jamaica, and the United States. And so besides overcoming language and cultural barriers, this is also a team that understands their responsibilities aren't limited to the soccer field or even our own borders.
+
+That's why, yesterday afternoon, they put on a clinic to teach local kids some soccer skills, while also raising awareness about the threat of malaria around the globe. They helped educate young people about the importance of preventing disease and how we can each do our part to help the less fortunate –- even if they live thousands of miles away.
+
+So congratulations to all of you for an outstanding season, for the championship. To everybody back in Salt Lake, cherish your team. And best of luck this season. 
+
+{/speech}

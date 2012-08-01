@@ -1,0 +1,40 @@
+﻿{title} Remarks by the President in Bill Signing of theNational Institutes of Health Revitalization Act Of 1993 {/title}
+{event} Bill Signing of theNational Institutes of Health Revitalization Act Of 1993 {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 10, 1993 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Ladies and gentlemen, I want to welcome all those of you who are here today for the signing of S-1, the National Institutes of Health Revitalization Act of 1993, and to especially recognize the bipartisan coalition which made this bill possible, led by the senators and the members of the House of Representatives who are here. I also want to thank the representatives of the groups who are here, including the Women's Health Network, the Juvenile Diabetes Foundation, the American Association of Medical Colleges, the Allen Guttmacher Institute, the Alzheimer's Association, the Human Rights Campaign Fund, the Breast Cancer Coalition and the National Health Council, and perhaps others. If I've left anyone out, forgive me.
+
+This legislation highlights the importance of programs administered by the National Institute of Health -- programs vital to our science and biomedical research base. The research carried out at NIH has already led to a healthier and far more productive America. However, there are many challenges still ahead. And this legislation provides the hope that someday we can prevent or cure diseases such as diabetes, cancer, coronary heart disease, AIDS and Alzheimer's.
+
+I'm particularly supportive of those provisions of S-1 aimed at improving the health of women and minorities. It's important that we ensure that resources are devoted to increasing our knowledge about conditions which uniquely affect these populations. It's equally important that we expand opportunities and support for the inclusion of women and minorities in research activities.
+
+In the 12 years since AIDS was first reported in the United States, much progress has been made through NIH-supported research. Gains have been made in making available treatment for AIDS and AIDS-related conditions. And clinical trials are underway to test possible vaccines for prevention or treatment of HIV infection.
+
+Someday we're going to have a treatment for all those beepers that go off. {LAUGHTER} They have to go to a vote. That's why we're hurrying this up. {LAUGHTER}
+
+We still face, however, an immense undertaking to address the needs of the nearly 300 or our fellow citizens who become infected with HIV each and every day. We must improve the effectiveness of our prevention activity, increase access to early treatment for already infected individuals, and strengthen our research programs. I am pleased to say that S-1 provides a framework for the increased coordination and direction of AIDS research.
+
+Finally, S-1 reenforces my action of January 22nd to lift the moratorium on federal funding of transplantation research involving human subjects using fetal tissue from induced abortions. This research has promising application for the treatment of lifethreatening conditions including Parkinson's Disease, spinal cord injuries, Huntington's and diabetes. At the same time, S-1 puts in place important safeguards to ensure against possible abuses by providing a clear separation between research and abortion.
+
+In signing the legislation, I underscore our commitment to address the immeasurable cost to our society and the suffering of our citizens from illness and disability. By strengthening and enhancing biomedical and behavioral research, this National Institute of Health Revitalization Act is an important step in fulfilling our commitment to promote the health and well-being of all Americans.
+
+And again, let me say a profound thanks on behalf of our nation to the senators and members of Congress who are here, and to those not here who provided important leadership in this effort. {APPLAUSE}
+
+{COMMENT="The bill is signed"} {APPLAUSE}
+
+{AUDIENCE-MEMBER} Mr. President, what about the provision barring immigration by HIV positive individuals in this bill? {/AUDIENCE-MEMBER} 
+
+That's the will of the Congress. That's part of the law. I don't think in any way it undermines the overall importance of this law. We have to learn to deal with AIDS better for all of our people, and for those who are here within our borders who are not citizens, we've got all we can do to do that. And I think we could benefit people all around if we can make progress in dealing with AIDS.
+
+I think everybody who played a part in the developing of this legislation think that it's on balance still a dramatic step forward.
+
+Let me just say on the fetal tissue issue alone, I can't tell you how many people I met all over this country in 1992 from both political parties who came to my campaign and supported me simply because I wanted to put a scientific basis back in our decisions on fetal tissue. I mean, people with parents with Parkinson's, with children with diabetes. One person who became a very close friend of mine and is now in our administration as the Director of the Small Business Administration in part came to my campaign because he had a child with diabetes.
+
+This is a very, very important bill. And I thank all of you for what you did. {APPLAUSE} 
+
+{/speech}

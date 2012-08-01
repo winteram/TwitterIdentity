@@ -1,0 +1,34 @@
+﻿{title} Remarks at Project HOPE Dinner: Health and HOPE for the Children of Iraq {/title}
+{event} Andrew W. Mellon Auditorium, Washington, DC {/event}
+{speaker} Condoleezza Rice {/speaker}
+{date} October 18, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Thank you for that kind introduction. You have done exceptional work and the country and the world appreciates your commitment and your dedication to the health but also the spirit of people around the world. Thank you.
+
+Mrs. Bush, Dr. Rosenfeld, ladies and gentlemen, members of the Diplomatic Corps, members of Congress, I'm pleased to join you all here tonight to advance a cause that will bring health and hope to the children of Iraq, who are frankly, in great need of both. After decades of neglect under Saddam Hussein's brutal dictatorship, the challenges that confront Iraq's health care system are great and so are the medical needs of its children.
+
+In response to a request from the Iraqi Ministry of Health and the White House to help the seriously ill children of southern Iraq, the U.S. Agency for International Development has been proud to work with Project HOPE and the Iraqi Government and the medical community to develop the Basrah Children's Hospital Project.
+
+Let me take this opportunity to express my heartfelt thanks to all of the people who have been involved with this for their energetic efforts to launch and support this important humanitarian effort that truly reflects the generosity of America. The Basrah Children's Hospital Project is, of course, just one very promising part of a larger and hopeful picture.
+
+Over the past two years, with the support of the United States, dramatic strides have been made in providing health services for Iraqi's children. The American people have refurbished 110 health clinics and re-equipped 600. We've conducted nationwide immunization programs. We've trained thousands of health care providers, and we are in the process of building 142 primary health care centers and refurbishing hospitals throughout the country. And with the help of all of you here tonight the Basrah Children's Hospital will take its proud place among these centers of care and compassion.
+
+The Basrah Children's Hospital Project, and the many other partnerships we are forging with the Iraqis and the private sector, testifies to the long-term commitment of the United States to Iraq's democracy and to Iraq's people.
+
+Last weekend, the people of Iraq took another historic step toward securing their future as free and democratic people, when they turned out in large numbers across the country to vote on a constitutional referendum. The vote represented the determination of Iraqi citizens from every ethnic and religious background to participate peacefully in the political process and to reject the dead-end path of violence and extremism.
+
+As President Bush has said, "We will continue to stand with the men and women of Iraq every step of the way as they build a brighter tomorrow for their children." And what better way than to demonstrate that long-term commitment to people of Iraq than to do something for their children. Not only will Basrah Children's Hospital meet the needs of critically ill children in southern Iraq, it will serve as a model for the country as a whole. The project will build the capacity of Iraq's medical community through high-quality training and develop specialized pediatric referral and acute care services that are not currently available in Iraq as a whole.
+
+Ladies and gentlemen, with your support, the Basrah Children's Hospital will make a real difference, a life-saving and lasting difference to thousands of children and their families. Undoubtedly, you know the role that children's hospitals have played in the United States. They are a symbol of hope for the future. We know that Iraq faces a difficult present, but it is our commitment to Iraq and to the people of Iraq that the future will be better.
+
+We thank you for your desire and your commitment to that future, as evidenced in your attendance here. But there is no more committed and passionate advocate for Iraq's children, indeed, for children across the globe for their health, for their education, for their well being than our gracious lady, First Lady Laura Bush. {APPLAUSE}
+
+The First Lady's deep commitment to the well being of our youngest members of the international community has been a personal inspiration to me and to so many others. I've been privileged to witness firsthand her caring and her commitment and her effectiveness, and I know that I speak for all involved when I say that the role that she has played at every stage in the development of this project, the Basrah Children's Hospital Project, has been and continues to be absolutely instrumental.
+
+I am so proud to now present to you a great friend of the children of Iraq, a great friend of mine, a great friend and advocate for children and people everywhere, the honorary chair, our wonderful First Lady Laura Bush. {APPLAUSE} 
+
+{/speech}

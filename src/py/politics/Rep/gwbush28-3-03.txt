@@ -1,0 +1,47 @@
+﻿{title} President Salutes the Military {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} March 28, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Good afternoon. Thanks for coming, and welcome to the people's house. It is my honor to welcome distinguished veterans to the White House. I'm especially pleased to have met with leaders from the veterans organizations at this crucial time for our country. 
+
+The men and women who have worn the nation's uniform set an example of service and an example of sacrifice for future generations. And the current generation of our military is not letting us down. {APPLAUSE} Today's Armed Forces are upholding the finest traditions of our country and of our military. They are making great progress in the war in Iraq. They are showing great courage and they are making this country proud. 
+
+I'm honored that Tony Principi introduced me. I'm proud of his service to our country, not only as a Vietnam vet, but now as the head of the Veterans Affairs, Department of Veterans Affairs. He's doing a really good job. {APPLAUSE} 
+
+I want to thank the national commanders and presidents of our national veteran service organizations for coming. I want to thank you all for your service to your fellow Americans. I appreciate your members being here with us. I'm particularly pleased that Brian Thacker, a Medal of Honor recipient, is with us, as well. I want to thank all our vets -- {APPLAUSE} And I want to thank all the vets who are here. 
+
+You're here at a time when our -- the coalition, the United States and our partners, are acting together in a noble purpose. We're out to keep the peace, to make the world more peaceful, to make our nation and other nations more secure, and we're going to free the people of Iraq from the clutches of Saddam Hussein and his murderous allies. 
+
+We are sending a clear signal to the world that we will not submit to a future in which dictators and terrorists can arm and threaten the peace without consequence. We are enforcing the demands of the United Nations, and we refuse to leave the Iraqi people in slavery under Saddam Hussein. When the war in Iraq is won, all of who have joined this cause will be able to say to the Iraqi people, we were proud to fight for your freedom. {APPLAUSE} 
+
+The regime that once terrorized all of Iraq now controls a small portion of that country. Coalition troops continue their steady advance and are drawing nearer to Baghdad. We're inflicting severe damage on enemy forces. We are now fighting the most desperate units of the dictator's army. The fierce fighting currently underway will demand further courage and further sacrifice. Yet we know the outcome of this battle: The Iraqi regime will be disarmed. The Iraqi regime will be removed from power. Iraq will be free. {APPLAUSE} 
+
+In the last week, we have seen the brutal and cruel nature of a dying regime. In areas still under its control, the regime continues its rule by terror. Prisoners of war have been brutalized and executed. Iraqis who refuse to fight for the regime are being murdered. Some in the Iraqi military have pretended to surrender and then opened fire on coalition forces that were willing to show them mercy. 
+
+Given the nature of this regime, we expect such war crimes, but we will not excuse them. {APPLAUSE} War criminals will be hunted relentlessly and judged severely. {APPLAUSE} 
+
+In the last week, we have also seen the nature of the young men and women who fight on our behalf. Coalition forces have begun delivering food and water to liberated parts of Iraq. I was pleased to hear today that the United Nations Security Council acted to resume food and medical supplies under the existing U.N. program, which will bring urgent relief to millions of Iraqis. 
+
+We care about the human condition of the people who have suffered under Saddam Hussein. We provided $60 million to the World Food Program, to help get this humanitarian effort up and running. We're shipping hundreds of thousands of metric tons of food to Iraq. In every possible way, coalition forces are showing kindness and respect to the Iraqi people. They're going to extraordinary lengths to spare the lives of the innocent. We treat wounded Iraqi soldiers. 
+
+The contrast could not be greater between the honorable conduct of our forces and the criminal acts of the enemy. {APPLAUSE} Every Iraqi atrocity has confirmed the justice and the urgency of our cause. {APPLAUSE} Against this enemy we will accept no outcome except complete victory. {APPLAUSE} 
+
+To meet this outcome, we must give our armed services the support and the resources they require. As veterans, all of you understand the importance of a well-supplied and well-trained fighting force. I've asked Congress for a nearly $75 billion wartime supplemental appropriations bill. This funding would provide fuel for ships and aircraft and tanks; supplies for our troops in the theater of operations; new high-tech munitions to replace the ones we have used in this war. The supplemental would also provide funds to assist in the reconstruction of Iraq, and to help protect the American homeland in this time of high alert. 
+
+I want to thank the veterans groups for their strong support, unwavering support, for this wartime supplemental, and I call upon the United States Congress to pass the supplemental as quickly as possible. {APPLAUSE} 
+
+I also appreciate all the veterans are doing for America's military families in time of hardship. I appreciate your compassion. Across our country, local chapters of the American Legion, for example, are stepping forward to help those families in practical ways, from making household repairs to helping with child care. Members of the VFW and Auxiliary are sending care packages with baby supplies to military families. Operation Uplink Program is helping thousands of service members keep in touch with their loved ones. 
+
+Both the American Legion and the VFW are working with the U.S.A. Freedom Corps on a project called On the Home Front. This effort will match Americans who want to volunteer their times and skills with the military families who need help. Because of all this generosity, our men and women serving overseas will know that their loved ones are not facing this time alone. 
+
+I want to thank the veterans -- the veterans groups for understanding the compassion needed to help those who are here, wondering and worrying about their loved ones overseas. The people who serve in the military are giving their best to this country, and we have the responsibility to give them our full support. {APPLAUSE} Our full support not only here in Washington, D.C., but our support all across the country. 
+
+I want to thank each veteran here today and across our land for the lifetime of service you have given our nation. I thank you for standing behind the men and women of today's Armed Forces, as they fight for the liberty of an oppressed people, for the security of the United States and our friends and allies, and for the peace of the world. May God bless our troops. {APPLAUSE} 
+
+{/speech} 

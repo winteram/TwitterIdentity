@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President at Democratic National Committee Dinner {/title}
+{event} Democratic National Committee Dinner {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 11, 1997 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Let me say to all of you how very grateful I am for your presence and for your support. I appreciate what the Vice President has said, and I associate myself with his remarks. I think that's what they say in the Congress. {LAUGHTER}
+
+I would just like to make two very brief points. First of all, the country is in better shape than it was four and a half years ago. It is a direct consequence, in my view, of the hard work of the American people combined with the policies and the changes which have been instituted here.
+
+I want you to know that my plan is to keep working on this until the last day I'm in office. And as far as I'm concerned, all these good things that have happened are not constant unless they can be sustained, so that we still have to put the meat on the bones of the balanced budget agreement. In the abstract, it is a very good agreement because it contains an investment strategy for education, for science and technology, for the environment we can be proud of, and it will balance the budget with conservative estimates. But we have to put the meat on the bones.
+
+I'm proud of the fact that we've had the biggest drop in crime in 36 years, but juvenile violence is still way too high, and we have to put the meat on the bones. We have a lot more to do there.
+
+I'm proud of the fact that we've had the biggest drop in welfare in history by far, but we've still got to make sure when all those people run out of their welfare checks they can go to work, and we've got to meat on the bones.
+
+I'm proud of the fact that this budget agreement restores what I thought were unconscionable cuts and benefits to legal immigrants, but we've still got to put the meat on the bones in terms of the details of the legislation. So there's a lot to be done here.
+
+In the world, I'm gratified by the agreements we've reached with Russia on the NATO-Russian partnership and reducing the nuclear tensions between us and the meeting that will occur in a few weeks in Madrid to expand NATO. But I'm troubled that we have not completed the Bosnian peace process -- we've got a long way to go there. I'm troubled at the stagnation of the peace process in the Middle East. There's a lot of things that this administration has done that cannot be sustained unless we all keep working and moving forward.
+
+And the second point I would like to make to you is a more abstract one, but I hope you can take some pleasure in it. I really believed in 1991 and 1992, when I went around and asked so many of you to help me run for President, that we had to modernize the approach of the Democratic Party consistent with our values, that we had to take a new approach but it had to be rooted in our values. There was nothing wrong with our values, but we had to be relevant and effective in the modern world. We had to prove that we were capable of producing a strong defense, a credible foreign policy, a disciplined management of the economy -- particularly on fiscal matters. And we had to prove that you could cut the deficit and invest in America's future at the same time.
+
+We had to prove that we could be for high standards of personal responsibility in the criminal justice and welfare system and still believe that we should be an inclusive nation, where everybody should have a fair chance. We had to prove you could grow the economy and preserve the environment. We had to take a different position.
+
+And when I was in Europe recently and I was doing this press conference with the new Prime Minister of Great Britain, Tony Blair, who as you know has been subject to almost savage criticism from time to time for having adopted ideas similar to mine. {LAUGHTER} But the only people that like it seem to be the people over there. The voters thought it was all right.
+
+I had the feeling for the very first time that the people in the press who were asking us questions really believed that we might have changed the country and our political party, and that there was some organized, principled direction to this. And I've been working on this long before I even thought I would run for President, for a good 10 years or more now. And I think that once we believed that we had -- we not only have good results, but we know we're on a course that will work and we can expect it to keep working with sustained effort, that is the beginning of real hope because then you don't have to see the gains evaporate when elections change things or when term limits come up or when momentary difficulties come up in the economy or other problems.
+
+So I would ask you to keep that in mind. I believe you have helped to contribute to a profound, almost revolutionary positive change in the direction of our country because you helped to revitalize the party that we're all proud to be a part of. And I hope you will never forget that.
+
+And I had the feeling for the very first time that a lot of those who interpret us for the rest of the country and the world were coming to that understanding because I was standing there with the new Prime Minister of Great Britain and we were saying the same things and we had just left the Prime Minister of the Netherlands and he said the same things and because they came along after the '92 election and had also seemed to get quite satisfactory results in their own country. So you were also part of changing the world. And for that, I am very, very grateful. Thank you. {APPLAUSE} 
+
+{/speech}

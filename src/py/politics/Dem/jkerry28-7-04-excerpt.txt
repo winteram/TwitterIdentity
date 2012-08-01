@@ -1,0 +1,69 @@
+﻿{title} Speech in Norfolk, Virginia {/title}
+{event} ----- {/event}
+{speaker} John Kerry {/speaker}
+{date} July 28, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+... And we are going to tell American what we are going to do. We -- can...
+
+{AUDIENCE} Do better! {/AUDIENCE} 
+
+All right, we hear you in here you in the garage. We can do better. We can do better. And that's what brings us here today from Norfolk, going backwards to Columbus, Ohio, to Sioux City, Iowa, to Aurora, Colorado, where we began this journey a few days ago. 
+
+We are traveling across the country highlighting in each place the freedom trail of America, the great strength of our nation. 
+
+We celebrated yesterday, down in Cape Canaveral, our technology. I was there with John Glenn and Bill Nelson, both of whom have gone into space, thanks to the great technology of the United States of America. That represents the future. 
+
+We were in Sioux City, where we talked with people about the strength of Americans, the Lewis and Clark expedition, the ability to push the frontiers and to explore the future. 
+
+Columbus, Ohio, where we talked about jobs and the industrial base of our nation, and the work ethic of America and the way we make ourselves strong. 
+
+And here today, we are here to talk today to say thank you to those who serve in our military and to provide for the continued strength of the United States of America. {APPLAUSE}
+
+Military used wisely, yes, ma'am. That is my pledge. 
+
+But before I talk to you about some of those issues, I'd like to say a few words about the 9/11 commission report that was just released. 
+
+The commission has done an extraordinary job, important for America, of issuing a very clear set of recommendations to protect us from terrorism and to make the United States safe. Now that the 9/11 commission has done its job, we need to do our job. {APPLAUSE} We understand the threat. We have a blueprint for action. We have the strength as a nation to do what has to be done. The only thing we don't have is time. We need to do it now. {APPLAUSE}
+
+Leadership -- leadership requires that we act now. 
+
+Jane Harman talked a moment ago about the things we could have done. This is the reason that we created the 9/11 commission in the first place. And that is why when the commission released their report I called for immediate action, not talk, not vague promises, not excuses. 
+
+Back pedaling and going slow is something that America can't afford. It will take real bipartisan leadership and real action to protect this country of ours. {APPLAUSE}
+
+You can't treat the commission's report as something that you hope will go away. You can't treat the commission's report as something that, sort of, represents a threat to America that will go away. Because this threat won't go away and the recommendations of the commission make sense and they should be implemented now. {APPLAUSE}
+
+We need to not only put in place those recommendations, we need to do everything possible that we know we can do in order to make America safer. 
+
+That is why I support the 9/11 commission's commitment to continue to push for progress and to make sure that its recommendations are implemented without delay. 
+
+Ladies and gentlemen, if I were president today, if I had been president last week, I would have immediately said to the commission, "Yes, we're going to implement those recommendations and we want you to stay on the job for at least another 18 months in order to help make sure we do the job." {APPLAUSE}
+
+Here's what I believe. I believe that beginning this December, this commission should issue a status report every six months, and they should address the following questions: First, are we doing enough fast enough to strengthen our homeland security? Second, are we reorganizing our intelligence agencies to meet the terrorist threat? Third, are we building a true global alliance to fight the terrorists and isolate their extremist ideology? {APPLAUSE}
+
+Fourth, are we leading and uniting the world so that we isolate our enemies, not ourselves? {APPLAUSE}
+
+And fifth and finally, they should answer the question, and help Americans answer the question, are we doing everything we can do to make America as safe as it can be? 
+
+Those are the questions I would put on the table. That's the leadership that America needs. 
+
+The president has the authority right now, today, to implement many of the commission's recommendations by executive order. And Congress needs to do its part where legislation and/or funding are needed. We cannot let politics get in the way of protecting the American people. {APPLAUSE}
+
+This isn't about partisanship. It's about patriotism. It's not about what was done or wasn't done in the past. It's not about pointing fingers, but it is about winning a war upon which our future depends. 
+
+So I hope the president will now take the necessary steps, implement the commission's recommendations immediately. These are common-sense ideas from a bipartisan commission, and I think we have a responsibility to act and to act now. And I'm convinced that you believe that, too.
+
+That's how we make America safer. {APPLAUSE}
+
+We've come here, as I said, to Norfolk to honor people who serve their country. Skip Parker and I will never forget even this day -- we were the guys who what we call citizen soldiers. We go in for a number of years and then we go back to life in America. 
+
+But you know what? You may take the uniform off, but you never take it out of your heart or your gut. You never take what it means to stand watch or to fight in battle or serve your country. 
+
+And so Skip and I and the admiral and others who have seen combat come here not because we're veterans but because we have a sense of what is at stake, because those lessons we learned do mean something, and they are valuable and they're worth passing on to others. And the first and most important lesson of all is that the great United States of America, our beloved country, never goes to war because it wants to. We go to war because we have to. That's the standard of our country. {APPLAUSE}
+
+{/speech} 

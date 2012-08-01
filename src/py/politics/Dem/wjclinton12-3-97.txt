@@ -1,0 +1,40 @@
+﻿{title} Reauthorizing ISTEA {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 12, 1997 {/date}
+{source} http://www.pbs.org/newshour {/source}
+{description} President Clinton on the Introduction of NEXTEA (National Economic Crossroads Transportation Efficiency Act) {/description}
+
+
+{speech} 
+
+Thank you very much. Secretary Slater, Mr. Vice President, members of the administration, Department of Transportation. Senator Moynihan, thank you for being here. Mayor Schwartz, thank you for being here. 
+I spent a lot of time in the last few years talking about the need to build a bridge to the 21st century. And usually I'm talking in metaphorical terms that involve -- {LAUGHTER} -- balancing the budget, improving education for our children, preserving the environment as we grow the economy. Today we're talking about building bridges and roads and transit systems and highways in more literal terms. But I think it's important also to point out that as we invest in these bridges and roads and transit systems, we are also building a bridge to a cleaner environment. We're building a bridge from welfare to work. We're building a bridge to sustainable communities that can last and grow and bring people together over the long run. 
+
+And that is the importance of the legislation that we submit to Congress today. It does the old-fashioned work of investing in America's infrastructure in a very important way, but it also ties those investments to the challenges we face today and tomorrow. 
+
+I am proud that even as we have moved toward a balanced budget and cut our deficit by 63 percent in the last four years, we have still increased our federal investment in transportation infrastructure, and I thank the members of Congress who have supported that. {APPLAUSE} I feel compelled to disclose that I did not plant the person in the middle of the audience who started the applause. {LAUGHTER} But if he's a federal employee he will immediately get a raise. {LAUGHTER} 
+
+Compared to four years ago, our highways and bridges are stronger, 100 miles of new transit lines are under construction, and that is just part of the story. But it is a big part of why our economy has produced almost 12 million jobs in the last four years and one month, including over 1 million new jobs in construction. 
+
+Today we're taking the next big step to maintain and modernize our transportation system, and to make sure it is the best in the world. The National Economic Crossroads Transportation Efficiency Act, as Secretary Slater said, known as NEXTEA, authorizes $174 billion over the next six years to improve our bridges, highways and transit systems. It will create tens of thousands of jobs for our people, help move people from welfare to work, protect our air and water and improve our highway safety. 
+
+I'm especially proud that as we build our infrastructure we are going to help build better lives for people who are moving off welfare. one of the biggest barriers facing people who move from welfare to work is finding transportation to get to their jobs, their training programs, their children's day care center. 
+
+There was recently a study of Atlanta, Georgia employment and the community surrounding Atlanta, pointing out that in entry level jobs an overwhelming percentage of those jobs -- for example, in fast food restaurants -- were held full-time by inner-city adults who were low-income people, if they were in Atlanta. If they were in the surrounding communities it was just a little over 50 percent. Why? Because the people who wanted the full time jobs had no way to get there. And you see that repeated over and over and over throughout the country. 
+
+This bill provides $600 million over six years to help provide and pay for transportation, so that those who have been told by the Congress in the last session that they have to go to work are, in fact, able to reach the jobs that are out there. And I ask for the support of everyone for that. {APPLAUSE} 
+
+For too long, too many people have believed that strong transportation and a clean environment could not go hand in hand. This bill proves that that is not true. NEXTEA provides more than $1.3 billion a year to reduce air pollution and millions more to preserve wetlands and open space. By helping communities to invest in cleaner methods of transportation, by supporting recreational trails, bike paths and pedestrian walkways, by investing in scenic byways and landscaping, this bill strengthens our infrastructure while protecting and enhancing our precious natural resources. Make no mistake about it, this is one of the most important pieces of environmental legislation that will be considered by the Congress in the next two years. And I think it should be thought of in that way. {APPLAUSE} 
+
+This legislation also builds on our progress in making roads safer, increasing highway traffic safety funds by 25 percent, expanding our aggressive campaign to crack down on drunk and drugged driving. 
+
+At its heart, therefore, as you can see and as Secretary Slater said, this bill is about more than our roads and our bridges; it's about cutting-edge jobs in commerce, it's about the infrastructure we need to prepare for them, it's about the responsibility of those moving from welfare to work and our responsibility to help them get there. It's about the community we share and the steps we have to take to make it both safer and cleaner for our children. 
+
+The chance to reshape America's infrastructure comes along only once every six years. That means that this transportation bill literally will be our bridge into the 21st century. That's why we must work together to pass this legislation, to build on a long bipartisan position of cooperation in transportation policy to move our nation forward. Together we can keep our economy on the right track and ensure that the track itself is strong enough for the enormous challenges and opportunities that lie ahead. 
+
+I am excited about this legislation. I applaud all the people in the Department who put it together, and I'm very much looking forward to working with the Congress to make it a reality. 
+
+Thank you very much. {APPLAUSE} 
+
+{/speech} 

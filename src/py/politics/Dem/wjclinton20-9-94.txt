@@ -1,0 +1,42 @@
+﻿{title} Remarks by the President at Customer Service Event {/title}
+{event} The South Lawn {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 20, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Ladies and gentlemen, I want to thank all of you for being here. Undersecretary Frank Newman and all those who were on the subcommittee on customer service to the President's Management Council, in particular, I thank you for your work.
+
+Today, we are releasing a report that I think is literally unique in the annals of the Federal government. It is called, "Putting Customers First -- Standards for Serving the American People." It contains specific new commitments for more than 100 agencies to improve the way government serves the American people.
+
+The Vice President released a report of the National Performance Review a year ago this month. It included dozens of extremely important reforms that have already had a profound impact on our federal deficit; on funding the crime bill; and on making Washington work better for ordinary citizens. Of all the recommendations it contained, however, one I chose to enact immediately by executive order was designed to force the government to respect the needs of ordinary citizens again by treating them as valued customers. This report describes what has taken place as a result of that order.
+
+The order called for a fundamental change in government. It set forth a requirement that set forth a requirement that government services shall be equal to the best in business. And it commanded the agencies, for the first time, to set and publish specific standards for the services they provide to the public. Over the past two decades, there has been a renaissance in quality and customer service in corporate America There's no reason these same principles cannot apply with equal force in our government. There's no reason for an application to government agencies to take months, or for a phone call to go unanswered.
+
+We face many great challenges as a nation, and we can and will meet them. But in order for government to do the big things well and in partnership with the American people, it must do the small things better as well, in ways that increase the confidence of the American people. It must earn that confidence, in many ways, one customer at a time. This report will help us to do that. Better customer service will also save us money. For example, Veterans Affairs is already redesigning the way it handles benefit applications so that veterans get faster and more personalized service. The new system takes eight steps instead of 25, requires fewer people, costs 20 percent less.
+
+When the IRS stopped generating puzzling form letters in response to taxpayers' questions and -- {LAUGHTER} -- I used to be on of those taxpayers that got those published -- and let their employees write and sign sensible answers instead, believe it or not, the cost decreased by $600,000. That's the equivalent of what 100 average families pay in federal taxes each year.
+
+These examples demonstrate a larger truth. That is, employees of the federal government have become partners in the search for better service. They also are fed up with the red tape. They, too, want to serve customers better, and the National Performance Review has empowered them to do so.
+
+Let me give you another example closer to home . This report recounts the story of Jackie Collins-Miller, the branch manager of Baltimore's Social Security office. Not long ago, she got a call from a woman who had received someone else's check by mistake. Jackie Collins-Miller jumped in her car, picked up the check, mailed it to the rightful owner, and called a few days later to make sure it had arrived. That's service that rivals anything you'll see in the private sector.
+
+This story reflects the work that has been done throughout the government -- simply to listen to the people who pay the bills and are supposed to receive the service. When taxpayers said they wanted forms and instructions that were easier to understand, the IRS listened. When businesses going through Customs in Miami said they wanted to get in and out quicker, the U.S. Customs listened. When veterans said they wanted more personal attention, Veterans Affairs listened.
+
+This report contains more than 1,500 new standards for customer service that reflect the direct input of the American people. The standards are promises and commitments. In the days ahead, we'll measure our performance against these standards and report back to our customers.
+
+The principles represent a major step toward the goal that Congress set in the Government Performance and Results Act to promote a new focus on results, service quality and customer satisfaction in government. And these standards help to fulfill the promise that the Vice President and I made a long time ago -- to put the American people first again.
+
+Again, this report was not written to sit on a shelf; it's meant to be read, used and followed. It's written and organized to be customer-friendly, with chapters labeled Business, Veterans and so on. It's contents are arranged not by agency or compartment, but by customer group. It's organized for those who use government, not for those in government.
+
+Finally, if you're wondering where the Cabinet secretaries are and the agency heads are while I am bragging about what they're doing, they're not hiding in a bunker and hoping this will go away. {LAUGHTER} Instead, they're busy. We have declared this day Customer Service Day all over the United States. And our Cabinet secretaries are out there serving their customers. In Chicago, the Veterans Affairs Secretary, Jesse Brown, will help veterans file benefit claims in the regional office. In New Britain, Connecticut, HUD Secretary, Henry Cisneros, will help renovate the home of Steven and Rachel Rival, recent recipients of a loan which allows people with low or moderate incomes to renovate distressed property. All together, there are 24 Customer Service Day activities taking place across our nation today.
+
+Let me close by thanking the Vice President for the extraordinary work that he and the National Performance Review folks have done since we embarked upon this task. Most people gave our efforts to reduce and improve government service little chance to succeed. But he has proven them wrong; all of you have proven them wrong; events have proven them wrong. We just have to keep doing what we've been doing.
+
+I want to thank him for the job he's done in general, and specifically for this report, which he will discuss in a moment.
+
+I said when we introduced the NPR on March 3rd, 1933 -- 1993, I'm not that old -- {LAUGHTER} -- although I feel that old today {LAUGHTER} -- and I quote, "we must change the way government does business and make the taxpayer the valued customer and the boss again." We have made a very strong beginning. And with the energy and dedication of the people in this room and the leadership of the Vice President, we intend to keep on doing that as long as we are here. Thank you very much. {APPLAUSE} 
+
+{/speech}

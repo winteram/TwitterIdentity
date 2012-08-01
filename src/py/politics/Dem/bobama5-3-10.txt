@@ -1,0 +1,42 @@
+﻿{title} Remarks by the President on Clean Energy Jobs {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} March 5, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning, everybody. It is great to be here at OPOWER. And just looking around, this looks like a fun place to work. {LAUGHTER} The work you do here, as we just heard, is making homes more energy efficient, it's saving people money, it's generating jobs and it's putting America on the path to a clean energy future. And I understand last year that you doubled your workforce thanks to Bonnie -- {APPLAUSE} -- you're hoping to hire another hundred workers this year. And so this is a model of what we want to be seeing all across the country. Our goal for the economy is to show similar job growth in the months ahead.
+
+This morning we learned that in February our economy lost an additional 36,000 jobs. Now, this is actually better than expected, considering the severe storms all along the East Coast are estimated to have had a depressing effect on the numbers. And it shows that the measures that we're taking to turn our economy around are having some impact. But even though it's better than expected, it's more than we should tolerate.
+
+Far too many Americans remain out of work. Far too many families are still struggling in these difficult economic times. And that's why I'm not going to rest, and my administration is not going to rest, in our efforts to help people who are looking to find a job; to help business owners who want to expand feel comfortable hiring again. And we're not going to rest until our economy is working again for the middle class, and for all Americans.
+
+And that's why my immediate priority is not only providing relief to people who are out of work, but also to help the private sector create jobs and put America back to work. Earlier this week, after breaking through a political logjam that some of you probably saw if you were watching TV, Congress passed and I signed into law a bill that extends unemployment insurance to help people who've been laid off get through these hard times. It also extended COBRA so that folks who've lost their jobs don't lose their health insurance, and it extended financing for small businesses, and makes it possible for 2,000 furloughed transportation workers to go back to work.
+
+So signing this bill and getting relief out the door swiftly is absolutely essential. But it's only a temporary step. The relief I signed into law will last about a month. And that's why I'm calling on Congress to extend this relief through the end of the year. And because the best form of economic relief is a quality job, I'm also calling on Congress to pass jobs measures that cut taxes, increase lending, incentivize expansion for businesses both large and small.
+
+Now, both the House and the Senate have passed a bill that would give businesses a payroll tax refund for every person hired this year. And for companies that are considering expanding, this credit could help them decide to bring an extra employee or two this year. So for companies like OPOWER that are doing pretty well and already expanding, the tax credit may help them decide to hire even more workers more quickly. So instead of a hundred, maybe we get 110, 115. We'll see. {APPLAUSE}
+
+This bill would also encourage small companies to expand by permitting them to write off expenses for new equipment. And while it's by no means enough, this legislation is an important step on the road to recovery, and I look forward to signing it into law.
+
+Now, even as we fight to help the private sector create more jobs, and even as we fight to bring about a full economic recovery, we know that there have been success stories all across America. OPOWER is one of those success stories. This is a company that works with utilities to help folks understand their energy costs and how they can save money on their energy bills. And for the press, if you weren't able to hear, this board testifies to the number of kilowatt hours that have been saved, the amount of money that's gone back into consumers' pockets, and the amount of carbon that has been taken out of the atmosphere as a consequence of the great work that these people at OPOWER are doing.
+
+Now, part of the reason I suspect you're growing is that you're doing your jobs well. But I also know that a big part of the reason is that you're seizing the opportunities of the future. The jobs of tomorrow will be jobs in the clean energy sector, and this company is a great emblem for that. That's why my administration is taking steps to support a thriving clean energy industry across this country -- an industry that's making solar panels, and building wind turbines, producing cutting-edge batteries for fuel-efficient cars and trucks, and helping consumers get more control over their energy bills.
+
+And that's also why earlier this week I urged Congress to enact a new initiative we're calling Homestar that would offer homeowners rebates for making their homes more energy-efficient -- rebates worth up to $1,500 for individual home upgrades and up to $3,000 for retrofitting their entire home. So if they're getting this good information from OPOWER and they see that, boy, that drafty window is costing me a couple of hundred bucks a year, they're now going to have an incentive to go to Home Depots or go to Lowes to hire a certified contractor and make the changes that will ultimately pay for themselves, improve our environment, and improve our economy.
+
+I want to thank, by the way, your home state senator, Mark Warner, for his great work on Homestar in the Senate.
+
+Think about the way that the rebates we're talking about could help spur private sector job growth. It could not only help businesses like OPOWER to help consumers make their homes more energy efficient, it's also going to create business for the local contractors and the companies hired to upgrade homes. These companies then, in turn, have to purchase supplies and that creates business for retailers. These retailers would need to restock their shelves, and that creates business for manufacturers. And almost all the goods that are required to make homes more energy efficient are actually produced right here in the United States of America. It's very hard to ship an energy-efficient window across an ocean.
+
+So, yes, people who are out of work right now need some immediate relief. Yes, we need to extend unemployment insurance and COBRA to help Americans weather these tough times. And, yes, we've got to do everything we can to help the private sector create jobs right now.
+
+But even as we do, we also need to replicate the success of clean energy companies like OPOWER. We need to invest in the jobs of the future and in the industries of the future, because the country that leads in clean energy and energy efficiency today, I'm absolutely convinced, is going to lead the global economy tomorrow. I want that country to be the United States of America. I want companies like OPOWER to be expanding and thriving all across America. It's good for consumers. It's good for our economy. It's good for our environment.
+
+It's wonderfully exciting to be here. And I think when you look at this group that's gathered here, you can see the future in this company. So thanks for the great work you guys are doing. Let's see if we can replicate your success all across the country.
+
+Thank you very much, everybody. {APPLAUSE} 
+
+{/speech}

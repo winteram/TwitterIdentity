@@ -1,0 +1,48 @@
+﻿{title} Remarks by the President at Bill Signing Ceremony for the Omnibus Appropriations Act for Fy 2000 {/title}
+{event} The Rose Garden {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 29, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Good afternoon. Please be seated. I want to welcome the members of Congress who are here, members of the Cabinet, the police officers and teachers who are shielding me from the cold wind -- {LAUGHTER} -- and who represent the big winners in this year's budget. I would like to say a special word of thanks to Jack Lew, Sylvia Mathews, Larry Stein, and Martha Foley for the work that they did on this budget. {APPLAUSE} And I know that many members of the Senate and the House who are here brought their staff members who worked on the budget -- I want to thank them for their work, as well.
+
+Last January, in my State of the Union address, I asked our Congress to use this truly historic time of peace and prosperity to meet our generation's responsibilities to the new century; to extend our economic prosperity, improve our education system, make our streets safer, protect our environment, move more Americans from welfare to work, prepare for the aging of our nation, and strengthen our leadership in the world. The first budget of the 21st century was a long time in coming, but it goes a very long way toward fulfilling those historic responsibilities.
+
+Though it leaves some challenges unmet, it represents real progress. It is a budget for a government that lives within its means and lives up to the values of the American people. We value prosperity, and this budget will help to extend it. It maintains the fiscal discipline that has turned deficits into surpluses, and gives us what will be in February the longest economic expansion in the history of the United States.
+
+It avoids risky tax cuts that would have spent hundreds of billions of dollars from the Social Security surplus and drained our ability to advance education and other important public purposes.
+
+The budget keeps us on track toward paying down the debt, so that in 15 years our nation will be debt-free, for the first time since 1835. This will mean lower interest rates and greater growth for a whole generation of Americans.
+
+We value education, and this budget truly puts education first, continuing our commitment to hire 100,000 highly-qualified teachers to lower class size in the early grades -- which common sense and research both tells us leads to improved learning.
+
+The budget also helps to fulfill another promise I made last winter, to encourage more accountability for results in our nation's schools. Under this budget, for the first time, we will help states and school districts turn around or shut down their worst-performing schools -- schools that year after year fail to give our most disadvantaged students the learning they need to escape poverty and reach their full potential. And the budget provides further help for students to reach higher standards by doubling funds for after-school and summer school programs, which will enable us to reach hundreds of thousands of more students, and by increasing support for mentoring programs, including the GEAR UP program to help students go on to college.
+
+We value the safety of our families, and this budget will make America a safer place. It invests in our COPS program, which already has funded 100,000 community police officers and helped to give us the lowest crime rate in 25 years. This agreement will help to hire up to 50,000 more community police officers, targeted in neighborhoods where the crime rates still are too high.
+
+We value the environment, and this budget protects the environment and preserves our precious natural heritage. It includes our historic Lands Legacy Initiative to set aside more of our magnificent natural areas and vital greenspaces, and does not include destructive, anti-environmental riders.
+
+We value quality health care, and this budget includes historic investments in biomedical research, mental health, pediatric training and other areas. And it ensures that hospitals and other medical providers will have the resources they need to provide the 39 million elderly and disabled Medicare beneficiaries with the quality health care that they need and deserve.
+
+Finally, we value America's role of leadership in the world, and this budget strengthens that role, with greater investments in our nation's strong defense and our nation's diplomacy, by paying our dues and arrears to the United Nations, meeting our commitments to the Middle East peace process, providing debt relief for the poorest countries of the world, and funding efforts to safeguard nuclear weapons and expertise in Russia.
+
+Let me thank the leaders of both parties for their roles in this agreement. We had a lot of late night, long phone calls which led to it. I thank the leaders of the relevant committees and subcommittees for their special efforts in this regard. And, of course, I want to say a special word of thanks to the leaders and members of my party in both houses who strongly supported my efforts for the 100,000 teachers, the 50,000 police, the investments in the environment and paying the U.N. dues.
+
+As we celebrate what we've accomplished, I ask us all to be humble and mindful of what we still have to accomplish: To give all Americans in all health plans the protections they need, we still need a strong, enforceable patients' bill of rights. To curb gun violence and keep firearms out of the hands of criminals and children, we still need sensible gun safety legislation -- to close the gun show loophole in the Brady law; to ban the importation of large ammunition clips; to include the requirement for child trigger locks in a juvenile Brady bill.
+
+To build one America with freedom and justice for all, we should pass the Hate Crimes Prevention Act. To meet the challenge of the aging of America, we must extend the life of the Social Security trust fund, well beyond the years of the baby boomers' retirement, lift the earnings limitation, and alleviate poverty among older women on Social Security.
+
+To ensure the health of our seniors in the years to come, we must secure and modernize Medicare, including a voluntary prescription drug benefit. To make sure hard-working Americans have a place at the table of our prosperity, we must pass a New Markets Initiative to give Americans the same incentives to invest in poor areas they have to invest in poor areas around the world. We must raise the minimum wage and increase our support for quality child care.
+
+In the weeks and months ahead, we can achieve these vital goals if we keep in mind that the disagreements we have are far less important than our shared values and our shared responsibility to the future. With this budget, we have helped to begin that future.
+
+Again, let me thank the leaders and the members in Congress in both parties that contributed to a budget that passed with large majorities in both houses and both parties. I am proud to sign a bill that I believe will give us a stronger, better America in the 21st century.
+
+I'd like to now invite the members of Congress to come up and stand with me, and then I'd like to ask the police officers and the teachers to come in behind the members of Congress, and we'll sign the budget.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

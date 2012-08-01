@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President on Pardoning of the National Turkey {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} November 25, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Happy Thanksgiving, everybody. Welcome to the White House. On behalf of Sasha and Malia and myself, we're thrilled to see you. I want to thank Walter Pelletier, chairman of the National Turkey Federation, and Joel Brandenberger, its president, for donating this year's turkey. His name is "Courage," and he traveled here from Goldsboro, North Carolina, where he was raised under Walter's own precious care.
+
+{COMMENT="Turkey gobbles"} 
+
+There you go. {LAUGHTER}
+
+Now, the National Turkey Federation has been bringing its finest turkeys to the White House for more than 50 years. I'm told Presidents Eisenhower and Johnson actually ate their turkeys. You can't fault them for that; that's a good-looking bird. {LAUGHTER} President Kennedy was even given a turkey with a sign around its neck that said, "Good Eatin', Mr. President." But he showed mercy and he said, "Let's keep him going." And 20 years ago this Thanksgiving, the first President Bush issued the first official presidential pardon for a turkey.
+
+Today, I am pleased to announce that thanks to the interventions of Malia and Sasha -- because I was planning to eat this sucker -- {LAUGHTER} -- "Courage" will also be spared this terrible and delicious fate. Later today, he'll head to Disneyland, where he'll be grand marshal of tomorrow's parade. And just in case "Courage" can't fulfill his responsibilities, Walter brought along another turkey, "Carolina," as an alternate, the stand-in.
+
+Now, later this afternoon, Michelle, Malia, Sasha and I will take two of their less fortunate brethren to Martha's Table, an organization that does extraordinary work to help folks here in D.C. who need it the most. And I want to thank Jaindl's Turkey Farm in Orefield, Pennsylvania, for donating those dressed birds for dinner. So today, all told, I believe it's fair to say that we have saved or created four turkeys. {LAUGHTER}
+
+You know, there are certain days that remind me of why I ran for this office. And then there are moments like this -- {LAUGHTER} -- where I pardon a turkey and send it to Disneyland. {LAUGHTER} But every single day, I am thankful for the extraordinary responsibility that the American people have placed in me. I am humbled by the privilege that it is to serve them, and the tremendous honor it is to serve as Commander-in-Chief of the finest military in the world -- and I want to wish a Happy Thanksgiving to every service member at home or in harm's way. We're proud of you and we are thinking of you and we're praying for you.
+
+When my family and I sit around the table tomorrow, just like millions of other families across America, we'll take time to give our thanks for many blessings. But we'll also remember this is a time when so many members of our American family are hurting. There's no question this has been a tough year for America. We're at war. Our economy is emerging from an extraordinary recession into recovery. But there's a long way to go and a lot of work to do.
+
+In more tranquil times, it's easy to notice our many blessings. It's even easier to take them for granted. But in times like these, they resonate a bit more powerfully. When President Lincoln set aside the National Day of Thanksgiving for the first time -- to celebrate America's "fruitful fields," "healthful skies," and the "strength and vigor" of the American people -- it was in the midst of the Civil War, just when the future of our very union was most in doubt. So think about that. When times were darkest, President Lincoln understood that our American blessings shined brighter than ever.
+
+This is an era of new perils and new hardships. But we are, as ever, a people of endless compassion, boundless ingenuity, limitless strength. We're the heirs to a hard-earned history and stewards of a land of God-given beauty. We are Americans. And for all this, we give our humble thanks -- to our predecessors, to one another, and to God.
+
+So on this quintessentially American holiday, as we give thanks for what we've got, let's also give back to those who are less fortunate. As we give thanks for our loved ones, let us remember those who can't be with us. And as we give thanks for our security, let's in turn thank those who've sacrificed to make it possible, wherever they may be.
+
+Now, before this turkey gets too nervous that Bo will escape and screw up this pardon -- {LAUGHTER} -- or before I change my mind, I hereby pardon "Courage" so that he can live out the rest of his days in peace and tranquility in Disneyland.
+
+And to every American, I want to wish you, on behalf of myself, Malia, Sasha, and Michelle, the happiest of Thanksgivings. Thank you very much, everybody. {APPLAUSE} 
+
+{/speech}

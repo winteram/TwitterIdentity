@@ -1,0 +1,40 @@
+﻿{title} President Welcomes Super Bowl Champion Pittsburgh Steelers to the White House {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 2, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all for coming. Please be seated. It sounds like some people have been drinking some Iron City beer here. {LAUGHTER} It's such an honor to welcome the Pittsburgh Steelers here to the White House. Congratulations on being the champs. {APPLAUSE} You had a ring for every finger; now you've got one for the thumb. 
+
+I want to thank all the fans who've gathered here. I want to thank Senators Specter and Santorum for joining us. {APPLAUSE} Congressman Tim Murphy. {APPLAUSE} I appreciate you all being here. It's good to see former U.S. Attorney Dick Thornburgh, former governor of Pennsylvania. {APPLAUSE} 
+
+The team probably doesn't recognize him, but they got quite a huge following here in Washington, D.C., including in my administration. As a matter of fact, you have no greater fan than the new Director of the Central Intelligence Agency. {APPLAUSE} So he came in for one of these briefings, see -- he was going to keep the President abreast of what's going on in the world. And he was wearing a "terrible towel." {LAUGHTER} Back in his school days in Pittsburgh, Mike spent a lot of time on the football field. Most of the Steeler fans know that Dan Rooney is a team owner, but Mike Hayden is able to call him Coach. Mr. Rooney was Mike's coach. And you coached him well. {APPLAUSE} 
+
+I want to -- look, I was a Texas Cowboy fan, you know. {LAUGHTER} Dallas Cowboy fan -- and -- yes, I know, I know. It's kind of hard for me to admit, but the Steeler franchise is one of the really great franchises in football history. And one of the reasons why is because of the Rooney family. 
+
+You know, I used to be in baseball, and I know the ability of an owner to affect the culture of the team, to be able to instill the habits necessary to win. And a class franchise starts with class ownership. And the Rooneys -- Mr. Dan Rooney and Mr. Art Rooney -- are classy people. And I welcome you here to the White House. {APPLAUSE} 
+
+I tested Mr. Rooney's sense of humor. See, I'm an early-morning riser, and, of course, I saw the Super Bowl and got up early and was there in the Oval Office, and I just couldn't -- I couldn't hold back. And so I said to the operator, "Get Mr. Rooney on the phone. I've got something I want to say to him." Unfortunately, I had gone to bed relatively early and he had gone to bed relatively late. {LAUGHTER} So he took my phone call after about three hours of sleep. And he was a gentleman then, when I apologized for waking him up; he's a gentleman today. Again, I want to publicly apologize -- {LAUGHTER} -- for routing you out of your sack. {LAUGHTER} Except I'm pretty -- I'm pretty sure you were happy to get the phone call. {LAUGHTER ; APPLAUSE} 
+
+I want to congratulate all the coaches and the folks who make the franchise run. I particularly want to say something about those in the training room and those who pick up the laundry. Those are the folks that generally don't get a lot of credit, but I know the players will give you credit, and I know the ownership gives you credit, and I know Bill Cowher gives you credit. He is a -- he's an amazing coach. He's got the most unusual expressions on the sideline. {LAUGHTER} So I told the Vice President I was going to be able to congratulate Coach Cowher in person, and he said, "Well, get him to give me some tips on his scowl." {LAUGHTER ; APPLAUSE} 
+
+You can't win a Super Bowl unless you've got a great coach. And the Pittsburgh Steelers have a great coach. And congratulations. Proud you're here. {APPLAUSE} 
+
+I want to congratulate the players and their families. The country is proud of the way you played football. You've got some amazing characters on your team. You got a "Bus." You got a "Longhorn." {LAUGHTER} We used to pump iron together. {LAUGHTER ; APPLAUSE} His took, mine didn't. {LAUGHTER} You got a "Big Ben." And you got a man known for his swagger -- I've been looking for Joey Porter's new dance. {LAUGHTER} He's a great player, and I'm proud to have him here at the White House. You're welcome to be here. Thanks for coming. I appreciate it. {APPLAUSE} 
+
+Coach Cowher said this before the Super Bowl: "You play as a team, and you're going to walk away as champions." And this team played as a team. You may have some interesting characters on the team, but one thing the Pittsburgh Steelers learned to do was play as a unit. And that's why you're standing right here. It was a tough brand of football. It wasn't always flashy, but you learned how to win. And you're the kind of team Pittsburgh Steeler fans like to watch -- hard-nosed football. 
+
+About halfway through the season a lot of people were counting the Steelers out. They said you didn't have a chance. I kind of know the feeling. {LAUGHTER} But you won eight games in a row, including three on the road in the playoffs, and of course, Super Bowl XL in Detroit. You had some amazing unexpected players step up to help you play. You had the quarterback make an important tackle, and you had yourself a receiver make an important pass. 
+
+Super Bowl XL included other entries in the record book -- Fast Willy Parker, 75-yard touchdown, the longest run in Super Bowl history. {APPLAUSE} Looking sharp, too. {LAUGHTER} Your quarterback was the youngest quarterback in history to win an NFL title. But the most amazing thing about the victory, it seemed like to me, and for a lot of other fans, was you had a fine man, a man you call "The Bus," retire in his home city of Detroit, with the Lombardi Trophy in his arms. It was a touching moment for football fans. {APPLAUSE} 
+
+
+There's a great responsibility with being in the spotlight and being champions, and I appreciate the acts of kindness the Pittsburgh Steelers do to help improve the community in which you live. I appreciate Jerome Bettis' The Bus Stops Here Foundation, that helps underprivileged children in inner-cities. I appreciate Hines Ward, Super Bowl MVP, who traveled to his mother's home country of South Korea to inspire children of multiracial backgrounds speak out against discrimination. I thought that was an act of -- {APPLAUSE} 
+
+I appreciate the players who participated in Play Ball for Kids, to raise money to help somebody who needs help. You know, one of the great admonitions of all time is to love a neighbor like you'd like to be loved yourself. And true champs do that. So it's an honor to have champions on the field and off the field here at the White House. It is a joy for me to welcome you. Congratulations. Play hard. I'll be around here next year to see you come back. {LAUGHTER ; APPLAUSE} 
+
+{/speech} 

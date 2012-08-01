@@ -1,0 +1,25 @@
+﻿{title} President Bush Honors Martin Luther King, Junior in Church Service {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 20, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you, all. Thank you. Now I understand -- now I understand why a Hechinger warehouse -- {LAUGHTER ; APPLAUSE} -- can become a center of love and compassion and fire. {APPLAUSE} I am honored, Laura and I are honored that you would invite us and our friends, the Governor and the First Lady and the Lieutenant Governor and his lovely wife, to come and celebrate a great American. 
+
+We're honored to be in the midst of a social entrepreneur -- {APPLAUSE} -- whose guidebook for entrepreneurship to help others is the Bible. {APPLAUSE} I want to thank the members of the church, the leaders of the church and those who are in charge of the ministries of the church for sharing with us the good works of this church. 
+
+It is fitting that we honor Martin Luther King in a church. Because, Gregory, I believe, like you, that the power of his words, the clarity of his vision, the courage of his leadership occurred because he put his faith in the Almighty. {APPLAUSE} 
+
+It is fitting that we honor the life of a great American in a church who derived his inspiration from the church. It is fitting that we honor this great American in a church because, out of the church comes the notion of equality and justice. {APPLAUSE} And even though progress has been made, Pastor -- even though progress has been made, there is more to do. There are still people in our society who hurt. There is still prejudice holding people back. There is still a school system that doesn't elevate every child so they can learn. {APPLAUSE} There is still a need for us to hear the words of Martin Luther King, to make sure the hope of America extends its reach into every neighborhood across this land. 
+
+So it's fitting we're here in a church that has got ministries aimed at healing those who hurt, and fighting addiction and promoting love and families. It is fitting we meet here in a church because in this society, we must understand government can help, government can write checks -- but it cannot put hope in people's hearts or a sense of purpose in people's lives. {APPLAUSE} 
+
+And so as we remember the dream of Martin Luther King and remember his clear vision for a society that's equal and a society full of justice, this society must remember the power of faith. This government of yours must welcome faith, not discriminate faith, as we deal with the future of this great country. {APPLAUSE} 
+
+And so, ladies and gentlemen, thank you for having Laura and me. Thank you for allowing us to worship with you. Thank you for opening up our hearts to the glorious word. May God bless you all. May God bless the legacy of Martin Luther King. And may God bless all Americans on this special day. Thank you, Pastor. {APPLAUSE} 
+
+{/speech} 

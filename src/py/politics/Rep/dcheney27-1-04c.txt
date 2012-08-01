@@ -1,0 +1,44 @@
+﻿{title} Remarks by the Vice President to Troops and Families {/title}
+{event} ----- {/event}
+{speaker} Dick Cheney {/speaker}
+{date} January 27, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you for the warm welcome. I'm proud to be with the "Sky Soldiers" of the 173rd Brigade -- {APPLAUSE} -- the SETAF, and our fine Italian hosts here at Caserma Ederle. And I'm wearing the jacket here today because the General said he would kick my butt if I didn't. {LAUGHTER ; APPLAUSE} 
+
+But it's a real privilege to be here and to have an opportunity to visit with you. The missions you carry out from this base are absolutely vital for our nation and for success in the war on terror. And I simply wanted to come by and thank you for all that you've done for all of us. You're standing between America and great danger, and you are making the people of the United States more secure. You're serving far from home, but millions of Americans are thinking of you every day. I'm honored to express the nation's gratitude, and to convey the personal regards of our Commander-in-Chief, President George W. Bush. {APPLAUSE}
+
+Every unit at this base is performing with distinction, and reflecting great credit on the country you serve. The 173rd Airborne is upholding its historic reputation as one of the bravest and most skilled brigades in the history of the nation. Your entry into northern Iraq last March was one of the largest airborne assaults since World War II, and it was a crucial part of our strategy to open a second front in the war to liberate Iraq. You broke the Iraqi army in your path, and captured Kirkuk. The President and I followed your progress, and you performed with all the skill and honor we expect of you. Congratulations on a job well done. {APPLAUSE}
+
+The SETAF is showing its strength and flexibility in many ways. Last summer, you deployed a task force to Liberia to oversee the orderly transfer of power. The 14th Transportation Battalion helped facilitate the mission to Liberia, while simultaneously moving vital units and equipment to operations from Iraq to Turkey to Bulgaria. And the 22nd Area Support Group has ably helped the soldiers and families of Casarma Ederle through the many dangerous and difficult missions of the past two years.
+
+Here on base, SETAF works closely with representatives of our Italian hosts -- and we're all grateful for the fine leadership and the professionalism of our Italian allies. The teamwork here is a daily reminder of the superb relationship between our two countries. Italy is a tremendous friend and ally of the United States of America.
+
+Members of our military depend, above all, on the support of their families -- and I want to thank the family members who are with us today for your outstanding service, as well. {APPLAUSE}
+
+Today's generation of our military has been called to fight in the first war of the 21st century -- a war that began on September 11th, 2001, when enemies struck the United States and murdered thousands of our fellow citizens. On that morning, America awakened to new dangers, and we accepted new responsibilities.
+
+That day changed everything. In the space of a few hours, we saw the violence and the grief that terrorists can inflict. And we had a glimpse of the even greater harm they wish to do to us. The terrorists hate us and everything we stand for in the world. They seek even deadlier weapons, and they would use them against us. In the face of this danger, we have only one option, and that's to take the fight to the enemy.
+
+We are breaking up cells and disrupting plots. And we are staying on the offensive -- tracking al Qaeda around the world. Many skilled and determined military personnel are on the hunt -- and one by one, we will bring the terrorists to justice.
+
+As President Bush made clear from the very beginning, America is also determined to confront the regimes that support terror, and might supply them with even deadlier weapons. That's why we went into Afghanistan, took down the regime, and shut down the al Qaeda camps. And now, with the help of our coalition, the Afghan people are building a decent and just society -- and the Taliban is gone forever.
+
+And in Iraq, where a dictator cultivated ties to terror and armed himself with deadly weapons, America led a mission to make the world safer, and to liberate the Iraqi people. Saddam Hussein defied the demands of the civilized world, he has experienced the consequences. At the start of 2003, he controlled the lives and the future of 25 million people. Today, just a year later, at the beginning of 2004, he's in jail. {APPLAUSE} He will never again brutalize his people, never again threaten the United States of America.
+
+Combat operations in Afghanistan and Iraq showed the great power and precision of America's modern military. We destroyed terrorist camps, military training facilities, air fields, air defenses, ammunition storage areas and command and control facilities. And your performance in Iraq has shown that the true strength of our military lies in the innovation, the selflessness and professionalism of each and every one of you.
+
+We will invest in these and other capabilities in the years ahead, to carry out any mission that may come, and make certain that you have the best weapons, the best equipment, the best training and support, and you will have them all.
+
+Important work goes on in Iraq and Afghanistan. Having liberated more than 50 million people from cruel oppression, we are now helping them to establish free and stable societies in a troubled part of the world. Freedom still has enemies in those countries, and these enemies are using the tactics of terror against our coalition and against our forces and against innocent civilians. They hope to intimidate us, but they won't succeed. We will confront and defeat them at the heart and center of their power, so we do not have to face them on the streets of our own cities. {APPLAUSE}
+
+The mission going forward is still difficult, and the enemy is still dangerous. We've lost some brave Americans -- and our Italian allies have also sacrificed in this cause. America does not take for granted our freedom, or those who put their lives on the line for the security of us all. We remember every life lost, and we honor every name.
+
+All the members of our military are engaged in a great and an honorable cause. You are protecting innocent life, and defending human freedom against determined enemies. You can be proud of the uniform you wear, the oath you have taken, and the code you live by every day. In this time of testing for our country, much has been asked of you. And I can assure you, on behalf of the President and all Americans: This nation has confidence in your abilities, we are certain of your success, and we are grateful for your brave service to the United States of America.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

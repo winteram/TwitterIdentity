@@ -1,0 +1,33 @@
+﻿{title} President Bush Calls March for Life Participants {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 22, 2007 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Yes, Nellie, thank you. {APPLAUSE} Thank you very much, Nellie. And I want to thank everybody there for taking part in today's March for Life. I appreciate so very much the devotion to such an honorable cause, and the good work everyone is doing to defend life. 
+
+And, Nellie, it's good to hear your voice again, and I thank you very much for giving me a chance to visit with you and the crowd that is assembled there on the Mall. {APPLAUSE} 
+
+It is important for all Americans to remember that our Declaration of Independence states that every person has the right to life, liberty, and the pursuit of happiness. {APPLAUSE} It also states that these rights come from our Creator, and that governments are formed to secure these rights for all their citizens. And we believe every human life has value, and we pray for the day when every child is welcome in life and protected into law. {APPLAUSE} 
+
+Nellie, I want to thank you very much, and the members of Congress there who have worked hard to make progress toward this goal over the last six years. I want the folks assembled there to know that we're making progress. We promoted adoption, support parental notification laws, ended federal funding for abortions overseas, and are funding crisis pregnancy programs. {APPLAUSE} 
+
+I had the privilege of signing legislation that extends legal protection to children who are born, despite abortion attempts, allows prosecutors to charge those who harm or kill a pregnant woman with harming or killing her unborn child, as well. {APPLAUSE} I signed into law a ban on the cruel practice of partial-birth abortions, and we will vigorously defend that law in the courts. 
+
+Nellie, what I'm saying is, is that we're building a culture of life here. And I want to thank you and everybody assembled for helping. 
+
+We are a caring nation, and our values should also guide us on how we harness the gifts of science. New medical breakthroughs bring the hope of cures for terrible diseases and treatments that can improve the lives of millions. Our challenge is to make sure that science serves the cause of humanity instead of the other way around. {APPLAUSE} 
+
+Last summer I vetoed a bill that would support the taking of innocent life in the hope of finding medical benefits for others, and I have made it clear to the Congress we must pursue medical advances in the name of life, not at the expense of it. {APPLAUSE} 
+
+As we move forward, we've all got to remember that a true culture of life cannot be built by changing laws alone. We've all got to work hard to change hearts. We will find areas where we can agree and, at the same time, work to persuade more of our fellow citizens to join this great cause. The sanctity of life is written in the hearts of all men and women. And so I say, go forth with confidence that a cause rooted in human dignity and appealing to the best instincts of our citizens cannot fail. 
+
+Again, Nellie, thank you very much. I appreciate your dedication to this important cause. I send my thanks to all there on the Mall. I ask for God's blessings on your work, and that God continue to bless our country. {APPLAUSE} 
+
+Thank you. 
+
+{/speech} 

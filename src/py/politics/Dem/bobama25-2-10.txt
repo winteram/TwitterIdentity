@@ -1,0 +1,52 @@
+﻿{title} Remarks by the President at Presentation of the National Humanities Medal and the National Medal of the Arts {/title}
+{event} Presentation of the National Humanities Medal and the National Medal of the Arts {/event}
+{speaker} Barack Obama {/speaker}
+{date} February 25, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, everybody. Please have a seat. {APPLAUSE} I'm sorry I'm a little late. {LAUGHTER} I had this thing I had to do. {LAUGHTER} But I understand that people have been drinking and -- {LAUGHTER} -- and eating the big shrimp around here. And I have to say that the wait will have been worth it, because we are honoring an extraordinary group of individuals.
+
+Before I begin I just want to make a few acknowledgements. First of all, somebody who was busy with me today, and is busy every day on behalf of the American people -- we have Speaker Nancy Pelosi who is here. {APPLAUSE}
+
+We have somebody who has been a great entrepreneur of the arts who we're glad accepted the position of chairman of the NEA, Mr. Rocco Landesman, who is here. Please give him a big round of applause. {APPLAUSE} Another individual who had an extraordinarily distinguished career in Congress and has been a consistent supporter of the arts and the humanities, and is somebody who doesn't just talk bipartisan, but has always walked the bipartisan walk -- we're grateful to have him here, Mr. Jim Leach, chairman of the NEH. {APPLAUSE} Where's Jim? There he is.
+
+Two great friends of mine and the co-chairs of the President's Commission on the Arts and Humanities -- Ms. Margo Lion and Mr. George Stevens -- and all the commission members who are here, will you please stand and let us give you a round of applause. {APPLAUSE}
+
+And two recipients who were not able to be here today, but I want to make mention of them because obviously their careers have helped to mark the landscape of American culture for decades -- Mr. Bob Dylan and Clint Eastwood, who are both recipients but could not make it today. So I wanted to make sure that we acknowledge them.
+
+Now, all of us are here to share a recognition of the importance of the arts and the humanities -– pursuits and professions that enrich the mind, and nourish the soul, and strengthen the character of this country. They bring us joy. They bring us understanding and insight. They bring us comfort in good times and, perhaps especially, in difficult times in our own lives and in the life of our nation.
+
+This recognition is what led to the founding of the Committee on the Arts and Humanities, the National Endowment for the Arts, and the National Endowment for the Humanities. Each of these institutions plays a vital role in preserving and enhancing America's cultural legacy. They promote works of the past. They cultivate the talent of the future. They deserve our thanks.
+
+It is one of the special privileges of this office that I have an opportunity, from time to time, to take part in award ceremonies like this; to honor individuals and institutions that are important to me, personally, and important to all of our citizens; to celebrate triumphs of the arts and the humanities that bring us closer to an understanding of what makes us American, but also what makes us human.
+
+And one of the most extraordinary features of America's cultural inheritance is its dynamism and its diversity. It's a culture that produced Mark Twain and Toni Morrison, John Philip Sousa and Louis Armstrong, Marian Anderson and Alvin Ailey. It's a culture in which all of us can find a place, in which all of us can take great pride.
+
+The men and women that we honor today are a part of this unique American tradition. In a cultural moment that too often prizes the sensational over the enduring, the trivial over the profound, it's worth recalling the contributions of the honorees in this room –- contributions that at once reflect and rise above the particular moments in which they're made.
+
+With us are actors and authors, singers and sculptors, conductors, curators, collectors, civic leaders, champions of the arts and the humanities. Each has taken a different path to get here. Each has made the most of different gifts. But all of them have reached the peaks of cultural achievement. And all of them are a testament to the breadth and depth of the human spirit.
+
+It's through contributions like theirs, as much as anything else, that a nation's legacy is forged. Ancient Greece and Rome are remembered for the rulers who conquered the known world, but also for the Odyssey and the Iliad, for a forum and a coliseum. Europe –- from the Renaissance through the Enlightenment -– is remembered for wars of religion and the stirrings of revolution, but also for the Sistine Chapel and the encyclopedia. The China that invented gunpowder and paper is also known for its poetry.
+
+That is the legacy of these civilizations. That's how they are remembered. And we will be remembered, I hope, for what we do in our time to deliver progress for our people and to advance the dreams of all people. But I hope we will be remembered for something else, as well. I hope we will be remembered for the Metropolitan Museum of Art, for the School of American Ballet, for all that you, the honorees here today, have done to enrich and enhance America's legacy.
+
+And that legacy will be forged by all of us doing our part. By those of us here in Washington doing what needs to be done to improve the lives of people who are -- we were elected to serve. By brave men and women fighting under our flag. By citizens and neighborhood organizations and places of worship that are giving back to the communities. And by scientists that are advancing what we know about the workings of the world and the universe. But also by Americans like you -– creators, imaginers, entertainers -– helping each of us understand the human experience, and helping all of us recognize that common humanity.
+
+That task is especially important I think right now. It's easy in times like these, with all the talk about what makes us different and what divides us, what keeps us apart, to lose sight of what holds us together. To forget that no matter what our differences, some things speak to all of us.
+
+It doesn't matter whether we're Democrats or Republicans, all of us are profoundly moved by our reflection in black granite. No matter what the color of our skin or what beliefs we hold, all of us can draw lessons from the works of history. No matter what community we call our own, all of us can be moved by a symphony, or an aria; all of us can be moved by a soprano's voice; all of us can be moved by a film's score. The arts, the humanities, they appeal to a certain yearning that's shared by all of us -- a yearning for truth and for beauty, for connection and the simple pleasure of a good story.
+
+More than 200 years and 25 -- 225 years ago, on February 18, 1784, George Washington sat down at his home in Mount Vernon to write a letter. It was just a month after Congress officially put an end to the war with the British Empire. And it was still years before the Constitutional Convention met in Philadelphia -- years before this general ended up becoming President. Years before 13 newly independent colonies became one nation, indivisible under God.
+
+But the letter Washington sat down to write that day was not about the recent triumph over the British. It was not about what shape a young America might take. Instead, it was a letter to a bookseller. Before requesting a few volumes, Washington expressed a belief –- and I quote –- “to encourage literature and the arts is a duty which every good citizen owes to his country.”
+
+A duty of every good citizen. So speaks the father of our country. Even then, amid all the concerns of those heady and dangerous days, Washington took time to reflect on the infinite value of what were then called “the elegant arts.” Even then, he foresaw the essential role that the arts and the humanities would play in the formation of our country's character. And if Washington were with us today, I think he would agree that all of you have fulfilled your duties; that all of you are good citizens; that all of you have enriched the legacy of the United States of America.
+
+So with that, I now ask the honorees to come up, one by one, as their citations are read.
+
+{COMMENT="The citations are read"} 
+
+{/speech}

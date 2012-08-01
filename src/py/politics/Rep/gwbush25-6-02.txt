@@ -1,0 +1,51 @@
+﻿{title} President Visits Displaced Families in Arizona {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 25, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. It's nice to see you. I'm sorry we're doing so under these circumstances. But I want you to know that a lot of people in our country are pulling for you. They understand the suffering that families are going through because of worry about your most precious possession, your home. They understand that a lot of you are living in tents when you'd rather be in your own bed. They cry for you, and they hurt for you. And I'm here to say on behalf of the American people, God bless you. {APPLAUSE} 
+
+I want to thank Governor Hull for being -- she called me a couple of days ago and she said, This is really bad. You've got to understand how bad these fires are. We're kind of used to fires out west, but this is the biggest of all big fires. And I appreciate her leadership. I appreciate her concern. 
+
+See, my job and her job is to make sure that all resources are coordinated and funded to help the people. That's what we're here to do. And the Governor is committed to that, and as am I. And that's why I brought my man, Joe Allbaugh. Where is he? 
+
+{AUDIENCE-MEMBER} Right here. {/AUDIENCE-MEMBER} 
+
+He's the pretty one. {LAUGHTER} He runs what they call FEMA, which is the Federal Emergency Management Agency. Its job is to provide help. That's what its job is to do, to provide help during emergency. And this is an emergency. 
+
+Today, I signed a declaration declaring this an emergency, which then provides for federal help -- which means money to fight the fires. It means temporary housing money and long-term housing money. It means help for small business owners; I understand there's a lot of small business owners who are worried about your business, and I don't blame you. I'd be worried, too. So it provides help. 
+
+It helps provide counseling services, and a lot of folks here, I hope if you need counseling, you ask for it. A lot of people we want to help. So, this is the federal government's way of committing the resources allowed under the law, the full extent of the resources under the law. 
+
+I appreciate Congressman J.D. Hayworth for working this issue hard. I appreciate you being here, J.D. Thanks for coming. {APPLAUSE} 
+
+We got people down here from the Interior Department. A fellow named Stephen Griles is the number two man in the Interior Department. I want to thank Steve for being on site here, for spending a lot of time in this area -- again, to make sure that whatever we can do to help, we really, we'd like to try to do so. 
+
+I want to thank the Red Cross. I appreciate the good -- {APPLAUSE} -- I appreciate, I want to thank Chad Ettmueller, who's the -- I guess the man in charge of the Red Cross here. He just gave me a briefing on the number of meals being served -- over 9,000 -- the number of people being housed. 
+
+You know, one of the great things about this country is that there's a lot of loving people here in this country. I always say -- {APPLAUSE} . And not only is the Red Cross helping, but the Salvation Army is as well. {APPLAUSE} 
+
+See, here's what I tell them. What the enemy didn't understand is when they attacked America, they didn't understand how kind and decent this country is. {APPLAUSE} And so I'm here to say thanks on behalf of the volunteers, the people who are doing their best to spread compassion to people who need compassion, to spread love to people who need love, to spread guidance to people who seek guidance. 
+
+I also want to thank the Forest Service, Dale Bosworth. Listen, we've got a lot of work to do to make sure the Forest Service has got wise forest policy -- {APPLAUSE} -- to make sure to maintain the forests so that they're healthy and viable, and not become kindling-boxes. 
+
+I want to thank all the firefighters, the people who are -- {APPLAUSE} . I had the honor of shaking some hands today of some of those who wear the uniform of the firefighter. You know, we focus on the houses which have been lost, and there have been too many houses lost. One house lost is too many houses lost. One house. {APPLAUSE} But there's been thousands of homes saved, too, and that's important. {APPLAUSE} 
+
+People that are just working their hearts out on behalf of their fellow citizens, you can look in their eyes and see the exhaustion. But I can assure you, having talked to them, and I know you have as well, they're not quitting until this thing is whipped. And I hope that makes you feel somewhat better, to know there's a lot of people out there working their heart out on your behalf. 
+
+I want to thank the mayors who are here, Kelly, Mayor Kelly, Mayor Handorf, and Mayor Kay Dyson of Show Low and Pinetop and Springerville. You see, one of the other things that's important is there's a lot of local folks who are doing everything they can to help as well. {APPLAUSE} 
+
+I want to thank Dallas Massey, who's the chairman of the White Mountain Apache tribe. He came by to say hello today. Let me make this clear to you: we're all in this together. {APPLAUSE} It is a -- these fires wreak havoc on everybody who stands in the way. They don't pick and choose. And I hope, as we stay united to make sure that we do the best job we can in fighting these fires, that people stay united in doing this. It's an important moment, it's an important time for people to stay bound up in their compassion and in their desire to fight off this devastating disaster that's befallen you all. 
+
+And so it's been my honor to come. I look forward to shaking as many hands as I can. This is a -- I know it's a tough moment in a lot of people's lives, there's just no doubt in my mind. But just like this war we're under, I believe out of evil can come some great good. It's hard to tell it right now. {APPLAUSE} 
+
+It's hard to tell it. I know it's hard to tell it. It's easy for me; you say, yes, sure, he flies down in Air Force One and comes here and says that. It's easy for him to say it. But that's what I believe. Because I do believe there is a gracious and almighty God that's looking out after the people who've been affected. {APPLAUSE} 
+
+So hang in there. Hang in there, you brave and great people. Thanks for giving me a chance to come by and say hello. May God bless you, and may God bless your families. Thank you. {APPLAUSE} 
+
+{/speech} 

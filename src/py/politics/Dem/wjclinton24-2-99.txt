@@ -1,0 +1,35 @@
+﻿{title} Remarks by President Clinton at State Dinner in Honor of President Rawlings of Ghana {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 24, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Ladies and gentlemen, good evening. I want to welcome President Rawlings and Mrs. Rawlings and the entire Ghanaian delegation, along with the distinguished Secretary General of the United Nations, Kofi Annan, and our other distinguished guests to the White House. Hillary and I are delighted to see you all here. 
+
+There was so much interest and enthusiasm about this dinner that we had to move it from the dining room into the East Room. And you might be interested to know that it was in this room that Thomas Jefferson met with Meriwether Lewis to plan the great Lewis and Clark expedition, which explored the American continent. It is fitting that we are having this dinner here, almost 200 years later, to chart a new century and to explore our relationship with Ghana and with Africa. {APPLAUSE} 
+
+It was no accident the Ghana was our first stop, our gateway to Africa, when Hillary and I and our delegation, the members of Congress, the administration and citizens traveled to Africa last year. Mr. President, in the last decade, under your leadership, Ghana has made great strides toward fulfilling President Nkrumah's vision of a proud, strong country. 
+
+In important ways, it may even have surpassed that vision. Starting our African journey in a democratic country, with a growing economy, a powerful commitment to tolerance at home and peace around the world, allowed us to highlight for all Americans the progress that Africa has made, and the promise of our future together. It allowed us to reaffirm for all of Africa that the United States is proud and determined to build a partnership of mutual respect with African nations which share our dreams of a better world. It also gave us the opportunity to get to know Ghana. 
+
+It has become the subject of some raw humor in the White House that I never tire of telling people that we had a half a million people in Independence Square in Ghana. About -- {APPLAUSE} -- thank you. Every time the Vice President gets a good news story these days, I say, but have you ever spoken to a half a million people? {LAUGHTER} 
+
+Let me say also, Mr. President, we all know that you have so many friends in the United States -- Quite a few here tonight. I want to mention, though, an astonishing fact that I learned about a friend of Ghana, and yours, who is not here tonight -- also a friend of mine, who performed here for the Prime Minister of Great Britain -- Stevie Wonder. 
+
+He has -- spends considerable time in Ghana, and, actually, Mr. President, he has boasted in the United States that he's flown your airplane. {LAUGHTER} I hope you wore a seat belt. {LAUGHTER} With a story like that, he may be planning to run for office soon. 
+
+I want you all to know I have spent an inordinate amount of time thinking about President Rawlings' political predicament. Listen to this. He was elected President by his fellow citizens in 1992. He was reelected in 1996. He loves his country and he loves being President of his country. His Constitution prevents him from running again in 2000. {LAUGHTER} Mr. President, I feel your pain. {LAUGHTER ; APPLAUSE} 
+
+It seems to me the only response for two slightly scarred but energetic warriors like us is to renew our commitment and dedication in these remaining two years of our service, to make them count every day for all our people, so that when our citizens choose new leadership for a new century, we can know that we have done our best to pave their way. 
+
+So let us tonight commit together to work on the things that matter to real people and to the children and their future; to strengthen our democracies; to broaden the reach of our economies; to make education and health care better and more widely available; to protect our environment; to work to convince others to seek peaceful solutions to conflict within and among the nations we can reach. And let us commit to making the bonds between our two nations stronger than ever. 
+
+Mr. President, it is a profound honor for Hillary and for me to have you here. And we now ask all of you to join us in a toast to the President and the First Lady and the people of Ghana. {APPLAUSE} 
+
+
+
+{/speech} 

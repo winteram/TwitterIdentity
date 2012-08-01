@@ -1,0 +1,33 @@
+﻿{title} President Thanks Military, Guests at 'Celebration of Freedom' Concert {/title}
+{event} The Ellipse, Washington, D.C. {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 19, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. {APPLAUSE} Thank you all for coming. {APPLAUSE} Thanks for being out here in the cold. You know, I was realizing there is -- you know, no night is too cold to celebrate freedom. {APPLAUSE}
+
+Mr. Vice President, thank you for your kind introduction. I thank you and Lynne for your fine service to the American people. Our nation has never had a finer Vice President. {APPLAUSE} Sorry, Dad. {LAUGHTER} Our nation has never had a finer First Lady than Laura. {APPLAUSE} Sorry, Mother. {LAUGHTER}
+
+I'm really proud that much of my family is with me tonight and will be there tomorrow. I'm really so happy my Dad and Mom are with us. {APPLAUSE}
+
+Appreciate the members of the Cabinet who are here, members of Congress, members of the Armed Forces. {APPLAUSE} How about the Apollo astronauts? I can't thank them enough for coming. {APPLAUSE} And I love our entertainers who are here. I want to thank our host, Ryan Seacrest. Thanks for so much, Ryan. You're doing a fine job. I appreciate you being here.
+
+I want to thank all the other entertainers who have come tonight. It means so much to Laura and me, and I hope it means a lot to you, that they have taken time out of their busy schedules to entertain you and to kick off this inauguration.
+
+I really thank you all for coming. Many of you have traveled a long way. What you're doing is you're taking a part in a great tradition of hope and renewal in our Nation's Capitol. And we are really glad you are here. {APPLAUSE}
+
+An inauguration is a time of unity for our country. With the campaign behind us, Americans lift up our sights to the years ahead and to the great goals we will achieve for our country. I am eager and ready for the work ahead. {APPLAUSE} And I know that this office carries a duty to the entire nation. After all, we are one America, and every day that I am your President, I will serve all Americans. {APPLAUSE}
+
+In these four years, we have moved forward as a people. We have faced challenges. We have faced them together. And we've taken up serious tasks at home, as well as abroad. We have grown in appreciation for our freedom, and we have grown in appreciation for the men and women who defend it. {APPLAUSE}
+
+At this very hour, more than a million of our fellow citizens are standing watch for America. We are grateful to them all. {APPLAUSE} And we are grateful to their families. {APPLAUSE} We pray for our troops; we pray for their families. And on this night, as we celebrate the blessing of liberty, America honors the spirit of service that keeps our nation strong and free.
+
+
+Tomorrow, I will take an oath and deliver an inaugural address. You'll be pleased to hear I'm not going to deliver it twice. But I will speak about freedom. This is the cause that unites our country and gives hope to the world and will lead us to a future of peace. We have a calling from beyond the stars to stand for freedom, and America will always be faithful to that cause.
+
+Thank you for coming. May God bless you -- {APPLAUSE} -- and may God continue to bless our great nation. Thank you all. {APPLAUSE} 
+
+{/speech}

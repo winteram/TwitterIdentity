@@ -1,0 +1,29 @@
+﻿{title} Vice President and Mrs. Cheney's Remarks and Q&A at a Town Hall Meeting {/title}
+{event} Town Hall Meeting  {/event}
+{speaker} Lynne Anne Vincent Cheney {/speaker}
+{date} September 7, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you.
+
+{AUDIENCE} Four more years! Four more years! Four more years!
+{/AUDIENCE} 
+Thank you. Thank you very much. {APPLAUSE}
+
+{AUDIENCE-MEMBER} Welcome to Iowa. {/AUDIENCE-MEMBER} 
+
+{OTHER-SPEAK} It's good to be back. {LAUGHTER} And we accept. {LAUGHTER}
+{/OTHER-SPEAK} 
+
+We couldn't have picked a more beautiful day. I got to tell you this is a day that makes you appreciate being an Iowan, and a day that makes you appreciate being an American. {APPLAUSE}
+
+Well, I got to introduce Dick at that convention. And I've been assigned this job, this task because I have known him for so long. I have known him since he was 14 years old. Uh-huh, a mighty good, 14-year-old-looking boy. I'll tell you that, too. And his summer job that -- don't be embarrassed now. {LAUGHTER} His summer job when I first met him was sweeping out the local Ben Franklin store. And I've known him through many jobs. I've known him since he was digging ditches at our local fair and rodeo grounds, the Central Wyoming Fair and Rodeo, just outside Casper. And I've known him since he was loading hundred-pound bags of bentonite onto railroad cars. And I've known him since he was a union member. This is true. We want union members, Democrats, everybody. Dick had a ticket in the International Brotherhood of Electrical Workers, and he was building power line all across the West for six years while he was -- it took him a long time to get through college, but while he was getting through college. {LAUGHTER} Well, I like to tell -- I like to tell those stories because I think when you grow up working hard, you learn some really important lessons. And one of those lessons is how important it is for hard working men and women in this country to keep as much of their paychecks as possible. {APPLAUSE}
+
+And another lesson you learn is how competent and strong this country is. And how what the people of this country need is not a government to run their lives, but a government that provides them opportunities so they can make the most of their lives. And I think that's a basic philosophy. And I love the way Arnold Schwarzenegger talked about that at our convention, didn't you? He was terrific. {APPLAUSE}
+
+Well, with no further ado, please meet my husband, Dick Cheney, the Vice President of the United States. {APPLAUSE} 
+
+{/speech}

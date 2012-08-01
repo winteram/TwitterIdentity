@@ -1,0 +1,48 @@
+﻿{title} Remarks by the President at Signing of General Agreement on Tariffs and Trade {/title}
+{event} Organization of American States Building, Washington, D.C. {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 8, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Mr. Vice President. As usual, you did a generous and magnificent job of recognizing the contributions of all these people who made this day possible. You did, however, leave one very important person out. If you hadn't gone on television in that national debate on NAFTA -- {LAUGHTER} -- and refuted the theory of the giant sucking sound -- {LAUGHTER} --I'm not sure we would be here today. And we thank you for that. {APPLAUSE}
+
+I thank the members of Congress who are here and those who are not who have been acknowledged. I thank the members of our administration. I am so proud of all of them. I want to say a special word of thanks to Secretary Espy for helping us resolve these terribly difficult agricultural issues, without which we would not have been able to get this agreement. I thank Mickey Kantor and Rufus Yerxa and John Schmidt and John Emerson, all the people who worked on our team. I thank the business community, a bipartisan group, a remarkably diverse group, for standing up and being counted and working hard on this and our other trade initiatives.
+
+I thank the Vice President for what he said about trade. In the last two years we've not only had NAFTA and GATT, but we have done our outreach to Asia through the Asian Pacific Economic Cooperation group. We've had two meetings of the leaders of the APEC countries now. We have reached a new agreement with Japan, which I believe is a very good one, and we continue our efforts there. And this evening I am leaving for the Summit of the Americas in Miami, which Mr. McClarty and others have done so much work on to make a success.
+
+Two days ago when I regrettably accepted his resignation, Secretary Bentsen said that history would show that the economic future of our children and grandchildren will be more secure because of the politically difficult decisions taken in the last two years. I appreciate his saying that. He had a lot to do with them, and he's earned a well-deserved rest.
+
+But I want to emphasize again how important I think this trade issue is and why I think it's important for the people who are not on the program today -- the people who are working in our factories and working in our offices, and trying to raise their children and having a difficult time.
+
+When this administration and our economic team took office we were rightly concerned about economic problems gripping every advanced country in the globe, and certainly affecting the United States -- the problems of low growth, high unemployment, stagnant incomes, declining benefits for working people, increasing insecurity. It seemed to me then and it seems to me now that we had to have a serious discipline strategy to reverse these trends; that if we continue to see increasing inequality and loss of opportunity, not among the working and the nonworking, but among people who are all working full-time, and longer work weeks today than they were working 20 years ago, that it is going to be very difficult for us to preserve the essence of what America is -- the whole core of the America Dream, that people here who work hard and obey the law and play by the rules are going to be given a chance to do better, going to be given a chance to build a better world for their children.
+
+There were those two years ago, and certainly there were those even in this debate on GATT, who believe the only way we can do that is to try to create a world that used to be. I wonder sometimes about that world that used to be. I remember what Will Rogers used to say -- "Don't tell me about the good old days, I lived through them, they never was." {LAUGHTER} Well, that's somewhat true, but it is also true that for the last 10 or 15 years we have been struggling with longer work weeks, declining security, increasing inequality, and a lot of people who literally have worked harder for less.
+
+Some say the answer is to try to just hunker down within our borders. That is clearly not an option. No country can escape the global economy, and the greatest, largest, most powerful country in the world cannot escape the global economy. We must lead it in a direction that is consistent with our values, consistent with our interests, consistent with what is necessary to keep the American Dream alive. That's really what GATT is all about.
+
+We've worked hard here, these folks and a lot of our friends from the Congress and a lot of you in this room have helped us to try to bring the deficit down, to try to reduce what I call "yesterday's government," to try to reduce destructive regulation and unleash the forces of creativity and enterprise, to try to increase investment in the education and training of our work force and in the technologies of the future. But no matter what we do, unless we can expand the markets for America's products and services, we will ultimately fail in our economic mission.
+
+Yes, it is true that one of the reasons for stagnant wages in the United States is intense competition in our own markets and in other markets from people who work for wages our folks couldn't live on. That will happen if there is never another trade agreement in the history of the United States.
+
+The reason NAFTA was important, the reason GATT's important, the reason our outreach in Asia is important, the reason this Summit of the Americas is phenomenally important and why I want it to be in this building today with the fine Secretary General we're very proud to see in this leadership position, is because America cannot and will not succeed, and we will never restore stability to the lives of the working people of our country until we have more folks buying what we sell; until the work of our people is rewarded more. And that can only happen if we have a fair and increasingly open world trading system that allows the free market to work and rewards the most productive people in the world. {APPLAUSE}
+
+Not many of them here today, maybe, but the real victors in GATT are the autoworkers, the accountants, the engineers, the farmers, the communications workers -- the people who will now have a chance to be more rewarded for their labors. Ultimately, that is what the purpose of any country is about. So I am very, very happy to be here.
+
+All of you know what's in this agreement. Let's never forget what's behind it; and let's never forget, too, that this is ultimately a victory for a couple of simple ideas -- that people ought to be able to relate more and more and more every year now to people beyond their borders, to work in harmony.
+
+The end of the Cold War imposes more than relief. It gives us a responsibility to finally take advantage of the interconnections that exist in the world today. It's a victory for the idea that America can lead in the 21st century; that we need not fear competition; that we want our neighbors to do better than they have been doing, and when they do better, we will do better -- oldfashioned, simple ideas.
+
+We must never run away from the world. We must go into the 21st century convinced that the only way to preserve the American Dream is to be involved with the rest of the world, to be willing to compete, to be determined to win, to be serious about overcoming our problems, but to realize that the only way you can ever do it is to see the opportunities that are plainly there.
+
+I want to thank every Republican and every Democrat here. I thank my predecessors for the work they did on this treaty. I thank, especially, Presidents Carter, Ford and Bush for their lobbying here for the votes we needed at the last minute. Most of all, I am very pleased to see in recent days evidence in public opinion surveys that, for the first time in history, the American people see trade as more of an opportunity than a threat. That is, of course, the ultimately critical factor, because we all serve at the sufferance of the people. They have to believe in themselves and their future, and in an open world.
+
+And I think that all of you who fought these battles, and especially this last debate on GATT, played a major role in persuading the American people that the future is bright, that our best days are ahead, and that we are going forward with confidence. That ultimately may be the most important significance of the bill I am not proud to sign.
+
+Thank you very much.
+
+{COMMENT="The bill is signed"} {APPLAUSE} 
+
+{/speech}

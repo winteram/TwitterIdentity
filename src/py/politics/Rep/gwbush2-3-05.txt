@@ -1,0 +1,34 @@
+﻿{title} President Congratulates World Series Champion Boston Red Sox {/title}
+{event} The South Lawn {/event}
+{speaker} George W. Bush {/speaker}
+{date} March 2, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Please be seated, unless you don't have a chair. {LAUGHTER} So, like, what took you so long? {LAUGHTER} Welcome. And welcome to the citizens of the Red Sox Nation. {APPLAUSE} I'm proud to be joined by the Vice President. He's a Chicago Cubs fan. So, like, he knows what you've been through. {LAUGHTER} We're really glad you're here.
+
+There's been a lot of people in this town waiting for this day to come. Some have said it would be a cold day when the Red Sox made it here. {LAUGHTER} I am honored to welcome the world champs, the mighty Boston Red Sox, to the White House. {APPLAUSE}
+
+I want to welcome the members of the Massachusetts delegation who are here. I know that Senator Kennedy is here. Senator Kerry is on his way. We have just finished a ceremony honoring Jackie Robinson. I know members of the congressional delegation are here from like Massachusetts -- and everybody else that claims to be a Red Sox state. {LAUGHTER} You all are welcome here. I appreciate the Commissioner coming. And, Bob, it's good to see you. I thank the members of my Cabinet who are here. I appreciate the Mayor being here, the Mayor of Boston. {APPLAUSE} You've had a heck of a year, Mayor. {LAUGHTER}
+
+I want to thank and welcome my friend, Tom Werner and Larry Lucchino. I'm sorry John Henry is sick. You know, Lucchino, I knew you'd amount to something eventually. {LAUGHTER} I appreciate the way this team played baseball. You know, it took a lot of guts and it took a lot of hair. {LAUGHTER ; APPLAUSE} It took a great manager and coaching staff -- {APPLAUSE} -- and I'll never forget calling Terry Francona after the team won the championship, and he -- the only thing I remember him saying was, it's all -- it all depended upon the players, which is why he's a good manager, isn't it?
+
+I appreciate the fact that Dom DiMaggio and Jimmy Piersall are with us. {APPLAUSE} You guys represent a lot of great Boston Red Sox players that a lot of us grew up watching play, and you're welcome here in the White House, and you're representing a great tradition of wonderful folks.
+
+You know, the last time the Red Sox were here, Woodrow Wilson lived here. {LAUGHTER} There were only 16 teams in baseball then. After the World Series victory in 1918, a reporter from Boston said, "The luckiest baseball spot on Earth is Boston, for it has never lost a World Series." {LAUGHTER} That's one optimistic writer. {LAUGHTER}
+
+Senator, welcome. Good to see you. Only time I -- I like to see Senator Kerry, except when we're fixing to debate. {LAUGHTER} If you know what I mean. {LAUGHTER}
+
+No one really expected the answer to the curse of the Bambino would come from a group of players that call themselves "idiots," except for maybe idiots who don't understand baseball. This is a heck of a team. This is a team that came together from South Korea and Dominican Republic, from Anchorage, Alaska, Fort Riley, Kansas, and incredibly enough, Midland, Texas. {APPLAUSE} Oh, yes. Finally, somebody from Midland amounted to something. {LAUGHTER}
+
+I love the way this team played, and so do baseball fans. I mean, this is a team that won eight games in a row when it wasn't supposed to. It's kind of courage, and a couple of stitches. You answered 86 years of prayer. That's an amazing feat, isn't it? I mean, when the Red Sox won, people all over the world cheered. They cheered in New England, and they cheered in Baghdad, Iraq. {APPLAUSE} One guy said -- from Boston -- he said, "Now we just have to wait for the other six signs of the apocalypse." {LAUGHTER}
+
+I really appreciate what Boston does off the field, too. The Jimmy Fund is a classic example of a sports franchise giving something back to the community in which they play. You created the Red Sox Scholars, which awards scholarships to disadvantaged fifth graders. I appreciate what individual players do. I know firsthand what the Schillings do, the Shade Foundation to work to prevent skin cancer and the -- and Shonda and Curt's leadership in the battle against Lou Gehrig's disease. I appreciate what the Red Sox are doing in the Dominican Republic with Seor Octubre.
+
+But most of all, our purpose here is to welcome champs. We wish you all the best in the upcoming season. We know that you've been able to do what has been viewed to be the impossible. And just like that sportswriter said in 1918, you know, Boston is the place to cover champs.
+
+Welcome to the White House. May God continue to bless you all. {APPLAUSE} 
+
+{/speech}

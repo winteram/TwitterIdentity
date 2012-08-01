@@ -1,0 +1,32 @@
+﻿{title} Remarks by the Presidentin Presenting Collection of American Booksto the American Studies Reference Collectionof the Beijing University Library {/title}
+{event} Library Presentation {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 29, 1998 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Well, first, let me thank all of you for coming out to see us on such a nice, warm day. {LAUGHTER ; APPLAUSE} I thank President Chen, Vice President Ren, Professor Chi, Senator Akaka, and the members of Congress who are here, and all the members of the university community, who have made my wife and our daughter and our whole delegation feel so very welcome today. Thank you very much. {APPLAUSE}
+
+Now, when Senator Akaka said that some people thought of Beida as the Harvard of China -- {LAUGHTER ; APPLAUSE} -- all of us Americans who did not go to Harvard were thinking, perhaps, Harvard was the Beida of the United States. {APPLAUSE}
+
+You know, political leaders of my generation talk a lot about the future and the 21st century, but it is you, the students who are here, who will live in it and who must build it. A child born today will not even remember the 20th century. Indeed, a child born today may think of people like me as relics of an ancient dynasty. {LAUGHTER} Americans -- including that one -- {LAUGHTER} -- want to work with China to help build this future -- a future of security and prosperity, a future in which we clean up the world's environment instead of destroy it, a future in which we advance education and dignity and freedom for all people.
+
+As a small token of our respect and in honor of your centennial, we are donating over 500 reference books to the library of Beida. {APPLAUSE} Thank you. Xie xie. {LAUGHTER ; APPLAUSE} Through the U.S. Information Agency, we have selected some of the best volumes in our history and literature, along with encyclopedias and dictionaries on every subject related to the United States. And my wife and I have added personally two books which we wrote: her book, "It Takes A Village," and mine, "Between Hope and History." And I'd like to present them to the President at this moment. {APPLAUSE}
+
+Now, if you're trying to decide which one to read first, I should tell you that in America her book sold a lot more copies than mine did. {LAUGHTER ; APPLAUSE} 
+
+We are proud of our historic relationship with this university. I hope these books will help to further our friendship for another generation. I hope, too, that more and more Americans will come to China to study and more and more young Chinese will go to America to study. {APPLAUSE}
+
+Every day, I must be preoccupied with the world's problems, but I believe a lot of the world's problems would be quickly solved if the world's young people were permitted to live together and learn together and serve together. You can set the standard, and I hope you will. {APPLAUSE}
+
+Next week, our young country will celebrate its 222nd birthday. {APPLAUSE} It is a time of year when we Americans stop to reflect on the many blessings we enjoy, on the ideals of our founders to provide life, liberty, and the opportunity to pursue happiness to all people. It is a time when we measure our progress and try to honestly assess our continuing problems; when we take pride in our history, but also resolve to keep working on it. For history is not just something to be studied at university. History is always unfolding. Here it is unfolding. And I believe a large part of the next chapter in America's history will be its partnership with the new China. {APPLAUSE}
+
+China, too, is always rebuilding itself. Of course, your foundations are deeper than ours; our entire history could fit into one of your longer dynasties. {LAUGHTER} But from different starting points we are working toward a common destiny of peace and prosperity, and, I hope, of lifting the level of freedom and dignity not only for all our own people, but for others throughout the world.
+
+China is a very old country, But, thanks to you --to your idealism, to your spirit and to your future -- it will remain forever young.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

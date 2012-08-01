@@ -1,0 +1,38 @@
+﻿{title} Remarks by the Vice President {/title}
+{event} McChord Air Force Base, Tacoma, Washington {/event}
+{speaker} Dick Cheney {/speaker}
+{date} December 22, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Colonel. And thank all of you for coming out today. This is a great turn-out. I really appreciate your willingness to come out. I wasn't sure we were going to get in, that ceiling is a little low out there.
+
+But I wanted to come by today, to thank all of you, to come back to McChord -- this is the first time I've been back here since about 1992, when I served as Secretary of Defense, in the old days, when I had real power and influence. {LAUGHTER}
+
+But I know you've done some tremendous work here, the 62nd and the 446th Air Lift Wing. You guys have performed some fantastic missions in connection with our operations in Afghanistan and Iraq. I know, among other things, you dropped the 173rd into Northern Iraq. {APPLAUSE} That was a tremendous piece of work. And we greatly appreciate the thousands and thousands of hours that you've flown, the tremendous missions that you've performed all over the world, but especially in connection with those two operations.
+
+I also note the presence here today of some of our friends from 1st Corps, over at Fort Lewis. {APPLAUSE} And I'm glad to see that this is a joint operation. It means a great deal to us. But you've done some great work, as well, too. Fort Lewis has become, really, the transformation center for the United States Army. {APPLAUSE} And I know we've got the Stryker Brigade deployed now to Iraq. {APPLAUSE} And we've got more coming. And we tremendously appreciate what you're doing. You're doing some great work there, as well, too.
+
+Let me just say a word or two, if I can, about where we are in terms of our ongoing operations. We've had a reminder just within the last 24 hours, that the United States still faces serious threats. We've seen the threat level escalated to level orange. And we've done that because we've seen some reporting that leads us to believe it's necessary. It's a reminder to all Americans that, in fact, we are faced with a very serious long-term threat to the United States, that we've made major progress against these guys, but they're still out there. They're still doing everything they can to acquire ever deadlier weapons to use against us.
+
+We need to remain vigilant. We need to remain very aggressively engaged, and we're doing everything we can to take down those terrorists that in the past have launched attacks against the United States, as well as those organizations and states out there that have supported them.
+
+In a sense, 9/11 changed everything for us. 9/11 forced us to think in new ways about threats to the United States, about our vulnerabilities, about who our enemies were, about what kind of military strategy we needed in order to defend ourselves. And we've been actively and aggressively involved in doing that now for more than two years. It's a combination of strategy that involves not only going after the individuals who perpetrate terrorist attacks -- we've done that before. But we've got to go far beyond that. We've got to take down the financial networks that support them. We've got to mount military operations whenever that's necessary and appropriate, in order to take out the bad guys before we can launch further attacks against the United States.
+
+And as President Bush decided that very first night after 9/11, we also have to go after terror-sponsoring states, and that those who provide safe harbor and sanctuary for terrorists to launch attacks against the United States will be deemed just as guilty as the terrorists themselves for the attacks that have been launched.
+
+That's why we went into Afghanistan. That's why we went into Iraq. And that's why it's been so absolutely essential for us to conduct those activities and exercises. And we always have to remember, we do everything we can to defend ourselves here at home, to build the strongest possible defenses. But if we're 99 percent successful, the 1 percent that gets through can still kill you. Defense isn't enough. We also have to go on offense. And that's what you're all about. {APPLAUSE}
+
+Our objective has to be to destroy the terrorists before they can launch more attacks against us here in the United States, here at home. {APPLAUSE} Now, you all have done a superb job. I can't say enough by way of thanks. The President knows I'm here today. I talked to him this morning. We did a morning brief together, and he asked me to be sure and on his behalf, bring you his greetings, the Commander-in-Chief, George W. Bush. {APPLAUSE}
+
+Now, this is the holiday season. We've got a tremendous amount to be thankful for and to be grateful for as Americans. We are blessed to be part of this great country of ours. All of you, more than anybody else, are out there day in and day out, putting your necks on the line to make certain that those of us back here at home are safe and continuing to be free.
+
+I especially want to thank your families. I know we've got a lot of families here today. You carry as much of the burden as anybody else. {APPLAUSE} We couldn't do it without all of you. And it means a great deal to all of us.
+
+So today, let me just say, on behalf of the President, on behalf of the entire nation, what it means for us, what you do every day, the heavy lifting that's involved, the long hours, the dangerous missions, the time away from home, it's what our freedom is all about. So thank you very, very much for what you do for all of us.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

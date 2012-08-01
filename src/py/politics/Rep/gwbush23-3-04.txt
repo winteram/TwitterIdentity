@@ -1,0 +1,46 @@
+﻿{title} President Welcomes NCAA Fall National Champs to White House {/title}
+{event} Remarks by the President to NCAA Fall National Champions, The South Lawn {/event}
+{speaker} George W. Bush {/speaker}
+{date} March 23, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you for coming. Behave yourself up on the balcony. {LAUGHTER} That would be you. This is champions' day here at the White House, and it is my honor to welcome some great champs. We are proud you're here.
+
+I want to thank those who represent the universities. Here present: James Moeser, the Chancellor, and Dick Baddour, the Athletic Director of the University of North Carolina. We appreciate you being here. Mike Garett, who is the Athletic Director of the University of Southern California, is with us today. And Bill Jenkins, who is the President of LSU, along with Roger Ogden, who is the Chairman of the LSU Board of Supervisors and Skip Bertman, who is the Athletic Director, we're proud you're here.
+
+As you can probably see, we've got some members of the United States Congress with us here today, and there seems to be quite a large and vibrant delegation from the great state of Louisiana. {APPLAUSE} Senator John Breaux -- and Mary Landrieu are with us today. {APPLAUSE} Mighty Tiger fans. Richard Baker and Jim McCrery and Chris John and Rodney Alexander, thank you all for coming. We're proud you're here.
+
+From California, Congressman Chris Cox and Dianne Watson are with us today. Thank you all for coming. {APPLAUSE} Congressmen David Price and Mike McIntyre from North Carolina are with us as well. Thank you all for being here. {APPLAUSE}
+
+First, it's my honor to recognize the football co-champs this year, LSU and USC. Fantastic group of athletes and teams that battled to the end. Any good team obviously requires good players. These teams have got good players, but it also requires really good coaches. Pete Carroll and Nick Saban are two of the finest coaches in the United States. We're glad you're here. {APPLAUSE}
+
+There was quite a lot of discussion about who really was number one. My attitude is, the South Lawn is a pretty good size. {LAUGHTER ; APPLAUSE} Never mind. {LAUGHTER}
+
+I appreciate the class of these two programs, and the grace they demonstrated under pressure. Both schools, LSU and USC, are, in fact, national champs. And we're proud to call you national champs. {APPLAUSE}
+
+Obviously, in order to be a national champ, you've got to field fine players at every position. I particularly want to say something about USC tailback Reggie Bush. {APPLAUSE} Where is he? His teammates call him "the President." {LAUGHTER} "President Bush." You must feel pretty comfortable here at the White House, "President Bush." {LAUGHTER}
+
+I also want to say one other word about an individual who is not with us today, and that is Jeff Boss, who was the equipment manager for 24 years for LSU. Last October he died from cancer. The Tigers named their locker room in Jeff's honor, and they kept his family in their prayers throughout the season. You all know, and I know, that Jeff would be incredibly proud of the fact that LSU won its first national championship in 45 years. May God bless Jeff and his family, and may God bless both the USC team and the LSU football team. Thank you all for coming. {APPLAUSE}
+
+Now it's my honor to welcome back the Lady Trojans volleyball team from USC. {APPLAUSE} They did pretty well this year. They were 35-0. {LAUGHTER} Last year I had the honor of welcoming my friend, Mick Haley here at the White House. See, Mick used to coach the University of Texas volleyball team, and I used to work out at the gym there and he used to come over and give me pointers all the time about how to strengthen up and look a little better. My advice is, when you see the Governor of California, he doesn't need many pointers, Mick. {LAUGHTER}
+
+Mick's a good man. He coaches a group of great ladies who are, in fact, national champs. I asked how many of them are coming back next year. Of course, one of them asked if I was. {LAUGHTER} But he has a lot of returners for next year, and this group of champs is welcome here at the White House anytime. Thank you for coming. {APPLAUSE}
+
+Then we honor Coach Anson Dorrance's UNC Tarheel women's soccer team. {APPLAUSE} Anson's got a pretty good record. He's coached for 25 years, and he's won 18 national championships. That's the sign of a good coach who knows good talent and knows how to mold everybody into a good team. This year they were 32-0. When I had my honor of having my picture taken with the team, I asked, what was the closest match, closest game. One of the ladies said, it was 3-0. That's a heck of a team; 32-0 and the closest game is 3-0. UNC gets a lot of attention for its basketball team, but let me remind you of what the legendary coach Dean Smith said. He said, "UNC is a women's soccer school." And once again, these ladies have proven Coach Dean Smith correct. Welcome back. {APPLAUSE}
+
+Jerry Yeagley is here with the Indian Hoosier men's soccer team. He's been with the Hoosiers for three decades, and in those 30 years, they have won six national titles. {APPLAUSE} He retired last fall with 544 wins, more than any coach in NCAA Division One history. Coach Yeagley, we're proud of you, we're proud of the team you've brought here, we're proud of your dedication to athletics. I want to thank you for working so hard to teach the young men of your teams the difference between right and wrong and how to play as a team. Today we honor your coaching career at the same time we honor the great Indiana Hoosier soccer team. Welcome. {APPLAUSE}
+
+These are impressive athletes behind me, but I think if you really look beyond the athletics, you'll find some decent and compassionate people, as well. These athletes, in the most part, understand they have a responsibility to uphold to the communities in which they live. They understand it's one thing to be a champ on the field, it's another to be a champ off the field; by setting the right example for some youngster who is wondering what it means to be a champ.
+
+By setting good messages about right and wrong behavior, and by volunteering in their community, the USC football team makes a trip to the USC Children's Hospital every year, to visit patients and to give gifts and to sign autographs. You know what they're doing? They're bringing some sunshine into somebody's life, is what they're doing. The LSU football players visit hospitals and they teach elementary school children how to read. They're taking their talents off the football field and putting them in the classroom, so some child in Louisiana has a chance to realize a better life.
+
+The USC women's volleyball team raised money and participated together in the Race for the Cure for breast cancer research. They took their athleticism and put it into practice to help save somebody's life. The UNC soccer team is helping to build a Habitat For Humanity house near the campus. They're using their God-given talents to make sure somebody has a place to live. And finally, the Indiana soccer players volunteer as coaches and mentors for youth soccer teams in Bloomington, Indiana.
+
+All these players have understood it's important to serve something greater than yourself in life. They learned to do so by working together for a team, and they're learning to do so by making the community in which they live a better place for every citizen. It is my honor to welcome true champs here to the White House. I congratulate you for your hard work. I wish you all the best for the -- whatever the future may hold. God bless you all. {APPLAUSE}
+
+{COMMENT="Jerseys are presented"} {APPLAUSE} 
+
+{/speech}

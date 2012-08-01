@@ -1,0 +1,132 @@
+﻿{title} Vice President's Remarks at the Republican National Convention with An Introduction by Mrs. Cheney {/title}
+{event} Republican National Convention {/event}
+{speaker} Dick Cheney {/speaker}
+{date} September 1, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{AUDIENCE} Cheney! Cheney! Cheney! Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+Thank you.
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+Thank you. {APPLAUSE} Thank you. I'm sure glad Zell Miller is on our side. {APPLAUSE}
+
+Mr. Chairman, delegates, distinguished guests, and fellow Americans: I accept your nomination for Vice President of the United States. {APPLAUSE}
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+Thank you. I am honored by your confidence. And tonight I make this pledge: I will give this campaign all that I have, and together we will make George W. Bush President for another four years. {APPLAUSE}
+
+Tonight I will talk about this good man and his fine record leading our country. And I may say a word or two about his opponent. {LAUGHTER} I am also mindful now that I have an opponent of my own.
+
+{BOOING} 
+
+People tell me that Senator Edwards got picked for his good looks, his sex appeal, his charm, and his great hair. I said, "How do you think I got the job?" {LAUGHTER ; APPLAUSE} 
+
+On this night, as we celebrate the opportunities that America offers, I am filled with gratitude to a nation that has been good to me, and I remember the people who set me on my way in life. My grandfather noted that the day I was born was also the birthday of Franklin Delano Roosevelt. And so he told my parents they should send President Roosevelt an announcement of my birth. {LAUGHTER} Now my grandfather didn't have a chance to go to high school. For many years he worked as a cook on the Union Pacific Railroad, and he and my grandmother lived in a railroad car. But the modesty of his circumstances didn't stop him from thinking that President Roosevelt should know about my arrival. My grandfather believed deeply in the promise of America, and he had the highest hopes for his family. And I don't think it would surprise him all that much that a grandchild of his stands before you tonight as Vice President of the United States. {APPLAUSE}
+
+It is the story of this country that people have been able to dream big dreams with confidence they would come true, if not for themselves, then for their children and grandchildren. And that sense of boundless opportunity is a gift that we must pass on to all who come after us.
+
+From kindergarten to graduation, I went to public schools, and I know that they are a key to being sure that every child has a chance to succeed and to rise in the world. {APPLAUSE} When the President and I took office, our schools were shuffling too many children from grade to grade without giving them the skills and the knowledge they need. So President Bush reached across the aisle and brought both parties together to pass the most significant education reform in 40 years. {LAUGHTER} With higher standards and new resources, America's schools are now on an upward path to excellence -- and not for just a few children, but for every child. {APPLAUSE}
+
+Opportunity also depends on a vibrant, growing economy. As President Bush and I were sworn into office, our nation was sliding into recession, and American workers were overburdened with federal taxes. Then came the events of September 11th, which hit our economy very hard. So President Bush delivered the greatest tax reduction in a generation, and the results are clear to see. {APPLAUSE} Businesses are creating jobs. People are returning to work. Mortgage rates are low, and home ownership in this country is at an all-time high. The Bush tax cuts are working. {APPLAUSE}
+
+Our nation has the best health care in the world, and President Bush is making it more affordable and accessible to all Americans. {APPLAUSE} And there is more to do. Under this President's leadership, we will reform medical liability so the system serves patients and good doctors, not personal injury lawyers. {APPLAUSE}
+
+These have been years of achievement, and we are eager for the work ahead. And in all that we do, we will never lose sight of the greatest challenge of our time: preserving the freedom and security of this nation against determined enemies.
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+Thank you all. {APPLAUSE}
+
+Since I last spoke to our national convention, Lynne and I have had the joy of seeing our family grow. We now have a grandson to go along with our three wonderful granddaughters. {APPLAUSE} And the deepest wish of my heart and the object of all my determination is that they, and all of America's children, will have lives filled with opportunity, and that they will inherit a world in which they can live in freedom, in safety, and in peace. {APPLAUSE}
+
+Four years ago, some said the world had grown calm, and many assumed that the United States was invulnerable to danger. That thought might have been comforting; it was also false. Like other generations of Americans, we soon discovered that history had unexpected duties in store for us.
+
+September 11th, 2001 made clear the challenges we face. On that day we saw the harm that could be done by 19 men armed with knives and boarding passes. America also awakened to a possibility even more lethal: this enemy, whose hatred of us is limitless, armed with chemical, biological, or even nuclear weapons.
+
+Just as surely as the Nazis during World War II, and the Soviets during the Cold War, the enemy we face today is bent on our destruction. As in other times, we are in a war we did not start, and have no choice but to win. {APPLAUSE} Firm in our resolve, focused on our mission, and led by a superb Commander-in-Chief, we will prevail. {APPLAUSE}
+
+The fanatics who killed some 3,000 of our fellow Americans may have thought they could attack us with impunity -- because terrorists had done so previously. But if the killers of September 11th thought we had lost the will to defend our freedom, they did not know America. And they did not know George W. Bush. {APPLAUSE}
+
+From the beginning, the President made clear that the terrorists would be dealt with -- and that anyone who supports, protects, or harbors them would be held to account. {APPLAUSE} In a campaign that has reached around the world, we have captured or killed hundreds of al Qaeda. In Afghanistan, the camps where terrorists trained to kill Americans have been shut down, and the Taliban driven from power. {APPLAUSE} In Iraq, we dealt with a gathering threat, and removed the regime of Saddam Hussein. {APPLAUSE} Seventeen months ago, he controlled the lives and fortunes of 25 million people. Tonight, he sits in jail. {APPLAUSE}
+
+President Bush does not deal in empty threats and halfway measures, and his determination has sent a clear message. Just five days after Saddam was captured, the government of Libya agreed to abandon its nuclear weapons program and turn the materials over to the United States. {APPLAUSE} Tonight, the uranium, the centrifuges, and the plans and designs for nuclear weapons that were once hidden in Libya are locked up and stored away in Oak Ridge, Tennessee, never again to threaten America. {APPLAUSE}
+
+The biggest threat we face today is having nuclear weapons fall into the hands of terrorists. The President is working with many countries in a global effort to end the trade and transfer of these deadly technologies. The most important result thus far -- and it is a very important one -- is that the black market network that supplied nuclear weapons technology to Libya, as well as to Iran and North Korea, has been shut down. {APPLAUSE} The world's worst source of nuclear weapons proliferation is out of business -- and we are safer as a result. {APPLAUSE}
+
+In the global war we are fighting, we owe a mighty debt to the men and women of the United States Armed Forces. {APPLAUSE} They have fought the enemy with courage and reached out to civilians with compassion, rebuilding schools and hospitals and roads. They have won stunning victories. They have faced hard duty and long deployments. And they have lost comrades, more than 1,100 brave Americans, whose memories this nation will honor forever. {APPLAUSE} The men and women who wear the uniform of the United States represent the very best of America. They have the thanks of our nation. And they have confidence, the loyalty, and the respect of their Commander-in-Chief. {APPLAUSE}
+
+In this election, we will decide who leads our country for the next four years. Yet, there is more in the balance than that. Moments come along in history when leaders must make fundamental decisions about how to confront a long-term challenge abroad, or how best to keep the American people secure at home. We faced such a moment after World War II, when we put in place the policies that defended America throughout the Cold War. Those policies -- containing communism, deterring attack by the Soviet Union, and promoting the rise of democracy -- were carried out by Democratic and Republican Presidents in the decades that followed.
+
+This nation has reached another of those defining moments. Under President Bush we have put in place new policies and created new institutions to defend America, to stop terrorist violence at its source, and to help move the Middle East away from old hatreds and resentments and toward the lasting peace that only freedom can bring. This is the work not of months, but of years -- and keeping these commitments is essential to our future security. For that reason, ladies and gentlemen, the election of 2004 is one of the most important, not just in our lives, but in our history. {APPLAUSE}
+
+And so it is time to set the alternatives squarely before the American people.
+
+The President's opponent is an experienced senator. He speaks often of his service in Vietnam, and we honor him for it. {APPLAUSE} But there is also a record of more than three decades since. And on the question of America's role in the world, the differences between Senator Kerry and President Bush are the sharpest, and the stakes for the country are the highest. {APPLAUSE} History has shown that a strong and purposeful America is vital to preserving freedom and keeping us safe -- yet time and again, Senator Kerry has made the wrong call on national security. Senator Kerry began his political career by saying he would like to see our troops deployed "only at the directive of the United Nations."
+
+{BOOING} 
+
+During the 1980s, Senator Kerry opposed Ronald Reagan's major defense initiatives that brought victory in the Cold War.
+
+{BOOING} 
+
+And in 1991, when Saddam Hussein occupied Kuwait and stood poised to dominate the Persian Gulf, Senator Kerry voted against Operation Desert Storm.
+
+{BOOING} 
+
+Even in this post-9/11 period, Senator Kerry doesn't appear to understand how the world has changed. He talks about leading a "more sensitive war on terror" -- {LAUGHTER} -- as though al Qaeda will be impressed with our softer side. {LAUGHTER ; APPLAUSE} 
+
+He declared at the Democratic Convention that he will forcefully defend America -- after we have been attacked. My fellow Americans, we have already been attacked. {APPLAUSE}
+
+{AUDIENCE} USA! USA! USA! {/AUDIENCE} 
+
+We're faced with an enemy who seeks the deadliest of weapons to use against us, and we cannot wait until the next attack. We must do everything we can to prevent it -- and that includes the use of military force. {APPLAUSE}
+
+Senator Kerry denounces American action when other countries don't approve -- as if the whole object of our foreign policy were to please a few persistent critics. {APPLAUSE} But, in fact, the global war on terror, as in Afghanistan and Iraq, President Bush has brought many allies to our side. {APPLAUSE} But as the President has made very clear, there is a difference between leading a coalition of many nations, and submitting to the objections of a few. {APPLAUSE} George W. Bush will never seek a permission slip to defend the American people. {APPLAUSE}
+
+{AUDIENCE} USA! USA! USA! {/AUDIENCE} 
+
+Senator Kerry also takes a different view when it comes to supporting our military. Although he voted to authorize force against Saddam Hussein, he then decided he was opposed to the war, and voted against funding for our men and women in the field.
+
+{BOOING} {AUDIENCE} Flip-flop! Flip-flop! Flip-flop! {/AUDIENCE} {APPLAUSE}
+
+He voted against body armor, ammunition, fuel, spare parts, armored vehicles, extra pay for hardship duty, and support for military families.
+
+{BOOING} 
+
+Senator Kerry is campaigning for the position of Commander-in-Chief.
+
+{BOOING} 
+
+Yet he does not seem to understand the first obligation of a Commander-in-Chief -- and that is to support American troops in combat. {APPLAUSE}
+
+In his years in Washington, John Kerry has been one of a hundred votes in the United States Senate -- and fortunately on matters of national security, his views rarely prevailed. {APPLAUSE} But the presidency is an entirely different proposition. A senator can be wrong for 20 years, without consequence to the nation. {APPLAUSE} But a President -- a President -- always casts the deciding vote. {APPLAUSE} And in this time of challenge, America needs -- and America has -- a President we can count on to get it right. {APPLAUSE}
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+On Iraq, Senator Kerry has disagreed with many of his fellow Democrats. But Senator Kerry's liveliest disagreement is with himself. {LAUGHTER}
+
+{AUDIENCE} Flip-flop! Flip-flop! Flip-flop! {/AUDIENCE} 
+
+His back-and-forth reflects a habit of indecision, and sends a message of confusion. And it is all part of a pattern. He has, in the last several years, been for the No Child Left Behind Act -- and against it. He has spoken in favor of the North American Free Trade Agreement -- and against it. He is for the Patriot Act -- and against it. Senator Kerry says he sees two Americas. He makes the whole thing mutual -- America -- {APPLAUSE} -- America sees two John Kerrys. {LAUGHTER ; APPLAUSE} 
+
+The other candidate in this race is a man our nation has come to know, and one I've come to admire very much. I watch him at work every day. I have seen him face some of the hardest decisions that can come to the Oval Office -- and make those decisions with the wisdom and the humility Americans expect in their President. {APPLAUSE} George W. Bush is a man who speaks plainly and who means what he says. He is a person of loyalty and kindness -- and he brings out these qualities in those around him. He is a man of great personal strength -- and more than that, a man with a heart for the weak, and the vulnerable, and the afflicted. {APPLAUSE} We all remember that terrible morning when, in the space of just 102 minutes, more Americans were killed than we lost at Pearl Harbor. We remember the President who came to New York City and pledged that the terrorists would soon hear from all of us. {APPLAUSE} George W. Bush saw this country through grief and tragedy. He has acted with patience, and calm, and a moral seriousness that calls evil by its name. {APPLAUSE} In the great divide of our time, he has put this nation where America always belongs: against the tyrants of this world, and on the side of every soul on Earth who yearns to live in freedom. {APPLAUSE}
+
+Fellow citizens, our nation is reaching the hour of decision, and the choice is clear. President Bush and I will wade this effort -- wage this effort with complete confidence in the judgment of the American people. The signs are good -- even in Massachusetts. {APPLAUSE} According to a news account last month, people leaving the Democratic National Convention asked a Boston policeman for directions. He replied, "Leave here --? and go vote Republican." {LAUGHTER ; APPLAUSE} 
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} 
+
+President Bush and I are honored to have the support of that police officer, and of Democrats, Republicans, and independents from every calling in American life. {APPLAUSE} We are so fortunate, each and every one of us, to be citizens of this great nation and to take part in the defining event of our democracy: Choosing who will lead us.
+
+The historian Bernard DeVoto once wrote that when America was created, the stars must have danced in the sky. {APPLAUSE} Our President understands the miracle of this great country. He knows the hope that drives it and shares the optimism that has long been so important a part of our national character. He gets up each and every day determined to keep our great nation safe so that generations to come will know the freedom and opportunities we have known -- and more. {APPLAUSE}
+
+When this convention concludes tomorrow night, we will go forth with confidence in our cause, and in the man who leads it. By leaving no doubt where we stand, and asking all Americans to join us, we will see our cause to victory.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

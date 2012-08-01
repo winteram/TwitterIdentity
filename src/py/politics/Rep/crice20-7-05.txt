@@ -1,0 +1,56 @@
+﻿{title} Remarks at the AGOA Forum {/title}
+{event} As Prepared for Delivery, Dakar, Senegal {/event}
+{speaker} Condoleezza Rice {/speaker}
+{date} July 20, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. I want, first of all, to thank Foreign Minister Gadio for that extraordinary introduction -- {LAUGHTER} -- very, very kind introduction. Before I begin I want to acknowledge something that the Foreign Minister has said. I was here just about two years ago in Senegal with President Bush and we went to Gorée Island to the site of the transatlantic slavery. And as we stood at the gate that I think one could call a gate of no return, we all thought about the extraordinary bonds of kinship, of blood, of tragedy between the United States and Africa.
+
+In my own personal case, of course, many of my ancestors may have come through that gate. And it is only in the course of the last several years that the United States has fully begun to come to terms with that great tragedy. It has become -- we managed to come to terms through institutions of democracy and inclusion. But I personally want to acknowledge my gratefulness to the sons and daughters of Africa, without whom there quite literally would have been no United States of America.
+
+{APPLAUSE}
+
+And as President Bush said when he was at Gorée Island, it was one of the great ironies that Africans, who came in chains to America to build America alongside Europeans, would ultimately help America to find itself as slavery was abolished and as less than 50-years ago, segregation was finally abolished in my home state of Alabama and throughout the South. We have a long heritage and history together, but we also have a very promising future.
+
+{APPLAUSE}
+
+I want to thank the people of Senegal, President Wade and his {COMMENT="Inaudible"} for hosting this event. I want to thank Prime Minister Sall for his efforts. Whether measured by the distance on a map or by the strength of a partnership between America and Africa are closest together here in the city of Dakar.
+
+I would like to welcome my fellow ministers and many members of both African civil society and the private sector, who have crossed this great continent to be here this morning. And I am pleased to join all of you for the annual Forum of the African Growth and Opportunity Act.
+
+We gather today not two weeks after President Bush and other G-8 leaders met in Gleneagles, Scotland to launch an historic partnership with the nations of Africa. Our partnership rests on the conviction that only the people of Africa can solve the problems of Africa. But for these men and women to fulfill their dreams of democracy and security and prosperity, all developed nations have a responsibility to help.
+
+As President Bush has said, "We believe Africa is a continent full of promise, and talent, and opportunity. And the United States of America will do our part to help the people of Africa realize the brighter future they deserve."
+
+With President Bush's leadership, America has tripled our development assistance to Africa. And we will double it again by 2010. I would like to recognize Andrew Natsios the Director of the U.S. Agency for International Development who is helping Africa to expand and transform our partnership here in the developing world.
+
+President Bush has launched the largest effort ever by one nation to combat a single disease -- the $15 billion Emergency Plan for AIDS Relief. And joining us here today is Randall Tobias the President's Coordinator for Global AIDS who is helping America give hope to thousands of men, women and children living with this disease.
+
+Just last month, President Bush strengthened America's partnership with Africa even further. He pledged $1.2 billion to fight malaria, with the ultimate goal of covering 175 million people in 15 nations. He also proposed new initiatives to train half-a-million African teachers, to offer scholarships to 300,000 African students, mostly girls, and to help several African states better protect the rights of their women citizens.
+
+Not only is America giving new money, we are revolutionizing how much of that money is given, together with Africans who believe in good governance, democracy, and an open society.
+
+Under the leadership of Paul Applegarth, who is here today, our Millennium Challenge Account Initiative is providing new development grants to nations that govern justly, promote economic freedom, and invest in their people. So far, eight African countries have qualified to apply for grants, including Senegal, and one, Madagascar, has already signed a development compact worth $110 million.
+
+Development assistance can be catalytic. But it alone, will never enable people to lift themselves out of poverty. Open markets that allow individuals to realize the benefits of their own hard work are essential. This is the purpose of the African Growth and Opportunity Act, or AGOA, which brings us here to Dakar today.
+
+AGOA represents the strong bipartisan consensus behind America's support for Africa's development. And it enshrines the principles of good governance as a condition of membership. Governments that advance democratic reform, protect economic liberty, and strengthen the rule of law are the best partners to entrepreneurial citizens. So far, 37 sub-Saharan African countries are meeting these critical standards.
+
+AGOA benefits everyone. African businesses create more, better-paying jobs. And American consumers receive more goods at lower prices, products like sorbet from South Africa, and woodcarvings from Tanzania, and tuna from right here in Senegal. Last year alone, non-oil imports increased 22%, and the United States imported over $26 billion in total from the AGOA group of African nations.
+
+To expand the success of AGOA, African economies must become more competitive and better able to seize the opportunities of trade. With these goals in mind, the United States is launching two new initiatives to build the capacity of African countries to trade in freedom.
+
+The first, which President Bush announced today, is the African Global Competitiveness Initiative. This will provide $200 million over the next five years to help the people of Africa participate more fully in trade. As part of this initiative, we are opening a fourth "trade hub" here in Dakar, where teams of experts will help African countries trade more effectively with one another and with the United States.
+
+The second initiative, which I am proud to announce today, is the AGOA Diversification Fund. Through this initiative, several U.S. agencies will support the efforts of African governments to diversify their economies and capitalize further on the promise of AGOA. One project, run by the U.S. Trade and Development Agency, will provide grants totaling nearly $1 million to help West African nations increase the safety of their air travel and plan a new railway to better integrate the region.
+
+Ladies and Gentlemen: Africa is a continent of overwhelming promise. All human beings possess the dignity and the capacity to flourish in freedom. And AGOA is helping the talented men and women of Africa to realize their natural potential for prosperity.
+
+The United States will always offer our full support to the people of Africa as they build thriving democracies and achieve lasting development. You have set these goals for yourselves, and by yourselves. You are taking ownership of your destiny. And America is proud to be your partner.
+
+{APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,62 @@
+﻿{title} Excerpts from the State of the Union regarding Iraq {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 28, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} Excerpt from President's Remarks {/description}
+
+{speech} 
+
+Our nation and the world must learn the lessons of the Korean Peninsula and not allow an even greater threat to rise up in Iraq. A brutal dictator, with a history of reckless aggression, with ties to terrorism, with great potential wealth, will not be permitted to dominate a vital region and threaten the United States. {APPLAUSE}
+
+Twelve years ago, Saddam Hussein faced the prospect of being the last casualty in a war he had started and lost. To spare himself, he agreed to disarm of all weapons of mass destruction. For the next 12 years, he systematically violated that agreement. He pursued chemical, biological, and nuclear weapons, even while inspectors were in his country. Nothing to date has restrained him from his pursuit of these weapons -- not economic sanctions, not isolation from the civilized world, not even cruise missile strikes on his military facilities.
+
+Almost three months ago, the United Nations Security Council gave Saddam Hussein his final chance to disarm. He has shown instead utter contempt for the United Nations, and for the opinion of the world. The 108 U.N. inspectors were sent to conduct -- were not sent to conduct a scavenger hunt for hidden materials across a country the size of California. The job of the inspectors is to verify that Iraq's regime is disarming. It is up to Iraq to show exactly where it is hiding its banned weapons, lay those weapons out for the world to see, and destroy them as directed. Nothing like this has happened.
+
+The United Nations concluded in 1999 that Saddam Hussein had biological weapons sufficient to produce over 25,000 liters of anthrax -- enough doses to kill several million people. He hasn't accounted for that material. He's given no evidence that he has destroyed it.
+
+The United Nations concluded that Saddam Hussein had materials sufficient to produce more than 38,000 liters of botulinum toxin -- enough to subject millions of people to death by respiratory failure. He hadn't accounted for that material. He's given no evidence that he has destroyed it.
+
+Our intelligence officials estimate that Saddam Hussein had the materials to produce as much as 500 tons of sarin, mustard and VX nerve agent. In such quantities, these chemical agents could also kill untold thousands. He's not accounted for these materials. He has given no evidence that he has destroyed them.
+
+U.S. intelligence indicates that Saddam Hussein had upwards of 30,000 munitions capable of delivering chemical agents. Inspectors recently turned up 16 of them -- despite Iraq's recent declaration denying their existence. Saddam Hussein has not accounted for the remaining 29,984 of these prohibited munitions. He's given no evidence that he has destroyed them.
+
+From three Iraqi defectors we know that Iraq, in the late 1990s, had several mobile biological weapons labs. These are designed to produce germ warfare agents, and can be moved from place to a place to evade inspectors. Saddam Hussein has not disclosed these facilities. He's given no evidence that he has destroyed them.
+
+The International Atomic Energy Agency confirmed in the 1990s that Saddam Hussein had an advanced nuclear weapons development program, had a design for a nuclear weapon and was working on five different methods of enriching uranium for a bomb. The British government has learned that Saddam Hussein recently sought significant quantities of uranium from Africa. Our intelligence sources tell us that he has attempted to purchase high-strength aluminum tubes suitable for nuclear weapons production. Saddam Hussein has not credibly explained these activities. He clearly has much to hide.
+
+The dictator of Iraq is not disarming. To the contrary; he is deceiving. From intelligence sources we know, for instance, that thousands of Iraqi security personnel are at work hiding documents and materials from the U.N. inspectors, sanitizing inspection sites and monitoring the inspectors themselves. Iraqi officials accompany the inspectors in order to intimidate witnesses.
+
+Iraq is blocking U-2 surveillance flights requested by the United Nations. Iraqi intelligence officers are posing as the scientists inspectors are supposed to interview. Real scientists have been coached by Iraqi officials on what to say. Intelligence sources indicate that Saddam Hussein has ordered that scientists who cooperate with U.N. inspectors in disarming Iraq will be killed, along with their families.
+
+Year after year, Saddam Hussein has gone to elaborate lengths, spent enormous sums, taken great risks to build and keep weapons of mass destruction. But why? The only possible explanation, the only possible use he could have for those weapons, is to dominate, intimidate, or attack.
+
+With nuclear arms or a full arsenal of chemical and biological weapons, Saddam Hussein could resume his ambitions of conquest in the Middle East and create deadly havoc in that region. And this Congress and the America people must recognize another threat. Evidence from intelligence sources, secret communications, and statements by people now in custody reveal that Saddam Hussein aids and protects terrorists, including members of al Qaeda. Secretly, and without fingerprints, he could provide one of his hidden weapons to terrorists, or help them develop their own.
+
+Before September the 11th, many in the world believed that Saddam Hussein could be contained. But chemical agents, lethal viruses and shadowy terrorist networks are not easily contained. Imagine those 19 hijackers with other weapons and other plans -- this time armed by Saddam Hussein. It would take one vial, one canister, one crate slipped into this country to bring a day of horror like none we have ever known. We will do everything in our power to make sure that that day never comes. {APPLAUSE}
+
+Some have said we must not act until the threat is imminent. Since when have terrorists and tyrants announced their intentions, politely putting us on notice before they strike? If this threat is permitted to fully and suddenly emerge, all actions, all words, and all recriminations would come too late. Trusting in the sanity and restraint of Saddam Hussein is not a strategy, and it is not an option. {APPLAUSE}
+
+The dictator who is assembling the world's most dangerous weapons has already used them on whole villages -- leaving thousands of his own citizens dead, blind, or disfigured. Iraqi refugees tell us how forced confessions are obtained -- by torturing children while their parents are made to watch. International human rights groups have catalogued other methods used in the torture chambers of Iraq: electric shock, burning with hot irons, dripping acid on the skin, mutilation with electric drills, cutting out tongues, and rape. If this is not evil, then evil has no meaning. {APPLAUSE}
+
+And tonight I have a message for the brave and oppressed people of Iraq: Your enemy is not surrounding your country -- your enemy is ruling your country. {APPLAUSE} And the day he and his regime are removed from power will be the day of your liberation. {APPLAUSE}
+
+The world has waited 12 years for Iraq to disarm. America will not accept a serious and mounting threat to our country, and our friends and our allies. The United States will ask the U.N. Security Council to convene on February the 5th to consider the facts of Iraq's ongoing defiance of the world. Secretary of State Powell will present information and intelligence about Iraqi's legal -- Iraq's illegal weapons programs, its attempt to hide those weapons from inspectors, and its links to terrorist groups.
+
+We will consult. But let there be no misunderstanding: If Saddam Hussein does not fully disarm, for the safety of our people and for the peace of the world, we will lead a coalition to disarm him. {APPLAUSE}
+
+Tonight I have a message for the men and women who will keep the peace, members of the American Armed Forces: Many of you are assembling in or near the Middle East, and some crucial hours may lay ahead. In those hours, the success of our cause will depend on you. Your training has prepared you. Your honor will guide you. You believe in America, and America believes in you. {APPLAUSE}
+
+Sending Americans into battle is the most profound decision a President can make. The technologies of war have changed; the risks and suffering of war have not. For the brave Americans who bear the risk, no victory is free from sorrow. This nation fights reluctantly, because we know the cost and we dread the days of mourning that always come.
+
+We seek peace. We strive for peace. And sometimes peace must be defended. A future lived at the mercy of terrible threats is no peace at all. If war is forced upon us, we will fight in a just cause and by just means -- sparing, in every way we can, the innocent. And if war is forced upon us, we will fight with the full force and might of the United States military -- and we will prevail. {APPLAUSE}
+
+And as we and our coalition partners are doing in Afghanistan, we will bring to the Iraqi people food and medicines and supplies -- and freedom. {APPLAUSE}
+
+Many challenges, abroad and at home, have arrived in a single season. In two years, America has gone from a sense of invulnerability to an awareness of peril; from bitter division in small matters to calm unity in great causes. And we go forward with confidence, because this call of history has come to the right country.
+
+Americans are a resolute people who have risen to every test of our time. Adversity has revealed the character of our country, to the world and to ourselves. America is a strong nation, and honorable in the use of our strength. We exercise power without conquest, and we sacrifice for the liberty of strangers.
+
+Americans are a free people, who know that freedom is the right of every person and the future of every nation. The liberty we prize is not America's gift to the world, it is God's gift to humanity. 
+
+{/speech}

@@ -1,0 +1,136 @@
+﻿{title} Speech at Republican National Committee Presidential Gala {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 17, 2006 {/date}
+{source} http://www.gwu.edu {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. Thanks for the warm welcome. Thanks for being here at the RNC Gala. I can't thank you enough for helping our party succeed. It's such an honor to be here. I am, first, really proud of the Republican Party. We're a party, over the past five years, that has made a significant difference for the American people. We have defended freedom at home and abroad, and by doing so, we've done our duty to make this nation safer. And we've trusted the people, and as a result, America is a stronger and more prosperous nation. {APPLAUSE} 
+
+I want to thank my friend, Ken Mehlman, for leading our party. {APPLAUSE} When I talked to him about leading the Republican Party, I said, I want to be a party that welcomes everybody, from all walks of life -- {APPLAUSE} -- a party based upon principles; a party that trusts the people; a party that stands strong in a time of historic challenge. And Ken is doing a find job of reaching out. Our party is strong, and it's getting stronger. {APPLAUSE} 
+
+Laura sends her love. {APPLAUSE} She's a fabulous First Lady. {APPLAUSE} She's got to be the most patient woman in America. {LAUGHTER}
+
+{AUDIENCE-MEMBER} She's hot. {/AUDIENCE-MEMBER} 
+
+Yes -- well, wait a minute. {LAUGHTER} Muy caliente. {LAUGHTER ; APPLAUSE} I hope she's not watching, you know? {LAUGHTER}
+
+I appreciate the members of my Cabinet who are here. Thank you all for coming. Thanks for serving. I also want to thank my friend, Bill Frist, Majority Leader of the United States Senate, who is here with us. {APPLAUSE} The Speaker is rounding up votes right now, but like Senator Frist, the Speaker is doing a fabulous job for the American people. {APPLAUSE} And we intend to keep Denny Hastert Speaker of the House and Bill Frist Majority Leader of the Senate. {APPLAUSE} I want to thank all the other members of the House and the Senate who are here. Thank you all for coming. 
+
+I appreciate Jo Ann Davidson, who is the Co-Chairman of the RNC. I appreciate her leadership and her friendship. {APPLAUSE} I want to thank Dwight and Martha Schar. He's the Finance Chairman for the RNC. You've done a great job tonight. {APPLAUSE} Appreciate you making Schar look good. I want to thank the Gala chairs -- Sam Fox, Jack Oliver, Bob and Suzy Pence, and Bill Paxon. I want to thank all the people who have worked to make this such a successful event. I particularly want to thank Diamond Rio for their fantastic singing. 
+
+We're just kind of warming up for these off-year elections. {LAUGHTER} Tonight is part of the process to make sure that when our candidates take it to the voters, they're able to do so in a way where people can hear them loud and clear. You know, elections are all about choices. And our party is a party that has built a vision based upon solid principle, a vision which is inclusive, a vision which does not shy away from certain truths and values. We're the party of the future, and our candidates will be running against the party of the past -- {APPLAUSE} -- a party that offers no new ideas like the Republican Party, a party that can only offer opposition. The Republican Party is the party of the future because we believe it is our job to take on the challenges of our time and not to pass them on to future Congresses or future generations. {APPLAUSE} 
+
+Ours is an optimistic party. We know we don't need to fear the future because we intend to shape the future for the American people. {APPLAUSE} We believe in the power of freedom, and we trust in the American people. We're going to make our choice -- make these choices very clear to the voters come November. And I'm confident the American people will realize the difference between positive and negative, optimistic versus pessimistic, and re-elect Republican majorities to the United States Congress. {APPLAUSE} 
+
+And I'm just getting warmed up. {LAUGHTER} These are historic times in which we live, and we're in a war. We're in a war against an enemy that is ruthless, an enemy which adheres to an ideology of hatred, a backward ideology, an ideology that can't stand freedom. Ours is a nation that loves freedom and will never back down. 
+
+People have a choice to make between folks who want to stay on the offense and protect the American people and people who lose their nerve. 
+
+We learned some lessons from September the 11th, lessons that I'll never forget. First lesson is, is that in order to protect the American people, which is our most important job, the United States of America must stay on the offense. {APPLAUSE} And that's exactly what your nation is doing. We will find the terrorists and bring them to justice before they can hurt the American people again. 
+
+We had a second lesson learned on September the 11th, and that is, if we find somebody harboring a terrorist, they're just as guilty as the terrorists. And when I said that, I meant what I said. When your President speaks, he must speak clearly and mean what he says, and when I said that if you harbor a terrorist, you're as guilty as the terrorists, the Taliban didn't take me seriously. But we acted. We upheld doctrine to protect the American people, and because of our actions, 25 million people are no longer in the clutches of one of the most barbaric regimes in the history of mankind. {APPLAUSE} 
+
+A serious lesson of September the 11th is that we must take threats seriously before they come to hurt us. And I saw a threat. And members of both political parties saw a threat in Iraq. Iraq was run by a dictator who was killing his own people, who had used weapons of mass destruction, invaded his neighbors, was shooting at our aircraft, harbored terrorists. The world is better off without Saddam Hussein in power. {APPLAUSE} 
+
+We have a plan for victory in Iraq. There's a political track taking place. I know it seems like a decade ago, but it wasn't all that long ago that 12 million people defied car bombers and assassins and terrorists and said loud and clear, we want to be free. Democracy is on the march in Iraq, and the United States of America will help these brave people achieve their objective. {APPLAUSE} 
+
+A new government is being formed in that country, made up of a Kurd and a Shia and a Sunni, people who are brave and dedicated, people who understand that the people of their country desires to be free. It shouldn't surprise us that they want to be free, because we firmly understand that the desire to be free is in every human heart. There is an Almighty, and one of the greatest gifts of the Almighty is freedom, and the United States of America will never forget that lesson. {APPLAUSE} 
+
+It's tough work. It's tough work to help a young country go from tyranny to democracy. But it's worth it. Free countries are peaceful countries. Free countries will lay the foundation of peace for our children and grandchildren. 
+
+The enemy cannot defeat us in Iraq, and they can't defeat us anywhere else in the world. The only way we can be defeated is if we lose our nerve, and the Republican Party will not lose its nerve. {APPLAUSE} 
+
+We understand the power of freedom to transform our world. I want to remind you that this nation lost thousands and thousands of young men and women during World War II and World War I, and yet today, the continent of Europe is whole, free and at peace. Why? Because democracies do not war. 
+
+One of the interesting lessons of history comes home to me every time I meet with my friend the Prime Minister of Japan. Prime Minister Koizumi is a good friend. Sixty years ago the United States was embroiled in a terrible war with Japan. My predecessor Harry Truman had the wisdom, however, to recognize the power of freedom to transform societies. Today I sit down at the table with the Prime Minister of a former enemy and talk about how to keep the peace in North Korea. They've committed troops in Iraq because he understands democracy can make the world a better place. 
+
+Something happened between the time World War II ended and George W. was able to sit down with Prime Minister Koizumi, and what happened was, Japan assumed a Japanese-style democracy. One of these days, an American President will be sitting down with a duly elected leader from Iraq talking about keeping the peace, and a generation of Americans will be better off for it. {APPLAUSE} 
+
+Our party has worked hard to protect the American people. It's our most important duty. And we passed the Patriot Act. You might remember the debates of the Patriot Act. Senator Harry Reid, Democrat of the Senate, boasted, "he killed the Patriot Act." Because the Republican Party stood strong, our law enforcement have the tools necessary to protect the American people. 
+
+There's a lot of debate in Washington, D.C., about connecting the dots. My job is to protect you. My job is to defend the civil liberties of the American people. My job is to act within the confines of the Constitution and the law. And that's precisely what I'm doing when it comes to making sure we understand the intent of the enemy. Let me tell you this: If al Qaeda is making phone calls in the United States, we need to know why. We're not going to sit around and wait for another attack. {APPLAUSE} 
+
+These are historic times, and I'm proud to be working with Republican members of the Senate and the House who are making sure we do our duty, and that's to defend the American people. And we're doing our duty here at home, as well. We've got clear choices when it comes to our economy. People are going to be able to choose between a party that's going to keep your taxes low to keep the economy growing, and a party that's going to run your taxes up. It's a stark choice, and I'm going to keep talking about it, because we've got a record to run on. This economy of ours is strong, and it's getting stronger. And the amazing thing is, we've overcome incredible obstacles. 
+
+Think about the history of this economy. We've been through a recession and corporate scandals and an attack on the United States of America and high energy prices. And we've been through natural disasters. And yet this economy is roaring along. And we intend to keep it that way. 
+
+You know, right after the attacks came, right after I got elected and then the attacks, I worked with the United States Congress to pass a pro-growth economic policy. It was based on a principle that is profound and works, and that is when the American people have more of their own money to save, invest and spend, the economy grows. The pro-growth tax cuts we passed are working. The United States economy grew last year at 3.5 percent. That's faster than any major industrialized nation in the world. Since 2003, we've created 5.2 million new jobs. The national unemployment rate is 4.7 percent. {APPLAUSE} Real, after-tax income is 8 percent for Americans since 2001. That means, on average, Americans have an income that is more than $2,300 this year than it was at the beginning of 2001, adjusting for inflation. Consumer confidence has been at its highest point in nearly four years. Productivity is high. Manufacturing activity is up. People are owning homes. More minority own a home than ever before in our nation's history. This economy is strong, and we're going to keep it strong for the American people. {APPLAUSE} 
+
+I want to remind you, when we cut taxes on American families, we cut taxes on everybody who pays taxes. We cut taxes on the small businesses of America, we cut taxes on dividends, we cut taxes on capital gains. We've put the death tax on the road to extinction. {APPLAUSE} 
+
+And that stands in stark contrast to the Democrat Party. Here in Washington, D.C., most congressional Democrats voted against cutting income tax rates. Most voted against a bill that provided tax relief for married couples. Most voted against a bill that doubled the child credit. Most Democrats voted against a bill to put the death tax on the road to extinction. In 2003, most congressional Democrats voted against cutting taxes on dividends and capital gains. They continue to block our efforts to make the tax cuts permanent. If we want to keep this economy roaring and strong, we have got to make the tax cuts permanent. {APPLAUSE} 
+
+The elections this year offer the American people a clear choice: If you want to send more of your paycheck to Washington, D.C., vote Democrat. {LAUGHTER} If you want to keep more of your paycheck for your family, vote Republican. {APPLAUSE} 
+
+We're also going to cut the deficit in half by 2009. {APPLAUSE} You know, there's a myth in Washington, D.C. that says we can cut the deficit by raising your taxes. When you're out there, helping people get elected, you might remind people, that's not the way Washington works. Sure, they'll raise your taxes, but they're going to figure out new ways to spend your money. The best way to cut that deficit is to keep pro-growth economic policies in place by keeping your taxes low, and be wise about how we spend your money. 
+
+Let me make sure you've got the record about what's taken place in Washington, D.C. over the last couple of years. We've cut the rate of growth on non-security discretionary spending. That's discretionary spending other than for the military and the homeland security. 
+
+Last year we had a cut in that discretionary spending. I proposed another budget to do so. The Democrats don't like that idea. They're trying to figure out new ways to spend your money. But the best way to cut that deficit in half is for the United States Congress to join with this administration, set priorities and be wise about how we spend your money. 
+
+I sent a supplemental up to the United States Congress recently to make sure our troops what they have they need to be able to do their jobs, and to make sure we provide important emergency relief for Katrina. The number was $92.2 billion. And if the United States Congress sends me a bill that includes non-emergency measures that exceed the number I've put out there, I will veto it. {APPLAUSE} 
+
+Monday night I gave a speech of real importance for this country. The Republican Party needs to lead on this issue of immigration. The immigration system is not working, and we need to do something about it now. America can be a lawful society and a welcoming society, and we don't have to choose between the two. 
+
+And so I talked about a five-point plan to make this country's immigration system work. And the first part of the plan is for the United States of America to secure its borders. {APPLAUSE} I understand something about borders -- you might recall I was the Governor of the great state of Texas. {APPLAUSE} We've got a long border with Mexico. I'm very aware of the issue. I know how important it is to secure the borders. 
+
+I also know how important it is to treat people with dignity. {APPLAUSE} We've increased funding for border security by 66 percent since I've been the President. We've expanded our Border Patrol from about 9,000 to 12,000 agents. Our Border Patrol folks are doing good work, under difficult circumstances. Over the past five years, we have caught and returned 6 million people trying to come into our country. 
+
+But our border is not yet secure, and there's more work to be done. And that's what I explained to the American people the other night. And so we're going to increase the Border Patrol agents by another 6,000 by the year 2008. And at the same time, we're going to make sure that we put the most modern technology on our border to make sure our Border Patrol agents can do the job. 
+
+And until those 6,000 agents are up and running, I think it's very important for us to help our Border Patrol by providing 6,000 Guard troops. It's really important that we help the men and women in our Border Patrol do their job, so the American people know that we're using manpower, technology and equipment to do our duty to protect the border of the United States of America. {APPLAUSE} 
+
+We're ending a policy called "catch and release." Eighty-five percent of the folks coming across are from Mexico, and they're sent back within 24 hours. But a lot of people are coming from other countries. The problem with that is, we haven't had enough bed space. So they come in, and a Border Patrol agent finds them, and they say, why don't you check back for your court date. {LAUGHTER} A lot of them aren't checking back for the court date. {LAUGHTER} So I'm going to work with Congress to expand the number of detention beds, speed up the deportation process, make sure countries know that we're very serious about them taking the people that we catch trying to come into our country illegally. We're going to end catch and release. {APPLAUSE} 
+
+Secondly, to secure this border, you have got to understand there are people coming to work -- they want to put food on the table for their families, and they'll do -- they'll go to unbelievable means to come here. They walk across our deserts in the 100 degree heat; they get stuffed in the back of an 18 wheeler to come. They want to come and work. In order to secure this border, we must have an orderly way for people to come on a temporary basis who are doing jobs Americans aren't doing. 
+
+We must have a rational plan, that says, if you're going to come and work, you're allowed to do so, on a temporary basis -- you've got to pass a criminal background check, but you ought to be able to come in an orderly way, so you're not having to sneak across. In order to enforce this border, we want people coming to work, jobs Americans aren't doing, on a temporary basis, in a legal way. {APPLAUSE} 
+
+Secondly -- thirdly, in order to make this plan work, we got to make sure our employers are held to account. It's illegal for somebody to employ somebody here illegally. {APPLAUSE} But the problem we face is that there's a lot of document fraud. See, people are showing up with IDs that an employer can't verify. So in order to make sure we secure our border and do our duty and treat people with dignity, we need to develop a tamper-proof ID card that uses biometrics, and that way, an employer will know whether or not they're hiring somebody who's illegally here, and when the word gets out, you've got to have a tamper-proof card, and you don't have one, it's likely you're not going to come to the United States at all. 
+
+Fourthly, you got to understand in this country there's a lot of people who have been here for a long time -- decent, hard-working, honorable people. I oppose amnesty, and the United States Congress ought to oppose amnesty. Amnesty would be harmful for those who have waited in line to become a citizen legally, and amnesty would encourage others to come in the hopes that they, too, would become automatically a citizen. In this debate, we must make sure we distinguish between those who have been here for a while and those who are newly arrived. For those who are newly arrived, they've got to get a temporary worker card, finish out their time and go back home. 
+
+But for those who have been here for a while, it is unrealistic to deport them. What is realistic is to say, pay a fine, learn the English language, prove that you've been working here for a while, and get in line, but the back of the line, not the front of the line. {APPLAUSE} 
+
+And fifthly, to make sure we have an immigration system that upholds our values and speaks to the decency of America, we must help people assimilate into our country, and the best way to assimilate is to help folks learn to speak the English language. {APPLAUSE} 
+
+When you learn to speak the English language, and you're a hard worker, you're likely to go from somebody who's picking crops to owning a grocery, somebody who's cleaning offices to working in an office. You know, one of the great things about America is we have been a welcoming society. People come to this country because they want to realize the great American Dream. They want to be able to say, I'm putting food on the table for my family, I want to own my own home. Every immigrant who comes and works hard lifts the spirit of this country. We're a land of immigrants, and we're better for it. We always got to have confidence in our ability to be one nation under God. {APPLAUSE} 
+
+Ours is a party that recognizes we're too dependent on oil, and we intend to do something about it. 
+
+{AUDIENCE-MEMBER} All right! {/AUDIENCE-MEMBER} {LAUGHTER}
+
+I signed a good energy bill, supported by the Republicans. The bill encourages conservation, encourages exploration for oil and gas in environmentally-friendly ways so we become less dependent on foreign sources of oil. And it's a bill that encourages alternative sources of energy. I firmly believe it makes sense for us to encourage use of ethanol. We want our farmers growing energy and not trying to buy energy from parts of the world that don't like us. {APPLAUSE} 
+
+We're on our way for breakthroughs for automobiles that will be able to drive the first 40 miles on electricity without using a drop of gasoline. The party of Lincoln has been active about spending your money on research and development to find new ways to power automobiles, to find better ways to burn coal, to be able to use solar energy. My point to you is, we understand as a Republican Party that it's in our economic interests, in our national interests, national security interests, to get off our addiction to foreign oil. {APPLAUSE} 
+
+Ours is a party that's doing something about the cost of health care. The other ones are good about talking about it; we're actually doing something about it. You know, we have a duty, in my judgment, to help the poor and the elderly. That's a commitment our country has made and it's a commitment the Republican Party is keeping. I want to remind you that for years the Democrats have promised our seniors a stronger Medicare system. But we delivered. You see, it didn't make any sense to have a Medicare system where decisions were made out of Washington, D.C., and that would pay $25,000 for an ulcer surgery but not one single dime for the prescription drugs that would have prevented the surgery from being needed in the first place. 
+
+And so we reformed Medicare. We said to our seniors, we trust you; we trust you to make decisions that meets your needs. Do you realize in the state of Florida there's over 40 different plans from which a senior can choose a prescription drug benefit? See, Republicans believe in choice. We believe that when you're able to make a choice in the marketplace, it helps affect cost and quality at the same time. 
+
+You know, the Medicare drug benefit really does help our low-income seniors. I don't know about you, but I didn't like those stories about some of our seniors having to choose between food and medicine. We stepped up and delivered a Medicare bill, and no longer do poor seniors in America have to make that choice. {APPLAUSE} 
+
+Ours is a party that understands the best health care system is when the doctor-patient relationship is central to decision-making. That's why we're strong believers in health savings accounts. That's why we believe in transparency in pricing. That's why I believe in information technology. 
+
+We also understand that small businesses have trouble buying insurance so they can afford it for their employees. And so we believe small businesses ought to be able to pool risk across jurisdictional boundaries so they can buy insurance at the same discount big businesses do. {APPLAUSE} 
+
+We also fully understand that junk lawsuits are driving good doctors out of practice and driving up the cost of medicine. {APPLAUSE} Ours is a party that supports medical liability reform, and when you're out there talking to your friends, I want you to remind them that last week, Senate Democrats defeated the opportunity for small businesses to pool risk, and once again defeated our ability to provide medical liability reform so that health care is available and affordable to the American citizens. {APPLAUSE} 
+
+Finally, ours is a party that will continue to work to build a culture of life where every human -- every human is respected. You know, I passed -- we passed and I signed a ban on partial-birth abortion. It is the right thing to do for the American people, to recognize the value and worth of every human being in our society. {APPLAUSE} Ours is a party who understands government can pass out money but it cannot put love in a person's heart. And so we make sure that faith-based and religious charities are treated on an equal basis when it comes to providing compassion for those who need help. 
+
+Ours is a political party that understands we need to have people on the bench who understand the difference between legislating and being a good judge. {APPLAUSE} I was proud to nominate Chief Justice John Roberts and Justice Sam Alito, and I want to thank the United States Senate for passing -- for confirming these two good men. {APPLAUSE} 
+
+I've also successfully appointed 44 Courts of Appeal judges, which is about 25 percent of all the federal Appeal Court judges in our nation. I'm going to continue working with members of the Senate to make sure my judges get a timely hearing, and I'm going to continue nominating good, conservative judges who will interpret the law and not legislate from the bench. {APPLAUSE} 
+
+Ours is a party that believes in the sanctity of marriage, and ours is a party that believes in strong families. {APPLAUSE} We got something to run on. We got something other than rhetoric to run on. We're going to run on principles and a strong record. And I'm confident, with your help, we'll continue to maintain our majorities in the United States Senate and the United States House, and America will be better off for it. {APPLAUSE} 
+
+I'm looking forward to the contest. {LAUGHTER} I'm looking forward to getting out there among the people again, talking about what I believe in. I believe that because of members of the House and the Senate working with the administration that this country is more secure. I believe we're laying the foundation of peace; I truly believe that. I believe history is going to look back at this time and say, thank goodness we had people in the United States Congress and the House of Representatives, good strong Republicans -- {APPLAUSE} -- people that stay true to our values, that when the times got tough, we didn't try to take the easy course, that we understood that there's universal truths and we didn't back off of them, and that we understood to keep this economy strong and America hopeful, that government must always trust the American people. 
+
+It is a joy to be your President. I'm proud to be here with you. May God bless you all, and may God bless our country. {APPLAUSE} 
+
+
+{/speech} 

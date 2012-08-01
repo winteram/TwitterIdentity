@@ -1,0 +1,16 @@
+﻿{title} Remarks by the President at Proclamation Signing for Cancer Control Month {/title}
+{event} Proclamation Signing for Cancer Control Month {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 29, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Cancer Proc Signing {/description}
+
+{speech} 
+
+Ladies and gentlemen, as you know, we're going to have a ceremony over in the East Room in just a few moments, so I don't want to make my remarks twice. Let me just say that there is hardly a family in America who has not been touched by cancer. We have come a very, very long way in the fight against cancer. More people are survivors than ever before; more people are living longer than ever before. But we have a great deal more to do before we can be confident that we have actually done everything possible to give our children and our grandchildren the kind of future they deserve.
+
+And that's what this day is about. And that's what this proclamation declaring April Cancer Control Month is all about. And I'm glad to sign it, especially with these children behind me because they are the embodiment of our common endeavors.
+
+{COMMENT="The proclamation is signed"} {APPLAUSE} 
+
+{/speech}

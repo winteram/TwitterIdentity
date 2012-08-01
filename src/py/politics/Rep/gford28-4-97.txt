@@ -1,0 +1,24 @@
+﻿{title} Remarks by President Ford, President Bush And President Clinton at Luncheon {/title}
+{event} Luncheon with Bush Ford {/event}
+{speaker} Gerald Ford {/speaker}
+{date} April 28, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President Luncheon with Bush Ford {/description}
+
+{speech} 
+
+Thank you, Colin. {APPLAUSE} Thank you. Won't you all sit down, please? Thank you very, very much. Thank you very, very much, Colin. Most regrettably, I could not be here last night. I understand a proper tribute was paid to George Romney, who was one of the initiators of the summit, along with Ray Chambers. I would be very remiss if I didn't make a comment about the role that George Romney had in initiating this summit.
+
+I can recall very, very vividly his coming to my office in California not once, but several times. He was not only an outstanding governor of our state, George Romney was a totally dedicated person to the concept and the action of voluntary participation.
+
+So, George, we all thank you for your contribution.
+
+This morning in front of Independence Hall, where we had a magnificent gathering for a most outstanding cause, I couldn't help but think back 21 years ago on July 4, 1976, when this country celebrated its 200th birthday. I had the very high honor at that time to, first, that morning go to Valley Forge, and then to Independence Hall where we celebrated the Declaration of Independence, followed by the Tall Ship ceremony in New York Harbor. That was a magnificent day in the history of our country -- the dedication to freedom and liberty. It was a kickoff of a history of a country unparalleled in what's good about humanity.
+
+But the meeting this morning gives us all an opportunity again at Independence Hall to show what we can do for the youth of America in the next decade. The goal of 2,000 by 2000, helping some 15 million young people, is a tremendous challenge. I hope and trust the coverage of our gathering this morning will inspire young people, adults and others to walk through that door Colin Powell has opened so they can participate in this tremendous effort to take our youth, so they can become the kind of leaders that we want for the next century.
+
+So it's a high honor and a rare privilege for me to join President Clinton, President Bush, President Carter and others in kicking off this tremendous effort. Thank you very, very much. {APPLAUSE}
+
+And now, it's a very special honor for me to introduce a long time very, very dear friend of my wife Betty and myself, the 41st President of the United States, George Bush. {APPLAUSE} 
+
+{/speech}

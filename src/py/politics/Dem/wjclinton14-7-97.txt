@@ -1,0 +1,40 @@
+﻿{title} Remarks by the President at Genetic Screening Event {/title}
+{event} Genetic Screening Event {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 14, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Genetic Screening Event {/description}
+
+{speech} 
+
+Thank you very much. You know, very often when I come into this room for an event like this to stand up for a cause I believe in, by the time it's my turn to speak there is nothing else to say. {LAUGHTER} But that has never been more true than it is at this moment. Mary Jo, you were terrific, and we thank you. Thank you very much. {APPLAUSE}
+
+Secretary Shalala, Congresswoman Slaughter, Dr. Collins, the head of our genome project, Susan Blumenthal, the head of the Women's Health Office at HHS, ladies and gentlemen, thank you for being here.
+
+I want to say a special word of thanks, too, to Congresswoman Louise Slaughter. Both our families have known losses -- and hers very recently -- and we appreciate her being here. I love to hear Louise Slaughter talk, with her beautiful southern accent. The first time I heard she was a congresswoman from New York, I thought it was a misstatement. {LAUGHTER} And from my point of view, she's the only member of Congress from New York who speaks without an accent, and I like that. {LAUGHTER}
+
+The remarkable strides that we have seen in genetic research and testing are so important to every American family. Chances are, every family represented in this room in our lifetime will have a child, a grandchild, a cousin, a niece, a nephew somehow benefited from the work of the Human Genome Project, which seemed nothing more than an intellectual dream just a few years ago. And one of the things that we have to do is to make sure that every American family has a chance to benefit from it.
+
+Secretary Shalala's report which she has issued -- it's a remarkable report, I commend it to all of you -- makes it clear that the scope of this era of discovery is truly astonishing. We are literally unlocking the mysteries of the human body, finding new and unprecedented ways of discovering not only the propensity for it to break down in certain ways or lead to certain forms of disease or human behavior, but also ways to prevent the worst consequences of our genetic structure.
+
+And as with every kind of decision like this, there is always the possibility that what we learn can not only be used but can be misused. And in all of this era of scientific discovery, there is probably no greater promise for use or for misuse than in the area of genetic testing. Used in the right way, obviously it has the chances to save millions of lives and revolutionize health care. And I am proud of our aggressive support for the Human Genome Project.
+
+But it's also clear that it is wrong for insurance companies to use genetic information to deny coverage. It's happened before. It happened in the 1970s with some African Americans who carried sickle cell anemia. And it can happen in many other ways. An enormous number -- percentage of American woman get breast cancer at some time during their lives. An enormous percentage of American men get prostate cancer at some time during their lives. There are other kinds of medical problems that occur with increasing frequency and that we'll see more and more as we grow older as a population.
+
+And now, we see the consequences already of this kind of discrimination. It's wrong when someone avoids taking a test that could save a life just because they're so afraid that the genetic information will be used against them. And too many women today fear that that will happen when they decide to test or to not be tested to see if they carry the gene for breast cancer.
+
+Now, this kind of discrimination is -- really it's more than wrong, it's a life-threatening abuse of a potentially life-saving discovery. And I can't help commenting that in the United States it is a direct consequence of the fact that we are the only advanced country in the world that has chosen to finance the health care of our citizens through a private insurance system that is completely optional and does not cover every one. {APPLAUSE}
+
+So that to be fair, the insurance companies themselves face some dilemmas that can only be fixed by the law, by a restatement of the public interest, so that none are treated differently from others if they make the decision to do what is morally right. And I think that's important to point out. I tried to fix it once and took a lot of criticism, but I'm not -- {LAUGHTER} -- I'm not ashamed that I did. If I could fix it tomorrow, I would fix it tomorrow, because this is not right. {APPLAUSE}
+
+But we have done what we could to try to, step by step, change this structure. A year ago, we took the first step when Congress passed and I signed the Kennedy-Kassebaum bill, which prohibits group health plans from using genetic information to deny coverage, and today my administration is sending legislation to Congress that will ban all health plans, group and individual, from denying coverage or from raising premiums on the basis of genetic tests. It will prohibit all health plans from disclosing genetic information that could be misused by other insurers. But it will protect researchers' ability to make the best use of this vitally important tool.
+
+It builds on the solid foundation of Congresswoman Slaughter and Senator Olympia Snowe's bill, and I'm pleased to say that Senator Frist from Tennessee and Senator Jeffords from Vermont have announced that they will share our commitment and they will work with us to pass bipartisan legislation to ban discrimination based on genetic tests.
+
+This is an example of the step-by-step approach we are now taking that I will not be satisfied with until we have made sure that every American family has the health care they need to thrive. We've already ensured that a job change or an illness in the family doesn't mean automatically losing your health insurance. We've made it easier for self-employed people to buy health insurance for their families. The balanced budget agreement I have reached with the leaders of Congress that was voted for in its outline by overwhelming majorities in both parties and both houses will extend care to millions and millions of uninsured children. It will ensure, as Secretary Shalala said, that more older women can have mammograms. It will protect Medicare and Medicaid.
+
+But what we're here today to say is something very simple and yet profound. We cannot afford to let our progress either in science or in extending health care to the American people to be undermined by the misuse of what is a miracle of genetic testing. Americans should never have to choose between saving their health insurance and taking tests that could save their lives. With these efforts, we will ensure at least that no American ever has to make that choice again.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

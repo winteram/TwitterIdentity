@@ -1,0 +1,18 @@
+﻿{title} Remarks by the President and Vice President to Audience in Harbor Room {/title}
+{event} Marine Midland Arena, Buffalo, New York {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 20, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech}
+
+Thank you. {APPLAUSE} Wow! Good morning. Good afternoon. {LAUGHTER} I want to say, first of all, how very grateful that Hillary and Al and Tipper and I are that you all came out to see us today to make us feel so welcome. {APPLAUSE} I want to thank your Mayor, your County Executive, Mrs. Eve, and especially Congressman John Lafalce for being here with us. He is a great man. {APPLAUSE}
+
+You know, we don't want to put you through the speeches and everything because you have the monitors here and you're going to see them. But let me say that Buffalo has been wonderful to me and to Hillary, to Al and Tipper. {APPLAUSE} We are so grateful. We remember when we came here together in 1992. And I'm always glad to come back -- even in the snow. {APPLAUSE} Yes, that's right -- this guy says, this ain't nothing. {LAUGHTER} And we had some buffalo wings in the holding room. {APPLAUSE}
+
+And we just want you to know how much we appreciate you, how much we appreciate the support that you've given us in two elections, how grateful we are for the chance to serve and how committed we are to the agenda that I outlined last night. {APPLAUSE} We want you to be committed to it, too.
+
+We want to get out here and shake a few hands -- {APPLAUSE} -- and we don't want to keep those other 20,000 people waiting. You'll see the movie, and thank you very much. We're glad to be here. God bless you. {APPLAUSE}
+
+{/speech}

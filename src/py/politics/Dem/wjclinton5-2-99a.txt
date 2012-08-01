@@ -1,0 +1,33 @@
+﻿{title} Remarks by the President at Hank Aaron Gala {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 5, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much, Tom. I want to thank Ted and Jane and you, Tom; and Gerry Levin and all the people from CNN and Time Warner for your role in this magnificent evening. All the sponsors, all the previous speakers. 
+
+You know, the truth is, I wanted to come down yesterday just to get ready for this. {LAUGHTER} I saw the list of baseball players who were going to be here. You know, my job is not always the most fun in the world. {LAUGHTER} I was interested in this. 
+
+Governor Barnes told a story about Hank Aaron appearing with him. I want to tell you a story that's even more compelling. In 1992, on the weekend before the presidential election, I was struggling to prevail in Georgia and Governor Miller said, you have to come one more time -- and if you come, I think Hank Aaron will appear with you. 
+
+I forgot about how many electoral votes we had -- I forgot, you know, I just -- so I came. And we went out to this high school football stadium, which held 25,000 people -- it was completely full. Way over half of them came to see him. {LAUGHTER} Three days later, after Hank Aaron blessed me in front of 25,000 people, we carried Georgia by 13,000 votes. {LAUGHTER ; APPLAUSE} I have never forgotten it and I never will. 
+
+Ladies and gentlemen, the essayist, Jacques Barzun, once wrote, "Whoever wants to know the heart and mind of America had better learn baseball." Well, probably more than any other sport, baseball revels in statistics. I wish we could have a contest tonight -- we'd all know that Ty Cobb has the highest lifetime batting average and Cy Young the most wins; Mark McGwire, closely followed by Sammy Sosa, the most home runs in a single season. Most all of us here know that Henry Aaron has more baseball records than any other single player -- most RBIs, most extra base hits, the only player to hit at least 30 home runs in 15 seasons, at least 20 homers in 20 seasons. First, as you heard on the film, to reach 300 hits -- 3,000 hits and 500 home runs. 
+
+He also had an exquisite sense of timing -- when he broke what appeared to be the most unbreakable record of all, he had the presence of mind to do it on opening night so all of us could plan to watch. Because Henry Aaron's story is so much the story of baseball and because it is the story of a changing America being manifest in baseball, knowing it is necessary to know the mind and heart of modern America. 
+
+All of us honor him tonight not only for the power of his swing, but for the power of his spirit; not only for breaking records, but for breaking barriers; not only for chasing his dream, but even more for giving children, like those we saw tonight, the chance to chase theirs. From Mobile to Milwaukee to Atlanta, through a segregated south in the old Saly League where he was the only member of the team that didn't stay in the same motel, the only one who couldn't get served at the dinner counter, he moved through a changing America. And he changed the mind and heart of America. 
+
+When he came here he had an interesting experience. Many of you have referenced tonight that when Hank Aaron approached Babe Ruth's record there was a dark, deep undercurrent which led him to get lots of hate letters and death threats so serious the FBI had to watch his home and the pall of violence began to hang over the games. But he said that very little of this mail came from Atlanta. And so, as President of this whole country, I'd like to also take my hat off to Atlanta tonight. {APPLAUSE} 
+
+When Andy Young was up here talking and then I saw the reference on the film by Mayor Allen, I remember as a boy growing up, burdened with the awful stain that the crisis in the high school in my state's capital caused us, that every one of us who felt as I did envied Atlanta because it had a mayor and business leaders who said they were determined to be known as the city too busy to hate. {APPLAUSE} And they gave us -- all of us, Martin Luther King and John Lewis, leaders like Andy Young and Mayor Jackson and so many more, too many to mention -- it was fitting that a son of the south who braved the storms of segregation had come home to break the most important baseball record of all and go indelibly into the mind and heart of America. 
+
+I came here tonight as a baseball fan, to remember a golden moment. I came as a friend, to thank a person who was there for me when I needed him in the worst way. I came here as President, to honor a great American -- for courage and decency and dignity; for caring about all the kids coming along behind him, for giving them a chance to chase those dreams. America is a land of dreamers. Hank Aaron has made it even more so. 
+
+So Hank and Billye, we thank you for the path you blazed, for the voices you raised, for the helping hands you gave. We thank you. God bless you. {APPLAUSE} 
+
+{/speech} 

@@ -1,0 +1,76 @@
+﻿{title} President Signs HIV/AIDS Act {/title}
+{event} Remarks by the President on the Signing of H.R. 1298, the U.S. Leadership Against Hiv/Aids, Tuberculosis and Malaria Act of 2003, Dean Acheson Auditorium, U.S. Department of State  {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 27, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all very much. I'm so pleased that so many could be here to witness this historic moment, as our nation sets forth a great mission of rescue. The United States of America has a long tradition of sacrifice in the cause of freedom. And we've got a long tradition of being generous in the service of humanity. We are the nation of the Marshall Plan, the Berlin Airlift, and the Peace Corps. And now we're the nation of the Emergency Plan for AIDS relief. {APPLAUSE}
+
+HIV/AIDS is one of the greatest medical challenges of our time. The disease has killed more than 20 million people. Today, 42 million more are living with HIV. Across Africa, this disease is filling graveyards and creating orphans and leaving millions in a desperate fight for their own lives.
+
+They will not fight alone. Because they will have the help and the friendship of the United States of America. {APPLAUSE} The legislation I sign today launches an emergency effort that will provide $15 billion over the next five years to fight AIDS abroad. This is the largest, single up front commitment in history for an international public health initiative involving a specific disease.
+
+America makes this commitment for a clear reason, directly rooted in our founding. We believe in the value and dignity of every human life. {APPLAUSE}
+
+In the face of preventable death and suffering, we have a moral duty to act, and we are acting. I want to thank Tommy Thompson and Colin Powell for their leadership on this crucial issue. There are no better people than to trust in seeing that the great heart and compassion of America is recognized in our world through accomplishment.
+
+I appreciate -- Tony Fauci is here. Tony has been on the front line of the war against HIV/AIDS for a long time, and I appreciate you representing the National Institute of Allergies and Infectious Diseases. {APPLAUSE} I appreciate Rich Carmona, is the U.S. Surgeon General, for joining us. Thank you for being here, Rich. {APPLAUSE}
+
+I want to thank a member of my staff, the Director of the Office of National AIDS Policy, Dr. Joseph O'Neill, for his leadership. {APPLAUSE}
+
+It is my honor to recognize Dr. Kenneth Kaunda, the former President of Zambia is with us today, as well. {APPLAUSE}
+
+I'm grateful that the ambassadors and the senior officials from African and Caribbean nations are with us. I appreciate their leadership. Send a message back home that we are earnest and determined to help you wipe out AIDS in your country. {APPLAUSE}
+
+I want to thank all the faith-based and community activists and leaders who are here who share our passion and desire to help those who suffer. Your efforts took place long before we arrived here in Washington -- or, at least, I arrived here in Washington -- and all we want to do is stand by your side as we march down the road of a hopeful tomorrow for people who suffer.
+
+I want to thank the members of the House and the Senate who are here. Bill Frist has been a leader on this issue and he, along with Senator Richard Lugar and Senator Joe Biden, the Senate Foreign Relations Committee, delivered. Mr. Leader, thank you. {APPLAUSE}
+
+I appreciate my friend, Congressman Tom Lantos, for being here. He represents the House Foreign Relations Committee. Chairman Hyde is not here but, nevertheless, the two worked really well together. {APPLAUSE}
+
+I am pleased to see Senator Santorum and DeWine are here. Thank you all for coming, and thank you for your leadership on this issue. I also want to thank the members of the House, Congressmen Pitts, Smith, King, and Congresswoman Barbara Lee for joining us, as well. Thank you all for your interest and thanks for coming. {APPLAUSE}
+
+When I stood in front of the Congress four months ago, I was confident that the U.S. Congress would respond. I was confident that they would hear the call for a bold initiative, and they responded. And they have my gratitude and they have the gratitude of millions around the world for their leadership on this issue, and I want to thank you all very much. {APPLAUSE}
+
+This Act of Congress addresses one of the most urgent needs of the modern world. Because of the AIDS pandemic, a child born today in sub-Sahara Africa has a life expectancy of 47 years. This disease falls most heavily on women and children. Nearly 60 percent of those infected by HIV in sub-Sahara Africa are women. Three million African children under 15 have the AIDS virus, 3 million. And the disease has left 11 million orphans, more children than live in the entire state of California.
+
+Behind these numbers are names. There is Mbongeni, a 15 year old boy who lost both his mother and father to AIDS, and now struggles to feed his two siblings and two nephews.
+
+There is Leonora, the mother of five in Kenya, who cares for five other children she has taken into her home -- all of them AIDS orphans, all of whom would be on the streets without her love. There is Ruth, a young mother dying of AIDS at 24, ostracized by her late husband's family, asking, "Who will take care of my children?"
+
+This is the daily reality of a continent in crisis, and America will not look away. This great nation is stepping forward to help. The fight against AIDS is difficult, but not hopeless. We know how to prevent AIDS, and we know how to treat it. The cost of effective medicines has fallen dramatically. And we made progress here in our own country where we have increased spending for domestic HIV prevention and care and treatment by 7 percent in next year's budget. We will also help the people across Africa who are struggling against this disease, and those who have proven on a day-by-day basis the battle can be won.
+
+We see hope in the work of individuals like the former President of Zambia who lost his son to AIDS, a son who left several children to the care of their grandfather. The good President turned his grief to good works and created the Kenneth Kaunda Children of Africa Foundation. His foundation pays for food and medical care and schooling for AIDS orphans. Mr. President, we honor you for your service and for the example you have shown to others who live on your ravished continent. Thank you for coming today, sir. {APPLAUSE}
+
+We see hope in the many religious and educational institutions that are doing effective work on the front line of the AIDS crisis. Catholic Medical Mission Board, for example, runs 15 clinics in southern Africa and Haiti, where more than 20,000 pregnant women each year receive HIV testing and counseling and drug therapy to prevent the transmission of the virus to their children.
+
+I want to thank Jack Galbraith for the fine work of Catholic Medical Mission. And I want to thank all of you all who have heard that call to love a neighbor just like you'd like to be loved yourself. Thank you for your service to those who suffer. May God continue to bless your work. {APPLAUSE}
+
+We see hope in the actions of African governments that are acting responsibly and aggressively to fight AIDS. The nation of Uganda is pursuing a successful strategy of prevention, emphasizing abstinence and marital fidelity, as well as the responsible use of condoms to prevent HIV transmission. The results in Uganda have been remarkable. The AIDS infection rate has fallen sharply since 1990, and in some places the percentage of pregnant women with HIV has been cut in half. The Uganda plan is proving that major progress is possible.
+
+And now we must spread that progress to suffering nations throughout the world. By the legislation I will sign today, the United States of America will take the side of individuals and groups and governments fighting HIV/AIDS in Africa and other parts of the world. We'll provide unprecedented resources to the effort. And we will keep our commitment until we have turned the tide against AIDS. {APPLAUSE}
+
+Under this legislation, America will provide additional money for the Global Fund for AIDS Relief, and additional funding for our efforts in many countries to prevent mother-to-child transmission of the disease. And we will focus our efforts on 12 African and two Caribbean countries where HIV/AIDS is heavily concentrated.
+
+We will purchase low-cost anti-retroviral medications and other drugs that are needed to save lives. We will set up a broad and efficient network to deliver drugs to the farthest reaches of Africa. Even by motorcycle, or bicycle. We will train doctors and nurses and other health care professionals so they can treat HIV/AIDS patients. We will renovate and, where necessary, build and equip clinics and laboratories. We will support the care of AIDS orphans by training and hiring child care workers. We'll provide home-based care to ease the suffering of people living with AIDS.
+
+We'll provide HIV testing throughout all regions of the targeted countries. We'll support abstinence-based prevention education for young people in schools and churches and community centers. We will assist faith-based and community organizations to provide treatment prevention and support services in communities affected by HIV/AIDS. We are developing a system to monitor and evaluate this entire program, so we can truly say to people, we care more about results than words. We're interested in lives saved. And lives will be saved. {APPLAUSE}
+
+This comprehensive program has the potential in this decade to prevent 7 million new HIV infections, provide life-extending drugs to at least 2 million infected people, give humane care to 10 million HIV sufferers and AIDS orphans. This is a massive undertaking, and the dedicated men and women of the United States government are eager to get started.
+
+To coordinate this effort, I will soon nominate a global AIDS coordinator who will have the rank of ambassador. This coordinator will work closely with the Departments of State and Health and Human Services, as well as with USAID and the Centers for Disease Control, to direct the efforts in the worldwide fight against AIDS.
+
+I'm going to Europe here at the end of this week, and I will challenge our partners and our friends to follow our lead and to make a similar commitment made by the United States of America so we can save even more lives. {APPLAUSE}
+
+I will remind them that time is not on our side. Every day of delay means 8,000 more AIDS deaths in Africa and 14,000 more infections -- every day, 14,000 more people will be infected. I'll urge our European partners and Japan and Canada to join this great mission of rescue, to match their good intentions with real resources.
+
+The suffering in Africa is great. The suffering in the Caribbean is great. The United States of America has the power and we have the moral duty to help. And I'm proud that our blessed and generous nation is fulfilling that duty. {APPLAUSE}
+
+Now, it is my honor and high privilege to sign this life-saving piece of legislation. God bless you all. {APPLAUSE}
+
+{COMMENT="The bill is signed"} {APPLAUSE} 
+
+{/speech}

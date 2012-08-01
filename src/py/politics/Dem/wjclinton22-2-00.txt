@@ -1,0 +1,45 @@
+﻿{title} Remarks By The President At Minner Reception {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 22, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much, Lieutenant Governor Minner; Senator Biden; ladies and gentlemen. I was sitting here looking at all of your faces and I reached over and whispered to Joe Biden, I said, you know, I really like Delaware. {LAUGHTER} It has certain unique parallels to my home state. It's two of the places in America where there are more chickens than people. {LAUGHTER ; APPLAUSE} And depending on what day it is, that's not all bad. {LAUGHTER} 
+
+I am profoundly grateful to Delaware for many reasons. You have been so good to me and to Al Gore. Twice you have given me your electoral vote; you supported the Vice President, for which I am very grateful. I couldn't even begin to tell you, in the time I have allotted tonight, all the reasons for my gratitude, respect and affection for Senator Biden. 
+
+{OTHER-SPEAK} Go ahead and tell them. {/OTHER-SPEAK} {LAUGHTER} 
+
+Beginning with his uncommon humility. {LAUGHTER} His retiring personality. {LAUGHTER} His always muted voice. {LAUGHTER} Actually, if you're looking for somebody in American politics who understands what life is like for ordinary people, who's always there to defend the Constitution of the United States and understands the rest of the world -- in other words, the three big things you've got to do if you're a Senator -- there is nobody in the Senate who can do all three as well as Joe Biden. You are very well served. {APPLAUSE} 
+
+And the third thing I'd like to say is, I'm also grateful to your governor for a lifetime, nearly, it seems like, a political lifetime of friendship and all the work we've done together on welfare reform, on strengthening families, on child support enforcement. I'm elated that he's running for the Senate. And I look forward to his success and to his service. 
+
+The fourth reason I'm here is, this is my year to support women for elected office. I'm into that. I think we ought to do more of that. {LAUGHTER ; APPLAUSE} Hillary tried to call me right before I got here -- she's up in New York and coming home tonight. And I would imagine she was trying to call me before I got here to say that she thinks you guys ought to stick together -- {LAUGHTER} -- and so do I. 
+
+But let me tell you, finally, I'm here because I really admire Ruth Ann Minner. I really admire Ruth Ann Minner. Some of you know this, but I was born to a widowed mother who had to leave to go back to school. I can only imagine what it was like; she had to go back to get a GED, start her own business, depend on herself, raise three sons -- I met two of them tonight. They both look like -- they look like they ought to be playing for the Redskins -- {LAUGHTER} -- they'd improve our defense a little bit. And I've watched her in public life. 
+
+And you know, people make fun of little states. When I ran in '92, President Bush kept referring to me as the governor of a small Southern state. I had to hear him say it five times before I realized it was a putdown; I thought he was bragging on me. {LAUGHTER} I was proud of it; I didn't have any better sense than to think that was a good thing. {LAUGHTER} 
+
+You can't really play games with people in a place like Delaware. And you can't posture, and people don't hire you for hot air -- they hire you to produce. And people know most of the problems we have are human problems and they don't expect us to let our political differences paralyze us. And I just wish there were more people like Ruth Ann who have been through the kind of life experiences she's been through, who still had enough energy and optimism left to devote themselves to public life. 
+
+We need more people who are making decisions in state capitols, who know what it's like to try to feed kids without a high school diploma. We know. {APPLAUSE} We need more people who can remember what it was like when they wanted their children to be able to get a decent education; who understand what it's like to be on the other side of life's arc of opportunity -- both because they understand the government ought to give people a helping hand and because they understand that if the hand is outstretched and you don't work for it, you still won't reach it. We need that. Our country needs it. 
+
+And I was flattered that she said that what we needed in this election was to ratify the direction in which we're going. I have only a slightly different take on that, and I'd just like to close with a few moments speaking to you more as a citizen than as your President. Before I was President, I had the privilege of being governor for a dozen years, and I loved it and I was not burned out on it. And every time I got tired, a week or two later I'd get a second wind and go on. I think I could be doing it still, because if you are a truly committed governor, or a truly committed mayor, or you have some other responsibilities at the grassroots level, you can actually see people's lives changing before your very eyes. 
+
+And we have -- the way I view this last seven years is that we basically turned the ship of state around. When I took office, we had high unemployment, and the social problems were getting worse, and there was political gridlock in Washington, and we had had decades of national elections decided by the politics of division -- us and them. And it never made much sense to me, and I tried to turn it around. And I think we have turned it around. 
+
+The question for the country now is, what are you going to do with this good fortune? I'd like for more people in positions of influence to have the memories Ruth Ann Minner has of what's it like not to have good fortune. They are more likely to make good decisions in times of prosperity. They are more likely to remember that not all people and communities have participated in this economic recovery; more likely to remember that we still need to keep paying the debt down, get this country out of debt so we'll keep interest rates down for other people; more likely to remember that not every child has a world-class education; more likely to remember that there are still young families out there struggling to balance work and family, trying to succeed at home and at work. And that is very important. 
+
+I told somebody the other day, if somebody stood up and ran on a platform: vote for me, I'll do just what Bill Clinton did -- I'd vote against them, because times are changing. We're living in a time of very rapid change. But I do believe we ought to change in the direction in which we have been going. The question is, ought we turn the country around now? Not me -- we. All of us, together. 
+
+Now we have a chance to meet the big challenges out there. The longest economic recovery in our history: what are we going to do with it? Now is the time to think about the big challenges. What are the big challenges our kids face? How are we going to deal with the retirement of the baby boom generation? How are we going to grow the economy and continue to improve the environment? Big, big challenges. 
+
+And you are so lucky to be backing someone who not only has a distinguished career in public service, a proven ability to make progress, but a life story which guarantees that even in these good times, she won't forget what our shared mission is. That is a great privilege; you ought to make sure the people of Delaware take full advantage of it. 
+
+Thank you very much. {APPLAUSE} 
+
+{/speech} 

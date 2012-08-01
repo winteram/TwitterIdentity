@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President in Honor of Dallas Stars, 1999 Stanley Cup Champions {/title}
+{event} Stanley Cup Champs Event {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 16, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Stanley Cup Champs Event {/description}
+
+{speech} 
+
+Thank you very much. Please be seated. I want to welcome Thomas Hicks and his family, Gary Bettman and his daughter to the White House. Robert Gainey, the manager; and to all the Stars, including the captain, Derian Hatcher -- I might say the first American-born captain of a Stanley Cup team. {APPLAUSE}
+
+And I welcome Representative Eddie Bernice Johnson here, who is very proud of this team. We're glad to have you back in the White House. There are a lot of people from Texas here today, including many members of our administration and former members of our administration. I want to welcome you here. I often -- I miss it when you don't come by. And now I know how to get you back. {LAUGHTER} So thank you.
+
+As all of you know, we're here to congratulate the 1999 Stanley Cup winners, the Dallas Stars. Ice hockey is a fascinating game, but for those of us who grew up in the South, we know it's normally dominated by people north of the Mason-Dixon line. There was not a skating rink in my hometown until I was over 40 years old.
+
+But the Dallas Stars changed the perception of hockey. They were the first Sun Belt team to win hockey's Holy Grail in the 107-year history of the contest. So now Dallas will be known not just for the Cowboys and Super Bowls, but for the Stars and the Stanley Cup.
+
+It occurred to me when I was getting ready for this that hockey is a lot like Washington politics. It's a rough game -- {LAUGHTER} -- with a lot of lead changes. And usually you never know who's going to win until the final moment.
+
+And that is, of course, literally what happened last June in game 6, when the Stars clinched their first Cup. Three overtimes, 111 minutes -- all of us, even people like me who don't skate very well, on the edge of our seats. We watched Ed Belfour block shot after shot; MVP Joe Nieuwendyk leading the charge on offense. And I still remember when Brett Hull shoveled the last puck past Dominik Hasek, a man I once met in Buffalo, to capture the win. I would be afraid to try to put anything past the guy. This was a very impressive game, to those who are initiated and those who are becoming initiated into the thrills of professional hockey.
+
+Opening and closing the year with a win over the Sabres, that final game was a perfect ending to a nearly perfect season. The Dallas Stars not only took home the Cup, but also the President's award with the best record in the league for the second year in a row.
+
+And I want to also acknowledge someone who is not here today, the coach. Every good coach I know, and I've been privileged to know quite a few great ones, always say that the players make great coaches. But great coaches also help the players bring out the best and play as a team.
+
+The Stanley Cup is the oldest athletic trophy in North America. So it's about more than winning; it embodies our fascination with athletics, with determination, with teamwork. All the Dallas Stars earned this cup. And after seeing Wednesday night's victory over the Devils, I see you're not going to give it up without a fight. I like people who don't give it up -- {LAUGHTER} -- without a fight.
+
+Congratulations to all of you. And now I'd like to ask the Commissioner of the National Hockey League, Gary Bettman, to say a few words. {APPLAUSE}
+
+***
+
+{COMMENT="Gifts are presented to the President"} 
+
+You may have noticed today that I had this tie on. We had the annual Speaker's St. Patrick's Day lunch today a day early up on Capitol Hill, so maybe I should just wear this tomorrow. {LAUGHTER} This is great. Thank you very much. Thank you. {APPLAUSE} 
+
+{/speech}

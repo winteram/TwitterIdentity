@@ -1,0 +1,38 @@
+﻿{title} Remarks by the President and his Holiness Pope John Paul II {/title}
+{event} Newark International Airport, Newark, New Jersey {/event}
+{speaker} Bill Clinton {/speaker}
+{date} October 4, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Archbishop McCarrick, Archbishop Cacciavillan, Cardinal Keeler, Father Therauv, the members of the Cabinet, the members of the Congress, Governor Whitman, Mayor James, honored guests: Your Holiness, it is a great pleasure and an honor to welcome you back to the United States. {APPLAUSE}
+
+You seemed to bring us the rain, but we need the rain and we thank you for that. Your return has been greatly anticipated by the American people, and as you have gathered from the welcome of the children and the not-so-young, all Americans are very, very happy to see you.
+
+This is our third opportunity to visit. I look forward to our discussion, and I am grateful that your voice -- for peace and hope and for the values that support every family and the family of humanity.
+
+On this, your fourth visit to our nation, you will see an America striving to build on our ideals of peace and charity, justice and tolerance. When you visit the United Nations and you speak to the General Assembly you will be retracing the steps of Pope Paul VI in his visit to the United States which began 30 years ago this day. He became the first Pontiff to visit our beloved country when he spoke to the United Nations in the name of peace.
+
+The Catholic faithful here in America have always taken an active role in making our country better. The Catholic Church helps the poor, the children, the elderly, the afflicted, and our families. You will see their handiwork here in the city of Newark and throughout your visit. The Church has given life to the idea that in the human community we all have obligations to one another. This idea is rooted in Church institutions, including thousands of charitable activities -- the Catholic Charities, the Campaign for Human Development, the network of Catholic hospitals and other agencies that help all Americans, and of course, it is rooted in the 9,000 Catholic elementary and high schools, and more than 200 Catholic colleges here in the United States. And they, too, thankfully, serve all Americans.
+
+As distinct as Catholicism is, it shares something with many other faiths in our nation -- the unshakable values that are at the core of our society that hold us together as a country. We Americans are a people of faith, expressed in many ways. With the most diverse population on Earth, our nation counts more religions than any other -- more than 1,500 -- and more places of worship than any other. Indeed, even as we gather here now, many of our fellow citizens are in their synagogues fasting and observing the holiest day of the Jewish calendar, Yom Kippur, the Day of Atonement.
+
+Our great American poet, Walt Whitman, who I know is a favorite of yours, once wrote about America: "The real and permanent grandeur of these states must be their religion. Otherwise, there is no real and permanent grandeur." That is the America that awaits you and your visit, Your Holiness. Our faith matters to us as individuals and as families. Our faith supports our families, strengthens them and keeps them together.
+
+Your Holiness, you have written and spoken so eloquently of family rights, and women and men everywhere welcomed your recent open letter on the dignity and rights of women. The First Lady and I thank you, especially, for the words of support from the Holy See regarding her speech on the rights of families, women and their children, at the recent Conference on Women in Beijing, China. {APPLAUSE} Your words supported the statement she made on behalf of all Americans, that if women are healthy and educated, free from violence, if they have a chance to work and earn as full and equal partners, their families will flourish. And when families flourish, communities and nations will flourish.
+
+We know that if we value our families, as we must, public policy must also support them. It must see to it that children live free of poverty with the opportunity of a good and decent education. If we value our families, we must let them know the dignity of work with decent wages. If we value our families, we must care for them across the generations from the oldest to the youngest.
+
+Your Holiness, it is most fitting that you have arrived to be with us today on the feast day of St. Francis of Assisi, the champion of the poor, the defender of the defenseless. His prayer, carried to this day in the pockets, the purses, the billfolds of many American Catholics, and revered by many who are not Catholics, is a simple clarion to unity.
+
+It begins: "Lord, make me an instrument of your peace. Where there is hatred, let me so love." Today, these words hold special meaning for us, for with God's help, we recently celebrated the advance of peace in the Middle East, and we are trying, earnestly, with your support, to knock on the door of peace in Bosnia.
+
+We see peace advancing in Northern Ireland, in Haiti, in Southern Africa. All this has been an answer to many, many prayers around the world, but many of them were led by you, Holy Father, and for that, you have the gratitude of all the American people. {APPLAUSE}
+
+On the threshold of a new millennium, more than ever, we need your message of faith and family, community and peace. That is what we must work toward for millions of reasons, as many reasons as there are children on this Earth.
+
+It has been said that you can see the future by looking into the eyes of a child. Well, we are joined here today by 2,000 children, from the Archdiocese of Newark and surrounding parishes. {APPLAUSE} Your Holiness, looking out at them now and into their eyes, we can see that the future is very bright indeed. For them and for all Americans, we thank you, Holy Father, for coming back to the United States, and we welcome you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,89 @@
+﻿{title} Howard Dean Addresses Supporters {/title}
+{event} ----- {/event}
+{speaker} Howard Dean {/speaker}
+{date} February 3, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you.
+
+Now I've got some people I want to thank here. First, I've got to say thank you to some people. I want to thank State Senator Rosa Franklin for her wonderful, very nice introduction. {APPLAUSE}
+
+And Tacoma councilwoman, Julie Anderson. {APPLAUSE}
+
+I want to thank my campaign co-chair, Karen Markiaro. Where is Karen? I know she's here someplace. There she is. {APPLAUSE}
+
+I don't know if my other state campaign chairman, former Governor Booth Gardner is here, but we want to thank him. {APPLAUSE}
+
+State Democratic Party chair, Paul Barron, thank him. {APPLAUSE}
+
+All right. 
+
+And national finance co-chair, Pam Eakes, I don't know if she's here or not, but she's been great. {APPLAUSE}
+
+State director, Betty Means, and all of the incredible volunteers and staff members. 
+
+Well, the votes are starting to come in. And we're going to have a tough night tonight. But you know what, here's why we're going to keep going and going and going and going and going, just like the Energizer Bunny... {APPLAUSE}
+
+We're going to pick up some delegates tonight, and this is all about who gets the most delegates in Boston in July. And it's going to be us. {APPLAUSE}
+
+And here is why, with your help, we're going to win Washington on Saturday... {APPLAUSE}
+
+This campaign is simply going to offer people something different than everybody else.
+
+You know, I think all of these folks running in the Democratic Party are fine people. But this campaign is about doing something for ordinary Americans. You cannot say you're going to get rid of the special interests in Washington if you have taken more money than any other senator in the last 15 years from special interests. {APPLAUSE}
+
+You cannot offer concrete change -- look, I am going to vote for whoever the nominee of the Democratic Party is, which I hope will be me. {APPLAUSE}
+
+Because anybody is better than George W. Bush. {APPLAUSE}
+
+But what I want in this country and I think what every single person in this auditorium, in this theater, wants in this country is fundamental, institutional change. And we're not going to get that with somebody from inside Washington. {APPLAUSE}
+
+The state of Washington has a chance on Saturday to say, "Do you want real change in this country, or do you just want to shift the power to somebody else in Washington?" 
+
+I want real change in America. And let me tell you what I mean. {APPLAUSE}
+
+Let me tell you some of the reasons that you ought to talk to your folks about to get out the vote to that caucus at 10 o'clock on Saturday morning. 
+
+Let me give you some of the reasons.
+
+Reason number one: I'll stand up for what I believe in, whether it's right or whether it's popular. I was the only one who was willing to stand up against the Iraq war, from those people who are left, because it was the wrong thing to do in America. {APPLAUSE}
+
+I was the only one to stand up and say no to No Child Left Behind. The other guys all voted for it. {APPLAUSE}
+
+Do you want fundamental change in America? Or do you want to have Democrats who behave like Republicans half the time? {APPLAUSE}
+
+Do you want jobs in this country again? {APPLAUSE}
+
+Because if you want jobs in this country again, we've got to stop giving tax credits to the biggest companies in the world who move their jobs to China and their headquarters to Bermuda. We need those jobs here. {APPLAUSE}
+
+If you want jobs in America, we have to change every trade agreement that we have so that labor rights and human rights and environmental rights are part of those trade agreements. {APPLAUSE}
+
+If you want jobs in America, you have to make it easier to join a trade union so that low-income workers and immigrants will be protected. {APPLAUSE}
+
+If you want jobs in America, we have to start investing in small businesses and self-employed people. They create 80 percent of all the new jobs in this country, and they don't move their jobs out of their community. {APPLAUSE}
+
+Do you want real change, fundamental institutional change? Or do you just want to elect somebody else from inside Washington?
+
+Let me tell you reason number two. Reason number two is that in my state everybody under 18 has health insurance. {APPLAUSE}
+
+In my state, everybody under 150 percent of poverty has health insurance. In my state, one-third of all our seniors and disabled people have prescription benefits.
+
+If anybody from Washington, D.C., had done that, then that wouldn't be an issue in this campaign. 
+
+Fifty-six years ago, Harry Truman promised health insurance for all Americans in the 1948 Democratic Party platform. For 56 years, special interests who have been giving money to {COMMENT="Inaudible"} the Democrats. And the Republicans have stopped that from happening.
+
+If you want real change in America, we'll have health insurance for all our children within a month and for all Americans within a year of the time I take office. {APPLAUSE}
+
+If you want jobs in America, we've got to balance the budget. Every politician from both parties is promising you a middle-class tax cut, health insurance, funding of special education, free college. Do you believe them?
+
+{AUDIENCE} No! {/AUDIENCE} 
+
+The reason that 50 percent of the people in this country don't vote anymore is because politicians behave like that at election time. 
+
+The president is the worst of all. He's promising you a $1 trillion tax cut and a trip to Mars. And I think we ought to give him the trip to Mars. 
+
+{/speech} 

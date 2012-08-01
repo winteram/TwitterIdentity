@@ -1,0 +1,40 @@
+﻿{title} President Thanks Military in West Virginia Speech {/title}
+{event} West Virginia Speech {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 22, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} Excerpt from the President's Remarks in Charleston, West Virginia {/description}
+
+{speech} 
+
+Little did I realize the last time I was here that I would be coming back to this very spot to thank the fine men and women of the West Virginia Guard for helping us fight and win the war against terror. {APPLAUSE} For all who wear our uniform, I want to thank -- say thank you on behalf of all Americans. For the moms and dads and wives and husbands and sons and daughters of those who wear the uniform -- some of whom had been deployed out of West Virginia -- thanks from the bottom of our hearts for your sacrifice. It is for a cause that is noble and a cause that is just, and a cause that this great nation will win. {APPLAUSE}
+
+I appreciate the fact that our nation is now on alert, that we're ready; that if you see something odd happening in your neighborhood, that you now know to go and notify the local police -- something different is happening and we might ought to take a look at it.
+
+Every morning I wake up like I did this morning, I get to the Oval Office -- I'm an early morning man. Barney and Spot and I head out to the South Lawn. {LAUGHTER} I head in to the Oval Office, and the first thing I look at is potential threats to the United States. Every morning, I'm reminded that my most important job in this day and age is to make sure our government, the federal government and all governments at all levels, do everything we can to prevent a further attack on the good people of this country. {APPLAUSE}
+
+I want to assure you, we're chasing down every lead, we're following every hint. Our FBI is on full alert. Their primary task now is to prevent another attack. We're working with states -- as I mentioned the Governor -- we're working with local officers to better share information to disrupt and prevent. And I'm so proud of the way our nation is responding. But the truth of the matter is, the best way to secure the homeland of the United States is to find the enemy where he hides and bring him to justice. {APPLAUSE}
+
+I know I'm like many moms -- many dads, and Laura is like many moms who yearn for peace. We want nothing more than our children to be in a peaceful world. But I understand that in order to defeat the evil ones, we must use the mighty U.S. military to put -- after we have put them on notice, to rout them out of their caves and to bring them to justice. And that's exactly what our nation will do. {APPLAUSE}
+
+Our military has performed brilliantly. I gave them a task with clear objectives, and they're accomplishing those tasks and those objectives. I said real clear to the world that -- real clearly to the world -- to old West Texan in me slipping out -- {LAUGHTER} -- clearly to the world, I said that either you are with us or you are against us when it comes to finding terror. {APPLAUSE} I'm proud to report many, many, many nations have signed up to be with us.
+
+But I want to assure you all that if I tire, they will go to sleep. And if we blink, so will they. And therefore, it's so important for this nation to remain steadfast and resolved and strong in our purpose to free the world of terror, so our children can live peacefully. {APPLAUSE}
+
+I want to thank the people of West Virginia and the American people for their patience. They understand that the task at hand may take a while. They understand that this country is in this for the long pull; that in order to secure freedom for generations to come, that we, this generation, must be willing to sacrifice, must be patient, must be determined, and must be resolved. We have no other choice, as far as I'm concerned. It's either allow terror to spread its wings and terrorize others, or to stand tough. And this nation has made the decision to stand tough. And I'm proud of her. {APPLAUSE}
+
+A fellow came the other day to the office, and said, well, are you worried about Mr. bin Laden? I said, no, I'm not too worried about him. He's the guy that needs to be worried. {LAUGHTER} But I want to assure you, the objective is not bin Laden. Oh, we'll get bin Laden. {APPLAUSE} There's only so many caves he can hide in, if he's still hiding in caves. My attitude was, once we get him running, it's just a matter of time before we bring him to justice.
+
+But the mission is broader than just one person. The mission is to make sure that terror, wherever it tries to settle in, is routed out. The mission is to say to the governments that think that we're not watching, we're watching; and if you try to harbor a terrorist, feed a terrorist, you're just as guilty as those who would commit murder on innocent citizens. {APPLAUSE}
+
+So I want to reiterate what I said to those who are making the sacrifice by wearing the uniform, and particularly their families. I want to thank you. I grieve and mourn and pray when we lose a life. And we will, when it comes to the war on terror. But I told --
+
+{AUDIENCE-MEMBER} We love you, sir! {/AUDIENCE-MEMBER}
+
+Thank you. {LAUGHTER}
+
+But I told the families that I've spoken to, by word and written letter, that this nation is doing the right thing, that we're seeds in history; that we refuse to be shaped by terror; that we will win the war on terror; and the cause of sacrifice is noble and it is just.
+
+What a great nation we have. {APPLAUSE} A nation that is willing to sacrifice for freedom and, at the same time, a nation that is liberating women and children in Afghanistan from the evil repression of the Taliban. {APPLAUSE} A nation that not only stands on principle, but a nation that is a nation of liberators. I'm so proud of our military and the American people, and the Afghan women and children thank you from the bottom of our heart. {APPLAUSE} 
+
+{/speech}

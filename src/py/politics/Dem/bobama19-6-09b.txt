@@ -1,0 +1,15 @@
+﻿{title} Remarks By The President at Young Men's Barbecue {/title}
+{event} Young Men's Barbecue {/event}
+{speaker} Barack Obama {/speaker}
+{date} June 19, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. Everybody have a seat. First of all, let's give thanks that it's not raining, because we thought it might be and we were worried that Bobby would be sending smoke into the White House. But it's a beautiful day.
+I want to personally acknowledge once again -- they've already been introduced, but I want to introduce them because some of you young people are sitting with them -- you may not know who you're sitting with -- the extraordinary men who are participating in this event today. First of all, Chief Quartermaster John Lehnen -- thank you so much, John. Some of you may know this guy, Dwayne Wade. I hear he plays basketball pretty good. {LAUGHTER} Etan Thomas, another ball player; Joseph Jones, the Center for Urban Families; Greg Brown, who is the CEO of Motorola; Antwaan Randle El, outstanding football player; Dr. Steve Rosen, Northwestern Cancer Center; Jorge Ramos, one of the premier journalists in the country; B.D. Wong, outstanding actor; Tony Hawk, who is the best skateboarder in the world; Coach Bill Cowher of the championship Steelers; Darryl "DMC" McDaniels; Mike Laas, who is a small businessman; Senator Evan Bayh, former colleague of ours; Fatherhood Dads, Inc., President David Ladd; the President of Morehouse College, Dr. Robert Franklin; as well as some of the outstanding members of my staff -- Mike Strautmanis, Denis McDonough, Reggie Love. And we also want to thank Bobby Flay, one of the best chefs in the world, for providing us with this unbelievably good-looking grub over here. {APPLAUSE}
+I don't want to talk long. I want to come around and say hello to everybody. I just want to thank all of you for participating. For the young people who are here today, I just hope that the message that we're sending out about how important fathers are is something that you will internalize, because all of you are probably going to end up being fathers. And the time is now to start thinking about what that means in terms of responsibilities, what it means to be a man. And the men who are -- you're going to be sitting with today I think exemplify -- whether they're famous or not famous, rich or not so rich, they embody that spirit of love and dedication and commitment that fatherhood is all about.
+So we appreciate all of you. I don't want to get in the way of the food. Thank you for participating. Hope you guys have a good time. And to all the fathers out there, happy Father's Day. All right? {APPLAUSE} 
+
+{/speech}

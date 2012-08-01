@@ -1,0 +1,64 @@
+﻿{title} Remarks by the President at Luncheon for Congressman Michael Forbes {/title}
+{event} Luncheon for Congressman Michael Forbes {/event}
+{speaker} Bill Clinton {/speaker}
+{date} April 24, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Forbes Luncheon in New York {/description}
+
+{speech} 
+
+Thank you very much. Well, first, I want to thank Bill and Nancy for having us in their beautiful apartment. I must say, they've been so wonderful to Hillary and me, I'm going to forgive them because they stripped me of one of my important legacies today.
+
+I felt a little awkward standing up here on these beautiful stairs -- and now people will never be able to say what one man came up to me and said when I was out in the West recently. He said, I'll tell you one thing, Bill, they will never say that when you were President you looked down on the American people. {LAUGHTER}
+
+But I actually enjoyed it up there. {APPLAUSE} I could see everyone's face. I was thinking how proud I am to be here and to be here with you.
+
+I want to thank Congressmen Nadler, Towns and Ackerman for being here. And, Gary, thank you for rounding out the funds race today. That was a -- {LAUGHTER} Gary Ackerman just went to India with me. I heard how many people lived in India -- over 900 million people. Do you know every third person I met knew who Gary Ackerman was. {LAUGHTER} It was very disorienting. It was utterly amazing.
+
+Let me say, these three people have really represented not only New York, but the United States, very well. And you can be proud of them. Jerry Nadler is everyone's conscience, including mine when he thinks I'm straying too far. Ed Towns was with me in 1991, when only my mother thought I could be elected President. {LAUGHTER} So I really like them very, very much.
+
+I want to welcome again Mike and Barbara and Abby -- who is going to be a teacher, by the way, she's a senior at the University of Virginia and she's going to be a teacher. We ought to give her a hand. {APPLAUSE}
+
+And I want to be brief, but fairly pointed here. I believe that Mike Forbes became a Democrat because of his convictions on education, the environment, the patients' bill of rights, campaign finance reform, prescription drugs for seniors, continuing the economic path the country is on, doing more for the poor and being even more aggressive in education. That's why I think he did it. I don't think it's very complicated.
+
+In a larger sense, I think he did it because we have been able to prove in the last seven years that our party can be for economic growth and for improving the environment, that we can be pro-business and pro-labor, that we can be pro-work and pro-family. And divisive politics, which have served the other party rather well from election to election, are no way to run a country -- particularly a country in a global economy, an increasingly globalized society, where diversity and the power of the mind is becoming more important every day.
+
+What I want to say to you is that there will be an attempt in this election to blur the distinctions between the parties in the hope that the traditional advantage that our friends in the Republican Party have enjoyed among large voting blocks around the country will be there and that they will basically make people sort of feel like it's okay if they win, things are going so well and there are no consequences.
+
+What I want you to understand is, there are sharp consequences to whether we hold the White House and whether we win the House and whether we pick up seats in the Senate -- sharp, dramatic consequences that will make a significant difference in the lives of the American people. And I'll just give you a few, but I think it's important. You need to tell people that if they want to vote for person X or person Y, there are consequences.
+
+Number one, on the economy. Our position is we ought to keep paying down the debt, save Social Security and Medicare, provide a prescription drug benefit for seniors, make substantial investments in education, health care and the environment, science and technology; and then we can afford a tax cut, but it's a modest one designed to help people who need help most -- to educate their kids, to provide child care for them, to provide for health care; and that we ought to give people like those of you in this room who can afford to be here a tax cut if you help us solve some of our biggest problems.
+
+I want to give you the same tax benefits to invest in poor areas in America we give you to invest in poor areas overseas. I want to give you tax incentives to produce or to purchase energy efficient products that will help us deal with climate change, and other things that are investment-oriented. We had an investment strategy to get this economy going again, and it worked, and we ought not to abandon it.
+
+Their strategy is to pass a tax cut even bigger than the one I vetoed before. {LAUGHTER} And they'll do it. You have to assume they're honorable people. {LAUGHTER} People normally mean what they say in elections. There have been a lot of studies done on politicians and -- even though I'm proud to say that one said that I had kept a higher percentage of my campaign promises than the last five presidents, even though I made more in more detail.
+
+By and large, people who run for President do what they say they're going to do when they get in. So you have to assume that when they run for President and for Congress, based on a tax cut even bigger than the one I vetoed -- which will certainly take us back to deficits and higher interest rates and slower growth -- that they mean it.
+
+And now, the second thing, is there will be enormous consequences for our other objectives. I think we ought to meet the challenge of the aging of America. I'm the oldest baby boomer. And when we retire, all of us, there will only be two people working for every one person retired. And I do not want our retirement to bankrupt our children and their ability to raise our grandchildren.
+
+So we're for taking the interest savings we're getting from paying down the debt, put it in the Social Security trust fund, because they can't -- we're paying it down because of Social Security taxes -- so we take this Social Security trust fund out to 2054, beyond the life of the baby boomers. And they're not for it. We're for a prescription drug program for seniors to benefit all the seniors that need prescription drugs. Their program primarily benefits the people that are producing the drugs.
+
+There are significant differences. If you look at the children -- and Mike and his whole family's passion for education -- no matter what they say they're for, they're not going to have the money to invest in education after they pass their tax cut and their defense increases.
+
+Somebody asked me the other day what the principal economic reform I brought to the United States when I became President was, and I said, arithmetic. {LAUGHTER} That was the dramatic new idea in the Information Age we reintroduced into budgeting -- arithmetic. All of a sudden, the numbers added up again. The money won't be there. We say we ought to give a tax deduction to people for up to $10,000 for the cost of college tuition. Their leader says that we don't need any more help to help people go to college. I think everybody needs to be able to go to college. We've tried to open the doors of college to all Americans because of the world we're living in. These are significant differences.
+
+On work and family, we favor raising the minimum wage, and they don't. We favor increasing tax relief for child care coverage, and they don't. We favor expanding health care coverage to people who could never afford to come to this fundraiser, but they all work and they all pay taxes. People between the ages of 55 and 65 who lose their jobs and, therefore, don't have health insurance and are not old enough for Medicare; low-income families who can get their kids insured today, but they can't get insured. We're for that. We think we ought to do that and give them health care coverage, and they don't.
+
+On the environment, I don't even think I need to say anything about that. Ever since the Republicans got the majority in Congress, with a few notable exceptions, like Mr. Forbes, I have waged a relentless battle to try to prevent an assault on our efforts to improve the quality of our air, our water and our land, and to set aside precious spaces both in the vast unpopulated areas of America and green spaces within our own neighborhoods.
+
+I don't think -- there may be no issue on which the record is clearer -- particularly given the decisions of the Republicans in the nominating process.
+
+Now, these are significant. My belief that we all belong in America and that we've all got to get along as long as we're law-abiding -- we're for hate crimes legislation and Employment Nondiscrimination Act, and they're against it. I could go on and on. But those are just six things. There will be significant consequences to the American people from the outcome of the elections in the House and the Senate, and the Presidential election.
+
+You should know what those consequences are. And you don't have to say a bad word about our opponents to understand that. I don't like all the politics of personal destruction. Most people who do that do it because they're more interested in power than people. And they think voters are ultimately not very smart, and so if they can make their opponents look bad enough, they can get some votes.
+
+The truth is, this is not about all of us who run for office, and besides that, I'm not running for anything. I'm telling you this as a citizen. But I've worked very hard for over seven years now to turn this country around, to move us in the right direction and to pull us together. And I promise you, everything I have learned in my entire public life tells me that these differences are real, that we mean what we say, and they mean what they say. Now, they will attempt to paper over all this between now and November, in the hope that basically a satisfied, almost somnambulant electorate, will give them the reins of power.
+
+So I want you to leave here -- and if they ask you how come you showed up at Mike Forbes Fundraiser, tell them it's because you'd like to see the economy grow. Tell them it's because you want to see more people brought into the mainstream of American life. Tell them it's because you want to see investments made in education and the environment and health care. Tell them it's because you think we ought to go forward together instead of being divided. These are significant consequences. This is very important.
+
+I know the country was in trouble in '92, and it looks like we're doing great today; but, believe me, this election is every bit as important as the elections we had in '92 and '96 because we are going to decide whether to ratify the direction of change we have embraced, or abandon it. And there will be substantial consequences, positive or negative, to that decision. If you go out and tell the people that you know in New York and in other states around this country that, we'll be all right. And if you tell the people you know that can vote in Mike Forbes' congressional district, he will be overwhelmingly re-elected.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

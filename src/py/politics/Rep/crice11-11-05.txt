@@ -1,0 +1,39 @@
+﻿{title} Remarks at the Inauguration of the Provincial Reconstruction Team {/title}
+{event} Inauguration of the Provincial Reconstruction Team {/event}
+{speaker} Condoleezza Rice {/speaker}
+{date} November 11, 2005 {/date}
+{source} http://www.state.gov/secretary/rm/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. I would first like to thank the provincial and local leadership here, the Governor, the Vice Governor, other members of this team. We've just had a wonderful discussion of the challenges facing the leadership of Ninawa. But I can say one thing: I am more confident than ever that those challenges will be met because of the commitment and the skill and the obvious dedication of these fine men to a better life for the people of Ninawa.
+
+
+I'd like also to thank General Rodriguez, General Bergner and especially Ambassador Khalilzad and his fine team. Thank you for your leadership here. And to each and every one of you, America appreciates your courage and your sacrifice {COMMENT="Inaudible"} integrally engaged in securing Iraq's future. And I want to thank you for that.
+
+
+I know that it is not easy work. I know that it is, at times, dangerous work. I just want to assure you that it is understood in America that it is also really, really important work. Indeed, it is work that is crucial to our own freedoms.
+
+
+In that way, as we help the Iraqi people secure their freedoms, we indeed secure our own. Because if Iraq does not succeed and should Iraq become a place of despair, generations of Americans would also be condemned to fear and to insecurity. And so our fates and our futures are very much linked.
+
+
+But I want to close with where I started. We -- Americans and our coalition partners, civilian and military, government organizations from the State Department, from Justice, from other parts of our government -- are helping to create conditions in Iraq that the Iraqi people will seize to secure their future.
+
+
+And there is a reason that we should have great confidence in their ability to do that. I have watched in amazement over the last couple of years as the Iraqi people have emerged from one of the most brutal tyrannies of the 20th century, 20th and 21st century, as they have repeatedly cast their lot with their political process, as they went to the polls 8.5 million strong in January of this year and almost 10 million strong just a few weeks ago, to cast their ballots despite the threats of terrorists, despite the violence that they have experienced on a daily basis, despite the fact that people have sacrificed family members in order to just try and secure the blessings of liberty that we have long enjoyed.
+
+
+And lest we think that their task is impossible, I would just ask you to think back in history on all of the times that what seemed impossible seemed just a few days or weeks or months or years later inevitable. We no longer believe that we will ever fight a war in Europe again. But when the United States committed to the future of a democratic Germany in 1945, that was not a certainty. We don't believe that we will fight a war in Northeast Asia and certainly we will never fight one against Japan again. But when we committed to the democratic future of Japan in 1945, that was not a certainty.
+
+
+So now what seems inevitable once seemed impossible. Here in Iraq, we are going to stay committed because the Iraqis -- a fine and brave, courageous people, a people of great culture, great intellectual breadth and of a great history -- are going to succeed.
+
+
+Thank you very much.
+
+
+{APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,46 @@
+﻿{title} Remarks By The President at Iftar Dinner {/title}
+{event} Iftar Dinner {/event}
+{speaker} Barack Obama {/speaker}
+{date} September 1, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Please, everybody have a seat. Thank you. Well, it is my great pleasure to host all of you here at the White House to mark this special occasion -- Ramadan Kareem.
+
+I want to say that I'm deeply honored to welcome so many members of the diplomatic corps, as well as several members of my administration and distinguished members of Congress, including the first two Muslims to serve in Congress -- Keith Ellison and Andre Carson. Where are they? {APPLAUSE}
+
+Just a few other acknowledgements I want to make. We have Senator Richard Lugar here, who's our Ranking Member of the Foreign Affairs Committee. Where is Dick Lugar? There he is. {APPLAUSE} Representative John Conyers, Chairman of the Judiciary Committee. {APPLAUSE} Representative Rush Holt is here. Thank you, Rush. {APPLAUSE} Have we found you a seat, Rush? {LAUGHTER}
+
+{OTHER-SPEAK} I'm on my way to the train. {/OTHER-SPEAK} {LAUGHTER}
+
+I got you.
+We also have here -- Secretary of Defense Gates is here. Secretary Gates. {APPLAUSE} Our Attorney General, Eric Holder. {APPLAUSE} And Secretary of Health and Human Services, Kathleen Sebelius is here. {APPLAUSE}
+
+And most of all, I want to welcome all the American Muslims from many walks of life who are here. This is just one part of our effort to celebrate Ramadan, and continues a long tradition of hosting iftars here at the White House.
+
+For well over a billion Muslims, Ramadan is a time of intense devotion and reflection. It's a time of service and support for those in need. And it is also a time for family and friends to come together in a celebration of their faith, their communities, and the common humanity that all of us share. It is in that spirit that I welcome each and every one of you to the White House.
+
+Tonight's iftar is a ritual that is also being carried out this Ramadan at kitchen tables and mosques in all 50 states. Islam, as we know, is part of America. And like the broader American citizenry, the American Muslim community is one of extraordinary dynamism and diversity -- with families that stretch back generations and more recent immigrants; with Muslims of countless races and ethnicities, and with roots in every corner of the world.
+
+Indeed, the contribution of Muslims to the United States are too long to catalog because Muslims are so interwoven into the fabric of our communities and our country. American Muslims are successful in business and entertainment; in the arts and athletics; in science and in medicine. Above all, they are successful parents, good neighbors, and active citizens.
+So on this occasion, we celebrate the Holy Month of Ramadan, and we also celebrate how much Muslims have enriched America and its culture -- in ways both large and small. And with us here tonight, we see just a small sample of those contributions. Let me share a few stories with you briefly.
+
+Elsheba Khan's son, Kareem, made the ultimate sacrifice for his country when he lost his life in Iraq. Kareem joined the military as soon as he finished high school. He would go on to win the Purple Heart and Bronze Star, along with the admiration of his fellow soldiers. In describing her son, Elsheba said, "He always wanted to help any way that he could." Tonight, he's buried alongside thousands of heroes in Arlington National Cemetery. A crescent is carved into his grave, just as others bear the Christian cross or the Jewish star. These brave Americans are joined in death as they were in life -- by a common commitment to their country, and the values that we hold dear.
+
+One of those values is the freedom to practice your religion -- a right that is enshrined in the First Amendment of the Constitution. Nashala Hearn, who joins us from Muskogee, Oklahoma, took a stand for that right at an early age. When her school district told her that she couldn't wear the hijab, she protested that it was a part of her religion. The Department of Justice stood behind her, and she won her right to practice her faith. She even traveled to Washington to testify before Congress. Her words spoke to a tolerance that is far greater than mistrust -- when she first wore her headscarf to school, she said, "I received compliments from the other kids."
+
+Another young woman who has thrived in her school is Bilqis Abdul-Qaadir. She's not even 5'5 -- where's Bilqis? Right here. Stand up, Bilqis, just so that we -- {LAUGHTER} -- I want everybody to know -- she's got heels on. She's 5'5 -- Bilqis broke Rebecca Lobo's record for the most points scored by any high school basketball player in Massachusetts history. {APPLAUSE} She recently told a reporter, "I'd like to really inspire a lot of young Muslim girls if they want to play basketball. Anything is possible. They can do it, too." As an honor student, as an athlete on her way to Memphis, Bilqis is an inspiration not simply to Muslim girls -- she's an inspiration to all of us.
+
+Of course, we know that when it comes to athletes who have inspired America, any list would include the man known simply as The Greatest. And while Muhammad Ali could not join us tonight, it is worth reflecting upon his remarkable contributions, as he's grown from an unmatched fighter in the ring to a man of quiet dignity and grace who continues to fight for what he believes -- and that includes the notion that people of all faiths holds things in common. I love this quote. A few years ago, he explained this view -- and this is part of why he's The Greatest -- saying, "Rivers, ponds, lakes and streams -- they all have different names, but they all contain water. Just as religions do -- they all contain truths."
+
+They all contain truths. Among those truths are the pursuit of peace and the dignity of all human beings. That must always form the basis upon which we find common ground. And that is why I am so pleased that we are joined tonight not only by so many outstanding Muslim Americans and representatives of the diplomatic corps, but people of many faiths -- Christians, Jews, and Hindus -- along with so many prominent Muslims.
+
+Together, we have a responsibility to foster engagement grounded in mutual interest and mutual respect. And that's one of my fundamental commitments as President, both at home and abroad. That is central to the new beginning that I've sought between the United States and Muslims around the world. And that is a commitment that we can renew once again during this holy season.
+
+So tonight, we celebrate a great religion, and its commitment to justice and progress. We honor the contributions of America's Muslims, and the positive example that so many of them set through their own lives. And we rededicate ourselves to the work of building a better and more hopeful world.
+
+So thanks to all of you for taking the time to be here this evening. I wish you all a very blessed Ramadan. And with that, I think we can start a feast. I don't know what's on the menu, but I'm sure it will be good. {LAUGHTER} Thank you very much, everybody. {APPLAUSE} 
+
+{/speech}

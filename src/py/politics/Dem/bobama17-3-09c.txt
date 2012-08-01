@@ -1,0 +1,18 @@
+﻿{title} Remarks By President Obama and Taoiseach Of Ireland Brian Cowen at St. Patrick's Day Shamrock Ceremony {/title}
+{event} St. Patrick's Day Shamrock Ceremony {/event}
+{speaker} Barack Obama {/speaker}
+{date} March 17, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, happy St. Patrick's Day to everybody. I want to welcome Taoiseach Brian Cowen and his lovely wife on their first visit to the White House for this wonderful St. Patrick's Day tradition. This is the first for both of us, and with a little bit of luck of the Irish, I'm sure we'll get it right.
+We are pleased to be joined by a statesman who worked as hard as anybody to usher in an age of peace in Northern Ireland, and that is my now Middle East envoy -– because he's a glutton for punishment -- Senator George Mitchell. {APPLAUSE}
+I am also proud today to announce that I am naming a great friend, Dan Rooney, co-founder of the Ireland Fund, unwavering supporter of Irish peace and culture and education -– not to mention the owner of the Super Bowl Champion Pittsburgh Steelers –- as the United States Ambassador to Ireland. He will be an outstanding representative. {APPLAUSE}
+Just a private note here. Dan is a great friend. He and his family are as gracious and thoughtful a group of people as I know, and so I know that he is just going to do an outstanding job. And the people of Ireland I think will benefit greatly from him representing the United States there.
+Now, before I turn it over to the Taoiseach, it turns out that we have something in common. He hails from County Offaly. And it was brought to my attention on the campaign that my great-great-great grandfather on my mother's side came to America from a small village in County Offaly, as well. We are still speculating on whether we are related. {LAUGHTER}
+I do share, though, a deep appreciation for the remarkable ties between our nations. I am grateful to him for his leadership of Ireland. The bond between our countries could not be stronger. As somebody who comes from Chicago, I know a little bit about Ireland, and the warmth, the good humor, and the fierce passion and intelligence of the Irish people is something that has informed our own culture, as well. And so that's why this day and this celebration is so important.
+So, with that, what I'd like to do is let Taoiseach say a few words. And then I believe he's got something to give me. {APPLAUSE} 
+
+{/speech}

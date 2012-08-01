@@ -1,0 +1,28 @@
+﻿{title} Vice President and Mrs. Cheney's Remarks and Q&A at a Town Hall Meeting in Meadville, Pennsylvania {/title}
+{event} Allegheny College, Meadville, Pennsylvania {/event}
+{speaker} Lynne Anne Vincent Cheney {/speaker}
+{date} October 13, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you so much. {APPLAUSE} Please -- thank you so much. We love being here, and would you all sit down? We would love it if you would do that.
+
+I just want to introduce Elizabeth and Grace. And Elizabeth is a first grader, and she really is a good reader. So Mrs. Bush is very proud of her. And this is Grace. She has on a new pair of shoes that have made her fall down many times, but they're quite beautiful and pink. {APPLAUSE} So they're very glad to be here with you.
+
+Now, Elizabeth and Grace, would you go back and see your mom? That would be really good. Thank you. {APPLAUSE}
+
+Well, it's just a beautiful day to be here at Allegheny College, and we're so pleased that you would all come out. And the trees could not be more beautiful. The sky is blue. What a glorious day. And we have felt so privileged as we've traveled all across this country and seen the many beautiful places in America -- we've felt so proud to be Americans, as I know all of you do, too. {APPLAUSE}
+
+When I make a list of all the reasons I am proud to be an American, I'll tell you right at the top, I put our President, George W. Bush. {APPLAUSE}
+
+He has done a magnificent job these last four years, and if you'll permit me to say so, the Vice President is no slouch either. {APPLAUSE} I get to introduce Dick because I've known him for so long. {LAUGHTER} I have known him since he was 14 years old. This is true. And his job that summer I first knew him was sweeping out the Ben Franklin store in Casper, Wyoming. {LAUGHTER} And I've known him through a number of jobs since. I've known him since he was digging ditches at the Central Wyoming Fair and Rodeo Grounds, which is just outside our hometown in Casper. And I've known him since he was loading bentonite -- hundred-pound sacks of bentonite onto railroad cars. And I've known him since he was building power line across the West to help pay for his education. And I like to tell about all those jobs because I think when you grow up working hard, you learn some really important lessons. And one of them is that the hard working people of this country ought to get to keep as much of their paychecks as possible. {APPLAUSE}
+
+They like that. I like that. Well, thank you so much. I've felt so privileged these last four years to really have had a front row seat on history. And I've felt so proud to watch our great nation rise up after the awful attacks of September 11th, and our great nation rose up and we comforted those whose lives had been changed forever by that day. And under the leadership of our President, we went after the terrorists who had attacked us, and we went after states that sponsored terror. To keep our country safe, our President has led an effort to defend us over there, so we don't have to defend ourselves here in the streets of our own cities. {APPLAUSE}
+
+When I think about this election, I'm sure I'm like you, there are a lot of issues that are important to me, but there's one that is really in the forefront of my mind at all times, and that's because I am a mother, and I'm a grandma. And I think about the safety and security of my children and grandchildren. And one thing you know we can count on is that the terrorists are going to try to come after us again. And when I say to myself, who do I want standing in the door, it is not John Kerry, and it is not John Edwards. {APPLAUSE}
+
+The people I want in charge of our security and the safety of my children and grandchildren are George Bush and Dick Cheney. {APPLAUSE} And so let me introduce to you my husband, Dick Cheney, the Vice President of the United States. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,27 @@
+﻿{title} President Bush Congratulates 2004 Olympic and Paralympic Teams {/title}
+{event} Remarks by the President to the 2004 U.S. Olympic and Paralympic Teams, South Lawn {/event}
+{speaker} George W. Bush {/speaker}
+{date} October 18, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all for coming. Please be seated. It's such an honor for Laura and me to welcome the mighty United States Olympic team to the White House. We're really proud of our athletes. We want to welcome the U.S. Olympians and the Paralympians here on the South Lawn. We welcome the coaches and the team leaders who are here today. We welcome the former Olympians and Paralympians who are with us today. We want to welcome Herman Frazier and Jeanne Piccariello. I want to welcome the family members here, but most of all, we're thrilled the athletes are here. {APPLAUSE}
+
+To qualify for Team USA, you had to set high goals, devote long hours to training, and outperform talented athletes from all across our country. In Athens, you faced the toughest competition and the highest pressure in all of sports. And when the games were over, America had earned more than 100 medals, the most in the world. {APPLAUSE} We heard our national anthem played 35 times to honor gold medalists. Our athletes created lasting memories for millions of Americans who followed the games.
+
+We'll always remember Paul Hamm coming from behind to win the gold in the men's gymnastics. {APPLAUSE} And Carly Patterson winning the women's gold the next night. {APPLAUSE} We'll remember Rulon Gardner leaving his shoes in the ring after winning his last match as an Olympic wrestler. {APPLAUSE} We'll remember our many incredible swimmers, swimmers like Michael Phelps, and the 4x200 women's freestyle relay team that set a world record. We'll remember the Paralympians who earned a remarkable 88 medals for the United States of America. {APPLAUSE} Including Royal Mitchell and karissa Whitsell, each of who earned two gold medals. We'll remember all the American teams that came together to win gold in the Olympics and Paralympics -- men's rowing and sailing, women's soccer, softball, basketball -- {LAUGHTER} -- beach volley ball, and the women's wheelchair basketball team. {APPLAUSE} Your success showed the power of discipline and persistence.
+
+These games came at an historic time for the world. You and your fellow Olympians showed why we have such great hope in this world. Think about what happened at the opening ceremonies. Our teams marched alongside men and women from Afghanistan and Iraq, nations -- {APPLAUSE} Nations that just four years ago knew only tyranny and repression. With millions watching, you showed the best values of America. You were humble in victory, gracious in defeat. You showed compassion for your competitors. You showed the great tolerance and diversity of our people.
+
+You're great athletes. Most importantly, you showed great character. You made us all proud, and I want to thank you for being such fine ambassadors of our nation to the world. {APPLAUSE}
+
+You also understand your responsibility to be champions away from the field, as well. Appreciate the good examples you set for millions of children who dream about becoming Olympians or Paralympians, themselves.
+
+
+In the years ahead, I hope you'll continue to give back to your communities. I hope you'll consider mentoring a child, or coaching a child. With your generosity and decency, you'll make this country a more hopeful place.
+
+Once again, welcome to the White House. Congratulations. May God continue to bless our country. {APPLAUSE} 
+
+{/speech}

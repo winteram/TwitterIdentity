@@ -1,0 +1,141 @@
+﻿{title} On IRS Changes {/title}
+{event} ----- {/event}
+{speaker} Al Gore {/speaker}
+{date} March 18, 1998 {/date}
+{source} http://www.cnn.com {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. {APPLAUSE} 
+
+Thank you very much. 
+
+Thank you, thank you very much, ladies and gentlemen. 
+
+And Marilyn, thank you. That was such a... {LAUGHTER} 
+
+... a great {COMMENT="Inaudible"} 
+
+You know, Mr. Rissotti of Maryland is the typical member of this... {LAUGHTER} 
+
+... task force. I want to get to know this whole task force. {LAUGHTER} 
+
+And in fact, I already do. I've had a chance to work with you -- especially at the beginning of your labors here, and I want to compliment all of you. 
+
+We'll get to that in just a moment. 
+
+I want to thank Marilyn for the enthusiasm that she embodies as a representative of those of you who've been on this task force. And I also want to thank her as a representative of all the employees at the IRS. 
+
+Your dedication and your constant desire to fix the problems that have been around for a long time, after all, and that the -- a lot of people don't understand that the employees want to fix these problems more than anybody else. 
+
+A taxpayer encounters these problems at tax time. The employees are on the other side of those encounters constantly. And so they really -- they really want to see the improvements come. 
+
+And I am so grateful to Secretary Bob Rubin for his leadership at the Treasury Department in putting together a team and a structure that, after so long, finally is generating the movement in the right direction to really solve these problems. 
+
+Without Secretary Rubin's leadership, none of this would have happened. And I want to thank his deputy, Secretary Larry Summers, also. 
+
+This is -- in my opinion -- this is the best team that the United States of America has ever had at the Treasury Department. And of course, they do a lot of things in addition to trying to get IRS fixed. 
+
+They also are managing this incredibly complicated international financial situation. And all over the world, the finance ministries and leaders of other countries and markets in other countries, they all say thank goodness we have the kind of leadership at the Treasury Department in the U.S. that we have from Secretary Rubin and Deputy Secretary Summers. So thank you both for what you're doing. We appreciate it very much. {APPLAUSE} 
+
+And Commissioner Rossotti, Charles Rossotti, came on board as a reinventor, somebody with practical real-world experience, and thank you for agreeing to take on the challenge. You're making a tremendous difference, and none of this would have happened without you also. So I really do appreciate it. 
+
+And Assistant Secretary Nancy Killefer in the management side, and Bob Tobias. I'll say more about Bob in just a moment. 
+
+And Bob Winsell, who is the co-chair of the commission and head of the Taxpayer Treatment and Service Improvement Program, thank you very, very much. 
+
+This group has helped the IRS rediscover its last name: "Service." And as a group that's made up more of front-line employees than anyone else, it can draw on practical experience. 
+
+In fact, we made sure that more than half of the members of this task force were front-line IRS employees, because that's where the ideas are. And also, if the front-line employees don't support the changes, then you would see them go the way of a lot of task force recommendations. 
+
+They would be ignored or sabotaged, or just, you know, not ever really make a huge difference. 
+
+It is much likelier they will support changes that are constructive and good and positive if they've had a chance to help craft them in a way that meets the common sense test. 
+
+And let me thank Bob Tobias for his role in this as president of the Treasury Employees Union. He urged all of the union members to support this effort. He helped us find some of the best IRS reinventors to name to this task force. And then, he spent countless hours helping the task force review recommendations from literally thousands and thousands of front-line employees. 
+
+We need more of this kind of labor-management cooperation. And I would say it is the single greatest reason for our success thus far. 
+
+Now, as we all know, this is the very height of the tax-preparing and tax-filing season. 
+
+And when Americans sit down at their kitchen tables to fill out those tax forms, they have a right to know that their government is working for them and not against them. 
+
+With the president's taxpayers bill of rights and with Secretary Rubin's hard work over the past two years, we have made an important start. 
+
+Today, we take the next critical step, because today I'm pleased to present the final report of our IRS Customer Service Task Force, which is called "Reinventing Service at the IRS." 
+
+We're really proud of the work that this task force has done. It's practical; it's effective; it's going to make a big difference. 
+
+It includes 200 recommendations that will reinvent the way the IRS serves our taxpayers. 
+
+We believe that it will make the tax season easier and faster -- and in some cases, cheaper -- for average American families. Many of these recommendations are already under way and they're already working. 
+
+This year, we have seen an increase of almost 25 percent in the returns filed by computer. We've seen an increase of more than 25 percent in the number of returns filed by push-button telephone. 
+
+IRS Worldwide Web site hits have nearly tripled to 167 million this year. 
+
+And people are downloading material from the IRS Web site at five times the rate of last year. 
+
+This is a revolution in progress and it's picking up speed. 
+
+Clearly the public appreciates the alternative approaches that have been created for dealing with the IRS. 
+
+So today, I want to highlight from our report -- out of the 200 recommendations, I just want to highlight five specific steps that we are taking to make a dramatic difference in the quality of customer service at the IRS. 
+
+Of course, I commend for you the other 195 recommendations also. {LAUGHTER} 
+
+These folks have worked very hard on all of them. 
+
+But just to take five of them. Number one, starting two weekends ago, more than 150 IRS public offices are opening their doors on Saturdays, and the IRS will continue to offer this Saturday service throughout the tax season. 
+
+Nancy Ike, an IRS front-line employee who is here today from the Montana office, suggested that particular improvement. And Nancy, I'd like you to stand, and we'd like to thank you. {APPLAUSE} 
+
+Thank you very much. 
+
+Number two, the IRS will make it possible for more than three million small businesses to file their quarterly Form 941 payroll returns over the telephone beginning in this first quarter of 1998. 
+
+This new service is free. It's paperless, and it automatically calculates the tax and any balanced owed. 
+
+Number three, the IRS has established a prototype small-business laboratory in Seattle. This lab will be used to test new approaches designed to limit the burdens of tax filing on small businesses. And this innovation was the idea of Clyde Thurston, an IRS employee who is here today from the IRS office in St. Paul, Minnesota. 
+
+Clyde, thank you for making this suggestion. Stand up, and we'd like to recognize you, also. 
+
+Thank you very much. {APPLAUSE} 
+
+Number four, the IRS will intensify its efforts to make deserving Americans aware of the earned income tax credit. President Clinton and I have worked very hard to expand these important tax cuts for working families, and we want everyone who qualifies to get the full benefits. It can make -- it makes a huge difference for those families that are qualified, and they're the families that need the most. 
+
+And actually, the suggestion on how to make this work came from Martha Curry, an IRS employee who is here today from Cincinnati. 
+
+Martha, stand and let's thank you for this recommendation. 
+
+Thank you very much. {APPLAUSE} 
+
+Number five, a brand new advisory committee will help the IRS improve paperless filing to make it the most convenient and eventually -- sooner than a lot of people think -- the most common method of filing tax returns. 
+
+You know, we're in the midst of an information age, an information revolution. And the same techniques that private businesses are using to greatly improve their productivity while cutting their costs, and handling information much more efficiently and swiftly, those same techniques are now being used in the IRS. And we've got a lot of work ahead of us, but we've now got this team in place that is helping us make progress. 
+
+And one of the first principles of reinvention -- and Morely Winnegrad, the head of our reinventing government group here, will echo this -- one of the first principles is "go to where the ideas are." And the ideas are in the minds of front-line employees who live with these situations every single day. 
+
+And if they're given a chance to participate in solving the problems, they're going to come up with great ideas, like these five, like these 200. So again, I want to thank all of them. 
+
+And I'd like to summarize this way. The steps that I'm announcing today will help save time, paper and postage for millions of Americans. They will help us ensure that we have an IRS that is not just taken off people's backs but put on their side. 
+
+Most importantly, today's report, packed with more than 200 recommendations, will help us create a brand new culture of customer service at the IRS and make a tremendous difference to average American taxpayers. 
+
+Now finally, of course, we must do more to help the American taxpayer. 
+
+And for this, we need the help of Congress. 
+
+For months now, President Clinton and I have been urging passage of an IRS reform bill. Last October, we succeeded in getting it passed in the House of Representatives by an overwhelming bipartisan margin. The Senate has been studying it for the last five months. It's time for the Senate to pass it so the president can sign it, and make it the law of the land, and help give the American people an IRS that is more fair, more efficient and more responsive for this tax season and for all seasons. 
+
+Thanks to the members of this task force, we're now moving in the right direction. 
+
+I want to thank everybody who's been a part of this report. 
+
+And I'd just like to close by urging the United States Senate to pass President Clinton's IRS reform bill now. 
+
+Thank you very much for coming. {APPLAUSE} 
+
+{/speech} 

@@ -1,0 +1,60 @@
+﻿{title} Remarks by the President to Department of Energy Employees {/title}
+{event} Department of Energy, Washington, D.C. {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 28, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech}
+
+Thank you very much. {APPLAUSE} Okay. {APPLAUSE} Conserve your energy. {LAUGHTER} That's the message I'm sending to Congress today, in a comprehensive energy strategy. On the one hand, it says we must be wiser about how we develop and increase supply. And on the other hand, it says we must be wiser about how we conserve energy.
+
+Our nation must have a strategy, a broad, comprehensive energy strategy, that calls upon the best of the nation's entrepreneurs to help us develop the technologies necessary to make wise choices in the marketplace, as well as calls upon our nation's innovative technologies to help us find new sources of energy. And the plan I submitted to Congress today does just that. {APPLAUSE}
+
+Mr. Secretary, I appreciate your leadership. He's a man of high energy and good wisdom. And I picked the right man to lead the Energy Department for the country. {APPLAUSE} I want to thank all the hardworking folks here at the Department of Energy, and those around the country who are dedicating your lives to making America a better place.
+
+I want to thank the United States Congressmen who came. George, thank you very much for being here. He's from the great state of California. As you know, California has an energy issue, and the people of our country and the people of California must understand that the federal government has stood side by side with the people of California, working to alleviate the situation there.
+
+We've expedited the ability for California to build new power plants. We've reduced the regulatory burdens and hurdles to encourage the increase of supply into a state in which no power plant had been built for over a decade. And yesterday I was pleased to see, and the Governor inaugurated a new power plant in Chino, California, the beginnings of what is a rational energy policy that will help the good people of California get out from underneath 10 years of neglect.
+
+Secondly, the federal government made a strong commitment, led by Spence Abraham, and led by Don Rumsfeld, to reduce the amount of usage of energy in the state of California. And I'm pleased to report the U.S. Navy, for example, has reported it has reduced power during peak hours by 11 percent over last year. And I want to thank you all for being good stewards of the nation's scarce resources.
+
+I'm also pleased to recognize the members of the Canadian-Mexican-U.S. task force to develop energy supply in our own hemisphere. Natural gas needs to move in our hemisphere. It needs to move easily across our borders to find markets, to be able to ease the pressures of reduced supply all around the country.
+
+One of the interesting things about California is the new power plants that are now being constructed will be powered by natural gas. Therefore, we need more natural gas supply to power the power plants. And I want to thank our Mexican and Canadian friends for working with us to jointly develop -- {APPLAUSE}
+
+And, finally, I want to thank the entrepreneurs who have come to brief Spence and myself on the latest technologies that are developing. You know, one of the greatest things about our country is that if we provide the right incentive and the right partnerships, there are no limits to what our entrepreneurs can develop. There's no limits to the technology that we can bring to marketplace.
+
+And we saw a lot of that today. We saw new automobiles that will be more fuel-efficient, while making sure that consumer demand for comfort is met. We saw new technologies being developed out of Silicon Valley and Massachusetts and other states, that will make consumer products more energy-efficient. And I want to thank the entrepreneurs who are here, and remind you that my government is committed to this proposition. Our job is to create an environment in which the entrepreneurial spirit flourishes all across America. That not only means reasonable, sound tax policy, that means putting the federal government squarely on the side of innovation.
+
+And so, today, I'm pleased to announce $85.7 million in federal grants to encourage academia and the private sector to join with contributions from the private sector to accelerate the development of fuel cells, advanced engines, hydro-technology and efficient appliances for American consumers. {APPLAUSE}
+
+And today, as well, I want to talk about what's called vampires, and announce to the nation the new vampire slayer, and that's the Secretary of Energy, Spence Abraham. {LAUGHTER ; APPLAUSE} Because of our desire for instant convenience, many of the appliances in our homes carry unnecessarily high energy costs. Because we're used to a computer coming on instantly or a TV snapping on as a result of a remote switch, common day appliances eat enormous amounts of energy. And yet we're developing the technologies necessary to have both convenience and energy savings.
+
+Today, we witnessed the technology necessary, for example, to take a device that powers cell phones, and reduce the amount of electricity by a significant amount of money. You see, when the battery is plugged into the wall, even though the phone is not charging, it still eats energy. And while that may not be much of a savings on an individual unit basis, when you multiply the amount of chargers plugged into people's walls all across America, one can begin to realize significant energy savings all across the country.
+
+As a matter of fact, it said that these vampires, the vampire devices use about 4 percent of the electricity in the average home. And to put this on a national scale, if we multiplied the vampire devices' energy consumption across the country, we're talking about 52 billion kilowatt hours of power a year, or the equivalent of 26 average-size power plants.
+
+And so the fundamental question is, are we able to make the technologies with the consumer devices? And the answer is, we must. We must, if we are to have an energy strategy of which one of the key components is conservation. And so today, not only am I announcing that Spence is the vampire slayer -- and by that, I mean that the federal government will work hard to purchase and promote those energy savers that only use one watt of energy as opposed to the average four or seven watts of energy.
+
+And so, what can we do? What can we do to set the clear example? Well, first, I'm going to sign an executive order directing all federal agencies to purchase appliances that meet the one-watt standard, wherever cost-effective. I say wherever cost effective, because I don't want the manufacturers of the new products to feel that they've got an easy market when it comes to the federal government. We will purchase the new technologies, but we will make sure we do so without getting gouged. We'll be reasonable purchasers. But the federal government must set the example.
+
+We must have -- my dream is to have desktop computers all across our government with the latest savings devices that we saw today on display. Saving devices that say, when the computer is off or on standby, the energy supply being used is reduced by sevenfold. That's necessary. It is the right step for our federal government to set the example. It is the right step for our federal government -- on the one hand, if we lay out an energy strategy, we must act upon the strategy.
+
+And so, Mr. Secretary, when I sign that executive order, I know the kind of person you are. You will join with me in judging how effective our purchasers have become, to whether or not this is simply a piece of paper, or whether or not it becomes an action plan for smart government policy. And both of us are joined together to make sure it's an action plan. {APPLAUSE}
+
+Secondly, we hope industry joins with government in making these wise decisions. That's happening. The bottom line is essential for many corporations. The bottom line can be drastically affected in a positive way by smart energy practices. And it's happening. Imagine the economies of purchase that will take place when the federal government and industry starts making wise decisions about the technologies to save energy, so that it becomes much more feasible for the American consumer in short order.
+
+And finally, we must incorporate the new one-watt standard in the qualifications to earn the energy star as awarded by the Department of Energy and the EPA. The energy star is an important marketing tool, because it says to energy-conscious consumers, this product makes sense; this product incorporates the latest technology to conserve energy; this product is the most efficient use of technology that we can promote.
+
+And we're very aggressive about promoting energy star. I'm a strong supporter of the program, because there are millions of Americans who want to make the right choices, who want to help this nation become less dependent on foreign sources of crude oil, who want this nation to be a nation that has a reliable energy source, and who want to do their part when it comes to purchasing in the marketplace. And energy star is a great way for the federal government to enter into a partnership with consumer product producers, that says, this is the latest, this is the best. And so the Secretary of Energy and the Director of -- Administration of the EPA and my office will work to promote Energy Star all across the country. {APPLAUSE}
+
+Ours is the first administration that has laid out a broad strategy, a comprehensive strategy, a strategy that goes beyond the stale debates of whether or not we ought to drill for natural gas in Alaska, or not. This strategy is much broader than that. And while I strongly believe we ought to explore for natural gas and hydrocarbons without destroying our environment, and I believe we can do so in Alaska, it's important for the American people to understand that we're talking way beyond just one single issue that seems to dominate the landscape here in Washington, D.C.
+
+Ours is a program that says, we must conserve. We must advance technologies that are smart and reasonable and make eminent sense for the future of our country; and that while we're promoting additional supply, we must be wise about how we get supplies to the consumers. We must modernize an aging, decrepit, old, energy-inefficient infrastructure. It's about time an administration came up and told the truth to the American people and laid out a common-sense agenda to make sure the great future of this country is as bright as it possibly can be. {APPLAUSE}
+
+Mr. Secretary, I'm honored to be here. Thank you for the invitation. Again, I want to repeat to all the good, hardworking folks here in this department, thanks for your service to the greatest country on the face of the Earth.
+
+God bless you all, and God bless America. {APPLAUSE}
+
+{/speech}

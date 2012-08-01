@@ -1,0 +1,46 @@
+﻿{title} Remarks by the President and Chancellor Kohl at Airlift Remembrance Ceremony {/title}
+{event} Airlift Remembrance Ceremony {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 14, 1998 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Chancellor Kohl, members of the German government, Mr. Mayor, members of the Diplomatic Corps, the veterans of the Luftbruecke, and to the people of Germany: Fifty years ago this air strip was a pivotal battlefield in a war that had not yet been named. In 1948 the world could not yet speak of another war.
+
+World War II had left Europe devastated and divided. Nowhere was the crisis more acute than here in Berlin. People were hungry and homeless. A hundred years earlier, Karl Marx had declared that a specter is haunting Europe, the specter of communism. In 1948, the specter's shadow fell across half the continent. The edge of that shadow was the runway here at Tempelhof Airport. The last European battlefield of World War II became the first battlefield of the Cold War.
+
+On June 24, 1948, Stalin threw down a gauntlet, refusing to allow supplies to be sent to Berlin. It was war by starvation, with more than 2 million lives hanging in the balance. The blockade stymied the British, the French, the American allies. Some saw no solution and reluctantly advised evacuation.
+
+The fate of free Berlin hung by a thread -- the thread of air support. No one really thought it was possible to supply a city by air. A few visionaries, however, were convinced it could be done. They had no precedent, just the simple rules of conscience and ingenuity that determine all our best actions. And they had a President. On June 28, in a small meeting at the White House, Harry Truman said, there is no discussion on that point, we stay in Berlin, period. {APPLAUSE}
+
+From the moment the largest airlift in history began, the Western allies became protectors, instead of occupiers of Germany. There are so many stories from that proud period -- the leadership of General Clay and General Thomas; the American, British and German casualties we must never forget; the countless acts of individual kindness, like Gail Halvorsen, the famous Rosinenbomber who dropped tiny parachutes of candy to Berlin's children. {APPLAUSE} She is here with us today, and I'd like to ask her to stand. Thank you very much. {APPLAUSE} Thank you, sir. Thank you. He's here.
+
+Thank you, sir.
+
+If the communists could fight with fear, then we would fight back with friendship and faith. {APPLAUSE} Today I salute, along with the Chancellor, all the American veterans who came back to celebrate today. I would like to ask any of them who are here to please stand. {APPLAUSE}
+
+And I salute the people of Berlin. Thousands of Berliners from doctors to housewives rolled up their sleeves to help Americans expand this airfield, building Tegel Airport from scratch, unloading and maintaining the planes. Your fearless Mayor, Ernst Reuter, inspired Americans and Germans alike when he stood before a rally and said, "We cannot be bordered, we cannot be negotiated, we cannot be sold." {APPLAUSE}
+
+And finally I salute the 75,000 people from all around Europe who helped the airlift in some capacity and made it a triumph for people who love freedom everywhere. {APPLAUSE}
+
+Between June of 1948 and May of 1949, over a quarter million sorties were flown around the clock, day and night, in weather good and bad -- roughly, a plane every 90 seconds at its height. But the most precious cargo did not come in the well-named care packages. It was instead the hope created by the constant roar of the planes overhead. Berliners called this noise a symphony of freedom, reminding you that Berlin was not alone and that freedom was no flight of imagination. {APPLAUSE}
+
+Today, a new generation must relearn the lessons of the airlift and bring them to bear on the challenges of this new era. For the Cold War is history, a democratic Russia is our partner, and we have for the first time a chance to build a new Europe, undivided, democratic, and at peace. Yet we know that today's possibilities are not tomorrow's guarantees. For all the promise of our time, we are not free from peril.
+
+That is why I hope both Americans and Germans will always remember the lesson of what happened here 50 years ago. We cannot relinquish the responsibilities of leadership, for the struggle for freedom never ends. {APPLAUSE}
+
+In the heat of the Berlin crisis, General Clay wrote, "I believe the future of democracy requires us to stay." Well, that was the best investment we could have made in Germany's future. It would be difficult to imagine a better friend or ally than modern Germany. {APPLAUSE}
+
+How proud those who participated in the airlift must have been when Germany reunified, when Germany led the effort to unify Europe, and when the modern equivalent of care packages were sent to Bosnia, Afghanistan, and other places ravished by war -- when the people of Germany were among the first to send them. It was a good investment in democracy to stay. {APPLAUSE}
+
+Now, we must continue to build bridges between our two peoples. The Fulbright Program between Germany and the United States is the largest in the world. This fall the American Academy in Berlin will open, bringing our leading cultural figures here. We will be working hard to expand our support for the Congress-Bundestag Youth Exchange, which has already given more than 10,000 German and American students the chance to visit each other's countries. The next century of our cooperation for freedom has already begun in our classrooms. Let us give our young people the chance to build even stronger bridges for the future. {APPLAUSE}
+
+In his Song of the Spirits Over the Waters, Gunther wrote, "Man's soul is like the water. From heaven it descends, to heaven it rises; and down again to Earth, it returns, ever repeating." To me, these lines express the heroism of the airlift. For more than food and supplies were dropped from the skies. As the planes came and went and came and went again, the airlift became a sharing of the soul -- a story that tells people never to give up, never to lose faith, adversity can be conquered, prayers can be answered, hopes realized. Freedom is worth standing up for. {APPLAUSE}
+
+My friends, today, and 100 years from today, the citizens of this great city and all friends of freedom everywhere will know that because a few stood up for freedom, now and forever Berlin lack talk Berlin -- Berlin is still Berlin.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

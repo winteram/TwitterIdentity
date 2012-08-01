@@ -1,0 +1,42 @@
+﻿{title} Remarks by President Clinton, Vice President Gore, Chairman Yasser Arafat, Prime Minister Yitzhak Rabin, President Hosni Mubarak, and King Hussein I at Reception for Heads of State {/title}
+{event} The Corcoran Gallery, Washington, D.C. {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 28, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. On behalf of the First Lady and myself, the Vice President and Mrs. Gore, and Secretary Christopher, we are delighted to welcome all of our visitors from around the world, and especially from the Middle East, the Prime Ministers, the Foreign Ministers, especially Mrs. Rabin and Mrs. Arafat, Mrs. Mubarak, and Her Majesty Queen Noor.
+
+We are delighted to be here again with these four great leaders who have just spoken. I was looking at His Majesty King Hussein when he said he was almost 60, thinking that he has been on the throne for more than 40 years. {APPLAUSE} What I thought to myself was, for myself, I don't object to term limits, but I'm awfully glad he was not subject to them -- {LAUGHTER} -- because the Middle East is a different place because of the way King Hussein has lived his life for peace all these decades.
+
+I thank President Mubarak for the power of his example, the constant strength of his determination. Not so very long ago, my family and I were, as with many Americans, praying for his safety. We are glad to see him strong, leading the world working toward peace. {APPLAUSE}
+
+I agree with Prime Minister Rabin, Chairman Arafat makes a good speech -- and a passionate one. What an interesting turn of events his life has taken, and how fortunate we all are that he decided to take his risks for peace. {APPLAUSE}
+
+Mr. Prime Minister, you give a pretty good speech yourself. {LAUGHTER} I think you give such a good speech because it is obvious to everyone that every word you utter comes from your heart and your mind together, and we thank you. {APPLAUSE}
+
+And to all my fellow Americans and all of you here present, we've heard a lot of wonderful words today. I would like to close with three brief points that I believe should be emphasized. First, I want to recognize the negotiators -- Foreign Minister Peres, Mr. Abu Mazin, Mr. Uri Savir, and Mr. Abu Alaa and their teams. They did this, and we should applaud them. {APPLAUSE} We should applaud them. {APPLAUSE}
+
+I watched today in the Cabinet Room while the Prime Minister and Chairman Arafat literally signed, initialed, the annex to this agreement which included 26 different maps, comprising literally thousands and thousands of decisions that these two sides made. After long and arduous argument, they found common ground. It was an astonishing achievement -- the care, the detail, the concern that they manifested and the effort it took to reach agreement was truly extraordinary. And I do not want that to escape anyone's attention.
+
+The second thing I want to say is that this agreement embodies, for those of us who are Americans, the things that we believe in the most. For this agreement required the acceptance of responsibility, along with the assertion of freedom and independence. This agreement required people to think about the interests of their children and the sacrifices of their parents. This agreement required a real effort to reach principled compromise, common ground and higher ground. And make no mistake about it, this agreement required these decision-makers to do things that may be unpopular in the short run, because they know that 10, 20, 30 years from now, it is the only course for the future of the people that they love. {APPLAUSE}
+
+And that brings me to the second point -- what are our obligations, the rest of us? We can clap for them. But they have to go back to work tomorrow. When the glamour is gone and the applause has died out, they will be back at the hard work. There are two things we can do for them. The first thing we have to do is to stand with them against terrorism. It is the enemy of peace everywhere. {APPLAUSE}
+
+Now we in America know what it is like to see parents grieving over the bodies of their children, and children grieving over the bodies of their parents, because people believe that terrorism is simply politics by other means. We have had our hearts ripped out, and now we know better. So we must stand with them against terrorism.
+
+The second thing we have to do is to work with them to achieve the benefits of peace, for the peace has to bring people the opportunity to work with dignity, to educate their children, to clean up their environment, to invest in their future. Hundreds and hundreds of Arab-Americans and Jewish-Americans have the capacity to work with these people in partnership to transform the future of the Middle East. And I say again, let us do our part. {APPLAUSE}
+
+Finally, let me say to all the members of Congress here present and those who were there this afternoon, I thank you for your presence and your support of this process.
+
+We know that in this era where we have gone from the bipolar world of the Cold War to a global village with all kinds of new and different threats to our security, only the United States can stand consistently throughout the world for the cause of freedom and democracy and opportunity. We know that and we must continue to do that, not simply for the people of the Middle East, but for ourselves as well.
+
+For when we work for peace in Northern Ireland, in Southern Africa, in Haiti, in Bosnia; when we work to dismantle the threat of nuclear war and fight terrorism, we help ourselves and our children's future.
+
+But I will say again what I said today: If we can make peace in the Middle East, if we can help the people who live there to make their own peace, it will have a special meaning for ourselves and for the world in the 21st century for the simple reason that the world's three great religions who believe that one God created us, watches over us and ultimately will hold us to account for what we do -- we all studied through the Koran, through the Torah, through the Holy Bible those lessons -- surely if those people can resolve all their differences, we can bring peace to all the world.
+
+Thank you, and God bless you all. {APPLAUSE} 
+
+{/speech}

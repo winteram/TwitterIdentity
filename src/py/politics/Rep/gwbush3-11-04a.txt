@@ -1,0 +1,38 @@
+﻿{title} Acceptance Speech {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} November 3, 2004 {/date}
+{source} http://www.gwu.edu {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. Thank you all for coming. We had a long night -- and a great night. {APPLAUSE} The voters turned out in record numbers and delivered an historic victory. {APPLAUSE} 
+
+Earlier today, Senator Kerry called with his congratulations. We had a really good phone call, he was very gracious. Senator Kerry waged a spirited campaign, and he and his supporters can be proud of their efforts. {APPLAUSE} Laura and I wish Senator Kerry and Teresa and their whole family all our best wishes. 
+
+America has spoken, and I'm humbled by the trust and the confidence of my fellow citizens. With that trust comes a duty to serve all Americans, and I will do my best to fulfill that duty every day as your President. {APPLAUSE} 
+
+There are many people to thank, and my family comes first. {APPLAUSE} Laura is the love of my life. {APPLAUSE} I'm glad you love her, too. {LAUGHTER} I want to thank our daughters, who joined their dad for his last campaign. {APPLAUSE} I appreciate the hard work of my sister and my brothers. I especially want to thank my parents for their loving support. {APPLAUSE} 
+
+I'm grateful to the Vice President and Lynne and their daughters, who have worked so hard and been such a vital part of our team. {APPLAUSE} The Vice President serves America with wisdom and honor, and I'm proud to serve beside him. {APPLAUSE} 
+
+I want to thank my superb campaign team. I want to thank you all for your hard work. {APPLAUSE} I was impressed every day by how hard and how skillful our team was. I want to thank Marc -- Chairman Marc Racicot and -- {APPLAUSE} -- the Campaign Manager, Ken Mehlman. {APPLAUSE} And the architect, Karl Rove. {APPLAUSE} I want to thank Ed Gillespie for leading our Party so well. {APPLAUSE} 
+
+I want to thank the thousands of our supporters across our country. I want to thank you for your hugs on the rope lines; I want to thank you for your prayers on the rope lines; I want to thank you for your kind words on the rope lines. I want to thank you for everything you did to make the calls and to put up the signs, to talk to your neighbors and to get out the vote. {APPLAUSE} And because you did the incredible work, we are celebrating today. {APPLAUSE} 
+
+There's an old saying, "Do not pray for tasks equal to your powers; pray for powers equal to your tasks." In four historic years, America has been given great tasks, and faced them with strength and courage. Our people have restored the vigor of this economy, and shown resolve and patience in a new kind of war. Our military has brought justice to the enemy, and honor to America. {APPLAUSE} Our nation has defended itself, and served the freedom of all mankind. I'm proud to lead such an amazing country, and I'm proud to lead it forward. {APPLAUSE} 
+
+Because we have done the hard work, we are entering a season of hope. We'll continue our economic progress. We'll reform our outdated tax code. We'll strengthen the Social Security for the next generation. We'll make public schools all they can be. And we will uphold our deepest values of family and faith. 
+
+We will help the emerging democracies of Iraq and Afghanistan -- {APPLAUSE} -- so they can grow in strength and defend their freedom. And then our servicemen and women will come home with the honor they have earned. {APPLAUSE} With good allies at our side, we will fight this war on terror with every resource of our national power so our children can live in freedom and in peace. {APPLAUSE} 
+
+Reaching these goals will require the broad support of Americans. So today I want to speak to every person who voted for my opponent: To make this nation stronger and better I will need your support, and I will work to earn it. I will do all I can do to deserve your trust. A new term is a new opportunity to reach out to the whole nation. We have one country, one Constitution and one future that binds us. And when we come together and work together, there is no limit to the greatness of America. {APPLAUSE} 
+
+Let me close with a word to the people of the state of Texas. {APPLAUSE} We have known each other the longest, and you started me on this journey. On the open plains of Texas, I first learned the character of our country: sturdy and honest, and as hopeful as the break of day. I will always be grateful to the good people of my state. And whatever the road that lies ahead, that road will take me home. 
+
+The campaign has ended, and the United States of America goes forward with confidence and faith. I see a great day coming for our country and I am eager for the work ahead. God bless you, and may God bless America. {APPLAUSE} 
+
+
+{/speech} 

@@ -1,0 +1,40 @@
+﻿{title} Remarks by the President at the Food Quality Protection Act Bill Signing {/title}
+{event} Room 450, Old Executive Office Building {/event}
+{speaker} Bill Clinton {/speaker}
+{date} August 3, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Thank you all for being here today. I'm delighted to see you. I know that a lot of you have come from a very long way away, and I know that was an extreme effort. But I think in some ways the most extreme effort was made by the members of Congress who are here because they finished an exhaustive and very productive week late last night, and I can't believe they're still around in Washington and I want to thank them for staying. Chairman Bliley; Chairman Roberts; Congressmen Waxman, Bilirakis, Condit, Dooley and Richardson.
+
+And I'd like to say a special word of thanks not only to Congressman Dingell, but to Congressman Fazio, who is not here, who also worked on this bill; and to Senator Heflin and Senator Leahy and Senator Lugar; and my friend, Senator Pryor, who worked on this bill, who is not here. And I want to thank the Agriculture Department -- Deputy Secretary Rominger is here and the FDA Commissioner Kessler. And I'd like to thank the members of the administration, especially Carol Browner and Katie McGinty.
+
+I'd like to thank the Vice President, who told me that he held the first hearings on dealing with this issue 15 years ago in the Congress. This issue has been around a long time and it's a great, great day. I'd also like to say that the happiest person in the administration today is Leon Panetta, because in his other life he is a walnut farmer. {LAUGHTER} But I assure you this is not special interest legislation. {LAUGHTER} There's nothing in here with a disproportionate impact on Italian walnut farmers from Northern California -- {LAUGHTER} -- that is, to the best of my knowledge there is nothing.
+
+Ladies and gentlemen, we are here today in celebration and we should be immensely proud of the Food Quality Protection Act that will revolutionize the way we protect food from harmful pesticides. It proves we don't have to choose between a healthy environment and a healthy economy. It shows when we come together across party lines and do the right thing for the American people we can get real results. This is important, not only for what was done, but for how it was done; and I want to thank everyone here who has been a part of it.
+
+From the day I took office I have worked hard to meet what I think is a fundamental promise that we should make to our people. People should know that the food they eat and the water they drink will not make them sick. We strengthened and expanded the Community Right to Know law, which requires industries to tell our citizens what substances are being released into the world around us. Last year we put in place strong new protections to ensure that seafood is safe. Last month we announced steps to revamp our meat and poultry inspection system for the first time in 90 years.
+
+Today we add the cornerstone to this solid foundation with the Food Quality Protection Act. I like to think of it as the "peace of mind" act, because it'll give parents the peace of mind that comes from knowing that the fruits, the vegetables, the grains that they put down in front of their children are safe. It's long overdue. The old safeguards that protected our food from pesticides were written with the best of intentions, but they weren't up to the job. And as you can see from the vast array of support here across every specter of America life, nobody liked them very much and no one thought that they really worked as they were supposed to. Bad pesticides stayed on the market too long, good alternatives were kept out. In this new provision we deal with the problem of existing law, which is that there are strong protections against cancer, but not against other health dangers. There is simply no uniform standard for what's safe.
+
+These weaknesses in the present law cause real problems for everyone involved in producing and distributing our food, and for, most of all, the people who consume it -- especially our children. According to the National Academy of Sciences, infants and young people are especially vulnerable to pesticides -- chemicals can go a long way in a small body.
+
+This Act puts the safety of our children first. It sets a clear, consistent standard for all pesticide use on all foods for all health risks. It sets a standard high -- if a pesticide poses a danger to our children, it won't be in our food, period. The Act will reform the regulatory process for pesticides so that new and safer substitutes will be approved faster, and this is also very important. The sooner they get on the markets, the sooner farmers will be able to use them to replace older pesticides that may pose greater health risks. The pesticides will be reviewed regularly using the best science available.
+
+Third, this legislation will see to it that consumers get the information they need. Supermarkets will be required to provide health information to shoppers about the pesticides used on food they're buying. A family ought to be able to gather for a summer dinner knowing that the food before them will provide nothing more than nourishment and joy. Americans have enough on their minds without having to worry about that. With this legislation, Americans will continue to know that the world's most bountiful food supply is also its safest.
+
+And as I said before, to me, almost as important as what the law does is how it was done. This Act comes to our desk -- to my desk and to our administration -- with the support of farmers and environmentalists, consumer groups and agribusiness and the medical community. After more than a decade of work, these groups have come together to say with this bill, we do not have to choose between a clean environment and a safe food supply and a strong economy. If we do it right, we can have both. It comes with the unanimous backing of every member of Congress in both parties. And I must say, I am gratified to see this, because I see this effort to preserve the environment in a way that will permit us to grow the economy as an essential component of our national security in the 21st century.
+
+Last year, we were fighting about efforts to weaken our most basic safeguards for clean air, clean water, safe food. Now, we see a bipartisan public commitment to the public health. This is an area where we stand on common ground. And as a people, we should continue to stand on common ground.
+
+I want to compliment the Congress for the work that was done in this last week -- moving people from welfare to work, raising the minimum wage, helping small businesses, passing health care reform, making this effort to safeguard our food. Last night Congress passed strong legislation to help keep our drinking water safe. This has been a very good season of progress. Turning away from extremism toward common ground, around opportunity, responsibility and community. I am very pleased. I thank the members of Congress here for their leadership. And I thank the American people, and especially those here represented, for making this day happen.
+
+We're going to do the bill signing now, and I want to invite the children who have come from around the country here to come up, and the members of Congress to come up for the bill signing.
+
+Thank you.
+
+{COMMENT="The bill is signed"} {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,37 @@
+﻿{title} Remarks by the President to People of Joypura, United States Embassy Dhaka, Bangladesh {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 20, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. First let me say to the Prime Minister how delighted I am to be here in Bangladesh, and how much I have enjoyed meeting today with all the people from Joypura. I thank you, Asia, for your teaching. I thank Hasan Abed and the other people who are involved in the BRAC Movement. I thank my longtime friend, Muhammad Yunus, for bringing his people here today who are associated with the Grameen Bank. And I'd also like to thank the people who came with the Asrayon Project that the Prime Minister has founded. Thank you all for making me feel welcome today. 
+
+Bangladesh is a country that, by traditional economic measurement, is still poor. But as I saw today, in terms of the spirit and the ability of the people, it is full of riches. And the challenge we all face is how to unlock the ability -- the brains, the heart, the spirit of the people of Bangladesh -- beginning with the wonderful children that I have seen, but also including the people that I met with the Asrayon Project and the people who have participated in the Grameen Bank. {APPLAUSE} 
+
+I want my fellow Americans and people throughout the world to know that the people of Bangladesh are a good investment in the future. If you look only at the Grameen Bank, it has 2.4 million borrowers in 39,000 villages. Ninety-four percent of the borrowers are women, 98 percent of the loans are repaid. And now, with loans for people to buy cell phones, entire villages are being brought into the Information Age. I want people throughout the world to know this story. {APPLAUSE} 
+
+I want to thank the Prime Minister and the people involved in the Asrayon movement for setting a goal that no person in this country should be homeless. That should be every nation's goal. {APPLAUSE} And I want to thank the teachers and the supporters of the BRAC School for showing us that all our children can learn and they all deserve the chance to learn. 
+
+I also want to thank your government and industry for working with the International Labor Organization and the United States to take some 9,000 children out of garment factories and put them in classrooms. There are children here today, including a group from a special ILO-supported school that our United States Senator Tom Harkin told me about, that he visited two years ago. I thank you for doing that, as well. 
+
+I want to continue to support all these projects. I am pleased to announce today that the United States will commit several million dollars to help another 30,000 Bangladeshi children move from work in hazardous industries into schools that will give them safer, better futures. {APPLAUSE} 
+
+We will work with the ILO and Grameen to help 3 million women in rural areas gain access to micro health insurance. And we will commit several million dollars to help women get new skills, improve working conditions, and secure fair representation in trade organizations. 
+
+We will also provide several million dollars to support another Grameen program, a solar cell program to use the clean energy of the sun to generate power in villages throughout Bangladesh -- cheap power, clean power, power that will empower all kinds of people to raise their incomes in different ways in the next few years. {APPLAUSE} 
+
+I would like to make just two points in closing. First of all, I want to bring greetings from my wife who preceded me to Bangladesh. She and our daughter came here a few years ago. And she told me of all the good things that were going on here, and she urged me to have the United States do more to support the Grameen Bank, to support your government, to support efforts to unleash the ability of your children and your families to build a better future. 
+
+And, finally, I would like to thank all of you who shared your stories with me today. Many of you have overcome great obstacles in your lives. Many of you still face great challenges. But you convinced me again that no one -- no one -- should believe that poverty is destiny, that people have to remain poor, that their children cannot learn and do better. You have made me believe more strongly than ever that every child in this world should be given the chance to dream and to live those dreams. {APPLAUSE} 
+
+Because I have been privileged to be President of the United States, I have traveled all over the world. I have met with the wealthiest and most powerful people in the world. I have been in the most successful communities in the world. I have also been in the poorest villages of Africa, of Asia, of Latin America. And I believe, more strongly today than ever, that intelligence and ability and a human spirit are evenly distributed across the rich and the poor, in every continent on Earth. {APPLAUSE} 
+
+And everyone must have a chance. Every little boy and every little girl must have a chance. I will do what I can to be a good partner and a good friend in that endeavor in Bangladesh. 
+
+Thank you very much. {APPLAUSE} 
+
+{/speech} 

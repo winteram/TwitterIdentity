@@ -1,0 +1,98 @@
+﻿{title} President's Remarks at Dinner {/title}
+{event} Remarks by the President at Bush-Cheney 2004 Dinner, San Diego Convention Center, San Diego, California {/event}
+{speaker} George W. Bush {/speaker}
+{date} August 14, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thanks for the warm welcome. It's really great to be back in San Diego, California. What a fabulous city. {APPLAUSE} I want to thank you for your help. You all have done a tremendous job of helping us get started in the campaign. The way I look at it is, you're laying the groundwork for what will be a great, nationwide victory in November of '04. {APPLAUSE}
+
+I appreciate your generosity. But I'm going to warn you, I need your help in energizing the grass-roots, for putting up the signs and making the phone calls and telling your fellow citizens -- Republican, Democrat, independent, could care less -- that ours is a message that is hopeful for every, single person who lives in this country. {APPLAUSE}
+
+I'm loosening up. {LAUGHTER} And I'm getting ready. But the political season will come in its own time, because I have a job to do for the American people. I'm focused on the people's business. We have a lot on our agenda, and over the next months I will continue to work hard to earn the confidence of our fellow Americans by making sure America is secure and strong and prosperous and free. {APPLAUSE}
+
+My only regret is that First Lady Laura Bush isn't here tonight, too. {APPLAUSE} She is visiting her mother in Midland, Texas.
+
+{AUDIENCE-MEMBER} {COMMENT="Inaudible"} {/AUDIENCE-MEMBER} 
+
+You're right. {LAUGHTER} I am really proud of her. She is a fabulous First Lady, but most important, she's a great mother and a great wife and I love her dearly. {APPLAUSE}
+
+I want to thank my friend, Brad Freeman. I thought for a minute he was going to announce for governor, he spoke so long. {LAUGHTER} He's been a long-time friend, just as has Gerry Parsky. Both of these friends are working hard in '04, just like they did -- for the '04 election, just like they did in 2000. I'm proud to stand with them.
+
+I also want to thank my friend Mercer Reynolds. Mercer is from Cincinnati, Ohio. He's dedicating a lot of time to make sure our national finance effort is as strong as I know it's going to be. I appreciate you, Mercer.
+
+We've got members of the congressional delegation here today from the mighty state of California. Duncan Hunter, and Duke Cunningham, and Darrell Issa, I'm honored they're here. {APPLAUSE}
+
+I appreciate the Mayor, Dick Murphy, for greeting me. Mr. Mayor, thank you for your strong support. {APPLAUSE} I want to thank the event co-chairmen here from San Diego. You all have done a fantastic job. I'm proud to call you friends, and I thank you for your support. {APPLAUSE}
+
+In the last two-and-a-half years, our nation has acted decisively to confront great challenges. I came to this office to solve problems, not to pass them on to future Presidents and to future generations. {APPLAUSE} I came to seize opportunities, instead of letting them slip away, and we are meeting the tests of our time.
+
+Terrorists declared war on the United States of America, and war is what they got. {APPLAUSE} We have captured or killed many key leaders of the al Qaeda network, and the rest of them know we're on their trail. In Afghanistan and Iraq, we gave ultimatums to terror regimes. Those regimes chose defiance, and those regimes are no more. {APPLAUSE} Fifty million people in those two countries once lived under tyranny, and now they live in freedom. {APPLAUSE}
+
+Two-and-a-half years ago, our military was not receiving the resources it needed, and morale was beginning to suffer. We increased the defense budget to prepare for the threats of a new era. And, today, no one in the world can question the skill and the strength and the spirit of the United States military. {APPLAUSE}
+
+Two-and-a-half years ago, we inherited an economy in recession. And then our country was attacked. And scandals in corporate America became evident. And war began to affect the people's confidence. But we acted. We passed tough new laws to hold corporate criminals to account. And to get the economy going again, I have twice led the United States Congress to pass historic tax relief for the American people. {APPLAUSE}
+
+Here is what I believe and here is what we know: when Americans have more take-home pay to spend, to save or invest, the whole economy grows, and people are then more likely to find a job. {APPLAUSE}
+
+I also understand whose money we spend in Washington. It's not the government's money, it's the people's money. {APPLAUSE} We're returning more money to people to help them raise their families. We're reducing taxes on dividends and capital gains to encourage investment. We're giving small businesses incentives to expand and hire new people. With all these actions, we've laid the foundation for greater prosperity and more jobs across America so that every single person in this country can realize the great American Dream. {APPLAUSE}
+
+Two-and-a-half years ago, there was a lot of talk about education reform, but there wasn't much action. So I called for, and Congress passed, the No Child Left Behind Act. With a solid bipartisan majority, we delivered the most dramatic education reforms in a generation. We bring high standards and strong accountability measures to every public school in America. See, we believe every child can learn the basics of reading and math, and we expect every school to teach the basics of reading and math. {APPLAUSE}
+
+This administration is challenging the soft bigotry of low expectations. The days of excuse-making are over. We expect results in every classroom all across America so that not one single child is left behind. {APPLAUSE}
+
+We reorganized the government and created the Department of Homeland Security to safeguard our borders and ports and to protect the American people. We passed trade promotion authority to open up new markets for California's manufacturers and entrepreneurs and ranchers and farmers. We passed a budget agreement that is helping to maintain spending discipline in Washington, D.C. On issue after issue, this administration has acted on principle, has kept its word, and has made progress for the American people. {APPLAUSE}
+
+The United States Congress has shared these great achievements, and I appreciate the hard work of the members of Congress. I enjoy a great relationship with Speaker Denny Hastert and Majority Leader Bill Frist. We're going to continue to work together to change the tone of Washington and focus on the people's business by focusing on results. And those are the kind of people I've asked to serve in my administration. I have put together a fantastic team of Americans to serve the American people. {APPLAUSE}
+
+We've got no finer Vice President in our history than Dick Cheney. {APPLAUSE} Mother might have a different view. {LAUGHTER} 
+
+In two-and-a-half years, we have come far -- but our work is only beginning. I have set great goals, worthy of a great nation. First, America is committed to expanding the realm of freedom and peace for our own security and for the benefit of the world. And, second, in our country we must work for a society of prosperity and compassion, so that every citizen has a chance to work and succeed and to realize the great promise of our country.
+
+It is clear that the future of freedom and peace depends on the actions of America. This nation is freedom's home, and freedom's defender. We welcome this charge of history and we're keeping it. {APPLAUSE}
+
+Our war on terror continues. The enemies of freedom are not idle, and neither are we. This country will not rest, we will not tire and we will not stop until this danger to civilization is removed. {APPLAUSE}
+
+Yet, our national interest involves more than eliminating aggressive threats to our safety. Our greatest security comes from the advance of human liberty, because free nations do not support, free nations do not attack their neighbors and free nations do not threaten the world with weapons of mass terror. Americans believe that freedom is the deepest need and hope of every human heart. We believe that freedom is the right of every person. And we believe that freedom is the future of every nation. {APPLAUSE}
+
+America also understands that unprecedented influence brings tremendous responsibilities. We have duties in the world. When we see disease and starvation and hopeless poverty, we will not turn away. In the continent of Africa, this great, compassionate, strong nation is committed to bringing the healing power of medicine to millions of men and women and children now suffering with AIDS. This great land is taking the lead. We are leading the world in this incredibly important work of human rescue. {APPLAUSE}
+
+We face challenges at home, and our actions will prove that we're equal to those challenges. I will continue to work to create a favorable condition for economic growth and vitality, until everybody who wants to work and can't find a job today will be able to find a job. {APPLAUSE}
+
+And we have a duty to keep our commitment to America's seniors by strengthening and modernizing Medicare. A few weeks ago, Congress took historic action to improve the lives of older Americans. For the first time since the creation of Medicare, the House and the Senate have passed reforms to increase the choices for our seniors and to provide coverage for prescription drugs. The next step is for both Houses to come together to iron out some details and to get a bill to my desk. We have an obligation to the seniors of America to modernize the Medicare system. {APPLAUSE}
+
+And for the sake of our health care system, we need to cut down on frivolous lawsuits which increase the cost of medicine. {APPLAUSE} People who have been harmed by a doctor deserve their day in court. Yet, the system should not reward lawyers who are simply fishing for rich settlements. {APPLAUSE} Because frivolous lawsuits drive up the cost of health care, they affect the federal budget. Medical liability reform is a national issue that requires a national solution.
+
+The House of Representatives has passed a good bill to reform the system. The bill is stuck in the Senate. The Senate must act on behalf of the American people. They must realize that nobody in America has ever been healed by a frivolous lawsuit. {APPLAUSE}
+
+I have a responsibility as President to make sure the judicial system runs well. And I've met that duty. I have nominated superb women and men for the federal courts, people who will interpret the law, not legislate from the bench.
+
+In California, I've nominated Carolyn Kuhl to the 9th Circuit Court of Appeals. She has tremendous bipartisan support. She's respected as a state judge. Yet, some senators are distorting Judge Kuhl's record, and they're threatening to block an up-or-down vote. And this is happening to too many of the judges I've nominated, and it is wrong. All the judicial nominees deserve a fair hearing and an up-or-down vote on the Senate floor. It is time for some members of the United States Senate to stop playing politics with American justice. {APPLAUSE}
+
+The United States Congress needs to complete work on a comprehensive energy plan. Our nation must promote energy efficiency and conservation. We must work to develop cleaner technology to help us explore for energy in an environmentally sensitive way. Yet, for the sake of economic security and for the sake of national security, we must be less dependent on foreign sources of energy. {APPLAUSE}
+
+Our strong and prosperous nation must also be a compassionate nation. I will continue to advance our agenda of compassionate conservatism by applying the best and most innovative ideas to the task of helping fellow citizens in need.
+
+There are still millions of men and women who want to end their dependence on government and become independent through hard work. We must build on the success of welfare reform to bring work and dignity into the lives of more of our citizens. Congress should complete the Citizen Service Act so more Americans can serve their communities and their country. And both Houses should reach agreement on my faith-based initiative to support the armies of compassion that are mentoring children, that are caring for the homeless, and that are offering hope to the addicted.
+
+A compassionate society must promote opportunity for all, including independence and dignity that come from ownership. This administration is firmly committed and will constantly strive to promote an ownership society in America. {APPLAUSE} We want more people owning their home. We have a minority home ownership gap in America, and I have put forth a plan to solve it.
+
+We want more people to manage and own their own health care accounts. We want people to own and manage their own retirement accounts. {APPLAUSE} We want more people to own and operate their own small business, because, you see, we understand that when a person owns something in America, he or she has a vital stake in the future of our country. {APPLAUSE}
+
+In a compassionate society, people respect one anther and take responsibility for the decisions they make. We're changing the culture of America from one that has said, if it feels good, do it, and if you've got a problem, blame somebody else, to a culture in which each of us understands we are responsible for the decisions we make in life. If you are fortunate enough to be a mom or a dad, you're responsible for loving your child with all your heart and all your soul. {APPLAUSE}
+
+If you're concerned about the quality of education in your community, you're responsible for doing something about it. {APPLAUSE} If you are a CEO in America, you're responsible for telling the truth to your shareholders and your employees. {APPLAUSE} And in this new responsibility, each of us is responsible for loving our neighbor just like we'd like to be loved ourselves. {APPLAUSE}
+
+Things are changing in America to the better. We can see a culture of service and responsibility growing around us. I started what we call the USA Freedom Corps to encourage Americans to extend a compassionate hand to neighbors in need. And the response has been fantastic. People are signing up. People want to serve something greater than themselves.
+
+Our charities and our faith-based institutions are strong and they're vibrant, bringing important help to people who hurt. Policemen and fire fighters and people who wear our nation's uniform are reminding us what it means to sacrifice for something greater than yourself. Once again, the children of America believe in heros because they see them every day.
+
+In these challenging times, the world has seen the resolve and the courage of America. And I've been privileged to see the compassion and the character of the American people. All the tests of the last two-and-a-half years have come to the right nation. We're a strong country, and we use that strength to defend the peace. We're an optimistic country, confident in ourselves and in ideals bigger than ourselves.
+
+Abroad, we seek to lift whole nations by spreading freedom. And at home, we seek to lift up lives by spreading opportunity to every corner of America. This is the work that history has set before us, and we welcome it. And we know that for our country and for our cause, the best days lie ahead.
+
+Thank you for coming. May God bless. {APPLAUSE} 
+
+{/speech}

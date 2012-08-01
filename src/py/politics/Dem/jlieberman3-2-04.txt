@@ -1,0 +1,75 @@
+﻿{title} Senator Joseph Lieberman Quits Presidential Race {/title}
+{event} ----- {/event}
+{speaker} Joseph Lieberman {/speaker}
+{date} February 3, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. 
+
+{AUDIENCE} Let's go, Joe. Let's go, Joe. {/AUDIENCE} 
+
+{AUDIENCE-MEMBER} I love you, Joe. {/AUDIENCE-MEMBER} 
+
+I love you back, and thank you.
+
+You know, I know that the results are disappointing tonight. But with Chris Dodd, my colleagues from the Congress, Rosa DeLauro, John Larson, Eliot Engel, Dennis Cardoza, Cal Dooley, with my family here, I got to tell you, I feel like a winner, and so should you. {APPLAUSE} Thank you.
+
+The judgment of the voters is now clear. And I want to congratulate John Kerry and John Edwards on the victories that they have won today.
+
+And I want to thank Wes Clark and Howard Dean and Dennis Kucinich and Al Sharpton for their willingness to serve our country and for all that each of them has already contributed to this campaign and our great Democratic Party. {APPLAUSE} Thank you.
+
+But for me it is now time to make a difficult but realistic decision. 
+
+After looking at the returns and speaking with my family and my campaign team, I have decided tonight to end my quest for the presidency of the United States of America. 
+
+Am I disappointed? Naturally. But am I proud of what we stood for in this campaign? You bet I am. {APPLAUSE} Thank you.
+
+Am I grateful -- am I grateful for the support that I received from all of you and so many people around the country? Yes, I am deeply grateful.
+
+And am I committed to continuing to fight for the causes we campaigned for? You bet I am. {APPLAUSE}
+
+Yes, indeed.
+
+I will continue to fight for a politics that puts the national interest ahead of special interests or partisan interests, for a Democratic Party that speaks openly and confidently about the importance of values and faith in our lives, for a Democratic Party that is strong on defense and unwavering in the war against terrorism and tyranny at home and throughout the world. {APPLAUSE}
+
+And I will keep working in every way I can to unite our people across lines of party and race and ethnicity and gender. We need to come together now as one people. We've been attacked by enemies who hate us more than they love life. Surely, in this difficult hour, we Americans can find common ground on which to build a safer and a better future for our children. 
+
+I take great pride in the new ideas we fought for over the course of the last year, good ideas that will stand the test of time. 
+
+I offered a mainstream voice, and I still believe that that is the right choice and the winning choice for our party and our country. {APPLAUSE}
+
+In this campaign, I may not have shouted the loudest, but I'm proud -- {LAUGHTER}
+
+But I am proud that I took the toughest positions in support of what I believed was right for our great country, even when it wasn't popular. {APPLAUSE}
+
+And I must say that I was honored and encouraged that the clarity and consistency of our message won the endorsements of great newspapers from coast to coast across our land.
+
+But today the voters have rendered their verdict, and I accept it. 
+
+And let me say this: I am ready to support our party's nominee and do whatever I can to deny George Bush a second term and give the American people a fresh start. {APPLAUSE}
+
+I want to say that the gratitude that I feel to all who stood by me and all who came to my side in this campaign is more than I probably could express in words. But let me just offer a few thank yous -- a few first thank yous.
+
+First, to my 89-year-old mother, Marcia -- {APPLAUSE} -- whose spirit is indomitable and whose behavior was inspiring in this campaign, as it has been throughout my life. 
+
+To my wife Hadassah, my beloved wife Hadassah, who could ask for a more devoted, effective and beautiful spouse than Hadassah Lieberman. {APPLAUSE}
+
+She would have made a great first lady. But I am the lucky one, because she remains and always will be my first lady. {APPLAUSE}
+
+To our children who worked so hard in this campaign and give us such hope in our future and America's future; to our sisters and brothers-in-law and all of our family; to my staff, my campaign team and our supporters around America who really became to Hadassah and me like extended family -- we cannot thank you enough.
+
+And to the people of Connecticut whose support over 30 years enabled me to have the honor and opportunity I had this year to run for the presidency of the United States, I thank you all from the bottom of my heart.
+
+Thank you very, very, very much. {APPLAUSE}
+
+Dear friends, a campaign ends, but life goes on. I consider myself to be a very lucky man. I have a great family, wonderful friends and an extraordinary opportunity to serve my beloved country as a United States senator. {APPLAUSE}
+
+So tomorrow when I wake, the first words I will say are the first words I say every morning. I will thank God for blessing me with another day of life. And I will pledge myself in the traditional words to serve the Lord during the day with as much gladness and purpose as I possibly can, to work to improve the world around me.
+
+So although the campaign is over now, our journey and our purpose must go on. There are people who need our help here in America. 
+
+{/speech} 

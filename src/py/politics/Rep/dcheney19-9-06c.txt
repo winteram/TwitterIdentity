@@ -1,0 +1,36 @@
+﻿{title} Vice President's Remarks at the Swearing-In Ceremony of Mark Rosenker as Chairman of the National Transportation Safety Board {/title}
+{event} National Transportation Safety Board Headquarters, Washington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} September 19, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Please, at ease. {LAUGHTER} Well, thank you very much for the warm welcome. It's good to be here today on a very special occasion.
+
+My duty today is to administer the oath of office to a fine American, and to the President's own choice to lead the National Transportation Safety Board. I know it's a proud moment for Mark and Heather. Mark was, of course, recently confirmed by the U.S. Senate -- and I note that the nomination got through without me having to cast the tie-breaking vote. {LAUGHTER} It's a good sign, Mark.
+
+The President and I are very pleased that Mark has accepted this opportunity to continue to serve the nation. He's an experienced public servant, an outstanding manager, a leader who knows how to set a goal and to get the job done, and to work until the job is done. He'll maintain the high standards that this agency has built throughout the years, and a reputation for integrity and professionalism as independent investigation for major accidents. In all modes of transportation, the NTSB is the agency that comes in, that determines what happened, looks for ways to make such accidents less likely in the future. Over the years, the agency has raised the standards of transportation in many, many ways. Every time we see child safety seats in automobiles; smoke detectors in airplane lavatories; emergency exit windows on commuter trains; or fire sprinklers on cruise ships we are looking at the results of NTSB investigations and recommendations.
+
+Because of the respect for the NTSB across the country, more than 80 percent of your safety recommendations have been adopted by federal, and state governments -- and by industry -- to improve the transportation, and the safety of our transportation system. There is no way to calculate how many lives have been saved over the last four decades by the work that this agency has accomplished.
+
+Ten years ago, when it became obvious that someone needed to take charge of the very important matter of dealing with families after catastrophic aviation accidents, the government turned to the NTSB. And here, too, the agency has operated with compassion, sensitivity, and professionalism. In fact, counterparts from around the world come to the National Transportation Safety Board training center to learn how to handle these issues in their own countries.
+
+The President and I also greatly appreciate the work of this agency in supporting the FBI during the weeks after 9/11, as well as the assistance that you gave to the Red Cross and to local authorities in the aftermath of Hurricane Katrina. NTSB employees are the best in the business, carrying out important, worthwhile, effective work each and every day.
+
+We're proud of your service -- and we're also proud of your new leader. I've known Mark Rosenker for a number of years, and, of course, worked closely with him while he was the head of the Military Office in the White House. He ensured tremendous support from the Air Force and Marine Corps for our aircraft, oversaw the workings of the White House Communications Agency, as well. Mark was even responsible for some of those secure, undisclosed locations where I've been known to spend some of my time. {LAUGHTER} He was very effective at that job, as one would expect of a major general in the Air Force Reserve.
+
+All told, Mark Rosenker has received six presidential appointments, nominations, or distinctions in the last five-and-a-half years -- and that's a reflection of our confidence in him. During his time at the Board, he's helped to maintain the stellar reputation of this agency. And under his leadership, when a major transportation accident occurs in the United States, all Americans can be certain that the finest investigators are on the job -- asking the right questions, getting to the bottom of the matter, and applying the lessons in effective, practical ways for the benefits of us all.
+
+Now it's my honor to administer the oath of office to the 11th Chairman of the National Transportation Safety Board, who assumes this important office with the trust and the good wishes for all of us. Mark, please step forward for the oath of office.
+
+If you'll raise your right hand.
+
+{OTHER-SPEAK} Yes, sir. {/OTHER-SPEAK} 
+
+That's always the first test. {LAUGHTER}
+
+{COMMENT="The oath is administered"} 
+
+{/speech}

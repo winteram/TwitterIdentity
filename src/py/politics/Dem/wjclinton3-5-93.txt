@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President at Proclamation Signing for Asian Pacific American Heritage Awareness Month {/title}
+{event} Proclamation Signing for Asian Pacific American Heritage Awareness Month {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 3, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President Asian American Heritage {/description}
+
+{speech} 
+
+Thank you very much. Let me begin by extending a warm welcome to all of you, especially those who have traveled very great distances, as many of you have, to help celebrate Asian Pacific American Heritage Month.
+
+I'm pleased to be joined on the stage by Senator Dan Akaka, with whom I played golf last weekend -- {LAUGHTER} -- less well than he did, I might add; and Representatives Bob Matsui, Norm Mineta, Robert Underwood, Patsy Mink; Eni Faleomavaega -- did I do a good job? Pretty good? {LAUGHTER ; APPLAUSE} And Jay Kim.
+
+And let us also honor the memory of the late Senator Spark Matsunaga, who left such a wonderful legacy as a true friend of the Asian Pacific community.
+
+My campaign and my administration have gained so much from the talents of Asian Pacific Americans, and I'd like to recognize just a few of them: Barbara Chow, my Special Assistant for Legislative Affairs; Neil Dhillon, at the Department of Transportation; Atul Gawande, who has been working on the Health Care Task Force; Maria Haley on our personal staff; Goody Marshall with the Vice President's staff; Doris Matsui in Public Liaison who did such a wonderful job with this event; Shirley Sagawa in Legislative Affairs; Debra Shon at the United States Trade Representatives Office; Melinda Yee at the Department of Commerce; and many others who are an essential part of our efforts every day.
+
+Fifteen years ago, Representative Frank Horton introduced the first resolution proclaiming American -- Asian Pacific American Heritage Week, honoring the significant contributions of Asian Pacific Americans in all walks of life. In 1990, Congress designated and President Bush proclaimed the month of May as Asian Pacific Heritage Month. And last year, with the help of Representative Horton and 106 of his colleagues, the designation of May as Asian Pacific Heritage Month each year became the law of the land.
+
+The month of May was chosen because of its significance to Asian Pacific American history. In the first week of May in 1843, the first Japanese arrived in America. And on May 10, 1869, Golden Spike Day, the Transcontinental Railroad, built partly with Chinese labor, was completed. Today, 150 years after these historic events, nearly eight million Asian Pacific Americans can trace their roots to Asia and the islands of the Pacific.
+
+It is astonishing to realize the breadth of diversity among Americans of Asian Pacific heritage. The Asian Pacific community stretches across thousands of miles and encompasses millions of diverse people. In our country the Asian Pacific American community can trace its roots to at least 25 different nationalities, more than 75 different languages, and literally hundreds of different ethnic groups. Now, that's diversity.
+
+And still Asian Pacific Americans have something in common and something to emulate -- a commitment to strong families, to community, and to instilling in each new generation a respect for educational opportunity and hard work. These values have been an essential part of success in achieving the American Dream, as so many Asian Pacific Americans know.
+
+And while we realize all the rich opportunities America has given to all our people, we are aware also of how much Asian Pacific Americans have given back to this country. Immigrants from Asia and the Pacific helped build our country. Today their descendants are making us even better. They are prominent among our scientists, artists, doctors, teachers and other professionals who have enriched the lives of all of us in America.
+
+I want to talk for a moment about the importance of education. The Asian Pacific community has demonstrated that a commitment to education is truly the key to bettering our lives. Among Asian Pacific Americans 25 years old and over, 82 percent have had four years of high school or more; 39 percent have completed four years of college or more. For individuals, education is the key to economic parity and social mobility. But for America, it is the key to our strength and our competitiveness in the global economy.
+
+I want to thank you all again for coming here today to recognize all the achievements and the contributions that Asian Pacific Americans have made to this great nation. I hope that we can continue to come together as we have today to rejoice in our diversity as we renew the bonds of community that bring all Americans together. I believe that if we embrace those things which we share, if we embrace our common values and our common goals, we strengthen ourselves, our community and our democracy and we make ourselves free to celebrate the richness of our diversity.
+
+Therefore, it is with great pride and admiration that I take this opportunity, my first one, to sign the proclamation proclaiming this Asian Pacific American Heritage Month. Thank you very much. {APPLAUSE}
+
+The proclamation is signed {APPLAUSE} 
+
+{/speech}

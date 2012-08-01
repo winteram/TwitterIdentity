@@ -1,0 +1,46 @@
+﻿{title} Remarks by President Clinton and President Aristide of Haiti {/title}
+{event} Outside West Wing Lobby {/event}
+{speaker} Bill Clinton {/speaker}
+{date} October 14, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+President Aristide, distinguished Haitian guests; to the distinguished members of Congress who are here -- Senator Dodd, Congressman Rangel, Congressman Conyers, Congressman Oberstar, Congressman Combest -- to the members of the United States military and their families who are here; to the friends of Haiti and the process of peace and reconciliation:
+
+Three years ago, the international community, led by the United States, set out to restore Haiti's democratically-elected government. Today, on the eve of President Aristide's return to his beloved nation, we mark the end of one stage of the long and difficult journey and the beginning of a new era of hope for the people of Haiti.
+
+Halfway around the world, America's armed forces are also bringing a message of hope and confidence to the people of Kuwait. Our troops have responded rapidly to the threat from Iraq, and I have ordered that the deployment of personnel and equipment to the area continue. Let there be no mistake: The United States will not allow Iraq to threaten its neighbors.
+
+In Haiti, the men and women of our armed forces have protected our national interests and advanced the democratic values we Americans hold so dear. We've helped to curb the violence that threatened tens of thousands of Haitians, to secure our own borders, to bring democratically-elected government to the 34th of our hemisphere's 35 nations, to uphold the reliability of our own commitments and the commitments others make to us. In so doing, we have helped to give the people of Haiti a chance to remake the democracy they earned, they deserve, and they so plainly wish. President Aristide's return to Haiti is a victory for freedom throughout the world.
+
+More than three years have passed since a bloody coup stole the Haitian people's first elected government. But the road back to democracy, as we all know, has been strewn with obstacles and dangers. Despite exhaustive efforts -- diplomatic condemnation, economic sanctions, United Nations resolutions -- the brutality of the military regime and its hired guns increased day by day. Haiti sank deeper into poverty and chaos. Only the combination of the imminent American-led invasion and the skillful diplomacy by President Carter, General Powell, and Senator Nunn brought this terrible chapter in Haitian history to a close. General Powell is here today, and on behalf of the American people sir, I thank you for your mission and for what you did. {APPLAUSE} Thank you.
+
+Just one month later, today, the generals have stepped down from power and left Haiti. The Haitian people have begun to move from fear to freedom. American troops and those of our coalition partners are restoring basic security and civil order. They have helped more than 3,700 refugees to go home from Guantanamo. {APPLAUSE} The Haitian Parliament has once again has opened its doors. The Mayor of Port-au-Prince is back in office, and the lights are on in more ways than one. {APPLAUSE}
+
+In a few short weeks, these things have paved the way for President Aristide's return. Haiti's voyage back to reclaim its democratically-elected government is surely a cause for celebration. But the days and weeks ahead will be full of arduous work and they will not be free of danger.
+
+Now, more than ever, I urge the Haitian people to come together in a spirit of reconciliation and peace -- the spirit so eloquently advanced by President Aristide himself. As he has said, there should be no vengeance, no violence, no retribution. This is a time for peace. That is what the United States and its coalition partners are working for, and I am certain that that spirit will continue to prevail when the multinational force turns its responsibilities over to the United Nations.
+
+President Aristide's return to Port-au-Prince sets the stage for the Haitian people to take control of their future. The task is large to strengthen and young and fragile democracy; to build a new economy based on opportunity, small enterprise and steady development. The international community has pledged to do all it can to help, starting with a one-year, $550-million reconstruction and recovery program, to fund humanitarian relief, provide economic assistance, support the institutions that must become a permanent foundation for Haitian democracy.
+
+To help launch the economic recovery more immediately, I am pleased to announce that today I will sign an executive order lifting all economic sanctions against Haiti after President Aristide returns. {APPLAUSE} Now that the coup leaders have departed, democracy is being restored, the sanctions have clearly served their purpose, by lifting banking, trade and travel restrictions, we can help to give back to the Haitian people the opportunities they need to grow and to prosper and to preserve their freedom.
+
+Ultimately, the task of rebuilding Haiti belongs to the people of Haiti themselves. Theirs will be a long and hard road. Each and every citizen must make a contribution. It will take a lot of patience, but it will be a joyous effort if it is done in the right spirit and if the rest of us do our part to help.
+
+The progress will begin with reconciliation, as the President has said. He will go home in that spirit, vowing to oppose all who seek revenge and retribution. Tomorrow, when he resumes his duties, as he has said, it will be just the beginning. But what a beginning it is.
+
+President Aristide has also vowed to step down at the end of his term, leaving his office to the next democraticallyelected president. In one of the most insightful comments about democratic government I have ever heard, he has said that when you start a democracy the most important election is the second one. This is the kind of insight that will serve Haiti so well in the years ahead.
+
+Let me conclude by expressing my gratitude to all those who have done their part to give Haiti a second chance, something we need more for not only countries, but people in this old world. I thank the 30 countries whose troops are in Haiti as part of the multinational coalition, and all the nations who joined our multilateral efforts in the Caribbean Community, the Organization of American States, and United Nations. Your efforts have made our hemisphere safer, and sent a message of resolve around the world.
+
+I thank the men and women of our armed forces who have answered the call and performed a difficult job with skill, devotion and humanity. You are the steel and the sword of America's diplomacy. Thanks to your efforts the world knows that we will stand for democracy, honor our commitments, and expect others to honor theirs.
+
+I thank especially the families of our service members here at home -- those who make such great sacrifices. Some of them, including the children, are here today, and I would like to ask them to stand and be recognized. The families of the service people serving in Haiti. {APPLAUSE}
+
+And finally, to the American people, I say that, although we are not, we cannot, and we should not be the policemen of the world, we have proved once again that American will stand up for others when the cause is clear, the mission is achievable and our interests are at stake. The American people have done the right thing in Haiti. They have stood for what is best about America. And because of the support of the American people, democracy will be stronger tomorrow than it is today all around the world. {APPLAUSE}
+
+Finally, to President Aristide and the people of Haiti, for three years you have kept faith against all odds that one day a government of the people would be restored to your native land. Tomorrow will be that day. You have survived decades of violence, terror, poverty with dignity, pride and hope. Now you and your people will have the opportunity to make democracy work for yourselves; to let all the children we are tired of seeing in turmoil on our newscasts become a part of that vast mass of humanity in free societies seeking their God-given potential. I say to you, bonne chance, ayete toma. Good luck and long live Haiti. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,40 @@
+﻿{title} President Honors Dr. Martin Luther King, Jr. at "Let Freedom Ring" Celebration {/title}
+{event} John F. Kennedy Center for the Performing Arts, Washington, D.C. {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 16, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, all. Thanks for the kind introduction. Thanks for the invitation to be here. It's an honor to join you on this national holiday celebrating one of America's most important lives: Martin Luther King, Jr. {APPLAUSE}
+
+Every year on this day we reflect on the great movement for civil rights that transformed our country. We remember leaders like Rosa Parks, who today is being honored with the John Thompson, Jr. Legacy of a Dream Award. And we recommit ourselves to working for the dream that Martin Luther King gave his life for: an America where the dignity of every person is respected; where people are judged not by the color of their skin -- by the content of their character; and where the hope of a better tomorrow is in every neighborhood in this country.
+
+I'm sorry Laura is not with me. She's leading a delegation to Liberia for the swearing-in of President Johnson Sirleaf -- {APPLAUSE} -- who, by the way, is the first elected woman President on the continent of Africa. {APPLAUSE}
+
+I want to thank Dr. DeGioia and the good folks at Georgetown University. I want to thank the members of my Cabinet who are here. By the way, Condoleezza Rice is not here, because she's with Laura. {LAUGHTER} I want to thank Majority Leader Bill Frist and his wife, Karyn; other members of Congress who are here. I appreciate Bruce Gordon, the president of the NAACP, for his strong leadership. {APPLAUSE}
+
+It is such an honor always to be in the presence of Dorothy Height. {APPLAUSE} And I want to thank Tiffany Thompson for being here to represent her good dad -- wonder where your brother was? {LAUGHTER} DeGioia hired him and he's working. {LAUGHTER} Thank you all for being here.
+
+When our founders declared America's independence, they invoked the self-evident truth that all men are created equal. Our Constitution was written to put the principles of a free and equal society into practice. It is a living document. It required amendment to make sure that promise was fulfilled, amendments like the abolishment of slavery, the guarantee of equal protection, and the right to vote for all Americans. Dr. King called these documents America's great "charters of freedom," and he continued to trust in their power even when the practice of America did not live up to their promise.
+
+As children of the South, Martin Luther King and Rosa Parks both came to the civil rights movement with long personal experience of the evils of discrimination and segregation. Dr. King called the daily humiliations endured by black Americans, "the jangling discords of our nation." And Rosa Parks famously experienced it when that bus driver had her arrested for refusing his order to give up her seat to a white man.
+
+But Mrs. Parks and Dr. King shared a deep belief in a hopeful future. They strongly believed that segregation could not stand once it was held up to the light in all its ugliness. And because of their spirit and their work, the cruelty and humiliation of Jim Crow is a thing of the past.
+
+As well, Martin Luther King, Jr., and Mrs. Parks' faith in the future reflected their faith in a higher being. Martin Luther King and Mrs. Parks both believed that the answer to hate and discrimination was love. Dr. King once wrote, "It is quite easy for me to think of a God of love, mainly because I grew up in a family where love was central and where lovely relationships were ever-present." Mrs. Parks was a devout member all her life of the African Methodist Episcopal Church, and a woman who saw the face of God in every human being. These two leaders knew that freedom was not a grant of government, but a gift from the Author of all Life.
+
+So when they made their appeal to equal rights, they aimed straight for America's soul, and they roused a dozing conscience of a complacent nation. By calling us to be true to our founding promise of equality, Martin Luther King, Jr. and Mrs. Parks helped African Americans gain their God-given rights.
+
+As leaders, Martin Luther King and Mrs. Parks believed their calling was to be involved, to be active, to work for change. Long before Mrs. Parks refused to move from her bus seat, she'd been active in community efforts to advance opportunities for African Americans and to register them to vote.
+
+At the dawn of this new century, America can be proud of the progress we have made toward equality, but we all must recognize we have more to do. {APPLAUSE} The reason to honor Martin Luther King is to remember his strength of character and his leadership, but also to remember the remaining work. The reason to honor Mrs. Parks is not only to pay homage to her strength of character, but to remember the ideal of active citizenship. Active citizens in the 1960s struggled hard to convince Congress to pass civil rights legislation that ensured the rights of all, including the right to vote. And Congress must renew the Voting Rights Act of 1965. {APPLAUSE}
+
+Martin Luther King did not live to celebrate his 40th birthday. Yet in the short time he walked upon this earth, he preached that all the powers of evil are ultimately no match for one individual armed with eternal truths. And one evening, on a bus ride home from work, a tired but brave woman named Rosa Parks proved that Dr. King was right.
+
+And so today we honor Dr. Martin Luther King and Rosa Parks. We ask for God's blessings on their legacy, and we ask for God's blessings on our great nation.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

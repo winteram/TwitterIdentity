@@ -1,0 +1,42 @@
+﻿{title} Remarks by the President at Signing of Caregives and Veterans Omnibus Health Services Act {/title}
+{event} Signing of Caregives and Veterans Omnibus Health Services Act {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 5, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good afternoon, everyone. Danny Akaka, aloha. {LAUGHTER} Since the 9/11 attacks more than eight years ago, the United States has been a nation at war. In this time, millions of Americans have worn the uniform. More than a million have served in Afghanistan and Iraq. Many have risked their lives. Many have given their lives. All are the very embodiment of service and patriotism. And as a grateful nation, humbled by their service, we can never honor these American heroes or their families enough.
+
+Along with their loved ones, we give thanks every time our men and women in uniform return home. But we're forever mindful that our obligations to our troops don't end on the battlefield. Just as we have a responsibility to train and equip them when we send them into harm's way, we have a responsibility to take care of them when they come home.
+
+As Michelle and Dr. Biden have reminded us in all their visits to military bases and communities, our obligations must include a national commitment to inspiring military families —- the spouses and children who sacrifice as well.
+
+We have a responsibility to veterans like Ted Wade, who joins us here today with his wonderful wife Sarah. We are so proud of both of them. Six years ago, Sergeant Wade was serving in the 82nd Airborne Division in Iraq when his Humvee was struck by an IED, an improvised explosive device. He lost much of his right arm and suffered multiple injuries, including severe traumatic brain injury. He was in a coma for more than two months, and doctors said it was doubtful that he would survive.
+But he did survive -- thanks to the care he received over many months and years, thanks to Ted's indomitable spirit, and thanks to the incredible support from Sarah, who has been at his side during every step of a long and very difficult recovery. As I've said many times, our nation's commitment to our veterans and their families —- to patriots like Ted and Sarah —- is a sacred trust, and upholding that trust is a moral obligation.
+
+Since taking office, my administration -— in partnership with many -- the veterans organizations who are here today —- has worked to make sure that America fulfills this obligation. We've dramatically increased funding for veterans' health care, including our wounded warriors, especially those with the signature wounds of today's wars -— post-traumatic stress and traumatic brain injury. Under Secretary Ric Shinseki's outstanding leadership, we're building a 21st century VA, including budget reform to ensure predictable funding, and a historic increase in the VA budget.
+
+But as we all know, keeping faith with our veterans and their families is work that is never truly finished. As a nation, as the beneficiaries of their service, there's always more we can do and more that we must do. And that's what we're doing today, as I sign this important legislation —- the Caregivers and Veterans Omnibus Health Services Act.
+
+With this legislation, we're expanding mental health counseling and services for our veterans from Afghanistan and Iraq, including our National Guardsmen and Reservists. We're authorizing the VA to utilize hospitals and clinics outside the VA system to serve more wounded warriors like Ted with traumatic brain injury.
+
+We're increasing support to veterans in rural areas, with the transportation and housing they need to reach VA hospitals and clinics. We're expanding and improving health care for our women's veterans, to meet their unique needs, including maternity care for newborn children. And we'll launch a pilot program to provide child care for veterans receiving intensive medical care.
+We're eliminating co-pays for veterans who are catastrophically disabled. And we're expanding support to homeless veterans, because in the United States of America, no one who has served this nation in uniform should ever be living on the streets.
+
+Finally, this legislation marks a major step forward in America's commitment to families and caregivers who tend to our wounded warriors every day. They're spouses like Sarah. They're parents, once again caring for their sons and daughters. Sometimes they're children helping to take care of their mom or dad.
+
+These caregivers put their own lives on hold, their own careers and dreams aside, to care for a loved one. They do it every day, often around the clock. As Sarah can tell you, it's hard physically and it's hard emotionally. It's certainly hard financially. And these tireless caregivers shouldn't have to do it alone. As of today, they'll be getting more of the help that they need.
+
+If you're like Sarah —- and caring for a severely injured veteran from Afghanistan or Iraq —- you'll receive a stipend and other assistance, including lodging when you travel for your loved one's treatment. If you need training to provide specialized services, you'll get it. If you need counseling, you'll receive it. If you don't have health insurance, it will be provided. And if you need a break, it will be arranged —- up to 30 days of respite care each year.
+
+So today is a victory for all the veterans' organizations who fought for this legislation. It's a tribute to those who led the fight in Congress, including Senator and World War II vet Danny Akaka, and Senator Richard Burr; and in the House, Representatives Mike Michaud and Bob Filner. And I thank all the members of Congress who are joining us here today.
+
+Most of all, today is a victory for veterans like Ted and caregivers like Sarah, who, by the way, has become a passionate and very effective voice on behalf of wounded warriors and their families. Testifying before Congress, she said of her husband, “Just like he needed a team in the military to accomplish the mission, he needs a team at home in the longer war.”
+
+So to Ted, and to Sarah, to all our veterans and your families, with this legislation we're building a stronger team here at home that you need —- now and for the long road to recovery. And that's why I'm very much looking forward to signing this legislation. Thank you. {APPLAUSE}
+
+{COMMENT="The bill is signed"} 
+
+{/speech}

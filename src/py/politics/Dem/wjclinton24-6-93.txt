@@ -1,0 +1,64 @@
+﻿{title} Remarks by the President with the Winners of the Academic Decathlon {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 24, 1993 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I hope you enjoyed your tour of the White House. And I'm sorry we had to start a little late, but as I'm sure you know, a very important debate is now occurring in the United States Senate on the administration's economic plan; and I had to make a call or two.
+
+Congressman Beilenson, it's good to see you. I bet you're glad you're not involved in that this afternoon, and glad to be here with your folks.
+
+It's a real honor for me to welcome to the White House a group of true student athletes -- the gold, silver and bronze medalwinning teams in the 1992-93 United States Academic Decathlon. The gold medalists are from Plano East High School of Plano, Texas; the silver medalists from Taft High of Los Angeles; the bronze medal winners of Mountain View High School of Mesa, Arizona.
+
+These students have experienced the excitement of competition and the thrill of victory. And they should be a source of pride for young people all across our country. They've competed for medals in 10 different events -- from math and science to language and literature -- in an innovative and inclusive program which fosters competition, enhances self-image, and shows how truly exciting the pursuit of knowledge can be.
+
+As I understand it, the team members also are required to give speeches, both prepared and impromptu -- that's a good preparation for being President -- {LAUGHTER} -- write essays and experience interviews. These young people are equipped not with javelins or shotputs, but with intellect and knowledge and the ability to think creatively but with discipline.
+
+The importance of this kind of pursuit of educational excellence cannot be overemphasized. We're at a moment in our history when we have to increase the educational ability of all Americans; and in which it is not simply important how much our people know, but what they are capable of learning and how quickly and well they are capable of thinking through complex problems that may face them tomorrow but are even unpredictable today.
+
+Because of these kinds of challenges, we cannot meet our educational excellence goals through government mandates, we have to meet them through incentives and through environments which promote excellence and leadership from teachers and principals, the kind of group work that we see in this Academic Decathlon.
+
+I applaud the Academic Decathlon, its President, John Foley, and it's Executive Director, Ann Joynt. At this time, I want to say a special word of congratulations to the national champions, Plano Senior High School from Plano, Texas -- Plano East. They're right behind me, right? In the center. {LAUGHTER}
+
+When I was in high school, Plano had a great high school band. Do you still have a good band? It won a lot of national awards. Of course, that was back in the dark ages, but anyway.
+
+Under the coaching of Joyce Gillam and Jack Worsham, Plano East amassed the highest total score, capturing seven gold and five silver medals. One particular youngster, Sunny Chu deserves special mention. Sonny's father suffered a severe stroke just days before the national competition. Nonetheless, Sonny still managed to win the gold medal for highest overall score in the nation. And I'm pleased to report that Sonny's dad is back home recovering. Congratulations to you. Let's give him a hand. {APPLAUSE}
+
+Now, the group from Taft High in Los Angeles. That's you, right? Coached by Michael Wilson, Taft High pulled in seven gold and six silver medals. Mara Weiss achieved the second highest total score in the nation, earning a gold medal in the essay event and a bronze in fine arts. In fact, I understand Mara recently wrote to my wife expressing her frustration that intellectual pursuits in high school are still seen as the domain of the male student. Mara, where are you? Did you really do that?
+
+{AUDIENCE-MEMBER} Yes, I did. {/AUDIENCE-MEMBER} 
+
+Good for you. I'll hear more about that as time goes on. {LAUGHTER}
+
+Let me say that I think that is a real problem. And there is actual documented evidence of that, particularly in the math and sciences areas, as young people move out of grade school into junior high and high school. And you deserve a lot of credit for pointing it out.
+
+Just a few days ago in the Rose Garden, however, I appointed another distinguished student and scholar, Judge Ruth Ginsburg, to the Supreme Court. I think those kinds of things should do something to shatter the myth that intellectual pursuits should remain the exclusive domain of men. And I'm sure you'll have a lot to do with that as you go through your life.
+
+And I want to congratulate, finally, the Mountain View High School team from Mesa, Arizona. They're here to my left. Under the watchful eye of coach Mary McGovern, Mountain View netted four gold and seven silver medals. Senior, Tagg Grant, amassed the highest individual point total for his team with the best event being economics. Where are you, Tag? I order to stay here for the next two or three months. {LAUGHTER} This country needs your help.
+
+I understand that the scholarships are awarded to the top three overall medal winners in each of three divisions. It just so happens that eight of those nine scholarship winners are on these three teams. But we've indicted the ninth scholarship winner to be with us today as well. He's Dan Casey, from Lower Merion High School in Bala Cynwyd, Pennsylvania. Where are you, Dan? Welcome. I'm glad they took you in over there. {LAUGHTER} I looked up there and counted, I thought they had an unfair advantage. {LAUGHTER} Dan took the silver medal for the second highest point total in the varsity division.
+
+Each of these young people represents our best future, our best hopes. They have proven how much people can do when they put their minds to it, and I am very proud of them.
+
+I'd like now to invite John Foley to say a few words and then I'd like to have some pictures taken with the teams and say hello to them. But first, Mr. Foley, thank you for your work and come up and have a --
+
+{AUDIENCE-MEMBER} Thank you very much. {APPLAUSE} Thank you, Mr. President. This is a great and memorable day for us. I know it's a day that our students will never forget. They worked very hard to be here. They tell me that often they spend as much as seven hours a day in preparing these 10 extremely challenging events.
+
+If I could I'd like to just mention our founder. Twelve years ago, Dr. Bob Peterson, who was then superintendent of schools in Orange County, had a great idea. He wanted to promote learning and achievement in our schools by creating new role models on the campus. If athletes could be heroes, as they are, why not recognize outstanding students? That's what you're doing today, Mr. President, and we truly appreciate it.
+
+I just want to say that we're all extremely pleased and gratified to be here. Your speech captured, I think, our program very well -- its essence, its cooperation, team spirit, and nonelitism, since these students all represent -- we have students representing A, B, and C grade levels.
+
+We had over 3,000 students -- high school's participating last year. At our national finals in Phoenix, Arizona, we had teams from 43 states and the District of Columbia. That competition was very closely fought. There was very little difference between the top three teams, as you noted. Next year we will be in Newark. Our theme will be the documents of freedom; and if you're schedule, which I know is a very busy one, should permit, we'd love to have you join us there.
+
+Thank you very much, sir.
+{/AUDIENCE-MEMBER} 
+Thank you. {APPLAUSE}
+
+{AUDIENCE-MEMBER} Mr. President, the House has voted to kill the supercollider program. Do you have any reaction, sir?
+{/AUDIENCE-MEMBER} 
+They did last year. Maybe the Senate will save it and we can save it in conference. I'm not surprised. You know, I'm grateful to them for saving the space station. That was headed for defeat, and we did a lot of work on it, and I'm glad we were able to save it. I always anticipated that if we were going to save the supercollider, it would have to come in a conference after the Senate did it. So it's really up to the Senate now to decide on the supercollider 
+
+{/speech}

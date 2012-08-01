@@ -1,0 +1,46 @@
+﻿{title} Remarks by the President, the Vice President, Attorney General Janet Reno, Sarah Brady, Melanie Musick, and Jim Brady During Signing Ceremony of the Brady Bill {/title}
+{event} The East Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 30, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Sarah and Jim, and General Reno, Mr. Vice President, Mrs. Musick, thank you for your wonderful remarks.
+
+There were two members of Congress who inadvertently were not introduced. I want to recognize them because they've played a major role in this. One of our Democratic leaders in the House, Steny Hoyer, and Senator Herb Kohl from Wisconsin, who also sponsored the bill to make it illegal for minors to possess handguns, and I thank you for that, sir.
+
+Senator Metzenbaum, Congressman Schumer, Senator Mitchell and others who gave birth to this great effort. To all the law enforcement representatives, the governors, the mayors, the folks from Handgun Control who are here. To the families whose lives would have been changed for the better if the Brady Bill had been law. Mrs. Musick, and my friend, Cathy Gould and her children, Lindsey and Christopher who lost a husband and father who would be here today if the Brady Bill had been law. I am honored to have all of you here in the White House.
+
+I also want to say a special word of thanks to the members of Congress who were out there early on this, when there was some considerable political risk either attached to it, or thought to be attached. The Brady Bill was first introduced almost seven years ago by Congressman Ed Feighan of Ohio on February the 4th, 1987.
+
+I can't resist saying a special word of thanks to the members who come from difficult districts who voted for this bill. My good friend, and Congressman Beryl Anthony from Arkansas lost a tough race in 1992, and part of the reason was that he voted for the Brady Bill. And the NRA came after him in an unusual election. He said to me on the way in here, he said if it cost my seat, it was worth it. {APPLAUSE}
+
+Everything that has been -- that should be said about this has already been said by people whose lives are more profoundly imbued with this issue than mine. But there are some things I think we need to think about that we learned from this endeavor as we look ahead to what still needs to be done.
+
+Since Jim and Sarah began this crusade, more than 150,000 Americans -- men, women, teenagers, children, even infants -- have been killed with handguns. And many more have been wounded. One hundred and fifty thousand people from all walks of life who should have been here to share Christmas with us. This couple saw through a fight that really never should have had to occur; because still, when people are confronted with issues of clear common sense and overwhelming evidence, too often we are prevented from doing what we know we ought to do by our collective fears, whatever they may be.
+
+The Brady Bill has finally become law, in a fundamental sense not because of any of us, but because grass roots America changed its mind and demanded that this Congress not leave here without doing something about this. And all the rest of us, even Jim and Sarah, did was to somehow light that spark that swept across the people of this country and proved once again that democracy can work. America won this battle. Americans are finally fed up with violence that cuts down another citizen with gunfire every 20 minutes.
+
+And we know that this bill will make a difference. As Sarah said, The Washington Post pointed out that about 50,000 people have been denied the right to buy a handgun in just four states since 1989. Don't let anybody tell you that this won't work. I got a friend back home who sold a gun years ago to a guy who had escaped from a mental hospital that he hadn't seen in 10 years. And he pulled out that old form from the 1968 act, and said, have you ever been convicted of a crime? Have you ever been in a mental hospital? The guy said, no, no -- and put the form back in the drawer. And 12 hours later six people were dead and my friend is not over it to this day. Don't tell me this bill will not make a difference. That is not true. {APPLAUSE} It is not true.
+
+But we all know there is more to be done. The crime bill not only has 100,000 new police officers who, properly trained and deployed, will lower the crime rate by preventing crime, not just by catching criminals. It also has a ban on several assault weapons, long overdue -- {APPLAUSE} ; a ban on handgun ownership and restrictions on possession of handguns by minors; the beginning of reform of our federal firearms licensing systems; and an effort to make our schools safer. This is a good beginning. And there will be more to be done after that.
+
+But I ask you to think about what this means and what we can all do to keep this going. We cannot stop here. I'm so proud of what others are doing; I'm proud of the work that Reverend Jesse Jackson has been doing, going back now to the streets and talking to the kids and telling them to stop shooting each other and cutting each up, and to turn away from violence. I'm proud of people like David Plaza, not so well-known, a former gang member who has turned his life around and now coordinates a program called Gang Alternative Programs in Norwalk, California, telling gang members they have to take personal responsibility for their actions and turn away from violence. Reverend William Moore, who organized parents and educators and other clergy in North Philadelphia to provide safety corridors for kids going to and from school. One hundred and sixty thousand children stay home every day because they're scared to go to school in this country. And all the police officers on the street who have restored confidence in their neighborhoods, becoming involved in ways that often are way beyond the call of duty; people like Officer Anthony Fuedo of Boston, who took a tough section of East Boston and transformed it from a neighborhood full of fear to one which elderly people now feel safe sitting on benches again.
+
+We can do this, but only if we do it together. And I ask you to think about this: I come from a state where half the folks have hunting and fishing licenses. I can still remember the first day when I was a little boy out in the country putting a can on top of a fencepost and shooting a .22 at it. I can still remember the first time I pulled a trigger on a .410 shotgun because I was too little to hold a .12 gauge. I can remember these things.
+
+This is part of the culture of a big part of America. But people have taken that culture. We just started deer season -- I live in a place where we still close schools and plants on the first day of deer season -- nobody is going to show up anyway. {LAUGHTER} We just started deer season at home and a lot of other places. We have taken this important part of the life of millions of Americans and turned it into an instrument of maintaining madness. It is crazy.
+
+Would I let anybody change that life in America? Not on your life. Has that got anything to do with the Brady Bill or assault weapons, or whether the police have to go out on the street confronting teenagers who are better armed than they are? Of course, not.
+
+This is the beginning of something truly wonderful in this country if we have learned to separate out all this stuff we've been hearing all these years; trying to make the American people afraid that somehow their quality of life is going to be undermined by doing stuff that people of common sense and goodwill would clearly want to do. And every law enforcement official in American telling us to do it.
+
+So, I plead with all of you today, when you leave here to be reinvigorated by this; to be exhilarated by the triumph of Jim and Sarah Brady and all these other folks who didn't let their personal losses defeat them but instead used it to come out here and push us to do better.
+
+And each of you in turn, take your opportunity not to let people ever again in this country use a legitimate part of our American heritage in ways that blinds us to our obligation to the present and the future. If we have broken that, then there is nothing we cannot do. And when I go and sign this bill in a minute, it will be step one in taking our streets back, taking our children back, reclaiming our families and our future. Thank you. {APPLAUSE}
+
+{COMMENT="The bill is signed"} {APPLAUSE} 
+
+{/speech}

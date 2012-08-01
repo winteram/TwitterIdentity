@@ -1,0 +1,73 @@
+﻿{title} Remarks by the President at Malcolm Baldrige National Quality Award Ceremony {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} March 7, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} President Outlines Plan to Improve Corporate Responsibility {/description}
+
+
+{speech} 
+
+Thank you, Secretary Evans. And thank you all very much. It's an honor to be back here. It's a pleasure to see so many students here today. I understand some of you took a tour of the White House. You must have behaved well, because I didn't hear the dogs barking. {LAUGHTER} I hope you enjoyed being there as much as Laura and I enjoy being there. It's a fabulous place, the White House is. I'm so glad you were able to see it. 
+
+I'm also pleased to be back to congratulate the award winners of the Malcolm Baldrige National Quality Award. I'm really pleased that school districts have been added. I want to commend the Baldrige Committee for including education. Secretary Rod Paige is here -- both of us believe so strongly that no child should be left behind. Both of us know the potential of the public school systems in America, and we want to thank and congratulate the school districts here that have set the highest of high standards not only at the secondary level, but also at the high level of education. 
+
+I was privileged to know Malcolm Baldrige. He was one of America's most distinguished Secretaries of Commerce. And what a fine and honorable man he was. The award that bears his name reflects the virtues that he brought to public service and how he lived in his private life, a commitment to excellence, shrewd judgment and sound judgment, principled leadership, integrity, and a sense of responsibility. 
+
+Today's honorees have met a rigorous test, and such a worthy example for others. And I know Malcolm would have approved of the winners. 
+
+It's a great honor to be with Midge Baldrige again -- you're looking pretty darn good these days. {LAUGHTER} And Letitia Baldrige, as well. I know we've got some members of the United States Congress here -- I think Bill Jenkins from Tennessee is here. I know Connie Morella is here. Thank you for coming, Connie. I also appreciate Nancy Murkowski, the wife of Frank Murkowski. Nancy is committed to quality education in the state of Alaska, and I know you're as proud as I am for the winners who are here. {APPLAUSE} And I always want to thank the U.S. Army Band for providing such wonderful music. {APPLAUSE} 
+
+I appreciate the fact that prior winners of the Baldrige Award are here. I think it's important for you to stay involved in the process. As you heard, some of the recipients also appreciate of you being here. And I want to welcome five more organizations to your ranks. {APPLAUSE} The school districts; the University of Wisconsin-Stout; as well as the fine symbols of entrepreneurial spirit in America, Pal's Sudden Service of Tennessee, and of course, Clarke American Checks, represented by some rowdy Texans. {APPLAUSE} 
+
+This is a high, high honor. I know you all understand what a big deal this is, having gone through the process. It is an important award, and I congratulate you all so very much. The award goes to organizations rather than any single individual. And that's important to note. As we've seen today, success happens in an atmosphere of teamwork, common values, and trust. 
+
+An organization needs a good idea and a good product or a good service. It certainly needs a good strategic plan. But more than anything, it needs good people -- men and women of integrity, who understand their duties to each other and to the public interest. 
+
+And this is true throughout our entire economy. The free enterprise system draws upon the best in people: creativity, ingenuity, energy, a desire to make life better for ourselves and for others. The whole design of free market capitalism depends upon free people acting responsibly. Business people must answer not just to the demands of the market or self-interest, but to the demands of conscience. 
+
+The bottom line of the balance sheet defines a business's goal, but not the sum of responsibilities of its leaders. Management should respect workers. A firm should be loyal to the community, mindful of the environment. 
+
+In America, by far -- by far -- most businesses fulfill their responsibilities. They do not cut ethical corners, or neglect workers, or disregard community standards. A good business finds opportunities and makes the most of them. And a good business always respects the boundaries of right and wrong. 
+
+In our country, the law defines many of these responsibilities, from workplace safety to environmental protection. For publicly-held corporations the law goes further, defining standards of disclosure with independent certification by auditing firms. 
+
+We have seen lately just how important these standards are, and the harm that can follow when they are ignored. Exactly where the blame lies may take a long time to determine, and legal judgments are for regulators and for courts. But this much is clear: To properly inform shareholders and the investing public we must adopt better standards of disclosure and accounting practices for all of corporate America. 
+
+The reason that a single bankruptcy can cause so much concern in America is that more Americans than ever have invested their money in public corporations. Today, about 80 million Americans own stock, either individually or through their pension plans. This is one of the causes for the expansion in personal wealth over the past 20 years. This has been an incredibly positive development for America. Stock ownership allows citizens from all walks of life to own a part of the economy and to share in its growth. The people who run public companies owe a special obligation to these investors, many of whom have put their savings and future security on the line. 
+
+Corporate officers must perform their duty in good faith to the best of their abilities. They must disclose relevant facts to the investing public, and they must focus on the interests of shareholders who are the real owners of any publicly-held enterprise. 
+
+I recognize that the basic rules of corporate law are made by the states, and that's as it should be. But Washington has responsibilities, as well. The buying and selling of publicly- held shares is regulated by the federal government. And today, I call upon the Securities and Exchange Commission to take action. Existing regulations should be clearer; penalties for wrongdoing should be tougher. Reform should improve investor confidence and help our economy to flourish and grow. 
+
+It is important to provide sound regulation and remedies where needed, without inviting a rush of new lawsuits that exploit new problems instead of solving them. Our goal is better rules so that conflict, suspicion and broken faith can be avoided in the first place. 
+
+Reform should begin with accountability, and reform should start at the top. The chief executive officer has a daily duty to oversee the entire enterprise, the entire firm, and therefore, bears a unique responsibility for serving shareholder interests. 
+
+Currently, a CEO signs a nominal certification of annual financial statements, and does so merely in its capacity on behalf of the company. In the future, the CEO's signature should also be his personal certification, vouching for the voracity and fairness of the financial disclosures. When he signs a statement, he's giving his word, and should stand behind it. 
+
+Oftentimes businesses base executive bonuses on financial statements. If, however, a financial statement turns out to be grossly inaccurate, or the result of serious misconduct, those bonuses should be returned to the company's treasury on behalf of it's shareholders. {APPLAUSE} 
+
+Corporate officers should not be allowed to secretly trade their company's stock. Every time they buy or sell, they should be required to tell the public within two days. {APPLAUSE} The Securities and Exchange Commission should be able to punish corporate leaders who clearly abuse their powers, by banning them from ever serving again as officers or directors of publicly held corporations. {APPLAUSE} 
+
+We must also do more to safeguard the rights of investors. America has the best system of corporate disclosure. Yet, the interests of the average investor are sometimes overlooked, especially the need for thorough and timely information about firm performance. And some corporations have used artful and intricate financial arrangements to hide the true risks of the investment. 
+
+We need to get back to basic capitalism. In a system based on the willingness to take risks, investors need to know the true nature of the risks. The investor has the right to a true and fair picture of assets, liabilities and income. Management has a good-faith obligation to provide that information, attracting investment by building on strengths, not by clever concealment of weaknesses. 
+
+And to further ensure that information is reliable, we will need reforms within the accounting profession. Auditors are a critical external check on management, and we must ensure that the integrity of their work is never compromised. Accounting is one of the most and one of the most respected professions in our country, and it can help protect its own integrity by developing and enforcing clear standards of conduct. 
+
+The profession also needs an independent regulatory board to hold accounting firms to the highest ethical standards. And the SEC should exercise more effective and broad oversight of accounting standards. The SEC should also do more to guard against conflicts of interest, requiring, for example, that an external auditor not be permitted to provide internal audits to the same client. {APPLAUSE} 
+
+And, finally, auditors should do more than evaluate a company by minimum standards. Instead, the auditors should compare the company's financial controls to the best industry practices and give those findings to the audit committee. 
+
+You know, we're passing through extraordinary times here in America. We fight a war, a real war, to protect our homeland by bringing terrorists to justice. We stand strong against evil abroad -- I mean we are standing strong and determined and united against evil. {APPLAUSE} We're finding strength at home through the gathering momentum of millions of acts of kindness and generosity and goodness, neighbors helping neighbors, Americans adhering to the age-old call to love someone just like you'd like to be loved yourself. 
+
+America is ushering in a responsibility era; a culture regaining a sense of personal responsibility, where each of us understands we're responsible for the decisions we make in life. {APPLAUSE} And this new culture must include a renewed sense of corporate responsibility. If you lead a corporation, you have a responsibility to serve your shareholders, to be honest with your employees. You have a responsibility to obey the law and to tell the truth. {APPLAUSE} 
+
+Business relationships, like all human relationships, are built on a foundation of integrity and trust. When those values are practiced and expected, our economy and our country are stronger. 
+
+We're seeing some challenges and some changes in American business and American enterprise. Yet this annual presentation is a reminder of things that must never change: the passion for excellence, the drive to innovate, the hard work that goes with any successful enterprise, the need to be open, the call for integrity. This year's Baldrige Award winners have shown these qualities, and have taken their place in a distinguished line of leaders. 
+
+Once again, my congratulations to you all. May God bless your enterprises, and may God bless America. 
+
+{/speech} 

@@ -1,0 +1,40 @@
+﻿{title} President Addresses and Thanks Citizens in Tbilisi, Georgia {/title}
+{event} Freedom Square, Tbilisi, Georgia {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 10, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, thank you for that introduction. Citizens of a free Georgia, Laura and I were in the neighborhood -- we thought we'd swing by and say gamarjoba. {APPLAUSE}
+
+I am proud to stand beside a President who has shown such spirit, determination, and leadership in the cause of freedom. {APPLAUSE} And Laura and I are proud to stand with the courageous people of Georgia, in this place that has earned a proud name -- Freedom Square. {APPLAUSE}
+
+When Georgians gathered here 16 years ago, this square had a different name. Under Lenin's steely gaze, thousands of Georgians prayed and sang, and demanded their independence. The Soviet army crushed that day of protest, but they could not crush the spirit of the Georgian people. {APPLAUSE}
+
+The following year, Georgians returned to this square and pulled down the statue of Lenin. And on April 9th, 1991, you declared to the world that Soviet Georgia was no more, and that the independent nation of Georgia was born. {APPLAUSE} On that historic day, you reclaimed your sovereignty, but the hopeful start you made was not fulfilled. So 18 months ago, Georgians returned to this square to complete the task you began in 1989. You gathered here armed with nothing but roses and the power of your convictions, and you claimed your liberty. And because you acted, Georgia is today both sovereign and free, and a beacon of liberty for this region and the world. {APPLAUSE}
+
+The path of freedom you have chosen is not easy, but you will not travel it alone. Americans respect your courageous choice for liberty. And as you build a free and democratic Georgia, the American people will stand with you. {APPLAUSE}
+
+You are building a free future for your children and grandchildren, and you are helping other nations to do the same. When the Afghan people defied terrorists to vote in that nation's first free presidential elections, Georgian soldiers were there to provide security. {APPLAUSE} And last year -- and last year, when terrorist violence in Iraq was escalating, Georgia showed her courage. You increased your troop commitment in Iraq fivefold. The Iraqi people are grateful, and so are your American and coalition allies. {APPLAUSE}
+
+You are making many important contributions to freedom's cause, but your most important contribution is your example. In recent months, the world has marveled at the hopeful changes taking place from Baghdad to Beirut to Bishkek. But before there was a Purple Revolution in Iraq, or an Orange Revolution in Ukraine, or a Cedar Revolution in Lebanon, there was the Rose Revolution in Georgia. {APPLAUSE} Your courage is inspiring democratic reformers and sending a message that echos across the world: Freedom will be the future of every nation and every people on Earth. {APPLAUSE}
+
+Building a free society is the work of generations. It took nearly 15 years of struggle before liberty and justice fully took root in this country. Many of the students and workers who gathered here on this square 18 months ago were too young to remember the protests of 1989, but they took up freedom's cause and finished the work that their parents had begun. {APPLAUSE}
+
+Now, across the Caucasus, in Central Asia and the broader Middle East, we see the same desire for liberty burning in the hearts of young people. They are demanding their freedom -- and they will have it. {APPLAUSE}
+
+As free nations, the United States and Georgia have great responsibilities, and together, we will do our duty. Free societies are peaceful societies. And by extending liberty to millions who have not known it, we will advance the cause of freedom, and we will advance the cause of peace. {APPLAUSE}
+
+In this global struggle for liberty, our duties begin at home. While peaceful revolutions can bring down repressive regimes, the real changes and the real challenge is to build up free institutions in their place. This is difficult work, and you are undertaking it with dignity and determination. {APPLAUSE} You have taken tough steps to reform your economy and to crack down on corruption. You are building a democratic society where the rights of minorities are respected, where a free press flourishes, a vigorous opposition is welcome, and unity is achieved through peace. In this new Georgia, the rule of law will prevail, and freedom will be the birthright of every citizen. {APPLAUSE}
+
+This was a dream of your late Prime Minister Zhvania who once said, "It is not by mere chance that we have adopted two very important ideas as our watch words: freedom and responsibility." Today, we pay tribute to this Georgian patriot who became a great leader of the global democratic revolution. In building a free and responsible society, you honor his memory and you carry on his legacy. {APPLAUSE}
+
+As you build free institutions at home, the ties that bind our nations will grow deeper, as well. We respect Georgia's desire to join the institutions of Europe. We encourage your closer cooperation with NATO. Georgia's leaders know that the peaceful resolution of conflict is essential to your integration into the transatlantic community. At the same time, the sovereignty and territorial integrity of Georgia must be respected -- the territorial and sovereignty of Georgia must be respected by all nations. {APPLAUSE}
+
+We are living in historic times when freedom is advancing, from the Black Sea to the Caspian, and to the Persian Gulf and beyond. As you watch free people gathering in squares like this across the world, waving their nations' flags and demanding their God-given rights, you can take pride in this fact: They have been inspired by your example and they take hope in your success. {APPLAUSE}
+
+As you build freedom in this country, you must know that the seeds of liberty you are planting in Georgian soil are flowering across the globe. {APPLAUSE} I have come here to thank you for your courage. The American people value your friendship, and admire your determination. On behalf of all Americans, thank you, God bless you. Sakartvelos gaumarjos. {APPLAUSE} 
+
+{/speech}

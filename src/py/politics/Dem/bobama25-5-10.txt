@@ -1,0 +1,62 @@
+﻿{title} Remarks by the President on Small Business Jobs Proposals {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 25, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good afternoon, everybody. Everybody please have a seat.
+
+It is wonderful to see all of you. Welcome to the White House. I want to acknowledge a couple folks before we get started. First of all, we've got some special guests who are here from wonderful states. They are doing great work. We're very, very proud of them -- Michigan Governor Jennifer Granholm and Wisconsin Governor Jim Doyle. Please give them a big round of applause. Stand up, guys, so everybody can see you. {APPLAUSE}
+
+On the stage with me, we've got some -- the reason we're here -- people who have helped to live out the American Dream and created jobs. And we are extraordinarily proud of them. We've got Trapper Clark and Thomas Sturtevant right over here. We've got Charles Reid right down here. And we've got Tamara Marquez-Nugent. These are the outstanding winners of this award, and you're going to be hearing more about them. I also want to introduce somebody who I'm very proud of, who's doing just a great job as our SBA Administrator, Karen Mills. Please give her a round of applause. {APPLAUSE}
+
+And we've got some wonderful members of Congress who are here -- I love them all dearly. {LAUGHTER} And we're going to talk about the role Congress can play in doing the work that needs to be done right now.
+
+This is the beginning of National Small Business Week, which every President has recognized since John F. Kennedy started the tradition in 1963. With us are some of the most successful, most hardworking entrepreneurs from across America. Each of you has distinguished yourselves as the Small Business Owner of the Year in your state or your region. Later today, a national winner will be announced. But all of you should be extremely proud of what you've accomplished this year. I know that I'm extremely proud of what you've accomplished.
+
+Being a successful small business person isn't just about collecting a profit or outperforming your competition. It's about contributing to the success of this country's economy. It's about contributing to your country's continued growth and prosperity. And it's about securing your piece of the American Dream and helping your employees and your suppliers and all the people you work with secure their piece of the American Dream.
+
+What's always distinguished us as a nation is a belief that it's a place where anybody with a good idea and a willingness to work can succeed. It's the belief that has brought millions of people to our shores, and carried us through even the toughest economic times.
+
+It's how small businesses begin. Maybe somebody finally decides to take a chance on his dream. Maybe a worker decides it's time to become her own boss. Either way, these entrepreneurial pioneers embody the spirit of possibility, the tireless work ethic, and the simple hope for something better that lies at the heart of the American ideal.
+
+Some of you have opened mom-and-pop stores that have led to America's biggest, most successful companies. Some have launched technology companies -- software and IT services that have redefined the marketplace. You collectively create two out of every three jobs here in the United States of America -- two out of every three jobs. And that's why small businesses aren't just the backbone of this economy -- you're also the driving force behind this recovery.
+
+The problem is, is that small business owners have also been the hardest hit by this recession. From the middle of 2007 through the end of 2008, small businesses lost 2.4 million jobs. And because banks shrunk from lending in the midst of the financial crisis, it's been difficult for small business owners to take out the loans they need to open up shop or to expand. For those who do own a small business, it's hard to finance inventories, make payrolls, or to do that additional work that could make your business grow.
+
+Now, government can't create jobs, but it can help create the conditions for small businesses to grow and to thrive and to hire more workers. Government can't guarantee a company's success, but it can knock down the barriers that prevent small business owners from getting loans or investing in the future. And that's why so much of our economic agenda has been focused on America's small businesses.
+
+Last year, we enacted seven tax cuts for America's small businesses, as well as Making Work Pay tax credits that go to the vast majority of small business owners. So far, the Recovery Act has supported over 64,000 loans to small businesses -- more than $27 billion in new lending. More than 1,200 banks and credit unions that had stopped making SBA loans when the financial crisis hit are lending again today. And more than $8 billion in federal Recovery Act contracts are now going to small businesses.
+
+So right now, a series of additional tax incentives and other steps to promote hiring are taking effect. Because of a bill I signed into law a few months ago, businesses are now eligible for tax cuts when they hire unemployed workers. Companies are also able to write off more of their investments in new equipment. And as part of the health reform package, 4 million small business owners recently received a postcard in their mailboxes telling them that they could be eligible for a health care tax credit this year. It's worth perhaps tens of thousands of dollars to your companies. And it will provide welcome relief to small business owners, who -- I know you guys understand -- all too often have to choose between hiring or keeping your health care for yourselves and your workers.
+
+I also want to say a few words about what the SBA has been doing to help those workers and business owners who've been affected by the oil spill in the Gulf Coast. From the very beginning of this disaster, the SBA has acted quickly to assist fishermen and fishing-dependent small businesses. They're offering low-interest loans and deferrals of existing loans. And while small businesses are encouraged to file claims with BP, these loans and deferrals can provide much needed temporary assistance.
+
+So all of these steps have made a real difference in the lives of the people who own and work at small businesses all across America -- and that includes all of you who are here with us today.
+
+I just met with Trapper and Tom, who are the state of Maine's Small Business Owners of the Year. Karen assures me that the reason they're on stage is not because they're from Maine, her home state. {LAUGHTER} They started a company that manufactures aluminum trailers about four years ago with 20 employees. They've grown rapidly over the last few years, and that growth has been supported by a Recovery Act loan from the Small Business Administration. They got some of their fees waived. And today, they have 85 employees, are planning to add another 15 by the end of this year, and hope to add another 30 by the end of 2011.
+
+Frank and Donna Masley are here. They are Delaware's Small Business Owners of the Year. Where are they? There they are, right there. Congratulations.
+
+Ten years ago, they launched a glove-making business to provide flexibility and protection for our men and women in uniform. When they won a contract to supply gloves for soldiers in Iraq and Afghanistan in 2009, they received a Recovery Act loan through the SBA and saved thousands on fees. It was that loan that allowed Frank and Donna to rehire some employees who had been laid off during this recession, and today their business is growing and thriving once more.
+
+So many people who are here today have stories just like this. Their success isn't the result of a heavy-handed government. It's the result of a government that lent a helping hand -- that complements the sheer grit and determination of America's small business owners. And I believe we need to do even more to give these men and women a boost.
+
+So that's why I'm calling on Congress to pass small business jobs -- a small business jobs package as soon as possible. This legislation should ensure that creditworthy small business owners can get the capital they need to expand and create jobs. It should include needed tax relief, like our proposal to completely eliminate capital gains taxes for those making key long-term investments in small businesses. It should include expansions of vital Small Business Administration loan programs that are needed now more than ever. And it should include two important lending initiatives that I recently sent to Congress.
+
+The first initiative is the $30 billion Small Business Lending Fund I called for in my State of the Union address. This fund would target only small community and neighborhood banks, and it would help these institutions increase lending to small businesses. The second initiative is a new state small business credit program that we recently proposed, working with governors like Governor Doyle and Governor Granholm. It's an initiative that will help expand private lending for small businesses and manufacturers at a time when budget shortfalls are leading states to cut back on vitally important lending programs.
+
+Now, I'm very pleased that elements of this small business jobs package have already passed the House Financial Services Committee last week, and I know that the Senate is working on the issue as well. I urge both chambers to act on these proposals as soon as possible.
+
+This shouldn't be a partisan issue. This is not a Republican issue or a Democratic issue. This should not be an issue about big government versus small government. This is an issue that involves putting government on the side of small business owners who create most of the jobs in this country. It's about giving them tax credits and loans and tax cuts so they can keep growing and keep hiring. It's about unleashing the great power of our economy and the ingenuity of our people.
+
+And when you have a chance to talk to Charles and you find out what he's been doing in Michigan, creating a business that is expanding, working with restaurants and other institutions on their designs; when you think about somebody like Tamara, who started her own business after her husband, I believe, actually had to take disability and she's now growing and hiring employees, getting into a business that historically has been male-dominated, the moving business -- when you hear their stories, you can't help but be inspired. And you realize that there are thousands of people all across America who, despite the odds, despite the naysayers, are going out there and making their dreams happen.
+
+So that's what today should be about and that's what this package in Congress should be about -- unleashing the great power of our economy and the ingenuity of our people. In so many ways, each of you today have shown that ingenuity as you've successfully navigated your companies through an extraordinarily difficult time -- the toughest time that we've seen since the Great Depression. You should be proud of that achievement, and know that as you continue that journey, you're always going to have a fierce advocate in your President and in your SBA Administrator and in your government.
+
+So thank you very much, everybody. Congratulations. {APPLAUSE} 
+
+{/speech}

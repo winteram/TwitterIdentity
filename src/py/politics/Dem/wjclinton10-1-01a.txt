@@ -1,0 +1,33 @@
+﻿{title} Speech by President in Honor of Dorothy Height {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 10, 2001 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+I'd like to thank Representative Sheila Jackson Lee, and Donald Payne from New Jersey, and our neighbor, Elijah Cummings, thank you for being here. I've actually known Dorothy Height for several years. Before I became President I knew her, thanks to my wife. They were on the board of the Children's Defense Fund 25 years ago, when I was still a child. {LAUGHTER} 
+
+And I was just looking at her speak today, as she was just up here speaking, and how fluid and eloquent she was, and I thought, she has more energy at 88 than most people have at 22. {APPLAUSE} 
+
+I wanted to come here to help you with your Dorothy Height's Legacy Initiative, to pay off the mortgage of this magnificent old building. It's an extra added treat to see the chair where Mr. Lincoln posed for Mathew Brady. I love those old photographs. And I have two myself, Dorothy, that I've collected over the years -- two that Abraham Lincoln sat for in 1861 and 1862, as well as a copy from the original plate of the photograph he took in June of 1860, two weeks before he became the nominee of the Republican Party for President. 
+
+So I'm honored to be here with that memory and that legacy, but mostly with your legacy. And I think you belong in this building, and you belong midway between the Capitol and the White House, so you can keep an eye on both parties. {LAUGHTER ; APPLAUSE} 
+
+You know, Dorothy said that the National Council of Negro Women has been in business since 1935. You just think about what America was like in 1935, and think about all the hills we've climbed since then. And as generous as you were to me, frankly, all I did was what was self-evident, what I believed in my heart. What you have had to do was to change the laws and the heart of America. And you did it in a magnificent fashion, and I thank you. {APPLAUSE} 
+
+You mentioned our efforts to build one America. Ben Johnson has done a great job heading our One America effort in our offices there. I hope that in the future this will be a nonpartisan effort, because America is growing so much more racially and ethnically and religiously diverse. 
+
+I was in a grade school in Chicago yesterday, where half the kids were Asian, 18 percent were African American, 17.5 percent were Hispanic, the rest were white ethnic, mostly Croatian. And that's where we're going. And it's going to be a great ride, if we get it right. But whatever is still there we need to give up, we're going to have to shed it, because we don't have a lot of time to waste now. 
+
+And I think that if you look all over the world, all the trouble spots of the world, most countries and most people get in trouble when they try to organize folks around hatred or disdain or disregard for people or groups who are different from them. They either look different than they do, they worship God in a different way, or they're just different. And it's hard to get to the point in life where you can have an honest disagreement with somebody and still acknowledge that their humanity is just as valid as yours, and that life's a lot more interesting, because they're not just like you are. 
+
+If everybody were just like us, then life wouldn't be nearly as interesting as it is. Sometimes, life in America is a little too interesting to suit me, but -- {LAUGHTER} -- but still, it's good. You know, it keeps us flourishing and it keeps the country forever young. 
+
+I honestly believe that Dorothy is so young after all these years of effort because she has given herself to a larger and higher calling. If you get up every day and do good, it eventually will show on your face; it will be heard in your voice. It just is unavoidable. And her beauty and youth is a testament of the timelessness of her cause. And I'm just glad to be one of her foot soldiers here today. 
+
+Thank you very much. {APPLAUSE} 
+
+{/speech} 

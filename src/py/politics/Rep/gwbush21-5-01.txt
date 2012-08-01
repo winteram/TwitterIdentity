@@ -1,0 +1,49 @@
+﻿{title} Remarks by the President in Commencement Address Yale University New Haven, Connecticut {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 21, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+President Levin, thank you very much. Dean Brodhead, fellows of the Yale Corporation, fellow Yale parents, families, and graduates: It's a special privilege to receive this honorary degree. I was proud 33 years ago to receive my first Yale degree. I'm even prouder that in your eyes I've earned this one. 
+
+I congratulate my fellow honorees. I'm pleased to share this honor with such a distinguished group. I'm particularly pleased to be here with my friend, the former of Mexico. Senor Presidente, usted es un verdadero lider, y un gran amigo. {APPLAUSE} 
+
+I congratulate all the parents who are here. It's a glorious day when your child graduates from college. It's a great day for you; it's a great day for your wallet. {LAUGHTER} 
+
+Most important, congratulations to the class of 2001. {APPLAUSE} To those of you who received honors, awards, and distinctions, I say, well done. And to the C students -- {APPLAUSE} -- I say, you, too, can be President of the United States. {LAUGHTER ; APPLAUSE} A Yale degree is worth a lot, as I often remind Dick Cheney -- {LAUGHTER} -- who studied here, but left a little early. So now we know -- if you graduate from Yale, you become President. If you drop out, you get to be Vice President. {LAUGHTER} 
+
+I appreciate so very much the chance to say a few words on this occasion. I know Yale has a tradition of having no commencement speaker. I also know that you've carved out a single exception. Most people think that to speak at Yale's commencement, you have to be President. But over the years, the specifications have become far more demanding. Now you have to be a Yale graduate, you have to be President, and you have had to have lost the Yale vote to Ralph Nader. {APPLAUSE} 
+
+This is my first time back here in quite a while. I'm sure that each of you will make your own journey back at least a few times in your life. If you're like me, you won't remember everything you did here. {LAUGHTER} That can be a good thing. {LAUGHTER} But there will be some people, and some moments, you will never forget. 
+
+Take, for example, my old classmate, Dick Brodhead, the accomplished dean of this great university. {APPLAUSE} I remember him as a young scholar, a bright lad -- {LAUGHTER} -- a hard worker. We both put a lot of time in at the Sterling Library, in the reading room, where they have those big leather couches. {LAUGHTER} We had a mutual understanding -- Dick wouldn't read aloud, and I wouldn't snore. {LAUGHTER} 
+
+Our course selections were different, as we followed our own path to academic discovery. Dick was an English major, and loved the classics. I loved history, and pursued a diversified course of study. I like to think of it as the academic road less traveled. {LAUGHTER} 
+
+For example, I took a class that studied Japanese Haiku. Haiku, for the uninitiated, is a 15th century form of poetry, each poem having 17 syllables. Haiku is fully understood only by the Zen masters. As I recall, one of my academic advisers was worried about my selection of such a specialized course. He said I should focus on English. {LAUGHTER} I still hear that quite often. {LAUGHTER} But my critics don't realize I don't make verbal gaffes. I'm speaking in the perfect forms and rhythms of ancient Haiku. {APPLAUSE} 
+
+I did take English here, and I took a class called "The History and Practice of American Oratory," taught by Rollin G. Osterweis. {APPLAUSE} And, President Levin, I want to give credit where credit is due. I want the entire world to know this -- everything I know about the spoken word, I learned right here at Yale. {LAUGHTER} 
+
+As a student, I tried to keep a low profile. It worked. Last year the New York Times interviewed John Morton Blum because the record showed I had taken one of his courses. Casting his mind's eye over the parade of young faces down through the years, Professor Blum said, and I quote, "I don't have the foggiest recollection of him." {LAUGHTER} 
+
+But I remember Professor Blum. And I still recall his dedication and high standards of learning. In my time there were many great professors at Yale. And there still are. They're the ones who keep Yale going after the commencements, after we have all gone our separate ways. I'm not sure I remembered to thank them the last time I was here, but now that I have a second chance, I thank the professors of Yale University. {APPLAUSE} 
+
+That's how I've come to feel about the Yale experience -- grateful. I studied hard, I played hard, and I made a lot of lifelong friends. What stays with you from college is the part of your education you hardly ever notice at the time. It's the expectations and examples around you, the ideals you believe in, and the friends you make. 
+
+In my time, they spoke of the "Yale man." I was really never sure what that was. But I do think that I'm a better man because of Yale. All universities, at their best, teach that degrees and honors are far from the full measure of life. Nor is that measure taken in wealth or in titles. What matters most are the standards you live by, the consideration you show others, and the way you use the gifts you are given. 
+
+Now you leave Yale behind, carrying the written proof of your success here, at a college older than America. When I left here, I didn't have much in the way of a life plan. I knew some people who thought they did. But it turned out that we were all in for ups and downs, most of them unexpected. Life takes its own turns, makes its own demands, writes its own story. And along the way, we start to realize we are not the author. 
+
+We begin to understand that life is ours to live, but not to waste, and that the greatest rewards are found in the commitments we make with our whole hearts -- to the people we love and to the causes that earn our sacrifice. I hope that each of you will know these rewards. I hope you will find them in your own way and your own time. 
+
+For some, that might mean some time in public service. And if you hear that calling, I hope you answer. Each of you has unique gifts and you were given them for a reason. Use them and share them. Public service is one way -- an honorable way -- to mark your life with meaning. 
+
+Today I visit not only my alma mater, but the city of my birth. My life began just a few blocks from here, but I was raised in West Texas. From there, Yale always seemed a world away, maybe a part of my future. Now it's part of my past, and Yale for me is a source of great pride. 
+
+I hope that there will come a time for you to return to Yale to say that, and feel as I do today. And I hope you won't wait as long. Congratulations and God bless. {APPLAUSE} 
+
+{/speech} 

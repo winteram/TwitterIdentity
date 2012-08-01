@@ -1,0 +1,70 @@
+﻿{title} Remarks by the President to the Employees of K. Neal International Trucks, Inc. {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} June 4, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning, everybody.
+
+{AUDIENCE} Good morning. {/AUDIENCE} 
+
+Well, let me just -- please, everybody, have a seat -- have a seat. It is wonderful to be here. And I want to make a couple of quick acknowledgments. This guy behind me, you may know him -- he's the Vice President of the United States, Joe Biden. {APPLAUSE} Maryland's Lieutenant Governor, Anthony Brown, is here. {APPLAUSE} Got the mayor of Hyattsville, William Gardiner. {APPLAUSE} And, of course, we've got to acknowledge the big man here -- {LAUGHTER} -- and he is big. {LAUGHTER} Owner of K Neal International, Stephen Neal. {APPLAUSE}
+
+Now, I want to thank K Neal for having us here today, giving us a quick tour and having us look at all these -- all these trucks. {LAUGHTER} This is a business that has been selling commercial trucks for over 40 years. This company employs workers from all over the greater Washington area. After two years of recession that caused so much pain in so many communities, this is also an example of a company that is starting to see business pick up again.
+
+I was talking to Stephen and he told me that rental and lease sales have improved, that there's a pent-up demand out there for new equipment and you've added workers over the last few months. And Stephen said if things keep on going well, he'll add more in the months ahead.
+
+We're hearing more and more stories like that all across America. A lot of businesses were hit hard during this downturn, but they're starting to hire again. Workers who were laid off, they're starting to get their jobs back. Companies that were almost forced to close their doors are making plans to expand and invest in new equipment.
+
+And this progress is reflected in the monthly jobs reports that we get each month. We received one today. In May, the economy added 431,000 jobs. {APPLAUSE} Now, this is the fifth month in a row that we've seen job gains. And while we recognize that our recovery is still in its early stages and that there are going to be ups and downs in the months ahead -- things never go completely in a smooth line -- this report is a sign that our economy is getting stronger by the day.
+
+Now, I want to emphasize that most of these jobs this month that we're seeing in the statistics represent workers who've been hired to complete the 2010 census. So these are temporary jobs that are only going to last until the fall, and that may be reflected in future jobs reports. But even if you put those temporary jobs aside, there's no doubt that we saw another month of private sector job growth. And that is obviously critical because when businesses are hiring again, people start spending again. That, in turn, gives businesses more and more incentive to grow.
+
+Now, this doesn't mean that the recession is over for the millions of Americans who are still out of work, or the millions more who are still struggling to make ends meet. No words, no statistics, can take away the pain and the anxiety that a family feels because of this downturn. That can only be relieved with a steady paycheck and the security that a steady job brings.What these numbers do mean, though, is that we're moving in the right direction. The economic policies that we put in place are working. An economy that was shrinking at a scary rate when I was sworn in as President has now been growing for three consecutive quarters. We were losing 750,000 jobs a month during the winter of last year. We've now added jobs for six out of the last seven months.
+
+The taxpayer money it cost to shore up the financial sector and the auto industry is being repaid. I know it was unpopular, but it was the right thing to do. And both GM and Chrysler -- {APPLAUSE} -- both GM and Chrysler are adding shifts and operating at a profit, which nobody would have imagined just a year ago.
+
+The question now is, how do we keep this momentum going? How do we keep adding jobs, raising incomes? How do we keep growing not just our economy but growing our middle class?
+
+In the short-term, we have to keep creating the conditions for companies like K Neal to succeed, to keep growing, to keep hiring. Because of a bill I signed into law a few months ago, businesses are now eligible for tax cuts for hiring unemployed workers. Companies are also able to write off more of their investments in new equipment. And as part of health reform, 4 million small businesses recently received a postcard in their mailbox telling them that they will be eligible for health care tax cuts this year and that those tax cuts could be worth tens of thousands of dollars to those companies. {APPLAUSE}
+
+I've also urged Congress to cut more taxes for small businesses and pass a Small Business Lending Fund, so that small businesses can get the incentives and the credit that they need to create jobs and grow. I believe it's absolutely critical that we extend unemployment insurance for several more months, so that Americans who've been laid off through no fault of their own get the support they need to provide for their families and they can maintain their health insurance until they're rehired. And we should provide further support so that states are not cutting back on jobs and vital services, as well as incentives to create clean energy jobs.
+
+Now, in the long run -- all that's in the short term. That's still part of the emergency effort to help build the economy and grow it coming out of the recession. But in the long run, we need to invest in the technologies and innovation that will lead to the jobs and the industries of tomorrow.
+
+So I want to introduce to everybody who's here -- we've got Dan Ustian, who is the president of Navistar. Dan, stand up. {APPLAUSE} Now, Navistar is a company that sometimes does business with K Neal International. And for months, Navistar's Indiana manufacturing plant has been working on an electric delivery truck that's fueled entirely by plug-in power. In fact, I visited the plant before it had produced its very first truck. And my understanding, Dan, is --
+
+{OTHER-SPEAK} We're ready to go. {/OTHER-SPEAK} 
+
+We're ready to go. Thanks to the investments that we made in the Recovery Act, it just delivered its first truck a few weeks ago. Now, this is a plant that gave jobs to unemployed factory workers, and they're now part of a cutting-edge industry that will create even more jobs and businesses in the months and years ahead.
+
+That's what the future can look like. If we keep on making investments in research and development, in technology and clean energy, products and industries that we haven't even imagined yet can find a home right here in the United States of America. And if we provide our citizens with the education and training they need to do these jobs, we're again going to see rising incomes and a growing middle class. That's what we can do to make this economy stronger, rebuild it even stronger than it was before.
+
+And I have to say that Joe Biden oversaw the execution of our Recovery Act and hasn't gotten a lot of credit for it, but it has been scandal free, the money has been spent on time.
+
+I was just talking to Stephen, and as he indicated, what the Recovery Act did was to help during a bad winter, during a tough time, helped him to keep that business, if not growing, then at least stable. And it helped him keep folks on the job that otherwise might have lost their jobs. {APPLAUSE} And Joe deserves a lot of credit for that, so give Joe Biden a big round of applause. {APPLAUSE}
+
+By the way, Joe says he used to be able to drive some of these trucks. {LAUGHTER}
+
+{OTHER-SPEAK} That's true. {/OTHER-SPEAK} 
+
+But I would suggest he not -- not to lend him a car -- that was a long time ago. {LAUGHTER}
+
+{OTHER-SPEAK} Hey, man. {/OTHER-SPEAK} 
+
+Now, let me tell you what we can't do. We can't go backwards. What we can't do is go back -- now that we're starting to climb out of this hole that was dug for us, we can't go back to the very same policies that failed us in the last decade; the same policies that led us into that hole.
+
+Think about it. We've already tried scaling back our investments in clean energy and education and innovation so that we could give tax breaks to the wealthiest Americans and the biggest corporations, and that didn't work. We already tried putting industry insiders in charge of oversight -- didn't work. We already tried stripping away rules and regulations that kept Wall Street banks and oil companies in bounds. We let them play by their own rules instead, and it didn't work.
+
+So we already know where these ideas led us. And we're going to have a choice as a nation moving forward. We're going to be able to return, if we want, to the failed economic policies of the past; policies that gave us record deficits and declining incomes and sluggish job growth even before the recession; policies that led, in fact, to us almost going into a depression. We can take that road again. Or we can decide we want to move forward. We can keep building a stronger economy. We can keep pursuing the policies that have started to create jobs again; policies that invest in companies like K Neal; policies that invest in companies like Navistar; policies that invest in our people and in our future.
+
+So I don't know about you, I don't want to go backwards. I want to move forward. {APPLAUSE} And I believe that the American people want to move forward as well. This economy hasn't returned to prosperity yet, but we're heading in the right direction. There are going to be some ups and downs. There are going to be some months where people start worrying that maybe we're not out of the hole yet. But if we remain determined, if we stick to it, if we stay the course of investing in our people and businesses like K Neal that are the heart and soul of America, then I'm absolutely positive we can succeed.
+
+And with your help -- with the hard work and ingenuity of workers and entrepreneurs like the ones at this company -– I'm absolutely positive we're going to have a brighter future.
+
+So, thanks for the great work you do. Thanks to Joe Biden for the great work that he does. God bless you. God bless the United States of America. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,24 @@
+﻿{title} Remarks by President Clinton and Chancellor Kohl of the Federal Republic of Germany in Exchange of Toasts {/title}
+{event} Exchange of Toasts, State Dining Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 9, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Chancellor Kohl, members of the German delegation, members of the diplomatic corps, distinguished guests: On occasions like this, I normally rise to say how very much I've enjoyed spending time with a distinguished head of state. I enjoyed today, but after all, it was Helmut Kohl's third visit to the White House since I have been President. {LAUGHTER}
+
+He's been here so many times during his 12 years as Chancellor that, on his last trip here, he took me to his favorite restaurant in Washington. {LAUGHTER} I'm happy to announce that after this dinner, Chancellor Kohl will be conducting tours of the White House. {LAUGHTER}
+
+Helmut Kohl has become a good and trusted friend of mine, as he had been a good and trusted friend of the United States for as long as he's been in public life. Hillary and I were deeply touched last summer by the famous Palatinate hospitality which he and Mrs. Kohl showed to us when he took us to his home town of Oggersheim. I must say, I felt right at home when we turned down the street on which the Kohls live, and the whole neighborhood turned out to say hello. I hope that Chancellor Kohl feels at home here, and I hope someday I'll have the opportunity to take you to my home. Believe me, the whole neighborhood will show up. {LAUGHTER}
+
+Even before Helmut Kohl became Chancellor, American leaders were drawn to Rhineland Pfalz. In 1788, a couple of years before Helmut became Chancellor, Thomas Jefferson traveled along the Rhine. He loved the paintings he saw in Dusseldorf, but he was annoyed that the Westphalians thought they were the only people who smoked their hams; they didn't know Virginians did it, too. {LAUGHTER} When he traveled farther south to the Palatinate, he said he had entered what he called "our second mother country," because so many people from that region had settled in America, and their customs had become American ones. History does not record whether Thomas Jefferson sampled that famous regional dish, Saumagen, but I have, thanks to Helmut Kohl.
+
+When Hillary and I went home with the Kohls, I was remembered that real leadership does not begin in theories, but in places and lives like those I saw in Oggersheim, in the homes that we love and the people and the customs that make us who we are. We are all proud of the ties that bind us together. The German language sums up the richness of those bonds in a single almost untranslatable word -- heimat. Here in the United States, my attachment to my roots has become somewhat legendary, but no world leader has more love for his heimat than Helmut Kohl. A leader who keeps his heimat in his heart will always remember what people want most -- the certainty that their children will inherit a more peaceful, more prosperous, more rich world in terms of the human spirit.
+
+Today we worked hard to advance those shared goals; goals which have bound our people together for nearly 50 years now; and goals which will take us together into the 21st century. Ladies and gentlemen, let us raise a glass to the friendship between the people of the United States and the people of Germany, and to the Chancellor who has done so much to make it better.
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,54 @@
+﻿{title} President Bush Participates in Panel on Cellulosic Ethanol {/title}
+{event} Novozymes North America, Inc., Franklinton, North Carolina {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 22, 2007 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all very much. I like to tell people part of my job is to be the educator-in-chief. And today we're at a really interesting facility in North Carolina to talk about what's possible; what dreamers are doing to enable us to achieve a very important national goal, and that is to become less dependent on oil from overseas, thereby ensuring that our national security interests are better intact and our economic security interests are better intact and that we're better stewards of the environment. That's what we're here to talk about.
+
+But before I do, I do want to thank some people. First, Laura sends her regrets. I'm a lucky boy to have her -- {LAUGHTER} -- to have her as my wife. We've got a lot of friends here in Carolina, and she sends her best wishes to our Carolina friends. I told some folks yesterday, I'm not very objective when it comes to my wife, but I think the country is really lucky to have her as the First Lady. {APPLAUSE}
+
+We're here at Novozymes, which is a company that makes enzymes. We're going to talk to Thomas, who is the President and Plant Manager, about what they do here, and why it's relevant. Before we get there, I do want to say something about Steen Riisgaard. He's the President and CEO, Steen. He flew over from Denmark. I can't thank you enough for coming. I appreciate you being here. It's interesting, isn't it, when you're able to sit in North Carolina and talk about a Danish company that is investing to not only help us become less dependent on oil, but equally importantly is investing capital, which enables citizens from the United States to find good work.
+
+I toured around the facility, and I asked people at the facility how long they had been working here. And a lot of people have been here 20-plus years. So for those people who are worried about free trade, I want you to remember that if this country were to wall ourselves off from the world, we would miss opportunities to find markets for our products, and at the same time miss opportunities for citizens who work at a facility like this to find good work. It's in our interests that we have free and fair trade.
+
+And so I thank you very much, Steen, for investing in the United States of America, and I appreciate the fact that you're sensitive to the needs of the workers here in the United States of America. And I see you're sitting next to your Ambassador. Mr. Ambassador, welcome. I'm glad you're here. {APPLAUSE}
+
+A person who understands the vast potential in the lands here in North Carolina to make us less dependent on oil is Richard Burr. He's the United States Senator. I'm proud he's joined us today, and thank you for coming, Senator. There you go. {APPLAUSE} Congressman G.K. Butterfield. Thank you for being here, G.K. Appreciate you coming. {APPLAUSE} He's a United States Congressman from the neighboring district, but he has enough interest in making sure that we succeed in alternative sources of energy, that he's here. He's also on an important subcommittee in the House. I appreciate your interest. Appreciate you joining us.
+
+I want to thank the Agricultural Commissioner from the great state of North Carolina, Steve Troxler, who's joined us today. Steve, thank you for coming. There he is, right there. {APPLAUSE} See, Steve needs to take an interest in this like he is, because doesn't it make sense to be able to say to our farmers, grow what you can grow so we become less dependent on oil. I like the idea of a President being able to say, wow, the crop report is in, we're growing more corn than ever before, which means we're importing less oil from overseas. It's an exciting time to think about that our farmers not only are going to grow what we need to eat, but it's going to grow what we need to run our automobiles.
+
+And that's coming. That's what we're here to discuss today. I know it sounds like a pipe dream to some -- you know, there goes the optimistic President talking again. But you're going to hear from some experts here. I'm just a history major. {LAUGHTER} And I'm with Ph.D.s. {LAUGHTER} Let me remind you who the President is. {LAUGHTER ; APPLAUSE} 
+
+But the Ph.D.s are providing the brain power necessary to help plants like this develop technologies that will enable us to convert wood chips into fuels that are running automobiles. It's an interesting time, isn't it, when you're able to say, we're on the verge of some breakthroughs that will enable a pile of wood chips to become the raw materials for fuels that will run your car.
+
+I appreciate the Mayor, Jenny Edwards, here, Mayor of Franklinton, for joining us. Where are you, Madam Mayor? Thanks for coming. Proud to see you again. {APPLAUSE} And all the Novozymes employees, I appreciate you setting this deal up and I appreciate you putting up with the hundreds who travel with me. {LAUGHTER} And thank you for your warm hospitality.
+
+Look, here's -- I just told you the goal. The goal is for the United States to be -- to diversify away from old, old ways. And it's possible. And I do believe it is a proper use of your money, taxpayers' money, to spend to encourage research on interesting ideas. We spent about $12 billion since I've been your President to try to stimulate technologies that will literally change the way we live. A lot of that money has gone into clean coal technologies. If you're worried about dependency on oil from overseas, then it seems to make sense to me that we ought to be able to have the technology so that we can better use the resources we have here at home.
+
+I don't know if you know this, we've got about 250 years worth of coal in America. That's what they estimate. And it makes sense, therefore, to spend money at the federal level to develop technologies so we can burn that coal in environmentally friendly ways. The idea is to have zero emission coal-fired plants here in America. And it's possible, and we're making progress toward that goal.
+
+I happen to believe that if you're concerned about the environment and want to deal with renewable sources of energy, that we need to pursue nuclear power. Those power plants emit zero greenhouse gases. It doesn't require any hydrocarbons from overseas to run those plants. So we're beginning to license new plants. We're spending money on wind and solar energies. It makes sense to be able to -- as the price of hydrocarbons goes up, it makes sense that there be alternative sources of energy coming to the market as quickly as possible.
+
+So we're making pretty good progress. But if you really want to reduce the amount of oil that you consume, you got to reduce the amount of gasoline you use. In other words, if you say, we want to reduce our dependence on oil, what you really got to do is change gasoline usage in the United States. And there's a couple of exciting things that are taking place -- one is new battery technologies. We're spending money at the federal level -- and by the way, there's a lot of private sector money going into alternative sources of energy. And some day you're going to be able to get in your car, particularly if you're a big-city person, and drive 40 miles on a battery. It's coming. And by the way, the car doesn't have to look like a golf cart. {LAUGHTER} It could be a pickup truck. {LAUGHTER}
+
+And that technology is around the corner. And if we're able to drive the first 40 miles, or, say, 20 miles, on gasoline there's a lot of big-city folks that will never have to use a drop of gasoline on a daily basis. They'll be driving via electricity. These are lithium-ion batteries, technology -- so when you hear that term, you just got to know there's a lot of folks and a lot of money aiming hard to get this to the market as quickly as possible. Why? Because we've set a goal for the United States to be less dependent on oil.
+
+Secondly -- and this is what we're here to talk about today -- is ethanol. It says that the new developments in ethanol -- in other words, fuel derived from corn -- can be diversified. Here's the problem: Right now we're consuming about 7 billion gallons of ethanol a year made from corn. And it's a pretty standard process. People here at this facility have developed the enzymes necessary to break the corn down in an efficient way so that we can use ethanol derived from corn.
+
+The problem is we got a lot of hog growers around the United States and a lot of them here in North Carolina who are beginning to feel the pinch as a result of high corn prices. A lot of the cattle people around the United States -- I have got a few of them in my home state of Texas -- they're worried about high corn prices affecting their making a livelihood. In other words, the demand for corn, because of agricultural use, and now energy use, is causing corn prices to go up. I bet you the Agriculture Commissioner is hearing from folks.
+
+And so how do -- the question then is, how do you achieve your goal of less dependence on oil without breaking your farmers -- without breaking your hog raisers -- corn farmers happen to like it, but I'm talking about the -- {LAUGHTER} -- people dependent on corn.
+
+And here's how: You develop new technologies that will enable you to make ethanol from wood chips, or stalk grass, or agricultural waste. And that's what we're here to talk about: Is it possible, and if it is possible, how close are we to achieving the technological breakthroughs that I believe are possible so that our -- so that we're changing our habits.
+
+And these are exciting times, they really are. I've always said, America needs to stay on the leading edge of technological change. It will mean we remain a really important economy in the world, but it will also mean that our folks will be able to find good high-paying jobs.
+
+In this case, being on the leading edge of technological change means that we'll also be able to deal simultaneous with economic insecurities that come when China demands more for oil, the world produces less, the price of oil goes up, and so does the price of gas at the pump here in North Carolina; national security concerns where some people who've got oil don't like us, and therefore, may be willing to use their energy resources to try to cause America to take a different view of the world; and environmental concerns. And all these three concerns come together with technology as the solution.
+
+And so Thomas, tell people what you do. {LAUGHTER ; APPLAUSE} 
+
+{/speech}

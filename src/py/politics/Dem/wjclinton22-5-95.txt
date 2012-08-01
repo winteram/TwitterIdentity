@@ -1,0 +1,64 @@
+﻿{title} Remarks by the President at Signing Ceremony for the Paperwork Reduction Act {/title}
+{event} Paperwork Reduction Act Signing {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 22, 1995 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Mr. Bersoff, thank you for your comments and for the outstanding example of the family business you have built to such a remarkable extent. Thank you, Sally Katzen.
+
+Before I begin, as a matter of personal privilege, I would just like to say a brief word about the death of my good friend, Les Aspin.
+
+Hillary and I grieve his loss and, along with all other Americans, we thank him for the remarkable service he rendered to our country as a distinguished congressman from Wisconsin as the Chairman of the Armed Services Committee of the House, as Secretary of Defense, and as head of the President's Foreign Intelligence Advisory Board; he did a lot of work to keep us safe through a turbulent time, and we are all very, very much in his debt.
+
+Let me thank the members of Congress who are here. You know, I've got to say, I was sitting here listening to Mr. Bersoff talk, and I thought it'll be a miracle if we get this on the news tonight, because this is something we did without anybody fighting. {LAUGHTER} And the real reason this languished around for five years was because nobody was fighting anybody else about it. And after I got here, I discovered some of the best ideas in Washington were not being implemented simply because there was no anger attached to them.
+
+It's a sad thing to say, but it's absolutely right. And so, sometimes energy is not behind things that hang around here for years, because there's no real brutal conflict. And in that context, I want thank the members of Congress who are here for overcoming all the inertia against consensus -- {LAUGHTER} -- and actually passing a bill that everybody was for. {APPLAUSE} And I thank you.
+
+I thank Senators Nunn, Roth and Glenn; Representatives Meyer, Sisisky, Peterson and Davis, all of whom are here, and of course, former Congressman Horton and former Senator, now Governor Lawton Chiles for the work that they have done.
+
+This is a remarkable bill, and I want to talk about what it does; but first let me say that, for a bill in which there was not a lot of opposition, there was an awful lot of support and input about exactly how to do this. People all over our country, big and small businesses, organizations from the National Governors Association to the National Association of Towns and Townships, to librarians actually testified in favor of this bill what we ought to do and how it ought to be done.
+
+The legislation recognizes that the private sector is the engine of our prosperity, that when we act to protect the environment of the health of our people, we ought to do it without unnecessary paperwork, maddening red tape, or irrational rules.
+
+We have to reform our regulatory system in ways that protects the larger public interest without strangling business. These changes reflect the right way to reform government. It is very consistent with the things that I believe need to be done.
+
+In the last two years we have already reduced the size of the federal bureaucracy by more than 100,000 employees, going down under existing budgets to a reduction of more than 272,000, and if the last two weeks are any indication, we're about to reduce the government some more.
+
+This Paperwork Reduction Act helps us to conquer a mountain of paperwork that is crushing our people and wasting a lot of time and resources, and which actually accumulated not because anybody wanted to harm the private sector, but because we tend to think of good ideas in serial form without thinking of how the overall impact of them impacts a system that is very dynamic and very sensitive to emerging technologies, but which government does not always respond to in the same way.
+
+I want to say again how much I appreciate the work that Sally Katzen and her shop have done. And I want to thank the Congress for enabling them to continue on the job.
+
+In recent months, some others have made similar announcements. Carol Browner, at the EPA, announced that she would cut the paperwork requirements of the EPA on the private sector by 25 percent. To give you an idea of what that means, that is 20 million hours of labor a year.
+
+We often debate here what we can give the American people. We're about to have a debate -- should we give the American people more funds for education, more funds for Medicare or more money back in a tax cut? But nothing is more precious, I see as I get older, than your own time. And for a government to give the American people back, at no cost to the public interest, 20 million hours, is an extraordinary gift, and worth a great deal of money and additions to the quality of life.
+
+The FDA is going to dramatically speed approvals of many different kinds of medical devices. The SBA has reduced the inch- thick loan form applications to one page.
+
+Here are some other places we will cut. The Department of Agriculture so far has eliminated the need for more than 3 million pages of government forms from one-quarter million farmers. The Department of Energy took these three big binders here, filled with reporting requirements, and sliced them to 11 pages -- 11 pages from those three big binders. That saved $48 million a year, but it also gave the gift of time back to the people who were subject to it.
+
+The Department of Education required both parents to sign a student loan and other financial aid forms. This is impossible in some cases when the non-custodial parent is not available. In lots of homes today, it's hard for both parents to be in the same place at same time anyway. Now, one parent signature is all that's required.
+
+So far, we have eliminated the forms represented in this large stack of papers here on the table. When you count all the people and all the businesses that have to fill out the forms already eliminated, in one year, we've eliminated paper that would stretch end to end from Washington, D.C. to San Francisco, California.
+
+To further reduce these burdens, I have directed our agencies to continue to review their regulations, to eliminate the outdated and streamline the bloated. I have also directed them, whenever possible, to cut in half the frequency of reports they require from citizens. For example, if they ask for quarterly reports, why don't we just have them twice a year instead?
+
+As we reform, we need not compromise the quality of life or the needed oversight from the government. But the truth is, we can actually improve the system by making it less hidebound and by innovating as Americans are innovating.
+
+Today I want to add another dimension to this effort: From this point forward, I want all of our agencies to provide for the electronic submission of every new government form or demonstrate to OMB why it cannot be done that way. The old way will still be available, but I think once people see how fast and efficient electronic filing can be, we'll see less paperwork and more of these. So, we're trying to do our part to act in good faith the way these members of Congress intended the Executive Branch to act.
+
+As you know, these little things store incredible volumes of information -- incredible. My daughter knows more about it than I do, but I'm learning myself just in the things that we do incredibly how much more we can do -- and at a tiny fraction of the space involved, not to mention the speed. So the more we use electronic transmissions, the more we'll all be working quicker and smarter, giving better service to the American public, a more efficient government, and far, far less paperwork.
+
+I want to say again, the remarkable thing about this effort was that at the time we actually got it through the Congress, there was not a single dissenting vote. But very often the things we do not do in life are the things we all know we should do. That is a principle that extends beyond this bill.
+
+And we owe a great debt of gratitude to the members of Congress, especially those here present, who exercised the leadership to get this done as well as to Governor Chiles and former Congressman Horton for the work they did to pave the way. So I would like to ask the members to come up while we sign the bill, and Congressman Horton and Governor Chiles to come up as well. Please come up, and we'll do it.
+
+Thank you very much. {APPLAUSE}
+
+{COMMENT="The President signs the bill"} 
+
+Thank you. {APPLAUSE} 
+
+{/speech}

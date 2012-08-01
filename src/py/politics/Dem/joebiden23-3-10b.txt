@@ -1,0 +1,39 @@
+﻿{title} Remarks by the President and Vice President at Signing of the Health Insurance Reform Bill {/title}
+{event} Signing of the Health Insurance Reform Bill {/event}
+{speaker} Joe Biden {/speaker}
+{date} March 23, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. {APPLAUSE}
+
+{AUDIENCE} Fired up! Ready to go! Fired up! Ready to go! {/AUDIENCE} 
+
+Thank you.
+
+Mr. President, I think we got a happy room here. {LAUGHTER} It seems ridiculous to say thank you all for being here. {LAUGHTER} Ladies and gentlemen, to state the obvious, this is a historic day. {APPLAUSE}
+
+In our business you use that phrase a lot, but I can't think of a day in the 37 years that I've been a United States senator and the short time I've been Vice President that it is more appropriately stated. This is a historic day.
+
+And history -- history is not merely what is printed in textbooks. It doesn't begin or end with the stroke of a pen. History is made. History is made when men and women decide that there is a greater risk in accepting a situation that we cannot bear than in steeling our spine and embracing the promise of change. That's when history is made. {APPLAUSE}
+
+History is made when you all assembled here today, members of Congress, take charge to change the lives of tens of millions of Americans. Through the efforts of those of us lucky enough to serve here in this town, that's exactly what you've done. You've made history.
+
+History is made when a leader steps up, stays true to his values, and charts a fundamentally different course for the country. History is made when a leader's passion -- passion -- is matched with principle to set a new course. Well, ladies and gentlemen, Mr. President, you are that leader. {APPLAUSE}
+
+Mr. President, your fierce advocacy, the clarity of purpose that you showed, your perseverance -- these are in fact -- it is not hyperbole to say -- these are the reasons why we're assembled in this room together, today. But for those attributes we would not be here. Many, many men and women are going to feel the pride that I feel in watching you shortly, watching you sign this bill, knowing that their work -- their work has helped make this day possible. But, Mr. President, you're the guy that made it happen. {APPLAUSE}
+
+And so, Mr. President, all of us, press and elected officials, assembled in this town over the years, we've seen some incredible things happen. But you know, Mr. President, you've done what generations of not just ordinary, but great men and women, have attempted to do. Republicans as well as Democrats, they've tried before. Everybody knows the story, starting with Teddy Roosevelt. They've tried. They were real bold leaders.
+But, Mr. President, they fell short. You have turned, Mr. President, the right of every American to have access to decent health care into reality for the first time in American history. {APPLAUSE}
+
+Mr. President, I've gotten to know you well enough. You want me to stop because I'm embarrassing you. {LAUGHTER} But I'm not going to stop for another minute, Mr. President, because you delivered on a promise -- a promise you made to all Americans when we moved into this building.
+
+Mr. President, you are -- to repeat myself -- literally about to make history. Our children and our grandchildren, they're going to grow up knowing that a man named Barack Obama put the final girder in the framework for a social network in this country to provide the single most important element of what people need -- and that is access to good health -- {APPLAUSE} -- and that every American from this day forward will be treated with simple fairness and basic justice.
+
+Look, the classic poet, Virgil, once said that “The greatest wealth is health.” The greatest wealth is health. Well, today, America becomes a whole lot wealthier because tens of millions of Americans will be a whole lot healthier from this moment on.
+
+Ladies and gentlemen, the President of the United States of America, Barack Obama. {APPLAUSE} 
+
+{/speech}

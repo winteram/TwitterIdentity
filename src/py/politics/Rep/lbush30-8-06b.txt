@@ -1,0 +1,62 @@
+﻿{title} Mrs. Bush's Remarks at a Conrad Burns for Senate Reception {/title}
+{event} Arlin's Aircraft Hangar, Belgrade, Monana {/event}
+{speaker} Laura Bush {/speaker}
+{date} August 30, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you so much, Senator Burns. Thank you for that very inspiring introduction. And thanks to each and every one of you for the warm welcome to Montana. I'm so happy to be here. {APPLAUSE}
+
+Senator Burns is right: it does take a partnership. I will have to say one of the great supports of any politician, anybody running for office, is his family. And I know that Phyllis, my good friend Phyllis, is such a terrific support for Senator Burns. Thank you very much, Phyllis. {APPLAUSE}
+
+I want to thank our event hosts, Martin and Jennifer Coleman. Thank you all very, very much for hosting today's event. The Chair of the Montana Republican Party, Karl Ohs, is here. Thank you very much for all your hard work. State Senator -- Secretary of State Brad Johnson is here. Brad, thank you for serving your state. And I especially want to recognize your former Governor and my good friend Judy Martz. Thank you for your terrific work, Judy. {APPLAUSE}
+
+And thanks to everyone here for coming out today to support Senator Burns' campaign for the United States Senate.
+
+Conrad Burns has been a passionate advocate for Montana's families during his 17 years in the United States Senate. As a powerful representative for Montana's farming community, he's opened global markets to Montana agriculture, and he's helped ensure that next year's Farm Bill benefits Montana's farmers and ranchers. {APPLAUSE}
+
+In Washington, Senator Burns is a respected voice on the issues facing rural communities in Montana and across the country. During the early days of the Internet and mobile phones, Senator Burns made sure these technologies were extended to rural areas. He supports distance learning and telecommunications initiatives so that rural Montana can benefit from our country's 21st-century economy. And I want to tell you that rural Texans appreciate that, too. {APPLAUSE}
+
+Senator Burns is helping Montana's families by keeping America's economy strong. He supports tax cuts. And this year, with his help, President Bush signed into law the largest tax relief package in American history. {APPLAUSE} These tax cuts have fueled our economy and they've helped add 5.5 million new jobs since 2003. That means 5.5 million more people wake up every morning with the dignity and the sense of purpose that comes with a job.
+
+Something else Senator Burns and the President and I have in common -- and something I share with both of them -- is a commitment to natural and historic preservation.
+
+In 2003, President Bush announced the Preserve America Initiative, which encourages communities to safeguard their natural and historical treasures. Preserve America can also boost local economies, because recognized historical landmarks attract visitors and businesses.
+
+Thanks to the support of Senator Burns, the Montana State Preservation Office received a $150,000 Preserve America grant in March to help fund the Montana Rural Heritage Experience. This project will promote and expand access to rural historical sites throughout your state, boosting tourism and providing Montana children with the knowledge and pride in their state's history.
+
+Senator Burns appreciates Montana's tremendous natural beauty, and understands the importance of making sure our country's natural resources can be enjoyed by future generations. In the Senate, he's protected the drinking water supply in more than 70 rural Montana communities, and has safeguarded acres of Montana land through the Land and Water Conservation Fund. Thank you, Senator Burns, for this vital preservation work. {APPLAUSE}
+
+One of the benefits of historical and natural preservation is that it gives our children more opportunities to learn about our country. Visits to museums, monuments, and national parks are great activities for young people -- offering them healthy and positive ways to learn and to spend time with their families.
+
+I was very fortunate, a couple of summers ago, to spend a week in the Belly River part of Glacier National Park. I hike every summer with four women that I grew up with in Midland, Texas. We'll never forget that time. And I want to make sure that beautiful and pristine park is available for my children and my grandchildren to hike in. So thank you very much, Senator Burns, for your good work. {APPLAUSE}
+
+In his 2005 State of the Union address, President Bush announced the Helping America's Youth Initiative, and he asked me to lead it. Helping young people learn to make wise decisions for their lives is at the heart of Helping America's Youth.
+
+Since the President announced the initiative, I've traveled to many parts of our country, visiting with young people and the adults who are so important to their lives. I've been to schools and after-school programs. I've seen fatherhood initiatives. I've met with mentors and Big Brothers and Big Sisters. I've visited gang intervention programs, where I met with young people who are leaving gangs and finding jobs.
+
+All of these visits led to the White House Conference on Helping America's Youth last October, and then to two regional conferences in Indianapolis and Denver. At these conferences, we introduced an online, interactive Community Guide. This guide helps concerned adults learn more about the problems facing youth in their own communities, and learn what local resources are available to address these problems. The information is available on the Helping America's Youth website, that's www.helpingamericasyouth.gov -- that's g-o-v. I urge you to look at the website, and to use the guide here in your communities.
+
+Senator Burns has a long record of commitment to young people. His wife, Phyllis, was a teacher, so Conrad understands the needs of Montana educators. He supports increasing salaries to keep qualified teachers in your state, so that all Montana children receive an excellent education. Senator Burns also helped establish the Senate's Anti-Meth Caucus, which is keeping harmful methamphetamines out of Montana's communities and away from Montana's young people.
+
+We all know, though, that the well-being of families in Montana and throughout our country ultimately depends on our government's ability to keep them safe -- by defeating terrorism and increasing liberty abroad. {APPLAUSE}
+
+Senator Burns appreciates the needs of our troops during this crucial time in our country's history. As a young Marine Corporal, Conrad served in East Asia during the '50s. And in the Senate, he's been a steadfast champion of the men and women of the United States military.
+
+Thanks to our men and women in uniform, the Iraqi people are now free from the oppression of Saddam Hussein, and working to build a democratic future for their country. {APPLAUSE}
+
+In Afghanistan, women and girls can now be educated. {APPLAUSE} It's hard for us to imagine a country that would forbid half of its citizens from being educated. But now little girls are in school all over Afghanistan.
+
+Senator Burns' dedication to the people of Montana, and his achievements, remind us of why it's so important that he's reelected. Senator Burns understands that America faces challenges too important to be reduced to simple politics.
+
+President Bush has an ambitious agenda for the rest of his time in Washington, and he takes his responsibility to the American people very seriously. Ending our dependence on foreign oil, reforming our immigration system, rebuilding the Gulf Coast and keeping our country safe from terrorism are not easy tasks, but they're absolutely vital goals. And to accomplish them, we must have serious national conversations conducted with civility and respect. And Conrad Burns is a positive and powerful part of that dialogue. {APPLAUSE}
+
+This is just one reason why Senator Burns is a wonderful leader for Montana. When you see his distinguished record of public service, you find many more.
+
+Thank you so much for coming out to support Conrad. And thank you for your generous support of his reelection. I urge you to redouble your efforts between now and November to make sure Conrad Burns is reelected to the United States Senate.
+
+Thank you all very much. {APPLAUSE} 
+
+{/speech}

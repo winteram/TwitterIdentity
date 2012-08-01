@@ -1,0 +1,34 @@
+﻿{title} Toast Remarks by the President and Governor Douglas at the 2010 Governors' Ball {/title}
+{event} 2010 Governors' Ball {/event}
+{speaker} Barack Obama {/speaker}
+{date} February 22, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, everybody. Thank you. Please, everybody have a seat. Have a seat.
+
+Good evening, and welcome back to the White House. For some of you this is the first time; welcome. I want to begin by acknowledging your outstanding chairs of this extraordinary organization -- Jim Douglas of Vermont and Joe Manchin of West Virginia. Thank you so much for the great work that you guys do each and every day.
+
+I also want to let everybody know that this is not too stiff of an affair -- {LAUGHTER} -- because last year Ed Rendell led a conga line. {LAUGHTER} We still have photographs of some of you that we may use at any point. {LAUGHTER}
+
+But it's interesting to think about where we were last year. Last year we were in the midst of what was the worst economic crisis since the Great Depression. Each of you in your own respective states I think saw how brutal it was on so many families -- hundreds of thousands of people losing their jobs every month; home foreclosures; small businesses having to shut down, unable to make payroll; and people not sure about the future and unclear about whether or not we were going to be able to pull ourselves out.
+
+And I think that it is worth -- it is worth reminding ourselves of how urgent the situation was and it's worth this organization taking some extraordinary credit for helping to right the ship, working, I know, with my Vice President, Joe Biden, who's done outstanding work. {APPLAUSE} We took some swift and decisive action, and because of that swift and decisive action, not only were folks in your states able to get unemployment insurance and get COBRA at a much cheaper rate, not only were you able to fill some of those budget holes that I know are still tough and I suspect we'll be talking about tomorrow, but we also started to begin entire new industries and start moving towards a extraordinary future through some of the infrastructure projects and research and development, clean energy projects that are -- so many of you have been leaders of.
+
+If you think about it -- I was in Newton, Iowa, seeing a plant that had been closed, now reopened building wind turbines. In Michigan -- I was just talking to Governor Granholm about the fact that last year we accounted for 2 percent of the advanced battery technology in the entire world, and by 2015, we are going to account for 40 percent. By the end of this year, we're going to account for 20 percent of that advanced battery technology. {APPLAUSE}
+
+The truth is, the reason it worked is because of some very tough choices that many of you made, but the ability to work across state lines and party lines to try to get people focused not just on the past but also on the future. And one of the things that I've always said about governors that Washington could learn from is that it's hard to be overly ideological as a governor, because the fact of the matter is, the rubber hits the road with you. You guys can have all kinds of abstract thoughts, but when families come to you looking for help, when communities have been devastated, you're the ones they turn to. And so these arguments become a lot less abstract. And I think it's a reflection of that experience as chief executives in each of your state that makes you able to work together so effectively in this organization.
+
+So I want to congratulate you for having worked through a very difficult year. I want you to know that this White House wants to continue to partner with you, and not just -- not just in terms of us telling you what we think we can do to help, but more importantly, us listening and finding out from you the kinds of extraordinary ideas that all these states represent. You guys are -- continue to be the laboratory for our democracy.
+
+And so we welcome your ideas. We welcome your input. The main thing tonight, though, is we expect you to have a good time. {LAUGHTER} So, with that, what I'd like to do is to offer a toast. I'd like to offer this toast not only to our constituents, who put up with us and have gone through some extraordinarily difficult times, but I also want to offer a toast to our spouses and families who make extraordinary sacrifices. Some of them oftentimes don't always -- Michelle, she's starting to clank already. {LAUGHTER} But our families, our children, all those people who are so supportive of these extraordinary efforts that we're making.
+
+So, cheers, everybody. Dinner is served.
+
+Oh, wait, wait, wait. {LAUGHTER} This is not the waiter, although he can read the menu. Jim Douglas has been an extraordinary partner with this White House -- always constructive, always thoughtful, and we are so pleased to have him here tonight. And so he's going to offer his own toast.
+
+Please. {APPLAUSE} 
+
+{/speech}

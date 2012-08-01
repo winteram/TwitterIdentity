@@ -1,0 +1,42 @@
+﻿{title} President Addresses and Thanks Citizens of Slovakia {/title}
+{event} Hviezdoslavovo Square, Bratislava, Slovakia {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 24, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. Dobrý deò. {APPLAUSE} Mr. President, Mr. Chairman, Mr. Prime Minister, thank you for your strong leadership and friendship. Mr. Mayor, distinguished guests, citizens of a free Slovakia. {APPLAUSE} Thank you for your hospitality. Laura and I are honored, extremely honored to visit your great country. We bring greetings and we bring the good wishes of the American people. {APPLAUSE}
+
+With us here today is a group of remarkable men and women from across Central and Eastern Europe, who have fought freedom's fight in their homelands and have earned the respect of the world. We welcome you. We thank you for your example, for your courage and for your sacrifice. {APPLAUSE}
+
+I'm proud to stand in this great square, which has seen momentous events in the history of Slovakia and the history of freedom. Almost 17 years ago, thousands of Slovaks gathered peacefully in front of this theater. They came, not to welcome a visiting President, but to light candles, to sing hymns, to pray for an end to tyranny and the restoration of religious liberty. {APPLAUSE}
+
+From the hotel to our left, communist authorities watched thousands of candles shining in the darkness -- and gave the order to extinguish them. The authorities succeeded in crushing that protest. But with their candles and prayers, the people of Bratislava lit a fire for freedom that day, a fire that quickly spread across the land. {APPLAUSE} And within 20 months, the regime that drove Slovaks from this square would itself be driven from power. By claiming your own freedom, you inspired a revolution that liberated your nation and helped to transform a continent. {APPLAUSE}
+
+Since those days of peaceful protest, the Slovak people have made historic progress. You regained your sovereignty and independence. You built a successful democracy. You established a free economy. And last year, the former member of the Warsaw Pact became a member of NATO, and took its rightful place in the European Union. Every Slovak can be proud of these achievements. And the American people are proud to call you allies and friends and brothers in the cause of freedom. {APPLAUSE}
+
+I know that liberty -- the road to liberty and prosperity has not always been straight or easy. But Americans respect your patience, your courage and your determination to secure a better future for your children. As you work to build a free and democratic Slovakia in the heart of Europe, America stands with you. {APPLAUSE}
+
+Slovaks know the horror or tyranny, so you're working to bring hope of freedom to people who have not known it. You've sent peacekeepers to Kosovo, and election observers to Kiev. You've brought Iraqis to Bratislava to see firsthand how a nation moves from dictatorship to democracy. Your example is inspiring newly-liberated people. You're showing that a small nation, built on a big idea, can spread liberty throughout the world.
+
+At this moment, Slovak soldiers are serving courageously alongside U.S. and coalition forces in Afghanistan and Iraq. Some have given their lives in freedom's cause. We honor their memory. We lift them up in our prayers. Words can only go so far in capturing the grief of their families and their countrymen. But by their sacrifice, they have helped purchase a future of freedom for millions. Many of you can still recall the exhilaration of voting for the first time after decades of tyranny. And as you watched jubilant Iraqis dancing in the streets last month, holding up ink-stained fingers, you remembered Velvet Days. For the Iraqi people, this is their 1989, and they will always remember who stood with them in their quest for freedom. {APPLAUSE}
+
+In recent times, we have witnessed landmark events in the history of liberty, a Rose Revolution in Georgia, an Orange Revolution in Ukraine, and now, a Purple Revolution in Iraq. With their votes cast and counted, the Iraqi people now begin a great and historic journey. They will from a new government, draft a democratic constitution, and govern themselves as free people. They're putting the days of tyranny and terror behind them and building a free and peaceful society in the heart of the Middle East, and the world's free nations will support them in their struggle. {APPLAUSE}
+
+The terrorist insurgents know what's at stake. They know they have no future in a free Iraq. So they're trying desperately to undermine Iraq's progress and throw the country in chaos. They want to return to the day when Iraqis were governed by secret police and informers and fear. They will not succeed. The Iraqi people will not permit a minority of assassins to determine the destiny of their nation. We will fight to defend this freedom and we will prevail. {APPLAUSE}
+
+Victory in this struggle will not come easily or quickly, but we have reason to hope. Iraqis have demonstrated their courage and their determination to live in freedom, and that has inspired the world. It is the same determination we saw in Kiev's Independent Square, in Tbilisi's Freedom Square, and in this square almost 17 years ago. {APPLAUSE}
+
+We must be equally determined and also patient. The advance of freedom is the concentrated work of generations. It took almost a decade after the Velvet Revolution for democracy to fully take root in this country. And the democratic revolutions that swept this region over 15 years ago are now reaching Georgia and Ukraine. In 10 days, Moldova has the opportunity to place its democratic credentials beyond doubt as its people head to the polls. And inevitably, the people of Belarus will someday proudly belong to the country of democracies. Eventually, the call of liberty comes to every mind and every soul. And one day, freedom's promise will reach every people and every nation. {APPLAUSE}
+
+Slovakia has taken great risks for freedom in Afghanistan and Iraq. You have proved yourself a trusted friend and a reliable ally. That is why I recently announced a new solidarity initiative for nations like Slovakia that are standing with America in the war on terror. We will help you to improve your military forces so we can strengthen our ability to work together in the cause of freedom. We're working with your government to make it easier for Slovaks to travel to the United States of America. {APPLAUSE} Hundreds of thousands of our citizens can trace their roots back to this country. Slovak immigrants helped build America and shape its character. We want to deepen the ties of friendship between our people, ties based on common values, a love of freedom, and shared belief in the dignity and matchless value of every human being. {APPLAUSE}
+
+The Velvet Generation that fought for these values is growing older. Many of the young students and workers who led freedom's struggle here now struggle to support families and their children. For some, the days of protest and revolution are a distant memory. Today, a new generation that never experienced oppression is coming of age. It is important to pass on to them the lessons of that period. They must learn that freedom is precious, and cannot be taken for granted; that evil is real, and must be confronted; that lasting prosperity requires freedom of speech, freedom to worship, freedom of association; and that to secure liberty at home, it must be defended abroad. {APPLAUSE}
+
+By your efforts in Afghanistan and Iraq and across the world, you are teaching young Slovaks these important lessons. And you're teaching the world an important lesson, as well: that the seeds of freedom do not sprout only where they are sown; carried by mighty winds, they cross borders and oceans and continents and take root in distant lands.
+
+I've come here to thank you for your contributions to freedom's cause, and to tell you that the American people appreciate your courage and value your friendship. On behalf of all Americans, dakujem, and may God bless you all. 
+
+{/speech}

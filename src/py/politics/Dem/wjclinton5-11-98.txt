@@ -1,0 +1,22 @@
+﻿{title} Remarks by the President During Arts and Humanities Dinner {/title}
+{event} The East Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 5, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Ladies and gentlemen, good evening. The good news is this is the only speech you have to listen to tonight. And I want to, first of all, welcome all of you back to the White House. To all of our honorees and their families and friends who are here today, let me say, for Hillary and me this is a day we look forward to every year, but today was an especially wonderful day. And as each of our honorees came through the line tonight, they all commented on how they felt that they were in quite good company today, being honored, and I agree with that. {APPLAUSE}
+
+As I see so often when it comes to maintaining stability in the global economy or working for peace in Bosnia or Kosovo or Northern Ireland or the Middle East, perhaps more than any other time in our over 220-year history, the entire world now looks to the United States to exert responsible leadership -- in technological innovation, preventing war, promoting peace, promoting prosperity and freedom and democracy.
+
+I think it is worth asking ourselves tonight, when the historians and novelists, the poets and painters, look back on America in the last years of the 20th century, on the verge of a new millennium, what will they say of that kind of work and that kind of leadership. For clearly the world does look to us for cultural leadership. The influence of our books, our movies, our music, our plays have never stopped at our borders. But now, thanks to technology, they reach more rapidly into even the remotest corners of the world. For example, in Bhutan, a Himalayan country so isolated just 5,000 people actually visit it every year, you can still find some of this year's most popular Hollywood blockbusters, for better or worse. {LAUGHTER}
+
+Hillary's book, "It Takes a Village," has been translated into a myriad of languages -- not just French or Spanish or German, but Bulgarian, even Kazakh. More than ever before, the world is listening to what America has to say. As our leading artists and intellectuals, you will have to answer. It is a tremendous opportunity and an enormous responsibility.
+
+So tonight I challenge you to rise to this task and to relish it and, through your art, your music, your ideas, to make this time not simply a Golden Age for the United States, but a time of greater understanding, enlightenment, and, yes, enjoyment for the entire world.
+
+Thank you very much. 
+
+{/speech}

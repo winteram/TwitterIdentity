@@ -1,0 +1,29 @@
+﻿{title} Remarks By The President at Cinco De Mayo Event {/title}
+{event} Cinco De Mayo Event {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 4, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello. Gracias.
+{AUDIENCE} Bienvenidos. {/AUDIENCE} 
+Bienvenidos. Welcome to Cinco de Cuatro -- {LAUGHTER} -- Cinco de Mayo at the White House. We are a day early, but we always like to get a head start here at the Obama White House.
+Cinco de Mayo marks a singular moment in Mexican history. Nearly 150 years ago, a ragtag band of soldiers and citizens, badly outnumbered and facing impossible odds, held their ground on a muddy hill to defend their nation from what was at the time the most fearsome fighting force in the world. That decisive victory at what became known as the Battle of Puebla ignited a pride in country and culture that Mexican Americans feel to this day.
+And tomorrow, on both sides of our border, we'll pay tribute to our shared heritage by celebrating with friends and family, with love and laughter. We'll remember that America is a richer and more vibrant place thanks to the contributions of Mexican Americans -- {APPLAUSE} --
+{AUDIENCE-MEMBER} Yeah! {/AUDIENCE-MEMBER} {APPLAUSE}
+I knew that was Manny over there. {LAUGHTER} Pat, do something about Manny. {LAUGHTER}
+We'll remember that the contributions of commerce and culture, in language and literature, in faith, and in food have all made America a better place. And we will honor the service of Mexican Americans who have worn the uniform of the United States. We'll also recommit to advancing the ambitions and the dreams of generations of Mexican Americans and all Latinos who have had an immeasurable impact on the life of this nation.
+But even as we mark this joyous and festive occasion, we do so mindful of the fact that this is a difficult time for Mexico. The pain our global economic downturn has inflicted has only been deepened by the outbreak of the H1N1 flu, as well as the drug-related violence that has robbed so many of their future.
+One thing we know: Good neighbors work together when faced with common challenge. And that's why we're working closely with the Mexican government to identify and treat illnesses that are caused by this new flu strain. I spoke to President Calderón on Saturday about this joint approach. That's why we're working in an urgent and coordinated fashion to end the drug wars. That's why we'll continue to stand side-by-side with the Mexican people in pursuit of our common security and our common prosperity.
+So I know this is a tough time on both sides of the border. I know some of tomorrow's celebrations have been downsized or cancelled out of an abundance of caution, from Puebla to Mexico City to my hometown of Chicago. And while we hope and pray that all these precautions and preparations will prove unnecessary, I applaud the Mexican government and all the leaders who are taking responsibility and appropriate steps in order to keep the people safe.
+As we honor our heritage and our heroes tomorrow, I also know this: Mexicans, Americans, and Mexican Americans are all a people who've known trial and persevered in the face of incredible odds. We're a people of revolution; who value hard work and sacrifice; who forever look forward to the future with a deep and abiding faith that the dream of opportunity is still real and alive in our time.
+And when one of my predecessors once visited Mexico City, he said that "while geography has made us neighbors, tradition has made us friends. Economics has made us partners. And necessity has made us allies... two great and independent nations, united by hope instead of fear."
+John F. Kennedy's message nearly a half-century ago is my message now. And when I made my first trip to Mexico as President, not just -- just three weeks ago, I was greeted by the children of both our nations waving flags of both our nations -- a powerful reminder that in the end, everything we do is done to guarantee a better future for our children and our grandchildren.
+And while I was there, I found it impossible not to be touched by the warmth, the vigor, and the forceful vitality of the Mexican people -- a love of life I've seen in Mexican American communities throughout this nation. And that's what we'll celebrate tomorrow, that's what we celebrate tonight, and that's what we will celebrate in the future.
+So feliz Cinco de Mayo. Thank you very much for being here. And party on. {APPLAUSE}
+Oh, I also want to -- I want to make sure that -- everybody knows the Bidens, but I want to make sure to acknowledge my good friend and a great friend of the United States, Ambassador Arturo Sarukhan, and his lovely wife, Valencia. {APPLAUSE}
+Excuse me. In an incredible breach of protocol, I introduced my good friend, the Ambassador, but he has greetings from the people of Mexico. So I take complete responsibility for that. I apologize. Will everybody please settle down, and let's hear from our Ambassador from Mexico. {APPLAUSE} 
+
+{/speech}

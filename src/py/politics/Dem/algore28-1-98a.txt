@@ -1,0 +1,67 @@
+﻿{title} Remarks By The Vice President To The People Of Champaign-Urbana {/title}
+{event} ----- {/event}
+{speaker} Al Gore {/speaker}
+{date} January 28, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. It is great to be here. Thank you for all that enthusiasm. I really do appreciate it very much. {APPLAUSE} I want to thank Carol Moseley-Braun for her kind words and her friendship, and I want to thank her for doing a great job for the people of Illinois and the people of our country. {APPLAUSE} Thank you, Carol. 
+
+And I want to thank Senator Dick Durbin for also doing a spectacular job for this nation and for the people of this state. {APPLAUSE} I want to thank Congressman Tom Ewing for coming here with us and being a very gracious host. Thank you, Congressman. {APPLAUSE} 
+
+Congressman Ron Kind, from Wisconsin, is here with the President today. And I want to thank Chancellor Michael Aiken and President James Stukel. And, ladies and gentlemen, I want to ask you to join me in expressing thanks to a man who I think without question has been the best Secretary of Education our country has ever had, Dick Riley. Would you stand up, Secretary Riley? We appreciate it. {APPLAUSE} 
+
+I want to thank Mayor Dan McCullom of Champaign, and Mayor Todd Satterthwaite of Urbana, and all the other distinguished guests who are here. And on behalf of the President, I want to thank the groups that provided music, the members of the Black Chorus -- {APPLAUSE} -- the Girls Next Door and the Other Guys. {APPLAUSE} The University of Illinois Pep Band. {APPLAUSE} And Tony Clement -- thank you, Tony. 
+
+I was listening as Dick Durbin did that experiment with the sound system of the ILL. See, I'm not from here -- {LAUGHTER} -- so I didn't know if that -- I'm libel to say something like, you know, Osciwawa -- {APPLAUSE} What does that mean again? {LAUGHTER} Anyway, thank you very much. 
+
+I'm really excited to be back here on this campus. As Dick said, I've been here many times. I've got a lot of friends on this campus, and back when I was in the House of Representatives and then in the United States Senate, I worked for 20 years to create what we now call the Information Superhighway. And I'm telling you, this is really the central cloverleaf for the Information Superhighway, right here on this campus. {APPLAUSE} 
+
+I don't think we'll have time to go to the Beckman Institute and play their computer and air hockey today. {LAUGHTER} But I did get a chance to see Larry Smarr and some other friends, who do such a great job on this campus. And there are people from other parts of the nation here who don't really realize necessarily -- because they might not have been here before -- that anybody who surfs the Net and goes to a home page on the World Wide Web owes a debt of gratitude to this university and this campus for the creation of mosaic that made the World Wide Web accessible all around the country. 
+
+When we took office five years ago -- it's hard to believe this, but there were only 50 sites, 50 Web pages on the World Wide Web -- only 50. And now there are, of course, tens of millions, hundreds of millions. It is absolutely incredible. This university made that possible. And that's in the tradition of Champaign -- you all don't mind me saying that, do you? {APPLAUSE} 
+
+The first transistor was created here -- and, incidentally, a half-century ago. And this year, more than a half a billion transistors are created every second in the world. So, from the World Wide Web to the transistor to so many other things, this campus has helped to create the future. 
+
+And you know as much as any group of people in the world that our future depends on our willingness to invest in education. Less than a year ago, I was here on this campus again, and I was introduced by Laura Apenzeller, your Student Body President -- {APPLAUSE} -- and I conducted a townhall meeting on education, and the new proposals that President Clinton has put before the Congress at that time to expand access to education. And we helped to build the case right here on this campus. And with the help of these three federal legislators who are with us, we were able to expand the Pell Grants and create the HOPE Scholarships and set standards and have a whole new revolution in education. 
+
+How many people here have personally benefitted from expanded Pell Grants and student loans and interest deductions for student loans? {APPLAUSE} Well, that is what we must depend upon for the future. 
+
+And, ladies and gentlemen, the agenda that has made this investment in the future possible has been put before our country by President Clinton. And last night he stood before the American people and told us what we all know to be true, the state of our Union is strong. And he laid out a plan to make it stronger still. We're going to stand by him and support him and help him to enact that agenda for the good of our country. {APPLAUSE} 
+
+The 21st century can be the most prosperous and productive time in all of human history if we share President Clinton's vision and follow his leadership and help to put this agenda into action. 
+
+But in mapping out the plans for enacting these proposals that he presented to the country last night, let's don't forget for one minute what it was like more than five years ago when we came to this state and talked about the need for change. The future back then didn't look so rosy. Don't ever forget the fact that when we took office there was a budget deficit of $300 billion, the highest in history. It was projected that year to be $357 billion, higher still. It was projected in the following years to go out higher than $500 billion a year. And people were beginning to lose hope. 
+
+Unemployment was up, and job creation was down. Crime and welfare were both up, and investment in education and opportunity were both down. The hunger for change was up, but hope for the future was down. I used to say back then, everything that should be up was down, and everything that should have been down was up. And we needed change in America, and thanks to you we have had a chance over these last five years to put this agenda for change before the people. 
+
+And I'm telling you, President Clinton has brought change for the better for America. He has improved the prospects for the people of our country. {APPLAUSE} Despite all of the problems and challenges that he inherited, he did not look for scapegoats, he looked for solutions. He moved us beyond the false choices and toward the future. {APPLAUSE} 
+
+He said, let's stop arguing about the left and the right, and move toward a better day for our country. He said, we can eliminate the deficit and, at the same time, invest in our people in our country. And that's what we've done under President Clinton's leadership. {APPLAUSE} 
+
+He said that we need to move passed the old argument, as he said last night, about whether the government is the problem or the solution, because there is a new way -- his way -- which is to cut down the size of the government, but invest more in education and environment and health care and job training and technology and the future of this country. {APPLAUSE} And that's what we've been doing. {APPLAUSE} 
+
+And now we have got the first balanced budget presented to the Congress in more than 30 years. {APPLAUSE} And at the same time he has presented the largest new investments in education in more than a generation. And we've seen the creation of almost 15 million new jobs in America -- good jobs, with higher wages. {APPLAUSE} 
+
+More Americans own their own private homes now than ever before in the entire history of the United States of America. {APPLAUSE} We're seeing the income gap close up. African American poverty, for example, is at the lowest level in the history of the United States of America. That's progress. Our cities are coming back. Our environment is cleaner. {APPLAUSE} Our communities and families are stronger. {APPLAUSE} We've got welfare down by almost 4 million people, the biggest drop in welfare in the history of the United States of America. I'm telling you, we're moving in the right direction. {APPLAUSE} Our air is cleaner. Our water is cleaner. We're cleaning up the toxic waste sites. {APPLAUSE} 
+
+So, today, let's remember the contrast between what we have seen happening for the good in our nation these last five years compared to what was going on before we got here, because the country was then moving in the wrong direction. They had driven the economy into the ditch; the problems were not being solved. So the agenda that this President has been pursuing and presented again last night is good for this nation. 
+
+And today, just 700 days before the dawn of the 21st century, we are ready to seize this moment in American history to make your generation the best educated, best prepared generation ever in the history of the United States of America. We've got to do that. {APPLAUSE} 
+
+We've seen almost 100,000 new police put on our streets. We've got to finish that job. And we've seen how it's working, because crime in every category is on the way down. Now he has proposed, in his speech last night, to put 100,000 new teachers in our schools in this country, to bring the classroom sizes down and improve the quality of elementary and secondary education. {APPLAUSE} 
+
+He's already cut taxes for families, and let parents take time off from work to care for a sick child or newborn. Now he is asking our country to focus on improved access to high-quality child care and after-school care. {APPLAUSE} And we can do it. 
+
+I'm proud that he is leading our nation and the world to address the problem of global warming and clean up our world's environment for you and for our children. {APPLAUSE} I'm proud that he announced the largest increase ever in history in the National Institutes of Health and the sciences, and research and development, to benefit the work in this university and elsewhere. {APPLAUSE} 
+
+So, ladies and gentlemen, we have a choice before us in this nation -- to continue this agenda and the investments and fiscal responsibility involved, and to continue building this bright future that the President of the United States has not only sketched out for us, but that he is helping us to reach. A future where you can rise as high and travel as far as your God-given gifts can carry you. 
+
+So let us move together into that future. Let us dedicate ourselves to working with President Clinton, to fighting alongside him for the 21st century that we all deserve. 
+
+I am now pleased to introduce a man who has brought us this far and will help us finish our journey to the 21st century. He is the President of the country. He is also my friend. And I want to ask you now, every single one of you, to join me in supporting him and standing by his side. I give to you the President of the United States of America, William Jefferson Clinton. {APPLAUSE} 
+
+{/speech} 

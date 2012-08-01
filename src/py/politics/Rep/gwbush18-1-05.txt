@@ -1,0 +1,42 @@
+﻿{title} President Thanks Armed Forces at 'Saluting Those Who Serve' Event {/title}
+{event} MCI Center, Washington, D.C. {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 18, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+At ease. Thanks for the warm welcome. It is such a pleasure to be with the courageous men and women of the United States Armed Forces. As we prepare to celebrate our nation's 55th presidential inauguration, I can think of no better way to begin than by giving thanks for our freedom and those who make it possible. {APPLAUSE}
+
+Please be seated. It may be a long speech. {LAUGHTER}
+
+Whether you serve in the Army, the Navy, the Air Force, Marines, or Coast Guard, each of you has stepped forward to serve. You have risked your lives in faraway mountains and arid deserts, in perilous skies and on the high seas, to defend liberty and to free those trapped by tyranny. As I prepare to take the oath of office, I want you to know how grateful I am for your service and sacrifice, and how proud I am to be your Commander-in-Chief. {APPLAUSE}
+
+And I am really proud of our First Lady, my wife. {APPLAUSE} I love her dearly. I appreciate so very much the service and advice and friendship of our Vice President, Dick Cheney. {APPLAUSE} Like me, he married well. {LAUGHTER} It's good to see my mother and father. {APPLAUSE} Secretary Rumsfeld, thank you for your great service to our nation. {APPLAUSE} And it's good to see Joyce.
+
+I appreciate the military commanders who are here. I want to thank the members of my administration who've joined us; members of Congress; members of the active military; wounded troops; congressional Medal of Honor recipients -- {APPLAUSE} Family members of our fallen soldiers, thank you so much for being here today. {APPLAUSE}
+
+Our troops watching from Baghdad, Iraq, and Bagram Air Force Base in Afghanistan, God bless you all. {APPLAUSE}
+
+I thank Kelsey Grammer -- what a fine man. I appreciate his patriotism and being the emcee of this fantastic event. I want to thank all the other entertainers who have taken of their time to entertain our troops, and really to say -- what they're doing here is to say thank goodness for your service.
+
+The inauguration of a President is a great moment in the life of our country. With an election behind us, the American people come together in unity to celebrate our freedom. A presidential inauguration is a testament to the power of democracy, a symbol of our confidence in the popular will, and a sign of hope for freedom-loving people everywhere.
+
+We are blessed to live in hopeful times, when the promise of liberty is spreading across the world. In the last four years, more than 50 million people have joined the ranks of the free. {APPLAUSE} The people of Afghanistan have thrown off an outlaw regime, and chosen a President in the first free elections in that nation's 5,000-year history. {APPLAUSE} And in coming days, the Iraqi people will have their chance to go to the polls, to begin the process of creating a democratic government that will answer to the people, instead of to a thug and a tyrant. {APPLAUSE}
+
+These are landmark events in the history of liberty. And none of it would have been possible without the courage and the determination of the United States Armed Forces. {APPLAUSE}
+
+Through your service and sacrifice in the war on terror, you are making America safer. You're making America safer for not only those of us who live today, but for future generations of Americans. Your sacrifice has made it possible for our children and grandchildren to grow up in a safer world.
+
+Many here today have endured long separations from your families. We understand that and we thank you for that. Some are preparing to do so. Others have suffered terrible injuries, wounds you will carry with you for the rest of your lives. Still others have lost loved ones in this struggle, heroes who gave their lives so that we might live in freedom. We hold them in our hearts; we lift them up in our prayers.
+
+We're grateful to you, and we are grateful to your families who love and support you. Your families miss you and they worry about you and they pray for you, always wondering where you are and if you're safe. By their sacrifice, they also serve. Our nation is grateful to our military families. {APPLAUSE}
+
+You, those who wear our uniform, have given much, and much more will be asked of you in the months and years ahead. In Afghanistan and Iraq, the liberty that has been won at great cost now must be secured. We still face terrorist enemies who wish to harm our people, and are seeking weapons that would allow them to kill on an unprecedented scale. These enemies must be stopped, and you are the ones who will stop them. {APPLAUSE}
+
+The road ahead will be difficult and dangerous, but we can proceed with courage and with confidence. History moves toward freedom because the desire for freedom is written in every human heart. And the cause of freedom is in the best of hands -- the hands of the United States Armed Forces. {APPLAUSE}
+
+And so, thank you for your service. Thank you for your sacrifice. May God bless you, and may God bless your families, and may God continue to bless the United States of America. {APPLAUSE} 
+
+{/speech}

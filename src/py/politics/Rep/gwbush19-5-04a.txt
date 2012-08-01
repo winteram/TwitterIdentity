@@ -1,0 +1,51 @@
+﻿{title} President Bush Congratulates NCAA Winter Sports Champions {/title}
+{event} Remarks by the President to NCAA Winter Sports Champions, The East Room {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 19, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thanks for coming.
+
+{AUDIENCE-MEMBER} We'll be back. {/AUDIENCE-MEMBER} {LAUGHTER}
+
+Whoever said, "we'll be back," it sounds like the Connecticut Women's Basketball Team. {APPLAUSE}
+
+I'm glad you all are here. This is what we call Champions Day. It is my high honor to welcome champions to the White House. {APPLAUSE} I appreciate -- I notice we've got a lot of folks from Connecticut here. {LAUGHTER ; APPLAUSE} Yes. We've got two fine United States Senators in Chris Dodd and Joe Lieberman. We're proud you're here. Nancy Johnson is here with us today. Chris Shays -- you made it. Very good. And Rob Simmons is with us, as well. There you go. {LAUGHTER}
+
+They're here because Connecticut -- University of Connecticut has done something really unusual. They have a Women's champion and a Men's champion in the same year. And we're proud to welcome them here. {APPLAUSE} Maybe now is the moment that I should admit that I was born in Connecticut. {APPLAUSE}
+
+I want to thank Phil Austin for being here. Geno, welcome back. Geno is -- he's obviously a great coach. And he is a fellow who -- I've watched the games and I've watched his attitude, and no wonder Connecticut Women's Basketball does so well, because he knows how to win. And I'm proud to have him back. This is the third year that the Connecticut Ladies have been here since I've been the President. {APPLAUSE}
+
+And Jim Calhoun is also a great coach and a fine man, as well. Coach Calhoun looked at me and said, "I wonder if you're a point guard." I said, "I couldn't even touch the net." {LAUGHTER} But he's got some people that can touch the net on his team. And both these champs really worked hard to get here -- both these teams worked hard to get here, with great coaches. And I'm proud to welcome them here to the White House.
+
+University of Denver -- one of your -- well, you've got a couple of alumni who work for me. One is Gale Norton, who is the Secretary of the Interior. Welcome, Gale. I'm glad you're here. The other one is Condi Rice -- and I told her to keep working. {LAUGHTER} No rest for the weary. {LAUGHTER}
+
+I appreciate Mark Holtzman and George Gwozdecky, who is the head coach, for joining us, as well. We've got Wayne Allard, who is the United States Senator from Colorado, with us. Scott McInnis and Diana DeGette is with us, as well. Diana, thanks for coming. I'm glad you all are here. Proud the good folks from Colorado are here. {APPLAUSE}
+
+Laura Halldorson is the coach of the University of Minnesota Women's Hockey Team. {APPLAUSE} I welcome the team here. I also welcome Senators Norm Coleman and Mark Dayton. Where is Senator -- Senator Dayton -- he was a fine goalie, by the way. Yes, long ago.
+
+Martin Sabo, the Congressman, is with us. Martin, thank you for coming. We're proud we've got so many here. I was pleased to know that the University of Minnesota Women's Hockey Team's slogan this year was "Get it done, and meet George." {LAUGHTER ; APPLAUSE} It's my pleasure to meet you. {LAUGHTER} You beat Harvard and you became the first women's team in school history to win a national championship, and that's got to make you feel great. Congratulations. {APPLAUSE}
+
+I had met one of your players before. I warned her I was going to say this, but Krissy Wendell -- who plays for the Minnesota team -- and I met at the Winter Olympics. It was there that she handed me a cell phone so I could speak to her mother. {LAUGHTER} I worked hard to convince her mother it was actually the President speaking to her. {LAUGHTER} I tried as hard as I could to sound exactly like myself. {LAUGHTER} I will never, however, forget what her mother said. She said, "I just want you to know I'm praying for you." And I told Krissy, when she talked to her mother, tell her how -- that was -- it meant a lot, and tell her mom, thanks.
+
+I also am really glad that the women's team is here. I'm sorry that Diana is not here. She's making a living. {LAUGHTER} It's part of the economic recovery package. {LAUGHTER} She goes to college and she gets a really good job with the WNBA Phoenix Mercury.
+
+But these women know how to play basketball, and they're tough competitors. I think a lot of people probably wrote Gino's team out pretty early in the year. It seemed like the field was really a competitive field this year, and a lot of people probably said, well, they don't have it. They're kind of burned out, maybe don't have what it takes. And in fact, these women show they do have what it takes. They've got great courage, great desire, and I'm really happy you're back.
+
+And I'm really happy the men's team is here, as well. It's -- the NCAA Final Four is some kind of exciting for a lot of sports fans. And the Duke game was really an exciting game. And I know the people of Connecticut were -- Connecticut fans were incredibly thrilled that Calhoun and his men are here today. And I am, too -- glad you're here.
+
+And then there's the University of Denver Hockey Team -- the Men's Hockey Team. They won their first national championship in 35 years. {APPLAUSE} This team wasn't expected to win either. It just goes to show you, don't write people out, particularly those who have got desire and character. You just don't write them off. You just -- you never kind of take anything for granted.
+
+
+I like the story of Lukas Dora. Where are you, Lukas? There you go. Lukas is from the Czech Republic. He said -- they tell me he talks a lot on the ice. He's a talkative guy, but he uses unique English to confuse the opponents. {LAUGHTER} Kind of sounds like the strategy I use at the press conferences. {LAUGHTER ; APPLAUSE} 
+
+They're champs on the court, they're champs on the ice. They've got to be champs off the court and ice, too, to be true champs. You've got an opportunity now, with the spotlight on you, as champions, to make a difference in the communities in which you live. Here's a chance, a chance to be more than just an athlete; it's a chance to be a hero to somebody who needs a role model; somebody who -- like when you go to visit the children in the hospital -- and I know you do -- somebody -- when you touch their life -- you go in as a champ, and you touch a life, and somebody feels better as a result of a little love and compassion; or serving food or helping with toy drives. All of it matters, see. All of it counts.
+
+And now that you've got the spotlight on you, I hope you continue to seize that moment and make America a better place, by changing a heart and a soul, one person at a time. See, true champs are those that show courage and work hard to win. But they're also people who show compassion and love and decency when given the chance.
+
+We're welcoming true champs here to the White House, and it's my high honor to do so. Congratulations for what you have done. May God continue to bless you all, your schools, and your families. Welcome. {APPLAUSE} 
+
+{/speech}

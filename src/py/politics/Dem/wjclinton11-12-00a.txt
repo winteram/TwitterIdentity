@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President at Christmas Pageant of Peace Ceremony {/title}
+{event} The Ellipse, Washington, D.C. {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 11, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, ladies and gentlemen. First, I'd like to thank Peter Nostrand and all the people who work on the Pageant of Peace every year. They give us a wonderful night, and I think we ought to give them all a big hand. Thank you very much. {APPLAUSE}
+
+I'd love to thank these people who have come out in the cold to perform for us. I thank Kathy Mattea, Charlotte Church, Billy Gilman, the cast of "Fosse," the West Tennessee Youth Chorus, Al "Santa Claus" Roker -- {LAUGHTER}
+
+I also want to thank Anastasia Wroblewski and Kwami Dennis, our Camp Fire boy and Camp Fire girl. They did a great job up here; it's not so easy to remember those speeches. {LAUGHTER} I thought they were terrific.
+
+And I'd like to thank Thomas Kinkade for his beautiful portrait that's on the cover of our program, and the United States Navy Band. Thank you very much. {APPLAUSE}
+
+On Christmas Eve, more than 75 years ago, President Calvin Coolidge lit the first National Christmas Tree. He later said, "Christmas is not a time or a season, but a state of mind, to cherish peace and goodwill, to be plenteous in mercy."
+
+Every President since President Coolidge has been part of that tradition, gathering around the Colorado spruce to rejoice in the spirit of Christmas -- and to celebrate a new season of peace and goodwill.
+
+Hillary, Chelsea and I always look forward to celebrating the Pageant of Peace with you, and the many traditions of the holiday season. Tonight, as we enjoy our last Christmas season in the White House, and the last time I'll have a chance to be here at the lighting of the Christmas tree, we are profoundly grateful for the gift you and all the American people have given us: the privilege to serve these last eight years, to live in this marvelous old house, and to participate in wonderful ceremonies like this.
+
+For Americans of many faiths, this is a season of renewal -- of light returned from darkness, despair transformed to hope. A time to reflect on our lives, rejoice in our blessings, and give thanks.
+
+Tonight, on this first Christmas of the new millennium, we celebrate an America blessed with unprecedented peace and prosperity, and a nation that through more than 220 years and even the toughest times has held together by the enduring values enshrined in our Constitution.
+
+This is a time for us to reflect, too, on that good fortune and a time to rededicate ourselves to the lessons of love and reconciliation taught by a child born in Bethlehem 2000 years ago. As we gather to decorate our trees and light our menorahs, let us remember the true meaning of the holidays by taking some time to give to those who need it most. And let us be thankful for the sacrifices of all those who serve us, especially those who serve us in the military who won't be home this year for Christmas.
+
+Let me say that when I leave you tonight, I'm going to Northern Ireland, to a small island where people were born that eventually came to America and gave us over 40 million of our citizens; a place where St. Patrick brought the spirit of Christmas almost 1,500 years ago. I hope that we can finish the business of peace there and help, again, America to give a gift to the rest of the world.
+
+To all of you again, I say this has been a humbling and wondrous gift. We thank you, all of us in our family, for the chance to serve yours. God bless you and merry Christmas. And let's light the tree.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

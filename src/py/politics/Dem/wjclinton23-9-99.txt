@@ -1,0 +1,46 @@
+﻿{title} Remarks by the President on Signing Veto of Tax Bill {/title}
+{event} The Rose Garden {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 23, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning. Thank you very much. Please be seated. Thank you and good morning. As all of you know, Congress has sent me the tax bill I have repeatedly pledged to veto. In a moment, I will do that because, at a time when America is moving in the right direction, this bill would turn us back to the failed policies of the past.
+
+In the 12 years before I became President, irresponsible policies in Washington piled deficit upon deficit, quadrupling the national debt, leading to high interest rates, eventually bringing us the worst recession since the Great Depression. Interest rates and unemployment were too high, wages were stagnant, growth was slow.
+
+Vice President Gore and I came into office determined to change all that with a new economic strategy focused on fiscal discipline, expanded trade, investment in our people. The strategy has worked. In the past six and a half years, it has produced lower interest rates and ushered in the longest peacetime expansion in our history, with more than 19 million new jobs, rising wages, the lowest unemployment in a generation, and record-breaking levels of home ownership. And by balancing the budget for the first time in a generation, we have changed red ink to black, turning a deficit of $290 billion into a budget surplus of $99 billion this year, with growing surpluses projected for years to come.
+
+The American people understand that these are not simply numbers on charts. The progress we've made is something they see and feel every day -- in more jobs, higher paychecks, HOPE scholarships that help send their children to college, lower interest rates for owning a home and buying a car. This is the right course for our people, and our nation. It is making a difference in the lives of Americans. And they want us to stay on it.
+
+Our hard-won prosperity gives us, also, the chance to do something few people ever have -- the chance to invest our surplus to meet the long-term challenges of America. We can lift the burden of debt from the shoulders of the next generation. We can secure the future of Social Security and Medicare. We can ensure a first-rate education and modern schools for our children.
+
+Unfortunately, the tax bill Congress has sent me would deny those opportunities to the American people. The bill is too big, too bloated, places too great a burden on America's economy. It would force drastic cuts in education, health care and other vital areas. It would cripple our ability to pay down the debt. It would not add a day to the Social Security trust fund. It would not add a day to the Medicare trust fund, or modernize Medicare with prescription drug coverage. Nearly a trillion dollars in tax cuts, but not one dollar for Medicare. I will veto this bill because it is wrong for Medicare, wrong for Social Security, wrong for education, and wrong for the economy.
+
+Now, in the face of my determination to do this, many in Congress seem ready to throw in the towel. That would be a disservice to the American people. They sent us all here to get things done. And we have proved in the past, with the Welfare Reform bill of 1996 and the Balanced Budget Act of 1997, that we can work together to get things done and bring good results to our country. So, instead, I ask Congress not to go home until we have worked together once again, in a good-faith effort to meet the long-term challenges our people face.
+
+First, let's reach a bipartisan agreement to save Social Security. The congressional majority's current plan and its so-called lockbox would fail to protect the Social Security surplus from being spent, and it would not add a day to the Social Security trust fund. Instead of this weak lockbox and no additions to the trust fund, I ask Congress to work with me to construct a real lockbox that would keep Social Security solvent until the year 2050.
+
+Second, let's work together to save Medicare. With Medicare facing insolvency in just 16 years and with three out of four seniors lacking dependable, affordable prescription drug coverage, we know we must not put off this challenge. Months ago, I put forth a detailed plan for Medicare that would reform and modernize it with a voluntary prescription drug benefit. It would address the immediate, critical needs of teaching hospitals, skilled nursing facilities and other priorities while extending Medicare's solvency to the year 2027.
+
+Now, I don't expect the Republican majority to agree with me on every detail of my plan; I never thought that would be the case. But I do expect, and the American people have a right to expect, that we will work together in good faith to meet these long-term objectives.
+
+Third, we should fulfill our obligations to the future by producing a real budget that pays down the debt, brings down interest rates, and makes vital investments in education, the environment, national security, biomedical research, health care, and other areas so vital to our future.
+
+If we do this, within the framework I have outlined, we can not only invest in our future, we can pay down America's debt over the next 15 years and make our country debt-free for the first time since Andrew Jackson was here and planted that big magnolia tree in 1835. {APPLAUSE}
+
+So I say again, let's do first things first: pay down the debt, save Social Security, save and modernize Medicare, invest in education.
+
+In the days ahead, I will ask the Republican majority to work with me to fulfill these fundamental obligations we have to our children and to our future. If we can work together to meet these objectives, we can also work together to pass tax relief we can afford -- affordable, middle-class tax relief that reflects the priorities of both parties and the values of the American people. That would be a good bill I would happily sign.
+
+Every generation of Americans is called upon to meet the challenges of its time. But few have the unprecedented opportunity we have -- to meet the challenges not only of our time, but the great challenges of our future. We must seize that opportunity.
+
+Thank you very much. {APPLAUSE}
+
+{COMMENT="The veto is signed"} 
+
+Thank you. {APPLAUSE} 
+
+{/speech}

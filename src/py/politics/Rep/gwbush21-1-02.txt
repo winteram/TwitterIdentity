@@ -1,0 +1,55 @@
+﻿{title} President Honors Dr. Martin Luther King, Jr. {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 21, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Well, thank you all very much for coming. Mrs. King, thanks for this beautiful portrait. I can't wait to hang it. {LAUGHTER} 
+
+I want to welcome you all to the White House. We've gathered in tribute to Dr. Martin Luther King Jr., to the ideals he held and the life he lived. We remember a man who brought much good into the world by the power of his voice and the truth of his words. 
+
+For some of you here this afternoon, Dr. King was, and is, a special part of your life -- as a colleague and a friend and a brother. Four call him "dad." And we are pleased that two of his children are here with us today. We welcome Bernice and Martin Luther King III. I know your dad would be incredibly proud of you. {APPLAUSE} 
+
+I also welcome Christine King Farris, Dr. King's sister. {APPLAUSE} Alveda King, Isaac Farris Jr., Arthur Bagley and Arturo Bagley, family members are here, as well. Thank you all for coming. {APPLAUSE} 
+
+And of course, we're honored to be in the presence of such a distinguished and delightful lady, Coretta Scott King. {APPLAUSE} 
+
+I appreciate Secretary Rod Paige for being here. {APPLAUSE} In honor of Dr. King, the Department of Education will soon announce the Martin Luther King Jr. Scholars Program to promising students all across America. {APPLAUSE} 
+
+I appreciate all the members of my team who are here, in particular, Condoleezza Rice, the National Security Advisor. Thank you for coming, Condi. {APPLAUSE} It's good to see the Mayor. Mr. Mayor and the First Lady, Diane are with us today. Thank you all for coming. {APPLAUSE} The Mayor is a good man. I can assure you, Mr. Mayor, we paid our property taxes. {LAUGHTER} 
+
+I appreciate so many members of the diplomatic core for being here. Ambassadors from all across the world are here to say hello to Mrs. King and her family. And thank you all for coming to pay honor to such a great American. Thank you very much. {APPLAUSE} 
+
+On a summer night in 1964, right here in the East Room, President Lyndon Baines Johnson signed the Civil Rights Act, and handed a pen to Martin Luther King Jr. The law marked a true turning point in the life of our country. As Dr. King put it, the Civil Rights Act was the end of a century of slumber. 
+
+More laws would be needed, and more would follow. But on that day, our federal government accepted the duty of securing freedom and justice for every American. Standing in the White House, marking a national holiday in Dr. King's memory, we are now two generations and a world away from Montgomery, Selma and Birmingham, as he knew them. 
+
+It would be easy to forget the great obstacles he overcame, and the years of effort and the daily courage that turned a cause into a movement. Perhaps without Martin Luther King, there might still have been a Civil Rights Act. There is no doubting that the law came as it did, when it did, because of him. 
+
+Yet, he was not one to claim credit for himself. The civil rights law, he said, was first written in the streets, by many thousands of black citizens, and others who shared their goals. Their movement rose from generations of bitter experience -- the slights, the cruelties, the pervasive wrongs that marked the lives of many black Americans. 
+
+As a small boy, Martin has seen his father, a gifted and learned man, retain great dignity while being insulted, ordered about, and spoken down to. I don't care how long I have to live with this system, said Martin Luther King Sr., I will never accept it. The son would not accept it either. 
+
+Years afterwards, he related the story of going to the back of the bus, day after day, putting his mind up in the front seat. He told himself, one of these days I'm going to put my body where my mind is. {APPLAUSE} 
+
+In time, he did so, as did others, some of whose names are also honored in our history. Along the way, he was beaten and stabbed, jailed, and came close to losing his wife and baby daughter when their house was bombed. At a certain point, even a strong man might have yielded. Dr. King never did, and he never gave up on his country. 
+
+He believed that whatever one would change, one must first love -- and he loved America. His most powerful arguments were unanswerable, for they were the very words and principles of our Declaration and Constitution. 
+
+When he came to this capital city and stood before the figure of the great emancipator, it was not to assail or threaten. He had come to hold this nation to its own standards, to live out the true meaning of its creed. 
+
+We see Martin Luther King in many ways. Perhaps, above all, we should see him as a minister of the gospel. He said, I decided early to give my life to something eternal and absolute -- not for these little gods that are here today and gone tomorrow, but to God, who is the same yesterday, today and forever. 
+
+That faith gave Dr. King the grace to forgive, and the strength to love. He refused to answer hatred with hatred, or meet violence with violence. He appealed not to resentment, but to reason; not to anger, but to conscience. He was on this earth just 39 years. On the last night of his life, he did seem to sense that grave danger was lying in wait. But he trusted in the ways of providence, not fearing any man, certain that no man could ever finally prevent the purposes of Almighty God. 
+
+Here on all the roads of life, said Dr. King in a sermon, God is striving in our striving. As we struggle to defeat the forces of evil, the God of the universe struggles with us. Evil dies on the seashore, not merely because of man's endless struggle against it, but because of God's power to defeat it. Martin Luther King Jr. lived in that belief, and died in that belief. 
+
+Some figures in history, renowned in their day, grow smaller with the passing of time. The man from Atlanta, Georgia, only grows larger with the years. America is a better place because he was here, and we will honor his name forever. 
+
+It is now my honor to sign the proclamation. {APPLAUSE} 
+
+{/speech} 

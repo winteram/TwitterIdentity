@@ -1,0 +1,42 @@
+﻿{title} Kucinich speaks to voters in Indianola {/title}
+{event} ----- {/event}
+{speaker} Dennis J. Kucinich {/speaker}
+{date} January 13, 2004 {/date}
+{source} http://www.pbs.org/newshour {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+I think that what this election is coming down to is a few essential issues, first and foremost of which is the absolute necessity and requirement for the United States to go to the U.N. with a plan which will bring U.N. peacekeepers in and bring our troops home. It is absolutely essential. {APPLAUSE} 
+
+We're not stuck there as some of the other candidates are saying, and it's kind of surprising to be alone among all the Democratic candidates in the Iowa caucuses to say, "Look, we have to get the U.N. in and the U.S. out of Iraq." It's surprising to me that I'm standing alone on this issue... 
+
+{AUDIENCE-MEMBER} That's right. {/AUDIENCE-MEMBER} 
+
+In Iraq. Where are the other Democrats on this? {APPLAUSE} So, we cannot be lulled into a sense of indifference about this. This is an urgent matter. Our entire domestic agenda is at risk. 
+
+The president's budget, which was introduced in news reports a few days ago, speaks of cuts in jobs programs, in veterans' benefits, in housing, in health care, and virtual cuts in education. Where are we going with this country: Money for tax cuts for the wealthy; money for war? 
+
+Money for an expanded Pentagon budget -- and not money for the basic needs of the American people? It is urgent that we get out of Iraq. And the people in Iowa have the ability to make this the defining issue in these Iowa caucuses. Are you ready to do that? {APPLAUSE} 
+
+So before we go to the questions, there are two other things that I wanted to discuss with you. The defining domestic issue, assuming we'll be able to get to domestic issues, is health care. 
+
+Every family knows how premiums, co-pays, and deductibles keep going up. Every family is aware that a private-for-profit health care system is denying the American people the kind of health care they have a right to expect. 
+
+When I tell people that I'm for a universal, single-payer health care system where everyone is covered, every once in a while I hear, "Oh, that's fine. How are you going to pay for it?" And the answer is this: We are already paying for a universal standard of care. We're not getting it. 
+
+We know that, more and more, people are being denied the care they need because the health care system is putting all the needs of the people into the profits. So this election is about health care for all, and it's also about protecting our jobs. 
+
+We have the tenth anniversary of NAFTA. Manufacturing workers in Iowa and across this country know full well that the effect of NAFTA and the WTO has been to drive down wages, has been to export our jobs, has been to lead an exodus of manufacturing jobs out of this country. 
+
+We've lost 3 million manufacturing jobs since the year 2000. And that's why I have said that my first act as president will be to cancel NAFTA and the WTO and go back to bilateral trade conditioned on worker's rights, human rights and environmental quality principles. {APPLAUSE} 
+
+This is the campaign that upholds the hopes of American people. This is the campaign that is about the end of fear and the beginning of hope. And with your help, we're going to make a mark in these Iowa caucuses and create a new hope for this country. Thank you much. {CHEERS ; APPLAUSE} 
+
+{OTHER-SPEAK} When I hear other Democratic candidates say protectionism -- you talk about canceling NAFTA and the WTO, and they say, "That's protectionist." Would you respond to that? 
+{/OTHER-SPEAK} 
+
+Yes. As president, I will protect American jobs, that's right. {APPLAUSE} Yes, yes. I mean, there's a very high "duh" factor there. {LAUGHTER} Right, I'm going to protect American jobs. You can call it what you want. You know, when we have a $550 billion trade deficit, when we've lost 3 million manufacturing jobs, when our small family farmers are being crushed by agriculture monopolies, when our high-tech jobs are starting to go out of the country by the tens of thousands, I think it's time for an American presidential candidate to stand up and say, "I'm going to protect American jobs." {APPLAUSE} 
+
+{/speech} 

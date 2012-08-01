@@ -1,0 +1,50 @@
+﻿{title} Remarks by the President on Energy in Lanham, Maryland {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} February 16, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, everybody. Thank you. Please have a seat. Have a seat. Good morning, everybody. Before I begin let me just acknowledge some of the people who are standing behind me here: First of all, two people who have been working really hard to make this day happen -- Secretary Steven Chu, my Energy Secretary -- Steven Chu. {APPLAUSE} And my White House advisor on everything having to do with energy, Carol Browner. {APPLAUSE}
+
+I want to acknowledge the outstanding governor of Maryland, Martin O'Malley, as well as his lieutenant governor, Anthony Brown. {APPLAUSE} We've got Mark Ayers from the building trades, and Billy Hite from the UA Plumbers and Pipefitters -- give them a big round of applause. {APPLAUSE} Gregory Jaczko, who's with the Nuclear Energy Commission, is here. Where is he? {APPLAUSE} Ed Hill, president of IBEW International. {APPLAUSE} And I want to thank Chuck Graham and everybody here at Local 26 for their great hospitality. {APPLAUSE}
+
+Thank you for the warm welcome. Thanks for showing me around. I was just mentioning that I got a chance to pull the first fire alarm since I was in junior high. {LAUGHTER} And I didn't get in trouble for it.
+
+This is an extraordinarily impressive facility, where workers are instructed on everything from the installation of sophisticated energy hardware and software to the basics of current and resistance. We need to look no further than the workers and apprentices who are standing behind me to see the future that's possible when it comes to clean energy.
+
+It's a future in which skilled laborers are helping us lead in burgeoning industries. It's a future in which renewable electricity is fueling plug-in hybrid cars and energy-efficient homes and businesses. It's a future in which we're exporting homegrown energy technology instead of importing foreign oil. And it's a future in which our economy is powered not by what we borrow and spend but what we invent and what we build.
+
+That's the bright future that lies ahead for America. And it's one of -- it's a future that my administration is striving to achieve each and every day. We've already made the largest investment in clean energy in history as part of the Recovery Act -- an investment that is expected to create more than 700,000 jobs across America -– manufacturing advanced batteries for more fuel-efficient vehicles, upgrading the power grid so that it's smarter and it's stronger, doubling our nation's capacity to generate renewable energy. And after decades in which we have done little to increase the efficiency of cars and trucks, we've raised fuel economy standards to reduce our dependence on foreign oil while helping folks save money at the pump.
+
+But in order to truly harness our potential in clean energy we're going to have to do more, and that's why we're here. In the near term, as we transition to cleaner energy sources, we're going to have to make some tough decisions about opening up new offshore areas for oil and gas development. We'll need to make continued investments in advanced biofuels and clean coal technologies, even as we build greater capacity in renewables like wind and solar. And we're going to have to build a new generation of safe, clean nuclear power plants in America.
+
+That's what brings us here. Through the Department of Energy -– under the leadership of Nobel prize-winning physicist, Steven Chu –- although, just a quick side note: When he was talking to some of the instructors here, and they were talking about currents and this and that and the other, I indicated to him that he could have saved a lot of money. Instead of getting a Ph.D., he could have come here and learned some of the same stuff. {LAUGHTER ; APPLAUSE} You know, the instructors here were just keeping up -- they were right there with him.
+
+But through the Department of Energy and Secretary Chu's leadership, we are announcing roughly $8 billion in loan guarantees to break ground on the first new nuclear plant in our country in three decades -- the first new nuclear power plant in nearly three decades. {APPLAUSE}
+
+It's a plant that will create thousands of construction jobs in the next few years, and some 800 permanent jobs -- well-paying permanent jobs -- in the years to come. And this is only the beginning. My budget proposes tripling the loan guarantees we provide to help finance safe, clean nuclear facilities -– and we'll continue to provide financing for clean energy projects here in Maryland and across America.
+
+Now, there will be those that welcome this announcement, those who think it's been long overdue. But there are also going to be those who strongly disagree with this announcement. The same has been true in other areas of our energy debate, from offshore drilling to putting a price on carbon pollution. But what I want to emphasize is this: Even when we have differences, we cannot allow those differences to prevent us from making progress. On an issue that affects our economy, our security, and the future of our planet, we can't keep on being mired in the same old stale debates between the left and the right, between environmentalists and entrepreneurs.
+
+See, our competitors are racing to create jobs and command growing energy industries. And nuclear energy is no exception. Japan and France have long invested heavily in this industry. Meanwhile, there are 56 nuclear reactors under construction around the world: 21 in China alone; six in South Korea; five in India. And the commitment of these countries is not just generating the jobs in those plants; it's generating demand for expertise and new technologies.
+
+So make no mistake: Whether it's nuclear energy, or solar or wind energy, if we fail to invest in the technologies of tomorrow, then we're going to be importing those technologies instead of exporting them. We will fall behind. Jobs will be produced overseas, instead of here in the United States of America. And that's not a future that I accept.
+
+Now, I know it's been long assumed that those who champion the environment are opposed to nuclear power. But the fact is, even though we've not broken ground on a new power plant -- new nuclear plant in 30 years, nuclear energy remains our largest source of fuel that produces no carbon emissions. To meet our growing energy needs and prevent the worst consequences of climate change, we'll need to increase our supply of nuclear power. It's that simple. This one plant, for example, will cut carbon pollution by 16 million tons each year when compared to a similar coal plant. That's like taking 3.5 million cars off the road.
+
+On the other side, there are those who have long advocated for nuclear power -- including many Republicans -- who have to recognize that we're not going to achieve a big boost in nuclear capacity unless we also create a system of incentives to make clean energy profitable. That's not just my personal conclusion; it's the conclusion of many in the energy industry itself, including CEOs of the nation's largest utility companies. Energy leaders and experts recognize that as long as producing carbon pollution carries no cost, traditional plants that use fossil fuels will be more cost-effective than plants that use nuclear fuel.
+
+That's why we need comprehensive energy and climate legislation, and why this legislation has drawn support from across the ideological spectrum. I raised this just last week with congressional Republican leaders. I believe there's real common ground here. And my administration will be working to build on areas of agreement so that we can pass a bipartisan energy and climate bill through the Senate.
+
+Now, none of this is to say that there aren't some serious drawbacks with respect to nuclear energy that have to be addressed. As the CEOs standing behind me will tell you, nuclear power generates waste, and we need to accelerate our efforts to find ways of storing this waste safely and disposing of it. That's why we've asked a bipartisan group of leaders and nuclear experts to examine this challenge. And these plants also have to be held to the highest and strictest safety standards to answer the legitimate concerns of Americans who live near and far from these facilities. That's going to be an imperative.
+
+But investing in nuclear energy remains a necessary step. What I hope is that with this announcement, we're underscoring both our seriousness in meeting the energy challenge and our willingness to look at this challenge not as a partisan issue but as a matter that's far more important than politics -- because the choices we make will affect not just the next generation but many generations to come.
+
+The fact is changing the ways we produce and use energy requires us to think anew; it requires us to act anew; and it demands of us a willingness to extend our hand across some of the old divides, to act in good faith, and to move beyond the broken politics of the past. That's what we must do; that's what we will do.
+
+Thank you very much, everybody. Appreciate it. {APPLAUSE} 
+
+{/speech}

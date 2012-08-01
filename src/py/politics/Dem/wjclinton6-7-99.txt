@@ -1,0 +1,18 @@
+﻿{title} Remarks by the President upon Departure {/title}
+{event} Speech by President upon Departure From Mississippi {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 6, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President upon Departure From Mississippi {/description}
+
+{speech} 
+
+I will be very brief --it's hot, you've waited for me a long time and I appreciate it. I'm glad to be back here. I'm glad to be in the Delta. I'm glad to have brought business leaders from all over the country here today.
+
+We are trying to send a message to America that good people live here; they have not fully participated in this economic recovery that has swept our country and lifted up America's economy as strong as it's ever been. And we can't rest until every American who wants to work has a chance to get a good education, a good job and raise a family in a strong community.
+
+And what we're proposing to do is simply to say to the investors of the country, take a look at the Delta; take a look at these other places in America that haven't grown as they should have -- and we will give you the same tax and other incentives to invest in American new markets that we give you today to invest around the world. I think we ought to give people the same incentive to go to the Delta. That's the message -- you help us get the message out. {APPLAUSE}
+
+Good luck. God bless you and thank you for making me feel welcome. Thank you. {APPLAUSE} 
+
+{/speech}

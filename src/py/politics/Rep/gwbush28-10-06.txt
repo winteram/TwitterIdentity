@@ -1,0 +1,47 @@
+﻿{title} President Bush Greets Troops in Charleston, South Carolina {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} October 28, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all very much. You know, I was in the neighborhood -- {APPLAUSE} -- and thought I'd stop by to say hello here at Team Charleston. {APPLAUSE} I am proud to be here with the men and women of the 437th and the 315th Air Wings. {APPLAUSE} Yes -- I'm proud to be with members of the United States Air Force and the United States Navy. {APPLAUSE} Proud to be with the rest of you, too. {LAUGHTER} 
+
+Laura sends her love. {APPLAUSE} And she sends all her respect to those who support our military. I'm proud to be here with the Governor of the great state of South Carolina, Governor Mark Sanford, and his wife Jenny and their children. {APPLAUSE} I thank Congressman Henry Brown for taking time out of a Saturday afternoon to come and say hello to his buddy, the President of the United States. {APPLAUSE} I thank Colonel Glen Joerger for his hospitality. I thank Colonel Tim Wrighton. I thank you all for giving me a chance to come and share some thoughts with you. 
+
+The first thought I want to say is I am proud to be the Commander-in-Chief of such a fine group of young men and women. {APPLAUSE} We have an amazing nation when people say, I want to volunteer to defend this country. I am constantly amazed, enthralled, and buoyed by the fact that I'm the Commander-in-Chief of honorable, decent, courageous men and women. And I thank you for coming to say hello. {APPLAUSE} 
+
+I'm also proud to be here with our military families. {APPLAUSE} I understand the sacrifices that you make on a daily basis for this country. So, as the President of the United States, I want to tell you plain and simple, the American people respect you, they appreciate you, and I'll do everything in my power to make sure the families and those who wear the uniform have all the support necessary to win this war on terror. {APPLAUSE} 
+
+I'm impressed by the record of the folks here at Charleston Air Force Base. I'm impressed by your accomplishments and what you've done on behalf of this grateful nation. Since September the 11th, 2001, the folks who fly the airplanes, maintain the airplanes and load the airplanes -- {APPLAUSE} -- and fill up the tires -- {LAUGHTER} -- have launched more than 14,000 C-17 missions from here. {APPLAUSE} You have airlifted more cargo to Operation Iraqi Freedom than any other unit in the United States. {APPLAUSE} You are the only unit in the world tasked with providing strategic airlift to our Special Operation forces. {APPLAUSE} 
+
+The men and women here in Charleston have also done more than just provided supply to the war zones. You have provided humanitarian aid that has saved countless lives. The folks here have air dropped 2.4 million rations of humanitarian aid to the people of Afghanistan at the start of Operation Enduring Freedom. You delivered 53,000 pounds of relief supplies to the tsunami victims in Indonesia. And after Hurricane Katrina, you delivered 2.5 million pounds of relief supplies and evacuated 2,400 citizens from New Orleans. You have shown the great compassion of the American people, and I thank you for your service. {APPLAUSE} 
+
+We are engaged in a global war on terror. After September the 11th, 2001, I vowed to the American people that I would use everything at our disposal to do the number-one job of government, and that is to protect you from further attack. And I have been aided in protecting the American people by the fine United States military. 
+
+We face an enemy that knows no bounds and no conscience. They're ideologues. But their ideology is the exact opposite of ours. They kill innocent people to achieve their evil objectives. But make no mistake about it, they have objectives. They have clearly stated that they want to drive the United States from the world so they can establish a caliphate, a governing organization from Indonesia to Spain, that would allow them to spread their ideology of hate, allow them to dominate a society in which people could not worship freely, or speak freely, in which people who did not adhere to their point of view would be punished. They seek safe haven from which to launch further attacks to achieve their objective. And their attacks would aim right here at the United States of America. 
+
+I want you to think about a world in which rival forms of radicals competed for power in the Middle East, to deny the hopes and aspirations of millions of people who simply want to live in peace. They would topple moderate governments. They would use oil as an economic weapon to bring the West to her knees, and to mix all that in with a country with a nuclear weapon. And 20 or 30 years from now, if that were to happen, people would look back and say, what happened to them in 2006? How come they couldn't see the challenge? How come they couldn't see the threats to a generation of Americans? 
+
+I'm proud to be with people who see the threats and know that the best way to protect the American people is to defeat the enemy overseas so we do not have to face them here at home. {APPLAUSE} 
+
+One of the lessons of September the 11th is that when this country sees a threat, we must deal with that threat before it fully materializes. If we see a threat, we must take care of that threat. Otherwise, that threat could come to haunt us, to destroy innocent life. I saw a threat in Saddam Hussein. The world saw a threat in Saddam Hussein. Getting rid of Saddam Hussein was the right decision, and the world is better for it. {APPLAUSE} 
+
+And now you're involved in this global war on terror, in the central front, which is Iraq. I know some in America don't believe Iraq is the central front in the war on terror, and that's fine, they can have that opinion. But Osama bin Laden knows it's the central front in the war on terror. He has called Iraq the third world war. He has said of Iraq that he will lead to victory or glory or humiliation. We have made our decision. Iraq will lead to victory and glory for the United States, for the Iraqis, and for the moderates around the world. {APPLAUSE} 
+
+And it's tough fighting, because the enemy understands the stakes of a free Iraq. It's hard fighting, and we've got a lot of brave citizens of ours in the midst of the fight. But we have a plan for victory. We are in Iraq to help that young democracy fight off the radicals and the extremists. We're in the fight in Iraq to make sure there is not a safe haven from which to launch further attacks on the United States. Our plan for victory says that we want an Iraq that can defend itself and govern itself and sustain itself. 
+
+And we've got some great things going for us. We've got a military that is constantly adjusting to the enemy on the ground. We've got commanders who are wise and brave, and are bringing justice to our enemies there in Iraq. And we've also got at our side brave Iraqis who have suffered unbelievable loss, but yet still cling to the hope, as reflected in the voices and votes of 12 million people who defied the car bombers and the terrorists. They want to live in freedom. 
+
+I believe in the universality of freedom. I believe in everybody's soul is the desire to be free. It is in this country's interests that we defeat the enemy in Iraq and help this young democracy survive. You see, this is a different kind of war. And make no mistake about it, if the United States of America were to leave before the job is done, the enemy will follow us here. And that is why we will support our military. And that is why we will fight in Iraq. And that is why we will win in Iraq. {APPLAUSE} 
+
+And I thank you for being a part of this noble and just and important cause. You're fighting in a war that will set the course of a new century. The outcome will determine the destiny of millions across the world. The outcome of this fight will determine whether or not our children can grow up in the peace we want them to grow up in. Defeating the terrorists and the extremists is the challenge of our time and the calling of this generation. And like generations before us, we will do the hard work now, to make sure our children can grow up in freedom and peace. {APPLAUSE} 
+
+The time of war is a time of sacrifice. I know the sacrifices you all make. But some have paid the ultimate price; really good men and women have lost their lives in this struggle. We will pray for their families. And I make them this pledge: We will honor their sacrifice by completing the mission, by defeating the terrorists, and by laying the foundation of peace for generations to come. 
+
+I can't thank you enough for coming to say hello. May God bless you all, and may God continue to bless the United States. {APPLAUSE} 
+
+{/speech} 

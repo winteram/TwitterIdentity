@@ -1,0 +1,98 @@
+﻿{title} Remarks by the Vice President at the Brookings Institution's Hamilton Project Forum {/title}
+{event} Brookings Institution's Hamilton Project Forum {/event}
+{speaker} Joe Biden {/speaker}
+{date} April 20, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Roger, thank you very much. And let me thank everyone who participated in the program this morning and for those putting on this program. It's an honor to be here.
+
+Were I standing before you one year ago today, we'd be discussing the first quarter in which the economy had hemorrhaged over 2 million jobs, 750,000 per month. As we meet here today, the economy is clearly on the mend. In the first quarter of this year, we added 54,000 jobs per month. Now, I know -- and we all know -- that that rate of job growth is too slow to bring down the unemployment rate, and the continued weakness in the job creation remains a major challenge, one the President and the whole administration is committed to meeting, and a very difficult challenge.
+
+But the arrival of net job creation in three out of the last five months represents an important swing in the right direction. Independent analysts, including some of the very people in this room, confirmed that our policies thus far have helped. The Recovery Act, which was credited widely with creating about two and a half million jobs so far, and in the most recent quarter, most analysts acknowledge that it lifted the real GDP by as much as 3 percent.
+
+And with Tax Day just behind us, I should note that nearly $100 billion of Recovery Act tax cuts are doing double duty. They help families make ends meet through their multiplier effects. They are also boosting economic activity throughout the economy.
+
+We all know how important it is to learn from the past in order to step steadily into the future. But I want to make it clear I'm not here to look backwards, I'm here today to look toward tomorrow. I'm well aware that economists are arguing about just where we are in the business cycle, but I think it's fair to say that most believe we're generally turning the corner and moving from contraction to expansion.
+
+I know it's a very important debate, but I must say when the President and I talk about the state of the economy, recession dating is not what motivates us most. The goals that we set when we ran and took office were not fixed dates on a calendar; they were instead markers for real progress for real American families. Most Americans, at least in the neighborhoods I grew up in, don't feel GDP growth. They don't sit around the table if they've lost their jobs and talk about how the NASDAQ is climbing. We're far more interested -- we're far more interested in when growth is going to reach, which it has not yet, the broad middle class and those who aspire to join it.
+
+In the view of our administration, an economic expansion is absolutely necessary but it's not sufficient to meet our economic goals. If the next expansion fails to lift the middle class, if it bubbles and bursts, if it gives a high five to Wall Street while stiff-arming Main Street, then it will be an expansion that we will not be proud of and it will not be the expansion that the President and I believe this nation so badly needs.
+
+If on the other hand the next expansion is characterized by prosperity that is broadly shared by new economic opportunities for the middle class, by finally tearing down the barriers to health care and education, by starting us down a path toward energy independence, then we'll be building the America we need in order to compete, in our view, and lead in the 21st century. That's the kind of expansion we need, and I suspect everyone here would agree with that. But how to achieve that expansion is what I'd like to talk about with you today.
+
+Let's begin by recognizing that the choices we made at the beginning of the expansion -- of an expansion are going to determine where we're going to end up, assuming the expansion takes place and continues. Think back to the last time the nation's economy was poised for expansion in the early 2000s. Consider the choices that we made then and their ultimate consequences. Tough economic inequity already was highly elevated, yet we made it a lot worse by massive, unpaid-for tax cuts primarily for the wealthy. Anti-regulatory zeal and the belief that markets would self-regulate led to an oversight failure in fiscal markets and dire consequences that I would argue are still reverberating today.
+
+An anti-union stance dramatically weakened the ability of rank and file workers to share in the wealth they were helping create as a consequence of increased productivity. The belief that deficits don't matter and the death of PAYGO led to the decisions not to pay for expensive -- very expensive initiatives, including two major wars, the aforementioned tax cuts, and an expensive and expansive prescription drug program, which in turn led to a huge swing from surplus to deficit.
+
+The decision to continue ignoring the unsustainable path of health care not only had clear negative fiscal implications causing our deficits to soar, it also meant an erosion of health coverage for millions, not just those who were the least advantaged, but for the broad middle class as well. And consider the impact of this path on the living standard of working families.
+
+The 2000s saw the worst job creation of any recovery on record. And relatedly, the first recovery on record were middle-income homes, actually incomes actually remained stagnant. The economy was moving forward and the middle class was running in place, running as hard as it ever had but, quite frankly, getting nowhere. All of this planted the seeds of the deepest recession since the Great Depression, and the terrible cost that had come with that.
+
+So let me be extremely clear on this point. When you're at the beginning of an economic expansion, as I believe we are, when you're standing and starting from a place where you have to make choices, they make a great deal of difference on the ultimate character of that expansion, how robust it will be, who it reaches, whether it truly advances the American standard of living.
+
+Now, I know you know there's -- maybe you don't know this, but there's an old Irish saying. I only quote Irish sayings because they're the best, that's not because I'm Irish. {LAUGHTER} But there's an old Irish saying my grandpop would use, he said, “You've got to do your own growing, no matter how tall your grandfather was.” You've got to do your own growing no matter how tall your grandfather was.
+
+Well, folks, ladies and gentlemen, we can't just rely on America's past to build America's future. Past recoveries can serve as lessons, but this recovery ultimately belongs to us. And we have an opportunity to do our own growing, and we plan on seizing that.
+
+And so our administration is plotting a very different path than the one plotted the last time this country found itself with such an important set of choices to make about our economic future. To us the choices are clear, common-sense rules and regulations in financial markets that protect consumers, taxpayers, and I might add, the overall economy. New, forward-looking investments that would create new domestic markets here, export markets abroad. And lasting opportunities for the middle class in areas like clean energy, the smart grid, high-speed rail, and high-technology changes will take place.
+
+True health care security, which I believe we accomplished by passing the health care reform that expands coverage and, equally as important, controls costs over the long haul, a level playing field for those who would pursue collective bargaining in the workplace. A primary education system that meets out and, I would add, meets the needs of and the aspirations of American families so each child can overcome the barriers that keep them from achieving their potential. An aggressive focus on college access, which all of you know is the only ticket to the middle class in the 21st century. A fiscal plan that meets the short-term needs of a troubled economy and then moves quickly toward a path of fiscal sustainability by paying for what we spend.
+
+Folks, ultimately, we believe that this is the right path -- the path that will lead us to a robust economic recovery, one that fuels broadly shared prosperity, driven by hardworking people filling good jobs, not by speculators inflating bubbles and financial shell games. You might be saying, yes, it's true, I got that. We all agree that we have to have a -- we need a different path. But good luck in getting it done.
+
+So let me talk about some of the specific steps along the path that the President and I think we have to take and discuss how I think we're going to get it done. Looking forward, one of the most important legislative tasks that we face is now before Congress -- the reform of the financial markets. Our goals are well known: an independent consumer agency that is not beholden to the banks; new rules for derivatives that bring the light of day into that shadowy risky market; leverage requirements to create the necessary capital buffers against destabilizing systemic risk; and when such risks do find their way into the system, the ability to unwind interconnected banks without dragging down the market for the taxpayers once again.
+
+The President and I are committed to fully, quickly, and forcefully taking these steps to reform this system; that even as we speak, after all that has happened, still protects the gains of the privileged while assigning the losses to the rest of us.
+
+Every day we see developments that remind us of the overriding imperative here, the need to restore trust and credibility in America's financial markets. Too many market participants themselves, through short-sighted greed, have squandered that credibility, and I would argue to their own detriment long-term. Wall Street reform must put a stop to this.
+
+In order to restore that credibility, we have to end the practice of hiding opaque derivatives in invisible accounts antiseptically labeled “Structured Investment Vehicles.” So investors in markets can once again receive clear transparent price signals they need in order to function efficiently.
+
+It must block banks from steering clients toward a pit of toxic investments with one hand while betting against those very investments with the other hand. It must prevent underwriting practices that inflate the housing bubble that ultimately deflated the economy.
+
+The President and I will not support any reform that fails to address these fundamental problems; powerful, political lobby, the cynical tactics of opponents, opponents of reform are not going to stop us from getting this right.
+
+Of course, choosing the right path means not only preventing disaster; it also means generating opportunity. Even before we took office, the President, myself and our economic team planned to use part of what we even knew then was a need for a Recovery Act to make investments that would both create good jobs today while planning the seeds of great industries for tomorrow with clean energy being at the heart of those investments.
+
+With around $80 billion in clean energy investments, the Recovery Act doubles America's capacity to generate renewable energy. If it were a stand-alone bill, it would have been the largest energy bill in the history of the United States of America.
+
+Now, look, I recognize -- and in my own shop, as well -- there are some folks here who study the issue who may question whether these energy investments create enough jobs to actually make a real difference. But we believe they will.
+
+But let me put it in another way. Let me ask you this. Do you any of you believe that we can fully recover and lead the world in the 21st century with the same energy policy that we've had in the last century? Do any of you believe we can reduce the dependence on foreign oil without investing in alternative sources of energy, renewable energy? And do any of you believe we can gain a political consensus for doing that without growing clean energy industries here in America?
+
+Even if you're right about the economic impact, let me suggest to you that the entire energy policy will fail for lack of a political consensus. The world is already transitioning to a new energy economy, and we've got a long way to go to catch up. Wouldn't it be ironic if we freed ourselves of the dependence on foreign oil simply to become dependent on foreign sources of clean energy and technologies?
+
+That's what a lot of my former colleagues up on Capitol Hill are looking at now -- almost independent of how many jobs such investments will create. We want true energy independence, and we need a political consensus to arrive at it.
+
+That's why I think one of the tax credits from the Recovery Act is so important and should be expanded. I know you heard from Senator Sherrod Brown who spoke earlier who feels just as strongly about this as I do -- the advanced energy manufacturing tax credit known in the code as 48C supports investments in advanced energy technology, from wind turbines and solar panels that create energy from renewable resources to batteries and smart grid systems that store and transmit that energy, to technologies like the advanced lighting that helped conserve that energy. We need it all. Historically, we've used incentives to encourage generation and the use of clean energy, but we've never before taken the extra step to incentivize the actual manufacturing of that equipment used to generate energy here in the United States. And I know there are barriers sitting in the chairs out there to doing that. But you're politically, at a minimum, mistaken and I think you're mistaken economically.
+
+With programs like 48C that leverage private capital by a factor of three to one thus far, we're going to make sure that we don't just build the same old economy on top of the one that just collapsed. Instead, we want to remake what we do, what we build, what we manufacture, what we design, what we produce -- all with an eye toward bringing the middle class back and moving America forward.
+
+Another step -- another step we must take, one that I know is clear to the Brookings Institution, is moving towards sustainable federal spending. When the President and I got here, we were immediately confronted with two fiscal realities, first, a $1.3 trillion deficit and projected deficits of $8 trillion over the next 10 years. Second, we were staring down the barrel of the deepest recession short of a depression this country has seen. Government spending had to ramp up, as you all suggested and we believed, had to ramp up to offset the contraction of the private sector spending as well as demand -- which, by the way, was a difficult concept to translate and transmit to the American people.
+
+Now, you'll all recall that back in 2000 the budget was in surplus to the tune of more than $200 billion. I think Secretary Rubin might remember that. But the surplus was squandered as the bills for two wars, tax cuts, and the drug benefit went unpaid. In the short run, we had to add to that long-term debt figure in order to stimulate the economy and keep us from moving into a depression.
+
+And one of the first things we did, as I've referenced earlier, was pass the Recovery Act, which created or preserved millions of jobs while boosting GDP in ways that also helped generate needed revenue. And even as we did that, we also began to put in place the mechanisms to take hold once the economy was back on the track to turn our fiscal ship around. It wasn't like all of a sudden we realized, well, now that we did this stimulus we better now go look at what we do about deficits. We did it simultaneously.
+
+But they could not be done at the same time, to state the obvious. So what we put in place was a modest first proposal, including freezing non-security discretionary spending. Then reinstating statutory PAYGO. And then beginning to deal with the long-term deficit reduction by dealing with our entitlements -- most importantly, the entitlement that was skyrocketing the most was health care. We always talk about -- particularly Democrats -- we talk about health care in terms of the moral imperative. Well, as a fiscal imperative, we deal with health care.
+
+And lastly, over the objection of some in my own party when I suggested -- when we suggested it was by -- establishing by executive order a bipartisan commission to gain control of our deficits with the requirement of bringing down the deficit to 3 percent of GDP by 2015 to create some backfire to force these increasingly and still remaining difficult decisions. We're serious about this. We're serious about it.
+
+As I said at the outset, the one thing about policy choices at the beginning of an economic expansion is that the stakes are really, really high. If we start down the wrong path, we're clearly going to end up at the wrong destination. And with this in mind, we won't simply be back in recession after the next bubble bursts; we'll have failed to take advantage of the precious opportunities that are staring us in the face. We'll have confirmed our middle -- excuse me, we'll have confined our middle class to another decade of running faster just to stay in place.
+
+I know you all know this, but history doesn't belong to any political party; it belongs to each of us individually and all of us collectively. And it's our choice -- it's our choice right now, what kind of economic history we want to begin to write.
+
+And so the current moment also poses a challenge to folks like you, who work so hard to give advice to policymakers, especially at times like this. And I have one question. I have one challenge to you all. What policy steps will once again link productivity growth and middle-class incomes? Let me say it again. What are the policy objectives we need to put in place that will once again, as existed in the ‘50s, link productivity growth and middle-class incomes? So I do no believe we can politically sustain the path we have been on, watching as market outcomes, what folks in this room call primary distribution income, grow increasingly unequal and hope to address these vast inequities through tax policies and transfer that politically cannot be sustained, in my view.
+
+So I came with a question. I hope, collectively, we can find an answer. The middle class needs to get its fair share again. It sounds like a trite political slogan, but, folks, the system is not going to work if they do not believe they're getting a fair share commensurate with the effort they put in.
+
+You know, I can think of no greater minds than the ones in this room, and I mean that sincerely, to address the question -- one that if answered successfully will shape the expansion we need in an era in American history that follows and that will allow us to lead the world in the 21st century. That sounds like hyperbole, but I mean it literally.
+
+It was Oliver Wendell Holmes who said, “The great thing in the world is not so much where we stand as in what direction we're moving.” It's our choice now to move us in a direction worthy of our rich history and worthy of the bold new future we seek together. And as I say, I can't think of a brighter group of people to ask for help in shaping that history.
+
+So I thank you all. May God bless you, and may God protect our troops. Thank you very much. {APPLAUSE} 
+
+{/speech}

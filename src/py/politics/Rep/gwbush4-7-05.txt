@@ -1,0 +1,74 @@
+﻿{title} President Celebrates Independence Day in West Virginia {/title}
+{event} West Virginia University, Morgantown, West Virginia {/event}
+{speaker} George W. Bush {/speaker}
+{date} July 4, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. {APPLAUSE} Happy Fourth of July. {APPLAUSE} Thanks for coming. I am honored to celebrate Independence Day in Morgantown, West Virginia. {APPLAUSE} I appreciate you all being here. The history of this land dates back to the earliest days of our republic. Turns out George Washington used to drop by this part of the state. And I appreciate a warm welcome for another George W. {APPLAUSE}
+
+Coming to West Virginia is becoming a Fourth of July tradition for me. {APPLAUSE} And every time I come here, I appreciate the beauty of West Virginia, and I appreciate being with decent, hardworking, patriotic Americans who call the Mountain State home. {APPLAUSE}
+
+Today we gather to celebrate the 229th anniversary of America's independence. Across our great land, families will gather to fly the flag, to watch the fireworks, and count our blessings as Americans. We are grateful for the bounty and opportunity of our land. We are grateful for our liberty. And we are grateful for the men and women in uniform who keep our country safe. {APPLAUSE}
+
+Thank you all. I bring greetings from First Lady Laura Bush. {APPLAUSE} She said, "You go over to West Virginia and tell them how much we love them." {APPLAUSE}
+
+{AUDIENCE-MEMBER} We love her! {/AUDIENCE-MEMBER} 
+
+I love her, too. {LAUGHTER}
+
+I appreciate Congresswoman Shelley Moore Capito. I appreciate her service; I appreciate her love for the great state of West Virginia. Thank you, Shelley Moore. {APPLAUSE} I want to thank the Mayor of Morgantown, West Virginia, Ron Justice, for serving the people. {APPLAUSE} Mr. Mayor, thanks for coming out today. I want to thank all the local and state officials who are here. I want to thank David Hardesty, the President of West Virginia University. I appreciate you. {APPLAUSE} I appreciate being on this fine campus, and I appreciate the good work that the folks do here to educate the people of West Virginia.
+
+The history we celebrate today is a testament to the power of freedom to lift up a whole nation. On Independence Day, we remember the ideals of liberty that led men from 13 colonies to gather in Philadelphia and pen a declaration of self-truths. And we remember the band of patriots who risked their lives to bring freedom to a new continent.
+
+On July 4, 1776, more than five years of the Revolutionary War still lay ahead. From the battle of New York to the winter at Valley Forge, to the victory at Yorktown, our forefathers faced terrible losses and hardships. Yet, they kept their resolve. They kept their faith in a future of liberty, and with their hard-won victory, we guaranteed a home for the Declaration's proposition that all are created equal. {APPLAUSE}
+
+Through the centuries, the Declaration of Independence has remained a revolutionary document. As President Kennedy said on the 4th of July, 1962, "The Declaration unleashed not merely a revolution against the British, but a revolution in human affairs."
+
+The revolutionary truths of the Declaration are still at the heart of America: We believe in the dignity and rights of every person. We believe in freedom and equal justice, the rule of law, and a government of the people, by the people, and for the people. {APPLAUSE} Through the centuries, this creed of freedom and equality has lifted the fortunes of all Americans. And we know that this great ideal of human freedom is entrusted to us in a special way, and that the ideal of liberty is worth defending. {APPLAUSE}
+
+Defending the ideals of our founding has required the service and sacrifice of every generation, and the men and women of our Armed Forces have always answered our nation's call. With their courage, they have crossed oceans, defeated murderous ideologies, and liberated the oppressed. And today, on this Fourth of July, our grateful nation thanks our 25 million veterans for their service to our country. {APPLAUSE}
+
+At this hour, our men and women in uniform are defending America against the threats of the 21st century. The war we are fighting came to our shores on September the 11th, 2001. After that day, I made a pledge to the American people, we will not wait to be attacked again. {APPLAUSE} We will bring our enemies to justice, or bring justice to our enemies. {APPLAUSE}
+
+Our enemies in this new war are men who celebrate murder, incite suicide and thirst for absolute power. They seek to spread their ideology of tyranny and oppression across the world. They seek to turn the Middle East into a haven for terror. They seek to drive America out of the region. These terrorists will not be stopped by negotiations, or concessions, or appeals to reason. In this war, there is only one option, and that is victory. {APPLAUSE}
+
+We are pursuing a comprehensive strategy to win the war on terror. We're taking the fight to the terrorists abroad so we do not have to face them here at home. {APPLAUSE} We're denying our enemies sanctuary and making it clear that America will not tolerate regimes that harbor or support terrorists. And we're spreading freedom, because the terrorists know there is no room for them in a free and democratic Middle East. {APPLAUSE}
+
+By advancing the cause of liberty in a troubled part of the world, we will remove a source of instability and violence, and we will lay the foundation of peace for our children and our grandchildren. {APPLAUSE}
+
+Iraq is the latest battlefield in the war on terror. Our work there is difficult and dangerous because terrorists from across the region are converging on Iraq to fight the rise of democracy. The images of cruelty and suffering we see on television are real, and they are difficult for our compassionate nation to watch. Yet, the terrorist violence has not brought them any closer to achieving their strategic objectives. The terrorists tried to intimidate the Iraqi Governing Council, and they failed. They tried to delay the transfer of sovereignty to Iraq, and they failed. They tried to stop the free Iraqi elections, and they failed. They continue to kill in the hope that they will break the resolve of the American people, but they will fail. {APPLAUSE}
+
+The lesson of this experience is clear, the terrorists can kill the innocent, but they cannot stop the advance of freedom. This January, the world watched as the Iraqi people defied intimidation, dipped their fingers in ink and cast their votes in the country's first free and democratic election in decades. {APPLAUSE} And last week, on June the 28th, the free nation of Iraq marked the first anniversary of the day when sovereignty was restored to its rightful owners, the Iraqi people. {APPLAUSE}
+
+By helping Iraqis build a free and democratic nation, we will give strength to an ally in the war on terror, and we'll make America more secure. To continue building a free and democratic Iraq, Americans and Iraqis are fighting side-by-side to stop the terrorists and insurgents. And our military is helping to train Iraqi forces so they can defend their own liberty. Our strategy can be summed up this way: As Iraqis stand up, we will stand down, and then our troops can come home to a proud and grateful nation. {APPLAUSE}
+
+West Virginians are serving with skill and honor in the war on terror. Some deployed from Camp Dawson right down the road. Soldiers from the 201st Field Artillery Unit of the West Virginia National Guard carried out vital missions in Iraq. {APPLAUSE} Those soldiers are contributing to the proud history of their unit. The 201st has been defending our freedom since the Revolutionary War. {APPLAUSE}
+
+One of the battery commanders from the 201st is Captain Jeff Setser. Captain Setser is a police officer in Charleston. He served a year in Iraq and he was in Baghdad during the Iraqi elections. He and his fellow West Virginia Guardsmen escorted convoys and protected supplies and patrolled cities. Here is what he said: "We treated people with respect, and they respected us. You could see that they were starting to walk on their own instead of leaning on us. The progress is just amazing."
+
+Guardsmen and Reservists are helping Iraq build in other ways. First Lieutenant James McCormick, who is with us today -- he's from Scott Depot, West Virginia. {APPLAUSE} He served a 13-month tour in Iraq as part of the 518th Combat Gun Truck Company. His unit provided security for military convoys transporting troops and supplies. For his bravery, Lieutenant McCormick earned the Bronze Star and two Purple Hearts. {APPLAUSE}
+
+He wrote me a letter last week. Here's what he said: "If needed, all of us would return and continue the mission. It's a just and much needed fight. Please know that many of us still live by the code of honor that so many soldiers before us had, from Bunker Hill to Baghdad."
+
+First Lieutenant McCormick is right -- the men and women of America's Armed Forces are bringing great honor to the uniform they wear and to the nation they serve. {APPLAUSE} And in this time of testing, our troops, whether they be stationed here or abroad, can know that the American people stand behind them all the way. {APPLAUSE}
+
+I thank all the military families who are with us today. Times of war are times of great sacrifice, and the burden falls especially hard on the families. You're playing a vital role at a crucial time in our nation's history. All Americans are inspired by the strength and the sacrifice of our military families. {APPLAUSE}
+
+Some of America's finest men and women have given their lives in the war on terror, and we remember them on Independence Day. We pray for the families who have lost a loved one in freedom's cause. And we know that the best way to honor their sacrifice is to complete the mission, so we will stay until the fight is won. {APPLAUSE}
+
+On this Fourth of July, and in the days ahead, I ask every American to find a way to thank the men and women defending our freedom. There's so many ways to do so. You can fly the flag, or send a letter to the troops in the field, or help a military family down the street. The Department of Defense has set up a web site, Americasupportsyou.mil. You can go there to learn about efforts in your own community. And by the way, it's not too late to find something to do today. At this time, when we celebrate our freedom, our troops have got to understand that the American people support them all the way. {APPLAUSE}
+
+And on Independence Day, we remember that we also have essential responsibilities here at home, the unfinished work of American freedom. In a world moving toward liberty, we are determined to show the meaning and the promise of liberty. The greatest strength of America is the heart and soul of the American people. {APPLAUSE} Every time a volunteer reaches out to a neighbor in need, our nation grows stronger and more hopeful.
+
+Today when I landed at the airport, I met Chuck White. He's a volunteer with the local United Way. For those of you who are serving as a member of the army of compassion in America, thank you for loving your neighbor just like you'd like to be loved yourselves. {APPLAUSE} By taking time out of your lives to help somebody else, you're helping to ensure that every American can share the blessings of liberty.
+
+As we celebrate the Fourth of July, we rededicate ourselves to the ideals that inspired our founders. During that hot summer in Philadelphia more than 200 years ago, from our desperate fight for independence to the darkest days of a civil war, to the hard-fought battles of the 20th century, there were many chances to lose our heart, our nerve, or our way. But Americans have always held firm, because we have always believed in certain truths: We know that the freedom we defend is meant for all men and women, and for all times. {APPLAUSE} And we know that when the work is hard, the proper response is not retreat; it is courage. {APPLAUSE}
+
+We got a great future for our country. From the mountains of West Virginia to the Great Plains, to our Pacific shores, the truths of the Declaration still guide America, and remain the best hope of mankind. I believe that this century will be "liberty century." In 1770 -- and I know that carrying the spirit of 1776 into this new age we will leave a stronger and better country for all who call this great land home. {APPLAUSE}
+
+It is a great honor to be the President of such a great nation. And it's my honor to be here to wish you all a happy Fourth of July. May God bless you, and may God continue to bless our country. {APPLAUSE} 
+
+{/speech}

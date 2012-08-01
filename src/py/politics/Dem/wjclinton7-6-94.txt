@@ -1,0 +1,31 @@
+﻿{title} Remarks by the President at Official Dinner with President Mitterrand {/title}
+{event} Official Dinner with President Mitterrand {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 7, 1994 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, Madame Mitterrand, distinguished citizens of France, my fellow Americans and honored guests: This week, as our two nations mark the 50th anniversary of D-Day and the battles of World War II, I'm glad to have this chance to note the special place France will always have in America's heart.
+
+So many of our greatest sons and daughters have shared that attachment. Our first two ministers to this great land were Benjamin Franklin and Thomas Jefferson. Franklin Roosevelt loved France. So did John and Jacqueline Kennedy.
+
+As President, every day as I go to work I am reminded of the bonds between our two nations. The park across the street from the White House is Lafayette Park. No statue in all of Washington stands closer to the Oval Office itself than that of Rochambeau. Today we're building new bonds between our republics as we work together to address the great endeavors of our time, many of which the President has already outlined -- building bridges toward the East, opening the world markets, doing what we can to support democracy, working to strengthen the NATO Alliance and to unify Europe through the Partnership for Peace, cooperating to address the most difficult and painful conflicts of this era. Mr. President, the United States supports a strong Europe, an integrated Europe, a Europe with political and economic and security unity and singleness of purpose with its appreciation of diversity.
+
+We wish to be partners with you in the common struggles of the 21st century. The fact that we have sometimes a difficult partnership makes it all the more interesting, and also makes some things in life less necessary.
+
+Our wonderful Founding Father, Benjamin Franklin, once said, "Our enemies are our friends, for they show us our faults." Sometimes with the French and the Americans we no longer need enemies. {LAUGHTER} But it is always in the spirit of goodwill and brotherhood.
+
+I can honestly say that with every passing day of my presidency I come to appreciate France more -- the strength, the will, the vision, the possibilities of genuine partnership.
+
+I think it is our common destiny, as you alluded, Mr. President, to see that our countries remain forever young, forever restless, forever questing, forever looking for new hills to climb, new challenges to meet, new problems to solve.
+
+As I was preparing for this visit, I was given something by another of America's greatest admirers of your nation, our Ambassador, Mrs. Harriman. She sent me a poem composed in memory of the gallant soldiers who died on D-Day. From the members of the allied effort to storm the beaches of Normandy, to the shadow warriors of the French Resistance and the free French army, without whom Europe would not be free today.
+
+Here it is: "Went the day well. We died and never knew. But well or ill, freedom we died for you."
+
+Mr. President, the United States and France are destined forever to be the beacons of freedom for the entire world. Please join me now in a toast to the democratic spirit of our beloved nations, to the heroes of D-Day whose sacrifices we came to honor, and to the proposition that the spirit of liberty should burn forever brightly in the hearts of all the people of France and the United States of America.
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

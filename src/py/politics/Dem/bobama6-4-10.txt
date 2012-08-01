@@ -1,0 +1,42 @@
+﻿{title} Remarks by the President at Easter Prayer Breakfast {/title}
+{event} Easter Prayer Breakfast {/event}
+{speaker} Barack Obama {/speaker}
+{date} April 6, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning, everybody. {APPLAUSE} Thank you. Please have a seat. Have a seat. What a great honor and pleasure it is to have all of you here today. Before I begin, I want to just acknowledge two members of my Cabinet who I believe are here -- Secretary Gary Locke -- is that correct? Where's Gary? There he is -- our Commerce Secretary. {APPLAUSE} And Secretary Janet Napolitano, who's keeping us safe each and every day. {APPLAUSE}
+
+I also want to acknowledge the Mount Ennon Clinton Children's Chorus for being here. They're going to be giving us a medley later on. There they are up there, looking very serious. {APPLAUSE}
+
+Before I begin, I want to send my deepest condolences, our thoughts and prayers to the families and the friends of the workers who lost their lives after an explosion took place in a West Virginia mine yesterday. At this moment, there are still people missing. There are rescue teams that are searching tirelessly and courageously to find them.
+
+I spoke with Governor Manchin of West Virginia last night and told him that the federal government stands ready to offer whatever assistance is needed in this rescue effort. So I would ask the faithful who've gathered here this morning to pray for the safe return of the missing, the men and women who put their lives on the line to save them, and the souls of those who have been lost in this tragic accident. May they rest in peace, and may their families find comfort in the hard days ahead.
+
+One of my hopes upon taking this office was to make the White House a place where all people would feel welcome. To that end, we held a Seder here to mark the first Passover. We held an Iftar here with Muslim Americans to break the daily fast during Ramadan. And today, I'm particularly blessed to welcome you, my brothers and sisters in Christ, for this Easter breakfast.
+
+With us are Christian leaders from all across America, men and women who lead small-town churches and big-city congregations, and major organizations in service of others; folks whose sermons are heard and whose examples are followed by millions all across the country. So I wanted to join you for a brief moment today to continue the Easter celebration of our risen Savior, and to reflect on the work to which His promise calls all of us.
+
+I can't tell any of you anything about Easter that you don't already know. {LAUGHTER} I can't shed light on centuries of scriptural interpretation or bring any new understandings to those of you who reflect on Easter's meaning each and every year and each and every day. But what I can do is tell you what draws me to this holy day and what lesson I take from Christ's sacrifice and what inspires me about the story of the resurrection.
+
+For even after the passage of 2,000 years, we can still picture the moment in our mind's eye. The young man from Nazareth marched through Jerusalem; object of scorn and derision and abuse and torture by an empire. The agony of crucifixion amid the cries of thieves. The discovery, just three days later, that would forever alter our world -- that the Son of Man was not to be found in His tomb and that Jesus Christ had risen.
+
+We are awed by the grace He showed even to those who would have killed Him. We are thankful for the sacrifice He gave for the sins of humanity. And we glory in the promise of redemption in the resurrection.
+
+And such a promise is one of life's great blessings, because, as I am continually learning, we are, each of us, imperfect. Each of us errs -- by accident or by design. Each of us falls short of how we ought to live. And selfishness and pride are vices that afflict us all.
+
+It's not easy to purge these afflictions, to achieve redemption. But as Christians, we believe that redemption can be delivered -- by faith in Jesus Christ. And the possibility of redemption can make straight the crookedness of a character; make whole the incompleteness of a soul. Redemption makes life, however fleeting here on Earth, resound with eternal hope.
+
+Of all the stories passed down through the gospels, this one in particular speaks to me during this season. And I think of hanging -- watching Christ hang from the cross, enduring the final seconds of His passion. He summoned what remained of His strength to utter a few last words before He breathed His last breath.
+
+“Father,” He said, “into your hands I commit my spirit.” Father, into your hands I commit my spirit. These words were spoken by our Lord and Savior, but they can just as truly be spoken by every one of us here today. Their meaning can just as truly be lived out by all of God's children.
+
+So, on this day, let us commit our spirit to the pursuit of a life that is true, to act justly and to love mercy and walk humbly with the Lord. And when we falter, as we will, let redemption -- through commitment and through perseverance and through faith -- be our abiding hope and fervent prayer.
+
+Many of you are living out that commitment every day. So we want to honor you through this brief program, celebrating both the meaning of Easter and the spirit of service that embodies so much of your work. And our first celebrant today is Reverend Dr. Cynthia Hale, who will deliver our opening prayer.
+
+Thank you all for being here. {APPLAUSE} 
+
+{/speech}

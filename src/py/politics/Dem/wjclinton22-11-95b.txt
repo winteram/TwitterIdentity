@@ -1,0 +1,42 @@
+﻿{title} Remarks by the President at Thanksgiving Turkey Presentation {/title}
+{event} Rose Garden {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 22, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Ladies and gentlemen, welcome to the Rose Garden and Happy Thanksgiving. I want to acknowledge, especially, Kenneth Rutledge, the Chairman of the National Turkey Federation, his wife Brenda, his son John; Stuart Proctor. Kenneth is the Chairman, Stuart Proctor is the President of the Turkey Federation; his wife Sherry. I also want to recognize the presence here of Congressman Cal Dooley. And I want to, on this cold day, warmly welcome the young people and the volunteers who are here from the Boys Club, the Girls Club of America, the Big Brothers and Big Sisters program, and the members of the AmeriCorps program from Baltimore. {APPLAUSE}
+
+I also want to say that's the most multi-colored, best-looking turkey we've had here since I've been President.
+
+You know, we're here today to have a little fun and to begin the official Thanksgiving in our country that we give every year at this time for the blessings that God has given us; for the personal gifts he's given us, the gifts to our families and communities and to our great country.
+
+Thanksgiving is a uniquely American holiday, as all of you know. It goes back to our foundings. But I think it's important to note that the first official proclamation of Thanksgiving, issued by a United States President, was issued by Abraham Lincoln during the Civil War, when our people were overwhelmingly preoccupied with their problems, and indeed, with whether our country would even continue to exist. Nevertheless, Mr. Lincoln reminded us that we had things to be thankful for.
+
+On this Thanksgiving, here in America, we've got a lot to be thankful for. The combined rates of unemployment and inflation in our country are at their lowest levels in 27 years. Homeownership and new business formation and the stock market now are at an all-time high -- all three of them. Maybe even more important, the crime rate, the welfare rates, the poverty rates, they're all down this year, and we're grateful for that.
+
+I'm grateful that the United States has been a force for peace, from the Middle East to Northern Ireland, and to Haiti, and now of course, we hope in Bosnia.
+
+But we should never forget that there are still people in our country that need our concern and our caring. The young people who are here today are interested in making the most of their own lives and serving those in their community. And that's an important part of Thanksgiving as well. We have obligations to our parents and to our children, to people who are disabled or otherwise, through no fault of their own, need a helping hand.
+
+And just before I came here I was with Secretary Cisneros and the First Lady at a homeless shelter here in Washington, D.C., where we were feeding people. And I'm sad to say I saw a fresh and personal example of the fact that the fastest growing group of homeless people in our country are young women and their young children.
+
+So on this Thanksgiving we should be thankful for our blessings and we should redouble our resolve to do everything we can to make America a place of honor and decency and community, where we can all give thanks.
+
+I'd like to say one other thing, too. I'm very proud of the United States negotiators who did so much to help to bring about the peace agreement in Bosnia yesterday. There will be many questions in the days ahead about all the things that have to be answered before we can go forward with this project. And I expect to be addressing the nation about it shortly.
+
+But let me just remind you of one thing on this Thanksgiving eve. Among other things, in that tiny country, so much smaller than the United States, there are 1 million homeless people. So I say, on this Thanksgiving, I hope God will bless the peace and bring those folks home again as well.
+
+Let me now turn to the moment at hand, which I look forward to every day -- every year, I mean. This is a -- {LAUGHTER} -- I wouldn't mind having it every day, actually. {LAUGHTER} In 1947, President Truman began this great tradition of accepting a Thanksgiving turkey and then granting it a presidential pardon. {COMMENT="Turkey gobbles"} {LAUGHTER} You can see one person thoroughly agrees with my decision here. {LAUGHTER} This year, I guess we can say, since the government is back to work, I can at least grant to one living thing in America, a permanent furlough. {LAUGHTER}
+
+Approximately 45 million turkeys will be consumed tomorrow all across our country, but not this one. As in previous years, it will be donated to Kidwell Farms, a petting zoo in Fairfax, Virginia. I am glad to be able to give this turkey a pardon. And as I said, if you look at his very patriotic red, white and blue face and feathers, it seems like the American thing to do on Thanksgiving.
+
+I believe this turkey was born in the state of California and raised there. And we're delighted to have the turkey and the turkey's owner come all the way from California. And to all the farmers who raise turkeys in North Carolina, Minnesota, California, my home state of Arkansas and throughout the country, let me say we appreciate what you do for our agricultural sector and for the nutrition of the United States.
+
+But I'm very glad that one of your products is going to be exempt from the cruel fate that will make so many of us happy tomorrow. And by this action I hereby pardon this turkey. There are so many turkeys in Washington, I should pardon at least one a year, I think. {LAUGHTER}
+
+Thank you very much. 
+
+{/speech}

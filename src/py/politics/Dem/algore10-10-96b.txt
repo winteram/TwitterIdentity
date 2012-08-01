@@ -1,0 +1,26 @@
+﻿{title} Remarks by the President and the Vice President to the People of Knoxville {/title}
+{event} Knoxville Auditorium Coliseum, Knoxville, Tennessee {/event}
+{speaker} Al Gore {/speaker}
+{date} October 10, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Please. I didn't know that I was going to be reintroduced, but I'm very grateful for the honor. Thank you very much. And thank you for your kind words, Mr. Redstone, I appreciate it very much.
+
+More than that, I want to thank Sumner Redstone for heading up this historic effort. Once again, he is doing a great service to this nation. And now, ladies and gentlemen, I want to express my personal thanks to President Bill Clinton, not only for his role in bringing these dramatic innovations to America's schoolchildren, but for all of his efforts to maintain this nation's proud position as the world leader in science and technology. Here in East Tennessee, so close to the Oak Ridge National Laboratory, we know the importance of science and technology to the future of the United States of America.
+
+President Clinton knows that one of the most important bridges to the future will be built on discoveries in science and advancements in technology. This President is unequalled in his devotion to promoting science and technology as the engine of our economy and as a means to improving our quality of life.
+
+Now, the President's opponent has taken a different approach. The cuts in science and technology funding that were proposed and almost implemented by the leaders of this last Congress would have amounted to unilateral disarmament in the face of growing world competition in research, development, science and technology. They wanted to cut America's science and technology budget by one-third. This would have crippled both our basic research and the critical applied research needed to protect our health and to protect our global environment.
+
+President Clinton, in stark contrast, has increased this nation's investments in world-class basic research within a balanced budget plan. He has increased support for medical research at the National Institutes of Health, helping them to find new cures for diseases. {APPLAUSE} He has stepped up our commitment to developing innovative environmental technologies for the growing world marketplace to clean up our environment. {APPLAUSE} He has opened up trade markets around the world for our high-technology exports. And the President has helped to reorganize and revitalize our nation's research agencies and laboratories for the 21st century.
+
+Government laboratories, such as the Oak Ridge National Laboratory, have played a vital role in catalyzing this nation's technological development. Now, we have heard from the President's opponent that he wishes to completely eliminate the Department of Energy. When asked for a clarification of what that would mean, he said, well, we will keep the military part of the budget, but the civilian part of the budget is really on the chopping block. Well, Oak Ridge gets three-quarters of all of its budget from the civilian part of the Department of Energy. When asked for further clarification, he said, the laboratories in New Mexico are off the table. That's nice. I think that's a wise decision. But what about Oak Ridge National Laboratory? Don't give us the mumbo-jumbo about "this will all magically work out somehow." We want a commitment to Oak Ridge National Laboratory. {APPLAUSE}
+
+So to those on the other side who have proposed measures that would clearly shut down the Oak Ridge National Laboratory, I have a message on behalf of the President and myself in words that you've heard before: We won't let them. {APPLAUSE} Oak Ridge is engaging in missions that are absolutely central to our current economic, environmental, health and national security future. Closing the doors of Oak Ridge National Laboratory would be a sad step backward for the United States of America. President Clinton and I will not let that happen.
+
+And ladies and gentlemen, that is only one of the reasons that it is now my great pleasure and personal privilege to present to you a leader who has made unprecedented commitments to this nation's science and technology; a leader who is making sure that every student and every family in America will have the opportunity to participate in our limitless technological future. My friend, our President, President Bill Clinton. {APPLAUSE} 
+
+{/speech}

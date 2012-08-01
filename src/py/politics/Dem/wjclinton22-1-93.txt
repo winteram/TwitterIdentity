@@ -1,0 +1,68 @@
+﻿{title} Remarks by the President During Signing of Presidential Memoranda {/title}
+{event} Signing of Presidential Memoranda, The Roosevelt Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 22, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech}
+
+Please sit down, ladies and gentlemen.
+
+Today I am acting to separate our national health and medical policy from the divisive conflict over abortion. This conflict, which stems from the Roe v. Wade decision of 20 years ago has brought to a halt promising research on treatment for serious conditions and diseases that affect millions of Americans
+millions of American men, women and children who include the members of my family and friends of mine and I'm sure virtually every other set of family and friends in the United States.
+We must free science and medicine from the grasp of politics and give all Americans access to the very latest and best medical treatments.
+
+Today I am directing Secretary of Health and Human Services Shalala immediately to lift the moratorium on federal funding for research involving transplantation of fetal tissue. This moratorium, which was first imposed in 1988, was extended indefinitely in 1989 despite the recommendation of a blue ribbon National Institute of Health advisory panel that it be ended. Five years later, the evidence is overwhelming. The moratorium has dramatically limited the development of possible treatment for millions of individuals who suffer from serious disorders, including Parkinson's disease, Alzheimer's disease, diabetes and leukemia. We must let medicine and science proceed unencumbered by anti-abortion politics.
+
+Today also marks the beginning of a new national reproductive health policy that aims to prevent unintended pregnancies. Our administration is committed to providing the kind of prenatal care, child care and family and medical leave that will lead to healthy childbearing and support America's families.
+
+As a nation, our goal should be to protect individual freedom while fostering responsible decision-making, an approach that seeks to protect the right to choose while reducing the number of abortions. Our vision should be of an America where abortion is safe and legal, but rare.
+
+Let me also say that our administration is particularly concerned with the epidemic of teenage pregnancy. The greatest human cost of our continuing national debate over reproductive policy is borne by our children and by their children. A few teenagers choose to have and raise children, and we must help them to succeed. But for millions a teen pregnancy is unintended, leaving the young woman and her partner totally unprepared for the responsibilities of parenthood. The social and economic price paid today and for the last several years by our nation is enormous.
+
+So today I am also directing Secretary Shalala to act immediately to implement her intended suspension of the Title X family planning regulations that are also known as the "gag rule." For almost five years, HHS has prohibited Title X recipients from providing their patients with full information and counseling concerning pregnancy.
+
+This dangerous restriction censors the medical information and advice that health care professionals can give their patients. As a result of today's action, every woman will be able to receive medical advice and referrals that will not be censored or distorted by ideological arguments that should not be a part of medicine.
+
+I'm also ordering today the Director of the Agency for International Development to repeal immediately what has become known as the Mexico City policy, that has effectively applied the "gag rule" to organizations that receive United States funding, even when those organizations uses non-AID funds for those activities.
+
+Today's actions will allow organizations that received AID funds to provide information regarding all family planning options to individuals in foreign nations. It will reverse a policy that has seriously undermined much needed efforts to promote safe and effective family planning programs abroad, and will allow us to once again provide leadership in helping to stabilize world population. Many believe that this is one of the most important environmental steps we can take.
+
+Today I am also directing Secretary of Defense Aspin to lift immediately the near total ban on abortions at United States military facilites and to permit them to be performed at those facilities provided that the procedure is paid for entirely with private funds.
+
+This action will allow military hospitals to perform abortions and to reverse a ban that has adversly affected the lives of scores of men and women who serve our nation around the world, or members of their families.
+
+Finally, I am directing Secretary Shalala to instruct the Food and Drug Administration to determine whether the current import ban on the drug Mifepristone, commonly known as RU-486, is justified and to rescind the ban if there is no basis for it.
+
+Here in the United States, RU-486 has been held hostage to politics. It is time to learn the truth about what the health and safety risks of the drug really are. If the FDA removes the ban, Americans will be able to bring the drug into the country for their personal use consistant with existing FDA policy that govern drugs not approved for distribution.
+
+I've also ordered HHS to immediately explore the propriety of promoting testing in the United States as well as the possiblity of licsensing and manufacturing according to the standards which govern all other drugs so reviewed by our government.
+
+Taken as a group, today's actions will go a long way toward protecting vital medical and health decisions from ideological and political debate. The American people deserve the best medical treatment in the world. We're committed to providing with nothing less.
+
+I'd like to say in closing a special word of personal thanks to the unbelievable number of Americans from all walks of life and all different political perspectives who have children with diabetes or who, like me, have lost relatives to Alzheimer's, or have friends suffering with Parkinson's and other diseases who came up to me over the last year and made a personal plea on the fetal tissue issue. Their statements to me and their life stories had a far greater impact on me even than the actions of the United States Congress, which included, as you know, a very broad spectrum of Republicans and Democrats on this issue.
+
+I'd like now to sign these directives.
+
+{COMMENT="Presidential Memoranda is signed"}
+
+Thank you very much. {APPLAUSE}
+
+{OTHER-SPEAK} Mr. President, was it "William J." or "Bill"? {/OTHER-SPEAK} 
+
+After a considered policy debate -- {LAUGHTER} -- we decided that I should sign my full name to all official documents of the government, and I'll continue to sign all my non -- my letters, Bill Clinton.
+
+{OTHER-SPEAK} Let me ask you -- George was having a really hard time explaining to us what you knew about Zoe Baird's problem, when you knew it. Can you please explain that to us, so that the American public would really know? {/OTHER-SPEAK} 
+
+No, I want to answer this. I think the American people are entitled to know that -- if you go back to my statement, I acknowledged that there were errors in the evaluation process, for which I take full responsibility. What happened was this. She voluntarily disclosed that; it was not in any way picked up in the vetting. It was, as you know, we were trying to make a Christmas deadline, which was probably my error, again, on this.
+
+So just before she was announced, but after I had discussed the appointment with her, I was told that this matter had come up. Nobody said anything to me about the taxes. And what I was told was what you heard, in a very cursory way, was that an error had been made in the hiring of an illegal alien; that it had been made after consulting a lawyer, who was an expert in this area. So, basically, they had acted on counsel's advice. But they were wrong, they moved immediately to try to correct it, and the status had been corrected in terms of the legality of the person; and that the vettor's conclusion was there would be no problem.
+
+I have to tell you that during the course of these inquiries, I received other "weightier warnings," if you will, of things which had to be worked through with other potential nominees. In retrospect, what I should have done is to basically delay the whole thing for a couple of days and look into it in greater depth.
+
+But that was -- I take full responsibility for that. It is in no way -- this process is in no way a reflection on her. We would not have known any of this had she not disclosed it to us and to the United States Senate subseqently. So I will say again what I said this morning: I'm sorry about this. I still think she is an extraordinary person and a very able person who will have a rich and successful career, and I take full responsibility for what happened in the review process.
+
+Thank you. {APPLAUSE}
+
+{/speech}

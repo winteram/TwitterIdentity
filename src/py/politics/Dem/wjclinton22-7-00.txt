@@ -1,0 +1,42 @@
+﻿{title} Remarks by the President to American Troops And Their Families {/title}
+{event} Speech by President to American Troops and Families {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 22, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President to American Troops and Families {/description}
+
+{speech} 
+
+Thank you. Well, this is the largest crowd I have ever addressed at this late hour. {APPLAUSE} Hello, U.S. forces, Okinawa! {APPLAUSE}
+
+Thank you, General Hailston, General Smith, General Hughey, Admiral Schultz, Colonel Sullivan. Let's give another round of applause to Staff Sergeant Wehunt. He did a good job for you up here, didn't he? {APPLAUSE}
+
+I'm delighted to be here with my daughter, Chelsea, and Ambassador Foley. We're glad to be here. Thank you. {APPLAUSE} We were supposed to do this tomorrow, but I think you know that I have to leave early to try to go back to the peace talks at Camp David on the Middle East. And I hope we will have your thoughts and prayers. And that's why we can't do it tomorrow.
+
+But now I will go back in the right frame of mind, since I spent the night with you. {APPLAUSE} And when I fly back home to peace in the Middle East, maybe you'll be going to Okuma instead of listening to me give a speech. {APPLAUSE}
+
+This is a really beautiful place. And I feel blessed to have had the opportunity to come here and to see the impact of your service here. In spite of how beautiful Okinawa is, I know you're still a long way from home, so let me begin, on behalf of every American citizen, by thanking our soldiers, sailors, airmen and Marines -- {APPLAUSE} -- and your families -- {APPLAUSE} -- for your service here for the United States.
+
+Earlier this month, I spent the 4th of July, my last 4th of July as President, in the shadow of the Statue of Liberty on the flight deck of the USS John F. Kennedy. On the very first 4th of July, back in 1776, George Washington was not in Philadelphia when the Declaration of Independence was signed. Instead, he was with his troops in New York, in Manhattan, as the British ships landed just a few miles away on Staten Island. When the Declaration of Independence arrived from Philadelphia, General Washington had it read aloud to his troops so they would understand that the success of America depended upon the success of our military. It was true 224 years ago; it remains true today.
+
+Thanks to you, the work you do everywhere, and here with our ally, Japan, we live in peace. There is peace here, in part because Three MEF is here, with the Third Marine Division -- {APPLAUSE} ; the First Marine Aircraft Wing -- {APPLAUSE} ; the Third Force Service Group -- {APPLAUSE} ; the Marine Corps Base, Camp Butler-- {APPLAUSE} ; the Air Force's 18th Wing -- {APPLAUSE} ; the Army's 10th Area Support Group -- {APPLAUSE} ; the Navy's Task Force 76 -- {APPLAUSE} ; and Fleet Activities Okinawa. {APPLAUSE} And everybody I didn't mention, cheer for yourselves here. {APPLAUSE}
+
+All of you know well the sad and difficult history of the Battle of Okinawa. On Friday, I had the honor of visiting the Cornerstone of Peace Park. The names of all who died are inscribed on the walls there -- Japanese and Americans, and Okinawan soldiers and civilians alike.
+
+It is a remarkable memorial, not just to one side in a battle, but to all the people who lost their lives. It is a stirring statement of our common humanity. And it strengthens our commitment to see that such a terrible thing never occurs again. {APPLAUSE} That is why you are here. I don't want you to ever forget it, and I want you to always be very, very proud of what you are doing.
+
+You will never know how many wars you have deterred, how many deaths you have prevented. But you know the number of wars that have been fought in these waters since the United States forces have been stationed here. That number is zero. You should be very, very proud. {APPLAUSE}
+
+We know our hosts in Okinawa have borne a heavy burden, hosting half our forces in Japan on less than one percent of its land. They, too, have paid a price to preserve the peace, and that is why we need to be good neighbors to them in addition to being good allies; why each one of us has a personal obligation to do everything that we can to strengthen our friendship and to do nothing to harm it.
+
+We must continue to hear the concerns of our Okinawan friends to reduce the impact of our presence, to promote the kinds of activities that advance good relations -- activities like those of the volunteers who help with English language instruction for elementary schoolchildren in Okinawa; like the 9th Engineer Support Battalion, who just replaced a 30-foot-high steel footpath bridge in an island village in northwest Okinawa; like the volunteers from the 10th Area Support Group who joined the people in Yomitan Village in getting the island ready for the G-8 Summit; like our Naval hospital and our fire departments -- {APPLAUSE} -- working with their counterparts to improve emergency services; like the 7th Communication Battalion's efforts -- {APPLAUSE} -- to do clean-up, make repairs and pay visits to the residents of Hikariga Ogata Nursing Home.
+
+And so many of you, the rest of you who reach out in your own way to schools, to orphanages, to hospitals, to retirement homes -- these acts of kindness give a whole new meaning to the old words, send in the Marines. {APPLAUSE}
+
+Two hundred and twenty-four years ago, when America was born, the world's only democracy was defended by an Army that was then very badly outnumbered. Today, you are part of the greatest fighting force in history, part of the forward march of freedom.
+
+But the most important thing I want to say to you is that your fellow Americans are proud of you and grateful to you. As I think about the enormous honor I have had for seven and a half years now to serve as President -- an honor which included visiting more military units than any other Commander in Chief in the history of the Republic -- I am profoundly moved by what I have seen, and by what I see here tonight. I wanted to come here, and I thank you for changing the schedule and coming out tonight. I thank you for the inspiration you've given me as I go back to try to finalize the peace talks on the Middle East. I thank you for giving your lives to the United States, and the cause of freedom and peace.
+
+Thank you. God bless you, and God bless America. Thank you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,33 @@
+﻿{title} President Bush Attends Lighting of the National Christmas Tree {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} December 7, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all very much. Laura and I are pleased to welcome you to the Christmas Pageant of Peace. Christmas is a season of glad tidings, and a time when our thoughts turn to the source of joy and hope born in a humble manger 2000 years ago. And tonight we gather to observe one of the great traditions of our Nation's Capital, the lighting of the National Christmas Tree. {APPLAUSE} 
+
+I'm really glad Santa made it. {LAUGHTER} I'm glad he could find a place to park. {LAUGHTER} And I'm glad you all joined us tonight. 
+
+I want to thank Vin for his leadership of the National Park Foundation. I thank Deputy Secretary of the Interior Lynn Scarlett for joining us. I am pleased to be here with members of my Cabinet; members of the Congress; Mary Bomar, who is the Director of the National Park Service; Joe Lawler, Regional Director of the National Capital Region, National Park Service. I want to thank all the National Park Service employees for their hard work. {APPLAUSE} 
+
+I appreciate Dr. Robert Schuller for leading the invocation. I want to thank our fabulous entertainers for entertaining us tonight. {APPLAUSE} 
+
+We have gathered for this ceremony for more than 80 years. We come together to celebrate a simple and inspiring story. It's a story of a miraculous birth in a humble place. It is a story of a single life that changed the world -- and continues to change hearts. And for two millennia, this story has carried the message that God is with us and He offers His love to every man, woman and child. {APPLAUSE} 
+
+During the Christmas season we seek to reflect that love in our lives. Millions of Americans will celebrate at home in fellowship with friends and family. Millions will reach out with a compassionate hand to help brothers and sisters in need. And all will give thanks to the bonds of love and affection that bring fulfillment to our lives and the hope of peace around the world. 
+
+At this time of year, we give thanks for the brave men and women in uniform who are serving our nation. {APPLAUSE} Many of those who have answered the call of duty will spend this Christmas season far from home and separated from family. We honor their sacrifice. We are proud of their service and that of their families. We will keep them close to our hearts and in our prayers. 
+
+And now, as an expression of our own hope for peace in this Christmas season, we will light the National Tree. {APPLAUSE} We've asked three representatives from the National Park Service's Junior Ranger program to help. The Junior Ranger Program teaches children and families about science, nature and stewardship of our national parks. 
+
+And so, Attiyah Jenkins, Stephen Scott, and Dana Bederson will help me light the National Christmas Tree. {APPLAUSE} 
+
+Come on up, guys. 
+
+I ask all of you to join us in the countdown -- five, four, three, two, one. {APPLAUSE} 
+
+{/speech} 

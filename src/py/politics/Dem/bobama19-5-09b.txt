@@ -1,0 +1,36 @@
+﻿{title} Remarks By The President at Ceremony Honoring National Small Business Award Winners {/title}
+{event} Ceremony Honoring National Small Business Award Winners {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 19, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, thank you very much. Good afternoon, everybody.
+{AUDIENCE} Good afternoon. {/AUDIENCE} 
+And thank you, Lisa. I think you can see that she's pretty good at making a pitch. {LAUGHTER} And we're grateful for sharing your story and your enthusiasm with all of us. And congratulations to you and everybody who is being honored here today as some of America's most outstanding business owners and lenders and counselors and coaches.
+I want, also, all of you to know that I am so pleased with my selection as SBA Administrator. Karen Mills is somebody who is passionate about small business; she understands the ins and outs of it, the nuances of it. She is fighting for bringing SBA into the 21st century. So I think you'll find just an outstanding partner in her, please give her a big round of applause. {APPLAUSE}
+Running a successful small business is impressive in any year -- but it's especially impressive this year, at this moment when we're facing the most serious economic downturn in generations. And I know that what you do isn't easy. I know that for every contract you've won, every sale that you've made and job you've created, you've had plenty of setbacks and false starts and late nights wondering how on earth you're going to keep everything together and why you decided to take this path in the first place.
+But you kept on going. You scrimped and you saved and you borrowed and you improvised. And your failures didn't discourage you -- they educated you and they motivated you to succeed the next time around. And today, we honor that courage and determination and daring just as much as we honor the success that it ultimately brought you.
+And that's the spirit that led Lisa -- a single mom, a former hairstylist -- you know, the hair looks good, so you -- {LAUGHTER} --
+{OTHER-SPEAK} I'm good. I cut hair in the back room {/OTHER-SPEAK} . {LAUGHTER}
+In the back room, while she's scooping ice cream -- {LAUGHTER} --
+{OTHER-SPEAK} Running the construction company. {/OTHER-SPEAK} {LAUGHTER}
+-- running the construction company, she's been doing her hair. {LAUGHTER}
+{OTHER-SPEAK} I do. {/OTHER-SPEAK} 
+I think there was a song about you, wasn't there? {LAUGHTER}
+{OTHER-SPEAK} "She works hard for the money" {/OTHER-SPEAK} -- {LAUGHTER}
+To set out a little over a year ago -- a little over 10 years ago with nothing but a loan from her parents and a big idea, and her company now has 78 employees; it's grossed nearly $4 million in sales last year.
+It's what led Tom Masterson -- where's Tom? Tom's right here -- Tom, after working for 30 years in the electrical industry, to co-found T.E.M. Electric, funded it entirely on his own and working out of his living room until he won his first major contract. Today, the company employs 75 people and has over $12 million in revenues.
+It's what led Andy Wells, a member of the Red Lake Ojibwa Tribe, to invest $1,300 back in 1989 -- where's Andy? Right here -- $1,300 back in 1989 to found Wells Technology, manufacturing industrial tools and fasteners and creating jobs near reservations in Minnesota, where he lives. In 2008, his company generated $54 million in revenues, and his customers include Coca-Cola and Boeing and Oshkosh.
+So small businesses like these are driving our economy. You're the job creators, responsible for half of all private sector jobs. You're innovators, producing 13 times more patents per employee than large companies. You're the starting point for the products and brands that have redefined the market. After all, Google started out as a small business; that was a research project. Hewlett-Packard began with two guys in a garage. The first Apple computers were built by hand, one at a time. McDonald's started with just one restaurant.
+And small businesses don't just strengthen our economy -- they also strengthen our communities. Your customers aren't just anonymous folks who buy what you sell -- they're your friends, they're your neighbors. The place where you set up shop often isn't just your business address, but it's also your hometown, and sometimes it's your home. And I know what you do to give back -- sponsoring sports leagues and service projects, serving on boards, donating to charities, mentoring other small business owners to help them be as successful as you are.
+So with all that you do for this nation, I think our nation's government should be there to support you -- to help you grow and expand and succeed. So I'm pleased that nearly all of you have benefited from SBA's services -- from SBA loans, programs, advice, counseling. And I'm pleased about that, but I'm not satisfied. I think we can do more. We can do more to help small business owners, especially right now.
+And that's why our recovery plan raises the guarantees on SBA loans to 90 percent, eliminates costly fees for borrowers and lenders, and includes a series of tax cuts for small businesses, as well as incentives to encourage investment in small businesses. And that's why my proposed budget reduces the capital gains tax for investments in small or startup businesses to zero. Zero capital gains tax.
+That's why I intend to pass comprehensive health care reform this year, so we can lower costs, raise quality, and make it easier for many of you to not only get health care for your employees, but also for yourselves.
+And that's why we're announcing a new SBA loan program -- the America's Recovery Capital, or ARC, program. And this new program will provide up to $35,000 to help struggling, but still credit-worthy, small businesses pay off non-SBA debts -- money they can use to pay suppliers and vendors, or pay down credit card debts. And the loans will be guaranteed 100 percent by the SBA, and they'll be available starting June 15th. And I believe they will be a lifeline to help viable small businesses through these difficult times.
+So all of this is a good start, but it's only a start. We still have much work ahead to support our small businesses and restore our economy. It won't be easy. We'll need to be bold and creative and take risks, just like all of you have done. But that's always been the American story -- that belief that all things are possible, that we are limited only by our willingness to take a chance and work hard to achieve our dreams. And I'm confident that we will do exactly that. Together, we are going to meet the challenges of our times.
+So congratulations again to all of you for what you have succeeded. And please make sure to keep feeding us good ideas, so that we can help you help the American economy and the American people. Thank you very much. {APPLAUSE} 
+
+{/speech}

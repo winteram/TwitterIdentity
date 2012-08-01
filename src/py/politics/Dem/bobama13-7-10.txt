@@ -1,0 +1,78 @@
+﻿{title} Remarks by the President on the National HIV/AIDS Strategy {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} July 13, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody! Hello! {APPLAUSE} Hello. Hello, hello, hello. Hello. Well, good evening, everybody. This is a pretty feisty group here. {LAUGHTER}
+
+{AUDIENCE-MEMBER} We love you, President! {/AUDIENCE-MEMBER} 
+
+Love you back. Thank you. {APPLAUSE} Thank you. Well, it is a privilege to speak with all of you. Welcome to the White House.
+
+Let me begin by welcoming the Cabinet Secretaries who are here. I know I saw at least one of them, Kathleen Sebelius, our outstanding Secretary of Health and Human Services. {APPLAUSE} I want to thank all the members of Congress who are present and all the distinguished guests that are here -- that includes all of you.
+
+In particular, I want to recognize Ambassador Eric Goosby, our Global AIDS Coordinator. {APPLAUSE} Eric's leadership of the President's Emergency Plan for AIDS Relief is doing so much to save so many lives around the world. He will be leading our delegation to the International AIDS Conference in Vienna next week. And so I'm grateful for his outstanding service. {APPLAUSE}
+
+And I want to also thank the Presidential Advisory Council on HIV/AIDS. {APPLAUSE} Thank you -- and the Federal HIV Interagency Working Group for all the work that they are doing. So thank you very much. {APPLAUSE}
+
+Now, it's been nearly 30 years since a CDC publication called Morbidity and Mortality Weekly Report first documented five cases of an illness that would come to be known as HIV/AIDS. In the beginning, of course, it was known as the “gay disease” –- a disease surrounded by fear and misunderstanding; a disease we were too slow to confront and too slow to turn back. In the decades since -– as epidemics have emerged in countries throughout Africa and around the globe -– we've grown better equipped, as individuals and as nations, to fight this disease.
+
+From activists, researchers, community leaders who've waged a battle against AIDS for so long, including many of you here in this room, we have learned what we can do to stop the spread of the disease. We've learned what we can do to extend the lives of people living with it. And we've been reminded of our obligations to one another -– obligations that, like the virus itself, transcend barriers of race or station or sexual orientation or faith or nationality.
+
+So the question is not whether we know what to do, but whether we will do it. {APPLAUSE} Whether we will fulfill those obligations; whether we will marshal our resources and the political will to confront a tragedy that is preventable.
+
+All of us are here because we are committed to that cause. We're here because we believe that while HIV transmission rates in this country are not as high as they once were, every new case is one case too many. We're here because we believe in an America where those living with HIV/AIDS are not viewed with suspicion, but treated with respect; where they're provided the medications and health care they need; where they can live out their lives as fully as their health allows.
+
+And we're here because of the extraordinary men and women whose stories compel us to stop this scourge. I'm going to call out a few people here -- people like Benjamin Banks, who right now is completing a master's degree in public health, planning a family with his wife, and deciding whether to run another half-marathon. Ben has also been HIV-positive for 29 years -– a virus he contracted during cancer surgery as a child. So inspiring others to fight the disease has become his mission.
+
+We're here because of people like Craig Washington, who after seeing what was happening in his community -– friends passing away; life stories sanitized, as he put it, at funerals; homophobia, all the discrimination that surrounded the disease –- Craig got tested, disclosed his status, with the support of his partner and his family, and took up the movement for prevention and awareness in which he is a leader today.
+
+We're here because of people like Linda Scruggs. {APPLAUSE} Linda learned she was HIV-positive about two decades ago when she went in for prenatal care. Then and there, she decided to turn her life around, and she left a life of substance abuse behind, she became an advocate for women, she empowered them to break free from what she calls the bondage of secrecy. She inspired her son, who was born healthy, to become an AIDS activist himself.
+
+We're here because of Linda and Craig and Ben, and because of over 1 million Americans living with HIV/AIDS and the nearly 600,000 Americans who've lost their lives to the disease. It's on their behalf -– and on the behalf of all Americans -– that we began a national dialogue about combating AIDS at the beginning of this administration.
+
+In recent months, we've held 14 community discussions. We've spoken with over 4,200 people. We've received over 1,000 recommendations on the White House website, devising an approach not from the top down but from the bottom up.
+
+And today, we're releasing our National HIV/AIDS Strategy, which is the product -- {APPLAUSE} -- which is the product of these conversations, and conversations with HIV-positive Americans and health care providers, with business leaders, with faith leaders, and the best policy and scientific minds in our country.
+
+Now, I know that this strategy comes at a difficult time for Americans living with HIV/AIDS, because we've got cash-strapped states who are being forced to cut back on essentials, including assistance for AIDS drugs. I know the need is great. And that's why we've increased federal assistance each year that I've been in office, providing an emergency supplement this year to help people get the drugs they need, even as we pursue a national strategy that focuses on three central goals.
+
+First goal: prevention. We can't afford to rely on any single prevention method alone, so our strategy promotes a comprehensive approach to reducing the number of new HIV infections -– from expanded testing so people can learn their status, to education so people can curb risky behaviors, to drugs that can prevent a mother from transmitting a virus to her child.
+
+To support our new direction, we're investing $30 million in new money, and I've committed to working with Congress to make sure these investments continue in the future.
+
+The second --
+
+{AUDIENCE-MEMBER} Mr. President -- {/AUDIENCE-MEMBER} 
+
+Let's -- hold on -- you can talk to me after -- we'll be able to talk after I speak. That's why I invited you here, right? So you don't have to yell, right? {APPLAUSE} Thank you.
+
+Second is treatment. To extend lives and stem transmission, we need to make sure every HIV-positive American gets the medical care that they need. {APPLAUSE} And by stopping health insurers from denying coverage because of a preexisting condition and by creating a marketplace where people with HIV/AIDS can buy affordable care, the health insurance reforms I signed into law this year are an important step forward.
+
+And we'll build on those reforms, while also understanding that when people have trouble putting food on the table or finding a place to live, it's virtually impossible to keep them on lifesaving therapies. {APPLAUSE}
+
+Now, the third goal is reducing health disparities by combating the disease in communities where the need is greatest. {APPLAUSE}
+
+We all know the statistics. Gay and bisexual men make up a small percentage of the population, but over 50 percent of new infections. For African Americans, it's 13 percent of the population -- nearly 50 percent of the people living with HIV/AIDS. HIV infection rates among black women are almost 20 times what they are for white women. So, such health disparities call on us to make a greater effort as a nation to offer testing and treatment to the people who need it the most. {APPLAUSE}
+
+So reducing new HIV infections; improving care for people living with HIV/AIDS; narrowing health disparities -- these are the central goals of our national strategy. They must be pursued hand in hand with our global public health strategy to roll back the pandemic beyond our borders. And they must be pursued by a government that is acting as one. So we need to make sure all our efforts are coordinated within the federal government and across federal, state and local governments -– because that's how we'll achieve results that let Americans live longer and healthier lives. {APPLAUSE}
+
+So, yes, government has to do its part. But our ability to combat HIV/AIDS doesn't rest on government alone. It requires companies to contribute funding and expertise to the fight. It requires us to use every source of information –- from TV to film to the Internet -– to promote AIDS awareness. It requires community leaders to embrace all -- and not just some -- who are affected by the disease. It requires each of us to act responsibly in our own lives, and it requires all of us to look inward -- to ask not only how we can end this scourge, but also how we can root out the inequities and the attitudes on which this scourge thrives.
+
+When a person living with HIV/AIDS is treated as if she's done something wrong, when she's viewed as being somehow morally compromised, how can we expect her to get tested and disclose her diagnosis to others? {APPLAUSE}
+
+When we fail to offer a child a proper education, when we fail to provide him with accurate medical information and instill within him a sense of responsibility, then how can we expect him to take the precautions necessary to protect himself and others? {APPLAUSE}
+
+When we continue, as a community of nations, to tolerate poverty and inequality and injustice in our midst, we don't stand up for how women are treated in certain countries, how can we expect to end the disease –- a pandemic -– that feeds on such conditions?
+
+So fighting HIV/AIDS in America and around the world will require more than just fighting the virus. It will require a broader effort to make life more just and equitable for the people who inhabit this Earth. And that's a cause to which I'll be firmly committed so long as I have the privilege of serving as President.
+
+So to all of you who have been out there in the field, working on this issues day in, day out, I know sometimes it's thankless work. But the truth is, you are representing what's best in all of us -- our regard for one another, our willingness to care for one another. I thank you for that. I'm grateful for you. You're going to have a partner in me.
+
+God bless you and God bless the United States of America. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,52 @@
+﻿{title} Remarks by the President in Greeting Military Personnel {/title}
+{event} Greeting Military at AFB Ramstein Germany {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 11, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Remarks by President While Greeting Military at AFB Ramstein Germany {/description}
+
+{speech} 
+
+Thank you. First, let me thank the Air Force Band. They were great. Thank you very much. {APPLAUSE}
+
+Thank you, Chief Bailey, General Joulwan, General Oak. Minister President Sharping, thank you for joining us tonight. Colonel Caine.
+
+It is an honor for me to be here with the men, the women and the families of the magnificent 86th Wing and the KLM community. Thank you for coming out; thank you for serving America; thank you for making us proud. {APPLAUSE}
+
+I'm also proud to be here visiting the largest American community outside of the United States of America. {APPLAUSE} I want to thank the crews who just showed me the C-130 and the F-16, and all of you who serve in any way.
+
+Last month, I came to Europe for the 50th anniversary of the Italian and Normandy campaigns of World War II to honor the brave airmen, soldiers and sailors who rescued freedom in its darkest hour in this century. Tonight, I come here to honor you who keep the torch of freedom alive. We are in your debt. {APPLAUSE}
+
+You know, perhaps, better than any other group of Americans that though the Cold War is over, the world still has its dangers and challenges; America still has its responsibilities. You do America's work and freedom's work, and the families who support you, who often are separated from you for long periods of time also do America's work; and we thank you all.
+
+You have done so much in Somalia, in Turkey, in Macedonia, over the skies of Bosnia and other places in the former Yugoslavia. From 1991 through 1993, during Operation Provide Comfort, you flew nearly 5,000 combat sorties over Northern Iraq. Since 1993, as part of Operation Deny Flight, Ramstein F-16s flying out of Aviano Air Base have flown almost 2,000 missions over the former Yugoslavia. And last February, when six Bosnian Serb air force fighters violated the no-fly zone to bomb a munitions factory, Ramstein pilots -- including Captain Bob Wright, who I just met -- got the call to respond. And all America showed what America's pilots could do, and America's planes could do in the cause of freedom.
+
+You at Ramstein and at Rhein-Main are involved in one of the great humanitarian missions of our time, as well, delivering supplies and hope to people under siege in Bosnia. I have just seen an impressive demonstration of how you ge that job done as well. You've done so much that the airlift in Bosnia has now surpassed the great Berlin airlift of 45 years ago, both in time and missions flown. {APPLAUSE}
+
+In the greatest humanitarian airlift in history you have brought relief to the vulnerable, pride to the people back home, and you have made history. I salute you. America salutes you.
+
+Our world is very different now. The walls between nations are coming down and bridges are coming up. Last week I had the honor to represent all of you as the first American president ever to set foot on free Baltic soil when I spoke in Riga, Latvia, to over 40,000 people. {APPLAUSE} Tomorrow I will have the honor to represent you as the first American president to walk into what we used to call East Berlin. {APPLAUSE} There I will join the troops of the Berlin Brigade as they case the colors and begin heading home, knowing their mission has been accomplished.
+
+Berlin is free; Germany is united. But make no mistake about it, our commitment to the security and future, to the democracy and freedom of Europe remains. Our security and our prosperity depend upon it. The entire transatlantic alliance knows that the United States is still critical to its success and to its future. That's why we intend to keep our forces here in Europe, some 100,000 strong. I think you know we need to stay. Our European friends want us to stay. And I believe a majority of the American people support our continued mission here, thanks to the work you have done and the example you have set. {APPLAUSE}
+
+At the end of World War II, our country did not make the same mistake it had made in the past. We didn't let our guard down and we didn't walk away from our friends and allies. With the Cold War over and freedom on the march throughout Europe, it is important that we recognize our mission has changed, but we still have a mission. We can't let our guard down, and we can't walk away from our friends.
+
+We actually have the opportunity, those of us who live now, to work with our friends in Europe to achieve for the first time in all of human history a Europe that is united for democracy, for peace and for progress -- not divided in ways that help some people at the expense of others. In order to do that, America must stay here, America must work here, America must stand for peace and freedom and progress.
+
+It has already been said, but I want to say again, how hard it has been for the members of our Armed Services to continue to do these incredible things in the face of the dramatic reductions in military spending and manpower that we have sustained.
+
+I believe that when the history of this era is written, one of the untold stories that will emerge clearly in the light of time is the absolutely brilliant job done by the United States military in downsizing the military, still treating members of the military like human beings and citizens and patriots, and maintaining the strongest, best equipped, best prepared and highest morale military force in the entire world. It is a tribute to you, and someday the whole story will be known. {APPLAUSE}
+
+When I leave tomorrow, I will go back to the United States and to our continued effort at renewal at home. You should know that your country's coming back at home as well. In the last year and a half, about 3.8 million new jobs have come into our economy. The unemployment rate has dropped about a point and a half -- {APPLAUSE} -- there is a serious effort underway at rebuilding our communities, our neighborhoods, our families, a serious attempt to address the crime problem, the serious attempt to address the welfare problem.
+
+And I also want to say that since I have been here in Europe I have met many American service families already, and the one issue that they have asked me about dwarfing everything else has been health care. And I promise you we're going to try to address that as well, and I think we'll be successful. {APPLAUSE}
+
+But let me also say this: Part of the reason our economy has recovered -- a big part of it is, that after years of talking about it, we began to do something about our budget deficit, which was imposing an unconscionable burden on the children who are here and on their children, running up our debt year in and year out. Next year we will have had three years of deficit reduction in a row for the first time since Harry Truman was President of the United States and America's troops first came to defend Germany. {APPLAUSE}
+
+Most of the military reductions have gone to fuel reductions in the debt, but I want to say this as well -- we must have enough money in the military budget to fulfill our mission and to support the people who do it in a humane and decent and pro-family way. And I will resist further cuts that would undermine our ability to have you do your job for the United States of America. {APPLAUSE}
+
+Not a day goes by that I do not express my thanks in my heart and to our God for the service you render. In many ways you and I are in exactly the same business, doing the same work. I will do my best to support you as your Commander in Chief, and what you have done here is a credit to every American back home. They know it. They are proud of you.
+
+We honor your service. We thank you for it, and I am very glad that we all had the chance to be together this evening. Thank you. And God bless you all. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President at Announcement of Summit of Americas {/title}
+{event} Announcement of Summit of Americas {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 11, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President in Announcing Summit of Americas {/description}
+
+{speech} 
+
+Thank you very much, Mr. Vice President, ladies and gentlemen. Today's announcement is good for our nation and good for our hemisphere. This has been a very important year and a couple of months for this hemisphere. Late last year, in an historic choice, the American people and the Congress embraced NAFTA, which will establish the world's largest free trade zone, create jobs and bolster the growth of democracy in market economies.
+
+In December, right after the NAFTA vote, the Vice President went to Mexico City, as he said, and announced my intention to host a meeting of democratically elected heads of state and government in this hemisphere.
+
+Today, I am pleased to announce that the Summit of the Americas will be held in early December in the City of Miami. {APPLAUSE} Thank you. The diversity, the dynamism, the applause meter -- {LAUGHTER} -- all make Miami an ideal site for this meeting. Miami's economy is fully integrated with the economies of Latin America and the Caribbean. In so many ways, it represents the promise of hemispheric integration.
+
+The Summit of the Americas will be an historic event, will be the first meeting of hemispheric leaders in over a generation, and it will be the first-ever hemispheric meeting of democratically elected leaders.
+
+Let me say a word about why this summit matters so much to us here at home in the United States. Our nation has a major stake in the prosperity and freedom of the entire hemisphere. Our exports to Latin America and the Caribbean have more than doubled in just seven years, rising to nearly $80 billion in 1993. That has generated hundreds of thousands of new jobs for American workers. If we can continue to bring down hemispheric trade barriers, we can create a million new jobs by the turn of the century. At the same time, the rising tide of democracy in this hemisphere helps make us more secure. Democracies tend not to fight one another; they make better partners in trade and diplomacy. And, as we work with our neighbors to build more free, prosperous and secure relations throughout this hemisphere, this summit will advance our common efforts and our shared interests.
+
+When the Summit of the Americas convenes in Miami, we will crown a process of intensive consultation that will begin next week when the Vice President travels to Bolivia, Argentina and Brazil to meet with the leaders of those nations. In the coming months, I will be working with my hemispheric counterparts to develop a full and productive agenda for this summit.
+
+We want to consider two broad themes: first, how to strengthen our democracies, defend them collectively and improve our governance; second, how to promote economic growth while advancing a strategy of sustainable development that protects the environment and alleviates poverty. To help to define our agenda, we will also encourage business, labor and nongovernmental organizations all across the hemisphere to exchange ideas and propose initiatives that can enrich the summit deliberations.
+
+We've arrived at a moment of very great promise and great hope for the Western Hemisphere. Democratic values are ascendant. Our economies are growing and becoming more intertwined every day through trade and investment. Now we have a unique opportunity to build a community of free nations, diverse in culture and history, but bound together by a commitment to responsive and free government, vibrant civil societies, open economies and rising living standards for all our people.
+
+So as we prepare for this Summit of the Americas, let us think boldly and set forth a vision of progress for all our people. Let us begin the work of building a genuine new community for all of us in this hemisphere. Thank you very much. {APPLAUSE}
+
+I'd like to just say, in closing, a couple of things. First of all, I don't think anyone who is not aware of this process can possibly understand the energy and the persistence and the thought that went into the application that Governor Chiles pressed for Miami to host this conference. I compliment him and my long-time friend, Buddy McKay, for the work that they did and the way they did it. They did not make me witness grown men crying -- {LAUGHTER} -- but all short of that was tried.
+
+I'd also like to say a special word of thanks to my former colleague, as a governor and a Senator, Bob Graham; and to the other members of the congressional delegation for the work that they did in pressing this cause. But, most of all, I have to tell you that I have been deeply moved over the last few years when I've had the opportunity to go to Miami and to South Florida and see the heroic efforts that people have made to deal not only with the aftermath of the hurricane, but to build a genuine multicultural, multiracial society that would be at the crossroads of the Americas; and, therefore, at the forefront of the future. In the end, I think that this decision was made on the merits, because our best hopes to do things that democracies find difficult to do -- get people together across racial and economic and ethnic lines -- lies in the efforts that are being made there now.
+
+And I believe that in December, we will have a great gathering in a place that can symbolize the future toward which we are all tending. Thank you very much, we're adjourned. {APPLAUSE} 
+
+{/speech}

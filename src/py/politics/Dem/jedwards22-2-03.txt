@@ -1,0 +1,133 @@
+﻿{title} Speech at Democratic National Committee Winter Meeting {/title}
+{event} ----- {/event}
+{speaker} John Edwards {/speaker}
+{date} February 22, 2003 {/date}
+{source} http://www.gwu.edu {/source}
+{description} ----- {/description}
+
+
+{speech}
+
+Good morning. 
+
+{AUDIENCE} Good morning. {/AUDIENCE} 
+
+It's great to be here. It's also great to be here with my wife of 25 years who's with me here today; my wife Elizabeth. {APPLAUSE} 
+
+Across America, every day, people go to work believing that hard work will give them a chance to get ahead. Every day, people do what's right for their family and what's right in their job, because they think that's more important than a fast buck. And every day, this President finds another way to let them down. 
+
+If you're wealthy or well-connected in America; if you're a big donor or a big business looking for a loophole, then George Bush is your man. {APPLAUSE} 
+
+But if you're working for a living, if you're worried about health care for your parents, if your worried about college for your kids, if you've lost your pension in just a few short months, if your business has been surrounded in corporate scandal, then don't look to the White House for help. Don't even look to the White House for understanding. Because you will not find it there. 
+
+This presidency is a failure for the great middle-class of America, and for everyone struggling to meet it. It is wrong. This is the people's government, and we deserve to take it back! {APPLAUSE} 
+
+Our job, our job in 2004 is to give the American people a clear choice. If you make me your nominee, let me tell you what choice the American people will have. 
+
+They'll have somebody who comes from them. My dad worked in a mill all his life; my mother's last job was working at the post office. I was the first person in my family to be able to go to college. I worked my way through college, worked my way through law school and then spent 20 years as a lawyer fighting for the same people I'd grown up with, people just like my father, people who worked in the mill with him. They are most of America. 
+
+They are the reason I ran for the United States Senate. They are the reason I want to be President. 
+
+I want to be a champion for the regular people of this country who make America great. People like my father - you know he's not an insider; I promise you he doesn't have any lobbyists in Washington, DC. {LAUGHTER} His only hope is that his president will go to work every single day with ideas and vision about how to make his life better, and with the backbone and courage to fight against anything that gets in the way. 
+
+And then we have this President. George W. Bush comes from a very different place, and he governs in a very different way. He believes that he and his friends, they know what's best for us. They govern looking down on all the rest of us. They'll tell us what they think we need to know, when they think we need to know it. Under them, we get government of the insiders, by the insiders, for the insiders. The people get left behind. Well, the people deserve better, and we need to stand up and say so! {APPLAUSE} 
+
+This President's record of false promises, this president's record of false promises and broken promises starts with the economy. 
+
+George Bush promised, remember this, "prosperity for every forgotten corner of this country." Well, here's his record: 2,365,000 lost jobs; $400 billion in lost retirement savings, $4.5 trillion in stock market losses; and a $307 billion deficit that is record-setting. We've seen this movie before, haven't we? 
+
+George Bush promised affordable prescription drugs for every senior citizen. And then he fought a bill written by Senator Schumer, Senator McCain, myself and others that would have closed loopholes that would have helped bring down the cost of prescription drugs for every American. 
+
+George Bush promised to make power plants comply with clean air standards. What he didn't tell us is that is the middle of the night he would weaken those standards, and subject thousands of children and thousands of seniors to asthma attacks and respiratory problems. 
+
+The truth is any promise made by George Bush to the American people that has come into conflict with insiders' interests, you can just consider the promise broken every single time - compassionately, of course. {LAUGHTER ; APPLAUSE} 
+
+And so I ask you, and I ask the American people, are you better off than you were two years ago? 
+
+{AUDIENCE} No! {/AUDIENCE} 
+
+In two short years, George W. Bush has taught us what that W stands for: Wrong. Wrong for our children, wrong for our parents, wrong for our values; wrong, wrong, wrong for America! {CHEERS ; APPLAUSE} 
+
+So if you think this Administration has changed your life for the better, I'm not your guy. 
+
+If you think your government should be run from the top down, without any consideration for what regular people need and what regular people think, I'm not your guy. 
+
+And if you think the only way to restore faith in government is to have somebody who's been involved in Washington politics for decades, I'm not your guy. 
+
+But if you want somebody who has spent their life fighting for average Americans, if you want somebody who will dig in, take hold, and never let go, if you want somebody that will take this fight to George Bush's doorstep and then inside, I am your guy. {APPLAUSE} 
+
+In America, in America do we still believe that the son of a mill worker can go toe to toe with the son of a President? 
+
+{AUDIENCE} Yes! {/AUDIENCE}
+
+I do. 
+
+You know, the President has attacked me over and over for having spent 20 years of my life fighting for kids and victims and families against the most powerful opposition, big insurance companies. 
+
+So I want to be as clear as I can be about this: I am proud of my career. I am proud of the children I represented. I am proud of the cases I won. And so, Mr. President, if you want to talk about the insiders you've fought for versus the kids and families that I've fought for, here's my message to you, Mr. President--bring it on! {CHEERS ; APPLAUSE} 
+
+And if this party, if this party makes me its nominee, and I'm standing on a stage with George Bush, I hope he attacks me for my work, because I'm going to tell him a story. I'm going to tell him the story of a little boy named Ethan Bedrick. 
+
+My law firm represented Ethan Bedrick. He had cerebral palsy. Every doctor he had said Ethan needed daily physical therapy so he could keep his freedom of movement. Everybody agreed. Everybody except some bureaucrat, sitting behind a desk hundreds of miles away working for an insurance company who had never seen Ethan. And he said we're not going to pay for it. 
+
+Well here Mr. President, we're going let you take the side of the people you've always taken the side of. We're going to let you take the side of the insurance companies. 
+
+Speaking for my self I'm going to stand with the people I have always stood for, I will stand with Ethan Bedrick - and so will every single person in this room! {APPLAUSE} 
+
+And so we'll win this election. But we won't win it just by telling people what went wrong the last two years, we're going to win it by telling them what we're going to do to make it right. 
+
+Yeah, this party needs to stand for something. But what we stand for can't just be clichés and criticism. We have to stand for a vision of America that's true to our values and energized, energized with new ideas. 
+
+So I want to tell you about some of my ideas. 
+
+First, we have to get this economy in order, and recognize what every single family in America already knows: you can't keep spending money you don't have. We have to put off this tax cut that President Bush gave to the wealthiest Americans. He is using his own recession, and don't doubt it for a minute he owns it, this is the Bush recession he is using it as an excuse to put money in the pockets of people at the top who don't need it, while he's doing almost nothing for the rest of America. {APPLAUSE} 
+
+We should make the middle-class tax cut permanent. We should give every American family a $500 tax credit to help them with these rising heating bills that they're confronted with. 
+
+And we ought to help states, we ought to help 'em deal with the worst budget shortfalls they've had since World War II so they don't have lay off firefighters, lay off police officers and don't have to raise property taxes. 
+
+And we have to do more to restore fiscal responsibility in this country. Because let's be honest, that's a challenge for both sides. You know the Republicans, they've never seen a corporate loophole they're not in love with. And sometimes, sometimes its hard for us to say no to spending projects. Well we have to be willing to be tough on both. 
+
+If we do that, we'll be able to do what we need to do for regular Americans. 
+
+And we need to say to this President: it's time to stop saying one thing about education and doing something else. Mr. President, your own budget underfunds your own plan by $10 billion. {APPLAUSE} My plan helps schools get good teachers, pay the teachers better, and get teachers to the place they're needed the most. And my college for everyone plan will make college available to every single young person, first year tuition-free who's willing to work for it. Education -- {APPLAUSE} education -- we will be where we need to be in education in America when we can say that the sons and daughters of mill-workers will have just as good an education as the sons and daughters of millionaires in America; that's when we'll be where we need to be in public education in America. {APPLAUSE} 
+
+We need to pass a prescription drug benefit under Medicare, we need to stop drug company efforts to keep less-expensive drugs off the market, we need to make the Patients' Bill of Rights the law of the land, and we need to end the national disgrace of 40 million Americans who don't even have access to health insurance! {APPLAUSE} 
+
+Finally, our party has to recognize that if we want to win back the White House, we have to provide real leadership, real leadership on domestic defense and national security. 
+
+I am not going to cede this issue to an Administration who believes plastic wrap and duct tape is the answer to national security. Mr. President, if you're going to tear down patriots like Max Cleland over homeland security the very least you can do is actually make our homeland secure! {APPLAUSE} 
+
+After lobbying by chemical companies, the President cancelled plans to improve security at chemical plants. We need to do more, not less. We need a domestic intelligence agency that can track down terrorists in our midst, infiltrate their ranks, and stop them before they do harm. We need more border patrols to keep terrorists out; we need more port inspections to keep weapons out. 
+
+And we need to improve domestic readiness, so police, firefighters, and EMTs have all the resources they need to deal with any threat that may come up. 
+
+We are the world's superpower. We should stay there. We should maintain our strength, our military strength, our economic strength, our political strength. We should use that strength to promote the things we care about: democracy, freedom, human rights. But we should lead in a way that brings others to us, not in a way that drives others away. {APPLAUSE} 
+
+Now I know that there are a lot of you here don't agree with me about this. I do believe that Saddam Hussein needs to be disarmed, including if necessary the use of military force. He has chemical and biological weapons, he's used them in the past. We cannot let him have nuclear capability. 
+
+But the real test for America will come in the post-Saddam Iraq. Will we make the commitment to give the Iraqi people a real chance for success, a real chance for a democratic government? Or will we have the same kind of follow-through that we had in Afghanistan once we got rid of the Taliban? 
+
+The world is watching us. They know we are powerful, they know we are strong - now they want to know do we care, not just about our peace, not just about our prosperity, but about theirs. And I will say to every family in America: your family is safer and more secure in a world where America is looked up to and respected, than in a world where America is hated. {APPLAUSE} 
+
+And we must never forget that what we fight for above all are the basic values of freedom and justice. And we need to have the backbone and the courage to say that we will not let John Ashcroft in the name of the war on terrorism take away our rights, take away our freedoms, take away our liberties; they go to the heart and soul of what we are as a country! {CHEERS ; APPLAUSE} 
+
+And we have to do more to create freedom and opportunity for all our people. This is personal for me. I grew up in the South. I grew up with the civil rights movement. I was raised to believe in an America where we embrace everybody, no matter where you live, no matter who your family is, no matter what the color of your skin. That's the America we believe in. We believe in lifting people up. And so, I will not follow on civil rights, I will lead on civil rights. We have a responsibility, I feel a personal responsibility, to lift up all people who today, not 40 years ago, today, still suffer the effects of discrimination every minute of their lives. We need to defend programs that provide real opportunity for people, like the affirmative action program at the University of Michigan. {APPLAUSE} And yes, Mr. President, we have, we are, and we will always demand judges who will enforce and protect our civil rights! {CHEERS ; APPLAUSE} 
+
+The people I grew up with in Robbins, are the people all across real America, people like my own father. They don't ask much from government, but what they ask for matters. They ask us to honor their values, they ask us to have courage, the courage of our convictions, they want us to keep their country safe and strong, and they want us to give them a real chance to do everything they're capable of doing with their lives. George W. Bush does not work for them. He never has, he never will. 
+
+He is out of touch, out of tune, and in November 2004, he will be out of time! {APPLAUSE} 
+
+We will call him to account for his broken promises! 
+We will challenge him on his duplicity! 
+We will hold him responsible for his failures! 
+
+I will offer a clear alternative! 
+I will offer an honest vision! 
+I will place my trust in the American people! 
+
+And we will prevail! 
+
+Thank you.
+
+{/speech}

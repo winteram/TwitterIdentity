@@ -1,0 +1,61 @@
+﻿{title} Remarks by the President in Announcement of the Director of the Office of Drug Control Policy {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 10, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all so very much for being here. It's an honor to see so many members of the United States Congress who are here. Thank you so very much for coming -- and members from both political parties, members who are dedicated to joining with an administration which is dedicated to reducing drug abuse around America. Thank you for being here. {APPLAUSE} 
+
+I'm pleased that members of my Cabinet have joined us -- the Attorney General of the United States, John Ashcroft; the Secretary of Health and Human Services, Tommy Thompson. Thank you all for being here. {APPLAUSE} Mr. Surgeon General, thank you for being here, as well, sir. We're honored to have you here. {APPLAUSE} 
+
+Also with us is John J. Dilulio, who is the Director of the Office of Faith-based and Community Initiatives. John is on the leading edge of encouraging faith-based programs to become energized to help people who need help. And, John, thank you so much for being here, as well. {APPLAUSE} 
+
+I'm honored to be joined on stage by five Americans -- well, six Americans -- five Americans who won't speak. {LAUGHTER} Which is saying something for the first American I'm going to introduce, William J. Bennett. {LAUGHTER ; APPLAUSE} He was our nation's first Drug Czar, former Secretary of Education, a fearless -- fearless -- fighter against drug abuse. As well, as Joe A. Califano, who has a Center on Addiction and Substance Abuse at Columbia University, former Secretary of Health and Education and Welfare under President Jimmy Carter, as well, like Mr. Bennett, a fearless advocate for those of us who are dedicated to reducing drug abuse. Thank you both for being here. {APPLAUSE} 
+
+And we have three members from the community -- antidrug community -- who have joined us. Arthur R. Dean is the Chairman and CEO of the Community Antidrug Coalitions of America. Thank you so much for coming. I appreciate you being here. {APPLAUSE} Jessica Hulsey is a member of the Drug-Free Community's Advisory Commission. Thank you, Jessica. {APPLAUSE} And Henry Lozano, Californians for Drug-free Youth, a member of the DFCAC, a graduate from Teen Challenge. {APPLAUSE} 
+
+I'm pleased to announce that as of today, the federal government is waging an all-out effort to reduce illegal drug use in America. {APPLAUSE} And I'm proud to nominate John P. Walters as my Director of National Drug Control Policy, where he will serve as a valuable member of my Cabinet. {APPLAUSE} 
+
+Mr. Walters has had a distinguished career in government. He served as the chief of staff to Bill Bennett, and later served as Deputy Director and Acting Director of the Office of National Control Policy. John will bring tremendous skill, knowledge and good judgment to this job. He's an articulate advocate, an able administrator, and a man of deep and reasoned convictions. He has repeatedly been called on to provide guidance to the United States Congress. John cares passionately about this issue and he is the right person to lead America's antidrug efforts. 
+
+Our effort rests on the firm belief that by focusing more of our nation's attention, energy and resources, real progress will be made. From the early 1980s until the early 1990s, drug use amongst high school seniors was reduced every year. We had made tremendous strides in cutting drug use. This cannot be said today. We must do, and we will do, a better job. {APPLAUSE} 
+
+Fortunately, today we know more about what works in prevention and education, treatment and law enforcement. We will put this knowledge to use. But above all, our efforts rest on an unwavering commitment to stop drug use. Acceptance of drug use is simply not an option for this administration. 
+
+Illegal drugs impose a staggering cost of more than $100 billion every year, principally from lost productivity. Yet this dollar figure does not capture the human tragedy of drug use -- lost lives, educational and job opportunities unmet, families torn apart, health care costs, school dropout rates, and more. Drug use harms people of every economic class. But drug use is doing the most damage to the poor. 
+
+John Jacob, former President of the National Urban League, has said that drugs are destroying more children and more families than poverty ever did. John Walters and I believe the only humane and compassionate response to drug use is a moral refusal to accept it. 
+
+We emphatically disagree with those who favor drug legalization. {APPLAUSE} Drug legalization would be a social catastrophe. Drug use and addiction would soar. Hospitals would be filled with many more drug emergency cases. Child abuse would increase. The cost of treatment and social welfare would rise. There would be more drug-related accidents at work and on the road. And legalizing drugs would completely undermine the message that drug use is wrong. 
+
+A successful antidrug effort depends on a thoughtful and integrated approach. Mr. Walters understands this as well as anybody in America. During his career, he's worked to improve the effectiveness of drug education and prevention programs. He played a key role in ensuring a record commitment of resources to drug treatment and research in a previous administration. He helped ensure that the federal government did its part in source countries, on our borders and on our streets. 
+
+My administration will continue to work with nations to eradicate drugs at their source, and enforce our borders to stop the flow of drugs into America. This will make working in close cooperation with Mexico a priority. It will make having strong relations in our hemisphere a priority, a priority which I will keep. {APPLAUSE} 
+
+However, the most effective way to reduce the supply of drugs in America is to reduce the demand for drugs in America. {APPLAUSE} Therefore, this administration will focus unprecedented attention on the demand side of this problem. We recognize that the most important work to reduce drug use is done in America's living rooms and classrooms, in churches and synagogues and mosques, in the workplace, and in our neighborhoods. {APPLAUSE} 
+
+Families, schools, communities, and faith-based organizations shape the character of young people. They teach children right from wrong, respect for law, respect for others, and respect for themselves. They're indispensable. And my administration stands ready to assist them in every possible way. Joe Califano is the President of the National Center on Addiction and Substance Abuse, and a man whose research has helped shape my thinking. Joe has said that teens of parents who eat, talk, pray and play together are not likely to be lured into the world of drugs. A child who reaches age 21 without using illegal drugs is virtually certain never to do so. And children cite parents as the number one reason they don't use drugs. 
+
+And so we'll energize the parents movement by creating a parent drug corps, which will provide needed support to educate and train parents in effective drug prevention. {APPLAUSE} We must increase funding for drug-free communities programs, and for the drug-free workplace program. {APPLAUSE} And within 30 days, Professor John Dilulio will compile a complete inventory of existing federal antidrug partnerships with local faith-based and community groups, and work with John Walters to strengthen those efforts. 
+
+Despite every effort, however, some individuals will become addicted to drugs. There are around 5 million hardcore users of illegal drugs in America today. And while they represent one-third of the drug users, they consume two-thirds of all drugs. It is estimated that more than half of them are not receiving any treatment. 
+
+I am, therefore, asking Secretary Tommy Thompson to conduct a state-by-state inventory of treatment needs and capacity, and report back within 120 days on how to most effectively close the treatment gap in this country. {APPLAUSE} In order to close that treatment gap, we will provide $1.6 billion over the next five years. 
+
+We want to advance our understanding of drug abuse and addiction, so we're planning to significantly increase funding for the National Institute on Drug Abuse and the National Institute on Alcohol Abuse and Alcoholism. {APPLAUSE} We also recognize the benefits of coerced abstinence, and so we will support drug courts and drug testing for prisoners, probationers and parolees. {APPLAUSE} 
+
+We know that inmates receiving drug treatment are 73 percent less likely to be re-arrested, and 44 percent less likely to use drugs than those who receive no treatment at all. I'm, therefore, asking the Attorney General, John Ashcroft, to come up with a comprehensive plan within 120 days to ensure our federal prisons are drug-free, to expand drug testing for probationers and parolees, and to strengthen our system of drug courts around the nation. {APPLAUSE} 
+
+We must reduce drug use for one great moral reason -- over time drugs rob men, women and children of their dignity and of their character. Illegal drugs are the enemies of innocence and ambition and hope. They undermine people's commitment to their family and to their fellow citizens. My administration will send a clear and consistent message that drug use is dangerous and drug use is wrong. {APPLAUSE} 
+
+John Walters will lead that effort with firm resolve and a caring heart. He will do an exceptional job. I am proud to submit his name to the United States Senate, and I look forward to working with members of the House and the Senate from both political parties to reduce drug use in America. {APPLAUSE} 
+
+I'm honored to welcome so many people who devote their lives to the well-being of others to the Rose Garden here in the White House. I want to God bless -- thank you for your work, and ask God's blessings on your work and this great nation of ours. 
+
+It's my honor to welcome John Walters. {APPLAUSE} 
+
+{/speech} 

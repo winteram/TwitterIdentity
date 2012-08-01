@@ -1,0 +1,38 @@
+﻿{title} Remarks by the President at Retirement Protection Act Ceremony {/title}
+{event} Retirement Protection Act Ceremony, The Roosevelt Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 19, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech}
+
+Thank you very much, Mr. Secretary. After that kind introduction I'm loathe to say what I was about to say, which is I'm afraid the headline on this story will be "Reich comes out for playing hard." {LAUGHTER} But I think people who work hard should also be able to play hard. {LAUGHTER}
+
+I want to thank Paul Wood for his story, and Marvin Clarke for his testimony in his long battle to make sure the country did something to help people so that there wouldn't be other people in the situation he finds himself in.
+
+I want to thank the steelworkers and the senior citizens groups and all the others who were mentioned by Secretary Reich. I'd like to especially thank someone who is not here, my longtime friend, J. Pickle, who retired from the Congress and who left this as his last legacy in a long career of helping people with their own lives.
+
+I'd like to thank another longtime friend of mine who is still here - that's maybe a disability in this town, but Marty Slate has done a wonderful job at the Pension Benefit Guaranty Corporation. I'll never forget the first time Hillary told me about Marty Slate. She said, "That's the smartest guy I ever met in my life. He'll find a way to solve any kind of problem." And you have done a fine job, and we're grateful to you.
+
+And I'd like to thank someone whose name I don't know, and I've been trying to find out before this moment. I'd like to thank the person in the Richmond debate in 1992 who asked President Bush and Ross Perot and Bill Clinton about the problems of underfunded pensions, and first got my attention on this issue. I wish -- I don't know who that person was, but I am deeply indebted, and so are several million other Americans, to that person for bringing this issue personally to me in a very direct way.
+
+Two years ago from tomorrow, I became President, with a commitment to try to restore the American Dream for all Americans, and to make sure that we enter the next century as the strongest country in the world, a force for peace and freedom and democracy, but most important of all, as one which in a very different world would keep the American Dream alive for all of our people.
+
+When I signed the Retirement Protection Act into law last month, it was almost completely unnoticed because at the end of the year it had to go through in the comprehensive legislation that involved the passage of the GATT trade agreement. And we wanted to do this today because this act was so profoundly important to so many millions of Americans. And it says a lot about what we are trying to do here in Washington.
+
+This is part of a new economic policy designed to help the American people stay ahead in a world economy that is changing so rapidly that, while it offers vast new benefits to people, it also is very frightening to a lot of people and causes too much insecurity and unsettling for people who have worked hard and done the right things all their lives. It gives the American taxpayers a more effective, more efficient and more disciplined government. And this bill furthers what I have called my own contract with America, the New Covenant. It says that people who act responsibly should be rewarded.
+
+The Retirement Protection Act says that people deserve a pension system that they rely on. They deserve employers who take actions to be worthy of their own trust and the labor that they give them, year in and year out. They deserve a government that will protect them and stand by them, a government that is their partner.
+
+It says to employers that they can no longer gamble with the retirement savings of their own employees, allowing pension plans to become dangerously underfunded, expecting taxpayers to bale them out. It means that responsible businesses with well-funded plans will no longer have to carry an unfair share of the burden of the insurance costs for businesses who do not do the same.
+
+As a result of the new law, the funding level of large, underfunded pension plans will be increased dramatically so that the benefits can be paid as they were promised. The National Pension Insurance System will remain secure. Employees will get better information warning them when their plans could be at risk.
+
+In stabilizing the federal insurance system, we used the power of government to avert a potential crisis, protecting millions of retirees, corporate pension plans and the taxpayers from huge potential losses.
+
+Today we can be grateful that the security of our pensions are strong and growing stronger, thanks to the Retirement Protection Act and the work of all of you in this room who did so much to make it happen.
+
+Thank you very, very much. {APPLAUSE}
+
+{/speech}

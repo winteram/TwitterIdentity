@@ -1,0 +1,51 @@
+﻿{title} Senator John Edwards Addresses Supporters {/title}
+{event} ----- {/event}
+{speaker} John Edwards {/speaker}
+{date} February 3, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+Tonight you said that the politics of lifting people up beats the politics of tearing people down. {APPLAUSE}
+
+And today -- and today -- and today we said clearly to the American people that in our country, our America, everything is possible. {APPLAUSE}
+
+Now I want to take just a moment on this night of extraordinary celebration of a great political victory to talk just for a moment about the millions of Americans who will not go home, go to bed and celebrate tonight, the millions of Americans who struggle every single day just to provide for their own families. 
+
+Tonight -- tonight -- somewhere in America a 10-year- old little girl will go to bed hungry, hoping and praying that tomorrow will not be as cold as today because she doesn't have the coat to keep her warm; hoping and praying that she doesn't get sick as she did last year, because it means 24 hours waiting in an emergency room to try to get medical care; hoping... {APPLAUSE}
+
+... hoping that her father, who lost his job when the factory closed and has not been able to find steady work, will actually get a job that allows him to provide for his family. 
+
+She's one of 35 million Americans who live in poverty every single day, unnoticed, unheard. Well, tonight we see her, we hear her, we embrace her, she is part of our family and we will lift her up. {APPLAUSE}
+
+{AUDIENCE} Edwards, Edwards, Edwards, Edwards... {/AUDIENCE}
+
+And she is, and her family is, like millions of Americans that work hard every day, struggle to get by. These are the Americans no one pays attention to, they're unheralded, they're unnoticed. 
+
+The truth of the matter is this: They are heroes in our America. They are the reason I'm running for president of the United States. 
+
+And the message I want you and I to send loud and clear to all those millions of Americans: Tonight we see them, tonight we hear them, we believe in them. We will lift them up. We will give them hope and we will give them back the White House. {APPLAUSE}
+
+Because the truth is, as all of us know, we do still live in two different Americas, two different health care systems, two different public school systems, two tax systems, two governments, two economies.
+
+It doesn't have to be that way.
+
+You and I together, we're going to build one America that works for everybody. That's what the... {APPLAUSE}
+
+{AUDIENCE} Edwards, Edwards, Edwards, Edwards... {/AUDIENCE}
+
+So tonight we stand at a crossroads. Will we have a leader, a president, who actually understands the problems of working people? Will we have the courage to use new, fresh ideas to solve old problems like poverty? Will we have the strength and conviction to make this vision of hope and optimism into a reality?
+
+If the American people give me a shot at George Bush next November, I will give them back the White House. {APPLAUSE}
+
+Because the truth is this: What you and I believe is that we should never look down on anybody. We should lift people up. We don't believe in tearing people apart. We believe in bringing them together. We believe, I believe, that the family you're born into and the color of your skin in our America should never control what you're able to do.
+
+I can't change this country by myself, but I know that you and I can change this country together.
+
+And the reason is very simple: Because I believe in you, and you deserve a president who actually believes in you. {APPLAUSE}
+
+Thank you. Join me -- join me in this campaign. Together we will change America. Thank you all very much. Thank you for being here tonight. Thank you.
+
+{/speech} 

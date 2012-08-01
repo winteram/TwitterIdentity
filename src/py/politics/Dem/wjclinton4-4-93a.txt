@@ -1,0 +1,48 @@
+﻿{title} Speech by President at Forest Conference {/title}
+{event} Forest Conference, Oregon Convention Center, Portland, Ore. {/event}
+{speaker} Bill Clinton {/speaker}
+{date} April 4, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I want to thank all of you for being here and for sitting through this long day, and all of the participants for everything you've done. I'd like to thank the Cabinet for coming and participating, and the Vice President and our staff for all the work they did to put this meeting together.
+
+One of the things that has come out of this meeting to me loud and clear is that you want us to try to break the paralysis that presently controls the situation, to move and to act. I hope that as we leave here we are more committed to working together to move forward than perhaps we were when we came.
+
+I tell you, I'll never forget what I've heard today -- the stories, the pictures, the passion from all of you. In a funny way, even when you were disagreeing, everyone of you was a voice for change; everyone of you was saying we can't possibly do any worse than to stay within the framework which has now undermined our ability to work together and to build a sense of common community.
+
+Too many people are being hurt and too many resources are being threatened. And we're going to do our best to turn this away from at least the short-term politics of just trying to avoid the tough decisions.
+
+I intend to direct the Cabinet and the entire administration to begin work immediately to craft a balanced, a comprehensive, a long-tern policy. And I will direct the Cabinet to report back to me within 60 days to have a plan to end this stalemate. {APPLAUSE}
+
+Meanwhile, I want each of our Cabinet to look within the departments to determine which policies are at odds with each other. It is true, as I've said many times, that I was mortified when I began to review the legal documents surrounding this controversy to see how often the departments were at odds with each other, so that there was no voice of the United states. I want the Cabinet members to talk with each other to try to bring these conflicts to an end, which at their extreme, have had our own agencies suing one another in courts, often over issues which are hard to characterize as monumental.
+
+I want everyone to examine his or her approach to existing legal and administrative proceedings to see if inadvertently any of us are hampering the march toward a solution of the larger issues, or even toward the particular ones now in litigation.
+
+Regardless of what we are doing, our efforts must be guided, it seems to me, by five fundamental principles.
+
+First, we must never forget the human and the economic dimensions of these problems. Where sound management policies can preserve the health of forest lands, sales should go forward. Where this requirement cannot be met, we need to do our best to offer new economic opportunities for year-round, high-wage, high-skill jobs.
+
+Second, as we craft a plan, we need to protect the long-term health of our forests, our wildlife and our waterways. They are, as the last speaker said, a gift from God, and we hold them in trust for future generations.
+
+Third, our efforts must be, insofar as we are wise enough to know it, scientifically sound, ecologically credible, and legally responsible.
+
+Fourth, the plan should produce a predictable and sustainable level of timber sales and non-timber resources that will not degrade our destroy our forest environment.
+
+And, fifth, to achieve these goals, we will do our best, as I said, to make the federal government work together and work for you. We may make mistakes, but we will try to end the gridlock within the federal government. And we will insist on collaboration, not confrontation. We will do our best to do our part. We will act with a single purpose and a single agenda, once we have a chance to get all these departments working on their respective responsibilities.
+
+But I want to say, too, that all of you have demonstrated to me today your willingness to do your part. I ask you not to let this be the end of it. This conference has established a dialogue. Even when it was somewhat funny between Mr. Kerr and Miss Mater, it was still a dialogue. And it's got to continue between us and you and among yourselves. You have got to be a part of this solution. Even if we make the most enlightened possible decisions under the circumstances, they will be all the more resented if they seem to be imposed without a continuing mechanism for people whose lives will be affected here to be involved.
+
+So when you leave here today, I ask you to keep working for a balanced policy that promotes the economy, preserves jobs and protects the environment even as you may disagree, as Mr. Thomas said, over how the word "balance" should be defined. When you hit an impasse, I plead with you not to give up, and don't turn against your neighbors. You don't have to fight in a court of law anymore. You can work with us to try to have a long-term solution.
+
+If you feel frustrated -- at times, all of us will -- I ask you to stay at the table and to keep talking and keep trying to find common ground. I don't want this situation to go back to posturing, to positioning, to the politics of division that has characterized this difficult issue in the past. I hope we can stay in the conference room and stay out of the courtroom. If we don't give up or give in to deadlock or divisiveness or despair, I think we can build a more prosperous and a more secure future for our communities and for our children. And I think we'll be proud years from now that we were here today.
+
+I thank you for caring and for coming, for speaking out and for reaching out. And I ask you to continue to work with us, so that this Forest Conference is the beginning, not the end of a solution.
+
+But we will move. We will move. And I will do my best to assume the responsibility the American people have given me to try to break this deadlock in a responsible way. I just ask you to remember that this listening cannot be a one-shot deal. We've got to continue to work together. And I think, if we do, we'll all be pleased with the results.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,54 @@
+﻿{title} Al Gore Accepts UAW Endorsement {/title}
+{event} ----- {/event}
+{speaker} Al Gore {/speaker}
+{date} August 11, 2000 {/date}
+{source} http://transcripts.cnn.com {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+... former Governor Jim Blanchard, my longtime friend and advocate for working men and women. {APPLAUSE}
+
+A personal friend of mine, who is here on stage, and I'm so proud that he is here. Many of you do not know him, but I want to say a special word of greetings to former Ambassador David Hermlan, who is a great friend, and Doreen Hermlan. God bless you, my friend. Thank you for being here. 
+
+I want to thank Steve Yokich and Rubin Birks and the members of the board and all the hardworking men and women of the UAW. 
+
+A lot of you know how long and how hard I have worked to gain your confidence and your support and your endorsement. I am grateful to you more than I can say in words. My heart is full. This means the world to me. I know what it means in Michigan and Ohio and Illinois and Pennsylvania. And I know what it means in the United States of America. 
+
+And I know what it means in the history of our country, because the UAW, as many have noted, is not only an active force for a better way of life for working men and women when it comes to bargaining sessions, when it comes to organizing, when it comes to wages, it has also historically been at the forefront of the progressive movement to have better health care and environmental protection and education and rights for women and minorities and social justice and a better country. {APPLAUSE}
+
+I'm going to be back here in Michigan on Tuesday, in Monroe County. But when Steve told me that the vote had taken place as it had, I wanted to come here, indeed I had to come here, to carry this special message to you.
+
+First, I'm running for president because I want to fight for you and your family and your communities and your future. I want to stand by you. I want to fight for the people and not the powerful. {APPLAUSE}
+
+I want to fight for working men and women and a better way of life. {APPLAUSE}
+
+The second thing I came here to say is that I now know -- Joe Lieberman and I now know -- that with the UAW on our side, we're going to win this election in November. {APPLAUSE}
+
+And we're going to win for working men and women this November. {APPLAUSE}
+
+And we're going to elect Debbie Stabenow to the United States Senate this November. {APPLAUSE}
+
+Nothing can stop us now.
+
+And by building the best cars and trucks in the world, you're driving our economy. As nurses and educators and public servants, you are strengthening our communities. By standing up for workers' rights and the right to organize, you're making sure that we have an economy of fairness and fundamental decency. 
+
+I respect you. I appreciate what you have done. And I thank you for your help.
+
+The choice in this election is very simple. It comes down to this: We're for working families, not the powerful and well- connected. We're for the people, not the special interests. We are for the working families, not those at the very top. And when the people we work for are well taken care of and have people who are willing to fight for them, then our country is better off.
+
+We've got a -- we've got a situation right now in America where the other side is trying to give the message that an approach that concentrates on a giant tax giveaway, primarily aimed at the wealthy, is the best thing for the economy.
+
+I think they really believe that. And I don't question the patriotism or the character of either of their candidates. They're good men as far as I'm concerned. But I think they've got ideas that would not be good for working families, and I don't think they have an accurate view of what this country is like and what it needs.
+
+I'll give you an example. They said that the last eight years have been a time when we've just been coasting and taking the path of least resistance. Well, I wish there had been less resistance, because I remember joining with you in breaking the tie to pass our economic program to help lift up working families against their resistance. {APPLAUSE}
+
+I wish there had been less resistance when they shut the government down, not once, but twice, and we forced them to reopen it and we forced them to keep going the distance to keep building the economy. And as for the effects of that plan that we passed together, well, the way I remember it it's a little different from the way they described it at their convention. 
+
+The way I remember it, they left us with high unemployment after a decade of recessions and slow economic growth. They left us with the biggest deficits in history. They left us with a national debt that had been quadrupled in a short period of time: rising crimes, families under more pressure. And after eight years of the program that we put in place, the Clinton-Gore program, we turned the biggest deficits into the biggest surpluses. {APPLAUSE}
+
+Instead of a triple-dip recession, we've had a tripling of the stock market. Instead of high unemployment, we've now got the lowest African-American unemployment ever in this country, the lowest Hispanic unemployment ever in America. We've got 22 million new jobs and officially the strongest economy in the entire 224-year history of the United States of America. {APPLAUSE}
+
+
+{/speech} 

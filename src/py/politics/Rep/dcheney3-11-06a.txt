@@ -1,0 +1,70 @@
+﻿{title} Vice President's Remarks at a Welcome Home Rally with the Troops at Fort Carson {/title}
+{event} Butts Army Airfield, Fort Carson, Colorado {/event}
+{speaker} Dick Cheney {/speaker}
+{date} November 3, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mercy. Well, thank you very much. Thank you, General Mixon, Admiral Keating, General Milano, General MacDonald, Command Sergeant Major McWilliams, distinguished guests, soldiers and families: It's great to be with all of you, and to be at one of the finest military installations in America -- Fort Carson, in the great State of Colorado. {APPLAUSE}
+
+We've been looking forward to visiting the Mountain Post. I want to thank everybody who helped put this event together. And I also want to thank the U.S. Air Force Academy Band and all the distinguished guests who've joined us. The reason I'm here is to say thank you -- to thank you for what you've done for all of us.
+
+The men and women serving at Fort Carson are reminded every day that you live in a hard-working, patriotic part of the United States. There's tremendous community support for our military throughout the Pikes Peak region, and I know it means everything to our soldiers. So I want to thank the people of Colorado Springs and this entire region for standing with our military families. {APPLAUSE}
+
+As a former Secretary of Defense -- that's when I had a real job -- {APPLAUSE} -- and now as Vice President, I can tell you how impressed I am by the work that is carried out at Fort Carson, how much I admire the caliber of soldiers posted here. Your duties are not easy, but you carry them out with skill and honor, and you play an absolutely vital role in the defense of our nation. I'm proud to be in your company today, and I bring gratitude and good wishes from our Commander-in-Chief, President George W. Bush. {APPLAUSE}
+
+America has always counted on the Army to defend our country and to man the watchtowers of freedom. And in our own time, soldiers of the United States are repaying that confidence every day as we fight the war on terror. When we were attacked on a terrible September morning more than five years ago, President Bush said the struggle would be lengthy and difficult and would require our best effort and unfailing resolve. It is tough and it is dangerous to fight enemies who dwell in the shadows, who target the innocent, who plot destruction on a massive scale. And in this fight some of the hardest duties have come to the men and women of the United States Army.
+
+Today we take special pride in recognizing some of our best, including fine units that have just recently returned from Iraq. We're grateful to the Third Brigade Combat Team of the Fourth I.D. {APPLAUSE}
+
+Thirty-eight hundred strong, you've trained Iraqi soldiers and police, giving them the skills they need to defend their country and to protect their fellow citizens. You did the job well, and America is proud of the Iron Brigade.
+
+We're grateful to the 43rd Area Support Group. {APPLAUSE} You work hard to "Provide with Pride," and you've done so repeatedly in both Iraq and Afghanistan.
+
+The job of the Tenth CSH -- {APPLAUSE} -- is to provide essential trauma medicine and care to coalition forces. Thanks to your dedication and professionalism, I'm told you finished the recent deployment with a 94 percent survival rate. Congratulations. {APPLAUSE}
+
+We're grateful to the Tenth Special Forces Group. {APPLAUSE} The Green Berets know what it means to undertake missions that are difficult, dangerous, urgent, and secret. You've engaged the enemy in Iraq with the toughness, and precision, and effectiveness that we expect of you, and we are grateful.
+
+We're joined today by many family members of the Second Brigade Combat Team, of the Second Infantry Division. {APPLAUSE} These men and women have faced a challenging rotation, starting in Korea and then to Iraq. The record of the Strike Force Brigade testifies to the endurance and the dedication of the American soldier. They are now on duty in Iraq, and they're doing an outstanding job for the United States.
+
+Let me also recognize the good work of other units hosted at Fort Carson: The Second Brigade Combat Team, Fourth I.D. {APPLAUSE} Division West, First Army. {APPLAUSE} The 91st Training Brigade. {APPLAUSE} The 71st Explosive Ordnance Disposal Group. {APPLAUSE} The First Squadron of the Sixth Cavalry. {APPLAUSE} The "Desert Battalion" of the Naval Mobile Construction Battalion. {APPLAUSE} The Medical and Dental Activities of Fort Carson and Evans Army Hospital. {APPLAUSE} The Gunslingers of the 13th Air Support Operations Squadron. {APPLAUSE} The Fort Carson Veterinary Facility. {APPLAUSE} We didn't want to leave anybody out. {LAUGHTER} And the U.S. Army Garrison of Fort Carson. {APPLAUSE} I also want to thank the 651st Area Support Group of the Army from Denver. {APPLAUSE}
+
+In their conduct at home and abroad, the men and women who wear this nation's uniform have reminded people everywhere of America's purposes. For the sake of our own security, and that of our friends, we've undertaken a lot of serious work in this world. Yet when we use our military, it is not to conquer, but to liberate. And after we throw back tyrants, we stand by our friends to ensure that democratic institutions can take hold, and to help build the freedom that leads to peace in the long run.
+
+At the beginning of this young century, Iraq and Afghanistan were both in the grip of violent, merciless regimes. Now they have democratically elected governments and the dictators are gone. And Americans who return home from that part of the world can be proud of their service for the rest of their lives.
+
+We maintain forces in those countries because we're a nation that keeps its word, and because we understand what is at stake in that part of the world. The terrorists understand it as well. The terrorists know that as freedom takes hold, the ideologies of hatred and resentment will weaken, and the advance of free institutions in the broader Middle East will produce a safer world for our children and grandchildren. The war on terror is a battle for the future of civilization. It's a battle worth fighting. It's a battle we are going to win.
+
+The terrorists have made Iraq the central front in this war. And we wage this fight with good allies at our side, including an Iraqi Security Force growing in size and ability. Our goal in Iraq is victory -- with a nation that can govern itself, sustain itself, and defend itself. In terms of how to carry out the mission, General Pace, the Chairman of the Joint Chiefs of Staff, put it best: "From a military standpoint," he said, "every day is reassessment day." We'll be flexible. We'll do all we can to adapt to conditions on the ground. We'll make every change necessary to do the job. And I want you to know, as members of the Army, that the American people do not support a policy of retreat. We want to complete the mission, we want to get it done right, and we want to return with honor. {APPLAUSE}
+
+Although we have been in the struggle against terrorism now for more than five years, the terrorists were actually at war with this country long before 9/11. And they were the ones on the offensive. Over time, they came to believe that they could strike America without paying a price -- because they did so many times in the 1980s and '90s. Then they hit us inside the United States on September 11th and killed 3,000 of our fellow citizens.
+
+That day changed everything -- and the United States will never go back to the false comforts of the world before 9/11. Terrorist attacks are not caused by the use of strength. They are invited by the perception of weakness. {APPLAUSE} This nation has made a decision: We will engage these enemies -- facing them far from home, so we do not have to face them on the streets of our own cities. {APPLAUSE}
+
+That effort includes a home front -- and the home front is every bit as important as the battlefields abroad in this kind of conflict. To protect Americans, the President signed the Patriot Act, which is helping us to disrupt terrorist activity, break up terror cells within the United States, and protect the lives of Americans. Another vital step the President took in the days following 9/11 was to authorize the National Security Agency to intercept a certain category of terrorist-linked international communications.
+
+There are no communications more important to the safety of the United States than those related to al Qaeda that have one end in the United States. If you'll recall, the 9/11 Commission in its report focused criticism on our inability to uncover links between terrorists at home and terrorists abroad. The authorization the President made after September 11th helped address that problem in a manner that is fully consistent with his constitutional responsibilities and the civil liberties of the American people.
+
+As people who know first-hand what this war really involves, you can be certain of this: the President will not relent in tracking the enemies of the United States with every legitimate tool at his command. This is not a war that we can win on the defensive. Our only option against these enemies is to monitor them, to find them, to fight them, and to destroy them. {APPLAUSE}
+
+I'm afraid that, as we get farther away from September 11th, 2001, there is a temptation to let up in the fight against terror. We're all grateful this nation has gone more than five years without another attack. Obviously, no one can guarantee that we won't be hit again. But getting through five years of wartime without an attack on the homeland took a lot more than luck.
+
+We've been protected by sensible policy decisions, by decisive action at home and abroad, and by round-the-clock efforts on the part of people in our armed services, in law enforcement, in intelligence, and homeland security.
+
+The enemy that struck on 9/11 is weakened and fractured, yet still lethal and still determined to hit us again. We've never had a fight like this -- and we have a lot more to do before it's finished. Either we are serious about fighting this war or we are not. And the enemies of America need to know: We are serious, and we will not let down our guard. {APPLAUSE}
+
+Ladies and gentlemen, everywhere I go in this country, I am struck by the depth of gratitude and admiration that the American people have for our military. In this challenging time for our country, we have learned the stories of so many Americans who have faced the enemy, and who have lost their lives or who suffered serious injury. With us today are Sergeant Brian Gray, Specialist Marcella Neiswonger, Specialist Kevin Spangler, Specialist Jeffery Enlow, Sergeant Gabrielle Rivera, Master Sergeant Darrell Utt, Chief Warrant Officer-2 Bill McKenna, and Captain Sarah Piro -- recipients of the Purple Heart, the Bronze Star, the Air Medal, and other military distinctions -- fellow citizens of ours who have paid the price for this nation's freedom. Soldiers, it's a high honor to be in your presence. You make all of us proud to be Americans. {APPLAUSE}
+
+Fort Carson is also a post where the families of the deployed soldiers are cared for by some great Family Support Groups. We want to thank their leaders -- Ruth Mixon, Holly Dailey, Adele Snook, Julie McRee and Reece Hinkle -- for their dedication and service.
+
+This nation loves our military because it represents the best values of a generous and idealistic country. When we look at the Armed Forces of the United States, here is what we see: An all-volunteer force, serving and sacrificing for this land. We see men and women who know what it's like to be deployed a long way from home, to work shifts of 14, 16, 18 hours a day or more, to carry heavy packs in the desert during the heat of the day, or to hike mountain passes in the cold of the night. And yet, regardless of the conditions, you keep your mind alert. You think quickly but carefully. You act decisively. And you win every engagement with this country's enemies. Soldiers of the United States Army: You are the best-prepared, best-educated, most highly trained fighting force the world has ever seen, and this nation is proud of each and every one of you. {APPLAUSE}
+
+More than that, ladies and gentlemen, the people of this country admire your character. You've taken an oath to serve. You live by a code of honor. And no words could fully express just how much you mean to this country. In a new generation we're seeing once again that the American soldier in battle places the mission first, never accepts defeat, never quits, and never leaves a fallen comrade. The spirit of the American soldier is to be honorable and just, and, even amid the cruelties of battle, to be decent and humane. By their courage, members of our military are taking the fight to the enemy, and they are winning the war on terror. {APPLAUSE}
+
+By defending ourselves, and by standing with our friends, the United States of America is meeting its responsibilities as freedom's home and defender. We're a nation founded on the ideals of liberty, equality, and justice. We uphold those ideals at home, and we defend those ideals when they are threatened. Standing here at the Mountain Post, I want to thank each and every one of you for the work you are doing. The war on terror is a test of our strength, a test of our capabilities, and above all a test of our character. I have never had more confidence in the nerve and the will of the American people and our military. We love our country only more when she is threatened. America's cause is right. America's cause is just. And with you in the fight, America's cause will prevail.
+
+Thank you very much. 
+
+{/speech}

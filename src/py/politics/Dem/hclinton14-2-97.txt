@@ -1,0 +1,42 @@
+﻿{title} Remarks by the First Lady to Students at Cleveland Elementary School {/title}
+{event} Cleveland Elementary School {/event}
+{speaker} Hillary Rodham Clinton {/speaker}
+{date} February 14, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Principal Mayer, and good morning to all of you. And thank you for inviting me to this historic school in this historic Shaw neighborhood. I am delighted to be joined by General Becton and by Mayor Barry. I've heard wonderful things about what this school is doing, and I am particularly pleased by what I've heard about the partnership between a law firm named Holland and Knight and the Cleveland Elementary School community. And I'm delighted that I've had a chance to come today to get a sense of that relationship firsthand.
+
+I also want to thank everyone at the school and at Holland and Knight, as well as the Washington Lawyers Committee, represented today by its head, Rod Boggs. And I also want to acknowledge and thank Reading is Fundamental, represented by its chairwoman, Lynda Robb, a friend of mine of many years standing, for making this partnership such a success. I'm also pleased that Myles Link the President of the D.C. Bar, could also join us today.
+
+As all of you know, the District of Columbia is a special place to live, to work, and to do business. Not only is it the capital city, it is a mecca for tourists, a meeting center for biotechnology and medical research, and a nerve center for international communications. It is a city whose greatest resource is its people and whose future lies with its children.
+
+Washington, D.C., is also a city full of lawyers, and I say that as a recovering lawyer. {LAUGHTER} Every sector of Washington, from the federal and local governments, to churches, to businesses, has a role in bringing greater prosperity and progress to the District of Columbia. And I believe that lawyers and law firms have a particular opportunity and, I would add, obligation.
+
+While much maligned these days, lawyers who are possessed of so many skills, expertise, and boundless energy can take a leadership role in this task of making Washington, D.C., the capital city it deserves to be. Washington law firms employ nearly 30,000 highly educated, disciplined, and hard-working individuals, and each of those employees can make a difference in our schools.
+
+For example, lawyers and staff from the firm of Holland and Knight have tutored students and spent afternoons reading with them. They have taken children on field trips, helped repair school facilities, and helped reclaim the historic Kennedy Park and playground from drug dealers. They have donated computers, supplies and clothing. They have helped parents with legal problems, and they have supported the studio school program which has provided so much of the artwork that decorates this building.
+
+Over the last 15 months, this law firm has spent 650 hours, which law firms keep track of -- {LAUGHTER} -- worth about $115,000, which law firms also keep track of, helping Cleveland Elementary School. In addition, attorneys have donated about 920 hours of pro bono legal work on behalf of nonprofit organizations in the Shaw neighborhood. And I want to thank all the members of Holland and Knight for their outstanding service and ask everyone associated with Holland and Knight just to stand so that we can thank you personally. {APPLAUSE}
+
+I want to mention a few of the people from the firm who have had important roles in making this partnership successful. Steve Hanlon, Ted Small, Hank Brothers and Melinda Burrows who we will meet in a few minutes. I also want to emphasize something that Principal Mayer said when she talked about the idea of the village, because we do think that working on improving a school, providing support for the teachers and the staff and the school is the first priority. But also, helping to improve conditions in the surrounding neighborhood is a very important supplementary task, and Holland and Knight has understood that. And the work that has been done with organizations in the neighborhood and providing support and assistance for them have made it possible for the entire neighborhood to feel the kind of stake in this school that so many of you have been associated with it for so long know is important.
+
+Holland and Knight is not the only law firm that has given generously of its time and resources; several other firms have also formed partnerships with the D.C. Public Schools, including Covington and Burling, Steptoe and Johnson, and the District of Columbia Office of Corporation Counsel. Now, each of these firms has also sent representatives to join us today and I would like to ask those from other law firms, including Covington and Burling and Steptoe and Johnson and the D.C. Office of Corporation Counsel who are working with other schools, please stand as well. {APPLAUSE}
+
+Not only do the volunteers reap the personal rewards of working with children, they are also helping develop individuals who can very well become future colleagues. By helping students to read, to think creatively and to stay in school and follow their own dreams, the volunteers are preparing these young people to meet the challenges of working in the 21st century. I understand that Covington and Burling, for example, hire students from high school every year for summer jobs. The partnership has also enabled volunteer lawyers to meet and develop friendships with some of Washington's most interesting and dynamic citizens -- people they might never have the opportunity of meeting at the office.
+
+So I would like today to challenge each and every single law firm in the District of Columbia to share its talents and resources with a school in this city. I challenge each managing partner to call the Washington Lawyers Committee and volunteer to adopt a school.
+
+And I thank General Becton for pledging his support for this effort. One of the hallmarks of General Becton's leadership over the last months has been his understanding that in order to fix our schools all of us must pitch in and make a contribution to support the hard-working principals and teachers who are on the front lines of caring for children who come from some very difficult circumstances.
+
+We know more about what works in schools today. There is a lot of research. There is a lot of personal experience out there. And we, frankly, need more adults to be involved in the lives of our children and to be there for them, reading to them, mentoring to them, helping them and their families solve problems that often seem overwhelming at first without some kind of help navigating through life.
+
+Education is the single most important tool our children will need to thrive in the coming century. And if this city and this country are to succeed, as the President has often said, we cannot afford to leave any child behind. And all of us who are members of the D.C. village can make a positive difference.
+
+So I thank this school. I thank particularly volunteers like Mr. Wood and others who have supported this school. And I thank all the new volunteers from Holland and Knight, and from every other law firm, who are willing to help our children. And I hope that I'll be able to travel around over the next months, highlighting the work that other volunteer groups are doing in every single school in this city.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,19 @@
+﻿{title} Remarks By The President at Re-opening Of Ford's Theatre {/title}
+{event} Re-opening Of Ford's Theatre {/event}
+{speaker} Barack Obama {/speaker}
+{date} February 11, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you so much. {APPLAUSE} Thank you. Please, everybody have a seat. I will be brief, though, I promise.
+What a spectacular evening. Michelle and I are so pleased to be here to rededicate this hallowed space. We know that Ford's Theatre will remain a place where Lincoln's legacy thrives, where his love of the humanities and belief in the power of education have a home, and where his generosity of spirit are reflected in all the work that takes place.
+This has been an extraordinarily fitting tribute to Abraham Lincoln that we've seen and heard from some of our most celebrated icons of stage and of screen, because Lincoln himself was a great admirer of the arts. It's said he could even quote portions of Hamlet and Macbeth by heart, as we've seen here this evening. And so I somehow think this event captured an essential part of the man whose life we celebrate tonight.
+As commemorations take place across this country on the bicentennial of our 16th President's birth, there will be reflections on all he was and all he did for this nation that he served. But while there are any number of moments that reveal the exceptional nature of this singular figure, there is one in particular that I want to share with you.
+Not far from here stands our nation's capitol, a landmark familiar to us all, but one that looked very different in Lincoln's time. For it remained unfinished until the end of the war. The laborers who built the dome came to work wondering whether each day would be their last; whether the metal they were using for its frame would be requisitioned for the war and melted down into bullets. But each day went by without any orders to halt construction -- so they kept on working and they kept on building.
+When President Lincoln was finally told of all the metal being used at the Capitol, his response was short and clear: That is as it should be. The American people needed to be reminded, he believed, that even in a time of war, the work would go on; that even when the nation itself was in doubt, the future was being secured; and that on that distant day when the guns fell silent, a national capitol would stand, with a statue of freedom at its peak, as a symbol of unity in the land still mending its divisions.
+It is this sense of unity that is so much a part of Lincoln's legacy. For despite all that divided us -- north and south, black and white -- he had an unyielding belief that we were, at heart, one nation, and one people. And because of Abraham Lincoln, and all who've carried on his work in the generations since, that is what we remain today. And it is for that reason that we are able to gather here this evening.
+Thank you, all of you, for a spectacular evening. Thank you for those who helped to rededicate this theatre. Thank you for those who are serving this nation. I'm very grateful to all of you. Good night. {APPLAUSE} 
+
+{/speech}

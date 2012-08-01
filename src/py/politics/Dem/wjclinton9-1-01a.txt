@@ -1,0 +1,37 @@
+﻿{title} Speech to Overflow Crowd {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 9, 2001 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Let me ask you a question. Did you hear what went on upstairs? {APPLAUSE} This is troubling -- half are saying yes, half are saying no. Let me say to all of you, I'll give you a brief version of what I said there. 
+
+First, I want to thank Chicago and the State of Illinois for being so good to me. {APPLAUSE} I thank Mayor Daley for his leadership and partnership and for making it possible to prove that our crime policies and our welfare policies and our economic policies would all work, because they worked here in Chicago. {APPLAUSE} 
+
+I thank Bobby Rush for helping me in '92. I thank Bobby and Dick Durbin and the entire crowd in your congressional delegation who have been so good to me. But Senator Durbin, I especially thank you for all the things you've done. Thank you. {APPLAUSE} 
+
+I thank Bill Daley for being a superb Secretary of Commerce and a brilliant campaign manager. {APPLAUSE} What I told them upstairs was, Bill Daley ran the first presidential campaign in history that was so clearly winning, a court had to stop the vote in order to change the outcome. {APPLAUSE} It was brilliant. 
+
+Now, I want to say two other things. Upstairs, I said that this hotel was very important in my life. I spoke to the Democratic chairs here in December of '91. I had my party here on St. Patrick's Day in 1992 when we won the primary. Were you there? Some of you were there. {APPLAUSE} And I still have a picture in my little office off the Oval Office of Hillary and me standing here in this lobby with the confetti coming down on St. Patrick's Day. I've had it there every single day for eight years to remind me that Chicago and Illinois made me President. {APPLAUSE} 
+
+I thank you for voting for us overwhelmingly in '92, in '96. I thank you for a fabulous convention in 1996 which was a joy. And I thank you for sticking with us in the year 2000 which you did. I thank you for that. {APPLAUSE} 
+
+I thought -- it was really important to me to come here before I leave office to say thank you. And I also want to bring you greetings from the new Senator from the State of New York. Hillary said to tell you hello. {APPLAUSE} And I told Senator Durbin that you should just sort of consider that Illinois also has two Democratic senators again. {APPLAUSE} 
+
+I am honored to have been President at a time when a lot of changes were going on in America and in the world, and as I look back, I am profoundly grateful that our country is so much stronger and more united and more successful and so much more future-oriented and self-confident today than it was eight years ago when we started. And you had a lot to do with that. {APPLAUSE} 
+
+I believe politics and public service is a team sport. And you can have a great quarterback, you can have a great captain, but if you don't have a team, you're going to lose every time. So you were my team, and we won for America together. 
+
+So when you think about the lowest unemployment rate in 30 years, or the lowest minority unemployment rate ever recorded, or 22.5 million new jobs, or 25 million people taking advantage of the Family Leave law, or 13 million more people getting college tax aid through the HOPE Scholarship tax credit -- {APPLAUSE} -- or over 3 million more kids with health insurance, or 90 percent of our little kids with immunization against serious diseases for the first time, or more land set aside for protection for all time than any time in 100 years -- when you say all those things -- {APPLAUSE} -- that wasn't just me, it wasn't just us with the Democrats and the Congress, it was you, too. We did it together. We were a team, and I thank you for that. {APPLAUSE} 
+
+The last thing I want to say is this. I want you to keep fighting for the future. And I'll be there with you. I'll just be a citizen, but I can serve well. I've still got a voice, I've still got a heart, and I've got a mind to spend the rest of my life trying to pay America back for all the good things the American people gave me these last 25 years. {APPLAUSE} 
+
+So don't get discouraged, don't be frustrated by what happened in November. But don't be passive. Just take a breath and keep looking forward, and keep doing what will come naturally -- to fight for the things we believe in, to build the future we want for all of our children together. 
+
+I can honestly tell you that 11 days at high noon, when I walk out of the White House for the last time as President, I will leave more optimistic and more idealistic about the people of this country and their potential, and especially about the young people of this country, than I was the day I took the oath of office in 1993. I love you. Thank you. God bless you. Good-bye. {APPLAUSE} 
+
+{/speech} 

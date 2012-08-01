@@ -1,0 +1,103 @@
+﻿{title} Remarks by the President at Massachusetts Institute of Technology 1998 Commencement {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 5, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you, Dr. Vest. I think you're the real thing. {LAUGHTER} Chairman d'Arbeloff, Dr. Gray, members of the Corporation, the faculty, especially to the members of the Class of 1998 and your families, the Class of 1948 and 1973, Mayor Duahay, members of the City Council. I thank the Brass Ensemble for the wonderful music before. 
+
+Let me say I am profoundly honored to be here on the same platform with Dr. David Ho, and grateful for the work he has done for humanity. {APPLAUSE} 
+
+When we met a few moments ago, in President Vest's office, with a number of the students and other officials of the university, I said you had a good representation of speakers today -- the scientists and the scientifically challenged. {LAUGHTER} 
+
+But my administration has been able to carry on in no small measure because of contributions from MIT. Sixteen MIT alumni and faculty members have served in important positions in this administration, including at least two who are here today -- the former Secretary of the Air Force, Sheila Widnoll, and the Deputy Secretary of Energy Ernie Monic. Four of your faculty members and your President have done important work for us. I thank them all. 
+
+And I come here today with good news and bad news for the graduates. The good news is that this morning we had our latest economic report: unemployment is 4.3 percent; there have been 16 million new jobs in the last five years; there are numerous job openings that pay well. The bad news is that you now have no excuse to your parents if you don't go to work. {LAUGHTER} 
+
+MIT is admired around the world as a crucible of creative thought, a force for progress, a place where dreams of generations become reality. The remarkable discoveries and inventions of the MIT community have transformed America. Early in your history, MIT was known for advances in geology and mining. By mid-century, MIT pioneered X rays and radar. Today, it's atomic lasers, artificial intelligence, biotechnology. MIT has done much to make this the American century. And MIT will do more to make America and the world a better place in the 21st century, as we continue our astonishing journey through the information revolution -- a revolution that began not as our own did here in Massachusetts, with a single shot heard around the world, but instead was sparked by many catalysts -- in labs and libraries, start-ups and blue chips, homes and even dorm rooms across America and around the world. 
+
+I come today not to talk about the new marvels of science and engineering. You know far more about them than I do. Instead I come to MIT, an epicenter of the seismic shifts in our economy and society, to talk about how we can and must apply enduring American values to this revolutionary time; about the responsibilities we all have as citizens to include every American in the promise of this new age. 
+
+From the start, our nation's greatest mission has been the fulfillment of our founders' vision -- opportunity for all, best secured by free people, working together toward better tomorrows and what they called "a more perfect union." 
+
+Americans believe the spark of possibility burns deep within every child, that ordinary people can do extraordinary things. Our history can be understood as a constant striving on foreign fields and factory floors, in town halls and the corridors of Congress, to widen that circle of opportunity, to deepen the meaning of our freedom, to perfect our union to make real the promise of America. Every previous generation has been called upon to meet this challenge. And as we approach a new century and a new millennium, your generation must answer the call. 
+
+You enter the world of your tomorrows at a remarkable moment for America. Our country has the lowest crime rates in 25 years, the smallest welfare rolls in 27 years, the lowest unemployment in 28 years, the lowest inflation in 32 years, the smallest national government in 35 years, and the highest rate of home ownership in our history. Such a remarkable time, a period of renewal, comes along all too rarely in life, as you will see. It gives us both the opportunity and the profound responsibility to address the larger, longer-term challenges to your future. 
+
+This spring I am speaking to graduates around the country about three of those challenges. Last month I went to the Naval Academy to talk about the new security challenges of the 21st century -- terrorism, organized crime and drug trafficking, global climate change, the spread of weapons of mass destruction. Next week at Portland State in Oregon I will discuss how our nation's third great wave of immigration can either strengthen and unite America or weaken and divide it. And I thank Dr. Ho for what he said about immigration and our immigrants. 
+
+Today, I ask you to focus on the challenges of the Information Age. The dimensions of the Information Revolution and its limitless possibilities are widely accepted and generally understood, even by lay people. But to make the most of it we must also acknowledge that there are challenges, and we must make important choices. We can extend opportunity to all Americans or leave many behind. We can erase lines of inequity or etch them indelibly. We can accelerate the most powerful engine of growth and prosperity the world has ever known, or allow the engine to stall. 
+
+History has taught us that choices cannot be deferred; they are made by action or inaction. There is no such thing as virtual opportunity. We cannot point and click our way to a better future. If we are to fulfill the complete promise of this new age, we must do more. 
+
+Already the Information Age is transforming the way we work. The high-tech industry employs more people today than the auto industry did at its height in the 1950s. Auto and steel industries in turn have been revived by new technologies. Among those making the most use of technology R&amp;D are traditional American enterprises such as construction, transportation, and retail stores. 
+
+It's transforming the way we live. The typical American home now has much more -- as much computing power as all of MIT did in the year most of the seniors here were born. It is transforming the way we communicate. On any business day, more than 30 times as many messages are delivered by e-mail as by the postal service. And today, this ceremony is being carried live on the Internet so that people all over the world can join in. 
+
+It is transforming the way we learn. With the DVD technology available today, we can store more reference material in a 3-inch stack of disks than in all the stacks of Hayden Library. It is transforming the way our society works, giving millions of Americans the opportunity to join in the enterprise of building our nation as they fulfill their dreams. 
+
+The tools we develop today are bringing down barriers of race and gender, of income and age. The disabled are opening long closed doors of school, work, and human possibility. Small businesses are competing in worldwide markets once reserved only for powerful corporations. Before too long, our children will be able to stretch a hand across a keyboard and reach every book ever written, every painting every painted, every symphony ever controlled. 
+
+For the very first time in our history, it is now possible for a child in the most isolated inner-city neighborhood or rural community to have access to the same world of knowledge at the same instant as the child in the most affluent suburb. Imagine the revolutionary democratizing potential this can bring. Imagine the enormous benefits to our economy, our society, if not just a fraction, but all young people can master this set of 21st century skills. 
+
+Just a few miles of here is the working class community of East Sommerville. It has sometimes struggled to meet the needs of population that is growing more diverse by the day. But at East Sommerville Community School, well-trained technology teachers with equipment and support from Time Warner Cable have begun to give 1st to 8th-graders an early and enormous boost in life. First graders are producing small books on computers. Sixth graders are producing documentaries. The technology has so motivated them that almost all the 6th graders showed up at school to work on their computer projects over winter break. 
+
+That small miracle can be replicated in every school, rich and poor, across America. Yet, today, affluent schools are almost three times as likely to have Internet access in the classroom; white students more than twice as likely as black students to have computers in their homes. 
+
+We know from hard experience that unequal education hardens into unequal prospects. We know the Information Age will accelerate this trend. The three fastest growing careers in America are all in computer related fields, offering far more than average pay. Happily, the digital divide has begun to narrow, but it will not disappear of its own accord. History teaches us that even as new technologies create growth and new opportunity, they can heighten economic inequalities and sharpen social divisions. That is, after all, exactly what happened with the mechanization of agriculture and in the Industrial Revolution. 
+
+As we move into the Information Age we have it within our power to avoid these developments. We can reap the growth that comes from revolutionary technologies and use them to eliminate, not to widen, the disparities that exist. But until every child has a computer in the classroom and a teacher well-trained to help, until every student has the skills to tap the enormous resources of the Internet, until every high-tech company can find skilled workers to fill its high-wage jobs, America will miss the full promise of the Information Age. 
+
+We cannot allow this age of opportunity to be remembered also for the opportunities that were missed. Every day, we wake up and know that we have a challenge; now we must decide how to meet it. Let me suggest three things. 
+
+First, we must help you to ensure that America continues to lead the revolution in science and technology. Growth is a prerequisite for opportunity, and scientific research is a basic prerequisite for growth. Just yesterday in Japan, physicists announced a discovery that tiny neutrinos have mass. Now, that may not mean much to most Americans, but it may change our most fundamental theories -- from the nature of the smallest subatomic particles to how the universe itself works, and indeed how it expands. 
+
+This discovery was made, in Japan, yes, but it had the support of the investment of the U.S. Department of Energy. This discovery calls into question the decision made in Washington a couple of years ago to disband the super-conducting supercollider, and it reaffirms the importance of the work now being done at the Fermi National Acceleration Facility in Illinois. 
+
+The larger issue is that these kinds of findings have implications that are not limited to the laboratory. They affect the whole of society -- not only our economy, but our very view of life, our understanding of our relations with others, and our place in time. 
+
+In just the past four years, information technology has been responsible for more than a third of our economic expansion. Without government-funded research, computers, the Internet, communications satellites wouldn't have gotten started. When I became President, the Internet was the province of physicists, funded by a government research project. There were only 50 sites in the world. Now, as all of you know, we are adding pages to the Worldwide Web at the rate of over 100,000 an hour, and 100 million new users will come on this year. It all started with research, and we must do more. 
+
+In the budget I submit to Congress for the year 2000 I will call for significant increases in computing and communications research. I have directed Dr. Neal Lane, my new Advisor for Science and Technology, to work with our nation's research community to prepare a detailed plan for my review. 
+
+Over the past 50 years our commitment to science has strengthen this country in countless ways. Scientific research has created vast new industries, millions of jobs, allowed America to produce the world's most bountiful food supplies and remarkable tools for fighting disease. Think of what today's investments will yield. Dr. Ho will unravel the agonizing riddles of AIDS. There will be a cure for cancer; a flourishing economy that will produce much less pollution and move back from the brink of potentially devastating global warming. High-speed wireless networks that bring distance learning, tele-medicine and economic opportunity to every rural community in America. 
+
+That is why, even as we balanced our budget for the first time in 29 years, we have increased our investments in science. This year I asked Congress for the largest increase in research funding in history -- not just for a year, but sustained over five years. It is a core commitment that must be part of how every American, regardless of political party or personal endeavor, thinks about our nation and its mission. {APPLAUSE} Thank you -- those are the people who received the research grants over there. {LAUGHTER} 
+
+I want you to know that we are also working to address the threat to our prosperity posed by the Year 2000 Bug. I tried and tried to find out what the class hack project was for the Class of '98 and I failed. But I did learn that in the year 2000, the graduating class is proposing to roll all of our computers back by 100 years. And I am determined to thwart you. I will do my best. {LAUGHTER} 
+
+The second thing we have to do is to make sure that the opportunities of the Information Age belong to all our children. Every young American must have access to these technologies. Two years ago in my State of the Union address, I challenged our nation to connect every classroom to the Internet by the year 2000. Thanks to unprecedented cooperation at national, state, and local levels, an outpouring of support from active citizens, and the decreasing costs of computers, we're on track to meet this goal. 
+
+Four years ago when you came to MIT, barely three percent of America's classrooms were connected. By this time next year, we will have connected well over half our classrooms including 100 percent of the classrooms in the nation's 50 largest urban school districts. {APPLAUSE} 
+
+But it is not enough to connect the classrooms. The services have to be accessed. You may have heard recently about something called the e-rate. It's the most crucial initiative we've launched to help connect our schools, our libraries, and our rural health centers to the Internet. Now some businesses have called on Congress to repeal the initiative. They say our nation cannot afford to provide discounts to these institutions of learning and health by raising a billion dollars or so a year from service charges on telecommunications companies -- something that was agreed to in the Telecommunications Act of 1996 that passed with overwhelming bipartisan majorities in both Houses. 
+
+I say we cannot afford not to have an e-rate. Thousands of poor schools and libraries and rural health centers are in desperate need of discounts. If we really believed that we all belong in the Information Age, then, at this sunlit moment of prosperity, we can't leave anyone behind in the dark. 
+
+Every one of you who understands this I urge to support the e-rate. Every one of you here who came from a poor inner-city neighborhood, who came from a small rural school district, who came perhaps from another country where this was just a distant dream, you know that there are poor children now who may never have a chance to go to MIT unless someone reaches out and gives them this kind of opportunity. Every child in America deserves the chance to participate in the information revolution. {APPLAUSE} 
+
+The third thing we have to do is to make sure that all the computers and the connections in the world don't go to waste because our children actually have 21st century skills. For five years now I've done my best to make education our number one domestic priority, creating HOPE Scholarships, expanding Pell Grants, to make the 13th and 14th years of education as universal as the first 12 are today. We've passed tax credits, reformed the student loan program, expanded work-study, created AmeriCorps to open the doors of college to every young person who is willing to work for it. 
+
+We're working to make our public schools the best in the world, with smaller classes, better facilities, more master teachers and charter schools, higher standards, and end to social promotion. But the new economy also demands that our nation commit to technology literacy for every child. We shouldn't let a child graduate from middle school anymore without knowing how to use new technologies to learn. 
+
+Already, 10 states with an eye to the future have made technology literacy a requirement of graduation from high school. I believe we should meet this goal in the middle school years. I believe every child in every state should leave middle school able to use the most current tools for learning, research, communication, and collaboration. And we will help every state to meet this goal. 
+
+If a state commits to adopt a technology literacy requirement, then we will help to provide the training that the teachers need. I propose to create a team of trained technology experts for every American middle school in every one of these states, and to create competitions over the next three years to encourage the development of high-quality educational software and educational web sites by students and professors in commercial software companies. 
+
+All students should feel as comfortable with a keyboard as a chalkboard; as comfortable with a laptop as a textbook. It is critical to ensuring that they all have opportunity in the world of the 21st century. 
+
+Today I pledge the resources and unrelenting efforts of our nation to renew our enduring values in the Information Age. But the challenges that we face cannot be met by government alone. We can only fulfill the promise of this revolution if we work together in the same way it was launched together, with creativity, resolve, a restless spirit of innovation. 
+
+While this mission requires the efforts of every citizen, those who fuel and enjoy the unparalleled prosperity of this moment have special responsibilities. The thriving new companies that line Route 128 in Silicon Valley -- I challenge them to use their power to empower others, to invest in a school, embrace a community in need, endow an eager young mind with opportunity; not to rest until every one of our children is technology literate. Many of you are doing such work already and many of them are; but America needs all such companies to participate. 
+
+And, finally, to the graduates of the class of 1998, I, too, offer my congratulations and, as your President, my gratitude for your commitment, for challenges conquered, for projects completed, for goals reached and even surpassed. You, your parents and your friends should be very proud today, and very hopeful, for all the possibilities of this new age are open to you. You are at the peak of your powers and the world will rightly reward you for the work you do. 
+
+But to make the very most of your life and the opportunities you have been given, you, too, must rise to your responsibility to give something back to America of what you have been given. As the years pass your generation will be judged and you will begin to judge yourselves not only on what you do for yourself and your family, but on the contributions you make to others -- to your country, your communities, your generation of children. When you turn your good fortune into a chance for others, you then will not only be leaders in science and industry, you will become the leaders of America. Twenty-first century America belongs to you -- take good care of it. 
+
+Thank you and God bless you. {APPLAUSE} 
+
+{/speech} 

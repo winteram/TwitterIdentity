@@ -1,0 +1,39 @@
+﻿{title} Speech by President at DC Central Kitchen {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 21, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Good afternoon. I'm delighted to be here, delighted to see all of you. I want to thank Robert Egger and everybody here at the D.C. Central Kitchen for the magnificent job they do. Thank you, Harris Wofford, and all the wonderful AmeriCorps volunteers. Thank you, Secretary Glickman. Thank you, Tony Hall, for a lifetime of commitment to the cause embodied by this endeavor here. 
+
+I would like to thank Jill Muller, who worked with us -- the young AmeriCorps volunteer. I'd like to thank Donna Simmons, the trainee who worked with us, who is very happy about the work she's doing. She has six children at home getting ready to celebrate Christmas. And this Christmas and the Christmases in the future I think will be brighter because of the work that has been done here. 
+
+I want to thank Susan Calahan for not only training Donna, but for training Hillary and me to mass-produce lasagna today. {LAUGHTER} We got -- I think Jill said we got a reasonably good evaluation. We finished our task, we made enough lasagna for 500 people to eat in a timely and, I hope, edible fashion. But we enjoyed it very, very much. 
+
+There is another person who is not here I'd like to acknowledge who has been a great supporter of these causes, and that's Congresswoman Eleanor Holmes Norton. She is elsewhere in the city today, hosting an event for needy children. 
+
+I would like the members of the press and, through them, the public who are not here to know that since this remarkable organization began on January 20, 1989, D.C. Central Kitchen has taken 3.5 million pounds of surplus donated food, turned them into 5.5 million meals for men in homeless shelters, women in battered women's shelters, children in after-school and child care programs. In the process, D.C. Central Kitchen has provided job skills and opportunities in training for a couple hundred Americans who needed it, with a very, very high percentage of people getting jobs and keeping them after six months. 
+
+You have found here an incredible -- I think, an incredible social recipe to combine things that others may be working on, but have never been quite put together in this same way. Every day, as much as we hate to admit it, there are people in America who get up hungry and who go to bed hungry. Yet, every day, 25 percent of our food supply -- 25 percent -- is wasted, from slightly bruised fruit at wholesale markets to unsold trays of lasagna at restaurants. While the food is going to waste, so are the abilities of millions of Americans who want to work but can't because they don't have skills for which there is a demand in today's economy. 
+
+The number of food service jobs in our country is large and growing. Food service wages are rising at twice the rate of inflation today. Therefore, the secret recipe is to take the wasted food and the wasted capacity, train people, put the food there and solve the problem. It is a remarkable achievement. And as has already been said, the private sector has made major contributions to this endeavor. 
+
+I'd like to just acknowledge, if I might, the fact that -- and this is something that I think is maybe most important of all -- D.C. Central Kitchen has become a real model for others. And now there are similar efforts in 11 cities, from Chicago to Louisville, with 14 more slated to start by this time next year. So I think that is the ultimate test of your success, when people copy you. That is the sincerest form of flattery, I think, and I know you're proud of that. 
+
+In 1996, I signed the Bill Emerson Good Samaritan Food Donation Act to try to have government do more to help. It gives limited liability protection to companies that donate food and people like those who work here to process and redistribute the food. Secretary Glickman had a lot to do with the passage of that law and I thank him. I'd also like to thank the Departments of Housing and Urban Development, and Labor, for providing food, training and other resources. I know the Labor Department supports the training program here. So the government can be a good partner. 
+
+And, finally, as a matter of personal pride, I want to say again I thank the AmeriCorps members. When we started AmeriCorps I thought it would catch on. But, to be frank, there's been even more interest in it and more commitment from more different kinds of people to serve their country in more different ways than even I could have imagined. And I thank all of you for being the best of America at this Christmas season. God bless you and thank you very much. {APPLAUSE} 
+
+Now, Hillary alluded to this, but I think I can't leave the microphone without saying that in 1993, in January, D.C. Central Kitchen baked 28,000 saxophone-shaped, butter almond cookies for my first Inaugural. {LAUGHTER} And it's about time I came here to pay them back -- and also cakes for the second Inaugural. I'm grateful for that. 
+
+I hope that everyone who sees the report on the news of all of our being here today will be inspired to follow suit at this Christmas season. The most important gifts we give are those that we give to those who need it the most; who may never know our names or remember our faces, but who receive the gifts in the genuine spirit of the season. 
+
+And to all of you, those of you who are trainees, those of you who are volunteers, those of you who are AmeriCorps workers -- all of you -- I thank you. And most of all, Mr. Egger, I thank you and the people here at D.C. Central Kitchen. And I hope that as the news of this event beams across the country tonight, in the remaining days before Christmas and then in all the days of the new year, more people will want to make the kind of contribution to our common humanity that you have. 
+
+Thank you very much. {APPLAUSE} 
+
+{/speech} 

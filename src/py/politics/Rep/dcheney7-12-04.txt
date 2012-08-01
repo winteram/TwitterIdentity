@@ -1,0 +1,54 @@
+﻿{title} Vice President's Remarks at a Breakfast with U.S. Troops {/title}
+{event} Bagram Airfield, Kabul, Afghanistan {/event}
+{speaker} Dick Cheney {/speaker}
+{date} December 7, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, thank you very much. Please be seated. And, General Barno, I want thank you for the introduction this morning, and Brigadier General Jacoby, thank you all for your hospitality. It's an honor to be here, and we appreciate the warm welcome. We bring greetings from home -? and good wishes from your Commander-in-Chief, President George W. Bush.
+
+I am pleased, as well, to introduce Lynne. The General already mentioned her. And our delegation is here, as well, in order to witness the inauguration of President Karzai. The fall election in Afghanistan was a great and a historic moment for the people of the country. Come to think of it, we just had a big election back in America, and that turned out pretty well, too. {LAUGHTER ; APPLAUSE} That's not a partisan comment. {LAUGHTER}
+
+Lynne and I have been looking forward to our visit to Afghanistan. It's a chance to remind the people of Afghanistan that America stands with them in the work of setting up the world's newest democracy. This journey is also a chance to show our gratitude to each and every one of you ?- and to all the Americans and the coalition forces out in the field at this very hour. You're doing a tremendous job, and America is proud of you.
+
+Witnessing the swearing-in of an elected Afghan President, some might find it easy to overlook the true magnitude of the event ?- and all that our coalition did to make it possible. We're standing in the country that just held the first free elections in its 5,000-year history. Just eight months ago, the United Nations hoped that six and a half million Afghans would register to vote. The number turned out to be more than 10 million; and on election day, they showed up at some 22,000 polling stations across the country. Near one location a coalition officer told of seeing a line of people two miles long, all walking down a road on their way to the polls. He spoke of old people walking and being ferried in goat carts, amputees on crutches, droves of people moving towards the polling booths, and then, late in the evening, aged adults running to beat the deadline to get in line in order to vote.
+
+In scenes like that across Afghanistan, we see the real meaning behind these elections. For the first time, the people of this country are looking confident about a future of freedom and peace. Across the broader Middle East, people look to Afghanistan and see something new and hopeful in the world's most troubled region. And a watching world has seen, once again, that the United States military is one of the greatest forces for good on this Earth.
+
+It is my privilege to congratulate all of those of you today who will be reenlisting. You've accepted a big job, and a deployment some 7,000 miles from home is never easy on you or on your families. You're giving some of the best years of your lives to the service, to the country ?- at the very time we need you the most. Your work is part of a worldwide campaign against terror. The task is immense, it is urgent, and it is vital to our country's freedom and security. Your children, and my grandchildren, will live in freedom tomorrow because of what you are doing today.
+
+We have needed you to wage a new kind of war in a new and dangerous era. I was at the White House on the morning of September 11th, 2001 and that day changed everything for our country. In the space of a few hours, we saw the violence and the grief that terrorism can inflict. We saw an enemy whose hatred of us is limitless. What this enemy wants is to impose their way of life on the rest of us, and to do so they are prepared to slaughter anyone who stands in their way. This is not an enemy we can reason with or negotiate with or appease. This is -? to put it simply -? an enemy that we must destroy.
+
+To win this war, America is applying a doctrine that is understood by all: Every person, group, or regime that harbors or supports terror is equally guilty of terrorist crimes, and will be held to account. Here in Afghanistan, the Taliban found out what we meant. Within weeks of 9/11, American forces were on the ground here, teaming up with Afghan freedom fighters to destroy the camps where terrorists trained to kill Americans and to take down the Taliban regime. Even though it's been just over three years since the battle, some have forgotten the difficulties involved in the Afghan campaign. As one newspaper columnist noted, Afghanistan was the graveyard of empires. Rugged, mountainous, impenetrable, recalcitrant and peopled by an enemy hardened and fanatical, it was considered unconquerable.
+
+But then the United States military arrived. With swift, precise action, we and our allies captured or killed hundreds of al Qaeda and liberated the 25 million people of Afghanistan. {APPLAUSE}
+
+The record of the last several years -? the swift action, the flexibility and skill of our units, the performance of duty in the toughest of circumstances ?- constitutes another great chapter in the history of our military, and of our nation. Because our nation has been strong and resolute in the cause of freedom, Afghanistan will never go back to the camp of tyranny and terror. And America will never go back to the false comforts of the world before 9/11. Terrorist attacks are not caused by the use of strength. They are invited by the perception of weakness. And this nation has made a decision: We will engage the enemies ?- facing them with our military far from home, so we do not have to face them on the streets of our own cities.
+
+America's willingness to lead the fight against terror has come at a cost. We have lost some of the finest people in our military, whose names we will honor forever. Recently, we experienced the great loss of Lieutenant Colonel Mike McMahon and the cavalrymen of the 34th Calvary. By their sacrifice, and by your continuing mission, we will one day overcome the threat of global terror. To fully and finally defeat that threat, we are encouraging hope and democracy in the broader Middle East, as an alternative to the hatred and the despair that leads to violence. As Americans, we believe that everyone has a right to live in freedom. As Americans, we know that when men and women are given the rights and opportunity of a free society, they will turn their energies toward the pursuit of peace. And our actions here in Afghanistan have brought that day closer. A dictatorship that had harbored the most vicious terror network in history is now history. Today this country is a rising democracy, and an ally in the war on terror, and the American people are safer for it.
+
+I'd also like to recognize our coalition partners who continue to serve in Afghanistan. Engineers from Korea recently improved the Bagram flight lines and observation posts. Troops from Australia are busy clearing the minefields that remain. Infantrymen from Romania help guard the streets here at Kandahar. And Provincial Reconstruction Team members from New Zealand, the United Kingdom and Germany are collaborating with Task Force Coyote pioneers from Poland and Slovakia to rebuild schools, reconstruct bridges, and provide other essential help to people in rural areas.
+
+Our coalition still has important work to do. Freedom still has enemies here in Afghanistan -? and you are here to make those enemies miserable. {APPLAUSE}
+
+I want to thank all the units in Task Force 76 for everything you do. The 25th Infantry secured the polling sites in the Oruzgan province after receiving insurgent fire. They also made sure that the Afghan Police Force is trained and equipped.
+
+The 455th Expeditionary Fighter Squadron, with their A-10 Thunderbolts, continues to provide their unique overhead roar to deter the enemy. And if that's not enough, they provide close air support and cover fire to ground troops.
+
+The active, Reserve, and National Guard teams are working closer than ever during escort convoys, troop defense, and Afghan presidential escort.
+
+The Delta-5 external security patrols conduct 24/7 protection of Bagram personnel and the Army, Navy, and Marine fixed-wing aircraft.
+
+The 416th and 109th Engineering Group and Task Force Coyote have completed more than 725 projects, ranging from Forward Operating Base construction; laying down 70,000 cubic meters of concrete on the Bagram and Kandahar runways; to clearing 900,000 square miles of minefields with an assurance rate of 99.6 percent.
+
+I also want to recognize the kind and decent way you have treated the people of Afghanistan. You've shown a willingness to go "outside the wire" -- reaching out to Afghan men, women, and children and helping them improve the quality of their lives. The daily good works of our military aren't always talked about in the news media. But you are once again showing the true, honorable character of the United States military.
+
+I want every one of you to know that in the work ahead, President Bush is going to back you 100 percent. Our job is to provide you with everything you need to do your mission, and to support military families at home. And we'll keep that commitment to all of you.
+
+Again, I want to thank all of you for your service, and for the honor of being here. Especially during the holidays, you need to know how much you're appreciated. You are constantly in the thoughts and prayers of your fellow citizens. We admire your sense of duty. We deeply respect your determination to take the fight to the enemy and to look out for your comrades. Your Commander-in-Chief is proud of you, and you have the gratitude of the United States of America.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

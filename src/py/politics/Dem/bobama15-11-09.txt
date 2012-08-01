@@ -1,0 +1,20 @@
+﻿{title} Remarks by President Obama and President Yudhoyono of Indonesia After Bilateral Meeting {/title}
+{event} Bilateral Meeting {/event}
+{speaker} Barack Obama {/speaker}
+{date} November 15, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. I just wanted to make a brief statement about the wonderful relationship that I've been able to develop with President Yudhoyono. As many of you know, I have some historic ties to Indonesia, but I am also extraordinarily impressed with the progress that Indonesia has made in developing its democracy. I want to congratulate the President for his recent re-election, and he now has his government in place.
+
+Indonesia is not only regionally important, but as a member of the G20, as one of the world's largest democracies, as one of the world's largest Islamic nations, it has enormous influence and really is, I think, a potential model for the kind of development strategies, democracy strategies, as well as interfaith strategies that are going to be so important moving forward.
+
+We had a strong discussion about a range of issues and how we can create even better bilateral relations than we already have -- a comprehensive agreement, comprehensive partnership agreement that we're developing that will cover things like education, working on clean energy issues, expanding the Peace Corps' presence in Indonesia, counterterrorism issues. These are all areas in which we intend to focus in the months and years to come.
+
+We discussed some of the broader challenges of getting a meaningful Copenhagen agreement and continuing to stabilize the world economy and promoting growth, both through trade and investment and also through what has been discussed throughout the ASEAN summit, the idea of inclusive development and growth where it's not just at the top but is spread out among the population.
+
+So I am very excited about our prospects for deepening relations in the future, and I want to make sure that everybody knows that I intend to be visiting Indonesia next year. The invitation that's been extended to -- by President Yudhoyono is one that I want to take up, and I'm hoping to be able to take Michelle and the girls as well so that they can take a look at some of my old haunting grounds. {LAUGHTER} And again, I want to thank you, Mr. President, for your leadership and your commitment to improving ties between the United States and Indonesia. Thank you very much. 
+
+{/speech}

@@ -1,0 +1,40 @@
+﻿{title} President Delivers Remarks at Annual National Prayer Breakfast {/title}
+{event} Washington Hilton Hotel, Washington, D.C. {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 3, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all very much. {APPLAUSE} Thank you for the warm welcome. You know, last night was a prayerful occasion. {LAUGHTER} I noticed a lot of members were praying that I would keep my speech short. {LAUGHTER} I want to thank you for getting up so early in the morning. You resisted temptation to sleep in. Thanks for having us.
+
+I appreciate Jo Ann Emerson's leadership on this prayer breakfast. {APPLAUSE} I want to thank Elaine Chao for her prayer and for representing my Cabinet. And I want to thank all my Cabinet officers who are here today. {APPLAUSE} I appreciate the leadership of the Congress, Senator Frist and Leader Pelosi, Leader DeLay. I want to thank the senators who spoke, and appreciate the Congresspeople who are on the stage here, as well.
+
+I want to thank His Excellency Marc Ravalomanana, from the -- Madagascar, the President of that great country. And welcome to our country, Mr. President. {APPLAUSE} Tambien, mi amigo, the President of Honduras, Ricardo Maduro -- welcome, glad you're here. {APPLAUSE}
+
+I want to thank Wintley Phipps for his beautiful music. {APPLAUSE} Sergeant Norman, your prayers worked. {LAUGHTER} You did a fantastic job. Pretty darn eloquent for a person from Wyoming. {LAUGHTER} Don't tell the Vice President. {LAUGHTER}
+
+Tony Hall, as you can tell, I obviously made the right choice to send somebody -- {APPLAUSE} Really good job. And, Janet, thank you for your service, as well.
+
+Laura and I are really honored to be here to -- it's a fabulous moment in our Nation's Capital. This morning reminds us that prayer has always been one of the great equalizers in American life. Here we thank God for his great blessings in one voice, regardless of our backgrounds. We recognize in one another the spark of the Divine that gives all human beings their inherent dignity and worth, regardless of religion.
+
+Through fellowship and prayer, we acknowledge that all power is temporary, and must ultimately answer to His purposes. And we know that affirming this truth is particularly appropriate in the heart of a capital built upon the promise of self-government. No one understood this better than Abraham Lincoln.
+
+In November 1864, after being reelected to his second term, Lincoln declared he would be the most "shallow and self-conceited blockhead" on Earth if he ever thought he could do his job "without the wisdom which comes from God and not from men." Throughout a terrible Civil War, he issued many exhortations to prayer, calling upon the American people to humble themselves before their Maker and to serve all those in need.
+
+Our faith-based institutions display that same spirit of prayer and service in their work every day. Lincoln's call is still heard throughout the land. People of faith have no corner on compassion. But people of faith need compassion if they are to be true to their most cherished beliefs. For prayer means more than presenting God with our plans and desires; prayer also means opening ourselves to God's priorities, especially by hearing the cry of the poor and the less fortunate.
+
+When the tsunamis hit those on the far side of the world, the American government rightly responded. But the American response is so much more than what our government agencies did. Look at the list of organizations bringing relief to the people from Indonesia to Sri Lanka. They're full of religious names: Samaritan's Purse, American-Jewish World Service, Baptist World Aid, The Catholic Medical Mission Board. They do a superb job delivering relief across the borders and continents and cultures.
+
+Today, millions of people across this Earth get the help they need only because our faith-based institutions live the commandment to "love thy neighbor as thyself." Often, that means remembering the people forgotten or overlooked in a busy world: those in Africa suffering from HIV/AIDS, young girls caught up in the global sex trade, victims of religious persecution.
+
+In these great moral challenges of our times, our churches, synagogues, mosques, and temples are providing the vision that is changing lives. I've seen some of their miracles up close. Last June, I met Veronica Braewell, a 20-year-old refugee from Liberia. As a 13-year-old child, Veronica witnessed armed men killing children in horrific ways. As she fled this madness, Veronica left -- was left for dead atop a pile of bodies, until her grandmother found her. In August 2003, Catholic Social Agency helped resettle her in Pennsylvania, where Veronica is now completing the circle of compassion by working in a home for elderly in Bethlehem, Pennsylvania, and studying to become a certified nursing assistant.
+
+When Veronica told me of her story, it was through the kind of tears no young woman should ever know. And when she finished, she dried her eyes and said, "Thank you, Mr. President, for my freedom." But I told her, it wasn't me she needed to thank, she needed to thank the good hearts of the United States of America. The America that embraced Veronica would not be possible without the prayer that drives and leads and sustains our armies of compassion.
+
+I thank you for the fine tradition you continue here today, and hope that as a nation, we will never be too proud to commend our cares to Providence and trust in the goodness of His plans.
+
+God bless. {APPLAUSE} 
+
+{/speech}

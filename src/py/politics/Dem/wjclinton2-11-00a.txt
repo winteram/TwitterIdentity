@@ -1,0 +1,97 @@
+﻿{title} Remarks by the President to the People of Los Angeles at GOTV Rally {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 2, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Whoa. Are you ready to win this election? {APPLAUSE} I want to thank all of you for coming out, for your enthusiasm and your support. I want to thank my good friend, Kenny Edmonds. He writes a good song and he makes a good introduction, I think. {LAUGHTER} 
+
+Thank you, Governor Gray Davis, for your leadership and your friendship. Thank you Lieutenant Governor Cruz Bustamante. Thank you, Art Torres. Thank you, Representative Hilda Solis. And to the other officials who are here, Jenenthea Hayes, Assemblyman Herb Wesson, Senator Kevin Murray, Councilman Mark Ridley Thomas; and Art Pulaski, of the Federation of Labor. And I'd also like to thank your speaker, Bob Hertzberg, and the folks that performed and sang before me here. Thank you Holly Robinson Pete; thank you, Wycliff Jean. {APPLAUSE} And my good friend, Camryn Manheim, not on stage, but interpreting me. Isn't she great? {APPLAUSE} 
+
+Now, look, I've got to say a few things -- can you hear me? 
+
+{AUDIENCE} Yes! {/AUDIENCE} 
+
+And you have to indulge me, because I know that I'm sort of preaching to the saved here today. And the temptation, therefore, is just to say things that make us all shout and have a good time. 
+
+But, look, this is a close election and there are, in addition to the presidency, races for United States Senate -- Senator Diane Feinstein. And we have five -- count 'em -- five House seats that the Democrats could win in the state of California alone on our way to recovering the majority. {APPLAUSE} 
+
+So I want you all just to let me talk just a few minutes -- not too loud -- and tell you what I hope you will say to everybody who is not here. Because every one of you have a lot of friends who have never been to anything like this. Is that right? They never came to hear the President give a speech or the governor or one of these political deals. But they all vote or they could vote if they knew why they were voting. Is that right? 
+
+{AUDIENCE} Yes! {/AUDIENCE} 
+
+So here is what I want to tell you. Number one, thank you, thank you, thank you for the support that California, Los Angeles and Watts have given to me and Al Gore these last eight years. {APPLAUSE} 
+
+You know, one of the things that I worry about in this election is that there are a lot of young people of voting age who can't even remember what it was like back in 1992. The economy was in trouble, the society was divided, there were riots in Los Angeles. The political system in Washington was pure tone deaf to you across the country in California. 
+
+And Al Gore and I came here and said, give us a chance to put the American people first, to create opportunity for all responsible citizens, to create a community that all of you will be a full part of. And you gave us a chance. And we changed America. {APPLAUSE} 
+
+Now, we have another election and another time to decide. And what I want to say to you is, this election is just as important as the one in which you and California sent me to the White House eight years ago. {APPLAUSE} 
+
+Now, I learned a question I was supposed to ask at election time from one of my predecessors, President Reagan. He said this is the question we're supposed to ask. So I'm going to ask, and you answer. Are we better off today than we were eight years ago? {APPLAUSE} 
+
+And let me say what's really important to me. Yes, I'm grateful that we've had the longest economic expansion in history. I'm grateful that we got the lowest unemployment rate in 30 years. But what I'm really grateful for is, in this economic expansion, the middle class and the working poor, along with the rich folks, benefited. We all went forward together. {APPLAUSE} I'm grateful for the fact that we've got the lowest hispanic and African American unemployment rate ever recorded -- {APPLAUSE} -- a 30 percent drop in child poverty, the highest home ownership in history, 15 percent increase in average income. I'm grateful for that. 
+
+So here's the second question. Do we want to keep this prosperity going? 
+
+{AUDIENCE} Yes! {/AUDIENCE} 
+
+You've got a choice. Al Gore and Joe Lieberman and the Democrats will keep the prosperity going by continuing to pay down the debt, give us a tax cut we can afford to send our kids to college, to take care of our folks if they get sick and we have to take care of them at home, for child care, for retirement savings, and they will invest in education, in health care, in the environment and building our communities. 
+
+Now, the other guys, they say -- listen to this -- they say we've got a $2 trillion surplus, and it doesn't belong to the government, it belongs to you. Well, of course it does. So they say, here's what we're going to do with that $2 trillion surplus. We're going to spend $1.6 trillion on a tax cut, we're going to spend $1 trillion privatizing Social Security, and we're going to spend a half a trillion dollars on other things. 
+
+Now, here's the problem. All you kids in grade school, listen to this: $1.6 trillion, plus $1 trillion, plus $.5 trillion is $3.1 trillion. That's bigger than $2 trillion. {APPLAUSE} And what does that mean? What does that mean to you? Yes, it means flunking math, but it also means bigger deficits, after we got rid of them, more inflation, higher interest rates. 
+
+If you go with Al Gore and Joe Lieberman and the Democrats, they will keep interest rates about a percent lower every year for a decade. Do you know what that's worth to ordinary people? Listen to this -- 10 years -- listen: $390 billion in lower home mortgages, $30 billion in lower car payments, $15 billion in lower student loan payments; lower credit card payments, lower business loans, which means more stores at the mall here, more jobs and a higher stock market. 
+
+With Al Gore and Joe Lieberman and the Democrats, the rich folks keep getting richer, but so does the middle class and so do the lower-income working people. We're all going forward together. {APPLAUSE} 
+
+So if somebody asks you, well, why should I go vote and why should I be for the Democrats, say because we've got the longest, strongest, fairest economy we ever had and because I want to keep it going. {APPLAUSE} 
+
+Now, I got another question. It's not just about economics. There's something else you need to know. Compared to eight years ago, the crime rate has gone down every year, to a 26-year low; the welfare roles have been cut in half; the environment is cleaner, cleaner air, cleaner water, three times as many toxic waste dumps cleaned up as in the previous 12 years; more land set aside than any time since Teddy Roosevelt was president 100 years ago. {APPLAUSE} 
+
+And the economy kept getting better. The health care system. Medicare was supposed to go broke last year. Now we put 27 years on it. For the first time in a dozen years, the number of people without health insurance is going down because 2.5 million kids have gotten health insurance under our Children's Health Insurance Program. 
+
+Now, in addition to that, the high school dropout rate is going down; the math, reading and science scores are going up; college-going is at an all-time high; the number of African-American and Latino kids taking advanced placement tests -- courses -- has gone up 300 percent in three years. {APPLAUSE} Now, in every case, we did things that helped that happen. 
+
+So question three: Do you like this progress and do you want to build on it? 
+
+{AUDIENCE} Yes! {/AUDIENCE} 
+
+Well, you have a choice. Al Gore and Joe Lieberman and the Democrats, they'll keep working until we get health care for all our kids; until we have Medicare prescription drugs for all the seniors who need it, not just a few; until we have a real patients' bill of rights, so that doctors, not insurance company officials decide what your health care needs are. {APPLAUSE} 
+
+They'll keep working for a new, cleaner energy policy so we can keep growing the economy and breath the air. They'll work for funds to build or repair schools. I don't know how many kids in California, but a whole lot, are going to school in house trailers or old broken drown schools, and we're trying to help. It's very important. 
+
+Now, you also have another choice. Our friends in the other party, what's their program? They say if they win, listen to this -- this is what they say, not me. They will abolish our program putting 100,000 police on the street -- we only have the lowest crime rate in 26 years. They will abolish our commitment to putting 100,000 teachers in the classrooms to lower class size in the early grades. They will roll back our environmental standards for clean air and get rid a lot of this land protection that I have enacted. And they will not support a real patients' bill of rights or Medicare prescription drugs for every senior who needs it. So you have a choice here. 
+
+But if you want to keep building on the progress, your choice is Al Gore and Joe Lieberman and the Democrats. {APPLAUSE} 
+
+Now I've got another question for you. One of the things that I have tried to do is to make people in Watts feel like they had just as big a say in the White House as the friends I have in Beverly Hills. {APPLAUSE} I wanted you to feel that the White House was your house, that the government was your government. And I have worked for an America that helped everybody. 
+
+A lady over there just held a sign up that said, "Thank you for the Family and Medical Leave Act," which, over 22 million Americans have used to take some time off when a baby is born or a parent is sick without losing their job. It's one of the best things we ever did. {APPLAUSE} 
+
+And we've worked for the minimum wage and family tax relief and the AmeriCorps program that has given 150,000 of our young people a chance to serve in their communities, including L.A., and rebuild them and earn some money for college. We've tried to give you one America. 
+
+Now, the last question I have is, do we want to keep building one America and not be divided again? Yes, we do. {APPLAUSE} You've got a choice. Al Gore, Joe Lieberman and the Democrats are for strong hate crimes legislation. They're for employment nondiscrimination legislation. They're for stronger enforcement of equal pay laws for women because there's still too much discrimination there. {APPLAUSE} They're for fairness to all legal immigrants in this country in the distribution of benefits. And they're for a Supreme Court and other federal judges who will protect a woman's right to choose and civil rights and human rights in this country. {APPLAUSE} 
+
+Now, in every case, their Republican opponents have a different view on every one of those issues I just mentioned. They talk a lot about bipartisanship. But we've got a bipartisan majority in the Congress right now for a patients' bill of rights, for a raise in the minimum wage, for the hate crimes legislation, for money for school construction, for campaign finance reform. But their leaders say no. 
+
+Now, I'm telling you, I believe that the Democrats have a great chance to win both the House and the Senate. {APPLAUSE} But I want you to think about something in this presidential race. You know all the struggles I've been in these last six years, trying to stick up for you. One reason you need Al Gore in the White House is that somebody needs to be there if this crowd stays in to stop their more extremist actions, and he will. {APPLAUSE} 
+
+Now, I want to say something about the Vice President. And all I can do is kind of echo what Governor Davis said. He has the experience for this job. This is something that should be important to the young people in this audience. He understands the future, how it will be shaped by the Internet, by the global economy, by the revolution in science and technology. He has accomplished more for the American people as Vice President than any person who ever held that job before. {APPLAUSE} 
+
+But, most important, President Kennedy once said that the presidency is preeminently a place of decisionmaking. You hired me for eight years to make decisions that the President is supposed to make. Al Gore is a good man who makes good decisions, and with your help he will be a great president of the United States. {APPLAUSE} 
+
+So here's what I want you to do. You've got a few days now. Every day you see somebody you know wasn't here today, you tell them you want them to vote. You tell them you want to vote for Al Gore, for Joe Lieberman and the Democrats. Why? 
+
+Question number one, you want them to vote because you want to keep this prosperity going. Number two, you want them to vote because you want to keep building on the progress of the last eight years. Number three, you want their vote because you want to keep building one America. You kind of like it thinking that the White House is your house, too. {APPLAUSE} 
+
+This is a close election; every vote counts. There is a clear choice. I cannot thank you enough for how good you've been to me. {APPLAUSE} But let me tell you something: if you want to build on the prosperity, if you want to build on the progress, if you want to keep building one America, you've got a clear choice and a clear responsibility, your only choice: Al Gore, Joe Lieberman and the Democrats. 
+
+Thank you and God bless you all. {APPLAUSE} 
+
+{/speech} 

@@ -1,0 +1,31 @@
+﻿{title} Remarks by the President at All-america Cities Award Ceremony {/title}
+{event} The Rose Garden {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 8, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, and welcome to the Rose Garden on this beautiful day. I want to acknowledge the presence of Secretary Cisneros, who was once Director of the National Civic League and whose city, San Antonio, a few years ago was an AllAmerican city under his leadership. Congresswoman Johnson, Congressman Borski, Congressman Blackwell, Congressman Thomas and Congressman Sharp are here.
+
+I also want to say a word of special appreciation for the National Civic League because this is its centennial year. When the league was founded, Theodore Roosevelt said, "There are many ways in which a man or a woman can work for the higher life of American cities." Well, judging by what the mayors here and their citizens have shown us, that is just as true if not more true today than it was 100 years ago. We know, given the complex challenges that our cities face, we need that kind of commitment now even more than we needed it 100 years ago.
+
+We are here to celebrate success on many fronts. Some of the cities are being honored for designing programs to get our children off the streets and into better lives. Others have expanded downtown business areas, opened free health clinics for the poor, smoothed the economic impact of a base closure. These 10 cities represent regions all over America and they're of different sizes with different problems and different challenges and different opportunities. They do teach us, however, one thing in common --when our citizens work in partnership, when they work business and labor and government, when they find ways to come together instead of being divided, they can do miraculous things.
+
+The partnerships we celebrate here are a reminder that government can and must help, that businesses and volunteer organizations working with citizens themselves must do the hard work of restoring America's communities. Each and every one of us must be personally responsible for working in our communities and making a difference.
+
+No one else will ever care about a community half as much as those who live there and raise their children there, who look forward to growing old there and being remembered there. And who knows how to solve the problems of a place better than those who call it home?
+
+That's not to say that you should do all the work on your own. Our federal government must and will continue to help. Everything we do, even here, should ultimately be about empowering people at the grass roots; to assume responsibility for their own lives, their own communities, their own families; to be able to compete and win; to succeed in the complicated but exhilarating world toward which we are moving in the next century.
+
+We've worked hard over the last 19 months to create that kind of framework -- in strengthening our economy, in reforming our education system, in following some of the initiatives Secretary Cisneros has set out for cities and for communities within cities all across America.
+
+We have another great opportunity for partnership now that the crime bill has at last passed. {APPLAUSE} If ever there was an example of the federal government reaching out to empower people at the grass roots level, the crime bill is it. It's paid for by reducing the size of the national government by 270,000 over the next six years giving all the money back to local communities to hire police, to build prisons, to build prevention programs, to reach out to young people, to give people something to say yes to, to put people to work and put people in responsible play as well.
+
+These things can work in miraculous ways, but we're going to depend upon you to make them work. Getting the crime bill through Congress was difficult, all right. It took six years. But you don't have six years to make it work at the grass roots. The money is flowing in this fiscal year, and we have to depend upon all of you to reduce crime and violence and to increase the number of young people who have a better future.
+
+The partnerships that we celebrate today and the ones our administration is committed to creating tomorrow -- all of them are the backbone of our future. The cities are leading the way, and those of you who are being honored today are truly outstanding. I can't wait to present the awards. I have already read the reasons why all of you are being acknowledged. It reminded me of a lot of the things that I did as a governor. It reminds me, too, here in Washington that very often the most important things we do receive the least publicity, especially if we do them hand in hand instead of fist against fist. But you keep on doing it, because in the end, the results will be the ultimate reward.
+
+Now I'd like to introduce a person that it's my great honor to present -- one of our country's most distinguished citizens, the Chairman of the National Civic League, John Gardner. 
+{/speech}

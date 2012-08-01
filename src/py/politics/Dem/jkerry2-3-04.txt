@@ -1,0 +1,132 @@
+﻿{title} Kerry Sweeps Super Tuesday States {/title}
+{event} ----- {/event}
+{speaker} John Kerry {/speaker}
+{date} March 2, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} This is Kerry's first speech as the Democratic nominee for president in 2004. {/description}
+
+
+{speech} 
+
+I want to thank -- thank you.
+
+But I don't want you to stop the enthusiasm, all right. {APPLAUSE}
+
+Thank you, thank you all. Thank you to voters from coast to coast, who have truly made this a Super Tuesday. {APPLAUSE}
+
+Thank you very, very much.
+
+I want to thank -- I don't know how many of you here had a chance to hear it, but we heard it upstairs, a remarkably gracious, powerful, generous statement by John Edwards tonight. And I want all of us here... {APPLAUSE}
+
+... I want to thank -- there is no question that John Edwards brings a compelling voice to our party, great eloquence to the cause of working men and women all across our nation and great promise for leadership for the years to come. And we thank him so much for what he has done in the course of this race. {APPLAUSE}
+
+I believe, I believe that in 2004, one united Democratic Party, we can and we will win this election. {APPLAUSE}
+
+And we will build one America of freedom and of fairness for all. 
+
+For months, for months, John Edwards has been our competitor. But, first of all and always, for Teresa and me, John and Elizabeth are our friends. {APPLAUSE}
+
+And he is a valiant -- he is a valiant champion of the values for which our party stands. {APPLAUSE}
+
+Let me also -- let me also congratulate Howard Dean. Again... {APPLAUSE}
+
+Again today, we are all reminded of the unprecedented contribution that he has made to our party and to our country, and particularly by bringing so many who were disenfranchised into our party and into the political process. And I know he will continue to fight to do that. {APPLAUSE}
+
+Tonight, the message can now be heard all across our country: Change is coming to America. {APPLAUSE}
+
+Before us lie long months of effort and of challenge, and we understand that. We have no illusions about the Republican attack machine and what our opponents have done in the past and what they may try to do in the future. But I know that together we are equal to this task. I am a fighter. And for more... {APPLAUSE}
+
+For more than 30 years, I've been on the battle lines, on the frontlines of the struggle for fairness and for mainstream American values. And in 2004, I pledge we will tell the truth about what has happened in our country. And we will fight... {APPLAUSE}
+
+And we will fight to give America back its future and its hope. 
+
+There are powerful forces that want America to continue on exactly the path that it's on today. And there are also millions of Americans who are hurt by the policies that favor the few, who doubt whether government once again can work for them. 
+
+Millions more live in fear every day that they will lose their jobs or lose their health care or lose their pensions. My campaign, our campaign, is about replacing doubt with hope and replacing fear with security. {APPLAUSE}
+
+Together we are going to build a strong foundation for growth by repealing the Bush tax cuts for the wealthy and investing in education and health care. {APPLAUSE}
+
+And we will cut the deficit in half in four years, and we will invest in education and health care and the creation of jobs in this country. {APPLAUSE}
+
+And I pledge to you with every fiber in my body and every ounce of energy that I can find, we will put the tax code of this nation up to the light of democracy and scrutiny of the American people, and we will repeal every tax break and every loophole that rewards any corporation for gaming the tax code and going overseas to avoid their responsibilities to people in the United States of America. {APPLAUSE}
+
+And we will provide new incentives, important new incentives, for manufacturing that reward the good companies that create the jobs and keep them here in the United States. {APPLAUSE}
+
+And we will fight as never before for workers protections and for environmental protections in the trade agreements of the United States of America. {APPLAUSE}
+
+And long overdue, waiting to be achieved as a matter of fundamental fairness, we will raise the minimum wage so that no one in America works a 40-hour work week and can't get out of poverty. {APPLAUSE}
+
+And we will meet one of the most historic challenges of our generation. We will provide a bold new initiative to guarantee that we have a plan for energy independence for the United States. {APPLAUSE}
+
+We will invest in the technologies of the future. And we will create 500,000 new jobs doing so, so that no young American in uniform will ever be held hostage to America's dependence on oil in the Middle East. {APPLAUSE}
+
+{AUDIENCE} Kerry, Kerry, Kerry, Kerry. {/AUDIENCE} 
+
+And I cannot wait to join with Senator Kennedy and with others of good conscience in the House and in the Senate and all across this country. We will complete the mission begun by Harry Truman to make certain that health care is regarded as a right and not a privilege in the United States of America. {APPLAUSE}
+
+We will fight for an America where Medicare and Social Security are protected, where health care costs are held down and your family's health care is just as important as any politician in Washington, D.C. {APPLAUSE}
+
+We will achieve that. {APPLAUSE}
+
+And on behalf of all Americans and on behalf of the other 96 percent of human kind waiting for leadership from the United States, we will -- we will rejoin the community of nations... {APPLAUSE}
+
+... and we will -- we will renew our alliances and we will build new alliances because they are essential to the final victory and success of a war on terror.
+
+The Bush administration has run the most inept, reckless, arrogant and ideological foreign policy in the modern history of our country. {APPLAUSE}
+
+And we will reverse that course. {APPLAUSE}
+
+{AUDIENCE} Kerry, Kerry, Kerry, Kerry. {/AUDIENCE} 
+
+This president -- this president has said again and again that he wants to run on national security. 
+
+Well, if George Bush wants to make national security the central issue of the campaign of 2004, I have three words for him that I know he understands: Bring it on.
+
+{AUDIENCE} Bring it on. {/AUDIENCE} {APPLAUSE}
+
+This campaign is about the big issues and the great challenges that we face as a nation. It's about our generation's opportunity to step up and to follow in the footsteps of the greatest generation and all of those who have defined the history of our nation. 
+
+Our opponents can't campaign on jobs or heath care or fiscal responsibility. Instead, George Bush, who promised to become a uniter, has become the great divider. And just last week, just last week he proposed to amend the Constitution of the United States for political purposes.
+
+{BOOING} 
+
+And we say -- we say that he has no right to misuse the most precious document in our history in an effort to divide this nation and distract us from our goals. {APPLAUSE} We resoundingly reject the politics of fear and distortion. We will instead all across this nation throughout these next months, keep trust with Lincoln's idea of America as the last, best hope of Earth. 
+
+When I first led veterans to the Mall here in Washington, to stop the war in Vietnam, it was a time of doubt and fear in this land. It was a time when millions of Americans could not trust or believe what their leaders were telling them. And now, today, Americans are once again wondering if they can trust or believe the leadership of our country. 
+
+Our campaign is about restoring that faith, speaking plainly and honestly to the American people, offering real choices about the future, about leading America in a new direction, guided by the enduring values that this nation has held dear for over 200 years.
+
+Our campaign is about building a fairer, safer, more prosperous America, the nation that is again the great light to all the world. That is what this is about. {APPLAUSE}
+
+There is no way that all of us together would have arrived at this evening unless we had worked together, bled together, fought together, believed together in the possibilities. And that is what unites us.
+
+And I want to thank the most amazing woman, the most remarkable partner and wife a man could ask for. She has stunned everybody, all across this country. And everywhere she goes, people fall in love with Teresa. I want to thank her. {APPLAUSE}
+
+And I want to thank all of our children, my stepsons and my daughters. I'm so grateful to them. As anyone will tell you in public life, it is hard on families. They're thrust into it. It's not of their choosing. 
+
+But they have been the most remarkable partners in this effort, and I want you to say thank you to them for affecting their lives. {APPLAUSE}
+
+I want you all to join me in thanking a man who has been a champion and a conscience of the values and the causes of our party and our country for over 40 years, my colleague, Ted Kennedy and Vicky Kennedy, who have been such great friends and supporters in this effort. {APPLAUSE}
+
+... and a special friend who has traveled all across this nation with an extraordinary band of brothers, Max Cleland and all those veterans who have given so much to this cause. {APPLAUSE}
+
+To all of those in public life who took risks, joined this campaign early, hung in when it was tough and stayed with us today, and to all those who've joined recently: This is not a campaign that will measure who and when; it is a campaign that will measure what we have to achieve together over the course of these next months. {APPLAUSE}
+
+I want to thank, standing behind me, the greatest campaign staff in America and the greatest group of volunteers, many of whom... {APPLAUSE}
+
+{AUDIENCE} Kerry, Kerry, Kerry, Kerry {/AUDIENCE} 
+
+And I want to thank the many -- and there are many -- who have come over from other campaigns, who've become part of this great effort. We are grateful to all of them. 
+
+And I particularly want to say thank you to the people of Iowa and New Hampshire who gave me a hearing when no one thought we had a chance. And they sent us on our way. And I thank them. {APPLAUSE}
+
+And to all of those who have been fighting in our ranks all along the way. All of those firefighters of America who have been there from the beginning, the ranks of labor, the millions of citizens who have now rallied to our cause, and for those who want to, I invite them to come to johnkerry.com and join this effort now. 
+
+So the message rings out across the land tonight: Get ready, a new day is on the way. 
+
+Good night. God bless all of you. And God bless the America that we love so much. {APPLAUSE}
+
+Thank you and take care.
+
+
+{/speech} 

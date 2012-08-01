@@ -1,0 +1,28 @@
+﻿{title} Remarks by the President at Screening of Ken Burns' "lewis and Clark" {/title}
+{event} The East Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 10, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Please be seated. Welcome to the White House. To Ken and to his daughters; Dayton Duncan, and his family; Harry Pierce, the vice chair of GM; Elizabeth Campbell, founder of WETA; Michael Jandreau, the chairman of the Lower Brule Sioux tribe; and of course, a special word of welcome to Stephen Ambrose, whose magnificent book inspired this great film that Ken has done. To all the historians and actors who brought this story to life, you're all welcome here.
+
+I have looked forward to this night since February when Ken Burns came to screen his great film on Thomas Jefferson. That night I asked him to come back when the new film was done so we could set up Lewis and Clark artifacts in the foyer, the way Jefferson did. They're out there -- actually, he had them here in the East Room at one point. But I hope you've had a chance to go out and see them, and if you haven't, I hope you will see them. They are the actual, real McCoy. And I wasn't sure at the time I said we would produce them whether we could or not, how many there were, and what they would look like. But I'm well pleased, and I hope that you will be when you get to see them.
+
+I also thought we ought to watch the film here in the East Room where the expedition really began. Meriwether Lewis lived and worked in the East Room when he was Jefferson's personal aide. Mr. Jefferson's office was just down the hall, and he actually had carpenters create two rooms for Lewis on the south side of the East Room here, where Abigail Adams used to hang her wash. There. {LAUGHTER}
+
+Over dinner, Jefferson tutored his protege in geography and the natural sciences, broadening his horizons so that Lewis and Clark eventually could broaden the nation's. It's not hard to see why Ken Burns embraced the Lewis and Clark story. The journey of learning he embarks on with each new subject is really quite like Lewis' journey of discovery.
+
+And if Ken Burns is the film-making Meriwether Lewis, then perhaps Dayton Duncan is the wise William Clark of this project. {LAUGHTER ; APPLAUSE} Like Lewis and Clark, Ken and Dayton had been good friends for a decade before they started this recent journey and became even better friends along the way.
+
+Looking back with new perspective on the story of Lewis and Clark exemplifies what Hillary and I had in mind when we announced the White House Millennium Program in August. Celebrating our new millennium will be an international event, but we'll also mark it in a uniquely American way, by highlighting American creativity and innovation, and our insatiable desire to explore, as we're doing here tonight.
+
+Lewis and Clark were America's foremost explorers, not only mapping out the contours of a continent, but also, in profound ways, the frontiers of our imagination. In that way, they are the forebears of those who have given us the recent Mars expedition, those who are building the international space station, those who are hunting for the mysteries of the human g-gnome, those who are looking for answers to the challenge of global climate change.
+
+We are grateful that Ken and Dayton, that Stephen Ambrose, Gerald Baker, James Ronda, Gary Moulton and others have helped to enrich our appreciation of Lewis and Clark. That is a very precious gift to future generations. Over the next three years, we hope to inspire many others to offer similar gifts in celebration of a new century and a new millennium. We want to encourage all Americans to participate in the millennium celebration in ways that help us to honor our past and imagine the future. And we'll launch a cultural showcase here at the White House to highlight our artists, our scholars, our visionaries.
+
+But I don't want to get ahead of ourselves. Tonight we're here to see Lewis and Clark. And for that I turn to the incomparable Ken Burns. {APPLAUSE} 
+
+{/speech}

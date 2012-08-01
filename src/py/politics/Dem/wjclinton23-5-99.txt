@@ -1,0 +1,130 @@
+﻿{title} Remarks by the President in Commencement Address toGrambling State University Graduates {/title}
+{event} Commencement at Grambling State {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 23, 1999 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Good morning.
+
+{AUDIENCE} Good morning.
+{/AUDIENCE} 
+I thank you for the wonderful, wonderful welcome. President Favors, thank you for the degree --I'm beginning to feel smarter already. {LAUGHTER}
+
+My good friend, Reverend Jones, thank you for your wonderful invocation and reminding us why we are here on this Lord's day. Mayor Williams, thank you for making me feel welcome, and I thank the other mayors and councilmembers who met me. Dr. Jindal, thank you for your remarks. I must say, I was especially impressed by the remarks of your student government president, Tony Easton; and Miss Grambling, Martha Fondel. {APPLAUSE} After they spoke I wasn't quite sure I wanted to give my speech. {LAUGHTER}
+
+Let me also say that I am delighted to be joined today by your distinguished Senator, Mary Landrieu, and Congressman William Jefferson, from New Orleans. {APPLAUSE} By our Secretary of Transportation and, like me, a neighbor of yours to the north, from Arkansas, Secretary Rodney Slater, I thank him. {APPLAUSE}
+
+You know, when I heard that I might be able to come to Grambling, there was very little discussion about this in the White House. Now, usually, when the President has a chance to go someplace, there's always an argument about it because they think you should be somewhere else. Somebody who works for you thinks you should be somewhere else.
+
+But I told my staff that I wanted to take a day away from Washington, D.C. Now, Washington is a town where everybody thinks they're somebody -- {LAUGHTER ; APPLAUSE} -- and I wanted to come to the place where everybody is somebody. {APPLAUSE} I also was not about to miss a chance to hear the best band in the land. {APPLAUSE} And I thank you for the musical tribute. And I'm glad at least the tuba players were standing up and dancing, I would have missed that, too. {APPLAUSE}
+
+I also -- {LAUGHTER} -- hey, I'm just getting warmed up, you know? Come on. {LAUGHTER}
+
+To the last Grambling class of the 20th century -- {APPLAUSE} -- this is an important day in your lives. In so many ways --
+
+{AUDIENCE-MEMBER} I need a job. {/AUDIENCE-MEMBER} 
+
+Well, you'll be able to get one, now. {LAUGHTER}
+
+In so many ways, the story of this institution embodies the whole 20th century experience of African Americans. In 1901, not a single public school in this part of Louisiana would welcome an African American into its classes. But the visionary farmers of this community, the children and grandchildren of slaves, were determined to give their children the education and pride and power to rise above bigotry and injustice. {APPLAUSE} And so, even though they didn't have much, they scrounged around and raised some money and wrote a letter to Booker T. Washington, asking him to send a teacher to help build a school in the piney woods.
+
+Out of that determination, Grambling has truly grown into a university for the 21st century. {APPLAUSE} You have nurtured some of our nation's best educators and lawyers, pastors and public servants, nurses and business leaders. Of course, the NFL recruits here, thanks to Eddie Robinson and his successor, Superbowl MVP Doug Williams. {APPLAUSE} Of course, you're known for your band and your other athletic teams.
+
+But America's top technology firms recruit here, too -- because Grambling confers more computer and information science degrees to African Americans than any other university in the nation. {APPLAUSE}
+
+So you join a proud tradition today and I congratulate you all. You have gained knowledge that will enrich you for the rest of your lives and I can just see by looking at you, you've made friends who will stay with you for the rest of your lives. Through long hours in the class and late nights in the library, through moments of both self-doubt and triumph, you have today gained the prize -- an education that will help you succeed in one of the most exciting eras in all of human history.
+
+I'd also like to congratulate and honor today your parents, your grandparents, your aunts and uncles -- {APPLAUSE} -- all those who had a hand in raising you. They should be proud of you; but they should also be proud of themselves. To raise a child from infancy to college graduate is no small feat -- you hear the "amens" from the audience on that one. {LAUGHTER}
+
+One of the most beloved Presidents of Grambling, Ralph Waldo Emerson Jones, I understand often said to his students, when you go home, be sure to kiss everybody -- including the mule -- {LAUGHTER} -- because the mule is the one who pulls the plow and keeps the family going. Well, I'm not going to ask the graduates to kiss any mules today, but I do ask each of you before this day is over to say a special thank you to the people who kept your families going.
+
+I asked for some research on some of the families -- I'd just like to mention two. People like Joyce Gaines of Vallejo, California. Listen to this: even through the pain of five ruptured disks in her back, she worked three jobs and commuted 200 miles a day to put her daughter, Tieaesha, through Grambling. {APPLAUSE} Where are you? Stand up there. {APPLAUSE} Today, she's graduating with a degree in sociology and she plans to open a home for abused children. She is a tribute to her mother's love and sacrifice. {APPLAUSE}
+
+People like James and Lilly Bedford of Shreveport. James is a plumber, Lilly is a cook. Both took on extra work at night and on weekends to help their youngest son, Terrence, pay for college. She was a student at Grambling back in the '50s, but Lilly had to leave before graduating. Now Terrence is the second of the seven Bedford children to earn a Grambling degree, and he's the senior class president. Congratulations to the Bedfords. Where are you? Thank you. {APPLAUSE}
+
+Stories like this remind of us what people can achieve when they set their minds to it, but they also remind us of how hard it can be to raise a child right, especially today in our very busy society with its very demanding economy. Now, this is the serious part of the talk. I want you to have a good time today, but I want you to listen to this. This spring I'm going to speak to seniors about how this new economy is transforming every aspect of our lives.
+
+Next month, at the University of Chicago, I'll talk about how we must put a human face on the dynamic but often disruptive international marketplace. But today I want to talk to you about what we as a nation must to do help families like those I just mentioned -- and those will be your families -- master the challenges of the new economy.
+
+I've been thinking a lot about family lately, and I expect a lot of you have. In the aftermath of the terrible tragedy at Littleton and the other school shootings we've had in our country; they've forced us to confront the need not only to make guns less available to criminals and children, not only to make our culture less violent and our schools safer, but also to make the bonds that tie parents to children stronger. {APPLAUSE}
+
+The spate of hate crimes that we have seen, taking the lives of James Byrd Jr. in Texas, Matthew Shepard in Wyoming, and others force us to confront the need to raise our children to respect others who are different from themselves -- {APPLAUSE} -- and to recognize that all hard-working, law-abiding people are part of our national family. The horrible ethnic cleansing of this decade in Bosnia, then Rwanda, now Kosovo, demonstrate in stark terms what can happen when a people raise their children without the fundamental premise embodied in our Declaration of Independence -- that we are all created equal, equally endowed by God with the right to life and liberty and the pursuit of happiness. {APPLAUSE}
+
+It all begins with family, with parents who love their children more than life and raise them to live their dreams. Most of you today are probably thinking more about the adventures of the work that awaits you at this marvelous time in your lives. And well you should be. But most of you also will become parents. When that happens, it will be the most important work you'll ever do. You will have the awesome responsibility of your children's physical, intellectual, emotional and spiritual development, while at the same time pursing your own lives in a society that will reward your knowledge and skills in power, and entertain you with its explosions of technology and mobility, and keep you very, very busy.
+
+For those without your level of education in your time just earning enough to pay the bills may be a chore, especially if there are children to be raised.
+
+Now, the class of 1999 is entering an era of unparalleled opportunity and possibility with, for example, the lowest African American unemployment and poverty rates ever recorded and the highest African American homeownership in history. To give more people like you a chance to participate fully in this economy, we've opened the doors of college to more and more Americans, with the HOPE Scholarship tax credit, larger Pell grants, lower-cost student loans -- tools many of you have used to finance your education.
+
+Now, with your diplomas in hand, you will have the chance to reap the benefits and shape the future of this new era -- your time; to lead lives of greater accomplishment and affluence than most of your parents even dreamed of. But as you form your own families you will no doubt feel the pressure of trying to balance the demands of work and family; and doing a good job at both in a world that moves faster and faster, and often leaves parents less and less time and energy for their children.
+
+Today's working parents too often feel enormous stress, and bring the stress home with them. This is a problem not confined -- I want to emphasize this to you -- it is not confined just to people who work for low and modest incomes. Most of the parents I know have had problems balancing work and family. And as you move through your careers, unless we act now, this problem will get worse. Therefore, I believe it is imperative that your country give you the tools to succeed not only in the work place, but also at home. If you or any American has to choose between being a good parent and successful in your careers, you have paid a terrible price, and so has your country.
+
+I asked the President's Council of Economic Advisors to study the sweeping changes the modern economy has brought to our families. Now, no offense to anybody on the faculty here, but you know, it's been said that if every economist on Earth were laid end to end, they still would not reach a conclusion. {LAUGHTER}
+
+But on this question, these economists did reach a conclusion, one that conforms to common-sense and common experience. They found that because more and more parents were working outside the home, they have less and less time for their children. The percentage of married mothers in the work force has nearly doubled in a generation, from 38 percent in 1969 to 68 percent in 1996. Because more mothers are working outside the home, and because the number of single parent families has grown -- listen to this, because this will be your life -- parents in the average family now have 22 fewer hours each week to spend at home, that's nearly one full day less time per week for parents to devote to their children. That means by the time a child reaches the age of 18 in today's, world those 22 hours a week amount to over two years more the parents are away from home.
+
+We as a nation must find a way to give your generation of parents some of that time back even as you've gotten an education to succeed in the work force. {APPLAUSE}
+
+Most of today's parents, the vast majority, are doing everything they can to do right by their kids but they still worry that no matter how hard they try it won't be enough. They worry that waking up early and staying up late to make time for their children may not be enough, when a child still has to come home to an empty house after school.
+
+They worry that all those Sunday morning sermons about a world of love might not be enough when TV and movies their children watch, the music they listen to, the video games they play show too much hate and violence. They worry that all those nights working overtime to buy a computer so that a child can visit some of the worlds finest libraries on the Internet might not be enough, when the same Internet can also lead them to recipes for pipe bombs and explosives, or to website discussions of dark visions of life and society so very different from the ones the parents have tried to impart.
+
+Last week Hillary and I took a sad journey to Colorado to visit with the students and the families of Columbine High School. I came away from that experience more certain than ever that as we work to strengthen our gun laws we also have to work to strengthen our families. {APPLAUSE}
+
+Now, it seems to me that the modern economy you're going to be a part of poses four great challenges for you as parents. The greatest and most obvious, as I've said, is time. In our around-the-world, around-the-clock economy, there just don't seem to be enough hours in the day for parents to do everything they need to do. I'm proud that the first bill I signed as President was the Family and Medical Leave Act, and since 1993, millions of Americans have used it to take up to 12 weeks of unpaid leave to care for a newborn or a sick relative without losing their jobs. It has been a great thing. {APPLAUSE}
+
+But to be truthful, the current law just meets a fraction of the need. Too many people, too many family obligations aren't covered at all. Too many families can't take advantage of the law because they can't afford to take the time off because they can't live without their paychecks. For all of this nation's pro-family rhetoric, the hard truth is that other countries with advanced economies do a lot more to support working parents than we do. We must think bigger and do better.
+
+On the eve of the 21st century, we ought to set a goal that all working Americans can take time when they need it to care for their families without losing the income they need to support their families. {APPLAUSE} Achieving that goal cannot come overnight and will require a significant shift in how our nation helps families to succeed at home and work. But it can make all the difference in your lives. It will demand thought and creativity, a willingness to experiment; it has to be done in a way that gives families flexibility and doesn't undermine our dynamic and growing economy.
+
+Today, using my executive authority as President, we're going to take an important step toward that goal. I am directing the Office of Personnel Management, whose director, Janice LaChance, came down here with me today, to allow all federal workers to use the sick leave they've earned to take time off to care for other sick family members. {APPLAUSE}
+
+Now, what this means is on sick leave you get paid. Currently, the most sick leave a worker can use in these kinds of cases is 13 days a year. With the new policy I propose today, federal employees will be able to take up to 12 weeks paid sick leave to nurse an ailing child or parent back to health. {APPLAUSE} If every company in America that offers sick leave to its workers adopted the same policy we're adopting today, half of all the American work force would have this important benefit for their families.
+
+We have to find other creative ways to help Americans use benefits they've worked for to finance the time off they need for their families. Let me give you another example. A few states have asked the federal government if it would be possible to try a bold idea: allow workers who have earned unemployment insurance coverage to collect unemployment payments while they're on leave caring for a newborn or a newly adopted child. This is a very promising idea.
+
+Today, I'm directing the Secretary of Labor to issue a rule to allow states to offer paid leave to new mothers and fathers. We can do this in a way that preserves the soundness of the unemployment insurance system and continues to promote economic growth. As the First Lady said in her book, "It Takes a Village," those first weeks of life are critical to the bonding of parents and children, and they can have long-term positive developments for the children. No parent should have to miss them.
+
+I also am challenging Congress to help. I have proposed expanding unpaid family leave to cover more workers and more parental responsibilities, and Congress ought to respond positively. Parents should not have to fear a boss's wrath because they left work to take a child to the doctor. They shouldn't have to call in sick to attend a parent-teacher conference at the school. {APPLAUSE}
+
+The second challenge parents face is finding affordable high-quality child care, and a lot of you will face that. Low income families spend up to a quarter of their income on child care. Studies show that only one in seven child care centers meet all the standards of good quality. Now, I'm supporting subsidies for child care and tax credits, better training for care-givers, stronger enforcement of safety standards. And I want business to do more by helping their own workers find and afford quality child care. {APPLAUSE}
+
+In addition to that, you know, today millions of working parents -- and a lot of them right here in north Louisiana -- start looking at the clock every day about 3:00 p.m. in the afternoon, wondering if their kids have come home from school; wondering how they'll fare at home, alone. The hours after the school bell rings and before parents come home are a perilous time for children, the time they're most tempted to try drugs and alcohol, most likely to become victims of a crime. That's why I have asked Congress to triple our investment in quality after-school programs. I challenge school districts all across this country: unlock those empty classrooms in the late afternoon, fill them with the sounds of children playing and learning. {APPLAUSE}
+
+The third challenge parents face, since they're more and more at work, is that they're literally physically apart from their children more. Now, because of some modern developments in the work force we can actually close that distance by bringing back a very old idea -- letting children who can be, be with their parents more at work. When I was a young child I often went to work with my grandfather, who worked as a night watchman in a sawmill outside Hope, Arkansas. And I often went to the little grocery store he ran. And I tried not to be in the way too much, or to eat too many cookies that I didn't pay for. {LAUGHTER}
+
+But I learned lessons there that have stayed with me for the rest of my life. As I became President I realized that as a father, with a daughter who was then still in junior high school, I had the privilege of, in effect, living above the store. The place where I worked was only a two or three minute walk to have dinner every night with my family. When I was governor -- I still remember when I was governor, I had a little desk over in the corner of my office for my daughter. And I still have vivid memories -- I would be at my desk, she would be at hers with her crayons drawing me little pictures.
+
+Now, because of changes in the work force we can't do this for everybody, but we can do it for more. More of America's employers can use technology to bring workers and children closer together by allowing more employees to telecommute at work; that is, work at home with a modem where it's feasible. More employers can open more on-site child care centers, and I have seen them working very well in this country. I support tax breaks to help them afford to do that.
+
+More employers can team up with school districts to build public schools at work sites if they're large enough. Dozens of companies have already built innovative public schools. That's what you've done here at Grambling, that's what the lab school is, isn't it? It's a school at a work site, especially friendly to education. {APPLAUSE} These are good things to do. And I challenge the employers of this country to look at them closely.
+
+Finally, the last great challenge parents face in the modern economy is cultural. The new economy has enriched our lives with lower-priced electronic gear and a growing variety of media entertainment, and it sure is interesting. But too often, TV, radio, the Internet bombard our children with images and ideas that no parent would ever want them to see.
+
+We need tools to protect free speech and give parents more control over what their young children see, hear and read. Under the leadership of Vice President Gore, those tools are now being crafted. Soon, half of all the TV sets sold in our country will come with V-chips, so parents can basically make the most of the new TV ratings systems. These devices enable parents to screen out violence, sex, or any program they don't want their children to see. Soon, with just a click of a mouse, parents who have the courage to learn how to use a computer will be able to take offensive websites off their children's screens.
+
+The entertainment industry must also do its part. They should stop showing guns and violence in ads children can see, when they can't see the movies in the first place. {APPLAUSE} They should enforce the movie rating system more strictly, and they ought to reexamine that rating system to see whether it's too loose when it comes to giving a PG-13 rating to films full of gratuitous violence. These are tools that can help working parents succeed at the most important job you'll ever have, raising children. But government's responsibility is to make tools available; your responsibility is to use them.
+
+Doctor King once wrote, "It is quite easy for me to think of a God of love, mainly because I grew up in a family where love was central, and loving relationships were ever present." I hope and pray that the class of 1999 will have the chance to build those ever present loving relationships with your children. To raise your children well, you will have to make many sacrifices. But, then, as we learned again today and as you showed by your applause for them, your parents made many for you.
+
+I ask you to think one more time about how you got here today, to be sitting in the hot sun. {LAUGHTER} I'm sort of sorry I'm in the shade; I ought to be in the sun and you ought to be in the shade, since I'm talking.
+
+But think about this. How many of you would be here today if it weren't for one or more people in your families -- who were reading to you, or telling you stories when you were little; who were helping with your homework; who were attending your school events, even if they were dog-tired after work; imparting wisdom over dinner; working with you to give you chances they didn't have; giving you that unconditional love, support and faith that says, you are the most important person in the world to me. Your parents have worked and sacrificed. If you ask them today, was it worth it, you know what they would say.
+
+But until you watch your own children grow up, you can't really know how proud your parents are of you today, and how sure they are that all the sacrifices were more than worth it. No matter what else you accomplish in life, and many of you will accomplish a very great deal, your children will still matter most. We have to make sure that you and they get all the benefits of this fabulous modern world and still keep the enduring gift of your devotion and love.
+
+As you journey into the new millennium I wish you success and fulfillment at work and with your children. Congratulations, good luck and God bless you. {APPLAUSE}
+
+Let me say -- I must say when I was invited to come back and teach and I was told all about the food and all the perks of the job and then the President said he wasn't serious, I was getting into this. {LAUGHTER} I've got a good pension, I can work pretty cheap. {LAUGHTER}
+
+Let me say one thing seriously -- I very much hate that I have to go back now but I have -- as you know, we have got a lot going on overseas and it's six hours ahead there and I have to make a lot of phone calls today and do a lot of work, otherwise I wouldn't leave. I would like to stay here until midnight -- not talk until midnight, just stay here until midnight. {LAUGHTER}
+
+This has been a wonderful thing for me. I have had a lot more fun than you have so far at this. I cannot thank you. I'm so proud of you. And I like looking out there and seeing your faces and your eyes and your self-confidence. And I want you to go out and do a great job with your lives.
+
+Thank you. God bless you. 
+
+{/speech}

@@ -1,0 +1,24 @@
+﻿{title} Remarks By The President and The Vice President at Ceremony Honoring The national Association Of Police Organization's Top Cops {/title}
+{event} Ceremony Honoring The national Association Of Police Organization's Top Cops {/event}
+{speaker} Joe Biden {/speaker}
+{date} May 12, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Welcome to the Rose Garden. Ladies and gentlemen, let me begin by saying --
+{OTHER-SPEAK} They can sit down. {/OTHER-SPEAK} 
+They can sit -- yes, you can sit down. {LAUGHTER} I just assumed you were going to sit down. I apologize. Thank you, Mr. President. Tommy -- you stay standing up, though, for me. I don't want you -- {LAUGHTER}
+Let me begin by saying congratulations. It's an honor to be in the presence of the best of the best here standing behind us. You're all been an inspiration to the men and women of not only this country, but your fellow officers. You've been an inspiration to the thousands and thousands of people who strap on a sidearm and go out every day to do their job.
+When you strap on that sidearm and you walk outside your home every morning -- every morning, or evening, depending on their shift -- your wives and your husbands that you leave behind know that you are literally putting yourselves in harm's way, every time you walk out that door.
+And the President and I recognize the bravery you display simply by putting on that badge every day -- just putting the badge on. The officers honored here today have been singled out for going above and beyond the call of duty and we commend you all. But we also know that there are thousands more like you in communities throughout this country, large and small, doing their part every single day -- as we speak right now -- in their communities, making them safer but also making the community stronger.
+Today is a day for every man and woman in uniform to feel proud of you, and to feel proud of themselves. Today is a day for the entire community of police officers to see how much America appreciates their courage, and to let you know that the President and this administration appreciate your courage, as well. Your sacrifices and acts of heroism don't go unnoticed. I think sometimes you must feel like they do. You do your job every day, you don't expect any particular thanks or gratitude, you change people's lives for the better and -- but it's warranted on a day like today to pay special recognition.
+You've already seen some evidence of the President's commitment, beyond his entire career of being committed to law enforcement. The President's commitment to the level of support for law enforcement can be seen in the Recovery Act. Over $4 billion was placed in that emergency legislation to hire new officers, for new equipment such as bulletproof vests, and for new technologies, to give you the tools to do your jobs more safely and more efficiently.
+You keep us safe. We owe you. {APPLAUSE} We owe you to put you in a position where you can keep yourselves safe, as well.
+And you've seen the President's commitment to you by bringing this ceremony back to the Rose Garden. Mr. President, in the Roosevelt Room you said you wanted to let the public know. And I was about to say -- which I'll say here -- and that's why the President wanted it back here in the Rose Garden.
+So there's no mistake, there's no mistake that this President and this administration appreciates what you've done. We know this commitment -- {APPLAUSE} I'll conclude by saying, you should know this commitment will not stop today or tomorrow or next month or next year. We're going to work and continue to work, as the President has his entire career, for what serves you best so that you can serve us as best and as bravely as you have.
+Ladies and gentlemen, while we don't say it nearly enough, thank you, thank you, thank you for all what you do.
+So Mr. President, the Top Cops for 2009, a superior group of real heroes, are waiting to hear from you, boss. It's all yours. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,30 @@
+﻿{title} Remarks by the President at Ford's Theatre {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} June 7, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Please, have a seat. Well, Michelle and I are just thrilled to be part of this spectacular evening. To the performers who lent their voices to this celebration, to the honored guests, to everyone who helped make tonight such a success, I want to say thank you.
+
+I also want to thank the staff and supporters of Ford's Theatre for creating a place where education and the arts can thrive, and where the legacy of our nation's greatest President will be preserved for generations.
+
+And I especially want to thank the members of one of our nation's most hallowed fraternities -- the men who were recipients of the Medal of Honor. Please give them another round of applause. {APPLAUSE} To each of those men, I want you to know your heroism is unquestioned. Your stories are inspirational. Your actions above and beyond the call of duty have earned the admiration of a grateful nation. And we are incredibly honored that you could join us here tonight. {APPLAUSE}
+
+It's that kind of heroism that has always defined what this nation is all about. After all, it was exactly 234 years ago that a group of patriots -- farmers and merchants, lawyers, physicians -- pledged their lives, their fortunes, and their sacred honor to an improbable experiment called America. They risked everything in the name of a few simple ideas -- freedom, equality and the right to pursue our full measure of happiness.
+
+And even though the odds of success were not great, even though they were opposed by a powerful and far-reaching empire, these framers had the courage to take the first steps towards what would become the greatest democracy that the world has ever known.
+
+It was a spirit that would echo through time and space: to an Illinois rail-splitter who vowed that a government of the people, by the people, and for the people shall not perish from the Earth. To a young preacher who believed that, even if he didn't get there with us, we would reach the Promised Land. And across an ocean, to generations of South Africans who rose up in search of the same inalienable rights that had been put to paper in this country so many years ago.
+
+As a lawyer fighting for the rights of black South Africans in the age of apartheid, Albie Sachs was thrown in jail without charge, and was nearly killed when a bomb took part of his arm and the sight of one eye. Despite that fact, Albie knew he was part of something bigger than himself, and after returning from exile, he helped shape South Africa's constitution, and held a spot on his nation's Constitutional Court for 15 years.
+
+Then there's Archbishop Desmond Tutu. As a crusader for freedom, a spiritual leader, and chair of the Truth and Reconciliation Commission, and a respected statesman, he has become a symbol of kindness and hope far beyond the borders of his native land. Through it all, he has been guided by the belief that, in his words, “My humanity is bound up in yours, and we can only be human together.”
+
+There are few people more deserving of the Lincoln Medal -- an honor bestowed on those who exemplify the singular focus, dedication, and generosity of spirit of our 16th President. And as we celebrate Independence Day, there are few better examples of how the spirit of our Founding Founders did more than just create a nation -- it inspired people in every corner of the globe yearning to be free.
+
+So I want to congratulate tonight's honorees, and I thank all of you for being part of this extraordinary celebration. We thank all the talent who performed here today. We thank all the supporters of the Ford's Theatre. God bless you, and God bless the United States of America. {APPLAUSE} 
+
+{/speech}

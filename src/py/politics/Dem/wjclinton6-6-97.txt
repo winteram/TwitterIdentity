@@ -1,0 +1,61 @@
+﻿{title} Remarks by the President at Sidwell Friends Graduation Ceremony {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 6, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Well, Mr. Bryant, I may not hit a homerun today, but I won't be quite as off as Teddy Roosevelt was. {LAUGHTER} Even good people have bad days. {LAUGHTER} 
+
+Mr. Harrison, Mr. Noe, friends, family and guests, members of the Class of 1997: Thank you for inviting me. Hillary and I especially want to thank Sidwell's faculty and staff, students and families for making our family feel so at home here, when we came under somewhat unusual circumstances. 
+
+Also, I thank the school for its superlative commitments to academic excellence, to diversity, and to service; to the welfare of all students here; to the maintenance of good character, good citizenship and good spirits. 
+
+In particular, I have come to appreciate the school's observance of the Quaker practice of meaningful worship -- an hour spent in reflective silence, broken only when someone has something truly meaningful to say in a respectful way. After the parents had a chance to participate in meaningful worship this week, I left wishing that Congress were in control of the Quakers. {LAUGHTER} 
+
+I ask the senior in this class I know best what I should say today. Her reply was, "Dad, I want you to be wise, briefly." {LAUGHTER} Last night she amended her advise -- "Dad, the girls want you to be wise; the boys just want you to be funny." {LAUGHTER} That's what I get for asking. 
+
+Members of the Class of '97, you are not the only graduates here today. Even though we're staying home, your parents are graduating, too. Just as your pride and joy in this day must be tempered by the separation from Sidwell and of daily contact with the wonderful friends you have made here, our pride and joy are tempered by our coming separation from you. 
+
+So I ask you at the beginning to indulge your folks if we seem a little sad or we act a little weird. You see, today we are remembering your first day in school and all the triumphs and travails between then and now. Though we have raised you for this moment of departure and we are very proud of you, a part of us longs to hold you once more as we did when you could barely walk, to read to you just one more time, "Good Night, Moon" or "Curious George" or the "Little Engine That Could." 
+
+We hope someday that you will have children of your own to bring to this happy day and know how we feel. Remember that we love you, and no matter what anybody says, you can come home again. 
+
+We celebrate your passage into the world in a hopeful time for our nation and for people throughout the world. For the first time in history, more than half of all the world's people live free, under governments of their own choosing. The Cold War has given way to Information Age, with its revolutions in technology and communications and increasingly integrated economies and societies. 
+
+Scientific advances and a growing global determination to preserve our environment give us hope that the challenges of the 21st century can be met in ways that will permit us to continue the advance of peace and freedom and prosperity throughout your entire lives. 
+
+Admittedly, we face serious threats to humanity's forward march -- threats that go beyond the possible outbreak of disease or environmental catastrophe. They include the spread of weapons of mass destruction; terrorism; the worldwide network of crime and drug trafficking; awful ethnic, racial, tribal and religious rivalries that, unfortunately, are most appealing to people your age throughout the world who feel poor and dispossessed. With vision, discipline and patience, we can meet these challenges as well. 
+
+Here at home, our economy is strong. Crime and welfare rolls have dropped steeply. We are on the leading edge of emerging technologies. People are living longer, fuller lives. America is leading the world toward peace and freedom and progress, but you know well that we, too, have our challenges. 
+
+We still have yet to give all our children the chance you have had to develop their God-given capacities. We still have to deal with the coming retirement of your parents' very large generation and the appalling rates of poverty among young children. We have to develop the proper balance of discipline and freedom, of creativity and stability necessary to keep our economy growing, to make our society less crippled by crime and drugs, to help our families and communities to become stronger. And perhaps most important as you look around this class today, we have to make out of our rich diversity the world's first truly great, multiracial, multiethnic, multireligious democracy. No one has ever done it before, and I hope our country can do as well as you have done with each other. {APPLAUSE} 
+
+Now, all these are formidable tasks, but we are moving in the right direction. What I want to say to you is that now that you're adults, you have to do your part to keep it going. There are decisions to be made by Americans, and in a democracy, citizenship is not a spectator sport. 
+
+But what an exciting world awaits you -- from cyberspace to the frontiers of artificial intelligence, from mapping our genetic structures to exploring other galaxies. With your ability and your education, your choices seem limitless. But you will have to choose. And you will have to choose not just what you will do, but how you will live. No one else can make your decisions for you, and they will make all the difference --for you, for your country and for the world. To make the right ones, you will need a lot more than knowledge and access to the Internet. You will need wisdom and resolve. 
+
+For what it's worth, here is my advice. First, be brave. Dream big and chase your dreams. You will have your failures, but you will grow from every honest effort. Over three decades ago I sat where you are. I can tell you without any doubt that in the years since, my high school classmates who chased their dreams and failed are far less disappointed than those who left their dreams on the shelf for fear of failure. So chase on. Even if you don't get what you think you want, amazing things will happen. 
+
+Second, be optimistic and be grateful. Some bad things are going to happen to you -- to some of you, unfair things, perhaps even tragic things. Some of you have faced tragedy already. When these things happen, try to remember that each new day is still a gift, full of the mystery and magic of life. Try not to waste even one of those days trapped by hatred, the desire to get even, self-pity, despair, or cynicism. 
+
+We all give in to them now and then, of course, but you need to work at snapping out of it and going on. Hatred and self-pity give victory to the very dark forces we deplore. Despair guarantees defeat. Cynicism is a cowardly cop-out. And no ever really gets even in life; that is God's work. 
+
+No matter how bad it gets, don't forget there's someone who's endured more pain than you have. No matter how unfair it gets, remember that most of us are far better off than we would be if we only got what we deserve. And don't stop at admiring a Mandela or a Cardinal Bernardin. Strive to be more like them. Keep your spirits up. There is profound truth in the proverb "A happy heart maketh good medicine, but a broken spirit dryeth the bones." 
+
+Third, be of service to others. Much has been given to you already, and a lot more is coming your way. You owe it to yourself to give something back, to help to build a society and a world in which more people have your chance to live out their dreams, and all people in need at least know the touch of a caring hand and the embrace of a kind heart. From your service here, many of you already know that it not only gives more joy to others, it will bring more joy to you than you can even imagine. 
+
+Fourth, be both humble and proud. Be humble because you're human; subject to error and frailty; incapable, no matter how intelligent you are, of ever knowing the whole truth. Show mercy as well as judgment to those with whom you disagree in life. Keep in mind Benjamin Franklin's adage that even our enemies are our friends, for they show us our faults. 
+
+Be proud because your life is God's unique creation, worthy of its journey, graced with a soul the equal of every other person's. Eleanor Roosevelt once said that no one can make you feel inferior without your permission. Do not give them permission. 
+
+I regret that in our time, the essential role of constructive criticism often degenerates into what Deborah Tannen has called "the culture of critique," where too many brilliant minds and prodigious energies are spent simply putting people down. Do not be put down. 
+
+Thirty-seven years ago, I was a student in Vernon Dokey's 8th grade science class. On first impression, Vernon Dokey, to put it charitably, was a very physically unattractive man. {LAUGHTER} He knew it. He laughed about it. And he used it to teach us a valuable lesson in life I still remember. He told us that every morning when he woke up, he went to the bathroom and he shaved, and then he looked at himself in the mirror and he said, "Vernon, you're beautiful." {LAUGHTER} 
+
+Well, Class of '97, you're beautiful. Go out and live like it. Be humble and be proud. Be of service. Be optimistic and grateful. Be brave, and dream your dreams. God bless you. {APPLAUSE} 
+
+{/speech} 

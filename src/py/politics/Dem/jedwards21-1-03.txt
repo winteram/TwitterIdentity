@@ -1,0 +1,38 @@
+﻿{title} Speech at NARAL Pro-Choice America Dinner {/title}
+{event} ----- {/event}
+{speaker} John Edwards {/speaker}
+{date} January 21, 2003 {/date}
+{source} http://www.gwu.edu {/source}
+{description} ----- {/description}
+
+
+{speech}
+
+Thank you. It's an honor to be here, Kate, tonight, to celebrate the 30th anniversary of Roe v. Wade. You know when I was in law school, we actually talked about Roe v. Wade, unlike some famous people that we all know about. We were proud to live in North Carolina, a state that protected a woman's right to choose even before Roe. But when Roe came, the decision in Roe came along, we, many of us, learned for the first time how the law can actually block genuine equality for women. 
+
+One of the people who taught me that in my law school class and has been teaching it to me on almost a daily basis for the last 27 years is my wife, Elizabeth, who's with us here tonight and I'm honored to have her here. {APPLAUSE} 
+
+Justice Harry Blackmun in Thornburg explained the core principle embodied in Roe and I quote, the Constitution embodies a promise that a certain private sphere of individual liberty will be kept largely beyond the reach of government. That promise extends to women as well as men. 
+
+These are powerful words guaranteeing every woman a power only she should have, but they are not just some golden legal principle; this is about real people, it's about real lives, and it's about difficult choices. Tonight, while we gather to celebrate the 30th anniversary of Roe in this room, somewhere in America a woman sits alone, struggling, suffering, anxious--trying to confront a difficult decision that millions of women have faced before. She'll call on her own experience, she'll call on her own religious beliefs, her sense of right and wrong, and she'll make that decision, but the important thing is that that decision is hers and it is hers alone. {APPLAUSE} 
+
+It is because of Roe v. Wade, it is because of NARAL, it is because of people in this room that tonight, tonight she has that right. But make no mistake about it, that right is under attack every single day. Justice Blackmun in 1989, as the Court was getting more Reagan appointees, more Bush appointees, and a woman's right to choose was increasingly under--in jeapordy, Justice Blackmun said, warned actually, a chill wind blows. 
+
+That chill wind blows tonight. It blows from the White House; it blows from the House; it blows from the Senate. These people believe that politicians and judges in their wisdom are in a better place to make the decision that can so profoundly affect a woman's life. They are wrong; they are wrong; they are wrong {APPLAUSE} and we must stop them and we will stop them. {APPLAUSE} 
+
+Now, speaking for myself, and I hope for you, I'm energized by that chill wind. As Kate says, we have to do everything in our power to ensure that less and less women confront this difficult decision. But as long as I have anything to do with it, every woman who faces it will make the decision on her own {APPLAUSE} , based on her own moral and religious beliefs, without any interference from politicians or judges. {APPLAUSE} 
+
+My whole life I have trusted ordinary people to make decisions that so profoundly affect their own lives. This is exactly that kind of decision. Those decisions belong to you; they do not belong to the government. And so you have my word tonight that I will help lead a fight to pass a federal freedom of choice act {CHEERS ; APPLAUSE} so that your right to choose is guaranteed and protected no matter what the Court does. {APPLAUSE} 
+
+But the right to choose is not just about a woman's privacy, it's about her equality, it's about her personal dignity, it's about her right to share, as a proud and independent equal in this society. The right to choose is an essential ingredient to real equality in America. Until we recognize that fully, finally, without any equivocation, we can never reach the promise of America. The promise guarantees freedom, liberty and justice for every man, woman and child in America. Just as we can't leave John Ashcroft in charge of our liberties and our freedoms {APPLAUSE} , we can't leave people like John Ashcroft in charge of your rights, your personal dignity and your right to choose. {APPLAUSE} 
+
+Now as you all know, yesterday was the day set aside to honor Martin Luther King. It was an extraordinary and wonderful day. For me, coming from the South, it was a reminder of the special burden that we carry, the special responsibility to lead, to lead on issues of civil rights, to lead on issues of equal rights. It was an honor yesterday to mark that anniversary, and it is an honor tonight to mark this anniversary. 
+
+Tonight all of us reaffirm our belief that in America all men and all women are created equal and we all have rights that no government can ever, ever take from us. 
+
+Thank you all very much and God Bless you. {APPLAUSE} 
+
+
+
+
+{/speech}

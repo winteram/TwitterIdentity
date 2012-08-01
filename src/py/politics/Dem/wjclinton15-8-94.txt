@@ -1,0 +1,29 @@
+﻿{title} Remarks on Signing the Social Security Independence and Program Improvements Act of 1994 {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} August 15, 1994 {/date}
+{source} http://www.ssa.gov/history/clntstmts.html {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Thank you, Senator Moynihan, Chairman Gibbons, Secretary Shalala. To all the distinguished Members of Congress who are here, especially Senators Mitchell and Dole and the Speaker and to one who is not here, Andy Jacobs, who worked so hard on this endeavor, let me thank you all. Let me especially thank Senator Moynihan, who identified the need to reestablish the Social Security Administration as an independent agency 11 years ago. I was sitting here thinking, when I saw him up here so full of pride that this day had finally come to pass, of two things. First of all, about 8 months ago, Senator Moynihan said to me, "We have a lot of important business to do this year. And we'll have to fight like crazy on all of it. But if you will just come out and say, you're for an independent Social Security agency, I think we can do this unanimously. And that would be a very good thing for Congress to do." {LAUGHTER} And then I was wondering whether, if we waited 11 years we could be unanimous about every issue that comes before us. {LAUGHTER} I want to thank Senator Moynihan for his persistence and guidance and all the others who have worked so hard on this legislation.
+
+When Franklin Roosevelt made a speech to the New York legislature in 1931, he said this: "The success or failure of any government must be measured by the well-being of its citizens." That was the goal that moved him 59 years ago yesterday. On that day, in a ceremony in the Cabinet Room, just behind us, he signed the Social Security Act into law. And that is what guides us today.
+
+With an independent Social Security Administration, we are reinventing our Government to streamline our operations so that we can serve the American people better. We are strengthening those things which Social Security ought to do and taking precautions to make sure it does not do things which it ought not to do. It is proving that Government can still work to improve people's lives. And now Social Security, we know, will work even better.
+
+For millions of Americans, that signature 59 years ago transformed old age from a time of fear and want to a period of rest and reward. It empowered many American families as well, freeing them to put their children through college to enrich their own lives, knowing that their parents would not grow old in poverty. Nine years ago, thanks to that effort, for the first time in the history of the United States, the elderly had a lower poverty rate than the rest of the population.
+
+In fighting for Social Security and for so much else, President Roosevelt knew that the American people always would have a personal stake in overcoming the status quo when the need was great enough. That is something we should all remember as we go into the next few weeks, as we delay the August recess, as we struggle to come to grips with the challenges of this age, the challenge of crime, the challenge of health care.
+
+These kinds of changes are difficult, but they always have been. In 1935, even Social Security as we know it nearly died in a congressional committee, as Senators considered stripping away the old-age pension. Congress almost left town with this and other critical work unfinished. But they found the grit to work on through the summer of 1935, when they didn't have as much air-conditioning as we have today. And they accomplished so much in that period now known as the Second Hundred Days. President Roosevelt said then that that session of Congress would be regarded as historic for all time.
+
+What we do here today maintains that historic commitment. If we keep focus on the work we are sent here to do, what we do here today can be but the precursor of things that we also can do to benefit the American people that will be historic for all time.
+
+Now I'd like to ask the folks here to join me as I sign this bill. In the beginning, I will for a letter or two at least, use the pen that President Roosevelt used 59 years ago yesterday.
+
+Thank you very much.
+
+{/speech}

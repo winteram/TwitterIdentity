@@ -1,0 +1,25 @@
+﻿{title} Remarks by the Vice President to Overflow Crowd {/title}
+{event} ----- {/event}
+{speaker} Al Gore {/speaker}
+{date} January 28, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Are you fired up? {CHEERS}
+
+I'll tell you what, I haven't heard a cheer like that since Illinois beat Michigan. {APPLAUSE} You would have thought Kevin Turner and -- were introduced up here. {LAUGHTER} 
+
+Did you hear the speech at the warm-up event? {CHEERS}
+
+We wanted to get up a little speed and momentum for this one, the main event. Thank you for being here. {APPLAUSE} 
+
+I can't tell you what it means to us to have this enormous turnout and the wonderful enthusiasm that you're expressing in your cheers, in your clapping, in your welcome, in your support of the ideas and the agenda of President Bill Clinton. Thank you for being here. {APPLAUSE} 
+
+We are in a battle for the future of this country and we need your help. {APPLAUSE} We want to invest more in education and the environment and health care and people for the future, and your future in the 21st century. This President is putting before our nation a set of proposals that will make it possible for you to be the best prepared and best educated generation in American history; but we have to convince the Congress and the whole country to support the ideas that President Clinton presented in his State of the Union speech last night. 
+
+Well, ladies and gentlemen, we came here because you know in your hearts that these ideas and proposals are good for this country and we wanted to hear directly from you the kind of expressions that you're giving us here today. And with that, let me just say that I am proud to be here with you in standing by and supporting the person who is leading us to the 21st century, and I present him to you now, President William Jefferson Clinton. {APPLAUSE} 
+
+{/speech} 

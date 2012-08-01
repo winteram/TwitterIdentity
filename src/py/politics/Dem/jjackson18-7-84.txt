@@ -1,0 +1,279 @@
+﻿{title} Address before the Democratic National Convention {/title}
+{event} 1984 Democratic National Convention Speech {/event}
+{speaker} Jesse Jackson {/speaker}
+{date} July 18, 1984 {/date}
+{source} http://www.pbs.org/wgbh/pages/frontline/jesse/speeches/jesse84speech.html {/source}
+{description} In this July 17, 1984 speech in San Francisco, Jesse Jackson sought to heal the division created by his Presidential candidacy and pledged to support the candidacy of Walter Mondale. (Jackson had won almost 400 delegates, finishing behind Mondale and Gary Hart). Starting at 11 p.m., and for the next fifty minutes (with more television viewers watching than at any time in the convention), Jackson seemed to turn the convention hall into a great revival tent. Successive roars of applause kept swelling over the audience as Jackson's gospel-cadenced, impassioned oration galvanized his audience in the name of party unity. Throughout it, the television audience kept increasing--reaching 33 million viewers by the end. Many compared the speech to one of the greatest ever delivered at a nominating convention. "If you are a human being and weren't affected by what you just heard, you may be beyond redemption," declared Florida Governor Bob Graham. {/description}
+
+
+{speech}
+
+Tonight we come together bound by our faith in a mighty God, with genuine respect and love for our country, and inheriting the legacy of a great party, the Democratic Party, which is the best hope for redirecting our nation on a more humane, just and peaceful course.
+
+
+This is not a perfect party. We are not a perfect people. Yet, we are called to a perfect mission: our mission to feed the hungry; to clothe the naked; to house the homeless; to teach the illiterate; to provide jobs for the jobless; and to choose the human race over the nuclear race. {APPLAUSE}
+
+
+We are gathered here this week to nominate a candidate and adopt a platform which will expand, unify, direct and inspire our Party and the Nation to fulfill this mission. 
+
+
+My constituency is the desperate, the damned, the disinherited, the disrespected, and the despised. They are restless and seek relief. They've voted in record numbers. They have invested faith, hope and trust that they have in us. The Democratic Party must send them a signal that we care. I pledge my best to not let them down.
+
+
+There is the call of conscience, redemption, expansion, healing and unity. Leadership must heed the call of conscience, redemption, expansion, healing and unity, for they are the key to achieving our mission. Time is neutral and does not change things. With courage and initiative, leaders can change things.
+
+
+No generation can choose the age or circumstance in which it is born, but through leadership it can choose to make the age in which it is born, an age of enlightenment, an age of jobs and peace and justice. {APPLAUSE}
+
+
+Only leadership - that intangible combination of gifts, the discipline, information, circumstance, courage, timing, will and divine inspiration - can lead us out of the crisis in which we find ourselves. The leadership can mitigate the misery of our nation. Leadership can part the waters and lead our nation in the direction of the Promised Land. Leadership can lift the boats stuck at the bottom.
+
+
+I've had the rare opportunity to watch seven men, and then two, pour out their souls, offer their service and heal - and heed the call of duty to direct the course of our Nation. There is a proper season for everything. There is a time to sow, a time to reap. There is a time to compete, and a time to cooperate.
+
+
+I ask for your vote on the first ballot as a vote for a new direction for this Party and this Nation. {APPLAUSE} A vote of conviction, a vote of conscience. {APPLAUSE}
+
+
+But I will be proud to support the nominee of this convention for the Presidency of the United States of America. {APPLAUSE} Thank you.
+
+
+I have watched the leadership of our party develop and grow. My respect for both Mr. Mondale and Mr. Hart is great. I have watched them struggle with the crosswinds and crossfires of being public servants, and I believe they will both continue to try to serve us faithfully.
+
+
+I am elated by the knowledge that for the first time in our history a woman, Geraldine Ferraro, will be recommended to share our ticket. {APPLAUSE}
+
+
+Throughout this campaign, I've tried to offer leadership to the Democratic Party and the Nation. If in my high moments, I have done some good, offered some service, shed some light, healed some wounds, rekindled some hope, or stirred someone from apathy and indifference, or in any way along the way helped somebody, then this campaign has not been in vain. {APPLAUSE}
+
+
+For friends who loved and cared for me, and for a God who spared me, and for a family who understood, I am eternally grateful.
+
+If, in my low moments, in word, deed or attitude, through some error of temper, taste or tone, I have caused anyone discomfort, created pain or revived someone's fears, that was not my truest self. If there were occasions when my grape turned into a raisin and my joy bell lost its resonance, please forgive me. Charge it to my head and not to my heart. My head - so limited in its finitude; my heart, which is boundless in its love for the human family. I am not a perfect servant. I am a public servant doing my best against the odds. As I develop and serve, be patient. God is not finished with me yet. 
+
+
+This campaign has taught me much; that leaders must be tough enough to fight, tender enough to cry, human enough to make mistakes, humble enough to admit them, strong enough to absorb the pain and resilient enough to bounce back and keep on moving. {APPLAUSE}
+
+
+For leaders, the pain is often intense. But you must smile through your tears and keep moving with the faith that there is a brighter side somewhere.
+
+
+I went to see Hubert Humphrey three days before he died. He had just called Richard Nixon from his dying bed, and many people wondered why. I asked him. He said, "Jesse, from this vantage point, with the sun setting in my life, all of the speeches, the political conventions, the crowds and the great fights are behind me now. At a time like this you are forced to deal with your irreducible essence, forced to grapple with that which is really important to you. And what I have concluded about life," Huber Humphrey said, "When all is said and done, we must forgive each other, and redeem each other, and move on."
+
+
+Our party is emerging from one of its most hard fought battles for the Democratic Party's presidential nomination in our history. But our healthy competition should make us better, not bitter. {APPLAUSE}
+
+
+We must use the insight, wisdom, and experience of the late Hubert Humphrey as a balm for the wounds in our Party, this Nation and the world. We must forgive each other, redeem each other, regroup and move one.
+
+
+Our flag is red, white and blue, but our nation is a rainbow - red, yellow, brown, black and white - and we're all precious in God's sight. 
+
+
+America is not like a blanket - one piece of unbroken cloth, the same color, the same texture, the same size. America is more like a quilt - many patches, many pieces, many colors, many sizes, all woven and held together by a common thread. The white, the Hispanic, the black, the Arab, the Jew, the woman, the native American, the small farmer, the businessperson, the environmentalist, the peace activist, the young, the old, the lesbian, the gay and the disabled make up the American quilt. {APPLAUSE}
+
+
+Even in our fractured state, all of us count and all of us fit somewhere. We have proven that we can survive without each other. But we have not proven that we can win and progress without each other. We must come together. {APPLAUSE}
+
+
+From Fannie Lou Hamer in Atlantic City in 1964 to the Rainbow Coalition in San Francisco today; from the Atlantic to the Pacific, we have experienced pain but progress as we ended American apartheid laws, we got public accommodation, we secured voting rights, we obtained open housing, as young people got the right to vote. We lost Malcolm, Martin, Medgar, Bobby, John and Viola. The team that got us here must be expanded, not abandoned. {APPLAUSE}
+
+
+Twenty years ago, tears welled up in our eyes as the bodies of Schwerner, Goodman and Chaney were dredged from the depths of a river in Mississippi. Twenty years later, our communities, black and Jewish, are in anguish, anger and pain. Feelings have been hurt on both sides. 
+
+
+There is a crisis in communications. Confusion is in the air. But we cannot afford to lose our way. We may agree to agree; or agree to disagree on issues; we must bring back civility to these tensions.
+
+
+We are co-partners in a long and rich religious history - the Judeo-Christian traditions. Many blacks and Jews have a shared passion for social justice at home and peace abroad. We must seek a revival of the spirit, inspired by a new vision and new possibilities. We must return to higher ground. {APPLAUSE}
+
+
+We are bound by Moses and Jesus, but also connected with Islam and Mohammed. These three great religions, Judaism, Christianity and Islam, were all born in the revered and holy city of Jerusalem. 
+
+
+We are bound by Dr. Martin Luther King Jr. and Rabbi Abraham Heschel, crying out from their graves for us to reach common ground. We are bound by shared blood and shared sacrifices. We are much too intelligent; much too bound by our Judeo-Christian heritage; much too victimized by racism, sexism, militarism and anti-Semitism; much too threatened as historical scapegoats to go on divided one from another. We must turn from finger pointing to clasped hands. We must share our burdens and our joys with each other once again. We must turn to each other and not on each other and choose higher ground. {APPLAUSE}
+
+
+Twenty years later, we cannot be satisfied by just restoring the old coalition. Old wine skins must make room for new wine. We must heal and expand. The Rainbow Coalition is making room for Arab Americans. They, too, know the pain and hurt of racial and religious rejection. They must not continue to be made pariahs. The Rainbow Coalition is making room for Hispanic Americans who this very night are living under the threat of the Simpson-Mazzoli bill. {APPLAUSE} And farm workers from Ohio who are fighting the Campbell Soup Company with a boycott to achieve legitimate workers' rights. {APPLAUSE}
+
+
+The Rainbow is making room for the Native American, the most exploited people of all, a people with the greatest moral claim amongst us. We support them as they seek the restoration of their ancient land and claim amongst us. We support them as they seek the restoration of land and water rights, as they seek to preserve their ancestral homelands and the beauty of a land that was once all theirs. They can never receive a fair share for all they have given us. They must finally have a fair chance to develop their great resources and to preserve their people and their culture.
+
+
+The Rainbow Coalition includes Asian Americans, now being killed in our streets, scapegoats for the failures of corporate, industrial and economic policies.
+
+
+The Rainbow is making room for the young Americans. Twenty years ago, our young people were dying in a war for which they could not even vote. Twenty years later, young America has the power to stop a war in Central America and the responsibility to vote in great numbers. {APPLAUSE} Young America must be politically active in 1984. The choice is war or peace. We must make room for young America.
+
+
+The Rainbow includes disabled veterans. The color scheme fits in the Rainbow. The disabled have their handicap revealed and their genius concealed; while the able-bodied have their genius revealed and their disability concealed. But ultimately, we must judge people by their values and their contribution. Don't leave anybody out. I would rather have Roosevelt in a wheelchair than Reagan on a horse. {APPLAUSE}
+
+
+The Rainbow includes for small farmers. They have suffered tremendously under the Reagan regime. They will either receive 90 percent parity or 100 percent charity. We must address their concerns and make room for them.
+
+
+The Rainbow includes lesbians and gays. No American citizen ought to be denied equal protection from the law.
+
+
+We must be unusually committed and caring as we expand our family to include new members. All of us must be tolerant and understanding as the fears and anxieties of the rejected and of the party leadership express themselves in so many different ways. Too often what we call hate - as if it were some deeply rooted in philosophy or strategy - it is simply ignorance, anxiety, paranoia, fear and insecurity. {APPLAUSE}
+
+
+To be strong leaders, we must be long-suffering as we seek to right the wrongs of our Party and our Nation. We must expand our Party, heal our Party and unify our Party. That is our mission in 1984. {APPLAUSE}
+
+
+We are often reminded that we live in a great nation - and we do. But it can be greater still. The Rainbow is mandating a new definition of greatness. We must not measure greatness from the mansion down, but from the manger up.
+
+
+Jesus said that we should not be judged by the bark we wear but by the fruit that we bear. Jesus said that we must measure greatness by how we treat the least of these.
+
+
+President Reagan says the nation is in recovery. Those 90,000 corporations that made a profit last year but paid no Federal taxes are recovering. The 37,000 military contractors who have benefited from Reagan's more than doubling of the military budget in peacetime surely they are recovering. 
+
+
+The big corporations and rich individuals who received the bulk of a three-year, multibillion tax cut from Mr. Reagan are recovering. But no such recovery is under way for the least of these. Rising tides don't lift all boats, particularly those stuck at the bottom.
+
+
+For the boats stuck at the bottom there's a misery index. This Administration has made life more miserable for the poor. Its attitude has been contemptuous. Its policies and programs have been cruel and unfair to working people. They must be held accountable in November for increasing infant mortality among the poor. In Detroit {APPLAUSE} - in Detroit, one of the great cities in the western world, babies are dying at the same rate as Honduras, the most underdeveloped Nation in out hemisphere. This Administration must be held accountable for policies that have contributed to the growing poverty in America. There are now 34 million people in poverty, 15 percent of our Nation. Twenty-three million are White, 11 million Black, Hispanic, Asian and others. By the end of this year, there will be 41 million people in poverty. We cannot stand idly by. We must fight for change now. {APPLAUSE}
+
+
+Under this regime, we look at Social Security. The 1981 budget cuts included nine permanent Social Security benefit cuts totaling $20 billion over five years.
+
+
+Small businesses have suffered on the Reagan tax cuts. Only 18 percent of total business tax cuts went to them, 82 percent to big businesses.
+
+
+Health care under Mr. Reagan has already been sharply cut. Education under Mr. Reagan has been cut 25 percent. Under Mr. Reagan there are now 9.7 million female head families. They represent 16 percent of all families. Half of all of them are poor. Seventy percent of all poor children live in a house headed by a woman, where there is no man.
+
+
+Under Mr. Reagan, the Administration has cleaned up only six of 546 priority toxic waste dumps.
+
+
+Farmers' real net income was only about half its level in 1979.
+
+
+Many say that the race in November will be decided in the South. President Reagan is depending on the conservative South to return him to office. But the South, I tell you, is unnaturally conservative. The South is the poorest region in our nation and, therefore, the least to conserve. In his appeal to the South, Mr. Reagan is trying to substitute flags and prayer cloths for food, and clothing, and education, health care and housing. {APPLAUSE}
+
+Mr. Reagan will ask us to pray, and I believe in prayer. I have come to this way by power of prayer. But then, we must watch false prophecy. He cuts energy assistance to the poor, cuts breakfast programs from children, cuts lunch programs from children, cuts job training from children, and then says to an empty table, "Let us pray." {APPLAUSE} Apparently he is not familiar with the structure of prayer. You thank the Lord for the food that you are about to receive, not the food that just left. {LAUGHTER ; APPLAUSE} I think that we should pray, but don't pray for the food that left. Pray for the man that took the food - to leave. 
+
+
+We need a change. We need a change in November. {APPLAUSE}
+
+
+Under Mr. Reagan, the misery index has risen for the poor. The danger index has risen for everybody. Under this administration, we have lost the lives of our boys in Central America and Honduras, in Grenada, in Lebanon, in a nuclear standoff in Europe. Under this Administration, one-third of our children believe they will die in a nuclear war. The danger index is increasing in this world.
+
+
+All the talk about the defense against Russia; the Russian submarines are closer, and their missiles more accurate. We live in a world tonight more miserable and a world more dangerous. While Reaganomics and Reaganism is talked about often, so often we miss the real meaning. Reaganism is a spirit, and Reaganomics represents the real economic facts of life.
+
+
+In 1980, Mr. George Bush, a man with reasonable access to Mr. Reagan, did an analysis of Mr. Reagan's economic plan. Mr. George Bush concluded that Reagan's plan was "voodoo economics." He was right. {APPLAUSE}
+
+
+Third- party candidate John Anderson said "a combination of military spending, tax cuts and a balanced budget by 1984 would be accomplished with blue smoke and mirrors." They were both right.
+
+
+Mr. Reagan talks about a dynamic recovery. There's some measure of recovery. Three and a half yearslater, unemployment has inched just below where it was when he took office in 1981. There are still 8.1 million people officially unemployed, 11 million working only part-time. Inflation has come down, but let's analyze for a moment who has paid the price for this superficial economic recovery.
+
+
+Mr. Reagan curbed inflation by cutting consumer demand. He cut consumer demand with conscious and callous fiscal and monetary policies. He used the Federal budget to deliberately induce unemployment and curb social spending. He then weighed and supported tight monetary policies of the Federal Reserve Board to deliberately drive up interest rates, again to curb consumer demand created through borrowing. Unemployment reached 10.7 percent. We experienced skyrocketing interest rates. Our dollar inflated abroad. There were record bank failures; record farm foreclosures; record business bankruptcies; record budget deficits; record trade deficits. 
+
+
+Mr. Reagan brought inflation down by destabilizing our economy and disrupting family life. He promised - he promised in 1980 a balanced budget. But instead we now have a record toward a billion dollar budget deficit. Under Mr. Reagan, the cumulative budget deficit for his four years is more than the sum total of deficits from George Washington through Jimmy Carter combined. 
+
+
+I tell you, we need a change. {APPLAUSE} 
+
+
+How is he paying for these short-term jobs? Reagan's economic recovery is being financed by deficit spending - $200 billion a year. Military spending, a major cause of this deficit, is projected, over the next five years, to be nearly $2 trillion, and will cost about $40,000 for every taxpaying family.
+
+
+When the Government borrows $200 billion annually to finance the deficit, this encourages the private sector to make its money off of interest rates as opposed to development and economic growth. 
+
+
+Even money abroad, we don't have enough money domestically to finance the debt, so we are now borrowing money abroad, from foreign banks, governments and financial institutions: $40 billion in 1983; $70-80 billion in 1984 (40 percent of our total); and over $100 billion (50 percent of our total) in 1985. By 1989, it is projected that 50 percent of all individual income taxes will be going just to pay for interest on the debt. 
+
+The United States used to be the largest exporter of capital, but under Mr. Reagan we will quite likely become the largest debtor nation.
+
+
+About two weeks ago, on July 4th, we celebrated our Declaration of Independence, yet every day supply-side economics is making our Nation more economically dependent and less economically free. Five to six percent of our Gross National Product is now being eaten up with President Reagan's budget deficits. To depend on foreign military powers to protect our national security would be foolish, making us dependent and less secure, yet Reaganomics has us increasingly dependent on foreign economic sources.
+
+
+This consumer-led but deficit-financed recovery is unbalanced and artificial. We have a challenge as Democrats to point a way out. Democracy guarantees opportunity, not success. Democracy guarantees the right to participate, not a license for either a majority to dominate. The victory for the Rainbow Coalition in the Platform debates today was not whether we won or lost, but that we raised the right issues.
+
+
+We could afford to lose the vote; issues are non-negotiable. We could not afford to avoid raising the right questions. Our self-respect and our moral integrity were at stake. Our heads are perhaps bloody, but not bowed. Our back is straight. We can go home and face our people. Our vision is clear. {APPLAUSE}
+
+
+When we think, on this journey from slaveship to championship, that we have gone from the planks of the Boardwalk in Atlantic City in 1964 to fighting to help write the planks in the platform in San Francisco in 1984 there is a deep and abiding sense of joy in our souls in spite of the tears in our eyes. Though there are missing planks, there is a solid foundation upon which to build. Our party can win, but we must provide hope, which will inspire people to struggle and achieve; provide a plan that shows a way out of our dilemma and then lead the way.
+
+
+In 1984, my heart is made to feel glad because I know there is a way out - justice. The requirement for rebuilding America is justice. The linchpin of progressive politics in our nation will not come from the North, they in fact will come from the South. 
+
+
+
+That is why I argue over and over again. We look from Virginia around to Texas, there's only one black Congressperson out of 115. Nineteen years later, we're locked out the Congress, the Senate and the Governor's mansion. 
+
+
+What does this large black vote mean? Why do I fight to win second primaries and fight gerrymandering and annexation and at-large elections? Why do we fight over that? Because I tell you, you cannot hold someone in the ditch unless you linger there with them . {APPLAUSE} Unless you linger there. {APPLAUSE}
+
+
+If you want a change in this nation, you enforce that voting rights act. We'll get 12 to 20 Black, Hispanics, female and progressive congresspersons from the South. We can save the cotton, but we have got to fight the boll weevils. We have got to make a judgment. We have got to make a judgment.
+
+
+It is not enough to hope that ERA will pass. How can we pass ERA? If Blacks vote in great numbers, progressive Whites win. It is the only way progressive Whites win. If Blacks vote in great numbers, Hispanics win. When Blacks, Hispanics and progressive Whites vote, women win. When women win, children win. When women and children win, workers win. We must all come together. We must come together. {SPONTANEOUS-DEMONSTRATION} Thank you.
+
+
+I tell you, in all our joy and excitement, we must not save the world and lose our souls. We should never short-circuit enforcing the Voting Rights Act at every level. When one of us rises, all of us will rise. Justice is the way out. Peace is the way out. We should not act as if nuclear weaponry is negotiable and debatable.
+
+
+In this world in which we live, we dropped the bomb on Japan and felt guilty, but in 1984 other folks have also got bombs. This time, if we drop the bomb, six minutes later we, too, will be destroyed. It is not about dropping the bomb on somebody. It is about dropping the bomb on everybody. We must choose to develop minds over guided missiles, and then think it out and not fight it out. It is time for a change. {APPLAUSE}
+
+
+Our foreign policy must be characterized by mutual respect, not by gunboat diplomacy, big stick diplomacy and threats. Our Nation at its best feeds the hungry. Our Nation at its worst, at its worst, will mine the harbors of Nicaragua; at its worst will try to overthrow their government, at its worst will cut aid to American education and increase the aid to El Salvador; at its worst, our Nation will have partnership with South Africa. That is a moral disgrace. It is a moral disgrace. It is a moral disgrace. {APPLAUSE}
+
+
+We look at Africa. We cannot just focus on Apartheid in Southern Africa. We must fight for trade with Africa, and not just aid to Africa. We cannot stand idly by and say we will not relate to Nicaragua unless they have elections there, and then embrace military regimes in Africa overthrowing democratic governments in Nigeria and Liberia and Ghana. We must fight for democracy all around the world, and play the game by one set of rules.
+
+
+Peace in this world. Our present formula for peace in the Middle East is inadequate. It will not work. There are 22 nations in the Middle East. Our nation must be able to talk and act and influence all of them. We must build upon Camp David, and measure human rights by one yard stick. In that region we have too many interests and too few friends.
+
+
+There is one way out, jobs. Put America back to work.
+
+
+When I was a child growing up in Greenville, South Carolina, the Reverend Sample used to preach ever so often a sermon relating to Jesus and he said, "If I be lifted up, I will draw all men unto me." I didn't quite understand what he meant as a child growing up, but I understand a little better now. If you raise up truth, it is magnetic. It has a way of drawing people.
+
+
+With all this confusion in this Convention, the bright lights and parties and big fun, we must raise up the single proposition: If we lift up a program to feed the hungry, they will come running; if we lift up a program to start a war no more, our youth will come running; if we lift up a program to put America back to work, and an alternative to welfare and despair, they will come running.
+
+
+If we cut that military budget without cutting our defense, and use that money to rebuild bridges and put steel workers back to work, and use that money and provide jobs for our cities, and use that money to build schools and pay teachers and educate our children, and build hospitals, and train doctors and train nurses, the whole nation will come running to us. {APPLAUSE}
+
+
+As I leave you now, we vote in this convention and get ready to go back across this nation in a couple of days, in this campaign I tried to be faithful to my promise. I lived in old barrios, ghettos and in reservations and housing projects. 
+
+
+I have a message for our youth. I challenge them to put hope in their brains and not dope in their veins. {APPLAUSE} I told them that like Jesus, I, too, was born in the slum, and just because you're born in a slum does not mean the slum is born in you and you can rise above it if your mind is made up. {APPLAUSE} I told them in every slum there are two sides. When I see a broken window that's the slummy side. Train some youth to become a glazier; that is the sunny side. When I see a missing brick, that is the slummy side. Let that child in a union and become a brick mason and build; that is the sunny side. When I see a missing door, that is the slummy side. Train some youth to become a carpenter, that is the sunny side. When I see the vulgar words and hieroglyphics of destitution on the walls, that is the slummy side. Train some youth to be a painter and artist, that is the sunny side. 
+
+
+We leave this place looking for the sunny side because there's a brighter side somewhere. I am more convinced than ever that we can win. We will vault up the rough side of the mountain. We can win. I just want young America to do me one favor, just one favor.
+
+
+Exercise the right to dream. You must face reality, that which is. But then dream of a reality that ought to be, that must be. Live beyond the pain of reality with the dream of a bright tomorrow. Use hope and imagination as weapons of survival and progress. Use love to motivate you and obligate you to serve the human family. 
+
+
+Young America, dream. Choose the human race over the nuclear race. Bury the weapons and don't burn the people. Dream - dream of a new value system. Teachers who teach for life and not just for a living; teach because they can't help it. Dream of lawyers more concerned about justice than a judgeship. Dream of doctors more concerned about public health than personal wealth. {APPLAUSE} Dream of preachers and priests who will prophesy and not just profiteer. Preach and dream! Our time has come. Our time has come.
+
+
+Suffering breeds character. Character breeds faith, and in the end faith will not disappoint. Our time has come. Our faith, hope and dreams have prevailed. Our time has come. Weeping has endured for nights but that joy cometh in the morning. 
+
+
+Our time has come. No grave can hold our body down. Our time has come. No lie can live forever. Our time has come. We must leave the racial battle ground and come to the economic common ground and moral higher ground. America, our time has come. 
+
+We come from disgrace to amazing grace. Our time has come. Give me your tired, give me your poor, your huddled masses who yearn to breathe free and come November, there will be a change because our time has come. 
+
+
+Thank you and God bless you.
+
+{SPONTANEOUS-DEMONSTRATION}
+
+{/speech}

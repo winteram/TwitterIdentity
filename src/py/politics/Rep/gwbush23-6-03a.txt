@@ -1,0 +1,85 @@
+﻿{title} Remarks by the President at the Bio 2003 Convention Center and Exhibition {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 23, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} President Bush Urges Congress to Pass BioShield Legislation {/description}
+
+
+{speech} 
+
+Thanks a lot. Welcome to the nation's capital, and thanks for having me drop by. 
+
+I knew Tommy was here when I saw his Harley Davidson parked out front. {LAUGHTER} So I just put my Segway right next to it. {LAUGHTER} 
+
+It is a pleasure to be with so many leaders in such a vital industry. Each of you is carrying on the incredible work began some 50 years ago by Doctors Watson and Crick. Since then, biotechnology is advancing knowledge and relieving suffering. In the years to come, the contributions of your industry will help us to win the war on terror, will help us fight hunger around the world and will help us to save countless lives with new medicines. 
+
+My administration is committed to working with your industry so that the great powers of biotechnology can serve the true interests of our nation and mankind. 
+
+Tommy Thompson is the Secretary of Health and Human Services. He is the point man for this administration on biotechnology and other matters of national health. And he is doing a fantastic job for America. {APPLAUSE} Thank you, buddy. 
+
+I want to thank Carl Feldbaum for inviting me and inviting you. I want to thank the -- and welcome the premiers and ministers and ambassadors and distinguished guests from around the world who are here today. I want to thank the members of Congress who are here, some of our nation's governors have joined us today. 
+
+I understand the Mayor is here -- I always like to see the Mayor and remind him that potholes in front of the White House need to be repaired on a regular basis. {LAUGHTER} 
+
+I appreciate my Commissioner, the man I named to head the Food and Drug Administration, Mark McClellan, for his service to the country. {APPLAUSE} 
+
+The biotechnology industry finds itself on the front lines of some of the great challenges of our time. The first challenge is the need to fight terror. All of us know the great possibilities of modern science, when it is guided by good and humane purposes. We understand, as well, the terrible harm that science can do in the hands of evil people. 
+
+On September the 11th, 2001 the world saw what terrorists could do with commercial airliners turned into weapons of mass murder. We know that our enemies have ambitions to acquire and use biological, chemical and nuclear weapons. We will not sit idly by as these threats gather, and we will continue to act before dangers are upon us. The most direct way, the best way of removing threats to our country is to eliminate them at their source. And that's what the United States of America has done and we will do by waging a focused, relentless effort to hunt down any terrorist that would harm the United States of America and our citizens. {APPLAUSE} 
+
+And we're making progress. We have captured or killed many key leaders of al Qaeda. And the other one knows we're hot on their trail. In Afghanistan and Iraq, we gave ultimatums to terror regimes. Those regimes chose defiance, and those regimes are no more. {APPLAUSE} 
+
+As we take the battle to the enemy, we must always remember where the battle began: here in our own country. So we've reorganized government to defend the homeland -- with greater security at our borders and ports, with more screeners at airports, and the nation's first environmental sensors, a network of labs to quickly detect a biological attack. 
+
+A key part of our all-out effort to prepare for the threat of bio-terror is what this administration has called Project Bioshield. I have proposed that our government spend nearly $6 billion over the next 10 years to speed the research, production and availability of effective vaccines and treatments against small pox and anthrax, botulin toxin, E-bola plague and other possible agents of bioterror. 
+
+Under Project BioShield, the government will have the spending authority to ensure that the most advanced vaccines and treatments are available to our people. Project BioShield will give our scientific leaders greater authority and more flexibility in decisions that may affect our national security. Our labs will be able to hire the right experts, to buy the right equipment and to speed the construction of the right facilities to accelerate urgently needed discoveries. 
+
+Like other great scientific efforts, Project BioShield will have applications beyond its immediate goals. As scientists work to defeat the weapons of bioterror, I know they will gain new insights into the workings of other diseases. And this will also break new ground for the search for treatments and cures. 
+
+And this, in turn, can provide great benefits for all humanity, especially in developing countries, where infectious diseases often go uncontrolled. Your industry must stay involved with this issue. If you're interested in seeing more flexibility and more research dollars for the sake of national security, I need your help in lobbying the members of the United States Congress. And the message is clear: for the sake of our national security, the United States Congress must pass the BioShield legislation as soon as possible. {APPLAUSE} 
+
+Your industry is also helping this country and the world to meet a second great challenge: sparing millions of people from starvation. America and other wealthy nations have a special responsibility to combat hunger and disease in desperate lands. We meet that responsibility with emergency food in times of crisis. Next year the United States will devote more than a billion dollars providing food and aid to the hungry. But for the long-term, we must help troubled nations to avert famine by sharing with them the most advance methods of crop production. 
+
+Through the work of scientists in your field, many farmers in developed nations are able to grow crops with high resistance to drought and pests and disease; enable farmers to produce far greater yields per acre. In our own country, we see the benefits of biotech every day with food prices and good land conservation practices. Yet, the great advantages of biotechnology have yet to reach developing nations in Africa and other lands where these innovations are now most needed. 
+
+Acting on unfounded, unscientific fears, many European governments have blocked the import of all new biotech crops. Because of these artificial obstacles many African nations avoid investing in biotechnology, worried that their products will be shut out of important European markets. 
+
+For the sake of a continent threatened by famine I urge the European governments to end their opposition to biotechnology. {APPLAUSE} 
+
+We should encourage the spread of safe, effective biotechnology to win the fight against global hunger. {APPLAUSE} 
+
+Finally, your industry is in the forefront of improving health care for all Americans, and we are grateful. Thanks to biotechnology, we may soon be able to grow life-saving therapies and useful chemicals in plants. Biotechnology might allow scientists to produce large amounts of monoclonal antibodies, which target specific, disease-causing molecules without attacking healthy cells. We're closing in on the ability to protect and fight against a range of illnesses, including cancer, and HIV and heart disease. 
+
+In coming years we will see further innovations, like insulin, that can be inhaled rather than administered by a needle. Men and women in your field are at work on synthetic blood that is free from infections and capable of being administered to all blood types. New therapies are nearing which will enable doctors to look at diseases for genetic markers and then give patients individualized treatments. The future of medicine in the United States of America is incredibly bright because of your work and your skill and your research. 
+
+Our biotechnology industry is the strongest in the world, and we need to keep it that way. {APPLAUSE} 
+
+And now we have a challenge to make sure that many of the advances you have made in making sure out health care system can be world-class is extended to all Americans, especially our senior citizens. {APPLAUSE} 
+
+The Medicare system has served seniors well for nearly four decades. Yet, while medicine has dramatically advanced, Medicare hasn't. The program was designed at a time when hospital stays were common and drug therapies were rare. Thanks to your efforts, there are drugs and other treatments that can dramatically reduce hospital stays which, in turn, improves quality of care and quality of life. We have a responsibility to improve and strengthen Medicare by making modern medicine an integral part of the Medicare system, and that includes prescription drugs for all our seniors. {APPLAUSE} 
+
+This is a goal you have supported for several years. And if we finally put aside partisan politics and focus on what's right for American seniors, I believe we can achieve the goal this year. {APPLAUSE} 
+
+The debate is on in the United States Congress. And I've submitted a framework for reform that insists that our seniors have choices under Medicare so that affordable health care plans compete for their business and give them the coverage they need, not the coverage that a Washington bureaucrat thinks they need. {APPLAUSE} 
+
+The principle of choice, of trusting people to make their own health care decisions is behind the health plan enjoyed by every person on the federal payroll, including the members of the United States Congress. All federal employees get to choose their health care plan. Health care plans compete for their business. Members of Congress have got excellent choices. If the choice idea is good enough for the lawmakers, it ought to be good enough for the seniors of the United States of America. {APPLAUSE} 
+
+Seniors who want to stay in the current Medicare system should have that option, plus a new prescription drug benefit. Seniors who want enhanced benefits, such as more coverage for their preventative care and other services should have that choices, as well. Seniors who like the affordability of managed care plans should be able to enroll in them. And low-income seniors should receive extra help, so that all seniors will have the ability to choose a Medicare option that includes prescription drug benefits. 
+
+As we pursue Medicare reform, we must make sure that whatever system evolves does not undermine America's biotechnology industry. We need to keep rewarding innovation and protecting competition without unnecessary intervention by the government. When the government determines which drugs are covered by health insurance and which illnesses are treated, patients face delays and inflexible limits on coverage. That is a fact. Medicine works best when doctors and their patients decide what treatments to pursue. {APPLAUSE} 
+
+We're making progress on this important issue. The House committee has marked up legislation. The Senate is actively debating the issue on the floor. We have a chance to finally modernize Medicare, and I ask for your help. Please contact your senators and members of the United States House of Representatives, ask them to take a tough vote, if need be, to modernize a system which needs to be saved. 
+
+And as you make your voices heard on necessary reform for Medicare, make sure you make your voices heard on making sure that we have legal reform in America, as well. We sue each other too much in the United States of America. {APPLAUSE} 
+
+We passed a medical liability reform bill and a class action reform bill out of the House of Representatives. These bills are stuck in the United States Senate. For the sake of a balanced legal system, we need tort reform in Washington, D.C. {APPLAUSE} And I call upon the United States Senate to act, to pass meaningful liability and class action suit reforms now. {APPLAUSE} 
+
+These are times of great challenge for this country. Our country must continue to meet the grave dangers of bioterrorism. We've got to continue to work to help relieve suffering around the world. And we've got to continue to seek cures to terrible diseases. In all of this, we're relying on the skill and conscience of scientists in the field of biotechnology. 
+
+As men and women of science you have accepted a moral calling to improve lives and to save lives. That calling also requires a deep respect for the value of every life. Because even the most noble ends do not justify any means. This nation is counting on your to serve the true interests of all humanity. You face great challenges, yet you're an industry who welcomes challenge. Your hard work and inspiration have produced incredible successes. You have made us all proud. After all, millions of people are in your debt. The American people are grateful for your many achievements and we look forward to the many achievements yet to come. 
+
+May God bless your work, and may God continue to bless America. {APPLAUSE} 
+
+{/speech} 

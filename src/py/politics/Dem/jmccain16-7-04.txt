@@ -1,0 +1,24 @@
+﻿{title} Vice President's Remarks at a Bush-Cheney '04 Rally {/title}
+{event} Bush-Cheney '04 Rally {/event}
+{speaker} John McCain {/speaker}
+{date} July 16, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{COMMENT="In progress"} In short, my friends, Vice President Cheney is not just another pretty face. {LAUGHTER} He helped lead America in the difficult year, following the end of the Vietnam War and President Nixon's resignation. He helped end the Cold War and assist long-captive nations of the Soviet Empire recover their freedom and reap for themselves the blessings of democracy and free markets. As Secretary of Defense, he was responsible for shaping the future of our military forces in an era of profound and rapid change, helped liberate Panama from the tyranny of its corrupt self-appointed leaders and, of course, helped lead Operation Desert Shield and Desert Storm to defeat Iraqi aggression that threatened the independence of other Middle Eastern countries.
+
+Now as Vice President, he is in effect deputy commander-in-chief in the great test of our generation. He stands shoulder to shoulder with the President in this long, tough fight to vanquish international terrorism, not reduce, not change its operations, not temporarily reduce it but to vanquish and make it unmistakably clear to all the Bin Ladens of the world what a fatal mistake it is to attack the United States of America.
+
+After a decade of failed diplomatic efforts, sanctions, and limited military pressure to compel Saddam Hussein to honor the obligations he accepted after the end of the Gulf War, the President could count on the experience and wisdom of his Vice President when he made the difficult decision to liberate Iraq from the tyranny of Saddam Hussein. Whether Saddam then possessed the terrible weapons that every intelligence service on earth believed he possessed, he had used them before, and I have no doubt, was firmly determined to acquire them again for what terrible purpose we can only anticipate with dread. That was a risk George Bush and Dick Cheney knew we just couldn't afford in this new, violent age of terrorism.
+
+To the work of many American generations who protected our interests and championed our values abroad must now be added the defense of our freedoms here at home from a clear and present danger. We are very fortunate that our President in these challenging days can rely on the council of a man who has demonstrated time and again the resolve, experience, and patriotism that will be required for success and the hard-headed clear-thinking necessary to prevail in this global fight between good and evil. That's why I'm honored to introduce to you the indispensable and very debonair Vice President of the United States, Dick Cheney. {APPLAUSE}
+
+I like to tell people that Lynne and I got married because Dwight Eisenhower got elected President in 1952. You may think that there are not long-range consequences to elections, but I got to tell you there are. {LAUGHTER} In 1952, I was living in Lincoln, Nebraska with my folks. Dad worked for the Department of Agriculture. Eisenhower got elected, he reorganized the Agriculture Department. Dad was transferred to Casper, Wyoming, and that's where I met Lynne. We grew up together, went to high school together. As I say, we'll mark our 40th wedding anniversary in August. I pointed out to a group the other night if Eisenhower hadn't won that election, Lynne would have married somebody else. {LAUGHTER} And she said, right, and now he'd be Vice President of the United States. {LAUGHTER ; APPLAUSE} 
+
+The President and I are tremendously grateful for all the support we have in Michigan. He was in the Upper Peninsula on Tuesday, up at Marquette. {APPLAUSE} You're going to see a lot of both of us in the next 109 days. {APPLAUSE} And with your help, Michigan is going to be part of a great nationwide victory come November. {APPLAUSE}
+
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE} {APPLAUSE} 
+
+{/speech}

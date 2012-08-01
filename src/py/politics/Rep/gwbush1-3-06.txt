@@ -1,0 +1,26 @@
+﻿{title} President Thanks U.S. and Coalition Troops in Afghanistan {/title}
+{event} Clam Shell Bagram Air Base, Afghanistan {/event}
+{speaker} George W. Bush {/speaker}
+{date} March 1, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thanks for having us. {APPLAUSE} Laura and I are honored to be here in Afghanistan with you. It's a real pleasure to be with our country's finest citizens. {APPLAUSE} I want to thank General Eikenberery and General Freakley and all those who are taking responsibility to make sure we complete our mission.
+
+I particularly want to thank the members of the United States Army and Marines and Air Force and Navy who are here. Laura and I thank the civilian contractors who are here. I'm really pleased to be with the 10th Mountain Division. {APPLAUSE} Climb to Glory. {APPLAUSE}
+
+I know it's not easy to be away from home, but I want you to understand that you're on the frontier of freedom, that you're involved with doing two important things. One is finding an enemy and bringing them to justice so they don't hurt our fellow citizens again. {APPLAUSE} That mission requires steadfast determination. The enemy cannot defeat us militarily. The only thing they can do is to kill innocent lives and try to shake our will. But they don't understand the United States of America. We will never be intimidated by thugs and assassins. We will defeat the enemy and win the war on terror. {APPLAUSE}
+
+And the other thing you're doing is to help this new democracy not only survive, but to flourish. Laura and myself and Secretary Condi Rice who is with us here -- {APPLAUSE} -- step on over here. {APPLAUSE} We just met with President Karzai. And my message to the people of Afghanistan is -- was the following. One, it takes courage to get rid of a tyrant, or tyrannical governments, and to recognize that the future belongs to democracy. That's not easy work. It's hard to recognize that people ought to be allowed to worship freely and speak their minds freely after living under the grips of the tyrant.
+
+Our other message was, is that the United States doesn't cut and run. {APPLAUSE} When we make a commitment, we keep our commitments. It's in our national interest that the work you're doing here, the work of helping the Afghans develop a democracy -- it's in the interests of your children and your grandchildren. Because, you see, democracies yield the peace we all want. History has taught us democracies don't war. Democracies -- you don't run for office in a democracy and say, please vote for me, I promise you war. {LAUGHTER} You run for office in democracies, and say, vote for me, I'll represent your interests; vote for me, I'll help your young girls go to school, or the health care you get improved.
+
+Democracies yield peace, and that's what we want. What's going to happen in Afghanistan is a neighborhood that has been desperate for light instead of darkness is going to see what's possible when freedom arrives. What's going to happen in Afghanistan, it's going to send a signal not only in the neighborhood, but around the world, that freedom is the potential. The United States of America believes that freedom is universal. Freedom is not our gift to the world, freedom is the gift from an Almighty to every single person in this world. {APPLAUSE}
+
+I'm proud of our United States military. Many of you volunteered for service after September the 11th, 2001. {APPLAUSE} You saw that our nation was attacked, and when the country called upon you, you said, let me serve, let me join in the fight to defeat the terrorists, so attacks like that will never occur on our soil again. And that's what you're doing here in Afghanistan. You're changing -- you're helping to change this part of the world, and change the world with your courage and your sacrifice. I assure you that this government of yours will not blink, we will not yield. We're on the right course, and the world is going to be a better place because of your service. {APPLAUSE}
+
+So we're here to thank you. I want you to email or call your friends, and more important your families, and told them the old Commander-in-Chief showed up for a little bit -- {APPLAUSE} -- with a message of appreciation not only for you, but for your loved ones, as well. I ask for God's blessings on your and your mission, God's blessings on our country. Thank you for letting us come by. 
+
+{/speech}

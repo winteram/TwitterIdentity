@@ -1,0 +1,52 @@
+﻿{title} Remarks by the President to Students And Teachers at Patrick Henry Elementary {/title}
+{event} Patrick Henry Elementary {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 9, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+First of all, I want to thank all the people here at Patrick Henry for making us feel so welcome. I thank Principal Lila Ingman for making me feel right at home here, and these five young students who have been terrific. They took me to lunch today and introduced me to some of their classmates. We played "Where's Waldo?" and had a great lunch. And I thank them for that.
+
+I want to thank Senator Robb and Congressman Moran for coming with me; and of course, our distinguished Secretary of Education Dick Riley, and Ellen Haas, the Under Secretary of Agriculture for Food, Nutrition and Consumer Services. Mayor Ticer, we're glad to be here in your community; thank you. And I'm glad that Dr. Jim Moeller who is here, head of the American Heart Association and a strong supporter of the effort for healthy meals in our public schools throughout the country.
+
+I thank Maxine Wood, the Superintendent of Schools; and Berniece Johnson Green, the Vice Chair of the School Board, and the other representatives of this school system who are here.
+
+I'm glad to be here today to participate for the first time in quite a few years in a school lunch program. I ate at my school cafeteria for most of my years in grade school and junior high and high school, but it's been quite a few years since I've had a chance to do this, except with Chelsea on occasion over the years.
+
+Over 25 million young schoolchildren in this country eat school lunches daily. And for many of them it's their only nutritious meal in the day. This program has been around since the year I was born, 1946, when President Truman signed it into law as a matter of national security, to ensure that our children are properly fed.
+
+For 50 years, this program has had strong bipartisan support. In 1969, President Nixon said, "A child ill-fed is dulled in curiosity, lower in stamina, distracted from learning." I received a letter from a woman from California who said -- and I quote -- "I'm glad there were free and reduced lunches for children; otherwise my kids would have starved." She was working full-time as a nurse's aide while her children were in school.
+
+This week's newspapers, of course, are full of similar stories. Yesterday, I read about a cafeteria worker who said she sees kids every day who are so hungry, they practically eat the food from other children's plates.
+
+School lunches have always been seen by both Democrats and Republicans as an essential part of student education. Last year, with the leadership of Ellen Haas, we took some further steps to make meals more nutritious, to increase their vitamin and mineral content, and reduce their fat and sodium content -- and the Congress ratified that in a piece of legislation passed last year. Unfortunately, this year, some members of the new Congress have decided that cutting this program would be a good way of cutting government spending and financing tax cuts for upper-income Americans.
+
+This is penny-wise and pound-foolish. While saving some money now, these nutrition programs for schoolchildren and for women and for infants save several dollars in social costs for every dollar we spend on them. The American people want a government that works better and costs less, not a government that works worse and costs more.
+
+These Republican proposals will cost us dearly -- in the health of our children, the quality of our schools, and the safety of our streets. I have done everything I could for the last two years to fight for the economic interests of middle-class Americans, to help poor people to work their way into the middle class, and to support the values of responsibility, family, work and community. This proposal undermines that.
+
+We have to give our children more support so they can make the most of their own lives. This school lunch proposal, of course, is not the only thing in the Republican rescission proposal that is penny-wise and pound-foolish, that sacrifices enormous future prosperity and health for America for present, short-term gains.
+
+The rescissions would deprive 15,000 of the opportunity to serve in AmeriCorps, 100,000 educationally disadvantaged students would lose their special services. Drug prevention programs that will now go to 94 percent of our schools would be eliminated. Drug prevention funds that go for security measures for police officers and for education and prevention efforts would be eliminated. And, of course, 1.2 million summer job opportunities for young people would be eliminated.
+
+This is hardly what I call "putting people first." This will advance not the economic interests of the middle class, it will not restore the American Dream, it will not help the poor to work their way into prosperity, it will simply achieve some short-term gains in order to finance either spending cuts or tax cuts to upper- income Americans.
+
+I know we have to reduce the deficit. Last year, with the help of Senator Robb and Congressman Moran in 1993, excuse me, we cut the deficit by $600 billion. I've given Congress $144 billion in further budget cuts. I will work with them to find more; but not in the area of education or health, or nutrition for our children and our future.
+
+We ought to be here expanding opportunity, not restricting it. But let me say, again, to Patrick Henry, to the school, to the school leaders and most of all to these fine students, you have given me and Senator Robb and Congressman Moran and Dr. Moeller a wonderful experience, and you have also helped once again to tell the American people that the school lunch program should not be put on the chopping block. Let's go out there, let's defend it, let's keep it, let's invest more in education and find other ways to cut the deficit.
+
+Thank you very much. {APPLAUSE}
+
+{AUDIENCE-MEMBER} Mr. President, are there any rescissions that the Republicans have been proposing in the House that you would support? {/AUDIENCE-MEMBER} 
+
+We're going through them; there may well be. But they know which ones I don't support. And let me just say, we're about to move into the debate on the line-item veto, which gives us a permanent mechanism to get rescissions, if you will, every year. And if they will pass the line-item veto, I'll work with them, we'll cut spending, and we'll continue to reduce this deficit.
+
+But we don't need to reduce our investment in education, in child health, in medical research and technology, and in efforts to keep people off drugs and protect our children and our schools from the drug problem.
+
+I am more than -- I have proved that I will cut spending and I will cut some more. But look at the Agriculture Department. They want to cut the school lunch program; we closed 1,200 Agriculture Department offices instead. That's the kind of decisions we need to make, and we'll make the right decisions if we'll work together. And I think I speak for all of us here in saying there is a way to restore our country's fiscal health and still support our children and our future. That's what we're committed to.
+
+Thank you. 
+
+{/speech}

@@ -1,0 +1,30 @@
+﻿{title} Remarks By The President at Kick-off For Wounded Warrior Soldier Ride {/title}
+{event} Kick-off For Wounded Warrior Soldier Ride {/event}
+{speaker} Barack Obama {/speaker}
+{date} April 30, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. {APPLAUSE} It's good weather for a race -- not too hot.
+Thank you, Secretary Gates, for your introduction, and more importantly, for the extraordinary job you're doing as our Secretary of Defense. I want to thank Secretary Shinseki, who served our country with extraordinary valor and courage, who was wounded in Vietnam, and who's leading our efforts to create a 21st century VA.
+I want to thank my friend, Tammy Duckworth, who lost her legs in Iraq, and never stopped serving her country when she came home. I got to know Tammy in my home state of Illinois, and I know that she is going to be a great Assistant Secretary of the VA. {APPLAUSE}
+And thanks to all of those at Walter Reed and the National Naval Medical Center in Bethesda, the VA, and the Pentagon who have joined us today, and for all that you do for our wounded warriors. Welcome to the White House.
+There are heroes among us today -- men and women who served their country without falter, without fail; men and women who selflessly risked their lives on behalf of others, so that others might live. Soldiers like Sergeant Jeremiah Church, who was shot while defending his unit from an ambush in Iraq, but kept fighting until he lost consciousness. Soldiers like Sergeant First Class Rashe Hall, who, despite being badly wounded by a rocket-propelled grenade, repeatedly charged a Taliban ambush in Afghanistan so that his men might get to safety, then returned to give them first aid before receiving his own.
+And soldiers like Staff Sergeant Dillon Behr from my home state of Illinois. While in Afghanistan last year, his unit came under heavy fire. Despite sustaining not one, but two life-threatening injuries, he held his position and fought for six and a half hours until he could no longer hold a weapon -- all so that American and Afghan troops might move to safety. Today, he's undergoing rehab at Walter Reed, and he's going to college as he pursues the next chapter in his life of service.
+These men served with extraordinary bravery. They saved lives. And these men were awarded the Silver Star for Valor. They were there for their brothers and sisters in the United States Armed Forces no matter what. And that's the idea behind the Soldier Ride we're kicking off today.
+Now, like a lot of great ideas, this one was conceived in a bar. {LAUGHTER ; APPLAUSE} A young bartender on Long Island named Chris Carney began talking about biking across the country to raise funds and awareness for returning troops and wounded warriors. And his boss said to him, "If you don't do it, I'll find somebody who will."
+So Chris hopped on his bike for what became the first annual Soldier Ride. The next year, a couple of wounded warriors joined him. A year later, even more. Civilians started to ride along. Grateful Americans began lining the streets to cheer and show their support. More rides were added, and more money was raised.
+And five years after that first ride, I'm honored to have 40 wounded warriors gathered here on the South Lawn to kick off the third annual "White House to the Lighthouse" Challenge. Over the next three days -- {APPLAUSE} -- over the next three days these men and women, along with family and supporters, will ride from here to Annapolis on bicycles and in wheelchairs, raising money and awareness for others returning from Iraq and Afghanistan with serious injuries.
+Keep in mind that today's riders once faced down the possibility that they might never have an active lifestyle again. Some are missing limbs, coping with nerve damage, living with Traumatic Brain Injury or blindness. Some have endured painful rehabilitation, some still are, and some have battles yet to come.
+These wounded warriors didn't get to choose the direction their lives would take the instant they were injured. But now they choose to prove that life after injury isn't about what you can't do -- it's about what you can. They choose to keep their faith with the future. They choose to keep fighting for their brothers and sisters and show them that they're not alone.
+We also remember that so many are supported by spouses and children, parents and siblings who suffered the absence of a loved one, and then stood by their side through their recovery. These military families are heroes, too. And they are a top priority for Michelle and me, and they will always have our support.
+To anyone who's along their route this weekend, I ask you to go out there and cheer. Salute. Say thank you. And we'll do our part to support our troops, their families, and all who have worn the uniform of the United States of America -- because when it comes to their service and sacrifice, warm words and gestures are more than warranted, but they're not nearly enough.
+Our veterans deserve the care they were promised and the benefits that they have earned. And as long as I'm Commander-in-Chief, that's what they'll get. {APPLAUSE} Just as these wounded warriors are there for one another, this country is going to be there for them.
+And now I'm going to blow a horn and get this thing started. {APPLAUSE}
+So who has got the horn? Oh, this is the official horn? Hair trigger, white button. All right. {LAUGHTER} Everybody -- let's make sure everybody is lined up properly. Everybody all set? I don't want to catch anybody off-guard here.
+All right, on your mark, get set -- {COMMENT="The President blows the horn"}
+{APPLAUSE} 
+
+{/speech}

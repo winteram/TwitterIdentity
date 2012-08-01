@@ -1,0 +1,38 @@
+﻿{title} Remarks by the President at Volunteer Appreciation Event {/title}
+{event} The South Lawn {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 8, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you so very much. Thank you. It is great to be with all of you. It's especially great to be with you on Election Day. {APPLAUSE} I hope all of you have had a chance to go to the polls, and if you haven't, I hope you'll go before they close tonight.
+
+This is a fitting time for the event honoring the White House volunteers because as people all around our country go out and exercise right to vote, they're exercising their full right and their full responsibility as an American; just as all of you do through you service in the White House.
+
+At these midterm elections, it is critical that people understand that there are clear choices between going forward and going back; between a government that works for ordinary families and one that works for organized interests; between a government that does something about our great national problems like crime and one that just tries to talk them to death.
+
+It is very important in this election season that the American people not vote in anger or cynicism. You know, these last eight days I had the opportunity to go out and make our case to the American people have been bracketed by two events that ought to deny that: first, the opportunity I had to represent you in the Middle East, seeing our young men and women in uniform in the Gulf, going to the signing of the peace treaty. {APPLAUSE}
+
+I looked in the eyes of millions of people. I saw how they viewed our country. They know this is a great country. They know we have a strong defense, a strong economy, and we are now also number one in making peace around the world. They think this is a good country, and so should we. {APPLAUSE}
+
+And now, at the end of this season, I look at you and I think of the hours you have worked; how you have made even more sacrifices this year than last. I do not know how the American people could say anybody, just because we've got some difficult problems and some unresolved challenges, which we have always had and we always will have, that there is something inherently wrong with America's government. If they could see you, they would know that we are a good people with a good government, working hard to help the American people realize their dreams and to respond to their hopes and their needs. {APPLAUSE}
+
+I just want to say, for the benefit of all of you and, of course, our friends who are covering this event, I wish I could thank all of you by name, but I don't want to keep you here all day and into the night. {LAUGHTER} I do want to say that I think I should represent -- name a few representative people we are fortunate to call White House volunteers -- Jeffrey Cohelan, a former member of the House of Representatives, and his wife Evelyn are loyal volunteers in Hillary's correspondence office. We thank you for continuing to serve the United States. {APPLAUSE}
+
+Jenny Lou Dodson lives in Charlotte, North Carolina She works for an airline and she flies to Washington every Wednesday to work in the White House Personnel Office. Let's give her a hand. {APPLAUSE}
+
+Al Carpenter worked at the White House from 1947 to 1950. Now he's volunteering his time to take calls on the comment line. He used to work on the presidential yacht -- for the voters who haven't voted, we don't have one anymore. {LAUGHTER} He traveled to Key West and the Caribbean with President Truman. Now he travels the White House to talk to people over the phone all over the United States. {APPLAUSE}
+
+Eddymarie McCoy worked on Capitol Hill and has been part of several campaigns, like the one that's culminating today. Now she's sharing her experience with the Office of Legislative Affairs.
+
+Some of you have been through several administrations. Evelyn and Ward Russell first volunteered at the White House in 1953. {APPLAUSE} We also have dedicated volunteers from many universities and local colleges like Georgetown, American, George Washington, Howard and George Mason. We thank you all. {APPLAUSE} We have members of the Shiloh Baptist Church here. {APPLAUSE} We have students from Stone Ridge School of the Sacred Heart. {APPLAUSE} And last, but not least, we have the hardworking, ever-faithful residents of the U.S. Soldiers and Servicemen's Home. We thank all of you for being here. {APPLAUSE}
+
+If it weren't for you, we literally couldn't do the job we were sent here to do. But with your help, we can not only continue to make progress for our country, continue to keep moving forward with confidence into the future, but we can do it in a way that responds to the hopes and the dreams and the real problems of the thousands and thousands and thousands of Americans who write this White House; who call us and ask for help; who send a gesture of their concern, a gesture of their friendship, a gesture of their hope to this White House. All of them deserve to be recognized. All of them deserve to be heard. All of them deserve to be treated with courtesy, with respect and with dignity.
+
+You have permitted the United States, in this administration to do that. We could not do it without you. And I only hope America knows that the White House, like so much of America, runs not on requirements, but on the volunteer spirit that is represented in this great audience today.
+
+Thank you all and God bless you. Thank you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,42 @@
+﻿{title} Remarks by the President to the National Legislative Conference of Independent Insurance Agents {/title}
+{event} National Legislative Conference of Independent Insurance Agents {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 21, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President to Independent Insurance Agents {/description}
+
+{speech} 
+
+Thank you very much. First let me welcome the Independent Insurance Agents of America to the White House and thank President George Shaffer for the fine statement that he made.
+
+I want to say to the press here assembled that this is a big announcement out in America. Where Americans live there are 300,000 agents and their employees in independent insurance agencies all across this country -- people who know and serve their friends and neighbors and are active in their community, and are trusted for their judgment on many issues, not the least of which is health care. The fact that they have decided to come in here today and express their support for the Kassebaum-Kennedy bill is a remarkable act of statesmanship and good citizenship, and it will reverberate in every Main Street in the United States of America.
+
+It is a true bipartisan, almost a nonpartisan effort to make an honest endeavor to bring health care to millions of Americans who have been shut out of the market. These people know the folks who lose their jobs and can't get health insurance. These people see across a small desk in a modest room the people who can't get health insurance because someone in their family has a crippling condition or has once had a serious illness, even if they have overcome it. The Independent Insurance Agents are therefore, in some ways, about the most valuable partner America could have in shaping health care reform.
+
+I want to say again how grateful I am to President Shaffer and all the other members here -- the incoming President, Ron Smith, my longtime friend from Arkansas, George Frasier, and the people who work for the organization here in Washington. They've all done a wonderful job, and I want to thank them for this.
+
+As the Vice President said, this bill could help as many as 24 million Americans. That's a lot of folks out there, working people, people who are working hard to make this country go, to keep our economy strong and to keep our communities strong, and most important of all, to raise their children and keep their families strong. In this new, more dynamic economy where we're creating more jobs than we have in a very long time, but where people are also feeling the sting of change, it is more important than ever before to pass this legislation.
+
+From the beginning, this proposal has had enormous bipartisan support. Beside the strong bipartisan support in the Senate, which includes 30 Democratic and 23 Republican co-sponsors, this bill has been endorsed by groups representing doctors, consumer groups, businesses, manufacturing groups and citizens. To have the support of the Independent Insurance Agents of America, and the fact that the bill has passed the Senate Committee on Labor and Human Resources unanimously, seems to me to virtually guarantee that before long, if Congress will proceed in good faith, this bill will be the law of the land, and millions and millions of American families will be better off and our whole country will be stronger because of it.
+
+I am very pleased that the Senate leadership has committed to move this bill expeditiously when the lawmakers return from recess. And I urge the Congress to pass it.
+
+Now, let me also say that I hope this will become a model for what we can do on other legislation. I am far from giving up on passing a balanced budget plan, on passing welfare reform, on passing strong antiterrorism legislation. If we can do this, we can do those other things as well. These are important national priorities, and we ought to be dealing with them this year. We shouldn't be deterred by the fact that it's an election year.
+
+Let me just make one other comment about an issue that has come up in the last couple of days that I think I need to make a statement about, and that is the proposal to repeal the assault weapons ban. That assault weapons ban was adopted after a very heated debate and a lot of controversy and a lot of pain in 1994. There were, clearly, members of Congress who lost their seats because they voted to ban assault weapons and because they voted for the Brady Bill.
+
+The ban covers 19 deadly kinds of assault weapons and their copies. It didn't take any guns away from anybody; it expressly protected hundreds of hunting and sporting weapons for the first time in federal law. It was passed because America's law enforcement officials asked for it; every single law enforcement organization in the country.
+
+It was passed to try to help save the lives of law enforcement officials who have to go out on the streets and sometimes face gangs that are better armed than they are. It was passed to save the lives of innocent people who often get caught in crossfires. And I believe it would be deeply wrong for Congress to repeal this assault weapons ban and, in essence, to take the side of the Washington gun lobby over the interests of the law enforcement people of this country and the law-abiding citizens of this country. And I very much hope that it will not pass. It will endanger law enforcement officials if it does pass. It will cost more citizens their lives if it does pass. The only people that will be benefitted are people who engage in illegal activity.
+
+I believe Congress should reject this extreme step. We ought to keep the assault weapons ban. And I would like to call upon the Republican leadership in the Congress to reconsider their decision to bring this to a vote. It doesn't need to be voted on in the House or the Senate, and if it is passed, I will veto it. They know I intend to do that. There is no point in distracting the American people or the Congress from the important work before us.
+
+Let me close by saying that this is what we ought to be doing more of, what we're doing here and what the Senate has done with the Kassebaum-Kennedy bill. Again, I say that it's -- I rarely make announcements in this room or in this White House with people that are so reflective of Main Street America on an issue that would have such a profound impact on ordinary Americans as this Kassebaum-Kennedy bill.
+
+President Shaffer, and to all the rest of you, I thank you. You have done a good thing for your country today. Thank you very much. {APPLAUSE}
+
+{AUDIENCE-MEMBER} Mr. President, how much do you think presidential politics is going to enter into all these votes? {/AUDIENCE-MEMBER} 
+
+I hope not very much at all. It's a long time until the election; we don't need a work stoppage here. We need to just keep on working. We'll have several months for elections 
+
+{/speech}

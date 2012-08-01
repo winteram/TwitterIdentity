@@ -1,0 +1,55 @@
+﻿{title} Speech by President to the Foundry United Methodist Church {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 7, 2001 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Reverend Wogaman, staff, choir, congregation of this wonderful church. I would like to thank many people in this audience, but if I might, a few by name. 
+
+My good friend, Bishop May and Mrs. May, thank you for being here. My Councilman, Mr. Evans and Mrs. Evans, thank you so much for your friendship and for being here. {LAUGHTER} Senator Max Cleland, my friend of many years, before either one of us were in our present positions -- surprising all but our mothers by our success. {LAUGHTER} I am so proud of you, sir, and I thank you for all you have done. 
+
+I think of this church when reading the words of Paul that Hillary cited earlier, speaking of his gratitude to the Thessalonians, or constantly remembering their work of faith, their labor of love, their steadfastness of hope. I thank Foundry for all that and for being a church home to my family these last eight years. 
+
+I thank especially those of you who were so kind to Chelsea over the years, who provided her opportunities to participate in the life of the church, especially in the Appalachia Service Project, from which she learned so much. I thank those of you who have taken special care to befriend Hillary and to support her. And I thank you especially for the wonderful welcome you gave her last week, when she came back here for the first time as a senator-to-be. 
+
+I thank you all for your prayers and your welcome to all of us in the storm and sunshine of these last eight years. I will always have wonderful memories of every occasion where we passed the peace; for all the people, young and old, who came up to me and said a kind word of welcome; to remind me that no matter what was going on in Washington, D.C., at the moment, there was a real world out there, with real people and real hearts and minds, reaffirming the timeless wisdom of de Tocqueville's observation so long ago, that America is great because America is good. You cannot imagine the peace, the comfort, the strength I have drawn from my Sundays here. 
+
+I want to thank you for a few other things. For the social mission of this church, especially for your outreach to the homeless, which I have been honored to support. And for your constant support of my efforts to bring peace in the Middle East and Kosovo and Northern Ireland and the other trouble spots of the world, where there are people suffering who have no money or power, too often overlooked by great nations with great interests. 
+
+I want to thank you for making Foundry a true community church, welcoming Christians from all races and all nations, with all kinds of abilities and disabilities, some seen and some not. I thank you especially for the kindness and courage of Foundry's welcome to gay and lesbian Christians, people who should not feel outside the family of God. 
+
+I thank you for your support for the city of Washington, for its economic and social revitalization, which I have done my best to speed. And for giving its citizens the political equality and statehood I have always believed they deserve, as my license plate shows. {LAUGHTER} And will for at least a couple more weeks. {LAUGHTER} 
+
+Especially, I would like to thank Reverend Wogaman, for being my pastor and friend, my counselor and teacher. Most of you know that for more than two years now, he and two other minister friends of mine have shared the burden of meeting with me on a weekly basis. It has been an immense blessing to me and to my service as President. 
+
+Two weeks from yesterday, at high noon, I will relinquish my office -- doing so with a heart filled with gratitude; gratitude to the American people for the chance to serve and to leave our country with more opportunity, stronger bonds of community and a more positive impact in the larger world, at the dawn of a new century and a whole new aspect of human affairs. 
+
+Our nation has come a long way together these last eight years, and I am profoundly grateful to have had the opportunity to play a part in it. In the years ahead, America may have Presidents who do this job better than I have. But I really doubt we'll ever have another one who enjoyed it more than I have. {LAUGHTER} 
+
+Well, those are my reflections. I didn't know what the title of my sermon was until I picked up the program, as I walked into church. {LAUGHTER} 
+
+What do I anticipate? I anticipate that my Christian bearing will be tested by a return to commercial air travel -- {LAUGHTER ; APPLAUSE} -- where I will reap the rewards of not having succeeded in one of the things I tried very hard to do, which was to end all those backlogs. 
+
+I anticipate that for some several months I will be disoriented when I walk into large rooms, because no one will be playing a song anymore. {LAUGHTER} I look forward to finding out whether John Quincy Adams was right when he said, there is nothing so pathetic in life as an ex-President. {LAUGHTER} Or whether, instead of his words, the life of John Quincy Adams and the life of Jimmy Carter prove exactly the reverse. 
+
+In the next chapter of my life I will do my best to use the incredible opportunities my country has given me to be a good citizen here at home and around the world, to advance the causes I believe in and to lift the fortunes and hopes of those who deserve a better hand than they have been dealt -- whether in Africa, Asia, Latin America or Appalachia, the Mississippi Delta, the inner cities or the Native American reservations. I will try every day to remember, as apparently for the first time in my life I will be able to earn a sizeable income -- {LAUGHTER} -- that Christ admonished us that our lives will be judged by how we do unto the least of our neighbors. 
+
+I will also do my best to keep working for peace and reconciliation among people, across their differences, to find ways to get people to move beyond tolerance to celebration of those differences. I know it's sort of out of fashion, but I've kind of grown impatient with the word "tolerance," because tolerance implies that someone who's better than someone else is decent enough to put up with them. And I think we need to move beyond that. 
+
+We are moving into the most incredible era of human affairs the world has ever known, in terms of our interdependence, our capacity to relate to people across national and cultural and religious lines, and our ability to use these breathtaking advances in technology with advances in bio-medical sciences to lengthen and improve lives in ways that previously are literally unimaginable. 
+
+And, yet, the biggest threat we face is the oldest problem of humankind, the fear of the other, which can so easily lead to hatred and de-humanization and violence, but even if it doesn't go that far, limits the lives all of us might otherwise live. 
+
+And I have spent a lot of time, as you might have noticed, in a reasonably combative arena. I am not without my competitive instincts. A lot of days I thought just showing up was an act of competition. {LAUGHTER} But I do believe, in the end, when all is said and done, what matters most is what we did that was common to our humanity. And, somehow, I will do everything I can to advance that simple but powerful idea at home and around the world. 
+
+I will also do my best to support my Senator and our daughter. And I will try to keep learning and growing, working to follow the example of the mythic Parsifal, a good man slowly wise. 
+
+Thanks to the good people of New York, as Phil said, this is not really a goodbye, but the beginning of a new chapter in our lives with Foundry. But it is a new chapter. So let me thank you again, for letting all of us, Hillary, Chelsea and me, make this part of our life's journey with you; for your constant reminder, in ways large and small, that though we have all fallen short of the glory, we are all redeemed by faith in a loving God. 
+
+God bless you. 
+
+{/speech} 

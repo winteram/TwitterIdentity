@@ -1,0 +1,24 @@
+﻿{title} Opening and Closing Remarks by the President in Roundtable Discussion on Charter Schools {/title}
+{event} San Carlos Charter Learning Center, San Carlos, California {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 20, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+First of all, let me say I agree with everything she said. {LAUGHTER} I'd just like to make a couple of brief point to build on what Hillary said. I want to say, first of all, I have no hidden agenda here; I believe the only way public schools can survive as the instrument by which we educate our children and socialize them and bring them together across all the lines that divide us is if all of our schools eventually -- and, hopefully, sooner rather than later -- are run like these charter schools. That's what I believe. I am not running for office anymore. I have no political interest in this. I am think about what our country is going to be like 20, 30, 40, 50 years from now.
+
+And you know what Tom said about the industrial model -- that's part of the problem. A lot of our schools are organized on an industrial model -- a lot of our middle schools are almost -- are organized for when families were like Ozzie and Harriet, instead of like they are today. There are a lot of organizational problems. It's also true that our schools get money from a lot of different places and have to suffer rules from a lot of different places, and a lot of people think if they give up their rule-making, they won't matter anymore. And in some way, the most important person here is the Superintendent because he's here supporting this instead of figuring out how he can control it. And I think that's important. {APPLAUSE}
+
+And so Hillary and I have been working at this business for a long time now -- seriously since 1983 -- really seriously. There has been a dramatic change in the attitudes of the teacher unions, which is positive. There have been dramatic advances in the attitude of administrators, which is positive.
+
+But I just want to say, we cannot -- there are a lot of people who believe in the information age, with things changing as fast as they are and with standards needing to be as high as they are, that we ought to just basically send everybody money and let them do whatever they want to about education, and forget about the public education network -- let it sink or swim. The problem with that theory is that the short-term costs to people who got left behind would be staggering.
+
+But if we want to preserve excellence and the socially unifying impact of public schools over the next generation, I am telling you, every school in the country has got to become like this one. The power needs to be with the parents, with the children, with the teachers, with the principals. And those of us who are up the lines somewhere, up the food chain, what are we interested in? We're interested in what Kim said -- we're interested in results. We don't need to make rules. We're interested in results and we want to be able to measure them. We want to know our kids are going to be all right and our country is going to be all right.
+
+Let them make the rules in the schools. Let them figure it out. And then education will be something that will get bright young lawyers to leave their more lucrative law practices to do something that doesn't pay as much, but makes them feel good when they go to bed every night and get up in the morning. That's what we want. And until every school is run like that, you and I should not rest.
+
+Thank you. God bless you. {APPLAUSE} 
+
+{/speech}

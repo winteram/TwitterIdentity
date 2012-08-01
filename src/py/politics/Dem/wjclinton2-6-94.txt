@@ -1,0 +1,42 @@
+﻿{title} Remarks by the Presidentto the People of Rome {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 2, 1994 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mayor Rutelli, Mrs. Rutelli, Prime Minister Berlusconi and Mrs. Berlusconi; to the citizens of Rome. For Hillary and for me, this is an historic moment. At this site of ancient glory, we say to you on behalf of all of the people of the United States, greetings.
+
+It is humbling to stand here. Romulus walked on this ground. Michelangelo designed this magnificent place. Today we celebrate something worthy of their greatness: the towering friendship between the United States and Italy. {APPLAUSE}
+
+Among the Americans I brought here with me today is a distinguished member of my Cabinet, the watchful guardian of our government's budget, and one of America's greatest sons of Italy --my friend, Leon Panetta. {APPLAUSE}
+
+Well, I know that Washington is not Rome, that dollars are not lire. But when the budget is made, taxpayers everywhere need someone in the government like Leon Panetta who is paid to say, "basta" -- enough. {LAUGHTER}
+
+Because Leon Panetta represents the best of the ItalianAmerican partnership, and because he has such a good sense of humor, and because I am deeply in his debt as an American citizen, I have invited him to translate a part of my remarks here today. And when he is through, I want the citizens of Rome to give him a grade on how well he did. {LAUGHTER ; APPLAUSE} Mr. Panetta.
+
+I am delighted to be in Rome, and I look forward to returning to Italy to visit Naples next month. There is so much of Italy in America -- art, music, philosophy and, most important, the strength and wisdom of so many of your sons and daughters. {COMMENT="Translated by Mr. Panetta"} {APPLAUSE}
+
+That bond of blood and spirit between our people is the heart and soul of our special relationship. America and Italy are more than mere partners. We are now -- and forever will be -- alleati, amici, una famiglia. Translated by Mr. Panetta.) {APPLAUSE}
+
+So, Leon, grazie. Thank you for your friendship and for teaching me a few words of Italian. {LAUGHTER ; APPLAUSE} Now, all of his ancestors will rest in peace. All of his ancestors will rest in peace.
+
+I have come to Europe to recall its cruelest war, and to help secure its lasting peace. I am honored to begin my travels here in the Eternal City on the anniversary of your republic. A halfcentury ago, my nation joined a great crusade to restore liberty on this continent. But no moment was prouder than 50 years ago this week when we joined with you and others to return Rome to its people, and its people to freedom. {APPLAUSE}
+
+We are still told stories about that great day -- church bells ringing out the song of celebration; children climbing onto the tanks of the liberators. One brave member of the Italian Resistance said, "We cried with happiness, letting ourselves realize for the first time how scared we had been."
+
+To honor, we must remember. Therefore, this week, as the sons and daughters of democracy, we must resolve never to forget such hallowed words as Anzio, Nettuno, Salerno, Normandy. These names speak of the sacrifices of our parents and the freedom of their children and grandchildren. {APPLAUSE}
+
+Now, for 50 years our people have stood together as Italy has worked a modern miracle. You have transformed Italy into one of the world's great economies. You have helped to build NATO, history's greatest military alliance. And you have stood firm against Soviet expansion. {APPLAUSE}
+
+America is grateful for Italy's vital role in our partnership, in your hosting NATO air operations at Aviano and in the Adriatic, in your working to build the European Union, in your investment in the continent's new democracies.
+
+The end of the Cold War is permitting all of us to do the work of renewal within our nations, to rebuild our economies, to rebuild our sense of community and common purpose, to reform our politics. We must do this. Cicero said, "Merely to possess virtue as you would art is not enough unless you apply it." I believe Italy will pursue its democratic destiny with virtue and grace. {APPLAUSE} And as you pursue that destiny, America will stand with you and with Europe. {APPLAUSE}
+
+For 50 years we have stood together to help build peace and prosperity in Western Europe. Now let us expand those blessings across a broader Europe. {APPLAUSE} So, to all the Italians here present, and to my fellow Americans here present -- {APPLAUSE} -- to all the citizens of other nations in this hallowed place, let us hope that, 50 years from now, the world will say of us, the children of freedom and democracy were the builders of lasting peace.
+
+Thank you and God bless you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,78 @@
+﻿{title} Remarks by the President at the Announcement of the "Change the Equation" Initiative {/title}
+{event} Announcement of the "Change the Equation" Initiative {/event}
+{speaker} Barack Obama {/speaker}
+{date} September 16, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you, everybody. Thank you. {APPLAUSE} Thank you so much. Thank you. Thank you, everybody. Please have a seat. Thank you very much.
+
+Thank you to Ursula and all the board members here. We are so excited about this initiative. And I want everybody to also know that I've got one of the finest Secretaries of Education I think in the history of this country in Arne Duncan, and he is excited about it as well. {APPLAUSE}
+
+So I hope you don't mind, before I begin, I just want to comment on a vote that just took place a little while ago in Congress. I want to thank the Senate for finally passing the small business jobs bill that had been held up for months by partisan delay. It's going to make a difference in millions of small business owners across the country who are going to benefit from tax breaks and additional lending so companies have the capital to grow and hire. And this is really welcome news.
+
+Now, these tax breaks and loans are going to help create jobs in the short term. But the reason all of us are here, companies large and small, is to talk about an issue with far-reaching consequences for our economy in the long run, and that's the education of our children.
+
+It's an incredibly impressive gathering that we have here. We've got dozens of leaders from the business community who are part of today's announcement. We're joined by talented and enterprising students -- where are the students? Raise your hands. We're very proud of you guys. {APPLAUSE} We have some passionate and dedicated teachers. Teachers, raise your hands. Proud of you. {APPLAUSE}
+
+I want to recognize all the members of Congress who are with us, as well as the top scientists from my administration, including my science advisor John Holdren, who is here. Where's John? There he is, right there. {APPLAUSE} As well as -- and in addition, we've got -- and this is obviously the coolest thing -- we've got two trailblazing astronauts in Sally Ride and Mae Jemison, who are here. So we are just honored to have all of you here at the White House.
+
+We're here for a simple reason: Everybody in this room understands that our nation's success depends on strengthening America's role as the world's engine of discovery and innovation. And all the CEOs who are here today understand that their company's future depends on their ability to harness the creativity and dynamism and insight of a new generation.
+
+And that leadership tomorrow depends on how we educate our students today -- especially in science, technology, engineering and math.
+
+We know how important this is for our health. It's important for our security. It's important for our environment. And we know how important it is for our economy. As I discussed this morning with my Export Council, our prosperity in a 21st century global marketplace depends on our ability to compete with nations around the world. And we are never going to win that competition by paying the lowest wages or simply by trying to offer the cheapest products. We're going to win by offering the most innovative products. We're going to win by doing what we do best, which is harnessing the talents and ingenuity of our people to lead the world in new industries. That's how we can create millions of new jobs exporting more of our goods around the world.
+
+Now, as any one of the scientists, CEOs and teachers here will tell you, this kind of innovation isn't born in the boardroom or on the factory floor. It doesn't begin in a basement workshop or a research laboratory. That's where the payoff happens. But it starts long before. It starts in a classroom. It starts when a child learns that every star in the night sky is another sun; when a young girl swells with accomplishment after solving a tough math problem; when a boy builds a model rocket and watches it soar; when an eager student peers through a microscope and discovers a whole new world. It's in these moments that a young person may discover a talent or a passion that might lead to a career. It's in these moments every day that our nation -- our promise as a nation is realized. And it is in these moments that we see why a quality science and math education matters, why it is absolutely critical to us.
+
+Now, despite the importance of education in these subjects, in recent years we have been outpaced by our competitors. There is no disputing that. One assessment shows American 15-year-olds ranked 21st in science and 25th in math when compared to their peers around the world. Yet for years we've failed to address this challenge. There's been some talk about it. There have been some white papers and some reports about it. But we haven't solved it.
+
+And instead, we've oftentimes gotten into tired arguments traded across old divides. And parents and students and teachers have been basically left to accept that mediocrity was the best that America could do. And we've got some islands of excellence, but we assume that we can't substantially turn this around.
+
+The cost of this inaction is immeasurable -- the inventions that are never built, the businesses never started, the cures never discovered, the sparks of imagination never lit -- the brimming potential squandered because we failed to come together for the sake not just of our children, but for the sake of our future.
+
+Now, I ran for President because I believe we cannot accept this failure of responsibility. I believe -- as all of you do, and that's why you're here today -- that America doesn't play for second place, and we certainly don't play for 25th. That's why, soon after I took office, I set this goal for our nation: We will move from the middle to the top of the pack in math and science education over the next decade. And we are on the way to meeting this goal.
+
+Under the leadership of Arne Duncan -- a man who has devoted his life to the idea that every single child deserves a world-class education -- we launched an initiative called “Race to the Top.” Under “Race to the Top,” states are actively competing to produce innovative math and science programs, raising standards, turning around struggling schools, recruiting and retaining more good teachers.
+
+At a difficult time for our nation -- when budget cuts across America have threatened the jobs of countless teachers -- we've also fought some tough opposition to save hundreds of thousands of educator and school worker jobs. These are folks in the classroom right now because we refused to accept a lesser education for our children, even at a time of economic hardship.
+
+Today, my science advisory board -- which is represented here by Eric Lander and Jim Gates -- released a set of recommendations to recruit and train more great teachers over the next decade and to promote breakthrough innovation in math and science education. And it was a terrific report. I sat with Eric this morning and got a full briefing on it, and there are so many promising ideas out there, proven ideas, that can work if we apply the will to it. And I'm asking Arne Duncan and Dr. Cora Marrett, Acting Director of the National Science Foundation, to take a look at all these recommendations closely and then start figuring out how can we implement them.
+
+What I've also said for a long time is that our success will not be attained by government alone. It depends on teachers and parents and students and the broader community. It depends on us restoring an insistence on excellence in our classrooms and from our children.
+
+And that's why last year I challenged scientists and business leaders to think of creative ways to engage young people in math and science. And now they are answering the call.
+
+All across this country, companies and nonprofits are coming together to replicate successful science programs. New public/private partnerships are working to offer additional training to more than 100,000 teachers and to prepare more than 10,000 new teachers in the next five years.
+
+Media companies are creating content to inspire young people in math and science. And businesses are working with nonprofits to launch robotics competitions and other ways for kids to make things and learn with their hands.
+
+So now we're building on this effort. The business leaders gathered in this room with this board at the helm are launching a new organization called “Change the Equation” to help our country reach the goal of moving to the top in math and science education. It brings together a coalition of more than a hundred CEOs from the nation's largest companies who are committed to bring innovative math and science programs to at least a hundred high-need communities over the next year.
+
+And by the way, they're doing this not only out of a sense of duty to the country -- not only because it's the right thing to do -- but they've got a self-interest in it. Xerox is going to do really well if we've got a whole bunch of engineers and scientists and math majors who are clamoring to work for some of America's most innovative businesses.
+
+We're also announcing other commitments from companies and foundations and nonprofits that will create fun and educational programs for students in science museums, build hands-on learning centers and 21st century libraries, make sure that the students of military families have access to AP courses, and improve professional development for math and science teachers.
+
+And I think the teachers here will acknowledge that one of the challenges is making sure that those folks who are teaching these subjects in the classroom, that they're up to date, up to speed in getting the best professional training possible.
+
+And this coalition is also going to extend opportunities to all of our young people, and that includes efforts to open doors for women and minorities, who all too often have been underrepresented in scientific fields but who are no less capable of success in scientific careers.
+
+So I want to thank all the leaders who are here today for their outstanding commitment to this cause, for lending their resources, their expertise, and their enthusiasm to the task of strengthening America's leadership in the 21st century by improving education. And I want to encourage others to be part of this growing movement, to harness the incredible potential for our young people, for while this may be a difficult time for our nation, and we face some tough challenges, it's that potential that ought to give us hope.
+
+We need no better example than the students who are here today from West Philadelphia High School. These students, under the direction of some terrific teachers, entered a global competition against serious corporate and college challengers to build a production-ready car that runs on very little fuel. So as part of an after-school program, they worked to get their vehicles ready. They tweaked the hybrid engine. They figured out how to make their cars run more efficiently.
+
+At first, the adults didn't really think their team had a chance -- admit it. {LAUGHTER} But then something strange happened. Where older and more seasoned teams failed, they succeeded, even making it through an elimination round.
+
+Now, they didn't win the competition. They're kids, come on. {LAUGHTER} But they did build a car that got more than 65 miles per gallon. They went toe to toe with car companies and big-name universities. {APPLAUSE} They went against big-name universities, well-funded rivals. They held their own. They didn't have a lot of money. They didn't have the best equipment. They certainly didn't have every advantage in life. What they had was a program that challenged them to solve problems and to work together, to learn and build and create. And that's the kind of spirit and ingenuity that we have to foster. That's the potential that we can harness all across America. That's what will help our young people to fulfill their promise to realize their dreams and to help this nation succeed in the years to come.
+
+And I just have to editorialize. This is the kind of thing that just isn't going to get a lot of attention initially. This will not lead the nightly news. You won't see this on the cover of Roll Call or Politico. It's not -- doesn't have conflict and controversy behind it. {LAUGHTER}
+
+But these are actually the kinds of things that 10 years from now, 20 years from now, we're going to look back and say this is something that made a difference. These are the kinds of things I'm really proud of. It doesn't get a lot of fanfare, but from the bottom up, it's making a huge difference in our country.
+
+And so I just want to thank all of you who are here for your participation. And I wasn't sure, by the way, whether all the folks on the stage here were introduced, so I just want to make sure that everybody gets introduced. In addition to Ursula Burns from Xerox, I want to thank Rex Tillerson of Exxon Mobil; Craig Barrett, who's the former Intel CEO; Antonio Perez of Kodak; Glenn Britt from Time Warner; and somebody who's not on the stage but is going to be the CEO of “Change the Equation,” Linda Rosen; and obviously one of my heroes, Sally Ride. We are just so grateful to them. We're grateful to you. Let's go get this thing done.
+
+Thank you very much, everybody. {APPLAUSE} 
+
+{/speech}

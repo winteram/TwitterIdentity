@@ -1,0 +1,81 @@
+﻿{title} Acceptance speech at the 1992 Democratic National Convention {/title}
+{event} ----- {/event}
+{speaker} Al Gore {/speaker}
+{date} 1992 {/date}
+{source} http://www.al-gore-2004.org/gorespeeches/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Thank you. Thank you ladies and gentlemen. Thank you very much. I have to tell you I've been dreaming of this moment since I was a kid growing up in Tennessee -- that one day, I'd have the chance to come here to Madison Square Garden and be the warm up act for Elvis!
+
+My friends, I thank you for your confidence expressed in the vote this evening. I pledge to pour my heart and soul into this crusade on behalf of the American people. And I accept your nomination for the Vice Presidency of the United States of America. 
+
+I did not seek this nomination, nor did I expect it. But I am here to join this team because I love my country and because I believe in my heart that together, Bill Clinton and I offer the American people the best chance we have as a nation to move forward in the right direction again. 
+
+I'm here because the country I love has a government that is failing our people -- failing the forgotten majority in your hometown and mine, those who scrimp and save and work hard all their lives to build a better life for their children. I'm here to renew a journey our founders began more than 200 years ago. In my lifetime, I have seen America's ideals and dreams change the world. And I believe that now is the time to bring those ideals and dreams home, here, to change America. 
+
+Our country is in trouble. People in other nations, inspired by the eternal promise of America, have torn down the Berlin wall, brought Communism to its knees, and forced a racist government in South Africa to turn away from Apartheid. Throughout the world, obstacles to liberty that many thought might stand forever turned out to simply be no match for men and women who decided in their hearts that their future could be much greater than their past would let them dream. Their faith in the power of conscience and their confidence in the force of truth required a leap of the human spirit. Can we say truthfully that their chance for change was better than ours? 
+
+And yet, we face our own crisis of the spirit here and now in America. We're told we can no longer change. We've seen our better days. They even say we're history. The cynics are having a field day, because across this country millions of American families have been betrayed by a government out of touch with our values and beholden to the privileged few. Millions of people are loosing faith in the very idea of democracy and are even in danger of loosing heart because they fear their lives may no longer have any deeper meaning or purpose. 
+
+But you can't kill hope that easily. Not in America. Not here, where a cynic is just a disappointed idealist in disguise, a dreamer yearning to dream again. In every American, no matter how badly betrayed or how poorly led, there is always hope. Even now, if you listen you can hear the pulse of America's true spirit. No, the American spirit isn't gone. But we vow here tonight, that in November, George Bush and Dan Quayle will be history.
+
+They have demeaned our democracy with the politics of distraction, denial and despair. What time is it?
+
+{AUDIENCE} It's time for them to go! {/AUDIENCE}
+
+What time is it??
+
+{AUDIENCE} It's time for them to go! {/AUDIENCE}
+
+What time is it???
+
+{AUDIENCE} It's time for them to go! {/AUDIENCE} {CHEERS}
+
+The American people -- 
+
+{AUDIENCE} Gore, Gore, Gore, Gore! {/AUDIENCE} 
+
+The American people are disgusted with excuses and tired of blame. They know that throughout American history each generation has passed on leadership to the next. That time has come again, the time for a new generation of leadership for the United States of America, to take over from George Bush and Dan Quayle, and you know what that means for them!
+
+{AUDIENCE} It's time for them to go!!!! {/AUDIENCE} {CHEERS}
+
+Ladies and gentlemen, in 1992, our challenge is not to elect the last President of the 20th century, but to elect the first President of the 21st century, President Bill Clinton. Bill Clinton has a plan that offers real answers for the real problems of real people -- a bold new economic strategy to rebuild this country and put our people back to work. And if you want to know what Bill Clinton can do, take a look at what he has already done.
+
+For more than a decade, he has been fighting against incredible odds to bring good jobs, better skills, and genuine hope to one of the poorest states in our country. A decade ago, when his state needed dramatic reform to shake up one of the poorest school systems in America, Bill Clinton took on the established interests and made Arkansas the first state to require teacher testing. He has cut classroom size, raised test scores above the national average and earned the support of both teachers and parents who now know Bill Clinton will be the real education President for this country.
+
+For most of the last decade, while the Republicans have been trying to use welfare to divide us, Bill Clinton has lead the fight to reform the welfare system, to move people off welfare and into the workforce. And he did all this while balancing eleven budgets in a row. Let me say that again -- while balancing eleven budgets in a row, and giving the people of Arkansas one of the lowest tax burdens in this country. No wonder Arkansas under Bill Clinton has been creating manufacturing jobs at ten times the national rate. And no wonder that when all the nation's governors, Republicans and Democrats alike, were asked to vote on who was the most effective governor in all the land, by an overwhelming margin, they chose Bill Clinton.
+
+What we need in America in 1992 is a President who will unleash the best in us, by putting faith in the decency and good judgment of our people; a President who will challenge us to be true to our values and examine the ways in which our own attitudes are sometimes barriers to the progress we seek. I'm convinced that America is ready to be inspired and lifted again by leaders committed to seeking out the best in our society, developing it and strengthening it. 
+
+I've spent much of my career working to protect the environment, not only because it is vital to the future of my state of Tennessee, our country and our earth, but because I believe there is a fundamental link between our current relationship to the earth and the attitudes that stand in the way of human progress. For generations, we have believed that we could abuse the earth because we were somehow not really connected to it. But now we must face the truth. The task of saving the earth's environment must and will become the central organizing principle of the post-Cold War world. And just as the false assumption that we are not connected to the earth has lead to the ecological crisis, so the equally false assumption that we are not connected to each other has lead to our social crisis. {CHEERS}
+
+Even worse, the evil and mistaken assumption that we have no connection to those generations preceding us or those who will follow us, has lead to the crisis of values we face today. Those are the connections that are missing from our politics today. Those are the bridges we must rebuild if we are to rebuild our country. And those are the values we must honor if we are to recapture the faith in the future that has always been the heart of the American dream. 
+
+We have another challenge as well. In the wake of the Cold War, with the reemergence of ancient ethnic and racial hatreds throughout the world, the United States must once again prove that there is a better way. Just as we accept it as a people, on behalf of all human kind, the historic mission of proving that political freedom is the best form of government and that economic freedom is the best engine of prosperity, we must now accept the obligation of proving that freedom from prejudice is the heart and soul of community -- that yes, we can get along. {CHEERS}
+
+Yes, people of all backgrounds can not only live together peacefully, but enrich one another, celebrate diversity and come together as one. Yes, we will be one people and live the dream that will make this world free. {CHEERS}
+
+In the end, this election isn't about politics. It isn't even about winning... though that's what we're gonna do -- {CHEERS}
+
+This election is about the responsibilities that we owe one another, the responsibilities we owe our children, the calling we hear to serve our country and to be a part of a community larger than ourselves. You've heard a lot in the past week about how much Bill Clinton and I have in common. Indeed, we both share the values we learned in our hometowns: individual responsibility, faith, family, and the belief that hard work should be rewarded. We're both fathers with young children, children who are part of a generation whose very future is very much at stake in this election. And we're both proud of our wives, Hillary Clinton and Tipper Gore, two women who have done more for the children of this country in the last twelve years than the last two men who have sat in the Oval Office have done in their entire lifetimes. {CHEERS}
+
+My father was a teacher in a one room school who worked his way to the United States Senate. I was eight years old when my father's name was place in nomination for the Vice Presidency before the Democratic convention in 1956. And growing up, I watched him stand courageously for civil rights, economic opportunity, and a government that worked for ordinary people. 
+
+Three years ago, my son Albert was struck by a car crossing the street after watching a baseball game in Baltimore. Tipper and I watched as he was thrown thirty feet through the air and scraped another twenty feet on the pavement after he hit the ground. I ran to his side and held him and called his name. But he was limp and still, without breath or pulse. His eyes were open with the empty stare of death and we prayed, the two of us, there in the gutter, with only my voice. His injuries inside and out were massive and for terrible days he lingered between life and death. Tipper and I spent the next thirty days and nights there at his bedside. Our family was lifted and healed in no small measure by an incredible outpouring of love and compassion and prayers from thousands and thousands of people, most of whom we never even knew. 
+
+Albert is plenty brave and strong, and with the support of three wonderful sisters, Karenna, Kristin and Sarah, and two loving parents who helped him with his exercises every morning and prayed for him every night, he pulled through. And now, thank God, he has fully recovered and runs and plays and torments his older sisters like any little boy. 
+
+But ladies and gentlemen, I want to tell you this straight from my heart, that experience changed me forever. When you've seen your six year old son fighting for his life, you realize that some things matter a lot more than winning. You loose patience with the lazy assumption of so many in politics that we can always just muddle through. When you've seen your reflection in the empty stare of a boy waiting for his second breath of life, you realize that we were not put here on earth to look out for our needs alone. We are part of something much larger than ourselves. All of us are part of something much greater than we are capable of imagining. And my friends, if you look up for a moment from the rush of your daily lives, you will hear the quiet voices of your country crying out for help. You will see your reflection in the weary eyes of those who are losing hope in America. And you will see that our democracy is lying there, in the gutter, waiting for us to give it a second breath of life.
+
+I don't care what party you're in. Whether you're an Independent, whether you have been tempted to just give up completely on the whole political process, we want you to join this common effort to unite our country behind a higher calling. If you have been supporting Ross Perot, I want to make a special plea to you this evening. Stay involved. You have already changed politics in this country for the better. Keep on fighting for change. The time has come for all Americans to be a part of the healing. In the words of the Bible, "Do not loose heart, this nation will be renewed." 
+
+In order to renew our nation, we must renew ourselves. Just as America has always transcended the hopes and dreams of every other nation on earth, so must we transcend ourselves and, in Gandhi's words: "become the change we wish to see in the world". Let those of us alive today resolve with one another that we will so conduct ourselves -- in this campaign and in our lives, that two hundred years from now Americans will say of our labors that this nation and this earth were healed by people that they never even knew. 
+
+I'm told that Hope, Arkansas, is indeed a lot like my home town of Carthage, Tennessee, a place where people do know about it when you're born and care about it when you die. That's the America Bill Clinton and I grew up in. That's the kind of nation we want our children to grow up in. Just as Hope is a community, so is America. When we bring the community of America together we will rekindle the American spirit and renew this nation for generations to come. And the way to begin is to elect Bill Clinton President of the United States of America. 
+
+Thank you very much. 
+
+{/speech} 

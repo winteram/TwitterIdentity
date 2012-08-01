@@ -1,0 +1,75 @@
+﻿{title} Edwards Quits {/title}
+{event} ----- {/event}
+{speaker} John Edwards {/speaker}
+{date} March 3, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Its good to be home. I'm so glad to be here. I have never loved my country more than I do today. You know, the truth is, all my life, America has smiled at me, and today I am smiling right back. {APPLAUSE}
+
+More than anything, I love the American people; the people I've listened to, the people I've embraced; the people who've made me laugh, people who have inspired me, inspired you; people who've made me think; people who've made me reach. 
+
+And today, I see their faces. I see the faces of the men and women who work in the mill in Robbins, North Carolina, the mill that my father worked in, the mill I, myself, worked in. I mean, I can picture their faces as clear as they're in front of me right now -- lint in their hair, grease on their faces -- men and women who represent the best of what America is, who went to work day after day, decade after decade, in that mill, because they believe that if they worked hard and did what was right, they could build a better life for themselves and their families. 
+
+I see the faces of the workers at Tower Automotive in Milwaukee, Wisconsin, who I saw wondering after the doors to their factory closed, where do they go? What do they do? Have they not done the right things in America? Have they not worked hard, been responsible, raised their kids? Where do they go now? And will they have a president and an administration who understands their lives and who will stand up for them? 
+
+I see the faces of the young men and women that I met in Afghanistan dark in the night -- proud of their country, proud of serving their country but worried about their families back home, worried about what would happen when they went back. 
+
+I see the men and women at Page Belting in Concord, New Hampshire, who wonder if anyone understands the struggles that they face and that most Americans face every day in their lives. 
+
+And I also see the earnest, young, wise faces from Central High School in Des Moines, to Pomona College in California, young people, young people who are looking desperately for inspiration, someone who will lift them up, make them believe again, that in our America, with their help, with their energy and their enthusiasm, everything is possible. Most of all, I see all of these faces turning from skepticism and despair to inspiration and hope because they believe in this country, they believe in themselves, and they know that you and I together are going to change this country and build one America that works for all of us. {APPLAUSE}
+
+It has been my greatest honor, though, to have walked with you, because from the beginning this has never been my campaign. This has been your campaign. And I am blessed to have been a part of it. 
+
+And I'm also blessed to be back here at Broughton High School with so many friends and families, members of my community. {APPLAUSE}
+
+Thank you, thank you. {LAUGHTER}
+
+Today I've decided to suspend my campaign for the presidency of the United States, but I want to say a word about a man who is a friend of mine, somebody who I believe has great strength and great courage, my friend Senator John Kerry, somebody who has fought for and will continue to fight for the things that all of us believe in: more jobs, better health care, cleaner air, cleaner water, a safer world. 
+
+The truth is, all these, they are the causes of our party, the Democratic party. They are the causes of America. And they are the reasons we will prevail, come November and take back this country. {APPLAUSE}
+
+You know, it wasn't very long ago, you will remember it, it wasn't very long ago that all the pundits and pollsters said that by the time we get to Super Tuesday, there won't be a John even competing, much less fighting for the nomination. 
+
+Well, we proved those pundits and pollsters wrong. And we are going to prove them all wrong come November when we take back this country. {APPLAUSE}
+
+And I want to say a personal word about my friend John Kerry who I know very well. This is a man that from the time he served this country courageously in Vietnam all the way through this campaign I saw it; I know it. I saw what we went through in November and December, and back in the summer when everyone said he didn't have a chance. 
+
+But he showed the strength, the resilience, the courage that he has shown his entire life when he fought for us and for our country in Vietnam. He's done it throughout this campaign. The truth of the matter is that John Kerry has what it takes right here to be president of the United States. And I, for one, intend to do everything in my power to make him the next president of the United States. {APPLAUSE}
+
+And I ask you to join me in this cause, for our country, for our America. {APPLAUSE}
+
+I see my kids are about as patient as they usually are with my speech. {LAUGHTER}
+
+They want a sign. They want a sign. 
+
+Today -- today somewhere in America a child plays on a sandy lot. It could be like the lot that I played on when my parents brought me home to the Mill village. It could be in a barrio or on a farm, or it might actually be in a vacant lot somewhere in a city. We want -- now he's happy. {APPLAUSE}
+
+What we want -- what we want is we want that child, and all of our children, to have a chance to do everything that they're capable of doing. In this extraordinary country of ours, all things should be possible for that child, for every one of our children, as they have been for me. This cause, this challenge to change America, now it belongs to you. You should not step back. You should step up. {APPLAUSE}
+
+It is up to every single one of you to make certain that in our America our children can prosper and grow. {APPLAUSE}
+
+It's up to you to choose a president who will make sure that we end the two Americas that we live in so that every child has exactly the same chance that I've had. It's up to you to make sure that the 35 million Americans who live in poverty every day, and who tug at the soul of America and the soul of every one of us, are never ignored again, that they know we see them. 
+
+We hear them. We embrace them. We lift them up. And in our America, we will end poverty as we know it today. {APPLAUSE}
+
+It is up to you to make sure that in our America our children and our grandchildren are the first generations that grow up in a country, in an America, that's no longer divided by race. 
+
+And it's also up to you to demand a campaign that is about addressing the problems of the American people and lifting them up, and not politicians attacking one another. That is the campaign that you deserve. {APPLAUSE}
+
+Because the truth is that those of you who cast your votes for me, you voted for a new kind of politics. You wanted a positive campaign, you wanted real change in this country, you wanted hope, optimism, not fear.
+
+I could not ask for better company than I have today, you know, with the love of my life for 26 years married, and even before that the love of my life, Elizabeth, who I'm so proud to have with me here today. {APPLAUSE}
+
+I've had a life blessed with four beautiful children, extraordinary friends and families, who are with me today. My parents, who raised me to believe in the values of faith, family, hard work, responsibility, I'd like a round of applause for them. {APPLAUSE}
+
+And to all my staff, my supporters, thank you from the bottom of my heart. I will never forget your hard work, what you did to help change this country.
+
+To everyone who gave their time, their energy, their heart, their passion, 18, 20 hours a day, you deserve nothing but a huge of round of applause. {APPLAUSE}
+
+And I want to year it, hear it for yourselves. Thank you for what you've done, all of you who are here. {CHEERS ; APPLAUSE} 
+
+{/speech} 

@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President to Rally Upon Arrival {/title}
+{event} Outside Hastings Hotel, Hartford, Connecticut {/event}
+{speaker} Bill Clinton {/speaker}
+{date} October 6, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you. Folks, let me begin by saying a special word of thanks to the people who played before I came here, the Steve and Mary Davis Band -- and let's give a big hand again to the Lila Wallace Youth Jazz Orchestra. They did a great job. {APPLAUSE}
+
+I want to thank Congresswoman Barbara Kennelly for meeting Hillary and me at the airport and for being such a great leader for Connecticut and for our country. And I also want to tell you that I thought it was interesting at the last Democratic Convention and the convention our friends had in San Diego --they were running away from their platform, they were claiming they hadn't read their platform. Barbara Kennelly wrote our platform. I'm proud of it, I'm running on it and it's a great document. I wish every American would read it. Thank you. {APPLAUSE}
+
+I want to thank Chris Dodd for being a powerful, effective, wonderful Chairman of the Democratic National Committee and a voice for people all over this country. {APPLAUSE}
+
+{AUDIENCE-MEMBER} We love you, Bill. We love you. {/AUDIENCE-MEMBER} {LAUGHTER}
+
+Thank you.
+
+Now, somebody told me -- I can't see, but someone told me that one of Connecticut's greatest athletes ever, Rebecca Lobo, is in this crowd today somewhere. Where is she? {APPLAUSE} And someone told me -- hi, Rebecca. She was great in the Olympics, wasn't she? {APPLAUSE} Someone told me it's your birthday. Is that true? Let's sing "Happy Birthday," one, two, three.
+
+{COMMENT="President sings "Happy Birthday.""} {APPLAUSE}
+
+Ladies and gentlemen, tonight is a great night for America. Tonight we celebrate our democracy. Tonight we are reminded that the people of this country run the show and that we've been around for 220 years as a great and free country because almost all the time the people have made the right decision. Tonight I am going to have a chance to tell the American people what you know: We are better off than we were four years ago. We are on the right track to the 21st century. {APPLAUSE}
+
+Tonight we'll have a chance to talk about what we have to do in the only four years that are remaining before we start that new century -- to make sure every child in this audience, every child in this state, every child in our country has a chance to live out his or her dreams. To make sure that we go forward together. To say that we think Hillary's right, it does take a village to raise a child and build a country and make our future. {APPLAUSE}
+
+And for all of you who have supported me and supported Al Gore and supported our administration, for every one of you that is working hard to build a bridge to the future that we can all walk across together, let me say that it's hard for me to imagine that it's been, well, more than 25 years since I first met my wife in New Haven, Connecticut. {APPLAUSE} It's hard for me to imagine that it's been way more than 20 years now since I left Connecticut after I finished law school. It's hard for me to imagine that it's been almost four years since the people of Connecticut gave me their votes in the race for President in 1992. But these last four years have been something I will never forget.
+
+I thank you for giving me the chance to serve. I thank you for supporting the tough decisions we made to move our country forward. And I ask you to be there tonight rooting for me, but also rooting for you, your families and the future of this country, because the best days of this country are still ahead.
+
+Thank you, and God bless you all. {APPLAUSE} 
+
+{/speech}

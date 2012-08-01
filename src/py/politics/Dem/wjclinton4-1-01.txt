@@ -1,0 +1,39 @@
+﻿{title} Speech by President at Memorial Service for Jack McAuliffe {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 4, 2001 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Millie; John, Joe, Tom, Terry; all the family and the grandchildren; reverend clergy. I want to thank the people who came with us today: our leader, Dick Gephardt, and his wife, Jane, and Senator Dodd and Congressman Coelho. 
+
+Hillary and I are here because we really liked Jack McAuliffe. And I know most people will say, well, the President came because Terry did so much for him. Truth is, I came for Joe. I thought we ought to have an Irish Protestant support group here in this church. {LAUGHTER ; APPLAUSE} 
+
+One wonderful nun reached over to me during communion and said, thank you so much for what you did for Ireland. I said, I had to do it; it's about time we started getting along. 
+
+I want to say just a few things. I spent quite a bit of time thinking about what I would say in my couple of minutes. Most of what I wanted to say has been said. But you know, when a great human being passes away, people search around in their minds for some part of the Scripture that captures that person. We talked about it a lot already today. Proverbs says, "a happy heart doeth good like medicine; but a broken spirit drieth the bone"; that God loves a cheerful giver -- that's what Jack McAuliffe was. 
+
+He knew it was more blessed to give than to receive. But nothing is more distasteful than someone who's out there doing good and wants you to know it every minute of the day. Jack McAuliffe was a cheerful giver. 
+
+Whether it was in risking his life in the Pacific; or leading campaigns here to build a church for his neighbors, or schools for the kids; or cheering and giving to Notre Dame, or the Democratic Party; or spending time imparting all the lessons to his children that you heard about; or just buying a round at the local bar -- he was a cheerful giver. 
+
+And every time I was around him, I felt better. And so did you, and that's why you're here today. He gave more to us than any of us outside his family gave to him. And we showed up to say, you gave us a lesson in life. We loved you for it, and we're grateful. 
+
+I have to say a little something about his ties to the Democratic party. He was the county Democratic treasurer here for decades. And he started Terry out as a political fundraiser when he was six years old. I've heard this story -- no matter how many times, I never get tired of it. 
+
+When Terry was six, on the night of the Onondaga County Democratic dinner, his dad sat him down at a card table outside the ballroom at the Hotel Syracuse and said, don't let anybody in who hasn't paid. {LAUGHTER} Terry immediately found his true calling in life. {LAUGHTER} And you know, when he got up here, the first words out of his mouth were that his Republican brother paid. {LAUGHTER} So thanks, Jack, you did good. 
+
+I'll always be grateful because Jack showed me something about going through life and staying young by never losing your enthusiasm. You know, he didn't take -- he was very proud of Terry's role in politics, but he didn't think it meant that he was now too good to do the basic work of politics. He was out there putting up yard signs for Hillary in this campaign, when he was 83 years old. And I think he was pretty pleased at the way things came out. 
+
+I also like the fact that he didn't lose his spirit when it didn't all work the way he thought it should. I mean, he thought Notre Dame should never lose, and he had what in this year turned out to be a bizarre idea: he thought all votes should actually be counted. {LAUGHTER ; APPLAUSE} 
+
+But he just kept chugging along, you know? And he made me even feel better about all of that. 
+
+Terry, of all the things you've done for me, turns out none of them was better than the chance you gave me to be your father's friend. His memory will always bring a smile to the face of all of us who knew him. And we'll always miss him. But I rejoice in the fact that Jack the cheerful giver is in his rightful place, where the road is always rising and the wind is always at his back, and he is always in the hollow of God's hand. 
+
+Thank you, Jack. {APPLAUSE} 
+
+{/speech} 

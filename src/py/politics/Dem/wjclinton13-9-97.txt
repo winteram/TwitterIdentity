@@ -1,0 +1,42 @@
+﻿{title} Remarks by the President at the Congressional Black Caucus Foundation Gala {/title}
+{event} Union Station {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 13, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you very much. Congresswoman Waters, every time you get up to speak I'm always all ears. When you introduce me I'm certainly all ears, I'm never quite sure what you're going to say -- {LAUGHTER} -- but I'm absolutely sure you will say what you think.
+
+Maxine Waters is my kind of public official. I've been to her district several times with her. She knows the people in the street, the people on the corners. She cares about the people that other people forget. Her district is the first one where I met young men who had been in gangs, who were walking the streets with her to save the lives of other young people. That's the kind of thing she's done, and America owes Maxine Waters a debt of gratitude and I thank her. {APPLAUSE}
+
+I want to congratulate Congressman Clyburn and LeBaron Taylor and all of you who are responsible for this event tonight. I was glad to be here, too, with Congressman Gephardt, and with all the distinguished members of the audience. I see Kweisi Mfume there and Mrs. King and Mayor Barry, Dr. Height. Reverend Jackson, I'm always glad to see you. And I think I speak for many of us here when we say that you and your family and your mother are in our prayers, sir, God bless you. And thank you for the magnificent job you did leading, along with Secretary Slater, the American delegation to the African Economic Summit in Zimbabwe. {APPLAUSE}
+
+Let me also congratulate the award winners -- Major Owens and Eva Clayton, Bill Lucy and Danny Bakewell, Laura Murphy and William Brooks, Myrlie Evers-Williams, Coretta Scott King, the late Dr. Betty Shabazz and my good friend, the chairman of our Racial Reconciliation Advisory Board, Dr. John Hope Franklin.
+
+And, finally, let me say one other word of introduction. One of your members is not here tonight because he had to go home to dedicate his new cathedral. But I want to wish Congressman Floyd Flake well as he leaves the United States Congress and goes home to his mission, where his heart is. {APPLAUSE} Floyd Flake in his church has helped to start 11 businesses, employing hundreds of people in inner city neighborhoods who would not have jobs otherwise. That's the sort of partnership I'd like to see us make with African American churches all across the United States of America, so everybody who wants a job has one. So, even though he's going home, I want him to be a model that all of us here in Washington can continue to follow.
+
+I want to say one serious thing. If you don't remember anything else tonight, remember this one sentence: I am profoundly grateful to the Congressional Black Caucus for making a dream of a lifetime come true -- I am the opening act for James Brown. {APPLAUSE} In one of James Brown's songs he says, "I don't want nobody to give me nothing. Just open up the door, I'll get it myself." I think that's the motto of the CBC. And for four and half years we've been working together to open up those doors.
+
+Today we see the results: unemployment below 5 percent, lowest African American unemployment in 24 years; 13 million new jobs, family incomes up, African American family income is up $3,000 in three years; the lowest poverty rate among African Americans ever recorded; violent crime down five years in a row, record drops in welfare. That is the progress that I could not have possibly made if it had not been for the support of the Congressional Black Caucus, and I thank you very much for that. {APPLAUSE}
+
+And let me say that progress should spur us on, for there is still too much poverty, still too much lack of economic and educational opportunity. There is still too much discrimination. There is too much to do. And I come here today to say that, down to the last day of my presidency I will be there with you, working with you, fighting for a tomorrow that we can all share together.
+
+I also want to thank the members of my administration who are here. Many have been noticed, but I'd like to say a special word of thanks to all the African Americans who work in the White House. And to Bob Nash, Goody Marshall, Ben Johnson, Minyon Moore, Terry Edmonds, Ann Walker, Tracy Thornton and Andy Blocker -- I know they're here -- there may be more. But I want to thank them for helping me to be a better President.
+
+I also want to thank the CBC for its strong support of the man who will be the next Assistant Attorney General for Civil Rights, Bill Lee. He's here tonight and I thank you for sticking by him. {APPLAUSE} For much of his career, Bill Lee's been a civil rights lawyer with the NAACP Legal Defense Fund. He was not born into a position of leadership; instead, he's a Chinese American who worked his way out of poverty in Harlem to become a national leader in the fight for social justice. We need your support to ensure his confirmation. He will do a magnificent job.
+
+I also want to ask your support for the man whom I nominated this week to be the next Surgeon General and Assistant Secretary of Health, Dr. David Satcher. {APPLAUSE}
+
+Finally, let me say, as the Congress comes back after its recess, I ask for your support to get from this Congress the money that was promised for the priorities we fought so hard for in the balanced budget agreement: the largest increase in aid to education since 1965, the biggest increase opening the doors of college to all -- and aid to college -- since 1945, and the biggest increase in health care for poor people and children since 1965. Now we've got to make good on the promises of that agreement. And I need your help to do that.
+
+Finally, let me say that as we approach a new millennium, we must decide that we can never be what we ought to be unless we get there together. I was, just the other day, at American University in Washington. There are students from 140 different national and ethnic groups at American University. We don't have time for or room for discrimination. And we can no longer ignore the unfinished business of our past. We cannot continue to grow economically as long as there's a single soul in this country who needs a good quality education who can't get it and who is denied access to a job for which he or she is plainly qualified. We cannot do that.
+
+And we have to decide, as a country, that we can't afford our past baggage or our present blinders -- we've got to embrace a future in which we're all going forward together. Look around this room tonight -- you are the future of America. Your children and grandchildren are the future of America. And we are going to have the most exciting future that this country has ever had if we just make up our mind to make sure everybody has a chance to walk through that door together. {APPLAUSE}
+
+I ask for your support for Dr. John Hope Franklin and Judy Winston. I thank you for the National Town Hall Meeting on Race Relations in the New Millennium that you held. I ask you to remember this: Everybody who gets to serve in Congress, certainly someone who gets to serve as President, has had a chance -- all those folks --we've had our chance to live our dreams; but there's still a lot of people our age that were denied that chance. There are huge numbers of people our parents' age who never had that chance. We should promise that there will be no one our children's age who will be denied that chance to walk through the door of their dreams. That is our mission and I promise to pursue it with you hand in hand until my last day as your President.
+
+Thank you and God bless you. {APPLAUSE} 
+
+{/speech}

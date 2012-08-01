@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President at HBCU President's Reception {/title}
+{event} HBCU President's Reception {/event}
+{speaker} Barack Obama {/speaker}
+{date} September 13, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody!
+
+{AUDIENCE} Hello! {/AUDIENCE} 
+
+Welcome. Welcome to the White House. It is good to see some old friends and familiar faces. And I want to especially welcome three of our newest board members of the President's Board of Advisors on Historically Black Colleges and Universities. I am so grateful that they've agreed to join, and I'm looking forward to working with all of you.
+
+Now, last February, I saw some of you here when I signed the executive order to strengthen the White House initiative on HBCUs. And this is allowing the government to collaborate with educational associations, with philanthropic organizations, and with the private sector to increase your capacity to offer a college degree to as many students as possible.
+
+We've also declared this week to be National HBCU Week. And we do this for two reasons: first of all, to remember our history. We remember all the men and women who took great risks and made extraordinary sacrifices to ensure that these institutions that you lead could exist. We remember that at a critical time in our nation's history, HBCUs waged war against illiteracy and ignorance -- and won. You've made it possible for millions of people to achieve their dreams and gave so many young people a chance they never thought they'd have -- a chance that nobody else would give them. And that's something to celebrate. And that's something to be very, very proud of. {APPLAUSE}
+
+But we also use this week as an opportunity to look forward towards the future and to take stock of the work that we've got left to do. As many of you know, I set a goal that by 2020, the United States would once again lead in the number of college graduates, have the highest proportion of college graduates in the world. I set that goal because our success in a 21st century economy is going to depend almost entirely on having a skilled workforce, how well trained our young people are.
+
+We cannot reach that goal without HBCUs. We can't get there -- {APPLAUSE} -- we can't get there unless all of you are improving your graduation rates. We can't get there unless all of you are continuing to make the dream of a college education a reality for more students. We want to help you do that in every way that we can. Already, we've eliminated billions of dollars of unnecessary subsidies to banks and financial institutions so that that money could go directly to your students. And that is incredibly important. {APPLAUSE} And as a consequence of that, we're making it possible for millions of more students to attend colleges and universities and community colleges all across the country.
+
+We also want to keep strengthening HBCUs, which is why we're investing $850 million in these institutions over the next 10 years. {APPLAUSE} And as I said in February, strengthening your institutions isn't just a task for our advisory board or for the Department of Education; it's a job for the entire federal government. And I expect all agencies to support this mission.
+
+Now, none of this is going to be easy. I know -- I'm sure you know that. As leaders of these institutions, you are up against enormous challenges, especially during an economic crisis like the one that we are going through. But we all have to try. We have to try. We have to remain determined. We have to persevere.
+
+That's what the first founders of HBCUs did. They knew that even if they succeeded, that inequality would persist for a very, very long time. They knew that the barriers in our laws, the barriers in our hearts would not vanish overnight. But they also recognized a larger and distinctly American truth, and that is that the right education might one day allow us to overcome barriers, to let every child fulfill their God-given potential. They recognized, as Frederick Douglass once put it, that education means emancipation. And they recognized that education is how America and its people might fulfill our promise.
+
+That's what helped them get through some very difficult times. It's what kept them fighting and trying and reaching for that better day, even though they might not be able to live to see that better day. That's the kind of commitment that we're going to need today from everybody here at the White House, from all of you at your respective institutions.
+
+We are extraordinarily proud of what you've done. But we've got a lot more work to do. And I just want everybody here to understand that you've got a partner in me, and you've got a partner in the Department of Education -- and you've got a department with everybody here at the White House who's absolutely committed to making sure that you can succeed in your mission.
+
+So thank you very much, everybody. God bless you. {APPLAUSE} Thank you. 
+
+{/speech}

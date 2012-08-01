@@ -1,0 +1,42 @@
+﻿{title} Remarks by the President and Prime Minister Obuchi in Exchange of Toasts {/title}
+{event} Akasaka Palace, Tokyo, Japan {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 19, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Prime Minister, Mrs. Obuchi, members of the Japanese delegation and honored guests. First let me say on behalf of the American delegation, I thank you for your warm hospitality.
+
+It is a pleasure to look around this room tonight and see so many friendly faces from my previous trips to Japan -- your distinguished predecessors, your Ambassador and former ambassadors, distinguished business leaders. The relationship between our two countries has always been important, but never more important than now.
+
+I, too, enjoyed our meeting in New York two months ago. Tonight I am delighted to be back in the Akasaka Palace. I also -- Prime Minister, I feel terrible about the schedule which we are on together, but since you mentioned it, perhaps we can make sure that we both stay awake at the dinner tonight. {LAUGHTER}
+
+Let me say, in all seriousness, too, I was deeply honored to be received by the Emperor and the Empress today, and very much appreciated the visit that we had and the good wishes they sent to my family.
+
+Since my last visit here in the spring of 1996, strong winds have blown across the world, disrupting economies in every region. There have also been threats to peace and stability from acts of terrorism to weapons of mass destruction. Yet, the world has made progress in the face of adversity. It is more peaceful today than it was two years ago when I was here.
+
+Hope has come to Northern Ireland. Peru and Ecuador have resolved their longstanding dispute. Bosnia is building a self-sustaining peace. A humanitarian disaster has been averted in Kosovo, and the people there have now hope for regaining their autonomy. The Middle East is back on the long road to peace.
+
+All of these areas of progress have one thing in common: They represent the triumph of a wide circle of nations working together, not only the nations directly affected, but a community of nations that brings adversaries to the table to settle their differences.
+
+Year in and year out, Japan's generous contributions to peacekeeping efforts and your eloquent defense of the idea of global harmony have gone far to make this a safer world. In Central America you have provided disaster relief in the wake of Hurricane Mitch. I should say, Mr. Prime Minister, that I wish my wife were with me tonight, but she is there, where they had the worst hurricane disaster in 200 years. And I thank you for helping people so far from your home.
+
+In the Middle East you have contributed substantial funds to aid the peace process. In recent months you have further advanced the cause of peace by taking your relations with Asian neighbors to a new and significantly higher level of cooperation. And despite economic difficulties at home, you have contributed to recovery efforts throughout Asia. That is true leadership.
+
+Now, Mr. Prime Minister, you have made difficult decisions to overcome your own economic challenges. The path back to growth and stability will require your continued leadership, but we hope to work with you every step of the way.
+
+In dealing with these difficulties, Japan can lead Asia into a remarkable new century -- a century of global cooperation for greater peace and freedom, greater democracy and prosperity, greater protection of our environment, greater scientific discovery and space exploration.
+
+At the center of all our efforts is the strong bond between the people of the United States and the people of Japan. Our security alliance is the cornerstone of Asia's stability. Our friendship demonstrates to Asia and to the world that very different societies can work together in a harmony that benefits everyone.
+
+Two fine examples of our recent cooperation are the new Asia Growth and Recovery Initiative that you and I recently announced, Prime Minister, and, as you mentioned, the Space Shuttle Discovery, which included your remarkable astronaut Chiaki Mukai. I understand that when Dr. Mukai spoke with you from space, Prime Minister, she offered the first three lines of a five-line poem, a tanka poem, and she invited the people of Japan to provide the final two lines. I want to try my hand at this.
+
+As I understand it, her lines were: "Spinning somersaults / Without gravity's limits / In space flight with Glenn." I would add: "All is possible on Earth and in the heavens / When our countries join hands." {APPLAUSE}
+
+Ladies and gentlemen, I ask you to join me in a toast to the Prime Minister and Mrs. Obuchi, and to the people of Japan.
+
+{COMMENT="A toast was offered"} {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,18 @@
+﻿{title} Remarks by the President and the First Lady at the Kennedy Center Honors Reception {/title}
+{event} The East Room {/event}
+{speaker} Hillary Rodham Clinton {/speaker}
+{date} December 5, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Please be seated, those of you who can be seated. Welcome to the White House. It's a longstanding tradition for the Kennedy Center Honors Reception to be the first event we hold in the White House after all of the Christmas decorations have been put up and are in place.
+
+And I can think of no better way to kick off a season of celebration than by celebrating some of our most gifted and beloved artists. Through music and dance, on film and on the stage, the men and woman we honor tonight have stirred our hearts and soothed our souls.
+
+Over the years, they've made us hold our sides with laughter, wipe away tears of sorrow and leap to our feet in appreciation. One of them has even taught us how to shake a proper martini. {LAUGHTER} But most of all, they have reminded us of the vital role that the arts can and should play in helping all of us appreciate the rich and complex world in which we live.
+
+So we thank you. We thank you for blessing our lives with your creativity and passion, with your talent and imagination. In a few hours, you will be honored on America's stage. But now we welcome and celebrate you here, in America's house. And to lead that celebration, it is my great pleasure and privilege to introduce the President of the United States. {APPLAUSE} 
+
+{/speech}

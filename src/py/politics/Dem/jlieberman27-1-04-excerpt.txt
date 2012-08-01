@@ -1,0 +1,55 @@
+﻿{title} Lieberman Addresses Supporters {/title}
+{event} ----- {/event}
+{speaker} Joseph Lieberman {/speaker}
+{date} January 27, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+Thank you. {APPLAUSE}
+
+Hey, let me ask you this: Is New Hampshire a great state or what? {APPLAUSE}
+
+You bet it is.
+
+Based on the returns that we've seen tonight, thanks to the people of New Hampshire, we are in a three-way split decision for third place. {APPLAUSE}
+
+Now, you and I both know that the national pundits didn't expect this, did they?
+
+{AUDIENCE} No! {/AUDIENCE} 
+
+As a matter of fact, the national newspaper put four of the candidates on their front page, not me.
+
+{BOOING} 
+
+But today, the people of New Hampshire put me in the ring, and that's where we're going to stay. {APPLAUSE}
+
+{AUDIENCE} Let's go, Joe. Let's go, Joe. {/AUDIENCE} 
+
+Today, New Hampshire's next-door neighbor candidates, John Dean -- no, that's Howard Dean, I was close... {LAUGHTER}
+
+... Howard Dean and John Kerry received most of the vote, but the rest was split with no clear decision reached.
+
+And let me put it to you this way: For us, this is more than a campaign, isn't it? 
+
+{AUDIENCE} Yes! {/AUDIENCE} 
+
+It is a cause. And we're ready to take that cause now to the rest of America. {APPLAUSE}
+
+{AUDIENCE} Go, Joe, go. Go, Joe, go. Go, Joe, go. {/AUDIENCE} 
+
+Thank you. And what is our cause? What moves us forward? 
+
+{AUDIENCE-MEMBER} You do. {/AUDIENCE-MEMBER} {APPLAUSE}
+
+Well, Mike, I thank you. But it's larger than me and it's a cause we share. It is for a politics that puts the national interest above special interests or partisan interests. Right? {APPLAUSE}
+
+It is for a Democratic Party that fights as hard to defend our nation's security as it does to advance the causes of social justice and equal rights. Right? {APPLAUSE}
+
+It is to take this nation, too divided at a time when we face challenges in the world and at home unprecedented in our history, and make us again one nation under God -- that is our cause. {APPLAUSE}
+
+It is the cause of the American Dream, the promise of America...
+
+{/speech} 

@@ -1,0 +1,26 @@
+﻿{title} Remarks by the President to University Presidents {/title}
+{event} Indian Treaty Room, Old Executive Office Building {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 26, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Secretary Riley. Before I turn the microphone over to President Kelly of Tulane, I wanted to just emphasize two other points, if I might.
+
+FIrst one of the things our administration is trying to do is to make sure that we all work together to do what was necessary here in Washington make sense of our common efforts. And Tom Glynn is here from the Labor Department, and I want to say a special word of appreciation to the cooperation of the partnership that the Education and the Labor Departments have had on all these issues.
+
+Secretary Shalala, from the Department of Health and Human Services, who used to be in your line of work, and some days wishes she still were -- {LAUGHTER} -- Joe Duffey, who used to be in your line of work and who probably almost never wishes he still were, -- {LAUGHTER} -- because he had such a good job at the USIA, Sheldon Hackney, who used to be in your line of work and I think it just depends on what day it is -- {LAUGHTER} -- done a great job at the National Endowment for the Humanities. And of course, our wonderful advisor and leader on science and technology, Jack Gibbons, is here. Carol Rasco, the Domestic Policy Council Chief in the White House, and others. We're all honored to be here with you.
+
+There is one other point I wanted to make that none of us mentioned. And that is, I want to begin by thanking you for responding so well to the call I issued in a letter to all of you last September on national service, and I asked you to support the AmeriCorps program and the whole concept of service for students and do what you could to enhance that. I got hundreds of letters back, literally hundreds of letters back. It was a very rewarding exchange, and there are even three colleges; Hampshire in Massachusetts, Loyola, Chicago, and Earlham in Indiana that have agreed to match the $4,725 educational grant that every AmeriCorps student earns in a year with a grant from the college to double the impact of it. And so, doubtless, they'll be getting more AmeriCorps students in some places. But that's a very good thing to do.
+
+There are those who believe that we ought to eliminate the AmeriCorps Program. I think that would be a terrible mistake because it -- it again, it does all the things that I think we should be doing. It promotes education, it promotes citizenship, it strengthens community bonds and it is totally nonbureaucratic. It involves people helping others, one on one, in established grass roots organizations.
+
+So we understand that the new Congress -- many of the members came in with a commitment to slash spending; and we've been slashing spending. We'd like to have some help. And we understand that they came in with a commitment to reduce the size of the federal bureaucracy; we've been doing that, there are 100,000 fewer people here today than there were on the day I became President. We'd like to have some help doing that.
+
+We just don't believe that raising the cost of going to college, reducing access, undermining national service, is the way to do it. And we want to work with them in good faith, but we think we have to have your help in supporting the right kind of tax cuts that raise incomes in the short run and in the long run, through education, and the right kind of budget cutting. That's our -- those are the two requests we ask of you. Help us get the right kind of tax cuts, the right kind of budget cuttings; let's do it in a way that will increase the incomes and the opportunities of the American people so that we really do expand access to the American Dream.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

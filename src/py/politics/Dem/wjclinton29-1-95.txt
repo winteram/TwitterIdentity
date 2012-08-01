@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President in Toast at Governors' Dinner {/title}
+{event} Governors' Dinner, State Dining Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 29, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good evening, ladies and gentlemen, and welcome to the White House, again for many of you, and for the first time for some. This is always one of my favorite evenings of the year; one of Hillary's favorite evenings; a chance to see old friends and think about old times and look to the future.
+
+Two years ago, when I had the opportunity for the first time to host this dinner, after having been on the other end of it for 12 years, I pledged to you that I would take the experiences that we had shared together and strive to form a new partnership with the governors and with the states. After two years, I think it's fair to say that we have made good on that pledge. And tonight, I want to renew that pledge as we debate the astonishing range of opportunities and challenges that are ahead of us.
+
+I also want to thank those of you who have gone out of your way to give me the opportunity to make good on the pledge when you thought we were slipping a little. {LAUGHTER} And I want to thank those of you who have acknowledged what you thought we were doing right. In particular, two of the governors, not of my party, who went through the line tonight and complimented the partnership of the federal government and various agencies I appreciate very much.
+
+I think every American now wants government to expand opportunity and to shrink bureaucracy; to empower people to make the most of their own lives; to enhance our security, but not to do those things that it ought not to do. Working in partnership with us, many of you have pioneered ways to reform health care and to reform welfare, free of federal rules and regulations, which had previously encumbered you. We have done our part to be good partners. We have reduced the deficit; we have reduced the size of the government; we have reduced regulation in important areas.
+
+We have also done what we could to improve our performance. I cited in the State of the Union, and I cite again, something that those of you who have had the misfortune to have disasters know, which is that the Federal Emergency Management Agency, and all those who work in the disaster area -- the Department of Transportation, HUD, and others -- are no longer a disaster when disaster occurs. They are there working in partnership with you. And we want to do more of that.
+
+In that spirit now, we begin a new year of debate; working on welfare, perhaps the most important thing we can do from the point of view of all the people of all of our states, without regard to party, or region, or race, or income.
+
+We had a very good meeting yesterday with a bipartisan group of governors, local officials, members of Congress, and I thank those of you who participated.
+
+The Vice President will also be presenting a second round of reinventing government proposals which will cut further spending and reduce the federal role, and give more responsibilities to the state. And as you know, we are proposing a tax relief package which focuses primarily on education and giving people tax reductions in return for educating their children and themselves.
+
+I hope as we go forward, we can agree on the things which we don't think the federal government should be doing. And I hope we'll also be agreeing on some things we think we should do. There is a plain national interest in protecting the essential needs of the children of this country. We clearly can do some things right, in a non-bureaucratic, creative way. And I think the best example of that is AmeriCorps, our national service program, which has worked closely with many of you in this room tonight.
+
+I want to close by saluting your distinguished Chair, Governor Dean, and Judy, and all of you for all you have done. For those of you who have worked with Hillary and with me over the years, and with the members of our Cabinet, particularly those who are former governors -- and I see Governor Babbitt, and Governor Riley here -- let me say that there is no more rewarding experience than being able to reach across the lines that divide us to feel that we are really making a difference in peoples lives; that we are giving the American people a government that is leaner, but not meaner; one that really does help them make the most of their own lives. I think that's why we all got into this work, and if we'll just keep that in mind, I think when we're all done, we'll be very proud.
+
+I'd like to propose a toast to the Chair of the National Governors Association and to his fine wife, and to all the governors and their spouses tonight.
+
+To the governors and their families, thank you.
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

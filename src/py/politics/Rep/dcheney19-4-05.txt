@@ -1,0 +1,34 @@
+﻿{title} Vice President's Remarks at Day of Remembrance Ceremony {/title}
+{event} First United Methodist ChurchOklahoma City, Oklahoma {/event}
+{speaker} Dick Cheney {/speaker}
+{date} April 19, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. {APPLAUSE} Thank you, Frank. Governor Henry, President Clinton, Governor Keating, Congressman Istook, Mayor Cornett, Pastor Crosby, distinguished guests, ladies and gentlemen: I want to thank you very much for the welcome, and for the invitation to join all of you this morning.
+
+I especially want to recognize the survivors and family members who are with us today. All of us respect you for the way you have borne tragedy over the last decade, and for your great devotion to the memory of those who died here on Wednesday, April 19th, 1995. I am honored to be in your presence, and I bring personal regards to all of you from our President, George W. Bush.
+
+This morning we recall an event that changed this community forever, and profoundly touched our entire nation. We recall as well the legacy of courage and hope that has characterized Oklahoma City from that day to this.
+
+The United States has known times of sadness, both before and after the Murrah Federal Building was attacked. Yet that spring morning 10 years ago is still deeply etched in our memories. Across the nation, Americans were going forth to start the new day. And just steps away from where we gather now, federal offices were opening; men and women were sitting down to work; and children were sitting down to their breakfast.
+
+To some who heard it, the sound of the blast seemed like a clap of thunder over Oklahoma City. Others, as many as 30 miles away could feel the tremor in the ground. Within a few minutes, the news from Oklahoma was received by a nation that listened and watched in disbelief. I remember hearing the coverage on a car radio, and trying to picture in my mind all that the announcer was describing -- then later seeing that it was far worse than anything I had imagined. All that was left was a remnant of a building -- unstable and towering over the heads of survivors and rescuers. Our nation, and much of the world, looked on as emergency teams and recovery workers ignored their own grief and labored into the night. Volunteers assembled by the thousands; citizens of all ages stood in line for six hours to give blood. Many professionals arrived from across the country to aid in disaster relief; among them were nine members of New York Task Force One -- men whose own lives would end on another day of terror in 2001.
+
+As this community came together, the nation shared in the sorrow and the outrage over the violence directed at innocent and unsuspecting men, women, and children. One hundred and sixty-eight had been killed, more than 800 injured. Two hundred and nineteen children lost at least one parent, and 30 were orphaned. And a few days after the attack, a minister of the Gospel officiated at the funeral of his own grandsons.
+
+Among the images from those desperate early hours, Americans remember the skill and the fearlessness of the rescue and recovery workers. We also remember the calm strength and firmness of Oklahoma's Governor, Frank Keating. And on a day of mourning shared by all citizens, we were comforted by a leader who gave compassionate and eloquent voice to the nation's grief, President Bill Clinton.
+
+To gather at this time of reflection is to feel once again the impact of April 19th, and to admire once again the resolve that came through almost immediately in Oklahoma City. As Judge Fred Daugherty said -- the U.S. District Court, "We're a strong and simple folk. We'll rebuild and roll with this thing."
+
+Oklahoma City did rebuild, but it was not easy. More than one in every three persons in this community knew someone who had been killed or injured. In sadness you have looked after each other, cared for each other, and become like family. And you have raised up a beautiful and dignified memorial -- marking a moment in time, and affirming the truth that there is far more good than bad in this world. All humanity can see that you experienced bottomless cruelty and responded with heroism. Your strength was challenged, and you held firm. Your faith was tested, and it has not wavered.
+
+I was struck by the words of one survivor, who said, "We cannot ever forget. We don't even want to forget." That's the spirit of Oklahoma City National Memorial, and it so perfectly reflects the character of the United States. This nation is decent and just, fair-minded and good-hearted. When sadness comes, when fellow citizens know suffering and loss, we do not want to forget what happened, or to whom it happened. We uphold the value of innocent life by pursuing justice until justice is done. We find comfort in the knowledge that our created universe has a moral design, and the forces of darkness will not have the final say.
+
+We want to remember April 19th, 1995 -- not merely because great evil appeared that day, but because goodness overcame evil that day. We want to remember -- not only a single act of malice, but also ten thousand acts of kindness, and mercy, and bravery. And we want to remember -- because of the innocent lives that ended here, and all the families that were harmed by strangers who had no right to harm them.
+
+President Clinton, Governor Keating, and so many others here today were also present 10 years ago, when in the aftermath of violence the Reverend Billy Graham came to this city. Dr. Graham declared, with great confidence, that "The wounds of this tragedy are deep, but the courage and the faith and the determination of the people of Oklahoma City are even deeper." These 10 years have proven him right. For your unbending strength, your unity, and the great love you have shown one another throughout a decade of hope, the entire nation feels enduring pride and respect for the people of Oklahoma City. 
+
+{/speech}

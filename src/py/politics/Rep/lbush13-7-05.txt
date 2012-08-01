@@ -1,0 +1,52 @@
+﻿{title} Mrs. Bush's Remarks at PASADA in Dar es Salaam, Tanzania {/title}
+{event} Dar es Salaam, Tanzania {/event}
+{speaker} Laura Bush {/speaker}
+{date} July 13, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Madame Mkapa. Thank you all. Thank you for your welcome. I'm honored to be in your beautiful country. {APPLAUSE}
+
+I want to acknowledge Ambassador Randall Tobias, who coordinates the United States government's global fight against HIV/AIDS. Ambassador Tobias. {APPLAUSE}
+
+And I'm grateful to His Eminence Cardinal Pengo and to Mary Ash, the Executive Director of PASADA, for welcoming me here and for showing me their good work. {APPLAUSE}
+
+I am inspired by the work being done at PASADA - life-saving work, life-changing work. Here, people with HIV/AIDS can get the treatment they need to fight the disease. And they can also get the love and support they need to live a happy and full life. {APPLAUSE}
+
+PASADA is run by the Catholic Archdiocese of Dar es Salaam. This organization's work is a good example of the tremendous efforts of faith-based organizations around the world. Many people of faith have made a commitment to help men and women who are living with HIV/AIDS. They are often the only people willing to go into situations that others might find too dangerous or too desperate.
+
+Their faith carries them forward, and here at PASADA, we see the results: parents who will watch their children grow up; children who will know the love of their parents for many years; and people who are living free of HIV/AIDS because they've learned how to prevent infection.
+
+President Bush is a strong supporter of faith-based groups that bring help and healing to people who need it. We appreciate the work of people who are affiliated with churches or mosques and other faith groups. When our government can work together with faith-based organizations, we will. And we have a good partnership with PASADA. {APPLAUSE}
+
+For 13 years, the people of PASADA have provided services to men, women and children, whether they are infected with HIV or not. PASADA provides health education in communities, teaching teens and adults about the risks of HIV transmission. PASADA offers voluntary counseling and testing, so that people can find out if they have HIV - and start getting the needed treatment. {APPLAUSE}
+
+By increasing awareness and knowledge, and by helping people who are HIV-positive live longer, PASADA is helping to remove the stigma that's associated with AIDS, so that people aren't afraid to get tested and then to get treatment.
+
+PASADA trains caregivers to provide home-based care for people living with AIDS. PASADA also provides support to orphans and other vulnerable children - boys and girls who have lost one or both of their parents to AIDS. These children need help with all the challenges that come with growing up - and with the responsibilities that an adult would usually handle.
+
+And PASADA offers services for the prevention of mother-to-child transmission of HIV. With each mother who gives birth to a healthy baby, another step is taken toward keeping the next generation HIV-free.
+
+PASADA's good work needs support from people around the world, and the people of the United States are responding. In 2003, President Bush announced a five-year, $15 billion plan to fight AIDS in the most afflicted countries, including many in Africa. The President's Emergency Plan for AIDS Relief supports care and treatment for people who are affected by HIV, and helps to prevent further transmission of the disease.
+
+During the last two years, the American people, through the President's Emergency Plan, have provided $177 million to combat AIDS in Tanzania and to fund Tanzanian efforts to treat this disease. These resources have contributed to 4,400 people receiving anti-retroviral treatment, nearly 43,000 mothers receiving HIV transmission-prevention services, and 12,000 orphans and vulnerable children receiving care and support.
+
+Our efforts are part of a broad-based campaign to fight HIV/AIDS - a campaign joined by many countries, and organizations from both the public and the private sectors, in support of Tanzania's national HIV/AIDS policy.
+
+We believe the best way to provide services is through organizations like PASADA, that have deep ties to communities and can provide help person-to-person. I'm pleased to announce that the United States will strengthen our partnership with PASADA, providing an additional $500,000 from the Emergency Plan over this year and the next. {APPLAUSE}
+
+As we confront HIV/AIDS, we are also confronting malaria. Each year, more than a million people die of malaria. The overwhelming majority of victims are children under the age of five. And the most tragic part of this loss is that it's largely preventable. We have the knowledge and the technology to reduce mosquito populations and to treat people who have malaria. With this knowledge comes the obligation to act, and we are taking action.
+
+Two weeks ago, President Bush announced a new initiative to combat malaria. His proposal calls for $1.2 billion over the next five years. The money will pay for insecticide-treated nets, it will allow for indoor spraying against mosquitoes, and it will provide effective new combination drugs to treat malaria. Our eventual goal is to reach more than 175 million people in 15 nations. {APPLAUSE}
+
+Tanzania is one of three countries that will benefit first from this new initiative. {APPLAUSE} And we welcome the efforts of other governments and private partners, like the Gates Foundation, that are using their funds to fight malaria.
+
+AIDS and malaria have already taken too high a toll on men, women and children - especially here in Africa. Lives have been lost, dreams have died, productivity and creativity have vanished. We can stop it. The American people are committed to standing with the peoples of Africa. And we have confidence in Africa's future. By working together, by helping each other, we can stop the spread of disease and give people and nations renewed hope. {APPLAUSE}
+
+Thanks to organizations like PASADA, progress is being made one person, one community at a time. You have shown us that when compassionate people come to the help of men and women in need, hope triumphs over suffering.
+
+Thank you all very, very much. {APPLAUSE} 
+
+{/speech}

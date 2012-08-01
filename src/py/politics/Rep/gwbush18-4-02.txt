@@ -1,0 +1,73 @@
+﻿{title} Remarks by the President at the National Fire and Emergency Services Dinner {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} April 18, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. {APPLAUSE} Please be seated. Thank you all very much. Thank you for that warm welcome. I'm honored to be your President, and I'm honored to be a proud backer of the Crawford Texas Volunteer Fire Department. {LAUGHTER ; APPLAUSE} 
+
+Anybody here from -- 
+
+{AUDIENCE-MEMBER} We love you, George! {/AUDIENCE-MEMBER} {LAUGHTER} 
+
+I was hoping somebody would be here from the Crawford Volunteer Fire Department. {LAUGHTER} It's a long drive from Crawford, but thanks for coming. {LAUGHTER} 
+
+This evening, we pay a fitting tribute to our nation's first responders, the men and women who answer America's alarms. Yours is one of the highest callings in our country, and one of the hardest. Your neighborhoods depend on you, and so does your country. And you've never let us down. 
+
+It's good to be here with Hal Bruno. This man was one of the finest names in TV journalism. You know him as a champion of fallen firefighters, and a champion of their families. And as a lifelong volunteer, Hal, you have the respect of the people in this room, and we thank you for your service. {APPLAUSE} 
+
+And America has come to know my friend, a steady and strong man, the man I picked to be the FEMA Director, Joe Allbaugh. I'm proud of -- {APPLAUSE} There's something reassuring about old Joe. {LAUGHTER} It might be his haircut. {LAUGHTER} But I know him well, and trust him because he's got a big heart. And as Hal just told me, I'm proud of the fact that he's welcome in any firehouse in America. {APPLAUSE} 
+
+And I give my thanks to a former volunteer fire chief, an eloquent former volunteer fire chief -- the man who founded the Congressional Fire Service's Caucus, my friend, Congressman Curt Weldon. {APPLAUSE} 
+
+I want to thank Chief Dave Paulison for his willingness to serve our country. I want to thank the congressmen who are here -- Steny Hoyer; as well as Rob Andrews. I understand that Senator Biden and Senator Sarbanes are to be here. They might be trying to pass some legislation right now -- I hope. {LAUGHTER} I've got a few suggestions in mind if they -- {LAUGHTER} -- if they're interested. But I want to thank the members of the Congress who are here. Thank you for taking time out of your evenings to be here and support this really important evening. 
+
+I want to thank Chief Nigro, Chief Plaugher, and Chief Shaffer for their leadership and for leading the Pledge of Allegiance. And I want to thank you all for being such fine Americans. 
+
+This annual event recognizes more than a million Americans who accept the difficult and dangerous work of fighting fires. {APPLAUSE} At this hour, across our country, career and volunteer firefighters are waiting for the next call, and prepared for anything that might come. Every one of them knows the risk that may be only minutes away, and every firefighter has made a decision. It has been said that a firefighter's first act of bravery is taking an oath to become a firefighter. 
+
+We often read about surveys that ask Americans whom they trust and respect the most. In addition to their own family, one of the groups the young people of America most often name is the firefighters of our country -- and rightly so. {APPLAUSE} 
+
+You defend us against humanity's oldest enemy. In many ways, modern societies have gained control over fire. We have invented new methods of detecting fires and new practices to prevent them. Yet we know there will always be fires, and someone will have to face the flames. America will always need the kind of people who do that work. There is no substitute for the raw courage of the firefighter. 
+
+On September the 11th, the world saw once again the true meaning of heroism. Thousands of lives were saved from certain death by the courage of rescuers. Thousands were killed in the attack on our country. But not one of the victims was abandoned. 
+
+Undoubtedly, for many who died that terrible day, the last voice they heard was the voice of a rescuer. A woman who lost her daughter at the World Trade Center has written this: "We do not know what Ann's final time on Earth was like. But one thing we do know; if she were conscious of being in a fire, she would have known that somewhere firemen were looking for her, and if it were humanly possible, they would save her, or give their lives trying. She learned that as a fireman's daughter." 
+
+Another fireman's daughter is here this evening, along with her three brothers and their mom, Rosalie. They are the family of Chief Ray Downey, who will always be remembered as one of the heroes of September the 11th. {APPLAUSE} Those who knew him would tell him -- tell you he was the bravest of the brave, a fireman's fireman. And today I proudly sign legislation designating a post office in Deer Park, New York, as the Raymond M. Downey Post Office Building. {APPLAUSE} 
+
+It is our job to make sure that our country does not forget the sacrifices of that day, and the valor of those who made them. We'll remember all the innocent people who were murdered, and the terrorist leaders who sent the murderers. And we'll remember our mission: to run down the terrorists one by one and bring them to justice. {APPLAUSE} 
+
+I can't imagine what went through their minds when they were plotting this horrible evil. You know, they must have thought America was so materialistic, so self-centered, so self-absorbed, so weak that all we were going to do was file a lawsuit. {LAUGHTER} They found out we think a little different here in America. {APPLAUSE} 
+
+These people are nothing but cold-blooded killers. And that's exactly how we're going to treat 'em. There is no cave -- {APPLAUSE} . There's not a calendar on my desk that says, you know, you got to quit by this date. I'm patient; so's the American people. We're united. You see, when it comes to defending that which we hold dear, we're plenty tough, and we hold our freedoms dear. {APPLAUSE} 
+
+This is a different kind of war than we're used to in America. The days after September the 11th, I told the American people, and I'm telling them every chance I get, that this will be a war that will be fought on many fronts. Sometimes we'll use our military; sometimes we'll cut off their money; sometimes, we'll conduct operations that no one will see -- except the enemy when we grab 'em. {APPLAUSE} 
+
+I want you to know we're making good progress. But it's going to take a long time. It's going to take a lot longer than some of the calendar watchers would like. But that's okay. Because we've got the resolve. Much to the chagrin of the enemy, this nation has the resolve and the desire and the will to do what it takes to defend our freedoms, and to make sure our children and our grandchildren can grow up in a free and peaceful world. {APPLAUSE} 
+
+I sent up -- I sent up a budget to Congress that reflects the nature of the war we're in. It's a big increase, no question about it. It's a $48-billion increase for our Armed Forces. It's the largest increase in defense spending since Ronald Reagan. {APPLAUSE} 
+
+And it's necessary. Here's my attitude. If we put our soldiers in harm's way, they deserve the best equipment, they deserve the best training, they deserve the best support possible from the United States of America. {APPLAUSE} 
+
+I've also made homeland security a priority in the budget, with $3.5 billion in proposed spending for our country's first responders. {APPLAUSE} We must prepare our country for whatever emergency may come and commit new resources to train and equipment our firefighters, our police, and EMS crews all around the country. 
+
+You know, people oftentimes ask me what can they do to help fight in the war against terror. Firefighters answer that call every day. But there are other ways to fight in the war against terror, as well. If you want to fight evil, do some good. If you want to join the war against terror, love your neighbor just like you'd like to be loved yourself. {APPLAUSE} 
+
+That's why I'm calling on people to join the USA Freedom Corps, and one of the initiatives is to help our firefighters and police and EMS teams -- have volunteers support you all, have elderly help out in Neighborhood Watch. I mean, there are ways citizens can join in this war against terror. 
+
+And there are other ways, as well. If you mentor a child, you're doing some good. If you say to a shut-in, what can I do to help you out, you're doing some good. If you go to your church or synagogue or mosque and help people feed the hungry, you're doing some good. 
+
+And it's the millions of acts of kindness and compassion which stand squarely in the face of evil. I am so proud -- {APPLAUSE} I am so proud of the way America has responded. You know, I think we're beginning to defeat the old culture which said, if it feels good, just go ahead and do it, and if you've got a problem, blame somebody else. You've lived the culture of personal responsibility, of being responsible for something greater than yourself. That's what the firefighter does. And making the sacrifice and risking your life, you're a part of a movement, of a culture that says, it's important to serve something greater. 
+
+That was best seen in Flight 93. It's one of the moments that I'll never forget -- when brave men and women on a flight were told via telephone on the plane that America was under attack, and they, themselves, had become a weapon. They said to their loved ones, they told their loved ones they loved them, they said a prayer, one guy said, "let's roll," and they drove an airplane in the ground, to serve something greater than themselves in life. 
+
+Out of this evil will come incredible good in America. Out of the evil done to our country will come more peace in the world, a culture of personal responsibility, a willingness to serve something greater than ourselves in life. The enemy thought they hit a weak nation. But, instead, they hit the greatest nation on the face of the Earth. And it is my honor to be the President of the greatest nation. {APPLAUSE} 
+
+Thank you all. May God bless you. {APPLAUSE} 
+
+{/speech} 

@@ -1,0 +1,48 @@
+﻿{title} Remarks by the President and the Vice President at Business Roundtable {/title}
+{event} Powell's Manufacturing Industries, Inc., Washington. D.C. {/event}
+{speaker} Bill Clinton {/speaker}
+{date} August 10, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, hello, everyone. I have a few remarks, but I want to be brief so we can get on to the business at hand. But first, I'd like to thank James Powell for making us feel welcome in his place of business, and his family and his coworkers, and the instruction that he gave me on making a mop. I'm always looking for new skills since I have to acquire some pretty soon. {LAUGHTER}
+
+And the Vice President appreciates the fact that he buys the cord from Tennessee.
+
+{OTHER-SPEAK} Humbolt, Tennessee. {/OTHER-SPEAK} 
+
+And I want to thank the Mayor and the two councilpersons, and Congresswoman Eleanor Holmes Norton, for making us feel welcome up here. We're always glad to be out in D.C., but this is a special opportunity. And I know that the Mayor and Councilwoman Charlene Drew Jarvis and Kevin Chavous, Councilman Chavous, are excited about what's going on here.
+
+I want to thank Dana Mead, the President and CEO of Tenneco, the gentleman to my right who is the Chair of the Business Roundtable, and Peter Bijur, the President and CEO of Texaco, who is going to chair our BusinessLINC National Coalition, for their willingness to undertake this project with gusto -- and all the others around here who are proving that this kind of things works and who will be introduced as we go through, including the members of the administration who are here -- Secretary Summers; Gene Sperling, my National Economic Council, who has done so much to develop the New Markets Initiative; Aida Alvarez of the SBA; and Jack Lew, Director of the Office of Management and Budget.
+
+We all know why we're here. We have a record expansion in America, the longest peacetime expansion in history. It has finally in the last three years given us substantial increases in wages for ordinary workers, after 20 years of stagnation, and the lowest minority unemployment rate ever recorded. Yet we know that there are still people in places that have not been touched by this recovery.
+
+And it's very interesting to me that what many of us in the business community, as well as in the public sector, believe is a moral obligation we have to try to give all our people a chance to participate in this great economy is also an economic opportunity and perhaps an economic imperative. Every day, I promise you, the people here who run these big companies have got people scouring the press every day trying to divine the intention of the markets -- have we reached the limits of this expansion, can we continue to grow the economy without inflation, how can we do it?
+
+Well, obviously, if we expand economic opportunity and create businesses, employees and consumers in areas where they didn't exist before, that is an inflation-free way to expand the economy. So we have reached a point in our country's economic development where I think we finally have a chance to do something for the places that have been left behind, from Appalachia to the Mississippi Delta to the Native American reservations to the inner-city neighborhoods in ways that will benefit all Americans. That's the idea behind the New Markets Initiative and the tour I took of areas that have been left behind, a few weeks ago with a lot of CEOs and other people.
+
+And the idea is simple, that we want a partnership between business and government to make investments more attractive in areas where they haven't been made in the past, but only on the basis of profit -- that this has to be a profitable decision. This is not a social program. This is free enterprise economics. We are trying to create the conditions in which the economic expansion -- which has so benefited so many millions of Americans -- can reach people who have been left behind for decades.
+
+Mr. Powell's exhibit A. He introduced me to someone who moved from welfare to work in his company. He introduced me to a man who has eight children that he feels he can now support. He introduced me to a man who immigrated to this country 10 years ago from Central America, who's proud to be working here.
+
+And this is a very, very important moment for our country, because for at least 30 years, Americans have wanted to do this -- not just politicians; people in business have wished there was some way to bring free enterprise to the people and the places that have been left behind. And we believe we have found some ways to do it.
+
+Now, I said, we have to do this in partnership. And just this last week, legislation based on our New Markets Initiative was introduced in both the House and Senate. It's pretty simple. It's basically designed to give American investors like those around this table, the same incentive to invest in developing markets in America that we give you to invest in developing markets in Central America, or the Caribbean, or Asia, or Africa. I support those incentives for those countries, but they ought to exist in this country as well.
+
+It builds on the successful approach that the Vice President and I have developed over the last six and a half years, and that he has so very ably headed, of our empowerment zones, our enterprise communities, a stronger Community Reinvestment Act, community financial institutions. This approach is working where we have applied it. What we want is a nationwide framework.
+
+What we're here today to talk about is what I think is perhaps the single most important thing the business community can do to make this work -- BusinessLINC. Let me tell you how BusinessLINC got started.
+
+Nearly two years ago, Vice President Gore met Tom Lazo down there in Dallas, in South Dallas. He had a small company that built telecommunications equipment. It was doing well, but he told the Vice President that his company couldn't grow and thrive without technical assistance and better training, without tools and skills his larger competitors already had. He needed a corporate mentor. That's why we launched BusinessLINC last summer, under the leadership of the Vice President and with the support of Secretary Summers, Administrator Alvarez and former Secretary Rubin.
+
+Tom Lazo's idea has a lot of power. Large companies helping small companies get access to capital, learn the best technology and the best management techniques. As many of you can attest and will attest this morning, partnerships like this are good for investment, good for consumers, good for the bottom line. You see that at businesses like Powell's. And Mr. Powell and his big supporter will have a chance to talk here in just a moment.
+
+Today, I am very pleased that the Business Roundtable, a coalition of Fortune 500 companies, is stepping up to lead BusinessLINC. This means that we'll be able to go national with this idea. This means we'll be able to do it in a big way. And this means people who know what they're doing will have a stake and a commitment to its success. I cannot thank Dana enough. I cannot thank Peter enough. This is a very, very impressive commitment and I'm very grateful to both of you.
+
+Especially, I want to thank Texaco's Peter Bijur, because since he's going to lead the effort, Dana can look at him and ask for results. {LAUGHTER} I've been on both ends of that, I'd rather be asking than answering. {LAUGHTER} But this will help the corporate community to meet the challenge the Vice President issued a year ago to mentor more businesses, especially in the distressed communities.
+
+Now, I know the Vice President has more to say about BusinessLINC, so I'd like to ask him to say a few things and then we'll just start calling on the people around the table. And I think the press and those who read about this or see about it on the media will quickly understand the great power of this idea. 
+
+{/speech}

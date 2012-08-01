@@ -1,0 +1,47 @@
+﻿{title} Speech to Americorps on MLK Day {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 18, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Good afternoon, everyone. 
+
+{AUDIENCE} Good afternoon. {/AUDIENCE} 
+
+First of all, I'd like to say that I am very grateful to be here at Regency House with all of you. I want to thank the Residency Council for making us feel welcome -- Sarah Beaner, Kenneth Brown and others. 
+
+I want to say to the members of the press here -- you know, the press, they all think that we're all on automatic, because they give us little notes here to read about every place we go. But I think it would be interesting for you to know the note I got on Regency House here: Sarah Beaner is the president of the Residency Council; Kenneth Brown is the past president and is now serving as the vice president -- not such a bad idea. {LAUGHTER} The Regency House has 157 tenants. The tenant population is made up of seniors and the disabled. They are all current in their rent. {LAUGHTER} Good for you, that's great. {APPLAUSE} 
+
+Let me say to the Mayor and Councilmember Patterson and Delegate Norton, I am honored to be here to participate in Martin Luther King Day as a day of service, as provided by law and in the spirit of what Dr. King said. And I am proud that I now live in a city with truly outstanding leadership. Eleanor Holmes Norton has been my friend for a very long time and is one of the most remarkable women in any leadership capacity of any kind in the United States. D.C. is fortunate to have her. 
+
+The Mayor, in his former life, was actually a member of our administration in the Agriculture Department. And you know, it didn't really offend me that we'd already torn the wall down by the time he showed up -- {LAUGHTER} -- because he's working hard and he's got a lot of things to do. And I feel good about what he's going to achieve. And, Mr. Mayor, you just stay on the job and I'll tear a wall down for you any day you want, any time, anywhere, and I thank you. {LAUGHTER ; APPLAUSE}
+
+I want to thank David Gilmore, of the D.C. Housing Authority; and my great member of the White House staff, Ben Johnson, who did used to be a former director of D.C. Public Housing. The others whom the Vice President mentioned with AmeriCorps -- Deb Jospin, John Gomperts. But mostly I want to thank these young volunteers behind me. {APPLAUSE} 
+
+Near the end of Dr. King's life he envisioned a partnership in America across racial lines. He could never have imagined that America would become so diverse as it is today. But AmeriCorps, it seems to me, is the living, breathing embodiment of the way Martin Luther King thought all of America ought to work. And that's what I wanted to do when we established it. 
+
+You might be interested to know that in only four years, since we've set AmeriCorps up and got it going, more than 100,000 volunteers have joined AmeriCorps. It took the Peace Corps 20 years to reach that milestone. And they have done unbelievable things to make America a better place: helping to deal with natural emergencies, helping to build houses, helping to tutor children, helping to immunize children, working in a thousand communities across this country. 
+
+And if you just look at these young people standing behind me, you know they come from all different parts of America, they come from all different backgrounds, they had different kind of reasons for joining AmeriCorps. They came here after different points of experience in their lives. And I'm very, very proud of them and I thank them. 
+
+You should know that today more than 100,000 volunteers are out there keeping Dr. King's dream alive. AmeriCorps members, seniors, students, soldiers are rehabilitating buildings, painting schools, cleaning neighborhoods, reading to children. They are doing what Dr. King would want us to do. 
+
+I also want to mention on other thing. The Vice President talked about the need to continue to fight discrimination. Dr. King believed that every American, regardless of race, religion or background should be able to live in a home without discrimination. Today, on this Martin Luther King Day, I am pleased to announce the largest settlement in history in a lending discrimination, for home lending. {APPLAUSE} 
+
+Let me tell you about it, it will affect a lot of people's lives. Thanks to the efforts of the Department of Housing and Urban Development, under the leadership of Secretary Cuomo, the Columbia National Mortgage Company will offer -- listen to this -- $6.5 billion in home mortgages and extra effort to help 78,000 minority and low and moderate income families unlock the door to homeownership. This settlement was made under the Fair Housing Act which Congress passed just six days -- just six days -- after Dr. King was killed. He had worked for years to outlaw discrimination in housing. And many who voted for the measure said they did it in tribute to him. So here all these years later -- 31 years later, to be exact -- we're proud that it's happened on Dr. King's national holiday. 
+
+Now let me just say one final thing. Yesterday in the church that Hillary and I attend they observed Dr. King's birthday with some special music. They had a wonderful singer from the Army Chorus, they did a lot -- but one of the songs they sang that I love so well was one of Martin Luther King's favorite hymns and it embodies what we are doing here today. The first line of the hymn is, "If I can help somebody," and the last line is, "then my living will not be in vain." 
+
+All these people are here not only because they want to help you, but because their lives are richer because of it. And we're all learning and growing. And besides that, as the press pointed out, it did the Vice President and me a lot of good to pick up those hammers and crow bars and tear something down. {LAUGHTER} You know, we do this desk work all the time and we do this word work all the time, and there's not always a beginning, a middle and an end. There was a beginning to that wall, a middle and it is no longer, it is over. {LAUGHTER} So we are very grateful that you gave us the chance to be part of this today and we thank you. {APPLAUSE} 
+
+Again, I want to say I hope all across America people will hear this. Look at these young people -- they're here with you, they're getting something out of this, too. Their lives will be richer and better. They will be wiser sooner. They will be more sensitive and more understanding more quickly in their lives because of the experience they've had here and the other experiences in AmeriCorps. Every American needs to serve. And remember what Dr. King said, everyone can be great because everyone can serve. 
+
+Thank you and God bless you. {APPLAUSE} 
+
+Now, I know we're done, but I want to say a special word of recognition to Melodie Scales and Beth McCarthy of AmeriCorps who work with me, and to Donald Stokes, who is a resident here. I'd like for them to come up and be recognized, since they work with the Vice President and me. Come on up here. {APPLAUSE} This is our crew and if you need a wall torn down, you couldn't do better than this. {LAUGHTER ; APPLAUSE} 
+
+{/speech} 

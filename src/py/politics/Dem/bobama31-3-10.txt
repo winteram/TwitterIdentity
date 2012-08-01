@@ -1,0 +1,56 @@
+﻿{title} Remarks by the President at Workplace Flexibility Forum {/title}
+{event} Workplace Flexibility Forum {/event}
+{speaker} Barack Obama {/speaker}
+{date} March 31, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, everybody. {APPLAUSE} Hello, hello, hello. Thank you, everybody. Please, please, have a seat. First, one caveat -- I will not be good -- as good as Michelle. {LAUGHTER} So keep your expectations lower.
+
+I want to, first of all, acknowledge John Berry for the extraordinary work he's doing here and for helping to organize this. Thank you, John. {APPLAUSE}
+
+In addition, we've got -- Secretary Hilda Solis is here from our Department of Labor. {APPLAUSE} Dr. Christina Romer, who's the chair of our Council of Economic Advisers -- where are you, Christina? Right there. {APPLAUSE} Valerie Jarrett, a senior advisor and chair of the White House Council on Women and Girls. {APPLAUSE} Ms. Melody Barnes I actually just saw run off to the garden. She was on my list -- the chair of our Domestic Policy Council -- but she's not here. Karen Mills, who is the administrator for our Small Business Administration. {APPLAUSE} And Ms. Martha Johnson, administrator of the General Services Administration. {APPLAUSE}
+
+So I understand you've had a wonderful session. I heard all about it. And I want to thank all of you for joining us today and sharing your thoughts on what we can do -- as business leaders and advocates, as employees and as government officials -- to modernize our workplaces to meet the needs of our workforce and our families.
+
+And all of us here today know just how wide that gap has grown. And we're all familiar with the economic and demographic changes that have brought us to this point -- how over the past generation or two, as costs have risen and wages have lagged, many families have found they can no longer survive on just one income. And at the same time, we've broken down barriers and opened up opportunities, so more women have entered into the workforce, bringing home paychecks that are increasingly critical to supporting families.
+
+Today, two-thirds of American families with kids are headed by two working parents or a single working parent, and the result is the rise of what one expert I know refers to as “the juggler family.” For these families, every day is a high wire act. Everything is scheduled right down to the minute. There's no room for error. If the car breaks down, or somebody gets sick, or there's a problem at school, that begins a cascading domino effect that leaves everybody scrambling.
+
+And I have to say that this is something that Michelle and I have struggled with in our own family. As she told you earlier today, it wasn't that long ago that both of us were working full-time outside the home while raising two young daughters. I was away for days on end for my job, and Michelle was working hard at hers, so a lot of times we felt like we were just barely keeping everything together. When we were at work, we were worrying about what was happening at home. When we were at home, we were worrying about work. We both felt our overloaded schedules were taking a toll on our marriage.
+
+And we had it relatively easy. We could afford good health care. We had a wonderful mother-in-law, grandmother -- {LAUGHTER} -- who could help out. We had to ship her in, even in the White House. {LAUGHTER} We both had jobs where we could rework our schedules in an emergency without risking being fired or having our paychecks docked.
+
+Now, most folks just aren't that lucky -- particularly in today's economy when many people aren't just working one job but are having to work two or three to get by, or they're working longer hours, or they're out of a job and they can't afford to be choosy about things like flexibility and benefits.
+
+And this disconnect between the needs of our families and the demands of our workplace also reflects a broader problem, that today, we as a society still see workplace flexibility policies as a special perk for women rather than a critical part of a workplace that can help all of us. There's still this perception out there that an employee who needs some time to tend to an aging parent or attend to a parent-teacher's conference isn't fully committed to his or her job; or that if you make a workplace more flexible, it necessarily will be less profitable.
+
+Now, it's true that women are still disproportionately affected by this issue -- something Michelle always reminds me of -- {LAUGHTER} -- which is another reason why it's such great concern for me. But plenty of fathers out there wish they had more time to spend with their kids. Plenty of sons wish they could do more for their elderly parents. Plenty of workers -- both women and men -- wish they could go back to school so they can beef up their skills and advance their careers. And there are plenty of communities that desperately need the new jobs we can create when we embrace teleworking and mobile workplaces.
+
+And as for how this issue affects companies' bottom lines, a report by the White House Council of Economic Advisers that we're releasing today found that companies with flexible work arrangements can actually have lower turnover and absenteeism, and higher productivity, and healthier workers.
+
+So let's be clear: Workplace flexibility isn't just a women's issue. It's an issue that affects the well-being of our families and the success of our businesses. It affects the strength of our economy -- whether we'll create the workplaces and jobs of the future we need to compete in today's global economy.
+
+And ultimately, it reflects our priorities as a society -- our belief that no matter what each of us does for a living, caring for our loved ones and raising the next generation is the single most important job that we have. I think it's time we started making that job a little easier for folks.
+
+Many of you here represent companies and workplaces that are already doing just that -- embracing telecommuting, flextime, compressed work weeks, job sharing, flexible start and end times, and helping your employees generally find quality childcare and eldercare. And if you're doing this not just because it's the right thing to do, but because you've found that what's good for your workers and is good for your families can be good for your bottom lines and your shareholders as well, then you need to spread the word.
+
+My administration is committed to supporting efforts like these. Our budget for next year includes competitive grants to help states launch their own paid-leave programs. It increases funding for childcare and nearly doubles the Child Care Tax Credit for millions of middle-class families. And it provides support for folks caring for aging relatives, and for seniors who want to live independently for as long as possible.
+
+We're also committed to practicing what we preach and serving as a model for the policies that we're encouraging. John has been all over this. That's the purpose of the pilot project that John just told you about.
+
+And that's why John is working with our Chief Technology Officer, Aneesh Chopra, to provide opportunities for federal employees -- here in Washington, but also all across America -- to telework on a regular basis. Where regulations are in the way, we'll see what we can do to change them. Where new technology can help, we'll find a secure, cost-effective way to install it. Where training is needed to help managers and workers embrace this approach, we'll adopt the best practices from the private sector.
+
+Because in the end, we believe that all of this isn't just about providing a better work experience for our employees, it's about providing better, more efficient service for the American people -- even in the face of snowstorms and other crises that keep folks from getting to the office. {LAUGHTER} I do not want to see the government close because of snow again. {LAUGHTER}
+
+It's about attracting and retaining top talent in the federal workforce and empowering them to do their jobs, and judging their success by the results that they get -- not by how many meetings they attend, or how much face-time they log, or how many hours are spent on airplanes. It's about creating a culture where, as Martha Johnson puts it, “Work is what you do, not where you are.”
+
+And in these efforts, we'll be looking to all of you for advice and ideas. And we plan to continue this conversation in the coming months, holding forums and roundtables in communities across the country, so we can seek out more good ideas and best practices that we can adopt and promote.
+
+So, again, I thank you for being part of this forum. I look forward to hearing about what you all came up with today. And I look forward to working with all of you in the years to come.
+
+Thank you very much, everybody. {APPLAUSE} 
+
+{/speech}

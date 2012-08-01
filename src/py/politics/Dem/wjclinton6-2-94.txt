@@ -1,0 +1,65 @@
+﻿{title} Remarks by the President at Texas Presidential Dinner and Gala {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 6, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. My longtime friend, Garry Mauro; and Chairman and Mrs. Wilhelm; Mayor and Mrs. Lanier; Secretary and Mrs. Bentsen. I want to say that I have a lot to be grateful to Texas for -- big victory in the primaries here, an enormous amount of support, a lot of friends. But I think I probably owe you most for Lloyd Bentsen and Henry Cisneros. {APPLAUSE} 
+
+I want to say also how much I appreciate two other Texans in my administration -- one of whom is here and one who is not -- the Secretary of the Navy John Dalton, from San Antonio; and my good friend -- {APPLAUSE} -- my good friend, the Assistant Secretary of the Interior Bob Armstrong, who has done a wonderful job for you and for us. {APPLAUSE} 
+
+When we had that terrible earthquake recently in California, Henry Cisneros was there before the aftershocks stopped. And people told me over and over again, the last time this happened to us we had to go to Washington to find the Cabinet. Now you've got a Secretary who came to us, who is committed to us. {APPLAUSE} That's the kind of job he's doing up there. {APPLAUSE} 
+
+It's been a long time since an American Treasury Secretary has enjoyed anything approaching the prestige that Lloyd Bentsen has earned all over the world. In Asia, in Europe, in Latin America. And, of course, here in the United States and in the Congress. I cannot say enough about him in front of you, his constituents, for all the advice he's given, all the leadership he's shown, and all the trouble he's kept me out of. {LAUGHTER} I want to thank him so much. 
+
+I also want to say a special word of acknowledgement to your State Democratic Chairman Bob Slagle; and to Governor Ann Richards, who I just left. {APPLAUSE} And to all these members of Congress who are here, and those who aren't here. 
+
+I want to say, too, that there are several points I want to make tonight without giving much of a speech. I just want to talk to you as one American to another. 
+
+When I became President, people had pretty much given up on the government doing anything right. The economy was going in the wrong direction and the country was coming apart when we needed to be coming together. And a lot of people, frankly, including probably a majority of people in this state, had all these preconceptions -- Lloyd Bentsen referred to them in his introduction -- about what Democrats were for. And, you know, I looked for 12 years -- I listened to Republicans talk about reducing the deficit, and it just went up. We quadrupled the debt. 
+
+Well, we didn't just talk about it, we did something about it. {APPLAUSE} Last week it was estimated that the deficit would be 40 percent lower next year than it was going to be when I took office -- 40 percent lower. {APPLAUSE} And because of that, interest rates are down, inflation is down, home sales are up, car sales are up, and we got more new jobs in one year than we had in the previous four years. Now, that's not Republican rhetoric, that's Democratic record, performance, and work. {APPLAUSE} 
+
+I heard them talk about family values and about how people should not be on welfare, they ought to work, but I never saw much happen. And one year, after seven years of trying, we passed the Family and Medical Leave Act so that people could take a little time off when their children were born or their parents were sick without losing their jobs. We took the first big step toward welfare reform by giving income tax relief to 15 million families that hover right around the poverty line, even though the people work full-time, so that there would never be any more incentive to leave work and go on welfare, so that all the incentives would be the other way around and we would reward work and family. 
+
+So it wasn't just the other party's rhetoric, it was our reality. And we've just begun. {APPLAUSE} 
+
+And I heard them for years talk about being tough on crime, and after seven years of flailing around, we finally passed the Brady Bill. And now we've got a tough crime bill before the Congress -- {APPLAUSE} -- we've got a tough crime bill before the Congress which says no to the things we ought to say no to and begins to say yes to the things we ought to say yes to. That is, it does provide for tougher penalties, especially for repeat violent offenders. But it also puts another 100,000 police officers on the street, because we learned from Mayor Lanier that if you have more police in the right place, you'll lower the crime rate. {APPLAUSE} 
+
+And it provides drug treatment and education and alternative imprisonment for young people to give them a chance to put their lives back together. You can't just say no to people, you also have to say yes to the people that are going to be on your streets, in your neighborhoods, and a part of your future. It's time to stop turning away from them and start giving them a way to be a part of our common future. That is what it also does. {APPLAUSE} 
+
+I heard all this talk for years about how the other party was for business and for trade and for small business, but it was our administration that passed an economic plan that gave, as they'll find this April 15th, 90 percent of the small businesses in this country a chance to get a tax cut if they invest more in their businesses -- 90 percent; that gave incentives for people to incentives for people to invest in new business. This year we had the biggest increase in entrepreneurial investments in new business in American history -- number one. That is the record of this administration, not rhetoric. {APPLAUSE} 
+
+And yes, we have taken on health care. You know why? Because we're the only country in the advanced world that doesn't provide a basic package of health care to all of its citizens. And as a result, some of the people of the families I saw -- you know, I went to a party tonight of children with cancer and their families. And I looked out there and I said, I know I'm looking at people who now can never change their job because they had a sick child. I know I'm looking at people who run up against those lifetime limits on insurance, so now that their kids really need the health care, they've blown it out and they can't get any more. I know I'm looking at people who may lose their coverage or lose their jobs and never get health insurance again. 
+
+Now, I don't believe we can't do that and help our economy, not hurt it. Why? Because today in America businesses that are small are paying insurance premiums 35 percent above the national average. I think we can do better than that. 
+
+I don't believe that we can't do better. They talk about choice. Do you know that today only one in three -- only one in three workers with health insurance from their employer has any real choice in their doctors. Under our plan, every American will have at least three different choices of health care plans at a minimum. There will be more choice, not less. And it will all be private -- private health care and private insurance -- in spite of the rhetoric of our opponents in the other party. 
+
+Do I think we can do it? Is it easy? No. If it's easy somebody would have done it already. {APPLAUSE} Is it free of complexity? No. I know one thing: You cannot justify a system in this country in the shape a lot of people are in, where we spend 10 cents on a dollar more on paperwork, insurance premiums, and bureaucracy -- more than any other country in the world, and we still can't figure out how to cover people. And another 100,000 Americans a month are losing their health insurance for good. I believe we can do better, and we are going to. {APPLAUSE} 
+
+And, finally, let me say this: I heard the other side talk about free trade and economic growth and, especially in Texas, being good to Texas. I heard all that. But this administration fought for NAFTA and we were 100 votes for down, and we came back and we passed it. {APPLAUSE} This administration fought to get rid of export controls that are allowing Texas businesses to do business all around the world today. 
+
+I had a man in a meeting that I came to before I came down here -- he said, your administration has done more in one year to promote international business opportunities for American businesspeople than the previous administration did in the last 12 years. That is the rhetoric of success. {APPLAUSE} That is reality. That's not just something we're talking about. {APPLAUSE} 
+
+Let me tell you something else. I know I didn't carry Texas in the last election. I know that. Some think I may not carry it again. But I'll tell you one thing: When the space station was going down, we fought for it, and we lifted it up, and we saved it. {APPLAUSE} We now have a project that is at the core of our partnership with Russia and our hope for a better world. 
+
+There is example after example after example. In our new energy policy -- Garry Mauro's alternative fleet conversion policy to use more natural gas to burn in federal cars -- and all the things we have done that show that this administration is not just talking about Texas and telling people things they want to hear, we're actually doing things to help this state move into the 21st century. {APPLAUSE} 
+
+One of the people I neglected to introduce earlier that I'd be remiss if I didn't is the Deputy Secretary of Energy who is from here in Houston, Bill White -- where is he? Bill's here somewhere. {APPLAUSE} We have an energy policy that really is pro-natural gas, pro-American producer, good for America and good for Texas. 
+
+I say these things because we're going to have some elections in 1994 and we're going to have all that old rhetoric again. And the Republicans are going to tell you exactly what they think you want to hear. I saw them the other day -- they were complaining that I had stolen their themes, as if they own fiscal responsibility. What they own was quadrupling the deficit. What we own is a budget this year that eliminates 100 programs and cuts three hundred more. {APPLAUSE} That's our issue, not their's. {APPLAUSE} 
+
+They act like they own the crime issue. But what they did was to fiddle around with crime for years while it got worse. And what we did was to pass the Beady Bill and put a crime bill on the floor of the Congress that offers the promise of lowering the crime rate. 
+
+I say that because I want you here in Texas to remember that if you want something done, instead of to be told what you want to hear, you need to help us. You need to keep these seats in Congress, go after that Senate seat, keep Ann Richards in the Governor's Office. Give us a partnership to move America forward. {APPLAUSE} 
+
+Thank you. And God bless you all. 
+
+
+
+{/speech} 

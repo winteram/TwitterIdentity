@@ -1,0 +1,26 @@
+﻿{title} Remarks by the President And Other Participants in Democratic Leadership Forum, The Third Way: Progressive Governance for the 21st Century {/title}
+{event} Democratic Leadership Forum, The Third Way: Progressive Governance for the 21st Century {/event}
+{speaker} Al From {/speaker}
+{date} April 25, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good afternoon. I'm Al From, President of the Democratic Leadership Council.
+
+Welcome to this historic forum, entitled "The Third Way: Progressive Governance for the 21st Century." We are honored today by the presence of so many international leaders of the Third Way. The Democratic Leadership Council is an idea action center, dedicated to developing Third Way philosophy and a Third Way governing agenda. We are gratified and amazed to see similar themes cropping up all over the democratic world.
+
+Ten years ago this week, Governor Bill Clinton agreed to become chairman of the DLC. Many of the new Democrats' themes -- {LAUGHTER ; APPLAUSE} -- many of the new Democrats' themes and ideas developed during his chairmanship have defined the Third Way in America, and as President he has put them into action.
+
+Shortly after the 1992 election, we were first visited by a member of the Shadow Cabinet, Tony Blair, who was beginning his efforts to modernize the Labour Party in the United Kingdom. How far we've come in just one decade. Today's event is the latest in a series of conversations on Third Way politics that began at Chequers in November 1997, and continued last year at the White House and New York University. Today, three key continental leaders are joining this global conversation.
+
+And before I talk about what we're going to do today, I want to recognize the one American who has done more to get this conversation underway than any other, the First Lady of the United States, Hillary Rodham Clinton. {APPLAUSE}
+
+This forum comes against the backdrop of NATO's 50th anniversary celebration. It will focus on new social and political questions posed by economic change and globalization. Its purpose is to highlight the common values and priorities that motivate Third Way leaders as they seek to strike a new balance between the imperatives of economic dynamism and social justice. Whether they're called New Democratic, New Labor, or the New Middle, the values, ideas, and approaches to governing for the Third Way are modernizing center-left politics around the globe.
+
+They are grounded in a public philosophy that embodies fundamental progressive principles further by innovative ideas and modern means. The Third Way philosophy can be summarized this way: its first principle and enduring purpose is equal opportunity for all, special privilege for none. Its public ethic is mutual responsibility. Its core value is community. Its outlook is global and its modern means are fostering private-sector economic growth, today's prerequisite for opportunity for all, and promoting an empowering government that equips citizens with the tools they need to get ahead.
+
+To lead our discussion, I'm honored to turn the program over to the man whose leadership has shaped the Third Way, the President of the United States. {APPLAUSE} 
+
+{/speech}

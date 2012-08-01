@@ -1,0 +1,45 @@
+﻿{title} President Commemorates 12th Anniversary of Americans with Disabilities Act {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} July 26, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all for coming, and welcome to the White House. We like to call this the people's house. And we're glad you're here. Today we celebrate the anniversary of the Americans with Disabilities Act, landmark legislation that opens the door for more than 50 million people living with disabilities -- 50 million Americans. 
+
+For 12 years, the ADA has proven that when people are treated with dignity and respect, our entire nation benefits. And the best way to celebrate the progress the ADA has made is to continue and build on that progress. 
+
+I want to thank the Attorney General for coming today. I thank Elaine Chau for being here, Mel Martinez and Norm Mineta, Tony Prinicipi, all members of my Cabinet. I appreciate Senator Bob Dole for joining us today. I missed you yesterday in North Carolina, but thanks for coming. {APPLAUSE} I appreciate so very much the leaders of the United States Congress who are here today with us, Senators and members of the House of Representatives. Thank you all for taking time from what appears to be a pretty hectic time to lend your support and commitment to this vital goal that all Americans are -- welcomed in America. 
+
+I appreciate Dick Thornburg, who was the Attorney General when my dad was the President when the ADA was signed, and he helped very much make sure that it was all done in a way that would pass muster. I thank him for being here, as well. 
+
+I want to thank Cari Dominguez, who is the Chair of the Equal Employment Opportunity Commission, for coming. Thank Kay James, who is the Director of Office of Personnel Management, for coming. 
+
+I also want to thank Lex Frieden for being here, as well. Lex is a representative of the Dart family. Justin Dart passed away on June 22nd, 2002. He was known by many as the father of the Americans with Disabilities Act. He had a huge impact on our nation. We mourn his loss and we thank Lex for being here. {APPLAUSE} 
+
+The ADA is one of the most compassionate and successful civil rights laws in American history. It has made our schools and workplaces more welcoming. It has changed attitudes that once seemed unchangeable. And the ADA has given opportunity to some exceptional Americans. 
+
+Today, I'm joined on stage by some exceptional Americans. They are participants in the National Youth Leadership Network, an organization sponsored by the federal government and committed to advancing the next generation of disability leaders. Through their hard work and determination, each of them embodies the true spirit of the ADA. 
+
+William Le'Ron Jackson, seated right here to my right -- oh, yeah. {APPLAUSE} Let me tell you what he said. "In spite of all the barriers I have encountered, I always hear my mother's voice saying, Le'Ron, keep reaching up. And that is exactly what I plan to do." This fall, Le'Ron is returning to college to continue reaching toward his goal of becoming a paralegal. When he's not studying, he's an active volunteer in his community. Le'Ron Jackson is an example of how the ADA changes lives. He is a role model for all Americans with and without disabilities. Thank you for being here. {APPLAUSE} 
+
+The ADA has given greater hope and dignity to countless Americans. Yet our work is not complete. Too many individuals still find it difficult to pursue an education, or own a home, or hold a job. We must continue to remove the artificial barriers to achievement that remain. 
+
+Last year, my administration unveiled the new Freedom Initiative, an effort to continue on the hopeful path of the ADA. This initiative gives people with disabilities increased access to new technologies for independent living, greater educational opportunities, better access to the workplace and community life. 
+
+For too many individuals with disabilities, inadequate transportation limits access to schools and churches and jobs. And this is one obstacle the new Freedom Initiative addresses. The 2003 budget I submitted provides $145 million for alternative transportation and innovative transportation grants, so that people with disabilities can work and participate more actively in their communities. And I urge the Congress to fully fund my new Freedom Initiative budget requests. {APPLAUSE} 
+
+And when Americans with disabilities participate in their communities, they should not be penalized. Today, Medicare recipients who are considered homebound may lose coverage if they occasionally go to a baseball game -- which, of course, I encourage them to do -- {LAUGHTER} -- or meet with a friend, or go to a family reunion. New technology is allowing even the most significantly disabled Americans to be more mobile. That's just a fact. And they should not be forced to trade their benefits for a little freedom. {APPLAUSE} 
+
+So today I announce we're clarifying Medicare policy, so people who are considered homebound can occasionally take part in their communities, without fear of losing their benefits. {APPLAUSE} We're also determined to help people like Le'Ron to their full potential, by expanding educational opportunities. In both my budgets, I've asked for increases in special education grant funding of $1 billion. These are the largest increases ever proposed. 
+
+In addition, I created the Commission on Excellence and Special Education, to recommend policies to improve the educational performance of students with disabilities. The Commission provided excellent recommendations in its recent report. And I look forward to working with Congress, and I hope Congress will closely examine those findings when it considers the reauthorization of the Individuals with Disabilities Education Act. 
+
+You know, when my father signed the ADA into law in 1990, he said, "We must not and will not rest until every many and women with a dream has the means to achieve it." Today we renew that commitment, and we continue to work for an America where individuals are celebrated for their abilities, not judged by their disabilities. {APPLAUSE} 
+
+Again, I want to welcome you all here. I want to thank those who were pioneers in this landmark legislation for being here to celebrate this anniversary. I am now pleased to sign a proclamation in honor of the 12th anniversary of the Americans with Disability Act. {APPLAUSE} 
+
+{/speech} 

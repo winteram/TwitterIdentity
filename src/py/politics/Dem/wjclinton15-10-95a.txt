@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President at Dedication of the Thomas J. Dodd Research Center {/title}
+{event} University of Connecticut, Storrs, Connecticut {/event}
+{speaker} Bill Clinton {/speaker}
+{date} October 15, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, President Hartley. Governor Rowland, Senator Lieberman, members of Congress, and distinguished United States senators and former senators who have come today; Chairman Rome, members of the Diplomatic Corps; to all of you who have done anything to make this great day come to pass; to my friend and former colleague, Governor O'Neill, and most of all, to Senator Dodd, Ambassador Dodd, and the Dodd family: I am delighted to be here.
+
+I have so many thoughts now. I can't help mentioning one -- since President Hartley mentioned the day we had your magnificent women's basketball team there, we also had the UCLA men's team there. You may not remember who UCLA defeated for the national championship -- {LAUGHTER} -- but I do remember that UCONN defeated the University of Tennessee. And that made my life with Al Gore much more bearable. {LAUGHTER} So I was doubly pleased when UCONN won the national championship. {APPLAUSE}
+
+I also did not know until it was stated here at the outset of this ceremony that no sitting President had the privilege of coming to the University of Connecticut before, but they don't know what they missed. I'm glad to be the first, and I know I won't be the last. {APPLAUSE}
+
+I also want to pay a special public tribute to the Dodd family for their work on this enterprise, and for their devotion to each other and the memory of Senator Thomas Dodd. If, as so many of us believe, this country rests in the end upon its devotion to freedom and liberty and democracy, and upon the strength of its families, you could hardly find a better example than the Dodd family, not only for their devotion to liberty and democracy, but also for their devotion to family and to the memory of Senator Tom Dodd. It has deeply moved all of us, and we thank you for your example. {APPLAUSE}
+
+Tom Dodd spent his life serving America. He demonstrated an extraordinary commitment to the rule of law, beginning with his early days as an FBI agent then federal attorney. He was equally passionate in his opposition to tyranny in all its forms. He fought the tyranny of racism, prosecuting civil rights cases in the South in the 1930s, long before it was popular anywhere in the United States, and helping to shepherd the landmark Civil Rights of 1964 into law. He fought the tyranny of communism throughout his years in elected office. And while he bowed to none in his devotion to freedom, he also stood bravely against those who wrapped themselves in the flag and turned anti-communism into demagoguery.
+
+Tom Dodd was in so many ways a man ahead of his time. He was passionate about civil rights, three decades before the civil rights movement changed the face of our nation. In the Senate, he pioneered programs to fight delinquency and to give the young people of our country a chance at a good education and a good job. And that is a task, my fellow Americans, we have not yet finished doing. He saw the dangers of guns and drugs on our streets, and he acted to do something about that. Had we done it in his time, we would not have so much work to do in this time.
+
+Tom Dodd's passion for justice and his hatred of oppression came together, as all of you know, most powerfully when he served as America's executive trial counsel at the Nuremburg War Crimes Tribunal. It was the pivotal event of his life. He helped to bring justice to bear against those responsible for the Holocaust, for the acts that redefined our understanding of man's capacity for evil. Through that path-breaking work, he and his fellow jurists pushed one step forward the historic effort to bring the crimes of war under the sanction of law.
+
+Senator Dodd left many good works and reminders of his achievement. Some bear his name -- the children who have followed in his steps and served the public, who carried forward his ardent support for an American foreign policy that stands for democracy and freedom, who maintain his commitment to social justice, to strong communities and strong families. They have also upheld their father's tradition of loyalty. And as one of the chief beneficiaries of that lesson, let me say that I am grateful for it, and again, grateful for its expression in this remarkable project which will help the people of Connecticut and the United States to understand their history.
+
+I am delighted that this center will bear the Dodd name because it is fitting that a library, a place that keeps and honors books and records, will honor Tom Dodd's service, his passion for justice and his hatred of tyranny. Where books are preserved, studied and revered, human beings will also be treated with respect and dignity, and liberty will be strengthened.
+
+Dedicating this research center today, we remember that when the Nazis came to power, one of the very first things they did was burn books they deemed subversive. The road to tyranny, we must never forget, begins with the destruction of the truth.
+
+In the darkest days of the war, President Roosevelt, with those awful bonfires fresh in his memory, reflected upon how the free pursuit of knowledge protects our liberty. And he put it well when he called books "the weapons for man's freedom." I am glad that Tom Dodd will be remembered here, in this place, in this building, with this center, in the state he loved, with the very best arsenal for the freedom he fought to defend his entire life.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

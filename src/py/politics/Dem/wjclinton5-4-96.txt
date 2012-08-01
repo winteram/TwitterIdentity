@@ -1,0 +1,49 @@
+﻿{title} President Clinton on the Oklahoma bombing {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} April 5, 1996 {/date}
+{source} http://www.pbs.org/newshour {/source}
+{description} President Clinton's speech to the people of Oklahoma City, marking the one year anniversary of the Oklahoma bombing, includes a brief eulogy to late Commerce Secretary, Ron Brown. {/description}
+
+
+{speech} 
+
+Thank you very much. Thank you. Thank you so much, Reverend Alexander, Governor Keating, Mrs. Keating, Mayor, Senator Nickles, Lieutenant Governor Fallon, Congressman Brewster, Congressman Istook, most of all to the families here of those who lost their lives and those who survived the bombing almost a year ago. 
+
+I come here today as much as anything else to thank you. On this verydifficult and painful day for me, when I have lost a great and good friend, and a lot of gifted employees of the federal government, some of them very young and some wonderful members of our Armed Forces and some of our nation's most able business leaders. The power of your example is very much with me, and I thank you for that. 
+
+A year ago we were here to join in mourning your loss and praying for your healing. Today I ask that we not only remember your loss, but celebrate the rebuilding you have already done, and the work you will still do. I have relived the moments of last year many times in my mind since I was here with you. I have wondered how you were doing, and prayed for your strength. I was honored to have two of your citizens at the State of the Union address to recognize their unique contributions to our country through their service to you. 
+
+Just a few moments ago I was honored to lay a wreath along with the first lady and some children who survived, and their parents, and then to dedicate the child-care center that will be built near the site of the bombing. Thanks to the remarkable efforts of your public officials and private citizens together, you have shown how strong you are, and you have given us all an example of the power of faith and community, the power of both God's grace and human courage. 
+
+On this Good Friday, what you have done is demonstrated to a watching, and often weary and cynical world, that good can overcome evil, that love can outlast hate, that the light of human life can shine on through the most terrible darkness. And so I thank you for that. 
+
+And I know that you could not have done it without your faith. On this Friday I can't help noting that there's a wonderful verse in the Book of Matthew, which says that a person who follows the word of God will be likened unto a wise man who built his house upon a rock, and the rains descended and the floods came and the winds blew and beat upon that house, and it fell not, for it was founded upon a rock. Well, your building was blown down, and many lives were shattered. But today I saw again that the spirit of Oklahoma City fell not, because it is founded upon a rock. And I thank you for showing that to America. {APPLAUSE} 
+
+From the early rescue efforts that so many engaged in, to the scholarship funds for the children who lost their parents, to the current outpouring of support that will enable families to travel to Denver for the trial, to the dedication ceremony I just attended, I see over and over and over again that you have redeemed the promise of essential human nature and human possibility that we celebrate so profoundly in this season. 
+
+And what I want you to know is that in doing that you have renewed the faith of America. You have drawn our national family closer together. A year ago I was able to come here and say to you that you have lost too much, but you have not lost everything -- you have not lost America. {APPLAUSE} 
+
+In the year since, America has stood with you and prayed with you and worked with you as you rebuild. But today I come to you to say you have given America something precious: a greater sense of our shared humanity, our common values, our obligations to one another. You've taken some of the meanness out of our nation life and put a little more love and respect into it, in ways that you probably cannot even imagine. And I thank you for that. {APPLAUSE} 
+
+I will call on all Americans to express their solidarity with you when you celebrate the first anniversary of your tragedy. Earlier today I signed a proclamation calling for a moment of silence across our land on April the 19th at 9:02 a.m., Central Daylight Time, to ask the American people to gather in silent prayer and quiet reflection with their friends and neighbors, wherever they live, from Maine to Alaska, to Southern California, to Florida. 
+
+And let me say to all of you again: We will be there with you. But because of what you have felt and what you have endured, let me ask you now if you will bow your heads in silent prayer to remember all that this year has meant to you, and to pray for those who lost their loved ones on that plane in Bosnia. Only you can know how they feel. May we pray. 
+
+{COMMENT="A moment of silence was observed"} 
+
+Amen. 
+
+I would like to say a special word now to some of the people who were involved here a year ago. To the federal workers who survived the blast and who are back on the job, we are glad and we support you. To those who are not yet back on the job, we will stand with you until the day you are able to work again. To those who lost their lives in the service of their country, trying to help America get through every day in the best possible way, we thank your families beyond measure. 
+
+Before Hillary and I left the White House this morning, we planted a new dogwood tree on the South Lawn to honor the memory of those who died in the crash in Bosnia. It is very near the one we planted a year ago before we came to be with you for the first time in honor of the loved ones that you lost. 
+
+A year ago I noted that the dogwood tree embodies the lesson of the psalms that the life of a good person is like a tree whose leaves do not wither, that just as a tree takes a long time to grow, sometimes wounds take a long time to heal. Well, your tree has taken root on the South Lawn of the White House. In a few weeks it will flower. The healing power of our faith has also taken root, and must bloom again here. 
+
+You know, this Easter Sunday all over the world the over one and a half billion people who are Christians will be able to bear witness to our faith that the miracles of Jesus and the miracles of the human spirit in Oklahoma City only reflect the larger miracle of human nature, that there is something eternal within each of us, that we all have to die and that no bomb can blow away even from the littlest child, that eternity which is within each of us. {APPLAUSE} 
+
+I know a lot of you are still hurting, but I hope as Sunday comes you'll be able to find some comfort in that. Your healing has to go on. A lot of you probably still have your doubts about all of this. I am sure there's some lingering anger, and even some rage in dark and lonely nights for many of the family members. I can only say to you that the older I get the more I know that we have to try harder to make the most of each day, and accept the fact that things will happen we can never understand or justify. 
+
+We flew over my home state, you know, coming here, and it made me think of an old gospel song that were actually written in Arkansas. And I thought I would leave you with these words, and our love and respect as we move towards Easter. The hymn goes: "Further along we'll know all about it. Further along we'll understand why. Rise up, my brothers, and walk in the sunshine. Further along we'll understand why." God bless you. God bless America. {APPLAUSE} 
+
+{/speech} 

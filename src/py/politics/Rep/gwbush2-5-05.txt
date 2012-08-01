@@ -1,0 +1,46 @@
+﻿{title} President Honors 2005 Preserve America Presidential Award Winners {/title}
+{event} The Rose Garden {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 2, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+A couple of funny lines one evening and she gets carried away. {LAUGHTER ; APPLAUSE} Laura Leno Bush. {LAUGHTER}
+
+We welcome you to the White House. We welcome you to the Rose Garden. I hope you think it's as beautiful of a place as we do. {APPLAUSE} And we're honored to have some of America's outstanding community leaders and preservationists with us.
+
+Laura is a preservationist, she's done a lot of good work here at the White House. She's helped restore the Cabinet Room. Most recently she restored the Lincoln Bedroom, based upon old photos. And you've left your marks in your communities and she's going to leave a great mark here in Washington, D.C., as well. I'm really proud of her. {APPLAUSE} And we're both proud of the hard work you're doing to preserve historic resources in your communities and helping to sustain the national memory for future generations.
+
+I appreciate Secretary of the Interior, Gale Norton, for joining us. Welcome, Madam Secretary. And I want to thank Fran Mainella, who is the Director of the National Parks system. Thanks for coming. I appreciate Congressmen John Barrow of Georgia and Donna Christensen of the Virgin Islands. Welcome. Glad you both are here. Thank you for coming. {APPLAUSE}
+
+I appreciate Bruce Cole being here. He's the Chairman of the National Endowment of the Humanities. And I want to thank my longtime friend from Texas, John Nau, who is the Chairman of the Advisory Council on Historic Preservation. Welcome. {APPLAUSE} And Bobby, good to see you, Bobby.
+
+Like you all, Laura and I want every American to have a chance to learn about this country's history, and to enjoy our national treasures. So in 2003, we created the Preserve America Presidential Awards, to recognize outstanding contributions to America's cultural and national heritage. The efforts of today's award winners have drawn tourists to museums and towns, created jobs and revitalized neighborhoods. They've also opened new opportunities for learning.
+
+The first Preserve America award winner we honor this year has helped extend the legacy of one of Laura's favorite authors, Edith Wharton. When we first moved to the White House, she was reading Edith Wharton's books. Sometimes it was hard to get her to turn off the light. {LAUGHTER} By the way, this wasn't the first time she read Edith Wharton's books, it was the second time she read Edith Wharton's books.
+
+And today we are proud to recognize the efforts of Edith Wharton Restoration, to restore The Mount, the Massachusetts country estate of this American literary icon. Edith Wharton once said that there are two ways of spreading light: to be the candle, or the mirror that reflects it. Your work reflects her light, and will enrich our national heritage. Congratulations. Thank you all for coming. {APPLAUSE}
+
+The second award recipient is close to our hearts. The Texas Heritage Trails program has mapped out special driving routes through the state to encourage regional tourism and bring some of Texas' proud history to light. Parents can take their children on a drive to learn about pioneers and cowboys. {LAUGHTER} That would not be the Dallas Cowboys, although they're -- {LAUGHTER} And as they do so, they get to see the great diversity and beauty of the Texas landscape.
+
+One potential visitor even expressed interest in riding the whole 650-mile Texas Independence Trail on a bicycle. That was not me. {LAUGHTER} When I move back to Texas, I can't wait to see the delights of the trail again.
+
+Congratulations, and welcome. {APPLAUSE}
+
+Our third award recipient has restored a site almost as old as America, itself. In St. Genevieve, Missouri, Bolduc Historic Properties has fixed up some of the state's first French Colonial homes, right on the banks of the Mississippi River. The restoration of the 18th Bolduc House has attracted visitors from around the country and has drawn rave reviews. Historical restoration is a job for --
+
+{OTHER-SPEAK} Eighteenth century. {/OTHER-SPEAK} {LAUGHTER}
+
+You've become a comedian and an editor. {LAUGHTER} We're glad you're here. {APPLAUSE}
+
+Historical restoration is a job for perfectionists, as I was saying. {LAUGHTER} And our fourth recipient teaches us an important lesson: If something is worth doing, it is worth doing right. When the Historic Savannah Foundation and Davenport House Committee discovered that an earlier restoration on the Isaiah Davenport House Museum was historically inaccurate, they started over. Isn't that right? And you got the job done right this time.
+
+The Davenport House inspired Savannah's unique ethic of preservation and led to the restoration of hundreds of other historic buildings. The city of Savannah has become a model for other towns to emulate. Tourists visiting historic sites contributed more than a billion dollars to Savannah's economy last year.
+
+We welcome you here. Congratulations on doing well. {APPLAUSE}
+
+Again, Laura and I welcome you. Establishing the Presidential Awards is a small way of encouraging acts of preservation around our country. We look forward to giving the awards next year. We hope those who are listening become inspired by the examples of our recipients. Again, we congratulate our recipients and thank you for a job well done. May God bless you all. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,59 @@
+﻿{title} President Celebrates Cinco de Mayo {/title}
+{event} The East Room {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 5, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all for coming. Thanks for being here. Thank you, all. Please be seated. Sintese. {LAUGHTER} Bienvenidos. Welcome to the Casa Blanca. This is the people's house, and we're glad you're here to celebrate Cinco de Mayo. Laura and I are thrilled so many came today. We're pleased to celebrate this important day with you.
+
+This day marks an important victory for freedom in Mexico, that's what the day marks. And that victory can be celebrated by all who love freedom. We honor freedom today. We also proudly observe Cinco de Mayo because we honor the ideals of liberty. We value the heritage and the contribution of Mexican Americans in our country, and we respect our friend and neighbor, the great nation of Mexico.
+
+I want to thank Gaddi Vasquez for his service to our country as the Director of the Peace Corps. I think he is incredibly well-suited to take on this important job of spreading peace and freedom and liberty throughout the world. Plus, you're a darn good introducer. {LAUGHTER ; APPLAUSE} 
+
+I'm proud that my longtime friend, Tony Garza, is with us today, the embajador a Mexico de los Estados Unidos. Mr. Ambassador, thank you for coming. {APPLAUSE} Roger Noriega is with us, who is the Assistant Secretary of State for Western Hemisphere Affairs. That means he's at the State Department in charge of affairs particularly with people who speak Spanish. It's a big job, and he's doing a heck of a good job. Thank you for coming. {APPLAUSE}
+
+My lawyer is here, the White House Counsel -- el juez -- Judge Al Gonzales. Thank you, Judge, for coming. I appreciate you being here. {APPLAUSE} Hector Barreto, who is the Administrator of the Small Business Administration. Hector, como esta? Thank you for coming. {APPLAUSE} El embajador de Mexico a los Estados Unidos, Carlos De Icaza. Ambassador, thank you for coming. {APPLAUSE}
+
+And, finally, we're very fortunate to have the Attorney General of Mexico with us today, Rafael Macedo de la Concha is with us. I'm so proud you're here, General. Thank you for coming, and thank you for the close cooperation -- {APPLAUSE}
+
+I want to thank the members of Congress who have joined us. I see we've got two strong members of the House of Representatives. These brothers -- the Diaz-Balart boys, I call them. {LAUGHTER} Lincoln y Mario. They're from Miami, and they're great members. Thanks for coming. {APPLAUSE}
+
+Devin Nunes, from California, is with us. Congressman, thank you for coming. {APPLAUSE} And, finally, Congressman Steve Pearce, from New Mexico -- I appreciate you coming, Steve. I'm honored you're here. {APPLAUSE}
+
+Bishop, thank you for lending such grace to this occasion. I appreciated your strong words, and I really appreciate your faith. And I love your background. You're doing a heck of a job.
+
+Marco, thank you, as well -- oh, Marco. {LAUGHTER} I think you'd have gotten a better seat after all that work. {LAUGHTER} Thank you for what you do. I appreciate you. {APPLAUSE} And I want to thank Jimena. Thank you for coming. Your grandmother would be proud. I want to thank Banda El Recodo, for a very good job. {APPLAUSE} And what a fabulous voice on Marco Antonio Solis. Thank you, Marco -- very good job, appreciate you. {APPLAUSE}
+
+I've got to thank my friend Emilio Estefan for putting the show together again. I want to thank you, Emilio. And I always like to remind Emilio, both of us married really well. {LAUGHTER} Didn't we? {LAUGHTER}
+
+I know we've got leaders from around the country -- Hector Flores, of LULAC, is with us. Manny Lujan is with us. I want to thank the representatives from other grassroots organizations for coming today, for representing the Mexican American population so well in the halls of Congress and throughout.
+
+I see that the administrator of NASA is with us today, Sean O'Keefe. And with the administrator -- {APPLAUSE} I know I'm not supposed to be talking about the Mexican-American astronaut that's with you -- {LAUGHTER} -- but he shouldn't have worn the uniform like that. {LAUGHTER} You stand out. {LAUGHTER} I'm proud you're here, Commander. Thank you for coming. {APPLAUSE}
+
+Somebody said, don't introduce him, because there's supposed to be, like, a special announcement tomorrow. {LAUGHTER} Something along those lines. {LAUGHTER} Well, keep it off the record. {LAUGHTER} Appreciate your service. Congratulations. It's a proud day for the Mexican-American culture to know that you're -- {APPLAUSE}
+
+The great triumph of Mexican forces on May the 5th, 1862, has inspired liberty-loving people everywhere, and it's helped shape the character of modern Mexico. Against great odds, a small and under-equipped army defeated the skilled army of a European power. We've had that experience in America, too. {LAUGHTER}
+
+Our two nations have very different histories, but our journeys have led us in the same direction. We believe in the rights and dignity of everyone. We believe that liberty is always worth defending. The ideals we share are among the many ties between our nations. Twenty-four million people of Mexican ancestry live in the United States today. It's almost 10 percent of our population, and America is better off for it. {APPLAUSE}
+
+
+Mexican Americans have brought many strengths to our nation: a culture built around faith in God, a deep love for family, a belief that hard work leads to a better life. Every immigrant who lives by these values makes our country better and makes our future brighter.
+
+Many Mexican and Hispanic Americans have shown their belief in this country by defending it. More than 600,000 of our veterans are of Mexican descent. Hispanic Americans have fought bravely in all our wars, including our own fight for independence. And for their valor, over three dozen have received the Congressional Medal of Honor.
+
+On Cinco de Mayo, 2004, more than 130,000 Hispanic Americans are serving in the United States Armed Forces. Several of these fine men and women are with us today. Please rise so we can thank you for your service to our country. {APPLAUSE}
+
+Hispanic Americans serve our country in all kinds of ways. With us today are also firefighters from communities close by. They're part of the brave brotherhood of firefighters who answered the alarms and come to the aid of their neighbors against all hazards. We want to thank you for your service. We want to thank you for your sense of duty. We want to thank you for your contributions to our country. Welcome to the White House, and thanks for being here. {APPLAUSE}
+
+On this holiday we also look with pride to the vital and enduring friendship between the United States and Mexico. We share the busiest border in the world. We share a growing trade relationship that amounts to more than $230 billion per year. We share a commitment to freedom and prosperity throughout our neighborhood.
+
+In March, I hosted Vicente Fox -- or we hosted Vicente Fox -- {LAUGHTER} -- at our ranch in Crawford, Texas. Our years of working together and our mutual respect are a reflection of the strong partnership between our two nations. Mexico and America have come a long way in 142 years, and we face the future as trusted partners, strong allies and close friends.
+
+Across Mexico and America today, there will be a great many celebrations of Cinco de Mayo -- none of them quite like here in the White House -- {LAUGHTER} -- none of them with the fantastic entertainers we had here today. And I know we're starting a little early here, and I'm honored you could join us.
+
+Happy Cinco de Mayo. May God bless Mexico, and may God continue to bless the United States of America. {APPLAUSE} 
+
+{/speech}

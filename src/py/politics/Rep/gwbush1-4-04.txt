@@ -1,0 +1,31 @@
+﻿{title} Remarks by the President at Signing of the Unborn Victims of Violence Act of 2004 {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} April 1, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech}
+
+Thank you for coming. Thank you all. Please be seated. Thanks for the warm welcome. {LAUGHTER} Welcome to the people's house, the White House. I'm pleased that you all could be here for the first bill signing ceremony of the year 2004. 
+
+The Unborn Victims of Violence Act provides that, under federal law, any person who causes death or injury to a child in the womb shall be charged with a separate offense, in addition to any charges relating to the mother. {APPLAUSE} As of today, the law of our nation will acknowledge the plain fact that crimes of violence against a pregnant woman often have two victims. {APPLAUSE} And therefore, in those cases, there are two offenses to be punished. Under this law, those who direct violence toward a pregnant woman will answer for the full extent of the harm they have done, and for all the crimes they have committed. 
+
+I appreciate members of the United States Congress who have joined us today. Majority Leader Bill Frist is with us from the Senate. Thank you for coming. Majority Leader Tom DeLay of the House of Representatives -- {APPLAUSE} Members from both political parties have joined us. I appreciate the members on stage here, House bill sponsor, Congresswoman Melissa Hart from Pennsylvania, is with us. {APPLAUSE} Senate sponsor, Senator Mike DeWine from Ohio, is with us. {APPLAUSE} And the Chairman of the Judiciary Committees, Senator Orrin Hatch and Congressman Jim Sensenbrenner, are with us, as well. {APPLAUSE} Thank you all. 
+
+I appreciate those in attendance today from across the country who have worked hard to get this bill passed. I also want to thank Sharon Rocha and her husband, Ron Grantski, for joining us today. {APPLAUSE} 
+
+This act of Congress addresses tragic losses such as Sharon and Ron have known. They have laid to rest their daughter, Laci, a beautiful young woman who was joyfully awaiting the arrival of a new son. They have also laid to rest that child, a boy named Conner, who was waiting to be born when his life, too, was taken. His little soul never saw light, but he was loved, and he is remembered. {APPLAUSE} And his name is forever joined with that of his mom in this statute, which is also known as Laci and Conner's Law. {APPLAUSE} All who knew Laci Peterson have mourned two deaths, and the law cannot look away and pretend there was just one. 
+
+Each of these families on this stage has lost a child, or a grandchild, or both. Carol and Buford Lyons, Tracy Marciniak-Seivers, Stephanie Alberts, Cynthia Warner -- I thank you all for your courage for coming today. {APPLAUSE} 
+
+As these and the other families understand, any time an expectant mother is a victim of violence, two lives are in the balance, each deserving protection, and each deserving justice. If the crime is murder and the unborn child's life ends, justice demands a full accounting under the law. 
+
+Until today, the federal criminal code had been silent on the injury or death of a child in cases of violence against a pregnant woman. This omission in the law has led to clear injustices. The death of an innocent unborn child has too often been treated as a detail in one crime, but not a crime in itself. Police and prosecutors had been to crime scenes and have shared the grief of families, but have so often been unable to seek justice for the full offense. The American people, as well, have learned of these cases, and they urged action. The swift bipartisan passage of this bill through Congress this year indicates a strong consensus that the suffering of two victims can never equal only one offense. 
+
+The moral concern of humanity extends to those unborn children who are harmed or killed in crimes against their mothers. And now, the protection of federal law extends to those children, as well. With this action, we widen the circle of compassion and inclusion in our society, and we reaffirm that the United States of America is building a culture of life. {APPLAUSE} 
+
+It is now my honor to sign the Unborn Victims of Violence Act of 2004. {APPLAUSE}
+
+{/speech} 

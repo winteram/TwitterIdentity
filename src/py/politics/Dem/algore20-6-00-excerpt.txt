@@ -1,0 +1,57 @@
+﻿{title} Plan For Retirement Savings {/title}
+{event} ----- {/event}
+{speaker} Al Gore {/speaker}
+{date} June 20, 2000 {/date}
+{source} http://edition.cnn.com/ {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+And it's great to be with your great chair, Nickie Patent. And please give my best to the governor and your first lady, and to all the other distinguished guests here. It's great to be back in Lexington. You know, my parents lived here for 10 years, and it's always a pleasure to come back.
+
+For the past week, I've been traveling across this country talking about the big choices that we have to make to secure prosperity and progress for a new American century. Now, you can see right here in Lexington what prosperity has done for our people. New jobs have fueled new hope and a new sense of possibility right here and all across our land. 
+
+So today I want to talk about how we can build prosperity and progress, not just for the present, not just for the next four years, but far, far into the future.
+
+I have good news to share with the American people. In fact, the news is better than good. If we do things right, we can make it far easier for families to save and invest for the future with even greater confidence and security. Private savings and investment are about something more than an IRA or a bank balance. They're about the future of this little baby over here. They form the threshold of hope for the American dream. You cross that threshold and the future belongs to you and your family. Your savings account can open the door to your first house. It's the way a young couple can make that first tough down payment on a first home together. Your savings account can swing open for your child wrought-iron gates that may have been closed to you and your parents and grandparents. 
+
+Your savings can help you dream as they grow week by week about sending your child to college, even if your father or mother never went to college; even if you yourself never had that chance. Savings accounts can let your parents build a haven on the bedrock of Social Security so they can not only make ends meet, but also live an old age of peace and plenty. Every hard-working American family deserves to open the door to their dream.
+
+When I was a kid, I had lots of really good friends in two very different places. The ones I went to school with in Washington, D.C. came mostly from well-to-do families with enough money to send them to college and stake them to a good start. And most of them have done well in life. 
+
+The ones I spent my summers with in Carthage, Tennessee were at least as smart, but their families weren't nearly as well-off. And I saw the opportunity gap open and widen, and there were times when it broke my heart. They deserved more than they got, and I'll be damned if I'm going to let that injustice continue. We need to have a bright future for all families in this country. {APPLAUSE}
+
+You know who I'm talking about. Everyone in this room knows how hard it can be to save. As a matter of fact, it's hard enough to save even if you're well-off. Expenses have a way of catching up with even high-earning families. But so many families who live month-to-month know how desperately hard it can be to protect that bank account for the dream. They know how easily one car repair, one doctor's bill, one accident, one unexpected sweep of bad luck can wipe it all out so you have to start all over again.
+
+When that happens, sometimes the dream can feel like it's fading, like you'll never catch up with it. Sometimes, for too many families, it slips away, and then they stop looking up to imagine anymore. They try to accept that their bright child just won't go to college, that that new home with enough room for the baby just won't get bought.
+
+Well, I'm here to tell you that is just not right. Never again should a hard-working family see the door slowly closing on their dream. On behalf of those people, not just the ones who think comfortably about their savings over scotch in the club looking out at the golf links, but also the ones who carefully try to make it all add up to the dream over a pressured half-hour lunch break on the factory floor. On behalf of those families, we will take the White House in November of this year. {APPLAUSE}
+
+That's what it's all about. On behalf of those people, not just the ones whose families have taken for granted for generations that college awaits their children, but the ones whose parents were just as bright, whose kids were just as beautiful and just as filled with promise, who fear that they'll never have the financial strength to pull open those ivied gates for the ones they love. For those families, we will take the White House in November of this year. {APPLAUSE}
+
+And I'm here today to give those families fresh hope and concrete help today. For them today, because of their grit and dignity and trying hard to save and be faithful to the dream, I'm announcing one of the largest programs of tax-free private savings ever proposed. Together, let's put an end to the days when savings are a scramble, if not an unthinkable luxury, for too many families. Together we will make saving one of the easiest things a family can ever do.
+
+Hear me well: My dream is an America in which your family's dream can come true. And it can. And here's how. I propose today here in Lexington that we create new Retirement Savings Plus accounts, tax-free voluntary accounts that let you save, invest and build on top of the guaranteed foundation of Social Security.
+
+Here's how Retirement Savings Plus will work: We will give people tax credits to match their own savings. The hardest-pressed working families will get even bigger tax credits. And here is what this will mean to you and your loved ones:
+
+For a married couple making $30,000 a year, say a bus driver and a homemaker, we'll match every dollar you save with $3 deposited right into your account. And you can do it on your tax return and have it done automatically if you choose. If a young couple saves just $20 a week, together with our tax credits and the returns on their savings, they could reasonably expect to save as much as $400,000 extra by the time they retire 35 years later. {APPLAUSE}
+
+You talk about opening up those wrought-iron gates, we're going to do it. This new way to build wealth will mean a bigger nestegg for retirement. It will also help with three of the biggest hurdles that any family faces: buying that first home, sending your kids to college, and paying for major medical expenses. And we'll make saving for the future as easy as checking a box on your tax return. You will be able to deposit your full tax refund, along with a matching tax credit, directly into your own personal account. This new initiative will ensure that millions more families can open the door to their dreams.
+
+Now I want to be clear on another point as well: My plan for private savings and investment is very different from what others have proposed in this election. It does not come at the expense of Social Security, it comes in addition to Social Security. We will protect Social Security. {APPLAUSE} I have always supported private savings and investment, and I've always supported additional incentives for middle-income and low- middle-income families to save and invest more. After all, high- income families already have generous tax incentives. They get by far the lion's share of the tax credits and incentives that are on the books now. But I have never supported plans that would steer the money that you pay into Social Security into the stock market. That would undermine America's trust in the trust fund. That would take the security out of Social Security. I will not let that happen. I will protect Social Security. {APPLAUSE}
+
+And together we will save Social Security. I will oppose -- I will oppose the effort to privatize Social Security which could drain a trillion dollars out of the trust fund. {APPLAUSE}
+
+I will oppose the effort to privatize it. It could not only drain all that money out of the trust fund, it could drive our entire budget back into deficit again. And you know what that means: That could threaten our prosperity. And apart from that harm to our nation's prosperity formula, it would harm individual elderly folks.
+
+People have the common sense to know that, in the stock market, there are good years and there are bad years; there are winners, and there are losers. We will not, on my watch, become a nation that penalizes the elderly people who happen to retire in a bad year; a nation penalizing the elderly people who happen to be on the losing end of the roll of the dice. We will not become a nation that tells a 65-year-old waitress, a 65-year-old janitor or factory worker, too bad if you've worked hard for a lifetime. You need to keep going somehow for two or three or even more years. My plan is Social Security-plus, not Social Security-minus. It's the best of both worlds, not the worst of both worlds. {APPLAUSE}
+
+There's a clear difference, a very clear difference. You get the freedom and the incentive to save more and invest more, but it will not come out of your Social Security. Your Social Security benefits will be guaranteed, and the trust fund will be protected no matter how those investments perform. Under my plan, Social Security will be just the beginning of a family's retirement savings.
+
+And let me give you some examples: I met a woman from Seattle who works all day carrying for the elderly and for people with disabilities. She loves her job, but it does not offer her a pension. So she's counting on her Social Security to be a major part of her retirement and she's worried that it may not provide all that she will need.
+
+With Retirement Savings Plus, she will not only get the guarantee of her Social Security, she'll be able to save tens of thousands more for her retirement. Another example: I meet young people all the time...
+
+{/speech} 

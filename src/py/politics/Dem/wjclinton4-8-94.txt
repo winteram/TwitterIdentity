@@ -1,0 +1,48 @@
+﻿{title} Remarks by the President at Young American Medals Ceremony {/title}
+{event} The East Room  {/event}
+{speaker} Bill Clinton {/speaker}
+{date} August 4, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you so much, General Reno. And thank you, ladies and gentlemen, for being here. I would like to thank Janet Reno for the superb job she has done as the Attorney General of the United States and for the human face she has put on law enforcement in this country and the understanding she has brought as a career prosecutor to this work; the understanding that really is embodied in these awards today, which is that we have a job to do here in Washington, but what really makes America great and what really makes America work is what happens on the streets, in the schools, in the neighborhoods, in the workplaces of America every day.
+
+I want to thank the Director of our Office of Drug Policy Lee Brown for being here. Two Congressmen from the areas of two of the honorees today, Congressman Jerry Costello of Illinois and Congressman Steve Schiff of New Mexico -- thank you for being here. I understand the Mayor of Belleville, Illinois, Roger Cook is here. I thank the members of the Young American Medals Committee; the Administrator of the DEA, Tom Constantine; and Eduardo Gonzalez, the Director of the Marshals Service who are also here.
+
+Last year was my first opportunity to engage in this ceremony. I just loved it. And the Attorney General was right. This job of mine is an interesting and diverse job, and most days it's quite a wonderful job. But it rarely is so filled with joy as when you can recognize the wonder of the work of our young people.
+
+I think of our mission here in our administration at this time as the timeless one of trying to secure a future for our young people, so that every person in this country, without regard to their region or race or income or background, can live up to the fullest of their God-given abilities. In this time, at the end of the Cold War and at the beginning of a new era that is not yet fully clear to Americans, moving into a global economy with new opportunities and, to be sure, new troubles as well -- that means, as a minimum, that here we have to restore economic growth and opportunity; we have to help people to rebuild the strength of our communities and our families; we have to empower individuals to do more for themselves. In short, we've got to make this government work for ordinary citizens in a world we're working to make more peaceful and prosperous.
+
+Now, in the last few weeks, we've had some pretty good news on that. Our economy is clearly coming back. For the first time in 10 years it's predicted that all 50 states will have economic growth next year. We had a peace agreement signed here between Jordan and Israel last week, which must have brought joy to the hearts of every American that has seen that troubled region torn for so long. There are many good things happening. The largest, toughest, smartest crime bill in the history of the United States is in final debating stages and about to be voted on in the Congress. For the first time in the history of our country, both Houses of Congress are considering a bill to provide health care coverage to all Americans.
+
+But still, we have to recognize that in the end it is still true that the strength of this country is what happens on Main Street; what happens in the schools; what happens where ordinary Americans live and work.
+
+Today we celebrate the best of our young people -- for their courage and their commitment. We know that life requires both to be fully successful. And we know that our country is still around now after 218 years because we've been blessed with an abundance of both.
+
+I must tell you that when I got up this morning and, as is my custom early in the morning, I wandered around -- I did some of my routine, and then I sat and read the schedule for the day and I read the stories of these young people -- I was reminded of a line that I used in my Inaugural Address, but sometimes here in the heat of battle I forget -- "There is nothing wrong with this country that cannot be fixed by what is right with this country. {APPLAUSE}
+
+Today we honor in dramatic and breathtaking fashion what is right with this country.
+
+The first recipient for the Young American Medal for Bravery is Carlo Montez Clark of Bellville, Illinois. {APPLAUSE} He was on his way to a convenience store when he noticed smoke coming from a nearby building. He tried twice to get into the building, but was overcome by smoke. Finally, on the third try he got into the building, risking his own life, and saved the life of an elderly woman who suffered from emphysema.
+
+Let's give him a big hand. Thank you. {APPLAUSE}
+
+Now, I would like to recognize for service Robin Mae Davis of Albuquerque, New Mexico. {APPLAUSE} She's worked hard to spread the important message of the dangers of alcohol abuse among young people. She tried to get the New Mexico State Fair to refrain from serving alcohol for a day or so; they declined. So she organized the human chain around the New Mexico State Fair in protest of their policy. As a result, for four days the fair was completely alcohol-free. {APPLAUSE}
+
+I wonder if she would like to join my congressional lobbying staff. {LAUGHTER} Good for you, Robin, and congratulations.
+
+Our second winner of the Young American Medal for Bravery is Brandon Sisco of Texarkana, Texas. {APPLAUSE} When Brandon's school bus made a routine stop, a young girl got off the bus and was attacked by two ferocious dogs. She was bitten many times. Brandon jumped off the bus and bravely fought off the dogs, guided the six-year-old to safety inside the bus, where he comforted her until paramedics arrived. At considerable risk to himself, he saved the young girl's life. Let's give him a round of applause. {APPLAUSE}
+
+Our final recipient is Amanda Stewart of Keyes, Oklahoma. {APPLAUSE} In 1990 Amanda was paralyzed in a car accident. She began a three-state campaign to raise consciousness regarding the dangers of drinking and driving. She told her peers they should think first about getting into a car with someone who had been drinking. She asked them to think before driving off first without fastening a seat belt.
+
+After an experience which would have crushed the spirits and broken the will of many people, even people two or three times her age, this brave and beautiful young woman has doubtless inspired countless young people to change their behavior, to secure a better future for themselves. And in the process, she has exercised influence, power and goodness far beyond anything that anyone might have imagined.
+
+Thank you, Amanda, for your commitment and your courage. {APPLAUSE}
+
+Ladies and gentlemen, let me close with what I always think of at moments like this. These young people have reminded us, as the Attorney General has said, of the power of one person to make a difference. Each of us in our own way have that power. And I think we would all admit, starting with the president, that every day at the end of the day we have done less than we might have done to exercise that power that is within us all, divinely inspired and given to us for whatever time we're on this Earth. Let's look at them and remember our obligations to make the most of every day.
+
+Thank you and bless you all. {APPLAUSE} 
+
+{/speech}

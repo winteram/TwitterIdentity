@@ -1,0 +1,22 @@
+﻿{title} President Bush Welcomed by Chancellor Merkel in Germany {/title}
+{event} Stralsund Market Square, Stralsund, Germany {/event}
+{speaker} George W. Bush {/speaker}
+{date} July 13, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. Thank you, Chancellor Merkel. Thank you all for coming. Laura and I feel welcome here in Stralsund. To the Mayor, and Minister President, and the people of this beautiful town, we say, Guten Morgen. {APPLAUSE}
+
+For decades, the German people were separated by an ugly wall. Here in the East, millions of you lived in darkness and tyranny. Today your nation is whole again. The German people are at the center of Europe that is united and free and peaceful.
+
+You've given Germany a fine Chancellor in Angela Merkel, who I'm proud to call friend. {APPLAUSE} The American people and the German people see the same qualities of character in your nation's leader. We see a bold vision and a humble heart. We see that she's willing to make hard decisions and eager to build strong partnerships. And like many others in the international community, I respect her judgment and I value her opinion. {APPLAUSE}
+
+It's such an honor to be in her constituency. When I met with her in the Oval Office, she said, when you come to Germany, you need to come to one of the best parts of Germany. {APPLAUSE} She didn't predict the weather. {LAUGHTER} But I want to thank the Mayor for delivering such a beautiful day. {APPLAUSE} And she forgot to tell me I was going to get some herring, and I thank you for that gift.
+
+I bring a message from the American people: We're honored to call the German people friends and allies. {APPLAUSE} We share common values and common interests. We want to work together to keep the peace. We want to work together to promote freedom. There's so much that we can do, working together, and that's -- part of my visit today is to pledge to you and the Chancellor, America and Germany stand side-by-side. {APPLAUSE}
+
+Thank you for your warm welcome. May God bless you all. Thank you very much. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,56 @@
+﻿{title} Speech by President to the Troops at Camp Casey {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 11, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Thank you very much. Thank you, General Abrams. Thank you, Sergeant Corley, for the tomahawk. 
+
+{AUDIENCE} Oooh. {/AUDIENCE} 
+
+He looks to me like he could use it. {LAUGHTER} 
+
+I want to say how glad I am to be here today. I want to introduce a couple of the people who came with me -- the Secretary of State Warren Christopher -- {APPLAUSE} -- your Secretary of Defense -- {APPLAUSE} I think you know General Luch. {APPLAUSE} And I thank you already for the welcome to me and to my wife, the First Lady. {APPLAUSE} 
+
+I see some of the young women soldiers jumping up and down here in the back. We'll do that better -- that's good. {APPLAUSE} 
+
+I want to say to all of you, it is a great privilege for me to be here on the frontier of freedom with the warriors of the 2nd Infantry Division. {APPLAUSE} You are a very critical part of the finest Armed Forces the world has ever seen. {APPLAUSE} 
+
+I'm sorry to be a little late, but I think you all know that because of the rains we couldn't take the helicopters today, and we drove to the DMZ. 
+
+{AUDIENCE} Woo, woo, woo {/AUDIENCE} {APPLAUSE} 
+
+It was the first opportunity I had ever had to be along the DMZ. And I understand that I was in a more forward position than any President had been before. {APPLAUSE} When I stood on the Bridge of No Return and looked over with my binoculars at those young North Korean soldiers, I thought to myself, I wish they were free to walk across this bridge and be with us in peace and freedom. And because of you, someday they will be, because of you. {APPLAUSE} 
+
+For 40 years American soldiers like you have stood shoulder to shoulder with our Korean allies, providing South Korea with security against attack and the opportunity to flourish first as a great economy, and now as a great democracy. I want every one of you to know whatever you do here -- if you carry a rifle or drive a truck or repair a helicopter -- {APPLAUSE} -- whatever you do -- {APPLAUSE} -- whatever you do your work is vital and I admire your service. And, believe it or not, so do millions of Americans you will never see or meet who do not know your names and may not even know exactly what you do, all of them know they live a little freer and a little better because of you and your sacrifice and your service. {APPLAUSE} 
+
+All of you know that this is a challenging time to be in the military. Because the Cold War has ended some people think the threats to our country have ended. But you know better. {APPLAUSE} You know that there is a reduced need for certain missions and forces around the world, but many threats continue. 
+
+Just a few weeks ago I ordered an attack on Baghdad because we concluded -- {APPLAUSE} And you know why -- because we concluded that Iraq had staged a plot to assassinate former President Bush while he was in Kuwait. And they were under the illusion that we treat our political leaders like they treat theirs. This is America. We honor everybody who has served this country, and we stick together. {APPLAUSE} 
+
+But when I gave that order, I did it with the confidence that we had the best military in the world. {APPLAUSE} Equipped with the finest technology in history. {APPLAUSE} And after that action was over, I felt more strongly than ever before that we must continue to have the best military in the world and the finest technology in the world. {APPLAUSE} 
+
+For six years now, force levels have been lowered, budgets have been reduced, bases have been closed. These changes are unsettling and difficult, but I tell you that still we must maintain our readiness and we must make these cutbacks gradually and with a real feeling for the men and women who have won the Cold War and deserve their country's best efforts to help them maintain successful lives. {APPLAUSE} 
+
+And even in this time of transition, we must remember that we have to show foresight and caution in reducing our defenses. North Korea's stubborn refusal in recent months to fully comply with the requirements of the Nuclear Nonproliferation Agreement is the most urgent example of this. And in this new round of military cuts, I know that you all noticed no cuts were made in troop levels in Korea or Japan, and we beefed up our naval presence in the Pacific, because that is what the national security requires. {APPLAUSE} 
+
+You know, too many times in the past, in the absence of an overpowering threat, our country has forgotten just how badly we need people like you, with the morale and energy and vigor and determination that you're all demonstrating today. {APPLAUSE} 
+
+In 1945, before any of you were born, we won the Second World War. And just five short years later, we were involved in another conflict here in Korea. But by then we had diminished our strength so much that we entered the conflict inadequately prepared, without enough equipment or training, without enough strength. We must not ever make that mistake again. {APPLAUSE} 
+
+And so, I say to you that while, over the next few years we will continue to reduce defense expenditures where appropriate and acknowledge that in many cases that may be desirable, there is clearly a line below which we cannot go. Our Armed Forces must still be able to fight and win on a moment's notice. {APPLAUSE} 
+
+And let me make this last point. To do that, of course, we have to provide you with the most sophisticated precision-guided weapons we can. To do that, of course -- {APPLAUSE} -- we have to provide you with all the support we can. But in the end, you will make the difference -- your discipline, your character, your will to win, your love for your country, your ability to get up day in and day out and feel the way you are manifesting your feelings for your country and your duty today -- that is America's winning edge, and that is what we must never lose. {APPLAUSE} 
+
+Let me say in closing, I know that what you do is difficult and sometimes dangerous and often very lonely. You're a long way from home. {APPLAUSE} When I was up on the DMZ I met three people from my home state -- a long way from home. You, too? And I want all of you to know that your demonstration of your professionalism and your dedication means that you, and America, really are second to none. {APPLAUSE} 
+
+What I want you also to know is that I can see from my perspective sometimes something you may not be able to see, and that is these pictures of you here saying what you're saying, doing what you're doing, being who you are give great pause to the enemies of freedom and great heart to our allies and to all the American people. 
+
+Thank you and God bless you all. Thank you. {APPLAUSE} 
+
+
+{/speech} 

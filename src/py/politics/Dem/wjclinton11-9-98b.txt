@@ -1,0 +1,40 @@
+﻿{title} Remarks by the President at Religious Leaders Breakfast {/title}
+{event} The East Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 11, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, ladies and gentlemen. Welcome to the White House and to this day to which Hillary and the Vice President and I look forward so much every year.
+
+This is always an important day for our country, for the reasons that the Vice President said. It is an unusual and, I think, unusually important day today. I may not be quite as easy with my words today as I have been in years past, and I was up rather late last night thinking about and praying about what I ought to say today. And rather unusual for me, I actually tried to write it down. So if you will forgive me, I will do my best to say what it is I want to say to you -- and I may have to take my glasses out to read my own writing.
+
+First, I want to say to all of you that, as you might imagine, I have been on quite a journey these last few weeks to get to the end of this, to the rock bottom truth of where I am and where we all are. I agree with those who have said that in my first statement after I testified I was not contrite enough. I don't think there is a fancy way to say that I have sinned.
+
+It is important to me that everybody who has been hurt know that the sorrow I feel is genuine: first and most important, my family; also my friends, my staff, my Cabinet, Monica Lewinsky and her family, and the American people. I have asked all for their forgiveness.
+
+But I believe that to be forgiven, more than sorrow is required -- at least two more things. First, genuine repentance -- a determination to change and to repair breaches of my own making. I have repented. Second, what my bible calls a "broken spirit"; an understanding that I must have God's help to be the person that I want to be; a willingness to give the very forgiveness I seek; a renunciation of the pride and the anger which cloud judgment, lead people to excuse and compare and to blame and complain.
+
+Now, what does all this mean for me and for us? First, I will instruct my lawyers to mount a vigorous defense, using all available appropriate arguments. But legal language must not obscure the fact that I have done wrong. Second, I will continue on the path of repentance, seeking pastoral support and that of other caring people so that they can hold me accountable for my own commitment.
+
+Third, I will intensify my efforts to lead our country and the world toward peace and freedom, prosperity and harmony, in the hope that with a broken spirit and a still strong heart I can be used for greater good, for we have many blessings and many challenges and so much work to do.
+
+In this, I ask for your prayers and for your help in healing our nation. And though I cannot move beyond or forget this -- indeed, I must always keep it as a caution light in my life -- it is very important that our nation move forward.
+
+I am very grateful for the many, many people -- clergy and ordinary citizens alike -- who have written me with wise counsel. I am profoundly grateful for the support of so many Americans who somehow through it all seem to still know that I care about them a great deal, that I care about their problems and their dreams. I am grateful for those who have stood by me and who say that in this case and many others, the bounds of presidency have been excessively and unwisely invaded. That may be. Nevertheless, in this case, it may be a blessing, because I still sinned. And if my repentance is genuine and sustained, and if I can maintain both a broken spirit and a strong heart, then good can come of this for our country as well as for me and my family. {APPLAUSE}
+
+The children of this country can learn in a profound way that integrity is important and selfishness is wrong, but God can change us and make us strong at the broken places. I want to embody those lessons for the children of this country -- for that little boy in Florida who came up to me and said that he wanted to grow up and be President and to be just like me. I want the parents of all the children in America to be able to say that to their children.
+
+A couple of days ago when I was in Florida a Jewish friend of mine gave me this liturgy book called, "Gates of Repentance." And there was this incredible passage from the Yom Kippur liturgy. I would like to read it to you: "Now is the time for turning. The leaves are beginning to turn from green to red to orange. The birds are beginning to turn and are heading once more toward the south. The animals are beginning to turn to storing their food for the winter. For leaves, birds and animals, turning comes instinctively. But for us, turning does not come so easily. It takes an act of will for us to make a turn. It means breaking old habits. It means admitting that we have been wrong, and this is never easy. It means losing face. It means starting all over again. And this is always painful. It means saying I am sorry. It means recognizing that we have the ability to change. These things are terribly hard to do.
+
+But unless we turn, we will be trapped forever in yesterday's ways. Lord help us to turn, from callousness to sensitivity, from hostility to love, from pettiness to purpose, from envy to contentment, from carelessness to discipline, from fear to faith. Turn us around, O Lord, and bring us back toward you. Revive our lives as at the beginning, and turn us toward each other, Lord, for in isolation there is no life."
+
+I thank my friend for that. I thank you for being here. I ask you to share my prayer that God will search me and know my heart, try me and know my anxious thoughts, see if there is any hurtfulness in me, and lead me toward the life everlasting. I ask that God give me a clean heart, let me walk by faith and not sight.
+
+I ask once again to be able to love my neighbor -- all my neighbors -- as my self, to be an instrument of God's peace; to let the words of my mouth and the meditations of my heart and, in the end, the work of my hands, be pleasing. This is what I wanted to say to you today.
+
+Thank you. God bless you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,44 @@
+﻿{title} Remarks by the President and the First Lady at Microenterprise Event {/title}
+{event} Microenterprise Event, The East Room {/event}
+{speaker} Hillary Rodham Clinton {/speaker}
+{date} February 5, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Welcome and please be seated. The President and I are delighted to have you all here for the second presentation of the Presidential Awards for Excellence in Microenterprise Development.
+
+Each of today's awardees is showing the power of microenterprise, the power to transform welfare checks to paychecks, poverty to economic growth and income, despair to hope. Later in the program we'll hear from Carol Willoughby, who will tell us how her life and family was forever changed by microenterprise.
+
+I had the chance to see Carol's work firsthand at a speech I gave last April at a microenterprise meeting. She had made the banners hanging behind the podium -- or, rather, I should say, her company had made them because with opportunity and hard work, that's what she has created, a thriving business. And the name of that company, as you've heard, appropriately enough, is Let The Whole World Know.
+
+Well, when it came time to pick someone to participate in this program, it was a very difficult choice because the stories from all of these award winners are going to really warm your heart and make you understand our commitment to microenterprise. But Let The Whole World Know really sounded a theme that we wanted to make sure could be sounded here.
+
+There are many people in this room who have worked for years to make this day possible, and I want to recognize and thank them, starting with Secretary Rubin, who has led the Treasury in exemplary ways at the micro level, but also understood the importance of the micro, as well as the macro. And so I'm grateful to him and the work that's been done at the Treasury Department.
+
+Senator Don Riegle, I believe is here -- former Senator -- and Don, thank you for the work you did in championing the Community Development Financial Institutions Fund while you were in the Senate. And there are other members of Congress I want to thank: Senator Harkin, Senator Kennedy, Senator Wellstone, Congresswoman Eleanor Holmes Norton, Congressman Oberstar.
+
+And as well as our officials from the Congress, we also have the Lieutenant Governor of Iowa, Sally Peterson, and a number of the agency heads who are responsible for the government's microenterprise program, starting with USAID Administrator Brian Atwood, as well as the Deputy Administrator, Hattie Babbitt; Small Business Administrator Aida Alvarez; CDFI Director Ellen Lazar; the Director of the National Economic Council, Gene Sperling; Mary Ellen Withrow, the Treasurer of the United States; and a former OMB Director who was on the team for microenterprise, Frank Raines.
+
+I want to thank all of you, and the people you work with, for the extraordinary job you have done.
+
+You know, many of us have heard about microenterprise over a number of years. Bill and I were trying to determine when we had heard about it -- and as we get older it seems harder to remember. {LAUGHTER} We think it was somewhere in the early '80s, somewhere between '84 and '86. And we had heard about this because it was an idea that had been transplanted from Bangladesh to the South Shore Bank in Chicago, a place that I am very familiar with. And I was very anxious to learn more about how microenterprise was transforming both rural areas, among some of the poorest people on our planet, and urban areas in our own city.
+
+I have been, now, around our country and around the world, meeting with people who are the recipients of microenterprise awards. And I have been just struck, time and time again, by the heroic stories that they tell. I'll never forget the look of pride on the face of a woman I met from Guatemala, who told me that with the help of a small loan, she had gone from being a mango seller on the streets to owning a market stall, and eventually running a small business with 15 employees. So from the time she had started on the streets selling mangoes, to the age of 12, she had had a long, hard effort of a lot of work, but it paid off. And she told me with great pride that she was sending her son to college in the United States.
+
+In Western India, I walked into a women's bank, which had only one room and the teller's counter was an old kitchen table and bank clerks transcribed all of the recorded transactions by hand on yellow sheets of paper. But while I was there I met women who walked 12 to 15 hours from remote villages to take out loans -- some as small as $1, to invest in dairy cows, plows or goods to sell at market. These women were among some of the poorest and least educated of all Indians. But their loan repayment rate was nearly 100 percent, and they told me what they had done with their loans and how that had transformed their lives, enabling them to give their children better housing, health care and other opportunities.
+
+I was also very pleased last year in Africa when I accompanied the President and the President of the Uganda to a microenterprise site in a village some distance from the capital of Kampala. I don't think that a head of state had ever visited a village site of a microenterprise group, and I know that two heads of state at the same time have never done that. {LAUGHTER} And I was delighted that both the President and President Museveni had the same reaction that I always have -- a great deal of interest and a great deal of pride in what they were hearing on behalf of the people who were telling their stories.
+
+But microenterprise had not only transformed lives abroad, they are transforming lives right here at home. I remember visiting the Mi Casa Microlending Program in Denver and speaking to a group of women who told me about how they had had good ideas, but they couldn't get any capital anywhere. One woman memorably remarked, you know, a lot of good ideas die in the parking lots of banks. {LAUGHTER} She said, you know, I knew I was a good baker, I knew I could open a bakery, I knew I could employ people -- but I didn't have any collateral and the amount of money that I wanted was below the lending limit of the bank. Well, thanks to microenterprise, she was doing what she had dreamed of.
+
+The origin of these awards go back to the United Nations Fourth World Conference on Women in Beijing, when I pledged on behalf of the President and the administration a commitment to spread microenterprise and microlending through our nations; and also to have these awards, as well. We've now seen the fruits of that effort, from one end of our country to the other and you're going to hear about some of the exemplary programs in just a few minutes.
+
+I believe that this is part of the President's strong initiative to try to bring free enterprise and capital development to those parts of our country that are still left out. You know, we've done extraordinarily well thanks to the leadership of the President and the Secretary of Treasury and the others in the administration.
+
+But we still have a ways to go in some of our inner- city neighborhoods in some of our rural areas, and in some of our Indian communities, particularly. So what we're trying to do is to say we want a multi-pronged strategy to provide economic opportunity to every American willing to work hard to achieve it on his or her behalf.
+
+And no one understands the importance of the free enterprise system, and the need for us to spread its benefits to every American, than someone who has worked tirelessly over the past years to ensure that every American would have an opportunity to be successful. And it is my great honor and personal privilege to introduce to you the Secretary of the Treasury, Bob Rubin. {APPLAUSE} 
+
+{/speech}

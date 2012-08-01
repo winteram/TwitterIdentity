@@ -1,0 +1,38 @@
+﻿{title} Remarks by the Vice President at Heritage Foundation President's Club Dinner Presenting Lady Margaret Thatcher with the Clare Boothe Luce Award {/title}
+{event} Ronald Reagan Building, Washington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} December 9, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. {APPLAUSE} Thank you, all. {APPLAUSE} Thank you, all, and please, be seated.
+
+I want to thank you, Ed. And thank you for that very warm welcome, and thank the Heritage Foundation for inviting to this very special meeting of the President's Club this evening. I want to congratulate Heritage for the terrific work that you do to help build an America where freedom, opportunity, prosperity and civil society flourish.
+
+As a longtime participant in our political process, I do want to say how much I appreciate -- and so many of my colleagues appreciate -- the tremendous work that Heritage has done over the years. And it's meant a great deal to us, especially when we come back to government and need the push and the drive that new ideas and new people give us. And Heritage has been a very important part of that.
+
+Building an America where opportunity, prosperity and civil society flourish is not a job for the impatient or for the fainthearted. It takes courage, determination, and brains, and an unwavering commitment to principle. All these virtues were embodied in the career of one of America's greatest conservatives, Clare Boothe Luce. It is fitting that the Heritage Foundation has chosen to name its highest award after her. And it is equally fitting that you have chosen to present the Clare Boothe Luce Award to Lady Margaret Thatcher. {APPLAUSE} Whenever I think of Margaret Thatcher, I can't help but recall the final lines from Shakespeare's King John, "Naught shall make us rue if England to itself do rest but true."
+
+In the course of the 20th century there were many who sought to make us rue the fundamental commitments of our civilization: our commitments to limited government, to free markets, to democracy, pluralism, and the rule of law. In the end, though, it was freedom's enemies who were made to rue. And a good deal of the credit for that happy outcome belongs to Lady Thatcher. {APPLAUSE}
+
+I have no doubt that historians will be analyzing Lady Thatcher's achievements for years and decades and perhaps even centuries to come. To me, however, what stands out about Lady Thatcher's career is that she has always been true to England -- to the values, the traditions and ideas that have enabled her small island to play such a huge role in human events.
+
+Like all great English men and women, Lady Thatcher has a passionate love of freedom, a bone-deep contempt for tyrants, and a willingness to do whatever is necessary to ensure freedom's triumph. Lady Thatcher has also been blessed with the sturdy British common sense to see through all of the high sounding rationalizations and justifications for state control of the economy, and to recognize socialism for what it is -- a recipe for collective failure and national ruin. {APPLAUSE}
+
+Throughout her career, Lady Thatcher has always demonstrated a bulldog-like British tenacity in standing by her convictions and her friends -- not only when times were good, but even and especially when the going got tough. As she famously said of herself, "This lady is not for turning." {LAUGHTER}
+
+This lady is, however, for honoring. And it is now my special pleasure to read the Clare Boothe Luce Award citation in honor of Lady Margaret Thatcher:
+
+"When the 20th century is seen years hence through the long lens of history, two defining themes will surely stand out: the clashes between socialism and capitalism, and between totalitarianism and democracy. When future generations learn how capitalism triumphed over socialism, you will figure prominently in the story as a central hero.
+
+"Political and economic freedom prevailed because of your political leadership in Britain. And like that of your unfailing friend and ally, Ronald Reagan, in America, it was guided not by consensus but by conviction.
+
+"In recognizing your courageous leadership in the face of great opposition, we recall the words you spoke in tribute to Ronald Reagan on his 80th birthday:
+
+'It takes struggles in life to make strength. It takes fight for principles to make fortitude. It takes crises to give courage. And it takes singleness of purpose to reach an objective.'
+
+"In that same spirit you paid that tribute to him, we pay it now to you with profound gratitude for your character, for your special friendship for the United States, and for your commitment to the cause of freedom, the Heritage Foundation salutes Lady Margaret Thatcher." {APPLAUSE} 
+
+{/speech}

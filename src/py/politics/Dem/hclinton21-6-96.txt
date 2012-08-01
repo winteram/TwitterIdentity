@@ -1,0 +1,24 @@
+﻿{title} Remarks by the President, the Vice President, Mrs. Clinton And Mrs. Gore,And Billy Payne, President And Ceo for the Atlanta Committee for the Olympic Games  at Ceremony for the Departure of the Olympic Torch {/title}
+{event} Departure of Olympic Torch {/event}
+{speaker} Hillary Rodham Clinton {/speaker}
+{date} June 21, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning, and welcome to the White House. The President, the Vice President, Mrs. Gore and I are very happy all of you could join us for this very special departure ceremony. I would like to welcome Billy and Martha Payne and other distinguished guests from the Atlanta Committee for the Olympic Games.
+
+Also, Georgia Governor Zell Miller and his wife, Shirley, are here, and we want to say a special word of welcome and thanks to Donna and Mack McLarty, who have been working closely with Vice President Gore to coordinate the administration's activities in support of the 1996 Olympics and Paralympics.
+
+We're also pleased we could be joined by members of Congress, the Cabinet, the White House Task Force on the Olympic and Paralympic Games, and also the President's Council on Physical Fitness and Sports, especially the Cochair, Tom McMillan, all of whom are with us this morning. We are also honored to have here today the ambassadors from nations that have hosted past summer olympic games.
+
+I'd like to extend a special welcome and congratulations to the men and women who carried the torch here in the District, especially to the two runners who carried the torch to the White House last night: Dr. I. King Jordan, the President of Gallaudet University; and Sister Mary Poppett. I'd also like to acknowledge Martin Begosh , who is here as well, as one of the torch bearers. There were community hero torchbearers that the President first introduced in his State of the Union Address many months ago: Lucius Wright of Jackson, Mississippi and Jennifer Rogers of Oklahoma City, Oklahoma.
+
+And, finally, let us welcome some of the wonderful exemplars of excellence -- the former and current olympians from the D.C. area. The U.S. Men's Soccer Team and this year's -- {APPLAUSE} -- who are doing well, and this year's brilliant group of presidential scholars. {APPLAUSE}
+
+Some of you may remember that my daughter and I had the privilege of witnessing the lighting of this same flame almost three months ago in Olympia, Greece. It was the traditional ceremony set amid the ancient ruins of Olympia where the original games were held more than 2500 years ago. On that beautiful, sunny day in a place surrounded by olive, orange and lemon groves, it was very easy for us to feel the tradition, history and symbolism of the Olympic flame. This flame carries much more than light and heat, it carries the spirit of our family of nations, the legacy of friendships formed over centuries of olympic contests, and the hopes of the young men and women who will convene in Atlanta this summer. Through them, the Olympic spirit will only grow faster and higher and stronger, enabling all of us to renew bonds of international goodwill and understanding. That is the heart of the Olympic ideal that we honor here at the White House today.
+
+Now, let me introduce to you a great friend of mine and a great athlete in her own right, Tipper Gore. {APPLAUSE} 
+
+{/speech}

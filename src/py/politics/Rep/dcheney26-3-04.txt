@@ -1,0 +1,40 @@
+﻿{title} Remarks by the Vice President at a Rally for the Troops {/title}
+{event} ----- {/event}
+{speaker} Dick Cheney {/speaker}
+{date} March 26, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you all very much. Thank you. {APPLAUSE} I appreciate that warm welcome today. I never got treated like that when I was just Secretary of Defense. {LAUGHTER} But I've been to Wright-Patt before, and I know what a fantastic job you all do.
+
+I appreciate the warm welcome. It's a special honor to be with the members of the Air Force Material Command, the 445th Airlift Wing, 178th Tactical Fighter Group from Springfield Air Guard Base, and the dedicated civilians that are with us here today as well.
+
+I want to thank all the family members in the audience, too. Military life is a family commitment and our men and women in uniform depend upon their families above all else. America is proud of each and every one of our military families.
+
+Let me also thank General Martin, as well as Congressman Mike Turner, Rob Portman, and our other distinguished guests. This is a great base and an outstanding community. Our nation counts on the 23,000 men and women of Wright-Patt, military and civilian, and you have always come through for us. You play a critical role in the defense of our country. And I'm here to express the gratitude of your fellow citizens and of your Commander-in-Chief, President George W. Bush. {APPLAUSE}
+
+In this place which is so rich in aviation history, you are helping our country keep that vital edge in aerospace technology. For example, the Global Hawks, the Predators developed here were absolutely essential to locating and defeating our enemies in Iraq and Afghanistan. When we needed quick improvements in the F-15E Strike Eagle and the C-17, you got the job done in record time. You're one of the reasons that we're winning the war on terror. You're the finest air force in the world.
+
+Doctors and specialists on this base care for the wounded. The pilots and crews of the 445th Wing carried out medical evacuations. Your C-141s brought troops and equipment to the Afghan and Iraqi theaters, and B-1 Bombers, supported from Wright-Patt, helped to bring down the regime of Saddam Hussein. {APPLAUSE}
+
+Today's military is fighting the first war of the 21st century, a war that began on September 11th, 2001, when enemies struck the United States and murdered thousands of our fellow citizens. That day changed everything. In the space of a few hours, we saw the violence and the grief that terrorists can inflict. And we had a glimpse of the even greater harm they wish to do to us. The terrorists hate our country, they hate our freedom, they hate everything we stand for in the world. They seek even deadlier weapons and they would use them against us if they could.
+
+In the face of this danger, we have only one option. We are taking this fight to the enemy. We are breaking up cells and disrupting plots. We're staying on offense, tracking al Qaeda around the world. Many skilled and determined military personnel are in the hunt. They've delivered justice to many terrorists and they're keeping the rest on the run.
+
+Our campaigns in Afghanistan and Iraq were essential victories in the war on terror. The men and women of Wright-Patt helped to liberate more than 50 million people from regimes that brutalized them while cultivating ties with terror.
+
+And now we're helping the people of Afghanistan and Iraq to establish free and stable societies in a troubled region of the world.
+
+Freedom still has enemies in those countries, and these enemies are using the tactics of terror against American and coalition forces and against innocent civilians. We've lost brave Americans. We honor their memory and we will carry on in the cause they served.
+
+We understand what is at stake in this fight. We will confront and defeat the terrorists at the heart and center of their power so we do not have to face them on the streets of our own cities.
+
+As a former Secretary of Defense, I've been honored to know and to work with the men and women of our armed forces. I've seen firsthand your devotion to duty, your character, your regard for one another, and your commitment to this great country of ours.
+
+In this time of testing, we've asked a lot of you. And I want you to know, on behalf of the President and all your fellow Americans, this nation has confidence in your abilities and we're certain of your success and we're grateful for your service to the United States of America.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

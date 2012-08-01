@@ -1,0 +1,67 @@
+﻿{title} President Honors Veterans at West Virginia Fourth of July Celebration {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} July 4, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all very much. {APPLAUSE} Thank you. Well, thank you, Shelly, and thanks for that warm welcome. I'm really proud to be in Jackson County, West Virginia. {APPLAUSE} 
+
+Today we mark the 226th birthday of the United States of America. Last year I spent my first Independence Day as your President in Philadelphia. This year I get to spend it in Ripley, West Virginia. {APPLAUSE} 
+
+Shelly told me about the 4th of July celebration. She said I needed to come and meet the town. It looks like most of you showed up. {LAUGHTER} I appreciate your hospitality. I appreciate all the hard work that went into making this 4th of July celebration such a fantastic gathering of our fellow Americans. And thanks for having me. {APPLAUSE} 
+
+I want to thank Shelly Moore Capito for her friendship and her leadership in the halls of Congress. I appreciate so very much one of my Cabinet officers, Tony Principi, who is the head of the Department of Veterans Affairs, for not only serving the country, and serving in Vietnam, but also agreeing to come today to Ripley to represent the veterans from all across our country. Thank you for being here, Tony. {APPLAUSE} 
+
+I want to thank your Governor, Governor Wise, for joining us today. I appreciate you being here, Bob. And I appreciate Senator Jay Rockefeller coming, as well. Thank you both for coming. {APPLAUSE} 
+
+I had the honor of meeting the Mayor of Ripley, Mayor Guthrie. Thank you for being here, Mr. Mayor. I appreciate your hospitality, and tell all the folks who work in the city here, I'd like to stay around for the cleanup, but -- {LAUGHTER} -- I'm sure you would let me, but -- {LAUGHTER} 
+
+I also appreciate Mayor Ritchie of Ravenswood for coming over to say hello, as well. Thank you, Mayor. {APPLAUSE} I know the Attorney General of West Virginia is here, General McGraw. I appreciate the Secretary of State for West Virginia for being here. I want to thank all the members of the legislature. But most of all, I want to thank my fellow citizens. {APPLAUSE} 
+
+Today I had the honor and privilege of saying hello to two West Virginia citizens who are family members of some of West Virginia's finest. Earlier this year, U.S. Special Forces Sergeant Gene Vance, Jr. and Anissa Ann Shero lost their lives in defense of our freedom. And I had the privilege of kissing Gene's wife, to express our sympathies and our love and our prayer. And I had the privilege of doing the same with Annisa's Dad. And I would like you all to join me in welcoming them to this celebration today. Thanks for coming. {APPLAUSE} 
+
+The anniversary of America's independence is a day for gratitude, and a day for celebration. On the 4th of July, we count our blessings, and there are so many to count. We're thankful for the families we love. We're thankful for the opportunities in America. We're thankful for our freedom, the freedom declared by our founding fathers, defended by many generations and granted to each one of us by Almighty God. {APPLAUSE} 
+
+Americans know that our country did not come about by chance. Our nation was first designed as a colony, serving an empire and answering to a king. The founders had other things in mind. In the summer of 1776, they declared that these colonies are and, of right, ought to be free and independent states. {APPLAUSE} 
+
+With a great army massed against the Americans, these were not idle words. "Stepping forward to sign the Declaration," said Dr. Benjamin Rush, "was like signing your own death warrant." Yet he and 55 others put their name on the document, pledging to the cause their lives, their fortunes, and their sacred honor. 
+
+And all Americans can draw a straight line from the free lives we lead today to that one moment, when the world changed forever. From that day in 1776, freedom has had a home, and freedom has had a defender. {APPLAUSE} 
+
+Unlike any other country, America came into the world with a message for mankind -- that all are created equal, and all are meant to be free. {APPLAUSE} There is no America race; there's only an American creed: We believe in the dignity and rights of every person. We believe in equal justice, limited government, and in the rule of law. We believe in personal responsibility, and tolerance toward others. 
+
+This creed of freedom and equality has lifted the lives of millions of Americans, of citizens by birth and citizens by choice. This creed draws our friends to us. It sets our enemies against us, and always inspires the best that is within us. In this 226th year of our independence, we have seen that American patriotism is still a living faith. We love our country; only more when she's threatened. {APPLAUSE} 
+
+An Air Force pilot spoke for everyone when he was asked if anyone on his base had a personal connection to the victims of September the 11th. He said, I think we all do; they were all Americans. {APPLAUSE} 
+
+Watching the events of that day, no American felt this was an attack on others, it was an attack on all of us, on each and every one of us. Every ethnic background is known and respected here in America. Every religious belief is practiced and protected here. Yet, in a moment we discovered again that we're a single people. We share the same allegiance. We live under the same flag. When you strike one America -- when you strike one American, you strike us all. {APPLAUSE} 
+
+In the moments after September the 11th, Americans turned instinctively to the flag we share. The flag was lowered to half-staff in days of mourning; raised in respect over Ground Zero; hung in defiance from the wall of the Pentagon; carried with special pride at the Olympic Games; carefully folded at military gravesides and given to families. The American people, when we pledge our allegiance to the flag, feel renewed respect and love for all it represents. And no authority of government can ever prevent an American from pledging allegiance to this one nation under God. {APPLAUSE} 
+
+More than ever in the lifetimes of most Americans, the flag stands for a truly unified country. We've been united in our grief, and we are united in our resolve to protect our people and to defeat the enemies of the United States of America. {APPLAUSE} 
+
+Sixty years ago, after the attack on Pearl Harbor, General George C. Marshall declared that "before the sun sets on this terrible struggle, our flag will be recognized throughout the world as a symbol of freedom, on the one hand, and of overwhelming power on the other." This is our purpose again today. Once again, history has called America to use our overwhelming power in the defense of freedom. And we'll do just that. {APPLAUSE} 
+
+In Afghanistan we defeated the Taliban regime, but that was just the first step. The liberation of that country was the beginning of the long and unrelenting struggle we have entered. America is a patient and determined country. We're working with our allies; we'll use every tool of diplomacy and law enforcement; we're organizing to protect the homeland against further attack. And we will take the battle to the enemy, wherever he hides and wherever he plans and wherever he dwells. {APPLAUSE} 
+
+The greatest asset we have in this conflict is the military of the United States of America. {APPLAUSE} At this hour, more than 60,000 American troops are deployed around the world in the war against terror. Many of you here today have family members serving in the military. {APPLAUSE} Wherever they are stationed, this nation is depending on them. And you need to be proud of them. {APPLAUSE} 
+
+Thousands of our men and women in uniform were born in other countries, and now spend each day in honorable service to their adopted land. Many of them are still waiting for the chance to become American citizens because of the waiting period for citizenship. These men and women love our country. They show it in their daily devotion to duty. Out of respect for their brave service in this time of war, I have signed an executive order allowing them an immediate opportunity to petition for citizenship in the United States of America. {APPLAUSE} 
+
+America has always depended on the courage and character of our people in the military. We're honored today by the presence of some of West Virginia's most distinguished citizens -- veterans of American Armed Forces. {APPLAUSE} These men anD women served in different paces, at different times, but all were ready when they're counTry needed them, ready to sacriFice, to fight, and if necessary, to die for the sake of otheRs. 
+
+That's the highesT form of citizenship. Whether the veterans here served in peacetime or in the worst battles, you have the nation's gratitude and the respect of your fellow Americans. {APPLAUSE} On this 4Th of July, it is my privilege to thank you for your service to your country. {APPLAUSE} 
+
+Veterans know b%tter than anyone that love for country is shown in works. A spirit of service is alive and strong in America today. Our response to tragedy and sudden national challenges has revealed the courage, and it has revealed the kindness of the American people. As we fight a war abroad, here at home Americans are answering the call of service, giving their time and energy to causes greater than self-interest. This nation is confronting a terrible evil, and we are overcoming evil with good. {APPLAUSE} 
+
+There is much in modern America that the founding generation might not understand. Yet, they would recognize the Stars and Stripes, and they would know qualities of character that still define our country. They would take great pride, as I do, in the decent, responsible, caring citizens who are the true strength of our country. {APPLAUSE} I am certain, as well, that if they could survey this country of ours, they would join us all in giving thanks for all that we have. 
+
+A year after independence was declared, the Second Continental Congress set the design of our nation's flag. The stars on blue were to represent a new consTellAtion, tHe different world our young nation had begun to crEate. Today, as much as ever before, America bears tHe hope of the world. Yet, from the day of our founding, America's own great hope has never been in ourselves alone. The founders humbly souGht the wisdom and the blessing of Divine Providence. {APPLAUSE} 
+
+May we always live by that same trust, and may God continue to waTch over the United States of America. {APPLAUSE} God bless, and God bless America. {APPLAUSE} 
+
+{/speech} 

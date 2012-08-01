@@ -1,0 +1,48 @@
+﻿{title} Remarks by The President at Presentation of Commander-in-Chief's Trophy to the U.S. Naval Academy Football Team {/title}
+{event} Presentation of Commander-in-Chief's Trophy to the U.S. Naval Academy Football Team {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 3, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. Please have a seat. Welcome to the White House, and congratulations on winning your seventh straight Commander-in-Chief's Trophy. Does this ever get old? {APPLAUSE}
+
+I do have to warn you that I consulted with the White House counsel, and according to the 22nd Amendment, you're only allowed to come back here one more time -- {LAUGHTER} -- before it's somebody else's turn. But we are honored to have you here today.
+
+I want to start by acknowledging a few people who are with us. Of course I want to thank your Superintendent, Vice Admiral Jeffrey Fowler, for being here, and the outstanding work that he does. I also want to recognize the Secretary of the Navy, Ray Mabus, who is with us, and is doing an outstanding job as Secretary of the Navy.
+
+I want to welcome Lieutenant Commander Wesley Brown, class of 1949, back to the White House. There he is, right here. {APPLAUSE} Wesley was the academy's first African American graduate. So we are extremely honored to have you here today, sir. Thank you.
+
+Finally, I obviously want to congratulate Coach Ken -– a fellow Hawaiian, I should point out -– on winning another -- having another great season, a winning season in Annapolis.
+
+Now, I know it's an understatement to say that this program has been pretty successful over the years. You've been to a bowl game every year since 2003. You've pulled off seven straight wins against Air Force -– eight against Navy.
+
+{AUDIENCE} Army. {/AUDIENCE} 
+
+-- or against Army -- excuse me. {LAUGHTER} Excuse me. It would be hard for Navy to beat Navy. {LAUGHTER}
+
+That's even more impressive, Coach Ken says, because the Army/Navy game isn't just one of the biggest rivalries in college football -– it's one of the biggest rivalries in sports, period.
+
+But last season was special from the very beginning. In your first game, you gave the Buckeyes a run for their money in front of 105,000 fans. You beat Notre Dame for the second time in three years -– proving once again that even though your lineman are going up against guys who are 40 or 50 pounds heavier than they are, the Midshipmen can still run with the big dogs.
+
+Speaking of running, I want to congratulate Ricky Dobbs for setting the NCAA rushing record for touchdowns by a quarterback this season with 27. Where's Ricky? Where is he? {APPLAUSE} The previous record was held by a guy named Tebow, so that's not an easy feat. {LAUGHTER}
+
+Now, I also understand Ricky has announced for the presidency -- {LAUGHTER} -- in the year 2040. I know people are announcing early these days -- {LAUGHTER} -- but, Ricky, that's a bit much. {LAUGHTER} But it does mean that when Navy comes back for the Commander-in-Chief's Trophy 30 years from now, you might hear a speech from this guy. {LAUGHTER}
+
+This team wouldn't be the same without your captains, Osei Asante and Ross Pospisil. And so, where are those guys -- Osei, Ross, where are you? {APPLAUSE} Beside their leadership on the field, I was incredibly proud to hear about the toy drive that Ross organized last year. The team raised $1,700 and bought, wrapped and delivered toys to four needy families -- and you guys did it in the middle of a blizzard. So we are very proud of you for that. And I want to thank all of you guys for your compassion and your generosity.
+
+In the end, it's the willingness to put others above yourselves that sets this team -– and all the service academies -– apart. Your days are packed with morning inspections and a full load of classes, football practice, and military duties. And oftentimes, you're lucky if you can get a few minutes to yourselves before studying into the night.
+
+But you do it because each of you has a higher calling -- to serve your country in a time of war. As Ross says, “We are always going to be remembered for what we have done on the football field. That's all well and good. But we want to make a difference outside Bancroft Hall, and outside the Academy walls.” And that I think is the kind of ethic that makes us all so proud.
+
+In a few short weeks, 32 of you will have that chance when you become officers in the United States Navy and Marine Corps. Last year, I was honored to attend the Academy commencement and see firsthand the incredible spirit that drives every Midshipman at Annapolis -- in addition to getting two chest bumps. {LAUGHTER} It's true.
+
+Wherever you go, you'll remember the brothers standing with you today. And you'll remember the lessons that you learned at the Academy and as a member of this team. And you'll know what it takes to go through fire and emerge a better man and a better leader.
+
+So I want you to know that I have no greater honor, and no greater responsibility, than serving as your Commander-in-Chief. And I promise you that this country will stand with you, from the moment you put on the uniform to the moment you take it off, as you devote your lives to freedom's cause.
+
+God bless you. God bless the United States of America. {APPLAUSE} Thank you very much. Coach. 
+
+{/speech}

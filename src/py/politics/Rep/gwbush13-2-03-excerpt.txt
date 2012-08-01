@@ -1,0 +1,40 @@
+﻿{title} Presidential Remarks {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 13, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} This is an excerpt {/description}
+
+{speech} 
+
+Today the gravest danger in the war on terror -- the gravest danger facing America and the world -- is outlaw regimes that seek and possess nuclear, chemical and biological weapons. These regimes could use such weapons for blackmail, terror, mass murder. They could also give or sell those weapons to terrorist allies who would use them without the least bit of hesitation. That's the reality of the world we live in, and that's what we're going to use every ounce of our power to defeat.
+
+We have an obligation to protect America and the Americans. We understand our responsibility, and jointly we'll do just that -- we'll protect America and our friends and allies from these thugs. {APPLAUSE}
+
+The civilized world has awakened to the growing danger posed by the Iraqi regime. Twelve years ago, Saddam Hussein agreed to disarm as a condition of suspending the Gulf War. Three months ago, the United Nations Security Council gave him a final chance to meet that obligation. Saddam Hussein is not disarming, he's deceiving.
+
+America has laid out the facts for the world to see. Saddam Hussein has chemical weapons programs, and the means to use them. Saddam Hussein has a biological weapons program, and the means to deliver those weapons. He has secretly attempted to obtain materials needed to produce nuclear weapons. Saddam Hussein aids and protects terrorists, including members of al Qaeda. He harbors a senior al Qaeda leader who ordered the assassination of an American diplomat -- the same man who plotted against Spain and Italy in the Republic of Georgia, and Russia, and Great Britain, and France, and Germany. The Iraqi regime is engaged in a massive campaign to conceal its weapons of mass destruction, and its ties to terrorists. And that deception continues today.
+
+At any moment during the last 97 days -- and during the last 12 years -- Saddam Hussein could have completely and immediately disarmed himself. Instead, he's used all this time to build and to hide weapons. He must be hoping that by stalling he'll buy himself another 12 years. He's wrong. {APPLAUSE} This country will not accept a serious and mounting threat to our nation, our people, and our friends and allies. {APPLAUSE}
+
+Military force is always this nation's last option. Yet if force becomes necessary to disarm Iraq and enforce the will of the United Nations, if force becomes necessary to secure our country and to keep the peace, America will act deliberately, America will act decisively, and America will act victoriously with the world's greatest military. {APPLAUSE}
+
+America will also be acting with friends and allies. An overwhelming majority of NATO members oppose the threat of Iraq, and understand that tough choices may be necessary to keep the peace. Many nations have offered to provide forces or other support to disarm the Iraqi regime. Every nation of the Gulf Cooperation Council has agreed to help defend and protect Kuwait. And now the world's most important multilateral body faces a decision.
+
+The decision is this for the United Nations: When you say something does it mean anything? You've got to decide, if you lay down a resolution, does it mean anything? The United Nations Security Council can now decide whether or not it has the resolve to enforce it's resolutions.
+
+I'm optimistic that the U.N. Security Council will rise to its responsibilities, and this time ensure enforcement of what it told Saddam Hussein he must do. See, I believe when it's all said and done, free nations will not allow the United Nations to fade into history as an ineffective, irrelevant debating society. {APPLAUSE} I'm optimistic that free nations will show backbone and courage in the face of true threats to peace and freedom.
+
+If there is a conflict, American forces will act in the honorable traditions of our military, and in the highest moral traditions of this country. Our military will be fighting the oppressors of Iraq, not the people of Iraq. {APPLAUSE} America's military fights not to conquer, but to liberate. {APPLAUSE}
+
+In case of conflict, this great nation is already putting plans and supplies into place, so that food and other humanitarian relief will flow quickly to the Iraqi people. You see, we seek more than the defeat of terror; we seek an advance of freedom and a world at peace. {APPLAUSE} That is the charge that history has given us -- and that is a charge we will keep. {APPLAUSE}
+
+In crucial hours, the success of our cause will depend on the men and women of our military. You serve this nation's ideals, and you live out those ideals in your code and in your character. I've seen your love of country, and your devotion to a cause larger than yourself. I've seen your discipline, your idealism, and your sense of honor. I know that every mission you are given will be carried out with skill and unselfish courage.
+
+The first time the USS Enterprise was ever deployed in a crisis was October 1962, when President John F. Kennedy ordered it to quarantine Cuba, which was arming itself with nuclear missiles aimed at our nation. President Kennedy understood that dangers to freedom had to be confronted early and decisively. He said of the Cold War, "These are extraordinary times. We face an extraordinary challenge. Our strength, as well as our convictions have imposed upon this nation the role of leader in freedom's cause."
+
+Today, at the dawn of a new century, America is still the leader in freedom's cause. {APPLAUSE} And our generation is called to a central role in this nation's history. As Americans, we can be confident: The American people are strong and resolute. The American Armed Forces are brave and ready. And in freedom's cause, we will prevail. {APPLAUSE}
+
+May God bless you all. {APPLAUSE} May God bless our family -- your families -- and may God continue to bless the United States of America. {APPLAUSE} 
+
+{/speech}

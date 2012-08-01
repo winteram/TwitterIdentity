@@ -1,0 +1,41 @@
+﻿{title} Remarks by the Vice President to Students of Portland State University {/title}
+{event} ----- {/event}
+{speaker} Al Gore {/speaker}
+{date} June 27, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. {APPLAUSE} What a crowd. Thank you for being a part of it. {APPLAUSE} It goes way back, way up there. And thank you very much for coming. And Congresswoman Elizabeth Furse, what can I say? I love you, too. {LAUGHTER} And that is the first time -- you will not -- you may not have any trouble believing this at all -- that is the first time in my life that I have been introduced to an audience as someone who is funny. {LAUGHTER} Never in my life has anyone included that in my introduction. This is a first, and I hope that somebody made note of that. {LAUGHTER} Anyway, thank you. 
+
+Thank you, too, for your courage and leadership and vision and your life-long commitment to justice and to creating a better life for all of us. We really appreciate you very much. Thank you. {APPLAUSE} 
+
+And to President Judith Ramaley, thank you for the wonderful way in which Portland State hosted this conference today. We can't thank you and your colleagues here enough. It's a great institution, and we appreciate you for being a leader in science education in the urban university movement. Thank you very much. We appreciate everything you do. {APPLAUSE} 
+
+I want to -- on behalf of the President, I also want to thank Secretary of Education Dick Riley, Secretary of Commerce Ron Brown, Secretary of Transportation Frederico Pena who spoke here, and the other representatives from the administration -- Small Business Administrator Phil Lader -- and I don't have my glasses on, so I'm going to miss some people that I can't identify over there -- lots of deputy secretaries and people who are key assistants to the President -- everybody who worked so hard to make this such a success today. 
+
+And to Mayor Vera Katz and Governor John Kitzhaber -- they're not here, but I want to say to both of them how much we all appreciate their leadership and their help in making this possible today. 
+
+And thank you all for being here. {APPLAUSE} We appreciate you. 
+
+We thought it was hot inside at the beginning of the day -- a little bit hot outside today. Maybe when we're done we can grab some refreshment at the Cheerful Tortoise or McMenamins. {APPLAUSE} We took our coats off inside and Governor Kitzhaber, of course, has established a new tradition that we want to take back to Washington if we can figure out a way to get away with it -- to go to work in blue jeans and without a tie. I think -- {APPLAUSE} -- can we figure out a way to do that? {APPLAUSE} We'd call it -- maybe if we called the Oregon initiative it would work. {LAUGHTER ; APPLAUSE} 
+
+Now, if you see anybody dressed up in those very hip white suits, they're not drivers from this past weekend's Indy race, they're the Royal Rosarians still hanging around from the Rose Festival a couple of weeks ago. And we've heard all about that since we've been here. I heard that it was the most exciting thing since the Portland State football coach, Tim Walsh, bungee-jumped off Civic Stadium. {LAUGHTER} I wish I'd been here to see that. I thought dealing with Congress was dangerous. 
+
+We've had a wonderful day. And as Congresswoman Furse said, we have listened and we have learned. We have heard firsthand about the economy of the Pacific Rim region of America. We've had a chance to talk about the administration of President Bill Clinton and his vision for the future. And we've tried to outline what we think it can mean to the people of Oregon, Washington, California, Alaska and Hawaii. And we've heard an awful lot in return about what we can do to move even faster toward the kind of future that we want in our country. 
+
+We wanted to have that conversation about where America is going and what needs to be done. And one thing we heard over and over again was the need for partnership -- the kind of partnership that Portland has formed with the federal government because of the Oregon initiative, a part of our reinventing government program on the federal side of that partnership and a part of the ongoing spirit of innovation in Portland and in Oregon on your side of it. 
+
+That partnership is also reflected in the AmeriCorps volunteers who are here today. {APPLAUSE} The EnviroCorps is here. {APPLAUSE} So is the Police Activities League. {APPLAUSE} There you go. Self Enhancement Incorporated. {APPLAUSE} Campfire. {APPLAUSE} These and other groups are doing a terrific job of helping out at-risk youths. And the Boy Scouts and Girl Scouts and Boys and Girls Clubs of America. {APPLAUSE} The YMCA and the YWCA, they're here, too. {APPLAUSE} And, of course, all of the students and faculty from Portland State. {APPLAUSE} We appreciate you, including the Mensa students working hard for good grades. 
+
+And Portland State takes a lot of pride in being an urban university. And I think the motto is very appropriate, "Let knowledge serve the city," because this city and this school are linked, and it's refreshing and inspiring to see them develop in a way that serves the needs of both. 
+
+Now, in closing, before presenting the President, let me mention just one other group, a group that encompasses all of you, citizens of our country. The idea of self-government has been under attack from some quarters in America. But not here, because the citizens of Oregon and Washington and California and all of the Pacific Rim states and our country are proud of what the United States of America stands for. And those who live here in Portland are, perhaps, especially proud. 
+
+When this city was founded 150 years ago, there was a big debate, I understand, about what to name it. One person who bought his share of the land was from Maine and preferred Portland. Asa Lovejoy was from Massachusetts and preferred Boston. So they flipped a copper coin to determine the outcome. But the challenges that we dealt with all day long today cannot be determined by flipping a coin. They require partnership and hard work and commitment and citizenship. 
+
+And, ladies and gentlemen, they require one other indispensable element -- the element that has brought us together; that has helped us create in the last two and a half years, 6.7 million new jobs, the lowest inflation rate in 30 years, a 20-percent decline in the unemployment rate, budget deficit cuts for three years in a row for the first time since Harry Truman was President, a downsizing of the government by more than ever in history, and a booming economy. Ladies and gentlemen, that element is leadership from the President of the United States of America, Bill Clinton. {APPLAUSE} 
+
+{/speech} 

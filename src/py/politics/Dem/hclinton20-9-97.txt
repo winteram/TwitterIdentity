@@ -1,0 +1,28 @@
+﻿{title} Opening and Closing Remarks by the President in Roundtable Discussion on Charter Schools {/title}
+{event} San Carlos Charter Learning Center, San Carlos, California {/event}
+{speaker} Hillary Rodham Clinton {/speaker}
+{date} September 20, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, I want to thank all of you for sharing your experiences and success stories about charter schools. And I think that there are just a couple of general points that I would make. First, what the Congresswoman just said is critical, when she talked about test kitchens, because my husband I have said together and often that there is a good public school in every community in America, but the problem is they don't learn from each other and they don't get to scale in the sense that we know what works, but for too many years we have not been motivated sufficiently to do what worked in every school.
+
+And so we are now seeing, with the charter school movement, an effort to do just that -- to take these, in some ways, old-fashioned ideas that are now married to technology and very much motivated to be successful by the demands of the new economy, and put them into action in schools across the country.
+
+When we talk about parental involvement, that is a very old-fashioned idea that we have had to relearn. When we talk about empowering teachers to design curriculum, that, too, is something we know will work if we unleash the creative energies of teachers. When we talk about giving students a chance to explore and learn and develop their own capacities, that's what many of us try to do with our own children, but which we deny to other children because of the bureaucratic structures and expectations of the old system.
+
+So there are many aspects of what we heard today which would be very familiar in any setting 30 or 40 or 50 years ago in many parts of America, but which we somehow lost track of as we got bigger and bigger and schools became impersonal and anonymous, and really we lost our way in the very important connections that have to be made between homes and schools, students and teachers, and the understanding of how community has to support that magic.
+
+Secondly, I think that the charter school movement should not be seen as a threat to public schools. It should be seen as a liberation of public schools, and particularly teachers and administrators who for many years have known what should be done, but have felt unable to do so. {APPLAUSE} And there is certainly nothing hidden about the President's agenda on this. He wants every school, whether it is formally called a charter school, or not, to act like a charter school.
+
+And that is our real objective in the charter school movement -- not only to create thousands more charter schools, but to take the lessons from the charter school movement and literally infect every public school in America, so that parents are standing at the door of principals' offices, so that teachers will not feel so oppressed in their classrooms, but will join together to demand from administrators and school boards what they know their children need, and for businesses, which have in many ways the greatest stake in the future of our public school system, to be constantly be prodding for academic excellence as in may communities they now prod for athletic excellence.
+
+So the charter school movement is really a rallying cry that we hope will not only create more charter schools like the ones we have heard about today, but encourage and give courage to public school patrons, teachers, and students around the country to say, well, you know, if Jose could find a home in a new charter school in San Francisco, why can't all the Joses in our public schools feel similarly welcomed and supported? And if Gregg can go into competition with Oracle in the 6th grade, why can't all the Greggs in America feel similarly encouraged to pursue their own intellectual excitement?
+
+So we're very much appreciative of what all of you on the front lines are doing from San Francisco to South Central, LA, to San Diego, to right here in this community. And we really do appreciate the zeal with which you have expressed your excitement about this, because we do want it to infect and to be contagious so that, as Yvonne said when I saw firsthand visiting her school, every child will feel that that child is special and valued and appreciated. And that's really what we're hoping to achieve with this kind of effort.
+
+So thank you for doing what needs to be done in American public education. {APPLAUSE} 
+
+{/speech}

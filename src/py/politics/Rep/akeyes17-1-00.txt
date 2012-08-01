@@ -1,0 +1,25 @@
+﻿{title} Speech at the Martin Luther King Center {/title}
+{event} ----- {/event}
+{speaker} Alan Keyes {/speaker}
+{date} January 17, 2000 {/date}
+{source} http://www.renewamerica.us {/source}
+{description} Comments by Alan Keyes at the 25th Anniversary Celebration of the Rock Island, Illinois (Quad Cities) Martin Luther King, Jr. Center {/description}
+
+
+{speech} 
+
+I just want to say how moving it has been for me to be here today. Because I think that what the center represents, is in fact, the pure incarnation of the spirit and hope of Dr. King. {AUDIENCE} Amen. {/AUDIENCE} The spirit of hope that represented not just a claim of justice for one group. He wasn't about justice for us. He was about justice for all. {AUDIENCE} Amen. {/AUDIENCE}
+
+And he always said, repeatedly in his speeches, he was always pointing out to folks that it does us no good in this world if we go out and we tell everybody, and we campaign, and we fight against this, and against that, and against the other thing. He made it clear that justice is not opposition to injustice, it is the positive content of love and faith and truth that we bring to bear in the world. {APPLAUSE}
+
+I believe that there is no greater proof of that than what we do to pass on, from one generation to the next, both the memory of the tragedy and the triumph of the hope that a people can represent--and what I believe especially Black Americans represent to this country.
+
+I'm always put in mind of the Biblical phrase about the stone that the builders rejected, and it becomes the foundation stone. And in many ways the saga of Black America is precisely that, the saga of a people who are put aside, disregarded in the Constitution, oppressed and enslaved, left out of the great hope that this country was supposed to represent--but who managed to produce a statesman who spoke to the heart of America's conscience and the truth of American ideals better than anyone who has ever lived in this nation. {APPLAUSE}
+
+And I believe that we, all of us together here, as Americans have a special mission as a result of his words and his example. A mission to carry forward that truth, and to do it on the basis that he understood, that justice in the end is not just about what we do or don't do. Justice is about love. Love understood not as a feeling, but as a commitment to do what is right. Love understood as having at its heart a faith, not just in ourselves, but in our Almighty God, and in His truth, and in His mercy, and in His will. {AUDIENCE} Amen. {/AUDIENCE}
+
+Today, more than perhaps at any time in our history, I think this nation needs to be called back to that understanding of justice, which is love, and that heart of love, which is our faith in God. I believe that that message will come most especially from the heart, and from the spirit, and from the eloquence of the people in this country who understand it perhaps better than any other. As you will bring it from the heart of our experience, once again to the heart of the American people.
+
+God bless you.
+
+{/speech} 

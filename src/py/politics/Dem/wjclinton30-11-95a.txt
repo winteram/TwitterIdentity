@@ -1,0 +1,42 @@
+﻿{title} Remarks by the President and the First Lady at the Lighting of the City Christmas Tree {/title}
+{event} Belfast City Hall, Belfast, Northern Ireland {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 30, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. {APPLAUSE} To the Lord Mayor and Lady Mayoress, let me begin by saying to all of you, Hillary and I thank you from the bottom of our hearts for making us feel so very, very welcome in Belfast and Northern Ireland. {APPLAUSE} We thank you, Lord Mayor, for your cooperation and your help in making this trip so successful, and we trust that, for all of you, we haven't inconvenienced you too much. But this has been a wonderful way for us to begin the Christmas holidays. {APPLAUSE}
+
+Let me also say I understood just what an honor it was to be able to turn on this Christmas tree when I realized the competition. {LAUGHTER} Now, to become President of the United States you have to undertake some considerable competition. But I have never confronted challengers with the name recognition, the understanding of the media and the ability in the martial arts of the Mighty Morphin Power Rangers. {APPLAUSE}
+
+To all of you whose support enabled me to join you tonight and turn the Christmas tree on, I give you my heartfelt thanks. {APPLAUSE} I know here in Belfast you've been lighting the Christmas tree for more than 20 years. But this year must be especially joyous to you, for you are entering your second Christmas of peace. {APPLAUSE}
+
+As I look down these beautiful streets, I think how wonderful it will be for people to do their holiday shopping without worry of searches or bombs; to visit loved ones on the other side of the border without the burden of checkpoints or roadblocks; to enjoy these magnificent Christmas lights without any fear of violence. Peace has brought real change to your lives.
+
+Across the ocean, the American people are rejoicing with you. We are joined to you by strong ties of community and commerce and culture. Over the years men and women of both traditions have flourished in our country and helped America to flourish.
+
+And today, of course, we are forging new and special bonds. Belfast's sister city in the United States, Nashville, Tennessee, was proud to send this Christmas tree to friends across the Atlantic. I want to thank the most prominent present resident of Nashville, Tennessee, Vice President Al Gore, the Mayor, Phil Bredesen, and the United States Air Force for getting this big tree all the way across the Atlantic to be here with you tonight. {APPLAUSE}
+
+In this 50th anniversary year of the end of World War II, many Americans still remember the warmth the people of Northern Ireland showed them when the army was stationed here under General Eisenhower. The people of Belfast named General Eisenhower an honorary burgess of the city. He viewed that honor, and I quote, "as a token of our common purpose to work together for a better world." That mission endures today. We remain Americans and as people of Northern Ireland, partners for security, partners for prosperity and, most important, partners for peace. {APPLAUSE}
+
+Two years ago, at this very spot, tens of thousands of you took part in a day for peace, as a response to some of the worst violence Northern Ireland had known in recent years. The two morning papers, representing both traditions, sponsored a telephone poll for peace that generated almost 160,000 calls. In the United States, for my fellow Americans who are here, that would be the equivalent of 25 million calls.
+
+The response left no doubt that all across Northern Ireland the desire for peace was becoming a demand. I am honored to announce today that those same two newspapers, the Newsletter and the Irish News, have established the President's Prize, an annual award to those at the grass-roots level who have contributed most to peace and reconciliation. The honorees will travel to the United States to exchange experiences on the issues we share, including community relations and conflict resolution. We have a lot to learn from on another. The President's Prize will underscore that Northern Ireland's two traditions have a common interest in peace.
+
+As you know -- and as the First Lady said -- I have received thousands of letters from school children all over your remarkable land telling me what peace means to them. They poured in from villages and cities, from Catholic and Protestant communities, from mixed schools, primary schools, from schools for children with special needs. All the letters in their own way were truly wonderful for their honesty, their simple wisdom and their passion. Many of the children showed tremendous pride in their homeland, in its beauty and its true nature. I congratulate the winners. They were wonderful and I loved hearing their letters.
+
+But let me tell you about another couple I received. Eleven-year-old Keith from Carrickfergus wrote: "Please tell everyone in America that we're not always fighting here, and that it's only a small number of people who make the trouble." Like many of the children, Keith did not identify himself as Protestant or Catholic, and did not distinguish between the sources of the violence.
+
+So many children told me of loved ones they have lost, of lives disrupted and opportunities forsaken and families forced to move. Yet, they showed remarkable courage and strength and a commitment to overcome the past. As 14-year-old Sharon of County Armagh wrote: "Both sides have been hurt. Both sides must forgive."
+
+Despite the extraordinary hardships so many of these children have faced, their letters were full of hope and love and humor. To all of you who took the time to write me, you've brightened my holiday season with your words of faith and courage, and I thank you. To all of you who asked me to do what I could to help peace take root, I pledge you America's support. We will stand with you as you take risks for peace. {APPLAUSE}
+
+And to all of you who have not lost your sense of humor, I say thank you. I got a letter from 13-year-old Ryan from Belfast. Now, Ryan, if you're out in the crowd tonight, here's the answer to your question. No, as far as I know, an alien spacecraft did not crash in Roswell, New Mexico, in 1947. {LAUGHTER} And, Ryan, if the United States Air Force did recover alien bodies, they didn't tell me about it, either, and I want to know. {APPLAUSE}
+
+Ladies and gentlemen, this day that Hillary and I have had here in Belfast and in Derry and Londonderry County will long be with us -- {APPLAUSE} -- as one of the most remarkable days of our lives. I leave you with these thoughts. May the Christmas spirit of peace and goodwill flourish and grow in you. May you remember the words of the Lord Mayor: "This is Christmas. We celebrate the world in a new way because of the birth of Emmanuel; God with us." And when God was with us, he said no words more important than these: "Blessed are the peacemakers, for they shall inherit the Earth." {APPLAUSE}
+
+Merry Christmas, and God bless you all. {APPLAUSE} 
+
+{/speech}

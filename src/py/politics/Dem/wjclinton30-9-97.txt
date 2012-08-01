@@ -1,0 +1,44 @@
+﻿{title} Remarks by the President and General John Shalikashvili in Farewell Ceremony {/title}
+{event} Fort Myer, Virginia {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 30, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. Vice President, Secretary Cohen, Secretary Albright, Secretary Gober, National Security Advisor Burger, Director Tenet, General McCaffrey; to the Service Secretaries, the Joint Chiefs, the Unified Commanders-In-Chief, members of Congress, members of our Armed Forces; to all the friends of General Shalikashvili who are here today, including former Secretary Perry, former Chairmen and members of the Joint Chiefs, former officials of the Department of Defense: We all come together in grateful tribute to John and Joan Shalikashvili.
+
+This is, frankly, a bittersweet day for me. I am full of pride, but also some regret. For the last four years, I have counted on Shali for his wisdom, his counsel, his leadership. He has become an exceptional advisor and a good friend; someone I knew I could always depend upon when the lives of our troops or the interests of America were on the line. And I will miss him very much.
+
+General Shali is a great American with a great American story. A childhood seared by war, he has given his life to the cause of peace. From an immigrant learning English, he has become the shining symbol of what America is all about. He's never forgotten what his country gave him, nor has he ever stopped giving back to it. His service to our nation, spanning 39 years, rises from the ranks of Army private to the highest military office in the land.
+
+Of course, the road even for him has not always been smooth. I am told that after a grueling first day at Officer Candidate School, Private John Shali sneaked out of his barracks looking for a place to resign. Our nation can be very grateful that, probably for the only time in his entire career, he failed in his mission.
+
+I am convinced that when future students look upon this time, they will rank John Shalikashvili as among the greatest Chairmen of the Joint Chiefs of Staff America ever had.
+
+Greatness is something that cannot be bestowed like a medal, a ribbon, a star. It cannot be taught or bought. It comes in the end only from within. General Shali has said that the three indispensable traits of a great leader are competence, care and character. He ought to know; he embodies them.
+
+His competence shines in the sterling record of innovation and achievement, managing the downsizing of our forces while upgrading their capability and readiness; upholding the most rigorous standards for the use of those forces in the world, where threats to our survival have faded, but threats to our interests and values have not; dramatically improving joint doctrine and training and taking joint planning far into the future for the very first time; and of course, helping bring Europe together at least in liberty, democracy and peace.
+
+One of the proudest moments of my presidency was standing with Shali in Warsaw as we celebrated NATO's enlargement and welcomed the people of his original homeland back home to the family of freedom.
+
+And if the baseline measure of a Chairman's competence is successful military operations, Shali has filled a resume that would turn others olive drab with envy. In the last four years, our troops have been tested in more than 40 operations. From Bosnia to Haiti, the Taiwan Straits, Iraq, Rwanda, Liberia and more, our Armed Forces have performed superbly with Shali at the helm. Our troops trust him because they know how much he cares for them. They have seen that caring in his constant contact with our servicemen and women, in the way he warms their hearts with his pride in them, in the humility, the honesty, the graciousness, the respect he always shows to others, in the wonderful way he listens, even to bearers of bad news.
+
+Our troops know that he never expects their gratitude or applause, but he does want to sharpen their capabilities, improve their welfare and lift their morale, and, in his most important duty, to make sure that whenever they go into danger, the planning is superb, the risks are minimized, and every reasonable measure is taken to ensure their success and safe return.
+
+For Shali, caring transcends our obligations even to one another. He believes in America's unique ability to help others around the world -- sheltering freedom, defending democracy, relieving fear and despair. He knows that what sets our troops apart is not just their courage, strength, and skills, but also the ideals they serve, the hope they inspire, the spirit they represent.
+
+As some may recall, during the crisis in Haiti, Shali visited with refugees in the camps, observing and listening with quiet understanding -- the quiet understanding of one who had also been in that position. And he ordered improvements to make those camps as comfortable as possible, to alleviate boredom and brighten hopes and bring toys to children at Christmas. That story also revealed something about his character -- a clear sense of what is right and wrong, a man whose conscience is always his guide.
+
+I'll miss a lot of things about Shali, but perhaps most of all I'll miss the integrity he always displayed in being my closest military advisor. In every conversation we ever had, he never minced words, he never postured or pulled punches, he never shied away from tough issues or tough calls, and most important, he never shied away from doing what he believed was the right thing. On more than one occasion -- many more than one occasion -- he looked at me and I could see the pain in his eyes that he couldn't tell me what I wanted to hear and what he wished he could say, but with a clear and firm voice and a direct, piercing gaze, he always told me exactly what he thought the truth was. No President could ever ask for more.
+
+Shali has had the support of a proud and dedicated family: his son Brant, his brother, himself a distinguished Green Beret veteran, his sister, and, of course, there are his dogs. I understand they are the only living creatures who have never obeyed his orders. {LAUGHTER}
+
+And most importantly, there is Joan. Joan, you have been a terrific support for our men and women in uniform. They know you are always looking out for them and their families. From around the corner to around the world, you were the Chairman's personal inspector general when it came to how family are cared for. No one had more commitment, a better eye, or a bigger heart. And we thank you.
+
+General, very soon now you and Joan will be settling into your new home in Washington State. You can tuck your uniform into a drawer. You can carry an umbrella. {LAUGHTER} You can even grow a beard. Maybe you'll actually even open that hardware store you have been talking about. I don't know if you know the first thing about power tools and mixing paint, but the brand you have to offer is the top of the line.
+
+Our nation is safer, our Armed Forces are stronger, and our world is a better place because of your service. Thank you for all you have done. God bless you and Godspeed. {APPLAUSE}
+
+{/speech}

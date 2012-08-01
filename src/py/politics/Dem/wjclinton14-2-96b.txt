@@ -1,0 +1,22 @@
+﻿{title} Remarks by the President to the People of Woodland {/title}
+{event} Residential Neighborhood, Woodland, Washington {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 14, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{COMMENT="In progress"} -- the Director of FEMA, and my Chief of Staff, Mr. Panetta and I came in this morning to -- and we flew over the flooded area, and we've been walking down the streets talking with some of the folks.
+
+I was on the other side of the street where the houses were built higher, and they now have lakefront property, I see. That's what the Gleasons told me and, of course, I was with Doug and DeLois Jungnickel down there in their home and I saw how much they've lost.
+
+Let me say to all of you, I know there's nothing that anyone, including the President, can say that will make these losses go away. I can tell you that in my life, in my former life when I was a governor, I have been in whole communities that were wiped out by floods, I've been in whole communities that were torn apart by tornadoes, and I have been very impressed with what the people here have done, the way you've rallied together, the way you've worked to help save as much as you could -- the work the Corps of Engineers has done to try to get the water down as much as possible as quickly as possible. And I want to begin just by thanking all of you who worked hard to minimize the damage of this flood.
+
+When I leave here, we're going to kind of a roundtable discussion, and we'll talk about what the federal government can do to try to help you rebuild. The only thing I can do to you is to pledge to you that I will do everything I can to see that we move as quickly as possible to do as much as we can, everything we're allowed to do within the law, to help you rebuild and to go on with your lives.
+
+I can see just from talking to the Mayor -- he told me he had lived here all of his life -- that this is a wonderful community with good, strong families and good, strong values, and I loved seeing the children at the school today. We will do what we can to help you put it back together and get going in the right direction just as quickly as we can and, meanwhile, I hope you will keep your spirits up. This will pass and it will get better, and we'll do everything we can do help.
+
+God bless you and thank you. {APPLAUSE} 
+
+{/speech}

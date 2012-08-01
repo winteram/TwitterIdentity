@@ -1,0 +1,48 @@
+﻿{title} President Lauds Supreme Court School Choice Decision {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} July 1, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} Excerpt from July 1, 2002 speech in Cleveland {/description}
+
+{speech} 
+
+We must work to make the American Dream reach into every single neighborhood all across America. {APPLAUSE}
+
+I believe that starts with making sure everybody gets a good education. {APPLAUSE} Rod talked about the "no child left behind" legislation. Let me tell you what I think the bill says. I believe it says that our society must believe every child can learn, and that means we've set high standards. If you set low standards, guess what's going to happen? If you have low expectations, you know what's going to happen? We'll just give up on kids -- see?
+
+It's so much harder to, by the way, educate inner-city -- some inner-city children. It's easy to walk into a classroom full of inner-city African Americans, for example, and say, you can't learn, we'll move you through.
+
+Or how about classrooms full of children whose parents don't speak English as a first language -- it's easy to quit on those kids. Heck, it's hard to educate a child whose parents don't speak English; why don't we just shuffle them through the system. That means you have low hopes, low standards, low expectations. We start with a different premise: Every child can learn, regardless of their circumstances. And we expect every single child to learn in America. {APPLAUSE}
+
+We said, yes, there's a role for funding, and we increased funding for Title I programs here in Cleveland by 23 percent. And that's good and that's important. We want to help the disadvantaged through funding. But Washington shouldn't be telling Cleveland how to run its school system. See, that's up to you all to figure out how to run your school system. {APPLAUSE}
+
+But we've instituted a new reform, and it's an important reform. It says, if you do receive the money, if you decide to take federal money, show us whether or not the children are learning, see. Show us whether or not expectations are being met. {APPLAUSE}
+
+I've heard it all -- we can't test, we test too much. We test too much. We shouldn't test children whether they can read. See, all you do is teach to test. Listen, if you can teach a child to read, they can pass a test. You teach them to read, don't worry about the tests. {APPLAUSE}
+
+We need to know in America whether or not our children can read and write and add and subtract. That's what an accountability system is for. Not only do we need to know, but more importantly, the parents need to know whether or not the children can read and write and add and subtract. {APPLAUSE}
+
+And if we find they can't, something else has to happen. We cannot allow our children to be trapped in schools that won't teach and won't change. {APPLAUSE}
+
+Starting this September, as many as 3.5 million students across America who attend failing schools will have different options, of transferring to another public school. It's part of being an accountable society. It's part of strengthening public education.
+
+Listen, I think public education is one of the most important parts of democracy. In order to make sure the American Dream reaches every neighborhood, we've got to have good public schools all across America. We must. {APPLAUSE}
+
+So we've got to strengthen the public education system, by encouraging different opportunities if there's failure.
+
+Low income students, as a result of the new bill, in chronically failing schools will now have access to after-school tutoring. The money follows the child and the parent can decide who provides the after-school tutoring. {APPLAUSE}
+
+There is not a single avenue to success. In order to achieve educational excellence for every child there's got to be a multiplicity of approaches. That's why I believe so strongly in local control of schools. The people of Cleveland and the state of Ohio decided that one of the approaches they wanted to take was to encourage a voucher system to be implemented. That was a local decision.
+
+And the Supreme Court of the United States gave a great victory to parents and students throughout the nation by upholding the decisions made by local folks here in the city of Cleveland, Ohio. {APPLAUSE}
+
+It is a constructive approach to improving public education. We're interested in aiming toward excellence for every child. And the voucher system is a part of the strategy to achieve that here in Cleveland. One of my jobs is to make sure that we continue to insist upon reform, to take this court decision and encourage others to make the same decision at the local level.
+
+One way to do so is through tax credits, which is now in my budget. I urge Congress, when we debate how to improve public education, to pass the tax credit so parents will have more flexibility and more choices when it comes to the education of their children, particularly K through 12. {APPLAUSE}
+
+I also -- the Supreme Court in 1954 declared that our nation cannot have two education systems. And that was the right decision. Can't have two systems, one for African Americans and one for whites. Last week, what's notable and important is that the Court declared that our nation will not accept one education system for those who can afford to send their children to a school of their choice and for those who can't. And that's just as historic. {APPLAUSE}
+
+I think by continuing to focus on high standards and results and local control of schools, we can all work together to make sure no child is left behind. 
+
+{/speech}

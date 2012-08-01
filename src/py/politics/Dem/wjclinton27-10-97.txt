@@ -1,0 +1,27 @@
+﻿{title} Remarks by the President to the Men and Women NCAA Basketball Champions {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} October 27, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much, ladies and gentlemen. You see my voice is a little weak. You'll be happy, I'll be a shorter speech. 
+
+But we're celebrating two other athletic events here today. I think I would be remiss if I did not congratulate the Florida Marlins and the Cleveland Indians on a magnificent World Series, and the Vice President on finishing his first marathon yesterday. {APPLAUSE} 
+
+I'd also like to welcome the Lady Vols back. It's tough to win those back-to-back championships. Al Gore and I know something about that. {LAUGHTER} And there are many benefits about having Pat Summit come back here year in and year out. I'm getting to watch her son grow up -- {LAUGHTER} -- and I enjoy it very much. 
+
+I want to say a special word of appreciation since the Vice President got to talk about his native team -- you know, a lot of you know that I am a fanatic basketball fan, and I got hurt last year right before the tournament. The only good thing about my agonizing injury incurred under humiliating circumstances -- I fell six inches and tore my leg off -- {LAUGHTER} -- was that I got to see every game in the tournament that was on any channel on television. And I must say I was astonished by the performance of the Arizona Wildcats. They were young, they were energetic, they never quit. And I think that it will be a long time before we see another team so young, so full of energy, so full of depth, beat three number one seeds, which had never happened before, and produce the kind of record they did in that tournament. 
+
+I want to congratulate Miles Simon, who was named the MVP of the tournament; Michael Dickerson, a First Team All Pac 10; Michael Bibby, who was the All Tournament Team and the Pac 10 Freshman of the Year -- he didn't look like a freshman on the court, I must say. And Coach Olson, I want to congratulate you on taking a team to the tournament I think every year since 1985, which is a truly astonishing record. 
+
+I think that I would be remiss if I did not also say that there are many of us in the United States who love basketball, who also want basketball to be a good experience for the basketball players, and who want them to become fine citizens -- fine young men and fine young women. We talked about Pat Summit's students all getting their degrees. I think everybody who knows anything about Lute Olson admires him as a person, as well as a basketball coach, and admires the qualities that he represents and tries to impart to his players. So, in spite of all the championships, I think that's the most important thing of all, and we thank you for that, as well. {APPLAUSE} 
+
+Now I'd like to get on with having the two coaches, in clear and strong voice, and their players presented to all of you. So I'd like to invite Coach Summit and Coach Olson to come up and share a few words. 
+
+
+
+{/speech} 

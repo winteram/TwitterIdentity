@@ -1,0 +1,35 @@
+﻿{title} Remarks by the president at martin luther king, jr. holiday service event {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 17, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Good morning. First of all, I want to take my notes out, because the older I get the worse my memory is. {LAUGHTER} I want to begin by thanking Alex and all the people of D.C. Cares -- the Executive Director, Susan Linsky; and all the others who are here with D.C. Cares. I want to thank the Washington CEO of the Boys and Girls Clubs, Pat Shannon. Thank you. {APPLAUSE} And I want to say Charles Mann, it's good to see you. Wish you had been on the field. {APPLAUSE} Next year. We'll get it next year. 
+
+Let me also say how honored I am to be here with your Mayor and your Representative in Congress. The Mayor used to be a member of our administration, actually -- a lot of people don't know that. I always think that's why he's such a successful mayor, he got good preparation. {LAUGHTER} And everything he said about Eleanor Holmes Norton is absolutely true. When she asks you for something, there is only one question -- are you going to do it now, or are you going to do it later. {LAUGHTER} Because, in the end, she always gets what she wants. She's been a brilliant representative. 
+
+When Hillary and I moved here to Washington, we wanted to be good citizens of the District of Columbia. Some of you may remember, one of the first things I did after I moved to Washington was to go to Georgia Avenue, and walk up and down it, talk to business people there. And ever since then, we've tried to be involved in the life of the city. And it's a source of immense pride to me to see the success that Washington is having, and to have had the opportunity to work with so many of your local officials. 
+
+I see also my good friend, Charlene Drew Jarvis back there -- welcome. And Sharon Ambrose, who is the Council person for this ward, I think is here. Thank you very much. Where are you? There you go. {APPLAUSE} 
+
+So this is, to me, a source of immense pride to see D.C. really coming back and doing well. But it won't happen, we cannot realize the full potential of this city without Greater D.C. Cares, without other volunteers, without people -- companies like AT&amp;T doing their part to help everybody become what they ought to be, and to make all these neighborhoods come alive again. 
+
+And let me also say a special word of appreciation to the head of our national service program, who has already been mentioned several times, Senator Harris Wofford. It was actually Harris Wofford and another good friend of Martin Luther King, Congressman John Lewis, who had the idea for making the King holiday a day on, not a day off. And AmeriCorps volunteers -- when we started -- I signed this bill six years ago to make the King holiday a national holiday and a day of service. And I think we had 10,000 volunteers that day. Now we have hundreds of thousands of volunteers, all across America, doing things like what we did today, thanks in no small measure to you, sir. And we thank you very much for your leadership. {APPLAUSE} 
+
+And now I just want to do one other thing. I want to acknowledge the young people who worked with me today -- we were in there staining the bookcases in the computer room -- because they made sure I didn't mess up too bad. {LAUGHTER} So, thank you, Dietrich, Marcus, Dedra, Artille, and Shawnese. Thank you. Raise your hands, all that people who worked with me. {APPLAUSE} Thank you all very much. They're here somewhere. There they are, back there. {APPLAUSE} 
+
+I just want to say one final thing that I hope will go across America today. You look at all these young people here, with your tee-shirts on, doing good things -- Dr. King once gave a sermon at the National Cathedral here in Washington in which he said, we are all caught up in -- and he had a wonderful phrase -- he said, in an inescapable web of mutuality, which is an elegant way of saying that I can never be fully what I want to be unless you have a chance to be fully what you want to be. And you can never be fully what you want to be unless I have a chance to be what I want to be; that we are in this together, that we are members of the community of this city, the community of this nation, and the community of humanity. 
+
+And, frankly, we all know that in the last 30-plus years since Martin Luther King left this Earth, we have forgotten that too much. And I have done my best to remind the American people of the truth of that at every single opportunity for seven years, now. And it is a source of immense pride and joy to me every time I see people reaching across the lines that divide them to do things that lift us all up. This holiday embodies that. All these children embody that. 
+
+In my lifetime, and perhaps in the lifetime of our country, we have never, ever, ever before had at the same time so much economic prosperity and social progress, with the absence of internal crisis or external threat. And that means that we have an enormous obligation, those of us who are grown now, to make the most of this magic moment; to bring to all the people, the neighborhoods and the children who haven't been a part of this economic prosperity, a chance to live their dreams, too. To bring to bear -- yes, you can clap for that. That's all right. {APPLAUSE} 
+
+To bring to bear our best efforts to meet the long-term challenges of this country, and not to forget that more than a billion people in this old world of ours still live on less than a dollar a day; and that there are people, not only at home, but around the world, that the United States ought to be lifting up. And if you believe Martin Luther King was right, every time we give a child in America a chance, every time we give a child in Africa, Latin America or Asia a chance, all the rest of us are better off, too. Every time you give a little you always get more back. 
+
+Let's remember that as Dr. King's enduring legacy. Thank you, and God bless you. {APPLAUSE} 
+
+{/speech} 

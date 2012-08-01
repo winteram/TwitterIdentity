@@ -1,0 +1,46 @@
+﻿{title} Remarks by the President in Announcement of Walter Mondale as Ambassador to Japan {/title}
+{event} Nomination of Mondale {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 11, 1993 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning. Please be seated. I want to thank all of you for coming here today for the announcement of my nomination of Walter Mondale to be our next Ambassador to Japan.
+
+Former Vice President Mondale will succeed Ambassador Michael Armacost, whose service was very valuable. And I want to thank him for it and acknowledge that here today.
+
+This nomination has produced a lot of happiness, not only for me and for our administration, but for the people of state of Minnesota and the people of the United States, who have admired Walter Mondale for a very long time.
+
+Fritz Mondale is not only someone I consider a friend, but also someone that I and millions of Americans consider a leader of enormous wisdom, courage, compassion and stature. Like his mentor, Hubert Humphrey, Fritz Mondale is a hero to the people of Minnesota, because he embodies the virtues of the midwest; because he fought so boldly for those things in the United States Senate; and because he never lost the basic values of his childhood and his adulthood after he became a leader on the national and world stage.
+
+We have a lot in common -- we both began our careers as state attorneys general in our home states at a relatively young age. And just as I am the first President from Hope, I am reliably informed that I can assert today that Fritz Mondale is our nation's first Ambassador to Japan from Elmore. {APPLAUSE}
+
+Fritz Mondale has devoted his entire life to serving our nation and to building bonds of understanding around the world. He has served our country in the military as a state attorney general, as an outstanding senator, and, of course, as Vice President and our party's nominee for President. In all these public roles, as well as in the experience he has gained in the private sector since, he has earned the right to be considered extraordinarily well qualified to assume the task of enhancing our relationship with Japan and projecting American leadership in Asia and the Pacific region.
+
+I also want to say a special word of acknowledgement and appreciation to Joan Mondale, who is here with us today and who I believe will also be an outstanding ambassador for the United States in Japan. {APPLAUSE} Thank you very much. {APPLAUSE}
+
+Fritz Mondale is no stranger to Japan and her people. He has traveled there often, both in public and private roles. It is moving to recall that as Vice President, Fritz Mondale swore in another ambasasdor to Japan who came from the United States Senate and who also served with tremendous distinction, Ambassador Mike Mansfield. {APPLAUSE} And who is here today. And who, I might add, at his young age, is probably one of the few people in this audience today who has already walked five or six miles. {LAUGHTER}
+
+I chose someone of -- {LAUGHTER} -- what did he say? Six, he said.
+
+Six, he said. {LAUGHTER} We never were able to short him.
+
+I chose someone of Fritz Mondale's stature to be my Ambassador to Japan because there is no more important bilateral relationship in the world than that which exists between the United States and Japan. This alliance has supported 50 years of peace and stability in Asia and the Pacific. And the course of economic, political, and security dynamics in the Pacific and throughout Asia will be determined by how well our relationship functions.
+
+The challenges and changes facing both Japan and the United States as we move toward the 21st century require us to take a fresh look at our relationships and to take new actions to strengthen the foundations of our alliance.
+
+When Prime Minister Miyazawa and I met here at the White House in April. We agreed to forge a new partnership between our nations aimed at restoring world economic growth, advancing democratic values, and creating the basis for regional peace which can endure well into the next century.
+
+To fulfill our shared vision of a new Japan-U.S. partnership, we must sustain our security commitment, work on global problems, and address forthrightly and urgently our often troubled economic relationship. The economic pillar of our relationship needs some repair, and I think we all know that. And Prime Minister Miyazawa and I agreed to give it our personal attention.
+
+It is particularly appropriate that this announcement occurs today, for today we are beginning negotiations with the Japanese to craft the details of an economic framework intended to spur global growth, open markets, and deal with trade and investment issues affecting America's economy and America's workers.
+
+This framework, which the Prime Minister and I hope to unveil at our meeting in Tokyo, will get our economic problems out of the headlines and onto the negotiating table where we can best resolve them.
+
+I will look to Fritz Mondale, statesman, negotiator, counselor, and representative of our people, to make the bonds that already exist between our two nations even stronger. Fritz Mondale's skills give me great hope and confidence that my goals with Japan can be achieved in a way that benefits both of our nations and the prospects for worldwide democracy, peace and global growth.
+
+I don't think our nation could ask for a more capable representative abroad, and I appreciate the willingness of Fritz Mondale and Joan to accept this challenging assignment. I wish them well, and I know that the people of America, and I believe the people of Japan, are very happy today about this development. Mr. Mondale. {APPLAUSE} 
+
+{/speech}

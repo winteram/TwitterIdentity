@@ -1,0 +1,43 @@
+﻿{title} Remarks by the President in Submission of Faith-Based Services Proposal {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 30, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you, Tom, very much for having us. And it's such an honor to have John Dilulio on my staff. For those of you who don't know John, he's a pioneer in working with Republicans and Democrats and people who really care about political parties to revitalize neighborhoods and places where hope may have been lost, by rallying faith-based organizations. And so, John, I'm so honored that you've sacrificed for the country. 
+
+It's good to see Steve Goldsmith here, who is a partner as well. 
+
+A little over a week ago, a few miles from here, I was honored to be inaugurated your President. I'm here today to repeat the promise I made on the steps of the Capitol -- I will work to build a single nation of justice and opportunity. I'm going to need some help to do that. And so I'm so honored four members of the United States Congress are here -- Senator Joe Lieberman from the great state of Connecticut -- {APPLAUSE} -- Senator Rick Santorum from Pennsylvania -- {APPLAUSE} -- Congressman Mark Souder of Indiana -- {APPLAUSE} -- Congressman Tony Hall of Ohio. {APPLAUSE} 
+
+I'm also pleased that two members of my Cabinet came -- one, Mel Martinez, my Secretary of Housing and Urban Development -- {APPLAUSE} -- and finally, Rod Paige, a fellow Texan who is now the Secretary of Education. {APPLAUSE} 
+
+The Fishing School obviously attracts people who seek excellence, and all of us up here, regardless of our political party, love to herald excellence. And we love to stand next to people who have got vision and good intentions and a good heart. And that's Tom Lewis. {APPLAUSE} 
+
+This little haven is a refuge from violence and addiction and abuse. Children find learning and care, but most important, they find something that we can never pass legislation to achieve -- and that's love. They find love. They find an adult saying, somebody cares about you. Somebody loves you. Somebody wants to help you. Tom knows what we all know, that through loving children, you find deep fulfillment in your own heart. You can just see it on his face, and you can hear it in his voice. 
+
+As a candidate for President, I had the privilege of visiting a lot of churches and synagogues and charitable groups all across the country, groups that offer food and shelter, hope and dignity. I've seen how effective and committed these groups are at saving and changing lives. As President, I am resolved to put government on your side, Tom, on the side of the committed and the caring and the compassionate. 
+
+There are so many people in need. The good news about America is, there are so many willing to serve. It's the great strength of our nation. There's no limit to the talent and energy and compassion of this great land. But sometimes the need is too great and the resources are too limited, and all of us, as private citizens and public officials, should help where we can. 
+
+Today I'm sending to Congress a set of ideas and proposals that mark a hopeful new direction for our government. We will encourage community and faith-based programs, without changing their mission. We will eliminate barriers to charitable works, wherever they exist, and we will encourage charitable giving, wherever we can. 
+
+I'm open to any good ideas that will come form the Congress, and I can assure you, these four good members of Congress will have some good ideas. {LAUGHTER} And they're probably not going to be afraid to tell me either. {LAUGHTER} But here are some of my proposals. 
+
+I want to fully open up the after-school program, called 21st Century Learning Centers, to all after-school programs, including faith-based groups. {APPLAUSE} I propose to create a compassionate capital fund, which will provide start-up funds for promising new programs serving people in need. We'll make sure that funding is available to faith-based programs on an equal basis, with non-religious alternatives. 
+
+Government, of course, cannot fund, and will not fund, religious activities. But when people of faith provide social services, we will not discriminate against them. {APPLAUSE} I propose to encourage mentoring programs for children of prisoners. {APPLAUSE} As well as programs that, when possible, help to mend broken families. 
+
+The change we seek won't come all at once, by an act of Congress or any executive order signed by the President. Real change happens street by street, heart by heart, one soul, one conscience at a time. It happens in places like this one, the Fishing School. Yet I hope the good policies can expand and multiply these efforts, uplifting lives all across America. 
+
+You know, for those of us in public life oftentimes are honored to be able to see the best of America, to be able to find true strength, the true heart of the country. I believe the true heart of the country can be defined here at the Fishing School, an idea started because somebody said, what can I do; how can I hear the universal call to love a neighbor just like I'd like to be loved myself? In this case, a person I call a social entrepreneur, and this is a country of social entrepreneurs. 
+
+And our job, regardless of our political party, is to recognize the strength of the country, to nourish it and feed it within the Constitution, within the bounds of the Constitution, and to herald success when we find it. And today all of us are honored to be here to herald success because we have found it right here. 
+
+God bless Tom. God bless your program. {APPLAUSE} 
+
+{/speech} 

@@ -1,0 +1,48 @@
+﻿{title} Remarks by the President on Oil Spill {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 2, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good afternoon, everybody. First let me say a few words about the incident in New York City. I want to commend the work of the NYPD, the New York Fire Department, and the FBI, which responded swiftly and aggressively to a dangerous situation. And I also want to commend the vigilant citizens who noticed this suspicious activity and reported it to the authorities.
+
+I just got off the phone on the way down here with Mayor Bloomberg to make sure that state and federal officials are coordinating effectively. Since last night my national security team has been taking every step necessary to ensure that our state and local partners have the full support and cooperation of the federal government. We're going to do what's necessary to protect the American people, to determine who is behind this potentially deadly act, and to see that justice is done. And I'm going to continue to monitor the situation closely and do what it takes at home and abroad to safeguard the security of the American people.
+
+Now, we just finished a meeting with Admiral Thad Allen, our National Incident Commander for this spill, as well as Coast Guard personnel who are leading the response to this crisis. And they gave me an update on our efforts to stop the BP oil spill and mitigate the damage.
+
+By the way, I just want to point out, I was told there was drizzling out here -- {LAUGHTER} -- is this Louisiana drizzle right here? {LAUGHTER}
+
+They gave me a sense of how this spill is moving. It is now about nine miles off the coast of southeastern Louisiana. And by the way, we had the Governor of Louisiana, Bobby Jindal, as well as parish presidents who were taking part in this meeting, because we want to emphasize the importance of coordinating between local, state, and federal officials throughout this process.
+
+Now, I think the American people are now aware, certainly the folks down in the Gulf are aware, that we're dealing with a massive and potentially unprecedented environmental disaster. The oil that is still leaking from the well could seriously damage the economy and the environment of our Gulf states and it could extend for a long time. It could jeopardize the livelihoods of thousands of Americans who call this place home.
+
+And that's why the federal government has launched and coordinated an all-hands-on-deck, relentless response to this crisis from day one. After the explosion on the drilling rig, it began with an aggressive search-and-rescue effort to evacuate 115 people, including three badly injured. And my thoughts and prayers go out to the family of the 11 workers who have not yet -- who have not been found.
+
+When the drill unit sank on Thursday, we immediately and intensely investigated by remotely operated vehicles the entire 5,000 feet of pipe that's on the floor of the ocean. In that process, three leaks were identified, the most recent coming just last Wednesday evening. As Admiral Allen and Secretary Napolitano have made clear, we've made preparations from day one to stage equipment for a worse-case scenario. We immediately set up command center operations here in the Gulf and coordinated with all state and local governments. And the third breach was discovered on Wednesday.
+
+We already had by that time in position more than 70 vessels and hundreds of thousands of feet of boom. And I dispatched the Secretaries of the Interior and Homeland Security; the Administrator of the EPA, Lisa Jackson, who is here; my Assistant for Energy and Climate Change Policy; and the Administrator of NOAA to the Gulf Coast to ensure that we are doing whatever is required to respond to this event.
+
+So I want to emphasize, from day one we have prepared and planned for the worst, even as we hoped for the best. And while we have prepared and reacted aggressively, I'm not going to rest -- and none of the gentlemen and women who are here are going to rest -- or be satisfied until the leak is stopped at the source, the oil on the Gulf is contained and cleaned up, and the people of this region are able to go back to their lives and their livelihoods.
+
+Currently, the most advanced technology available is being used to try and stop a leak that is more than 5,000 feet under the surface. Because this leak is unique and unprecedented, it could take many days to stop. That's why we're also using every resource available to stop the oil from coming ashore and mitigating the damage it could cause. And much of the discussion here at the center was focused on if we, and when we have to deal with these mitigation efforts.
+
+Thus far, as you can tell, the weather has not been as cooperative as we'd like on this front. But we're going to continue to push forward.
+
+I also want to stress that we are working closely with the Gulf states and local communities to help every American affected by this crisis. Let me be clear: BP is responsible for this leak; BP will be paying the bill. But as President of the United States, I'm going to spare no effort to respond to this crisis for as long as it continues. And we will spare no resource to clean up whatever damage is caused. And while there will be time to fully investigate what happened on that rig and hold responsible parties accountable, our focus now is on a fully coordinated, relentless response effort to stop the leak and prevent more damage to the Gulf.
+
+I want to thank the thousands of Americans who've been working around the clock to stop this crisis -- whether it's the brave men and women of our military, or the local officials who call the Gulf home. They are doing everything in their power to mitigate this disaster, prevent damage to our environment, and help our fellow citizens.
+
+During this visit, I am hoping to have the opportunity to speak with some of the individuals who are directly affected by the disaster. I've heard already that people are, understandably, frustrated and frightened, especially because the people of this region have been through worse disasters than anybody should have to bear.
+
+But every American affected by this spill should know this: Your government will do whatever it takes, for as long as it takes, to stop this crisis.
+
+This is one of the richest and most beautiful ecosystems on the planet, and for centuries its residents have enjoyed and made a living off the fish that swim in these waters and the wildlife that inhabit these shores. This is also the heartbeat of the region's economic life. And we're going to do everything in our power to protect our natural resources, compensate those who have been harmed, rebuild what has been damaged, and help this region persevere like it has done so many times before.
+
+That's a commitment I'm making as President of the United States, and I know that everybody who works for the federal government feels the exact same way.
+
+Thank you very much, everybody. {APPLAUSE} 
+
+{/speech}

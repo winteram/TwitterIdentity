@@ -1,0 +1,18 @@
+﻿{title} Vice President's Remarks at the Driver's Meeting for the Pepsi 400 {/title}
+{event} Daytona International SpeedwayDaytona Beach, Florida {/event}
+{speaker} Dick Cheney {/speaker}
+{date} July 1, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, thank you all very much. And let me thank the Frances for inviting me tonight. This is my first in-person NASCAR event. And I'm delighted to be here. I'm told that if I behave myself I might be able to spend some time after the race with Big Mike in the Nextel Cup Hauler. {LAUGHTER} And that that is sometimes more exciting that what happens in the race itself, so I'm looking forward to that.
+
+But seriously, I want to thank everybody associated with NASCAR and especially the drivers and the crew chiefs. I know you guys have spent a lot of time with the troops, and supporting the troops and the men and women of the armed forces, especially those who are in Afghanistan and Iraq and a lot of other places around the world.
+
+You've got, obviously, a huge following among the men and women of the United State s military. It means a great deal to them that you're willing to spend time demonstrating your support for them. I know some of you have been to Walter Reed in Bethesda, spent some time with the folks who've come back wounded from their service to the nation. And I know on behalf of the President and myself, we greatly appreciate it. It means a great deal to all of us that you're willing to demonstrate that kind of support for them -- know you do a lot in your communities, the major activities and support for the charities and so forth. And NASCAR has developed a hell of a reputation not only obviously for stock car racing but also for being tremendous members of the community.
+
+So thank you for all of that. Let me wish you a safe race tonight, and I look forward to spending the evening here at Daytona. So thank you all very much. 
+
+{/speech}

@@ -1,0 +1,44 @@
+﻿{title} Remarks by the Vice President at the Malcolm Baldridge National Quality Award Ceremony {/title}
+{event} Malcolm Baldridge National Quality Award Ceremony, The Hilton Alexandria Mark Center Alexandria, Virginia {/event}
+{speaker} Dick Cheney {/speaker}
+{date} May 21, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech}
+
+Thank you very much. Well, thank you, Don. I appreciate your generous introduction, and am delighted to work with you as a colleague as you operate as the Secretary of Commerce; we're also old fishing buddies, so there is a special relationship there. And I want to thank all of you this afternoon for that welcome. And let me say how pleased I am, and honored really, to share the platform today with our award winners. Those are amazing stories and anybody who has looked at the Baldrige Award knows how enormously difficult it is to win that recognition.
+
+I especially want to thank Midge Baldrige for being here today, for her dedication and hard work in supporting this award over the years. I was privileged when Malcolm Baldrige was in the Cabinet to be a member of Congress years ago, privileged to know him; deeply admired him for his devotion to public service, his commitment to excellence, and for the sheer joy he took in living.
+
+I'd also like to extend a special word of thanks to my old friend Dick Davidson, and to all the Baldrige Award examiners and judges, the Board Foundation members, overseers and others who have worked so hard to make the Baldrige Award America's symbol for excellence in quality and performance. I am honored to join you today.
+
+Secretary Malcolm Baldrige believed that an emphasis on quality and performance was crucial to our Nation's long-term prosperity and economic strength. In 1987, Congress established the Malcolm Baldrige National Quality Award program to recognize U.S. organizations for their achievements in quality and performance, and to disseminate best practices across the United States. Today, the Baldrige Award is synonymous with world-class excellence, and has made quality a national priority.
+
+The Malcolm Baldrige National Quality Awards are not given out lightly. They must be earned. Every applicant has to go through a rigorous examination process that involves at least 300 hours of outside review. To win a Baldrige Award, just being "good" isn't good enough. You must be great. You must demonstrate a world-class commitment to excellence. Your organization must show continuous quality and performance improvement. And your managers and officers must maintain the highest ethical standards of corporate governance.
+
+The three organizations we're honoring today have met these exacting standards. They truly are the best of the best. If America is to maintain its competitive edge, then these are models that deserve to be emulated.
+
+So on behalf of President Bush, let me congratulate the winners of the Malcolm Baldrige National Quality Awards for 2002:
+
+Congratulations to Motorola's Commercial, Government and Industrial Solutions Sector -- the proud manufacturer of two-way radio communications products used by our Nation's first responders and many, many others.
+
+Congratulations to Branch-Smith Printing Division -- one of the smallest businesses ever to win the Baldrige Award and the ninth winner from Texas, the state that's won the most Baldrige Awards thus far. {APPLAUSE}
+
+And congratulations to SSM Health Care -- the first Baldrige Award winner ever in health care -- a category that is absolutely critical to our Nation's economy and well-being. If we all functioned -- all of our health care organizations functioned as effectively and achieved the levels of performance that SSM Health Care has we would be a far better nation for it.
+
+I also want to congratulate the previous 46 organizations that have received the Baldrige Award. Many of these earlier winners are in the audience today, and I thank all of you for proving that any business, large or small, any school or school system, and any health care organization can achieve extraordinary results, and can serve as an inspiration to others.
+
+As all of our winners know, quality is not something that comes in a "one-size-fits-all" package. And the means through which the federal government can promote quality also vary. When President Bush spoke at this award ceremony last year, he laid out a ten-point plan to improve corporate responsibility and to protect America's shareholders. The President has signed the most far-reaching reform of American business practices since the days of Franklin Delano Roosevelt, and has created a Corporate Fraud Task Force to make sure that no boardroom in America is above the law. These actions have strengthened our economy, and have lifted the shadow of suspicion from the vast majority of our companies, companies that obey the law, uphold the rules, and care deeply about their workers, their shareholders, and the quality of their products. These are the companies that are investing in our future and creating new jobs.
+
+We know this economy can grow faster, and create new jobs at a faster rate. We also know that the right policies in Washington can unleash the great strength of this economy, and create the conditions for growth and prosperity for all our people. President Bush has proposed a series of specific measures to create jobs by removing obstacles to economic growth. He has called on the Congress to enact a package of tax relief, with the goal of creating one million new jobs by the end of 2004. The President's plan to cut tax rates and hold the line on government spending would grown the economy, generate tax revenue and ultimately reduce the deficit. With the economy growing below its potential, the American people are in need of immediate tax relief.
+
+In the past few weeks, both Houses of Congress have passed Jobs and Growth Packages that include all of the components of the President's proposal. The President had a very productive meeting earlier this week with Senate and House leaders. We are optimistic the President will soon be presented with a bill that will create jobs, spur economic growth, and encourage investment in better- quality products and services.
+
+This is an important piece of legislation for America. By acting promptly Congress will help American families by reducing their tax burdens, increasing the child credit, and providing marriage penalty tax relief. And action by the Congress on the pending legislation will also help American businesses by lowering the cost of capital, thereby encouraging them to invest in the technologies and innovations they need to provide better-quality products and services in the years ahead. It will lead to healthier corporate balance sheets by making it easier for companies to finance such investment through new shares of stock than through debt.
+
+Let me conclude by thanking all of the Baldrige Award winners today for your commitment to quality. You and the organizations you lead have demonstrated a clear set of values, an unwavering sense of mission, an uncompromising commitment to your product, to your customers, and to your communities. President Bush and I are very proud of you, and if Secretary Baldrige were here today with us, I'm sure he'd be very proud as well.
+
+Once again, Congratulations.
+
+{/speech}

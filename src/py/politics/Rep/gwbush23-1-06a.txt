@@ -1,0 +1,26 @@
+﻿{title} President Calls "March for Life" Participants {/title}
+{event} Via Telephone {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 23, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Nellie, thank you very much. I appreciate the invitation to speak. I'm calling from Manhattan, Kansas. {APPLAUSE} Sounds like you got some good folks from Kansas there. {APPLAUSE} I want to thank everybody there -- if you're from Kansas, or anywhere else in our country, for your devotion to such a noble cause.
+
+You believe, as I do, that every human life has value, that the strong have a duty to protect the weak, and that the self-evident truths of the Declaration of Independence apply to everyone, not just to those considered healthy or wanted or convenient. These principles call us to defend the sick and the dying, persons with disabilities and birth defects, all who are weak and vulnerable, especially unborn children. {APPLAUSE}
+
+We're making good progress in defending these principles, Nellie, and you and I are working together, along with others, to build what I've called a culture of life. One of my first acts as the President was to ban the use of taxpayer money on programs that promote abortion overseas. {APPLAUSE} I want to thank you all for getting that ban on partial-birth abortion to my desk, a bill I was proud to sign -- {APPLAUSE} -- and a law which we are going to defend -- and are defending -- vigorously in our courts. Because we acted, infants who are born despite an attempted abortion are now protected by law. Thanks to "Laci and Conner's Law," prosecutors can now charge those who harm or kill a pregnant woman with harming or killing her unborn child, as well. {APPLAUSE}
+
+We're vigorously promoting parental notification laws, adoption, teen abstinence, crisis pregnancy programs, and the vital work of our faith-based groups. We're sending a clear message to any woman facing a crisis pregnancy: We love you, we love your child, and we're here to help you.
+
+There's more work to be done. The House has passed a bill to ensure that state parental involvement laws are not circumvented by those who take minors across state lines to have abortions. And the United States Senate needs to pass this bill so I can sign it into law. {APPLAUSE}
+
+We also must respect human life and dignity when advancing medical science, and we're making progress here, as well. Last month, I signed a pro-life bill supporting ethical treatment and research using stem cells from umbilical cord blood. I also renew my call for Congress to ban all forms of human cloning. Because human life is a gift from our Creator and should never be used as a means to an end, we will not sanction the creation of life only to destroy it.
+
+By changing laws we can change our culture. And your persistence and prayers, Nellie, and the folks there with you, are making a real difference. We, of course, seek common ground where possible; we're working to persuade more of our fellow Americans of the rightness of our cause. And this is a cause that appeals to the conscience of our citizens, and is rooted in America's deepest principles -- and history tells us that with such a cause, we will prevail.
+
+Again, Nellie, thank you for letting me come to speak to you. Tell everybody there that I ask for God's blessings on them and their families, and, of course, may God continue to bless our grand country. {APPLAUSE} 
+
+{/speech}

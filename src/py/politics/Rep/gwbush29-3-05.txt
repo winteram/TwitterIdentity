@@ -1,0 +1,39 @@
+﻿{title} President Discusses Freedom and Democracy {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} March 29, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. Thank you. Good morning. Welcome to the White House. Please be seated. Senator Warner, it's good to see you, sir. Thank you for coming. I appreciate citizens from Iraq who have joined us. I appreciate my fellow citizens who have joined us. Thanks for coming. 
+
+Before I talk about Iraq, I do want to say that on behalf of the American people, Laura and I offer our condolences to the victims of yesterday's earthquake in Indonesia. This earthquake has claimed lives and destroyed buildings in a part of Indonesia that is only now beginning to recover from the destruction caused by the tsunami three months ago. Our officials have offered initial assistance and are moving quickly to gather information to determine what additional relief is needed. 
+
+I appreciate Andrew Natsios of USAID being with us today, and I know he and his team are ready to respond, to help. People of Indonesia can know, as well, that they have our prayers and that our government is ready to assist. 
+
+Just a few minutes ago I met with a group of people dedicated to building a new Iraq. Most of them were born in Iraq. They come from different backgrounds; they practice different religions; they have one thing in common -- they all voted in the January elections. {APPLAUSE} 
+
+We're also joined today by Iraqi law students visiting the United States for an international competition, by members of Iraq's religious communities in town to learn about democracy, and by others who helped organize the -- Iraq's elections held in the United States. I want to welcome you all. I want to thank you for your strong belief in democracy and freedom. It's a belief that, with their vote, the Iraqi people signal to the world that they intend to claim their liberty and build a future of freedom for their country. And it was a powerful signal. 
+
+I commend the more than 8 million Iraqis who defied the car bombers and assassins to vote that day. {APPLAUSE} I appreciate the determination of the Iraqi electoral workers who withstood threats and intimidation to make a transparent election possible. I salute the courageous Iraqi security forces who risked their lives to protect voters. 
+
+By electing 275 men and women to the transitional national assembly, the Iraqi people took another bold step toward self-government. Today, Iraqis took another step on the road to a free society when the assembly held its second meeting. We expect a new government will be chosen soon and that the assembly will vote to confirm it. We look forward to working with the government that emerges from this process. We're confident that this new government will be inclusive, will respect human rights, and will uphold fundamental freedoms for all Iraqis. 
+
+We have seen many encouraging signs in Iraq. The world has watched Iraqi women vote in enormous numbers. {APPLAUSE} The world has seen more than 80 women take their seats as elected representatives in the new assembly. {APPLAUSE} We've also seen the beginnings of a new national dialogue, as leaders who did well in the last election have reached out to Sunnis who did not participate. 
+
+In a democracy, the government must uphold the will of the majority while respecting the rights of minorities. {APPLAUSE} And Iraq's new leaders are determined that the government of a free Iraq will be representative of their country's diverse population. The new transitional national assembly includes people and parties with differing visions for the future of their country. In a democratic Iraq, these differences will be resolved through debate and persuasion, instead of force and intimidation. 
+
+In forming their new government, the Iraqis have shown that the spirit of compromise has survived more than three decades of dictatorship. They will need that spirit in the weeks and months ahead, as they continue the hard work of building their democracy. After choosing the leaders of their new government, the next step will be the drafting of a new constitution for a free and democratic Iraq. In October, that document is scheduled to be put before the Iraqi people in a national referendum. Once the new constitution is approved, Iraqis will return to the polls to elect a permanent, constitutional government. 
+
+This democracy will need defending. And Iraqi security forces are taking on greater responsibility in the fight against the insurgents and terrorists. Today, more than 145,000 Iraqis have been trained and are serving courageously across Iraq. In recent weeks, they've taken the lead in offensive operations in places like Baghdad and Samara and Mosul. We will continue to train Iraqis so they can take responsibility for the security of their country, and then our forces will come home with the honor they've earned. {APPLAUSE} 
+
+Iraqis are taking big steps on a long journey of freedom. A free society requires more than free elections; it also requires free institutions, a vibrant civil society, rule of law, anti-corruption, and the habits of liberty built over generations. By claiming their own freedom, the Iraqis are transforming the region, and they're doing it by example and inspiration, rather than by conquest and domination. {APPLAUSE} The free people of Iraq are now doing what Saddam Hussein never could -- making Iraq a positive example for the entire Middle East. {APPLAUSE} 
+
+Today, people in a long-troubled part of the world are standing up for their freedom. In the last few months, we've witnessed successful elections in Afghanistan, Iraq, and the Palestinian Territories; peaceful demonstrations on the streets of Beirut, and steps toward democratic reform in places like Egypt and Saudi Arabia. The trend is clear: Freedom is on the march. Freedom is the birthright and deep desire of every human soul, and spreading freedom's blessings is the calling of our time. And when freedom and democracy take root in the Middle East, America and the world will be safer and more peaceful. {APPLAUSE} 
+
+I want to thank you all for coming. We ask for God's blessings on the brave souls of Iraq, and God continue to bless the American people. Thank you. {APPLAUSE} 
+
+{/speech} 

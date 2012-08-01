@@ -1,0 +1,50 @@
+﻿{title} Vice President's Remarks at the 2005 Malcolm Baldrige National Quality Award Ceremony {/title}
+{event} The Hilton Washington HotelWashington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} April 19, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you all very much. It's a pleasure to join all of you today. These are always very special occasions as we recognize the newest recipients of the Malcolm Baldrige National Quality Award. This is a proud moment, and all of us are privileged to share in it.
+
+And I want to thank Carlos Gutierrez, my good friend and our outstanding Secretary of Commerce, for his introduction and for his service to the nation, as well too. Carlos is a man who had a tremendous career in the private sector, starting at the very bottom of Kellogg's and working his way up to the top job as chairman and CEO. And he gave all that up to join us here in Washington where we're having so much fun in the public sector. {LAUGHTER} And you get beat up on like all the rest of us. But it's a special privilege to be able to share public service with a man like Secretary Gutierrez. He does a great job.
+
+I also want to greet all those who have come from out of town -- especially the employees and the partners of the honorees. We're glad you're here, and on behalf of President Bush I want to welcome you to the Nation's Capital.
+
+The Baldrige Award is the highest presidential honor given to an American organization for quality achievement and for performance excellence. The award has, in the space of 18 years, become one of the most recognized, respected, and prestigious distinctions in our country. It's been rightly pointed out that "more than any other program, the Baldrige Quality Award is responsible for making quality a national priority, and disseminating best practices across the United States." And more and more, that influence is reaching beyond the United States, as other countries look to the Baldrige criteria as the way to measure quality and performance, and to chart paths to future success.
+
+To receive Baldrige recognition, an organization must also operate by high ethical principles, showing integrity in matters of corporate governance and in public responsibilities. In this way, the Baldrige Award is a personal tribute to the men and women of each organization that receives it.
+
+I was a member of Congress when this award was created, and in my view we greatly enhanced the value of the prize by giving it the good name of Malcolm Baldrige. I was proud to know Secretary Baldrige, and I want to thank his sister Letitia, who is here today for all of her work in the Baldrige Foundation over the years.
+
+Mac Baldrige was, as you've been told, the 26th Secretary of Commerce, named to the Cabinet by President Ronald Reagan and serving until his untimely death in 1987. I've been fortunate to know a good many public servants over the years, and it's the rare one who has the breadth of experience, and the wisdom, and the insight of Mac Baldrige. He made his reputation as a leader in manufacturing -- and when Mac was in charge you'd have a quality product and you'd see black on the bottom line. In his life Mac was also a military combat veteran, a family man, a devoted public servant, and if he were here today, I think he would appreciate my pointing out that he was also a professional rodeo cowboy. {LAUGHTER}
+
+It was said that Mac's staff had standing orders to interrupt him for a phone call from one of two people: the President of the United States -- or any cowboy who happened to ring up. {LAUGHTER}
+
+On the rodeo circuit, as well as in business and in government, Mac is remembered very fondly as a confident, decent, respectable man who did not have an ounce of attitude or affectation about him. He was a great leader and a great human being.
+
+Secretary Baldrige was, like the President who appointed him, a fundamental optimist about American enterprise, and about America's ability to succeed in the global marketplace. These ideas were not always easy to sell back in the 1980s. The country had struggled through a period of economic stagnation, and then went straight into an era of intense global competition in many different industries. But President Reagan and Secretary Baldrige knew that we could not maintain our high standard of living by walling ourselves off from the rest of the world, and they were convinced that in the new economy America could thrive and prosper as never before. So they gave this nation an economic program built on the foundation of limited government, free enterprise at home, and expanded markets abroad. And those choices, made a generation ago, helped to produce astounding gains in productivity, innovation, and wealth all across the country.
+
+Those results bear a lesson for our own time. They remind us that if America stays engaged in the global economy, and if our policies continue to reward hard work, investment, and enterprise, our nation will remain the world's economic leader, and our children and grandchildren will lead lives of opportunity, and prosperity, and hope.
+
+If anyone has doubts about America's ability to lead in the global economy, I would simply ask them to look at the Baldrige criteria, and look at the enterprises that have won this award. This year, as before, the Board of Examiners has identified a group following very diverse missions, but powered by the same basic qualities of teamwork, a problem-solving mind set, impatience with the status quo, a focus on the customer, and an ethic of responsibility and trust throughout the enterprise.
+
+Sunny Fresh Foods of Monticello, Minnesota provides food products to several thousand large-scale customers, including restaurants, hospitals and the U.S. military. The company has an almost flawless delivery record, along with a growing market share. The firm is a repeat winner of the Baldrige Award.
+
+DynMcDermott Petroleum Operations of New Orleans is the company in charge of maintaining and operating the Strategic Petroleum Reserve at sites in Louisiana and Texas. During last year's hurricane season, company facilities took direct hits from the storms. At the same time, the needs of our economy required a drawdown of the Strategic Petroleum Reserve, and President Bush so directed. The people of DynMcDermott restored operations quickly and smoothly; the company made its first delivery of crude oil to refiners just a few days after Hurricane Rita struck. The company has shown the height of skill and professionalism, and has earned the nation's gratitude.
+
+Park Place Lexus of Plano and Grapevine, Texas has set a near-perfect standard of customer satisfaction, attained through intense focus on detail and an idea-oriented culture throughout the firm. Park Place is the first auto retailer ever to receive the Baldrige Award.
+
+On five campuses, the Jenks, Oklahoma Public Schools have built a spirit of excellence and an ethic of community service. Student performance consistently ranks above national and state averages. These students are fortunate to have superb teachers and coaches, including four who have been named national coach of the year.
+
+Richland College of Dallas serves an incredibly diverse student body -- with some 20,000 students from countries all around the world. Each year, the fine faculty and staff of Richland College produces a graduating class of life-long learners who are ready to pursue their dreams and rise to positions of leadership. Richland College is the first two-year community college ever to receive a Baldrige.
+
+The Bronson Methodist Hospital, founded more than a century ago in the city of Kalamazoo, is a highly-regarded leader in technology, extremely effective care, and patient satisfaction. Its record of innovativeness and quality control has made a difference in the lives of patients and families across nine counties in southwest Michigan, and that record has become a model for healthcare providers across the country.
+
+All six of these organizations have risen to a level of performance that deserves the respect and the admiration of us all. The Baldrige Award is an annual prize, but it represents much more than a single year of distinction. It also signifies all the years of striving, and focus, and sacrifice that made this moment possible. By reaching for a higher standard, and never settling for second-best, and facing the future with confidence, the men and women of these organizations rank among the most exceptional achievers in our nation today. You have made our nation proud. And it's my great honor to congratulate you today on your success.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

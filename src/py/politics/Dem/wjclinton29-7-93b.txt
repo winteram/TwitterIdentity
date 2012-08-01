@@ -1,0 +1,46 @@
+﻿{title} Remarks by the President at Earned Income Tax Credit Event {/title}
+{event} Room 450, Old Executive Office Building {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 29, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I don't want them to miss the vote. {LAUGHTER} This is what is known is an excused absence for the Congress. {LAUGHTER} I want to say a warm welcome and a word of thanks to the Risners, the Dorseys and the Dikemans -- all of them for coming here. They're not used to being public speakers, but I think they did a fine job, don't you? {APPLAUSE}
+
+I'd also like to say a special word to Mr. Dorsey. When I was a boy, I cut lawns for a living, too, and nobody ever gave me more than I charged. {LAUGHTER} You're either a better salesman, a better grass-cutter, or you had better customers. {LAUGHTER}
+
+I am so glad to have these families here today because they emphasize that a pivotal part of this economic plan is increasing the earned income tax credit which, more than anything else we could do, will reward work and family and responsibility and make a major down payment on welfare reform.
+
+You heard Robin make that point. There are so many Americans in this country who want to work, who want to be independent, who want to support themselves, and who find themselves in a position of not being able to make ends meet, not being able to cover basic costs. The earned income tax credit can help them do that. It is a terribly important part of this overall plan, which not only reduces the deficit by $500 billion, but also does it in a fair way. Half of the reduction comes from budget cuts, of the rest -- four-fifths of the rest comes from taxes on the upper income people in this country, the upper six percent, one-fifth from taxes on families with incomes above $30,000 and below for couples $180,000.
+
+But the most important thing of all to reward work is that this will be the first time in the history of our country when we'll be able to say that if you work 40 hours a week and you have children in your home, you will be lifted out of poverty. It is an elemental, powerful and profound principle. It is not liberal or conservative. It should belong to no party. It ought to become part of the American creed. It's not about more governmental or social workers, or more services. It's about more groceries and a car, more school clothes for the kids and more encouragement and hope to keep doing the right thing. These families have made it clearer than I ever could.
+
+One of the things that I want to emphasize is that if we ever want to really restore the health of the American economy, it won't be enough just to bring down the budget deficit or just to have good economic policies. You have to find a way to tell people that if they work hard and play by the rules they'll be able to make it, they will be rewarded. The incentive system in America has worked against that for too long.
+
+You know, it's amazing to me how many American families still live in poverty. About 18 percent of the work force, nearly one in five families, have a worker and still do not reach the federal poverty line. There are 36 million, approximately, low income Americans; about 20 million of them live in a family that works -- with someone working at least part of the year; six million live in families where someone works all year round, full-time, and the family is still in poverty. And as I said, where there is a family of four, about one in five, or 18 percent, have insufficient incomes to lift them above the federal poverty line.
+
+So in spite of all the pro-family rhetoric of our national government for years, our policies haven't worked. In fact, they've been going in the wrong direction. We need every American who can to work if we're going to compete and win in the global economy. And more than ever, we need strong families. This is, as you can see, not just a pro-work policy, it is a pro-family policy. We shouldn't make it harder to work and support a family. We ought to make it easier, and the people who do it should be lifted up as examples of the American ideal, not punished because they're trying to do the right thing. That's what the EITC does.
+
+We ought to have two principles that operate in this country: People who can work should work; but if they do work, their families at home shouldn't be poor.
+
+Today I also want to announce that the IRS will begin an aggressive outreach campaign to reach all Americans who are entitled to the credit. This will make it easier for them to receive benefits they have earned by working. It will also help us to educate them about the advantage of getting an advanced EITC, rather than having to wait an entire year.
+
+All these folks figured out how to work the system. But there are a lot of people out there, just like them, who haven't and who deserve the same incentive for work and for family.
+
+We know that this program works. We know it's a lifeline for semi-skilled workers who are working to improve their education and training. We want Robin to get home in time for the test, and we want her to make a good grade. And we want that, also, to be a symbol for all the people in this country who are struggling to do the same thing.
+
+We know that the vast majority of all those who benefit from the EITC work very long hours for a very modest compensation in jobs that very often have inadequate benefits, either for themselves or for their children. These are just three of the millions of stories we might have heard today from a part of America we almost never see on the evening news.
+
+Every time you see a crime story reported in a tough neighborhood, remember that most people in that neighborhood, no matter how tough it is, work for a living, do their best to raise children, never break the law and are struggling -- struggling against odds that are enormous to make it and to make the American Dream real for themselves and their children.
+
+It is time we acted to support those people. In some ways, they may be the most heroic of all Americans today. If we really want to rebuild family life in America, if we want to recognize the realities that nearly everybody has to work to make ends meet, and more and more families have to have both parents working if they're in the home, even if they have four children and two of them are as young as those two youngest boys, we have got to say to those people: We are on your side. Your country is for you. You have done what all of the speech-makers talk about, and it's time the people who make the speeches had policies that reward you for doing what people have been pleading for Americans to do for years and years now.
+
+That's why I think this is a critical part of this economic package. Make no mistake about it: If the people who favor the "no-new-anything approach," as The Wall Street Journal characterized the opponents of our plan, prevail, Americans will lose the pro-work, pro-family, pro-responsibility element of the earned income tax credits, the largest single expansion in an effort to help the working poor in over two decades.
+
+We can't let this happen. This is just one more reason why we have got to act, and act now on this economic plan. This is not about numbers and digits and accountants' gimmicks; it's not about arguments about who perceives or feels what about this economic plan. This is about how the low interest rates, deficit reduction, the business incentives and, most important today, the earned income tax credit will affect the real lives of real people and help them to live and succeed in the way that we always speak as if we want them to be able to live and succeed. This is the real world. You met it today. I hope the Congress will make it possible in the next few days to have more families like this with more success stories. Thank you very much. {APPLAUSE}
+
+
+
+{/speech}

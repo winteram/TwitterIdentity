@@ -1,0 +1,58 @@
+﻿{title} Remarks by the President at Fundraiser for Mrs. Clinton {/title}
+{event} Fundraiser for Mrs. Clinton {/event}
+{speaker} Bill Clinton {/speaker}
+{date} April 1, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Fundraiser for HRC {/description}
+
+{speech} 
+
+{COMMENT="In progress"} -- we couldn't have done what has been done without you and I'll never forget you. I would also like to thank Dennis and the New York AFL-CIO. They supported -- {COMMENT="Inaudible"} -- and me and supported -- {COMMENT="Inaudible"} -and Hillary. I thought she made a really good talk today. {APPLAUSE}
+
+I just want to make three points very briefly. First of all, when I showed up here in January of '93, thanks to the efforts of many of you and millions and millions of people like you all across America, and the economy was in a shambles, the deficit was huge, and the debt had been quadrupled in 12 years, and the social problems were getting worse, and Washington was like a political blood fight, I had basically some very simple ideas about the economy and how it related to the rest of our lives. And I just want to reiterate that because that's where the differences are between us and our friends in the Republican Party. That's where the differences between Al Gore and George Bush are, and the differences between Hillary and her opponent.
+
+Number one, I believe you could be pro-business and pro-labor. And as a matter of fact, I didn't think you could successfully have an economic policy unless you help both labor and business. Number two, I believe you could be pro-work and pro-family, so that I thought we ought to have things like annual leave and health insurance and if people were going to be required to move from welfare to work, we ought to give them child care and food and medicine for their kids, and transportation to get to work, and training to know what they were doing, instead of just talking about welfare cheats and all of that. I thought you could be pro-work and pro-family.
+
+Number three, I thought you could be for economic growth and for environmental protection. I thought working families could be able to take their children to parks and that we could generally still grow the economy. I believed all those things. And essentially, our friends in the other party believe that they can only help business by sticking it to labor; that every family protection is bad for the economy and the work ethic; and that the environment's a nice thing as long as you don't have to take too much trouble to protect it. Now, that's what they believe. And so we've had this donnybrook for seven and a half years.
+
+But I think the evidence is in, and you need to think about that in terms of Hillary's race, the Vice President's race, every other race this year. It's not as if there is a debate here based on the evidence. We have the longest economic expansion in history; we have these 21 million jobs; we have the lowest unemployment and welfare rates in 30 years; we have the lowest crime rate in 25 years, the lowest poverty rate in 20 years, the lowest income tax burden on average families in four years, the lowest female unemployment rate in four years.
+
+This is not some sort of fluke, friends. You're on the right side of history. So when you fight for the presidential campaign, and you fight in the senatorial race, tell people that this is not a debate, and they are making a deliberate decision if they vote for the other candidates to go back to a failed economic theory, a failed social theory, a failed environmental policy.
+
+And you've got to be serious and blunt here. And I'm not running for anything -- and you know, most days, I'm okay about it. {LAUGHTER} What is at stake here is bigger than me or the Vice President or Hillary or all of you -- it is the direction of our country. And you need to go out and say you're not anti-business, you've proved you could be pro-labor and pro-business. You've proved you could be pro-family and pro-work. You've proved you could clean out the environment and grow the economy. That's where you are. And they are making a deliberate decision to reject policies that have worked for America if they don't support the Vice President, Hillary, and our whole other crowd. {APPLAUSE}
+
+The second thing I want to tell you is, as you can see, my wife is an enormously talented and passionate person. But what I want you to know is that -- particularly for a state like New York, which has always had high-quality people in the United States Senate, I think she would be a worthy successor to Robert Kennedy and Pat Moynihan. {APPLAUSE} I think it's important for people to understand that she's not just somebody who lived in the White House for eight years and would now like to be a senator. For 30 years, she has been a leading advocate for the cause of families and children; for 20 years now, for specific, provable advances in the quality of education for our children.
+
+There is hardly anybody who runs as a private citizen for the United States Senate in my lifetime -- I can't think of anybody who ran as a private citizen for the Senate who had as much knowledge as she has, or as much experience as she has on the things that will really count in the terms of the shape of America and the children who are -- {COMMENT="Inaudible"} {APPLAUSE}
+
+The third thing I want to say is, is this: The most important point Hillary made about me and us and our politics is that we believe that we should try to bring together, not drive them apart. They believe you have to drive people apart in order to win elections. And since they're wrong on the issues, they're right. In other words, people won't agree with them on the issues, so the only way they could win is to convince them that we're the first cousins of space aliens. {LAUGHTER} Now, this is not a complicated deal. And so that's why Hillary's opponent can raise a double ton of money besides being mayor and having special relations with a lot of those people that -- {COMMENT="Inaudible"} -- New York. You've got this right-wing -- {COMMENT="Inaudible"} -- machine geared up against here again.
+
+You know, when he wanted to be mayor of New York, he said I'm a moderate. When he wants to be senator from New York, he wants all those right-wingers that helped Governor Bush in the nomination and are represented by the Bob Jones University flap you all heard about -- he gets Richard Viguerie to write letters that raise the hair on the back of your head.
+
+Now, there's a reason they've got to do that. Because they like political power and the majority of the people do not agree with them. They've got this figured out now; we're right and they're wrong on these big issues. So the only way they can win is to convince people that we're space aliens. But that's not good for America. Far better for them to modernize their party and their ideas and then engage in a debate, and let the people move back and forth, depending on who they think is right on the specific issues. That's the way America is supposed to work.
+
+But I want you to understand what's at stake in this election in New York and in America. Because we've got a chance now, finally, to reject the politics of division. If you do this one more time, you've got a real chance to elevate the politics of America.
+
+And let me tell you why it's so important. I want to close with this point. In February we celebrated the longest economic expansion in the history of this country. {APPLAUSE} And that's the good news. The bad news is it might put people to sleep and think they can afford to just go through -- {COMMENT="Inaudible"} -- or indulgences or on a whim, or not vote at all in this election, because they think things are going along real well.
+
+And let me tell you why what Hillary said -- the most important point she made is about the politics of division. When we celebrated this economic expansion I asked my economic advisors -- I said, well, when was the last longest expansion in American history. Do you know when it was -- 1961 to 1969. Now, let me take you on a little walk down Memory Lane. {LAUGHTER}
+
+In 1964, I was a senior in high school, a graduate. The country was heartbroken about President Kennedy's assassination, but were heartened by President Johnson's leadership, strongly united behind him. We had low unemployment, low inflation, high growth. We had a civil rights crisis, but everybody thought it was going to be handled in the context of the courts, not in the streets. We had a few people in Vietnam, but nobody thought it was going to tear the country up; everybody thought America would win the Cold War just in the course of events, because freedom was clearly superior to communism. And we were happy as clams, and totally relaxed about it.
+
+Now, four years later I graduated from college here in Washington -- two days after Robert Kennedy was killed; two months after Martin Luther King was killed; nine weeks after Lyndon Johnson said he couldn't run for President because the country was so divided over Vietnam.
+
+A few weeks later, Richard Nixon was elected President, based on a campaign that he represented the Silent Majority. Now, what were the necessary -- {COMMENT="Inaudible"} -- of that? Those of us who weren't for him were the loud minority. That was the first of these great "us" versus "them" campaigns -- divide, not unite. And we've been "us"ing and "them"ing now for 30 years.
+
+And when I ran for President I said I wanted to put people first and have opportunity for all, responsibility from all, and a community of all Americans -- that was the united, not divisive, campaign. When we ran for reelection, we said we wanted to build a bridge to the 21st century that everybody could walk across -- that's the united, not a divisive campaign.
+
+And one of the reasons Hillary decided to enter this raise is that she knew how important it was, not only to be right on the specific issues, but to keep trying to pull the country together as we grow more diverse, not tear it apart.
+
+And I like the way things are now, but they could be a whole lot better if we just focus and keep working, and remember to be for business and labor, work and family, the environment and the economy, unite not divide. That's really what her race represents; that's what Al Gore's race represents; that's what the referendum on what kind of future we're going to have represents. And what I want to tell you is, I've been waiting since I was a boy of 17, for 35 years and more now, to see my country in the position we were in in 1964, to build a future of our dreams for our children. And this election will determine whether we move to that level.
+
+It took me years just to try to turn this country around and get it going in the right direction, and to stop people from trying to take things away from you. Now we've got a chance to do something good. That's what this Senate race is about. That's what this presidential race is about. That's what this whole election is about.
+
+And you just keep in mind, people know, they know we're right on the issues, so they've got to beat us some other way. And you've got to stand up for unity and progress and the right kind of change.
+
+I am grateful to you for what you've done for me, but what you can do for Hillary, what you can do for the Vice President -- and most important -- what you can do for America and your children's future will matter even more. Thank you and God bless you. {APPLAUSE} 
+
+{/speech}

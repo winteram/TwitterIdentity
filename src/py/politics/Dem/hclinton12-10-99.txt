@@ -1,0 +1,60 @@
+﻿{title} Millennium Evening at the White House Informatics Meets Genomics {/title}
+{event} East Room {/event}
+{speaker} Hillary Rodham Clinton {/speaker}
+{date} October 12, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good evening, and welcome to the White House. Imagine for a moment that it is the year 2030. You could instantly teleconference with your children any time, anywhere, if they will accept the teleconference. {LAUGHTER} You could speak into a computer and have your words instantly translated into any language. If you're paralyzed in an accident, you can regain your mobility. And if you lose your sight, you will regain it.
+
+Well, welcome to the future, and to the 8th Millennium Evening at the White House. Tonight we will explore the explosion of information technology and genetic research, and how they are combining to shape how we live, learn, and think in the next century.
+
+I'd like to thank our sponsor, the National Endowment for the Humanities, which every day helps create informed citizens and public debates like this one. And I'd like to recognize its chairman, Bill Ferris, for his work.
+
+I also want to recognize the many members of the President's administration who are here, including Secretary Donna Shalala; Secretary Dick Riley; NIH Director Harold Varmus; NASA Administrator Dan Goldin; National Science Foundation Director Rita Colwell; Director of the NIH Human Genome Project Francis Collins; and the President's Science Advisor Neal Lane.
+
+I also want to thank the Library of Congress and the Smithsonian for the exhibits in the foyer.
+
+We're actually using some of the science that we are celebrating tonight. People from all over the world can participate in this event via satellite and over the Internet, thanks to John Shoemaker and the entire team at Sun Microsystems. And you will watch video all evening on these plasma screens, thanks to Pioneer New Technologies.
+
+For the past two years, we have used these Millennium Evenings to showcase the art, culture, history and science that define us as a people and as a nation. When Professor Bernard Bailyn lectured, this room was filled with historians. When Wynton Marsalis played here, it was filled with musicians. And it's safe to say tonight that we have the largest gathering of geneticists and IT experts ever assembled together in the East Room of the White House. {LAUGHTER}
+
+These lectures are part of the work of the White House Millennium Council that the President and I started to encourage all Americans to use this unique moment in time to honor the past and imagine the future. And that is exactly what we will do this evening.
+
+If we pick up any magazine or newspaper these days, these are the kinds of headlines we're likely to find: "Twins Unlocking the Secret of Identity;" "How the Wireless World Will Change Your Life;" "DNA Mapping: Light at the End of the Tunnel."
+
+We are on the brink of discoveries that are astonishing in their complexity and implications for human life in the decades ahead. But they didn't happen overnight. These revolutions have been driven by our American quest for knowledge and discovery -- and the willingness of both the public and private sectors to invest in the necessary research.
+
+More than 200 years ago, before we had even drafted a Constitution, our second President, John Adams, created the American Academy of Arts and Sciences to, in their words, "cultivate every art and science which may tend to advance the interests, honor, dignity and happiness of a free, independent and virtuous people."
+
+That same spirit is what drives us to go to the next generation Internet and to find the 3 billion letters of genetic instructions to the human body. And it must continue to drive us as we educate and inspire Americans to understand these breakthroughs, and continue investing in science and technology research well before we know whether it has any commercial applications.
+
+After all, when Vint Cerf and Robert Kahn found a way for computers to talk to one another, they certainly didn't imagine E-Bay or Amazon.com. {LAUGHTER}
+
+But, now, even in the face of these great breakthroughs there are many who rightly worry that our science is developing faster than our ability to understand its implications. Because behind each of the headlines we read we find not only great possibilities, but also profound ethical questions that we must answer together.
+
+As we gather more information -- whether it is commercial transactions posted on the Internet or genetic information collected by doctors -- who owns that information? How will we protect our privacy? How will we make sure that knowledge about our genes is used to heal us, not deny us health insurance or jobs? What do justice and equality mean in a digital age?
+
+In one of his short stories, Ray Bradbury's vision of the year 2030 has some similarities to the one I started with tonight: the windows wash themselves, breakfast cooks itself, and a voice machine reminds you of birthdays, anniversaries and bills to be paid, which is especially handy as one gets older. {LAUGHTER} There's only one big difference: There are no people. The population has been completely wiped out and all that's left are machines.
+
+Standing here with only 80 days left until the year 2000, we have a chance to imagine and create a very different future. One in which the revolutions in information and biology benefit, rather than eclipse, our humanity; where our ethics keep pace with our science; where our investments in science dramatically improve not only how long we live, but how well we live. Because unlike science fiction, how this story ends is in all of our hands.
+
+So I want to thank you for coming this evening. And we have invited two distinguished scientists to help us understand that promises and perils of information tm prestigious universities; and both are visionaries.
+
+First, Dr. Vinton Cerf will give us a quick overview of the growth and future of the Internet. Then Dr. Eric Lander will tell us about the revolution in genetics and where it is leading us.
+
+Dr. Lander actually started his career as a mathematician. As a high school student, he even won a place on the U.S. team to the International Mathematical Olympiad held in East Germany. This was at the height of the Cold War. But when his team and the Russian math team met at the competitions, they hit it off. They spent evenings together, tossing water balloons down on to the streets of East Germany in defiance. And he has been bringing people and disciplines together ever since. {LAUGHTER}
+
+He's built bridges to public policy, and by contributing his time, has really added to the public debate as an NIH advisor. He's also the founder of Millennium Pharmaceuticals, and now he's building bridges between genetic discoveries and their potential to improve our lives as the Director of the Whitehead Institute/MIT Center for Genome Research.
+
+Now, I'm told that Dr. Cerf, one of the fathers of the Internet, also got his start in high school. Back then, he and his best friend got permission to use a computer at UCLA. When the building was locked on weekends, they would simply climb up to an open third-story window. The machine was a size of a refrigerator and had the computing power of today's hand-held calculators. But he was consumed by the possibility computers held, and has been scaling wall after wall ever since then to fulfill it. {LAUGHTER}
+
+As the Advanced Research Projects Agency of the Department of Defense, he helped to develop the procedures or protocols that computers use to communicate with each other. And he's chairing the new Internet Societal Task Force that is helping to make the Internet accessible to everyone.
+
+He's a senior Vice President at MCI WorldCom for Internet Architecture and Technology. And I think that every parent should take heart that people who throw water balloons and scale to third-floor windows do have a future -- {LAUGHTER} -- that will in one way or another be redemptive.
+
+Therefore, I am especially honored to introduce our first speaker, Vint Cerf. {APPLAUSE} 
+
+{/speech}

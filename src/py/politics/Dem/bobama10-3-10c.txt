@@ -1,0 +1,150 @@
+﻿{title} Remarks by the President on Health Insurance Reform in St. Charles, MO {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} March 10, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, Missouri! {APPLAUSE} It is good to see you. I know you guys have been a little bit here; it's a little bit warm in here -- you're all fanning yourself off, whoo! It is good to see everybody here today. How's everybody doing? {APPLAUSE}
+
+I've got a couple of acknowledgments I want to make. First of all, Mayor of St. Charles, Patti York -- where's Patti? {APPLAUSE} Thank you, Madam Mayor. Thanks for the great weather.
+
+We also have the St. Charles School District Superintendent, Randy Charles, is here. Where's Randy? I just saw him -- there he is back there. {APPLAUSE}
+
+It is great to be here, great to be back in the Show Me State, great to be back in St. Charles. Some of you may remember that it was from this town that Lewis and Clark began their journey into a harsh and unforgiving landscape. I can relate -- {LAUGHTER} -- because the first time I came here, I was trying to get to Washington, D.C., a harsh and unforgiving landscape. {LAUGHTER}
+
+A big part of our campaign was about changing the way Washington works. It was about transforming a politics that's driven by cynicism and a 24-hour news cycle, and the cable chatter, and always focused on the next election instead of the next generation. Our campaign was about meeting the looming challenges -- in education and in energy, in our health care system, in our financial system -- that helped bring about the worst economic crisis since the Great Depression. And it still threatens our prosperity. It was about making our government actually work for you, the people: a government that lives up to its responsibilities, including the responsibility to live within its means.
+
+Now, there's been a lot of discussion about government over the last several months -- and let's face it, people have lost faith in government. They had lost faith in government before I ran and it's been getting worse. You know, President Lincoln said that “the legitimate object of government is to do for the people what needs to be done, but which they can not … do at all, or do so well, by themselves.” That pretty much sums up my attitude. You let people do for themselves what they can do for themselves; and then if there are some things that we do better together, we should do them together. And I believe that in everything government does, we've got a special responsibility to be wise stewards about how Americans' hard-earned tax dollars are spent. And I know you agree with that, too. Doesn't matter whether you're a Democrat or a Republican, you don't like seeing your money wasted -- or an independent, don't like seeing your money wasted.
+
+That's a responsibility my administration is seeking to fulfill every single day. Over the last year, we've gone through the budget line by line looking for places to trim the fat out of government. And we've found a lot of fat to trim. I got to admit. Last year, we pushed Congress to cut nearly $20 billion by streamlining or eliminating more than 120 government programs. This year, we put another $20 billion in cuts on the table, targeting dozens of additional programs that were wasteful or duplicative or in some cases just plain ridiculous.
+
+For example, we decided not to fund an office maintained by the Department of Education -- in Paris, France. {LAUGHTER} Now, I'm sure that was nice work if you could get it. {LAUGHTER} But I didn't think that was a real good use of our money. We eliminated a decades-old radio navigation system which cost $35 million a year. And some people might say, well, why did you do that? We need that navigation system. Well, the thing is, we got this thing call GPS now, and satellites. {LAUGHTER} So the whole radio navigation thing wasn't working so well.
+
+So we've been pushing for cuts on things that we don't need, that government doesn't do so well. And we're also reforming the way government contracts are awarded. Think about this, between 2002 and 2008, the amount spent annually on government contracts more than doubled to half a trillion dollars. Those are contracts with private contractors. And the amount spent on no-bid contracts jumped by 129 percent -- no-bid contracts. That's an inexcusable waste of your money. So last March, I ordered federal departments to come up with plans to save as much as $40 billion a year in contracting.
+
+Now, this brings me to the person standing right over here, the lady in pink. {APPLAUSE} You know before Claire was your senator, she was your state auditor. She just pinches pennies. I mean, she's just -- {LAUGHTER} -- you think I'm -- I don't like waste, but Claire, she just -- every dime, she's -- {LAUGHTER}
+
+So thanks to Claire, we're going to have a new tool to help us meet this goal of eliminating some of these wasteful contracts and no-bid contracts. In the coming weeks we're going to be rolling out a new online database, which Claire McCaskill proposed and helped pass into law. {APPLAUSE} And we'll be able to see, before any new contract is awarded, whether a company plays by the rules, how well they've performed in the past: Did they finish the job on time? Did the company provide good value? Did the company blow their budget? It's your money, so you deserve to know how it's spent and who these contracts are going to.
+
+And that's an example of the kind of service that Claire McCaskill is providing, not just to the people of Missouri, but people all across the country. And in every way but one, Claire McCaskill is the new Harry Truman -- {LAUGHTER} -- in the United States Senate. {APPLAUSE} The one difference is she's a she. {LAUGHTER}
+
+But just as the Truman Commission prevented billions of dollars of wasteful spending during the war and saved lives in the process, through tough and fair-minded oversight of contracting during World War II, Claire has been a relentless force for rooting out scams and making government more efficient. Harry Truman also said in the commission's final report that in completing the mission, “where necessary, heads must be knocked together.” And let me tell you, Claire loves knocking some heads together. {LAUGHTER} She's never been afraid to do that. {APPLAUSE}
+
+As we were driving in, I was saying, boy, it's just good to be back in the Midwest, this is about as close as I've been to home in a while. And part of the reason it's just good to be back is because Washington is a place where tax dollars are often treated like Monopoly money -- they're bartered and traded, and they're divvied up among lobbyists and special interests, and where waste -- even billions of dollars of waste -- is accepted as the price of doing business. When we proposed, by the way, those $20 billion in cuts last year, we were ridiculed by the press, said, “Ah, that's just a spit in the bucket.” Now, I don't know about here in St. Charles, $20 billion, that's real money, isn't it?
+
+{AUDIENCE} Yes! {/AUDIENCE} 
+
+That's real money. But Claire doesn't accept business as usual. I don't accept business as usual. You don't accept business as usual. The American people don't accept business as usual, especially when we're facing these enormous long-term deficits that threaten to leave our children a mountain of debt.
+
+Now, this brings me to the primary topic I want to talk about today. Nowhere is reform more needed than when it comes to our health care system -- nowhere. {APPLAUSE} Nowhere. {APPLAUSE} The health care system has billions of dollars that should go to patient care and they're lost each and every year to fraud, to abuse, to massive subsidies that line the pockets of the insurance industry.
+
+Let me just give you one example -- this is a long recognized but long tolerated problem called “improper payments.” That's what they call them. Washington always has a name for these things. “Improper payments.” And as is often the case in Washington, the more innocuous the name, the more worried you should be. So these are payments mostly made through Medicare and Medicaid that are sent to the wrong person, sent for the wrong reason, sent in the wrong amount. Sometimes they're innocent errors. Sometimes they're because nobody is bothering to check to see where the money is going and they're abused by scam artists and fly-by-night operations.
+
+{COMMENT="The President coughs"} 
+Look, health care. {LAUGHTER} This health care debate has been hard on my health, I got to tell you. {LAUGHTER}
+
+It's estimated that improper payments cost taxpayers almost $100 billion last year alone. Think about that. That, by the way, just that abuse in improper payments is more than we spend on the Department of Education and the Small Business Administration combined. If we created a “Department of Improper Payments” it would be one of the largest agencies in our government.
+
+Now, for the past few years, there has actually been a pilot program that uses a system of tough audits to recover some of this lost money. And even though these audits, they were just operating mainly in three states, they already found a billion dollars in improper payments. So these results were both disturbing and encouraging. They're disturbing because it shows you how much waste there is out there in the health care system. But it's encouraging because we can do something about it.
+
+So earlier today, with Claire looking over my shoulder -- one of our auditors-in-chief -- I signed an order calling on all federal agencies to launch these kinds of audits all across the country. All across the country. {APPLAUSE} So agencies would hire auditors to scour the books, go through things line by line. Auditors are paid based on how many abuses or errors they uncover. So it's a win-win. The auditor, if they do a good job they get a small percentage as a reward. And the taxpayer wins by getting huge sums of money that would otherwise be lost that we can then spend to provide care to people who really need it, or we can use to reduce the deficit.
+
+Now, through this effort, we expect to more than double the amounts we would've otherwise recovered -- a couple of billion dollars over the next few years. And I'm announcing my support for the Improper Payments Elimination and Recovery Act -- that's a mouthful -- but this is a bipartisan bill -- {APPLAUSE} -- is a bipartisan bill to expand our ability to do these audits, so we can prevent even more fraud and abuse and waste.
+
+Now, the reason I'm bringing all this stuff up is because there's been a lot of talk about health care lately. And look, I'll be honest, a lot of people, they're confused, they're saying, well, how can you help people get insurance who don't have it without it adding to our deficit? It's a legitimate question.
+
+Well, the reason is, is because so much of the money currently in our health care system is being misspent. {APPLAUSE} Look, if you've got -- if you've got a house and the roof is leaking and the windows are all letting through a bunch of draft and you get that cold winter and all the heat seeping out, and if you decide to spend on some new windows and fix your roof, that's going to spend a little money, but you'd save money in the long run because you don't have heating expenses, and those leaks aren't ruining your furniture.
+
+The same thing is true with our health care system. We've got leaks everywhere -- that you pay for, directly or indirectly. And if we can have a smarter health care system, then yes, we can provide help to middle-class folks who need it, and at the same time actually reduce the burden on taxpayers.
+
+Now, I know that during the health care debate opponents have tried to scare people, especially our seniors, into thinking that we are going after seniors' Medicare benefits; that's how Obama is going to pay for his plan.
+
+When you look at the facts, that's just plain wrong. In fact, by saving billions of dollars of the sort we just talked about -- waste and abuse -- in Medicare, reining in waste and inefficiencies, we're going to be able to help ensure Medicare's solvency for an additional decade. {APPLAUSE} This is just one example that speaks to how we're going to stop wasting money through the health care system on things that don't make people healthy -- in fact, often take away from the care we receive, and take that money and make it work for the American people. So Medicare will work better, provide better care because of these reforms. Senior citizens who are dealing with the doughnut hole in the prescription drug plan -- that plan will be filled in part because we're not wasting money on stuff that doesn't work. {APPLAUSE} That's common sense.
+
+You know, I get a lot of letters from constituents. I get about 40,000 every day, and I don't read all 40,000 -- somebody does -- but what I've done is I've asked my staff to collect a sampling of 10 letters that I read every night. And I will tell you that my staff is very evenhanded, because about half of these letters call me an idiot. {LAUGHTER}
+
+And at least half of them talk about health care. And when the health care reform debate was really heating up, one of the things that I heard from a lot of seniors was, “Keep your government hands out of my Medicare.” {LAUGHTER} I heard this from a bunch of seniors. They say, “I don't want your government-run health care plan, and don't touch my Medicare.”
+
+And so I'd have to write back and I'd say, “Ma'am,” or “Sir, Medicare is a government program.” {LAUGHTER} “But we're not going go weaken it. We're going to make it stronger.”
+
+But I think those letters tell you something about what sometimes happened in this health care debate, because people have been hit with a lot of bad information. And health care is really important. And so people get worried and they get nervous. But when you get past the divisive and the deceptive rhetoric, it turns out that most Americans are happy that two generations ago we made the decision that seniors and the poor should not be saddled with unaffordable health care costs or forced to go without needed care. That was a decision that we made decades ago. And it was the right decision to make. {APPLAUSE}
+
+And by the way, when we made those decisions, folks were saying the exact same thing about Medicare: “That's socialized medicine, this is government-run care,” and blah, blah, blah.
+
+Now, today we face a different choice, but it's a similar choice to the one that previous generations faced, and that is whether we should help middle-class families and business owners that are being pummeled by the rising costs of health care. See, back when the Medicare debate was taking place, seniors were having problems because they were no longer working, and people were getting their health care through their jobs. And so it made sense to help them. It made sense to help the poor who might not be employed. But back then, middle-class folks, they were pretty secure. If you were working, you had health care that was affordable.
+
+But you know what's happened over the last several decades. What's happened is, is that more and more businesses are saying, we can't afford to provide health care to our workers because the costs are skyrocketing. So they just drop health care altogether. A lot of small businesses, they don't provide health care to their employees anymore. And large businesses, what are they doing? They're saying to you, we're going to jack up your premiums, we got to increase your deductibles. If you're self-employed, you are completely out of luck. If you've got a preexisting condition, you are completely out of luck. And by the way, those of us who are lucky enough to have health care today, we don't know if we're the ones who are going to lose our job tomorrow, or suddenly it turns out that our child has a preexisting condition. And we'll be stuck in the exact same situation, even if we've got good health insurance. {APPLAUSE}
+
+Now, everything I just said, if you talk to my opponents, they'll agree. They'll say, you're right, the health care system is broken. For too many people it's getting worse. They will acknowledge that the status quo is unsustainable. But you know what they tell me? We had that big health care summit. I know you guys watched all seven hours of it. {LAUGHTER} Yes, absolutely. It was scintillating. {LAUGHTER} But you heard what they said. They said, well, we agree with you that the current system is unsustainable, but this is just not the right time to do it. They said, let's start over, that's what they said. We just got to start from scratch.
+
+{AUDIENCE} No! {/AUDIENCE} 
+
+Well, let me tell you something. The insurance industry is not starting over. They just announced a 39 percent rate increase in California and a rate increase of up to 60 percent right across the border in my home state of Illinois -- 60 percent in one year. That's the future. That's the future if we fail to act.
+
+And by the way, I don't recall any of these Republicans trying to do anything about insurance companies' abuses during all the years they were in charge. {APPLAUSE} Do you, Claire? I don't remember. I don't remember them doing anything about folks who needed some help when the government was running surpluses.
+
+So I get a sense with some of these folks, it's just never going to be the right time. But the truth is, we have debated health care in Washington not just this past year, we've been debating it for 70 years. You know who was pushing health care reform? Harry Truman. {APPLAUSE} Harry Truman was pushing health care reform. And by the way, you know what they said? They said, he's pushing socialized medicine. Harry Truman.
+
+And over this past year we've been talking about it, every proposal has been put on the table. Every argument has been made and everybody has made it. And I know that people view this as a partisan issue, but the truth is, is that if you set aside the politics of it, and what was good for Election Day, it turns out that parties have plenty of areas where they agree. And the plan that I've put forward is a proposal that's basically somewhere in the middle -- one that incorporates the best ideas of Democrats and Republicans, even though the Republicans have a hard time acknowledging it.
+
+Now, there are some folks who wanted to scrap the system of private insurance and replace it with a government-run health care program, like they have in some other countries. {APPLAUSE} We've got a couple -- some applause here. And look, it works well for those countries. But I'll just be honest with you: It was not practical or realistic to do here, to completely uproot and change a system where the vast majority of people still get their health care from employer-based plans.
+
+And on the other side of the spectrum there are those who believe that the answer is to simply unleash the insurance industry, and provide less oversight and fewer rules.
+
+{BOOING} 
+
+And that somehow that's going to drive down prices for everybody. This is called the “putting the foxes in charge of the hen house” approach to health care reform. {APPLAUSE} So whatever state regulations were in place, we'd get rid of those and so insurance companies could basically find a state that had the worst regulations and then from there sell insurance everywhere. And that somehow that was going to be helpful to you. All this would do would give insurance companies more leeway to raise premiums and deny care.
+
+So I don't believe we should give either the government or the insurance companies more control over health care in America. I want to give you more control over health care in America. {APPLAUSE}
+
+So my proposal builds on the current system where most Americans get their health care from their employers. If you like your plan, you can keep your plan. If you like your doctor, you can keep your doctor. But my proposal would change three important things about the current health care system. Now I want everybody to pay attention -- I know it's a little warm in here, but I want you to pay attention, so that when you are talking to your friends and your neighbors and folks at work and they're wondering what's going on, I want you to be able to just say, here are the three things Obama is trying to do.
+
+First, it would end the worst practices of insurance companies -- and it would begin to do so this year. This year. {APPLAUSE} Thousands of uninsured Americans with preexisting conditions will be able to purchase health insurance for the very first time in their lives or since they got sick. {APPLAUSE} This year. Insurance companies would be banned from denying coverage to children with preexisting conditions this year. {APPLAUSE} Insurance companies would be banned from dropping your coverage when you get sick. {APPLAUSE} Insurance companies would no longer be able to arbitrarily and massively raise premiums. They would be subject to review.
+Those practices will end as a consequence of health care reform. {APPLAUSE}
+
+All new insurance plans would be required to offer free preventive care to their customers. And if you buy a new plan, there will be no more lifetime limits on the amount of care you receive from your insurance company -- {APPLAUSE} -- all that fine print that ends up getting folks into trouble. If you're a uninsured young adult, you'll be able to stay on your parents' insurance policy until you're 26 years old. {APPLAUSE} So a lot of folks, as they're transitioning into the workplace, will have insurance. {APPLAUSE} All right, so that's part one of the plan: insurance reform.
+
+Part two. For the first time, uninsured individuals and small businesses will have the same kind of choice of private health insurance that members of Congress get. {APPLAUSE} If it's good enough for members of Congress, it's good enough for the people who pay their salaries. {APPLAUSE}
+
+This should not be a controversial idea. The reason that federal employees usually have pretty good insurance is because they're part of a pool of millions of people. So what happens is they can negotiate for really good rates because the insurance companies really want those millions of customers. So what we're talking about is setting up a pool for people who don't work for the federal government -- you, individuals, small businesses; they can be part of this pool. And this is an idea that a lot of Republicans embraced in the past until I said it was a good idea. {LAUGHTER}
+
+So all this would drive down rates for those individuals and small businesses who aren't part of a big company that get good rates. And my proposal says if you still can't afford it, even though now the premiums are lower than you can buy on your own, then we'll offer you some tax credits to make it affordable. And those tax credits would add up to the largest middle class tax cut for health care in history. {APPLAUSE}
+
+So it's estimated that this would drive down the costs for folks who don't work for big companies -- so they don't get as good of a deal -- by 14, 20 percent. This is before the subsidies, before the tax credits.
+
+Now, it's true that this will cost some money. It's going to cost about a hundred billion dollars per year. That's real money, that's a lot of money. But most of that money comes from the nearly $2.5 trillion a year that America already spends on health care that we're not spending well; that we're spending badly right now.
+
+So we pay for this proposal by getting at the abuse that we just talked about. We eliminate wasteful taxpayer subsidies that go to the insurance companies. Do you know that through the Medicare program, we are giving insurance companies close to $20 billion a year, about $18 billion every year of taxpayer money through the Medicare system. And we're saying, well, why do we do that? They're making a profit on their own. And while some of what we save goes to helping the uninsured, most of it goes back to small businesses and the middle class who right now just aren't getting a good deal. It doesn't make sense to me that people who are really poor are able to get Medicaid, but people who are working really hard and just not quite as poor, they don't get a decent deal. That doesn't make sense to me. {APPLAUSE}
+
+All right. That's the second part. First part: insurance reform. Second part: creating this marketplace where small businesses and individuals can get a good deal.
+
+Third part: bringing down the cost of health care for families and businesses and for the federal government. Cost control. Now, when you listen to the other side, they'll tell you, we want to do more about cost, we want to do more about cost. Well, let me tell you, we've incorporated almost every serious idea from across the political spectrum about how to contain rising health care costs. There's not an idea out there that we have not worked on, that we have not included in this proposal.
+
+And according to the Congressional Budget Office -- this is the office that is supposed to be the independent referee for how things cost, it's not supposed to be Democrat or Republican -- according to the Congressional Budget Office, people buying health plans in the individual market right now, they'd see their premiums go down 14 to 20 percent. {APPLAUSE} I already mentioned that.
+
+Now, here's another thing. A recent study by the Business Roundtable -- that's made up of all these big companies out there, they don't -- they're nonpartisan, but it's not like they're just dyed-in-the-wool liberal Democrats, let's put it that way; these are company CEOs -- they commissioned a study and said the reforms could reduce premiums by as much as $3,000 per employee. That's their study, not mine.
+
+Then the Congressional Budget Office said that the government would save a trillion dollars, reduce the deficit by a trillion dollars. So think about it: You're saving money, employers are saving money, the federal government is saving money -- not according to me, but according to these studies that were done by independent analysts.
+
+So here's the bottom line, St. Charles. There's no government takeover, unless you consider reining in insurance companies a government takeover -- and I think that's the right thing to do. {APPLAUSE} There's no cutting of Medicare benefits. There's just cutting out fraud and waste in Medicare to make it stronger. {APPLAUSE}
+
+What we're proposing is a common-sense approach to protecting you from insurance company abuses and saving you money. That's the proposal, and it is paid for. And I believe that Congress owes the American people a final up or down vote on health care reform. {APPLAUSE} The time for talk is over; it's time to vote. {APPLAUSE} It's time to vote. Tired of talking about it. {APPLAUSE}
+
+Now, of course, folks in Washington, they like to talk. And so Washington is doing right now what Washington does. They're speculating breathlessly, day or night, every columnist, every pundit, every talking head: “Is this proposal going to help the Republicans or is this proposal going to help the Democrats?” “What's going to happen to the President's poll numbers if the vote doesn't go forward?” “If it does go forward?” “What will it mean for November?” “What will it mean for 2012?” “How's the politics going to play?”
+
+I heard the Republican Leader of the Senate the other day -- he's warning Democrats, you better be careful about voting for this; it could hurt you. I don't know how sincere the Republican Leader is about the best interests of Democrats. {LAUGHTER} He's been very generous with advice. {LAUGHTER}
+
+You know what, here's the bottom line, St. Charles. I don't know how the politics play. I don't know. This is a hard issue. It's a complicated issue. There is a lot of information floating around out there. A lot of it is inaccurate. The opponents have spent millions of dollars fighting it. And people during recessionary times, they're anxious and sort of thinking, gosh, can we really afford to change things right now? Maybe we should just kind of stick with the status quo, even though we know it's not working for us.
+
+So I don't know how the politics plays. But here's what I do know: The American people will be more secure with this reform. Our country will be stronger because of this reform. {APPLAUSE} I don't know about the politics. But I know it is the right thing to do, and that's why I'm fighting so hard to get it done. {APPLAUSE}
+
+We've seen years -- decades -- where Washington just puts off dealing with our toughest challenges because it's too hard, because we don't know how the politics works. And the will and the capacity to act, to do serious things in this country, starts just getting sucked away. Just gets sacked by partisanship and political gamesmanship and debates about who's up and who's down, and how does this play politically -- instead of asking what's right and what's wrong. And we've seen terrible consequences -- not just these last two years of turmoil, but a decade of struggle for middle class families. {APPLAUSE}
+
+We can't accept the status quo. We can't accept the same old/same old. I won't accept it. Claire McCaskill won't accept it. Not when it comes to how we manage taxpayer dollars. Not when it comes to how our health care system works. Not when it comes to meeting the difficult challenges that we face. And that's why Claire and I are fighting to stop waste and abuse in our government. That's why Claire and I are fighting to pass these health insurance reforms. {APPLAUSE} Now is the time. Now is the moment. Now is the time for us to leave for the next generation and generations to come a stronger and more prosperous country. We are not backing down. We are not quitting, St. Charles. And we are going to get this done. {APPLAUSE}
+
+Thank you. God bless you. And God bless the United States of America. {APPLAUSE} 
+
+{/speech}

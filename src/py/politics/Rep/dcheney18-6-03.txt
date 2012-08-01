@@ -1,0 +1,39 @@
+﻿{title} VP's Remarks at the 25th Anniversary of Washington Campus {/title}
+{event} ----- {/event}
+{speaker} Dick Cheney {/speaker}
+{date} June 18, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. {APPLAUSE} Thank you. Well, thank you very much, Bill. I'm delighted to be here to help celebrate the 25th anniversary of the Washington Campus, and I am honored, as well, to get to spend some time this evening with Bill Seidman. 
+
+I had no idea when I signed on for this gig that Dave Gergen would be here tonight to participate in the festivities. Dave and I go way back. We were actually classmates at Yale and -- starting in 1959. And of course, David graduated. {LAUGHTER} 
+
+{OTHER-SPEAK} And he went to the White House. {/OTHER-SPEAK} {LAUGHTER} 
+
+Well, I was going to explain, the President -- some of you may remember the President went back to Yale not too long ago and spoke at a commencement. They'd invited him back. And he got up and explained to the assembled students there, as they were getting ready to receive their diplomas that if you went through Yale and graduated with a gentleman's C, you could become President of the United States. But if you flunked out, you could be Vice President of the United States. {LAUGHTER} So it's a pleasure to see David back here. I'm not sure I should be talking like this before an academic group, though. {LAUGHTER} 
+
+But Bill and I have been friends for nearly 30 years. We first met in that summer, August of 1974. And it was a critical moment in the nation's history, as we went through the transition from the Nixon administration to the Ford administration. Bill, of course, had been working for President Ford for some time. And I believe it was on August 9, 1974, when I was asked by Don Rumsfeld to go back and go to the White House and become part of the transition team. And Bill was there as -- been part of the vice presidential staff. Of course, we worked together throughout the time that President Ford was in the White House. And Bill, as the Assistant to the President for Economic Affairs -- in our economic policy. 
+
+The President only had six or seven assistants in those days. We were better organized than we are now. {LAUGHTER} But I remember looking at the schedules of the various assistants to the President. I tried to keep track and make sure they were all working 40 hours a week. {LAUGHTER} And I remember there was something on Bill's schedule, a very mysterious entry on his schedule that showed up repeatedly, called the Green Conference. And one day I finally asked Bill, I said, what's the Green Conference? And Bill admitted that's when he and Roger Porter went out to play tennis. {LAUGHTER} 
+
+But since Bill worked in the White House, obviously, he's continued to make great contributions to our Nation, serving as the co-chairman of President Reagan's White House Conference on Productivity in the early '80s. Later on, a six-year term as the chairman of the FDIC and the first chairman of the Resolution Trust Corporation. 
+
+In addition to his commitments to public service, Bill, of course, has had a very successful business career -- as a CEO of Seidman and Seidman, Certified Public Accountants, and then as chief financial officer and a director at Phelps, Dodge, and currently as the consultant, publisher, and chief commentator on CNBC. 
+
+While pursuing his business interests, Bill has also led a third life as a prominent educator, as dean of the business school at Arizona State, and as one of the founders of the Washington Campus, a nonpartisan, not-for-profit organization committed to educating business leaders about how decisions get made in our federal government. 
+
+I'm one of those that Bill persuaded early on to lecture regularly in the Washington Campus program. And it was a tremendous experience, opportunity to pause and reflect every once in a while as the classes came through. And it was important work to do because I was the one who had to clean up after Norm Ornstein explained the political system to the students. {LAUGHTER} 
+
+But most of all it was valuable because it exposed future business leaders to the work of government. And that exposure, we think, is absolutely vital. I think oftentimes when business executives and government officials meet, they often end up talking past each other. Neither understands the other very well, sometimes. Many business executives don't begin to understand the constraints and pressures that policymakers face when they have to make a decision or evaluate a proposal. And for their part, many government officials have never met a payroll, have never run a business, have never had to deal with government regulations on the receiving end. They have no concept of what the world of business is really like, and not all of them understand the importance of free markets, low taxes, and creating an environment in which businesses and entrepreneurs can take risk and invest in new technologies, and hire more people. 
+
+That's why the Washington Campus program has been so important. They're helping bridge that gap between the world of business and the world of politics. Business leaders learn to see the world as Washington policymakers see it, and policymakers often gain a better understanding of the realities of business life. 
+
+Most importantly, the Washington Campus helps the American people who are deeply affected by the decisions that are made right here in Washington and who need to have those decisions made by government officials based on an accurate and a sophisticated understanding of our economy and of the business world. 
+
+So let me conclude again by thanking you tonight for this award. It's been a pleasure coming to the Washington Campus over the years, meeting with its many fine students. And I want to congratulate my friend Bill Seidman and everyone connected with the Washington Campus for the tremendously important work that you've done. Thank you very much. {APPLAUSE} 
+
+{/speech} 

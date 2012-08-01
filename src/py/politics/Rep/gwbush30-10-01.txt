@@ -1,0 +1,53 @@
+﻿{title} Remarks by the President In Announcement Of Lessons of Liberty Initiative {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} October 30, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all very much. Sit down. {APPLAUSE} Behave yourself. {LAUGHTER} Thank you for the warm welcome. {LAUGHTER} I'm honored to be here to announce a national effort to bring together veterans and students all across America during the week of Veterans Day, to give our young examples of duty and courage at a time when both are sorely needed.
+
+I want to thank Senator Dole for being here. I appreciate his eloquence and his service to the country. {APPLAUSE} I want to thank the two members of my Cabinet who traveled with me today, Secretary Principi and Secretary Paige, both of whom represent the best of public service. {APPLAUSE} I want to thank Congresswoman Connie Morella for being here, as well. {APPLAUSE}
+
+Rebecca, thank you for opening up your beautiful school. I want to thank you. And I want to thank the teachers who are here. {APPLAUSE} Teaching is such a noble profession. And if some of you students are wondering what you might want to do when you get older, think about teaching.
+
+I also want to thank the students, and the veterans, and my fellow Americans. {APPLAUSE} I can assure you it makes some of us old guys feel warm in our hearts when we see the enthusiasm you have for your school and the love you have for your country. I am proud to be standing with the Patriots. {APPLAUSE}
+
+We're a nation of patriots. The attacks of September 11th, and the attacks that have followed, were designed to break our spirit. But instead, they've created a new spirit in America. We have a renewed spirit of patriotism. We see it in the countless flags that are flying everywhere in America. We hear it in familiar phrases that move us more deeply than ever before. We all know that this is one nation, under God. And we pray that God will bless America, the land that we all love, regardless of our race, regardless of our religion, regardless of where we live.
+
+We have a renewed appreciation of the character of America. We are a generous people, a thoughtful people who hurt, and share the sadness when people lose their life or when people are hurt. We've helped each other in every way we know, in donations, in acts of kindness, in public memorials, in private prayer. We have shown in difficult times that we're not just a world power, that we're a good and kind and courageous people.
+
+As we pursue the enemy in Afghanistan, we feed the innocents. As we try to bring justice to those who have harmed us, we find those who need help. The events of these seven weeks have shown something else. They have shown a new generation, your generation, that America and the cause of freedom have determined enemies; that there are people in this world who hate what America stands for. They hate our success, they hate our liberty. We have learned all too suddenly that there are evil people who have no regard for human life, and will do whatever it takes to try to bring this mighty nation to its knees.
+
+On the Korean War Memorial in Washington are these words, "Freedom is not free." Our commitment to freedom has always made us a target of tyranny and intolerance. Anyone who sets out to destroy freedom must eventually attack America, because we're freedom's home. And we must always be freedom's home and freedom's defender. We must never flinch in the face of adversity, and we won't. {APPLAUSE}
+
+You've been learning this by studying your history -- at least some of you by studying your history. {LAUGHTER} Now you're learning the price of freedom by following the news. You're learning that to be an American citizen in a time of war is to have duties. You're learning how a strong country responds to a crisis, by being alert and calm, resolute and patient.
+
+And you're the first students who ever learned the -- who have had to learn the reality that we're having to fight a war on our own land. You're the first generation of students who has ever witnessed a war fought in America. This is a two-front war we fight. On one front is the home front. Our government is doing everything we possibly can to disrupt and deny and destroy anyone who would harm America again. And the truth of the matter is, the best way to fight for the homeland is to find the terrorists, wherever they hide, wherever they run, and to bring them to justice. {APPLAUSE}
+
+I also want to make it clear that the doctrine I laid out to the United States Congress is a doctrine this nation will enforce. It says clearly that if you harbor a terrorist, if you feed a terrorist, if you provide sanctuary to a terrorist, if you fund a terrorist, you are just as guilty as the terrorist that inflicted the harm on the American people. {APPLAUSE}
+
+Our nation gave those who harbor the al Qaeda organization ample opportunity to respond to reasonable demands. Our demands were just, and they were fair. We said very simply: Turn over al Qaeda. Send the terrorists out of your land. Release the innocent Americans and other foreigners you hold hostage in Afghanistan, and destroy al Qaeda terrorist camps and training activity camps. And we gave them ample opportunity to respond. And they chose the wrong course. And then -- they will now pay a price for choosing the wrong course.
+
+This is a nation that is resolved to win. And win we must, not only for your generation, but for generations to come. {APPLAUSE}
+
+This country has always been able to count on men and women of great courage. From the day America was founded, 48 million have worn the uniform of the United States. More than 25 million veterans are living today, some of whom are with us at Wootton High. And you may know some of them in your families. I know one such veteran. He fought in World War II, like Senator Dole -- my dad. {APPLAUSE}
+
+We must remember that many who served in our military never lived to be called veterans. We must remember many had their lives changed forever by experiences or the injuries of combat. All veterans are examples of service and citizenship for every American to remember and to follow.
+
+In 12 days, on Veterans Day, we will honor them. We will remember the Bob Doles of the world. We will remember a generation that liberated Europe and Asia, and put an end to concentration camps. We will remember generations that fought in the cold mountains of Korea, and manned the outposts of the Cold War. We will remember those who served in the jungles of Vietnam, and on the sands of the Persian Gulf. In each of these conflicts, Americans answered danger with incredible courage. We were equal to every challenge. And now, a great mission has been given a new generation -- our generation -- and we vow not to let America down. {APPLAUSE}
+
+Today I have a special mission for our veterans, and a special request of our schools. I ask all public, private and home schools to join our Lessons for Liberty Initiative, by inviting a veteran to speak to your students during the week of Veterans Day. I'm particularly pleased to announce that Wootton High has already put out the call, and Ron Ten Eyck has answered. Ron's a veteran of World War II. You need to listen to what he has to say.
+
+Lessons of Liberty is supported by veterans groups all across America: American Legion, VFW, Military Order of the World Wars, as well as education groups all across our country. Anyone interested in participating in this important event should go to this web page: www.va.gov, and then click on "Veterans Day".
+
+In addition to launching Lessons of Liberty, I will sign a proclamation in a minute, asking all Americans to observe the week of November 11th as National Veterans Awareness Week. {APPLAUSE} In these difficult days here in America, I ask all of us, children and adults, to remember the valor and sacrifice of our veterans. American veterans have extraordinary stories. We should listen to them. American veterans preserved our world and freedom, and we should honor them. American veterans show us the meaning of sacrifice and citizenship, and we should learn from them.
+
+Americans should always honor our veterans. At this moment, we especially need the example of their character. And we need a new generation to set examples of its own, examples in service and sacrifice and courage. These veterans have shaped our history, and with their values, your generation will help guide our future.
+
+God bless, and may God bless America.
+
+{/speech} 

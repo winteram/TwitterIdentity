@@ -1,0 +1,25 @@
+﻿{title} Remarks By The President Honoring The 2008 Mls Champion Columbus Crew Soccer Team {/title}
+{event} Honoring The 2008 Mls Champion Columbus Crew Soccer Team {/event}
+{speaker} Joe Biden {/speaker}
+{date} July 13, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. Please have a seat. Well, welcome to the White House, and congratulations to the Columbus Crew on winning your first MLS Cup. Give them a big round of applause. {APPLAUSE}
+There are a couple people who are big fans, and so -- they also happen to be members of Congress. I want to acknowledge them: Senator Sherrod Brown of Ohio, Representative Steve Driehaus, and Representative Mary Jo Kilroy. Please give them a big round of applause. {APPLAUSE} And the Olives soccer team is here -- is that this crew right here? I suspected as much. They've been working with the Crew -- they're all from the Columbus area. So welcome to the Rose Garden.
+And congratulations to all of the rowdy fans who were with you guys every step of the way. I hear that the Crew stadium was one of the toughest places to play for visiting teams, although I think you saw, playing the Chicago Fire, that we've got a little -- {LAUGHTER} -- you know, we've got some pretty good fans in Chicago, as well.
+I want to thank Clark Hunt and all the members of the Hunt family for being here today. The Hunt family's legacy and dedication to American professional sports -- and to soccer in particular -- has been critical to the success of this team but also to the success of the league.
+I want to congratulate Coach Warzychi -- Warzycha -- and -- you know, it's like Barack Obama, you know, you screw it up occasionally. And I also want to congratulate Coach Schmid. Under your leadership, this team made an incredible turnaround from a losing season in 2007 to the best record in MLS in 2008. And congratulations, Sigi, on being chosen MLS Coach of the Year.
+Now, I should admit up front that I don't get a chance to see a lot of professional sports teams these days. Most of the soccer I've seen recently has been at my daughters' games. And I've learned that there are two important rules at that age -- I'm sure some of you may remember this. The first is, no matter what position you play, just run straight to the ball and congregate around it. {LAUGHTER} And the second rule is, don't forget the snacks at half-time. {LAUGHTER}
+But I see that my daughters love playing this game of soccer, and we know that this is an exciting time for soccer in America. We just watched Team USA shock the world at the Confederation Cup, and we're in the middle of another impressive run in the Gold Cup.
+As some of you may know, I just got back from the G8 meeting in Italy, and one of the leaders there was President Lula da Silva of Brazil. He gave me a hard time about Team USA dropping a 2-0 lead in the Confederations Cup final, but I reminded him that we held our own against the best teams in the world, we shocked a lot of people, and we might just see that team in the World Cup next year.
+So it's clear that soccer in America is on the rise -- and MLS is a big part of that.
+I want to congratulate Chad Marshall on being named Defender of the Year; Guillermo Barros Schelotto for winning the MVP Award and assisting in all three goals in the championship game.
+And finally, I want to salute these guys for donating so much time and energy to the Columbus community, and we thank them for participating in our United We Serve summer of service. Just last week, the Crew spent time with young people in Columbus cleaning up some of the low-income neighborhoods near Crew Stadium, which strengthens their community and reaches out to folks who need it most.
+That kind of spirit of service is what this White House wants to encourage in all citizens, but seeing it from professional athletes is especially gratifying. And so we appreciate also the clinic that the Crew is going to put on for young people here in D.C. today, which teaches them not just skills but also how to live healthy and active lives.
+And thanks to that example -- an example set by the Crew and by players across MLS and women's professional soccer, as well -- I'm confident that American soccer will remain something to be excited about for years to come.
+So congratulations again for the incredible championship season, and good luck next year. And I have to say that that's a big trophy -- so give them a big round of applause, everybody. Thank you. {APPLAUSE} 
+
+{/speech}

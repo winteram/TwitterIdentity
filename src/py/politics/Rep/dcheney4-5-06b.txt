@@ -1,0 +1,16 @@
+﻿{title} Vice President's Remarks at a Meeting with Romanian President Traian Basescu at the Vilnius Conference 2006 {/title}
+{event} Reval Hotel LietuvaVilnius, Lithuania {/event}
+{speaker} Dick Cheney {/speaker}
+{date} May 4, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I'm delighted to have the -- delighted to have the opportunity this morning to meet with President Basescu of Romania. Romania is a good friend and ally, a NATO partner now, and has been very active in supporting our mutual efforts in many places -- Afghanistan and Iraq, among others. And we'll work closely with Romania as one of the leaders really in the Black Sea region. And they play a very important role in NATO since they've been a member now for two years. We're delighted to have the opportunity to spend some time with the leader of an important ally in Europe.
+
+{OTHER-SPEAK} Well, thank you very much, Vice President. Anyway, as we mentioned in last period, Romania will respect its obligations, as well as assume when we go together in Afghanistan and Iraq, we will fight against terrorists. We will fight for democracy because we know nothing better was invented over last few centuries than democracy -- {LAUGHTER} -- even if it is not a very perfect system, but is something which we can live with.
+
+And from our point of view, of course, we will assume our responsibilities as country which is -- border of NATO and from 1st of January, 2007, we are the border country of the EU, which make us very responsible for the future of both organizations, having in view the realities of Black Sea and western Balkans. But the Black Sea will be the key of Europe in our opinion in the next 10, 20 years. If we'll settle the Black Sea problems, most probably we'll have a peaceful Europe and a secure Europe. Otherwise, if we will postpone the moment when we will take action, we will have a lot of problems in Europe. {/OTHER-SPEAK} 
+
+{/speech}

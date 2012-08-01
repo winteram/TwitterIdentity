@@ -1,0 +1,46 @@
+﻿{title} Remarks by the President at Kennedy Center "speak Truth to Power" Performance {/title}
+{event} Eisenhower Theater, Kennedy Center, Washington. D.C. {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 19, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. President Arias, first let me thank you for your presence here tonight and your remarkable leadership.
+
+And, Kerry, I want to join this great throng in telling you how grateful we are that you have undertaken this project with such passion and commitment. I know that in spite of the fact that half the seats tonight are filled by your family -- {LAUGHTER} -- there are a lot of people here who feel just as strongly about you as Andrew and Ethel, and your mother-in-law, Matilda, and Senator Kennedy and the others who are here. You are an astonishing person, and we thank you for amplifying the voices of the human rights defenders who have honored us by their presence here tonight.
+
+These men and women have carried on against unimaginable obstacles, knowing the truth once spoken can never be completely erased; that hope once sparked, can never be fully extinguished. They have seen injustice aided by apathy. In spite of all the nice things you said about me tonight, a full half dozen of them were prodding me along tonight before I came out here to do even better, and I like that a lot. They have carried on knowing that even a single act of courage can be contagious, and their courage, and that of so many others around the world, has indeed proved contagious.
+
+More people live in freedom today than at any time in human history, and in 1999 more people around the world won the right to vote and choose their leaders than was in even the case in 1989, the year the Berlin Wall fell. From Bosnia to Croatia to Kosovo, we are no longer struggling to stop crimes against humanity, but instead, working steadily to bring perpetrators to justice and to create the conditions of humane living. From South Africa to Chile, people are confronting the injustices of the past so that their children will not have to relive them. And all over the world, people finally are recognizing, as Hillary said in Beijing, that women's rights are human rights. {APPLAUSE}
+
+Yet for all the brave work that is captured in this magnificent book and that will be honored tonight, freedom's struggle is far from over. And I think it is appropriate tonight that we all ask ourselves at this magic moment of prosperity and peace for our country, what are our responsibilities to advance the struggle? How can we use this global age to serve human rights, not to undermine them?
+
+Globalization is not just about economics. It has given us a global human rights movement, as well. Whether activists are fighting for press freedom in Ivory Coast, or the rights of children in America, they can talk to each other, learn from each other, and know they are not alone. Indeed, maybe the most important lesson of this evening is to say to all of them, whom we honor, you are not alone.
+
+Global economic integration can, if done right, make it harder for governments to control people's lives in the wrong way. Information technology can be one of the most liberating forces humanity has ever known.
+
+Twenty years ago it was a great victory if we could smuggle a handful of mimeograph machines to dissidents in Poland or Russia. When I went to the Soviet Union 30 years ago, young people would come up to me on the street and try to figure out if there was some way I could smuggle a book back in to them. Now, hardly a government on Earth, in spite of all their best efforts, can stop their much more technologically wise young people from using the Internet to get knowledge from halfway around the world.
+
+But for freedom to prevail, we need to do more than open markets, hook up the world to CNN, and hope dictators are driven out by .coms. Real change still depends upon real people, on brave men and women willing to fight for good causes when the chance of success is low, and the danger of persecution is great -- men and women like those we honor tonight. Globalization on the whole, I think, will prove to be a very good thing, but it is not a human rights policy. To advance freedom and justice, we have to support and defend their champion.
+
+Today, the defenders of human rights need our support in Serbia, where the democratic opposition is stronger than ever, heading into critical elections this weekend. Mr. Milosevic has stepped up his repression. Surely, he is capable of stealing the election. But if he does, we must make sure, all of us -- not just the Americans, and certainly not just the American government -- that he loses what legitimacy he has left in the world, and the forces of change will grow even stronger. We must keep going until the people of Serbia can live normal lives and their country can come back home to Europe.
+
+The defenders of human rights need our support in Burma, as well. Their only weapons are words, reason, and the brave example of Aung San Suu Kyi. But these are fearful weapons to the ruling regime. {APPLAUSE} So last week they confined her again, hoping the world would not hear or speak out. But voices were raised, and her struggle continues.
+
+Those who rule Burma should know, from this place tonight, with all these people we honor, all of us will watch carefully what happens, and you can only regain your place in the world when you regain the trust of your people and respect their chosen leaders.
+
+In these and so many other places, those who fight for human rights deserve our support and our absolute conviction that their efforts will not be in vain. All human rights defenders are told in the beginning they are naive, they are not making a difference, they are wasting their time. Some have even been cruelly told they are advancing some sort of Western cultural notions of freedom that have no place in their country. They are all laughed at, until one day their causes triumph and everyone calls them heroes.
+
+The same has been said of almost every human rights policy our nation has pursued in the past. Kerry talked about East Timor. A few years ago, how many people would have predicted it could become independent? A dozen years ago, how many people believed the Baltic states would be free? But all those people who came out for Captive Nations Week, year in and year out, and were literally ridiculed in the '60s and '70s, would be right, and all the hard-headed realists would be wrong.
+
+The men and women we honor never gave in to repression, fatigue, to cynicism, or to realism which justifies the unacceptable. And neither should America. {APPLAUSE}
+
+Hina Jilani, who has worked for women and human rights in Pakistan, and is with us tonight, said, "I never have a sense of futility because what we do is worth doing." If you believe that every person matters, that every person has a story, and a voice that deserves to be heard, then you must believe that what all human rights defenders do everywhere, is worth doing.
+
+Let us never develop a sense of futility, for the people we honor tonight have proved the wisdom of Martin Luther King's timeless adage, that the arc of history is long, but it bends toward justice.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

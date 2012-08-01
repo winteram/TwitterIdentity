@@ -1,0 +1,32 @@
+﻿{title} Remarks by the President in Phone Call to Recovery Act Advanced Battery Grant Recipient, A123 Systems in Livonia, MI {/title}
+{event} September 13, 2010  {/event}
+{speaker} Barack Obama {/speaker}
+{date} September 13, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} This morning, President Barack Obama called A123 Systems from the Oval Office to congratulate them on opening the nation's first manufacturing facility to mass-produce electric vehicle batteries. {/description}
+
+{speech} 
+
+Good morning, everybody.
+
+{OTHER-SPEAK} Good morning. Is that a familiar voice we hear? {/OTHER-SPEAK} 
+
+Governor Granholm, this is your friend, Barack Obama. {APPLAUSE}
+
+{OTHER-SPEAK} Mr. President, we're so happy to welcome you to our celebration of A123. I was just explaining how great it is that the Recovery Act provided jobs for Michigan. Maybe you have a few words to those who are assembled here. {/OTHER-SPEAK} 
+
+Well, look, I wish I could be there in person to celebrate with you today. But I am calling to congratulate A123 Systems on this tremendous milestone. As you said, thanks to the Recovery Act, you guys are the first American factory to start high-volume production of advanced vehicle batteries.
+
+I met with David and some of the A123 team here at the White House back in April, and it's incredibly exciting to see how far you guys have come since we announced these grants just over a year ago. And this is important not just because of what you guys are doing at your plant, but all across America, because this is about the birth of an entire new industry in America -- an industry that's going to be central to the next generation of cars. And it's going to allow us to start exporting those cars, making them comfortable, convenient, and affordable. It helps our manufacturing industry to thrive, and with it, that means our communities and our states and our country are going to thrive.
+
+For a long time, our economic policies have shortchanged cutting-edge projects like this one and it put us behind the innovation race. And I don't have to tell folks in Michigan that fewer parts of the economy have been harder hit by this recession than manufacturing. But what I said when you guys were in the White House was I do not see a decline in manufacturing as inevitable for the United States. And I know you don't either.
+
+And so we're starting to reverse that slide. And anybody who doubts that has to go and see what you guys are achieving. And I want everybody to understand just a few years ago American businesses could only make 2 percent of the world's advanced batteries for hybrids and electric vehicles -- just 2 percent. But because of your extraordinary work, thanks to the Recovery Act, we're going to get up to 40 percent of the world's capacity. And that means when folks lift up their hoods on the cars of the future, I want them to see engines and batteries that are stamped: Made in America. And that's what you guys are helping to make happen. {APPLAUSE}
+
+So I want to thank your great governor, Jennifer Granholm, for her vision in jumpstarting a homegrown clean energy industry. I want to thank your congressional delegation -- Senator Levin and Stabenow and Chairman Dingdell and Chairman Levin for their leadership and their support of the Recovery Act. I also want to thank my Secretary of Energy, Steven Chu, for his extraordinary work to get the money out the door quickly and wisely.
+
+But most of all, I want to congratulate and thank all the men and women of A123 Systems. You guys are making us proud. The work you're doing will help power the American economy for years to come. And so everybody there should just feel very, very good about what you guys are doing. And I am looking forward to continuing to see the great work that you guys do in the years to come.
+
+So thank you very much, everybody. And good luck. {APPLAUSE} 
+
+{/speech}

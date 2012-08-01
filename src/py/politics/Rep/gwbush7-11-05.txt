@@ -1,0 +1,62 @@
+﻿{title} President's Remarks at a Virginia Victory Rally {/title}
+{event} Dominion Hangar, Richmond, Virginia {/event}
+{speaker} George W. Bush {/speaker}
+{date} November 7, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all very much. {APPLAUSE} Thanks for the kind introduction, "Governor." {APPLAUSE} We're not taking anything for granted. Laura and I are here to ask you to turn out the vote tomorrow for Jerry Kilgore as the governor. {APPLAUSE}
+
+I want to thank you all for coming out tonight. I remember what it's like to be right there on election eve. This man has worked his heart out. He has traveled the great Commonwealth of Virginia talking common sense to the voters. {APPLAUSE} And now it's your time. He's counting on you to get out and turn out the vote, and deliver a great victory on behalf of all people of Virginia by putting him in the governor's chair. {APPLAUSE}
+
+I appreciate you coming out here to the airport. See, we were just flying in from Latin America. {APPLAUSE} Decided to stop a little short of our destination. {APPLAUSE} See, I know a man of character and integrity, and he's standing right next to me. And that's Jerry Kilgore. {APPLAUSE}
+
+When you find a man who's got this kind of character, it makes sense to stop short of the destination to come in and to say to the people of this state, put him in office, and you'll be proud of the job he'll do for you. {APPLAUSE}
+
+He's got a record. See, you can count on him. You know where he stands, and you know he can get the job done. And equally important, you know he doesn't need to run a poll to tell him what to think. {APPLAUSE}
+
+{AUDIENCE} Jerry! Jerry! Jerry!
+{/AUDIENCE} 
+He's got a clear agenda. That's what you want in somebody running for governor. You got to know where they stand not yesterday, but today and tomorrow. See, you got to understand that this is a guy who thinks clearly. And when he says something, he means what he says. {APPLAUSE}
+
+And so I hope you'll work hard tomorrow to call up your friends and neighbors, and tell them they have a duty in this democracy of ours to vote. {APPLAUSE} And tell them -- and tell them if they want good government -- good, solid, sound conservative government -- to put this good man in the governor's chair in Richmond. {APPLAUSE}
+
+And while you're putting in Jerry Kilgore, make sure you put in Bill Bolling to be the next lieutenant governor -- {APPLAUSE} -- and Bob McDonnell to be the next attorney general.
+
+You know, Laura and I are thrilled to be here with Jerry and Marty. I like a guy who loves his wife. {APPLAUSE} I sure love mine. {APPLAUSE} We celebrated our 28th wedding anniversary in Argentina. {APPLAUSE} I told her if she married me I'd take her to -- I'd celebrate our anniversary in exotic places.
+
+I appreciate very much Marty standing by and working in this campaign. I know how tough it is on a family, but when you believe in something, when you believe in the people of the Commonwealth, it's worth the sacrifice, and it's worth the hard work. And the Kilgore family believes in the people of this important state. {APPLAUSE}
+
+I want to thank -- I want to thank their children, Klarke and Kelsey. I want to thank Jean Ann Bolling, Maureen McDonnell. I want to thank all the families of the candidates who are -- supporting the candidates. It's important to be a family unit in this kind of race, see. There's a lot of pressure, there's a lot of noise, and there's nothing better to go home to a loving family. And that's why this guy is going to be a good governor. See, when times get hot, he's going to be able to rely on some basics in life, and that is his faith and his family to see him through. {APPLAUSE}
+
+I appreciate Congressman Eric Cantor and his wife, Diana. Thank you all for coming. I thank all the state and local officials who are here. I want to thank our -- our political officials. I want to thank all the grassroots activists. {APPLAUSE} All the people who put up the signs -- all the people. {APPLAUSE} All the people who have been making the phone calls. {APPLAUSE} We thank you both -- both of us thank you for going door-to-door and knocking on your neighbor's door. {APPLAUSE} Keep working hard. {APPLAUSE} And when you do, you'll be rewarded with a great victory tomorrow night with Jerry Kilgore as your governor. {APPLAUSE}
+
+The thing I like about this fellow is he grew up in Virginia, and he grew up on a small farm. {APPLAUSE} That means he's a down-to-earth person. He doesn't have a lot of fancy airs. That's the kind of guy you want to represent you, a person who understands how the common man thinks, a person who shares the values with the majority of people in the Commonwealth of Virginia. {APPLAUSE}
+
+He's on the right side of the issues, too. {APPLAUSE} See, it's one thing to have good character; it's a different thing to have somebody who is on the right side of the issues. {APPLAUSE} See, he understands that when he is the governor, the top priority of this state is to make sure you educate every single child -- {APPLAUSE} -- that you cannot leave any child behind if you're going to have a state that's got a hopeful future. {APPLAUSE}
+
+I appreciate his plan to retain, recruit and reward good teachers. {APPLAUSE} You can't -- by the way, if there's any teachers out there, both Jerry and I thank you for teaching. {APPLAUSE} You have a good friend in the governor's mansion, somebody who understands the value and importance of being a teacher. And the parents will have somebody in the governor's mansion who understands the value and importance of teaching every child to read and write and add and subtract. {APPLAUSE}
+
+I appreciate Jerry's stand on taxes. {APPLAUSE} He trusts the people with their own money. See, that's a philosophical difference. Think about the campaign. If you're out there listening, think about which candidate says, I trust you with your own money. See, he understands the difference between your money and what others call the government's money. It's not the government's money, it's the people's money. It's the hard-working people's money. {APPLAUSE}
+
+It's just not rhetoric, this man's got a record. He opposed the state tax increase last year. {APPLAUSE} He's going to eliminate the state death tax once and for all. {APPLAUSE} He's going to eliminate the state car tax once and for all. {APPLAUSE} If you want to keep your taxes low and keep your economy growing, there's only one candidate in this race who will do so, and that's Jerry Kilgore. {APPLAUSE}
+
+{AUDIENCE} Jerry! Jerry! Jerry! {/AUDIENCE} 
+
+One of the key jobs of a governor is to keep the people of the state safe. {APPLAUSE} One of the key responsibilities is to -- is to support the law enforcement officials in your state. {APPLAUSE} And he'll do that. He'll stand with the men and women who wear the uniform, who patrol your highway, who work in the neighborhood to keep the people of this Commonwealth safe. He's going to be tough on crime, and he's going to enforce all the laws -- all the laws of the Commonwealth of Virginia. {APPLAUSE}
+
+He's got a good roads plan. I, frankly, haven't had that much problem driving on the roads around here. {LAUGHTER} But a lot of you have. {APPLAUSE} These roads are crowded, and he's going to do something about it. {APPLAUSE} He's got a plan, as he says, to get Virginia moving again. It's not only moving again when it comes to roads, it's moving forward to make sure there's a hopeful life for every single citizen in this Commonwealth. {APPLAUSE}
+
+Virginia is the home to a lot of military folks. {APPLAUSE} Jerry Kilgore understands we're at war with an enemy that hates what we stand for. He'll be supportive of the families who live in this state whose loved ones are sacrificing on behalf of the American people. He'll be -- he understands the nature of this struggle. He understands that our government must never let down our guard, that we have a solemn obligation to protect the American people -- {APPLAUSE} -- that we must never wait to be attacked again, that we must stay on the offense and bring people to justice before they harm the American people. {APPLAUSE}
+
+He also shares the same faith I have in the capacity of freedom to yield the peace we all want. He understands what I understand, and that is democracy is the best hope of mankind, that in the deep -- in everybody's soul, regardless of their religion or where they live, is the deep desire to live in freedom. You see, freedom -- freedom is not America's gift to the world; freedom is the Almighty God's gift to each man and woman in this world. {APPLAUSE}
+
+And by staying strong and confident in the capacity of freedom to transform societies, he understands we're laying the foundation of peace for generations to come. Jerry Kilgore is a man who brings deep principles and values into this race, and will bring those same values into the -- into the governor's mansion. He has a respect for life and will work hard to build a culture of life here in Virginia. {APPLAUSE}
+
+He stands on that solid ground of deep moral conviction and solid Virginia principles. {APPLAUSE} And that is why I'm absolutely confident he is up for the task and will make a great governor for the Commonwealth of Virginia. {APPLAUSE}
+
+Laura and I are so grateful for this -- for the welcome. Thank you all so much for coming out. I don't want to keep you too long. {APPLAUSE} No, no, no. You've got a job to do. {APPLAUSE} See, if I could vote, you already got my vote. You need to go out and find that undecided person. You need to find our fellow Republicans and those discerning Democrats who know a good man when they see one. {APPLAUSE} Keep working hard. Turn out that vote, and you'll be proud of the next governor of Virginia, Jerry Kilgore. {APPLAUSE} 
+
+{/speech}

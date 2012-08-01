@@ -1,0 +1,38 @@
+﻿{title} Remarks by the Vice President at the Transfer of the JY Ranch {/title}
+{event} Moose, Wyoming {/event}
+{speaker} Dick Cheney {/speaker}
+{date} May 26, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Lawrence. Thank you very much. Secretary Norton and distinguished guests, I'm delighted to be with you today, and it's always good to be home. I have a special guest with me I promised I would introduce this morning. That's my granddaughter, Kate. Kate, do you want to stand up? {APPLAUSE} When we arrived, inside, a few moments ago, Laurance met Kate and said, she's what this is all about, future generations, and what we're trying to do for them here today.
+
+Lynn and I have been privileged to be guests here at the JY a number of times over the years, but it's always a very special occasion when you have the opportunity to return.
+
+A few months back, I was told that this transfer was going to place. And when someone informs you that the Rockefeller family is interested in making a gift, you drop what you're doing and listen very carefully. As a son of Wyoming, I was delighted by the news. But I was in no way surprised.
+
+For generations now, the cause of conservation has had no more generous friends than this great American family. And this family has had no more committed conservationist than the man standing here with us today.
+
+The Rockefellers were first known for the enterprise and great fortune of the family's founder. The name has long since become a synonym for philanthropy and public service. In my present job, I preside over a Senate whose membership includes Jay Rockefeller. And, of course, my office itself was once occupied by our host's brother, Nelson.
+
+Working with our 41st Vice President, I had my first glimpse of the energy and the largeness of spirit found in the grandsons of John D. Rockefeller. The same spirit has shaped Laurance Rockefeller's lifelong devotion to good stewardship.
+
+It began when he first came west on a trip with his family, nearly 80 years ago. Not long afterwards, the family bought a stretch of Wyoming land. And the truth is, there was talk among a few locals about outsiders coming in. But that didn't last long.
+
+Soon the owners of the JY Ranch became respected throughout the valley and throughout the nation, as good neighbors and caring citizens. They looked after this land. That's plain for all to see. And the great beauty that Laurance first marveled at as a boy surrounds us even today.
+
+The Rockefeller family has laid down clear standards for the future use and care of the JY property, and these will be honored by the federal government. Visitors from points far and wide will be welcome to enjoy these surroundings, as they've enjoyed the entire Grand Teton National Park for so many years.
+
+At the same time, the integrity of this beautiful place will be preserved. The very things that draw people here, the clear waters, the deep forest, the beautiful mountains, all the land and life around us, will always remain.
+
+Lynn and I live in Washington these days, in a very gracious house, with a big lawn, and lots of trees. But just beyond those trees is a very busy city street. It's a great privilege to live there, yet for us, there's only one home, and that's Wyoming. This is simply the best place on earth to draw a deep breath, to clear your mind, and to appreciate the wonders of creation.
+
+So even though I am performing an official task today, I do so with a deep feeling of personal gratitude and home-state pride.
+
+Laurance, if ever a man left his neighbors with a great gift, a grand gesture to be remembered forever, you have certainly done that today. {APPLAUSE} It is generously offered, and most gratefully received. And I am pleased to accept it on behalf of the people of the United States of America.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

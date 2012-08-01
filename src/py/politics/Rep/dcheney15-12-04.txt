@@ -1,0 +1,40 @@
+﻿{title} Vice President's Remarks at the White House Conference on the Economy {/title}
+{event} Ronald Reagan Building, Washington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} December 15, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning, everybody. I guess we're a couple minutes early, aren't we, Steve? Well, it's a pleasure to be here and an honor to welcome all of you to the White House Conference on the Economy. The President asked me to be the first speaker at this conference this morning -- I guess he wanted to make sure it got off to an exciting start. {LAUGHTER}
+
+As we begin to prepare for a new term, with a new Congress about to come to town, this is a good time for us to discuss the major economic tasks ahead of us. For that purpose, we've brought together an impressive group of entrepreneurs, industry leaders, economists and other leading thinkers to conduct a dialogue on securing our economic future. Over the next two days, our panelists will discuss ways that we can build on the success of the last four years -- so that our economy will continue to grow, to create jobs, and to meet the changing needs of working people all across our country.
+
+Four years ago, when President Bush and I were sworn into office, our economy was sliding into recession. Then terrorists struck on 9/11 and shook the economy once again. We faced a basic decision: to leave more money with families and businesses, or to take more of the American people's hard-earned money for the federal government. President Bush made his choice. He proposed and delivered tax cuts four times over four years.
+
+To revive the economy and set a platform for economic growth, we lowered marginal tax rates and reduced multiple taxation on investment. As a result, 25 million small business owners saved an average of $3,000, and 26 million investors saved nearly $800 apiece. The cumulative benefit is clear, both in terms of family budgets and business investment. Real after-tax income is up nearly 10 percent since the end of the recent recession, a far greater increase than we saw following the last recession.
+
+Every American who pays federal income taxes benefited from the Bush tax cuts -- and so has our economy. Employment has grown steadily for the last 15 consecutive months, for a total of over 2.4 million new jobs. Mortgage rates, and interest rates, and inflation are low. Economic growth remains strong, businesses are investing, and families are taking home more of what they earn.
+
+Without the President's tax relief, our economy would look very different. According to one estimate, by the end of this year, there would be three million fewer Americans working, and our economy would be almost 4 percent smaller.
+
+The return of economic growth is also helping to bring down the federal deficit. Tax receipts increased 5.5 percent in fiscal year 2004, and corporate tax collections grew by an astounding 44 percent on the shoulders of strong corporate profits. As a result, this year's deficit was about $100 billion less than OMB had predicted at the beginning of the year.
+
+Spending discipline is also absolutely critical to reducing the deficit. We still have more work to do, but we believe we're on the right track. Excluding defense and homeland security, domestic discretionary spending increased a very modest 4.2 percent in fiscal year '04. And under the President's '05 budget, spending growth will go down to one-half of 1 percent -- below the rate of inflation.
+
+All of these policies have given new strength to an economy that needed it, and we have to stay focused on a pro-growth, pro-jobs agenda in this new term. Key components of the President's tax relief are set to expire over the next few years. Should they lapse, the small business expense deduction would shrink from $100,000 to $25,000; taxes on dividends and capital gains would increase; marriage penalty relief would sunset and the death tax would rise from the dead. This would impede capital investment by small business owners, and raise the tax burden on retirees and families investing for their future. It would also result in tax increases for every American who pays income taxes. So we are committed to keeping the Bush tax cuts in place.
+
+Later today, we will be hosting a panel on tax and regulatory issues. Families and small businesses continue to face a federal tax code that is thousands of pages long. It's so complex that this country employs 1.2 million tax preparers. That's larger than the entire United States Army. For businesses with fewer than 20 employees, the cost of compliance is estimated at nearly $7,000 per worker. That is too big a burden to bear if we expect these entrepreneurs to continue to create jobs.
+
+At this conference, we will also talk about improving access to health care, by making it easier for entrepreneurs to afford insurance, and for small firms to provide coverage for their workers. And we have panelists who will discuss some of the ways we can ensure that all of our citizens are well prepared for the jobs of the 21st century.
+
+Another panel will focus on lawsuit abuse and its crippling impact on the ability of many companies to do business. The Institute for Legal Reform estimates that the tort system costs the business community $129 billion per year -- that's money that could be used to hire additional employees and expand operations. America's doctors are also victims, and instead of spending their time healing patients, they're fighting off frivolous lawsuits. And the skyrocketing cost of medical liability insurance is being passed along to entrepreneurs, who are finding it more and more difficult to provide their workers with health insurance.
+
+Finally, there will be a panel on short-term and long-term financial challenges that we face. This panel will look at budget reform and entitlement reform, and we will have an honest, straightforward, and realistic discussion about the future of the Social Security system. The system has been in steady service, uninterrupted, for nearly 70 years -- and Social Security is strong for today's senior citizens. But younger workers are understandably concerned about whether Social Security will be around when they need it. This is more than a problem to be solved -- it's an opportunity to help millions of our fellow citizens find the independence of ownership. Social Security has given seniors the dignity, security, and peace of mind that Franklin Roosevelt promised. Our job is to keep that same promise to our own children and grandchildren.
+
+All of these economic challenges demand our careful attention, and our willingness to act where action is required. For four years now, President Bush has pursued an agenda that put a recession behind us and kept the economy strong, despite sudden and unprecedented challenges. We've created an environment in which firms and entrepreneurs are more willing to take risk, innovate, invest, and hire more workers. If we stay on that path, the years ahead will bring even greater progress and prosperity for the people that we all serve.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

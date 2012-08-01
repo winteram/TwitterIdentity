@@ -1,0 +1,100 @@
+﻿{title} The Vice President makes remarks at the NRCC Gala Salute to Dick Armey and J.C. Watts {/title}
+{event} NRCC Gala Salute to Dick Armey and J.C. Watts, The Washington Hilton and Towers, Washington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} October 2, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you very much, Denny. And thanks for the kind words. And let me thank all of you for that warm welcome. I'm delighted to be here tonight, to see so many good friends and former colleagues in the audience. And I appreciate very much the chance to join all of you.
+
+Let me, first of all, thank the fine leaders here this evening. It's only 34 days to Election Day. But there's a group that has been working awfully hard for a long time, and that's Tom Davis and the staff of the NRCC. We're grateful to Tom and his team for a job well done. {APPLAUSE}
+
+And I want to thank the distinguished Speaker of the House, Denny Hastert. There is no more important friend and ally of the President's and mine than the Speaker. In more than 30 years in this town, I've never met anyone who better typifies all the qualities and characteristics we expect in a leader than Denny Hastert. {APPLAUSE}
+
+He's steady as a rock, a man of his word, with a capacity for greatness equal to the challenge of his office. Denny has the job I once dreamed of. My great ambition as a congressman was to one day rise to become Speaker of the House. As it turned out, I had to settle for second best, as President of the Senate. {LAUGHTER ; APPLAUSE} 
+
+But I love the Senate. I really do. As it happens I've enjoyed working in the Senate. And my job is going to get a lot better in January when I swear in the new Republican majority. {APPLAUSE}
+
+Let me also thank our extraordinary House Majority Whip, Tom DeLay, of Texas, and the two departing members of the House -- {APPLAUSE} -- and the two departing members of the House leadership, Dick Armey and J.C. Watts. {APPLAUSE}
+
+When I was elected to be the House Republican Whip back in 1988, Tom was slated to become my chief deputy. He's the best vote counter I know, and I look forward to working with him as the new Majority Leader in the next Congress. {APPLAUSE}
+
+In the 1990s, after I left government, Lynne and I moved to Dallas and were proud to live in Dick Armey's district. But years before I was voting for him as a constituent, I was voting with him as a colleague in the House of Representatives. All the time we served together in the House, it was as members of the minority. Today it's a different story and Dick Armey is among the few people we can thank for that. This man's leadership is one of the reasons we gained the majority in 1994 and one of the reasons we've kept it ever since. {APPLAUSE}
+
+Dick has often said that when you serve in public office, the people haven't given you power, they've given you responsibility. He's lived by those words every day he's served in the House, and we're grateful to him for 18 years of leadership in Washington.
+
+We're grateful, as well, to J.C. Watts. J.C. is another good friend. He and I have campaigned together in Oklahoma on more than one occasion going back to 1996. From the day he arrived in this city, J.C. has been a national figure in our party, rising quickly in the House leadership and co-chairing the convention in Philadelphia that nominated the Bush-Cheney ticket. He speaks with clarity. He acts with conviction and he has kept faith with the good people who sent him to Washington. He'll return home with the gratitude of his constituents and the respect of us all. J.C. Watts may be retiring from the House, but I'm betting his best years of public service are still ahead of him. {APPLAUSE}
+
+The same can be said of many others who are concluding their House careers this year. In all, we have 22 Republicans stepping down and we'll miss them all. But that list also includes Van Hilleary, Bob Riley and Bob Ehrlich, the next governors of Tennessee, Alabama and Maryland. {APPLAUSE}
+
+And the list also includes six running for the U.S. Senate -- several of whom are here tonight -- future senators Chambliss, Ganske and Sununu. {APPLAUSE}
+
+This evening I also want to thank all of you for supporting the great work of the NRCC. I've been to many states this year on behalf of our Republican members and candidates and a lot can happen in 34 days. But we're not going to let up for a minute. The signs are very good out there. We have a terrific crop of candidates in every region and the American people are ready to elect another Republican Congress to serve alongside President George W. Bush. {APPLAUSE}
+
+We're all very proud of the record of achievement built up by the House of Representatives in the 107th Congress. And there is much yet to do to strengthen our economy, defend the homeland and overcome the threats that have come to our nation. On the economy, our responsibility is clear, this administration and this Congress will not rest until every person in America who wants to work can find a job.
+
+Americans realize that when President Bush and I were inaugurated, the country was in an economic recession and many citizens are still feeling the after-effects. We understand that government does not create economic growth or new jobs, but government can create an environment in which employers want to expand and hire more people.
+
+Private sector jobs come about when customers have money to spend and when entrepreneurs have money to invest and the freedom to grow. So any policy that is pro-growth and pro-jobs must be a policy that allows American taxpayers to keep more of the money they earn. {APPLAUSE}
+
+Thanks to President Bush and our Republican members, that policy has become the law of the land and the American people have received the biggest tax reduction in a generation. We have cut the tax bill of every person who pays federal income taxes. And to the great benefit of farmers, ranchers and small business people, President Bush signed into law a repeal of the federal death tax.
+
+The next order of business is clear, for the health of the economy and for the well-being of every taxpayer in America, we need to make the Bush tax cut permanent. {APPLAUSE}
+
+We must also limit the size and scope of the federal government and keep the federal government from overspending. As Republicans we never forget that every dime government spends was earned and sent in by some taxpayer. And especially in a period of war and recession-induced deficits, we need to show extra care in our spending priorities and the discipline that fits the times.
+
+The President's top priorities are national security and homeland defense and a reasonable increase for the rest of government. If we allow spending to grow without restraint, we would be diverting more money from families and entrepreneurs. And we would put a drag on the economy. The American people deserve spending discipline in Washington, and with President Bush and a Republican Congress, they'll have it. {APPLAUSE}
+
+Today the essentials of economic growth are in place. Worker productivity is growing. Interest rates remain low. Inflation is under control. And the economy is poised for expansion. Going forward, we'll see more growth and new jobs when the President's comprehensive energy policy becomes law. Our goal is to encourage efficient technology and conservation and increase production here at home. Especially in times like these we must pass a comprehensive energy bill and reduce America's dependence on foreign energy sources. {APPLAUSE}
+
+We'll see more growth and new jobs when people around the world have greater opportunities to buy the things that we produce and grow in the United States. Under President Bush's leadership, Congress has passed trade promotion authority, which he signed into law this summer. The President will use that tool to open up new markets for our country's farmers, ranchers and manufacturers.
+
+We'll see more growth and new jobs when terrorism insurance is passed into law. Right now many building projects are on hold because the developers aren't able to find coverage against the risk of terrorism. Nationwide this places millions of dollars in development projects on hold and withholds job opportunities for some 300,000 construction workers. We can enact terrorism insurance and do so in a way that produces good hard-hat jobs in America without giving another windfall to the plaintiffs' trial lawyers. And we should get it done before Congress leaves. {APPLAUSE}
+
+Congress has also passed the President's reforms to protect investors, to bring more accountability to corporations and ensure tougher oversight of the accounting profession. Our country has the most productive, creative and promising economic system the world has ever seen. The President's reforms will bring out the best in that system and make it stronger and better than ever before.
+
+We need more leaders in Washington to work with us, not against us, to strengthen America's economy. And we need more Republican senators to help the President place qualified, common sense judges on the federal bench. {APPLAUSE}
+
+Under the Democratic leadership in the Senate, the judicial confirmation process has become partisan, unreasonable and unfair. Dozens of judgeships sit empty while many of the President's judicial nominees have waited more than a year for the Senate Judiciary Committee to even hold them a hearing.
+
+In nominating judges, President Bush chooses men and women of experience, judicial temperament, and good judgement, people who respect the Constitution and understand the limits of judicial power. We all saw what happened to Priscilla Owen, a respected Texas judge who was voted down in committee for purely political reasons. It's time to return fairness and goodwill to the confirmation process. And to do that we need a new Republican majority. {APPLAUSE}
+
+As we look to the agenda for the fall and beyond, we are keeping first things first. The most important responsibility we have as public servants is to protect the American people against future attack and to win the war that began on September 11th of 2001. This has been a period of testing for the United States. The American people have met that test. We are united. We understand the threats that have formed against us. We are determined to protect our country and we will prevail. {APPLAUSE}
+
+In the past year we've captured many terrorists and frozen the assets of many terror groups and front organizations. Our people in law enforcement and intelligence, working under the most urgent and sometimes dangerous circumstances, have disrupted terrorist plots here and overseas.
+
+At home we are reorganizing the federal government to strengthen our guard against further attacks. And of course, in Afghanistan, where so many terrorists were housed, armed and trained, we've shut down the camps and liberated an entire nation from the Taliban regime. {APPLAUSE}
+
+In the case of Osama bin Laden, as the President said recently, if he's alive, we'll get him. If he's not alive, we already got him. {LAUGHTER ; APPLAUSE} 
+
+For every bit of progress that we've achieved all of us appreciate that we're still closer to the beginning of this conflict than we are to its end. The President and I start every day with a briefing on the threats facing our country. There can be no doubt that our enemies are determined to do further significant harm to the American people. Nine-eleven and its aftermath have given us a clear picture of the true ambitions of the global terror network, as well as the growing danger of weapons of mass destruction. In that changing environment, as always, we must take the facts as they are and think anew about the requirements of national security.
+
+In the days of the Cold War we were able to manage the threat with strategies of deterrence and containment. But it's a lot tougher to deter enemies who have no country to defend. And containment is not possible when dictators obtain weapons of mass destruction and are prepared to share them with terrorists.
+
+For this new century it's very clear what our national security strategy must be. We must maintain a military second to none, and when necessary we must preempt grave threats to America before they materialize. {APPLAUSE}
+
+We've already found confirmation that the Al Qaeda terrorists are pursuing weapons of mass destruction. At the same time there's a danger of terror groups joining together with the regimes that have or are seeking to build such weapons. In Iraq, we know that Saddam Hussein is pressing forward with these capabilities. He has used weapons of mass destruction both in his war against Iran and against his own people.
+
+The government of the United States will not look the other way as threats gather against the American people. We will continue working closely with members of Congress on both sides of the aisle to build a strong bipartisan resolution. And, of course, just this afternoon the President was able to announce -- with a bipartisan leadership -- that we had, in fact, reached agreement on a resolution that will be introduced in both Houses, sponsored by a cross-section of members of both parties in Congress. We're confident that when Congress passes that, friends and enemies alike will understand the unity and the determination of our country.
+
+We're also consulting with the leaders of many nations. In his speech to the United Nations General Assembly, President Bush made clear to the international community the kinds of challenges we must face together. He reminded the U.N. that Saddam Hussein made a series of commitments after his defeat in Desert Storm and that he has broken every single one of them.
+
+Saddam agreed to cease at once the repression of his people, yet the systematic violation of human rights continues in Iraq to this day. He agreed to return all prisoners from Kuwait and other lands, yet more than 600 are still unaccounted for, including one American pilot. Saddam Hussein agreed to renounce all involvement with terrorism and to permit no terrorist organizations to operate in Iraq, yet Iraq continues to shelter and support terrorist organizations. Dissidents abroad are targeted for murder. The Iraqi regime has attempted to assassinate the Emir of Kuwait and a former President of the United States.
+
+Saddam Hussein promised the United Nations that he would destroy and cease further development of weapons of mass destruction and long-range missiles, and that he would submit to unrestricted inspections. He has flatly broken these pledges, producing chemical and biological weapons and aggressively pursuing a nuclear weapons program while also working to develop long-range missiles.
+
+Empty words from the Iraqi regime will not cause us to ignore history or reality. Saddam Hussein has spent more than a decade in complete defiance of all the demands of the United Nations. The question for the international community is whether Security Counsel resolutions will be enforced or disregarded without consequence -- whether the United Nations will be effective or irrelevant.
+
+As for the United States, the President has made our position very clear: we will work with the United Nations to meet our common challenge; the Security Council resolutions are to be enforced or action will be unavoidable. We must and we will defend our freedom and our security. {APPLAUSE}
+
+This past year has brought many critical missions to our armed forces. The nation depends on them and every American is proud of them. In times to come we will be asking more from our military and those who serve have the right to expect things from us. If we're going to ask young men and women to defend our country, our allies and our freedom, if we're going to send them in harm's way on dangerous missions to fight determined enemies, they deserve the very best tools, the best training and the best support we can possibly give them. And to meet that commitment, President Bush has asked for the most significant increase in defense spending since Ronald Reagan lived in the White House. {APPLAUSE}
+
+The conduct of our military does more than bring credit to the country, it reflects the basic fundamental character of the American people. This is a good, a decent and a generous country. We fight not for revenge against our enemies, but for the freedom and security of our own people and for the peace of the world.
+
+I think the words of one of my predecessors, the Secretary of Defense George C. Marshall, are appropriate. Shortly after our nation was attacked at Pearl Harbor in 1941, General Marshall spoke to the cadets at West Point. "Before the sun sets on this terrible struggle," he said, "our flag will be recognized throughout the world as a symbol of freedom on one hand and of overwhelming power on the other." {APPLAUSE}
+
+America is again called by history to use our overwhelming power in defense of our freedom. We've accepted that duty, certain of the justice of our cause, and confident of the victory to come. For my part, I am grateful for the opportunity to work with a president who is making us all proud, upholding the cause of freedom and serving the greatest nation on earth. Thank you very much. {APPLAUSE} 
+
+{/speech}

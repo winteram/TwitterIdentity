@@ -1,0 +1,44 @@
+﻿{title} Remarks by the President at Labor Day Picnic {/title}
+{event} Private Residence, Newport News, Virginia {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 6, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Let me just begin by saying how grateful I am for the wonderful reception you have given me. {APPLAUSE} You know, I can't tell you how much I appreciate the kindness and friendship that you have given to me and my family, my Vice President and his family, and our administration, through two presidential elections and six and a half years of our 8-year term. I thank you. {APPLAUSE}
+
+I want to thank Congressman Sisisky and Delegate Crittendon here, who gave a pretty good reason for keeping Senator Robb in office, and I hope you listened to her. {APPLAUSE}
+
+I want you to know what we were doing before we came here. We were actually working on a school, to highlight one of the things I'm trying to get this Congress to do, which is to pass a bill which would help us to build or modernize 6,000 new schools so our kids, whether they're rich or poor, will have world-class places to go to school in. {APPLAUSE}
+
+So I want to thank the Secretary of Education, the national head of the AFL-CIO, John Sweeney; and Secretary Riley, and the leaders of our two great teachers' organizations, the NEA and the AFT, Bob Chase and Sandy Feldman. They're all over here with me. Give them a hand. {APPLAUSE}
+
+Now, you know, somebody asked me the day before yesterday why I was coming down here. They say, you're not running for anything anymore, you can't. And I said, well, yes, but I haven't lost my memory, and those people gave me two great terms as President. I wanted to go down and thank them. {APPLAUSE}
+
+And these two guys are. I want you to take care of Bobby Scott. He is a great resource for you and for the country. {APPLAUSE} I want you -- you know, every time Senator Robb runs, he has a challenging race. You know why? Because he sticks up for you, that's why. {APPLAUSE} Because he makes the hard decisions for the long run, because he was one of those guys who stood up in 1993. We didn't have a vote to spare. If he had changed his vote, I would have lost that economic plan that's given us 19.4 million jobs and the biggest surplus in history. {APPLAUSE} And they tried to beat him two years later because he stood up for you. {APPLAUSE} Because he believes we all ought to go forward together. And I've known him for nearly 20 years now, and he's always standing up.
+
+So next time the election comes around, I want you to stand up for him. Will you do it? {APPLAUSE} Now, let me say this: This is Labor Day, so I want to make some remarks about labor. There are a lot of big issues in this country today, but when I got elected President, it was after 12 years of people in the other party running the White House saying they were pro-business and good for the economy, and we had the worst recession since the Great Depression and the biggest deficit in history, and we quadrupled the debt in 12 years.
+
+I said, I'm pro-business, but I'm pro-labor, too. I don't think you can help the economy if you hurt the working people. {APPLAUSE} Guess what? We beat off all their efforts to weaken unions. We beat back all their efforts to hurt the fundamental interests of working people. We passed the Family and Medical Leave Act. We raised the minimum wage once. We helped people with child care who were working more, and we got 19.4 million jobs, record numbers of new small businesses every year, the lowest minority unemployment rate ever recorded. It works. If you take care of ordinary people, it works. {APPLAUSE}
+
+So on this Labor Day, as we go back to work, I'd like to just mention some things that relate to you. Number one, we ought to raise the minimum wage again. {APPLAUSE} Number two, we ought to do a better job of enforcing the law that says there should be equal pay for equal work between men and women. {APPLAUSE} Number three, we ought to do more to help workers with children at home, working full-time, succeed by helping them with their child care expenses more. {APPLAUSE}
+
+Number four, we ought to give investors, people with money, the same tax incentives to invest in poor neighborhoods in America we give them to invest overseas in poor neighborhoods. {APPLAUSE} Because we all know that not every neighborhood has been fully benefitted by this economic expansion. I've been out there across the country, in the cities, in the small towns, in the rural areas, on the Indian reservations, up and down the Mississippi River. You know as well as I do that in every part of America, there are still people in places who would work or work harder and better if they had a chance to do so, and I am determined to see that we don't stop this until everybody's involved.
+
+Number four, we ought -- before we have this big tax cut the Republicans have proposed -- we ought to take care of the big challenges facing America. We ought to make sure Social Security and Medicare are going to be all right when all the baby boomers retire. {APPLAUSE} We've got the largest number of children in our schools in history, and they're more diverse than ever before. We ought to make sure they've got a world-class education before we give the money away. {APPLAUSE}
+
+And I think that we ought to get this country out of debt for the first time since 1835 -- {APPLAUSE} -- before we give the money away.
+
+Now, let me tell you why that ought to matter to you -- because if the government is not borrowing money, that means that you're not in competition with the government. That means you can borrow cheaper. That means home mortgages are lower. That means car payments are lower. That means credit card payments are lower. That means college loan payments are lower. That means more businesses, more jobs, a stronger economy for the future. That's why I want to get America out of debt -- because it's good for little people.
+
+You know, I'll be retired pretty soon; debt will be good for me. I've got a good pension, I can buy those government bonds all day long. I can make money out of debt. You'll make money if we get out of debt and your interest rates are lower and the economy grows more. And I want these children to have a good economy to grow up into. {APPLAUSE}
+
+So you just remember this -- nothing that has happened in this country in the last six and a half years that I have achieved as President could have been possible without others, beginning with the people that work with me, starting with the Vice President, going to the people in Congress like Senator Robb and Bobby Scott and Norm Sisisky. And going all the way down to the grass roots in America, the people like you that voted for us.
+
+So, on this Labor Day, as you leave here, if somebody asks you, what did the President say, tell them he said, we had an idea and it works. That helping ordinary people works, and it requires people like you to be good citizens and keep people like them in office. And if you do, it will keep right on working.
+
+Thank you and God bless you. {APPLAUSE} 
+
+{/speech}

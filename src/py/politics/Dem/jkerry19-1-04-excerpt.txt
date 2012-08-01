@@ -1,0 +1,181 @@
+﻿{title} John Kerry Addresses Supporters {/title}
+{event} ----- {/event}
+{speaker} John Kerry {/speaker}
+{date} January 19, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+Thank you. Thank you, Iowa.
+
+{AUDIENCE} Kerry, Kerry, Kerry. {/AUDIENCE} 
+
+Well, Iowa, I love you. {APPLAUSE}
+
+I love you. Last night -- last night the New England Patriots won. {APPLAUSE}
+
+Tonight, this New Englander won. 
+
+And you've sent me on the way to the Super Bowl. {APPLAUSE}
+
+Thank you very much. {APPLAUSE}
+
+Thank you. Thank you. Thank you, Iowa, for making me the comeback Kerry. {APPLAUSE}
+
+Not so long ago -- not so long ago -- this campaign was written off. But in your homes in Iowa, in community centers, in VFW posts, in restaurants where you never let me stop and eat... {LAUGHTER}
+
+... in homes, living rooms and barns where we gathered across this great state, you listened, you stood the ground. And on caucus night you stood with me so that together we can take on George Bush and the special interests and give... {APPLAUSE}
+
+... so that we can take on George Bush and the special interests and literally, give America back its future and its soul. 
+
+And I am listening to you. And tonight I want to ask -- there was a woman who came up to me in a barn a few days ago, right before the night when the polls started to really switch. And she handed me this four-leaf clover. I don't know her name, but I want her to call my campaign tomorrow so I can thank her. This worked. {APPLAUSE}
+
+And I have listened to you and I've learned from you. And I've learned a lot, and from the people of New Hampshire. And you have made me a better candidate, and I thank you for that. 
+
+I also want to say a special word tonight about Dick Gephardt. I have been there before; I've lost. I know it is not fun. It's hard, particularly when you have served your country with as much grace, commitment, and distinction as he has. He is a special public servant, ladies and gentlemen. {APPLAUSE}
+
+And all of us -- I've worked with him for 20 years and watched him push and fight and advance the causes of our country and of our party. And everyone here will join me in agreeing that he is a man of commitment, of principle, and he has served his country and all of us with great distinction. We thank him. {APPLAUSE}
+
+And now you send me on to New Hampshire and to the other contests ahead in this country. And I make you this pledge: I have only just begun to fight. 
+
+In the months and years ahead... {APPLAUSE}
+
+In the months... 
+
+{AUDIENCE} Kerry, Kerry, all the way. Kerry, Kerry, all the way. {/AUDIENCE} 
+
+In the months and years ahead, I pledge that I will be fighting for you and for all Americans across this country whose voices are being stolen by powerful interests. 
+
+We need to join together all across this nation to restore fairness to our country. And for those of you who are not yet part of this effort, I ask you to go to johnkerry.com and join us as we fight to change America and move this country forward. {APPLAUSE}
+
+Now, I know that was a shameless advertisement for my Web site, but it works. 
+
+But this is not -- this is not -- this fight is about real people all across our country who wonder whether or not our government is prepared to stand up and fight for them, rather than those who have the money and the power. 
+
+It's a fight for people like Elizabeth Hendricks from Des Moines, who has... {APPLAUSE}
+
+She's working full time. She's raising four boys. And she earns $28,000 a year. You know what she made clear and all of Iowa made clear: We should not be raising taxes on the middle class in America in order to pay for George Bush's mistakes in America. {APPLAUSE}
+
+And I ask you to join me in continuing this fight. And in New Hampshire, I ask people to join me in fighting for people like John and Mary Ann Knowles, of Hudson, New Hampshire. She has cancer, and John lost his job during the Bush recession. She has to continue to work even during her chemotherapy so that they can continue to have health insurance. 
+
+And I say to you: It is long since time in the richest country on the face of the planet, the only industrial nation not to do so, that we recognize, for John and Mary Ann Knowles, for families like them all across this nation, health care is not a privilege for the wealthy and the powerful; it is a right for all Americans. {APPLAUSE}
+
+And we will make it available to all Americans. 
+
+We came from behind. And we came for the fight. And now I have a special message for the special interests that have a home in the Bush White House: We're coming, you're going; and don't let the door hit you on the way out. {APPLAUSE}
+
+I'm running -- we're going to do it. 
+
+I've never seen it like it is today in all the years that I've been in public service. And I am running to free our government from the grip of those powerful interests. 
+
+Whether it's a drug lobby or whether it's an oil industry or HMOs, I'm running so you will have a president who is on your side, not on the side of those powerful interests who fuel campaigns in America. 
+
+We need to restore... {APPLAUSE}
+
+I'm running to restore a concept called fundamental fairness. That is how our parents raised us. That's how this country grew strong. 
+
+And I say that it is time to stop having Americans just work for the economy and time to have an economy that works for Americans. {APPLAUSE}
+
+We're going to change it. 
+
+This president has an open hand for Halliburton, and he's turned his back on friends and neighbors across the nation. He's turned his back on teachers and on schools across the nation. 
+
+And I will criss-cross this country from community to community and together with you and with all those who care about the children of our nation, who really care about them, not for photo opportunities but for future citizenship. 
+
+We will hold this president accountable for making a mockery of the words "leave no child behind." {APPLAUSE}
+
+{AUDIENCE} Kerry, Kerry, Kerry, Kerry. {/AUDIENCE} 
+
+We will...
+
+{AUDIENCE} Kerry, Kerry, Kerry, Kerry. {/AUDIENCE} 
+
+Thank you. 
+
+And when we add up the indifference and the deficit, the real deficit of this administration, count the costs that working families are paying all across America while others reap the high rewards -- seniors have seen their retirement either blown away or postponed, utterly destroyed by Enron, by WorldCom, by mutual fund scandals. 
+
+We've seen the financial scandals of Wall Street and a separate creed, even as many, many CEOs and businesses across our nation live by the rules and also want a workplace that is fair. 
+
+We are all cheated by what has been going on. And at companies like Tyco, we have seen a workplace where this president licenses a creed of agreed. 
+
+Two million people have seen their health benefits destroyed. Three million jobs have been lost. And when we add it all up, as I have here in Iowa, and as we will together all across this country, and in New Hampshire next week, it will be clear at the end that the one person in the United States of America who deserves to be laid off is George W. Bush. {APPLAUSE}
+
+And that's what we're going to do. {APPLAUSE}
+
+I pledge to you -- I pledge to you that if I'm elected president... {APPLAUSE} 
+
+... with your help, we...
+
+{AUDIENCE} Win, win, win, win. {/AUDIENCE} 
+
+... I pledge to you that when I am elected president... {APPLAUSE}
+
+... I told you I was learning along the way -- when I am elected president, I will scrub this tax code which has exploded from 14 pages to 17,000 pages of loopholes and special interests give-aways -- and there's not a person in this room who has their own page. We are not going to give one benefit or one reward to any Benedict Arnold company or CEO who take the jobs and money overseas and stick you with the bill. {APPLAUSE}
+
+That's over. {APPLAUSE}
+
+And tonight -- tonight -- tonight on Martin Luther King's birthday, I pledge to you that we will stop the right wing attack on our rights and our civil liberties in our country. {APPLAUSE}
+
+I will appoint... {APPLAUSE}
+
+I will appoint an attorney general who is not John Ashcroft, because we... {APPLAUSE}
+
+... because we, all of us, following in the footsteps of Martin Luther King, we still have a dream. And it is unfulfilled in this country. 
+
+We will continue the long, unfinished march towards civil rights in America. And that means for all Americans. {APPLAUSE}
+
+Finally, my friends, finally, as I have said many times in the course of our conversations in Iowa and in New Hampshire, we need a nominee of our party and we need a leader of our country who is prepared to stand up for our values and for our relationships in this world. 
+
+We need a nominee who can stand up to George Bush, Vice President Cheney, Karl Rove and the others and prove to America that we Democrats know how to make this precious nation of ours safer and more secure. {APPLAUSE}
+
+George Bush, to put it quite simply, has run the most arrogant, inept, reckless and ideological foreign policy in the modern history of our country. 
+
+And we are going to turn it around by joining the community of nations. We will go back to the United Nations, and we will turn over a new chapter in America's relationship with the world. {APPLAUSE} Now, Karl Rove and George Bush have already announced that they intend to run this election on natural security. And...
+
+{AUDIENCE} Bring it on. Bring it on. {/AUDIENCE} 
+
+... you can understand why. You can understand why. 
+
+They can't exactly run on jobs. 
+
+{AUDIENCE} No! {/AUDIENCE} 
+
+They can't exactly run on health care for all Americans. 
+
+{AUDIENCE} No! {/AUDIENCE} 
+
+They can't exactly run on having left no child behind. 
+
+{AUDIENCE} No! {/AUDIENCE} 
+
+They can't run on the environment and advancing the cause of human kind. 
+
+So they will run on national security. And I look forward to reminding them that I know something about aircraft carriers for real, ladies and gentlemen. {APPLAUSE}
+
+If George Bush... {APPLAUSE}
+
+If George Bush wants to make national security the central issue of this campaign, I have three words for him we know he understands: Bring it on, bring it on, bring it on, bring it on. 
+
+{AUDIENCE} Bring it on. Bring it on. Bring it on. Bring it on. {/AUDIENCE} 
+
+That's what I'm about to do. {APPLAUSE}
+
+So I say to you with pride: I am a lifelong Democrat, and I have fought for 35 years against powerful interests. We stopped Newt Gingrich's attempt to try and cut Medicare in order to give massive tax breaks to the wealthy in this country. 
+
+We stopped George Bush from giving the Alaska wilderness away to the oil companies and not drill in the Arctic Wildlife Refuge. 
+
+And now -- and now -- I will ask my fellow Democrats, my fellow Americans, what I asked of the people in Iowa again and again over the course of these last months: Stand with me, and together we will put America back to work. Stand with me, and together we will make America energy independent. Stand with me, and together we will make health care affordable and available to all Americans. Stand with me, and together we will rejoin the community of nations and make America proud and respected again in this world. Stand with me, and I will fight for you. {APPLAUSE}
+
+Let's make "mission accomplished" a reality. {APPLAUSE}
+
+Thank you. {APPLAUSE}
+
+Now, I would like... {APPLAUSE}
+
+... I would like -- there is a reason we are here tonight. It's because of Iowans who listened and who care about our Democratic process with an intensity and a love that I have never seen. 
+
+I will say to anybody anywhere in the world, when they ask, what is America like, what is democracy like in America, a simple phrase: Let them come to Iowa and see democracy in this great state. {APPLAUSE}
+
+{/speech} 

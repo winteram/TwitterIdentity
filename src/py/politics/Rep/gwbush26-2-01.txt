@@ -1,0 +1,46 @@
+﻿{title} Remarks by the President in Photo Opportunity at Cabinet Meeting {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 26, 2001 {/date}
+{source} http://www.ssa.gov/history/gwbushstmts.html {/source}
+{description} ----- {/description}
+
+
+{speech}
+
+I want to thank our Cabinet for coming in today. Amongst a variety of topics, one of which is going to be, we're going to talk about the budget and my speech tomorrow night to the Congress. And I want to thank all of the Cabinet officers for their hard work in helping us prepare a realistic budget that is going to enable our nation to meet its priorities, and at the same time not only set aside money for contingencies and pay down debt, but to leave enough money left over so that people can get a real, substantial tax relief package that they will feel. 
+
+I would be glad to answer some questions. 
+
+{OTHER-SPEAK} Mr. President, in your speech tomorrow night, what will be your message to the American people, and will you begin addressing reforms in the Social Security system? {/OTHER-SPEAK} 
+
+Of course we'll be talking about Social Security. Secondly, I will be making the case as to why our budget makes sense for the country and for the people who pay the bills of our country. It is a common-sense approach to what our nation ought to do with the tax revenues that are coming into the Treasury. 
+
+{OTHER-SPEAK} Do you expect to propose Social Security reforms this year? {/OTHER-SPEAK} 
+
+
+I will see. 
+
+{OTHER-SPEAK} Mr. President, what are your thoughts about the final Florida recount that put you over from the Vice President, and what do you say to those who now have to call you the legitimate president that didn't call you that? {/OTHER-SPEAK} {LAUGHTER} 
+
+Good. {LAUGHTER} Hopefully, all the focus on the past is over with. It's time to move forward. And tomorrow night's speech is a part of moving forward. We've worked hard here in this administration to reach out to people that may not have supported me. I think we're making pretty good progress to say that the discussions that take place around this table, for example, are what's best for America; not what's best for a political party, but what's best for the country. 
+
+{OTHER-SPEAK} Sir, in your speech, will you have specific areas in the budget where spending will slow down, and will you specify those areas in your speech? 
+{/OTHER-SPEAK} 
+
+No. In my speech I will talk about the budget. And in the budget is where people will see all the particulars. If I tried to review every particular in the budget, I would set the all-time record for the amount of time in front of the Congress. And as you know, I'm the kind of person who likes to try to get to the point. I will spend enough time speaking so that people will understand where I'm coming from, but not too long so they go to sleep. 
+
+{OTHER-SPEAK} Mr. President, you've acknowledged that you're going to have to make cuts to the budget to some extent. What do you say to those who are saying that you're telling the American people essentially they can have their cake and eat it too? {/OTHER-SPEAK} 
+
+What I'm going to say to the American people is that, had we kept spending at the rate we were spending last year, there would be no surplus, that the size of growth in the federal budget that -- and the budget we inherited was way too high, that we can meet our needs by slowing down the rate of growth in our budget. But it requires a president to set priorities. And I'm going to set clear priorities in the budget. 
+
+I readily concede some appropriators may not like the fact that we're asking for there to be fiscal sanity in the federal budget, but that's one of the reasons I became the President; because I said, give us a chance and we will have fiscal sanity in our budget. And I'll look forward to making the case. 
+
+The people are going to hear in plain spoken words why I believe, strongly believe, when we meet priorities, pay down debt, protect Social Security, and as importantly, make sure that people get some of their own money back, so to make sure that the economy is strong, help people pay for high energy bills, to help people manage their own personal debt, we need to have tax relief -- tax relief that the people can feel. And I will make the case tomorrow night that it's within our grasp to do so. And people will hear as plainly as I can say it what the facts are. 
+
+{OTHER-SPEAK} It sounds like your speech will be shorter than ones we're used to in the last eight years. {/OTHER-SPEAK} 
+{LAUGHTER} 
+
+I don't know. {LAUGHTER} It depends on how loud you clap. 
+
+{/speech}

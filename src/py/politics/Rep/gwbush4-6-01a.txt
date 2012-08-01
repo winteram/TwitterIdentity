@@ -1,0 +1,56 @@
+﻿{title} Remarks by the President at Royal Palm Visitors Center {/title}
+{event} Everglades National Park, Florida {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 4, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech}
+
+Thank you all very much. Thank you. Thank you, brother. {LAUGHTER} I love my brother. People in Florida are lucky to have this good man as governor. {APPLAUSE}
+
+I'm honored to be here with two fine United States Senators; thank you, both, for being here. Senator Graham, thanks for flying down with us. And Senator Nelson, it was good to see you at the airport today.
+
+Peter Deutsch, this is his district. Congressman, thanks so much for coming. We're honored to have you here. Congressman -- I just call her Ileana -- {LAUGHTER} Thanks so very much for being here, Ileana; and same to you, Lincoln, I'm honored that you're here.
+
+The two chairmen, Chairmen Shaw and Chairmen Young, I'm honored that you all are here, as well. {APPLAUSE} I don't see Congressperson Meek, I think she was going to be here -- she's not; but, Jerry, I appreciate you, I appreciate your staff, I appreciate so very much Maureen Finnerty for giving us the briefing. And I appreciate Larry Belli, as well, for taking time to chopper over this beautiful slice of heaven. Thank you both. And thank all your staff for making this experience such a meaningful experience for all of us.
+
+It's an honor to be here, especially in these surroundings. Visitors from around the world come to this beautiful state to see the coasts and the keys and the sandy beaches. Today, we're standing in just as wondrous a scene in Florida, and just as an important part of this state. It commands our care and attention. This area needs our protection. And I am here to join with your governor in the cause of preserving and protecting the Florida Everglades. {APPLAUSE}
+
+Last week, I visited the great Sequoia National Park in California. Just to get there, we covered many miles of land that appeared exactly as it did to the first people who saw it. The same can be said of these surroundings and of this park. They are here to be appreciated, not changed. Their beauty is beyond our power to improve.
+
+Our job here is to be good stewards of the Everglades, to restore what has been damaged and to reduce the risk of harm. The Everglades National Park was established more than 50 years ago. It is not just a beautiful place to visit but, as everybody down here knows, is a vital part of South Florida's ecosystem.
+
+The park extends nearly 1.4 million acres and is our country's largest remaining subtropical wilderness. It includes most of Florida Bay, mangrove forests, coastal prairie, cypress forests, pine lands and freshwater streams that form, as they are now called, the River of Grass.
+
+We're also visitors today in the home of 68 endangered species, and the only place on earth where crocodiles and alligators live side by side. We're kind of hoping that's the way it gets to be in the United States Congress one of these days. {LAUGHTER}
+
+Over the same half century, since the park was created, South Florida's population has doubled many times over, and it will continue to grow. For ages, the waters of the Everglades have sustained animal life. Today, South Florida's human population relies upon them, as well. Growth and progress are desirable, and environmental destruction is not inevitable. We must build and plan with respect for nature's prior claims. {APPLAUSE}
+
+Lost, if we are careless, are the sparrows and wading birds, panthers and bears who live here, and the chance for future generations to see these creatures in the place that nature gave them. We must meet the demands of growth, but without harming the very things that give Florida and the Everglades their beauty.
+
+For its part, the federal government carries important responsibilities and stewardship. It is not enough to regulate and dictate from afar. To preserve places like this, we must bring to our work a new spirit of respect and cooperation, what I call a new environmentalism for the 21st century. This was the spirit behind the comprehensive Everglades Restoration Plan, which passed Congress last year with strong bipartisan majorities in both Houses. The late Senator John Chafee of Rhode Island set the law in motion. It was advanced by the good work of a New Hampshire Senator, Bob Smith, and received crucial support from the Florida delegation, especially from former Governor and current United States Senator Bob Graham.
+
+It shows -- protecting the Everglades shows that bipartisanship is possible but, more importantly, crucial to doing the will of the American people. When we talk about empowering state and local governments to do more to protect the environment, we do not mean Washington will do less. We mean that the federal government will work more closely and effectively with people closest to the problem and, therefore, best equipped to solve it. Everglades restoration is a good example. It is a long-term commitment shared by the federal government and by the state of Florida.
+
+Restoration will not take years, but it will take decades. It will require the best efforts of all involved for a long period of time, from government officials to tribal leaders to landowners and environmentalists. The hard work, patience and goodwill of these groups have brought us thus far in restoring the Everglades. We will need the same qualities to finish the job in years ahead. For my administration, the people of Florida can count on the commitment to carry out this important project. {APPLAUSE}
+
+My budget for next year proposes an investment of $219 million, a 36 percent increase from last year. Working together, the state of Florida and the federal government will provide nearly $8 billion in the coming decades for Everglade restoration.
+
+The federal government has clear responsibility for the Everglades, as in each of the nearly 400 other national parks. In recent years, that obligation has sometimes been neglected. Many parks have lacked the resources they need for their basic care and maintenance.
+
+My administration will restore and renew America's national parks. {APPLAUSE} Last week, I announced our National Parks Legacy Project, a major investment in preserving places such as this. We will clear up nearly $5 billion in maintenance to make our parks more inviting and accessible to all Americans.
+
+We are also the first administration to request full funding of the Land and Water Conservation Fund. This fund provides Florida and other states with the means to set aside new parks, vital habitats and restore threatened ecosystems.
+
+To protect our parks and their inhabitants, we must have the best available information, so I've directed Secretary Norton to prepare an annual report that describes the condition of our parks and offer specific recommendations to improve them. I've also asked the people who know our parks best, our rangers, to prepare stewardship plans.
+
+As many of you know, Florida was recently voted as America's best state park system. {APPLAUSE} To be the best, you have to assemble the best team for the job. And joining Secretary Norton in that effort will be a new director of the National Park Service. You know her well. I'm pleased to announce that Fran Maniella, Florida's Director of State Parks -- {APPLAUSE} -- is my choice to lead the National Park Service.
+
+She has been a steady and conscientious steward of Florida's 500,000 acres of park lands. With the support of Senators Graham and Nelson, and their colleagues, I'm hopeful she will soon assume responsibility for America's more than 80 million acres of park land. {APPLAUSE} Under her leadership, the National Parks Service will continue to do its very important work.
+
+I respect our park rangers, the folks who work in our national parks a lot. Theirs is an incredibly tough job. Many times it's a thankless job. And so on behalf of your government and the people of the United States, thank you for your dedication to America. {APPLAUSE} And thank you so very much for welcoming us to America's River of Grass.
+
+Thank you all for coming. God bless. {APPLAUSE}
+
+{/speech}

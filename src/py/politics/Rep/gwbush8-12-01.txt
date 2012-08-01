@@ -1,0 +1,51 @@
+﻿{title} President Sends Off Relief Supplies for Afghan Children {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} December 8, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Well, thank you all very much. Good morning. 
+
+{AUDIENCE} Good morning. {/AUDIENCE} 
+
+First, Harold, thanks a lot for the introduction and thanks for your leadership for the Red Cross. It's a joy to know that we're part of a country that houses such a great institution as the Red Cross, that intends to help people. And I want to thank you and I want to thank all the Red Cross volunteers who are here to make sure that this warehouse functions well and that the mission of helping Afghan children is fulfilled. 
+
+Laura and I are thrilled to be here. First, I want you to tell your neighbors that we really appreciated the good folks of New Windsor lining the road to wave. It made us feel great this morning, coming in from the middle school where we landed, by the way. I don't know how many times a helicopter has landed on the soccer field of the middle school -- {LAUGHTER} -- but it did this morning. And a lot of your townsfolk were out there to greet us. And for that we are really, really grateful, so please tell them thanks on our behalf. 
+
+And I'm so proud of the job Laura is doing on behalf of the country. She is such a steady, calm influence and she knows the important priorities of life, and it starts with moms and dads loving their children with all your heart and all your soul. And so, welcome, Laura, and thank you for coming with me today to New Windsor. {APPLAUSE} 
+
+David, I want to thank you, as well, for your leadership of the Red Cross. And I particularly want to thank Kristen Thompson. She did a fantastic job, I thought, introducing. {APPLAUSE} You must have a pretty darn good school system here. {LAUGHTER} She sounds incredibly well educated and she was able to handle the pressure in such an articulate way. So, Kristen, thank you, and thank all the boys and girls who are here from this town. Those who have helped raise money for the Afghan children, I want to thank you. I know a lot of the Boys and Girls Clubs around America, and particularly here, have helped and I want to thanks. I want to thank all the Scouts who are here for working to -- {APPLAUSE} 
+
+And I want to thank all the students who are here, as well. I also want to thank your U.S. Congressman, Roscoe Bartlett, and his wife, Ellen, for being here. I don't know where the Congressman is, I saw him earlier today, but I want to thank you for coming, Congressman. I know you care a lot about this part of the world and I appreciate you being here this morning. {APPLAUSE} 
+
+I also want to thank Federal Express. It's a fine United States company, and they are going to fly the first flight of supplies overseas. And I want to thank Federal Express for understanding that part of being a -- part of being a good corporate citizen in America is to assume responsibility to help others. And Federal Express has done this and I appreciate your service and I appreciate your example. Thank you very much. {APPLAUSE} 
+
+And, finally, I want to thank the Church of the Brethren. I want to thank you all -- {APPLAUSE} I want to thank you for your compassion and love, and I want to thank you for loaning your warehouse for this most noble project. It is so kind of you to figure out a way to help. And so on behalf of all Americans, particularly the children who have contributed to the fund, thanks a lot for your contribution, as well. {APPLAUSE} 
+
+You know, coming here this morning makes me so proud of America and of our young people. We have given the Afghan children something to smile about, because America's children are generous and kind and compassionate. There have been bake sales and there have been lemonade stands; and there are empty piggy banks and there have been all kinds of drives to raise money for the Afghan children. 
+
+We've raised over $1.5 million thus far to help the children of Afghanistan. That's a lot of effort by a lot of youngsters. Everywhere I go, people are -- yesterday, on the USS Enterprise, where I went to thank our soldiers and sailors for defending freedom, one of the sailors handed me a dollar from his daughter and said, would you make sure that gets into the fund for Afghan children. It's happening all across the country and I want to thank everybody for their hard work, for raising the donations. 
+
+The spirit driving the donations was summed up in a letter that one child wrote. It went this way, it said: Dear Afghanistan children, God bless. People want to give you a better life. All children should have love and respect. I hope this helps you somehow. 
+
+Tomorrow, the first flight will leave, bound for Afghanistan to deliver packages. These packages will brighten the lives of Afghan children not only during Ramadan, but throughout the winter. It is a reminder that we are at war with the Taliban regime, not with the good, innocent people of Afghanistan. 
+
+We've been made painfully aware of the plight of the Afghan children. One in three Afghan children is an orphan. Almost half of Afghan children suffer from malnutrition. One in four Afghan children won't live beyond their fifth birthday. 
+
+This first shipment represents the good will of the American children. It also represents our hope and desires that the plight of the Afghan children improves, that life can be better for all children in the world. It contains some interesting surprises and vital supplies. 
+
+Tomorrow, we ship 1,500 winter tents, to provide shelter for Afghan children and their families; 1,685 winter jackets to help keep children warm; 10,000 gift parcels, including hats, socks and school supplies, toothbrushes and hair brushes, candy and toys that we hope and know will bring joy to children who have suffered such incredible hardship. 
+
+Each gift parcel is marked this way: A Gift To Afghan Children From American Children. It's spoken in several -- it's written in several local languages. But one thing is -- when spirit is a part of each package. And it says, love knows no bounds -- or boundaries. 
+
+Americans of all ages care deeply about our fellow citizens, because we're a truly compassionate nation. We're a nation of heart, a nation of decency and a nation that loves freedom. Removing the Taliban regime in Afghanistan is one way to help the children and women of Afghanistan. It's one way to make sure the children and women of Afghanistan are able to have a more decent and hopeful life. And the Afghan Children's Fund is another way to help. 
+
+And so today I come to this warehouse full of love and decency and, on behalf of America, say thank you from the bottom of our heart. 
+
+May God bless all the children in the world, and may God continue to bless America. Thank you. {APPLAUSE} 
+
+{/speech} 

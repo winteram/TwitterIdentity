@@ -1,0 +1,37 @@
+﻿{title} Speech at South Carolina Democratic Party {/title}
+{event} ----- {/event}
+{speaker} John Edwards {/speaker}
+{date} May 3, 2003 {/date}
+{source} http://www.gwu.edu {/source}
+{description} ----- {/description}
+
+
+{speech}
+
+-- now I'm one alternative. Compare it to our other choice. President Bush, who as you all know comes from a completely different place. Among other things, his father was president of the United States -- {COMMENT="Recording interrupted"} -- son of a mill worker can beat the son of a president for the White House. {CHEERS ; APPLAUSE} Do we believe that in America? Is that what we stand for? Is that part of the American Dream? That's what we're about. {APPLAUSE} 
+
+With this president we have gotten government of the insiders, by the insiders, for the insiders. Let's think about what it's given us. In two years, 2.6 million jobs lost, four and a half trillion dollars lost in the stock market, a $5.6 trillion federal budget surplus--gone, $400 billion in retirement savings -- disappeared. I want to be on the stage with George W. Bush in 2004 because I have a question for the American people. Are you better off than you were four years ago? {APPLAUSE} 
+
+We will get this economy going again. We will stop this tax cut for the richest one to two percent of the American people. We will stand up for economic fairness in this country. We will actually do something instead of sloganeering about public education in America. We still have two public schools systems. I have a plan. Pay our teachers better; give teachers bonus pay to go to the schools where we need them the worst; give kids scholarships if they're willing to commit to go to a school in a chronically disavantaged area; and invest in early childhood programs, programs like the one here in South Carolina, like Smart Start under Gov. Hunt in North Carolina. These programs make an enormous difference. And we should say to every young person in America who wants to go to college -- 500,000 young people who don't believe they can afford it. If you are qualified to be in college and you are willing to work ten hours a week your first year, we will let you go tuition free to a state university or community college. {APPLAUSE} That's part of what we believe in in America. 
+
+We will provide the American people, all of the American people, access to quality health care. We will provide a prescription drug benefit. 
+
+We, in North Carolina and South Carolina, we will stand up and protect our mountains, our beaches, our streams, our air {APPLAUSE} ; we will stand up against this administration ruining our environment for our children. 
+
+I want to say a thank you to the men and women from South Carolina and North Carolina who fought a war half a world away. We're proud of them, we're proud of what they accomplished. It's important for their sake and ours that we do the right thing going forward. 
+
+I also want to end with something that's enormously important to me personally, something that I have been criticized for recently, in recent days. It is so important, folks from South Carolina, that we show the American people what we're made of. We cannot follow on civil rights; we must lead on civil rights. {APPLAUSE} We must show -- 
+
+We must show this country that those of us who grew up in the South, in South Carolina, in North Carolina, in the rural areas of the South, we believe in an America where we embrace everybody, where we lift everybody up, where we give real opportunity and hope to every single American. 
+
+And so, I say to those who are critical of me, I have stood for it my whole life, I will stand for it now, I will talk about it in every speech I make, because the American people need to know that we in the South believe in civil rights, we will stand for civil rights, we will fight for civil rights, and we will lead on civil rights. {APPLAUSE} 
+
+And finally in closing, we will not only fight for civil rights, we will fight for equal rights, we will fight for a woman's right to choose, we will fight for pay equity {APPLAUSE} so that women no longer make 78 cents on the dollar for doing the same work that men are doing. And those of us from the South who know what America is about, who know what the heart and soul of America is, we will not in the name of safety, in the name of the war on terrorism allow people like John Ashcroft to take away our rights, take away our freedom, take away our liberties, take away those things that make America everything that it is. {APPLAUSE} 
+
+Thank you all for what you're doing. We will take back the White House in 2004 and change the direction of America. Thank you all very much. {APPLAUSE}
+
+
+
+
+
+{/speech}

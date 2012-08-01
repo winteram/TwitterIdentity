@@ -1,0 +1,36 @@
+﻿{title} Remarks at American Embassy Baghdad {/title}
+{event} Baghdad, Iraq {/event}
+{speaker} Condoleezza Rice {/speaker}
+{date} May 15, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you very much. Thank you. Let me just say what a thrill to be in Baghdad. I can't tell you how excited I've been about coming, how delighted I am to be here. I just took a helicopter ride in. This is a spectacular city. It really is.
+
+I want to start by thanking Jim Jeffrey for his leadership of this embassy over the last couple of months. I know that he is a dedicated servant. I see him on our videoconferences from time to time and he's just really given wonderful leadership and I want to thank him for that and I want to thank all of you. {APPLAUSE}
+
+Now I want to thank every single one of you and I want to start by thanking our men and women in uniform. {CHEERS} You are truly on freedom's front line and we just can't thank you enough for your service. I know that there are people here who are active duty. I know there are reservists here. I know that you're away from family and friends and you're in harm's way, but I just want you to know that I just sometimes, even walking down the street in the United States, you just hear how proud people are for the job that you're doing here. Thank you very, very much. {APPLAUSE}
+
+And I want to thank our diplomats on the front lines of freedom, too: our Foreign Service, Civil Service, the Foreign Nationals who work with us, the folks who are here from other governmental agencies -- and I know that there are a lot of them because we're doing a lot. I want to thank the contractors. You're really representing the United States so very well and I just want to thank you for your efforts here.
+
+Now, this is a tough environment sometimes. Maybe all the time. But I want you to stay focused on what it is that we are doing here. You see, this war came to us, not the other way around. The United States of America, when it was attacked on September 11th, realized that we lived in a world where {COMMENT="Inaudible"} gather and that we lived in a world in which we had to have a different kind of Middle East if we were ever going to have a permanent peace. It just could not continue to be a Middle East in which dictators like Saddam Hussein paraded around, lived in great palaces, and yet tortured and oppressed and just made mincemeat of this wonderful infrastructure here in Iraq. We just couldn't let that stand -- a man who had been a danger to this region for his entire reign.
+
+And we had to have a plan to work with people in the Middle East who wanted a different kind of life because the absence of freedom in the Middle East, the freedom deficit, is what had produced the ideologies of hatred that led people to fly airplanes into a building on a fine September day. People don't want to be suicide bombers. People don't want to be suicide hijackers. But somehow the ideologies of hatred in this region have become so great that human beings have been willing to do that to other human beings.
+
+The answer to that, as the President has said, is to give people a chance at freedom and liberty. And for many, many years, the United States, along with the rest of the free world, believed somehow that people in this region didn't care about freedom; we cared about stability. And what we got was neither freedom nor stability. We got a malignancy that was growing that came to haunt us on that fine September day.
+
+Now, as we work with the people of Iraq to develop a strong and vibrant and vital democracy here in the heart of the Middle East, we can do so assured that these values are universal. There is no corner of the earth where people do not want to be able to say what they think, where people do not want to be able to worship as they please, where people do not want to educate their children, boys and girls, and where people do not want to be free of the knock of the secret police at night. Those are universal values and America has always been at its best when it is securing and providing for and bringing those values to the rest of the world. Because you know something? When freedom is on the march, America is more secure. And when freedom is in retreat, America is more vulnerable.
+
+I was just recently in The Netherlands at the anniversary of the 60th anniversary of the end of World War II and we looked at the many sacrifices there at the cemetery where the President spoke of Americans who had gone a continent away to free Europe from tyranny and free Europe from Nazism. And you know, in 1946 or in 1947, nobody would have guessed, nobody would have dared wager that you were going to have a Europe today that is whole, free and at peace and democratic and a Europe where nobody can even imagine war between the Europeans and us. It's unimaginable today.
+
+Well, you know, because of the work you do every day, because of your support for democracy here in Iraq, because of the sacrifices that you've endured, that day is going to come in the Middle East, too. And our children and our children's children will look back and they will say we are so grateful that there were Americans willing to sacrifice so that the Middle East could be whole and free and democratic and at peace, and that never again would we have to fight terrorists on our shores in America.
+
+So thank you for what you do every day. Thank you from the bottom of our hearts. I bring you greetings from your Commander-in-Chief and I thank the men and women in uniform, I thank the diplomats here and all the others who are making the dream of freedom possible for Iraqis. And you know, they deserve it. They showed us when they went out and voted in large numbers that they want it. They deserve it. We're helping them to get it and we all appreciate the service.
+
+Thank you very, very much.
+
+{APPLAUSE} 
+
+{/speech}

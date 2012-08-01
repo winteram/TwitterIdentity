@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President and His Holiness Pope John Paul II at Arrival Ceremony {/title}
+{event} Arrival Ceremony, Missouri Air National Guard Hangar, St. Louis, Missouri {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 26, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Your Holiness; Archbishop Rigali; Archbishop Montalvo; Governor Carnahan; Mayor Harmon; County Executive Westfall; Ambassador Boggs; members of Congress; members of the Cabinet; our visitors from the Vatican; my fellow Americans: Your Holiness, on behalf of all of us gathered here today, indeed on behalf of all the people of our beloved nation, we welcome you back to America. {APPLAUSE}
+
+Your return brings joy not only to the Catholic faithful, but to every American who has heard your message of peace and charity toward all God's children. And we thank you for first going to Mexico, and for reaching out to all the people of the Americas.
+
+We greet you and we thank you. For 20 years you have lifted our spirits and touched our hearts. For 20 years -- {APPLAUSE} -- for 20 years you have challenged us to think of life not in terms of what we acquire for ourselves, but in terms of what we give of ourselves. {APPLAUSE}
+
+This is your seventh visit to the United States, your 85th visit abroad as the Bishop of Rome. Through it all you have given of yourself, with a boundless physical energy which can only find its source in limitless faith. {APPLAUSE} You have come in the final year of a century that has seen much suffering, but which ends with great hope for freedom and reconciliation. It is a moment anticipated by countless prayers, brought forward by countless hands, and shaped very much by you, Holy Father, and your 20-year pilgrimage. {APPLAUSE}
+
+We honor you for helping to lead a revolution of values and spirit in Central Europe and the former Soviet Union; freeing millions to live by conscience, not coercion; and freeing all of us from the constant fear of nuclear war. We honor you for standing for human dignity, human rights, and religious freedom -- {APPLAUSE} -- and for helping people to find the courage to stand up for themselves -- from Africa to Asia to the Western Hemisphere.
+
+We honor you for your work to bring peace to nations and peoples divided by old hatreds and suspicions. From Bosnia and Kosovo, to Central Africa, to Indonesia, to the Middle East, even to our own communities, people still need to hear your message that all are God's children, all have fallen short of His glory; all the injustices of yesterday cannot excuse a single injustice today. {APPLAUSE}
+
+Holy Father, we are moved by your desire to mark the new millennium with a journey to Jerusalem, to bring mercy and reconciliation to all those who believe in one God, in the holy place where all our faiths began.
+
+Your Holiness, we honor you, too, because you have never let those of us who enjoy the blessings of prosperity, freedom and peace forget our responsibilities.
+
+On your last visit to the United States you called on us to build a society truly worthy of the human person; a society in which none are so poor they have nothing to give, and none are so rich they have nothing to receive. Today you visit an America that is thriving, but also striving -- striving to include those who do not yet share in our prosperity at home, and striving to put a human face on the global economy by advancing the dignity of work, the rights of women, the well-being of children, and the help of our common environment.
+
+You will see an America that is not simply living for today, but working for future generations. An America working harder to be what you have asked us to be: an example of justice and civic virtues, freedom fulfilled and goodness at home and abroad.
+
+The Catholic Church in America is helping all of us to realize that vision. Here in St. Louis, Catholic charities are helping families conquer violence and drug abuse; helping people in need to find work, and to finance their first homes; helping refugees from war-torn lands to build new lives; building housing for the elderly, including the new Pope John Paul II Apartments; and leading countless other efforts that lift our people's lives. {APPLAUSE}
+
+All over our country, the Catholic faithful do this work for the sake of all Americans, and they are joined in their work by Americans of all faiths.
+
+Your Holiness, every American welcomes you and hopes that you will come to see us again. {APPLAUSE} I am nowhere near as gifted a linguist as you are, Holy Father, but as they say in your native Poland, sto lat I wiecej -- may you live a hundred years and more. {APPLAUSE} And may you keep working and teaching and lighting the way, for all of us and all the world. Welcome to the United States. {APPLAUSE} 
+
+{/speech}

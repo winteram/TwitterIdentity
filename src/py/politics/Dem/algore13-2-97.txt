@@ -1,0 +1,34 @@
+﻿{title} Remarks by the Vice President at Swearing-in Ceremony of Bill Richardson as Ambassador to the United Nations {/title}
+{event} Swearing-in Ceremony of Bill Richardson as Ambassador to the United Nations, The Roosevelt Room {/event}
+{speaker} Al Gore {/speaker}
+{date} February 13, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Ladies and gentlemen, what a pleasure it is for all of us to be here. This is a happy, very happy occasion. And on behalf of the President and the Richardson family, I want to welcome all of you as guests, especially the family members. In addition to Barbara, who will hold the Bible shortly --Bill's mother, Maria Louisa Zubiran, his sister, Vesta Richardson; and her children George and Rubin. And we're very honored to have both of the senators from New Mexico here, Senator Pete Domenici and Senator Jeff Bingaman. Thank you both for your presence.
+
+We're honored to have the Assistant Democratic Leader, the Whip, and the House of Representatives Congressman David Bonior, who is here. Mack McLarty and the President's Cabinet, and Kitty Higgins and Maria Echaveste and other distinguished guests who are present. Forgive me if I've overlooked anyone, it's unintentional.
+
+I'm going to make a few remarks and then we'll come to the highlight of the event, which is the swearing-in, and then we'll come to the even which may surpass it -- the remarks from our new Ambassador. {LAUGHTER}
+
+But I'd like to begin by saying how proud I am to be here, because Bill Richardson has been a very good friend for a long time. And those of us who have had a chance to work with him feel the great joy that so many have felt in his promotion and elevation to this important position for which he is so well-suited, so well- qualified and so well-prepared.
+
+I'm not the only one who feels that way because he was confirmed by a unanimous vote of 100 to nothing. You had a pretty good team rounding up votes for you. But, you know, David, I don't remember us getting anything like that in the House -- {LAUGHTER} --when Bill had something up there. You know, we've had two perfect fits at the United Nations -- first, Madeleine Albright and, now, Bill Richardson. And I'm just wondering whether or not that 100 to nothing vote -- the senators here would be able to tell us -- I'm wondering if it had anything to do with the fact that on the very day he was nominated for -- or presented to the committee, by sheer coincidence his close friends in the House who think so highly of him presented a letter in which 75 members of Congress nominated him for the Nobel Peace Prize. {LAUGHTER} I thought that was really brilliant on their part.
+
+I have watched over the years, as the President has, with great admiration as Bill has performed these delicate, sensitive, difficult diplomatic missions to almost every corner of the world. And almost every time, as he came back people said to themselves, how does he do that -- because he has had such great success crisscrossing the globe as a champion of human rights and justice.
+
+Well, he will use and need those experiences at his new post, because now is the time when the United States must continue to show leadership. We are, as many have used this phrase, the indispensable nation. And it is a crucial time in our relationship to the United Nations, a time when reform is essential, and as we achieve reform, a time when we must become current in meeting our obligations at the United Nations.
+
+So for those and other reasons, it's a time when it's particularly important to have someone like Bill Richardson as our new Ambassador, someone with an eloquent voice who is both a thinker and a doer.
+
+We're going to miss you here in Washington, Bill, but we're comforted that you're not far away, and we have absolutely no doubt that you will succeed magnificently. So on behalf of the President, to you and your wonderful family, Godspeed and congratulations.
+
+Now let me invite you to come and take the oath.
+
+{COMMENT="The oath of office is administered"}
+
+Congratulations. {APPLAUSE} 
+
+{/speech}

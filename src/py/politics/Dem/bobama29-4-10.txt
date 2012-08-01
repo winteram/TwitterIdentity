@@ -1,0 +1,66 @@
+﻿{title} Remarks by the President in the Rose Garden {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} April 29, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good afternoon, everybody. Hello, everybody. Please have a seat. Welcome to the White House. Welcome to the Rose Garden. This is an extraordinary occasion, a beautiful day -- appropriately so. So I hate to intrude on it, but before we begin I do want to speak briefly to the American people about the recent BP oil spill in the Gulf of Mexico.
+
+I've been receiving frequent briefings from members of my Cabinet and White House staff, including an update last night on the additional breach and another update this morning. And while BP is ultimately responsible for funding the cost of response and cleanup operations, my administration will continue to use every single available resource at our disposal, including potentially the Department of Defense, to address the incident.
+
+Earlier today, DHS Secretary Napolitano announced that this incident is of national significance and the Department of Interior has announced that they will be sending SWAT teams to the Gulf to inspect all platforms and rigs. And I have ordered the Secretaries of Interior and Homeland Security as well as Administrator Lisa Jackson of the Environmental Protection Agency to visit the site on Friday to ensure that BP and the entire U.S. government is doing everything possible, not just to respond to this incident, but also to determine its cause. And I've been in contact with all the governors of the states that may be affected by this accident.
+
+Now, earlier this week, Secretaries Napolitano and Salazar laid out the next steps for a thorough investigation into what precipitated this event. I am sure there may be a few science teachers here who have been following this issue closely with their classes, and if you guys have any suggestions, please let us know. {LAUGHTER}
+
+That's the real reason why all of you are here, because you are great teachers, engaging your students in the world around you. So I want to start by congratulating all of you for your extraordinary achievement. We could not be prouder. And I had occasion to meet each and every one individually -- you could not ask for a better bunch. And it made me want to go back to school. {LAUGHTER} Maybe not take the exams, but -- {LAUGHTER} -- but you could just tell these are people who love their work.
+
+I want to acknowledge our wonderful Secretary of Education, Arne Duncan -- {APPLAUSE} -- who is your biggest booster, day in and day out -- as well as my good friend, and a teacher herself, Dr. Jill Biden, who is here. {APPLAUSE}
+
+I also want to thank Senator Harkin, Representative Boswell, and Dennis Van Roekel, President of the National Education Association, for their leadership and for joining us here today. {APPLAUSE}
+
+So to all the award winners -– congratulations. We are thrilled to have you in what has been a long tradition here at the White House. For nearly six decades, through 12 presidential administrations, we've gathered here to honor America's teachers and to celebrate your contribution to the life of our country. And we do this because we recognize the role that you play in sustaining our democracy -– in creating the informed citizenry and engaged leaders that we need for our government, a government of and by and for the people.
+
+And we do this because you're the key to our success in the global economy -– preparing our kids to compete at a time when a nation's most valuable currency is the knowledge and skills of its people. And we do this because the impact you've had on all of our lives: pushing us, believing in us, insisting -– sometimes, despite all evidence to the contrary -– that we have potential and that we have something worthy to contribute.
+
+As President Kennedy once said, “Our progress as a nation can be no swifter than our progress in education… The human mind is our fundamental resource.” And it's all of you who we entrust every day with that resource and that responsibility.
+
+And that's why as President, I'm committed to doing every single thing that I can do to support your work -– to create better standards and assessments that you can use in your classrooms; to make critical investments in education at every level, from early childhood education through college; and to recruit and develop and reward excellent teachers.
+
+And it's why, through our recovery efforts, we've provided emergency aid that saved the jobs of more than 400,000 teachers and other education jobs -– and why I believe these efforts must continue. {APPLAUSE} I believe these efforts must continue as states face severe budget shortfalls that put hundreds of thousands of jobs at risk. We need and our children need our teachers in the classroom. We need your passion and your patience, your skill and experience, your determination to reach every single child -- the very qualities that define this year's Teacher of the Year, Sarah Brown Wessling, from Johnson High School in Johnson, Iowa. So, congratulations, Sarah. {APPLAUSE}
+
+Whether teaching basic writing to at-risk freshmen, or literary theory to advanced placement seniors, Sarah writes: “I see a story in every learner, unique and yearning to be read.”
+
+That's why she creates individualized podcasts for each student with extensive feedback on their papers, prompting one parent to report that his own writing had improved just by listening to Sarah's comments to her daughter -- to his daughter. {LAUGHTER}
+
+Sarah also helped develop 15 new courses this year alone, taking into account a wide array of interests and learning styles. And her students don't just write five-paragraph essays, but they write songs, public service announcements, film storyboards, even grant proposals for their own non-for-profit organizations.
+
+One of her students reports that in Sarah's class, “No discussion was fruitless, no assignment was pointless, and not one day was boring.” And I'm not sure I could have said that when I was in school. {LAUGHTER}
+
+And all of this is in addition to her work mentoring other teachers, organizing a statewide teaching symposium, helping design Iowa's core curriculum, serving as president of the Iowa Council of Teachers of English, and much more.
+
+Slow down. {LAUGHTER} Plus she's got these three cute kids in front. {LAUGHTER}
+
+With Sarah as a teacher, good students have become great students. Student who had been discouraged and disengaged have discovered a passion for learning. And many of her students have gone on to become teachers themselves, one of the best tributes any teacher could ask for.
+
+In her application essay, Sarah wrote movingly about the achievements of several of her students, describing the transformation of one student as follows: “Instead of asking what, she asked why; instead of asking why, she asked, why not; instead of asking why not, she asked what if.”
+
+In honoring Sarah Brown Wessling and all of you, we also honor all those teachers across America who inspire students to ask “what if?” -– who enrich their lives and their prospects every single day.
+
+But let's be clear -– I think all the teachers here would agree with me this is not the responsibility of teachers alone. Our teachers can prepare the best lesson plans imaginable, but you all can't guarantee that your students will show up ready to learn. You can be there for them before school, after school, and during lunch, but you can't be there at night to make sure those assignments get done, or in the morning to make sure they're out of bed and to school on time. You can give your students all the encouragement in the world, but you can't give them the constant support and unconditional love that they need to succeed.
+
+All of that is our job as parents. So today, even as we honor America's teachers, let's not forget that we all have a responsibility to educate our children. It is not just the job of schools, it's not just the job of teachers, but it's the job of our parents, it's the job of our communities, our places of worship. The message that we send, in terms of our children being curious and active and aspiring for excellence -- that's a job that all of us have to take on. {APPLAUSE}
+
+So let's turn off the TV. Let's put away the video games. Let's read to our kids once in a while. Let's make sure that homework is done, and that they get a good night's sleep and a decent breakfast. Let's reach out to their teachers and ask what we can do to help. Let's be partners with teachers to prepare our kids to lead productive, fulfilling lives.
+
+In the end, I think Sarah put it best when she wrote, simply, “My greatest contributions are my students.” That's true of us as a society as well –- that our greatest contribution is what we do for the next generation: the sacrifices we make, the examples that we set, and all that we do to give them opportunities that we never dreamed of.
+
+All of you have dedicated your lives to that work, and for that, we honor you and we thank you, today and every day. Congratulations, everybody.
+
+And it's now my pleasure to introduce the 2010 Teacher of the Year, Sarah Brown Wessling, and invite her to say a few words. But first I'm going to give her the apple. {APPLAUSE}
+
+{COMMENT="The award is presented"} {APPLAUSE} 
+
+{/speech}

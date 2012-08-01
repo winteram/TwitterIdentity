@@ -1,0 +1,32 @@
+﻿{title} Millennium Evening at the White House Informatics Meets Genomics {/title}
+{event} East Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} October 12, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+We have had many wonderful nights here, but I don't think I've ever been more stimulated by two talks in my life. Thank you, Dr. Cerf. Thank you Dr. Lander.
+
+I would like to also say a word of appreciation to Hillary. I think that as our time here draws toward its close, it's clear that she has been, I believe, the most active and innovative First Lady since Eleanor Roosevelt, for, perhaps these Millennium Evenings will last longer in the imagination of America than virtually anything any of us have done, and I thank her for that. {APPLAUSE}
+
+Also, being term-limited does have its compensations. Normally, at this time of year I'd be doing something else tonight. {LAUGHTER} Yesterday, I called the Vice President to rub it in and describe what I would be doing tonight. {LAUGHTER} And I was having a very good time turning the screw about how fascinating this was going to be. Finally he said, that's okay, you need to be there more than I do. {LAUGHTER} The jokes about my technological and scientific limitations are legion around the White House. {LAUGHTER}
+
+So I have been thinking of all these questions -- do I really want a mouse smart enough to go to Princeton? {LAUGHTER} Won't it be sad to have an Internet connection with Mars if there are no Martians to write to or e-mail us? {LAUGHTER} I am glad to know that the total connection of the Internet to the nervous system of human beings is a little ways out there in the future. I had been under the impression that that had already occurred among all children under 15 in America. {LAUGHTER}
+
+This is an amazing set of topics. Let me say just one other thing. I really loved seeing, on a slightly sad note, I loved seeing that wonderful, famous picture of Wilt Chamberlain and Willie Shoemaker. Some of you may know the great Wilt Chamberlain passed away today, one of the greatest athletes of the 20th century. So I hope you will have him and his family and friends in your thoughts and prayers tonight.
+
+This is a fitting thing for us to do in the White House, because innovations in communication and technology are a very important part of the history of this old place. In 1858, the first transatlantic telegraph transmission was received here in a message that Queen Victoria sent to President Buchanan. Later, the first telephone in Washington, D.C., was located in a room upstairs and we now have a replica of that telephone in the same room upstairs. The first mobile phone call to the moon was made here by President Nixon, 30 years ago. Even these Millennium Evenings have made their own history. This is where we held the first ever cybercast at the White House.
+
+So I want to thank the speakers for building on all of this and telling us what we can look forward to in the future; and for reminding us that as we unlock age-old mysteries and make what we can think more possible to do, there are ways to do it that bring us together as a society.
+
+So I would like to begin the questioning, if I might, with a question to Dr. Lander, because it bears on a great deal of the work we've done.
+
+You talked about how we were 99.9 percent the same, but how if you looked at how many permutations there were in the one-tenth of a percent left we could still be very different. I think it's very interesting -- and I talk about this all the time -- that as we're on the age of this new millennium and we have these evenings and we imagine this future that you have sketched out to us, this is what we all like to think about, how exciting, how wonderful, how unbelievable it can be.
+
+The biggest threat to that future is how many of us on this globe are still in the grip of the most primitive of human limitations -- the fear of the other, people who are different from us. And we see all over the world -- from Bosnia and Kosovo to the Middle East to Northern Ireland to the tribal wars in Africa, how easily the focus on our differences -- that one-tenth of one percent -- as what matters can lead first to fear, and then to hatred, and then, ultimately, to dehumanizing people who are different.
+
+And it's very interesting -- as someone who grew up in the segregated South and lived with the whole terrible and, yet, beautiful struggle of the civil rights years, to think that there were in my hometown people who were dehumanizing other people because of the one-tenth of one percent difference between them is quite an awesome thing to contemplate. 
+
+{/speech}

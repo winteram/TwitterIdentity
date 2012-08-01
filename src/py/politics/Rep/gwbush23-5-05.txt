@@ -1,0 +1,36 @@
+﻿{title} President Honors and Congratulates EPA Administrator Steve Johnson {/title}
+{event} Environmental Protection Agency, Washington, D.C. {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 23, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good afternoon. I'm proud to visit the headquarters of the Environmental Protection Agency. {APPLAUSE} I am honored to be here to congratulate Steve Johnson on becoming America's 11th EPA Administrator. Congratulations. {APPLAUSE} It is good to be up here with Debbie, your wonderful family, as well as your dad, Bill.
+
+I'm sorry that Laura couldn't join us, but today she's been touring the Egyptian desert. {LAUGHTER} She tells me that if you take away the pyramids, it just looks like West Texas. {LAUGHTER}
+
+I want to thank Secretary of Transportation Norm Mineta for joining us. I want to thank the former EPA Administrator, the former governor of New Jersey, Christie Todd Whitman, for coming today. {APPLAUSE} I thank Congressman Charlie Taylor of North Carolina for joining us today. Congressman, I'm proud you're here. He happens to be the Chairman of the Appropriations Subcommittee on the Interior, Environment, and Related Agencies. Welcome. {APPLAUSE}
+
+My administration is fulfilling our responsibility to be good stewards of the Earth. Today, America's air, land and water are cleaner than they were in 2001. We've reduced air pollution by more than 10 percent. We put in place clean diesel rules that will cut emissions from heavy-duty vehicles by more than 90 percent over 10 years. We've restored nearly 1,200 abandoned industrial sites to productive use. We've worked to pass the Healthy Forest Restoration Act, to protect forests and wildlife and homeowners against catastrophic fires. We've substantially increased funding to improve water quality in the Great Lakes.
+
+Our policies are protecting the environment while also promoting growth. And I want to thank each employee of this agency for helping make this progress possible. {APPLAUSE}
+
+Steve Johnson is the right man to build on this progress. He has 24 years of experience here at the EPA. He is the first career EPA employee to hold the office of Administrator. {APPLAUSE} Steve is also the first professional scientist to lead the agency. With this background, Steve will help us continue to place sound scientific analysis at the heart of all major environmental decisions.
+
+The EPA recently finalized a rule that places the first-ever national cap on mercury emissions from power plants, which will result in a nearly 70-percent decrease in these emissions. And we issued the Clean Air Interstate rule to reduce air pollution from power plants by 70 percent. These rules are a good start, but they are not a substitute for effective legislation. So one of Steve's first tasks -- and I look forward to joining you on this task -- to further reduce air pollution is to work with Congress to pass the Clear Skies legislation. {APPLAUSE} Clear Skies is a common-sense, pro-environment, pro-jobs initiative. And Congress needs to pass the bill this year. {APPLAUSE}
+
+Steve will also build on EPA's work to improve the quality and security of our drinking water. We're enforcing strict standards to bring cleaner water to communities across our country. The budget I submitted this year to Congress includes a $44-million pilot program to develop tools to better monitor urban water systems so we can detect contamination as quickly as possible. The budget also increases support for EPA homeland security programs by more than 70 percent next year. Under Steve's leadership, we will work to ensure that every American community continues to have a water supply that is clean and is safe.
+
+We must build on our progress and the conservation and protection of our wetlands, soil, and wildlife habitats. On Earth Day last year, I announced a new goal to restore, improve and protect at least 3 million acres of wetlands by 2009. After one year, we've already enhanced over 800,000 acres of wetlands. And that puts us on a pace to meet our goal.
+
+And finally, we will continue our enforcement strategy which focuses on achieving real environmental improvements that benefit everyone. Since 2001, the EPA has increased compliance inspections by 19 percent, and civil investigations by 24 percent. And last year, the agency provided compliance assistance to over 730,000 individuals and businesses.
+
+Our strategy is working. Last year we obtained commitments to reduce future pollution by an estimated 1 billion pounds, an increase of 50 percent over the 2001 level. And I want to thank all the EPA employees who work in the field to work on this collaborative effort.
+
+Steve leads -- as Steve leads the EPA, he will maintain our common-sense approach of collaborating with leaders and volunteers at the local level to find the best solutions to meet our national goals. We'll continue to vigorously enforce our environmental laws. We'll encourage good stewardship of natural resources, and we will focus on results. We'll continue to protect the health of our citizens, and help guarantee the quality of our air, water and land for generations to come.
+
+I'm looking forward to working with this good man as he leads this important agency. Steve, congratulations. God bless. 
+
+{/speech}

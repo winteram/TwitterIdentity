@@ -1,0 +1,49 @@
+﻿{title} Remarks by the President at the Radio-Television Correspondents Association 57th Annual Dinner {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} March 29, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all very much. Well, Lew, thank you very much. Laura and I are thrilled to be here. I appreciate the members of the press. I think you serve a very useful purpose, especially tonight. 
+
+As you know, we're studying safe levels for arsenic in drinking water. {LAUGHTER} To base our decision on sound science, the scientists told us we needed to test the water glasses of about 3,000 people. {LAUGHTER} Thank you for participating. {LAUGHTER} 
+
+It's good to see so many members of the Congress here. My fellow Texan, Tom DeLay, here at the head table. {APPLAUSE} Lew asked me a little earlier if Tom ever smiled. I said, I don't know, I've only known him nine years. {LAUGHTER} 
+
+Senator Lieberman is here. {APPLAUSE} We all know Joe is an Orthodox Jew, so he does no work from sundown Friday until sundown Saturday. This has so impressed me I, myself, am thinking of converting. {LAUGHTER} So I don't have nothing to do from sundown Saturday to sundown Friday. {LAUGHTER} 
+
+Most of you probably didn't know that I have a new book out. Some guy put together a collection of my wit and wisdom -- or, as he calls it, my accidental wit and wisdom. {LAUGHTER} But I'm kind of proud that my words are already in book form. So like other authors, I thought I'd read from it tonight. {LAUGHTER} It's like the thoughts of Chairman Mao, only with laughs, and not in Chinese. {LAUGHTER} 
+
+Here's one from the book -- and I actually said this. {LAUGHTER} "I know the human being and fish can coexist peacefully." {LAUGHTER} Now, that makes you stop and think. {LAUGHTER ; APPLAUSE} Anyone can give you a coherent sentence, but something like this takes you into an entirely new dimension. {LAUGHTER} 
+
+Here's another: "I understand small business growth; I was one." {LAUGHTER} You know, I love great literature. {LAUGHTER} 
+
+I actually said this in New Hampshire: "I appreciate preservation. It's what you do when you run for President, you've got to preserve." {LAUGHTER} I don't have the slightest idea what I was saying there. {LAUGHTER ; APPLAUSE} 
+
+Or how about this one: "More and more of our imports come from overseas." {LAUGHTER} 
+
+Now, most people would say, in speaking of the economy, we ought to make the pie bigger. I, however, am on record saying, "We ought to make the pie higher." {LAUGHTER} It is a very complicated economic point I was making there. {LAUGHTER} But believe me, what this country needs is taller pie. {LAUGHTER ; APPLAUSE} 
+
+And how about this for foreign policy vision: "When I was coming up, it was a dangerous world and we knew exactly who the they were. It was us versus them. And it was clear who the them was." {LAUGHTER} "Today, we're not so sure who the they are, but we know they're there." {LAUGHTER ; APPLAUSE} 
+
+John Ashcroft, by the way, attributes the way I talk to my religious fervor. In fact, the first time we met, he thought I was talking in tongue. {LAUGHTER} 
+
+Then there is my most famous statement: "Rarely is the question asked, is our children learning." {LAUGHTER} Let us analyze that sentence for a moment. {LAUGHTER} If you're a stickler, you probably think the singular verb "is" should have been the plural "are." But if you read it closely, you'll see I'm using the intransitive plural subjunctive tense. {LAUGHTER} So the word "is" are correct. {LAUGHTER ; APPLAUSE} 
+
+Finally, let's see you wordsmiths out there diagram this sentence I said -- this may sound a little west Texan to you, "but when I'm talking about myself and when he's talking about myself, all of us are talking about me." {LAUGHTER} 
+
+Now, ladies and gentlemen, you have to admit, in my sentences I go where no man has gone before. {LAUGHTER} 
+
+But in closing, the way I see it is I am a boon to the English language. I've coined new words, like, misunderstanding and "Hispanically." {LAUGHTER} I've expanded the definition of words themselves, using "vulcanized" when I met "polarized," "Grecians" when I meant "Greeks," "inebriating" when I meant "exhilarating." {LAUGHTER} And instead of "barriers and tariffs," I said "terriers and bariffs." {LAUGHTER} 
+
+And you know what? Life goes on. {LAUGHTER} My wife and my daughters still love me. {LAUGHTER} Our military still protects our shores. {LAUGHTER} Americans still get up and go to work. {LAUGHTER} People still go out and have fun, as we're doing tonight. 
+
+I don't think it's healthy to take yourself too seriously. But what I do take seriously is my responsibility as President to all the American people. It's the office I hold. And that is what I came tonight to tell you. 
+
+Thank you for inviting me, and thank you for your horspitality. {LAUGHTER ; APPLAUSE} 
+
+{/speech} 

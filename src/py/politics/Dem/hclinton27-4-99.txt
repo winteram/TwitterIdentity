@@ -1,0 +1,52 @@
+﻿{title} Remarks by the President And The First Lady on Gun Control Legislation {/title}
+{event} Remarks by President and HRC on Gun Legislation {/event}
+{speaker} Hillary Rodham Clinton {/speaker}
+{date} April 27, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Remarks by President and HRC on Gun Legislation {/description}
+
+{speech} 
+
+Thank you. Please be seated and good afternoon. It's an honor to join the President in welcoming all of you to the White House this afternoon. We are especially honored to be joined by a very large number of senators and representatives from both parties who are here on the stage for this event.
+
+Also, Secretary Rubin and Attorney General Reno, Secretary Riley, Deputy Attorney General Eric Holder, Under Secretary of the Treasury Jim Johnson. And you will hear in just a few minutes from Senator Feinstein, Senator Chafee, Representative Conyers, Representative McCarthy. Also in the audience is Mayor Paul Helmke from Fort Wayne, Indiana, and Bob Walker, President of Handgun Control, Inc.
+
+We have come together in the wake of a terrible tragedy that has put our entire nation in mourning, and that has reminded all of us once again that everything in life pales in comparison to our ability to keep our children safe and out of harm's way. Today, our thoughts and prayers remain with the families and friends and the citizens of Littleton, as they bid emotional farewells to their beloved children and a dedicated teacher.
+
+Yet, even in the midst of this terrible tragedy, we also see the people of Littleton pulling together to pray and comfort and sustain each other. And many of the rest of us are gathering strength and hope from their example.
+
+There are many people here today, out in the audience and on this stage, who have worked tirelessly to create the safe schools and communities that we all want for our children. I particularly want to thank Attorney General Reno and Secretary of Education Dick Riley and Secretary Bob Rubin, because they have worked together, tirelessly, to try to create better conditions to provide for the safety of our children. I also want to thank all the members of Congress who are here who have proved that ending the violence and limiting access to firearms can be, and should be, a bipartisan goal.
+
+There are many others in this room who are on the frontlines in creating safer communities -- religious groups, advocates for gun control, victims groups, child advocates, law enforcement, community and parent organizations -- and we thank you all for coming. You represent, literally, thousands, if not millions, of your fellow Americans.
+
+All of us here are searching for answers to what happened in Littleton. I don't know that anyone will ever be able to explain fully the events of a week ago. Nor, I doubt, can we create a perfect set of solutions that, if followed, would have prevented what happened at Columbine High School, or would stop forever acts of violence that occur in our communities around our country. But that does not mean that we are either hopeless or helpless in the face of this tragedy. Instead, we have to work together to come up with the best possible solutions that we can craft, that we believe will make a difference for our children.
+
+We come here to say simply that there are some tough things we must be willing to say, and some tough steps we must be willing to take if we are to stop the violence.
+
+Now, I hope that everyone does know that the vast majority of America's schools are safe. But we also know that these schools in our country are not islands cut off from the rest of society. No school security system or metal detector can keep out the culture of violence that dominates the lives of so many of our children.
+
+When our culture romanticizes and glorifies violence on TV, in the movies, on the Internet, in songs, and when there are video games that you win based on how many people you kill, then I think the evidence is absolutely clear -- our children become desensitized to violence and lose their empathy for fellow human beings. Studies show what many of us have believed, that such exposure causes more aggression and anti-social behavior.
+
+So, today, we must fully acknowledge, once and for all, that America's culture of violence is having a profound effect on our children, and we must resolve to do what we can to change that culture.
+
+It will take strong leadership. I remember well when the President convened a 1996 White House Conference on Children's Television, where television industry leaders joined him in agreeing to air more educational children shows, and also to work with the administration to establish a rating system to help parents navigate what's appropriate and what's not for their kids. And soon we will have the V-chip available for every home in our country.
+
+But it will take more than strong leadership from the media and entertainment world to stop the culture of violence that surrounds our children. Kids need more caring, responsible adults in their lives. Yet, when single parenthood and two working parents are on the rise, too many of America's children are growing up alone. Parents are the central figures in their children's lives, but parents need help. They need help from the larger community, and that means all of us -- teachers, police, counselors, community and religious leaders, elected officials -- all of us have to help parents find the help they need. And we have to work together to keep our children and our communities safe.
+
+We also know that we have to do everything possible to ensure that young people do not have easy access to weapons. We now know that includes not only firearms, but bomb-making materiel.
+
+Now, any one of us that hasn't become completely amnesiac about our own growing-up years know that children will have disagreements and arguments; they sometimes will even have fights among themselves. Part of growing up is learning how to control one's impulses, which is often difficult for young people. But there is a very big difference between a schoolyard fight that many of us can remember and what happens today, with the access to the arsenal of guns, rifles and bombs that the two young men in Littleton were able to bring into their school. It is criminal how easy it is for children in America to obtain guns.
+
+Just last year, 6,000 students were expelled for bringing guns to school. And Littleton is the latest tragic example of how the availability of those guns can turn a sense of alienation, of rage, of not belonging, of not fitting in, into a deadly encounter. Every day in America we lose 13 precious children to gun-related violence. Every two days, therefore, we lose the equivalent of a classroom of students.
+
+Guns and children are two words that should never be put together in the same sentence. And this President and this administration have been working hard and successfully to try to keep them apart. I think we all in America should take pride in the passage of the Brady Bill, which has denied handguns to 250,000 felons, fugitives and stalkers. And since the crime bill was enacted, 19 of the deadliest assault weapons are harder to find on our streets. We will never know how many tragedies we've avoided because of these efforts. But we do know how much more remains to be done.
+
+Today, we will hear about further steps that we hope all of us are willing to take to make our schools and communities places in which all citizens can live in safety, free from violence and fear. In a few minutes, the people of Littleton, Denver and, indeed, all of Colorado will be stopping whatever they do for a moment of silence on behalf of those who lost their lives. I think it would be appropriate, here in the White House, that we join them; and that we not only use that moment of silence to remember the victims of this tragedy and the perpetrators, but that we think about all of the other children in America who tell us often that they're scared -- they're scared to go outside, they're scared because they know people who bring guns to school, they're scared because of what they see happening around them. Our first obligation is to try to make our children free from that kind of fear.
+
+So if we could just take a moment in solidarity with the people not only in Colorado who have suffered this loss, but people throughout our country, on behalf of our children.
+
+{COMMENT="A moment of silence is observed"} 
+
+Thank you. 
+
+{/speech}

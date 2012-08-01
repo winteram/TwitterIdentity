@@ -1,0 +1,50 @@
+﻿{title} Remarks by the President in Welcoming the Detroit Red Wings, the National Hockey League 1998 National Champions {/title}
+{event} Welcoming the Detroit Red Wings, The East Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 28, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Please be seated, everyone.
+
+Commissioner Bettman, Coach Bowman, Denise Ilitch, General Manager Holland; to the team captain, Steve Yzerman, and all the Red Wings; Congressmen Bonior, Dingell, Knollenberg, Levin, Stupak; Mayor Archer and other mayors from Michigan who are here with us today: Welcome back to the White House. {APPLAUSE}
+
+You know, this is becoming such a regular thing -- from time to time, we have state days at the White House -- we'll have a Maryland Day, and bring in people from all over Maryland, and let them meet with members of the Cabinet and talk about issues affecting the state. This is becoming so regular, we should just have Michigan Day at the White House when the Red Wings come. {APPLAUSE}
+
+Vince Lombardi, who was a pretty good coach himself, once said that "excellence is not a sometime thing." I think it's clear that, with your four-game sweep for a second straight Stanley Cup, that's what the Red Wings are living by.
+
+I've always found the history of the Stanley Cup particularly interesting. It's the oldest trophy competition by professional athletes in North America; the only trophy which bears the names of individual players and coaches. And what I admire most is the tradition of the whole team sharing the Cup, each player getting to take it home to friends and family. I think it's a tradition that other sports ought to follow, because it recognizes that every person on a team makes a unique and enduring contribution.
+
+The Red Wings overcame the Capitals -- as I said, our hometown team, but we still are impressed with what you did -- {LAUGHTER} -- in four decisive games, with grit, determination and teamwork. The series will be remembered as a defensive triumph that spotlighted your goalie, Chris Osgood, who allowed seven whole goals. Amazing. {APPLAUSE}
+
+And of course, it will be remembered for the performance of your team captain. Steve, your teammates have said you have the heart of a champion and that, when the chips are down, you always made the plays. That's something that every leader needs to do, and you have certainly done it.
+
+We all know, too, that great hockey teams have to have great coaches. Perhaps the Detroit Red Wings have the greatest coach in the history of hockey. {APPLAUSE} This victory, with his eighth championship as a head coach, Scotty Bowman became the winningest coach in NHL history, maybe an athletic dynasty all to himself.
+
+But teams win, whole teams -- in the arena, and on the sidelines, and we're glad to see the whole team here, including Vladimir, Sergei -- thank you all for coming. We're glad you're here today. Thank you. {APPLAUSE}
+
+Last year when you were here, and this year again when you were going through the line, I sensed a real genuine spirit of not only championship, but camaraderie. A sense of family, of caring for one another and supporting one another. In the end, that's even more important than winning the game.
+
+So congratulations. I'm delighted to have you here. And I'd like to have Commissioner Gary Bettman come up and say a few words. Thank you. {APPLAUSE}
+
+{COMMENT="Commissioner Bettman makes remarks"}
+
+{COMMENT="Denise Ilitch makes remarks"}
+
+{COMMENT="Coach Bowman makes remarks"}
+
+{COMMENT="Captain Steve Yzerman makes remarks and presents the President with a Red Wings jersey"}
+
+Thank you. When you gave me the last one, I started wearing it around the house, and Hillary pointed out I wasn't as broad-shouldered as she thought I was. {LAUGHTER} One wag in my office today said, you know, they'll probably give you a jersey, but I wish they'd give you one of those sticks, you could really put it to good use around here. {LAUGHTER ; APPLAUSE} 
+
+Thank you. Let me just say in closing, to the coach, to Steve, to all the team, it is an honor to have you here. It's wonderful to have all your friends from Michigan, and all your fans who live in Washington now, but have their hearts in Michigan.
+
+This house is truly the people's house. Every President is a temporary tenant. And I think, to me, the greatest joy of living here is seeing other people come in and share in the history. Every President since John Adams has lived in this house. George Washington conceived it, really, but never got a chance to live here. The whole history of our country is embodied within these walls.
+
+This house has been burned down; in 1814 the British troops came in here -- we were having a banquet, and everybody had to run. And Dolley Madison -- whose husband, James Madison, was the last active Commander-in-Chief of the Armed Forces, was out with our army -- and she cut that magnificent picture of George Washington down, which was purchased in 1797 for $500. It has no price today. The British came in and ate our food -- {LAUGHTER} -- and then burned the house down. {LAUGHTER} But the walls hung on, and it's been rebuilt, that time and one other time since. After all these years, whenever I land the helicopter on the back lawn and come in this house, I still get a thrill, because everything that our country has tried to be is embodied in this house.
+
+So, for your excellence; for your spirit of teamwork, we're honored to have you here, with all of your family and friends. And I only hope that it is as enjoyable to you as it is to me every day. Welcome, and God bless you. 
+
+{/speech}

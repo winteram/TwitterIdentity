@@ -1,0 +1,38 @@
+﻿{title} President's Remarks at a Drop-By Debate Watch Party {/title}
+{event} Greensfelder Recreation Complex, Ballwin, Missouri {/event}
+{speaker} George W. Bush {/speaker}
+{date} October 8, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all for coming. Thanks for staying up so late. {APPLAUSE} Anybody got any questions? {LAUGHTER ; APPLAUSE} 
+
+{AUDIENCE-MEMBER} We love Laura! {/AUDIENCE-MEMBER} {APPLAUSE}
+
+Thank you all for coming. Laura said, don't talk too long tonight. {LAUGHTER} I said, okay. {LAUGHTER} But I do want to thank you all very much. There's no doubt in my mind, with your help, we'll carry Missouri again and win in November. {APPLAUSE}
+
+So tonight I was telling the people why I think they ought to put me back in there for four more years, but I didn't get the line I really wanted to say, which was that the main reason to put me back in was so that Laura would be the First Lady for four more years. {APPLAUSE}
+
+{AUDIENCE} Laura! Laura! Laura! {/AUDIENCE} 
+
+{AUDIENCE-MEMBER} We love you Laura! {/AUDIENCE-MEMBER} {APPLAUSE}
+
+Tomorrow morning, I'm waking up first thing in the morning to help the next Governor of Missouri, Matt Blunt -- {APPLAUSE} -- and the next Lieutenant Governor of Missouri, Peter Kinder. I want to thank them both. {APPLAUSE} See you in the morning. I'll see you in the morning. Make sure the eggs aren't runny. {LAUGHTER}
+
+Then we're off to Iowa, then Minnesota. I'm fired up. I'm looking forward to this. {APPLAUSE}
+
+I thank all the candidates who are here. I really want to thank those of you who are putting up the signs and making the phone calls and doing all the work. {APPLAUSE}
+
+We had a good debate tonight. {APPLAUSE} There's clear differences of opinion. {APPLAUSE} One thing I hope you could tell is I know what I believe. {APPLAUSE} I know why I need to lead this country to make this world a safer place. {APPLAUSE} And a more hopeful place. {APPLAUSE} For every American, for every single American.
+
+Our dream is for America to fulfill its promise for every single person who lives here. There's no doubt in my mind, over the next four years this world will be a safer place, that we'll achieve the peace that we long for, for our children and grandchildren, and that the great promise of America, the great hope of our great country will be extended to every corner of this great land.
+
+I can't thank you all enough for being here.
+
+{AUDIENCE-MEMBER} Thank you! {/AUDIENCE-MEMBER} 
+
+May God bless you, and may God continue to bless our country. Thank you all. {APPLAUSE} 
+
+{/speech}

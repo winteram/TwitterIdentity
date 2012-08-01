@@ -1,0 +1,35 @@
+﻿{title} Remarks by the President to the American Troops in Kosovo {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} July 24, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. It's always a proud moment for the Commander-in-Chief to see the troops who uphold the values of our country. Especially here, seeing in a foreign land, brings home the true meaning of the sacrifices you make for our freedom. 
+
+Thank you, General David, for your kind introduction and your hospitality. Laura and I are honored to be here. I also want to recognize the leadership of Senior NCO Command Sergeant Major Marvin Hill. {CHEERS ; APPLAUSE} 
+
+I want to know what you did, Marvin. {LAUGHTER} You got some of the folks kind of excited when I mentioned your name. {CHEERS} 
+
+We're honored to be here. I realize that on July 4, you had the Dallas Cowboy Cheerleaders. {CHEERS ; APPLAUSE} I recognize I don't look quite as pretty -- but I am from Texas. {APPLAUSE} And I'm proud to be an American. {APPLAUSE} And I know you are, as well, because we represent a great land, great land. {APPLAUSE} 
+
+I'm also looking forward to having a lunch with some of you in a while. The General mentioned that I like PT -- I'm going to eat lightly because I look forward to leading a run up Radar Hill after lunch. {CHEERS ; APPLAUSE} Are you ready to go? {CHEERS ; APPLAUSE} 
+
+I want you to know that there's no higher honor than to serve as your Commander-in-Chief. America appreciates your service and sacrifices for our country. And I'm here to tell you that. 
+
+It's good to be here with the Screaming Eagles of the 101st Airborne. {CHEERS ; APPLAUSE} You just lived up to your name. I also want to thank the members of the United States Army Reserve, the Air Force, the Navy and Marine Corps, and the National Guard units from Nebraska, Rhode Island and Tennessee. {CHEERS} I thank the civilians and contractors who helped build this base. {CHEERS} 
+
+My first opportunity as President to address America's military forces came at Fort Stewart, Georgia. {CHEERS} It's great to be back with the Dog-Face soldiers of the -- {CHEERS} I think I'll repeat what I said there -- Oorah! {CHEERS} 
+
+And finally, I want to thank all our allies who join in this mission -- Greece, Italy, Jordan, Lithuania, Poland, Russia, Ukraine, United Arab Emirates and the United Kingdom. {CHEERS} It's a long list. It speaks volumes about why you are so good at your mission. You come from many nations, many cultures and many continents -- just like amongst the U.S. military personnel, many races and many faiths, many traditions represented. 
+
+Your diversity and close cooperation, General, in the cause of peaceproud to say, help is arriving. {APPLAUSE} I'm committed that America does a better job of supporting you all. 
+
+For every one of you has dedicated yourself to something greater than yourself. You put your country ahead of your comfort. You've committed your lives to defending our nation's highest ideals. And thanks to you, the march of freedom continues around the world. 
+
+It's an honor to be here. It's a huge honor to be the Commander-in-Chief. Thank you for your service to a great country. {CHEERS ; APPLAUSE} 
+
+{/speech} 

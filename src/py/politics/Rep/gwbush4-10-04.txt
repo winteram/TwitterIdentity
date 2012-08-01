@@ -1,0 +1,44 @@
+﻿{title} President Signs Tax Relief Bill Benefiting Millions of Families {/title}
+{event} South Suburban YMCA, Des Moines, Iowa {/event}
+{speaker} George W. Bush {/speaker}
+{date} October 4, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. Thanks for coming today. Thank you all. Please be seated. Mr. Chairman -- {LAUGHTER} -- you probably think I've come here to sign an important piece of legislation. Actually, I'm here for a different reason. The south lawn of the White House has a lot of grass -- {LAUGHTER} -- I'm looking for somebody to mow it. {LAUGHTER ; APPLAUSE} And so Mr. Chairman, you shall now be known as "Grass-mower." {LAUGHTER} And, by the way, when you're through using that car -- {LAUGHTER} -- I've always liked an old Olds. {LAUGHTER} I appreciate you being here, Mr. Chairman; proud to call you friend. {APPLAUSE}
+
+Thanks for being here, as well. It's a beautiful day here in Iowa. Iowa is such a beautiful place. Today, with my signature, federal law will extend vital tax relief for millions of American families and add momentum to our growing economy. Today, here in Des Moines, Iowa, the Working Families Tax Relief Act of 2004 becomes the law of the land, and I appreciate you being here to watch it. {APPLAUSE}
+
+And I really do appreciate working with Mr. Chairman. He's had a remarkable tenure as Chairman of the Finance Committee in the Senate. We have accomplished a lot together. I appreciate other members of the congressional delegation who are with us today: the Chairman of the Budget Committee in the House of Representatives, Jim Nussle; thank you for coming, Jim. {APPLAUSE} Jim Leach, Congressman Jim Leach is with us. {APPLAUSE} I appreciate my friend, Jim Leach being here, as well as Congressman Tom Latham. I'm honored they are here. {APPLAUSE}
+
+Not here is head of the Ways and Means Committee in the House of Representatives, Chairman Bill Thomas, of California. I appreciate his hard work on this bill and I appreciate him working with Chuck Grassley to get the bill done. I also want to thank Minority Leader in the House of Representatives on the -- in the Ways and Means Committee, Charlie Rangel, Democrat from New York, for working on this bill; as well as Senator Max Baucus, Democrat from Montana, for working with Chuck Grassley on the bill, as well. I want to thank all the members of Congress who worked hard to get this bill done.
+
+I appreciate members of the ex-governors club who've joined us today. I happen to be a member of that club, as well. {APPLAUSE} I'm a fellow member. {LAUGHTER} Terry Branstad and Bob Ray have served your state so very well, and I appreciate their friendship. {APPLAUSE} And I'm glad Billie Ray is with Bob. I'll tell Mother and Dad "hello" for both of you. Appreciate you coming.
+
+I want to thank all the state and local officials who are here. I particularly want to thank the president and CEO of the YMCA, Vernon Delpesce, as well as Dave Hoak, who's the chairman of the Y, for letting us use this facility for this bill signing ceremony. I want to thank the Patterson family who is with us here. They're beneficiaries of the tax relief. I spent some time with them backstage. I'll be speaking about another family here in a minute.
+
+The law I sign this morning comes at just the right time for America. Some of tax relief provisions we passed over the last three years were set to expire at the end of 2004. Unless we acted, a family of four earning $40,000 would have seen their federal income taxes rise by more than $900. That would have been a burden for hardworking families across America. And it would have been a setback for our economy.
+
+Today we're acting to keep vital tax relief in place. The bipartisan bill I sign today extends the $1,000 child tax credit, the marriage penalty relief and the expanded 10 percent tax bracket. It also protects millions of families from having to pay the alternative minimum tax in 2005. That tax was designed over three decades ago to make sure wealthy Americans pay their fair share of taxes. But now it affects middle income families. This bill will also increase the child credit refunds for almost 7 million low-income families in the 2004 tax year.
+
+Overall, 94 million Americans will have a lower tax bill next year, including 70 million women and 38 million families with children. The money they keep will make it easier to save for their retirement, or their children's education, invest in a home or a small business, or pay off credit card debts. One of those families is the Hintz family, from Clive, Iowa. Thank you all for coming. {APPLAUSE}
+
+It's a special day for Mike and Sharla, not because they're with the President or with Chairman Grassley, but because it's their 13th wedding anniversary. {APPLAUSE} Theirs is a typical story. See, last year they received a child tax credit check for $1,600 for their four children. And under all the tax relief we've passed, they saved about $2,800 last year. With this extra money they bought a wood-burning stove to reduce their home heating costs. They made a decision for their family.
+
+They also made home repairs and improvements. They took the family on a vacation to Minnesota. Next year when you get your check, you may want to come to Texas. {LAUGHTER} Without the tax bill I'm signing today, the Hintzes would have paid $1,200 more in federal taxes next year. Think about that. Here's a family of four, working hard to raise their kids, the money would have been going out of their pocket. I believe they can spend that $1,200 better than the federal government can. {APPLAUSE}
+
+This legislation will have good effects throughout the economy. The tax relief we passed in 2001 has helped our economy overcome a lot of challenges -- a stock market decline, a recession, terrorist attacks, and war. By extending key portions of that tax relief, we will leave close to $50 billion next year in the hands of the people who earned it. And that money will help keep the economy moving forward, and result in even more new jobs for American workers.
+
+This act of Congress is essential, but it's only a start. Over the next few years, if we fail to take further action, the tax relief will expire and federal income taxes will go up for every American who pays them. For the sake of our families and small businesses, and farmers, investors, and seniors, we need to make all the tax relief permanent.
+
+We need to make sure the death tax doesn't come back to life. {APPLAUSE} We need to keep the tax relief we enacted for investors and small businesses. We need to reform the tax code to make it simpler, easier to understand, and pro-growth. To keep the economy growing, we need to reduce the burden of regulation on small businesses. To keep our economy growing, we need to end the junk lawsuits that keep entrepreneurs from creating new jobs. To keep the economy growing, we need an energy plan to make sure America is less dependent on foreign sources of energy, by using alternative uses of energy like ethanol and biodiesel. {APPLAUSE} We need to open up foreign markets for our products and to continue to ensure that other countries play by the rules. We need spending discipline in our nation's capital. {APPLAUSE}
+
+I look forward to working with the Congress to achieve all these goals. When we keep taxes low and trust our American families with their own money, they spend it far more wisely than we can. And when they do, they make the American economy stronger.
+
+I appreciate the members of Congress who are here today. I wish they'd come up and join me as, in the great city of Des Moines, Iowa, I sign into law the Working Families Tax Relief Act of 2004. {APPLAUSE}
+
+{COMMENT="The bill is signed"} {APPLAUSE} 
+
+{/speech}

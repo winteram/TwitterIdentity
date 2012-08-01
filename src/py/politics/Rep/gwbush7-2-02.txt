@@ -1,0 +1,43 @@
+﻿{title} President's Remarks at National Prayer Breakfast {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 7, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much, John. Laura and I are really honored to join you this morning to celebrate the 50th anniversary of the National Prayer Breakfast. And Admiral Clark, whatever prayer you used for eloquence, worked. {LAUGHTER ; APPLAUSE} I appreciate your message and I appreciate your service to our great country. {APPLAUSE} 
+
+I want to thank Jon Kyl and Judge Sentelle for their words, and CeCe for your music. I appreciate getting the chance to meet Joe Finley, the New York City firefighter. He's a living example of what sacrifice and courage means. Thank you for coming, Joe. {APPLAUSE} 
+
+I want to thank Congressman Bart Stupak. I really appreciate the fact that my National Security Advisor, Condoleezza Rice, is here to offer prayer. {APPLAUSE} I appreciate the members of my Cabinet who are here. I want to say hello to the members of Congress. 
+
+I'm particularly grateful to Lisa Beamer for her reading and for her example. {APPLAUSE} I appreciate her example of faith made stronger in trial. In the worst moments of her life, Lisa has been a model of grace -- her own, and the grace of God. {APPLAUSE} And all America welcomes into the world Todd and Lisa's new daughter, Morgan Kay Beamer. {APPLAUSE} 
+
+Since we met last year, millions of Americans have been led to prayer. They have prayed for comfort in time of grief; for understanding in a time of anger; for protection in a time of uncertainty. Many, including me, have been on bended knee. The prayers of this nation are a part of the good that has come from the evil of September the 11th, more good than we could ever have predicted. Tragedy has brought forth the courage and the generosity of our people. 
+
+None of us would ever wish on anyone what happened on that day. Yet, as with each life, sorrows we would not choose can bring wisdom and strength gained in no other way. This insight is central to many faiths, and certainly to faith that finds hope and comfort in a cross. 
+
+Every religion is welcomed in our country; all are practiced here. Many of our good citizens profess no religion at all. Our country has never had an official faith. Yet we have all been witnesses these past 21 weeks to the power of faith to see us through the hurt and loss that has come to our country. 
+
+Faith gives the assurance that our lives and our history have a moral design. As individuals, we know that suffering is temporary, and hope is eternal. As a nation, we know that the ruthless will not inherit the Earth. Faith teaches humility, and with it, tolerance. Once we have recognized God's image in ourselves, we must recognize it in every human being. 
+
+Respect for the dignity of others can be found outside of religion, just as intolerance is sometimes found within it. Yet for millions of Americans, the practice of tolerance is a command of faith. When our country was attacked, Americans did not respond with bigotry. People from other countries and cultures have been treated with respect. And this is one victory in the war against terror. {APPLAUSE} 
+
+At the same time, faith shows us the reality of good, and the reality of evil. Some acts and choices in this world have eternal consequences. It is always, and everywhere, wrong to target and kill the innocent. It is always, and everywhere, wrong to be cruel and hateful, to enslave and oppress. It is always, and everywhere, right to be kind and just, to protect the lives of others, and to lay down your life for a friend. 
+
+The men and women who charged into burning buildings to save others, those who fought the hijackers, were not confused about the difference between right and wrong. They knew the difference. They knew their duty. And we know their sacrifice was not in vain. {APPLAUSE} 
+
+Faith shows us the way to self-giving, to love our neighbor as we would want to be loved ourselves. In service to others, we find deep human fulfillment. And as acts of service are multiplied, our nation becomes a more welcoming place for the weak, and a better place for those who suffer and griev 
+
+For half a century now, the National Prayer Breakfast has been a symbol of the vital place of faith in the life of our nation. You've reminded generations of leaders of a purpose and a power greater than their own. In times of calm, and in times of crisis, you've called us to prayer. 
+
+In this time of testing for our nation, my family and I have been blessed by the prayers of countless of Americans. We have felt their sustaining power and we're incredibly grateful. Tremendous challenges await this nation, and there will be hardships ahead. Faith will not make our path easy, but it will give us strength for the journey. 
+
+The promise of faith is not the absence of suffering, it is the presence of grace. And at ever step we are secure in knowing that suffering produces perseverance, and perseverance produces character, and character produces hope -- and hope does not disappoint. 
+
+May God bless you, and may God continue to bless America. {APPLAUSE} 
+
+{/speech} 

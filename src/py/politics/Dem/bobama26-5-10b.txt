@@ -1,0 +1,102 @@
+﻿{title} Remarks by the President at First Fundraising Reception for Barbara Boxer and the Democratic Senatorial Campaign Committee {/title}
+{event} First Fundraising Reception for Barbara Boxer and the Democratic Senatorial Campaign Committee {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 26, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, hello, everyone. {APPLAUSE} How's it going, California? {APPLAUSE}
+
+{AUDIENCE-MEMBER} Love you! {/AUDIENCE-MEMBER} 
+
+Love you back. {LAUGHTER} This is a good-looking crowd. {APPLAUSE}
+
+{OTHER-SPEAK} That's Nancy's granddaughter, Isabella -- Nancy Pelosi. {/OTHER-SPEAK} 
+
+Well, she's just precious, and I know her pretty well. {LAUGHTER} Hey, mom, how are you?
+
+Well, it is so nice to see everybody. Thank you for the wonderful welcome and the genuine San Francisco weather. {LAUGHTER} I mean, I wouldn't have wanted to come here and it was all sunny and bright. {LAUGHTER} No, that's not the way it's supposed to work.
+
+{AUDIENCE-MEMBER} You rock, Barack! {/AUDIENCE-MEMBER} 
+
+Thank you. {APPLAUSE}
+
+We just flew in today from Washington, and I have to say that we've got a lot on our plate right now, so I don't travel for just anybody. But when it comes to Barbara Boxer, I'm a lot like many of you, which is if she calls and she says, “I need some help,” then we're going to give her some help, because she has helped millions of Californians and millions of Americans all across the country. {APPLAUSE} And we're going to make sure that Barbara Boxer is in office for an awful long time to come, whether Stu likes it or not. {APPLAUSE}
+
+I was talking to Stu in the back, and, you know, when you're a senator, an elected official, right around this time of year you basically become a widow or a widower -- {LAUGHTER} -- until your spouse is finished with their race. But Stu has been so supportive because he knows the value of what Barbara does each and every day.
+
+Now, let's face it, this has been as tough a year and a half as any year and a half in our history since the 1930s. When I came into office, when I was sworn in, we were on the brink of what many economists thought might be another Great Depression. At minimum, we knew we were going to have the worst recession since the Great Depression. We were losing 750,000 jobs per month. The economy had contracted 6.5 percent. I had, wrapped like a gift, a welcoming gift for me a $1.3 trillion deficit.
+
+And so we had to act quickly. And that meant that right away we had to make sure that we put in place mechanisms to put people back to work, to get the economy growing again. We had to cut taxes for small businesses and for individuals so that they would boost demand in the economy that was caving. It meant that we had to make sure that unemployment insurance and COBRA was in place so that people would have some safety net under them when they lost a job through no means of their own -- through no fault of their own. {APPLAUSE}
+
+But it also meant that we had to make investments so that we would create a foundation for long-term growth in this country. See, we couldn't keep on doing the same things we had been doing. It wasn't good enough just to go back to the status quo ante. We couldn't have a situation in which growth was premised on everybody maxing out on their credit cards, and taking out home equity loans, and getting deeper and deeper into debt, and wild speculation on the financial markets.
+
+What we had to do was to go back to basics and think about what has made America great. Well, one of the things that has always made America great is innovation. And so through our Recovery Act, we made the largest investment in clean energy in our history.
+
+And we made the largest investment in science. {APPLAUSE} And while we were making all those investments in research and development, we also elevated science once again. {APPLAUSE} And we said we would make decisions on stem cell research and other issues based on what science tell us. And so we had an innovation agenda.
+
+Then we had an agenda with respect to making sure that we made the health care system more efficient. {APPLAUSE} And so even before we got into the health care bill, we invested in information technology so that when you go to the doctor, you don't have to take five tests. We're just going to take one test, and then you're going to e-mail the five tests to everybody else -- and by the way, you won't get charged for five tests, or Medicaid or Medicare won't get charged for five tests.
+
+And we thought about how could we restore an auto industry that was on the brink. But again, we couldn't go back to the status quo. So what we did was we said, you know what, we're going to make sure that GM and Chrysler aren't liquidated, but we're going to make sure that we invest in advanced battery technologies and hybrid technologies so that we can start seeing a future of plug-in hybrids that get 150 miles a gallon so that we can start breaking our dependence on foreign oil. {APPLAUSE}
+
+And we said, you know, part of the innovation economy is making sure every child in America has a decent education -- {APPLAUSE} -- which meant we made the largest investment -- we made the largest investment in education in our history, not only at the K-12 level but also at the community college level and at the university level.
+
+And then we said, you know we -- if we're going to innovate and grow, we've got to have great infrastructure. And so we passed the largest investment in infrastructure since Eisenhower built the Interstate Highway System.
+
+And we said if we're going to cut taxes, let's make sure we cut taxes for the right folks. And so as a consequence, we passed the most progressive tax cut in our history to make sure that people who really needed it got the benefits. {APPLAUSE}
+
+Now, California, I want you to understand we did all that in the first month. {LAUGHTER} That was in the first month. {APPLAUSE} And in the first couple of months, we had already provided 4 million more children health care under the Children's Health Insurance bill. We had already passed legislation to make sure that a basic principle that women, if they're working on the job, should get paid the same for doing the work that a man is doing. {APPLAUSE}
+
+In the first six months, we had already made sure that tobacco companies couldn't market to our kids -- {APPLAUSE} -- and the toughest credit card regulations in our history -- and legislation to prevent housing fraud. We did that in the first six months.
+
+But that wasn't enough to start building this new foundation for our economy. So we just kept on going. And as Barbara mentioned, we ended up doing something that seven Congresses and seven Presidents have failed to do -- had failed to do for a century, and that is start providing basic security for all Americans when it comes to their health care, because in a country this wealthy, no person should go bankrupt because they get sick, no child should go unattended if they've got a chronic illness. That is a basic principle of America. {APPLAUSE}
+
+And by the way, it turns out that by making these changes, we can actually make the health care system more efficient, and drive down costs, and drive down premiums, and help small businesses.
+
+Now, we decided that's still not enough in order to make the changes that are necessary. And so we said we're never going to have the situation again where taxpayers are forced to choose between the entire economy collapsing or having to bail out a bunch of folks who've been irresponsible.
+
+So we decided we had to create a financial regulatory structure that continues to affirm the power of the free market, that recognizes that financial institutions have to be there to be able to finance small businesses and individuals buying homes and cars. And that's all good. That's part of what makes America so creative and so dynamic; that drives our growth.
+
+But there have got to be basic rules of the road so consumers aren't getting cheated; so people aren't missing the fine print and suddenly find themselves way overextended; so that you don't have financial instruments that can blow the entire economy apart.
+
+And so after the -- over the last several months, after we finished with health care, we've tackled financial regulatory reform. We've now passed it through the House. We've now passed it through the Senate. And we are going to pass it through Congress. And then I'm going to sign that bill to make sure that we don't have taxpayer bailouts for irresponsible behavior in our financial sector. {APPLAUSE}
+
+All right, so that's not a bad 18 months' work. {LAUGHTER} That's pretty good. But here's the thing. I couldn't have done that by myself. I mean, one of the things you learn as President is because you've got this title, and, you know, there's the plane and the helicopter, and all that stuff -- {LAUGHTER} -- that people expect you to solve problems. And when things go wrong, they're definitely going to blame you. If things go right, occasionally you might get the credit.
+
+But the truth is, is that in order for us to succeed in bringing about the kind of America where everybody has opportunity, where our economy is growing and innovative and more stable, where our children are getting a good education, where we've got a sound health care system, where we've got an actual energy agenda, I can't do that by myself. I've got to have strong allies. I've got to have people with passion. I've got to have people who are willing to fight for what's right. I've got to have people who always have the voices of their constituents in their ear, and understand and remember, no matter how long they've been in Washington, who it is that they're fighting for.
+
+And nobody is a better example of that than Barbara Boxer, which is why you are here today. {APPLAUSE} On every fight that needed to be fought, Barbara was there, standing right there next to me, and sometimes we were in a foxhole together, and shots were being fired. {LAUGHTER} That's just a figure of speech. I don't want the Secret Service -- {LAUGHTER} -- getting excited.
+
+But Barbara is always there. She's been there for you. She's been there for California. She's been there for me. And now --
+
+{AUDIENCE-MEMBER} Boxer in your corner. {/AUDIENCE-MEMBER} 
+
+-- we've got a Boxer in our corner. That's a good one. {LAUGHTER}
+
+So now we've got to be there for her, because the truth is our work is not yet done. And I actually visited the Republican Caucus today, and it was a very warm and cuddly meeting. {LAUGHTER} But the truth is I want the country to come together in dealing with some big problems that we've still got. And Barbara wants the same thing. {APPLAUSE}
+
+And here's what I told them. I'm not going to get into all the details of the meeting, because they wanted the meeting closed. We had a meeting that was open with the Republican Caucus on the House side, and I had a lot of fun there. {LAUGHTER} So -- but basically I said we've done some good work. Unfortunately sometimes we haven't gotten a lot of help from the other side of the aisle. But we still are hopeful that you are willing to put party below what needs to be done for the American people.
+
+And here are some areas where we know we've got to make progress. We know we still have to make progress on energy. This situation in the Gulf is heartbreaking. And the day that it was reported to me that this riser and the drilling situation had blown, I said to my team, we've got to put every bit of energy, time, all the resources we've got to make sure that we deal with this.
+
+And we've now got over a thousand people from the federal government deployed down there. We are doing everything we can to contain the damage. But the fact of the matter is, is that not only do we have to revisit how these oil companies are operating, to make sure that they're operating in a safe and effective way. But we've also still got this overarching issue, even if you hadn't seen the catastrophe down in the Gulf, the reason that folks are now having to go down a mile deep into the ocean, and then another mile drilling into the ground below that is because the easy oilfields and oil wells are gone, or they're starting to diminish.
+
+And what does that tell us? That tells us that we've got to have a long-term energy strategy in this country. {APPLAUSE} And we've got to start -- we've got to start cultivating -- we've got to start cultivating solar and wind and biodiesel. And we've got to increase energy efficiency across our economy in our buildings and our automobiles.
+
+And we've got to also make sure that -- {COMMENT="Interruption"} -- oops. {LAUGHTER} You don't agree. {LAUGHTER} And we've got to make sure that as these technologies develop, the government is not creating these technologies, but it's supporting them, because that's how the railroads got built, and that's how the Internet got developed, for there was some measure of government support.
+
+And we've got to stop subsidizing those industries that are not going to lead us to the future. {APPLAUSE} Now -- so I said to the Republicans, join with me. There's been some good work done by John Kerry and Joe Lieberman and Lindsey Graham. Let's go. Let's not wait. Let's show the American people that in the midst of this crisis, all of us are opening our eyes to what's necessary to fulfill the promise to our children and our grandchildren.
+
+And then I talked about immigration reform, another area where there are a lot of passions right now. {APPLAUSE} And I said -- I said to them -- I said to them, look, I disagree with this Arizona law. I think it's a bad idea. {APPLAUSE} But I also said I understand the frustration of folks in Arizona. I understand they're feeling that somehow the federal government can't control the border effectively, and I'm willing to work with my Republican colleagues to create a stronger border here in California, New Mexico and in Arizona. I think everybody understands that that's an important investment to make.
+
+And I told them if we actually want to solve the problem, as opposed to just score political points, then we can't just have one leg of the stool. We've got to make sure that we're dealing with employers who are dealing in unscrupulous ways with undocumented workers. {APPLAUSE} We've got -- and for the millions of folks who are already here, we've got to say to them, you've got to take responsibility. You broke the law, you've got to pay a fine. You've got to pay your back taxes. You've got to learn English. You've got to go to the back of the line, but here's a pathway whereby you can get right with our community and contribute to the larger American project. {APPLAUSE}
+
+Those are issues that we're going to have some legitimate differences on. Some of those differences were expressed in the Republican Caucus. And I expressed my opinions, as well. But you know what, if you talk to most Americans on these issues, they're not thinking Republican, they're not thinking Democrat, they're not thinking liberal, they're not thinking conservative. They're thinking, what's common sense, what's decent, what's right, what does the science say, what do the facts say, what will work, what won't work? Solve the problem.
+
+And that's what I'm prepared to do. And that's what Barbara Boxer has always stood for. {APPLAUSE} And that's why it's so important that you're here tonight, because that's the kind of politics that is going to create a better future for California, that's the kind of politics that's going to create a better future for the nation. And that's why I know that you are going to make sure that Barbara Boxer gets another six years in the United States Senate. {APPLAUSE}
+
+Thank you very much, everybody. God bless you. {APPLAUSE} 
+
+{/speech}

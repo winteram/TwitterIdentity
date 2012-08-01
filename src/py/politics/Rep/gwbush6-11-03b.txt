@@ -1,0 +1,60 @@
+﻿{title} President Signs Wartime Supplemental {/title}
+{event} Remarks by the President at Signing of HR 3289 - the Emergency Supplemental Appropriations Act for Defense and for the Reconstruction of Iraq and Afghanistan, The East Room {/event}
+{speaker} George W. Bush {/speaker}
+{date} November 6, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all for coming. Good afternoon, and welcome to the White House. On September the 11th, 2001, America grieved for our losses, and we made a commitment. We determined to conduct the war against terror on the offensive. We determined to confront and undermine threats abroad before they arrive in our own cities.
+
+We're waging this war in relentless pursuit of the al Qaeda network. We're waging this war in Afghanistan against Taliban remnants and al Qaeda killers. We're waging this war in Iraq against Saddam loyalists and foreign terrorists who seek the return of tyranny and terror. We're pursuing long-term victory in this war by promoting democracy in the Middle East so that the nations of that region no longer breed hatred and terror.
+
+Today, the United States is making a critical financial commitment to this global strategy to defeat terror. We're supporting our servicemen and women in the field of battle. We're supporting reconstruction and the emergence of democratic institutions in a vital area of the world.
+
+The American people accept these responsibilities now, in our time, so that we will not face far greater dangers in the future. With this act of Congress, no enemy or friend can doubt that America has the resources and the will to see this war through to victory. {APPLAUSE}
+
+I want to thank our Secretary of State, Colin Powell, and Secretary of Defense, Don Rumsfeld, for their extraordinary leadership during these tough times. {APPLAUSE} I appreciate Deputy Secretary Rich Armitage, Deputy Secretary Paul Wolfowitz for joining us today, as well. Thank you all for coming. {APPLAUSE}
+
+Josh Bolten, a member of my Cabinet, the Director of the Office of Management and Budget -- the keeper of the money -- is with us. {APPLAUSE} Andrew Natsios, the Administrator of the USAID is with us today. Andrew, thank you for coming. Yes, he's right there. {APPLAUSE}
+
+I appreciate the leadership of the Congress being here today. Speaker Denny Hastert and Leader Bill Frist are with us. Thank you all for coming, thank you for your strong leadership.
+
+I also want to pay a particular mention to Chairman Ted Stevens and Chairman Bill Young for doing a fabulous job on a very tough issue. Thank you very much. {APPLAUSE}
+
+There are a lot of members of the Senate and House with us. Thank you all for coming, for making a good, courageous vote. I particularly want to pay homage to Mitch McConnell of Kentucky, for his leadership on the floor; Jerry Lewis from California; and Norm Dicks from Washington, for supporting your chairman and getting this bill out.
+
+I want to thank the military and civilian staff members of the Coalition Provisional Authority who are with us. Thank you for serving our country. We appreciate the sacrifices you are making.
+
+Today in Iraq and Afghanistan, the world sees a test of will and a clash of strategies. The strategy of our enemies -- whether al Qaeda, Baathist, Taliban or others -- is to intimidate newly free men and women who are trying to establish democracy, and to cause America and our allies to flee our responsibilities. Their goal is to halt and reverse all progress toward freedom in the Middle East, to reinstate permanently the rule of fear and oppression.
+
+The strategy of America and our allies is equally clear. We are employing targeted and decisive force against the killers. We're training and equipping Iraqis and Afghans to defend their own nations. We're helping the Iraqi and Afghan people build just and democratic governments. And we will meet our duties until the job is done. {APPLAUSE}
+
+The terrorists and their supporters have had many setbacks in the last two years. They have lost many leaders, many training camps and two countries. And we will not relent until they are fully and finally defeated. {APPLAUSE}
+
+The legislation I'm about to sign commits $87 billion to America's global offensive against terror. More than $65 billion of these new funds will pay for ongoing military operations. We're supporting such basic military necessities as air, rail, and sea transportation for American and coalition troops to the theaters of action.
+
+We will purchase ammunition for our weapons, and fuel and spare parts for airplanes and helicopters and vehicles. We will replace equipment lost or damaged in combat. We'll acquire vital new equipment, such as armored humvees and body armor and communications gear. Our service men and women are carrying out their missions with skill and honor, and they deserve the finest equipment and best weapons we can provide. {APPLAUSE}
+
+This legislation contains needed funds to pay our soldiers, sailors, airmen, and Marines, including the additional pay our forces receive for hazardous duty. We will also cover the salaries of National Guard and Reserve troops who have left jobs and homes and families in an hour of national need. The American government will keep its responsibilities to all who risk their lives for America. {APPLAUSE}
+
+This legislation also includes nearly $20 billion to help build stable democratic societies in Iraq and Afghanistan. We will help train and equip the growing number of Iraqis and Afghans who are fighting and dying to defend and secure their rights. We'll help to upgrade hospitals and schools and repair infrastructure and improve basic services, including water, electricity and sanitation.
+
+Our investment in the future of Afghanistan and Iraq is the greatest commitment of its kind since the Marshall Plan. By this action, we show the generous spirit of our country, and we serve the interest of our country, because our security is at stake. The Middle East region will either become a place of progress and peace, or it will remain a source of violence and terror. And we're determined to see the triumph of progress, and the triumph of peace in that region. We will do all in our power to ensure that freedom finds a lasting home in Afghanistan and in Iraq. {APPLAUSE}
+
+We know this will require patience and sacrifice. I just had the honor of meeting PFC Phillip Ramsey and SPC Alex Leonard, two brave Americans who were wounded in action. We thank you for your service. {APPLAUSE}
+
+Recent attacks have shown, once again, the cruelty of the enemy. They don't care whose lives they take -- men, women, or children. They're cold-blooded. They're heartless. We're engaged in a massive and difficult undertaking, but America has done this kind of hard work before.
+
+After World War II, we made long-term commitments to the transformation of Germany and Japan so that those nations would not be sources of war, but our partners in peace. That investment in peace has been repaid many times over. Now our generation will show the same perseverance and the same vision in the cause of peace.
+
+I appreciate the solid bipartisan support for this bill in the House and the Senate. I also appreciate that reconstruction funds for Iraq have been provided in the form of grants so that this struggling nation is not burdened with new debt at a moment of new hope. {APPLAUSE}
+
+The establishment of a free Iraq and a free Afghanistan will be watershed events in the history of the Middle East, watershed events in the global democratic revolution that has already transformed Europe and Latin America and much of Africa and Asia. The resources we commit today will further advance the cause of freedom, thereby serving the cause of peace and enhancing the security of the American people.
+
+Now I'm pleased to sign into law, the Iraq and Afghan -- Afghanistan Supplemental Appropriations Bill. {APPLAUSE}
+
+{COMMENT="The bill is signed"} {APPLAUSE} 
+
+{/speech}

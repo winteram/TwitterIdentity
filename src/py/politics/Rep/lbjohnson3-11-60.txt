@@ -1,0 +1,17 @@
+﻿{title} Remarks of Senator Lyndon B. Johnson, Airport Rally, Amarillo, Tex. {/title}
+{event} Airport Rally {/event}
+{speaker} Lyndon B. Johnson {/speaker}
+{date} November 3, 1960 {/date}
+{source} http://www.jfklink.com/ {/source}
+{description} ----- {/description}
+
+{speech}
+
+My friends Carl Hill and Charley Gibson and Walter Rogers - I just want to say to you people in Amarillo that you are represented in the Congress by one of the ablest and one of the wisest and one of the best Congressmen in the United States, Walter Rogers. {APPLAUSE}
+Senator Kennedy, we are delighted to have you in our State today, with your gracious sister. We are also very pleased to have one of our most influential friends in the Congress, Senator Clint Anderson; our neighboring Governor, Governor Edmondson, come here to visit with us. We Texans have always understood men who speak their minds and their hearts, and who speak them openly and fearlessly. We have come here this afternoon to meet with such a man and with such a leader, the next President of the United States, Jack Kennedy. {APPLAUSE}
+For 2 months, Jack Kennedy has ranged the length and breadth of this land. He has gone into every section. He has toured every region. He has spoken to millions of people and they have responded. They have responded because he calls America to greatness, not to mean, petty little fears.
+A few months ago in the city of Los Angeles, he came to my hotel room. It was the morning after he had been nominated. He said to me that he would like for us to join together in a partnership to unite the Nation, to close our ranks, to serve all of America. When he came, that message was very brief and it was very much to the point. He wanted to serve the North and the South, the East and the West. And I am thrilled and delighted and grateful to you for giving me that opportunity to serve beside him and behind him. {APPLAUSE}
+Campaigning on the ticket with Jack Kennedy is one of the most enriching experiences in my life. Jack Kennedy is a man who believes that America should be first, not just in defense, not just in production, but in the hearts of men and women throughout the world. Jack Kennedy is a man who believes that the Presidency is an office which belongs to all the people of this country, regardless of their race, regardless of their religion, regardless of their creed or the region where they were born. {APPLAUSE}
+Jack Kennedy is a leader that will meet the challenge of our times. We started out in September when the polls showed Kennedy leading 45 to 41. In October we moved up to 48 to 44, and only last Saturday it is 49 to 41. {APPLAUSE} And you will see the Gallup poll tomorrow on the Nation showing us away out in front. So I ask you to go home and talk to your people, talk to your uncles and your cousins and your aunts, your grandmothers and your grandfathers, your daddies and your mothers, and get them to the polls next Tuesday and help Texas stand up alongside of all the other proud States of this Nation in electing the next President of the United States, a Democratic President, John F. Kennedy. I now give him to you. {APPLAUSE}
+
+{/speech}

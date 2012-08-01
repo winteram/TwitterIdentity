@@ -1,0 +1,36 @@
+﻿{title} Vice President's Remarks at the Gerald R. Ford Foundation Annual Dinner {/title}
+{event} The National Archives BuildingWashington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} June 20, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, thank you very much. I appreciate the opportunity to join my fellow trustees and so many other old friends this evening. Jack, I want to thank you and all that you did to make life interesting for me when I was your Dad's Chief of Staff. {LAUGHTER} I'm pleased, of course, to be with Susan, and Mike, and Steve, and the other members of the Ford family tonight. It's a privilege for all of us.
+
+I want to send good wishes, as well, obviously, to the President and the First Lady on behalf of everyone gathered here in the National Archives. They've given so much to our country, and to all of us. And we remain deeply grateful for their friendship and their good example. And we'll be thinking of them, once again, in a few weeks, when President Ford marks his 93rd birthday.
+
+I'm not aware of any other administration in which the President, the First Lady, Cabinet officers, and White House staff have maintained such close personal ties, or held gatherings of this kind for so many years. The plain truth is that all of us rightly believe that we were part of something very special. We served a nation that was facing many serious challenges at home and abroad. We found ourselves in the middle of one of the hardest-fought presidential campaigns in history. And we worked for a man who had inherited a damaged office and who swiftly and successfully restored authority, dignity, and respect to the presidency.
+
+Gerald Ford once said that he never could have imagined that he would be President of the United States in America's bicentennial year. But the job fell to him, and by the Fourth of July, 1976, America was once again a proud, confident, forward-looking nation. After -- in these three decades since then, America's appreciation for the Ford presidency has only grown. And so has our devotion to the man and woman from Grand Rapids who led our nation and who were so very kind to each and every one of us.
+
+For Lynne and me, this is a gathering we always look forward to. We still laugh at the memory of last year's dinner in Rancho Mirage, when President Ford called the room to silence, lowered his voice, drew us into his confidence -- and announced that he was Deep Throat. {LAUGHTER}
+
+Another very eventful year, obviously, has passed since that last meeting in California. Obviously, a great many newsworthy moments have come and gone, many of them because of the men and women of the United States military. They never let this country down, and they make Americans proud each and every day.
+
+I'm delighted that the men and women of the Armed Forces have been chosen to receive this year's Gerald R. Ford Medal for Distinguished Public Service. We're not a country that takes our military for granted. Even in the quietest of times, Americans have always understood that our men and women in uniform are the ones who assure stability and keep the peace. And in a time like the present, we have daily reminders of the kind of courage and skill that have kept this country free.
+
+The conditions in this war are some of the most difficult a person can imagine -- whether tracking terrorists on frozen mountain ridges in Afghanistan or wearing heavy gear and carrying packs in desert temperatures of 125 degrees. Many of our people work seven days a week, on shifts of 14, 16, 18 hours or more. And they've showed the patience, precision, and determination that are going to win this war.
+
+Above all, our men and women in uniform have lived up to the noble traditions of the United States military. They take seriously the job they've been given, and the oath that they have taken. They give all that is in them to carry out their missions and to conduct themselves with honor. And as a partial measure of all they have achieved, let me point out just some of the decorations earned since 9/11: 371 Silver Stars, 24 Distinguished Service Crosses, and a Medal of Honor, posthumously awarded to an Army First Sergeant who single-handedly killed 50 of the enemy and saved the lives of over a hundred American soldiers. This generation of our military is writing an extraordinary chapter in the history of freedom. The citizens of this nation are filled with gratitude and we stand in awe before all the men and women who defend the United States of America.
+
+President Bush has given responsibility for the well being of our military to some very fine leaders. The Chairman of the Joint Chiefs of Staff, General Peter Pace -- the first Marine ever to serve in that office -- is a superb officer. And our Secretary of Defense is one of the great public servants of our time, Donald Rumsfeld. I've heard it suggested on occasion that Don might even be the best Secretary of Defense we've ever had. Well, he's pretty close. {LAUGHTER} But without question Don does hold a very special distinction because, after all, he is the only man to serve as Secretary of Defense in two different centuries. {LAUGHTER}
+
+Everyone here knows I've worked closely with Don for many years, and that my career would not have been the same but for the confidence he placed in me a long time ago. I have always considered him to be the very ideal of a public servant -- a man of rectitude, loyalty, and integrity. He asks a great deal of those who work for him, but never more than he demands of himself. Throughout the military and indeed throughout the country, you'll find people who have never met Don Rumsfeld, but who look to him as a role model. And those of us who know Don are extremely fortunate to have his friendship and all that goes with it -- the wisdom, the humor, and the great personal decency in the man.
+
+Not long ago, Gerald Ford himself said that President Bush made a wise choice in Don Rumsfeld, because he was, "extremely well suited to take on this challenge and contend with a bureaucracy that has a built-in resistance to change." President Ford continued, "Successfully carrying out these missions, against stiff resistance takes someone with a certain amount of steel."
+
+That "certain amount of steel" is exactly what we've needed in the E Ring of the Pentagon these last five years as the United States of America is a stronger and safer nation thanks to the intellect, the judgment, and the character of Secretary Rumsfeld. With that, I am pleased to present him now. And I give you a great American: Our colleague, our friend, Secretary of Defense, Donald Rumsfeld. {APPLAUSE} 
+
+{/speech}

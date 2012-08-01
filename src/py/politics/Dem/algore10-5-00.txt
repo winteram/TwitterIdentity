@@ -1,0 +1,43 @@
+﻿{title} Remarks by the President at Call to Action for Medicare and Prescription Drug Reform {/title}
+{event} Call to Action for Medicare and Prescription Drug Reform {/event}
+{speaker} Al Gore {/speaker}
+{date} May 10, 2000 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, good morning. Please be seated. I'm sorry you had to stand up so long, but that's the fastest one group of politicians ever walked through another group. {LAUGHTER} I'm delighted to see you all here. I want to thank Senator Daschle and Senator Gephardt and their colleagues -- Secretary Shalala, the Older Women's League, those who represent the aging-disability consumer, and other health advocates who are here. I want to thank Betty Dizik, who will talk in a moment to explain what this is really all about.
+
+We are here together today to announce the support of the Democratic Caucus in the Senate and the House for legislation to provide affordable prescription drug coverage for every older American. For our seniors, prescription drugs are not a luxury, they can mean the difference between life and death; between years of anguish and years of fulfillment. At this time of historic prosperity and strength, there is absolutely no reason that we should force seniors to make a choice between their health and their food or their daily existence.
+
+I am profoundly grateful to Congressman Gephardt and Senator Daschle and their colleagues for developing an approach that the Democrats can rally behind. In a few moments, I will ask them to share the details of the efforts we will make together. But we all know we can't achieve our efforts without bipartisan support in the Congress. That's why, just as we are trying to do with the patients' bill of rights, we want to reach across the aisle to encourage Republican support, as well.
+
+This can, and should be, a truly bipartisan effort. But I want to make it clear first why America's seniors and people with disabilities cannot afford to wait any longer for prescription drug coverage.
+
+Today, more than three in five older Americans lack affordable and dependable prescription drug coverage. The burden is getting worse. According to Families USA, the price of prescription drugs most often used by seniors has risen at double the rate of inflation for six years in a row now.
+
+Two groups in particular bear a tremendous burden -- rural Americans and women. As Senator Daschle knows so well, people in rural areas are much less likely to secure prescription drug coverage. According to a study released today by the Older Women's League, almost eight out of 10 women on Medicare use prescription drugs regularly, and most of them pay for these medications out of pocket. In total, women spend 13 percent more than men do for prescription drugs, in spite of the fact that on average, their incomes are 40 percent lower.
+
+America's seniors, men and women, deserve better. No one should be forced to take a bus trip to Canada to get medicines made in the U.S. at a lower price. We desperately need a comprehensive plan to provide a prescription drug benefit that is optional, affordable, accessible to all, based on competition, not price controls, to boost seniors' bargaining power to get the best possible price; and one that addresses the devastating burden of catastrophic coverage.
+
+We will have, in our budget, especially with the improved economy, the funds to deal with catastrophic coverage as well, and we absolutely should do that.
+
+The budget I have presented to Congress will continue our efforts to pay down the debt and pay it off by 2013, will be able to provide protection against catastrophic costs, and will provide voluntary prescription drug coverage to all Americans.
+
+Adding the voluntary prescription drug coverage to Medicare is the smart and the right thing to do. I will say this one more time: We would never think of creating Medicare today without it, and it is high time we fixed it.
+
+Now, let me say without getting into a fight over the legislation that's been proposed, I don't think it's enough to stop at $15,000 income limit to give help on prescription drugs. Half the people who need the help fall within the income limits of $15,000 to $50,000. I don't think we should write a plan that basically is designed to please the people who are selling the drugs instead of the people who are buying the drugs.
+
+And as long as we are trying to make the price competition system work, and give bargaining power to seniors, we ought to do this right and cover the people who need it. This is not about winning a political fight. It's about giving people a chance to fight for a good long life.
+
+And I want to introduce now Betty Dizik, someone who know firsthand the enormous burdens of prescription drugs. She's had to make some very hard choices in order to afford the drugs that she desperately needs, and she is Exhibit A for why we are all here today.
+
+Betty, come on up here, and tell us your story. Give her a hand. {APPLAUSE} Thank you.
+
+* *
+Thanks to Congressman Gephardt's consideration, none of you will have to spend your hard-earned money to buy prescription drugs to treat your cold that you got from being flooded out here. {LAUGHTER} But let me thank you, Betty, thank you, Secretary Shalala, and thank all the members of Congress. Look at our legislation. We need some Republican support. This is a good bill, it will make a big difference.
+
+Thank you and bless you all. Get in here before you get wet. {APPLAUSE} 
+
+{/speech}

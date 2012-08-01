@@ -1,0 +1,30 @@
+﻿{title} Remarks by the Presidentin Exchange of Toasts {/title}
+{event} Exchange of Toasts {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 6, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, Mrs. Zedillo, members of the Mexican Cabinet and other distinguished public servants, citizens of Mexico, on behalf of Hillary, on all the members of our delegation, from the administration and the Congress, I, first, thank you for the graciousness and warmth with which you have welcomed us.
+
+We live side by side as neighbors. We work together day in and day out as partners. But the warmth of your reception has reminded us today that we are also close friends.
+
+Just before the dinner began, President and Mrs. Zedillo took Hillary and me to see the magnificent murals of Diego Rivera that adorn this great palace. They are very moving works. Along with the paintings of Orozco and Siqueiros, they represent the peak of artistic achievement in this century and one of the many contributions of Mexico to the culture of the world. Anyone who has seen it knows that the power of Rivera's "Epic of the Mexico People in Their Struggle for Freedom and Independence" comes from more than mere technical skill. In this grand work we see the proud spirit of Mexico's revolution and Mexico's heart.
+
+Instantly, I saw Rivera's extraordinary love of the Mexican people, the same passion which then and now inspires Mexico's journey toward a better and freer society. Rivera never actually finished his "Epic," and perhaps that is fitting because the journey of every nation to increase the freedom of its people, the labor at the very heart of democracy, never ends.
+
+I am delighted to be in Mexico at another time when this struggle is making a dramatic stride forward. Mexico's leaders and political parties are opening the doors of democracy wider than ever. New citizen groups have sown the seeds of a vibrant civil society that promises to deliver to all Mexicans a better and freer future.
+
+Mr. President, you reminded us that it was in this palace where Benito Juarez corresponded with Abraham Lincoln. Our President, Mr. Lincoln, who many of us consider to be our greatest President, called in the United States in his time for a new birth of freedom. The murals here remind us here that the birth of freedom is more than a matter of improving our political systems. We must also strive to see that our citizens are free from want and hunger, free from the dangers our new age brings, and free to make the most of their own lives.
+
+The partnership we seek with Mexico is one that will advance that kind of freedom -- here and throughout the Americas. We want to work together to lay the foundation of an enduring prosperity. We want to join together to improve the air and water we share. We want to work to turn our border into a region of growth, to defeat disease, to defeat the threat of drugs, organized crime, and corruption.
+
+Mr. President, we can succeed because we have forged a relationship as broad and deep as that which exists between any two nations. And today, we have made important progress. We are answering the demands of our time, advancing the common goals of our people, serving a friendship that is at the heart of what we all want for our future. In so doing, we honor the legacy of Benito Juarez and Abraham Lincoln and the constant quest for a new birth of freedom.
+
+Ladies and gentlemen, I ask you now to join with me in toasting President and Mrs. Zedillo and their family, to partnership of our nations and the new day of freedom it will bring to the friends and neighbors of our shared continent.
+
+{COMMENT="The toast is offered"} {APPLAUSE} 
+
+{/speech}

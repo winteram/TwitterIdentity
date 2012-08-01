@@ -1,0 +1,43 @@
+﻿{title} Remarks by the President, Senator Daschle, and Congressman Gephardt in Congressional Meeting {/title}
+{event} The Cabinet Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} August 2, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I'd like to make some brief remarks and then ask Senator Daschle and Congressman Gephardt to speak. And then we'll be glad to answer a few questions.
+
+On this last day before Congress goes home, I wanted to invite the Democratic leadership down to the White House to thank them for their hard work and eventual successes on behalf of the working families of this country. The Congress is going to send me two measures that this caucus has worked hard on for a long time -- the minimum wage bill, which also has some important help for small businesses, incentives to invest more in the business and to make it easier to take out retirement plans; and, of course, the Kennedy-Kassebaum health bill, which will help millions of Americans have access to health care.
+
+And I'd like to say a special word of thanks to Senator Kennedy who has worked on both these issues for years and years and who was absolutely superb in the debates in the Senate and he would not let these issues die when -- {APPLAUSE} 
+
+These issues have been very key to our party, our caucus and to me and my administration for a long time now. And I'm very, very happy about it. We're in a lot better shape than we were a year ago. We have basically, thanks to the American people standing up and standing with us, we have been able to do some positive things here, which are very, very important. In addition to that, we're going to have two major environmental legislative victories -- the Safe Drinking Water Act and one on pesticides, which I think are very, very important.
+
+And I'm very pleased that we've been able to move away from some of the extremism of the last two years into a position where we can get some things done for the American people. So I think the American people have a lot to be proud of. I think the progressive, mainstream achievements of this caucus are things that they can go home and be proud of in August. I have to say that this has been, on balance, a very good week for the American people.
+
+I must say I'm deeply disappointed that the antiterrorism package which had been agreed to by our caucus and our leadership and the leadership of the Republican Party apparently is not going to pass because the same folks who opposed the Crime Bill in '94 and the Brady Bill are not going to permit it to pass in the House. And I am disappointed about that. I'm disappointed that we can't pass anything on the taggants yet, the explosives, because that's a big problem in domestic terrorist incidents. But I think we have to keep working on it because this problem will not go away.
+
+But in terms of these economic issues that are going to create more opportunity for the American people, I think it's a very, very happy day.
+
+And I'd like to ask Senator Daschle and Mr. Gephardt to say few words, and then we'll answer your questions.
+
+{OTHER-SPEAK} Mr. President, I think you've said it so well, there's very little else to add. I would just reiterate your compliments to Senator Kennedy and all the Democratic leadership. This is about as united and cohesive a Democratic caucus as we've had in recent history. And so it's not by accident that so much of what we've been able to do we've been able to do so well -- and that -- this kind of dedication and the cohesion that we've seen is indicative, I think, of the strength of support that you have among Democrats in the Congress.
+
+We started this Congress by saying basically that we saw it as one of our goals to stop extreme legislation from becoming bad law. And I think in large measure, virtually without exception, we've been able to do that. But we also said that working with you we were going to put families first; that we were going to lay out an agenda that would directly affect families in as many ways as we could, ensuring their personal security with cops on the beat, ensuring their paycheck security with an increase in minimum wage, ensuring their health security by giving the at least some confidence that they're not going to lose their health insurance when they change jobs, and ensuring their long-term pension viability by giving them more tools with which to work when they retire.
+
+I am very proud to say that on all of those counts we've made progress this year. We've made some accomplishments that would not have happened were it not for your leadership and the work of the people at this table. So we can celebrate a lot this week. And I'm very pleased that we were able to come to you today to make the report of our success and pledge to you our future efforts next year when we're in the majority. {/OTHER-SPEAK} {LAUGHTER}
+
+Mr. Gephardt.
+
+{OTHER-SPEAK} Mr. President, first I congratulate you and your administration on the economic news that came out yesterday. That is the best economic news we've had in probably 20 years. In the last three and half years, over 10 million jobs have been created. And as you've said many times, the best answer to most of our problems is a good job. And your administration, under your leadership, all of us working with you I think has had a major role in producing that very, very good result.
+
+If anybody told me at the start of this Republican revolution that the three major bills that would be passed finally in the last weeks of this Congress would be three Democratic initiatives, I would have told you you were wrong. Welfare reform is an issue you defined and led on from the beginning of your campaign in 1992. The health care bill was one that you led on from the beginning of your administration, and with Ted Kennedy and a lot of other people's help we got done. And the minimum wage, which is maybe the most important thing we've done this year, is the result of your leadership from the beginning.
+
+And let me finally say that all of this is not a victory for one party or the other. It is a victory for the American people. That family out there that's working hard every day is going to get an $1,800 a year raise that they desperately need to pay their bills and raise their children. And that's the best thing to bring out of this.
+{/OTHER-SPEAK} 
+
+You bet it is. 
+
+{/speech}

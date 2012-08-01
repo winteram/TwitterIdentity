@@ -1,0 +1,41 @@
+﻿{title} Remarks by the President in Discussion With Workers and Managers {/title}
+{event} Discussion With Workers and Managers of Opel GM in Germany {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 14, 1998 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{AUDIENCE-MEMBER} First I would like to ask a question of President Clinton. Mr. President, do you regard Germany as an attractive country for American investors, and if so, for what main products and services? {/AUDIENCE-MEMBER} 
+
+Well, the short answer to your question is, yes. One of the reasons that I was so excited about coming here is that I felt that if the Chancellor and I were to come here together, and there would be widespread news coverage of our trip, then back in America, and indeed, in other places, there would be people who say, well, maybe we should look at investing there.
+
+Investors are like all other people -- you assume they know everything, but no one knows everything; no one has ever possible option for activity in his or her head all the time. And so I think that one of the great challenges that Germany faces, obviously, is to bring the Easternlander up to the employment levels and the income levels, generally, of the Western part of the country. One of the great challenges Europe faces is to bring all the countries that were part of the Warsaw Pact up to the level of employment and income of the rest of Europe. And the only way this can be done is by people who believe in your counterparts, who believe in you and your potential investing their money and putting people to work.
+
+Because of your geographical location, I would imagine that any kind of manufacturing operation would be a good operation here, because there are good transportation networks in and out of here to the rest of Europe and because, frankly, the continent is not that large. I don't think there is any kind of thing you can't do. I think that -- Chancellor Kohl has already said that you would have greater advantage probably in the areas where you already have a proven track record.
+
+But most manufacturers in America are prepared to go anywhere there is a work force that can be trained, where people will work hard and work in the kind of teamwork spirit that you have demonstrated here at this plant.
+
+So I hope that our coming here will help more of your fellow citizens to get good jobs. And that's one of the reasons we wanted to come. {APPLAUSE}
+
+
+--------------------------------------------------------------------------------
+
+{AUDIENCE-MEMBER} Mr. President, which domestic or foreign policy problem would you wish to be solved most urgently, and which achievement would you regard as the highlight in your term of office? {/AUDIENCE-MEMBER} 
+
+Well, first let me say, I suppose our most important achievement is turning the American economy around in ways that benefit ordinary Americans so that we not only have high growth and low unemployment, but it's working in a way that most people feel more secure and they have the freedom to make more good decisions for themselves. There are many other things that I have done, specific things that I am very proud of, but I think, generally, doing that has made a big difference.
+
+And in the world, I hope that putting America in the center of the future after the Cold War will be a lasting achievement -- future trading relationships with Europe and Latin America and Asia; our future efforts to combat the problems of terrorism and the weapons spread; our future efforts to save the environment of the world; our future efforts to work with countries to help solve problems, like the problems in Bosnia. And Helmut reminded me, the work we're doing now on nuclear weapons, because we're a little concerned that India had a test about that in the last couple of days.
+
+So, at home, making the economy work for all our people; abroad, involving the United States in the challenges of the 21st century and not letting America withdraw from the world.
+
+Now, what would I still like to do, what problems are we still trying to solve? There are many things I could mention at home, but I would just say two things. First of all, after World War II, in almost every country there was a huge increase in the birth rate. People came home from the war and they wanted to have babies -- and they did, in record numbers in the United States. When these so-called "baby boomers" -- and I'm the oldest one, I was born in 1946 -- when all of them retire in all the advanced countries of the world, they will put enormous pressure on the retirement and health care systems. And if we don't make some changes in them in our country, we will put unfair burdens on our children and on our children's ability to raise our grandchildren.
+
+On the other hand, if we throw them out the door, then our people will be divided. We won't be preserving our obligations and our social contract. So I would still like to reform those things in a way that protects our people, but allows our children to go forward and build a good life.
+
+The other thing I would say is that in our country, where we have so many people from different racial and ethnic backgrounds, not everyone -- particularly a lot of people in our inner cities -- has participated in this economic recovery yet. We still have some neighborhoods in our cities where the unemployment rate is too high, the education level is too low, the crime rate is too high. And I would like to find a way before I leave office to bring the spirit of enterprise to all those people -- the opportunities.
+
+Around the world, I hope before I leave office that we will have secured a peace agreement in the Middle East that will last for a long time. {APPLAUSE} 
+
+{/speech}

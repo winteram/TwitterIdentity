@@ -1,0 +1,42 @@
+﻿{title} Remarks by the President to the Hillsborough Community {/title}
+{event} Hillsborough High School, Tampa, Florida {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 5, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Good morning. I want to say to all of you how very glad I am to be here. I want to thank the Big Red Marching Band and The Brotherhood who performed earlier; thank you very much. {APPLAUSE} Mr. Bell and Erica, thank you for your remarks, thank you for your introduction. To the Chair of your school board, Doris Reddick and Dr. Lennard, your superintendent; Governor Chiles, Lieutenant Governor McKay; Congressman Sam Gibbons, Mayor Greco and City Councilman Bob Buckhorn; most of all to the students here.
+
+You know, I had originally planned to come earlier. It was hot then -- {LAUGHTER} -- but Hurricane Bertha had other plans, and I decided and so did our emergency people that we didn't need the President in Florida messing up the preparations for the hurricane. Thank goodness it wasn't as bad as we had feared.
+
+Today, a lot of you may know there is another hurricane threatening the southeast, but not Florida. Hurricane Fran is about to deliver what could be a powerful punch in the states of Georgia, South Carolina and North Carolina, and I want all of you to be thinking about them today. Our FEMA Director, James Lee Witt is there working with them and we are getting ready for that hurricane and we hope it won't be bad; but if it is, we'll do our best to be ready.
+
+Let me say, I wanted to come here to this high school, where you have so much growth and so much energy, first to say congratulations to the Mayor, the school system, the Tampa Bay Buccaneers and everybody else who passed that issue, that referendum yesterday to improve the schools, improve the law enforcement and save the football team. {APPLAUSE}
+
+I came here because I want America to see all of you tonight. I want America to see all of you tonight. {APPLAUSE} Because you are our future, and because unless we give the young people of this country the best educational system in the world, you will not have the opportunities you deserve as we move into the 21st century, and I know you believe that, too, and I want you to support me in trying to build a bridge to the 21st century, where every child in America has the best educational opportunities in the world. {APPLAUSE}
+
+For the last four years, we've worked hard to improve education, to increase the number of our young people in Head Start, to give schools more opportunities to stay open late if the kids needed to be somewhere besides the street, to give schools more flexibility to set high standards and creative ways to meet them, and to lower the costs of college loans so that no one ever needs stay away from college because of the burden of repaying them. {APPLAUSE}
+
+We now have 50,000 young people -- I see one sign back there -- 50,000 young people serving their communities, solving problems, and earning money for college through the AmeriCorps program, and I'm proud of that, and thank you for being back there. {APPLAUSE}
+
+But I want to be President for four more years because there are some other things we need to do in education. First of all, 40 percent of the young people in this country cannot read on their own by the 3rd grade, but 100 percent should be able to be. I have a program to put 30,000 more tutors out there, use AmeriCorps volunteers, use young people on work study, get a million volunteers and make sure every 8-year-old in America can read a book on his or her own by the year 2000. Will you help me do that? {APPLAUSE}
+
+Secondly, I want to make sure that every classroom and library in the entire United States of America and every school is hooked up to the Information Superhighway by the year 2000. Now, let me tell you what this really means. This means that for the first time in this history of America, every child, without regard to their ethnic background, without regard to their income, kids in the poorest city neighborhoods, in the remote mountain villages in America, for the first time in the history of the country, when we hook up every classroom to the Internet with adequate computers and properly trained teachers, for the first time, all of our children will have access to the same learning, the same information in the same time. I think all American children deserve that; don't you? Will you help me build that bridge to the 21st century? {APPLAUSE}
+
+The third thing that I want to say is, I want to help everybody do what you're trying to do, which is to modernize, rehabilitate, rebuild and build new school buildings. We cannot expect young people to learn if they do not have adequate facilities. And for the first time in the history of this country, I have proposed a program where the United States government will help communities who are willing to make an extra effort themselves to do more to provide facilities for their young people that are decent and clean and healthy and wholesome and conducive to good learning. And I think we want every young person in this country to be in that kind of school; don't you? {APPLAUSE}
+
+Finally, let me say that I want to build a bridge to the 21st century in which every single young person in America who wants to do it can go to college. I want to make a community college education, two years of education after high school, just as universal in four years as a high school diploma is today. And I propose to give every family a tax credit, dollar for dollar, for the cost of college tuition in the typical community college in America so that everybody will go to a community college. Will you help me get that done? {APPLAUSE}
+
+And for everyone who goes on to more college, to four years of college or graduate school, I believe there ought to be a $10,000 tax deduction for the cost of college tuition for every year anybody is in education. {APPLAUSE}
+
+If we do that, in four years we can have a country where every 8-year-old can read, every 12-year-old can hook into the Internet and every 18-year-old can go to college. And we'll be well on our way to doing our job for you, creating an America where there is opportunity for everybody, without regard to their gender, their race, their ethnic background, where they start from economically, an America where we're growing together, not being divided, because that's also an important function of education: to teach us to live together across our differences. Half the world is being torn up by racial, ethnic and religious differences.
+
+In America we have people from everywhere, and I'm proud of that. Look around this audience today. Aren't you proud to live in a country which is not defined by race or religion, but instead by our devotion to freedom? {APPLAUSE}
+
+So that's what I came to say. A big part of building a bridge to the 21st century is building a bridge big enough to give every single boy and girl in America the chance to live up to their God-given abilities. That is an important part of building the future you deserve. I am committed to it, and I want you to be committed to it.
+
+Thank you, and God bless you. {APPLAUSE} 
+
+{/speech}

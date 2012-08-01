@@ -1,0 +1,25 @@
+﻿{title} Remarks by the President at the Congressional Barbecue {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 5, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Welcome. {APPLAUSE} Laura and I are really happy to give you all a taste of Texas. We want to thank our friends, Asleep At The Wheel out of Austin, Texas, for your fantastic music. Thank you all very much. {APPLAUSE} And I want to thank our friends from Buffalo Gap, Texas, the people who brought the food. {APPLAUSE} That would be Tom Pirini and -- {COMMENT="Inaudible"} -- we want to thank them and all the people who served the food. We want to thank you all for coming tonight. 
+
+First I want to say something to the spouses and the family members who are here. Thank you for your service to the country. We appreciate your patience and we appreciate you supporting your loved ones in their important jobs of representing the greatest nation on the face of the Earth, the United States of America. {APPLAUSE} 
+
+The last time we were supposed to have this party was on September the 11th. And we have come together here in Washington and around the nation for a great and noble cause, and that is to defend freedom. {APPLAUSE} The defense of our freedoms in America is not a Republican calling, or Democratic calling, it is an American calling. And I want to thank all the members of Congress. {APPLAUSE} 
+
+I want to thank you for your support here in Washington, and I want to thank you for going home to your districts and your states and explaining to our citizens, our fellow citizens, what's ahead. This country is patient and this country is united, and this country is plenty tough when it comes to defending that which we hold dear. And a lot of it has to do with what you do when you go home. And I want to thank you for that a lot. It means a lot. 
+
+It is much easier to be the Commander-in-Chief when the people are pulling in the same direction. And they're pulling in the same direction, much to the chagrin of the enemy. {APPLAUSE} 
+
+So it's our great pleasure to welcome you here. I know sometimes we have squabbles with the legislative branch. If only you did it the way the Vice President and I wanted you to do it, everything would be fine. {LAUGHTER} But I admire -- I admire those who serve in the Senate and the House. I admire your steadfast love of democracy. And I appreciate so very much your love of our country. 
+
+May God bless your work, and may God continue to bless America. Thank you all for coming. {APPLAUSE} 
+
+{/speech} 

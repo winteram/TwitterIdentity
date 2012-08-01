@@ -1,0 +1,65 @@
+﻿{title} Speech by President at Unveiling of Roosevelt Statue {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 10, 2001 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Calm down. {APPLAUSE} 
+
+{AUDIENCE} Four more years! {/AUDIENCE} 
+
+You still have to do what I ask for nine more days. Calm down. {LAUGHTER} 
+
+Secretary Herman, thank you for your eloquence and your passion on this issue. I thank all the members of the administration who are here. Secretary Babbitt, thank you. Secretary Shalala, Secretary Slater, SBA Director Alvarez, Janice Lachance. I thank the other members who are here who supported this in every way. 
+
+Thank you, Max Cleland, for the power of your example and the largeness of your heart. Thank you, Tom Harkin. Every day you redeem the promise of your brother's life and your love for him in what you have done. {APPLAUSE} Thank you, Senator Levin and Congressman Levin; Congressman Eliot Engel. I like your beard. {LAUGHTER} 
+
+I had a note that said, Eliot Engel was here, and I thought instead it was Fidel Castro for a moment. {LAUGHTER} But you look very good. 
+
+Thank you, Jim Langevin, for running for Congress -- {APPLAUSE} -- and for winning. Ken Apfel, our Social Security Administrator, is here. Thank you. {APPLAUSE} Thank you, Justin Dart, for seeding the crowd with signs. I think you must have something to do -- {APPLAUSE}
+
+I want to thank all the donors, and a special word of appreciation to two folks who did a lot of our work -- one who has been acknowledged -- thank you, Jonathan Young; thank you, Bill White. Thank you very much. You guys have been great. {APPLAUSE} And I, too, want to thank Larry Halperin and Bob Graham. 
+
+This whole memorial has exceeded my wildest dreams for it. It gives you a feel that is completely different from any other memorial. It is grand and beautiful, all right, but it is so accessible, in a way that I think would have pleased President Roosevelt and Mrs. Roosevelt. And, of course, this last addition is even more than the icing on the cake. 
+
+I know that for Larry and for Bob this has been a labor of love and honor. And we honor them for what they have done. Thank you very much. {APPLAUSE} 
+
+I would like to also say to all of you that, as a person who has loved the history of my country and tried to learn more about it every day, it would have been under any circumstances an honor in my life to become friends with Jim Roosevelt and his wife, Anne. But what I want you to know is they are the true heirs of their ancestors because they are exceptional and wonderful people, and I'm very glad to be here with them. {APPLAUSE} 
+
+Last Saturday marked the 60th anniversary of President Roosevelt's speech on the Four Freedoms. It is fitting to remember it here today, for this is the story of freedom in this memorial: freedom's steady advance across the land, from the school room to the voting booth to the corridors of power; freedom's open arms embracing the tired, the poor, the huddled masses from every shore; freedom's rising tide across the globe as more people and more places secure the blessings of liberty; and freedom's march for people with disabilities here at home and around the world. 
+
+This is a monument to freedom -- the power of every man and woman to transcend circumstance, to laugh in the face of fate, to make the most of what God has given. This is a statue of freedom. I, too, am glad that the statue is built at a scale not larger than life, but lifelike. Not raised on a pedestal, but available, touchable, for people who are in wheelchairs and people who cannot see. The power of the statue is in its immediacy, and in its reminder to all who touch, all who see, all who walk or wheel around, that they, too, are free, but every person must claim freedom. 
+
+In April of 1997, when I asked for a depiction of FDR's disability here at the memorial, I, like every other American who had paid attention, knew that he went to some length to hide his disability on almost all occasions. But he lived in a different time, when people thought being disabled was being unable. Though he proved them wrong every day, he was a canny fellow. And he didn't want to risk any vote loss by letting people see him in a wheelchair. {LAUGHTER} Of the more than 10,000 photos in his archives, only four show him as he is depicted in this magnificent statue today. 
+
+He knew the impact of the image, and he knew, seen wrong, in those days it could have ended his political life. But he also knew he had an obligation to use it when appropriate. On rare occasion, he did so to great effect. His speech writer, Sam Rosenman, said he could never forget, as he put it, the look of courage and faith and self-reliance and affection in the faces of disabled Americans who were given the privilege of seeing FDR struggle with his own disability, and the joy of watching him overcome it. 
+
+For example, in the summer of 1944, President Roosevelt spent an afternoon at a naval hospital in Hawaii. The men there had been seriously wounded, and many had lost limbs in the war. He insisted on wheeling himself into their wards. He wanted to show them that he, the President of the United States, could not walk any better than they, but he could still show courage and hope and inner strength. 
+
+He said that returning Americans with disabilities to active and productive lives was a great objective for the nation, one of the greatest causes of humanity. It's hard to believe that that was a very unusual statement to make back then. 
+
+It was one of the basic tenants of the New Deal, the inherent worth of all Americans, our shared responsibility to empower them. That is what we have sought to do here for eight years -- to avoid any barrier that would keep the potential of any American from being fully tapped. 
+
+We have tried to reward work and give people the support they need to live their lives in freedom. Even in the last days of the administration, we are still working on efforts to increase employment of Americans with disabilities, to provide alternatives to institutions, and we're going out with a report on the progress we've made and what we still have to do. 
+
+We must always remember that in the end, the story of America is the story of freedom and interdependence. The crowd that started us off pledged their lives, their fortunes, their sacred honor to forming a more perfect union. That's what they said. 
+
+What does that mean? It means that people can never fulfill their own lives completely unless they're working with their neighbors to help them fulfill theirs. And so we have to constantly work to push back the frontiers of our imagination, to advance the cause of both freedom and community -- that interdependence which makes life richer. That means we have to encourage each other along the way, as well. 
+
+President Roosevelt once told a little girl who, like him, had been stricken with polio, that she must keep up the splendid fight. For someone else who has not suffered in that way, to say it is "splendid," for Max Cleland to labor all those years against his horrible war injuries to become a great member of the United States Senate, seems almost out of place. But the truth is we have to learn to talk to each other that way. 
+
+One thing I like about the disability movement today is it has moved beyond trying to get the rest of us to do the right thing out of compassion, doing the right thing because it's the right thing and the only sensible thing to do. {APPLAUSE} 
+
+I want you all to go out when you leave here not just to look at the statue, but to read -- in letters or Braille -- the quote behind the statue by Eleanor Roosevelt, who pointed out that before he was stricken with polio, President Roosevelt had never been forced to become a truly great man; had never been forced to develop those habits of infinite patience and persistence, without which life cannot be fully lived. And I want you to think about that. 
+
+The reason this is a story of freedom is that what matters most in life is the spirit and the journey of the spirit. And we lug along that journey whatever body God gives us and whatever happens to it along the way, and whatever mind we were born with. But a clever mind and a beautiful body can themselves be disabilities on the spirit journey. 
+
+And so we celebrate freedom and dignity for incredibly brave people, whose lives were all embodied by that incredibly brave man, whose disability made him more free for his spirit to soar and his nation to survive and prosper. 
+
+Thank you very much. {APPLAUSE} 
+
+{/speech} 

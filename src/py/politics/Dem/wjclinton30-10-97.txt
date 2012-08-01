@@ -1,0 +1,23 @@
+﻿{title} Remarks by the President at Starbright Foundation Event {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} October 30, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Question and Answer Session has been removed {/description}
+
+
+{speech} 
+
+Now, as you can hear, I'm a little hoarse, but I do want to say that was brilliant. {LAUGHTER} If you can shift the heat like that, you should go to Congress. {APPLAUSE} I want to thank Ricky and Mikey and Lauren and Vanessa, thank my good friend, Steven Spielberg. Thank you, General Schwarzkopf, for your outstanding leadership. You've got a very important battle here on your hands, and I'm sure you're going to win it. 
+
+I'd also like to thank Congressman Lou Stokes and Congresswoman Pat Danner for being here. I thought I'd take and make a little fun of the Congress so they'll go back and tell it, and I'll be in trouble again this afternoon. {LAUGHTER} I'd like to thank Ned Zeckman and all the people from the Children's National Medical Center here. 
+
+As you can hear, I'm a little hoarse. The Chinese State Visit and the change in the weather have taken a little of my voice away, so I've asked the Vice President to come with me and give the speech. And I'm going to introduce him in a minute. But let me just say I cannot tell you how important I think what Starbright is doing, is. General Schwarzkopf and Steven Spielberg have already talked about it. 
+
+What we're trying to do in the government is to hook up every classroom and library to the Internet by year 2000. But we also want to make sure all the children's hospitals are there. These children deserve them and we need for them to be a part of this emerging network of learning and playing and growing. And, as the General said, it looks like it's a healthy thing to do as well. So we're glad to be here. Mostly we're here just to say thank you to the foundation -- to all of you, and to say we want to do our part. 
+
+I think it's appropriate that the Vice President is here to speak instead of me because he was talking about the Information Superhighway before I had even gotten a electric typewriter. 
+
+The Vice President. {APPLAUSE} 
+
+{/speech} 

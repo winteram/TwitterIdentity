@@ -1,0 +1,50 @@
+﻿{title} Mrs. Bush's Remarks at "Operation Troop Salute" Thank You to Troops Event {/title}
+{event} Chain of Lakes Stadium, Winter Park, Florida {/event}
+{speaker} Laura Bush {/speaker}
+{date} May 2, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, and thank you, Governor Bush. I'm always honored to be introduced by the Governor of Florida. He makes me feel just like family. {LAUGHTER}
+
+Your Governor and First Lady Columba Bush are doing a wonderful job for the people of Florida, and I'm proud to be here with them today. {APPLAUSE}
+
+Thanks to the military families who are here and a special thanks to the soldiers of the 495th Transportation Company and the Second of the One Hundred Sixteenth Field Artillery Battalion. {APPLAUSE}
+
+I appreciate the military leaders with us today. Secretary Brownlee, a decorated veteran in his own right; Major General Douglas Burnett; Major General Whitcombe; and Rear Admiral John Jackson.
+
+Thank each one of you for your service to America and for your leadership of our armed forces. {APPLAUSE}
+
+I'm glad to see Congressman Adam Putnam -- he has a nickname, I'm sure you can guess what it is, that the President gave him. {LAUGHTER} I'm also glad to see Mayor Mike Easterling and the many state representatives here. And I especially want to thank State Representative Baxter Troutman, who worked so hard to organize this salute. Thank you very much. Thank you very much, Baxter. {APPLAUSE}
+
+Events like this one give us the chance to say thank you to our service men and women -- and to their families -- who make great sacrifices on behalf of their fellow Americans. Today, we want the message to come through loud and clear to the men and women who served or are serving in Iraq, Afghanistan, and around the world: We support you and we believe in you. {APPLAUSE}
+
+You're standing watch for freedom and protecting the rights and liberties that we hold dear. America is safer because of the men and women who devote themselves to military duty.
+
+The success we've achieved in Iraq and Afghanistan is remarkable. Thanks to America's soldiers, sailors, airmen, Marines, and members of the National Guard and Reserves, the Taliban have been driven from power in Afghanistan. {APPLAUSE}
+
+Saddam Hussein's murderous tyranny is ended -- and 50 million men, women and children in these two countries are now tasting the first fruits of freedom. {APPLAUSE}
+
+Achieving a lasting peace will require that we overcome further challenges. In Iraq, forces opposed to freedom -- from both inside and outside the country -- are leading attacks designed to intimidate the Iraqi people and our coalition forces. The terrorists don't yet realize that those who desire and cherish freedom can not be intimidated. {APPLAUSE}
+
+In the face of the attacks of September 11th, 2001, we grew more united and more determined than ever before to defend our liberty. Terrorists cannot shake our resolve to win the war on terror. {APPLAUSE}
+
+But the most amazing thing about our men and women in uniform is that even as they fight to defeat terror, they still have an enormous capacity to bring friendship and compassion to people who desperately want a better life.
+
+In nations formerly oppressed by fear and torture, the United States of America is delivering hope. It comes in many forms. For some, hope is a clean-water well dug by U.S. Army engineers. For others, it is a school refurbished and opened for the first time to young girls. And parents are profoundly grateful that their children have warm winter coats -- bought in a store near a U.S. military base and delivered thousands of miles away to families in need.
+
+You are the face of American compassion abroad. You will have a greater impact than you can ever imagine on people that you will only know for a brief time. But you have delivered the greatest gift they will ever know -- you've sacrificed your own comfort, your own safety, and your own lives so that others might know freedom. {APPLAUSE}
+
+We will never forget your commitment, nor will we forget the men and women who have fallen in service to America. They've made the greatest sacrifice for peace. Their spirit lives on in the hearts and minds of a new generation of children who cherish the values they fought for -- children like Zach.
+
+I met Zach when I arrived here. His cousin and best friend, Lance Corporal Kyle Little, serves in the 22nd Marine Expeditionary Unit in Afghanistan. Zach is only six years old, but he already knows what he wants to do when he grows up -- he wants to be a Marine, just like his cousin. {APPLAUSE}
+
+Our men and women in uniform amaze us with their courage. And they inspire us with their compassion. And so do their families. Our entire nation appreciates the sacrifices military families make as they support their loved ones and our country.
+
+On behalf of Zach, President Bush, and every American, thank you for ensuring that another generation of children in Iraq, Afghanistan, and America will grow up in peace.
+
+May God bless you and your families, and may God bless the United States of America. {APPLAUSE} Thank you all. Thank you so much. {APPLAUSE} 
+
+{/speech}

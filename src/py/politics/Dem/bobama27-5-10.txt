@@ -1,0 +1,50 @@
+﻿{title} Remarks by the President in Honor of 2010 NCAA Men's Basketball Champion Duke Blue Devils {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 27, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. Please have a seat. Welcome to the White House. Welcome to the Rose Garden. You know, when I woke up this morning and I saw a few hundred students camping out on my lawn -- {LAUGHTER} -- I remembered that today is Duke day. {LAUGHTER} Congratulations to the 2010 Men's NCAA Basketball National Champions: the Bluke -- {LAUGHTER} -- the Duke Blue Devils. Give them a big round of applause. {APPLAUSE}
+
+We've got some big Duke fans here today. My outstanding Secretary of Veterans Affairs, Ric Shinseki, is here. He got a graduate degree from Duke, and both he and Coach K are proud graduates of West Point. They missed each other by one year.
+
+We've got some members of the North Carolina congressional delegation who are here. We've also got some proud Duke alumni serving in Congress. Representative Shelly Moore Capito is a alum. Representative David Price has been a professor at Duke since 1973. And Under Secretary of Energy, Dr. Kristina Johnson, is here, and she was the dean of the Pratt School of Engineering at Duke for eight years. So you can give them all a big round of applause. {APPLAUSE}
+
+The Archivist of the United States, David Ferriero is here. And he once ran the Duke library system; today, he takes care of the Constitution and the Declaration of Independence. {LAUGHTER} North Carolina Attorney General Roy Cooper and Durham Mayor Bill Bell are here as well. Give them a big round of applause. {APPLAUSE}
+
+Now, I know that all of you remember last year, when I filled out my bracket -- {LAUGHTER} -- I picked North Carolina to win it all. It wasn't anything personal. {LAUGHTER} Just trying to win some money. {LAUGHTER} I was right. Coach K wasn't too happy. He basically told me to stick it. {LAUGHTER} Or stick to my day job, is what he said. {LAUGHTER}
+
+And then, this year, he went out with all these guys and he won, so he could come to the White House and crow about it. {LAUGHTER} Payback is sweet, isn't it, Coach? Congratulations on your fourth National Championship at Duke. {APPLAUSE}
+
+Obviously it's not a smart thing to bet against Coach K. This is a guy who has 868 wins; 12 ACC championships; 11 Final Fours; four NCAA championships; a couple of Olympic gold medals for men's basketball, including in 2008, when he brought the gold back to where it belongs –- the USA. And congratulations to Coach K's lovely wife, Mickie -– Mrs. K –- who's been with him for all of it. So we are very grateful to them. {APPLAUSE}
+
+Now, some of you may know that my assistant, Reggie Love -- {LAUGHTER} -- used to play for Coach K at Duke. Reggie played on the 2001 National Championship team, and he was a team captain in 2005. In fact, Reggie was so excited to see his old coach today that I had to make him come out and run some sprint drills -- {LAUGHTER} -- just to calm him down.
+
+And then Coach and I were both discussing -- I play with Reggie now, and when Reggie was playing, Coach said, don't shoot. {LAUGHTER} And when he's on my team, I say to Reggie, don't shoot. {LAUGHTER} So things haven't changed that much. {LAUGHTER} Go down in the post, rebound. {LAUGHTER}
+
+I also want to congratulate the assistant coaches –- Chris Collins, Nate James, and Steve Wojciechowski –- I'll just call him “Wojo” like everybody else –- all of whom were once captains on Coach K's teams, as well.
+
+And congratulations to all the players, especially the seniors, Jordan Davidson, Jon Scheyer -- my homeboy from the Chicago area -- {APPLAUSE} -- Lance Thomas and Brian Zoubek. It's really been a four-year journey for these guys. And each year, they've gotten better together. When they were freshmen, they lost in the first round of the tournament. As sophomores, they made it to the second round. As juniors, they made it to the Sweet 16. And this year, they won it all. That's the kind of progress that you want to see in your college career. {APPLAUSE}
+
+Jon Scheyer, Kyle Singler, and Nolan Smith were the top-scoring trio in the NCAA this year. And I should also mention that when I was running for President, we did a campaign event in Medford, Oregon, in the gym where Singler grew up. So I was the second-most famous person to ever show up in Medford. {LAUGHTER} It's true. {APPLAUSE}
+
+I understand that Zoubek is unique in Duke history: the only player that Coach K ever allowed to grow a beard. {LAUGHTER} Talk about somebody who's overcome a lot, who powered through setbacks and injuries, to set a new Duke record for most offensive rebounds in a single season this year, including some critical boards in the title game.
+
+And it was, as everybody here knows, an incredible tournament from start to finish -- one of the most exciting tournaments any of us have ever seen. The championship game against Butler -– the most-watched championship game in more than 10 years –- was everything fans hoped it would be. It came down to the final possession. And these guys hung in there and won it all.
+
+I know that Coach K has said that this is as close a team as he's ever had -- a bunch of throwback guys who hustle and work and have fun together. And they play by his -- one of his philosophies, which is “think of a hand.” If you attach -- if you attack with your hand open, as five fingers individually, you're more likely to break a finger. But if you bring them together and make a fist, you can pound really somebody. {LAUGHTER} It's very subtle, Coach K. {LAUGHTER}
+
+Now, there is a softer side of these guys, too. Coach K is an integral part of the Durham community in so many ways -– whether it's helping change the odds for underprivileged kids through the Emily K Center he founded and named after his mom, or just buying pizza for the Cameron Crazies who camp outside for days at a time. His players participate in the Read With the Blue Devils program and visit patients at the Children's Hospital in Durham, giving as much as they can to the Duke community that gives so much to them.
+
+And seeing as how Coach is a proud graduate of West Point, and a former Army basketball player under Bobby Knight, they're going to the Pentagon after this to thank some of the folks who bravely and selflessly serve our country day in and day out. {APPLAUSE}
+
+So, congratulations, Coach K. Congratulations to the team. And good luck next year. I suspect that you're going to try to bust my bracket once again. {LAUGHTER} But I may not make the same mistake twice. {LAUGHTER ; APPLAUSE} 
+
+{COMMENT="A Duke jersey is presented as a gift"} 
+
+Oh, look at this. That's nice! You know Reggie is going to make me hang this in the Oval Office. Take down Lincoln or something. {LAUGHTER} 
+
+{/speech}

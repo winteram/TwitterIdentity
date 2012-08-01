@@ -1,0 +1,62 @@
+﻿{title} Remarks by the President on Clean Energy Manufacturing {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} August 16, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. {APPLAUSE} Everybody, please have a seat. Thank you very much. It is wonderful to be at ZBB Energy. And thanks for your hospitality, and thanks for helping to build a future.
+
+I've got a couple of people I want to acknowledge. First of all, your wonderful Governor and First Lady, Jim and Jessica Doyle are here. Please give them a big round of applause. {APPLAUSE} We've got somebody who is fighting on behalf of Wisconsin families each and every day -- Russ Feingold, your wonderful U.S. senator. {APPLAUSE} A great friend and somebody who has been really doing great work over her first couple of years in Congress -- Congresswoman Gwen Moore. Please give her a big round of applause. {APPLAUSE}
+
+And thank you, Eric, for the wonderful tour that you provided to us. Please give Eric Apfelbach a big round of applause -- CEO of ZBB. {APPLAUSE}
+
+It is great to be here. I just had a chance to see some of the batteries that you're manufacturing and talk to a few of the men and women who are building them. And the reason I'm here today is because at this plant you're doing more than just making high-tech batteries. You're pointing the country towards a brighter economic future.
+
+Now, that's not easy. We've been through a terrible recession -– the worst that we've seen since the Great Depression. And this recession was the culmination of a decade that fell like a sledgehammer on middle-class families. For the better part of 10 years, people were seeing stagnant incomes and sluggish growth and skyrocketing health care costs and skyrocketing tuition bills, and people were feeling less secure economically.
+
+And few parts of the economy were hit harder than manufacturing. Over the last 10 years, the number of people working in manufacturing shrank by a third. And that left millions of skilled, hardworking Americans sitting idle, just like the plants were sitting idle. That was before the recession hit. Obviously once the recession took hold, millions more were struggling in ways that they never imagined. And there's nobody here who hasn't been touched in some way by this recession. And certainly a state like Wisconsin or my home state of Illinois can tell a lot of stories about how badly hit manufacturing was, particularly in the Midwest.
+
+Now, there's some who suggest this decline is inevitable. But I don't see it that way -– and I know neither do you. Yes, times are tough. But we've been through tough times before. And we've made it through because we are resilient -- Americans are resilient. We don't give in to pessimism; we don't give in to cynicism. We fight for our future. We work to shape our own destiny as a country.
+
+And that's what we've been trying to do since I took office. We've been fighting on all fronts -– inch by inch, foot by foot, mile by mile -– to get this country moving forward again, and going after every single job we can create right here in the United States of America.
+
+So we're investing in 21st century infrastructure -- roads and bridges, faster Internet access, high-speed railroads -- projects that will lead to hundreds of thousands of private sector jobs, but will also lay the groundwork so that our kids and our grandkids can keep prospering.
+
+We've cut taxes for small businesses that hire unemployed workers. In fact, I've signed seven other small business tax cuts so that entrepreneurs can help expand and buy new equipment and add more employees. We've taken emergency steps to prevent layoffs of hundreds of thousands of teachers and firefighters and police officers, and other critical public servants in our communities. And I think that Governor Doyle will testify that we have made progress in part because everybody has pulled together. There was a great danger of even greater layoffs all across this state for vital services that would affect our kids and our families. These folks would have otherwise lost their jobs because of state and local budget cuts.
+
+And at the same time what we've been trying to do -- and that's why I'm here at ZBB -- is to jumpstart a homegrown, clean energy industry –- building on the good work of your governor and others in this state. That's why I'm here today. Because of the steps we've taken to strengthen the economy, ZBB received a loan that's helping to fund an expansion of your operations. Already, it's allowed ZBB to retain nearly a dozen workers. And over time, the company expects to hire about 80 new workers. This is leading to new business for your suppliers, including MGS Plastics and other manufacturer here in Wisconsin.
+
+And ZBB is also planning to take advantage of a special tax credit to build another factory in southeastern Wisconsin, so we can create even more jobs and more opportunity. And Eric is confident that you can expand because you're seeing rising demand for advanced batteries. And all this is part of steps we've taken in clean energy -– steps that have led to jobs manufacturing wind turbines and solar panels, building hybrid and electric vehicles, modernizing our electric grid so that we have more sources of renewable energy but we can also use it more effectively.
+
+We expect our commitment to clean energy to lead to more than 800,000 jobs by 2012. And that's not just creating work in the short term, that's going to help lay the foundation for lasting economic growth. I just want everybody to understand --just a few years ago, American businesses could only make 2 percent of the world's advanced batteries for hybrid and electric vehicles -- 2 percent. In just a few years, we'll have up to 40 percent of the world's capacity.
+
+Here at ZBB, you're building batteries to store electricity from solar cells and wind turbines. And you've been able to export batteries around the globe, and that's helping lead this new industry. For years, we've heard about manufacturing jobs disappearing overseas. Well, companies like this are showing us how manufacturing can come back right here in the United States of America, right back here to Wisconsin. {APPLAUSE}
+
+Now, obviously, we've got a lot more work to do. The damage that was done by this recession was enormous. Eight million people lost their job; 750,000 lost jobs the month I was sworn into office; 3 million had lost their jobs by the time we took office, and several more million in those first few months of 2009. So too many of our family members and our friends and our neighbors are still having a tough time finding work. And some of them have been out of work a long time.
+
+And I've said before and I'll say it again, my administration will not rest till every American who is willing to work can find a job, and a job that pays decent wages and decent benefits to support a family.
+
+But what's clear is that we're headed in the right direction. A year and a half ago, this economy was shrinking rapidly. The economy is now growing. A year and a half ago, we were losing jobs every month in the private sector. We've now added private sector jobs for seven months in a row. And that means the worst mistake we could make is to go back to doing what we were doing that got us into the mess that we were in. We can't turn back. We've got to keep going forward. We've got to keep going forward. {APPLAUSE}
+
+Now, I'll be honest with you, there's going to be a big debate about where we go. There are folks in Washington right now who think we should abandon our efforts to support clean energy. They've made the political calculation that it's better to stand on the sidelines than work as a team to help American businesses and American workers.
+
+So they said no to the small business tax cuts I talked about. They said no to rebuilding infrastructure. And they said no to clean energy projects. They even voted against getting rid of tax breaks for shipping jobs overseas so we could give those tax breaks to companies that are investing right here in Wisconsin.
+
+And my answer to people who have playing politics the past year and a half is, they should come to this plant. They should go to any of the dozen new battery factories, or the new electrical vehicle manufacturers, or the new wind turbine makers, or the solar plants that are popping up all over this country, and they should have to explain why they think these clean energy jobs are better off being made in Germany or China or Spain, instead of right here in the United States.
+
+See, when folks lift up the hoods on the cars of the future, I want them to see engines stamped “Made in America.” When new batteries to store solar power come off the line, I want to see printed on the side, “Made in America.” When new technologies are developed and new industries are formed, I want them made right here in America. That's what we're fighting for. That's what this is about. {APPLAUSE}
+
+So, ZBB, you're part of that process. You guys are at the cutting edge. You're how we're going to strengthen this economy.
+
+These have been a couple of very hard years for America. And we're not completely out of the woods yet. There are going to be some more tough days ahead. It would be a mistake to pretend otherwise. But we are headed in the right direction. You're pointing us in the right direction. And I am confident about our future, because of what I have seen at this plant and what I see when I talk to workers like all of you, what I have seen all across this country. When the chips are down, it's always a mistake to bet against the American worker. It's a mistake to bet against American businesses. It's a mistake to bet against the American people.
+
+This is the home to the most skilled, hardworking people on Earth. There's nothing we cannot achieve when we set our minds to it. All we've got to do is harness the potential that's always been central to our success. That's not just how we're going to come through the storms we've been in recently. That's how we're going to emerge even stronger than before.
+
+So I want to say thank you to Eric. I want to thank ZBB for hosting us. More importantly, I want to thank all of you for setting a model for how we're going to create the kind of lasting economy that's going to be good not just for this generation, but for the next generation.
+
+Thank you very much, everybody. God bless you. God bless America. Thank you. {APPLAUSE} 
+
+{/speech}

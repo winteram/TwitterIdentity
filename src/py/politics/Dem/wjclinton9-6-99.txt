@@ -1,0 +1,52 @@
+﻿{title} Remarks by the President at Dedication Ceremony for the Dale Bumpers and Betty Bumpers Vaccine Research Center {/title}
+{event} Dedication Ceremony for the Dale Bumpers and Betty Bumpers Vaccine Research Center {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 9, 1999 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Senator Harkin, for your friendship, your leadership and for your successful efforts to get this facility named for Dale and Betty Bumpers. You know, ever since the Republicans won a majority in the House and the Senate in 1994, it's been impossible to get anything named for a Democrat. {LAUGHTER} We named more buildings than ever before in the history of the country, at a breathtaking rate, and I just wanted to come here to make sure this was actually going to happen today. {LAUGHTER} And I really thank you, Tom Harkin, for your persistence.
+
+Thank you, Dr. Varmus, Dr. Satcher. Secretary Shalala, thank you for your remarks and what you said. I want to thank all the leaders of the NIH who are here, and others involved in all the various endeavors, especially Sandy Thurman, who leads our efforts on AIDS. I want to say a special word of appreciation to the families of Dale and Betty Bumpers who are here, including two of their three children.
+
+I want to express the regrets of the First Lady and the Vice President for not being able to be here today, and in particular, because of our long friendship and common interest, I know that Hillary wanted to come.
+
+Forty-four years ago, Edward R. Murrow described the day Dr. Salk announced his discovery of a polio vaccine water treatment these words, "The sun was warm, the earth coming alive. There was hope and promise in the air. The occasion called for banners in the breeze, and trumpets in the distance."
+
+Indeed, that discovery did herald the dawn of a golden age of development of vaccines and prevention of disease. In the 50 years since, we have benefited from the discovery of vaccines against some 20 infectious diseases -- tens of millions of lives have been saved; tens of millions of children have been spared the agony and crippling pain of polio, mumps, rubella, measles -- most recently, meningitis.
+
+Twenty years ago, we eradicated smallpox, the disease that took thousands of years -- struck down men, women and children all around the world, and destroyed entire civilizations. We have eliminated polio from our own hemisphere and, as you've already heard, we'll eliminate it from the earth early in the new millennium.
+
+The triumph of vaccines over infectious disease is one of the great achievements of a remarkable 20th century. And at century's end, the men and women who labor in labs to unlock the mysteries of human biology and disease -- especially those here at the National Institute of Health -- have made this one of America's great citadels of hope, not only for our people but for people throughout the world.
+
+I think it is important to note, though, that we are here today because the triumph of immunization over disease is also the triumph not just of scientists, but of countless citizens across America -- public health specialists, advocates, volunteers, leaders in government -- who work together to support new research, and to bring life-saving vaccines to all people. It is the triumph of the couple we honor today, my friends of many, many years, Dale and Betty Bumpers.
+
+More than 25 years ago, Betty Bumpers was the first person to open my eyes to the fact that though many vaccines had been discovered, approved and marketed, too few children in our state, then, and across America, were being immunized. As the First Lady of our state, she visited every community and every school, talking to parents and teachers about the necessity of immunizing their children. In fact, Betty became so identified with the immunization cause that people used to joke that every time she walked into a school, the kids would start to cry. {LAUGHTER} They knew that when she came in, somebody was going to have to get a shot.
+
+Her work inspired President Carter to launch a nationwide campaign to immunize all children by the time they entered school. Today, I am still amazed by her tirelessness in traveling across the country with Rosalynn Carter to ensure that every child is immunized by the age of two. I'd also like to say something that many of you know: she is here today, just two days after back surgery, which is an ultimate testament to her grit and determination. {APPLAUSE}
+
+She's made sort of a second career, Betty has, out of deflating egos, especially her husband's and mine. {LAUGHTER} And I told her today, she just hit me one more time, I got a huge applause in the State of the Union address a couple of years ago, railing against the HMOs and hospitals that kicked people out after drive-by surgery. And she's exhibit A for drive-by surgery. {LAUGHTER} I mean, here she is, she looks great. I'm going to have to at least modify my position on that issue, I guess.
+
+When Betty was working at the grassroots, Dale was working in government. Over four terms and 24 years, representing our home state in the United States Senate, he became the resident expert and the greatest champion for immunization in that body. Through dark times, when it looked as if Congress and the White House might fail to do their part to make vaccines more widely available, his passionate and persuasive arguments would stir consciences and, on occasion, change votes.
+
+After the measles epidemic of the late '80s and early '90s, Dale Bumpers rallied his colleagues. He took to the Senate floor to lament 27,000 cases of measles, cases he called "totally shameful and avoidable." He challenged his colleagues to rise to their responsibility to protect our children. Our children have been lucky to have his heart and his voice at their service.
+
+For a long, long time, Hillary and I have been inspired by Dale and Betty's personal crusade. In 1993, I took office committed to renewing America and preparing our country for a new century. A key to the strategy we embraced was investing in our people, investing in technology and dramatically increasing our efforts in research and development in areas that were pivotal opportunities for the future of Americans' quality of life. We made funding basic science research that could lead to new vaccines one of our top priorities. We launched a new initiative to improve immunization services, to make existing vaccines safer and more affordable and to boost immunization rates across America.
+
+And I was profoundly proud when, two summers ago, Hillary and I were able to invite Dale and Betty to the White House, where we announced that finally America had reached its highest immunization rate ever and more than 90 percent of all two year olds in our country have received their most critical doses of recommended vaccines, thanks in no small measure to the years and years and years of effort that they have spearheaded. {APPLAUSE}
+
+Therefore, it is entirely fitting that today we dedicate this state of the art facility to them, two great Americans, two wonderful human beings. Today, we also lay a new cornerstone in our ongoing efforts against HIV and AIDS. With biotechnology accelerating the development of new vaccines and making existing ones even safer, it is a hopeful moment for vaccine research in America, including the challenge of finding a vaccine against AIDS.
+
+Today, one out of every 100 people in the world is living with HIV and AIDS. With the recent news that AIDS has surpassed tuberculosis and malaria to become the leading infectious killer in the world, claiming 2.5 million lives in 1998 alone -- and growing, I might add, at truly breathtaking rates in Africa and India -- we cannot afford to waste a second in our fight against it.
+
+Over the past six years we have worked hard to conquer this disease. We have established the Office of National AIDS Policy to lead an effort full-time, expanded our investment in AIDS research to a record $1.8 billion, accelerated the approval of new drugs. Two years ago, as Secretary Shalala said, I challenged America to come together to develop a vaccine for AIDS within 10 years. Our balanced budget will target $200 million toward this goal. And until an AIDS vaccine is tested and approved, it will remain the primary mission of the Dale and Betty Bumpers Vaccine Research Center.
+
+I am confident that this is a place where miracles will happen -- miracles born of hard work, ceaseless effort, visionary dreams. I look forward to the day when I can come back here, to a grand facility with, in Murrow's words, banners blowing in the breeze, and trumpets in the distance, heralding another great vaccine achievement for mankind, the end of AIDS. {APPLAUSE}
+
+When that day comes, it will be due in large part to the people who will be here at the Bumpers Center, and to the two truly wonderful people for whom the center is named.
+
+Thank you, for your work and for letting me be a part of today's ceremony. And God bless you, Dale and Betty. Thank you very much. {APPLAUSE} 
+
+{/speech}

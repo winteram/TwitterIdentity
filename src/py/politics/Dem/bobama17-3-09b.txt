@@ -1,0 +1,26 @@
+﻿{title} Remarks By The President at Speaker Pelosi's St. Patrick's Day Lunch {/title}
+{event} Speaker Pelosi's St. Patrick's Day Lunch {/event}
+{speaker} Barack Obama {/speaker}
+{date} March 17, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Please, everyone, have a seat. Have a seat. Have another one of those cookies that's being passed around. {LAUGHTER}
+Speaker Pelosi, distinguished members of the House and Senate, honored guests, the Taoiseach and his entire delegation, all the extraordinary leaders from Ireland, Northern Ireland, who are here -- thank you so much for joining us in this wonderful St. Patrick's Day tradition.
+As Speaker Pelosi mentioned, this lunch was begun under Tip O'Neill and Ronald Reagan, two men of Irish stock who loved a good scrap, but who also knew how to work together to find common ground, and to put the differences of the day aside in favor of laughter and good cheer at the end of the day.
+In fact, looking at all of you, I'm reminded of a greeting President Reagan once offered the guests at this gathering. "On St. Patrick's Day," he said, "you should spend time with saints and scholars. So I have two more stops to make." {LAUGHTER ; APPLAUSE} But, it is -- {LAUGHTER} -- it is wonderful to see so many wonderful Irish Americans, as well as so many who wish they were. {LAUGHTER}
+People help you discover a lot about yourself when you're running for President. As has been mentioned, it was brought to my attention last year that my great-great-great grandfather on my mother's side hailed from a small village in County Offaly.
+Now, when I was a relatively unknown candidate for office, I didn't know about this part of heritage, which would have been very helpful in Chicago. {LAUGHTER} So I thought I was bluffing when I put the apostrophe after the O. {LAUGHTER} I tried to explain that "Barack" was an ancient Celtic name. {LAUGHTER}
+Taoiseach, I hope our efforts today put me on the path of earning that apostrophe.
+And of course, this St. Patrick's Day seems different than most because there's one person missing -- as it's already been mentioned -- one person who has touched all of us fortunate enough to walk these halls with his mentorship and his friendship; the hardest-working Irish American we know; friend to all, father to some: Teddy Kennedy. He sends his best, along with -- {APPLAUSE}
+If I may speak seriously for a moment -- earlier this morning, I mentioned briefly the recent attacks in Northern Ireland by those who would seek to challenge a hard-earned peace. And I told the Taoiseach, not all Americans are Irish, but all Americans support those who stand on the side of peace; and this peace will prevail.
+This peace will prevail because the response of the people of Northern Ireland and their leaders to these cowardly attacks has been nothing short of heroic -- true profiles in courage. They've condemned this violence, refrained from the old partisan impulses, made it absolutely clear that the future is too important to cede to those who are mired in the past. The sight of former adversaries mourning and praying and working together this week should inspire us all, and strengthen our resolve to see that this peace does not falter.
+And today, we also reflect on the fact that the past and the future of our nations are forever intertwined. The Irish came to America with the dream of a better life, but they didn't just wait for somebody to hand it to them -- they helped forge the very promise of America: that success is possible if you're willing to work hard for it.
+Irish hands have signed our founding documents and fought in our wars. They've helped build our greatest cities. Through tragedy and triumph, despite bigotry and hostility, and against all odds, the Irish created a place for themselves in the American story. We are a nation blessed with so many immigrant and ethnic groups that have contributed to that story -- and in doing so, they helped fashion a better life for all of us.
+Now our challenge tomorrow, and in the months and years ahead, is to try and remember some of that spirit of this day -- to work together with a renewed commitment to overcome the obstacles that stand in our way, and toil just as passionately as our forebears to bring about a better life for all Americans.
+And so to paraphrase some wise Irishman or woman -- may we govern -- may we who govern have the hindsight to know where we've been, the insight to know where are, and the foresight to know where we are headed.
+Taoiseach, thank you so much for being here and your lovely wife and the entire delegation. Happy St. Patrick's Day to all of you. Thank you. {APPLAUSE} 
+
+{/speech}

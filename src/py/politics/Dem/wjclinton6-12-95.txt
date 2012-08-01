@@ -1,0 +1,62 @@
+﻿{title} Remarks by the President in Vetoing the Republican Budget {/title}
+{event} The Oval Office {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 6, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Throughout our history, American Presidents have used the power of the veto to protect our values as a country. In that spirit today, I am acting to protect the values that bind us together in our national community.
+
+My goals as President have been to preserve the American Dream for all of our people, to bring the American people together, and to keep America the world's strongest force for peace and freedom and prosperity.
+
+In pursuit of that strategy, I have sought to grow the economy, to shrink the government but leave it strong enough to do the job, and most important, to elevate mainstream values that all Americans share -- opportunity and responsibility, work and family, and bringing our community together so that we can be stronger.
+
+I have consistently said that if Congress sends me a budget that violates our values, I'll veto it. Three decades ago, this pen you see here was used to honor our values when President Johnson used it to sign Medicare into law.
+
+Today, I am vetoing the biggest Medicare and Medicaid cuts in history, deep cuts in education, a rollback in environmental protection, and a tax increase on working families.
+
+I am using this pen to preserve our commitment to our parents, to protect opportunity for our children, to defend the public health, and our natural resources and natural beauty, and to stop a tax increase that actually undercuts the value of work.
+
+We must balance the budget, but we must do it in a way that honors the commitments that we all have and that keeps our people together.
+
+Therefore, today, I am vetoing this Republican budget because it would break those commitments and would lead us toward weakness and division when we must move toward strength and unity.
+
+Can you bring me some ink, boys? Here, Todd, I knew you had some. It's a small well. Leave it here and see if I need it.
+
+{COMMENT="The President signs the veto"} {APPLAUSE}
+
+{OTHER-SPEAK} Mr. President, what happens next? {/OTHER-SPEAK} 
+
+I'm about to say. As I have said repeatedly, America must balance its budget. It's wrong to pass a legacy of debt onto our children. Our long-term growth depends on it. But we must do it in a way that is good for economic growth and for our values.
+
+The budget I have vetoed in a very real sense, in very concrete ways, undermines our values and would restrict the future of families like the ones that are here with me today. American families want to make the most of their own lives and to pass opportunity onto their children. They deserve our respect and our support. Above all, we shouldn't make it harder for them to fulfill their dreams.
+
+When it comes to health care we owe a duty to our parents. We have to secure Medicare, and I've spelled out how to do that. But the budget I just vetoed would turn Medicare into a second class system. The Medicare system has served all senior citizens well for 30 years -- it would be over.
+
+This budget would end Medicaid's guarantee that no senior citizen and no American in need would be denied medical care, including poor children and children with disabilities. It would deny care for hundreds of thousands of pregnant women and disabled children. It would repeal standards that ensure quality for nursing homes.
+
+Education means opportunity, and opportunity is the key to the American Dream. But this budget cuts education by $30 billion -- even in this high technology age, when education is more important than ever before. It would essentially end the direct student loan program. It would deny college scholarships to 360,000 deserving students. It would deny preschool opportunities to 180,000 children in the Head Start Program.
+
+We must protect the earth that God gave us and guarantee our children safe food and clean water. This budget would give oil companies the right to drill in the last unspoiled arctic wilderness in Alaska. And it is loaded with special interest provisions that squander our natural resources. Already, short-term budget cuts have forced us to pull back enforcement of clean air, clean water, even inspections of toxic waste sites in our neighborhoods.
+
+People who work hard and save for retirement ought to be able to retire with dignity. We worked hard last year to secure the pension benefits of 40 million Americans with landmark reform legislation. This bill would give companies the green light to raid pension funds and put those retirements at risk again.
+
+Americans know we have to reform the broken welfare system. But cutting child care that helps mothers move from welfare to work, cutting help for abused and disabled children, cutting school lunch, that's not welfare reform. Real welfare reform should be tough on work and tough on responsibility, but not tough on children or tough on parents who are responsible and who want to work. We shouldn't lose this historic chance to end welfare as we know it by using the words welfare reform as just another cover to violate our values.
+
+No one who works hard should be taxed into poverty. In 1993, we nearly doubled the earned income tax credits so that we could say, if you work 40 hours a week, you've got children in the home, you won't be taxed into poverty. The tax system will help lift you out of poverty. But this budget raises taxes on our hardest pressed working people, even as it gives unnecessarily large income tax relief and other tax relief to those who need it least. Nearly 8 million working families would pay more in new taxes than they would receive from any tax cut in this bill.
+
+Beyond our principles, let me just say this budget is bad for the economy. No business on the edge of the 21st century would cut its investment in education and training, in research. No business would do that. No business would cut back on technology on the edge of the 21st century. The Japanese are in a recession, and they recently doubled their research budget. We are voting in this budget, if I were to allow it to become law, to cut our research budget by a year when we're in a period of economic growth, while another country, looking to the future in a recession, is doubling theirs. So this not only violates our values, it is bad, bad economics.
+
+Now, with this veto, the extreme Republican effort to balance the budget through wrongheaded cuts and misplaced priorities is over. Now, it's up to all of us to go back to work together to show we can balance the budget and be true to our values and our economic interests.
+
+Tomorrow, I will present to the congressional leadership a plan that does balance the budget in seven years, but it also protects health care, education and the environment, and it does not raise taxes on working families. It is up to the Republicans now to show that they, too, want to protect these principles, as they pledged to do.
+
+Let me say again, our country is on the move; our economy is growing; many of our most difficult social problems are beginning to yield to the effort and common-sense values of the American people. We have proved again that we are a model for the entire world of peace and reconciliation. With all of our difficult problems, we are moving in the right direction. Now is not the time to derail this movement.
+
+I have vetoed the budget; now, the question is: Will we get together and balance the budget in a way that is consistent with our values. It's time to finish the job of balancing the budget and do it in the right way.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

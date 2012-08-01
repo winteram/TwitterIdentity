@@ -1,0 +1,100 @@
+﻿{title} Vice President Cheney Delivers Remarks to the Republican Governors Association {/title}
+{event} Washington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} October 25, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. I appreciate the warm welcome and the opportunity to spend a little bit of time with all of you tonight. I especially want to thank my old friends John Rowland and Frank Keating. John and I served together in the Congress and Frank was my second governor when I lived in Texas and ran a company headquartered in Oklahoma.
+And so it's a pleasure to be back as well with so many friends here tonight in the governors operations. It's just good to see somebody. You know these days, we don't get many visitors at the cave. {LAUGHTER}
+But I want to offer a special welcome as well tonight to America's newest governor, Mark Schweiker of Pennsylvania.
+
+{APPLAUSE}
+
+I've come here tonight from the White House and bring greetings to all of you from President Bush. The president and I are very pleased to have several former governors in our administration. Christie Whitman is doing a superb job at EPA. And during this time of crisis, the nation's been very well served by Tommy Thompson, John Ashcroft, and Tom Ridge.
+
+{APPLAUSE}
+
+Governor Ridge left his office to assume a critical role in America's war against terrorism. His state was one of those directly hit on September 11.
+
+But every state is affected by this crisis. Every governor now faces new and urgent responsibilities in protecting the American people. In both parties and across America, governors have met this responsibility and met it well.
+
+Our country's waging this war on many fronts. We are doing so with determination and patience, and we will be relentless. The terrorists who attacked us thought they knew our weaknesses as a country, but they took little account of our strengths, and this mistake will prove fatal. They will find that they misunderstood the people of the United States and seriously misread the president of the United States.
+
+On the civil defense front, we are taking every measure to improve both our prevention capability and our response capability. The enemy has shown the capacity to inflict great damage on the United States, and the only safe way for us to proceed is to assume there will be more attacks. In this conflict, for the first time in our history, we will probably suffer more casualties here at home than will our troops overseas.
+
+Under Governor Ridge, the Office of Homeland Security is leading the effort to detect and frustrate the plans of terrorists. Airports and airlines have already been made much safer. Steps are also being taken to tighten our borders and ports of entry and to safeguard the nation's infrastructure, everything from water supplies to power plants to dams.
+
+We are responding rapidly to the appearance of anthrax and giving preventive care to those who have been exposed. We do not yet know who has been sending the anthrax, nor at this point do we have evidence linking these incidents to the terror network responsible for the attacks of September 11.
+
+But our first objective is public safety and providing our citizens with reliable information as soon as it's available.
+
+Our health care labs and law enforcement teams continue to work overtime to test samples and track leads and to prosecute hoaxes.
+
+The incidents of the last several weeks show us once again the kind of evil we are faced with -- people whose only aim is to frighten and to kill Americans. Wherever they are, they will be found, they will be stopped and they will be punished.
+
+{APPLAUSE}
+
+Homeland security is not a temporary measure just to meet one crisis. Many of the steps we have now been forced to take will become permanent in American life. They represent an understanding of the world as it is, and dangers we must guard against perhaps for decades to come. I think of it as the new normalcy.
+
+On the part of government, it requires greater measures to ensure the safety and security of the American people. On the part of our citizens, it requires vigilance and common sense and patience.
+
+In the work of homeland security, the federal government has a responsibility to take the lead, and we will do so, but every level of government must be alert and active in confronting the threat.
+
+To aid in that effort, we've asked Congress for more than $800 million to help states and communities find and address the vulnerabilities that exist. The governors here met with the president today. This is part of the ongoing effort to work very closely with all our governors in every way possible to protect the freedom and the security of the nation and its people.
+
+On the military front in this war, we've entered a new stage. The air campaign against the Taliban has been a success. We have destroyed military training facilities, airfields, air defenses, ammunition storage areas, command and control facilities and terrorist camps throughout Afghanistan.
+
+The air campaign has cleared the way for further operations. What comes next, the Taliban and Al Qaeda terrorists will discover only when it is upon them. But I can tell you that they can expect to see and hear more from the American military.
+
+{APPLAUSE}
+
+On the law enforcement front, thousands of law enforcement personnel, including about one in every four employees in the FBI, are aggressively following every lead in our anti-terror campaign.
+
+Terrorist and their supporters are, for the first time, worried about their own safety. They are being swept up in a worldwide roundup operating 24 hours a day. We have disrupted their operations and no doubt prevented some planned attacks.
+
+To date, nearly 1,000 individuals have been arrested or detained here in our country during the course of this investigation. We're cutting terrorists off from their sources of funding by freezing millions of dollars in assets. Congress has passed important new legislation giving us modern methods to pursue the war on terror, while safeguarding the rights of law-abiding citizens. Tomorrow at the White House, President Bush will sign it into law.
+
+The United States is not alone in this cause. Terrorism is a menace to the entire civilized world. That is why many nations have joined us in a broad coalition to answer and defeat the threat.
+
+Different nations are helping in different ways. And the president has made clear that there is no neutral ground in the fight against terrorism. It's the policy of the United States that any nation harboring or supporting terrorists shares in their guilt and shares in their responsibility.
+
+{APPLAUSE}
+
+Our country has awakened to great dangers and we are on watch against dangers to come. We are vigilant, but we are returning, as we must, to the business of our lives.
+
+Recent events have been a shock to the economy and the federal government has been quick to respond. We've provided additional spending to help New York and the Pentagon repair the damage. We've worked to stabilize the airline industry and devote additional resources to the defense of the nation.
+
+The president will work with Congress to enact more pro- growth measures to create new investment and new jobs. And for Americans who have found themselves suddenly out of work in this economic slowdown, we must do all we can to help.
+
+Here in Washington, we've seen the elected branches of government and the political parties come together in a way that few imagined was possible.
+
+And throughout our country, we've seen the kind of patriotism and sense of unity that some believed had vanished.
+
+This is a unique moment in our history and it has brought out the best in our country. We were strong before September 11, and we are stronger now in adversity. And all of us, people of every background and every faith, have been reminded of how much we truly love our country.
+
+{APPLAUSE}
+
+We did not choose this struggle, but it is here and we must see it through. And at this time of testing for America, all of us can be proud of the leader we have in the White House.
+
+{APPLAUSE}
+
+President Bush understands, as future presidents must also understand, that we are facing an entirely new kind of threat to our security. In the experience of the 20th century, war for Americans was something that happened overseas. There was the theater of battle and then the home front.
+
+In our own lifetimes, the only great threat to America came from a rival superpower. This we handled with summit meetings, arms control treaties and deterrence.
+
+When crises arose over the last several decades, America usually faced a choice. In military matters, we almost always had the luxury of debating whether or not we wanted to get involved. Now, we do not have that luxury. Events have left us little room for debate. After September 11, there was no question about going to war. On that day, war came to us.
+
+A group like Al Qaeda cannot be held back in deterrence or reasoned with by diplomats. For this reason, the war against terror will not end in a treaty. There will be no summit meeting, no negotiations with terrorists. The conflict can only end with their complete and permanent destruction.
+
+{APPLAUSE}
+
+The advance of human freedom now depends on us. These are difficulties, and there are difficult days ahead and dangers to face. But this nation will go forward, knowing the rightness of our cause, steady in our purposes, and confident of victory for the United States and the cause of freedom.
+
+Thank you very much.
+
+{APPLAUSE} 
+
+{/speech}

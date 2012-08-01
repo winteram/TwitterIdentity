@@ -1,0 +1,18 @@
+﻿{title} Remarks at a Microfinance Event at FinComun {/title}
+{event} Mexico City, Mexico {/event}
+{speaker} Condoleezza Rice {/speaker}
+{date} March 10, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Well, I am really delighted to be here at FinComun. I'm very proud to be here on behalf of the United States Government and to thank also USAID, who is here on behalf of the American people. This is a wonderful project and it's a wonderful project because it empowers people, because it allows people like these fine people who are willing to work hard and to take the opportunity afforded by these loans to expand their businesses or to begin businesses.
+
+We know that micro-credit is one of the real engines of growth for small villages. It's one of the engines of growth for poor communities. We also know that women in particular tend to benefit from micro-loans and micro-credit. And I know that it has been a major emphasis of President Fox to get micro-credits to the Mexican people and the United States is very proud to be a part of this wonderful effort which provides technical assistance, which is providing for the establishment of more centers where people can come in and get advice or they can come and get their money so that they can begin. {APPLAUSE}
+
+I believe that we are also announcing today a $10 million grant so that these activities can be supported by the USAID. This is a very exciting prospect. You may know that small business is really even the engine of growth in the United States so it can certainly be an engine of growth in Mexico. I congratulate all these fine people for the hard work that they do and for the businesses that you are creating which will benefit their families and their communities and their country.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

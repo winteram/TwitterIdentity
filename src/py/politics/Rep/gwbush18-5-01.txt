@@ -1,0 +1,55 @@
+﻿{title} Remarks by the President in Recognition of Cuba Independence Day {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 18, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Siente se. {LAUGHTER} Bienvenidos a la casa de todos que -- quien viven en nuestra grande pais. Welcome to the White House. 
+
+Mr. Secretary, you were an easy pick. {LAUGHTER} There's no question you'd do a fabulous job on behalf of America. Thank you for taking the assignment. {APPLAUSE} 
+
+Another member of my team who is here who helps us have a strong and certain foreign policy is Senorita Condoleezza Arroz. {LAUGHTER ; APPLAUSE} That means rice. {LAUGHTER} 
+
+Senator Graham, thank you for being here. We're honored by your presence. I know you're a strong friend of Cuba's. {APPLAUSE} And, of course, too -- and it's great that Ileana and Lincoln are with us, as well. Thank you. {APPLAUSE} 
+
+I noticed when Gloria sang the Cuban Anthen, that the first two people on their feet were the two Congresspeople from South Florida. And, Lincoln, I did notice that you were braced at attention, too, I might add. Proud. So it's great to have you all here. 
+
+Gloria, thank you very much. Sorry you brought your husband -- no. {LAUGHTER} We love Emilio. He's a good man. {APPLAUSE} And, Gloria, thank you for coming and bringing tu nanita. Thank you all for being here. We love your music. Your husband has been such a good friend of me and my family, and so have you. 
+
+The great poet -- man, you must be a strong person, with a beautiful heart, and a wonderful, artistic touch. Angel, welcome to the White House. {APPLAUSE} And Lizebet, thank you for coming. I don't think many in America know your story, that you were picked up on a raft, and you played The National Anthem on your violin when you were picked up. That's beautiful. {APPLAUSE} 
+
+And finally -- por fin -- "la voz" -- {LAUGHTER} -- John Secada. Thank you, John for being here. I appreciate you very much. Glad you're here. {APPLAUSE} 
+
+It's a great honor for me to welcome you all to the White House to celebrate May 20th, Cuban Independence Day. It's a day when we honor the warm family ties, the faith, the history and heritage that unite our two peoples. 
+
+As Angel and Lizebet and so many others remind us, it is a day when we pay thanks to the magnificent contributions of Cubans to our national life. They enrich every field, from science to industry, to the arts, including my favorite performing art -- baseball. {LAUGHTER ; APPLAUSE} But mostly, today is a day when we reflect on the greatnesses of Cuba's far-too-distant past and the brightness of its future; of how, together, we can hasten that future's arrival. 
+
+Just last month I returned from the Summit of the Americas in Quebec City. Thirty-four democratic nations committed ourselves to building a hemisphere of freedom. But one nation was not there, because that nation has a leader who has no place at the democratic table. Indeed, his nation is not free, but enslaved. He is the last holdout of the hemisphere, and time is not on his side. {APPLAUSE} 
+
+The Cuban independence we celebrate today was the product of the enormous courage of the Cuban people and the statesmanship of leaders such as Jose Marti. The tyranny that rules Cuba today stands as an insult to their sacrifices. But we're confident in one fact, Cuban courage is more powerful and enduring than Castro's legacy and tyranny. 
+
+Our nation has an economic embargo against Castro's regime. But today, of all days, it is important for us to remember that our goal is not to have an embargo against Cuba; it is freedom in Cuba. {APPLAUSE} 
+
+The United States welcomes the opportunity to trade with Cuba when there are entrepreneurs who are free to trade with us. We welcome the opportunity to build diplomatic relations with Cuba when the Cuban government is a democracy, when the Cuban people can be free from fear to say what they think and choose who shall govern them. 
+
+The sanctions our government enforces against the Castro regime are not just a policy tool; they're a moral statement. My administration will oppose any attempt to weaken sanctions against Cuba's government until the regime -- {APPLAUSE} -- and I will fight such attempts until this regime frees its political prisoners, holds democratic, free elections, and allows for free speech. 
+
+The policy of our government is not merely to isolate Castro, but to actively support those working to bring about democratic change in Cuba. {APPLAUSE} And that is why we will support legislation like the Cuban Solidarity Act, and the Cuban Internal Opposition Assistance Act. {APPLAUSE} History tells us that forcing change upon repressive regimes requires patience. But history also proves, from Poland to South Africa, that patience and courage and resolve can eventually cause oppressive governments to fear and then to fall. 
+
+One of the surest ways to foster freedom is to give people unlimited access to unbiased information. The strongest walls of oppression can't stand when the floodgates of modern telecommunications are opened. We must explore ways to expand access to the Internet for the average Cuban citizen. And we must strengthen the voices of Radio and TV Marti, with strong leadership. {APPLAUSE} And we will strengthen those voices with strong leadership and new direction. 
+
+Today -- today I say this to Mr. Castro: If you are confident your ideas are right, then stop jamming the broadcasts of those whose ideas are different. {APPLAUSE} And until you do, we will look for ways to use new technology, from new locations, to counter your silencing of the voices of liberty. {APPLAUSE} 
+
+Last month, the U.N. Human Rights Commission called on Castro's regime to respect the basic human rights of all its people. The United States leadership was responsible for passage of that resolution. {APPLAUSE} Some say we paid a heavy price for it. But let me be clear: I'm very proud of what we did. {APPLAUSE} And repressed people around the world must know this about the United States: We might not sit on some commission, but we will always be the world's leader in support of human rights. {APPLAUSE} 
+
+Today, all our citizens are proud to stand with all Cubans, and all Cuban Americans who love freedom. We will continue to stand with you until that day, hopefully not in the too-distant future, when all Cubans breathe the heady air of liberty. {APPLAUSE} 
+
+We are proud to stand with those Cubans who, today, enrich our nation with their energies and industry. We're proud to stand with the farmers and workers of Cuba who dream of liberty's blessings. We are proud to stand, too, with those who are suffering and dying in jails because they had the courage to speak the truth. 
+
+Y aqui en este Casa Blanca, estamos feliz de cultivar "una rosa blanca en Julio como en Enero." {APPLAUSE} Y por fin, viva Cuba libre. {APPLAUSE} Thank you all. 
+
+{/speech} 

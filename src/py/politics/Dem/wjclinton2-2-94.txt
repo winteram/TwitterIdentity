@@ -1,0 +1,44 @@
+﻿{title} Closing Remarks by the President at Department of Labor Conference on Reemployment {/title}
+{event} Department of Labor Conference on Reemployment, Omni Shoreham Hotel, Washington, D. C. {/event}
+{speaker} Bill Clinton {/speaker}
+{date} February 2, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Let me wrap up by just making a couple of observations. First of all, to thank all those panelists who were here -- the ones on my panel and the ones who were here earlier, and all of you for coming.
+
+What we are trying to do in our administration with the leadership of the Secretary of Labor and the Secretary of Education and many others is to establish a system of lifelong learning, to recognize that people are going to change work seven or eight times in a lifetime; that even if you're fortunate enough to have your employer able to keep you with the same company for a lifetime, doing that will require continuous changing skills.
+
+The way we do things will be different tomorrow than the way we did things today. You heard Father Cunningham talking about the clean car. Well, being a bank teller is a very different job today than it was five years ago, too. Working in most hospital jobs are different today than it was five years ago. Things are changing rapidly and they will continue to.
+
+We have some major pieces of legislation: Our Goals 2000 bill, which affects the way public schools operate and tries to give them some international standards against which to measure their own efforts. Our school-to-work initiative which tries to recognize that a lot of young people don't go to college, but do need the kinds of skills that we've been talking about today. And we are going to propose transforming the whole unemployment system to try to deal with some of the problems you heard about today, to make it a continuous reemployment system so that there is at least no delay from the time a person stops getting a paycheck until a person starts into a retraining program, because we know that the old jobs don't come back anymore.
+
+And we're going to try to do it in a way that will give enormous incentives to support programs at the local level that get rid of bureaucracy and that aren't all divided up -- not only consolidating the training programs, but with these one-stop centers, making sure that nobody who loses a job is left to the chance of whether some coworker says, well, here's a program that might work; and that no one on welfare wanders out of the welfare office and has to depend on the luck of someone else saying here's something that will help you turn your life around. It seems to me that we have to do that.
+
+The second thing we have to do, to follow up on what Linda said, is to reward programs that produce results and to make it absolutely clear that those results are what matter; that in the end, the job training programs have to lead to work or they don't work.
+
+Later this month we will introduce the Reemployment Act of 1994, which will, hopefully, contain the wisdom that all of you have imparted to us today. And I hope you will help us to pass it. In a time in which we have to cut domestic spending, we have to find more money to spend on this. And I am presenting a budget to the Congress on Monday which will eliminate completely 100 government programs and cut back over 300 others, so that we can squeeze the money out of this budget to put more money into people to get jobs in the private sector where the future of the country is.
+
+And again, I will say that I hope all of you will support that, because we've got a lot of yesterday's programs in the government, too, and we're just kidding ourselves if we just keep spending money on things that don't really move the whole economy forward, don't create more jobs, don't give people a different and a better future.
+
+We know right now from what you've told us that we have to consolidate all these different programs for laid-off workers.
+
+And again, it won't be easy because there will be people, good people in the Congress who will say, well, there was reason we had this separate program. There were people we were trying to help.
+
+We've got to learn to trust people like Father Cunningham and Linda Butler, and other people at the grass-roots level who are producing jobs. We have to consolidate the programs in law and let them diversify, in fact, where it makes sense, out in the country.
+
+Instead of that, we had the reverse. We have diversified the programs in law so that they can't have any impact out there in the country. So I hope you will help to do that. {APPLAUSE}
+
+The bill will create one-stop shopping centers and it will create incentives to put the consumer first, and to try to bring the business community into this so that employers, even when they don't have to, will want to give their workers more notice. Working people in this country are grown-ups; they understand the global economy. They know what is happening and they deserve the right to control their destiny in a better way. And so we will try to engage the employer community in that, and the labor community in that. And I'm very hopeful that we can.
+
+And finally, we're working hard to get as much money as we can to make this training long-term. To have enough time to meet the needs of people and to meet the needs of our future economy.
+
+And I have learned some very specific things today that we're going to go back and try to make sure we've got in that bill as well as in the welfare reform bill three years from now. I never want to hear another Cynthia Scott story like that again. The welfare office ought to be the work office; it ought to be the job training office; it ought to be the place where you can be a successful worker and a successful parent. {APPLAUSE}
+
+So, I thank you all for coming. I thank you for your contributions. I want to say a little about my friend of 25 years, our Labor Secretary. I think he's done a wonderful job because he cares about people like you and we're trying to be relevant to your future. {APPLAUSE}
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

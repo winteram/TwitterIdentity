@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President to DC United Soccer Team, Major League Soccer Champions {/title}
+{event} Speech by President to DC United Soccer Team {/event}
+{speaker} Bill Clinton {/speaker}
+{date} April 6, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President to DC United Soccer Team {/description}
+
+{speech} 
+
+Thank you very much. Welcome to the Rose Garden on this beautiful spring afternoon, Congresswoman Norton, Mrs. Barry, Councilman Evans.
+
+In addition to being a magnificent spring day, this is also National Student Athlete Day. So I want to give a special welcome to those who have joined us to celebrate the achievements of students across the country. I want to thank Richard Lapchick, the Director of the Center for the Study of Sport in Society at Northeastern University, and Ron Stratten of the NCAA for your work to promote academics, athletics, and community service among our nation's youth.
+
+I also want to welcome Kevin Payne, the president and general manager of DC United, and Coach Bruce Arena, and the members and the staff of this very talented team. You've all worked hard to make DC United the most successful team in Major League Soccer history, winners of the 1996 and 1997 MLS Cups. Each year, despite torrential rains during the championship games, you've shown us you are strongly united. And with a great record this season, you're well on your way to a threepeat -- something the law prevents me from trying to equal. {LAUGHTER}
+
+DC United and Major League Soccer are making soccer more and more popular in the United States, especially among young people. Last year a record 3.2 million children across our nation played youth soccer, more than any other sport. My daughter taught me all I know about soccer. It was a great experience for me to watch her grow up in her soccer league, and I know it's making a difference in the lives of millions of children all across this country.
+
+DC United is linking America to the world and the love of soccer in bringing Americans of all backgrounds together and, unless my ears have given out on me entirely, bringing some people beyond America together on this team. Last year, despite those rains, over 57,000 fans went to RFK stadium to watch you win the championship. The DC United fans come from nearly every country on earth. Their diversity and spirit add to the life of this, our capital city, as I'm sure the representatives here would attest. Kevin Payne says that the fans are the twelfth man in your winning efforts.
+
+We can also all be proud of how united you are with the community of Washington, D.C. Your partnership with DC Scores supports after school reading and writing programs, combined with the joys of playing soccer. And I'd like to give you a special thanks for that.
+
+I also want to acknowledge the winners of that programs essays contest who are here with us today -- and they're standing over here -- Anoa Hunter and Aton Kent-Trout, who wrote outstanding essays on "What United Means to Me." I just read their essays. I wish all of you could read them. I think it's an inspiring and important question for all of us to think about.
+
+Congratulations to all of you, and now I'd like to turn it over to DC United's president, Kevin Payne. {APPLAUSE}
+
+Thank you very much. Let me -- before we close and I walk over here and we take a formal picture with the team -- again thank the First Lady of Washington, D.C., and Congresswoman Eleanor Holmes Norton, and all the D.C. City Council members -- I see at least three that I overlooked the first time. Would all the members of the DC city council who are here stand up? {APPLAUSE} I think they're all here. Thank you. We have a quorum in case any of you have a particular problem you'd like solved. {LAUGHTER}
+
+And I'd also like to ask the student athletes and the coaches that I just honored in the Oval Office who have come here from around the country, who have done outstanding things. Many of them have overcome considerable personal obstacles to be outstanding athletes, outstanding students, and servants in their communities. I'd like to ask them to all stand please. {APPLAUSE} Thank you very much.
+
+We're going to take a quick picture, and then we'll be adjourned. You can all stand up. We'll visit a little, have a little fun. Come on.
+
+{OTHER-SPEAK} Mr. President, is another Middle East peace summit here a possibility? Chairman Arafat, Prime Minister Netanyahu left open that possibility. Would you consider it? {/OTHER-SPEAK} 
+
+We're working on it. 
+
+{/speech}

@@ -1,0 +1,16 @@
+﻿{title} President's Remarks in Marlton, New Jersey {/title}
+{event} Evesham Recreation Center, Marlton, New Jersey {/event}
+{speaker} George W. Bush {/speaker}
+{date} October 18, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Listen, thank you all for coming. {APPLAUSE} So you're wondering what a Republican presidential candidate is doing in New Jersey -- {APPLAUSE} -- 15 days until the election? I'll tell you what I'm doing here, is I'm sending a strong message that with your help we can carry New Jersey on November the 2nd. {APPLAUSE}
+
+I'm so honored you all came out to say hello. Thank you so very much for your friendship, for your support. Make sure your friends go to the polls. {APPLAUSE} Make sure your neighbors go to the polls. {APPLAUSE} And tell them if they want a safer America, a stronger America and a better America to put me and Dick Cheney back into office. {APPLAUSE}
+
+God bless you all. {APPLAUSE} I'm headed down to Florida. I'm working. {APPLAUSE} We're going to win. {APPLAUSE} God bless. Thanks for coming. {APPLAUSE} 
+
+{/speech}

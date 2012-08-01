@@ -1,0 +1,44 @@
+﻿{title} President Signs Defense Bill {/title}
+{event} Remarks by the President at Signing of H.R. 1588, the National Defense Authorization Act for Fiscal Year 2004, The Pentagon, Arlington, Virginia  {/event}
+{speaker} George W. Bush {/speaker}
+{date} November 24, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all. Please be seated. Thank you for the warm welcome, and good morning. I'm honored to be here at the Pentagon with the men and women who are defending America and are fighting the war on terror. America is counting on your skill and courage.
+
+People in our military depend upon the support of the Congress and the President and the administration. Today with the National Defense Authorization Act, our government is meeting its obligations. We're sending a clear message: In a time of conflict and challenge, America stands with the United States military. {APPLAUSE}
+
+Mr. Secretary, you are doing a fantastic job for America. {APPLAUSE} You lead with courage; you lead with clear vision; you lead with strength.
+
+I appreciate General Dick Myers and the members of the Joint Chiefs who are with us. Thank you for your great service to our country. {APPLAUSE} I want to thank the ranking enlisted personnel who are with us today -- Sergeant Major John Estrada and Master Chief Petty Officer Terry Scott. I appreciate you all being up here, as well. Thank you for your fine service. {APPLAUSE} I want to thank the Department of Defense personnel who are with us today -- thank you for working with the Secretary and Deputy Secretary Wolfowitz and others for making sure the Pentagon does its job, and does its job well.
+
+I want to thank the members of Congress who are here. I particularly want to single out Chairman Warner and Chairman Hunter -- John Warner of Virginia, United States Senate; Duncan Hunter of California, the House of Representatives. I want to thank both of you for working on this important piece of legislation, for solving issues inside the bill, and getting a good bill to this desk. {APPLAUSE}
+
+I also thank Senator Carl Levin, the Ranking Member, Senator Susan Collins from Maine, and Congressman Tom Davis, for joining us on this stage and for their leadership in this important piece of legislation. I want to thank the other members of the United States Senate and the House of Representatives who have joined us. Thank you for supporting this piece of legislation. It's an important signal we're sending, because, you see, the war on terror is different than any war America has ever fought. Our enemies seek to inflict mass casualties, without fielding mass armies. They hide in the shadows, and they're often hard to strike. The terrorists are cunning and ruthless and dangerous, as the world saw on September the 11th, 2001, and again in Istanbul last week. Yet these killers are now facing the United States of America, and a great coalition of responsible nations, and this threat to civilization will be defeated. {APPLAUSE}
+
+In this new kind of war, our military needs to be fast and smart and agile -- and it is. Right now, America's Armed Forces are the best trained, best equipped, and best prepared in the world. And this administration will keep it that way. {APPLAUSE} The bill I sign today authorizes $400 billion over the next fiscal year to prepare our military for all that lies ahead. We will do whatever it takes to keep our nation strong, to keep the peace, and to keep the American people secure.
+
+First, this legislation respects and supports the men and women of our military, and their families, all of whom are a vital source of our national strength. For more than three decades, America has been well-served and well-defended by our all-volunteer force. The quality and professionalism of that force has never been higher. Whether you wear four stars, or one stripe, our military is making America proud. {APPLAUSE}
+
+In this time of war, our military is facing greater sacrifice; our men and women in uniform are facing longer separations. Your families are feeling great pride, and sometimes they worry. America is grateful for your willingness to serve, and we are showing our gratitude. This bill authorizes an across-the-board pay increase averaging 4.15 percent. It extends through next year the increase of extra pay earned by service members who volunteer for hazardous duty, and who endure long separations from their families. The bill further reduces housing costs for those living off posts. It reauthorizes bonus pay for those with specialized skills. Those who risk their lives for our liberty deserve to be fairly paid and fairly treatment -- treated. And this bill keeps those commitments. {APPLAUSE}
+
+Second, this legislation helps America remain prepared and fully equipped for the challenges of our time. In our new struggle, threats can emerge suddenly, and so we must always be ready. This bill authorizes funds for realistic training -- because battles are won with the effective training of our people.
+
+The Congress has authorized the full $9.1 billion that I requested for ballistic missile defense. The spread of ballistic missile technology, along with the spread of weapons of mass destruction, is a terrible danger to America and to the world, and we must have the tools and the technologies to properly protect our people.
+
+This bill also advances the vital work of transforming the personnel system for civilian defense workers, so that we can place the right person in the right job to meet the challenges we face. Nearly 700,000 civilian defense workers have been laboring under a cumbersome, inefficient system designed for another century. The bill I sign today reforms this system. It gives DOD managers the flexibility to place civilian workers where they are most needed, without needless delay. It speeds up the hiring process so that new employees will not have to face a wait of many months before beginning their service to our country. It introduces pay-for-performance bonuses and streamlines the promotion process, making a career at the Defense Department more attractive to talented workers.
+
+These are landmark reforms, the most ambitious of their kind in a quarter-century, and similar in scope and purpose to those enacted for the Department of Homeland Security. To win the war on terror, America must fully utilize the skills and talents of everyone who serves our country, and this bill will help us achieve that goal. {APPLAUSE}
+
+Every member of the United States military is now involved in a great and historic task. And the stakes for our country could not be higher. We face enemies that measure their progress by the chaos they inflict, the fear they spread, and the innocent lives they destroy.
+
+America's military is standing between our country and grave danger. You're standing for order and hope and democracy in Afghanistan and Iraq. You're standing up for the security of all free nations, and for the advance of freedom. The American people and your commander-in-chief are grateful. And we will support you in all your essential missions.
+
+And now it is my honor to sign the National Defense Authorization Act For Fiscal Year 2004. May God bless you all. {APPLAUSE}
+
+{COMMENT="The bill is signed"} {APPLAUSE} 
+
+{/speech}

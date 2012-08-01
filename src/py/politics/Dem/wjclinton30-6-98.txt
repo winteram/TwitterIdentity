@@ -1,0 +1,32 @@
+﻿{title} Remarks by the Presidentat Reception in His HonorHosted by The Mayor Of Shanghai {/title}
+{event} Reception in His HonorHosted by The Mayor Of Shanghai {/event}
+{speaker} Bill Clinton {/speaker}
+{date} June 30, 1998 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Mr. Mayor, Madame Xu, to Museum Director Ma, ladies and gentlemen. It is a great honor for my wife and members of our family, six members of the United States Congress, and many members of our Cabinet and other American citizens to be here in Shanghai tonight.
+
+This museum is a fitting symbol of what I have seen in China these last few days -- the magnificence of your ancient past and your brilliant future.
+
+I have seen a nation rising in its influence in the world, with China's leadership for stability in the Asian economic crisis; and China's leadership for peace on the Korean Peninsula and in working with us to help to deal with the difficulties caused by the nuclear tests by India and Pakistan.
+
+I have seen the Chinese people rising, millions of them, out of poverty; millions more finding interesting work of their own choice, pursuing more educational opportunities, having more say in their local affairs.
+
+I saw a great example of that when the Mayor and I did a talk radio show this morning here in Shanghai. And I was especially impressed when one of the callers called in and said, "don't want to talk to the President, I want to talk to the Mayor about traffic problems in Shanghai." {LAUGHTER}
+
+Shanghai is truly the place where East meets West. Over the last 150 to 200 years, the West has not always been the best of partners in Shanghai, but now we have a good partnership.
+
+I am especially pleased that a United States firm, RTKL, will design the new Scienceland Museum here. I hope that is a symbol of the kinds of positive, good things we will do together in the future.
+
+I also want to say a special word of appreciation to your mayor. Mr. Mayor, I heard -- this may not be a true story, but don't tell me if it's not -- {LAUGHTER} -- I heard that years ago when your predecessor, Zhu Rongji, invited you to head Shanghai's Central Planning Commission you told him you hated the whole idea of central planning. And Zhu replied, then you're exactly the man I want for the job. {LAUGHTER}
+
+Now we see you unleashing this city's great potential, cutting red tape, fighting corruption, protecting the environment, spurring an artistic revival. You are making Shanghai a place the world looks to for commerce, culture and people of different walks of life thriving together.
+
+Mr. Mayor, in 1996, when I asked the American people to give me another term as President of the United States, the theme of my campaign was, building a bridge to the 21st century. In Shanghai, you are building that bridge to the 21st century, and we want to build it with you.
+
+Thank you very much. Thank you. {APPLAUSE} 
+
+{/speech}

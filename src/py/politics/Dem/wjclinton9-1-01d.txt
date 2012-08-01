@@ -1,0 +1,123 @@
+﻿{title} Speech in Education Event {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 9, 2001 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very, very much. I want to say, first of all, I realize now that I'm in an elementary school, that I should get a tardy slip today. {LAUGHTER} But even in these closing days of my presidency, I can't stop doing my job. And I was unavoidably detained. I'm sorry. 
+
+One thing I have learned in over 20 years of visiting schools is that you almost never have a good school without a great principal. {APPLAUSE} And I want to thank Sharon Wilcher for her introduction and for her leadership. 
+
+I want to thank Secretary Riley, who has been my friend since the 1970s, and we go back a long way; our families have been friends. We've shared the joys of our children and the stories of our respected governorships. And I knew he would be a good Secretary of Education, but I think after eight years, the record will reflect that he is clearly the finest Secretary of Education this country ever had. And I'm very grateful to him. {APPLAUSE} 
+
+I want to thank Secretary Alexis Herman, our Secretary of Labor, for joining us today. {APPLAUSE} I brought the Deputy Attorney General, Eric Holder, all the way from Washington. He had never been on one of these trips for me, and he's been working like a dog for years, so I asked him to come. {APPLAUSE} To continue our school analogy, this is recess for him today. {APPLAUSE} 
+
+I want to thank Senator Dick Durbin for his friendship and his leadership over all these years. Congressman Bobby Rush, who worked in my campaign for president in 1992, I'm proud of what you have done, sir. Thank you. {APPLAUSE} 
+
+Treasurer Dan Hynes; the President of the Chicago Teachers' Union Tom Reese, Gery Chico; Paul Vallas. And let me say a special word of thanks to your Mayor for the partnership that we have enjoyed for education, for economic development, and housing and so many other areas. 
+
+I have constantly looked to Chicago for leadership. I tell people all the time, it's probably one of the best organized big cities in the entire world. And the work that has been done by all of you in education, in reviving the system here over the last six years, is exhibit A. Thank you, Mayor Daley. {APPLAUSE} 
+
+I came to Chicago today in the closing days of my presidency for two reasons. First of all, as I'll say more about in a few moments in another setting, it's doubtful that I could have become president without the support I received from the people of Chicago and the state of Illinois. {APPLAUSE} It began over nine years ago, way back in 1991, when only my mother thought I could be elected President. {LAUGHTER} And through the elections of 1992 and 1996, starting with the Democratic primary and then the election of 2000, you've been very good to Hillary and Bill Clinton and to Al and Tipper Gore. And I thank you very much for that. {APPLAUSE} 
+
+I also wanted to come because one of the primary reasons I ran for President is to do what I could in the White House to make a positive difference in the schools of America. I wanted to come to James Ward Elementary because I want people all across this country to know that there are schools like this, where teachers and parents and administrators and community leaders are succeeding, sometimes against great odds, in bringing educational excellence to our children. It is important that people know it can be done. 
+
+I came because I have so often told anyone who would listen about Chicago and the accomplishments of your school reform effort. Indeed, you have been very, very good to me today. I asked Paul Vallas when I came in, I said, how many times since you've been in office have I been in your school system, in your school? He said, six. Six. So the way I figure it, I'm either entitled to a diploma or to a property tax bill. I can't figure out which. {LAUGHTER} 
+
+You have raised standards and accountability and ended social promotion in the right way, by giving students in schools the tools they need to meet high standards and succeed -- higher pay and better training for teachers and principals, after-school and summer school programs, better quality facilities. 
+
+The results are clear. In this entire, huge, increasingly diverse school district, the test scores of third through eighth graders have risen in every single year since 1994. And you heard the results about James Ward. What I want the members of the traveling press corps to know, who are here with me, is every year this school gets students coming from China, Croatia, Central America. This school has a large Asian American population and a very substantial African American population, a very substantial Hispanic population and a very substantial white ethnic population. It is a picture of America's future. We have to make education work here, if we want America's future to work. 
+
+Using almost every proven educational strategy, this school is demonstrating dramatically what we could accomplish in every school in America if every school would work together the way your people work together, based on a common conviction that all children can learn and a common devotion to the proven best practices in education. 
+
+Now, for the past eight years, our administration has worked hard to make education our number one domestic priority. We started out early, doing more to help early childhood education, doing a lot to expand and improve the quality of Head Start. And I'm very proud that in our very last education budget, achieved after the election this year, we had the largest increase in Head Start in the entire history of the program. I think that's a very good sign. {APPLAUSE} 
+
+But we have then focused on a proven strategy in schools -- higher standards, more accountability, greater investment, equal opportunity. Simple ideas -- higher standards, more accountability, greater investment, equal opportunity. 
+
+In 1992, believe it or not, only 14 states in this entire country had academic standards for core subjects. And not surprisingly, test scores were dropping as a result. As more and more kids came into the school, the student bodies were more and more diverse. More and more schools had children whose first language was not English; more and more kids whose parents could not speak English. 
+
+And as more and more kids came into the schools, ironically, a smaller percentage of the kids had parents who, themselves, were property taxpayers, who were property owners, so that the tax base of many of our districts were severely stressed. 
+
+And so, we came in with a commitment to higher standards, and we passed legislation to encourage and support states in setting those standards. In 1992, there were 14 states with core academic standards; today there are 49 states with statewide core academic standards. {APPLAUSE} 
+
+We also wanted to increase accountability. We asked the states -- indeed, we required the states -- to identify schools that were failing, and then develop strategies to turn them around. We then gave them funds to help turn around or shut down failing schools -- this year, $225 million in this year's budget alone to help schools identify, try to turn around, or shut down and put under new management schools that are not giving our children the education they deserve. 
+
+We also said, like Chicago, that we should end social promotion. But like Chicago, we said it's not fair to hold the kids accountable if the system is failing them. So for the very first time, we put the federal government on the side of the after-school programs and the summer school programs. I was so glad you mentioned that. 
+
+Four years ago, we had a $1-million demonstration project. This year, in this education budget, we have $850 million for after-school programs. They will serve $1.3 million kids like the children in this school, and I am very proud of that. {APPLAUSE} More than half the students here participate in federal and state-funded after-school programs. And I understand there would be even more of them if you had the transportation to get them home, which is something that I would like to see addressed in the next administration. {APPLAUSE} 
+
+I might also say something that won't surprise you. In every community where there are comprehensive after-school programs with real, meaningful substance, like the ones described by your principal, every community in the country where this is the case, the juvenile crime rate goes down, the juvenile delinquency rate goes down, the school attendance rate goes up, the on-time graduation rate goes up. This is a big deal. 
+
+I'm glad we've got 1.3 million kids in these programs. But there are basically 6 million kids in America who don't have anyplace to go under supervision when they get out of school. So we're barely meeting -- we're right at a quarter of the national need being funded by the federal government. And of course, some places like Chicago are using their own funds. But we need -- if I were going to be around four more years, one of the things I'd do is figure out how many people -- {APPLAUSE} -- wait a minute, you are going to be around, so you can participate in this -- one of the things we need to do is to figure out how many kids are being served -- with all the federal and the state and local funds, how many still need to be served. And we need to fill the gap. We've got the money, we need to fill the gap. This is a huge, huge opportunity and responsibility. 
+
+To further support young students, another thing we did was to start the America Reads program, which now has involved 1,000 universities and colleges in sending out student mentors to help make sure kids can read by the time they get out of the 3rd grade. And there are also countless other religious and other community organizations presenting -- doing it and supporting schools. 
+
+Eight years ago, only 35 percent of our schools -- and listen to this -- 3 percent of our classrooms were connected to the Internet. I said 8; the truth is, it was 1994, six years ago. Today, with the help of new federal dollars to support Internet hook-ups, and the e-rate program, which was pioneered and supported by the Vice President -- the e-rate basically guarantees that every school can afford to log on to the Internet and hook up to access it, no matter how limited their resources are -- we have gone from 3 percent of our classrooms to 65 percent of our classrooms connected; from 35 percent of our schools to 95 percent of our schools connected to the Internet, including this one. 
+
+And you just heard your principal say, before you had this last remodeling, even if you had the money, you couldn't do it, because the wiring wouldn't support it. You'd be amazed how many schools I've been in that can't be connected to the Internet because the wiring in the school won't support it. I was at an old school in Virginia about a year ago, and they kept laughing about how the whole place shorted out every time the classrooms tried to log on. I was in Philadelphia, where the average school building is 65 years old -- the average school building -- and I couldn't -- I can't tell you how many school buildings I've been in just in that one city that couldn't be wired. 
+
+On the other hand, as you see in this facility, there's another thing we have in common. This building was built when Grant was President. Every night, in my private office, I work on Grant's cabinet table. It was built in 1869, and it served me quite well, but I don't have to wire it. {LAUGHTER} I don't have to air-condition it, I don't have to put heating in it. All it has to do is stand up. 
+
+But as you see from this building, a lot of these old school buildings are fantastic in their construction. And things were done then that you couldn't afford to do now. But they have to be modernized. Now, in 1995, the city of Chicago found the resources to make this school safe, warm, beautiful and useable. That makes a big difference. But across this country, there are 3.5 million students who attend schools that need extensive repairs or should be replaced. There are millions of other students going to schools in house trailers. 
+
+I've been to one elementary school in Florida, in a little community in Florida, an elementary school like this one, that had 12 trailers outside it used for classes. 
+
+Now, again I will say, we've got the biggest and most diverse student body in history, more important to educate them then ever before, but a smaller percentage of the property taxpayers in most of our school districts are parents in the school then ever before. More people are renters. You know all the reasons why this is so. 
+
+I have believed for four years that the national government should give both tax incentives and direct cash investment to the repair, the modernization and the building of school facilities. I've also been in one of the Mayor's new school buildings here to highlight this. We've done this -- did you ever see that movie Groundhog Day, where every day is the same thing over and over again? Every time I -- Mayor Daley thought I was casting him in Groundhog Day, I think, for a long time, because every time I'd come back here, we'd have to talk about the same thing, because we could never get anything done. 
+
+But I'm happy to report that this year, for the first time, we have finally secured $1.2 billion to help repair schools like this one, across America where the need is greatest. {APPLAUSE} Now, let me say to you, one of your former United States senators, Everett Dirksen, once said in his droll way, that when you mentioned a billion here and a billion there, pretty soon you're talking about real money. And that sounds like an enormous amount of money, but the truth is that the aggregate net need for school construction and school repair in the United States of America is over $100 billion. 
+
+That's why I think it is so important for the Congress to continue to try to get the tax relief that I have suggested, which would, in effect, cut the cost of school financing, so that if school districts went out and floated their own bonds, or cities floated their bonds for school construction or school repair, the cost would be dramatically reduced to the taxpayers, making it easier to sell such issues to taxpayers whose kids are not in the schools. And I think we should continue to invest direct resources from the federal government. 
+
+But this is a big beginning. And I predict that that this program will be wildly popular throughout America, because I can see how you feel about this school building today, and I can only imagine how different it was before it was fixed five years ago. 
+
+Eight years ago we knew that children learn best in smaller classes, but classes were getting larger for the same reason school buildings were deteriorating: more kids, limited tax base. Today we are in the third year of hiring 100,000 teachers for smaller classes in the early grades. If we can get them all hired, we'll be able to bring down average class size to 18 in grades K through 3 all across America. {APPLAUSE} 
+
+Again, I'm really grateful to the Congress. In the last education budget, concluded after the election, we went from a budget which hired about 29,000 teachers last year, to one that will hire 37,000 this coming year. So we'll be more than a third of the way home in a six-year program. And I hope and pray that the Congress will continue to do this. 
+
+We've also funded initiatives to help recruit new teachers, retain the best teachers, train and certify more board-certified national teachers, and let every teacher keep learning on the job. And one of the things that I think Sharon Wilcher should be commended for, I understand, is giving her staff every chance to continue to learn and grow. Staff development is a big, important part of keeping the school going in the right direction. 
+
+Eight years ago, there was one charter school in America, a public school which has the freedom to chart its own mission. If every school were like James Ward, we might not need them. But the truth is, it both gives more choices to parents, and provides more competition when the school system is not working, without draining resources away from the public schools. There was one eight years ago, there are 2,000 today in this budget. We're going to be well on our way to 3,000 by the end of the year. 
+
+Eight years ago, we said we wanted our kids to be safe in school and we wanted them to have an orderly, disciplined environment. Secretary Riley has used federal funds to help build partnerships between school districts and local police departments, to support things like character education and voluntary uniform policies and zero tolerance for guns in schools. And violent crime in the schools, notwithstanding the tragic and heartbreaking incidents which have been widely reported, violent crime in our schools has fallen steadily since 1993. It is much lower today than it was eight years ago. 
+
+Eight years ago, college was priced out of reach for a lot of students. I'll never forget one night when I was governor in the early '90s, I was in Fayetteville, Arkansas, the home of the University of Arkansas, and I went to a cafe to have a cup of coffee with a friend of mine. And I was doing what I always do, I went out and shook hands with everybody there, and there were four students there, and two of them told me they were dropping out of schools. And I said, why? And they said, well, we'll never be able to pay our student loans off -- never. So we've got to drop out of school, make some money, hope we can save enough to come back and somehow get out someday. 
+
+I also met a lot of students who thought they were going to not be able to find very good jobs if they got out. One of the things that I committed myself to do when I ran for president is to open the doors of college to all Americans. So, what have we done? With the Hope Scholarship tax credit, $1,500 a year off the tax bill directly in the first two years of college, the Lifetime Learning Credit for junior and senior year and graduate school and for adults to go back and get training, which can be worth even more, we are now helping 13 million Americans to go on to higher education. 
+
+We also have more affordable student loans, we've saved students $9 billion by directly loaning them the money from the government -- $9 billion. The average student on a $10,000 loan today is saving $1,300 in repayment costs over what they were eight years ago. And it makes it a lot easier. 
+
+They also have the option to pay back the loans as a percentage of their income, which means if you want to be a schoolteacher and you know you'll never get rich, you can still borrow whatever you need to go to college, because you can pay your loan back as a percentage of your income. And if you strike oil in your backyard, you have the option to go out and pay it off the next year, anyway. It's a very good deal. 
+
+We also have had a big increase in work study slots, a big increase in Pell grants, another big one this year, up to $3,700 a year now, the maximum grant. And 150,000 of our young people have earned money for college while serving in AmeriCorps. I just met one of them outside on the way in -- 150,000 in six years. It took, the Peace Corps 30 years to amass 150,000 volunteers. And I might just say, to the side, so much for those who say this generation of young people is self-seeking. It is the most stunning example of community service in modern American history, and it's also helping a lot of people that are going to college. 
+
+We started a program called Gear-Up, which is now serving 1.2 million disadvantaged middle school students. We send college students out to help mentor them and convince them they can go on to college, come up with a plan for the rest of their academic career until they get out of high school and tell them right then in middle school what kinds of financial aid they can get where, so they will know from the time they're in the 6th or 7th or 8th grade that they can actually go to college and the promise will be kept. 
+
+All told, we have doubled education funding in eight years, more investment, provided the largest expansion of college opportunity in 50 years, since the G.I. Bill, and gotten the results for more accountability. Test scores are up, the dropout rate is down, advanced placement courses in high school are being taken by 50 percent more kids. In the last five years, 50 percent more. Three hundred percent more Hispanic kids, 500 percent more African American kids are taking advanced placement courses. 
+
+Not surprisingly, the SAT scores are at a 30-year high in America, and the college-going rate has gone up 10 percent. This strategy works. Higher standards; great accountability; more investment; equal opportunity -- it works. And we have come a long way toward an America in which every child enters school ready to learn, graduates ready to succeed, and has the opportunity to go on to college. 
+
+Of course, the lion's share of the credit belongs to people like you -- to the teachers, the principals, the parents, the community leaders. But it is up to the rest of us to create a framework in which those four objectives can be pursued. 
+
+We will hear a lot of talk in the future, I'm sure, about education reform, and I applaud it. I hope that education reform all across America will become more and more a bipartisan issue. In the last four budgets that we had, we had a bipartisan budget. We fought about it, we argued about it, I had to threaten a bunch of vetoes, but in the end we had a bipartisan majority for every single thing that I talked about here today. And we ought to give credit where credit is due. This should not be a partisan issue. 
+
+When my wife was growing up in a suburb of Chicago, I'll never forget my father-in-law and my mother-in-law talking about how it was an overwhelmingly Republican place. Goldwater carried it four to one in '64, and the other 20 percent thought he was too liberal. It was a big Republican place. They never voted down a school bond issue, ever. The difference in the Republicans and the Democrats on education was where the money ought to come from. 
+
+And we ought to go back -- we need to look at the reality here of who are the children in our schools, who are the leaders of our future, what strategies have been proven. It's not like there's no evidence here. All we tried to do was to take what you proved worked. It is not true that we tried to rewrite every local school's education policy. Dick Riley cut government regulation in the Department of Education by two-thirds. We just took what works. 
+
+And I hope that in the future there will continue to be a passion coming out of people in Washington and in every state capital and every community in this country of both parties. But every proposal should be measured against what we now know works, what you have proven works here. And if it works, whoever has got the idea, we ought to put it in. 
+
+But it's not like -- I remember when I started this, when Hillary and I started going into classes in the late '70s and we started trying to write new standards for our state in the late '80s, we had hunches, educators thought they knew, there was a little evidence here and a little evidence there, but we were kind of making it up as we went along. And it was happening all over America. We've now had 15 years of solid evidence. You have given us that, in schools like this one. 
+
+And so I would just say, I wanted to come here because Chicago has been good to me, and Chicago has been very good to its children these last six years. I wanted to come here because, as I leave office, I don't want America to let its concern for education reform and improvement abate; I want it to increase. I want more people to believe that every child can learn, and that in this global economy, every child must learn, not only for himself or herself, but for the rest of us as well. 
+
+Of course, there are big challenges that remain. But your school, like so many I visited over the past eight years, teaches us all the most important lesson -- we can do it. 
+
+Thank you very much, and God bless you. {APPLAUSE} 
+
+{/speech} 

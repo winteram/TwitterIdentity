@@ -1,0 +1,56 @@
+﻿{title} Remarks by the President to the Students, Organization Leaders And Community Leaders Of The Ferizaj (Urosevac) Area {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 23, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Thank you. I want to begin by thanking you for your wonderful welcome. I thank Ramadan for his introduction -- I think maybe some day he will be an elected official if he speaks so well from now on. {APPLAUSE} I thank Luljeta for her equally fine introduction of Secretary Albright. And I thank your principal, Shafije Hajdari, for welcoming us here. We are honored to be here with all of you today, especially with the school children. {APPLAUSE} 
+
+When I was introduced, Ramadan said -- he thanked me for making it possible for you to come home. There are some other people who were largely responsible, and I would like to introduce them, as well. We have four members of the United States Congress: Representative Peter Deutsch of Florida; Representative Eliot Engel of New York; Representative Jack Kingston of Georgia; Representative Carolyn Maloney of New York. They voted for the funds that enabled our military to come here and end this terrible ethnic cleansing. I'd like to ask them to stand up. Please stand. Thank you. {APPLAUSE} 
+
+In addition to Secretary Albright -- whom I know you know, because you gave her such a wonderful reception -- was the strongest advocate of the stand we took in Kosovo -- I'd like to thank Sandy Berger, my National Security Advisor, and Larry Rossin, who is the Chief of Mission for the United States government in Pristina, and ask them to stand. Thank you. {APPLAUSE} 
+
+And, finally, I want to thank all the members of our Armed Forces and our allies who are serving here with the U.N., and those who were here previously in the NATO campaign. And I would like to introduce the Commander of all of our NATO forces, General Wes Clark, and thank him for what he has done. Thank you. {APPLAUSE} 
+
+I know with all these people here and all the children here it is difficult to listen to a long speech, but I hope you can listen to a short speech. {APPLAUSE} 
+
+Mr. Milosevic wanted to keep control of Kosovo by getting rid of all of you, and we said, no. {APPLAUSE} 
+
+{AUDIENCE} Clin-ton! Clin-ton! {/AUDIENCE} 
+
+
+Now he has lost his grip on Kosovo and you have returned. No more days hiding in cellars, no more nights freezing in mountains and forests. {APPLAUSE} 
+
+I know that for those who have lost their homes, perhaps homes where your parents and grandparents were born, this is still a difficult time. I know it is hard for children to feel a sense of security and happiness when they have seen too much killing and hatred. {APPLAUSE} 
+
+But I know this, too: the United Nations troops and international organizations that have come here to help will stand with you every step of the way, and the coming winter in Kosovo is going to be a lot better than the last winter was. {APPLAUSE} 
+
+There is still a lot of work to do, but it is important that the world know what has already been done since you came home a few short months ago. {APPLAUSE} 
+
+{AUDIENCE} Clin-ton! Clin-ton! {/AUDIENCE} 
+
+Thank you. We are preparing houses for the winter, fixing schools, bringing in police officers, KLA fighters are returning to civilian life, radio stations and newspapers are operating, the U.N. is doing a good job under tough conditions. And last week, the international community pledged another $1 billion American dollars to help Kosovo, to fully fund the U.N. operation next year. {APPLAUSE} 
+
+With all the problems that remain, we should remember: Kosovar children are going back to school, learning in their language, in communities that answer to their parents. That is in some ways better than it was before. And we can do better still. {APPLAUSE} 
+
+I want to make one last point, more important than anything else I have to say, to the children and to the parents. {APPLAUSE} You can never forget the injustice that was done to you. {APPLAUSE} No one can force you to forgive what was done to you. {APPLAUSE} But you must try. And let me tell you why. 
+
+First of all, all the schoolchildren will soon be learning in their biology classes that all the people in the world -- all the people in the world, in terms of their genetic makeup, scientifically, are 99.9 percent the same -- the Serbs, the Albanians, the Irish, the Africans, the Latins, the Asians. {APPLAUSE} 
+
+Children are not born hating those who are different from them, and no religion teaches them to do so. They have to be taught to hate by people who are already grown. {APPLAUSE} But all over the world -- not just here in Kosovo, all over the world -- it is children who bear the burden of their parents' blind hatred. {APPLAUSE} 
+
+I have been in Africa, with a young man who lost his arm to someone of a different ethnic group, who cut it off with a machete simply because of his family heritage. I have been in Israel with schoolchildren staring at the pictures of their classmates who were blown up in buses simply because they were Jewish. I have been in Ireland, with a beautiful, beautiful 16-year-old girl playing and singing to me, but her eyesight was gone, because she was blown up in a bomb just because of the religious differences in Ireland. We owe the children in Kosovo a better future than that. {APPLAUSE} 
+
+Now, you cheered for us when we came in because when you were being oppressed, we stood by you. And we exercised military power to defeat the aggression of Mr. Milosevic. We won the war. But, listen: only you can win the peace. {APPLAUSE} 
+
+The time for fighting has passed. Kosovo is for you to shape now. The international community will stand by you. But you must take the lead. What will you think about? Will you be focused on hatred and past wrongs and getting even? Or will you be thinking about good schools for your children, new homes for them, new businesses, the effort to create genuine self-government to eradicate corruption and violence and give your children the joys of a normal life? 
+
+I beg you who are parents to teach your children that life is more than the terrible things that are done. It is how you react to them. Do not let the children's spirits be broken. Do not let their hearts harden. The future we fought to save for you is the future we see here today -- smiling, cheering, happy children. Give them the tomorrow they deserve. {APPLAUSE} 
+
+The American people have been honored to stand with you, and we will stand with you every step of the way. Thank you, and God bless you all. {APPLAUSE} 
+
+{/speech} 

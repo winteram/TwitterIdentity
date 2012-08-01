@@ -1,0 +1,32 @@
+﻿{title} Remarks by the President at Welcome Home Ceremony for the Haiti Delegation {/title}
+{event} West Wing Lobby Entrance {/event}
+{speaker} Bill Clinton {/speaker}
+{date} October 16, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good afternoon. Secretary Christopher, Mr. Gray, distinguished members of Congress and members of the delegation who went to Haiti. Let me welcome you back to the United States from your historic trip. We are here today to continue this remarkable celebration of freedom over fear that all of you witnessed yesterday in Port-au-Prince, and here to look ahead to the hard work the people of Haiti now have to do in order to rebuild their nation.
+
+But, first, let me say a few words about the situation this morning in Persian Gulf. I was pleased that the United Nations Security Council yesterday passed a very strong resolution and unanimously condemned the recent provocative actions by Iraq near its border with Kuwait. The Security Council resolution makes clear that the international community will not allow Iraq to threaten its neighbors, or to intimidate the United Nations as it ensures that Iraq does not again possess weapons of mass destruction.
+
+The message is clear: Iraq must complete its withdrawal. It must not threaten its neighbors in the future. It must comply with all relevant Security Council resolutions. The troops, ships and attack aircraft I have ordered to the Gulf area will continue to remain there until the crisis passes. As our troops in the Gulf are helping to enforce the will of the international community, our young men and women in uniform in Haiti are doing so as well; and as all of you saw yesterday, they're doing so in a brilliant fashion.
+
+When we sent our Armed Forces to Haiti just four weeks ago, their mission was to pave the way for President Aristide's return. Yesterday, that mission was completed, as the President returned home in joyous atmosphere that we all watched so happily from here. Now, Haiti is a nation where violence is down and the parliament is back, a nation where men and women freely chosen by the Haitian people are once again leading their country, where a long night of fear is giving way to a new day of promise.
+
+A few moments ago I was briefed by Secretary Christopher and Bill Gray on yesterday's events. I asked a lot of questions about what happened and what would happen in the future. But let me just say yesterday I was moved, as I know all of you were -- even more moved being there on the ground -- by the incredible sight of President Aristide addressing the people from the Presidential Palace, in saying again and again: "No to violence. No to retribution. Yes to peace. Yes to reconciliation."
+
+We know there is a long road ahead, that dangers still remain. Now that the democratic government has been restored it must be nourished, and the country must be rebuilt. Many nations around the world are already pledging to do their part, starting with a $550-million reconstruction and recovery fund to provide humanitarian relief, development assistance, and support for democratic institutions. The United States will work with these countries, with the international financial institutions, with private organizations, all together, over the next several months to make sure this work succeeds.
+
+In the end, of course, only the people of Haiti can rebuild their country. They have waited a long time for the chance to do so. Now, thanks to the efforts of the men and women of our Armed Forces, those of our coalition partners and the supporters of freedom, they are being given the chance to do it.
+
+Several of you have commented on the freshly-painted signs you noticed in Port-au-Prince. I understand that the most popular one had three words: "Thank you, America."
+
+So let me conclude by saying a few thank-yous. Thank you to all of you who worked so long and hard to help to put Haiti back on the track to democracy. As he ends his mission, let me say a special word of thanks to Bill Gray who, at a critical time, brought energy, focus, credibility and great skill to this task. Thank you, sir. {APPLAUSE}
+
+Thank you to the men and women of our Armed Forces, and their families -- from General Shelton to every last enlisted man and woman who are there -- all of them are the power behind our diplomacy. {APPLAUSE} Thank you to the nations from our hemisphere who have worked with us and those beyond our hemisphere who have worked with us on this project. Thank you to the people of our country who, time and again, have been willing to stand up for others because it is the right thing to do.
+
+And, finally, thank you to President Aristide and the freedom-loving people of Haiti who never gave into despair and who, today, stand in the warm, bright sunshine of freedom. Thank you all. Thank you. {APPLAUSE} 
+
+{/speech}

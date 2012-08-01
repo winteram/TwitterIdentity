@@ -1,0 +1,38 @@
+﻿{title} Remarks by the President and Prime Minister Atal Behari Vajpayee of India in Exchange of Toasts at State Dinner {/title}
+{event} Pavilion {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 17, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+And Mr. Prime Minister, on behalf of the American people, let me welcome you again to the White House, along with all your party from India.
+
+I hope that in your time with us we have at least come close to repaying the warm hospitality with which you and the Indian people greeted me, my family and our fellow Americans on my visit in March.
+
+One of the most remarkable things to me about our relationship is its scope and its increasing interdependence. There are hundreds of American businesses, foundations and universities with long commitments to India. When Americans call Microsoft for customer support today, they're as likely to be talking to someone in Bangalore or Hyderabad as to someone in Seattle.
+
+There are more than 1 million Indians here in America now. And I think more than half of them are here tonight. {LAUGHTER ; APPLAUSE} And I might say, Prime Minister, the other half are disappointed that they're not here. {LAUGHTER}
+
+Indian Americans now run more than 750 companies in Silicon Valley alone. In India, the best information available on maternal health and agriculture can now be downloaded by a growing number of villages with Internet hook-ups. And Indian Americans can now get on line with people across the world who speak Telugu or Gujarati or Bengali.
+
+Americans have fallen in love with Indian novels. I'm told that Prime Minister Vajpayee, when he's not writing Hindi poetry actually likes to read John Grisham. {LAUGHTER} You might be interested to note, Mr. Prime Minister, that he's a distant relative of mine. All the Grishams of money are distant relatives of mine. {LAUGHTER}
+
+And, don't forget, whether we're in California or Calcutta, we all want to be a crore pati. Now, for the culturally challenged Americans among us, that's from India's version of "Who Wants To Be a Millionaire." {LAUGHTER ; APPLAUSE} 
+
+Of course, our interdependence is about more than commerce and culture. We are also vulnerable to one another's problems, to the shock of economic turmoil, to the plague of infectious diseases, to the spread of deadly military technology, and as we have all too painfully seen, to the terrorists, drug traffickers and criminals who take advantage of the openness of societies and boarders.
+
+The simple lesson of all this to me, Mr. Prime Minister, is that if we're already all in the same boat together, we had better find a way to steer together. We must overcome the fear some people in both our countries sometimes have, for different historical reasons, that if we meet our friends halfway, somehow it will threaten our own independence or uniqueness.
+
+That is why I am so gratified that with your leadership, and the efforts of so many people in this room, we have together built the strongest, most mature partnership India and America have ever known. {APPLAUSE}
+
+We have so very much more to learn from each other. In both our societies you can find virtually every challenge humanity knows. And in both our societies you can find virtually every solution to those challenges: confidence in democracy, tolerance for diversity, a willingness to embrace economic and social change.
+
+So it is more than a slogan for Americans to say that India's success will be our success, and that together India and America can change the world. {APPLAUSE}
+
+Ladies and gentlemen, I ask you now to join me in a toast to Prime Minister Vajpayee, to the government and people of India and the enduring partnership between our two great democracies.
+
+{COMMENT="A toast was offered"} {APPLAUSE} 
+
+{/speech}

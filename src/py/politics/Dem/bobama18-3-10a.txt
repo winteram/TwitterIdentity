@@ -1,0 +1,56 @@
+﻿{title} Remarks by the President before Signing the HIRE Act {/title}
+{event} Signing the HIRE Act {/event}
+{speaker} Barack Obama {/speaker}
+{date} March 18, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning, everybody. Please have a seat.
+
+Well, on this beautiful morning, we are here to mark the passage of a welcome piece of legislation for our fellow Americans who are seeking work in this difficult economy. But first, let me say a few words about the latest development in the debate over health insurance reform. I don't know if you guys have been hearing, but there's been a big debate going on here.
+
+This morning, a new analysis from the Congressional Budget Office concludes that the reform we seek would bring $1.3 trillion in deficit reduction over the next two decades. {APPLAUSE} That makes this legislation the most significant effort to reduce deficits since the Balanced Budget Act in the 1990s. {APPLAUSE} And this is -- this is but one virtue of a reform that will bring new accountability to the insurance industry and greater economic security to all Americans. So I urge every member of Congress to consider this as they prepare for their important vote this weekend.
+
+And I want to welcome all the members of Congress who are here, those who are on stage -- Madam Speaker, Majority Leader Reid -- as well as some of my Cabinet members who are here.
+
+In a few moments, I'll sign what's called the HIRE Act -- a jobs bill that will encourage businesses to hire and help put Americans back to work. And I'd like to say a few words about what this jobs bill will mean for workers, for businesses, and for America's economic recovery.
+
+There are a number of ways to look at an economic recovery. Through the eyes of an economist, you look at the different stages of recovery. You look at whether an economy has begun to grow; at whether businesses have begun to hire temporary workers or increase the hours of existing workers. You look at whether businesses, small and large, have begun to hire full-time employees again.
+
+That's how economists measure a recovery -- and by those measures, we are beginning to move in the right direction. But through the eyes of most Americans, recovery is about something more fundamental: Do I have a decent job? Can I provide for my family? Do I feel a sense of financial security?
+
+The great recession that we've just gone through took a terrible toll on the middle class and on our economy as a whole. For every one of the over 8 million people who lost their jobs in recent years, there's a story of struggle -- of a family that's forced to choose between paying their electricity bill or the car insurance or the daughter's college tuition; of weddings and vacations and retirements that have been postponed.
+
+So here's the good news: A consensus is forming that, partly because of the necessary -- and often unpopular -- measures we took over the past year, our economy is now growing again and we may soon be adding jobs instead of losing them. The jobs bill I'm signing today is intended to help accelerate that process.
+
+I'm signing it mindful that, as I've said before, the solution to our economic problems will not come from government alone. Government can't create all the jobs we need or can it repair all the damage that's been done by this recession.
+
+But what we can do is promote a strong, dynamic private sector -- the true engine of job creation in our economy. We can help to provide an impetus for America's businesses to start hiring again. We can nurture the conditions that allow companies to succeed and to grow.
+
+And that's exactly what this jobs bill will help us do. Now, make no mistake: While this jobs bill is absolutely necessary, it's by no means enough. There's a lot more that we're going to need to do to spur hiring in the private sector and bring about full economic recovery -- from helping creditworthy small businesses to get loans that they need to expand, to offering incentives to make homes and businesses more energy efficient, to investing in infrastructure so we can put Americans to work doing the work that America needs done.
+
+Nevertheless, this jobs bill will make a difference in several important ways. First, we will forgive payroll taxes for businesses that hire someone who's been out of work at least two months. That's a tax benefit that will apply to unemployed workers hired between last month and the end of this year. So this tax cut says to employers: If you hire a worker who's unemployed, you won't have to pay payroll taxes on that worker for the rest of the year. And businesses that move quickly to hire today will get a bigger tax credit than businesses that wait until later this year.
+
+This tax cut will be particularly helpful to small business owners. Many of them are on the fence right now about whether to bring in that extra worker or two, or whether they should hire anyone at all. And this jobs bill should help make their decision that much easier. And by the way, I'd like to note that part of what health insurance reform would do is to provide tax credits for over 4 million small businesses so they don't have to choose between hiring workers and offering coverage.
+
+The second thing this bill does is to encourage small businesses to grow and to hire by permitting them to write off investments they make in equipment this year. These kinds of expenses typically take years to depreciate, but under this law, businesses will be able to invest up to $250,000, let's say, in a piece of factory equipment, and write it off right away. Put simply, we'll give businesses an incentive to invest in their own future -- and to do it today.
+
+Third, we'll reform municipal bonds to encourage job creation by expanding investment in schools and clean energy projects. Say a town wants to put people to work rebuilding a crumbling elementary school or putting up wind turbines. With this law, we'll make it easier for them to raise the money they need to do what they want to do by using a model that we've called Build America Bonds -- one of the most successful programs in the Recovery Act. We'll give Americans a better chance to invest in the future of their communities and of the country.
+
+And finally, this jobs bill will maintain crucial investments in our roads and our bridges as we head into the spring and summer months, when construction jobs are picking up.
+
+I want to commend all the members of Congress, and their leadership is what made this bill possible. Many of them are here today. I'm also gratified that over a dozen Republicans agreed that the need for this jobs bill was urgent, and that they were willing to break out of the partisan morass to help us take this forward step for the American people. I hope this is a prelude to further cooperation in the days and months to come, as we continue to work on digging our way out of the recession and rebuilding our economy in a way that works for all Americans and not just some Americans.
+
+After all, the jobs bill I'm signing today -- and our broader efforts to achieve a recovery -- aren't about politics. They're not about Democrat versus Republican. This isn't a game that we're playing here. They're about the people in this country who are out of work and looking for a job; they're about all the Americans -- of every race and region and age -- who've shared their stories with me over the last year.
+
+The single mother who's told me she's filled out hundreds of job applications and been on dozens of interviews, but still hasn't found a job. The father whose son told me he started working when he was a teenager, and recently found himself out of a job for the very first time in his life. The children who write to me -- they're worried about their moms and their dads, worried about what the future holds for their families.
+
+That's who I'm thinking about every morning when I enter into the Oval Office. That's who I'm signing this bill for. And that's who I'm going to continue to fight for so long as I am President of the United States.
+
+So with that, let me sign this bill and let's get to work. {APPLAUSE}
+
+{COMMENT="The bill is signed"} 
+
+{/speech}

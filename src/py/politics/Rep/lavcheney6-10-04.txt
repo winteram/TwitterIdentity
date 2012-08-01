@@ -1,0 +1,20 @@
+﻿{title} Remarks by the Vice President and Mrs. Cheney Followed by Question and Answer at a Town Hall Meeting {/title}
+{event} Tallahassee-Leon County Civic Center, Tallahassee, Florida {/event}
+{speaker} Lynne Anne Vincent Cheney {/speaker}
+{date} October 6, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, I do think I ought to ask everybody how did you like that debate last night? {APPLAUSE} See, Dick, they liked it. {LAUGHTER} Well, it was pretty awesome. It was awesome. I've been playing through what I'm thinking of as Cheney's big hits. So many favorites from last night, but, okay, here's one I really loved. I loved the part -- I loved the part where the Vice President was explaining why flip-flop. You know, we all know about the flip-flops, but why flip-flop. So he started out by talking about how John Kerry and John Edwards voted to support the war, authorized sending troops, and then how they flopped and they voted against the $87 billion that our troops need for ammunition, for fuel, for body armor. Why?
+
+Well, as Dick pointed out, Howard Dean is the answer. Howard Dean was surging in the polls, looked like being anti-war was a good idea, and so they voted against our troops. Big flip-flop. But what I loved was when the Vice President said this: Look, if these guys can't stand up to Howard Dean, how can we expect them to stand up to al Qaeda. {APPLAUSE} It's a very good line.
+
+All right, well, one more. {LAUGHTER} Thank you, thank you. Now, this was when -- oh, I love this -- this was when the Vice President was talking about John Edwards -- how did you put it? -- undistinguished record in the Senate? The Senator attended 33 -- missed -- oh, thank you, thank you -- missed 33 out-of-date of 36 business meetings of the Judiciary Committee on which he served. Now, the Senator talks frequently about being on the Intelligence Committee. He cites this as an example of his foreign policy expertise. He's missed 70 percent of the public meetings of the Intelligence Committee. He has one of the worst attendance records in the Senate. What am I forgetting here? Oh, he has missed so many votes in the Senate, he has such a poor attendance record in the Senate, his hometown newspaper is calling him "Senator Gone." Yeah. {APPLAUSE}
+
+Now, the Vice President observed that as Vice President, he is the presiding officer of the Senate and he goes up there most Tuesdays. {APPLAUSE} And he noted that last night at the debate was the first time he had met Senator Edwards. {APPLAUSE} Now, the Edwards people have been scrambling around ever since trying to come up with places where the Cheneys and Edwards might have crossed paths. They have. They say we met at a prayer breakfast nearly four years ago. Now, I know all of us will agree it is a really good thing to go to prayer breakfasts, but don't you think the Senator ought to go to the Senate once in a while? {APPLAUSE}
+
+Well, Dick, I got to tell you, this has been energizing. You were really terrific last night and -- {APPLAUSE} -- ladies and gentlemen, I would like to introduce to all of you my husband, Dick Cheney, the Vice President of the United States. {APPLAUSE} 
+
+{/speech}

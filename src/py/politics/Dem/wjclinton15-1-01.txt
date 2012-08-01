@@ -1,0 +1,87 @@
+﻿{title} Speech by President in Martin Luther King Jr Day Celebration {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 15, 2001 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Normally, I don't think Presidents should get awards. But I believe I'll accept these, if it's all the same to you. {APPLAUSE} 
+
+I want to begin by saying that I'm delighted to be here at this university, in this great hall, with all the people who are here on the stage. I brought something to Mayor Williams and to Representative Eleanor Holmes Norton -- he mentioned that we signed the -- that we passed the Southeast Federal Center bill to spur community development with a public-private partnership on federal property. At the time it passed we weren't able to do a formal signing ceremony, so I brought Mayor Williams and Eleanor Holmes Norton a copy of the bill and the pens I used to sign it, and I'd like to give it to them now. {APPLAUSE} 
+
+I want to thank the D.C. City Council Chair Linda Cropp, Kathy Patterson and the other Council members who are here who helped to make my stay in Washington, along with my family's, so wonderful. I want to thank Robi Beatty and Shirley Rivens Smith from the King Holiday Commission. I'd like to thank the people who are here from my administration, present and former. I want to thank Frank Raines, former Director of OMB, and Jack Lew, or present Director, for all the work they did, along with the indomitable Alice Rivlin, to make sure that the federal government became a better partner for the District of Columbia in the allocation of our money. {APPLAUSE} 
+
+On this Martin Luther King holiday, I want to thank my friend of almost 20 years, the Secretary of Transportation Rodney Slater, who is always serving. {APPLAUSE} And I want to thank the present head of the Corporation of National Service and the person who started our national service program, first Senator Harris Wofford, then Eli Segal. Thank you for bring AmeriCorps to life. {APPLAUSE} 
+
+And I know we have AmeriCorps award winners and their families here, and members and alumni. Thank you for your service. And thank you, Nancy Rubin, for your support. 
+
+I also am proud to announce on Eli Segal's birthday that under the leadership of Nancy Rubin, a group of people are creating a new Eli Segal AmeriCorps Award for Entrepreneurial Leadership, and I thank you for that. {APPLAUSE} 
+
+And I want to thank the members of the new D.C. Commission on National and Community Service. I just came from the kick-off and I swore in the first community service volunteers -- swore in, not swore at -- {LAUGHTER} -- the first community service volunteers. And we did some painting -- and I can prove it because I've got paint on my pants and shoes to show it -- {LAUGHTER} -- not the ones I'm wearing now. 
+
+I want to thank Mayor Williams for this award and for what he said about our common efforts to make this great city even greater. It has been a real honor for me to live and work in Washington these last eight years. I went to college here, and I worked here when I was a young man. And I love this city. I loved all of its neighborhoods. {APPLAUSE} Even when I was in college, I spent a lot of time in all the neighborhoods. I was a community service volunteer in Northeast Washington, when I was a student at Georgetown. {APPLAUSE} And one of the first things I did after I got elected was to take a walk down Georgia Avenue. It looks better today than it did eight years ago, I might add. {APPLAUSE} 
+
+And I'm very proud of the work that we have done. I'm also -- you might be interested to know that when Hillary was elected to the Senate and we had to find a place for her to live, she absolutely insisted on living in the District of Columbia; she wanted to be here. {APPLAUSE} So I'll be back from time to time. {LAUGHTER} 
+
+{AUDIENCE} Don't go! {/AUDIENCE} 
+
+Don't say that. {LAUGHTER} I want you to know that while I think we have done a reasonably good job these last few years of relocating government functions and getting more funds to the District of Columbia and getting some of the burdens off your back that should be lifted, I believe that you should still have your votes in Congress and the Senate. {APPLAUSE} I think that, maybe even more important, you should have the rights and powers and responsibilities that statehood carries. {APPLAUSE} 
+
+{COMMENT="'Reveille' is played on a bugle"} {LAUGHTER} We practiced that for an hour yesterday. How did we do? {LAUGHTER} We did great. It's okay. It's all right. It was good. I mean, it -- {LAUGHTER} -- you know, look, I've only got five days left, it's hard to hold your interest. So we did the best we could. {LAUGHTER ; APPLAUSE} 
+
+And I want you to know that the Secret Service delivered to me this morning, so I get to ride around in it for five days, the newest presidential limousine, which I might add is an enormous improvement in terms of the workability of the inner space. But we still have the license plates on it that calls for D.C. statehood. {APPLAUSE} So I hope you'll keep working on that and keep making the case. 
+
+Meanwhile, we have worked together to use federal resources to help spark economic growth, housing development and job creation; over a billion dollars in new tax incentives for businesses and home owners; $25 million to build the New York Avenue Metro station; $110 million for new and better public housing in Anacostia; $17 million for the D.C. College Access Act; 3,000 young people now taking advantage of that in its very first year. Congratulations. {APPLAUSE} I want to thank all of you who worked in the vineyards to make all these things happen. 
+
+This is a day we celebrate not only the life, but the service of Martin Luther King -- and not only the service of the famous, but the service of those who are not known -- embodied in the famous statement of Dr. King that everybody can be great because everybody can serve. You forget the rest of it -- "you only need a heart full of grace and a soul generated by love." 
+
+In 1992, when I ran for President, and Eleanor and I actually jogged up Pennsylvania Avenue in the rain together, some people thought that America had become so divided and cynical that somehow the spirit of service was gone, especially among our young people. I never believed that. Then I read all these articles about young people, this so-called Generation X group and how self-absorbed and selfish they were. I never believed that. I saw people serving together everywhere, and yearning to be part of a higher calling. 
+
+In 1993, in my Inaugural address, I challenged the American people to a new season of service. And I proposed national service legislation to give young people in America the chance to serve in their own communities or other communities across the country, and earn some money for college while doing it. Well, I think that what these young people have done in the last seven years since we had the first AmeriCorps class of 1994 has proved that what I saw eight years ago was right. I'll say more about that in a moment. 
+
+In 1994, I signed the King Holiday and Service Act, sponsored by then Senator Harris Wofford, and Congressman John Lewis of Atlanta who worked with Dr. King. They wanted to make this holiday a day on, not a day off. Today, as a result of what they did, hundreds of thousands of our fellow citizens are serving in their communities today, including over a thousand here in Washington. 
+
+I've just come from the Greenleaf Senior Center, with some very dedicated young people from four AmeriCorps projects including City Year, a program that I found in Boston in 1991 that helped to inspire the creation of the national service program we have today. Today I swore in the first new members of City Year here in Washington. D.C. When I became President, there were 100 of them around the country, 100 members; today there are over 1,000 in 13 cities. {APPLAUSE} 
+
+But listen to this. When we created the AmeriCorps program in 1994, we wanted to give young people the chance to serve. Obviously, we didn't know how many people would do it. The pay is modest; the scholarship benefits are not inconsiderable, but they're not enormous. But listen to this. Since the first class of volunteers in 1994, almost 200,000 men and women have participated, more than have served in the Peace Corps in the 40 years since it was created. {APPLAUSE} 
+
+I say that not to diminish the Peace Corps; I'm a huge supporter of the Peace Corps. We've dramatically increased enrollment there and I'd like to see the Congress continue to do so. But I just want to make a point that people do want to serve in our communities, they do want to make a difference. {APPLAUSE} And today, the young people that I painted the columns with over at the Greenleaf Community Center, three of them were from the D.C. area, but one was a young woman from Seattle. And the other young AmeriCorps volunteers I swore in, they were from all over America. 
+
+And that's the great thing about it. You get all kinds of people, all different races and ethnic groups and backgrounds and income groups, coming together in all kinds of communities, dealing with all kinds of other people. And pretty soon, before you know it, you've got America at its best just happening there at the grass roots level. This is a big deal. And these 200,000 people have not only changed their own lives, but the lives of millions and millions of other Americans. We must continue to do this. 
+
+So far there have been 677 D.C. residents in AmeriCorps. They've earned a total -- listen to this -- of $2.5 million for college education. {APPLAUSE} And I want to thank, by the way, since we're here, the University of the District of Columbia, along with seven other of Washington's colleges and universities for their participation in the AmeriCorps Heads Up program. AmeriCorps volunteers who are students here work as reading and math tutors at Davis Elementary School in Benning Heights, gaining valuable teaching experience. And the young people they are tutoring are gaining a head start on learning that will last a lifetime. 
+
+Citizen service changes people for the better. I don't know how many times I've heard volunteers in the classroom say they have learned more than their students have. And that makes every one of our young volunteers a winner. But today I want to congratulate some very special ones, those who won this year's All-AmeriCorps Award -- 10 men and women, selected for outstanding service to AmeriCorps. 
+
+And I want to talk about it a little bit to try to illustrate that this is not just about numbers. Yes, we've got 200,000 people in AmeriCorps in seven years of classes, more than 40 years in the Peace Corps. Yes, they've gone all across this country and had a transforming effect. But that's the key. It's not the numbers, it's the impact. The adult literacy programs, the community learning centers, the volunteer programs -- that these award winners are getting today are still going strong, in some cases, years after their service has ended. 
+
+One young woman is a former migrant worker, who used the skills she learned in AmeriCorps to teach 2,400 farm workers about pesticide safety. One man has been elected mayor of the community in which he served. Shoot, I wish we would have had this around when I was a kid. {LAUGHTER} 
+
+Right here in Washington, Carey Hartin, started a diversity club to help the many cultures at Roosevelt High School understand one another better. The kids in that club were so inspired, they went out and got a grant to expand Carey's program to other D.C. schools. Carey is now studying for her masters in education and student teaching at Cardozo High School. {APPLAUSE} Where are you, Carey? Stand up there, give her a hand. Good for you. {APPLAUSE} 
+
+She also has with her today another success story, the young woman who was the first President of Roosevelt High's Diversity Club, and is now in college studying music education. Stand up -- where are you? Give her a hand. {APPLAUSE} 
+
+Now I want all the award winners to stand up. Let's give them all a big hand. Thank you all, and bless you. {APPLAUSE} 
+
+Let me say, when you see their numbers you should multiply in your head times 12, because studies show that every full-time AmeriCorps volunteer generates on average a dozen more volunteers. Now, all across America, you should also know that 1 million students are doing public service as a part of their school curriculum. And I might say, I would like to see every state in America follow the lead of the state of Maryland, under Lieutenant Governor Kathleen Kennedy Townsend, and require as a course community service as a condition of graduation from high school. I think it would be a very good thing. {APPLAUSE} 
+
+The United Nations has named 2001 the International Year of Volunteers. Americans have a lot to be proud of on that score. Our citizens are volunteering more and giving more to charitable causes than ever before. And the most generous donors by percentage are families with incomes of less than $10,000 a year. 
+
+I came here today, on Martin Luther King's holiday, to talk about citizen service and AmeriCorps because it is the embodiment of my dreams of one America. An America in which we not only tolerate, but respect and even celebrate our differences, but in which we work together and live together knowing that our common humanity is even more important. 
+
+Part of Martin Luther King's dream was that somehow we would learn to "work together, pray together, struggle together, go to jail together, stand up for freedom together." If I could leave America with one wish as I depart office, it would be that we become more the one America that we know we ought to be. 
+
+Today I'm sending a message to Congress -- you can read about it in the papers; I won't go through it all -- but it follows up on the work I have done on this one America initiative over the last several years. And I wanted to basically inform the Congress and the incoming administration about where we are in dealing with our racial issues, our opportunities and our continuing difficulties; about what progress we have made in the last eight years and what still needs to be done to build one America. 
+
+I advocated some things that will doubtless be somewhat controversial, but I have been working on them -- improvements in the criminal justice system; restoring voting rights to people when they complete their sentences, so they don't have to get a presidential pardon -- {APPLAUSE} -- a national election commission headed by President Ford and Carter to look into why some Americans have so much difficulty voting and how we can ever avoid -- always avoid having another election like the last one, with all the controversies that we had there -- {APPLAUSE} -- and new steps forward in closing the disparities in health and education and economic development. 
+
+But what I want to say to you is that building one America is like life -- it's a journey, not a destination. And the main thing will always be whether we're still making the trip. Did any of you see the jazz series on TV this week? {APPLAUSE} It was fabulous, wasn't it? My favorite line in the whole thing -- my favorite line was uttered by that great Washington, D.C. native, Duke Ellington. When he was asked, what's your favorite jazz tune, he said, "The one coming up." {LAUGHTER ; APPLAUSE} 
+
+Well, believe me, that's what I believe about our country. I see these young people, I see these volunteers, and it's been an honor for me to serve. It's been an honor for me to help make Washington stronger and better. But when somebody asks you what the best day is, think about these young folks and say, the one coming up. 
+
+Thank you very much, and God bless you. {APPLAUSE} 
+
+{/speech} 

@@ -1,0 +1,38 @@
+﻿{title} Remarks by the President at Fitness Challenge {/title}
+{event} Fitness Challenge, Ft. McNair, Washington, D.C. {/event}
+{speaker} George W. Bush {/speaker}
+{date} June 22, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, thank you all very much for coming. {APPLAUSE} I hope you feel as good as I feel. {APPLAUSE} Great to be outside, isn't it? Thanks for coming today.
+
+General Jackson, thank you so very much for opening up this beautiful running trail for me and a couple of my friends. {LAUGHTER} I want to thank you, sir, and all the troops that helped make this run successful. {APPLAUSE} And I want to thank you and all the troops and their families for their service to a great country. Thank you very much for letting us come back today. {APPLAUSE}
+
+I want to thank those on my Cabinet who are here. I see the Secretary of HUD here, Mel Martinez. {APPLAUSE} Ann Veneman is here -- where's Ann? Annie, good going, good to see you. Thank you all for coming. {APPLAUSE} Robert Zoellick, Trade Minister -- where is Zoellick? {APPLAUSE} He left. {LAUGHTER} He didn't know he was going to get introduced.
+
+I want to thank Debbie LeHardy for the Race for the Cure, and Tara Wolf Monaco, as well, for helping organize this. Thank you for your -- {APPLAUSE} The Race for the Cure is a fantastic event. It raises money for a great cause, and they know how to organize well. Thank you all for setting this up for us.
+
+I want to thank my friend, Paul Carrozza, who's a member of the President's Council on Physical Fitness, for being here, as well. Paul is a -- {APPLAUSE} -- he's a fellow Texan. Yeah! {APPLAUSE} If you're ever in Austin you might want to stop by his store and buy a couple pairs of shoes from him. {LAUGHTER}
+
+I want to thank the great athletes from the Special Olympics who are here today to help us register. {APPLAUSE} These athletes registered people to volunteer, as well. They're going to represent the country in the 2003 World Games in Ireland. Kevin Boyd is here with us today; Lindsey Wilkes. {APPLAUSE} Kevin Gafford and Daniel Bailey. {APPLAUSE} Thank you all for coming. {APPLAUSE} Good luck at the Olympic Games, too. {APPLAUSE}
+
+Sir, I'll be down there and get it in a minute.
+
+I want to thank Fresh Fields and Dasani Water -- make sure you drink a lot of that today. {LAUGHTER} At least that's what Dr. Tubb told me. {LAUGHTER} And Starbucks, for helping to sponsor this event.
+
+I want to thank you all for agreeing not only to set a good example, but agreeing to help a neighbor in need. As you might remember, part of the entry fee -- or the entry fee is the willingness for you to give of your time and money to help a local charity here. And if you haven't signed up yet, I was serious about that being part of the entry fee. I think it's important for all of us who are fortunate enough to be able to run and be healthy to help others who might not be as fortunate.
+
+So thanks for agreeing to do that. It's important for those of us in the White House to live how we talk. If we're going to say we're going to live a healthy life, let's do it. If we say we care about a neighbor in need, we want to love a neighbor like we'd like to be loved ourselves, let's show it through our actions.
+
+So I want to thank you for the example. It's really important for the White House team to exercise on a regular basis. I hope you understand at least that's how the boss thinks. {LAUGHTER ; APPLAUSE} I expect you to -- I think you're -- I know, I don't think, I know you're a better worker if you exercise on a daily basis. I know you'll help keep the health care costs down in America if you exercise on a daily basis. {LAUGHTER} I know your life will be more complete if you exercise and serve a neighbor in need.
+
+And, you know, we're not here for long. But when we're here, let's make sure we give it our all. And one way to do so is to stay healthy and fit, have a great outlook in life.
+
+And so thanks for joining us today. It's been a fantastic event. I hope you enjoyed it as much as I did. Make sure you stretch afterwards. Get in a good nap. {LAUGHTER} And show up to work on time on Monday. {LAUGHTER}
+
+God bless you all. {APPLAUSE} 
+
+{/speech}

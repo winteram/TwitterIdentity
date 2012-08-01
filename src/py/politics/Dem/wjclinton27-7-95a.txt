@@ -1,0 +1,26 @@
+﻿{title} Remarks by President Clinton And President Kim of South Korea in Exchange of Toasts {/title}
+{event} Exchange of Toasts {/event}
+{speaker} Bill Clinton {/speaker}
+{date} July 27, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} President and Kim Toast {/description}
+
+{speech} 
+
+President and Mrs. Kim, the members of the delegation from the Republic of Korea, to all of our distinguished guests, Hillary and I are delighted to have you here in the White House. I have especially enjoyed this day that I have spent with President Kim, a man whose extraordinary resilience is matched only by his commitment to democracy.
+
+Mr. President, this is our fourth meeting. And if you'll permit me just a personal note, I am struck by how much we have in common. We were both elected to office at an early age. You won a seat in your National Assembly when you were just 25. You entered the Blue House just after I came to the White House. Or to put it in another way, we have both spent the past 20,000 hours or so dealing with our respective Congresses and fielding hard questions from the press. {LAUGHTER}
+
+I'm happy to say that President Kim is also an enthusiastic jogger who permitted me to jog with him in Korea. {LAUGHTER} And even in this heat, Mr. President, after this meal we may have to run an extra mile together tomorrow. {LAUGHTER}
+
+Mr. President, for all the things we have in common, I must also comment on something that set you apart from most other leaders in the world today. And that is the extraordinary hardship you endured and the courage you displayed to bring democracy to your country. Your many years in opposition were marked by jail terms, years of house arrest, an assassination attempt, and a 23-day hunger strike that almost took your life. As you once put it, a short life of integrity is better than a long life in disgrace.
+
+But you persisted and you prevailed. At your inauguration you said, "Deep in my heart I have a vision of a new Korea -- a freer and more mature democracy. At last we have established a government by the people and of the people of this land." Now, under your leadership, Korea is taking its rightful place in the world as both a thriving economy and a dynamic democracy.
+
+Mr. President, the bonds between our people forged in the fires of war upon your land have only grown stronger with time. We are united now by a history of shared sacrifice and a future of common purpose. These are our common goals: lasting peace, security and reconciliation on the Korean Peninsula; a stable and prosperous Asia Pacific region; a rising tide of democracy around the world. Working together, the Republic of Korea and the United States can help to achieve them.
+
+Mr. President, when I visited you two years ago, you presented me with a beautiful work of calligraphy with your favorite saying -- "righteousness overcomes all obstacles." Mr. President, tonight, in the presence of so many people from your country, so many Korean Americans, your wonderful wife and your two daughters who live in our country, I ask everyone in this room to raise a glass to a man who, through his own righteousness, has overcome all obstacles -- Kim Yong Sam. To you, Mr. President, and to the enduring friendship between our two great nations.
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

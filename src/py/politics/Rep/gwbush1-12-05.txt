@@ -1,0 +1,44 @@
+﻿{title} President Signs H.R. 4145 to Place Statue of Rosa Parks in U.S. Capitol {/title}
+{event} Room 350, Dwight D. Eisenhower Executive Office Building {/event}
+{speaker} George W. Bush {/speaker}
+{date} December 1, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Welcome. Please be seated. Thank you all for being here. Laura and I thank you for joining us on this special day.
+
+Fifty years ago an African American woman named Rosa Parks helped set in motion a national movement for equality and freedom when she refused a bus driver's order to give her seat to a white man. The bill I'm about to sign calls for a statue of Rosa Parks to be placed in the Capitol's National Statuary Hall. {APPLAUSE}
+
+By placing her statue in the heart of the nation's Capitol, we commemorate her work for a more perfect union, and we commit ourselves to continue to struggle for justice for every American.
+
+I'm honored the Secretary of State has joined us, as well as Secretary Alphonso Jackson. I want to thank the bill sponsors, Jesse Jackson, Jr. -- I see you brought some of your family with you. {LAUGHTER} Senator John Kerry, Senator Thad Cochran; Senator Dick Lugar joining us, as well.
+
+I'm proud that Bruce Gordon is here. He's the President and CEO of the NAACP. Thanks for joining us, Bruce. I want to thank all the civil rights leaders who've joined us, as well. I particularly want to say thanks to Elaine Steele, Representative of the Rosa Parks Institute.
+
+{OTHER-SPEAK} Right here. {/OTHER-SPEAK} 
+
+Thank you. Welcome. {APPLAUSE} We've got a seat for you.
+
+It's great to see Dr. Dorothy Height, as well. Welcome, Dr. Height. {APPLAUSE} I want to thank all of Rosa Parks' family who have joined us as well; you're kind to come.
+
+Rosa Parks was a daughter of the South who worked as a seamstress at a department store in a Montgomery, Alabama. On December 1, 1955, she boarded a city bus. Under local and state law, African Americans had to give up their seats if any white people were standing. But after a lifetime of discrimination and a hard day's work, Rosa refused. As she would later say, "I wasn't tired physically, or no more tired than I usually was at the end of a working day ... No, the only tired I was, was tired of giving in."
+
+By refusing to give in, Rosa Parks showed that one candle can light the darkness. Like so many institutionalized evils, segregation ultimately depended on public accommodation. Like so many institutionalized evils, once the ugliness of these laws was held up to the light, they could not stand. Like so many institutionalized evils, these laws proved no match for the power of an awakened conscience -- and as a result, the cruelty and humiliation of the Jim Crow laws are now a thing of the past.
+
+By refusing to give in, Rosa Parks helped inspire a nationwide effort for equal justice under the law. When she refused to yield her seat, Mrs. Parks was arrested, convicted of violating the segregation laws, and fined $10, plus $4 dollars in court fees. Her arrest sparked a boycott of the Montgomery bus lines by its black passengers, and the formation of a local association of African-Americans led by a young preacher named Martin Luther King, Junior. The boycott ended more than a year later, after the Supreme Court struck down segregation on buses. What had begun as a simple act of civil disobedience ended up galvanizing the modern movement for civil rights.
+
+By refusing to give in, Rosa Parks called America back to its founding promise of equality and justice for everyone. When the police officer boarded the bus and told the seamstress that he had to arrest her, he explained that the law was the law. Rosa and the black ministers who defended her invoked the Constitution and pointed to a higher law. Our Declaration of Independence makes clear that the human right to dignity and equality is not a grant of government -- it is a gift from the Author of Life. {APPLAUSE} And by holding our nation true to the words of its founding document, Rosa Parks helped her fellow African-Americans claim their God-given freedoms and made America a better place.
+
+Eventually the civil rights movement would succeed in persuading Congress to pass more sweeping legislation that dealt with voting rights and discrimination in public places, and school segregation -- and the United States Congress should renew the Voting Rights Act of 1965. {APPLAUSE}
+
+Dr. King liked to say that our Civil Rights Act was written in the streets by the citizens who marched for justice and equality. And on this day we remember the great inspiration this movement drew from the quiet courage shown by an Alabama woman riding home on a Cleveland Avenue bus.
+
+It is fitting that this American hero will now be honored with a monument inside the most visible symbol of American democracy. We hope that generations of Americans will remember what this brave woman did, and be inspired to add their own contributions to the unfolding story of American freedom for all.
+
+And now it's my honor to sign the bill that will make Rosa Parks the first African American woman to be honored with a statue in our nation's Capitol. {APPLAUSE}
+
+{COMMENT="The bill was signed"} {APPLAUSE} 
+
+{/speech}

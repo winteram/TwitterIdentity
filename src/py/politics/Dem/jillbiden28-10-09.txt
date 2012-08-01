@@ -1,0 +1,21 @@
+﻿{title} Remarks by the First Lady and the Second Lady During Major League Baseball/VA visit {/title}
+{event} Major League Baseball/VA visit {/event}
+{speaker} Jill Biden {/speaker}
+{date} October 28, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello. Thank you Commissioner Selig and President DuPoy for the invitation to join you here today and for all that Major League Baseball does to honor our veterans and our military families.
+Thank you also to everyone from the Medical Center, especially the veterans, for welcoming us here today. I sincerely thank you for your service and your sacrifice.
+Each of you, like our veterans across the nation, has chosen to dedicate your lives to our country -- and I am honored to be a part of this important effort to show appreciation.
+One of the first events Michelle and I did together just about a year ago was a roundtable with military spouses. We have worked together since then to understand the issues faced by our soldiers and their families while they are deployed and when they return home.
+We have been truly overwhelmed by the courage of our men and women in uniform and inspired by the dignity and sense of patriotism that our military families exhibit every day.
+Both Michelle and I have continued this outreach, visiting bases in the United States and abroad, offering thanks to members of the military and their families for their service to our nation. We want them to know that we are listening and that their concerns are a top priority for this administration.
+The President and his team are working hard to expand access to childcare, to improve housing and to provide quality care and treatment for our wounded warriors. {APPLAUSE}
+But, as Major League Baseball demonstrates today, there is a role for each and every one of us in supporting our military families. We are asking all Americans to take action and show their thanks through simple acts of kindness to these families and our veterans.
+As a military mom, I know how a simple act of kindness can make a difference to a soldier, whether it's troop greeters who are meeting our troopers coming back, a neighbor offering to baby-sit, or a classroom adopting a unit. It is our sacred duty to honor the service of those who sacrifice for our country -- and we can all play a role with a simple act of service. I hope that the millions of viewers watching tonight's game will join us in this effort.
+And now it's a pleasure to introduce my friend and partner, our First Lady Michelle Obama. {APPLAUSE} 
+
+{/speech}

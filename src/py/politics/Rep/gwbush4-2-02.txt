@@ -1,0 +1,67 @@
+﻿{title} President Calls for $48 Billion Increase in Defense Spending {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 4, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. Thank you very much. I appreciate your warm welcome. It is an honor to be here with the men and women who wear our uniform. {APPLAUSE} It's an honor to be at Eglin. {APPLAUSE} And it's appropriate that I was delivered to your door on an Air Force jet. {APPLAUSE} 
+
+I not only want to thank all of you who wear our uniform, I want to thank your families, as well. {APPLAUSE} I understand that military life makes a lot of demands on those who serve, and I also understand the family's sacrifice. And, for that, your nation is grateful. {APPLAUSE} Every family member here today can be certain that our nation's cause is right, and our nation's cause is just. You can be sure of something else -- in this war against terror, the forces of freedom will prevail. {APPLAUSE} 
+
+I always enjoy coming to states which have a great governor. {APPLAUSE} Enough said. {LAUGHTER} It's clear that both of us were listening to our mother. {LAUGHTER} My advice to all you youngsters out there is, listen to your mother. {LAUGHTER ; APPLAUSE} Right, Buddy? 
+
+I'm also honored to be here with Ched Bob. As you know, I like nicknames. I never heard a general called Ched Bob before. {LAUGHTER} But, General, thank you for your leadership. 
+
+I also want to thank General Lyles and General Stogsdill, as well, for their leadership for our country. I'm proud of the men and women who wear the uniform, and I'm proud we've got some of the finest -- finest -- Americans who are leading our brave troops, including General Hester. 
+
+I also want to thank Congressman Miller. Congressman Miller flew down with me today on Air Force One. He's a young Congressman, he just got up there. But I can assure you one thing -- when it comes to supporting the men and women in the military, you've got a strong supporter in Jeff Miller. {APPLAUSE} 
+
+Not only am I pleased to be with so many from Eglin, I'm also pleased to be from -- men and women and families from the headquarters of the Special -- the Air Force Special Operations Command in Hurlburt. {APPLAUSE} The quiet professionals. {APPLAUSE} You don't sound so quiet today, however. You perform with daring and dedication. You've made an impression on the enemy. You've given the terrorists around the world their first glimpse at their fate. {APPLAUSE} 
+
+The 16th Special Operations Wing has a motto: Any time, anyplace. {APPLAUSE} You spend every day training, testing and preparing for any mission that may come. It makes me feel good to be the Commander-in-Chief of people who train hard for any mission that may come. You perform your missions with success and with honor, and you've made America proud. {APPLAUSE} 
+
+I understand that one young man has returned from the war zone in time for the birth of twins. My congratulations to Staff Sergeant Christopher Avery and Erica. {APPLAUSE} Staff Sergeant, you can take it from the Commander-in-Chief and a father of twins, you're going to be a busy man. {LAUGHTER ; APPLAUSE} 
+
+Our military has a new mission for the 21st century. It came suddenly, but you were ready. The 919th Special Operations Wing -- {APPLAUSE} -- is part of a tremendous fighting force that assembled across the world in a matter of weeks. You destroyed Afghan terrorist training camps and freed a country from brutal oppression. Our military not only proved themselves on a battlefield, but our military were liberators, freeing women and children, giving them the chance to breathe the fresh air of freedom. For that, I'm so grateful and proud. {APPLAUSE} 
+
+When America was attacked, our men and women in uniform felt it in a personal way. A reporter asked an Air Force pilot if he had any direct connection to the victims of September 11th. The pilot replied, "I think we all do; they were Americans." That's how we all felt. When you strike one American, you strike all Americans, and you can expect to hear from us. {APPLAUSE} 
+
+The terrorists are beginning to realize they picked the wrong enemy. {APPLAUSE} As I like to put it, they must have been watching too much daytime TV. {LAUGHTER} They thought we were soft. They thought we would roll over. My, oh, my, they haven't got us figured out. But they're beginning to understand us. You see, we're a patient and deliberate people. We're absolutely resolved to find terrorists where they hide and to root them out one by one. {APPLAUSE} 
+
+Some people may grow weary, but not me. And not you. History has called us into action, and we will not stop until the threat of global terrorism has been destroyed. {APPLAUSE} 
+
+This message has been made clear to the enemy. It has been made clear to the world. It has been made clear to those who think they can harm America. And that message is being delivered by the finest military ever assembled: the United States military. {APPLAUSE} 
+
+In a short period of time, we're making great progress. It hasn't been all that long ago that I called the military into action. I know it seems a long time for many of the family members. But when history looks back, we haven't been at this for very long, but we're making huge progress. We've built a fabulous coalition of many nations and every region of the world. They know that in this conflict there is a choice to make: Either you're with us, or your with the terrorists. Either you're with freedom and justice, or you're on the side of tyranny and oppression. And the good news is, civilized people everywhere are taking the side of freedom and justice. {APPLAUSE} 
+
+Our first objective in the first theater against the war against terror has been achieved -- the Taliban are out of business. {APPLAUSE} They're gone and the people of Afghanistan don't miss them one bit. A few months ago, some warned that military action would cause an uprising in the streets. Well, when we defeated that brutal regime, people did take to the streets -- but they came out to celebrate; they came out to express their joy; they came out to cheer the fact that their oppressors had left and freedom had returned. {APPLAUSE} 
+
+And we're working on our next objective. And that's to run down al Qaeda and the rest of the terrorists, and maybe give them a free trip to Guantanamo Bay. {APPLAUSE} This will take time. It's going to take a while. The American people understand that and, for that, I'm grateful. And you need to know, I'm a patient man. I don't have a set calendar. All I know is we've got them on the run. And we're after people who, on the one hand, sent kids to suicide missions, and on the other hand, try to bury deep inside some cave. But there's no cave deep enough. There's no place they can hide long enough for the long arm of American justice to find 'em and get 'em. {APPLAUSE} 
+
+Afghanistan is only the first step, the beginning of a long campaign to rid the world of terrorists. We're just starting. In the caves they ran from, we found evidence of more plans to attack us. And while we're on alert at home and doing everything we can to protect innocent life in America, the surest way to defend America, the surest way to make sure our children grow up in a peaceful and free society, is to be relentless in our pursuit of those who would harm America, those who hate freedom, and bring them to justice. {APPLAUSE} 
+
+We believe that they've trained thousands of killers, and they view the entire world as a battlefield. And that's why we're not going to quit. And that's why we're going to rally the nations of freedom. And that's why we're going to protect the American people. 
+
+Another objective is to prevent regimes that sponsor terror from threatening America or our friends and allies with chemical, biological or nuclear weapons. We must be deliberate as a nation. But time isn't on our side. Terrorist states and terrorist allies are an axis of evil, seeking weapons of mass destruction. But I've put them on notice. The United States of America will not permit the world's most dangerous regimes to threaten us with the world's most destructive weapons. {APPLAUSE} 
+
+It is now up to them to change their behavior. It is now up to them to join peaceful nations. But they're on notice. They're on notice. And this cause, this historic moment, this great opportunity to fight for freedom and to promote the peace for the long-term requires a strong military. And we must keep it strong with new investments in equipment, and we must keep it strong by attracting and retaining the best and the brightest in our country. {APPLAUSE} 
+
+We're learning a lot about modern warfare in the first theater, Afghanistan. We're learning about weapons and how to use them better. It's proved that in this first phase that expensive precision weapons not only defeat the enemy, but spare innocent lives. And the budget I submit makes it clear we need more of them. {APPLAUSE} 
+
+We need to be agile and quick to move. We need to be able to send our troops onto battlefields in places that many of us never thought there would be a battlefield. We need to be agile and mobile. And, therefore, we need to replace aging aircraft, and get ready to be able to defend freedom with the best equipment possible. Our men and women deserve the best weapons, the best equipment, and the best training. And therefore, I've asked Congress for a one-year increase of more than $48 billion for national defense, the largest increase in a generation. {APPLAUSE} 
+
+We need one other thing. As I said, we need to recruit and retain the best. This budget I submitted has another military pay raise for those who wear the uniform. {APPLAUSE} 
+
+We're unified in Washington on winning this war. One way to express our unity is for Congress to set the military budget, the defense of the United States, as the number one priority and fully fund my request. {APPLAUSE} The budget I submit recognizes the vital role the military will play and recognizes we have only one alternative, and that is victory. {APPLAUSE} 
+
+One of the great honors I have is the opportunity to work with people in our military, from the troops to the former pilot who serves as the Secretary of Defense, Don Rumsfeld -- {APPLAUSE} -- my administration's matinee idol for the seniors. {LAUGHTER} I've also appointed an Air Force general as the Chairman of the Joint Chiefs. And he brings to the job great discipline and duty and service above self. I'm proud of General Myers. {APPLAUSE} 
+
+The Air Force has a great ethic, a family ethic. You stick together, you take care of your own, and you bring out the best in each other. {APPLAUSE} And you know the stakes of this cause. Our enemies want every person on Earth to live in tyranny or live in fear. We seek a world that lives in peace and freedom. And, you know what? There's no doubt in my mind we're going to prevail. {APPLAUSE} 
+
+In the months and years to come, our nation will be asking much of the Air Force, and every branch of our military. You have my confidence, because you've earned it. You earn it every day in the difficulties you accept and the dangers you face. You're each here to serve your country, and your country is grateful. You're here because you believe in America, and America believes in you. God bless. {APPLAUSE} 
+
+{/speech} 

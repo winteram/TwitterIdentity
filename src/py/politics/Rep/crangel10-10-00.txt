@@ -1,0 +1,26 @@
+﻿{title} Remarks by the President, Secretary of State Madeleine Albright, Speaker of the House Dennis Hastert, Senator William Roth, Representative Bill Archer, Senator Patrick Moynihan and Congressman Charles Rangel at Signing of China Permanent Normal Trade Relations {/title}
+{event} The South Lawn {/event}
+{speaker} Charles Rangel {/speaker}
+{date} October 10, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Chairman Archer. And I'm certain I speak for all of your colleagues in the Congress in wishing that your future in the private sector be all that you would want for you and your loved ones, and we wish you well. {APPLAUSE}
+
+Well, Mr. President, as someone once said, there you go again. You brought out great republic from the era of deficits to a new height in economic prosperity. And you've opened up the opportunities in trade to countries in sub-Saharan Africa, expanded trade in the Caribbean with our neighbors there. And today, as so many have said, we have a permanent trade relationship with a billion new friends in China.
+
+All have said what a great opportunity this represents for all of us in America -- our farmers, our business people. But also, it provides a great challenge for this country that, as we see these new markets opening, we must never forget the pains that we still suffer in having a part of our history based on slave labor.
+
+And so whenever we go into new countries, we should have that American flag and that American Constitution and those standards of human rights and labor rights going there with us, showing what true democracies can do, whether we're talking about China, whether we're talking about Cuba, or whether we're talking about any country that we want that American flag and those things that we're so proud of to stand for.
+
+And I think we also would have to say that as we show the American way of life abroad, as you have done so well, not only with our foreign policy, Mr. President, but just as importantly, with our domestic policy, that we leave no one behind. That we make certain that this expanded trade are not just for those that have had a head start on commerce; that we make certain that every kid born can hope and dream that they, too, can be involved in this high-tech, in this high stage of trade and commerce; and that we start investing in our schools, and in these kids' minds so that they can aspire to be all that they can be; and that we can leave prison life behind us, where we have 2 million people locked up with no dreams and no aspirations, but we can invest in the mind so that all of our kids would say that there's just no place for drugs and crimes and making unwanted children, because this country has been blessed to give us the opportunity not only to trade abroad, but to raise the standards of living and the hopes of all of our people.
+
+You have seen, Chairman Archer, what we have been able to do, as polarized as we are politically, when we come together in a bipartisan way. And you played a great role in this and Phil Crane played a great role in this. And, of course, Sandy Levin, bringing together Doug Bereuter and working on it. And, of course, Sam Gibbons set the tone for what free trade is -- he never saw a country he didn't want to trade with. {APPLAUSE} And, of course, you can't give enough praise to Bob Matsui, because he was out there before they were giving accolades for people being out there.
+
+But we all came together, Mr. President, under your leadership. And it shows that Democrats and Republicans can and should work together -- not for our parties, but for our country and doing the right thing. It's a great thing for a guy from Lennox Avenue to be a part of seeing how this is just no longer a European country, but one that reflects the same wants and desires of people all over the world.
+
+Thank you for the opportunity. {APPLAUSE} 
+
+{/speech}

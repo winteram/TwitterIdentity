@@ -1,0 +1,27 @@
+﻿{title} Remarks by the President at the Hall of Excellence Induction, Little League World Series {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} August 26, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Steve, thank you very much. You know, years ago, when I was playing on those dusty Little League fields in West Texas, I never dreamt I would be President of the United States, and I can assure you I never dreamt I would be admitted into the Little League Hall of Excellence. It's a high honor to be here. {APPLAUSE} It's a high honor for Laura and me to be here. I want to thank you so very much for your hospitality. 
+
+One of the things I did dream about, though, was making it to Williamsport, Pennsylvania, for the Little League World Series. {APPLAUSE} And to all the teams that got here, I want to offer my heartiest congratulations. I particularly want to welcome the Japanese team and wish you all the best. Welcome to America. {APPLAUSE} 
+
+I must confess, I have a soft spot in my heart for the Florida team. {APPLAUSE} I know and like your governor. {LAUGHTER} 
+
+But to all the teams that were here, congratulations. There are a couple of words I want to say. 
+
+First, I want to say thanks to all the moms and dads who participate in Little League all around the world. {APPLAUSE} Little League is a family sport. I can remember my mother sitting behind the -- behind the backstop in Midland, Texas, telling me what to do. {LAUGHTER} She's still telling me what to do. And my advice to all the players is, listen to your mother. {LAUGHTER ; APPLAUSE} 
+
+But for all the moms and dads who take special time out of their lives to make sure their kids are able to play the great sport of baseball, thank you from the bottom of our hearts. You prioritize your family and that's crucial for a healthy world, to make sure our families remain strong. I equate Little League baseball with good families. {APPLAUSE} 
+
+I want to thank all the coaches for working with the kids. You're not only teaching the kids how to throw and hit; you're teaching them incredibly important values, the values of good, clean competition, the values of teamwork, the values of working with somebody to win for something greater than yourself. 
+
+It's an honor to receive this award from such a fabulous organization as Little League Baseball and, on behalf of the presidency, thank you for what you do. May God bless the teams who play here, may God bless the families represented here, and may God bless the great United States of America. Thank you very much. {APPLAUSE} 
+
+{/speech} 

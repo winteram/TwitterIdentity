@@ -1,0 +1,42 @@
+﻿{title} Remarks by the President and Elena Kagan at Reception Honoring Her Confirmation {/title}
+{event} Honoring Elena Kargan's Confirmation as Supreme Court Justice {/event}
+{speaker} Barack Obama {/speaker}
+{date} August 6, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+This is a good day. {LAUGHTER} Good afternoon, everybody. Welcome to the White House. I am pleased that all of you could be here today as we celebrate the next member of our nation's highest court. And while she may be feeling a twinge of sadness about giving up the title of “General” -- {LAUGHTER} -- a cool title -- I think we can all agree that “Justice Elena Kagan” has a pretty nice ring to it. {APPLAUSE}
+
+We are very honored to be joined today by two of Elena's new colleagues -- Justice Ruth Bader Ginsburg and Justice Anthony Kennedy -- and we're thankful for their presence. {APPLAUSE} Justice Kennedy assured me that he would keep Justice Kagan out of trouble, and Justice Ginsburg assured me that she would get Justice Kagan into trouble. {LAUGHTER} So we'll see how that works out. {LAUGHTER}
+
+We're also pleased to have several members of Congress, as well as our Cabinet here today; and of course members of Elena's family. And thanks to all of you for your service and for taking time to be here today.
+
+I also want to express my gratitude to our Senate Judiciary Committee Chairman, Senator Leahy; Ranking Member, Senator Sessions; Majority Leader Reid; and Republican Leader McConnell, for seeing to it that Elena got a full, fair and timely hearing.
+
+After more than 80 one-on-one meetings and 17 hours of testimony, I'd say that the Senate got a pretty good look at Elena Kagan. They got a good sense of her judicial philosophy, her commitment to the rule of law, her rich understanding of our Constitution, and of course, where she can be found on Christmas Day. {LAUGHTER}
+
+The bipartisan support she received in yesterday's vote is yet another example of the high esteem in which she's held by folks across the political spectrum. There aren't many law school deans who receive standing ovations from both the Federalist Society and the American Constitution Society. And I don't know too many folks whose fans include President Clinton, Judge Abner Mikva, and Justice Ginsburg, as well as Ken Starr, Miguel Estrada, and Justice Scalia.
+
+In fact, I understand that Justice Scalia came to relish their spirited exchanges during Elena's appearances before the Court -- even after Elena cheerfully informed him that he was, and I quote, “wrong” in his understanding of a recent case. {LAUGHTER} I'm sure that was refreshing for him to hear. {LAUGHTER}
+
+These folks may not agree on much, but they've all been impressed, as I have, by Elena's formidable intellect and path-breaking career -- as an acclaimed scholar and presidential advisor, as the first woman to serve as Dean of the Harvard Law School, and most recently as Solicitor General. They admire how, while she could easily have settled into a comfortable practice in corporate law, she chose instead to devote her life to public service. They appreciate her even-handedness and open-mindedness, and her excellent -- and often irreverent -- sense of humor.
+
+These are traits that she happens to share with the last Solicitor General who went on to become a Supreme Court Justice -- one for whom Elena clerked, and whom she considers one of her heroes -- Justice Thurgood Marshall. And we are very proud to have Justice Marshall's widow here today joining us. {APPLAUSE}
+
+In a tribute she wrote after Justice Marshall's death, Elena recalled how she and her fellow clerks took turns standing guard when his casket lay in state at the Supreme Court -- and how 20,000 people stood in a line that stretched around the block to pay their respects. They were people from every background and every walk of life: black, white, rich and poor, young and old. Many brought their children, hoping to impress upon them the lessons of Justice Marshall's extraordinary life. Some left notes, some left flowers. One mourner left a worn slip opinion of Brown v. Board of Education.
+
+It is, to this day, a moving reminder that the work of our highest Court shapes not just the character of our democracy, but the most fundamental aspects of our daily lives -- how we work, how we worship, whether we can speak freely and live fully, whether those words put to paper more than two centuries ago will truly mean something for each of us in our time.
+
+Because as visionary as our founders were, they did not presume to know exactly how the times would change and what new questions fate and history would set before us. Instead, they sought to articulate principles that would be timeless -- ones that would accommodate the changing circumstances of our lives while preserving the rights and freedoms on which this country was founded.
+
+Today is one of those moments when you can't help but appreciate the extraordinary success of their efforts. For nearly two centuries, there wasn't a single woman on the Supreme Court. When Elena was a clerk, there was just one. But when she takes her seat on that bench, for the first time in history, there will be three women serving on our nation's highest court. {APPLAUSE}
+
+It is, as Justice Ginsburg recently put it, “one of the most exhilarating developments” -- a sign of progress that I relish not just as a father who wants limitless possibilities for my daughters, but as an American proud that our Supreme Court will be a little more inclusive, a little more representative, more reflective of us as a people than ever before.
+
+And it is yet another example of how our union has become more, not less, perfect over time -- more open, more fair, more free. That's not just a matter of accident or chance. While those founding truths about liberty and equality may have been self-evident, they are not self-perpetuating. And it is the members of our highest court who do the vital and constant work of ensuring that they endure. And that's work that I am confident Elena will carry out with integrity, with humanity, and an abiding commitment to the ideal inscribed above our courthouse doors: equal justice under the law.
+
+So it is now my great pleasure to introduce, as our next Supreme Court Justice, Elena Kagan. {APPLAUSE} 
+
+{/speech}

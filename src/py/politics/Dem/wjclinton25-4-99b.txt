@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President And Other Participants in Democratic Leadership Forum, The Third Way: Progressive Governance For the 21st Century {/title}
+{event} DLC Roundtable {/event}
+{speaker} Bill Clinton {/speaker}
+{date} April 25, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Remarks by President and NATO Leaders in DLC Roundtable {/description}
+
+{speech} 
+
+I should say that the Prime Minister is a good friend of the man who is now the most famous Italian in America, Roberto Benini. And after his performance at the Academy Awards, you have both affection and respect. {LAUGHTER}
+
+I would just like to try to comment on a couple of things, to maybe make the conversation somewhat more specific and sort of segue into the participation of our other American leaders here.
+
+If you look at this whole Third Way challenge, in America, for the Democratic Party it meant we had to prove we could manage the economy in an intelligent way and then deal with the whole question of social justice. And in our country those questions basically meant three things. One is what to do about the poor and how to have a welfare system that empowered people who could take care of themselves, but also took care of people who could not take care of themselves -- first question.
+
+The second question, how to deal with the fact that we had phenomenal economic growth, but increasing inequality. That inequality had been increasing for quite a long time -- partly because of government policies, partly because the new economy gives such a wage premium to education and skills.
+
+And the third question, to my mind, in many ways the most important, how can this country with all of its phenomenal success and low unemployment -- the lowest unemployment in 30 years -- and now finally rising wages again, how can we strike the right balance, a better balance between work and family -- give families the support they need to raise their children, take care of their parents, have the time they need, have the child care, the health care they need, and still maintain the economic dynamism. What is the right balance?
+
+Now, for Europe, it goes the other way. I wish Prime Minister Jospin were here from France. Very interesting -- France has had economic growth averaging over 3 percent for the last three or four years, but their unemployment rate hasn't gone below 11 percent, I think -- something like that. Any way, still in double digits. And we know from our own experience that when unemployment -- I mean, when growth can be sustained above 2.5 percent in an industrial society, normally the unemployment will go down until it bottoms out at around, at least around 6 percent -- even without going over 3 percent.
+
+So the European question is, how do you get growth manifested in jobs and not give up your social solidarity. In America the question is, how do we keep all this growth -- we love it -- and get a little more stability for families, and make sure we have done what we should for the poorest of our communities and our people; and try to make sure that Americans who do work and carry the load in this country have a chance to have more of the growth in terms of their personal wealth and well-being.
+
+So to some extent we are crossing. Now, I mention that to just give you a couple of specific examples. Gerhard Schroeder mentioned the German job training system. We sort of copied a lot of elements of that and tried to amend it for America in setting up our school-to-work program in 1993, because the Germans do the best job of moving people from -- who do not go on to university for four years -- moving most people into the workplace with modern skills so they can claim a higher wage.
+
+And in our country, we have -- John Sweeney, the head of the American labor movement -- the labor apprenticeship programs -- a lot of the labor training programs do a good job of that, but as a society, we don't do as good a job of that. So we're trying to improve that.
+
+Another interesting example -- how do you deal with the fact that more and more people are working at home, more and more people are working in flexible work environments, you're going to have more and more part-time jobs -- how is that consistent with maintaining a kind of social safety net. I would argue that the Netherlands have done the best job of that. Wim Kok's country has the highest percentage of voluntary part-time workers in all of Europe -- that is they choose to do so. And they've worked out an agreement, which maybe he would like to talk about, so that even the part-time workers earn, on a pro-rata basis, their vacation -- annual vacation, and have retirement and health care and other things -- they have the social protections, and there it makes them more willing when necessary to take part-time work. This is a big deal.
+
+When I became President in America, there were 3 million people making a living primarily out of their own home, for example. When I was reelected, there were 12 million. Now there are 20 million, in only two years. So this economy is going to, if you will, atomize a lot. It's going to get a lot more diverse, and kaleidoscopic. So we'll have a lot of challenges to face in having the proper sense of social safety net.
+
+And then, as I said, the most important thing is getting it right between work and family, since I think we would all admit that the most important job of any society is raising children as well as possible -- something we are even more burdened with in the moment, that conviction.
+
+So I just throw those ideas out. These are things that are going on in other countries, something that we're battling with here constantly. And I wonder if any of you would like to comment on that. 
+
+{/speech}

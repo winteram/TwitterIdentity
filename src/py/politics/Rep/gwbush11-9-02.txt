@@ -1,0 +1,37 @@
+﻿{title} Remarks by the President in Observance of September 11th at the Pentagon {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} September 11, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+One year ago, men and women and children were killed here because they were Americans. And because this place is a symbol to the world of our country's might and resolve. Today, we remember each life. We rededicate this proud symbol and we renew our commitment to win the war that began here. {APPLAUSE} 
+
+The terrorists chose this target hoping to demoralize our country. They failed. {APPLAUSE} Within minutes, brave men and women were rescuing their comrades. Within hours in this building, the planning began for a military response. Within weeks, commands went forth from this place that would clear terrorist camps and caves and liberate a nation. And within one year, this great building has been made whole once again. {APPLAUSE} 
+
+Many civilian and military personnel have now returned to offices they occupied before the attack. The Pentagon is a working building, not a memorial. Yet, the memories of a great tragedy linger here. And for all who knew loss here, life is not the same. 
+
+The 184 whose lives were taken in this place -- veterans and recruits, soldiers and civilians, husbands and wives, parents and children -- left behind family and friends whose loss cannot be weighed. The murder of innocence cannot be explained, only endured. And though they died in tragedy, they did not die vain. {APPLAUSE} 
+
+Their loss has moved a nation to action, in a cause to defend other innocent lives across the world. This war is waged on many fronts. We've captured more than 2,000 terrorists; a larger number of killers have met their end in combat. We've seized millions in terrorist assets. We're reorganizing the federal government to protect the homeland. Yet, there's a great deal left to do. And the greatest tasks and the greatest dangers will fall to the armed forces of the United States. 
+
+I came to the Presidency with respect for all who wear America's uniform. {APPLAUSE} Every day as your Commander in Chief, my respect and that of our nation has deepened. I have great confidence in every man and women who wears the uniform of the United States of America. {APPLAUSE} I am proud of all who have fought on my orders, and this nation honors all who died in our cause. 
+
+Wherever our military is sent in the world, you bring hope and justice and promise of a better day. You are worthy of the traditions you represent, the uniform you wear, the ideals you serve. America is counting on you. And our confidence is well placed. {APPLAUSE} 
+
+What happened to our nation on a September day set in motion the first great struggle of a new century. The enemies who struck us are determined and they are resourceful. They will not be stopped by a sense of decency or a hint of conscience -- but they will be stopped. {APPLAUSE} 
+
+A greater force is amassed against them. They are opposed by freedom loving people in many lands. They are opposed by our allies who have fought bravely by our side. And as long as terrorists and dictators plot against our lives and our liberty, they will be opposed by the United States Army, Navy, Coast Guard, Air Force and Marines. {APPLAUSE} 
+
+We fight as Americans have always fought, not just for ourselves, but for the security of our friends, and for peace in the world. We fight for the dignity of life against fanatics who feel no shame in murder. We fight to protect the innocent, so that the lawless and the merciless will not inherit the earth. 
+
+In every turn of this war, we will always remember how it began, and who fell first -- the thousands who went to work, boarded a plane, or reported to their posts. 
+
+Today, the nation pays our respects to them. Here, and in Pennsylvania, and in New York, we honor each name, and each life. We ask God to bring comfort to every home where they are loved and missed. And on this day, and on every day, may He watch over the United States of America. 
+
+God bless. {APPLAUSE} 
+
+{/speech} 

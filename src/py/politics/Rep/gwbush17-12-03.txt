@@ -1,0 +1,42 @@
+﻿{title} President Commemorates 100th Anniversary of Wright Brothers Flight {/title}
+{event} Remarks by the President at the Wright Brothers First Flight Celebration, Wright Brothers National Memorial, Kill Devil Hills, North Carolina  {/event}
+{speaker} George W. Bush {/speaker}
+{date} December 17, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all very much. Rain will never dampen our spirits. {APPLAUSE} I'm honored to be here, and I'm honored to be in the great state of North Carolina. {APPLAUSE}
+
+Madam Secretary, thank you for your fine leadership and your friendship. Secretary Mineta, thank you for your great leadership, as well. I'm proud that you're serving in my Cabinet. Mr. Governor, I appreciate your kind comments. I appreciate the values you hold dear to your heart, and I thank you for leading this great state.
+
+To John Travolta -- {APPLAUSE} -- we shall call him "Moon Man" from now on. {APPLAUSE} I appreciate your friendship. I appreciate your love of flight. Thank you for being such a fine entertainer for millions of Americans, but most importantly, thanks for being a great American. I'm proud you're here. {APPLAUSE}
+
+I appreciate the fact that the Secretary of the Navy, Gordon England, is here; the Secretary of the Air Force, James Roche, is traveling with me today. I appreciate Sean O'Keefe, who is the Administrator of NASA, who has come today. I thank all members of my administration who have joined us. I hope you were smart enough to have brought an umbrella. {LAUGHTER}
+
+I know we've got members of the Congress who are here -- Senate Majority Leader Bill Frist from Tennessee is with us today. Senator Frist, thank you for coming. Senator Elizabeth Dole from the great state of North Carolina is with us. Senator Dole, thank you for being here. {APPLAUSE} All members of Congress from North Carolina and from other states, thank you for being here. I know we've got mayors and state officials.
+
+I appreciate so very much American heroes who are here, well-known and not so well-known heroes. Let me name four of the well-known heroes who are here: Neil Armstrong, Buzz Aldrin, John Glenn. One of the great fighter pilots ever, Chuck Yeager is with us today. {APPLAUSE} We're honored to be in your presence. Thank you for being pioneers.
+
+I'm also pleased that we're joined by Stephen Wright and Amanda Wright Lane, who both bear one of the great American names. Powered flight has advanced in ways that could not have been imagined on December 17, 1903. And in the future, flight will advance in ways that none of us can imagine as we stand here today. Yet always, for as long as there is human flight, we will honor the achievement of a cold morning on the Outer Banks of North Carolina by two young brothers named Orville and Wilbur Wright. {APPLAUSE}
+
+Orville Wright lived to see the days of barnstorming and military aviation, the jet engine, commercial airlines, and the DC-3. The thrill of his life, however, was surely right here, when he felt that first lift of the wing. He flew just 12 seconds, and 40 yards, moving so slowly that his older brother ran alongside. And later in the day, with Wilbur at the controls, the machine stayed in the air for 59 seconds, and traveled 852 feet. Yet everyone who was here at that hour sensed that a great line had been crossed and the world might never be the same. A local boy named Johnny Moore was one of the witnesses. He ran down the beach and said, "They done it, they done it, damned if they ain't flew." {APPLAUSE}
+
+The anniversary now observed might have fallen a few days earlier, on the 13th. But December the 13th, 1903 was a Sunday, and the brothers had promised their Dad they wouldn't attempt to fly on the Sabbath. And on the day they did fly, just like today, the conditions were not ideal. But they went ahead anyway, so they could get home to Dayton, Ohio for Christmas.
+
+Orville and Wilbur were, in so many ways, ordinary Americans. And hearing of their plans, a lot of folks must have thought those boys should have stayed in the bicycle business. The story is told of a newspaper editor who heard what the Wright brothers had been up to. He said, "Man will never fly -- and if he does, he won't be from Dayton." {LAUGHTER}
+
+The United States Patent Office also had its doubts. So many others had submitted plans and models of flying machines that when the brothers sent in theirs, patent officials had a ready response. The office concluded the plans were inadequate and the machine could never function as intended. The New York Times once confidently explained why all attempts at flight were doomed from the start. To build a flying machine, declared one editorial, would require "the combined and continuous efforts of mathematicians and mechanicians from one million to ten million years." As it turned out, the feat was performed eight weeks after the editorial was written. {APPLAUSE} And not only did the machine perform its function, that little wood and canvas aircraft had brought together all the essentials that still give flight to every modern aircraft -- from a single-prop plane to Air Force One.
+
+The Wright brothers had some disappointments along the way, and there must have been times when they had to fight their own doubts. They pressed on, believing in the great work they had begun and in their own capacity to see it through. We would not know their names today if these men had been pessimists. And when it was over, they marveled at their own achievement. As Orville wrote in a letter to a friend, "Isn't it astounding that all these secrets have been preserved for so many years just so we could discover them."
+
+The Wright brothers' invention belongs to the world, but the Wright brothers belong to America. {APPLAUSE} We take special pride in their qualities of discipline and persistence, optimism and imagination of people like them, and a lot of other people throughout our history. So many great inventions arose in this country, and so many of the great inventors came from unlikely backgrounds. The Wright brothers had their storefront bicycle shop. Thomas Edison was a newsboy. Eli Whitney and Henry Ford worked as farm hands. George Washington Carver was born a slave. There is something in the American character that always looks for a better way, and is unimpressed when others say it cannot be done. {APPLAUSE} Those traits still define our nation. We still rely on men and women who overcome the odds and take the big chance -- with no advantage but their own ingenuity and the opportunities of a free country.
+
+A great American journey that began at Kitty Hawk continues in ways unimaginable to the Wright brothers. One small piece of their Flyer traveled far beyond this field. It was carried by another flying machine, on Apollo 11, all the way to the Sea of Tranquility on the Moon. {APPLAUSE} These past hundred years have brought supersonic flights, frequent space travel, the exploration of Mars, and the Voyager One spacecraft, which right now is moving at 39,000 miles per hour toward the outer edge of our solar system. By our skill and daring, America has excelled in every area of aviation and space travel. And our national commitment remains firm: By our skill and daring, we will continue to lead the world in flight. {APPLAUSE}
+
+This day, however, is one for recalling an heroic event in the history of our nation, and in the story of mankind. Here at the Wright Brothers National Memorial, we remember one small machine, and we honor the giants who flew it.
+
+May God bless you all, and may God continue to bless America. {APPLAUSE} 
+
+{/speech}

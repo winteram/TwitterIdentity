@@ -1,0 +1,24 @@
+﻿{title} Remarks by the President at Congressional Picnic {/title}
+{event} Congressional Picnic {/event}
+{speaker} Barack Obama {/speaker}
+{date} June 8, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody! {APPLAUSE} Well, how's the food? {CHEERS ; APPLAUSE} We could not have a more beautiful day for this annual picnic, and we are just thrilled that all of you had a chance to get over. I know that folks were running a little bit late, many of you because of votes. But, you know, the fact of the matter is, is that we have had as tough a year and a half as America has seen in a couple of generations, and that's meant that Congress has had to do more on a whole range of issues.
+
+Right now obviously we're looking at what's happening in the Gulf with deep concern, and that's going to put more additional pressure on Congress to work with states and the administration to help deal with this tragedy and this crisis.
+
+It is important, though, given the incredible sacrifices that so many of you have made and frankly, from my perspective, just as important are the sacrifices that your family makes -- you being away, you missing family events -- that every once in a while we have an opportunity to get together and for me to say thank you to you for your incredible devotion to the country, regardless of party, and for both Michelle and I to say to your families how grateful we are for your service, and hopefully to have a little bit of time for fun and for fellowship and to remind ourselves of what's so important in life.
+
+So I'm thrilled to see all the young people here who are here today. And we hope that you have a wonderful time.
+
+Band, you guys are great as always. {APPLAUSE} Chefs, I think people are all voting with their mouths around here. {APPLAUSE} I suspect there's not going to be a lot of leftovers.
+
+And on behalf of Michelle and myself, we hope that you enjoy the evening, and we are grateful to all of you for being here.
+
+So thank you very much. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,21 @@
+﻿{title} Remarks By The President at Latino Town Hall {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 8, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. Hola. {APPLAUSE} Thank you. Please, everybody have a seat. {APPLAUSE} Muchas gracias. Thank you very much. Please, everybody have a seat.
+{AUDIENCE-MEMBER} Viva Obama! {/AUDIENCE-MEMBER} {APPLAUSE}
+Now, I don't want to take up too much time. I just wanted to stop by and let you know how important I think this is.
+Obviously, all of us are concerned about the health of our families and our children. And our experience with the H1N1 virus over the last couple of weeks is a sobering reminder of how vital it is that we all recognize we're all in this together. We're one country, we're one community. When one person gets sick, that has the potential of making us all sick. And when we help to make everybody well, one person well, then everybody has the potential to get well. We can't be divided by communities.
+And that means that government at every level has to make sure that good information is getting out to every part of the broader American community. And that's part of the reason why we wanted to do this today. It's our first step in making sure that whenever we have a public health issue that has to be addressed, that everybody is on the same page.
+So I want to ensure everybody that we're seeing that the virus may not have been as virulent as we at first feared, but we're not out of the woods yet and we still have to take precautions. Many of you are community leaders; obviously those who are viewing this on television are going to be able to give information to your friends and family about washing your hands, about covering your mouths, staying home if you're sick, keeping children home from school if they're sick. That kind of common-sense approach can make all the difference in the world.
+And so I just want to thank the Center for Disease Control. They've been vigilant on this issue. They believe that we're going to have to keep on taking some precautions, and we may have to prepare for an even worse flu season sometime in the fall. This H1N1 flu obviously has hit Mexico much more badly than it's hit us so far, and I've been working very closely -- I spoke to President Calderón last weekend to ensure that we were providing Mexico with the assistance that it needed, because one of the things that we have to understand is public health issues like this -- not only is it important for all communities within the United States to be working together, it's also important to be working internationally together.
+So I'm very proud of this first White House town hall meeting conducted entirely in Spanish. I am grateful -- except for my part. {LAUGHTER} You know, I'm kind of messing up the whole thing. {LAUGHTER} I'm grateful for Univision for hosting us, and I'm happy to see that we've got officials from many different departments, including my Secretary of Labor, Hilda Solis.
+So I want to let you continue with your conversation. I hope you learn something. Please ask questions -- these folks are extraordinarily well informed -- and then distribute the information that you learn from this town hall throughout your communities. And this is just the first of many, I hope, mechanisms for outreach that will improve the quality of service that the White House provides to the American people.
+So, muchas gracias. Thank you. {APPLAUSE} 
+
+{/speech}

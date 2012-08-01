@@ -1,0 +1,28 @@
+﻿{title} Remarks By The President to The 2008 World Series Champions, the Philadelphia Phillies {/title}
+{event} 2008 World Series Champions {/event}
+{speaker} Barack Obama {/speaker}
+{date} May 15, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. {APPLAUSE} Please have a seat. Please have a seat. Thank you. {APPLAUSE} Welcome to the White House -- and congratulations to the World Champion Philadelphia Phillies. {APPLAUSE}
+We originally planned to do this last month, but postponed it after the loss of the legendary voice so familiar to any sports fan, the hall-of-fame announcer, the great Harry Kalas.
+And Harry left us as he lived -- in the ballpark, preparing to call another game for his beloved Phillies. And I know a season without the warm comfort of his voice is difficult, but I also know this, that Harry is here with us in spirit today and he is proud of all of you.
+He waited 28 years to call another World Series championship run -- and what an unbelievable run it was, full of come-from-behind wins by an underdog team that loved to prove the prognosticators wrong. And so we share something in common there, because nobody thought I was going to win either. {LAUGHTER}
+This is a team that never gave up. You weren't supposed to win your division. You weren't supposed to win postseason series against the Dodgers or the Rays. And even though the stretch between the top and the bottom of the sixth inning in Game 5 took two full days of rain -- {LAUGHTER} -- you came out before the toughest fans in sports to win Philadelphia's first major championship since 1983.
+And so this was truly a victory for both young folks, but also the young at heart -- those who waited nearly three decades, and a new generation of fans that had been waiting their entire lives. It also, as I mentioned to the team back here, was not just a victory for the people of Philadelphia -- but for some longtime fans like Joe Biden, and my campaign manager, David Plouffe, who -- I'm not sure whether he cared more about my victory or the Phillies' victory -- {LAUGHTER} -- but it was a close call -- as well as folks from the entire Delaware Valley.
+This is a team made up of guys who don't quit: Cole Hamels, the unbelievable playoff ace. Chase Utley, a throwback who plays hurt, and plays hard and never complains. Brad Lidge, who came to the Philly organization looking for a fresh start and who went a perfect 48 for 48 in save opportunities all season long, and who wiped away 28 years of near-misses and heartbreak with that final strikeout.
+And guys like our manager here, Charlie Manual, who lost his mother during the playoffs. And I know how tough that is. I lost my grandmother in the middle of my election. And, Charlie, I admired your perseverance during those trying times. I know how hard that must have been on you.
+Also guys like Shane Victorino -- Shane, we don't get that many baseball players from Hawaii in the Majors. Where did Shane go? He was around here somewhere. He was pointing out the Hawaiian flag on the carpet in there, saying "shaka" -- local boy. But that means that there are a lot of folks looking out for you.
+And then Jimmy Rollins -- who I have to say made some telephone calls on behalf of our campaign before the election, and I couldn't be more grateful to him for that.
+You know, I remember giving a campaign speech in Chester, just outside of Philadelphia, one week before the election. And it was the day after rain had suspended the Series game, and it was still raining. And I told my staff, if they can suspend the World Series in the middle of a game, then the least you could do is find an indoor location for my speech. {LAUGHTER} That was the coldest I may have ever been. Do you remember that, Plouffe? I mean, it was cold. But true to form, thousands of Philadelphians showed up to brave the rain and my speech, just like they had shown up to watch their beloved Phillies play. And so like this team, I tried to give them my best.
+I also know how it felt for the Phillies to get this weight off their back, because my beloved White Sox finally did it three years ago after nearly 90 years of waiting. So Cubs fans out there, take heart. {LAUGHTER} Anything is possible.
+I also want to point out the example that each and every one of these guys, their wives, and the entire organization set with their time and efforts off the field. Chase works on behalf of pediatric hospitals. Brad supports our wounded warriors. Cole helps those suffering with HIV/AIDS in Africa. Ryan Howard is a national face for the Boys and Girls Clubs, participates in the Make-A-Wish Foundation, and takes an active role in mentoring inner-city students. And on and on.
+And just as the number of African American kids taking up baseball is in severe decline, the impact of having role models like Ryan and Jimmy to look up to just can't be measured. You know, Jimmy likes to say that nothing comes easy in Philly. And that's why I think that so many Americans found themselves rooting for this extraordinary team. As Americans, we know a little something about being underdogs. We know a little something about coming together when times are tough. And like this team, we remember a simple truth, which is that we rise and fall together, and no one individual is bigger than the team.
+So, Phillies, congratulations not only for a great season but doing it the right way. And, Manager –-
+{OTHER-SPEAK} Thank you. {/OTHER-SPEAK} great job.
+Thank you. {APPLAUSE} 
+
+{/speech}

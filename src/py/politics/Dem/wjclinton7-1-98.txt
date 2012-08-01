@@ -1,0 +1,75 @@
+﻿{title} Speech in Child Care Announcement {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} January 7, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Welcome to the White House. You know, I was listening to the Vice President and Tipper and Hillary speak, and I was looking at all these people out here, and I was thinking about all the great joys of being President. And one of the greatest joys of being President is that you get to stand up and make an announcement on which other people have done all the work. {LAUGHTER} 
+
+I want to begin by thanking the Cabinet, especially Secretary Shalala who has done so much work on this. But I thank them all. I thank the Congress, not only the Women's Caucus of Republican and Democratic women in the Congress, but the few errant men who are here -- {LAUGHTER} -- and those who are not here who care so passionately about this issue in the Senate and in the House. 
+
+I thank the children and families who are here and the child advocates who are here. I was looking around this room -- there are some people in this room that I have been listening to on this issue for way over 20 years now. They have waited a long time for this day. {LAUGHTER} 
+
+I thank the Gores. You know, they started their family conference every year in Nashville even before we began our partnership together, and it was a brilliant and unique idea -- the idea of every year focusing on the American family in some aspect of challenge or opportunity and bringing people in from all over America to talk about it. There's really no precedent for it as far as I know in our public policy and it's a remarkable contribution that they have made. 
+
+And, of course, I thank my wife who has been talking to me about all these things for more than 25 years now, and is sitting there thinking that I finally got around to doing what she has been telling me to do. {LAUGHTER} I was thinking it would be nice to have something new to talk about for the next 25 years -- {LAUGHTER} That's one of the major reasons for this event today. {APPLAUSE} And even if the rest of you can't appreciate it as much as I can, you'll just have to live with the truth. {LAUGHTER} 
+
+But mostly I thank these children, for they remind us of our fundamental obligations -- as Americans and as human beings. 
+
+You know, throughout our history, our founders told us that they organized our country in order to form a more perfect union. And one of the most important ways we have done that now, for more than 220 years, is to always apply our most fundamental values to the circumstances and challenges of each new age. And the reason we have made it is that we have never forgotten that there is no more fundamental value than the American family, than its strength and its integrity. There is no more important job than raising a child. There is no more important responsibility than to create the conditions and give people the tools to succeed at raising their children. But I think we would all have to admit that as a nation we have not done what we should have done to enable all of our families to meet the challenge of the era in which we live. 
+
+For some time now, we have been, at least with one foot, in the 21st century. We know that the 21st century will be dominated by globalization and by information and technological revolutions. And we know that it has brought us many great benefits. 
+
+We as Americans should be very grateful today for the prosperity we enjoy. Even though all of you and your fellow Americans have worked hard to earn it, and we've made some tough decisions in Washington to help bring it about, we should still be grateful for it. But we know that this new economy, with all the unprecedented prosperity it has brought us, has also imposed some significant new challenges. 
+
+We know, for example, that the average working family is spending more hours a week in the workplace than 25 or 30 years ago, with all the benefits of technology. And we know that more and more parents of young children are in the workplace, either because they're single parent households, or because both parents have to work to make ends meet, or because both parents choose to work and they ought to have that choice. 
+
+But there is no more important responsibility on us to apply the values of America, the timeless values of America, to modern conditions, none is more important than making sure every American can balance the dual responsibilities succeeding as parents and succeeding at work. There is no more significant challenge. 
+
+Indeed, one of the biggest debates we had when we were working through the welfare reform issue was how we could require people to be responsible and go to work without creating conditions which would require them to abandon their first responsibility to be good parents. That is the universal obligation of every parent, and it should be the dominant concern of our government. 
+
+That's what this is about. I don't believe I have ever talked to a parent who was also in the workplace who has not been able to cite at least one example -- and oftentimes many, many more -- of a conflict between -- that he or she felt between the obligations of parenthood and the obligations to the job. And that includes, of course, people who work in the White House -- when the President makes them work too late at night. {LAUGHTER} But you just -- you know that. Everyone -- I saw a lot of you nodding your heads. You just know that. It's part of the fabric of American life. 
+
+We know that the government cannot raise or love a child, but that is not what we're supposed to do. What the government is supposed to do is to help to create the conditions and give people the tools that will enable them to raise and love their children while successfully participating in the American workplace. 
+
+Today I am proud to propose the single largest national commitment to child care in the history of the United States. {APPLAUSE} It is a comprehensive and fiscally responsible plan to make child care more affordable and accessible, to raise the quality of child care, to assure the safety of care for millions of American children. 
+
+This is an issue that touches nearly every family, and I believe it must rise above politics and partisan interests. I welcome the bipartisan effort to improve child care that is already going on in the Congress. I thank the members who are here and many who could not come today, for their leadership and for demonstrating that this is an American issue that both Democrats and Republicans are embracing. 
+
+This proposal will be an important part of the budget I send to Congress next month. It will be the first balanced budget in 30 years. It will build on the achievements of the year just passed, one that was very good for working families. As has already been mentioned, last summer's historic balanced budget agreement provided working families with a $500 per child tax credit; it made the first two years of college -- community college -- virtually free for almost every American family, made college more affordable for American families; expanded health coverage to 5 million uninsured people; advanced the cause of placing more children into solid, adoptive homes; and continued our efforts to collect more child support. 
+
+Over the past five years we have worked hard to abandon the false choices of the past, including the false choice of having to choose between responsibilities at work and responsibilities at home. Our new economic strategy is designed in no small measure to get over that divide. From the Family and Medical Leave Act, to the Earned Income Tax Credit, to the minimum wage increase, we have tried to demonstration that it is not only possible but imperative to the survival of the American Dream to help people meet their responsibilities at home and at work. 
+
+Strengthening child care has always been a part of this strategy. Since we came here, we've helped a million children and their families to afford that child that they need, but we have to do a lot more. Now, this new proposal has three fundamental goals: first, to make child care more affordable and available to all Americans. With increased block grants to states, we will double the number of children receiving child care subsidies to more than 2 million. 
+
+One of the reasons welfare reform has worked as well as it has is because of the increased investment in child care. Now, we have to help the lower income families who have never been on welfare in the first place, but still struggle to pay for child care. We also will help more than 3 million working families to meet their child care expenses by dramatically expanding the child care tax credit. These tax credits will mean that a family of four making $35,000 and saddled with high child care bills will no longer pay one penny in federal income taxes. {APPLAUSE} 
+
+I'm also supporting new tax credits to encourage more businesses to provide child care for their employees. When I met the members of Congress before coming in here, that's the first thing Congresswoman DeLauro said. She had just come from the opening of a corporate child care center. We need more businesses to do more, and we need to help the smaller businesses who can use this tax credit and cannot afford to do it on their own without a little help from the public. 
+
+Second, we must make sure that every child has a safe and enriching place to go after school. As the Vice President said, there are simply too many children who through no fault of their parents are left to fend for themselves in the hours between 2:00 p.m. and 6:00 p.m. -- too many children roaming the streets, idling in front of a television, or getting into trouble. 
+
+I cannot emphasize the importance of this too much. The crime rate in this country has dropped dramatically in the last five years. All Americans should be proud of that. The juvenile crime rate has not dropped so much. And where it has dropped, almost without exception, it has dropped because people have found something positive for children to do in the hours between the time school ends and the time their parents come home at night. 
+
+We do not need to keep building jail after jail after jail to house children who wouldn't be there in the first place if we took care of them while they're out free and able to build constructive, law-abiding, positive lives. {APPLAUSE} 
+
+I am proposing the expansion of before and after school programs to help some 500,000 children say no to drugs and alcohol and crime, and yes to reading, soccer, computers and a brighter future for themselves. I thank the Vice President especially for his hard work on this issue. 
+
+Third, we have to improve the safety and quality of child care and make sure that child care advances early childhood development. I am proposing an early learning fund to help to reduce child-to-staff ratios in child care centers, train child care workers and educate parents. We have to also strengthen the enforcement of state codes and licensing requirements, weed out bad providers, and through tougher criminal background checks, make sure that the wrong people aren't doing the right mission that we all need done properly. Finally, we ought to offer scholarships to talented care-givers. 
+
+Now, let me take a minute to thank our state leaders, from North Carolina to Washington State, from Rhode Island to Minnesota, for their efforts at improving child care and promoting early learning across America. I know Governor Almond of Rhode Island is here, and I want to especially thank him for Rhode Island's Child Opportunity Zone program. It is a national model. 
+
+We are living in what may well be the most exciting era of human history. But the globalization, the information and technology revolution, they continue to alter the way we live and work, the way we do business, and the way we relate to each other and the rest of the world. They make some jobs easier, they render others obsolete. But nothing must be permitted to undermine the first responsibilities of parenthood. 
+
+No raise or promotion will ever top the joy of hugging a child after work. Nothing can be more bittersweet than sending a child you once cradled off in your arms, off to college for the first time. {LAUGHTER} Nothing weighs more heavily on a parent's mind than the well-being of a child in the care of others. No issue is more important to any family. 
+
+You know, a lot of us have had our own experiences with child care. I've often wondered how my mother, when she was widowed, would have been able to go back to school if I hadn't been able to move in with my grandparents. I was lucky and it turned out reasonably well for me. {LAUGHTER} 
+
+But how many children are out there with exactly the same potential, who never got the same break by pure accident of family circumstance? You don't know the answer to that and neither do I. But we know what the answer should be. The answer should be, not a single one. 
+
+Thank you very much, and God bless you. {APPLAUSE} 
+
+{/speech} 

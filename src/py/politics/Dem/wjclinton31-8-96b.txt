@@ -1,0 +1,58 @@
+﻿{title} Remarks by the President to the Citizens of Mayfield, Kentucky {/title}
+{event} Mayfield, Kentucky {/event}
+{speaker} Bill Clinton {/speaker}
+{date} August 31, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning. Good morning. Thank you. Thank you so much. First of all, I want to thank Governor Patton and Senator Ford for making us feel so very welcome in Kentucky, and my former colleague, Governor Martha Lane Collins, with whom I served, and all the other Kentuckians that are traveling with us. I want to thank them.
+
+Mr. Mayor, I'm delighted to be in your city. And I'm glad to know that I'm the first President to come here. The others didn't know what they were missing. I'm glad to see you. {APPLAUSE}
+
+I'm delighted to see you all here. I thank you especially for bringing the children. It is for them that this election is being fought, for them and the values that have made our country great and the future that they deserve. I said on Thursday night that I wanted to ask the American people to join with me in building a bridge to the 21st century that we can all walk across. Will you help us build that bridge? {APPLAUSE}
+
+We have to build a bridge with the world's best education system for all our people, whether they live in poor inner-cities, small rural communities or the wealthiest places in America. If you help us for four more years, one of the things we intend to do is to make sure that every classroom in America, including right here in Mayfield, not only has the computers our students need and the teachers have the training they need, but that they are hooked up to the Information Superhighway so our children have the same information, the same learning resources wherever they live for the first time in the history of America. {APPLAUSE}
+
+Will you help us build that kind of a bridge?
+
+{AUDIENCE} Yes! {/AUDIENCE} 
+
+I want to make sure that we truly have education for a lifetime in America. I want the first two years of college in the next four years to become just as universal as a high school education is today, with tax credits for the first two years in any community college in the country. Will you help us do that and build that kind of bridge? {APPLAUSE}
+
+I want to establish a G.I. Bill for American workers so that whenever a person who's a breadwinner loses a job or is grossly underemployed, they can get a skilled grant from the government and take it to the nearest community college or other training facility so that no matter how old you are, if you need new training to get a better job or to keep the job you have and to keep supporting your family, you'll have it from your government. Will you help us build that kind of a bridge to the future? {APPLAUSE}
+
+You know, in just the last couple of weeks, as the election has gotten closer, a lot of the things we Democrats have tried to do for the last four years have finally gotten through this Congress. We raised the minimum wage for 10 million working Americans. We made 25 million Americans, including, I might say, some families we've met alongside the road here when we started this bus trip in Missouri and Illinois and coming into Kentucky and going on to Tennessee -- we've met some people alongside the road that have been helped by the Kennedy-Kassebaum bill that says that you don't lose your health insurance anymore just because somebody in your family has been sick or you have to change jobs -- 25 million Americans. {APPLAUSE}
+
+Now we need to say a big part of a strong family is keeping working people's health care. In our balanced budget plan we provide assistance to help unemployed families keep their health insurance for their kids for six months. That's the next thing we need to do. Will you help us do that in the next four years? {APPLAUSE}
+
+We want to build a bridge to the 21st century with a strong economy. That means we have to keep bringing down the deficit. Now, our friends in the other party, they made a big thing of that, but now they don't think it's so important. But it is important. It's important in Mayfield. Why? Not only because you don't want to saddle your kids with debt, but because if we turn away from our plan to balance the budget, it means that interest rates will go up -- interest rates on your home mortgage, your car payment, your credit card payments; interest rates for the businesses you want to borrow money and hire people and give their employees' raise. So we can't afford to do that.
+
+My plan will balance the budget, it will give tax cuts to families for children under the age of 13, a $500 credit; for a $1,500 credit to go to the first two years of college; a $10,000 tax deduction for the cost of college tuition; an IRA you can withdraw from without penalty to buy a first home, to meet a medical emergency or to pay for education. {APPLAUSE} But it's all paid for; we can still balance the budget without cutting Medicare and Medicaid, education, the environment; without raiding the pension funds of our workers. We can do these things. {APPLAUSE} That's the right way to balance the budget. {APPLAUSE}
+
+Now, our friends in the opposition will say, we're going to give you more money. And that's true, they do offer more money in their tax cut. They offer it to people like me who don't need it. They offer it without being able to pay for it, and they know -- I wish you hadn't said "amen" when I said I didn't need it. {LAUGHTER} But it's true.
+
+And what's going to happen. If they had their plan, what would they do? They'd cut Medicare, Medicaid, education and the environment, more than they did in that budget I vetoed. That would divide us and weaken our progress. And they still wouldn't be able to pay for it, which means a higher deficit, higher interest rates, and a slower economy.
+
+Do we want to make that same old mistake all over again?
+
+{AUDIENCE} No! {/AUDIENCE} 
+
+We want to build a new bridge to the 21st century, and that's what we're going to do. {APPLAUSE}
+
+Folks, I want us to build that bridge by working together. I want us to build that bridge by saying everybody's got a place. We worked very hard, for example, to help our bigger businesses sell their products abroad. I was proud, just a few days ago at our convention when an autoworker from Toledo, Ohio, working in a plant that was opened in 1910, got up and said that he was making Jeeps and they were selling 41,000 overseas, and we were number one again, and 700 people like him had jobs. I was proud of that.
+
+But we also have to have small businesses in places like Mayfield. I'm proud of the fact that we have made every small business in the country eligible for a tax cut if they invest more in their businesses, increasing their annual write-off from $10,000 to $25,000 a year. I'm proud of the fact that in that minimum wage bill we made it possible for small businesses, made it much easier to take our retirement plans for the owners and employees and then for the employees to keep those retirement savings when they move from job to job. People that work for small businesses ought to be able to have a secure retirement, too. And so should people who change jobs. I'm proud of that. {APPLAUSE}
+
+Let me say this: We have to build a bridge to the 21st century where people can succeed at work and at home, can be good parents, most of all. That does mean health care; it does mean retirement security. It does mean higher wages and better jobs. It also means things like the Family and Medical Leave law, the first bill I signed as President -- 12 million American families got to take a little time off from work without losing their job when a baby was born or a parent was sick.
+
+I want to expand that to say the parents ought to go to their parent-teacher conferences and their regular doctor's appointments. I want to expand that to say that when a parent earns overtime, the parent should be able to decide to take the overtime in pay or in time with their kids, depending on what they need for the family. And I'm very proud of the fact that in that minimum wage law we also gave a $5,000 tax credit to families who will adopt children, and more if the children have disabilities. There are tens of thousands of children out there that need a home with stable parents, and I hope more people will take advantage of this. {APPLAUSE}
+
+That's the kind of bridge I want to build to the future. Will you help us build that bridge? {APPLAUSE} It starts in the Mayfields all over America. {APPLAUSE} It starts in the places the politicians don't visit. It starts with the values and the work and the family that you're building.
+
+I love these signs. Hillary and Tipper and I are delighted to be here. We ask for your help, your prayers, your support for 68 more days and for four years beyond. We can build that bridge to the 21st century wide enough for all of us to walk across.
+
+Thank you and God bless you. {APPLAUSE} 
+
+{/speech}

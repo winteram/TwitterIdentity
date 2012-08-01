@@ -1,0 +1,84 @@
+﻿{title} Vice President Delivers Remarks to Veterans {/title}
+{event} ----- {/event}
+{speaker} Dick Cheney {/speaker}
+{date} January 16, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all very much. Sit down, please. And thank you, Tony, for that warm introduction. I can't tell you what a delight it is to have a man of Tony Principi's caliber and qualities and character in charge of the Department of Veteran's Affairs. He's done a superb job for all of us. And I'm delighted to call him a colleague. {APPLAUSE}
+
+I rode in with Jon Kyl today, one of Arizona's great senators, and a close friend and colleague of mine. {APPLAUSE} And I just came in from Nevada and Los Angeles today, aboard Air Force Two. It's a pretty nice ride. {LAUGHTER} A little different than some of the aircraft we've got around here today. But it's a worthy successor, if you will, to some of the wonderful airplanes that we see around us.
+
+I'm honored to be here, and I want to bring very best wishes to all of our veterans from our commander-in-chief, President George W. Bush. {APPLAUSE}
+
+Let me also thank our host, the Arizona Wing of the Commemorative Air Force. This worldwide organization is one of the true guardians of our military aviation heritage. By preserving in flying condition the great combat aircraft that helped bring victory in the Second World War, you remind every new generation of the heroic sacrifice and service and the enormous achievements of that era.
+
+In the space of three-and-a-half years, the nation assembled the greatest fighting force in history, producing 300,000 aircraft and training 2 million pilots, building the ships and the tanks, and the trucks, and the weapons, and the ammunition necessary to wage a two-front war. From his wheelchair in the White House, Franklin Delano Roosevelt commanded an army of 16 million men, rallying Americans to gain the inevitable triumph, so help us God.
+
+Six decades ago, some of you were in planes like these over the skies of Europe and the Pacific, helping to throw back tyrants, answer aggression and liberate millions. Others here today, defended our interests in the mountains of Korea, or in the jungles of Vietnam, or during the decades-long vigil of the Cold War. Whenever and wherever your service took place, you earned the nation's respect on the first day you put on the uniform. And you still have our respect today. {APPLAUSE}
+
+Here in Arizona, where so many veterans reside, there's a long tradition of support for our military, and for those who've worn the uniform. I think of two pilots with distinguished careers in public service, Senator Barry Goldwater, who chaired the Armed Services Committee, and Barry's successor, a naval officer who was shot down, then held in brutal captivity and returned with honor, Senator John McCain. {APPLAUSE}
+
+I recall, as well, my friend, the late Congressman Mo Udall, who served in World War II, and other veterans of that war who served in the Congress, who, frankly, died just in the last year, Eldon Rudd, John Rhodes. And let me say a special word about Bob Stump. Bob and I served in the House together for many years, served on the Intelligence Committee together. When I was Secretary of Defense, he was one of my closest friends and allies on the House Armed Services Committee. And I was pleased to preside at his portrait hanging in the House Armed Services Committee when he stepped down and retired. He'll be deeply missed.
+
+I'm honored, as well, in my present responsibilities to work with Arizona's congressional delegation, and Senators Kyl and McCain and the outstanding members in the House. And every day at the White House, I'm proud to work beside a President who has united our nation behind great goals, and who has brought honor and integrity to the presidency of the United States. {APPLAUSE}
+
+President Bush and I came into our current offices almost exactly three years ago, and in a few days, next Tuesday, the President will give his report on the State of the Union. Much has happened since he last spoke to Congress, and we begin the new year a stronger, more prosperous and a more secure nation. The economy is showing continued signs of vigorous recovery, with steady growth, higher productivity, expanding exports. Strong growth has also begun to bring down the unemployment rate.
+
+Our administration and the Congress have also addressed other urgent needs in domestic policy -- among them, historic Medicare reform, giving seniors coverage for prescription drugs, and tax relief for every person who pays income taxes. {APPLAUSE}
+
+We'll have a full agenda in the new year, and we will go about our work as we have from the beginning. The President came to Washington determined to solve problems, not to pass them along to future generations. And we will never forget for a moment, or lose sight of our number one responsibility: to protect the American people against further attack, and to win the war that began on September 11, 2001. {APPLAUSE}
+
+The terrorist attacks that morning that killed 3,000 of our fellow citizens forced us to think in new ways about threats to the United States, about our vulnerabilities, about our enemies, and about the kind of military strategy we need to defend ourselves.
+
+And we have to act on many fronts all at once. We've reorganized the federal government to protect the homeland, and that effort includes special attention to border security. Over the last two years, we've increased funding for border security by 40 percent, employed better technology to record and track movements of people and cargo, and placed more than a thousand new agents on our borders. We're acting on a fundamental belief, this nation's borders should be open to legal travel and honest trade. Our borders must be shut and barred tight to criminals, drug traffickers, and terrorists. {APPLAUSE}
+
+At the same time we realize that the doctrines of deterrence and containment which served us so well during the Cold War are not sufficient to meet the threat of terrorism. It's hard to deter an enemy that has no territory to defend, no standing army to counter, and no real assets to destroy in order to discourage them from attacking the United States. Containment is meaningless in the case of terrorists. And neither containment nor deterrence offers protection against an outlaw regime that develops weapons of mass destruction and is willing to pass along those weapons secretly to terrorists on suicide missions.
+
+Given these realities, there can be no waiting until the danger has fully materialized. By then, it would be too late. So we're waging this war in the only the way it can be won, by taking the fight directly to the enemy. {APPLAUSE}
+
+Today, over 140,000 members of our armed forces are deployed around the world to fight terror. And in the 28 months since 9/11, we and our friends and allies in many countries have inflicted heavy losses on al Qaeda's leadership and foot soldiers, tracking and finding them in hiding places from Pakistan to Indonesia. Those not yet captured or killed live in fear, and their fears are well founded.
+
+We're also working with governments on every continent to take down the financial networks that support terror, the hidden bank accounts, the front groups, and the phony charities that have helped them function. And our government is working closely with intelligence services all over the globe, and our own officers continue to be engaged in some of the most perilous and sensitive intelligence missions ever carried out.
+
+This work has brought many successes, including the discovery of terror plots that we were able to stop in their tracks. Americans can be enormously grateful every day for the skillful and the daring service of our nation's intelligence professionals. {APPLAUSE}
+
+On the night of September 11th, President Bush declared that the United States would make no distinction between the terrorists and those who support them. This principle, the Bush doctrine, is now understood by all: Any person or government that supports, protects or harbors terrorists is complicit in the murder of the innocent and will be dealt with accordingly. {APPLAUSE}
+
+The first to see its application were the Taliban, who ruled Afghanistan by violence, while turning that country into one large training camp for terrorists. With fine allies at our side, we took down the regime and destroyed the al Qaeda camps. Our work there continues. We have 13,000 soldiers and Marines in Afghanistan today as part of an international security force that now includes 38 nations and a major role for NATO. This force is on the hunt for the remaining Taliban and al Qaeda members. We're helping to train an new Afghan army, and providing security as their new government takes shape.
+
+Under President Karzai's leadership, and with the help of the coalition, the Afghan people are building a decent, a just, and a democratic society, and a nation fully joined in the war against terror. {APPLAUSE}
+
+In Iraq, the United States and our allies rid the Iraqi people of a murderous dictator, and rid the world of a menace to our future peace and security. Saddam Hussein had a lengthy history of reckless and sudden aggression. His regime cultivated ties to terror, including the al Qaeda network, and had built, possessed, and used weapons of mass destruction. Year after year, the U.N. Security Council demanded that he account for those weapons and comply with all the terms of cease-fire for the 1991 Gulf War. Year after year, he refused.
+
+Against that background, the Congress of the United States voted overwhelmingly to authorize the use of force in Iraq. The U.N. Security Council unanimously found Iraq in material breach of its obligations, and vowed serious consequences in the event Saddam Hussein refused to comply. When Saddam Hussein continued his defiance, our coalition acted to deliver those serious consequences. {APPLAUSE}
+
+A year ago, Saddam Hussein controlled the lives and the future of some 25 million people. Today, he's in jail in Baghdad, never again to threaten the people of the United States. {APPLAUSE}
+
+In the liberation of Iraq, the American military acted with speed, with precision, and with skill. And to this hour they continue their work -- striking hard against the forces of murder and chaos, conducting raids, countering attacks, seizing weapons and capturing killers. Members of the active duty Armed Forces, of the National Guard, and Reserves have faced conditions that many of you have experienced -- tough duty, long deployments, and the loss of comrades.
+
+And we've said farewell to some of our best. One of them was a National Guard infantryman, from Tallahassee, Florida, Specialist Robert Wise. Specialist Wise was laid to rest a few weeks ago at Arlington National Cemetery. His father Davis said this to a reporter, "I remember the phone call when he actually was being sent overseas, asking, Son, are you sure you want to go. He said, 'Dad, I would rather face them there than here.'"
+
+The courage of that young infantryman -- {APPLAUSE} -- the courage of that young infantryman, and the courage of his family in this sad hour show the spirit of this country in the face of difficulty. America shares their loss. And we mourn the loss of every man and every woman who never lived to be called a veteran. And this nation will honor their memory forever. {APPLAUSE}
+
+By the devoted service of our military, our own safety is assured. And people in lands faraway are getting the chance to lead their lives in peace and freedom. And as in other eras, our people are demonstrating the kindness and generosity of the United States, treating Iraqi citizens with compassion, showing respect for Iraq's ancient culture. In our servicemen and women, the United States -- excuse me --in our servicemen and women, the world is seeing the best qualities of the United States, and we are proud of every single one of them. {APPLAUSE}
+
+As our nation carries forward our commitment to overcome new dangers, we recognize that lasting security depends on more than military power. As President Bush has said, "America seeks the global expansion of democracy and the hope and progress it brings as the alternative to instability and hatred and terror."
+
+Here we find an lesson from history. Twice in the last century, the United States sent armies to Europe in order to prevent the destruction of liberty on that continent. Yet in the decades after World War II, dangers in Europe fell away as the frontiers of democracy advanced -- in Germany and Italy, and then behind the Iron Curtain. The lesson is that the spread of democratic institutions is the surest way to bring peace among nations. {APPLAUSE}
+
+That is why America today is pursuing a forward strategy for freedom in the greater Middle East. Millions in that region have known decades of dictatorship and theocratic rule -- resulting in misery, in bitterness, and ideologies of violence that directly threaten us. And as the world has witnessed in Iraq and Afghanistan, people liberated from dictatorship welcome the arrival of freedom, welcome the chance for a better life, welcome the responsibilities of governing their own country.
+
+By its very nature, freedom must be chosen. And the path to democracy is not an easy one. It takes time and effort and patience for democracy to take hold, and the Middle East has a long way to go. But all who choose that path, by opposing terrorism and encouraging reform, can know this: They will have the friendship and the support of the United States of America. {APPLAUSE}
+
+In answering the great challenges that have come to us, our government will go forward with confidence, but without illusion. Defeating a resourceful and determined enemy, and advancing the cause of human freedom in a vital and troubled region will place great demands on us far into the future. Yet we are clear in our purposes. We recognize the nature of the threat to our security and our duty to oppose it. We accept the responsibilities we've been given as freedom's home and defender. We understand that the hopes of millions now depend on the strength and the resolve of the United States. And we are showing the entire world that when America makes a commitment, America keeps its word. {APPLAUSE}
+
+Not long after our great victory in World War II, America found itself in a stand-off with the Soviet Union that would last for four decades. As that era began, President Harry Truman said: "Events have brought our American democracy to new influence and new responsibilities. They will test our courage, our devotion to duty, and our concept of liberty." Fifty-five years later, America and our allies look back with pride on the perseverance and the moral clarity that saw us through those many tests. Americans of today, and the President, who leads us, have those same qualities, as we have seen many times since the morning of September 11, 2001. We cannot know every turn that lies ahead. Yet we can be certain that by the strength and character of this country, and by the rightness of our cause, we will prevail. {APPLAUSE}
+
+Once again, my thanks for the warm welcome this afternoon. The American people are grateful to all of you for stepping forward to serve your country when needed. As veterans, each and every one of you has reflected great credit on the uniform, on your flag and on your country, and your service inspires the new generation of freedom's defenders. {APPLAUSE}
+
+Thank you all very much. {APPLAUSE} 
+
+{/speech}

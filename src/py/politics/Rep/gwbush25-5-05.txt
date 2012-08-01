@@ -1,0 +1,44 @@
+﻿{title} President Celebrates Asian Pacific American Heritage Month {/title}
+{event} The East Room {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 25, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you for coming. Good afternoon, and welcome to the White House. I am glad you're here. I'm proud to be with you to celebrate Asian Pacific American Heritage Month. And we are joined by a very special guest, a close friend of America, a man with whom I just had a very good visit, President Yudhoyono from Indonesia. Welcome, Mr. President. {APPLAUSE}
+
+Before we award our Volunteer of the Year awards, the President has graciously offered to give some remarks. And, unfortunately, I'm going to give some, too. {LAUGHTER} Before I begin I do want to introduce Agus and Edhie, the President's sons. Welcome. We're glad you're here. Agus will be getting married on July the 8th. {APPLAUSE}
+
+This is a time to celebrate the achievement of millions of Americans of Asian Pacific ancestry. Today, Asian Pacific Americans are making their mark in all walks of life, including business and politics, and education and community service, and the arts and science.
+
+I'm fortunate to have many Asian American in my Cabinet and in my administration, two of who are here with us today. I want to thank the Secretary of Labor, Elaine Chao, for joining us. {APPLAUSE} And the Secretary of Transportation, Norm Mineta. {APPLAUSE}
+
+Andrew Natsios, of USAID, is here. Andrew, it's good, it's good you're here, because we're going to be talking about tsunami relief in a minute. I want to thank Betty Wu, who is the Chairman of the President's Advisory Commission on Asian American and Pacific Islanders. I want to thank all the commission members who are here today.
+
+I want to thank my friend, Ambassador Sichan Siv, from the United Nations. Where is he? Where is Sichan? There he is. Welcome, Sichan. You did a fine job. {APPLAUSE} I'm glad Martha is here. Delegate Eni from Samoa, thank you for coming, sir. Proud you're here. Is Lisa here? Senator Murkowski just came in from the state of Alaska. Proud you're here. {APPLAUSE} I see we got a lot of members of the Diplomatic Corps who are here. Welcome, Ambassadors. Thank you for coming. Proud you're here. And again, Mr. President, thank you for joining us as we celebrate Asian Pacific Heritage Month.
+
+Indonesia and America may be on the opposite sides of the ocean, but we have a lot in common. We are both among the world's largest democracies. We both share a belief that our great diversity is a source of strength. And when the tsunami hit, citizens from both our countries took it upon themselves to come to the aid of those in distress.
+
+The tsunami that began in the Indian Ocean struck Indonesia just two months after the President came into office. I understand that when the tsunami hit, His Excellency was in a remote province of his country. And the moment he heard what happened, he rushed to the scene. He didn't hesitate. He rushed to not only help, but to make a personal assessment of what needed to be done. After declaring a national emergency, he moved quickly to clear away the bureaucratic obstacles and visa requirements so that the path would be clear for international relief workers.
+
+By acting with skill and courage, Mr. President, you helped bring your country together in a time of great crisis. And thank you for that kind of leadership. {APPLAUSE}
+
+And the people of Indonesia responded in kind. Religious organizations and business people and the Indonesian Red Cross and thousands of ordinary citizens traveled at their own expense to the hard-hit province of Aceh to pitch in, to do their duty as a citizen of a free democracy.
+
+And the need was great. More than 125,000 Indonesians have been confirmed dead. Think about that. Another 37,000 are missing. More than half-a-million have been forced from their homes. Your fellow citizens provided first aid and you helped evacuate victims and distributed relief supplies. And it was a good example of how government and individuals work together.
+
+But it was also important for the world to respond. And I'm proud of the response of the United States government and her people. Our United States military was on the scene with an aircraft carrier. And we had sailors and Marines working around the clock to show the people of your part of the world that our hearts are big, that we care about people from all walks of life, that the compassion of America runs deep and strong.
+
+Shortly after the disaster struck, the United States pledged $350 million in aid for the region. Providing relief, our country has really, I hope, showed that we're a friend when you've got a problem. But a friend doesn't quit when a problem persists. And so, earlier this month, Congress approved my request for additional tsunami relief and reconstruction help, bringing total U.S. aid to more than $850 million.
+
+The people of your country need to know, and the people of the countries affected by the tsunami relief need to know, that when America gives a pledge to help, we'll keep our word, and that when America says that we stand with you, we mean it. So, Mr. President, please take this message back to the people of Indonesia. {APPLAUSE}
+
+Finally, I'm proud that volunteers from our Asian Pacific American community were among those who stepped forward to help the victims of the tsunami relief -- of the tsunami. Their efforts ranged from serving on humanitarian missions to raising money, to rebuilding an orphanage. Americans from all over our country, from all walks of life, used their time and talents and compassion to make a difference. Heck, I even called on two former Presidents -- {LAUGHTER} -- 41 and 42 -- {LAUGHTER} -- Bush and Clinton -- {LAUGHTER} -- to join together to send a message that we're not talking politics, we're talking about helping people get their feet back on the ground -- get their feet back on the ground. We're talking about helping to save lives. That's the American spirit, Mr. President. That's how we like to do things in this country. {APPLAUSE}
+
+And today, we've gathered to honor some of our fellow citizens with volunteer service awards. People from the Asian Pacific community have heard the call to serve something greater than themselves. And before we present those awards, however, Mr. President, I'm honored to welcome you to the White House and welcome you to the podium so that you can deliver a few remarks.
+
+Please welcome the President. {APPLAUSE} 
+
+{/speech}

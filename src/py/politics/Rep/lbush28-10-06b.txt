@@ -1,0 +1,74 @@
+﻿{title} Mrs. Bush's Remarks at Pennsylvania Victory 2006 Rally {/title}
+{event} Hilton Philadelphia City Avenue, Philadelphia, Pennsylvania {/event}
+{speaker} Laura Bush {/speaker}
+{date} October 28, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Congressman. Thank you, Jim, thank you for your very nice welcome. And thanks to everyone. Thanks to every person out here for your very, very nice welcome. I appreciate it very much.
+
+{AUDIENCE-MEMBER} {COMMENT="Inaudible"} {/AUDIENCE-MEMBER} 
+
+All right.
+
+{AUDIENCE-MEMBER} {COMMENT="Inaudible"} {/AUDIENCE-MEMBER} 
+
+Oh, great, thanks a lot. And I also want to recognize Jim Gerlach's wife, Karen. Where's Karen? Is she right here in the very front? Thank you, Karen. {APPLAUSE} And of course, I'm so proud to stand here with Senator Rick Santorum. {APPLAUSE} Karen and Rick's children are also here, all of them. Thank you all very much for joining us today.
+
+Lynn Swann, your Republican candidate for governor, and one of my very good friends. {APPLAUSE} And Jim Matthews, the Republican candidate for lieutenant governor. Thank you very much, Jim. Appreciate it. {APPLAUSE}
+
+And I know in the crowd are a lot of local elected officials and candidates, and I want to thank you all for your service to all of your communities and to our country.
+
+I'm delighted to be with you today to support Jim Gerlach's campaign for the United States Congress -- {APPLAUSE} -- Rick Santorum's reelection bid for the United States Senate -- {APPLAUSE} -- and Lynn Swann and Jim Matthews' campaign for the State House, to be your next governor. {APPLAUSE}
+
+These men care deeply about the people of Pennsylvania. In Washington, and in Harrisburg, they'll be passionate advocates for Pennsylvania families.
+
+Congressman Gerlach and Senator Santorum are helping Pennsylvanians by improving employment opportunities in your state. Congressman Gerlach has secured more than $50 million to improve local roads and highways -- projects that will increase transportation options for Pennsylvanians and create jobs for the 6th district. Senator Santorum co-sponsored the historic 1996 Welfare Reform Act, which has helped millions of Americans enjoy the independence that comes from providing for themselves and their families. Thank you very much for that, Rick. {APPLAUSE}
+
+Rick has helped Pennsylvanians by improving health care. He supports President Bush's initiatives to curb malaria and HIV/AIDS through programs like the President's Emergency Relief Plan for AIDS, and the President's Malaria Initiative. You might not know, but you, through the United States government, are helping people all over Africa with life-saving resources, to help suffering people in Africa, Asia and other regions. Thank you very much, Senator Santorum, for this important and compassionate work. {APPLAUSE}
+
+Congressman Gerlach brought to Congress the principles of efficiency and accountability that have defined his public service. He makes sure Pennsylvanians tax dollars are spent wisely and responsibly. Jim supports the Presidential Line Item Veto, which will help eliminate unnecessary spending from the federal budget.
+
+And he supports President Bush's tax cuts. {APPLAUSE} These tax cuts have fueled our economy, and they've helped add 6.6 million new jobs since 2003. And that means 6.6 million more Americans wake up every morning with the dignity and the sense of purpose that come with a job.
+
+Something else Congressman Gerlach and the President have in common -- and something I share with them -- is a commitment to natural and historic preservation.
+
+Congressman Gerlach is an enthusiastic steward of our country's natural resources. He sponsored the Future Fuels Act, which promotes the use of ethanol and other alternative sources of energy. And through the Open Space and Farmland Preservation Act, Jim helped establish a matching grant program that encourages Pennsylvania communities to preserve your state's open farmlands and picturesque landscapes. Congressman Gerlach's legislation passed the House just last month. So congratulations, Jim. {APPLAUSE}
+
+Senator Santorum is a champion of historic preservation. He led the effort to construct the National Constitution Center in Philadelphia -- {APPLAUSE} -- and the new Visitor's Center at the National Military Park. {APPLAUSE} And through partnerships with the private sector and with the state, Rick has worked to build the National Museum of the American Revolution at Valley Forge. Thank you, Rick and Jim, for this vital work. {APPLAUSE}
+
+Thanks to both of you for protecting our country's historical and natural treasures. One of the benefits of natural and historical preservation is that it gives our children more opportunities to learn about our country. Visits to national parks, to museums, to aquariums, to monuments are great activities for young people. They offer children healthy and positive ways to learn and spend time with their families.
+
+Congressman Gerlach has a strong record of commitment to young people. He's secured millions of dollars in grants to improve southeastern Pennsylvania schools. Jim supports the IDEA Act, which funds education programs for young people with disabilities in Pennsylvania and throughout our country. Thank you for that, Congressman. {APPLAUSE}
+
+Both Congressman Gerlach and Senator Santorum have brought greater accountability to our classrooms through their support for No Child Left Behind. They support increased funding for Pell Grants, which have allowed more Pennsylvania students to realize the dream of a college education. {APPLAUSE}
+
+In Harrisburg, Lynn Swann will be a passionate advocate for Pennsylvania's youth. As the National President of the Board of Big Brothers and Big Sisters of America, Lynn has helped children in all 50 states build character, self-confidence, and leadership skills under the guidance of caring adults. And as Governor Swann -- with the help of Lieutenant Governor Matthews -- Lynn will establish Educational Opportunity Zones. This initiative will make sure that all Pennsylvania's young people, regardless of their income level, can receive an excellent education. {APPLAUSE}
+
+We all know, though, that the well-being of young people in Pennsylvania and throughout our country ultimately depends upon our government's ability to protect them -- by defeating terrorism and increasing liberty abroad. {APPLAUSE} Jim Gerlach, Rick Santorum, Lynn Swann and Jim Matthews are all champions of the men and women of the United States military. {APPLAUSE}
+
+Thanks to our troops, the Iraqi people are now free from the oppression of Saddam Hussein, and are working to build a democratic future for their country.
+
+And in Afghanistan, women and girls can now be educated. {APPLAUSE} It's hard for us to imagine a country that would prohibit half of its citizens from being educated. But now, little girls are in school all over Afghanistan.
+
+All of us are so proud of the men and women who are deployed around the world defending our country. Every day, thousands of these men and women risk their lives overseas to make sure that their families, and all of our families, are kept safe here in the United States. {APPLAUSE} Their love of our country, and of liberty, never wavers, and neither does their belief in their cause.
+
+Many of these young men and women have given their lives for this belief. Around the country, President Bush and I meet with their families. In military hospitals, we meet with their fellow soldiers who've been wounded in combat. And from our troops and their families, the President and I hear the same request: that we honor the sacrifice of these men and women by seeing their mission through. They ask the American people to stand with our troops. {APPLAUSE}
+
+Each of the men in front of you stands with our troops. {APPLAUSE} They understand that this election is crucial to the future of our country, and they know that America faces challenges too important to be reduced to just politics.
+
+President Bush has an ambitious agenda for the rest of his time in Washington, and he takes his responsibility to the American people very seriously. Ending our dependence on foreign oil, reforming our immigration system, rebuilding the Gulf Coast, and keeping our country safe from terrorism are not easy tasks, but they're absolutely vital goals. To accomplish them, we must have serious national conversations, conducted with civility and respect.
+
+The right to have these conversations is part of what makes our country great, and our democracy strong. We must be mindful that people around the world are listening to these discussions. Responsible candidates understand that the men and women of our military are risking their lives overseas, and that we must conduct our debate here at home in a way that does not jeopardize our troops in harm's way. {APPLAUSE} It's so important that we stand with Jim, Rick and Lynn, and all our Republican candidates at this very crucial moment in American history. {APPLAUSE}
+
+Thanks to each and every one of you for supporting Congressman Gerlach, Senator Santorum, Lynn Swann, and Jim Matthews. Thanks especially to all the volunteers for your hard work making the phone calls and knocking on the doors.
+
+You've already done so much to help Pennsylvania's terrific candidates, including your state's distinguished Republican congressmen. And in the next week, they'll need more of your energy and enthusiasm. Go to the phone banks, knock on those doors, and talk to your friends and neighbors about Jim Gerlach, Rick Santorum, Lynn Swann, and Jim Matthews. They need your support, and our country needs them. {APPLAUSE}
+
+Thank you all very much for coming out today. Thank you for all the hard work you're going to do over the next two weeks to make sure Jim Gerlach, Rick Santorum, Lynn Swann and Jim Matthews and all of our candidates are elected on November 7th.
+
+Thank you all very, very much. {APPLAUSE} 
+
+{/speech}

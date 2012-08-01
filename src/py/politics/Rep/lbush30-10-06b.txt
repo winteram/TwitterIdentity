@@ -1,0 +1,60 @@
+﻿{title} Mrs. Bush's Remarks at Pennsylvania Victory 2006 Rally {/title}
+{event} Great Hall Banquet Center, Pittsburgh, Pennsylvania {/event}
+{speaker} Laura Bush {/speaker}
+{date} October 30, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very, very much, Melissa. Thanks, everybody. Hey, everybody, thank you all very much. I'm so honored today to have the chance to stand with Melissa Hart. Melissa, it's great to be here with you. Thank you so much.
+
+And also Karen Santorum, Senator Rick Santorum's wife is with us. Thank you, Karen. Nan Murphy, wife of Congressman Tim Murphy is here in the audience somewhere. Thank you very much. Thank you, Nan, for joining us. {APPLAUSE}
+
+I'm so happy to be here with these very accomplished women, and I want to thank you all for joining us, as well. You know, when your spouse is in politics, like Karen's and Nan's and mine, you're involved whether you want to be or not. {LAUGHTER} And we know that successful politicians have families who are there with them all the time and stand with them. So thanks to Karen and Nan. Thank you for your support.
+
+And thanks to each and every one of you for coming out today to support Melissa Hart's campaign for the United States Congress. {APPLAUSE} Melissa cares deeply about the people of Pennsylvania, and in Washington, she's distinguished herself as a passionate advocate for the 4th district.
+
+Congresswoman Hart is committed to Pennsylvania's women. She's the first Republican woman to represent Pennsylvania in either house of Congress. {APPLAUSE} And she's a role model for girls and women everywhere. {APPLAUSE}
+
+In Washington, Melissa has protected mothers and children through her sponsorship of the Unborn Victims of Violence Act. She's increased federal funding to support women who've suffered domestic abuse. And since her days in the Pennsylvania State Senate, Melissa has been a champion of the New Choices/New Options program. New Choices works with local employers to provide domestic-violence victims -- especially single mothers -- with jobs and life skills training, so they can build new lives for themselves and their children. Thank you, Melissa, for your commitment to American women. {APPLAUSE}
+
+Congresswoman Hart has brought to Washington the principles of efficiency and accountability that have defined her public service. She makes sure Pennsylvania's tax dollars are spent wisely and responsibly. Melissa supports the Presidential Line Item Veto, which will help eliminate unnecessary spending from the federal budget. {APPLAUSE}
+
+And Melissa supports President Bush's tax cuts. {APPLAUSE} These tax cuts have fueled our economy, and they've added 6.6 million new jobs just since 2003. That means 6.6 million more Americans wake up every morning with the dignity and the sense of purpose that comes with a job.
+
+Congresswoman Hart is dedicated to creating jobs in Pennsylvania. On the House Ways and Means Committee, Melissa has improved the business climate for Pennsylvania entrepreneurs, so they can expand their companies and create more jobs for the 4th district. She's restored funding to the Manufacturing Extension Partnership program, which helps Pennsylvania's small and mid-sized manufacturing companies compete in the global marketplace.
+
+And Congresswoman Hart secured the long-awaited interstate highway designation for I-376. {APPLAUSE} This designation will improve safety conditions for Pennsylvania drivers, and bring good construction jobs to the 4th district. Thank you very much for that, Melissa.
+
+Offering young people the hope of good employment is one of the most important things we can do for our children. Another way we can help them is by steering them away from risky behavior, and guiding them toward the knowledge and the self-respect they need to build successful lives.
+
+Melissa Hart has a strong record of commitment to young people. She's helped pass legislation to protect children on the Internet, by shielding them from explicit e-mail. And Congresswoman Hart sponsored the 529 College Savings Plan, which President Bush signed into law in August. {APPLAUSE} Melissa's legislation allows families to save for their children's higher education tax-free. This will help millions of young people in Pennsylvania and across the United States realize the dream of a college education. Thank you, Melissa, for this important work. {APPLAUSE}
+
+We all know, though, that the well-being of young people in Pennsylvania and throughout our country ultimately depends upon our government's ability to protect them -- by defeating terrorism and increasing liberty abroad. In Congress, Melissa has been a champion of the men and women of the United States military. {APPLAUSE}
+
+And thanks to our troops, the Iraqi people are now free from the oppression of Saddam Hussein, and they're working to build a democratic future for their country. {APPLAUSE}
+
+And in Afghanistan, women and girls can now be educated. {APPLAUSE} It's hard for us to imagine a country that would prohibit half of its citizens from being educated. But now, little girls are in school all over Afghanistan.
+
+All of us are proud of the men and women who are deployed around the world defending our country. Every day, thousands of these men and women risk their lives overseas to make sure that their families, and all of our families, are kept safe here in the United States. Their love of our country, and of liberty, never wavers, and neither does their belief in our cause.
+
+Many of these men and women have given their lives for this belief. Around the country, President Bush and I meet with their families. In military hospitals, we meet with their fellow soldiers who've been wounded in combat. And from our troops and their families, the President and I hear the same request: that we honor the sacrifice of these men and women by seeing their mission through. They ask the American people to stand with our troops. {APPLAUSE}
+
+Congresswoman Melissa Hart stands with our troops. {APPLAUSE} She understands that this election is critical to the future of our country. And she knows that America faces challenges too important to be reduced to just politics.
+
+President Bush has an ambitious agenda for the rest of his time in Washington, and he takes his responsibility to the American people very seriously. Ending our dependence on foreign oil, reforming our immigration system, rebuilding the Gulf Coast, and keeping our country safe from terrorism are not easy tasks, but they are absolutely vital goals. And to do them, we must have serious national conversations, conducted with civility and respect.
+
+The right to have these conversations is part of what makes our country great, and our democracy strong. We must be mindful that people around the world are listening to these discussions. Responsible candidates understand that the men and women of the United States military are risking their lives for us overseas, and that we must conduct our debate here at home in a way that does not jeopardize our troops in harm's way. {APPLAUSE}
+
+Melissa Hart understands her responsibility to our country, and to you, as your representative in the United States Congress. It's so important that we stand with Melissa during this crucial time in our country's history.
+
+Thanks to each and every one of you for supporting Melissa Hart. Thanks especially to all the volunteers for your hard work making the phone calls and knocking on doors. You've already done so much to help Melissa and our other terrific candidates in Pennsylvania -- candidates like Senator Santorum -- {APPLAUSE} -- Lynn Swann -- {APPLAUSE} -- and the other distinguished Republican congressmen. And in the next week, they'll need more of your energy and enthusiasm.
+
+We're looking forward to Election Day. This is a spirited contest, and we've got great candidates. We've got the best grassroots volunteers. {APPLAUSE} Our candidates are depending on you, so be sure to get everyone you know to the polls. Go to the phone banks, knock on those doors, and talk to your friends and neighbors about Congresswoman Melissa Hart and Pennsylvania's great Republican candidates. They need your support, and our country needs them. {APPLAUSE}
+
+Thank you all so much. Thanks for coming out today, and thank you in advance for all the hard work you're going to do over the next week to make sure Melissa Hart is re-elected to the United States Congress on November 7th.
+
+Thank you all. {APPLAUSE} 
+
+{/speech}

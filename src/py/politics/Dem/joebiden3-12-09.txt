@@ -1,0 +1,44 @@
+﻿{title} Remarks by the President and Vice President at the Opening Session of the Jobs and Economic Growth Forum {/title}
+{event} Opening Session of the Jobs and Economic Growth Forum {/event}
+{speaker} Joe Biden {/speaker}
+{date} December 3, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Secretaries, members of the Cabinet, distinguished guests, I welcome you all here today. Your presence is welcomed, but quite frankly, it's not nearly as important as your input. We're looking to you. We're counting on you. We need help, for we realize that even after all we have done in these last 10 months that -- to revitalize American communities, our capacity, the government's capacity, is still somewhat limited. We can help -- we can help create the conditions that make for a stronger economy, make a stronger economy possible. But it's you, all of you in this audience here, who are in the position to make it a reality. To put it another way, without you it will not become a reality.
+
+So our task together is obviously not an easy one. We've not faced this kind of economic dilemma in the lifetime of anyone in this room. And so building a new and invigorated platform upon which we can enter this century in a way that we can lead in the 21st century, the way we did in the 20th century, is at rock bottom what this is all about. No more bubbles. No more bubbles. You cannot sustain your world leadership based upon a housing bubble or a dot-com bubble; it's got to be based on a really firm foundation. I don't have to tell you. That's preaching to the choir, as they say where I'm from. I know you all understand that.
+
+Look, the Recovery Act -- much maligned, but worked -- has worked very well -- the Recovery Act has played a vital role in kick starting this process. It has not only pulled us back from that abyss that we were looking at -- remember the -- remember your college days, having to study the essayist, Samuel Johnson? And one of the favorite quotes I remember, Mr. Secretary, was "There is nothing like a hanging to focus one's attention." {LAUGHTER} Well, let me tell you, your attention has been focused, our attention has been focused. And we've been able to pull back from that dark abyss.
+
+My deceased wife used to have an expression. She'd say, "The greatest gift God gave mankind, Joey, is the ability to forget." And my mother would quickly add, "Yes, if it weren't for that, all women would only have one child." {LAUGHTER} But all kidding aside, it's amazing -- amazing what we've forgotten already in 10 months just how dire and bleak things looked 10 months ago.
+
+And so the Recovery Act has put us on the path to recovery, it pulled us back from the brink. Before the President and I dropped our right hand on January the 20th of this year, already that month 700,000 people had lost their jobs; 740,000 by the end of that month lost their job; another 640,000 in the short month of February. So the fact of the matter is the last job report was not good, but a lot better -- 190,000 jobs lost. Our economy was shrinking when we took office at a rate of 6 percent, actually above 6 percent. And now it's growing at a rate at about 3 percent the last quarter. And leading economists attribute a large portion of that GDP growth in the last quarter to the Recovery Act.
+
+And according to the most CBO report -- and if you've noticed, the one thing those of you who aren't -- do not work here every day notice the only thing Democrats and Republicans agree on is the objectivity of CBO. We all quote their numbers, and we quote them even when they don't agree with what we wanted to do, because they are bipartisan; they are responsible. And the CBO report, the most recent report of several days ago, said the act is responsible for creating as many as 1.6 million jobs. A couple of my friends on the Hill wrote me a note saying, "Joe, stop quoting that the act created over 600,000 jobs." I wrote back and said, "I promise I'll do that if you start saying it created 1.6 million jobs." But the point is it has created jobs.
+
+So there's been progress. But you know it's not enough. That laid-off teacher -- that laid off teacher, they don't want to hear about the GDP. That out of work autoworker or that Teamster, they don't want to hear about a CBO report. There used to be an expression, and I'm not joking, my grandfather always used it. He was from Scranton, Pennsylvania. He said, "When the guy from Throop is out of work, it's an economic slowdown. When your brother-in-law is out of work, it's a recession. When you're out of work, it's a depression." And it is a depression for over 10 million Americans, which is why I'm pleased that the next phase of this Recovery Act -- we are only about halfway through it -- we're entering even at a more rapid rate, we're distributing these dollars even quicker, projects are getting in the ground faster, and we're spending -- and a particular focus on those aspects that have proven successful in creating jobs, putting real paychecks in the pockets of hardworking Americans.
+
+And by design, the items in the act which have the biggest impact are yet to come. Within the next two weeks to a month, another roughly $13 billion is going to be announced rolling out in terms of both investments in broadband and high-speed rail, and competitive education and infrastructure. In fact, the money spent on clean water, renewable energy, superfund sites, and much more, is going to more than double -- it's going to more than double in this quarter and will maintain a similar pace for the next two quarters.
+
+So tomorrow, for example, Secretary LaHood -- who is here -- is going to be making an important announcement about the number of high-speed rail manufacturers who are looking to come to the United States, build facilities here, manufacture components here, manufacture train sets here based on our willingness to provide the seed money to invest in high-speed rail. And many more announcements like that are coming in the months ahead. But we're not just looking to bold new programs. Many of the upcoming investments are expansions of our most successful programs to date. And that's where you all come in.
+
+At today's job summit, we're all hearing -- we'll be hearing about ideas -- ideas that can do even more than we've done so far. Some of you will urge us to invest more in infrastructure -- roads, bridges, water projects. We've seen this investment succeed in creating jobs in the Recovery Act. And today, we'll hear the case for doing more along those lines.
+
+Others of you today are going to argue that we should invest in green jobs, retrofitting, weatherizing, making homes and offices more energy efficient. Again, we've seen that these investments can be successful in creating jobs. And today we'll hear the case for doing more along those lines, I suspect as well.
+
+And still others of you will talk about the need for more incentives for small businesses and our other ideas to help business through tax incentives. And again, similar investments in the Recovery Act are showing some real promise. So we should see if there's more we can do in those areas.
+
+Many different participants are going to -- are here, and many different offerings are going to be put forward, many different ideas. But in the end, the grist is the same: take the things that we know work, and make them work better and make them work faster. And all of this can't be done -- I should put it another way: None of it can be done without your full buy-in and your leadership in the private sector.
+
+President Obama has focused on this issue with an intensity that it demands, and with an intensity it deserves. With everything else he has on his plate -- and I've been here for eight Presidents -- I think I can say without fear of contradiction, no President has ever entered office with as many crises sitting on his desk the day he walked into office. And I've been here for eight Presidents as a United States senator.
+
+But notwithstanding that, his laser focus has been -- and the economic team can tell you, every morning we have the meeting relating to the principles on the economy, the principals in the economic team coming in, it's what we call the Presidential Daily Briefing, is jobs, jobs, jobs, jobs.
+
+And so, folks, we not only want to create jobs, but good jobs, jobs you can raise a family on, jobs that will service a foundation for a new economic future in this country. And no man is more committed to making that happen than President Barack Obama.
+
+So, ladies and gentlemen, please welcome the President of the United States of America, Barack Obama. {APPLAUSE} 
+
+{/speech}

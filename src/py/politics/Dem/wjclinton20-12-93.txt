@@ -1,0 +1,32 @@
+﻿{title} Remarks by the President in Signing Ceremony of the Child Protection Act {/title}
+{event} The Roosevelt Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} December 20, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I'm delighted to see all of you here. And I want to especially recognize Secretary Shalala and my good friend Marian Wright Edelman. Senator Biden, thank you for being here, sir. Congresswoman Schroeder; Congressman Edwards; and my former colleague and longtime friend Governor Jim Thompson from Illinois; Oprah Winfrey; Lynn Swann, and Andrew Vachss. Thank you all very much for helping this day to come to pass.
+
+The holiday season is a time for sharing the warmth of human contact with families and friends. And making this a joyous and safe time for children everywhere is important. That makes this legislation, the National Child Protection Act, especially significant. With it we can give a great gift, a much improved system for protecting our children from being abused or harmed by those to whom we have entrusted them.
+
+Not unlike the Brady Bill, this law creates a national data base network. This one can be used by any child care provider in America to conduct a background check to determine if a job applicant can be trusted with our children; and if not, to prevent that person from ever working with children.
+
+For the first time, we'll have a system in place to protect the many millions of American children who receive care and supervision in formal day care and in other settings from other organizations. This law will give us the tools we need to safeguard children from those who have perpetrated crimes of child abuse or sex abuse or drug use or those who have been convicted of felonies. It's very important that we give working parents peace of mind about child care.
+
+A majority of mothers with young children now work outside the home. Six million children are placed in formal day care settings everyday. Balancing work and family is hard. And parents are worried about their personal security and the security of their children in an increasingly violent world.
+
+Like the Brady Bill and the crime bill, which I hope and believe will pass soon, this act will help us to take our streets, our neighborhoods, the institutions we rely on back for American values and American children. There is nothing more important that our government could be doing now.
+
+Like all change, passing this important law has not been easy. And there are many to thank. First of all, I thank you, Oprah, for a lifetime of being committed to the well-being of our children and for giving child abuse issues such wonderful coverage on your show. You wrote the original blueprint for this law, and we're grateful -- becoming a tireless advocate for its passage, lobbying members of Congress of both parties for more than two years, and lobbying the President -- people occasionally do that, too. {LAUGHTER} All of us, but especially our children, owe you their gratitude.
+
+Now we can help to prevent child abuse with this measure, not just to catch people who do it. It's a great cause and a remarkable achievement, and I want to thank all the rest of you who were involved in it.
+
+Finally, let me say, especially for the benefit of the members of Congress here, this is the last piece of legislation I will sign from this session of Congress. It wraps up a very productive session -- a session that dealt with family leave and motor voter and a new economic plan that brought low interest rates and recovery, with the National Service Bill that I think will galvanize the imagination of a whole generation of young people, with new trade legislation and with the Brady Bill. But this is a good bill to end on -- a bill that ends where all of us should begin -- by putting our children first.
+
+Thank you very much. I'd like to invite you all to come up here for the signing.
+
+{COMMENT="The bill is signed"} {APPLAUSE} 
+
+{/speech}

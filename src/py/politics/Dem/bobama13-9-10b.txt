@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President to NCAA Champion Student Athletes {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} September 13, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. {APPLAUSE} Well, it's good to see -- boy, this is a healthy-looking group here. {LAUGHTER} It is wonderful to see you. Welcome to the White House.
+
+I want to thank all the teams that have traveled from all over the country to be here. And congratulations on being NCAA champions. {APPLAUSE} We've got over 650 athletes and almost 150 coaches and staff here today. This is the most athletic talent we've ever had on the South Lawn.
+
+We've got the sharpshooters from TCU rifle squad -- where are they? {APPLAUSE} There they are, down there. I think they might be able to give Secret Service a run for their money. {LAUGHTER} We've got the Fairleigh Dickinson bowling team here -– I need some tips, guys. {LAUGHTER} You might be able to tell me how to get my score up.
+
+I want to recognize Ambassador Ron Kirk, who's a big Texas Longhorns fan. He's our ambassador for trade. We've got a lot of members of Congress who are here, local officials who are with us. And I know they are incredibly proud of the trophies that all of you brought home. I want to thank the NCAA Interim President, Jim Isch, for everything he's doing to support so many outstanding student athletes. Give Jim a big round of applause. {APPLAUSE}
+
+Now, that term, “student athlete,” is the thing that makes me so proud to stand before you here today, because when each of you won the titles that you won -– whether it was in lacrosse or gymnastics -- {APPLAUSE} -- or wheelchair basketball -– {APPLAUSE} -- you didn't do it as professionals. You didn't have multimillion-dollar contracts or huge endorsement deals. You woke up early; you put in countless hours of practice for the love of the game and for the pride of your school. You rode those buses and you carried those bags because you knew what it was going to take to be the best -– and because every one of you has a competitive streak that's about a mile wide.
+
+And most impressive of all, you did this while shouldering a full load of classes -– sometimes grabbing a few minutes to study in airports or locker rooms -– because you understand that “student athlete” emphasizes “student” and not just “athlete.”
+
+So this is a group that knows what it means to be a champion. You also understand that being a champion means giving back to the folks who gave so much to you -– the fans and the students who braved the heat and the rain and the snow to see you play, the communities that adopted you as one of their own.
+
+That's why I'm so proud to hear about all the ways that you've found to improve the lives of those around you. I know that one team cooks dinner for the families of children suffering from serious illnesses. Another holds a track meet every year for more than 300 students with physical and mental disabilities. Together, you guys have organized blood drives, built houses, cleaned up beaches and reached out to senior citizens. One young man even donated bone marrow to a little girl he had never met. And as he said, “Saving someone's life is a lot more important than a football game.”
+
+It's the kind of selfless attitude that's going to stay with you for the rest of your lives. And that's incredibly important, because for the vast majority of you, the day will come -– and it will probably sooner than you like –- when you won't be known primarily as a hockey player or a tennis player or a baseball player anymore. Instead, you're going to be known as a doctor or a lawyer or a teacher or a nurse, a businessperson, a mom or a dad. And I'm confident that you're going to excel at that just as you've excelled at everything that you do.
+
+No matter what you do, no matter where you end up, you will always know in your heart what it means to be the best there is at what you do. You'll always know what it's like to set a goal and then reach it; what it feels like to hit your limit and then go beyond it; to get to the top and turn around and give others a hand.
+
+In other words, you're always going to know what it means to compete, and what it means to be a champion. That's something that nobody will ever be able to take away from you. And that is something that you should be extraordinarily proud of.
+
+So, I'm thrilled to have a chance to meet all of you. You guys don't just make your communities proud, but you make America proud. God bless you, and God bless the United States of America. Thank you very much, everybody. Thank you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,46 @@
+﻿{title} Remarks by the President and the Vice President at Dnc Dinner {/title}
+{event} Ritz-Carlton, Amelia Island, Florida {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 1, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Please be seated. We're going to reverse the order tonight and I'm going to introduce the Vice President because you've all heard me speak before -- {LAUGHTER} -- because I need to save my voice to campaign for our candidates in New Jersey and New York tomorrow. {APPLAUSE} Thank you.
+
+Let me once again thank all of you for coming. I hope you have enjoyed this. I certainly enjoyed it today. I was glad to meet with the various panels, and I enjoyed Governor Romer's speech at lunch very, very much. Didn't he do a terrific job? {APPLAUSE}
+
+Ladies and gentlemen, six years ago when I began running for President, I wanted to win the election to change the country, and I felt very strongly that we were not preparing America for the 21st century and that our party needed to break the logjam not only with a set of new policies, but with a set of new ideas. I thought the political debate had become, frankly, stale, and at least to someone like me, governing a state out in the country, often completely meaningless.
+
+I believed we had to move the debate toward what was good for the future, not the past; what would support positive change, not the status quo; what would bring us together, not divide us; and move away from the old left-right, liberal-conservative and, frankly, outdated name-calling and labeling that dominated national politics. Six years later, we've made a lot of progress, not only in moving the country to a better place, but in changing the nature of political debate.
+
+I very much hope that the simplistic antigovernment, reactionary approach had its last gasp in the Republican congressional victory in 1994. {APPLAUSE} The fact that we beat back the Contract With America and signed the right kind of welfare reform, got a balanced budget with the biggest investments in education and health care since 1965, and that we're moving forward in a way that brings the country together around the ideas of opportunity, responsibility and community that we have espoused now for a long time is deeply encouraging to me.
+
+The fact that all around the world now people are beginning to talk in the same terms -- the First Lady is in Great Britain today; she's been in Ireland. I, frankly, was very flattered that Tony Blair's campaign was often compared to ours, and that the so-called new Labor movement has a lot in common with what we try to do here. I believe all over the world countries that are serious about helping people make the most of their own lives, assuming a leadership role in dealing with the challenges of the modern world are going to have to basically adopt similar approaches.
+
+If you hadn't helped us, none of the that would have been possible. But what I want to say to you is, if I hadn't been smart enough to pick Al Gore to be my running mate, none of it would have been possible. {APPLAUSE}
+
+Let me just give you a few examples. Sam Rayburn used to say it's a lot easier to tear something done, even a jackass can kick a barn down, but it takes a carpenter to build one. Now, we took the position that the old debate that government could not be a savior, but couldn't sit on the sidelines, either, was a false debate, and that we had to have a new kind of government that was smaller, that did more with less, that could balance the budget, but also invest more in our future. Al Gore's Reinventing Government project was the instrument through which we put that principle into practice.
+
+And five years after we took office, our government is smaller by 300,000, several thousand pages of regulation, several hundred government programs that were out of date. It has been modernized in many ways, but we did not walk away from the problems, the challenges, and the opportunities of the American people.
+
+The Reinventing Government project was often, frankly, made fun of because it's not the sexiest issue in town. But it's what enabled us to cut the government by 300,000 and increase the quality of public service and have money left over after we reduced the deficit, passed the balanced budget bill, to still invest in our future. The American people owe the Vice President a great debt of gratitude for that achievement alone. {APPLAUSE}
+
+Second example: When I became President, I got a very interesting letter shortly after I took office from former President Nixon, written a month and a day before he passed away. And it was about Russia, the importance of Russia to our future, and how we had to work with them to make sure we didn't repeat the ugly history of the last 50 years, but instead had a partnership for peace and prosperity and cooperation.
+
+Well, I struck up a pretty good relationship with President Yeltsin and I stuck by him through tough times because he was standing up for democracy and prosperity. But we had a huge number of exceedingly difficult issues and, frankly, we still have some tough issues, and we always will because it's in the nature of relationships between two great countries.
+
+The Vice President agreed to head a commission along with the Russian Prime Minister, Mr. Chernomyrdin, for which there was really no precedent in global affairs. And the Gore-Chernomyrdin Commission is the instrument through which the good intentions and principles articulated first by me and then by Boris Yeltsin have made the United States-Russia partnership the success it is. They've made it possible for us to go together into Bosnia. They made it possible for us to dramatically reduce the number of nuclear missiles we have. They've made it possible for us to detarget missiles so that none of our missiles are pointed at each other's children. They made it possible for us to do a whole range of things.
+
+The Vice President has done a similar thing with the Vice President of South Africa. He has worked out an environmental partnership with top officials in China. In other words, it's fine for the President to make these statements; it's quite another thing if you have to look up four or five or six years from now and nothing has been done. It won't happen because Al Gore was the Vice President of the United States with unique responsibilities for helping to build our common future. {APPLAUSE}
+
+I could give you any number of other examples. I remember not long after I became President, when I was still reading critical columns -- {LAUGHTER} -- someone wrote a column in which they said something like -- well, anyway, the import of it was that obviously I was a weak person and that's why I had a wife who was so influential and why I gave my Vice President so much power, more than any President ever had before. And that sort of tickled me, because it seemed to me that if I had a partner in the Vice President who had knowledge in areas greater than mine, who had expertise in areas greater than mine, and who had all this energy and ability and a passionate dedication to this country and its future, I would be a fool not to use it. And I would be disserving you and every other American citizen if I had done anything other than make Albert Gore the most influential and effective Vice President in the history of the United States. So I think I did the right thing there. {APPLAUSE}
+
+We've had a unique partnership. Believe it or not, we don't always agree. {LAUGHTER} Our disagreements have been among the most stimulating experiences of my presidency. But if I want to disagree with the Vice President, since I get the last vote, I know at least that I have to go to school and I better have my facts straight.
+
+I will never be able to convey publicly or privately the depth of gratitude I feel for the partnership that we have enjoyed. But I just want you to know that every time I see another economic report like the one we saw yesterday, that the economy grew another 3.5 percent in the last quarter; every time I think about the 13 million people who have jobs, the 3 million people who aren't on welfare, the more than 12 million people who have taken advantage of family and medical leave, and all of the achievements that this administration has played a role in, I know -- I know that one of the most important factors was the unique and unprecedented relationship I have enjoyed with this fine, good man.
+
+Ladies and gentlemen, the Vice President. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,41 @@
+﻿{title} Speech to the Congressional Black Caucus {/title}
+{event} ----- {/event}
+{speaker} Al Gore {/speaker}
+{date} September 14, 2002 {/date}
+{source} http://www.algore.org {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+The last time I was here, I spoke as a candidate. And this time, it's a little bit different. A lot of things have been different for me over the last year and a half. After eight years of flying on Airforce Two, now I have to take off my shoes to get on an airplane. {LAUGHTER}
+
+After getting used to all those motorcades and armor-plated Cadillac limousines, now they let other cars on the road with me when I drive. {LAUGHTER}
+
+Just to give you one quick example of what my experience has been like -- not too long ago, my wife Tipper and I were driving from Nashville, Tennessee to Carthage, Tennessee, fifty miles away -- and there weren't any men running along side the car, there weren't fifteen SUVs trailing behind, and no sirens, no motorcade. As a matter of fact, it was a rented Ford Taurus. {LAUGHTER}
+
+And we were driving ourselves. And we drove past Lebanon, Tennessee around dinner time and started looking for a place to eat. And we pulled off the Interstate and we found a "Shoney's" restaurant. {LAUGHTER}
+
+It's an excellent, low cost, family chain… {LAUGHTER}
+
+There was a "Denny's", but I didn't want to… {LAUGHTER ; APPLAUSE}
+
+They're doing better. Anyway, we walked into this "Shoney's" and we sat down at the booth. And the waitress came over and made a big commotion -- over Tipper. {LAUGHTER}
+
+And then she went to the couple sitting in the booth directly behind us, and she lowered her voice so much we had to really strain to hear what she was saying. And she said to this couple: "Yes. That's former Vice President Al Gore and his wife, Tipper." And the man said: "He's come down a long way, hasn't he?" {LAUGHTER}
+
+Yes, a lot's changed since I was here last time. That's a true story and another true story: the very next day I got on a Gulf stream four and flew to Africa, to Nigeria, to make a speech in the city of Lagos. And since that had happened the day before, I began my speech by telling that story. And I told it pretty much the same way I just told it to you: we were driving ourselves and went to "Shoney's", low cost, family restaurant chain, all the rest. And they laughed at the story. And then I went on to make my speech and went back out to the airport and flew back to the U.S. 
+
+But we had to stop at the Azores Islands for refueling. And when the door to that plane opened up, here came a man running across the tarmac, holding a piece of paper, waving it, saying: "Call Washington! Call Washington!". And I thought "What in the world could be wrong in Washington?" Then I remembered it could be a bunch of things. {LAUGHTER ; APPLAUSE}
+
+What it turned out to be was that one of the national news organizations had already printed the following story and sent it all over the United States. It said: Yesterday, in Nigeria, former Vice President Al Gore announced, quote, "My wife Tipper and I have opened a low cost, family restaurant -- {LAUGHTER}
+
+-- called 'Shoney's', and we are running it ourselves." {LAUGHTER}
+
+Kind of makes you want to sigh, you know? Before I could get back to U.S. soil, the late night comics -- David Letterman, Jay Leno -- had already started in on me. They had me and Tipper in white chef's hats, flipping burgers -- not that there would be anything wrong with that. 
+
+But three days later I got a nice, long, handwritten letter from my friend and partner, Bill Clinton: "Congratulations on the new restaurant, Al!" {LAUGHTER}
+
+We like to celebrate each other's successes in life.
+
+{/speech} 

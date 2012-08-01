@@ -1,0 +1,58 @@
+﻿{title} Vice President's Remarks at Auburn University Commencement {/title}
+{event} Beard Eves Memorial ColiseumAuburn, Alabama {/event}
+{speaker} Dick Cheney {/speaker}
+{date} May 13, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. {APPLAUSE} Well, thank you very much, Governor. Thank you for your kind introduction and for your service to the people of Alabama. We miss you in Congress, but I'm sure you don't miss us. {LAUGHTER}
+
+President Richardson, trustees, deans, distinguished guests, faculty and staff, alumni, families, and members of the class of 2005, my thanks to all of you for the warm welcome this morning. I've been looking forward to visiting Auburn University, and to sharing this happy occasion with the graduating seniors. It's a tremendous honor to be here. And I bring congratulations to each and every one of you from our President, George W. Bush.
+
+On graduation day I also want to congratulate the men and women who devote their professional lives to making this institution a place of excellence and achievement -- the outstanding faculty of Auburn University. And I want to join the graduates in saying thanks to the people who did so much to make this day possible, the ones who rooted for you, believed in you, prayed for you, and paid for you -- the parents of the class of 2005. {APPLAUSE}
+
+I know you'll always carry with you the Auburn spirit, and fond memories of your time here. You'll remember the Cater Hall call-outs; the Tiger Walk; the flight of the Eagle; and the music of the fight song played every day at noon. You'll remember many challenges as well -- hard work in the classroom, long nights in the lab or library, and all those hours spent circling the campus, looking for a place to park. {LAUGHTER} You'll remember those special places -- Samford Hall, Jordan-Hare Stadium, the Concourse, Toomer's Corner, the Supper Club. {APPLAUSE} And you'll remember your senior year, for the many fine achievements in academics, research, and athletics, and for a football record of 13 and 0 which sounds a lot like a national champion to me. {APPLAUSE}
+
+War Eagle.
+
+{AUDIENCE} War Eagle! {/AUDIENCE} 
+
+In addition, to those of you receiving your bachelor's degrees this morning, I'm told we have many men and women who have earned graduate degrees -- including a number who have earned their PhDs Their presence here reminds me that I was once a PhD candidate myself, and met all the requirements except for the dissertation. I had trouble coming up with a topic.
+
+And your final day at Auburn, I imagine you're experiencing a mix of emotions. There is excitement at setting a high goal and reaching it -- and then moving forward to new adventures. There is also, perhaps, a bit of sadness at leaving behind this university, and this very special time in your lives. But you will always remain part of the Auburn family, and as the years pass, this university will always give you reason to be proud. In fact, I've been assured that by next year's May commencement, Auburn will be 150 years old, and 26 and 0. {LAUGHTER}
+
+You're graduating this morning from one of our nation's great universities. This beautiful place in the hills of east Alabama, with its long history and 12 fine schools and colleges, has had a far-reaching influence on the life of the state and country; and generations of Auburn graduates have gone on to lives of great accomplishment in Alabama, and beyond.
+
+I especially want to recognize the tradition of service to community and country that is fostered here. Members of the Auburn family have contributed to the defense of this nation in law enforcement, intelligence, and the armed services. These include many current or former members of the military, from personnel now on active duty in the Middle East; all the way up to the chairman of the Joint Chiefs of Staff, General Dick Myers. As we gather for this ceremony, we are thinking of the men and women in our armed forces, and we are tremendously proud of their brave service to the United States. {APPLAUSE}
+
+After putting in these years of hard effort as students at Auburn, something tells me you're probably not up for another lecture before you leave, so I'll keep it short. I know that it's the custom for graduation speakers to draw from their experiences and share some of the lessons they've learned along the way. So as you begin this new chapter in life, let me offer a few thoughts of my own.
+
+There is one very practical lesson that comes immediately to mind. As you might have heard, six months ago I was reelected Vice President of the United States. And we appreciated having the Auburn University Marching Band at our Inauguration. But you may recall how I got started on this journey. It was during the campaign in the year 2000, when then-Governor Bush of Texas called to ask if I would help him find a running mate to be his Vice President. The lesson I want to share with you is this: If you ever get asked to head up an important search committee, say yes. {LAUGHTER}
+
+That decision five years ago set me on a path that I was not expecting to take. I was certain my time in public office had passed. And looking back, there seems to be a pattern in my life -- the unexpected turns, the opportunities that come suddenly and change one's plans overnight.
+
+On the day of my own graduation from the University of Wyoming, I had no ambitions for public office. If you'd asked me at the time what I planned on doing, I could have described in some detail what my next 10 years would be like. First there would have been graduate school, then wrapping up that PhD, and down the road, with some luck, a faculty position at a university.
+
+In the short version, it all worked out very differently. Within a few years, my wife, Lynne, and I were living in Washington, D.C., beginning a journey in government and public lives that neither of us ever imagined. We count ourselves fortunate that things turned out the way they did, and as you begin your careers I want to encourage all the members of this class to consider public service. Participating in government, at any level, carries its own challenges and sacrifices, but the country needs capable men and women to make that choice. And if you ever hear the call to serve, I hope you, too, will say yes.
+
+Many of you will leave Auburn today with definite plans of your own. And setting a plan for your life can be a good thing -- it keeps you focused on the future, and gives you a standard for measuring your progress. Yet I'll wager 10 years from now, many of you will find yourselves following a very different course, all because of an opportunity that came out of the blue.
+
+Be on watch for those certain moments, and certain people, that come along and point you in a new direction. I think, for example, of the first time I met my friend and colleague Don Rumsfeld. It was back in the 1960s, when he was a congressman and I was interviewing for a fellowship on Capitol Hill. Congressman Rumsfeld agreed to talk to me about the possibility of going to work for him, but things didn't go all that smoothly, and in about 15 minutes, I found myself back out in the hallway. Don's impression of me was that I was kind of a detached, impractical, academic type. And I thought he was a brash young politician with a cocky attitude. And we were both right. {LAUGHTER}
+
+We didn't click that day, but a few months down the road it was Don Rumsfeld who noticed my work and offered me a position in the executive branch. And later on, when Gerald Ford became President and made Rumsfeld his Chief of Staff, it was once again Don who gave me a position of great responsibility in the White House. Standing here today, I can promise that there will be people like this in your own life -- who keep an eye on you, and reward your efforts, and help bring out your strengths. Sometimes others know better than we do just what our talents are, and how we can best use them. For all the plans we make in life, sometimes life has other plans for us.
+
+Those of us who've been around a while can also recall a few times when life took an unexpected turn, not always in a positive direction. As I mentioned a moment ago, I received my undergraduate degree from the University of Wyoming. My college experience, though, began at a place called Yale -- but I didn't finish there. Actually, instead, I dropped out after a few semesters. Actually, dropped out isn't quite accurate. {LAUGHTER} Was "asked to leave" would be more like it. {LAUGHTER} Twice. {LAUGHTER} And the second time around, they said, don't come back. {LAUGHTER}
+
+You, too, may face some disappointing turns of your own -- times when you fall short, knowing you could have done better. And when that happens, don't give up or let your doubts get the best of you. I have met some very successful people in my day -- men and women of talent and character who have risen to the top of their fields. And it's the rare one who hasn't had a taste of failure, or a false start along the way. Setbacks in life can stop you dead in your tracks, or they can inspire you forward. Either way, you will look back on them as turning points. They are crucial days in your life, when you see the starkest kind of choice, and you know that it belongs to you alone.
+
+One of the things I love most about our country is that we have such opportunities. There are places in the world where failure is final, and one early misstep will decide your fate forever. But America is still the country of the second chance. Most of us end up needing one. And when you're gone on to accomplish something, we can be that much more grateful.
+
+Gratitude, in general, is a good habit to get into. It is usually a correct appraisal of our situation. Most of us are able to succeed and rise in the world because someone helped out along the way -- whether it was a memorable teacher, or a boss who handed us a great opportunity, or the person who took a chance and gave us the first big break in our career. A grateful heart is an honest understanding of all that we have been given, and all that is expected in return.
+
+There is always the temptation to forget this -- to carry ourselves with an air of entitlement, as if good things come to us by right. They rarely do. And life has a way of working out better when we don't take things for granted, when we have a long memory of what others have given us, when we look for the blessings, great and small, that come with every day we're alive on this Earth.
+
+For all of you, this day in the Coliseum at Auburn will forever stand out -- as a marker of gifts well used, aspirations fulfilled, and hard work rewarded. It's been my privilege to share it with you and your families. And once again, my congratulations to you all. Good luck and Godspeed to the Auburn University Class of 2005. {APPLAUSE} 
+
+{/speech}

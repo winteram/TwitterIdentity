@@ -1,0 +1,48 @@
+﻿{title} Remarks by the President at Banquet in Honor Of Dr. Billy Graham and Mrs. Ruth Graham {/title}
+{event} Banquet Honoring Billy Graham {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 2, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Banquet Honoring Billy Graham {/description}
+
+{speech} 
+
+Good evening. The first time I ever met Paul Harvey, he and his son played through a foursome I was in on this golf course in Chicago. He never told me the score. But since then he's tried to tell me the score about a lot of other things. {LAUGHTER} And I've enjoyed it every time.
+
+To the members of the Graham family, the members of Congress who are here, ladies and gentlemen: I'm deeply honored to join with you tonight in honoring two of America's finest citizens, two of the world's greatest human resources, Billy and Ruth Graham.
+
+When Billy and Ruth received the Congressional Gold Medal today they received only the 114th medal in the 220 year history of this country. Since, as Paul Harvey said, George Washington started receiving the first one in 1776, Thomas Edison, Marian Anderson, Eli Weisel, Winston Churchill -- Billy and Ruth Graham belong in their company, and more.
+
+I am going to make a presentation in a moment related to that, but I wanted to say a few words first. I'm very proud that Billy and Ruth have decided to share this honor with The Billy and Ruth Graham Children Center of Memorial Mission Hospital in Ashville, North Carolina.
+
+In Galatians 6, St. Paul said that while each of us must make our own efforts to sustain ourselves, we are also reminded to "bear ye one another's burdens and so fulfill the law of Christ." Sharing this medal in this way does that. But in so many ways Billy and Ruth have fulfilled the law of Christ, in the ministry of the word going into all nations.
+
+I hardly ever go to a place as President Billy Graham hadn't been there before me preaching. {LAUGHTER} And I feel like a poor substitute from time to time, because a lot of the time what I'm trying to do is get people to lay down the hatreds of the heart and reach down into their spirit and treat people who are different from them with the same dignity that all God's children are entitled to.
+
+Billy and Ruth have practiced the ministry of the deed. Hundreds of times the Bible calls upon us to minister to the poor and the needy, and they did in trying to help disaster victims in Guatemala and countless other places. And I know yesterday Billy and I were talking about how proud he was of the work that his son, Franklin, has done, and I saw some of that when I sent our troops into Bosnia and I met some people who had worked with Franklin Graham to try to help the poor children in that war-torn land.
+
+Billy and Ruth Graham have practiced the ministry of good citizenship, being friends with Presidents of both parties, counseling them in countless ways, always completely private, always completely genuine. Yesterday we sat in the Oval Office reminiscing and talking about current circumstances, and I asked for Billy Graham's prayers for the wisdom and guidance of God. That is a part of his ministry as well.
+
+Perhaps the most moving example of that came when Billy Graham spoke along with me and a number of others at the first service shortly after the bombing in Oklahoma City. And he knew he was speaking to a vast array of people who had been wounded by that incident. Most of them were Christians, but not all of them were. And yet he sought to speak to all of them, and he gave what I thought was one of the most honest messages I had ever heard a minister of the word give. And I thought to myself as I watched him give it that only a man completely convicted, completely secure in his own faith, could have looked out at that vast wounded array of human beings and said, "I wish I could tell you that I understand completely why things like this happen. But I don't. Even after all these years, I don't. I don't know why this happened. I don't have an explanation for it. But the God we love is a God of love and mercy amidst all the suffering we are asked to endure. We are not supposed to understand everything, but instead to lean on God."
+
+And he made it more powerful because he was able to say to his fellow Americans, even after all these years, after I have searched the Scriptures and prayed for wisdom, I do not understand everything. I cannot explain this, but that makes the case for our faith even stronger. I'll remember that for as long as I live.
+
+Finally, I thank Billy Graham and Ruth Graham for the ministry of their life and their personal example, for their extraordinary achievement of five children, 19 grandchildren, and I think now eight great-grandchildren. If that achievement could be mirrored by every adult in America we would have about 10 percent of the problems we've got today in this great country of ours.
+
+I thank them for countless personal gestures that demonstrate that as private people they are what they seem to be in public. I thank them for always doing things that will enable them to administer to people they may not even know. I have said this in public before, but I want to say it again. When I was a small boy, about 12 years old, Billy Graham came to Little Rock, Arkansas, to preach a crusade. That town was torn apart by racial conflict. Our high schools were closed there, and there were those who asked Billy Graham to segregate his audience in War Memorial Stadium so as not to roil the waters.
+
+And I'll never forget that he said -- and it was in the paper -- that if he had to speak the word of God to a segregated audience he would violate his ministry, and he would not do it. And at the most intense time in the modern history of my state, everybody caved, and blacks and whites together poured into the football stadium. And when the invitation was given, they poured down together, down the aisles, and they forgot that they were supposed to be mad at each other, angry at each other, that one was supposed to consider the other somehow less than equal.
+
+And he never preached a word about integrating the schools. He preached the word of God and he lived it by the power of his example. And one young boy from a modest family for a long time thereafter took just a little money out of his allowance every month and sent it to Billy Graham's Crusade. And I've lived with that all my life.
+
+I'll never forget that when Billy Graham came back to Little Rock 30 years later, probably the most well-known man of God and faith in the world, he took time out one day to let me take him to see my pastor who he'd known 30 years before, because he was dying. And my elderly pastor, with only a few weeks to live, sat and talked to Billy Graham about their life, their work, their trips to the Holy Land, and the life to come. There was no one there. There were no cameras, there were no reporters, there was nothing to be gained. It was a simple, private, personal expression of common Christianity and gratitude for the life of a person who had given his life for their shared faith.
+
+And finally, he got up to go. Billy looked at my pastor, W.O. Vaught, shriveled to less than 100 pounds, and he said, "Smile, W.O., next time I see you we'll be outside the Eastern Gates." I'll never forget that as long as I live.
+
+So the Congress did a great thing; you have done a great thing; Billy and Ruth Graham have done a great thing in sharing this award with future generations of people who will need their help and their ministry even after they have passed their time on this Earth. For all that, as President and in my personal role as a citizen and a Christian, I am profoundly grateful.
+
+I'd like Reverend Graham to come out now, and I will give him a copy of the bill which I signed and the pen with which I signed it. And perhaps he'd like to say a word to you tonight.
+
+Billy. {APPLAUSE} 
+
+{/speech}

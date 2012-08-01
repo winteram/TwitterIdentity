@@ -1,0 +1,72 @@
+﻿{title} President Bush Thanks Military {/title}
+{event} Remarks by the President to Military Personnel and Families, MCAS Miramar, California  {/event}
+{speaker} George W. Bush {/speaker}
+{date} August 14, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, all. Thank you all very much. Thanks for coming out to say "hello." It's getting a little quiet on the ranch -- {LAUGHTER} -- so I decided to pay a visit to the "devildogs." {APPLAUSE}
+
+I'm honored to be in the presence of the men and women who wear our nation's uniform. I'm proud of you, and I want to thank you for your service to our great country. {APPLAUSE} Each of you serves in a crucial time in our nation's history. And this nation is grateful for the sacrifice and service you make.
+
+Many of you have recently returned from Iraq, and it seems like you're happy to be home. {APPLAUSE} More than 70,000 men and women from bases in Southern California were deployed in Iraq. You served with honor. You served with skill. And you were successful.
+
+Before you went in, Iraqis were an oppressed people, and the dictator threatened his neighbors, the Middle East and the world. Today, the Iraqis are liberated people, the former regime is gone, and our nation and the world is more secure. {APPLAUSE}
+
+This nation is at war with people who hate what we stand for. We love freedom, and we're not going to change. {APPLAUSE} Our country depends on you to protect our freedom, and every day, you depend on your families. This has been a challenging time for military families. I know that. During the last year, our families and our military have met hardships, and met them together. You've supported and looked out for one another. You've been strong and faithful to the people you love. Military families make tremendous sacrifices for America, and our nation is grateful for your service to our country. {APPLAUSE}
+
+I appreciate General Conway. This isn't the first time I met him. He looks you right in the eye. He's the kind of Commander I'd like to serve under -- it's just that, he just serves under me. {LAUGHTER}
+
+I appreciate General Amos, General Gallinetti. I appreciate all those who are in command of forces here. I want to thank you for what you do.
+
+We've got members of the California congressional delegation here. These are stalwarts when it comes to understanding the need to provide you the resources necessary to do your job. There's no finer congressman when it comes to military affairs than Congressman Duncan Hunter. {APPLAUSE} With him, the congressman from Southern California, as well. I call him "The Ace," because he was an ace in Vietnam, a great fighter pilot, Randy Duke Cunningham. {APPLAUSE}
+
+Two other members of the delegation are here who are friends of mine, people who serve with distinction, Congressman Ed Royce and Congressman Darrell Issa. I'm honored you all are here. Thank you for coming. {APPLAUSE}
+
+The Marine Corps Air Station and the military bases of Southern California have long, long been crucial to the defense of this country. We intend to keep it that way. {APPLAUSE} Generations of Marines, and sailors, and pilots have trained and served here. And for the veterans who are with us today, I thank you for your service to our country.
+
+Now, you have been called. This group of Marines and sailors have been called to serve in the first war of the 21st century. The war began almost two years ago, on September the 11th, 2001, when this nation was brutally attacked and thousands of our fellow citizens died. We were awakened to new dangers on that day.
+
+On that morning, the threats that had gathered far across the world appeared suddenly in our own cities. The world changed on that day. The enemies of the United States showed the harm they can do and the evil they intend. Since that September morning, our enemies have also seen something: they have seen the will and the might of the United States military, and they are meeting the fate they chose for themselves. {APPLAUSE}
+
+Our nation is waging a broad and unrelenting campaign against the global terror network, and we're winning. Wherever al Qaeda terrorists try to hide, from the caves and mountains of Central Asia, to the islands of the Philippines, to the cities in Pakistan, we are finding them, and we are bringing them to justice. {APPLAUSE}
+
+In the last two days, we captured a major terrorist, named Hambali. He's a known killer who was a close associate of September the 11th mastermind Khalid Shaykh Muhammad. Hambali was one of the world's most lethal terrorists who is suspected of planning major terrorist operations, including that which occurred in Bali, Indonesia, and other recent attacks. He is no longer a problem to those of us who love freedom, and neither are nearly two-thirds of known senior al Qaeda leaders, operational managers, and key facilitators who have been captured or have been killed. {APPLAUSE}
+
+Now, we're making progress. Slowly but surely, we're doing our duty to our fellow citizens. Now, al Qaeda is still active, and they're still recruiting, and they're still a threat because we won't cower. It's leaders and foot soldiers continue to plot against the American people. But every terrorist can be certain of this: wherever they are, we will hunt them down one by one until they are no longer a threat to the people who live in the United States of America. {APPLAUSE}
+
+Many of you served in Operation Enduring Freedom, and we thank you for your service. You can be proud of help -- to liberate the good people of Afghanistan from the thugs who turned that country into a training camp for al Qaeda terrorists. You enforced the doctrine which said, if you harbor a terrorist, if you hide a terrorist, if you feed a terrorist, you're just as guilty as the terrorists -- and the Taliban found out what we meant. {APPLAUSE}
+
+Afghanistan today is a friend of the United States of America. It is not a haven for America's terrorist enemies. As NATO assumes a leading role in keeping Afghanistan secure, we're helping with the reconstruction and the founding of a democratic government. We're making steady progress in Afghanistan. New roads are being built, medical clinics are opening, there are new schools in Afghanistan where many young girls are now going to school for the first time, thanks to the United States of America.
+
+We've also helped to build an Afghan national army. We want the Afghan people to defend themselves at some point in time. This army launched its first major operation, called Warrior Sweep, which are hunting down the terrorists, along with the help of the United States of America. Now thanks to the United States and our fine allies, Afghanistan is no longer a haven for terror, the Taliban is history, and the Afghan people are free. {APPLAUSE}
+
+The war on terror also continues in Iraq. Make no mistake about it, Iraq is part of the war on terror. Our coalition forces are still engaged in an essential mission. We met the major combat objectives in Operation Iraqi Freedom by removing a regime that persecuted Iraqis, and supported terrorists, and was armed to threaten the peace of the world. All the world is now seeing just how badly the Iraqi people suffered under this brutal dictator. The Iraqi people, themselves, are seeing a new day thanks to the brave men and women who came to liberate them.
+
+Thanks to our military, Iraqi citizens do not have to fear a secret police, arbitrary arrests, or loved ones lost forever, and mass graves. Thanks to our military, the torture chambers of a dictator are closed, the prison cells for children are empty. Thanks to our military, Saddam Hussein will never threaten anybody with a weapon of mass destruction. {APPLAUSE}
+
+Many members of the former regime challenged our military and had their day of reckoning, and the other ones still in there have a lot to worry about. {APPLAUSE} Parts of Iraq are still dangerous because freedom has enemies inside of Iraq. Men loyal to the fallen regime, some joined by foreign terrorists, are trying to prevent order and stability.
+
+We're on the offensive against these killers; we're going after them; we'll raid their hiding places; and we'll find them. The brave Americans who carry out these missions can know they will have every tool and every resource they need to defend themselves and to do the job they were sent to do. The terrorists will meet their end. And in the meantime, the Iraqi people are making steady progress, and building a stable society, and beginning to form a democratic government. Iraq's new Governing Council represents the nation's diverse groups.
+
+In the months ahead, Iraqis will begin drafting a new constitution, and this will prepare the way for elections. America and our coalition are training Iraqi civil defense and police forces so they can patrol their own cities and their own villages. We're training a new army, an army that defends the people instead of terrorizes them.
+
+Life is returning to normal for a lot of citizens in Iraq. Hospitals and universities have opened, in many places, water and other utility services are reaching pre-war levels. For the first time, a free press is operating in Iraq. Across Iraq, nearly all schoolchildren have completed their exams. And now, those children are receiving a real education without the hateful propaganda of Saddam Hussein. {APPLAUSE}
+
+By the hard efforts of our military, we are keeping our word to the world and to the Iraqi people. The illegal weapons hidden by the former regime will be found. The free and representative government Iraqis are building is there to stay.
+
+A free and peaceful Iraq is an important part of winning the war on terror. A free Iraq will no longer be a training ground for terrorists, will no longer supply them with money or weapons. A free Iraq will help to rid the Middle East of resentment, and violence, and radicalism. A free Iraq will show all nations of the region that human freedom brings progress and prosperity. By working for peace and stability in the Middle East, we're making America, and future generations of Americans, more secure.
+
+Our actions in Iraq are part of a duty we have accepted across the world for keeping our resolve, and we will stay focused on the war on terror. The United States will not stand by and wait for another attack. We will not trust the restraint or good intentions of evil people. We will oppose terrorists and all who support them. We will not permit any terrorist group or outlaw regime to threaten us with weapons of mass destruction. {APPLAUSE} And, when necessary, we will act decisively to protect the lives of our fellow citizens.
+
+As our nation confronts great challenges, we rely, as always, on the goodness and courage of the men and women of our military. Like all our men and women who continue to serve in Iraq, you've done hard duty, far from home and family, and I know you'll never forget the people who fought at your side.
+
+As a major from Miramar said of his fellow Marines who served in Iraq, "They are my brothers and sisters." Each of you recalls especially the ones who gave their lives for freedom of others. The United States will always honor their memory. And, today, we ask the Almighty's blessings on those who grieve here on earth for their loved ones.
+
+I know you're proud to wear the same uniform they wore. Each of you has chosen, you have made the choice, to fill a great calling, to live by a code of honor, in service to your nation, for the safety and security of your fellow citizens. You and I have taken an oath to defend America. We're meeting that duty together. And I am proud to be the Commander-in-Chief of such a fabulous group of men and women who wear our uniform. May God bless you. {APPLAUSE}
+
+May God bless you and your families. May God continue to bless the United States of America. Semper fi, {APPLAUSE} 
+
+{/speech}

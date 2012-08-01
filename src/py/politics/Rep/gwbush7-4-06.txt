@@ -1,0 +1,50 @@
+﻿{title} President Attends National Catholic Prayer Breakfast {/title}
+{event} Washington Hilton Hotel, Washington, D.C. {/event}
+{speaker} George W. Bush {/speaker}
+{date} April 7, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all very much. Gracias Mi Tejano. Thank you, sir, for your kind words. Thanks for inviting a Methodist. {LAUGHTER}
+
+When I first came out here and saw how comfortable these chairs looked, I was a little worried you thought I might be giving quite a long speech. {LAUGHTER}
+
+I'm so thrilled to be here with the cardinals of the church. Cardinal McCarrick I know is here, and Cardinal Bevilacqua -- must make you feel good to see there's not a slice of bacon around. {LAUGHTER ; APPLAUSE} My spirits are always uplifted when I'm in the presence of Their Excellencies, and it's great to see you both.
+
+I've been looking forward to this breakfast, but I've got to tell you, I was slightly concerned when I saw the draft of the program went like this: "We will mark the conclusion of the President's speech with the hymn, 'Now Thank We All Our God.'" {LAUGHTER}
+
+Laura sends her love and her best. {APPLAUSE} I want to thank the leadership of the National Catholic Prayer Breakfast for having me, and, more importantly, having this chance for all to worship together.
+
+I appreciate so very much the Chief Justice joining us. I'm proud you're here, Chief Justice. {APPLAUSE} I haven't got to the best part of the family yet. {LAUGHTER} And Jane. {APPLAUSE}
+
+Secretary Nicholson, I appreciate you being here. Jim Nicholson and Suzanne, as you might recall, he was our Ambassador to the Vatican, and he did a fantastic job. {APPLAUSE}
+
+Other members of the administration, thanks for coming. Don't tarry too long. {LAUGHTER} Get back to work. {LAUGHTER}
+
+Looking around, I see members of the United States Senate -- Santorum; members of the House of Representatives. Thank you all for coming. Proud you're here. Thanks for taking time out of your day. {APPLAUSE} Smith, Beauprez, Lungren, I can't -- I don't dare name them all.
+
+We needed a hopeful moment for this world of ours. It's a time when more people have a chance to claim freedom that God intended for us all. It's also a time of great challenge. In some of the most advanced parts of our world, some people no longer believe that the desire for liberty is universal. Some people believe you cannot distinguish between right and wrong. The Catholic Church rejects such a pessimistic view of human nature -- {APPLAUSE} -- and offers a vision of human freedom and dignity rooted in the same self-evident truths of America's founding.
+
+This morning we ask God to guide us as we work together to live up to these timeless truths. When our founders wrote the Declaration of Independence, they called liberty an unalienable right. An unalienable right means that freedom is a right that no government can take away because freedom is not government's to give. {APPLAUSE}
+
+Freedom is a gift from the Almighty because it is -- and because it is universal, our Creator has written it into all nature. To maintain this freedom, societies need high moral standards. And the Catholic Church and its institutions play a vital role in helping our citizens acquire the character we need to live as free people.
+
+In the last part of the 20th century, we saw the appeal of freedom in the hands of a priest from Poland. When Pope John Paul II ascended to the chair of St. Peter, the Berlin Wall was still standing. His native Poland was occupied by a communist power. And the division of Europe looked like a permanent scar across the continent. Yet Pope John Paul told us, "Be not afraid," because he knew that an empire built on lies was ultimately destined to fail. By reminding us that our freedom and dignity rests on truths about man and his nature, Pope John Paul II set off one of the greatest revolutions for freedom the world has ever known.
+
+Pope John Paul has now been succeeded by one of his closest friends and colleagues, Pope Benedict XVI. Pope Benedict, when he was a Cardinal, and recently -- when he was a Cardinal, Laura and I had a chance to meet him, and recently she went back to Rome to see him again. He was such a gracious host, wonderfully kind man.
+
+Like his predecessor, Pope Benedict understands that the measure of a free society is how it treats the weakest and most vulnerable among us. In his Christmas homily, the Pope noted that the Savior came to earth as a "defenseless child," and said that the splendor of that Christmas shines upon every child, born and unborn. {APPLAUSE} Here in the United States, we work to strengthen a culture of life, through many state and federal initiatives that expand the protections of the unborn. These initiatives reflect the consensus of the American people acting through their elected representatives, and we will continue to work for the day when every child is welcome in life and protected in law. {APPLAUSE}
+
+I appreciate the leading role that the Catholic faith-based organizations play in our nation's armies of compassion. {APPLAUSE} And one of the many ways that Catholic faith-based organizations serve their neighbors is by welcoming newcomers and helping them become good citizens. {APPLAUSE}
+
+This nation of ours is having an important debate about immigration, and it is vitally important that this debate be conducted in a civil tone. I believe that the American Dream is open to all who work hard and play by the rules, and that America does not have to choose between being a compassionate society and a society of law. {APPLAUSE}
+
+An immigration system that forces people into the shadows of our society, or leaves them prey to criminals is a system that needs to be changed. {APPLAUSE} I'm confident that we can change -- change our immigration system in ways that secures our border, respects the rule of law, and, as importantly, upholds the decency of our country. {APPLAUSE} As the Congress continues this debate, its members must remember we are a nation of immigrants. And immigration has helped restore our soul on a regular basis. {APPLAUSE}
+
+In this young century, our nation has been called to great duties. I'm confident we'll meet our responsibilities so long as we continue to trust in God's purposes. During our time in the White House, Laura and I have been blessed by the prayers of countless Americans, including many in this room. It's really an amazing country where people walk up to you, say, Mr. President, I pray for you -- expecting to say, Mr. President, I'd like a bridge. {LAUGHTER} But instead, they say, I pray for you and your family. It uplifts us, and I want to thank you for that from the bottom of our hearts.
+
+I ask for your prayers again, that our nation may always be an inspiration to those who believe that God made every man, woman and child for freedom. It is such an honor to be here. May God bless you all, and may God continue to bless our country. {APPLAUSE} 
+
+{/speech}

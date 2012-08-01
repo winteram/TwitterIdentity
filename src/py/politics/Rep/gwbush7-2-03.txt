@@ -1,0 +1,31 @@
+﻿{title} President Welcomes Treasury Secretary John Snow to Cabinet {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} February 7, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Listen, thank you, all, for coming and good morning. Today we welcome John Snow as the 73rd Secretary of the Treasury. {APPLAUSE} In this position John Snow will be a key advisor on the economy, will be an advocate for my administration's agenda of faster growth, more new jobs, and wider trade. John has had a distinguished career, both in the private sector and the public sector. And I am so pleased to have him join in my Cabinet. And I am grateful for his willingness to serve our nation once again. 
+
+I want to thank Judge Wilkinson for swearing in his good buddy. {LAUGHTER} Thank you for coming, Judge. I'm honored you and your wife are here. I'm also so pleased that the Snows are with us; Carolyn and all the Snows are up here with us. {LAUGHTER} Thank you all for coming. I want to thank Donnie Evans, who is the Secretary of Commerce for being here; Ken Dam, the Deputy Secretary of the Treasury, who serves so well in that position; other distinguished guests who are here to witness this swearing-in. I want to thank all of those who work in the Department of the Treasury for joining us today, as well. 
+
+Secretary Snow takes office at a time of challenge for this country. The American economy is in its second consecutive year of growth, yet it is not growing fast enough. The economy is not strong enough. Many family budgets are strained in America today. Too many small businesses are struggling just to stay afloat. The nation's rate of unemployment was 5.7 percent last month, down from the prior months. But we will not be satisfied until this economy grows fast enough to employ every man and woman who seeks a job. {APPLAUSE} 
+
+We will work with the United States Congress to address these challenges. And John Snow will be on point, and working with the Congress. I proposed a plan to boost the economy with tax relief for every American who pays federal income taxes. {APPLAUSE} 
+
+Here's what we believe: by leaving more money in the hands that earned it, we will stimulate consumer spending and encourage investment, so that businesses large and small can expand and employ more people. 
+
+We know the role of government is not to create wealth, but an environment in which the entrepreneurial spirit flourishes. We know that businesses hire when they grow, and they grow when they invest. And so our proposal will promote capital formation. It is important for Congress to remember that most small businesses are sole proprietorships or limited partnerships. And when we cut individual tax rates, we are stimulating capital formation in the small business sector of America. {APPLAUSE} 
+
+Our proposal will promote capital formation and investment by ending the unfair double taxation on dividends. {APPLAUSE} Not only will this proposal help when it comes for job creation, it will help all investors, including nearly 10 million seniors who receive dividend income. 
+
+The Secretary of Treasury has been to Capitol Hill a lot already. {LAUGHTER} And he went up there recently to talk about the budget I submitted to the Congress. This budget calls for spending discipline in Washington, D.C. We believe the best way to deal with our deficits is to encourage economic growth and encourage spending discipline in Washington, D.C. {APPLAUSE} 
+
+In addition to his work as economic advisor and economic spokesman for the country and for this administration, Secretary Snow will lead one of the oldest, largest and most important departments of our government. The Department of Treasury bears responsibility for a wide range of important tasks, from minting our nation's currency to stopping the flow of money to terrorist groups. 
+
+I appreciate the good work of the dedicated men and women throughout this department. And you can rest assured that your new boss is a superb executive and a fine man, with a good heart. John will be an active advocate for policies that encourage economic growth. And he'll be a good steward of the taxpayer's dollars. And that is fitting, because very soon, each one of those dollars will bear the signature of Secretary John Snow. Congratulations. {APPLAUSE} 
+
+{/speech} 

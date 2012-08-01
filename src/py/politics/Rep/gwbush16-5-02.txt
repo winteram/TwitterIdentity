@@ -1,0 +1,64 @@
+﻿{title} President Addresses National Hispanic Prayer Breakfast {/title}
+{event} National Hispanic Prayer Breakfast, Capital Hilton, Washington, D.C. {/event}
+{speaker} George W. Bush {/speaker}
+{date} May 16, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} Remarks by the President at National Hispanic Prayer Breakfast {/description}
+
+{speech} 
+
+Thank you all. {APPLAUSE} Siente se. {LAUGHTER}
+
+{AUDIENCE-MEMBER} {COMMENT="Inaudible"} {/AUDIENCE-MEMBER} 
+
+Si. Muchas gracias. {LAUGHTER}
+
+Thank you all for such a warm welcome. It is un honor para mi de estar aqui para le -- the first -- the first -- not the last, but the first -- {LAUGHTER ; APPLAUSE} -- National Hispanic Prayer Breakfast. I want to tell you it's an honor to be here amongst people who dedicate their lives to the embetterment of our fellow human beings. I appreciate that a lot.
+
+I want to thank Luis -- I met with Luis; one of the things that struck me was he is a -- he'll say sergeant, I say general -- in the army of compassion in Philadelphia. I loved his compassion. Not only is he a man of God, he also understands the importance of education. We talked about a charter school he wanted to start in his neighborhood. He understands what I understand, that when you have quality education, you improve inner-city America. And so, Luis, I want to thank you for your focus on education. We must continue to work to make sure todos los ninos pueden leer. {APPLAUSE}
+
+I want to thank Mel Martinez -- donde esta Mel? Anyway, he's somewhere here. He's a member of my Cabinet. You may remember the story about Mel. He's the Secretary of Housing and Urban Development now. As a young boy, his mother and daddy put him on an airplane to America from Cuba. He was a part of Operation Pedro Pan. They wanted their son to be raised in freedom. They longed for freedom, and were willing to take the risk to send their loved one to the land of freedom. And now I'm proud he has gone from a young ninito in Pedro Pan; today, he is now the Secretary of Housing and Urban Development. And it shows the wonderful spirit and strength of our country. {APPLAUSE}
+
+I want to thank the members of Congress who are here. I see I've got senators here, and members of the Congress. Thank you all for coming. It's important that you're here, and I appreciate you being here, as well. I want to thank all who have worked hard to set this breakfast up. It gives me a chance to come and remind us all that America has many traditions of faith, and that's important to always remember.
+
+We have never imposed any religion, and that's really important to remember, too. We welcome all religions in America, all religions. We honor diversity in this country. We respect people's deep convictions.
+
+We know that men and women can be good without faith. We know that. We also know that faith is an incredibly important source of goodness in our country. Throughout our history, Americans of faith have always turned to prayer -- for wisdom, prayer for resolve, prayers for compassion and strength, prayers for commitment to justice and for a spirit of forgiveness.
+
+Since America's founding, prayer has reassured us that the hand of God is guiding the affairs of this nation. {APPLAUSE} We have never asserted a special claim on His favor, yet we've always believed in God's presence in our lives. This has always been true. But it has never been more true since September the 11th. Prayer has comforted people in grief. Prayer has served as a unifying factor in our nation. Prayer gives us strength for the journey ahead. Millions of Americans have turned to prayer during these times, and have been reminded of an important truth -- while weeping may endure for a night, joy comes in the morning. {APPLAUSE}
+
+The last eight months have showed the world the American character is incredibly strong and confident. Yet prayer reminds us that a great people must be humble before God, searching for wisdom -- constantly searching for wisdom -- from the almighty Dios.
+
+Prayer is a vital part of our national life. That's why your breakfast is so important. Prayer and faith are an especially vital part of the life of Hispanos in este pais. We see the role of faith in your devotion to church, to your family, and to charity. The power of faith is found among the young, and that's good news, really good news. Ministers say that a revolucion espiritual is taking place amongst los jovenes Hispanos aqui. That's good. {APPLAUSE}
+
+I want to thank you all for leading that effort. It's an important contribution to our country. One youth leader put it this way: "The revival is impacting the youth most of all, because they do not set limits on God. God is doing something so big with the youth of this nation." Those are mighty powerful words for a President to hear.
+
+We know how important faith can be, and we know that faith without works, without action, is dead. True faith is never isolated from the rest of life. It proves itself through actions and sacrifice, through acts of kindness and caring for those in need.
+
+For some people, Jesus' admonition to care for "the least of these" is an admirable moral teaching. For many Hispanic Americans, it's a way of life. {APPLAUSE} You understand that God has a special concern for the poor, and that community helpers and healers are doing the most important work of all -- repairing broken lives, bringing love into pockets of hopelessness and despair.
+
+Charities and community groups and faith-based institutions do incredible work in our country, really important work -- providing shelters for battered women; helping the homeless; the important work of mentoring children without fathers; the work of loving a child whose mother or father may be in prison, reminding them that there is love and compassion, and decency and hope; of helping people overcome drug and alcohol addictions by helping them first and foremost change their hearts. {APPLAUSE}
+
+These groups, these platoons in the armies of compassion, demonstrate compassion and inspire hope in a way that government never can. And they inspire life-changing faith in a way that government never should. {APPLAUSE}
+
+The faith-based and community initiative that I've been working on and others from Congress have been working on is really important. It's an important part of our strategy to combat hopelessness and despair and loneliness, to make America a land of opportunity and hope and promise por todos, por todos. {APPLAUSE}
+
+This set of laws will provide new incentives for charitable giving, and that's important, really important. It will allow non-itemizers to be able to deduct a charitable gift. That will help raise money. It will help encourage the flow of people who realize it's important to not only give of their time, but of their money, as well.
+
+When it comes to providing federal resources to effective programs, this law will make a difference, because, you see, it welcomes private and faith-based programs. It says that the days of discriminating -- when it comes to the use of federal money, the days of discriminating against religious institutions simply because they are religious must come to an end. {APPLAUSE}
+
+I understand you'll be hearing from or have heard from Senator Joe Lieberman, Rick Santorum, and I know you just heard from J.C. Watts. I mention these gentlemen because first, they're fine leaders. They come from different faiths, different political parties, but are united by the common desire to pass important legislation that unleashes the strength of the country, which is the compassion of our fellow citizens. I appreciate their hard work. I appreciate their willingness to focus on the common good. I look forward to signing a bill as soon as we can get it out of the United States Senate. {APPLAUSE}
+
+You know, I often tell people that if you want to respond to what has happened to our country, you can do so with prayer, but, as importantly, you can do so by loving your neighbor like you'd like to be loved yourself. If you want to fight evil, do some good. {APPLAUSE} One person cannot do everything in our society, of course. But one person can do something. And by that, I mean that we can change our country one person at a time. One person at a time. And that's what we've got to do. And that's what we have to think about.
+
+And there's nothing more powerful in helping change the country than the faith -- faith in Dios. I want to tell you, the greatest gift that people can give to a President or people in positions of responsibility -- anybody else, for that matter -- is prayer.
+
+I work the ropelines a lot, and people say, "Mr. President, I pray for you and your family." I turn to them, I look them in the eye, and say, that's the greatest gift you can give. That's the greatest gift you can give. I mean it with all sincerity.
+
+And so I want to thank you for your prayer. I want to thank you for what you do for our nation. I want to thank you for your good works. I want to thank you for helping change America one heart, one soul, one conscience at a time. {APPLAUSE}
+
+I believe that it will be said, it will be said of Americans such as yourself, "Bien, siervo bueno y fiel." {APPLAUSE}
+
+It's my honor to be with you this morning. May God bless you and your ministries, and may God continue to bless the United States of America. {APPLAUSE} 
+
+{/speech}

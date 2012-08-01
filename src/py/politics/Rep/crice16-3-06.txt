@@ -1,0 +1,24 @@
+﻿{title} Remarks Aboard the USS Port Royal {/title}
+{event} Sydney, Australia {/event}
+{speaker} Condoleezza Rice {/speaker}
+{date} March 16, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you very much. I am so delighted to be with you here on the Port Royal and I know that the folks on the Reuben James are here with us as well. Thank you. Thank you on behalf of the American people. Thank you on behalf of the President. Thank you on behalf of all the men and women who desire freedom.
+
+This group, this group of wonderful young men and women who represent the best of America -- you -- are defending freedom around the world. You're defending freedom in Afghanistan. You're defending freedom in Iraq. And you're doing it as a part of a great coalition of democratic states that are determined to help those who are on the wrong side of freedom to make the journey to the right side of freedom, and to enjoy the same benefits of liberty and democracy that we so enjoy.
+
+And in doing so, we have good friends and we have good allies. We have no better friend and ally than Australia. And I want to welcome and thank Minister Downer for being here to represent the wonderful friendship and coalition and alliance that we have with Australia, an alliance and a friendship that goes back now for many, many years. Australia has been at our side whenever we have fought for freedom. Thank you so much, Minister Downer. {APPLAUSE}
+
+I just want to say one more word about this defense of freedom. It's sometimes hard. It's hard in places like Afghanistan, it's hard in places like Iraq, where men and women who have never had the opportunity for freedom are struggling. They're struggling to overcome their differences that were once overcome with repression and with coercion and with violence to overcome those differences now through politics and through compromise. And it's a hard journey. And those of us who have made the journey to democracy know that democracy is not easy, but it is always worth it.
+
+We're in this global war on terror not because we chose this fight, but because the United States of America was attacked with impunity on September 11th by those who desired to unravel our way of life. And because you are stalwart, because you have volunteered for this fight, we are going to win this great struggle. We are going to win it on behalf of the United States, and the United States will be more secure. We're going to win it on the behalf of our friends and allies in freedom like Australia. And we're going to win it on behalf of the men and women who stand on the front lines with you in places like Iraq and Afghanistan.
+
+I can't thank you enough again for your valiant service. I know it's tough to be away from family and friends. But you are the best of America because America is at its best when power and principles go together.
+
+Thank you very much. Thank you for welcoming me here and I look forward to saying hello to some of you. Thanks again. {APPLAUSE} 
+
+{/speech}

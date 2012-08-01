@@ -1,0 +1,40 @@
+﻿{title} Remarks By The President Obama Honoring Senator Edward William Brooke {/title}
+{event} Honoring Senator Edward William Brooke {/event}
+{speaker} Barack Obama {/speaker}
+{date} October 28, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+It is an extraordinary privilege to be here today. And let me begin by acknowledging this distinguished group gathered on the platform: our extraordinary Speaker of the House, Nancy Pelosi; Majority Leader Harry Reid; Republican leader Mitch McConnell; majority leader Steny Hoyer; Republican leader John Boehner; Senator John Kerry; Representative Eleanor Holmes Norton; Representative Patrick Kennedy; my dear friend, Vicki Kennedy; to our honoree, Senator Edward Brooke, his wife, Anne, and family.
+
+It is a great privilege to be here today as we confer the Congressional Gold Medal on a man who's spent his life breaking barriers and bridging divides across this country -- Senator Edward Brooke.
+
+Now, with his lifetime of achievement, Ed is no stranger to a good awards ceremony. He's been through a few of these. {LAUGHTER} He's won the Bronze Star, the Presidential Medal of Freedom, honorary degrees from 34 colleges and universities, and more. So he's a pro when it comes to getting awards. But I think today's honor bears a unique significance: bestowed by this body of which he was an esteemed member; presented in this place where he moved the arc of history; surrounded by so many -- myself included -- who have followed the trail that he blazed.
+
+Ed's journey to this day was, by any measure, an unlikely one. Raised nearby in a neighborhood so fiercely segregated that black residents needed a note from a white person to pass through -- at a time when so many doors of opportunity were closed to African Americans, others might have become angry or disillusioned. They might have concluded that no matter how hard they worked, their horizons would always be limited, so why bother? But not Ed Brooke.
+
+Serving in a segregated army, barred from facilities at the base where he trained, he fought heroically in Europe, leading a daring daylight attack against a heavily armed enemy. Rejected from Boston's old-line firms despite his success in law school, he established his own practice, handling everything from wills and divorces to real estate and criminal cases.
+
+And when he ran for statewide office in Massachusetts, and one reporter pointed out that he was black, Republican, and Protestant, seeking office in a white, Democratic, and Catholic state -- and also, quote, "…a carpetbagger from the South and…poor" -- Ed was unfazed. It was, to say the least, an improbable profile for the man who would become the first African American state attorney general, and the first popularly elected African American senator.
+
+But that was Ed Brooke's way -- to ignore the naysayers, reject the conventional wisdom, and trust that ultimately, people would judge him on his character, his commitment, his record and his ideas. He ran for office, as he put it, "…to bring people together who had never been together before." And that he did.
+
+I don't know anyone else whose fan base includes Gloria Steinem, Barney Frank, and Ted Kennedy -- as well as Mitch McConnell, Mitt Romney, and George W. Bush. {LAUGHTER} That's a coalition-builder. {LAUGHTER ; APPLAUSE} And few have matched his reach across the aisle -- from working with Birch Bayh to protect Title IX so girls can compete on a level playing field, to sponsoring the Fair Housing Act with Walter Mondale and small business legislation with Ted Kennedy -- one of the many bills he would sponsor with the senior senator from Massachusetts.
+
+He didn't care whether a bill was popular or politically expedient, Democratic or Republican -- he cared about whether it helped people, whether it made a difference in their daily lives. That's why he fought so hard for Medicare, for mass transit and the minimum wage, for civil rights and women's rights. It's why he became a lifelong advocate for affordable housing, establishing protections that are the standard to this day.
+
+So it's a record that defies the labels and categories for which he had little use and even less patience. When pressed to define himself, he'd offer phrases like "creative moderate," or "a liberal with a conservative bent." But in truth, Ed Brooke's career was animated not by a faith in any particular party or ideology, but rather, by a faith in the people he served.
+
+Ed always got to see the best in people -- because that was the effect he had. Maybe it was his old-fashioned manners -- his unfailing courtesy and warmth. Maybe it was his charm and charisma -- known to melt even the staunchest adversary. Or maybe it was his genuine interest in people's stories -- the way he listened to their concerns and worked to ease their struggles. Whatever it was, even if people didn't fully agree with him, they saw how hard he fought for them and how much he respected them, and they respected him back. They rose to meet his esteem for them. Around Ed, people wanted to be their better selves.
+
+Over the years, he made an impression on just about everyone he encountered, including a young Congressman named John F. Kennedy, whom he met back in 1952. The two men had a lively conversation, and as they parted ways, the future President said, "You know, you ought to be a Democrat." {LAUGHTER} And Ed smiled and replied, "You know, you ought to be a Republican." {LAUGHTER}
+
+It was a sentiment that many in my party would share, including the President's brother, our dear friend, Ted Kennedy. While Ted campaigned vigorously for Ed's Democratic opponent, the two later became lifelong friends. And four decades later, Ted would campaign even more vigorously to secure Ed's nomination for this medal.
+
+So while we grace Senator Brooke with this honor today, perhaps a better tribute to him would be to embrace that spirit: to compete aggressively at the polls, but then work selflessly together to serve the nation we love. {APPLAUSE} To look for the best in each other, to give each other the benefit of the doubt, and to remember that we're here for a purpose far greater than the sum of our own hopes, needs and ambitions. That's the legacy of our friend, Senator Edward Brooke. And may we each do our part to carry it forward.
+
+Thank you. God bless you. Congratulations, Senator Brooke. And God bless the United States of America. {APPLAUSE} 
+
+{/speech}

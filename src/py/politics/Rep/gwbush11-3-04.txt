@@ -1,0 +1,33 @@
+﻿{title} Remarks Via Satellite by the President to the National Association of Evangelicals Convention {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} March 11, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Good morning, Ted. I want to thank you for your kind introduction. {APPLAUSE} Thank you all very much. {APPLAUSE} Thank you all. Ted, I think I need to invite you to Crawford so you can drive my pickup truck and learn the joys of that truck. 
+
+I want to thank you for the invitation. It's such a pleasure to speak to all of you in Colorado Springs. The National Association of Evangelicals was founded 62 years ago with the highest of calling -- to proclaim the Kingdom of God. Today, your organization includes 51 denominations representing some 30 million people. You're doing God's work with conviction and kindness, and, on behalf of our country, I thank you. 
+
+America is a nation with a mission. We're called to fight terrorism around the world, and we're waging that fight. As freedom's home and freedom's defender, we are called to expand the realm of human liberty. And by our actions in Afghanistan and Iraq, more than 50 million people have been liberated from tyranny, and they are reclaiming their dignity as free people. Our nation can take great pride in these achievements. Yet I know that liberty is not America's gift to the world -- liberty and freedom are God's gift to every man and woman who lives in this world. {APPLAUSE} 
+
+I'm fortunate enough to be President during a time in which our country holds great influence in the world, and I feel that we must use that influence for great purpose. When we see disease, and starvation, and hopeless poverty, we must not turn away. And that is why, on the continent of Africa, we're bringing the healing power of medicine to millions of people now suffering with AIDS. From Southeast Asia, to Eastern Europe, we're working to end the modern-day slavery of sex trafficking. And throughout the Middle East, we're standing with the men and women who work and sacrifice for freedom. 
+
+Here at home, we're pursuing an agenda to help more citizens realize the promise of this country. That's why we've passed major tax relief to help our nation's families and to create new jobs for American workers. We've passed education reform that gives parents more choices, and makes sure every single child has the opportunity to learn. My administration is firmly committed to rallying the armies of compassion in America, to help our fellow citizens in need. All of you know the power of faith to transform lives, you're answering the call to love and to serve your neighbor. Our laws should welcome and encourage your good works. We should never discriminate against faith-based charities. 
+
+My administration is also committed to defending the most basic institutions and values of this country. We're working to build a culture of life. We took an important step last November when I signed a law to end the brutal practice of partial-birth abortion. We will vigorously defend this -- {APPLAUSE} -- we will vigorously defend this law against any attempt to overturn it in the courts. I will also continue to support crisis pregnancy centers, and adoption, and parental notification laws. I proposed doubling federal funding for abstinence programs in schools and community-based programs. 
+
+In the past two years I have been proud to sign the Born-Alive Infants Protection Act and legislation supporting maternity group homes. I strongly support the Unborn Victims of Violence Act, and call upon the United States Congress to send it to my desk. {APPLAUSE} I oppose the use of federal funds for the destruction of human embryos for stem cell research. I will work with Congress -- {APPLAUSE} -- and I will work with Congress to pass a comprehensive and effective ban on human cloning. Human life is -- {APPLAUSE} -- human life is a creation of God, not a commodity to be exploited by man. {APPLAUSE} 
+
+I will defend the sanctity of marriage against activist courts and local officials who want to redefine marriage. {APPLAUSE} The union of a man and woman is the most enduring human institution, honored and encouraged in cultures and by every religious faith. Ages of experience have taught humanity that the commitment of a husband and wife to love and to serve one another promotes the welfare of children and the stability of society. And government, by recognizing and protecting marriage, serves the interests of all. It is for that reason I support a constitutional amendment to protect marriage as the union of a man and a woman. {APPLAUSE} 
+
+It is my responsibility as the President to make sure the judicial system runs well, and I've met that duty. I've nominated superb men and women for the federal courts -- people who will interpret the law and not legislate from the bench. Yet some members of the United States Senate are using unprecedented tactics to block up-or-down votes. Every nominee deserves a fair hearing and a timely vote on the Senate floor. It is time for some members of the Senate to stop playing politics with American justice. 
+
+All of us are living in historic times; we've been called to meet serious challenges. I have great confidence in America because I know the strength of our people. The world saw that strength on a September morning exactly 30 months ago, and in the countless acts of courage and kindness that have followed. Together, Americans are moving forward with confidence and faith. We do not know God's plan, but we know His ways are right and just. And we pray He will always watch over this great country of ours. 
+
+I want to thank you for the chance to speak to this distinguished convention. May God bless you all, and may God continue to bless the United States of America. {APPLAUSE} 
+
+{/speech} 

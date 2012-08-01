@@ -1,0 +1,68 @@
+﻿{title} Remarks by the President on Energy Efficiency in Savannah, Georgia {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} March 2, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody. {APPLAUSE} Well, thank you so much. Everybody please have a seat, have a seat. Thank you. {APPLAUSE} It is good to be back in Georgia. It is good to be back in Georgia -- although where's the sun, guys? {LAUGHTER} I was looking forward to --
+
+{AUDIENCE-MEMBER} Fired up! {/AUDIENCE-MEMBER} 
+
+I'm still fired up, but we've been getting a lot of snow in Washington, D.C., so I was looking forward to maybe 60, 70 degrees. {LAUGHTER} But I guess I'll take 50.
+
+I want to, first of all, just make some acknowledgments of some wonderful leaders who are here. First of all, I want to thank President Kathy Love and the entire Savannah Tech community for their hospitality. {APPLAUSE} I want to thank your governor, who I just had a chance to see recently, host him in the White House with the other governors -- Mr. Sonny Perdue. {APPLAUSE} Your mayor, Otis Johnson, is in the house. {APPLAUSE} Congressman John Barrow -- you're in his district. {APPLAUSE} That's right. Congressman Jack Kingston -- {APPLAUSE} -- Congressman Sanford Bishop -- {APPLAUSE} -- and Congressman Hank Johnson are all in the house. {APPLAUSE}
+
+Well, thank you so much for taking the time to be here today. I really appreciate the opportunity to visit here at Savannah Tech. And I just took a brief tour of some of the classrooms where students are learning about clean energy. They're learning about solar cells; they're learning about efficient heating and cooling systems. You've got young people here who, through the YouthBuild program, are gaining job skills that will help them the rest of their lives. And by the way, they're building a house right now while they're at it. {APPLAUSE}
+
+From the instructors to the students, you saw just an incredible enthusiasm for America's future. And I was just talking to President Love about the focus of Savannah Tech on clean energy, the idea that this can be a real model for green energy as a way of linking students to the enormous job opportunities and business opportunities that exist in the future. These are the skills that will help our country transform the way we produce and use energy.
+
+And that's so important –- especially as families in Georgia and across America continue to experience the painful consequences of the worst economic crisis that we've had in generations.
+
+I had also had a chance to meet with some business owners who told me what I've heard time and again, that it's tough out there. Unemployment in Georgia is still above 10 percent. That doesn't include folks who have had to accept part-time jobs or, in some cases, have given up finding a job altogether. And when it comes to domestic policy, I have no more important a job as President than seeing to it that every American who wants to work and is able to work can find a job -- and a job that pays a living wage. {APPLAUSE} That was my focus last year and that is my focus this year: to lay a foundation for economic growth that will create jobs, that raises incomes, that will foster a secure economic future for middle class families.
+
+This depends on not just spurring hiring, but doing so in the areas that will create lasting opportunities and prosperity. That's why we've invested in roads and railways so that our economy has room to grow and we're laying the infrastructure for the future. In fact, because of the Recovery Act, there are more than 300 transportation projects underway in Georgia right now. {APPLAUSE}
+
+That's why we invested in schools and prevented layoffs of hundreds of thousands of teachers and public school workers, including thousands of educators in this state -- because we know we will not be able to compete in new industries unless we've got workers ready to fill jobs in those industries. And I'd also point out that I've proposed the largest-ever investment in community colleges and technical schools like this one, to produce millions more graduates who are ready to meet the demands of a 21st century economy. {APPLAUSE}
+
+And to spur hiring and sustain growth we've placed a big emphasis on energy. Just a few weeks ago, I announced a loan guarantee to break ground on the first new nuclear power plant in our country in nearly three decades -– a project right here in Georgia -- {APPLAUSE} -- right here in Georgia -- a project that's going to create more than 3,000 construction jobs in the next few years and ultimately 800 permanent jobs operating the plant. We're on track to create 700,000 jobs across America building advanced batteries for hybrid cars, and modernizing our electric grid, and doubling our capacity to generate clean energy.
+
+And, in fact, here at Savannah Tech, the Recovery Act provided a grant to YouthBuild to help provide training in these very fields. {APPLAUSE} Because I'm convinced that the country that leads in clean energy is also going to be the country that leads in the global economy. And I want America to be that nation. I don't want us to be second place or third place or fourth place when it comes to the new energy technologies; I want us to be in first. {APPLAUSE}
+
+So we have the potential to create millions of jobs in this sector. These are jobs building more fuel-efficient cars and trucks to make us energy independent. These are jobs producing solar panels and erecting wind turbines. These are jobs designing and manufacturing and selling and installing more efficient building materials -– because 40 percent of the energy we use is used by our homes and buildings. Think about that. All of us know that we use a lot of gas in our cars. But in terms of energy usage, 40 percent of it goes to our homes and our buildings.
+
+So as we're looking for additional initiatives to spur hiring, I think we ought to embrace what's happening on this campus. I think we ought to continue to embrace the incredible potential that awaits us across America in clean energy. So in my State of the Union address, I called on Congress to pass a set of initiatives for homeowners who make their homes more energy-efficient -– to continue the energy transformation that's already begun. So today I want to explain the details of this program. And I also want to thank the members of the House and the Senate who are helping to usher this proposal through Congress.
+
+Now, many of you have heard of “Energy Star” -- how many people have heard of “Energy Star”? You've seen that “Energy Star” sticker on a computer or on a microwave? The Energy Star program was created to promote energy efficiency by letting consumers know which appliances, which electronics would save electricity and, therefore, would save them money over time. The program I'm describing today applies this concept not to the appliances, but to the home itself –- and it takes it further. So we're going to call it “Homestar,” just to make it easy to remember. {APPLAUSE}
+
+Here's how it would work. We'd identify the kinds of building supplies and systems that would save folks energy over time. And here's one of the best things about energy efficiency -- it turns out that energy-efficient windows or insulation, those things are products that are almost exclusively manufactured right here in the United States of America. {APPLAUSE} It's very hard to ship windows from China. {LAUGHTER} So a lot of these materials are made right here in America.
+
+So we take these materials, and if a homeowner decides to do work on his or her house -- to put in new windows, to replace a heating unit, to insulate an attic, to redo a roof -– the homeowner would be eligible for a rebate from the store or the contractor for 50 percent of the cost of each upgrade up to $1,500. Now, if you decided to retrofit your whole house to greatly reduce your energy use, you'd be eligible for a rebate of up to $3,000.
+
+Now, these are big incentives. And you'd get these rebates instantly from the hardware store or the contractor. So if you went to Lowe's or Home Depot or wherever you went, right there when you paid at the cash register you'd get that money. You wouldn't have to mail in a long form, wait for a check to arrive months later. {APPLAUSE}
+
+Now, we know this will save families as much as several hundred dollars on their utilities. We know it will make our economy less dependent on fossil fuels, helping to protect the planet for future generations. But I want to emphasize that Homestar will also create business and spur hiring up and down the economy.
+
+I was just meeting with a number of business leaders in different segments of this industry. We've got some manufacturers making insulation and windows and other products; we've got folks who are contractors. So -- stand up, guys -- the guys I just met with. See, they're already -- they're ready to work. They're ready to go. {APPLAUSE} So we were just talking about how they are geared up and they've got the capacity to guarantee a homeowner that if they're willing to do this work on their house, they will get their money back -- not just through the rebate but in the energy savings that you're seeing each year.
+
+Let's say you decide to use this rebate to seal up and insulate your attic -- because you want to save electricity, but also because you're tired of a drafty house. Think about all the ways in which that will stimulate jobs and growth. If you really knew what you were doing, you might do it yourself, but you're probably going to have somebody come to the house to carry out the installation work -– {LAUGHTER} -- because you did the smart thing and you refused to let your husband do it himself. {LAUGHTER} That's the smart thing. {APPLAUSE} He'll be stubborn. He'll tell you he can do it -- {LAUGHTER} -- but don't listen to him.
+
+So that creates work for small businesses and contractors like some of the folks who are here today. And obviously construction work is -- that's been as hard hit as anything during this recession, so you've got a lot of skilled contractors ready to go. And that, in turn, means that the contractors start hiring some of these folks who may have been laid off -- some of them may have been trained right here at Savannah Tech. Now, you also have to buy the insulation and the other materials, and that means you're producing business for your local retailer. And that retailer has to purchase those supplies from manufacturers –- as I said, most of them located right here in the United States of America. And I mentioned these domestic manufacturers who are in the crowd, they would benefit -- they would benefit from this program. And then there's this huge amount of capacity -- excess capacity -- in construction and related industries to meet any surge in demand that was out there.
+
+So the fact is that there's nearly 25 percent unemployment in the construction industry so far, so construction companies, hardware stores, contractors, manufacturers -- they faced a rapid decline in demand in the wake of the mortgage crisis. And to make matters worse, these businesses have seen the same decline in credit that has hurt every sector of our economy.
+
+So these are companies ready to take on new customers; they're workers eager to do new installations and renovations; factories ready to produce new building supplies. All we've got to do is create the incentives to make it happen. And this is not a Democratic idea or a Republican idea; this is a common-sense approach that will help jumpstart job creation while making our economy stronger. {APPLAUSE}
+
+Ultimately, that's what we're called to do. Just like a responsible homeowner will invest in their homes in the near term to fortify their economic security in the long term, we've got to do the same as a country. It will have some costs on the front end -- you buy a new boiler, or you get some insulation, or you get some new windows, that's going to have an initial cost, and the same is true from a government perspective. And it's going to be politically difficult to do some of this, but it's what's right to plan for our future.
+
+The same is true when it comes to reforming our education system. The same is true when it comes to trying to make our health care system more affordable. The same is true when it comes to energy. Each of these things are hard; some of them have some costs on the front end, and working stuff through Congress is more than a notion. {LAUGHTER ; APPLAUSE} But by taking these steps we'll help foster the kind of broadly shared growth that will serve us in the years and the decades to come.
+
+That's how we'll create the conditions for businesses to expand and hire. That's how we'll truly grow our middle class again. That's how we'll not only rebuild our economy but we'll rebuild it stronger than it was before this crisis.
+
+I am confident that we can do it. Savannah Tech is leading the way; a whole bunch of folks in this room are leading the way; and I just hope that Washington stands alongside you in making sure that we've got the kind of energy future that we need.
+
+Thank you very much, everybody. God bless you. God bless the United States of America. {APPLAUSE} 
+
+{/speech}

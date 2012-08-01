@@ -1,0 +1,63 @@
+﻿{title} Speech by President at North Island Naval Air Station {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 17, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you so much. Let me begin by thanking Lynn Schenk for that vigorous introduction; and Bob Filner for what he said. I can tell you, if we had a whole Congress full of people like Lynn Schenk and Bob Filner, we could turn this country around a lot quicker. They have done a wonderful job up there. {APPLAUSE} I'd also like to thank all the people who came out to see me today and to see -- {APPLAUSE} -- my first visit in this county since the election. I want to thank the Mayor of Coronado, the Mayor of San Diego, the state officials who are here, the Lieutenant Governor, the Secretary of State, the State Comptroller. But mostly, I just want to thank all of you. It is wonderful to be back here again. {APPLAUSE} And I'm happy. 
+
+You know, I spent a lot of time here during the campaign. I watched people build ships. I listened to people who had lost their jobs. I listened to people who were starting new companies. I listened to people who were prepared to change, but who did not understand why the national government would turn its back on Southern California and on this state which carries with it so much of the hopes and dreams of all of America, and so much of the economic future of our entire country. 
+
+And when I went to Washington, I was determined never to forget the faces that I saw and the stories that I heard and the lessons that I learned. I want you to know that in the last three and a half months, we have made a real beginning toward turning this country around. And we are going to stay until the job is done. {APPLAUSE} 
+
+You heard Lynn talk about a little of it; you heard Bob talk about a little of it. But let me just repeat, for year and years and years we just saw the Congress and the President fighting against one another, decisions seemed not to be made, the veto pen was used more often and people worked together. Seventeen days after I took office, I signed the Family and Medical Leave Act to guarantee that working people could have some time off when there's a sick parent or a sick child without losing their job. {APPLAUSE} 
+
+For the first time in 17 years, the Congress passed a resolution on time to set the framework of the budget that we're now working on. And what that means is that we cannot raise your taxes unless we also cut spending. No tax increases without spending cuts to bring the deficit down {APPLAUSE} 
+
+And to all the young people in the audience -- {APPLAUSE} -- we managed to win one for you, too, after years and years of trying. Just a few days ago, the United States Congress passed, and I am about to sign, the Motor Voter bill to open up the voting rolls to millions of young people and make it easier for people to register and vote. {APPLAUSE} 
+
+But now we must focus on the hard part: How can we do the things that we have to do to turn this country around? How can we open the economy up and give people who are working hard and playing by the rules the chance to have a good future? How can we do these things? Here is what I think we have to do: 
+
+The first thing we have to do is to pass a budget which does the right things with your money. We have seen the debt of this country go from $1 trillion to $4 trillion in 12 years. And what did you get out of it? We saw a decline in investment. We saw working people work harder for lower wages. We saw taxes on the middle class go up and taxes on the wealthy go down. Everything was turned around in opposite directions from where we ought to be going. 
+
+We are beginning to change that. This budget contains over $250 billion of hard budget cuts. This budget raises most of the money we raise in taxes from people with incomes above $100,000 -- over 74 percent of it. This budget gives a tax break to working families with incomes of under $30,000 to protect them from the impact of the decisions we have to make. 
+
+And we have proposed to put all the taxes and all the spending cuts into a legally separate trust fund so the money cannot be spent to do anything but bring the debt down. It is time we stopped talking about this and started doing something about it. {APPLAUSE} 
+
+And, you know, when you hear people say no, no, no, ask them where they were the last 12 years. Most of the people who say that we don't have a good plan are the very people that drove this country in the ditch in the first place. They took that debt from $1 trillion to $4 trillion. Where were they? {APPLAUSE} 
+
+But let me tell you some things you may not know about this bill. When I came here, I said that we had not only to reduce the deficit, we had to provide more incentives for people to invest to create jobs. So this tax bill also gives real incentives to get the real estate markets going here again. It gives small business people a $25,000 a year expensing provision -- two-and-a-half times greater than the present law, so that there will be incentives for small businesspeople to reinvest in their businesses and put people to work. It gives a big incentive to larger companies located here and throughout the United States to increase in more plant and equipment to modernize and create jobs because they can write it off more rapidly. This bill is pro-investment, not consumption. This is a bill designed to create jobs, not take them away. And I hope we can pass it in the United States Congress. {APPLAUSE} 
+
+And let me say this again: This bill provides for tax relief for the working poor so that when this bill passes, every American will be able to say with some pride, we're rewarding work and not welfare in this country; now, if you work 40 hours a week and you've got a child in the house, you won't be in poverty anymore. I think that's something that's worth doing. {APPLAUSE} It protects families with incomes of under $30,000 from the energy tax. And for families over $40,000 up to about $100,000, it minimizes the burdens of about $10 to $15 a month. And I think it's worth that to get our country back and get this deficit down and reclaim our financial future. We've got to put our house in order, folks. And if we don't do it, we're going to be paying for it from now on. {APPLAUSE} 
+
+But let me tell you what else we are trying to do. It is not just enough to deal with the budget. We have to do things that will create jobs. This county knows as well as well as any in America that it was wrong to cut defense spending as much as we did with no plan to reinvest in a domestic economy. We have in this budget over $1.7 billion this year and $20 billion in the next four years to convert from a defense to a domestic economy, to help it go -- civilian jobs, commercial jobs, to retrain people, to rebuild communities, to get this country going again {APPLAUSE} And we must do that. {APPLAUSE} 
+
+I also recognize, and I'm sure many of you do, that the financial health of this country will never be assured until finally we join all the other advanced countries with which we're competing and provide health care security with a basic health care for all Americans at affordable cost. And we are coming with a health care plan to do just that. And I hope the American people will support it {APPLAUSE} 
+
+Finally, let me say that California needs an economic strategy that will be built from the grassroots up, but that will have a partner in the White House. I have delegated to Secretary of Commerce Ron Brown the responsibility of representing this administration in this state and developing a coordinated economic policy for the long-term health and welfare of the California economy. And we will not stop until we have turned this state around and moved this state forward {APPLAUSE} 
+
+We have made a beginning in this budget. With all the budget cuts we've got, there is more money in this budget for California and the other states that are hit unfairly by the burdens of large immigration problems and all the costs that go into it. The federal government's going to pay more of our fair share in California now and ask you to pay less {APPLAUSE} . 
+
+We're going to invest more in environmental cleanup in the kind of water problems that you have here. We're going to do our part, and we're going to do it right. {APPLAUSE} 
+
+And most importantly of all, we're going to continue to work on building an economic base that will replace the prosperity you enjoyed in times of high defense spending when the Cold War was at its height. It is wrong to let the people who won the Cold War lose the peace afterward. It is wrong to turn our backs on the state that moved this country so much in the 1980s. It is wrong not to have a strategy that will not work miracles but that will make progress day in and day out, month in and month out, year in and year out. 
+
+And I want you to know that we are going to work our hearts out in Washington together in order to move this state forward and move this country forward, and I want you to help us do it. 
+
+Will you do it? {APPLAUSE}
+
+Lynn Schenk said it better than I could, but I want to reiterate it: The country went in one direction for 12 years, and it was a popular direction. The most popular thing in the world to do if you're in public life is to cut people's taxes and spend more money. But sooner or later, your string runs out. Sooner or later, people look around and they say, how did we have a $4 trillion debt? How can we be spending over $300 million a year over and above what we're taking in? How can we be working harder for lower wages? Why are these other countries able to invest and create jobs and grow, and we don't have the money? 
+
+The reason is because we stopped thinking about the future. We did what was popular in the short run. We took the easy way and the shortcut, and we are paying for it. But I'm telling you, this country is still the strongest country in the world economically, militarily, politically, the fabric of our people, the strength of our families, the will of individuals to succeed is as strong as it has ever been. All we have to do now is to have the courage to face these problems forthrightly. Let's pass a budget that puts our house in order. Let's invest in the education of our people and the new technologies of the future. {APPLAUSE} Let's provide health care to our people. Together we can do it. We need your help. We need your support for people like Lynn and Bob who care about the future and are willing to make the tough decisions. Stay with us and we can turn the country around and California around together. 
+
+Thank you and God bless you all. {APPLAUSE} 
+
+
+
+
+
+{/speech} 

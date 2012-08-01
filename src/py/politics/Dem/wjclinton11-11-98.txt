@@ -1,0 +1,72 @@
+﻿{title} Remarks by the President at Arlington National Cemetery Veterans Day Ceremony {/title}
+{event} Amphitheater, Arlington National Cemetery, Arlington, Virginia {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 11, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Secretary West, for those extraordinary remarks and your equally extraordinary service to our nation. Commander Tanguma, General Ivany, Superintendent Metzler, Chaplain Maddry, Lee Thornton, thank you for being with us again this year.
+
+To the distinguished leaders of our veterans organizations, General Ivany, members of Congress, members of the Cabinet, Secretary Cohen and the Joint Chiefs, the clergy, the veterans, and their families, the members of the armed services here. We thank especially the Marine Band.
+
+My fellow Americans, if you will let me begin on a point of personal privilege, I was especially proud to listen to Commander Tanguma's speech today. It was about 10 months, almost to the day, from this day that he and I were together in Mission, Texas, his hometown. He brought with him a distinguished group of Catholic war veterans, including a number from Texas, including a member of his post, the former chairman of the House Agriculture Committee, Congressman Kika de la Garza. We're glad to see you here, sir. {APPLAUSE}
+
+What I want you to know is that in spite of all the incredible valor of Hispanic soldiers in our country's war, he is the very first Hispanic veteran ever to host this event. It is a great honor for all Americans that this has finally come to pass, and we thank you, sir, for being here. {APPLAUSE}
+
+Today, as a free nation, we come together to honor the men and women to whom we owe our freedom, to pay our own tribute here at this most sacred memorial to our nation's past. Not only today but every day, some of us have the privilege to glance across the Potomac to see these silent white rows inscribed with their crosses and crescents and stars of David to remind us that our achievements in peace are built on the sacrifices of our veterans in war, and that we owe the most solemn debt to these brave Americans who knew their duty and did it so very well.
+
+We come together today to acknowledge that duty to them -- a duty to provide for our veterans and their families, to give them every possible opportunity to improve their education to find a job, to buy a home, to protect their health. Just this morning, I was proud to sign, in the presence of some of the veterans leaders here, the Veterans Programs Enhancement Act, which will increase compensation payments to veterans with disabilities as well as benefits to the survivors of Americans who died serving our country. {APPLAUSE}
+
+I have also directed the Secretaries of Defense, Veterans Administration, and Health and Human Services to establish a Military and Veterans Health Coordinating Board to improve health care for our armed forces, our veterans, and our families, and to make sure we know what the health risks are to our soldiers when we send them into harm's way.
+
+We have a duty as well to remember the history that our veterans lived and to appreciate and honor the history they made. We cannot expect future generations to understand fully what those who came before saw, experienced, and felt in battle. But we can make sure that our children know enough to say "thank you" -- those two simple words that can mean as much or even more than a medal. We can preserve their diaries and documents, their letters home, their stories of sorrow and pride. Neither the passage of time nor the comforts of peace should drive the memory and meaning of their sacrifice from the consciousness of our nation.
+
+We owe this to every American who fought in this century's wars. We owe it as well to the millions of Americans who served in our armed forces during the Cold War. Because they stood ready, we live in a very different world. No longer is there a single over-riding threat to our existence. Former adversaries are becoming our partners.
+
+Still, this remains a dangerous world and peace can never be a time for rest, for maintaining it requires constant vigilance. We can be proud that the United States has been a force for peace in Northern Ireland, in the Middle East, in Haiti, in Bosnia, in Kosovo. We have been able to secure peace because we have been willing to back up our diplomacy, where necessary, with military strength.
+
+Nowhere is our vigilance more urgent than in the Persian Gulf, where Saddam Hussein's regime threatens the stability of one of the most vital regions of the world. Following the Gulf War, and as a condition for the cease-fire, the United Nations demanded, and Iraq agreed, to disclose and destroy its chemical, biological, and nuclear weapons capabilities.
+
+This was no abstract concern. Saddam has fired Scuds at his neighbors, attacked Kuwait, and used chemical weapons in the war with Iran and even on his own people. To ensure that Iraq made good on its commitments, the United Nations kept in place tough economic sanctions while exempting food, medicine, and other humanitarian supplies to alleviate the suffering of the Iraqi people. The U.N. also established a group of highly professional weapons inspectors from dozens of countries, a group called UNSCOM, to oversee the destruction of Iraq's weapons capability and to monitor its ongoing compliance.
+
+For seven years now, Iraq has had within its power the ability to put itself on the path to ending the sanctions and its isolation simply by complying with obligations it agreed to undertake. Instead, it has worked to shirk those obligations: withholding evidence about its weapons capability; threatening, harassing, blocking the inspectors; massing troops on the Kuwaiti border in the South; attacking the Kurds in the North.
+
+Our steadfast determination in maintaining sanctions, supporting the inspections system, enforcing a no-fly zone, and responding firmly to Iraqi provocations has stopped Iraq from rebuilding its weapons of mass destruction arsenal or from threatening its neighbors seriously.
+
+Now, over the past year Iraq has intensified its efforts to end the weapons inspection system, last fall threatening to overthrow -- to throw American inspectors off the UNSCOM teams; then in January denying UNSCOM unfettered access to all the suspect weapon sites. Both times we built diplomatic pressure on Iraq, backed by overwhelming force, and Baghdad reversed course. Indeed, in March, again, it gave a solemn commitment -- this time to U.N. Secretary General Kofi Annan -- that it would reopen all of Iraq to international weapons inspectors, without conditions or restrictions.
+
+In August, for the third time in only a year, again, Iraq severely restricted the activities of the weapons inspectors. Again, we have gone the extra mile to obtain compliance by peaceful means, working through the U.N. Security Council and with our friends and allies to secure a unanimous Security Council resolution condemning Iraq's action. We also supported, along with all the members of the Security Council, what Iraq says it wants, a comprehensive review of Iraq's compliance record -- provided Saddam resumes full cooperation with the UNSCOM inspectors.
+
+Now, if Saddam Hussein is really serious about wanting sanctions lifted, there is an easy way to demonstrate that. Let UNSCOM do its job without interference -- fully comply. The international community is united that Saddam must not have it both ways, by keeping his weapons of mass destruction capability and still getting rid of the sanctions.
+
+All of us agree that we prefer to resolve this crisis peacefully, for two reasons. First, because accomplishing goals through diplomacy is always preferable to using force. Second, because reversing Iraq's decision and getting UNSCOM back on the job remains the most effective way to uncover, destroy, and prevent Iraq from reconstituting weapons of mass destruction and the missiles to deliver them.
+
+But if the inspectors are not permitted to visit suspect sites or monitor compliance at known production facilities, they may as well be in Baltimore, not Baghdad. That would open a window of opportunity for Iraq to rebuild its arsenal of weapons and delivery systems in months -- I say again, in months -- not years. A failure to respond could embolden Saddam to act recklessly, signalling to him that he can with impunity develop these weapons of mass destruction or threaten his neighbors, and this is very important in an age when we look forward to weapons of mass destruction being a significant threat to civilized people everywhere. And it would permanently damage the credibility of the United Nations Security Council to act as a force for promoting international peace and security. We continue to hope, indeed pray, that Saddam will comply, but we must be prepared to act if he does not. {APPLAUSE}
+
+Many American service men and women are serving in the Persian Gulf today, many others serving elsewhere around the world, keeping the peace in Bosnia, watching over the DMZ in Korea, working with our friends and allies to stop terror and drugs and deadly weapons.
+
+Too often we forget that even in peacetime their work is hard and often very dangerous. Just three days ago, four brave, dedicated American flyers, Lieutenant Commander Kirk Barich, Lieutenant Brendan Duffy, Lieutenant Meredith Carol Loughran, and Lieutenant Charles Woodard -- all four were lost in a crash aboard the USS Enterprise. Today our prayers are with their families.
+
+When we give our armed forces a mission, there is a principle we must keep in mind. We should never ask them to do what they are not equipped to do, but always equip them to do what we ask them to do. The more we ask, the greater our responsibility to give our troops the support and training they require and the tools they need, from basic spare parts to the newest technology.
+
+As Commander in Chief, I have no higher duty than this: to make certain our troops can do their job while maintaining their readiness to defend our country and defeat any adversary; to ensure they can deploy far from home, knowing their loved ones have the quality of life they deserve. For as one sergeant recently said, "We enlist soldiers, but we reenlist families."
+
+While our current state of readiness is sound, there are real concerns about the future. For that reason, I made a commitment to add resources to this year's budget to keep our readiness razor sharp and to improve recruitment. We asked the Congress to approve $1.1 billion in new funds for readiness, and it did. Today, I am happy to announce that we are releasing those funds. {APPLAUSE}
+
+We have also obtained almost $2 billion in emergency funds to cover unanticipated operations in Bosnia and shifted another $1 billion in our defense budget to meet readiness needs. We have approved pay raises that will significantly reduce the discrepancy between military and civilian pay. {APPLAUSE} In addition, I have ordered my administration to conduct a thorough review of our long-term readiness and have met with all of our service chiefs to discuss that.
+
+The process is now under way. I anticipate it will result in a set of budget and policy proposals for our year 2000 budget requests and for future years. My fellow Americans, this is a challenge we can and must meet. For while we certainly cannot solve all the world's problems, when our values and interests are at stake we must be ready to act.
+
+Let us always remember that our most profound duty to our nation's veterans is to keep standing for the ideals for which they fought and for which too many died; to keep strengthening the alliances they forged, as we will next spring at NATO's 50th Anniversary Summit in Washington; to keep taking risks for peace; to keep faith with those who struggle for human rights, the rule of law, a better life.
+
+We have a duty to seize, not shirk, the responsibilities of leadership, and we have an opportunity to create a world more peaceful, more free, more prosperous than any people have ever known. Therefore, we should look on leadership not as a burden but as a chance, a responsibility to give our children a world that reflects the hopes and enthusiasm that have inspired generation after generation of Americans to serve our country in uniform.
+
+From World War I hero Alvin York to World War II hero Waverly Wray; from General George Marshall to General Colin Powell; from John Glenn to . . . John Glenn {LAUGHTER} I think we ought to give Senator Glenn a hand today, don't you? {APPLAUSE} Think of it, he's given us a whole new field of endeavor to look forward to in our old age. {LAUGHTER}
+
+We dedicate this day to all our veterans, to the retired school teacher who in his time helped liberate a death camp, to the hospital medic who learned to save lives in Vietnam, to the legionnaire who pins on his medals with pride, to the heroes buried in the Tomb of the Unknowns.
+
+To all of them and all they represent, we dedicate each and every day spent in service to our country and its ideals. May God bless them and their families. May God bless the United States of America. Thank you. 
+
+{/speech}

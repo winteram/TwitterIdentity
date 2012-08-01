@@ -1,0 +1,54 @@
+﻿{title} Remarks at the Council of Americas Annual Meeting {/title}
+{event} Council of Americas Annual Meeting {/event}
+{speaker} Condoleezza Rice {/speaker}
+{date} May 3, 2005 {/date}
+{source} http://www.state.gov/secretary/rm/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Thank you, Bill, for that wonderful and kind introduction and thank you for the water that you're about to give me. I appreciate that. {LAUGHTER}
+
+I'd also like to recognize Eric Farnsworth and Susan Segal and especially David Rockefeller. David, thank you for the now 40 years that you have had the vision to have an organization like this and for the great work that it has done. Thank you very, very much for your commitment.
+
+For four decades, the Council of the Americas has been committed to democracy and prosperity in the Western Hemisphere and through your tireless efforts this vision is becoming a reality across the hemisphere. We here at the State Department and in the government especially value your dedicated cooperation because you understand that the leadership and partnership of the United States is essential to success in Latin America.
+
+As you know, I've just returned from a trip to Brazil and Colombia, Chile and El Salvador, where I worked with our many democratic partners to advance our shared principles. In Santiago we were able to reach consensus on a new Secretary General for the Organization of American States and we underscored the need for the free nations of the Americas to help all our citizens share in the benefits of democracy.
+
+The democratic transformation of Latin America is part of a larger tide of liberty that is cascading throughout the world. In places like Georgia and Ukraine and Kyrgyzstan and elsewhere, in Iraq and Afghanistan, Lebanon and the Palestinian territories, people's desire for freedom and dignity is redefining what many thought possible in these societies. The same is true of Latin America and today the region's democracies are leading much of the developing world in political and economic liberty, in state security and in social justice.
+
+Too often, when people talk about Latin America they focus on how many hurdles of development still remain, problems like poverty and inequality and fragile democracies. And to be sure, in places like Ecuador and Bolivia and elsewhere in the region, these challenges are very real. And these challenges deserve our attention because they will take sustained effort over many years, even decades, to address successfully.
+
+But we must not lose sight of how far our hemisphere has come in just 25 years. Back then, 14 military dictatorships oppressed citizens throughout the region. Violent insurgencies raged in 9 countries. Corrupt statist economies impoverished millions of people. And guerrilla groups operated in virtually every nation, insisting that armed struggle was the only path to change.
+
+In just over two decades, the people of Latin America transcended what many assumed was an inescapable reality. They threw murderers and thieves and dictators out of power and created democracies. They built free market economies that grew more last year than at any other time in the past three decades. The countries of our hemisphere now share a consensus that democracy and economic liberty are the only pathways to success. The real divide in the Americas today is not between governments of the left and the right. The real divide is between those who are elected and govern democratically and those who do not.
+
+Today, when democratic members of the OAS meet, there is only one open seat at the table, and that seat will someday belong to a free and democratic Cuba. The 34 democracies of our hemisphere have signed the Inter-American Democratic Charter and together we, the states of the region, must hold states accountable to that Charter. And most importantly, we must insist that leaders who are elected democratically have a responsibility to govern democratically.
+
+The foundations of freedom are in place in Latin America and I am confident that in time the blessings of democracy will come to people who keep faith with the principles of democracy. But that does not mean that there are not great challenges before us and the greatest challenge is for every Latin American democracy to help lift millions of people out of poverty.
+
+At the Monterrey summit, all nations agreed that economic growth is essential to fighting poverty. We also agreed that growth is only possible when governments rule justly, advance economic liberty and invest in their people. The key to prosperity for all our citizens lies in the continued openness of our entire hemisphere, openness to new ideas, to new people and especially to new trade.
+
+A region that trades in freedom, after all, benefits everyone. To further the cause of freedom in the Americas, the United States Congress must approve the Central American Free Trade Agreement, also with the Dominican Republic. CAFTA will advance democracy, strengthen security and promote prosperity among some of our most important neighbors. The people of Central America and the Dominican Republic are working hard to replace a past of chaos with a future of commerce. They are embracing democratic principles and free market reforms. Together, we must use the incentive of increased trade to promote even greater political and economic freedom. CAFTA will make that possible.
+
+To attract trade and investment, democratic nations will work to create the political conditions for prosperity, transparency, accountable governments with energy and the integrity to enforce the rule of law.
+
+In turn, these democratic reforms will create opportunities for citizens to lift themselves out of poverty and participate in the lives of their nations. CAFTA will also help our Central American neighbors to strengthen environmental and labor standards, because only democratic governments truly deliver on the popular desire for a clean environment and guaranteed rights for workers and only free markets and free trade protect the common goods that all people share and enjoy together.
+
+There is a belief among some that CAFTA will only enable the strong to prey upon the weak. This is deeply misguided. Free trade promotes growth and opportunity and can, thus, benefit all. Free trade is most important for small businesses and new entrepreneurs, because they have the energy and industry to seize new economic opportunities. When government liberates the entrepreneurial spirit of its citizens, free trade becomes an engine for greater prosperity and social mobility.
+
+Of course, the CAFTA agreement will also benefit the United States. We export more to these six nations than we do to Russia, India and Indonesia combined. By uniting suppliers and customers throughout our region, we will all compete more successfully in the dynamic global economy. Even more importantly, CAFTA will contribute to stability and democracy in Central America, making our nation's immediate periphery stronger and safer and free.
+
+For too many decades, U.S. policy toward Central America and the Dominican Republic has oscillated from engagement to disregard and then back again to disengagement and back again to disregard. With CAFTA, with the permanent engagement that free trade brings, we can break this trend once and for all and we can demonstrate that the United States is committed to the success of all Latin American countries that embrace the challenge of democracy.
+
+CAFTA is just one illustration of new democratic partnerships that are defining our hemisphere. In North America, the United States, Canada, and Mexico have created the Security and Prosperity Partnership, which will strengthen the crucial link between public safety and private enterprise. We in the U.S. Government are looking to all of you in the private sector to help us identify ways that this partnership can help us all to cooperate better together.
+
+This is a time of great opportunity for the Western Hemisphere. It is also a time of great challenge. For many decades, a genuine partnership was impossible between the many nations of the Americas because, in fact, we disagreed over fundamental issues of principle. This is no longer true.
+
+Today, our hemisphere is committed to democracy and we share the same great purpose: freedom, prosperity, and dignity for all of our citizens. This was unthinkable to many people only 25 years ago, but a principled few held fast to the vision: a future democratic partnership that would span our hemisphere. The Council of the Americas was at the forefront of this distinguished group. You have helped the nations of the Americas forge a grand consensus on the importance of free minds and free markets. Now, you must work together with the free governments of this region to expand and extend the benefits of democracy to all our citizens. This is a great challenge, but it is not beyond our reach. And as partners, we will fulfill the great hope of democracy for all the peoples of this hemisphere.
+
+Thank you very much.
+
+{APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,42 @@
+﻿{title} SOTU Excerpts on Encouraging Acts of Compassion {/title}
+{event} SOTU {/event}
+{speaker} George W. Bush {/speaker}
+{date} January 28, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+For so many in our country -- the homeless and the fatherless, the addicted -- the need is great. Yet there's power, wonder-working power, in the goodness and idealism and faith of the American people.
+
+Americans are doing the work of compassion every day -- visiting prisoners, providing shelter for battered women, bringing companionship to lonely seniors. These good works deserve our praise; they deserve our personal support; and when appropriate, they deserve the assistance of the federal government. {APPLAUSE}
+
+I urge you to pass both my faith-based initiative and the Citizen Service Act, to encourage acts of compassion that can transform America, one heart and one soul at a time. {APPLAUSE}
+
+Last year, I called on my fellow citizens to participate in the USA Freedom Corps, which is enlisting tens of thousands of new volunteers across America. Tonight I ask Congress and the American people to focus the spirit of service and the resources of government on the needs of some of our most vulnerable citizens -- boys and girls trying to grow up without guidance and attention, and children who have to go through a prison gate to be hugged by their mom or dad.
+
+I propose a $450-million initiative to bring mentors to more than a million disadvantaged junior high students and children of prisoners. Government will support the training and recruiting of mentors; yet it is the men and women of America who will fill the need. One mentor, one person can change a life forever. And I urge you to be that one person. {APPLAUSE}
+
+Another cause of hopelessness is addiction to drugs. Addiction crowds out friendship, ambition, moral conviction, and reduces all the richness of life to a single destructive desire. As a government, we are fighting illegal drugs by cutting off supplies and reducing demand through anti-drug education programs. Yet for those already addicted, the fight against drugs is a fight for their own lives. Too many Americans in search of treatment cannot get it. So tonight I propose a new $600-million program to help an additional 300,000 Americans receive treatment over the next three years. {APPLAUSE}
+
+Our nation is blessed with recovery programs that do amazing work. One of them is found at the Healing Place Church in Baton Rouge, Louisiana. A man in the program said, "God does miracles in people's lives, and you never think it could be you." Tonight, let us bring to all Americans who struggle with drug addiction this message of hope: The miracle of recovery is possible, and it could be you. {APPLAUSE}
+
+By caring for children who need mentors, and for addicted men and women who need treatment, we are building a more welcoming society -- a culture that values every life. And in this work we must not overlook the weakest among us. I ask you to protect infants at the very hour of their birth and end the practice of partial-birth abortion. {APPLAUSE} And because no human life should be started or ended as the object of an experiment, I ask you to set a high standard for humanity, and pass a law against all human cloning. {APPLAUSE}
+
+The qualities of courage and compassion that we strive for in America also determine our conduct abroad. The American flag stands for more than our power and our interests. Our founders dedicated this country to the cause of human dignity, the rights of every person, and the possibilities of every life. This conviction leads us into the world to help the afflicted, and defend the peace, and confound the designs of evil men.
+
+In Afghanistan, we helped liberate an oppressed people. And we will continue helping them secure their country, rebuild their society, and educate all their children -- boys and girls. {APPLAUSE} In the Middle East, we will continue to seek peace between a secure Israel and a democratic Palestine. {APPLAUSE} Across the Earth, America is feeding the hungry -- more than 60 percent of international food aid comes as a gift from the people of the United States. As our nation moves troops and builds alliances to make our world safer, we must also remember our calling as a blessed country is to make this world better.
+
+Today, on the continent of Africa, nearly 30 million people have the AIDS virus -- including 3 million children under the age 15. There are whole countries in Africa where more than one-third of the adult population carries the infection. More than 4 million require immediate drug treatment. Yet across that continent, only 50,000 AIDS victims -- only 50,000 -- are receiving the medicine they need.
+
+Because the AIDS diagnosis is considered a death sentence, many do not seek treatment. Almost all who do are turned away. A doctor in rural South Africa describes his frustration. He says, "We have no medicines. Many hospitals tell people, you've got AIDS, we can't help you. Go home and die." In an age of miraculous medicines, no person should have to hear those words. {APPLAUSE}
+
+AIDS can be prevented. Anti-retroviral drugs can extend life for many years. And the cost of those drugs has dropped from $12,000 a year to under $300 a year -- which places a tremendous possibility within our grasp. Ladies and gentlemen, seldom has history offered a greater opportunity to do so much for so many.
+
+We have confronted, and will continue to confront, HIV/AIDS in our own country. And to meet a severe and urgent crisis abroad, tonight I propose the Emergency Plan for AIDS Relief -- a work of mercy beyond all current international efforts to help the people of Africa. This comprehensive plan will prevent 7 million new AIDS infections, treat at least 2 million people with life-extending drugs, and provide humane care for millions of people suffering from AIDS, and for children orphaned by AIDS. {APPLAUSE}
+
+I ask the Congress to commit $15 billion over the next five years, including nearly $10 billion in new money, to turn the tide against AIDS in the most afflicted nations of Africa and the Caribbean. {APPLAUSE}
+
+This nation can lead the world in sparing innocent people from a plague of nature. 
+
+{/speech}

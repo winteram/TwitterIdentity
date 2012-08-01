@@ -1,0 +1,71 @@
+﻿{title} President Speaks at Pittsburgh Steelworkers Picnic {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} August 26, 2001 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all very much. Governor, you don't look a day over 60. {LAUGHTER} 
+
+I appreciate my friend Tom Ridge. I really care for him a lot. He's a really decent man. And I know the people of Pennsylvania are going to miss him when he retires from the governor's office. He's done a good job. A good, even-handed fellow -- {APPLAUSE} -- who, like me, married really well. {LAUGHTER} 
+
+I'm thrilled that my wife has traveled with me today. We came up from Crawford, Texas. I was wondering what that wet stuff coming out of the air was for a while. {LAUGHTER} 
+
+But I can't tell you how proud I am of Laura. When I married her, she was a public school librarian. {APPLAUSE} There's always one in every crowd. {LAUGHTER} 
+
+But like that public school librarian, she not only loves books, she loves children. And one of the things she is going to work with me on is to make sure that every child, I mean every child in America, gets a first-rate education by starting with making sure every child in America learns to read. 
+
+Thank you for coming, Laura. {APPLAUSE} 
+
+We both grew up in Midland, Texas. She remembers me -- I think she remembers me as a Little League baseball player, so she is somewhat in shock over the fact that I'll be inducted into the Little League Hall of Fame this evening. {LAUGHTER} 
+
+It's an honor to be here in Pennsylvania. I'm proud that two of my Cabinet officials are here, my long-time friend from Texas, Don Evans. One thing about old Don, and even Leo will admit this, he'll answer the phone call from the people who work in the steel industry. When you call, he'll be on the other end of the line. {APPLAUSE} 
+
+And Elaine Chao, I'm proud of her representing the working people of America in my Cabinet. She's smart, she's capable and she brings a lot of dignity to her office as well. Thank you for being here, Elane. 
+
+I've enjoyed working with Senator Santorum and Melissa Hart and Bob Ney from Ohio. Every time I see them, they say steel. "Mr. President, you must understand steel and its woes." You've got three great advocates for the steel industry and its workers in those three elected officials who took time out of their day to be here. Congress is on vacation, the country has never run better. {LAUGHTER ; APPLAUSE} But I appreciate them coming over to say hello. 
+
+I want to thank Tom Usher and congratulate the folks at U.S. Steel for 100 years of productivity for America. I want to thank Leo. I was sitting there watching during the speeches. Leo was sitting there working the Secretary of Commerce the whole time. {LAUGHTER} He never misses a moment to say what's on his mind, and I appreciate a straightforward fellow, a fellow who you know where he stands. 
+
+And I was asking the folks at the table I was at, how's Leo doing? They said, we like him, he represents us well. And I appreciate your service, Leo, and we look forward to working with you to do what's right for the steelworkers and the steel industry of America. {APPLAUSE} 
+
+I got to say something about Ross. Where are you, Ross? There he is. He's my table host. Ross made sure I got through the line in a record time, 45 minutes. {LAUGHTER} It's not that he stopped and ate every dish along the way, but he was gracious in letting me say hello to as many people as I could. 
+
+I love people and I love the American citizens. It doesn't matter whether you're Republican, Democrat, don't care about political parties, I love representing this great country because it's a country full of good and decent, honorable folks. {APPLAUSE} 
+
+Ross told me he's been in power for 30 years. Tell me how you do it, Ross. It's not because of your looks. {LAUGHTER} 
+
+Well, at any rate, thank you all for coming. I have been on what they call a working vacation. I've been at our place in Crawford, Texas, and then I've been traveling out of the place to go to what I call a heartland tour, which is really a way for me to herald the great values of our country. 
+
+See, Washington passes laws, but it doesn't pass values legislation. Values exist in the hearts and souls of our citizens. And I am here to trumpet one of the great values of America. That's the enterprise of the American worker, the hardworking American citizens who make this economy go. And those are the steelworkers of America. I appreciate what you do for our country. {APPLAUSE} 
+
+I've had the honor of traveling the world. We're the envy of the world in many ways, and one reason why is because of our work ethic. People work hard in America and they're not afraid to do so. And one of the reasons we're as strong as we are is because of the productivity based upon the hardworking American citizen. And I appreciate you for your work. 
+
+There's another value I herald when I travel the country, and that's the value of family. I want to thank all the families who are here, the moms and dads who have brought their children out. I love the American family. {APPLAUSE} And I understand how important family is to our country. 
+
+I like to remind our fellow citizens, if you're a mom or a dad, the most important job you'll ever have is not going to take place inside this building; the most important job you'll ever have is to tell your children you love them with all your heart and show them you love them with all your mind and all your soul. {APPLAUSE} 
+
+We're a great land because of the values we hold dear. And there's another reason to get outside of Washington, because there's a lot of common sense outside of the nation's capital. And it makes common sense to be secure. One of my jobs as the Commander-in-Chief is to make sure our defenses are strong and the nation is secure. It's common sense to make sure that we have an energy policy that becomes less reliant upon foreign sources of energy. I want to appreciate and thank the U.S. Steel and its workers for a good conservation policy. That's part of a good energy policy. But the other part is to make sure we've got ample coal and natural gas, found right here in our own hemisphere to fuel our own plants so our workers can have jobs and we can have good product for the American people. {APPLAUSE} 
+
+It also makes sense not to be reliant -- if you're the Commander-in-Chief, it makes sense, common sense, not to be heavily reliant upon materials such as steel. If you're worried about the security of the country and you become over-reliant upon foreign sources of steel, it can easily affect the capacity of our military to be well supplied. 
+
+Steel is an important job issue; it's also an important national security issue. And that is why we took the actions we took in this administration. {APPLAUSE} 
+
+I'm upbeat and my spirits are high. But I must confess I'm worried about the fact that our manufacturing sector in our economy is a lot slower than I would hope. As a matter of fact, our economy has grown at a paltry 1 percent for the last 12 months, and that worries me. It worries me, first and foremost, for the effect that's going to have on the families all across America. I worry about -- I worry about our citizens who work. And we're taking action. 
+
+We're paying down record amounts of debt to ease the pressure on interest rates. We've got a trade policy that's going to have a level playing field as its component. And the other thing we've done at the administrative level is we sent money back to the people who pay the bills in America. {APPLAUSE} 
+
+We said that there's obviously a role for the federal government and let's fund our priorities. Educating our children is a priority, national defense is a priority. Helping people who cannot help themselves is a priority. But folks, when the economy slows down, it's time to understand how to get it started again. And one way to help is to give people their own money back. 
+
+You see, there's a big debate in Washington about the money in Washington. Sometimes, folks up there lose sight about whose money it is. That money is not the government's money; it's the people's money. And we did the right thing with sharing that money with the people who pay the bills. {APPLAUSE} 
+
+We've taken action. As you can see, this is an administration that, when we see a problem, we move. We don't stick our finger in the air trying to figure out which way the wind is blowing. I don't need a poll or focus group to tell me what to think. I do what I think is right for the American people. And we'll just let the political chips fall where they may. And the right thing to do was to cut the taxes. {APPLAUSE} 
+
+But really, the right thing for me to do is to travel our land, come to places like the Mon Valley and thank you all very much for what you do. Thank you for your hard work, thank you for loving your families. Thank you for helping a neighbor in need. Thank you from the bottom of my heart for walking across the street when you see somebody in your neighborhood who needs a helping hand. Thank you for going to your places of worship and rallying the good faith and good charity inherent in programs all aimed at helping somebody help themselves. 
+
+Now, this is a great land. It's a great land because we're blessed with the greatest people on the face of the earth. It's my honor to be amongst such people today. Thank you for having me. May God bless you all and my God bless America. Thank you all. {APPLAUSE}
+
+{/speech} 

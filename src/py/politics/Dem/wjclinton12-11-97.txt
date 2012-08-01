@@ -1,0 +1,43 @@
+﻿{title} Remarks By The President To The Democratic Governors Association Reception {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 12, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you very much. Thank you, Loretta. Thank you, Katie. Thank all of you who had anything to do with this fundraiser. This is an exercise of true affection because Howard Dean would probably win next year if none of us gave him a penny. {LAUGHTER} But I am delighted to be here. {APPLAUSE} 
+
+Senator Leahy and I were standing back there when Howard was giving his remarks, and he said, he suffered through 16 years of Republican leadership, the deficit was going up before I came in. And I said, you know, Pat, it was really only 12 years, it just seemed like 16. {APPLAUSE} 
+
+I'd like to say a special word of thanks, too, to Senator Pat Leahy, who is truly one of the finest people in the entire United States Congress and one of the most effective. {APPLAUSE} Whether the issue is economic policy, agriculture policy, social policy, foreign policy, his passion to remove the scourge of land mines from the Earth, Pat Leahy is always there. And we can be proud that he represents not only the state of Vermont, but all of America very well. {APPLAUSE} 
+
+I'd also like to say that whatever it is that Howard Dean knows, or whatever it is that he eats for breakfast every morning, if I could give it to every other Democratic office holder and would-be office holder, we would immediately become the majority in the Congress and we would have about 35 governors. {APPLAUSE} I have to tell you, I think a big part of it is just producing for people, actually doing what you say you're going to do at election time. And I very much appreciate what he said about what we've tried to do here in Washington. 
+
+One of the -- I'm delighted -- I love to do fundraisers and events for Democratic governors or the Democratic Governors Association in Washington because one of the things that I learned when I moved to Washington and what I feared was that people don't think that those of us who have been governors exist out there. And we might as well be in a zoo somewhere. 
+
+When I came to Washington, I would read editorials from the prominent newspapers saying that if you cared about the deficit and crime and welfare, you were stealing Republican issues. And I said, now, wait a minute, the last time I checked, the debt of this country quadrupled under a Republican President, crime was going up when I took office and the welfare rolls were expanding. And since I've been in office, we've cut the deficit by 92 percent, crime has gone down every year, and the welfare rolls have dropped by three million. I think those are American issues the Democratic Party has done very well on, and I don't understand all this. {APPLAUSE} 
+
+Out in the country, you know, Democrats care about the deficits and welfare reform and safe streets. And you know what? Democrats care about them in Washington, too. We passed a crime bill in 1994 overwhelmingly with Democratic support with a little Republican support. We passed the economic program in 1993 only with Democrats. And we began the welfare reform effort through the Executive Branch, as Howard Dean said; then I vetoed two bills first because I refused to take away the guarantee of health care and nutrition from children, and I wanted to have enough money for child care if we were going to require people to go to work. So we got it right and the results were good for America, and I'm proud of that. 
+
+But one last point I want to make. This has been a very good year for the United States in Washington. We had an enormous effort to pass the balanced budget that has things that I think every Democrat in this country and every American ought to be proud of. It's the biggest investment in health care for poor children since 1965 -- Howard talked about that -- biggest investment in education since 1965, biggest investment in helping open the doors of college to all Americans since the G.I. Bill 50 years ago. Substantial reforms of Medicare, including efforts to improve what we're doing in diabetes that the Diabetes Foundation says are the most important advances in the care of diabetes since insulin was developed 70 years ago. We have added 12 years to the Medicare trust fund and given our seniors more choices. This was a big deal. 
+
+We also are working on expanding NATO to ensure our partnership in security in Europe. We've passed the Chemical Weapons Convention, a big issue. One of the big disputes we're having with Saddam Hussein now and these inspectors is that these inspectors in Iraq have found enough potential chemical, biological and incipient nuclear technology, more than was destroyed in the Gulf War. We want to wipe the prospect of chemical warfare off the face of the Earth. We don't want a bunch of terrorists with laboratories in briefcases going from airport to airport wreaking havoc in the world of the 21st century that our children will live in. We took a big step toward that. So this has been a good year. 
+
+But in addition to my affection for Governor Dean and my gratitude to the people of Vermont for voting for Bill Clinton and Al Gore twice by big margins -- {APPLAUSE} -- and my desire to help members of my party, I want -- I think it's very important that you understand that even though sometimes I get the feeling around here many people don't remember that the governors or the mayors or the county officials, for that matter, are really out there doing a lot of things -- the governors are especially important for the strategy that I'm pursuing for America to succeed. 
+
+We got $24 billion for children's health; that's good. What's step two? The governors have to design a program that works. And I promise you every governor with any sense in this country without regard to party is going to wonder what Howard Dean is going to do with the money because they know that Vermont has done the best job of expanding health care coverage for children. So it matters who the governor is. 
+
+You can put more money into education, but the governors have to decide how it's going to be spent. We won a huge battle which we're going to be really highlighting in the next couple of days when we sign the appropriations bills -- to get the Congress after months and months of contentious fighting to embrace the notion that we ought to have national standards of academic excellence and national exams in reading and math for elementary students and 8th graders. But what happens afterwards? Education is the primary province of the states. The federal government can facilitate national excellence in education; the governors have to ensure it. 
+
+In the environment, we're trying to clean up 500 toxic waste dumps and prove we can have clean air, clean water and safe food and grow the environment. We can provide funds, we can have federal standards; but in the end, the specific work is largely done in the states. 
+
+And as we move into this new era where we have to have more flexibility, more partnerships and more common sense, in which we want to reject the kind of ideological false choices we're often confronted with in the political debates here, the partnership that exists and the quality of it and the quality of the people that do the work at the state level -- the partnership with the federal government will be critical in terms of how Americans actually get to live and what kind of world our children actually grow up in. That's what this is about. 
+
+So in so many ways the governorship is more important than ever before. We have tried to give more responsibility to the states. We've also tried to give them more things to do. And it has succeeded in places like Vermont, which have had visionary leadership. 
+
+I can only hope and pray that every governor will do the job that I know that he will do -- in health care, in education, in the environment, in building a solid future for our children. You're going to help him to do it by your presence here tonight, and I'm very grateful to you. Thank you. {APPLAUSE} 
+
+{/speech} 

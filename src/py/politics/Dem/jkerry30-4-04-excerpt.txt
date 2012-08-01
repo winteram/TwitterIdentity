@@ -1,0 +1,57 @@
+﻿{title} Kerry on Iraq: "This May be Our Last Chance to Get It Right" {/title}
+{event} ----- {/event}
+{speaker} John Kerry {/speaker}
+{date} April 30, 2004 {/date}
+{source} http://transcripts.cnn.com/ {/source}
+{description} This is an excerpt {/description}
+
+
+{speech} 
+
+... rejecting his call for closer ties, even with Great Britain, "The Wall Street Journal" said that the United States wants no alliance or anything that resembles an alliance with any nation. Well, some things never change. 
+
+But what was true in 1946 is still true today. America must lead a broad coalition against our adversaries. And we must be a beacon of values as well as strength in order to succeed. This is our duty. It's our obligation to those great leaders of half a century ago who set us on the course to victory in the Cold War, starting right here at Fulton. 
+
+So you don't come to Fulton to give a speech. You come to Fulton to honor a tradition and to give the country and the world the gift of hard truths and a sense of hope. {APPLAUSE}
+
+Both are needed today as we stand on the eve of the anniversary in this country of the day that major combat operations were declared over in Iraq, and the president declared "mission accomplished." 
+
+I don't think there's anyone in this room today or 6000 miles away who doesn't wish that those words had been true. But we've seen the news. We've seen the pictures and we know that we are living through days of great danger. 
+
+What anniversaries give us is the time to reflect, not about where we've been but about what might be possible, possible for our men and women in the military, the Iraqi people, and for allies all around the world. 
+
+This anniversary is not a time to shout. It's not a time for blame. It is a time for a new direction in Iraq and for America to work together so that, once again, this nation... {APPLAUSE} 
+
+It is a time for America to work together so that once again this nation leads in a way that brings the world to us and with us in our efforts. {APPLAUSE}
+
+In the end, and this is common sense, understood, I think, by most Americans, America is safer and stronger when it is respected around the world, not just feared. {APPLAUSE}
+
+To move to that place of promise and possibility, we must all see and share in the hard truths that are all around us. We know that there's no harder truth than when an American pays the ultimate sacrifice for our country. At this moment 722 men and women have fallen. 
+
+Eulogies and rifle salutes and the last lone note of "Taps" have echoed around our towns. The sacrifice is profound and grief beyond measure, and the country's gratitude is real and eternal. {APPLAUSE}
+
+I will share with you that it is a grief and a gratitude that lasts for all time because when I arrived here in Columbia, a big sign was held up over a fence. I didn't know these people were going to be there. But they were cousins, family members of one of my best friends who was killed in Vietnam. 
+
+And they came here holding that sign which said "Don Drow's country." This is where he came from, Missouri. And the hard truth is that we know now that more lives will be lost until the mission is truly accomplished. And our duty is to make sure that parents, families and friends who lost loved ones will know that they did not die in vain. {APPLAUSE}
+
+We also know that for more than 135,000 families, the ongoing burden of this mission is something that they feel every day. The truth is that there's an empty seat in the church pew on Sunday, there's an extra car in the driveway and one less friend to phone for a movie on a Friday night. 
+
+And the reasons that summoned Americans to service vary. It might be the story of a young man or woman that was called to duty on the wake of September 11, or by a family tradition of service to our country, or it may be a small businessperson who was called to Reserve or National Guard duty like Liza Spence. 
+
+We thank Liza for her service and for being here today. Thank you. {APPLAUSE} These are people who were called first for a few weeks, but now serve indefinitely. They answered the call of service. They did their duty. But we now know that our military was sent into battle without the right equipment. 
+
+Helicopter pilots have flown battlefield missions without the best available antimissile systems. We now know that roughly one- fourth of coalition deaths have occurred as a result of attacks on unarmored vehicles because we don't have enough armored vehicles to go around. We didn't send enough. 
+
+We now know that our failure to forge and to lead a true coalition has forced thousands in the National Guard and Reserves to be away from families and jobs for more than a year with no end in sight. 
+
+And we now know that civilians from half a dozen allied countries have been kidnapped, hundreds of Iraqi civilians have been murdered in terrorist attacks. 
+
+In addition, many of the Iraqi military and police whom we trained have refused to fight or fought inefficiently, and extremists in major cities are rallying, challenging our resolve and vowing to drive us out. 
+
+This is a moment of truth in Iraq, not just for this administration, the country, the Iraqi people, but for the world. This may be our last chance to get it right. {APPLAUSE}
+
+We need to put pride aside to build a stable Iraq. We must reclaim our country's standing in the world by doing what has kept America safe and made it more secure before, leading in a way that brings others to us so that we are respected, not just feared around the globe. 
+
+This will not be easy, especially now, after the decisions of the last year, a hard truth that sometimes fails to get through the newspapers and daily reports. But we can accomplish the mission and we must, because I can tell you from personal experience, we owe it to the brave men and women who stand in harm's way at this moment. In America... {APPLAUSE}
+
+{/speech} 

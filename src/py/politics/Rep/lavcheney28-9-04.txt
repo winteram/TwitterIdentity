@@ -1,0 +1,24 @@
+﻿{title} Vice President and Mrs. Cheney's Remarks and Q&A at a Town Hall Meeting in Dubuque, Iowa {/title}
+{event} Town Hall Meeting in Dubuque, Iowa  {/event}
+{speaker} Lynne Anne Vincent Cheney {/speaker}
+{date} September 28, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, hey, that's pretty nice. Thank you for that warm welcome. Could it be a more beautiful day in Dubuque? We are so pleased to be here. Thank you for your warmth and your enthusiasm. {APPLAUSE}
+
+As I travel across the country, I always like to think of -- what an important part different states have played in my life. And as we were driving over here today, Dick and I were talking about two of my great, great grandmothers who spent some time in Iowa, and in whose lives Council Bluffs played a very important role. Council Bluffs was a jumping off place for people who were going to take the Mormon Trail west. So one summer, in the 1850s, I had two great grandmothers in Council Bluffs getting ready to go west. One had had a sad story. She'd come here all the way from Wales and lost her husband on the way, and her baby. But she was a woman of determined spirit, and she stayed in Council Bluffs a while, and got on a wagon train and went west.
+
+The other story is one I love so much, I put it in the last children's book I wrote. It's about a little girl named Fannie Peck, who was only seven years old. But she was in Council Bluffs that same summer, getting ready to go with her folks out west. And when they started, she took off her shoes and decided that she would go barefoot because the wagon train stopped on Sunday to worship, and Fannie wanted to have her shoes so that she could look her very best on Sunday. However, the first time they stopped, she figured out that having walked barefoot so far, she couldn't get her shoes on. So it didn't work out too well. But I love stories like that. And I love thinking that Iowa has played an important part in my life.
+
+My family ended up in the West, which is where I met Dick. And I've known him for quite a long time. That's how come I get to introduce him. He was 14 years old when I first met him -- a pretty good looking 14-year-old. I can share that with you. {LAUGHTER} And he had a summer job that year, a summer job and after school job, which was sweeping out the Ben Franklin store in Casper, Wyoming, which is our hometown. And I've known him through many jobs since. I've known him since he was at the Ben Franklin store. I've known him since he was digging ditches at the Central Wyoming Fair and Rodeo Grounds, just outside our hometown. I've known him since he was loading bentonite --hundred-pound sacks of bentonite onto railroad cars. I've known him since he was building power line all across the West to help pay his way through school. And I like to talk about those stories because I think when you grow up working hard, you learn some pretty important lessons. And one of those lessons is how important it is for the hard working men and women of this country to get to keep as much of their paychecks as possible. {APPLAUSE}
+
+So it's lovely to be here on this -- this beautiful day. As we travel across the country, I think how much we have to be proud of as Americans. And if I were to make a list of all the things we have to be proud of, right at the top of it, I would put our Commander-in-Chief, George W. Bush. {APPLAUSE} He has really been a magnificent leader over these past four years. And if you'll permit me to say so, the Vice President is no slouch either. {APPLAUSE} So it gives me great pride to introduce to you my husband, Dick Cheney, the Vice President of the United States. {APPLAUSE}
+
+OTHER-SPEAK} Thank you, very much. And thank you, Lynne. {/OTHER-SPEAK} 
+
+You're welcome. 
+
+{/speech}

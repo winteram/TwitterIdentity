@@ -1,0 +1,43 @@
+﻿{title} President Bush Thanks Firefighters and Volunteers in California {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} November 4, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you all. Thanks for such a warm greeting. I want to say a couple of things. First, I want to say it's a great pleasure to be in the presence of people who have dedicated their lives to saving life -- {APPLAUSE} -- people who have heard a call, and the call is to serve something greater than yourself. 
+
+And I saw firsthand the -- Governor Davis and Governor-elect Schwarzenegger and I saw firsthand what it means for people to draw a line in the sand, and say, this fire is not getting any farther. We saw devastation on one side -- and for those victims, we send our prayers and our love -- but we saw what heroic efforts meant, for people who said, we're not going to yield. And we're here, first and foremost, to thank you all for setting such a great example and for serving your community and for saving lives. There's no better calling, is there? God bless you for that. Thank you. {APPLAUSE} 
+
+I want to thank all the state officials who are working hard. See, one of the things I'm looking for is to make sure that there's good cooperation between the federal government and the state government and the local firefighters. {APPLAUSE} I want to make sure FEMA is doing its job. Sometimes the President gets the cook's tour, if you know what I mean. {LAUGHTER} I'm interested in hearing the truth, and I believe I've been told the truth, and that there has been good coordination. And if we need to learn any lessons, we'll learn the lessons. 
+
+But I want to thank you all for not only fighting the fires, but I want to thank those who are now responsible for helping rebuild lives, for the quick response -- to answer people's questions and to make those state and federal loans and grants available quickly to the communities that have been hurt. I want to thank all the local officials who are here, the mayors and the supervisors, the fire chiefs, everybody who is serving their community. Thanks for coming. Thanks for giving us a chance to praise your efforts. 
+
+As well, I want to thank the leaders of the tribal nations who are here, the members of the United States Congress. I suspected that they might be here because they want a nice ride back to Washington. {LAUGHTER} But then I realized that they care deeply about the people whose lives have been upset. After all, Duncan Hunter -- Congressman Hunter lost his own home in the fire. 
+
+He reflected the spirit -- by the way -- of the people who we have met. He said, "Don't worry about me, I'm going to rebuild. You don't have to worry about me, Mr. President, I'm going to rally. I'm going to pick up my life and move it on." And those are the citizens I met today, up in this valley where this fire just came roaring through like a chimney. All their possessions were gone, but to the person, their spirit was strong and able. They said, God is on my side, one family said. {APPLAUSE} I said, we heard. {APPLAUSE} 
+
+I want to thank Bill Clayton. {APPLAUSE} Mike Simpson. {APPLAUSE} Mike, I'm glad your sister came. {LAUGHTER ; APPLAUSE} I want to thank Chief Jeff Bowman. {APPLAUSE} Bill McCammon, Chief Bill McCammon and Chief Ernie Mitchell, for the briefing we had today, to see the scope and the size of this massive amount of destruction that took place. I think when people realize the scope of the fires, the historic nature of these fires, they'll realize what a super-human effort you all put in to save lives. This is, to me, an ultimate act of sacrifice. 
+
+I do want to pay tribute and homage to Steve Rucker. {APPLAUSE} Steve is a -- Steve's Fire Chief. He said he wasn't sent there, he asked to go. And that's the spirit of a lot of people here we're looking at. You weren't sent there, you asked to go. You've heard a call, and you've responded. And you put your life at risk. 
+
+To Steve's family, we send our deepest condolences and prayers to his comrades. We thank you for honoring his fallen memory. May God bless him, and may God bless his loved ones, as well. {APPLAUSE} 
+
+When I landed at Miramar -- and by the way, the fire was right up there to the runway -- I met a lady named Sue Mayberry. She's a Red Cross volunteer. This week, she volunteered 100 hours of her time to help people who hurt. She set up an emergency shelter at a high school, or a school in Ramona. And then the fires came roaring toward Ramona. So she and others moved 550 families safely to Julian. 
+
+The reason I bring up Sue is there are a lot of people who are deeply concerned about the 27,000 displaced persons. There are people in your communities, when they hear that over 3,300 homes have been destroyed, they want to do something about it. They want to help a neighbor in need. 
+
+And so for all the great citizens of this wonderful state who have heard the call to love a neighbor just like you would like to be loved yourself, who, when they see somebody who hurts, are willing to put their arm around a neighbor in need, I want to thank you from the bottom of our collective hearts. 
+
+There are a lot of citizens who wonder what tomorrow is going to be like. And when a citizen provides a ray of hope, just a little bit of love, it brightens that person's future. It's amazing what nature has -- we've seen the worst of nature. 
+
+But when you go to these communities and you realize what's taken place, you see the absolute best of mankind. For Californians who want to help, please do. Please know that some of your citizens hurt. Please help them any way you can. The federal government's response is needed and necessary. I brought officials with me just to make sure it's active and vibrant. The state's response is needed and necessary. 
+
+But the truth of the matter is the best response is the response you hear from the citizens whose lives have been affected, the response -- the refusal to give up, the notion that tomorrow can be a better day, the refusal to be defeated. And after all, that is the spirit of America, isn't it? It's a fabulous country because of the people who make up this country. And it's my honor to represent this country. 
+
+May God bless you all, and may God bless California, and may God bless America. Thank you all very much. {APPLAUSE} 
+
+{/speech} 

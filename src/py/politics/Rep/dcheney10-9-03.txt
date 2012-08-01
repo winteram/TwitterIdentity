@@ -1,0 +1,28 @@
+﻿{title} Vice President's Remarks at Presentation of Bust for Former VP Dan Quayle {/title}
+{event} Presentation of Bust for Former VP Dan Quayle, The United States Capitol {/event}
+{speaker} Dick Cheney {/speaker}
+{date} September 10, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. {APPLAUSE} Thank you very much, Mr. Chairman. It's a special privilege for me, as it is for all of us today, as President of the Senate, to join in honoring my predecessor and my good friend, Dan Quayle. Being cast in marble is something that every Vice President looks forward to. {LAUGHTER} It's not only a high honor, it's our one shot at being remembered. {LAUGHTER}
+
+Around here, our 44th Vice President is very fondly remembered by former colleagues of both parties. We're so pleased to welcome him back, along with Marilyn and their children, that we remember from their years of service here in Washington. And Dan's mother, Corinne, as well, too. It's a pleasure to see you here this afternoon.
+
+The honor we pay her eldest son today is also a tribute to her and to her late husband, Jim. The Quayles were here on Inauguration Day in 1989, and Jim would have been just as proud today. Vice President Quayle and I are especially honored, as always, to be in the company of a man who's been a friend and an example for both of us -- President George Bush. Mr. President, thank you for joining us today.
+
+And it was during the Bush-Quayle years that I spent the most time working with Dan. We and our wives go back well before that, however, to the late 1970s, when we first joined the House of Representatives. I was a fairly young member, which made it all the more impressive that Dan, who was even younger at 31, was already in his second term in the House. And even then, he was preparing to give up a safe seat for an uphill Senate race. He went on to win that campaign. And later at age 39, to gain reelection to the Senate in one of the biggest victories Indiana had ever seen.
+
+As we stand here today about to unveil a bust of Dan Quayle, the man is still younger than two-thirds of the current members of the United States Senate. {LAUGHTER} You don't get that far in this business at such an early age without having first-rate political instincts and first-class character. In Dan's case, those qualities were joined with an obvious integrity and a good-hearted manner that sat well with his constituents and earned him great respect here in the Capitol.
+
+He made his name in the Senate as a skilled and serious legislator, particularly in the field of national security, as a member of the Armed Services Committee. When he moved up to the vice presidency, and when I was privileged to join the Cabinet as Secretary of Defense, I could always count on his excellent advice, his expertise in defense policy, and his grasp of the legislative process.
+
+Over the years, I've known six other Vice Presidents. And a few years ago, I even headed up a vice presidential search committee. If you're ever offered the job, take it. {LAUGHTER} But I -- {APPLAUSE} -- I share former President Bush's office -- that Dan defines the standard for that office.
+
+It says something important about a man that can walk these corridors for 16 years and leave behind not a trace of ill will. Harsh things can oftentimes be said in politics, but you can search the record and never find a malicious word spoken by Dan Quayle about anyone else. As Congressman, as Senator, Vice President, he took his job seriously and wore his titles lightly. Today's honor is mandated by a Senate resolution, by virtue of Dan's service as Vice President of the United States. We confer the honor, however, with the level of respect and warm regard that could only be earned by the man himself.
+
+So, Dan, on behalf of your friend, President George W. Bush, and the nation, and in the presence of your fine family, thank you for your service to the nation. {APPLAUSE} 
+
+{/speech}

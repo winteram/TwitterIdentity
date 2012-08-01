@@ -1,0 +1,40 @@
+﻿{title} Vice President Commemorates 75th Anniversary of the Veterans Administration {/title}
+{event} DAR Constitution HallWashington, D.C. {/event}
+{speaker} Dick Cheney {/speaker}
+{date} July 21, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all very much. I am privileged to be here today and in ways that you may not even understand owe my presence here today to Dr. Debakey; because some five years when then Governor Bush was considering who he wanted to have as his running mate, and he decided he wanted to consider me as a possibility, one of the issues that came up, obviously, was my own history of coronary artery disease. And the man who talked to my cardiologist and then talked to the Governor and said he thought I could probably do the job was none other than Dr. Debakey. So I wouldn't be here today if it hadn't been for his fine endorsement some five years ago. And I've always been deeply appreciative of that.
+
+This is a very special day, obviously. And we're delighted to be here on a very proud opportunity for this commemoration. I'm delighted to take part in the program and to be in the company of so many veterans, VA employees, and active duty military. And it is, of course, a real privilege to be introduced by Dr. Debakey.
+
+I also want to thank General Brady; Bishop Higgins; the Marine Corps Band; descendants of President Herbert Hoover; former VA secretaries and administrators, and the U.S. Army Ranger who is looking out for his fellow veterans as the leader of the VA, Secretary Jim Nicholson.
+
+I was proud to vote in favor of elevating Veterans Affairs to Cabinet status when I was a member of the House of Representatives. And I remember how hard my colleagues and friends Sonny Montgomery and Jerry Solomon worked to pass that legislation. On the day he signed the bill, President Ronald Reagan reminded the country that "America's debt to those who would fight for her defense doesn't end the day the uniform comes off." This Department, and the nearly one-quarter million men and women serving in it, give daily expression of a commitment that our nation made generations ago: To serve the needs and the interests of our military veterans -- and to do so in a spirit of compassion, sensitivity, respect, and, above all, gratitude.
+
+Today more than 24 million of our fellow citizens -- men and women we know as friends, neighbors, relatives, and colleagues -- carry the title of veteran. I recently read the story of a gentleman from Oregon named Howard Ramsey, who when he tried to get into the Army as a youth was rejected for being underweight. But he wasn't the kind of kid who gave up easily. Instead he went out and stuffed himself with water and bananas, and then showed up to be weighed again. This time the Army took him, and before long he was in Europe fighting for his country. The year was 1918; Corporal Ramsey was on the battlefield in France when word arrived of the armistice. At the time this American soldier was born, the flag of the United States had 45 stars, and William McKinley was President. Yet Corporal Howard Ramsey is still with us today, a proud American veteran, 107 years old.
+
+Let me also say what an honor it is to be in the presence of another veteran of World War One, Lloyd Brown. Thank you for being here, sir. We're very proud of you. {APPLAUSE}
+
+All of our veterans -- from those who served many decades ago, to those honorably discharged this very year -- have shaped the life of this nation for the better. And never far from their minds are the ones who did not live to be called veterans. My old friend Joe Foss, a Marine who earned the Medal of Honor in World War Two, used to say, "Those of us who lived have to represent those who didn't make it." Our veterans do this by honoring the memory of fallen comrades -- and by giving every generation of Americans a lesson in the values of personal responsibility, physical and moral strength, and unselfish courage.
+
+In recognizing the service of a veteran, the government uses the words, "selfless consecration to the service of our country in the Armed Forces of the United States of America." It's a grand phrase, and entirely true. The military life is built around sacrifice and complete devotion to America. If you have lived that life, then you know the meaning of commitment to a greater cause. And if you have worked, as I have, with the men and women of our military, you know there is nothing they would not give to protect the people of this great country.
+
+Not every veteran has known the full fury of battle. But most count their time in uniform among the defining experiences of their lives. The military drew out the best that was in them, instilling the highest standards of diligence, discipline, and loyalty. That is a bond joining every veteran from every branch of the service. Whether drafted or enlisted, commissioned or non-commissioned, each took an oath, lived by a code, and stood ready to fight and to die for their country.
+
+We know from history that the technology of warfare is always changing, and in our own time that technology has grown astoundingly complex and sophisticated. Yet our most basic military asset has not changed in the slightest. It is the character, the daring, and the resourcefulness of those who do the fighting.
+
+No matter how complicated war might be, it always comes down to the ones who fly the planes, man the ships, and carry the rifles. And our country's military has left a legacy like no other fighting force ever assembled. Around the world, to people who struggle and suffer, Americans in uniform have brought relief and deliverance. And where millions once lived under oppressive rule, Americans in uniform have brought hope for a better day, and new lives lived in freedom.
+
+In this new century, Americans are fighting again -- to defend ourselves against the most merciless of enemies, and to advance the cause of freedom and democracy as the great alternatives to ideologies of hatred, resentment, and terror. We have no illusions about the difficulty of engaging enemies that dwell in the shadows, target the innocent, and recognize neither the laws of warfare, nor standards of morality. We cannot predict the length of the course of the war on terror. Yet we know with certainty that this great nation will persevere, and that we will prevail.
+
+The men and women who serve today know that they have the complete confidence of their Commander-in-Chief, and the respect of the entire nation. They know, as well, that they follow in a long, unbroken line of brave Americans who came to the defense of freedom. The veterans who once formed that line now inspire the new generation of freedom's defenders. And because they once put their lives on the line for the rest of us, our veterans hold an honored place in American life.
+
+On this 75th Anniversary of the VA's creation, I want to thank the talented and dedicated public servants who carry out this nation's commitment to veterans at the headquarters in Washington, and at health centers and facilities all across the United States. Each morning many VA hospital employees arriving at work pass by a sign that reads, "The price of freedom is visible here." That realization has helped to build a strong ethic of service in the Department of Veterans Affairs. As General Omar Bradley put it when he served as administrator after World War Two, "We are dealing with veterans, not procedures -- with their problems, not ours." At its best, government service involves not just filling a job but keeping a special faith. VA employees understand this very well, and you can be proud of your association with a vital agency of the United States government.
+
+Thank you very much. 
+
+{/speech}

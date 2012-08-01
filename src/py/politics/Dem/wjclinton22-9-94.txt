@@ -1,0 +1,20 @@
+﻿{title} Remarks by the President at Rhythm & Blues Concert {/title}
+{event} The South Lawn {/event}
+{speaker} Bill Clinton {/speaker}
+{date} September 22, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, and please be seated. Well, we're a little late and a little wet, but I hope that you're as glad to be here as Hillary and I are glad to have you here. {APPLAUSE} I want to thank Marilyn Bergman and Frances Preston for their leadership in promoting American music and for their help in making this evening possible. In this tent tonight, there are representatives of many creative disciplines -- lyricists, composers, authors, photographers, film makers, dramatists and others. All of you have heightened the way the rest of us experience beauty, pleasure, pain.
+
+I can't even begin to contemplate a world without the gifts that you have given. I'm also glad you've brought some great performers with you. The theme of tonight's program is "Soul Tree" -- a celebration of the roots and reach of American music. Soul music, in all of its forms -- Blues, Gospel, Jazz, Country, Pop, Rhythm and Blues and Rock N' Roll -- it was all born and bred in America, from Memphis to Motown, from New Orleans to New York.
+
+In Ken Burns' new PBS series on baseball, Gerald Early, a professor at Washington University, says that 2,000 years from now when people study our civilization, there are only three things America will be remembered for: the Constitution, baseball and jazz. {LAUGHTER ; APPLAUSE} He says they're the three most beautifully designed things our culture has produced, and the three greatest tributes to American improvisation.
+
+Well, wonderful as it is, and even though I used to teach it, you probably don't want to hear my lectures on the Constitution tonight, and, sadly there is no baseball. So we're left with music -- jazz, rhythm and blues, all the sounds of America's soul.
+
+Let's get on with the show. Thank you, and welcome to the White House. {APPLAUSE} 
+
+{/speech}

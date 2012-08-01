@@ -1,0 +1,60 @@
+﻿{title} Remarks by the President by Satellite to the President's Committee on Employment of People with Disabilities Conference In Detroit, Michigan {/title}
+{event} Disabilities Conference {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 23, 1996 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Tony, for your remarks, your support, your friendship and your leadership of the committee. I want to say hello to the others who are there -- to John Sweeney and to Al Checchi. I want to say a special word of thanks to my good friend, Justin Dart who I know had to leave, but who has been a real champion for Americans with disabilities; indeed, for the rights and interests of all Americans.
+
+I want to say a special word of greeting to the cochairs of the committee, the vice chairs -- Norm Miller, I. King Jordan, Karen Meyer, Neil Jacobson, Dr. Sylvia Walker, and Ron Drach.
+
+Thank you, all of you who are there for your very warm welcome. I'm sorry I couldn't join you in person today, I have to be in Milwaukee with the German Chancellor. But I didn't want to miss this opportunity to talk with you about what we must do together to ensure the full participation of the 49 million Americans with disabilities in the vibrant life and economy of our great country.
+
+Three and a half years ago, when I took the oath of office, I had a very clear vision of what I hoped our country could be like as we move into the 21st century. I wanted us to be a country that offers great opportunities to all who are willing to work for them. I wanted us to remain the world's strongest force for peace and freedom. And I wanted us to rebuild our sense of unity and community around the shared ethic of responsibility and a respect for diversity.
+
+Together we've made great progress toward achieving those goals. Our economic strategy to reduce the deficit, expand trade and invest in our people is paying off. The deficit is now less than half of what it was four years ago; we have 8.5 million more jobs, the lowest combined rates of inflation, mortgage rates and employment in 27 years. Homeownership is at a 15-year high, and we have all-time highs in exports and new business formations for each of the last three years.
+
+We've also worked hard to increase educational opportunities for all Americans -- from more positions for children in Head Start to more affordable college loans to a national service program. We've done our part to fight to lower the crime rate by passing a Crime Bill which is putting 100,000 police officers on the street, banning assault weapons, and passing the Brady Bill which has kept 60,000 people with criminal records or other disturbing histories from getting handguns. {APPLAUSE} And we have maintained our commitment to a clean, safe environment for all Americans.
+
+Compared to four years ago, the world is also a safer and more peaceful place. The nuclear threat is diminished. No weapons are pointed at the people of the United States. Peace and freedom are taking hold from Haiti to South Africa, to Northern Ireland, to Bosnia, to the Middle East. We have moved a long way in three and a half years.
+
+But today I want to talk to you about our country's future, especially in terms of that first objective -- expanding opportunities for every American who is willing to take responsibility for making the most of his or her God-given abilities. The theme of your conference is investing in abilities. That's been something we've tried very hard to do and something I intend to keep on doing.
+
+In 1992 I issued a challenge to our nation. I said we must not rest until America has a national disability policy based on three simple creeds: inclusion, not exclusion; independence, not dependence; and empowerment, not paternalism. {APPLAUSE} I remain committed to that vision, and I want to thank all of you for working so hard with us to make it a reality. More than ever before in our history, America's greatness in the next century will depend upon the ability of all our citizens to make the most of their own lives. Americans with disabilities are an enormous, largely untapped reservoir of that potential.
+
+Employment is the key to economic security for Americans, including people with disabilities. Even though we have created 8.5 million new jobs, it remains a tragedy today that two-thirds of the people with disabilities are unemployed. And it's up to all of us -- employers, labor, people with disabilities, and government -- to work together to change this picture.
+
+In the past four years, we have made progress. We're fighting to make sure that people with disabilities have health care and the living wages they need to live independently. Our strong commitment to the Americans with Disabilities Act has opened up town halls, schools, transportation systems, workplaces, groceries, restaurants, and movie theaters to millions of people with disabilities. Our 1997 budget calls for an increase in funding for ADA enforcement at the Department of Justice. {APPLAUSE}
+
+The Individuals with Disabilities Education Act is preparing students with disabilities to get their share of the high-wage jobs that are opening up in this new economy. I know how much the IDEA means to millions of students with disabilities and to their parents. I strongly support it. {APPLAUSE}
+
+High school graduates with disabilities who went to school under IDEA have an employment rate twice that of the overall population of individuals with disabilities. We're building on this achievement by supporting efforts like your high school high-tech program that is guiding promising students to college and careers in science and technology. We're making sure people with disabilities are included in our school-to-work efforts.
+
+No one -- no one -- should have to go through what Judy Heumann went through to get an education in our country. She's been a pioneer in the struggle for the rights of people with disabilities. She developed polio when she was 18 months old and she was denied the right to attend public school until the fourth grade. She had to sue to get a teaching job that was denied her because she uses a wheelchair. And during the '70s, she participated in a sit-in that resulted in the creation of the Individuals With Disabilities Eduction Act. As my Assistant Secretary for Special Education and Rehabilitative Services at the Department of Education, she now runs IDEA. That is her remarkable story and we need more of them. {APPLAUSE}
+
+But you and I know the ADA and the IDEA alone will not achieve our vision of inclusion, independence and empowerment for people with disabilities. That's why I fought so hard for measures like the Family and Medical Leave Act. And today I'm announcing that as a result of your work, federal agencies are now developing a better system for tracking the unemployment rate of people with disabilities.
+
+This new system will strengthen our ability to include people with disabilities in all our employment policies and program. In addition, I've asked the Secretary of Commerce to work with your committee and relevant federal agencies to recommend to me ways that we can ensure that people with disabilities are included in all our efforts to assist entrepreneurs and small businesses. So we are making progress. {APPLAUSE}
+
+But let me say there is more to do. First we must preserve the guarantee of Medicaid coverage for people with disabilities. For three decades Americans have stood on common ground about the need for guaranteed Medicaid coverage for older Americans, pregnant women, low-income children and people with disabilities. But last year Congress sent me legislation to repeal that guarantee -- legislation that would have taken away health care coverage from millions of Americans who need it most. I vetoed that legislation, and if they send it to me again and they want to repeal the guarantee again I will veto it again. {APPLAUSE}
+
+Let me be clear. We can balance this budget without repealing guaranteed Medicaid coverage for the six million Americans with disabilities who depend upon it, including one million children. Medicaid is a family issue, as people with disabilities know, making it possible for more people to get care at home and in their communities. Without the guarantee, a middle-class family with a child with a severe disability could be forced into poverty to pay for the child's medical care. Parents could be forced to give up jobs to stay home to care for a child. Children and adults who live independently today might be forced into institutions. I will not let that happen. {APPLAUSE}
+
+The second thing we have to do is to strengthen the health security of people with disabilities and, indeed, for all Americans, with the passage of the Kassebaum-Kennedy health insurance reform bill. This legislation would not allow insurance companies to deny coverage for anybody with a preexisting condition, and will allow people to keep their health insurance if they change jobs or if someone in the family gets sick. So I urge Congress to stop stalling and pass the bill now, as an important step forward. {APPLAUSE}
+
+Finally, let me say I've called on Congress to increase the minimum wage, which will benefit millions of Americans with disabilities who face extra costs for accessible housing and personal assistance. We need that. {APPLAUSE}
+
+All of you know that America is in the best position to be a winner in the global economy of the 21st century because of the depths of our values, the strengths of our diversity, the power of our economy. But we don't have a person to waste. We have to continue to expand opportunity, demand responsibility from all of our citizens. And that does mean inclusion, not exclusion. {APPLAUSE}
+
+Again, let me thank you, all of you, for everything you've done and for everything you will do. Thank you for the progress we've made and the progress we still will make.
+
+Just last week I had a very moving visit with Christopher Reeve in the Oval Office, and I mentioned to Christopher that in 1933 the Oval Office was the first government office designed specifically to be accessible to accommodate President Roosevelt. He said to me that it was too bad that at the time he had to hide his disability.
+
+I hope with Christopher Reeve that as the Roosevelt Memorial becomes a reality, with your efforts to remove the stigma of disability, they'll find a way to make sure that the American people know that this great, great President was great with his disability.
+
+Thank you all, and God bless you. {APPLAUSE} 
+
+{/speech}

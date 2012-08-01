@@ -1,0 +1,18 @@
+﻿{title} Remarks by the President, the Vice President, Attorney General Janet Reno Sarah Brady, Melanie Musick, and Jim Brady During Signing Ceremony of the Brady Bill {/title}
+{event} The East Room {/event}
+{speaker} Al Gore {/speaker}
+{date} November 30, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Ladies and gentlemen, thank you for joining us on this happy occasion. Our apologies for the slight delay in the program. Seven Central American presidents were here, and the room had to be rearranged.
+
+In addition to acknowledging the President and the First Lady and my wife Tipper, I want to acknowledge the members of Congress who are present -- Senator George Mitchell, the Majority Leader; Senator Joe Biden, the Chairman of the Judiciary Committee; Senator Howard Metzenbaum, the longtime sponsor of the bill in the Senate right here. {APPLAUSE} From the House of Representatives, the longtime sponsor of the bill in the House, Representative Charles Schumer. {APPLAUSE} Representative Don Edwards, the Chairman of the Judiciary Committee; Representative James Sensenbrenner, Representative Rom Mazzoli, Representative Bill Hughes, Representative John Conyers, Representative Craig Washington, Representative David Mann, Representative Pat Schroeder, Representative Eleanor Holmes Norton, former Congressman Beryl Anthony. and from the administration -- I will introduce Attorney General Janet Reno in a moment -- Secretary Lloyd Bentsen, and Director Lee Brown. and enforcement officials who are present, if I may. Ron Noble, Assistant Secretary for Enforcement in the Treasury Department; Guy Caputo, Director of the Secret Service; John Magaw, Director of the Bureau of Alcohol, Tobacco and Firearms; and George Weise, Director of Customs.
+
+Ladies and gentlemen, this is a great moment, an incident which started as a tragedy for Jim Brady, galvanized Americans so we could accomplish something new in American history. It has been a long, hard battle. So many here have been an important part of this struggle.
+
+It is my honor to introduce someone who helped to fight this battle as a local law enforcement official, working with the Bradys before she joined the administration and someone who has worked as a vigorous advocate for law enforcement in this administration. Attorney General Janet Reno. {APPLAUSE} 
+
+{/speech}

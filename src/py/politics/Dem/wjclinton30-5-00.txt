@@ -1,0 +1,30 @@
+﻿{title} Remarks by the Presidentin an Exchange of Toasts {/title}
+{event} Exchange of Toasts {/event}
+{speaker} Bill Clinton {/speaker}
+{date} May 30, 2000 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, Mrs. Sampaio, Mr. Prime Minister, members of the government, members of the diplomatic corps. I would like to thank you, Mr. President, the government and the people of Portugal, for the welcome that I and my party have received. I'd like to thank you for the meeting we had today. It has been a pleasure for me to spend time with another President who likes to read detective novels, listen to good music, and play golf. We could have had a two-day summit on those three topics, alone. {LAUGHTER} My staff suggested it, so that they could go to the beaches.
+
+Let me say that five centuries ago, the vision and courage of Portugal helped Europe to find its way across the Atlantic. You were the first to set foot in South America, to sail down West Africa, to cross the Equator, to round the Cape of Good Hope, to reach India by sea from the west, to trade with China and Japan. It is little wonder then that Portuguese is now spoken by more than 200 million people in countries throughout the world. One of these nations, of course, is the United States.
+
+Two centuries ago, Portugal was the very first neutral state to recognize our independence. And as you noted yourself, Mr. President, the United States has been strengthened by the contributions of Portuguese Americans -- from John Philip Sousa, who wrote the music we use to celebrate the Fourth of July, to John Dos Passos, whose voice helped to define America in the 20th century. Today, we are proud to stand with you as partners, allies and friends.
+
+Twenty-six years ago, Portugal turned from dictatorship to democracy. Ten years ago, Eastern Europe followed your lead. Today, Eastern Europe is still learning from your example. When finally we build a Europe that is undivided, democratic and at peace for the first time in history, there will be a great debt owed by all freedom-loving people to Portugal.
+
+Today, this nation that once brought the four corners of the world together is working with its EU allies and America to bring the world together to advance democracy and human rights. Portugal has taken a leading role in NATO and the EU. In Kosovo, nearly half the sorties that led us to victory flew out of Lajes Air Base in the Azores. In East Timor, Portugal's leadership rallied the international community. In Mozambique, our two nations are working together to lead the relief effort. From the Balkans to East Timor to Africa, our troops serve side by side to keep the peace and build a better future.
+
+Here in Portugal, Prime Minister Guterres has charted new ways to solve old challenges, and to make the global economy work for all your people. I admire that as well.
+
+Two years ago, a Portuguese author was awarded the Nobel Prize for Literature. A short time later, we in the United States had the honor of hosting Jose Saramago as he received an honorary degree from the University of Massachusetts. Looking out at generations of Portuguese who had traveled to America to enrich our culture and our country, he said that they are a part of "an unremitting human chain that has always been and will continue to be an example of living history." That living history links not only past and present, but the people of our two countries -- from Lisbon and Porto to New Bedford, Fall River, Providence, Newark -- all the places Portuguese Americans have made their own.
+
+Today, we look ahead to a new century. We celebrate our friendship and embrace common challenges. We hope that the values we share will spread across the Earth and bear fruit in more places for more people than ever before. We hope that we will always stand together as friends, in the defense of those values and in their advance.
+
+I ask now that all of you join me in a toast to the President of Portugal and Mrs. Sampaio, to the people of this great nation and to our long friendship.
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

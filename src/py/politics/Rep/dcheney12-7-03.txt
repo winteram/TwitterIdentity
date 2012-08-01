@@ -1,0 +1,48 @@
+﻿{title} Vice President's Remarks on the USS Ronald Reagan {/title}
+{event} Norfolk Naval Base, Pier 14, Norfolk, Virginia  {/event}
+{speaker} Dick Cheney {/speaker}
+{date} July 12, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Mr. Chairman, Senator Warner. Thank you for those kind words. And Mrs. Reagan, let me say what a special honor it is for Lynne and me to be here with you and your family today. Governor Warner, Senator Allen, Secretary Johnson, distinguished guests, ladies and gentlemen.
+
+I am very pleased to visit Naval Station Norfolk, and I appreciate the warm welcome. I am sorry to disappoint those who wanted me to arrive the way the President did recently on the USS Lincoln. {LAUGHTER} But maybe when you're next in port, I'll try it.
+
+Today we send forth a great American ship bearing a great American name. To the officers and crew, and all the personnel of this base, I bring personal greetings from our Commander-in-Chief, President George W. Bush. {APPLAUSE}
+
+For everyone who loves the Navy and honors its traditions, and for everyone who admires the name and the legacy of our 40th President, this is truly a day for celebration. If the purpose of naming an aircraft carrier is to convey the strength and seriousness of this country and our military, then we have certainly accomplished that. Something tells me that any potential adversary of the United States will take notice when word arrives that the USS Ronald Reagan has been sighted offshore. {APPLAUSE}
+
+Today, our military gains a hundred thousand tons of American ingenuity and American power. This ship, with its tremendous endurance and virtually unlimited range, rises 20 stories above the water, nearly as long as the Empire State Building is tall, and will sail the seas for 20 years without refueling.
+
+There is only one nation in the world that has the resources and the skills needed to build a nuclear-powered warship of this size and capacity. There is only one Navy in the world that can project its might and its mission to the farthest corners of this earth. {APPLAUSE} There is only one ship in the world that bears the name of a living American President. {APPLAUSE} And today, the USS Ronald Reagan becomes the newest member of the greatest Navy ever assembled. {APPLAUSE}
+
+I want to congratulate everyone who helped build this ship, everyone who will sail in it, and everyone who will help make it worthy of its great name.
+
+The Navy we have today is in many ways a monument to the vision and the conviction of Ronald Reagan. He came to the presidency with a clear understanding of the tools our Navy would need to protect the American people and to defend our interests, to honor our commitments to allies, and to maintain command of the seas.
+
+During his watch, he authorized the construction of four Nimitz-class aircraft carriers: the Abraham Lincoln, the George Washington, the John C. Stennis, and the Harry S. Truman. "Maritime superiority," President Reagan said, "is for us a necessity. We must be able in time of emergency to venture in harm's way, controlling air, surface and subsurface areas to assure access to all the oceans of the world. Failure to do so," he warned, "will leave the credibility of our conventional forces in doubt."
+
+President Reagan spent eight years in the White House removing all doubts about the credibility of our forces, or about the clarity of America's purposes. With complete courage and confidence, he asserted the right of all people and all nations to live in freedom. He believed that history is on the side of liberty, and that all tyrannies are doomed to failure. {APPLAUSE}
+
+He believed these things long before he became President, and long before he ever entered politics. Nothing could shake his determination to rebuild the strength and the morale of every branch of the United States military. Nothing could shake his deep moral confidence and sense of purpose. And because of these qualities, Ronald Reagan changed the course of history as few men have ever done. {APPLAUSE} He has seen the cause he stood for vindicated in his own lifetime, and the free peoples of the world will honor his name for generations to come. {APPLAUSE}
+
+The USS Ronald Reagan sets sail in a world filled with new dangers. Twenty-two-months-ago, we learned that threats which gather for years in secret can suddenly appear in our own cities. In a moment of tragedy, our nation was called to wage a global effort against terrorists and the threats they pose. And under President Bush, this campaign has been focused and unrelenting, and the conduct of our military has been superb. {APPLAUSE} The outcome is certain: It will be complete victory for the United States and the cause of freedom. {APPLAUSE}
+
+In this war, our carriers have played, and will continue to play, a decisive role. On the morning of September 11th, 2001, the aircraft carrier USS Enterprise was heading home to Norfolk. Within moments, the ship reversed course, and by the next day, was within striking distance of Afghanistan, awaiting further orders. It was soon joined by the Carl Vinson, the Kitty Hawk, the Theodore Roosevelt, and the Stennis. Many of the combat missions supporting ground operations in Afghanistan came from these carriers, and gave the Taliban its first and last glimpse of American air and sea power. {APPLAUSE}
+
+Carriers were deployed with equal effect for the liberation of Iraq. That conflict signaled a new era in warfare, in which precisely targeted weapons launched from great staging bases at sea enabled us to destroy the command centers of an enemy regime, while sparing civilians and leaving infrastructure intact. In Afghanistan and in Iraq, we've removed regimes that supported terror against others, and brutalized their own people. Those were swift campaigns, but they were not easy.
+
+And the United States remains prepared to face difficulty and to confront danger wherever we must. As this nation leads the world in fighting terror, we cannot predict every turn in the future course of battle. But standing on this great floating airfield, we can know, at least, that we are ready to answer any challenge to the freedom and security of America and our friends. {APPLAUSE}
+
+More than two decades ago, President Reagan made his first voyage to an aircraft carrier, the USS Constellation. He called that ship "a powerful force in an uncertain world." And a generation later, we can say that of the ship that we've now named for him.
+
+Last month, the Constellation returned home from its final deployment in the Arabian Gulf, where it served as the night carrier throughout Operation Iraqi Freedom. The Constellation will now be replaced by the Ronald Reagan, which, in its own time, will know its share of heavy winds and rough seas. But in the lifetime of this carrier, as in the lifetime of its namesake, enemies of freedom will fall away, and the realm of freedom will expand further across the face of the earth. {APPLAUSE}
+
+As we think this afternoon of our 40th President, we think also of the devoted wife at his side. Mrs. Reagan, our nation is so grateful to you. You've shared in your husband's great life. And today, you share in the pride of this tribute from the people of the United States of America. {APPLAUSE}
+
+May this ship find safe passage in all the voyages ahead, and may Almighty God watch over the officers and crew of the USS Ronald Reagan. {APPLAUSE} 
+
+{/speech}

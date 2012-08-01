@@ -1,0 +1,56 @@
+﻿{title} Remarks of President Barack Obama at Siemens Wind Turbine Blade Manufacturing Plant in Fort Madison, Iowa {/title}
+{event} ----- {/event}
+{speaker} Barack Obama {/speaker}
+{date} April 27, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hello, everybody! {APPLAUSE} Oh, it's good to be -- good to be back in Iowa; good to be in Fort Madison. {APPLAUSE} Thank you. Everybody, please have a seat.
+
+I want to just acknowledge some of our special guests -- first of all, my Secretary of Agriculture -- you may still know him as Governor Vilsack. I know him as Secretary Vilsack. Give Tom Vilsack a big round of applause. {APPLAUSE} Your current governor who is doing an outstanding job -- Chet Culver. {APPLAUSE} The mayor of Fort Madison, Steve Ireland. Steve, it's good to see you again. {APPLAUSE}
+
+The President and CEO of Siemens, Peter Loescher, is here. {APPLAUSE} And our plant manager, Robert Gjuraj, who just gave me a terrific tour -- so, thank you, Robert. Where's Robert? There he is, right there. {APPLAUSE}
+
+I have just been on an incredibly impressive tour of this facility and saw how these giant blades are created. And they look even cooler up close -- unbelievably impressive technologies. And it was remarkable just to see how these things are made, but it's even more remarkable when you consider that just a few short years ago, this facility was dark, it was quiet, nothing was going on. And today, it's alive and humming with more than 600 employees, almost two-thirds of whom found themselves unemployed before they were here. {APPLAUSE} This plant -- Robert was telling me, I may get my facts wrong here, but even two years ago you had only 200 employees. Now we've got 600 employees two years later. And this plant supports more than 350 other jobs throughout Lee County. {APPLAUSE}
+
+So you're manufacturing blades for some of the most advanced wind turbines in the world; each one as tall as Air Force One is long; each is capable of generating enough power for hundreds of homes, just by harnessing the wind. So what's going on here, what each of the employees of Siemens are involved with, is helping stake America's claim on a clean-energy future. And you're staking Fort Madison's claim on America's future.
+
+And that's why I come to Iowa here today. Some of the -- one of the reporters said, “Why Iowa?” I said, well, I love Iowa, first of all. {APPLAUSE} Wouldn't have been President if it wasn't for Iowa. {APPLAUSE} It's close to Illinois. {LAUGHTER} But also, I wanted to come here because to talk with folks like you about the economic hardship and the pain that this town has gone through and so many people are still feeling is important, but it's also to talk about the economic potential.
+
+Lately, we've been able to report some welcome news after a hard two years. Our economy is finally growing again. Our markets are climbing. Our businesses are beginning to create jobs again.
+
+Now, in too many places, though, the recovery isn't reaching everybody just yet. Times are still tough in towns like Fort Madison. And times are still tough for middle-class Americans, who have been swimming against the current for years before this economic tidal wave hit. So even as we took steps to rescue our economy and recover from this crisis, we also wanted to take steps to rebuild our economy on a new foundation, a firmer foundation for long-term growth and prosperity -– to create conditions so that folks who work hard can finally get ahead.
+
+And that means making our schools more competitive. It means making our colleges more affordable. Yes, it means making health insurance affordable and giving families and businesses more choice and more competition, and more protection from the worst abuses of the insurance industry. And it means common-sense reforms that prevent irresponsibility of a few on Wall Street from threatening the dreams of millions on Main Street.
+
+But the reason we're here is because it also means igniting a new, clean-energy economy that generates good jobs right here in the United States.
+
+Now, we've talked about this for decades. We talked about how our dependence on fossil fuels threatened our economy. But after all the talk, a lot of times our will to act rose and fell depending on what the price of a gallon of gas was at the pump. During the summer when prices went up, everybody was all for clean energy. And when prices went back down, suddenly everybody forgot about it.
+
+So we've talked about this problem for a long time -- how it threatened future generations. We talked about issues of how the climate is changing. We talked about how it threatened our national security because we're dependent on other countries for what makes our country run -- dependence that grew deeper with every passing year.
+
+And meanwhile, while we talked, other nations acted. From Spain to China, other nations recognized that the country that leads the clean-energy economy will be the country that leads the 21st century global economy. They were making serious investments to win that race and the jobs that come with it.
+
+And some of you may have heard me say this before: I don't accept second place for the United States of America. {APPLAUSE} And that's why our energy security has been a top priority for my administration since the day I took office.
+
+We began early last year by making the largest investment in clean energy in our nation's history. It's an investment expected to create or save more than 700,000 jobs across America by the end of 2012 –- jobs manufacturing next-generation batteries for next-generation vehicles; jobs upgrading to a smarter, stronger power grid; jobs doubling America's capacity to generate renewable electricity from sources like the sun and the wind, just like you do here.
+
+And that investment was all part of the Recovery Act. This facility took advantage of that act's Advanced Energy Manufacturing Tax Credit, and we were just talking -- Robert and I were talking about the fact that part of what's allowed us to have these new platforms and these new molds is this tax credit. It allowed you to add equipment and boost output and hire new workers right here in Fort Madison.
+
+So in the midst of the economic turmoil, the Recovery Act helped make it possible for America to install nearly 10 gigawatts of new wind-generating capacity last year alone -– and that's enough to power more than 2.4 million American homes. So when people ask you what was the Recovery Act about, what was the stimulus about, it was about this -- this plant.
+
+And each new wind farm has the potential to create hundreds of construction jobs, and dozens of permanent local jobs in communities just like Fort Madison. Robert -- we were talking about the fact that -- who's catering the food here at the factory? That's suddenly a whole bunch of business for the local grocers. The folks who are installing the electricity here -- additional work. So there's a ripple effect that occurs.
+
+And one study suggests that if we pursue our full potential for wind energy, and everything else goes right, wind could generate as much as 20 percent of America's electricity 20 years from now. {APPLAUSE} That's right, 20 percent. {APPLAUSE} And Secretary Vilsack was telling me that Iowa is at the cutting edge. Iowa has already hit that mark, hasn't it -- because of Governor Culver and his predecessor, Tom Vilsack, it may be a reality right here in Iowa. {APPLAUSE} This state already generates a higher percentage of its electricity from wind than any other state. And that number is only growing. That number is only growing.
+
+And as extraordinary as this facility is, here's the thing -- wind power isn't a silver bullet, it's not going to solve all our energy challenges. There's no single energy source. The key is to understand that this is a key component, a key part of a comprehensive strategy to move us from an economy that just runs on fossil fuels to one that relies on more homegrown fuels and clean energy. I believe that we can come together around this issue and pass comprehensive energy and climate legislation that will ignite new industries, spark new jobs in towns just like Fort Madison, make America more energy-independent. Our security, our economy, the future of our planet all depend on it.
+
+This is what's possible in a clean-energy economy. And while it may not feel like it every day when you punch in, to all the folks who work here at Siemens, I want you to understand, you're making it possible. You are blazing a trail. You're showing America our future. And some day, our children, and our children's children, will look back at this factory, this moment, and they will be proud at a generation that chose, in a time of crisis, to place its bet on the future, and to reopen factories, and restart assembly lines, and retrain workers; a generation that chose once again to step forward and meet the challenges of our time.
+
+That's what this represents. That's what you represent. And we could not be prouder.
+
+So thank you very much, everybody. God bless you. God bless the United States of America. {APPLAUSE} 
+
+{/speech}

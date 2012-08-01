@@ -1,0 +1,16 @@
+﻿{title} Vice President and Mrs. Cheney's Remarks and Q&A in Sheboygan Falls, Wisconsin {/title}
+{event} Sheboygan Falls, Wisconsin {/event}
+{speaker} Lynne Anne Vincent Cheney {/speaker}
+{date} September 11, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all for being here. I get to introduce Dick because I've known him for so long. I have known Dick Cheney since he was 14 years old. And we grew up together in Casper, Wyoming. I saw him through many a summertime job -- through many a job to earn his way through school. When I first met him, he was sweeping out the Ben Franklin store in Casper. And I knew him when he was digging ditches at the Central Wyoming Fair and Rodeo Grounds. And I knew him when he was loading bentonite, 100-pound sacks of bentonite onto railroad cars. And I knew him when he was building power line all across the West. And I like to tell those stories because when you grow up working hard, you learn some really important lessons. And the people here at Johnsonville sure know this, when you grow up working hard, one of the things that you learn is that it's really important for the hard working people of this country to get to keep as much of their paychecks as possible. {APPLAUSE}
+
+And we have traveled a lot in our lives, but I got to tell you some of the happiest years we've spent were right here in Wisconsin. You folks live in a great state. {APPLAUSE}
+
+So without any further ado, let me introduce to you my husband, Dick Cheney, the Vice President of the United States. {APPLAUSE} 
+
+{/speech}

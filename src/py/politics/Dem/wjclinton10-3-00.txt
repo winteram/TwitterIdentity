@@ -1,0 +1,54 @@
+﻿{title} Remarks By The President During Faa Announcement {/title}
+{event} FAA Event, The Roosevelt Room {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 10, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. I want to thank Secretary Slater and Jane Garvey and the airline executives who are here, the representatives of the airline pilots, the air traffic controllers and the other aviation leaders who have made a truly remarkable team for this announcement.
+
+Before I talk about the air travel issue, because this is my only opportunity to meet with the press today, and because I had the unusual good fortune of letting them parade in ahead of us, here -- I actually tried to get Mark Knoller to do this announcement, but he refused. {LAUGHTER}
+
+I want to say a few words about a very down-to-earth issue, the proposal to raise the minimum wage. I have called for a simple one dollar increase in the minimum wage to help millions of families. Last night, dozens of Republicans joined us in forming a majority to raise the minimum wage by a dollar over two years.
+
+But unfortunately, the leadership turned that common-sense act into a dead letter by insisting they would only have a minimum wage increase if we turn back overtime protections for over a million workers, and use the bill to give a large tax cut, which both disproportionately benefits the wealthiest Americans and would put our prosperity at risk by making it impossible for us to continue to pay down the debt and to save Social Security and Medicare.
+
+Now, I think the American people question why Congress can't do something as simple as raising the minimum wage without loading it up with special favors. And I think it's a good question. The right answer is to send me a clean bill, a bill simple and clear, that could fit on one side of one piece of paper. In fact, if you look at it, that's exactly what our minimum wage bill does. It's not very big, not very complicated. And I hope that we can pass it.
+
+I'm looking forward to working with the Congress. I have not given up on this and I have been given some encouraging signals that we might yet be able to reach an agreement. So I will keep working on it.
+
+Now, let me again welcome all the representatives of the transportation industry here. And let me say a special word of appreciation to Senator Jay Rockefeller for his long-standing leadership in this area and his interest. I think it's quite important that we have airline efficiency, because it's almost impossible for someone as tall as Senator Rockefeller to be comfortable on an airline -- {LAUGHTER} -- and we want to make sure he can at least always be on time. {LAUGHTER} He has worked on this for a long time.
+
+You mentioned, Secretary Slater mentioned the meeting we had in Everett, Washington. When I took office, the airline industry was in trouble. We've all worked very hard for the successes of the last seven years, and all the actors in the industry have.
+
+I'd also like to say a special word of appreciation to someone who is not here, Vice President Gore, who headed our Commission on Airline Safety and Security. It was part of our reinventing government effort, and I thank him for his efforts, and all the people who worked on that endeavor.
+
+We know that delays pile up as flights increase and thunderstorms snarl the skies. We know, with springtime coming, that we don't want to forget, as Rodney said, that last year's summer storms were the worst, or some of the worst, on record. The air traffic control system couldn't respond fast enough. More than 1,200 aircraft were late every day last summer. Delays rose by 22 percent last year overall. It's not good for travelers, it's not good for the airline industry, and it's not good for the overall economy.
+
+Of course, when it comes to air travel, safety is the most important thing. In severe weather, flights will be cancelled or delayed for safety reasons, and passengers wouldn't have it any other way. But as we work to keep the travel as safe as it can be, we should also do everything we can to make it as efficient as it can be.
+
+After last summer's record delays, the Federal Aviation Administration put together an extraordinary partnership -- with the airline industry, the pilots, the workers who keep the planes in the air, the air traffic controllers who bring them home safe. Together, they developed a faster, more efficient response to storms. And they came here today to brief me on the improvements we can all expect this summer.
+
+First, better communications will let pilots and passengers know promptly whether they can expect a delay measured in minutes or in hours. Second, centralized air traffic decision making will let us respond better to the really big storms that can stretch the length of the East Coast, or from Houston to the Great Lakes.
+
+Third, new technology will help FAA and airline experts use airspace more efficiently, detect storms sooner, and keep runways working even in bad weather. Fourth, FAA and airline representatives will share information several times a day, working off the same state-of-the-art weather forecast. And finally, next month the FAA will open a web site with up-to-the-minute weather information for consumers.
+
+I want to thank all the organizations represented here for working together. And I thank all the members of Congress who have supported these reforms. Let me also mention that Congress is close to finalizing the FAA reauthorization bill. I know it's important to Secretary Slater, because he sent me a memo about it yesterday. {LAUGHTER} This will provide ample funding to upgrade facilities and equipment at airports and air traffic control centers. If we want to minimize delays and maximize safety, we need this FAA reauthorization and this funding. I think everybody here who's done a lot of air travel knows that we need to upgrade the facilities and the equipment, and the air traffic control centers.
+
+But I am concerned that too little funding will be available for air traffic control operations. That's the bedrock of efficiency and safety. And although the bill contains some first steps forward, it doesn't go far enough toward the system-wide reform we need.
+
+We must bring the air traffic control system and the way it's managed into the 21st century. We have the safest air travel in the world, but as more and more Americans take to the air, we need to make our system as efficient as it is safe. The FAA expects passenger traffic to rise by more than 50 percent in the next 10 years. Freight traffic will almost double in the same period. Busier skies means we have to work harder to keep our skies safe, and to keep planes flying on time.
+
+So today I'm directing the FAA to develop a plan for broader reform of the air traffic control system, and to report back to me in 45 days, building from fundamental principles. America's 21st century air traffic control system should provide 21st century high-tech service. The system must work better with its customers, the commercial airlines and others who pay for the system. It must be able to look beyond next year's budget cycle and fund new technology we need over a multi-year period.
+
+We must meet these challenges in a way that helps, not harms, everyone who is a part of the air traffic control system. And we must always keep safety at the top of our agenda. With other government agencies and the private sector, I ask the FAA to look ahead to our ultimate goal: putting together a seamless, state-of-the-art system from coast to coast.
+
+Now, until we work out a way to get mother nature to cooperate, storms, delays and cancellations will always be with us. And the American people understand that. But they also understand that if we can photograph and analyze weather patterns from space, we ought to be able to tell passengers why they're delayed and for how long. If we can guide the space shuttle into orbit and back, we ought to be able to guide planes around thunderstorms safely.
+
+We can do a better job. Starting next summer, with the help of everyone here today, we will. Again, let me say, Secretary Slater and to Jane Garvey and to all the people standing with me and all of you sitting out in the audience who had anything to do with this, this is the way our country ought to work in a lot of other contexts. I thank you for what you have done. I think we have to do more. But this summer a lot of people will benefit from the enormous efforts you have made, and I am very, very grateful.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

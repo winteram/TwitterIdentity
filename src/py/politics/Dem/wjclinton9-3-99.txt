@@ -1,0 +1,43 @@
+﻿{title} Remarks By The President To U.S. Troops And People Of Honduras {/title}
+{event} ----- {/event}
+{speaker} Bill Clinton {/speaker}
+{date} March 9, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+President Flores, Colonel Ramirez, General Wilhelm, Colonel Rosner, members of the Honduran and American militaries; to the people of Honduras, the American delegation and members of Congress who came here with me; ladies and gentlemen. Yesterday in Nicaragua, today in Honduras, we see that this disaster has taught us that what happens to one in the Americas affects us all. It reminds us that in good times and bad, todos somos Americanos. {APPLAUSE} 
+
+Mr. President, I thank you for your kind words about the First Lady. I spoke with Hillary last night and she asked me to give you her best. She remembers so well her trip here, and she wishes you well. 
+
+Mr. President, as our military leaders know, at this Honduran air base, our Armed Forces trained together for this sort of disaster just a few months before the storm. When the real test came, they passed with flying colors. 
+
+This long runway, turned into a lifeline, connected the countries all over the world. Over 47 million pounds of supplies came through here. Helicopters performed daring rescues and delivered food; engineers repaired roads; medical teams gave treatment and comfort; relief workers provided clean water, built schools and shelters, and restored faith in the future that nearly washed away. 
+
+Operation Fuerzas Apoyo turned into one of the largest humanitarian missions performed by the United States military since the Berlin Airlift 50 years ago. To all who were a part of it, I thank you for your courage, your confidence, your compassion. 
+
+I believe the United States must do more. I have asked Congress for $956 million to support the reconstruction effort in Central America. We expect almost a third of that to come to Honduras to improve public health, to build homes and schools, to rebuild roads so farmers can move their produce to market, and to prepare for future hurricanes. It will also forgive and defer Honduran debt, and it will be targeted to local communities to make sure the people who need it get the assistance. 
+
+I would also like to announce $56 million to expand our New Horizons program which brings civilian guardsmen and reservists to the region for two weeks of training and relief work. 
+
+Mr. President, I know Hondurans are determined not just to rebuild, but actually to create something better out of this tragedy -- to build a reconstruction that protects the environment so that people are not exposed to unnecessary risks in the next storm; to build a reconstruction that ensures that those who suffered most participate fully and benefit equally; to build a reconstruction that consolidates democracy by engaging local government, NGOs and the private sector. 
+
+I would like to especially thank the members of our Armed Forces for their hard work to advance these goals -- {APPLAUSE} -- for their enthusiasm, even when you have to sleep in hootches in Tent City -- {LAUGHTER} -- for your cooperation between the services and between our U.S. personnel and our Honduran hosts. You have shown the people of Central America the true colors of our men and women in uniform. {APPLAUSE} 
+
+Today, I am proud to announce the Award of Humanitarian Service Medals to all those members of the U.S. Armed Forces who serve and support the relief effort in Central America. {APPLAUSE} And to announce that I have just presented to Colonel Rosner a Joint Meritorious Unit Award to JTF Bravo for its sustained commitment to our mission in this region. Congratulations on a job well done. {APPLAUSE} 
+
+Later today, I will see the Juan Molina Bridge in Tegucigalpa. It was build jointly with U.S. assistance and Honduran efforts. I can't think of a better symbol of JTF Bravo's efforts or our cooperation, building bridges between people and nations in Central America, with Central America itself the bridge between North and South America. 
+
+In this tragedy's aftermath, Hondurans and Americans are giving new meaning to the words written by Juan Molina in his poem, "Eagles and Condors." "Pueblos Americanos in este contiente debemos ser hermanos. {APPLAUSE} 
+
+Not far from here is Comayagua, the old capital of Honduras, built because it was near the center of Central America and of the entire New World. That city boasts a clock said to be the oldest in the Americas, made by Spanish Moors in the 12th century. When that clock began ticking, about 900 years ago, the world was a smaller place in every way. Now that clock is ticking away the final hours and days of the 20th century, headed toward a new millennium. 
+
+But one thing remains as true today as the day the clock was built: We humans still have the urge to start a new course for the future and the obligation to make it a better one for our children. 
+
+Thanks to your work here, a new and better world truly lies within our grasp. Thank you and God bless you. {APPLAUSE} 
+
+
+
+{/speech} 

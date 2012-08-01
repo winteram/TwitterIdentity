@@ -1,0 +1,37 @@
+﻿{title} President Bush Signs Voting Rights Act Reauthorization and Amendments Act of 2006 {/title}
+{event} ----- {/event}
+{speaker} George W. Bush {/speaker}
+{date} July 27, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Thank you. Good morning. Welcome. Thanks for being here on this special day. Please be seated. America began with a Declaration that all men are created equal. This Declaration marked a tremendous advance in the story of freedom, yet it also contained a contradiction: Some of the same men who signed their names to this self-evident truth owned other men as property. By reauthorizing this act, Congress has reaffirmed its belief that all men are created equal; its belief that the new founding started by the signing of the bill by President Johnson is worthy of our great nation to continue. {APPLAUSE} 
+
+I'm proud to be here with our Attorney General and members of my Cabinet, the leaders of the United States Senate and House of Representatives. I thank the bill sponsors, I thank the members of the Judiciary Committee. I appreciate so very much representatives of the Hamer family who have joined us -- {APPLAUSE} -- representatives of the Rosa and Raymond Parks Institute who have joined us -- {APPLAUSE} -- and members of the King family, in particular Reverend Bernice King and Martin Luther King, thank you all for coming. {APPLAUSE} 
+
+I'm honored to be here with civil rights leaders like Dr. Dorothy Height -- {APPLAUSE} -- Julian Bond, the Chairman of the NAACP -- {APPLAUSE} -- Bruce Gordon, thank you Bruce -- {APPLAUSE} -- Reverend Lowery, it's good to see you again, sir -- {APPLAUSE} -- fortunately I got the mic this time. {LAUGHTER} I'm proud to be here with Marc Morial. Thanks for coming Marc. {APPLAUSE} Juanita Abernathy is with us today. Jesse Jackson, good to see you, Jesse. {APPLAUSE} Al Sharpton -- {APPLAUSE} -- Dr. Benjamin Hooks and Frances are with us. {APPLAUSE} 
+
+A lot of other folks who care deeply about this issue. We welcome you here. It's good to welcome the mayor. Mr. Mayor, good to see you. Thanks for coming. Tony Williams. {APPLAUSE} Everything is fine in the neighborhood, I appreciate it. {LAUGHTER} And the Mayor of Selma, Alabama, James Perkins, is with us. Mr. Mayor, proud you're here. {APPLAUSE} Welcome, sir. 
+
+The right of ordinary men and women to determine their own political future lies at the heart of the American experiment, and it is a right that has been won by the sacrifice of patriots. The Declaration of Independence was born on the stand for liberty taken at Lexington and Concord. The amendments to our Constitution that outlawed slavery and guaranteed the right to vote came at the price of a terrible civil war. 
+
+The Voting Rights Act that broke the segregationist lock on the ballot box rose from the courage shown on a Selma bridge one Sunday afternoon in March of 1965. On that day, African Americans, including a member of the United States Congress, John Lewis -- {APPLAUSE} -- marched across the Edmund Pettus Bridge in a protest intended to highlight the unfair practices that kept them off the voter rolls. 
+
+The brutal response showed America why a march was necessary. When the marchers reached the far side of the bridge, they were met by state troopers and civilian posse bearing billy clubs and whips -- weapons they did not hesitate to use. The images of policemen using night sticks on peaceful protestors were carried on television screens across the country, and they stung the conscience of a slumbering America. 
+
+One week after Selma, President Lyndon Johnson took to the airwaves to announce that he planned to submit legislation that would bring African Americans into the civic life of our nation. Five months after Selma, he signed the Voting Rights Act into law in the Rotunda of our nation's capitol. {APPLAUSE} In a little more than a year after Selma, a newly enfranchised black community used their power at the ballot box to help defeat the sheriff who had sent men with whips and clubs to the Edmund Pettus Bridge on that bloody Sunday. 
+
+For some parts of our country, the Voting Rights Act marked the first appearance of African Americans on the voting rolls since Reconstruction. And in the primaries and elections that followed the signing of this act, many African Americans pulled the voting lever for the first time in their lives. 
+
+Eighty-one year old Willie Bolden was the grandson of slaves, and in the spring of 1966, he cast his first ballot in Alabama's Democratic primary. He told a reporter, "It felt good to me. It made me think I was sort of somebody." In the America promised by our founders, every citizen is a somebody, and every generation has a responsibility to add its own chapter to the unfolding story of freedom. {APPLAUSE} 
+
+In four decades since the Voting Rights Act was first passed, we've made progress toward equality, yet the work for a more perfect union is never ending. We'll continue to build on the legal equality won by the civil rights movement to help ensure that every person enjoys the opportunity that this great land of liberty offers. And that means a decent education and a good school for every child, a chance to own their own home or business, and the hope that comes from knowing that you can rise in our society by hard work and God-given talents. {APPLAUSE} 
+
+Today, we renew a bill that helped bring a community on the margins into the life of American democracy. My administration will vigorously enforce the provisions of this law, and we will defend it in court. {APPLAUSE} This legislation is named in honor of three heroes of American history who devoted their lives to the struggle of civil rights: Fannie Lou Hamer, Rosa Parks, and Coretta Scott King. {APPLAUSE} And in honor of their memory and their contributions to the cause of freedom, I am proud to sign the Voting Rights Act Reauthorization and Amendments Act of 2006. {APPLAUSE} 
+
+{APPLAUSE} 
+
+{/speech} 

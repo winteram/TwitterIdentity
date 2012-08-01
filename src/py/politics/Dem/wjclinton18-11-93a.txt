@@ -1,0 +1,32 @@
+﻿{title} Remarks by the President Upon Departure {/title}
+{event} The South Lawn {/event}
+{speaker} Bill Clinton {/speaker}
+{date} November 18, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Thank you, ladies and gentlemen. Thank you, Mr. Vice President.
+
+Let me just say that I have never been involved in an effort in which there were so many diverse people working so hard with so little concern for who got the credit after the battle was over.
+
+I thank all those who were mentioned last night and were mentioned today by the Vice President. I will say again that I believe that his stunning performance in the debate on the Larry King show played a major role in our victory. {APPLAUSE}
+
+Now that the House has voted for the North American Free Trade Agreement, voted for America to continue to compete and win in the global economy, I want to say again how grateful I am to the members who voted with us, and how deeply I respect the opinions and convictions of those who did not and those who supported them.
+
+It is for us now to make sure that this agreement is speedily passed by the United States Senate, and then implemented as it was intended to be implemented, with the cooperation of both labor and management to make sure that it works to the benefit of the United States and to all the working people of our country. It is also our responsibility to press on until we have the kind of education and training programs we need.
+
+And finally, it is our responsibility to make sure that we make the most of this effort in terms of our relationships with our neighbor to the south, Mexico, the rest of Latin America, and hopefully with nations all across the world who are committed to open and free trade, to lowering the barriers that they have to our products and services and to working together for more global opportunity, jobs and growth.
+
+Last night I called President Salinas and I told him that the Vice President and Chief of Staff McLarty would be available to go to Mexico City when NAFTA is ratified by both nations, to meet with him and his government for in-depth discussions about how best to launch this great new era in North American relations.
+
+The President gracefully welcomed this suggestion and invited the Vice President to travel to Mexico as soon as NAFTA is approved by the United States Senate and by the Mexican Senate, which is expected to be this Tuesday. Now I am leaving for the first ever Asian and Pacific Economic Cooperation Forum in Seattle with the strength in hand to fight for open markets throughout the world. The 15 Asian Pacific Economic Partners that I will meet are dynamic and powerful traders and competitors. From the creative tension between their nations and ours can come an economic expansion that will sustain us for years to come. The fastest growing part of the world economy is in Asia.
+
+One thing is clear, by taking the courageous step of opening trade in our own hemisphere we have the economic, the political and the moral standing to make the case that that ought to be done throughout the world, that America is serious about lowering trade barriers and promoting growth in our country and throughout the globe.
+
+I look forward to this trip and to continuing the fight. I will remind you again, as I have said so many times in the past, there is simply no evidence that the United States, or any other wealthy country, can grow jobs and increase incomes unless the world economy is growing and unless we have more customers for our goods and services. We took a long step in the right direction last night and I intend to take more steps on that course in the next few days in the Pacific Northwest.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}
