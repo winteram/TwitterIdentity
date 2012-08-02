@@ -123,36 +123,37 @@ cur = conn.cursor()
 
 
 # Get data for each user (process each user separately)
-#cur.execute("SELECT Id FROM survey JOIN profile ON Id WHERE Followers_count > 90 AND Followers_count < 110 AND own_form1 IS NOT NULL")
-#IDs = cur.fetchall()
+cur.execute("SELECT Id, party FROM survey WHERE party IS NOT NULL")
+users = cur.fetchall()
 
-ID = "d62CqWh5oIaI"
-cur.execute("SELECT TweetText FROM tweet WHERE Id=%s", ID)
-tweets = cur.fetchall()
+for user in users:
+    cur.execute("SELECT TweetText FROM tweet WHERE UserId=%s", user[0])
+    tweets = cur.fetchall()
 
-tweetText = ""
-for tweet in tweets:
-    tweetText += tweet + " "
-tweetText = re.sub('[^a-zA-Z ]', '', tweetText)
-tweetText = re.sub('(?P<endword>[a-z]+)(?P<begword>[A-Z])', '\g<endword> \g<begword>', tweetText)
-tweetText = tweetText.lower()
-tweet_wordlist = word_tokenize(tweetText)
+    tweetText = ""
+    for tweet in tweets:
+        tweetText += tweet[0] + " "
+    
+    tweetText = re.sub('[^a-zA-Z ]', '', tweetText)
+    tweetText = re.sub('(?P<endword>[a-z]+)(?P<begword>[A-Z])', '\g<endword> \g<begword>', tweetText)
+    tweetText = tweetText.lower()
+    tweet_wordlist = word_tokenize(tweetText)
+        
+    tweetDist = FreqDist(tweet_wordlist)
 
-tweetDist = FreqDist(tweet_wordlist)
+    tweetDem = float(0)
+    for word, prob in DemRat.iteritems():
+        tweetDem += prob * tweetDist.freq(word)
 
-tweetDem = float(0)
-for word, prob in DemRat.iteritems():
-    tweetDem += prob * tweetDist.freq(word)
+    tweetRep = float(0)
+    for word, prob in RepRat.iteritems():
+        tweetRep += prob * tweetDist.freq(word)
 
-tweetRep = float(0)
-for word, prob in RepRat.iteritems():
-    tweetRep += prob * tweetDist.freq(word)
+    tweetLP = float(0)
+    for word, prob in LPRat.iteritems():
+        tweetLP += prob * tweetDist.freq(word)
 
-tweetLP = float(0)
-for word, prob in LPRat.iteritems():
-    tweetLP += prob * tweetDist.freq(word)
-
-print tweetDem, tweetRep, tweetLP
+    print user[0], user[1], tweetDem, tweetRep, tweetLP
 
 
 #for ID in IDs:
