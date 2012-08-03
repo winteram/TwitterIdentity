@@ -4,6 +4,7 @@ from urllib import urlopen
 from bs4 import BeautifulSoup
 from nltk import *
 from nltk.corpus import PlaintextCorpusReader
+from nltk.corpus import stopwords
 from nltk.collocations import *
 
 wewords = ["we","us","our","ours","ourselves"]
@@ -25,7 +26,8 @@ def parseCorpus(corpusdir):
     # Create Frequency Distributions for trigrams
     # Dem_trigrams = BigramCollocationFinder._ngram_freqdist(Dem_wordlist, 3)
 
-    return word_tokenize(corpusText)
+#    return word_tokenize(corpusText)
+    return [w for w in word_tokenize(corpusText) if w not in stopwords.words('english')]
 
 # parse list of URLs
 def parseURLs(urllist):
@@ -47,47 +49,55 @@ def parseURLs(urllist):
     # Create Frequency Distributions for trigrams
     # Dem_trigrams = BigramCollocationFinder._ngram_freqdist(Dem_wordlist, 3)
 
-    return word_tokenize(urlText)
+    return [w for w in word_tokenize(urlText) if w not in stopwords.words('english')]
 
 
 # Get text for political party dictionaries (from corp and/or URLs)
 
 #Assign a directory for corpus to be used.
-corpus_Dem = 'politics/Dem'
-corpus_Rep = 'politics/Rep'
+#corpus_Dem = 'politics/Dem'
+#corpus_Rep = 'politics/Rep'
+
+# Republican Party
+RepURLs = ["http://whitehouse12.com/republican-party-platform/","http://gop.com/our-party/","http://en.wikipedia.org/wiki/Republican_Party_(United_States)"]
+
+# Democrat Party
+#DemURLs = ["http://en.wikipedia.org/wiki/Democratic_Party_(United_States)"]
+DemURLs = ["http://www.barackobama.com/record/economy","http://www.barackobama.com/record/education","http://www.barackobama.com/record/environment","http://www.barackobama.com/record/equal-rights","http://www.barackobama.com/record/health-care","http://www.barackobama.com/record/national-security","http://www.barackobama.com/record/taxes","http://www.barackobama.com/record/womens-health","http://en.wikipedia.org/wiki/Democratic_Party_(United_States)"]
 
 # Libertarian Party
-lpURLs = ["http://www.lp.org/platform","http://www.lp.org/candidates/elected-officials"]
+lpURLs = ["http://www.lp.org/platform","http://www.lp.org/candidates/elected-officials","http://en.wikipedia.org/wiki/Libertarian_Party_(United_States)"]
+
+# Green Party
+GreenURLs = ["http://www.greenparty.org/Platform.php","http://www.gp.org/committees/platform/2012/Platform-2012.html","http://en.wikipedia.org/wiki/Green_Party_of_the_United_States"]
+
+# Constitution Party
+ConURLs = ["http://www.constitutionparty.com/party_platform.php","http://www.americanconstitutionparty.com/PlatformDetail.html","http://en.wikipedia.org/wiki/Constitution_Party_(United_States)"]
+
 
 wordlists = []
 listnames = []
-wordlists.append(parseCorpus(corpus_Dem))
+#wordlists.append(parseCorpus(corpus_Dem))
+wordlists.append(parseURLs(DemURLs))
 listnames.append("Dem")
-wordlists.append(parseCorpus(corpus_Rep))
+#wordlists.append(parseCorpus(corpus_Rep))
+wordlists.append(parseURLs(RepURLs))
 listnames.append("Rep")
 wordlists.append(parseURLs(lpURLs))
 listnames.append("LP")
-
+wordlists.append(parseURLs(GreenURLs))
+listnames.append("Green")
+wordlists.append(parseURLs(ConURLs))
+listnames.append("Const")
 
 # Input list of wordlists, return list of "score" dictionaries
-TotalList = {}
-wordProps = []
+TotalDist = FreqDist([word for sublist in wordlists for word in sublist])
+wordRats = []
 for wordlist in wordlists:
     wordDist = FreqDist(wordlist)
-    wordProp = [(word,wordDist.freq(word)) for word in wordDist.keys()]
-    for word, prop in wordProp:
-        if word in TotalList:
-            TotalList[word] += prop
-        else:
-            TotalList[word] = prop
-    wordProps.append(wordProp)
-
-# Normalize wordlists by frequencies across corpuses
-wordRats = []
-for wordProp in wordProps:
     wordRat = {}
-    for word, prop in wordProp:
-        wordRat[word] = prop / TotalList[word]
+    for word in wordDist.keys():
+        wordRat[word] = wordDist.freq(word) / TotalDist.freq(word)
     wordRats.append(wordRat)
 
 
@@ -101,7 +111,7 @@ cur.execute("SELECT DISTINCT(survey.Id), party FROM survey JOIN tweet ON survey.
 users = cur.fetchall()
 
 # print header
-print "Id Party ", " ".join(listnames)
+print "Id Party ", " ".join(listnames), " ".join([w + "-we" for w in listnames])
 
 for user in users:
     catScores = [0] * 2*len(listnames)
@@ -124,7 +134,7 @@ for user in users:
         has_we = False
         if weTweetWC>0:
             has_we = True
-            weTweetWordCount += weTweetWC
+            weTweetWordCount += len(tweet_wordlist)
         # go through each word in tweet
         for word in tweet_wordlist:
             # for each category
