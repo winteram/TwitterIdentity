@@ -6,6 +6,7 @@ from nltk import *
 from nltk.corpus import PlaintextCorpusReader
 from nltk.collocations import *
 
+wewords = ["we","us","our","ours","ourselves"]
 bigram_measures = BigramAssocMeasures()
 trigram_measures = TrigramAssocMeasures()
 
@@ -73,10 +74,8 @@ TotalList = {}
 wordProps = []
 for wordlist in wordlists:
     wordDist = FreqDist(wordlist)
-    wordList = [(word,wordDist.freq(word)) for word in wordDist.keys()]
-    wordProp = {}
-    for word, prop in wordList:
-        wordProp.setdefault(word, []).append(prop)
+    wordProp = [(word,wordDist.freq(word)) for word in wordDist.keys()]
+    for word, prop in wordProp:
         if word in TotalList:
             TotalList[word] += prop
         else:
@@ -87,17 +86,9 @@ for wordlist in wordlists:
 wordRats = []
 for wordProp in wordProps:
     wordRat = {}
-    for word, prop in DemList:
-        DemRat[word] = prop / TotalList[word]
-
-RepRat = {}
-for word, prop in RepList:
-    RepRat[word] = prop / TotalList[word]
-
-LPRat = {}
-for word, prop in LPList:
-    LPRat[word] = prop / TotalList[word]
-
+    for word, prop in wordProp:
+        wordRat[word] = prop / TotalList[word]
+    wordRats.append(wordRat)
 
 
 # Set up connection
@@ -106,38 +97,48 @@ cur = conn.cursor()
 
 
 # Get data for each user (process each user separately)
-cur.execute("SELECT Id, party FROM survey WHERE party IS NOT NULL")
+cur.execute("SELECT DISTINCT(survey.Id), party FROM survey JOIN tweet ON survey.Id = tweet.UserId WHERE party IS NOT NULL")
 users = cur.fetchall()
 
+# print header
+print "Id Party ", " ".join(listnames)
+
 for user in users:
+    catScores = [0] * 2*len(listnames)
     cur.execute("SELECT TweetText FROM tweet WHERE UserId=%s", user[0])
     tweets = cur.fetchall()
 
     tweetText = ""
+    tweetWordCount = 0
+    weTweetWordCount = 0
     for tweet in tweets:
+        # clean tweet text & tokenize
         tweetText = tweet[0] + " "
         tweetText = re.sub('[^a-zA-Z ]', '', tweetText)
         tweetText = re.sub('(?P<endword>[a-z]+)(?P<begword>[A-Z])', '\g<endword> \g<begword>', tweetText)
         tweetText = tweetText.lower()
         tweet_wordlist = word_tokenize(tweetText)
+        tweetWordCount += len(tweet_wordlist)
+        weTweetWC = len(list(set(tweet_wordlist) & set(wewords)))
+        # see if tweet has "we" word(s) in it
+        has_we = False
+        if weTweetWC>0:
+            has_we = True
+            weTweetWordCount += weTweetWC
+        # go through each word in tweet
         for word in tweet_wordlist:
-            tweetDem
+            # for each category
+            for idx, wordRat in enumerate(wordRats):
+                # if word in tweet is in dictionary of category, add score
+                if word in wordRat:
+                    catScores[idx] += wordRat[word]
+                    # if word in tweet is in dictionary of category AND we word, add score
+                    if has_we:
+                        catScores[idx+len(listnames)] += wordRat[word]
 
-    tweetDist = FreqDist(tweet_wordlist)
-
-    tweetDem = float(0)
-    for word, prob in DemRat.iteritems():
-        tweetDem += prob * tweetDist.freq(word)
-
-    tweetRep = float(0)
-    for word, prob in RepRat.iteritems():
-        tweetRep += prob * tweetDist.freq(word)
-
-    tweetLP = float(0)
-    for word, prob in LPRat.iteritems():
-        tweetLP += prob * tweetDist.freq(word)
-
-    print user[0], user[1], tweetDem, tweetRep, tweetLP
+    catScores[:len(listnames)] = [str(x / tweetWordCount) for x in catScores[:len(listnames)]]
+    catScores[len(listnames):] = [str(x / weTweetWordCount) if weTweetWordCount > 0 else "0" for x in catScores[len(listnames):]]
+    print user[0], user[1], " ".join(catScores)
 
 
 #for ID in IDs:
