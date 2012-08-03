@@ -8,7 +8,8 @@ CONSUMER_SECRET = "YWeRQPivyjc9ZUSLQbaFj8enJviPZ8cw55mu3qSuJdk"
 
 t = Twitter(auth=OAuth(oauth_token, oauth_secret, CONSUMER_KEY, CONSUMER_SECRET))
 
-RPaul = t.statuses.user_timeline(id="RonPaul")
+RPaul = t.statuses.user_timeline(id="RonPaul", count=200)
+RPaul2 = t.statuses.user_timeline(id="RonPaul", count=200, max_id=RPaul[len(RPaul)-1]['id'])
 
 # to pull the tweets from the timeline use the index "text"
 

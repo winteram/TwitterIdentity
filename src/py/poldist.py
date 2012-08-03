@@ -6,6 +6,32 @@ from nltk import *
 from nltk.corpus import PlaintextCorpusReader
 from nltk.collocations import *
 
+# parse corpus
+def parseCorpus(corpusdir):
+    # Load the corpus into nltk and store files as separate file ID, which can be accessed by name.
+    # to see which files are in the corpus use the command: corpus.fileids()
+    corpus = PlaintextCorpusReader(corpusdir, '.*')
+    corpusText = corpus.raw()
+    corpusText = re.sub('[^a-zA-Z ]', '', corpusText)
+    corpusText = re.sub('(?P<endword>[a-z]+)(?P<begword>[A-Z])', '\g<endword> \g<begword>', corpusText)
+    corpusText = corpusText.lower()
+    return word_tokenize(corpusText)
+
+# parse list of URLs
+def parseURLs(urllist):
+    # verify the input is a list
+    assert type(urllist) == type(list())
+    urlText = ""
+    for url in urllist:
+        urlRaw = urlopen(url).read()
+        urlSoup = BeautifulSoup(urlRaw)
+        for para in urlSoup.find_all('p'):
+            urlText += para.get_text()
+        urlText += " " 
+    urlText = re.sub('[^a-zA-Z ]', '', urlText)
+    urlText = re.sub('(?P<endword>[a-z]+)(?P<begword>[A-Z])', '\g<endword> \g<begword>', urlText)
+    urlText = urlText.lower()
+    return word_tokenize(urlText)
 
 bigram_measures = BigramAssocMeasures()
 trigram_measures = TrigramAssocMeasures()
@@ -16,56 +42,22 @@ trigram_measures = TrigramAssocMeasures()
 corpus_Dem = 'politics/Dem'
 corpus_Rep = 'politics/Rep'
 
-# Load the corpus into nltk and store files as separate file ID, which
-#can be accessed by name.
-words_Dem=PlaintextCorpusReader(corpus_Dem, '.*')
-words_Rep=PlaintextCorpusReader(corpus_Rep, '.*')
-#to see which files are in the corpus use the command: wordlists.fileids()
-
 # Libertarian Party
-lpURL = "http://www.lp.org/platform"
-lpRaw = urlopen(lpURL).read()
-lpSoup = BeautifulSoup(lpRaw)
-lpText = ""
-for para in lpSoup.find_all('p'):
-    lpText += para.get_text()
-lpURL = "http://www.lp.org/candidates/elected-officials"
-lpRaw = urlopen(lpURL).read()
-lpSoup = BeautifulSoup(lpRaw)
-lpText += " "
-for para in lpSoup.find_all('p'):
-    lpText += para.get_text()
+lpURLs = ["http://www.lp.org/platform","http://www.lp.org/candidates/elected-officials"]
 
-
-# clean text
-DemText = words_Dem.raw()
-DemText = re.sub('[^a-zA-Z ]', '', DemText)
-DemText = re.sub('(?P<endword>[a-z]+)(?P<begword>[A-Z])', '\g<endword> \g<begword>', DemText)
-DemText = DemText.lower()
-Dem_wordlist = word_tokenize(DemText)
-
-RepText = words_Rep.raw()
-RepText = re.sub('[^a-zA-Z ]', '', RepText)
-RepText = re.sub('(?P<endword>[a-z]+)(?P<begword>[A-Z])', '\g<endword> \g<begword>', RepText)
-RepText = RepText.lower()
-Rep_wordlist = word_tokenize(RepText)
-
-lpText = re.sub('[^a-zA-Z ]', '', lpText)
-lpText = re.sub('(?P<endword>[a-z]+)(?P<begword>[A-Z])', '\g<endword> \g<begword>', lpText)
-lpText = lpText.lower()
-lp_wordlist = word_tokenize(lpText)
-
-
-#pull the tokenized words from each corpus
-#Dem_wordlist = words_Dem.words()
-#Rep_wordlist = words_Rep.words()
-
+wordlists = []
+listnames = []
+wordlists.append(parseCorpus(corpus_Dem))
+listnames.append("Dem")
+wordlists.append(parseCorpus(corpus_Rep))
+listnames.append("Rep")
+wordlists.append(parseURLs(lpURLs))
+listnames.append("LP")
 
 #Create Frequency Distributions for each of these
 DemDist = FreqDist(Dem_wordlist)
 RepDist = FreqDist(Rep_wordlist)
 LPDist = FreqDist(lp_wordlist)
-
 
 # Create Frequency Distributions for bigrams
 #Dem_bigrams = BigramCollocationFinder._ngram_freqdist(Dem_wordlist, 2)
@@ -132,13 +124,14 @@ for user in users:
 
     tweetText = ""
     for tweet in tweets:
-        tweetText += tweet[0] + " "
-    
-    tweetText = re.sub('[^a-zA-Z ]', '', tweetText)
-    tweetText = re.sub('(?P<endword>[a-z]+)(?P<begword>[A-Z])', '\g<endword> \g<begword>', tweetText)
-    tweetText = tweetText.lower()
-    tweet_wordlist = word_tokenize(tweetText)
-        
+        tweetText = tweet[0] + " "
+        tweetText = re.sub('[^a-zA-Z ]', '', tweetText)
+        tweetText = re.sub('(?P<endword>[a-z]+)(?P<begword>[A-Z])', '\g<endword> \g<begword>', tweetText)
+        tweetText = tweetText.lower()
+        tweet_wordlist = word_tokenize(tweetText)
+        for word in tweet_wordlist:
+            tweetDem
+
     tweetDist = FreqDist(tweet_wordlist)
 
     tweetDem = float(0)
