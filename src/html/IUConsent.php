@@ -12,12 +12,39 @@ function verify_consent()
 {
     var agree = false;
     var agree2 = false;
+	var IUname = $("#IUName").val();
+	var Tname = $("#TwitterName").val();
+	var error = false
+	var errormsg = ""
+	
+	
+	
     if($("#agree").is(':checked'))
-	{ agree = true; }
-    if($("#agree2").is(':checked')) 
-	{ agree2 = true; }
-    if(!agree) {
-	$("#error_consent").html("Please indicate you have read the information on this page and agree to participate in the study by checking the first box above");
+	{ 
+		agree = true;
+	}
+	if(!agree)
+	{
+	  error = true; 
+	  errormsg += "<p> Please indicate you have read the information on this page and agree to participate in the study by checking the first box above <p>"
+	}
+    
+	if($("#agree2").is(':checked')) 
+	{ agree2 = true;  
+	 }
+	 if( IUname.length < 3)
+	{
+		errormsg += "<p> Please indicate your IU username in the text box above <p>";
+		error=true;
+	}
+	if(Tname.length < 3)
+	{
+		errormsg += "<p> Please indicate your Twitter username in the text box above <p>";
+		error=true;
+	}
+	
+    if(error=true) {
+	$("#error_consent").html(errormsg)
     } else {
 	window.location.href = "Authenticate.php?agree=" + (agree ? 1 : 0) + "&agree2=" + (agree2 ? 1 : 0);
     }
@@ -114,8 +141,8 @@ researchers.</div>
 
 <div>
   <p>So that we know you read the consent and may assign you experimental credit, please complete the fields below.</p>
-  <p>IU Username: <input type = "text" name = "IUName" /></p>
-  <p>Twitter Username: <input type = "text" name = "TwitterName" /></p>
+  <p>IU Username: <input type = "text" id = "IUName" name = "IUName" /></p>
+  <p>Twitter Username: <input type = "text" id = "TwitterName" name = "TwitterName" /></p>
   <p>By checking the box(es) above and clicking the link below, you will be digitally signing this document.&nbsp; You will be asked to authenticate your account through Twitter to demonstrate you are the owner of the Twitter account.</p>
 </div>
 
@@ -124,10 +151,8 @@ researchers.</div>
 </form>
 </div>
 
-<div></div>
 
 
-</div>
 
 </body>
 </html>

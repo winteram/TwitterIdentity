@@ -70,7 +70,7 @@ $_SESSION['flag'] = $flag;
       </div>
     </div>
     <button id="participate-button" class="ui-button ui-button-text-only ui-widget ui-state-default
-	ui-corner-all" onClick="document.location.href='Consent.php';">
+	ui-corner-all" onClick="document.location.href='IUstud.php';">
       <span class="ui-button-text">Participate!</span>
     </button>
   </div>
