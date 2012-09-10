@@ -142,7 +142,6 @@ researchers.</div>
 <div>
   <p>So that we know you read the consent and may assign you experimental credit, please complete the fields below.</p>
   <p>IU Username: <input type = "text" id = "IUName" name = "IUName" /></p>
-  <p>Twitter Username: <input type = "text" id = "TwitterName" name = "TwitterName" /></p>
   <p>By checking the box(es) above and clicking the link below, you will be digitally signing this document.&nbsp; You will be asked to authenticate your account through Twitter to demonstrate you are the owner of the Twitter account.</p>
 </div>
 

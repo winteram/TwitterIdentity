@@ -65,13 +65,16 @@ $_SESSION['flag'] = $flag;
     <div class="center-section">
       <div class="center-title">Who Can Participate</div>
       <div class="center-para">
-	Anyone with a Twitter account can participate.  Just click the
-	"Participate" button below!
+	 Anyone with a Twitter account can participate.  If you are an IU student and want to get credit for participating in an experiment, click the <span style="color:red">RED</span> participate button below.  Otherwise, click the <span style="color:#FC0">GOLD</span> participate button below.
       </div>
     </div>
     <button id="participate-button" class="ui-button ui-button-text-only ui-widget ui-state-default
-	ui-corner-all" onClick="document.location.href='IUstud.php';">
-      <span class="ui-button-text">Participate!</span>
+	ui-corner-all" onClick="document.location.href='IUConsent.php';" style="background:red;color:#FDFEE4">
+	 <span class="ui-button-text">Participate!<br>(IU student)</span>
+    </button>
+    <button id="participate-button" class="ui-button ui-button-text-only ui-widget ui-state-default
+	ui-corner-all" onClick="document.location.href='Consent.php';">
+	 <span class="ui-button-text">Participate!<br>(non-IU student)</span>
     </button>
   </div>
   <div class="left column">
