@@ -42,6 +42,7 @@ if (200 == $connection->http_code) {
   // put responses to consent form in dB
   $agree1 = isset($_SESSION['agree']) ? intval($_SESSION['agree']) : 0;
   $agree2 = isset($_SESSION['agree2']) ? intval($_SESSION['agree2']) : 0;
+  $IUname = isset($_SESSION['IUname']) ? $_SESSION['IUname'] : "NULL";
   $flag = isset($_SESSION['flag']) ? $_SESSION['flag'] : "NULL";
 
 
@@ -51,21 +52,22 @@ if (200 == $connection->http_code) {
   $row = $rqst->execute();
   $result = $rqst->fetch(PDO::FETCH_ASSOC);
 
-  // if username exists, it will match
-  if ($result['twitid'] === $twitid) {
-    $query = "UPDATE twitterconnectionaccounts SET AccessToken=:token, AccessTokenSecret=:secret, CreationDate=NOW(), Agree1=:agree1, Agree2=:agree2, Referred_by=:flag WHERE Id=:twitid";
+  // if Twitter ID exists, it will match
+  if ($result['Id'] === $twitid) {
+    $query = "UPDATE twitterconnectionaccounts SET AccessToken=:token, AccessTokenSecret=:secret, CreationDate=NOW(), Agree1=:agree1, Agree2=:agree2, IUname=:IUname, Referred_by=:flag WHERE Id=:twitid";
     $rqst2 = $dbh->prepare($query);
     $rqst2->bindParam(':token',$oauth_token, PDO::PARAM_STR);
     $rqst2->bindParam(':secret',$oauth_secret, PDO::PARAM_STR);
     $rqst2->bindParam(':agree1',$agree1, PDO::PARAM_INT);
     $rqst2->bindParam(':agree2',$agree2, PDO::PARAM_INT);
+    $rqst2->bindParam(':IUname',$IUname, PDO::PARAM_STR);
     $rqst2->bindParam(':flag',$flag, PDO::PARAM_STR);
     $rqst2->bindParam(':twitid',$twitid, PDO::PARAM_STR);
     $rqst2->execute();
   } 
   else {
     // Add connection info
-    $query = "INSERT INTO twitterconnectionaccounts SET Id=:twitid, AccountName=:uname, AccessToken=:token, AccessTokenSecret=:secret, CreationDate=NOW(), Agree1=:agree1, Agree2=:agree2, Referred_by=:flag";
+    $query = "INSERT INTO twitterconnectionaccounts SET Id=:twitid, AccountName=:uname, AccessToken=:token, AccessTokenSecret=:secret, CreationDate=NOW(), Agree1=:agree1, Agree2=:agree2, IUname=:IUname, Referred_by=:flag";
     $rqst2 = $dbh->prepare($query);
     $rqst2->bindParam(':twitid',$twitid, PDO::PARAM_STR);
     $rqst2->bindParam(':uname',$username, PDO::PARAM_STR);
@@ -73,8 +75,10 @@ if (200 == $connection->http_code) {
     $rqst2->bindParam(':secret',$oauth_secret, PDO::PARAM_STR);
     $rqst2->bindParam(':agree1',$agree1, PDO::PARAM_INT);
     $rqst2->bindParam(':agree2',$agree2, PDO::PARAM_INT);
+    $rqst2->bindParam(':IUname',$IUname, PDO::PARAM_STR);
     $rqst2->bindParam(':flag',$flag, PDO::PARAM_STR);
     $rqst2->execute();
+    //    $rqst2->debugDumpParams();
 
     $verified = $user->verified==1 ? 1 : 0;
     $geo = $user->geo_enabled==1 ? 1 : 0;

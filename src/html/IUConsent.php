@@ -12,43 +12,37 @@ function verify_consent()
 {
     var agree = false;
     var agree2 = false;
-	var IUname = $("#IUName").val();
-	var Tname = $("#TwitterName").val();
-	var error = false
-	var errormsg = ""
-	
-	
-	
+    var IUname = $("#IUName").val();
+    var error = false
+    var errormsg = ""
+	       	
     if($("#agree").is(':checked'))
 	{ 
-		agree = true;
+	  agree = true;
 	}
-	if(!agree)
-	{
-	  error = true; 
-	  errormsg += "<p> Please indicate you have read the information on this page and agree to participate in the study by checking the first box above <p>"
-	}
-    
-	if($("#agree2").is(':checked')) 
-	{ agree2 = true;  
-	 }
-	 if( IUname.length < 3)
-	{
-		errormsg += "<p> Please indicate your IU username in the text box above <p>";
-		error=true;
-	}
-	if(Tname.length < 3)
-	{
-		errormsg += "<p> Please indicate your Twitter username in the text box above <p>";
-		error=true;
-	}
+    if(!agree)
+      {
+	error = true; 
+	errormsg += "<p> Please indicate you have read the information on this page and agree to participate in the study by checking the first box above <p>"
+      }    
+    if($("#agree2").is(':checked')) 
+      { 
+	agree2 = true;  
+      }
+
+    if( IUname.length < 3)
+      {
+	errormsg += "<p> Please indicate your IU username in the text box above <p>";
+	error=true;
+      }
 	
-    if(error=true) {
-	$("#error_consent").html(errormsg)
+    if(error==true) {
+      $("#error_consent").html(errormsg)
     } else {
-	window.location.href = "Authenticate.php?agree=" + (agree ? 1 : 0) + "&agree2=" + (agree2 ? 1 : 0);
-    }
-        
+      var redirect = "Authenticate.php?agree=" + (agree ? 1 : 0) + "&agree2=" + (agree2 ? 1 : 0);
+      redirect += "&IUname=" + IUname;
+      window.location.href = redirect;
+    }        
 }
 </script>
 <link rel="shortcut icon" href="core/images/idproj.ico" type="image/x-icon" />
