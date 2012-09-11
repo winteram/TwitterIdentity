@@ -17,6 +17,8 @@ $(document).ready(function() {
 	    { order= 2}
 		
 	once = false;
+	once1 = false;
+	once2 = false; 
 		
 		
 
@@ -238,7 +240,7 @@ function surveyValidate(iden)// added iden as an input
 	    twitid = $("#twitid").html();
 	    $.post("core/DataWrangler.php", {"page":iden, "twitid":twitid, "data":qdata});
 	    $(wrapper).hide(500); 
-		once = false
+		once = false;
 
 	    if(iden=="party")
 		{   
@@ -247,6 +249,7 @@ function surveyValidate(iden)// added iden as an input
 			{   
 			    $("#nationality_h").show();
 			    $("#Nation-wrapper").show(500);
+				
 			}
 		    else
 			{   
@@ -274,7 +277,7 @@ function surveyValidate(iden)// added iden as an input
 	else
 	{ 
 	    $('#error'+ iden).html('Oops. We noticed you left one or more items blank (shown in red above). Your responses are most useful to us when you answer every question, so we would appreciate it if you fill those in. But if you choose not to answer those specific items, you can press "Continue" to move on'); 
-	once = true	 
+	once = true;
 	
 	}
 	
@@ -318,7 +321,7 @@ function DecideOrder(location)
 	  $("#tester").append('<p> Show something please! <p>');
 	  $("#tester").show(500);  */
 
-    if(location == "us")
+    if(location == "us" || location == "unselected")
 	{
 	    if(order==1) 
 		{    
@@ -350,11 +353,57 @@ function checkPolitics()
 
 	var error = false;
 	var errmsg= "";
+	var wrapper = "#displayQ-wrapper_" + "party";
+	iden = "party";
+	
+	if(once == true)
+	{
+		
+		
+		
+		$("#GetPol-wrapper").hide(500); 
+		$.post("core/DataWrangler.php", {"page":"polform", "twitid":twitid, "party":party });
+		//once = false;
+		
+		if(iden=="party")
+		{   
+		    $("#politics_h").hide();
+		    if(order==1)
+			{   
+			    $("#nationality_h").show();
+			    $("#Nation-wrapper").show(500);
+				
+			}
+		    else
+			{   
+			    $("#free_h").show();
+			    $("#FreeForm-wrapper").show(500); 
+			}
+		}
+	    if(iden=="nation")
+		{   
+		    $("#nationality_h").hide();
+		    if(order==1)
+			{   
+			    $("#free_h").show();
+			    $("#FreeForm-wrapper").show(500);
+			} 
+		    else
+			{   
+			    $("#politics_h").show();
+			    $("#GetPol-wrapper").show(500);
+			}
+		}
+		
+		
+	}
+	
 	
 
 	if(party == "unselected")
 	{ 
-	    error=true;
+	    once = true; 
+		error=true;
 	    errmsg += "<div class='error'>Please indicate the political party you most identify with</div>";
 	    $('#error-2').html(errmsg);
 	    $("#GetPol-wrapper").addClass("error"); 
@@ -390,6 +439,7 @@ function checkPolitics()
 	    $("#GetPol-wrapper").hide(500); 
 	    displayQ(pform1, pform2, "party");
 	    $.post("core/DataWrangler.php", {"page":"polform", "twitid":twitid, "party":party });
+		//once=false;
 	}
 }
 
@@ -400,6 +450,10 @@ function capitalize(string)
 
 function CheckNationID()
 { 
+    var wrapper = "#displayQ-wrapper_" + "nation";
+	
+	iden="nation"
+	
     // take list of nations, split into array
     nation_list = $("#national").val().replace(/,+$/,'').split(',');
     nform1 = nation_list.join('-');
@@ -435,8 +489,53 @@ function CheckNationID()
 		    $("#nationalityq").css('color','red'); 
 		}
 	}
-
-
+	
+	
+	
+	
+	if(once1 == true)
+	{
+		    
+			twitid = $("#twitid").html();
+			$.post("core/DataWrangler.php", {"page":"natform", "twitid":twitid, "nationality":nform1 });
+			$("#Nation-wrapper").hide(500);
+			once = false;
+			
+			if(iden=="party")
+		{   
+		    $("#politics_h").hide();
+		    if(order==1)
+			{   
+			    $("#nationality_h").show();
+			    $("#Nation-wrapper").show(500);
+				
+			}
+		    else
+			{   
+			    $("#free_h").show();
+			    $("#FreeForm-wrapper").show(500); 
+			}
+		}
+	    if(iden=="nation")
+		{   
+		    $("#nationality_h").hide();
+		    if(order==1)
+			{   
+			    $("#free_h").show();
+			    $("#FreeForm-wrapper").show(500);
+			} 
+		    else
+			{   
+			    $("#politics_h").show();
+			    $("#GetPol-wrapper").show(500);
+			}
+		}
+		
+	}
+	
+	
+	
+	
 	 if(error == false)
 		{
 			
@@ -451,9 +550,12 @@ function CheckNationID()
     else
 	{   $("#nationalityq").css('color','red'); 
 		$("#error-4").html(errmsg);
-		once = true
+		once1 = true
 		
 	} 
+	
+
+
     
 }
 
@@ -475,7 +577,7 @@ function FreeCheck()
 	userURL3 = $("#user_url3").val();
 	
 	
-    errmsg = '<p> Oops. In order to proceed we ask that you provide answers for the Identity 1 section. The others are optional.</p>';
+    errmsg = '<p> Oops. Though all questions are optional and you may proceed at any time, it would be really helpful if you provide answers to these items. </p>';
 
     //alert(nform1 + ", " + nform2 + ", " + validURL(userURL));
 	
@@ -485,6 +587,8 @@ function FreeCheck()
     //nform1 = nform1.charAt(0).toUpperCase() + nform1.slice(1);
     //nform2 = nform2.charAt(0).toUpperCase() + nform1.slice(1); 
     
+	
+	
     error = false;
 	
 
@@ -506,7 +610,7 @@ function FreeCheck()
     if(nform2.length < 3)
 	{ 
 	    error = true;
-	    errmsg += '<p> Please provide an appropriate answer to item 2, shown in red above </p>';
+	    errmsg += '<p> Please provide an appropriate answer to item 2 </p>';
 	    //$("#freeq2").addClass("error")
 	    $("#freeq2").css('color','red');
 	}
@@ -518,7 +622,7 @@ function FreeCheck()
     if(!validURL(userURL))
 	{ 
 	    error = true;
-	    errmsg += '<p> Please provide a valid URL for the item shown in red above </p>';
+	    errmsg += '<p> Please provide a valid URL </p>';
 	    //$("#freeq2").addClass("error")
 	    $("#freeq3").css('color','red');
 	}  
@@ -528,7 +632,7 @@ function FreeCheck()
 		
 	} 
 	
-	  if(error== false)
+	  if(error== false || once == true)
 	{   once = false
 	    twitid = $("#twitid").html();
 	    $.post("core/DataWrangler.php", {"page":"freeform", "twitid":twitid, "data":{"ownform1":nform1,"ownform2":nform2, "ownURL":userURL, "ownform3":nform3, "ownform4":nform4, "ownURL2":userURL2, "ownform5":nform5, "ownform6":nform6, "ownURL3":userURL3} });
@@ -540,7 +644,7 @@ function FreeCheck()
     else
 	{
 	    $("#error-5").html(errmsg);
-		
+		once = true
 	}
   
 }
@@ -622,13 +726,13 @@ function checkDemographics()
 	    $("#demographics_h").hide();
 	    $("#demo-wrapper").hide(500);
 	    DecideOrder(loc);
-		once = false
+		once = false;
 
 	}
     else
 	{
 	    $('#error-1').html('Oops. We noticed you left one or more items blank (shown in red above). Your responses are most useful to us when you answer every question, so we would appreciate it if you fill those in. But if you choose not to answer those specific items, you can press "Submit" to move on.');
-		once = true
+		once = true;
 	}
 	
 }
