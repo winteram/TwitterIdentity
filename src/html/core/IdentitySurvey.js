@@ -192,10 +192,6 @@ function surveyValidate(iden)// added iden as an input
 	var j = 0;
 	var error= false; 
 	
-
-	
-	
-
 	//var errmsg= ''; 
 	//var error3= '<div id="error'+ iden +'" class="error"/>'	
 	// $("displayQ").children("div").each(function(index) {
@@ -358,14 +354,11 @@ function checkPolitics()
 	
 	if(once == true)
 	{
+	    $("#GetPol-wrapper").hide(500); 
+	    $.post("core/DataWrangler.php", {"page":"polform", "twitid":twitid, "party":party });
+	    //once = false;
 		
-		
-		
-		$("#GetPol-wrapper").hide(500); 
-		$.post("core/DataWrangler.php", {"page":"polform", "twitid":twitid, "party":party });
-		//once = false;
-		
-		if(iden=="party")
+	    if(iden=="party")
 		{   
 		    $("#politics_h").hide();
 		    if(order==1)
