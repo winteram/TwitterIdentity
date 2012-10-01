@@ -12,6 +12,14 @@ wewords = ["we","us","our","ours","ourselves"]
 bigram_measures = BigramAssocMeasures()
 trigram_measures = TrigramAssocMeasures()
 
+oauth_token = "563118238-aVS68vGHeiWuoLCHIOudAPa6hmhnwIBsSkUfeBXt"
+oauth_secret = "M6h51pETL8CWkowEeyh6cb7gNpNTyBpl7fLJk45J4Y"
+CONSUMER_KEY = "PCMmY6ERIWJM9tgjIiQRwA"
+CONSUMER_SECRET = "YWeRQPivyjc9ZUSLQbaFj8enJviPZ8cw55mu3qSuJdk"
+
+t = Twitter(auth=OAuth(oauth_token, oauth_secret, CONSUMER_KEY, CONSUMER_SECRET))
+
+
 # parse corpus
 def parseCorpus(corpusdir):
     # Load the corpus into nltk and store files as separate file ID, which can be accessed by name.
@@ -54,13 +62,6 @@ def parseURLs(urllist):
 
 # parse tweets of party leaders
 def parseTweets(nameList):
-    oauth_token = "563118238-aVS68vGHeiWuoLCHIOudAPa6hmhnwIBsSkUfeBXt"
-    oauth_secret = "M6h51pETL8CWkowEeyh6cb7gNpNTyBpl7fLJk45J4Y"
-    CONSUMER_KEY = "PCMmY6ERIWJM9tgjIiQRwA"
-    CONSUMER_SECRET = "YWeRQPivyjc9ZUSLQbaFj8enJviPZ8cw55mu3qSuJdk"
-
-    t = Twitter(auth=OAuth(oauth_token, oauth_secret, CONSUMER_KEY, CONSUMER_SECRET))
-
     # verify the input is a list
     assert type(nameList) == type(list())
     tweetText = ""
@@ -181,7 +182,7 @@ for user in testNames:
     weTweetWordCount = 0
     for tweet in tweets:
         # clean tweet text & tokenize
-        tweetText = tweet[0] + " "
+        tweetText = tweet["text"]
         tweetText = re.sub('[^a-zA-Z ]', '', tweetText)
         tweetText = re.sub('(?P<endword>[a-z]+)(?P<begword>[A-Z])', '\g<endword> \g<begword>', tweetText)
         tweetText = tweetText.lower()
@@ -206,7 +207,7 @@ for user in testNames:
 
     catScores[:len(listnames)] = [str(x / tweetWordCount) for x in catScores[:len(listnames)]]
     catScores[len(listnames):] = [str(x / weTweetWordCount) if weTweetWordCount > 0 else "0" for x in catScores[len(listnames):]]
-    print user[0], user[1], " ".join(catScores)
+    print user, " ".join(catScores)
 
 
 #for ID in IDs:
