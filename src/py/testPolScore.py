@@ -1,7 +1,8 @@
 import re
-import pymysql
+from random import randrange
 from urllib import urlopen
 from bs4 import BeautifulSoup
+from twitter import *
 from nltk import *
 from nltk.corpus import PlaintextCorpusReader
 from nltk.corpus import stopwords
@@ -44,53 +45,104 @@ def parseURLs(urllist):
     urlText = re.sub('(?P<endword>[a-z]+)(?P<begword>[A-Z])', '\g<endword> \g<begword>', urlText)
     urlText = urlText.lower()
     # Create Frequency Distributions for bigrams
-    # Dem_bigrams = BigramCollocationFinder._ngram_freqdist(Dem_wordlist, 2)
+    # url_bigrams = BigramCollocationFinder._ngram_freqdist(urlText, 2)
 
     # Create Frequency Distributions for trigrams
-    # Dem_trigrams = BigramCollocationFinder._ngram_freqdist(Dem_wordlist, 3)
+    # url_trigrams = BigramCollocationFinder._ngram_freqdist(urlText, 3)
 
     return [w for w in word_tokenize(urlText) if w not in stopwords.words('english')]
 
+# parse tweets of party leaders
+def parseTweets(nameList):
+    # verify the input is a list
+    assert type(nameList) == type(list())
+    tweetText = ""
+    # get tweets for each twitter account in list
+    for name in nameList:        
+        tweets1= t.statuses.user_timeline(id = name, count = 200)
+        tweets2= t.statuses.user_timeline(id = name, count = 200, max_id = tweets1[len(tweets1)-1]['id'])
+        tweets3= t.statuses.user_timeline(id = name, count = 200, max_id = tweets2[len(tweets2)-1]['id'])
+        tweets= tweets1 + tweets2 + tweets3
+    
+        # combine
+        x = ""
+        for i in range(len(tweets)):
+            x = x + " " + tweets[i]['text']
+        
+        ## TODO: pull out URLs first and parse their text?
+        # takes everything but alpha characters and hashtags from the string
+        clean_two = re.sub('[^a-zA-Z #]', '', x) 
 
-# Get text for political party dictionaries (from corp and/or URLs)
+        ## TODO:  This is actually the encoding of the string
+        # this leaves u's at the beginning of things, so we need pull these out. 
+        clean_two = re.sub('u(?P<beg>[A-Z])', '\g<beg>', clean_two)
+
+        ## TODO: Probably these are line endings?  
+        # there are still also n's, those should be removed.
+        clean_two = re.sub(' n ', '', clean_two)
+        clean_two = re.sub('n(?P<beg>[A-Z])', '\g<beg>', clean_two)
+        clean_two = clean_two.lower()
+
+        return [w for w in word_tokenize(clean_two)]
+
+
+
+### Get text for political party dictionaries (from corpora, URLs, and/or Twitter accounts)
 
 #Assign a directory for corpus to be used.
 #corpus_Dem = 'politics/Dem'
 #corpus_Rep = 'politics/Rep'
 
-# Republican Party
+# URLs representing each party (including platforms)
 RepURLs = ["http://whitehouse12.com/republican-party-platform/","http://gop.com/our-party/","http://en.wikipedia.org/wiki/Republican_Party_(United_States)"]
-
-# Democrat Party
-#DemURLs = ["http://en.wikipedia.org/wiki/Democratic_Party_(United_States)"]
 DemURLs = ["http://www.barackobama.com/record/economy","http://www.barackobama.com/record/education","http://www.barackobama.com/record/environment","http://www.barackobama.com/record/equal-rights","http://www.barackobama.com/record/health-care","http://www.barackobama.com/record/national-security","http://www.barackobama.com/record/taxes","http://www.barackobama.com/record/womens-health","http://en.wikipedia.org/wiki/Democratic_Party_(United_States)"]
-
-# Libertarian Party
 lpURLs = ["http://www.lp.org/platform","http://www.lp.org/candidates/elected-officials","http://en.wikipedia.org/wiki/Libertarian_Party_(United_States)"]
-
-# Green Party
 GreenURLs = ["http://www.greenparty.org/Platform.php","http://www.gp.org/committees/platform/2012/Platform-2012.html","http://en.wikipedia.org/wiki/Green_Party_of_the_United_States"]
-
-# Constitution Party
 ConURLs = ["http://www.constitutionparty.com/party_platform.php","http://www.americanconstitutionparty.com/PlatformDetail.html","http://en.wikipedia.org/wiki/Constitution_Party_(United_States)"]
 
+# Twitter account names for party leaders
+# Could also score accounts by # of lists with party name as title
+RepNames=["MittRomney", "Senate_GOPs","CRNC","RepublicanGOP","yrnf","GOP","Reince","NRCC","WashingtonSRC"]
+DemNames=["TheDemocrats", "BarackObama","HouseDemocrats","SenateDems","youngdems","NancyPelosi","donnabrazile","DWStweets","dccc","dscc","CollegeDems"]
+LibNames=["RepRonPaul","RonPaul","LPNational","GovGaryJohnson","GrowTheLP","lpnevada","LPTexas","libertarianism","reason"]
+GPNames=["TheGreenParty","GPUS","GreenPartyWatch","GeorgesLaraque","marniemix"]
+ConNames=["cnstitutionprty","constitutionmd","Constitutionus","cp_texas","ConstitutionMO"]
 
+
+
+### Split into train & test groups
+testNames = []
+testNames.append(RepNames.pop(randrange(0,len(RepNames))))
+testNames.append(DemNames.pop(randrange(0,len(DemNames))))
+testNames.append(LibNames.pop(randrange(0,len(LibNames))))
+testNames.append(GPNames.pop(randrange(0,len(GPNames))))
+testNames.append(ConNames.pop(randrange(0,len(ConNames))))
+
+
+
+### create lists of words for each party
 wordlists = []
 listnames = []
 #wordlists.append(parseCorpus(corpus_Dem))
-wordlists.append(parseURLs(DemURLs))
+#wordlists.append(parseURLs(DemURLs))
+wordlists.append(parseTweets(DemNames))
 listnames.append("Dem")
 #wordlists.append(parseCorpus(corpus_Rep))
-wordlists.append(parseURLs(RepURLs))
+#wordlists.append(parseURLs(RepURLs))
+wordlists.append(parseTweets(RepNames))
 listnames.append("Rep")
-wordlists.append(parseURLs(lpURLs))
+#wordlists.append(parseURLs(lpURLs))
+wordlists.append(parseTweets(LibNames))
 listnames.append("LP")
-wordlists.append(parseURLs(GreenURLs))
+#wordlists.append(parseURLs(GreenURLs))
+wordlists.append(parseTweets(GPNames))
 listnames.append("Green")
-wordlists.append(parseURLs(ConURLs))
+#wordlists.append(parseURLs(ConURLs))
+wordlists.append(parseTweets(ConNames))
 listnames.append("Const")
 
-# could make wordlists from tweets of party leaders
+
+
 
 # Input list of wordlists, return list of "score" dictionaries
 TotalDist = FreqDist([word for sublist in wordlists for word in sublist])
@@ -103,23 +155,23 @@ for wordlist in wordlists:
     wordRats.append(wordRat)
 
 
-# Set up connection
-conn = pymysql.connect(host='smallsocialsystems.com', port=3306, user='smalls7_groupid', passwd='letspublish', db='smalls7_identity')
-cur = conn.cursor()
 
-
-# Get data for each user (process each user separately)
-cur.execute("SELECT DISTINCT(survey.Id), party FROM survey JOIN tweet ON survey.Id = tweet.UserId WHERE party IS NOT NULL")
-users = cur.fetchall()
-
-# print header
+# print header for output file
 print "Id Party ", " ".join(listnames), " ".join([w + "-we" for w in listnames])
 
-for user in users:
-    catScores = [0] * 2*len(listnames)
-    cur.execute("SELECT TweetText FROM tweet WHERE UserId=%s", user[0])
-    tweets = cur.fetchall()
 
+
+
+
+### Go through test user names & get scores for each party
+for user in testNames:
+    catScores = [0] * 2*len(listnames)
+    # get tweets of target user
+    tweets1= t.statuses.user_timeline(id = user, count = 200)
+    tweets2= t.statuses.user_timeline(id = user, count = 200, max_id = tweets1[len(tweets1)-1]['id'])
+    tweets3= t.statuses.user_timeline(id = user, count = 200, max_id = tweets2[len(tweets2)-1]['id'])
+    tweets= tweets1 + tweets2 + tweets3
+    
     tweetText = ""
     tweetWordCount = 0
     weTweetWordCount = 0
@@ -155,12 +207,9 @@ for user in users:
 
 #for ID in IDs:
     # Get tweets of participants' followers
-#    cur.execute("SELECT TwitterAccountParentId, TweetText FROM tweet JOIN relationship ON tweet.Id=relationship.TwitterAccountNodeId WHERE tweet.Id=%s", ID)
-#    friendtweets = cur.fetchall()
 
     ### Create dataset for predicting political identity ###
 
-# Process responses to survey into factors
 
 # Create dictionary of words relevant to political identity (to use for word counting in tweets)
 
