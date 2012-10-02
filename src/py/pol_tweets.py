@@ -26,6 +26,7 @@ FullList=[{'party':'dem', 'names': DemNames}, {'party':'rep', 'names': RepNames}
 
 
 for parties in FullList:
+ 
     f=open(parties['party'] + '.txt', 'a')
 
     for names in parties['names']:
@@ -56,11 +57,16 @@ for parties in FullList:
     clean_two = re.sub(' n ', '', clean_two)
     clean_two = re.sub('n(?P<beg>[A-Z])', '\g<beg>', clean_two)
     clean_two = clean_two.lower()
+    
+    
+
+    vars()[parties['party']]=[clean_two] #Makes a list which can be input #for Pol_Distribution. There will be 5 of these- each bearing the #name of the political affiliation used in the dictionary. Right now #there are only 3.
 
 
-    f.write(clean_two) 
+    f.write(clean_two)
 
     f.close()
+
 
 
 
