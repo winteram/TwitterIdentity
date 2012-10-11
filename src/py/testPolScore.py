@@ -92,7 +92,7 @@ def parseTweets(nameList):
         #clean_two = re.sub('n(?P<beg>[A-Z])', '\g<beg>', clean_two)
         clean_two = clean_two.lower()
 
-        return [w for w in word_tokenize(x)]
+        return [w for w in word_tokenize(clean_two)]
 
 
 
@@ -217,7 +217,7 @@ for user in testNames:
         
         #Note: with the UTF8 encoding a lot of this reg-expression cleanup is not necessary. 
         
-        tweetText = re.sub('[^a-zA-Z ]', '', tweetText)
+        tweetText = re.sub('[^a-zA-Z #]', '', tweetText)
         tweetText = re.sub('(?P<endword>[a-z]+)(?P<begword>[A-Z])', '\g<endword> \g<begword>', tweetText)
         tweetText = tweetText.lower()
         #Note I think we should preserve case sensitivity because things like "FED" vs "fed", "US" vs "us". However, this might get captured better when we use n-grams
