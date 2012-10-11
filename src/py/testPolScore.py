@@ -7,6 +7,7 @@ from nltk import *
 from nltk.corpus import PlaintextCorpusReader
 from nltk.corpus import stopwords
 from nltk.collocations import *
+from numpy import*
 
 wewords = ["we","us","our","ours","ourselves"]
 bigram_measures = BigramAssocMeasures()
@@ -75,23 +76,32 @@ def parseTweets(nameList):
         # combine
         x = ""
         for i in range(len(tweets)):
-            x = x + " " + tweets[i]['text']
+            x = x + " " + tweets[i]['text'].encode('utf8')
         
         ## TODO: pull out URLs first and parse their text?
         # takes everything but alpha characters and hashtags from the string
-        clean_two = re.sub('[^a-zA-Z #]', '', x) 
+        clean_two = re.sub('[^a-zA-Z #]', '', x)
 
         ## TODO:  This is actually the encoding of the string
         # this leaves u's at the beginning of things, so we need pull these out. 
-        clean_two = re.sub('u(?P<beg>[A-Z])', '\g<beg>', clean_two)
+        #clean_two = re.sub('u(?P<beg>[A-Z])', '\g<beg>', clean_two)
 
         ## TODO: Probably these are line endings?  
         # there are still also n's, those should be removed.
-        clean_two = re.sub(' n ', '', clean_two)
-        clean_two = re.sub('n(?P<beg>[A-Z])', '\g<beg>', clean_two)
+        #clean_two = re.sub(' n ', '', clean_two)
+        #clean_two = re.sub('n(?P<beg>[A-Z])', '\g<beg>', clean_two)
         clean_two = clean_two.lower()
 
-        return [w for w in word_tokenize(clean_two)]
+        return [w for w in word_tokenize(x)]
+
+
+
+def cosine_distance(u, v):
+    """
+        Returns the cosine of the angle between vectors v and u. This is equal to
+        u.v / |u||v|.
+        """
+    return numpy.dot(u, v) / (math.sqrt(numpy.dot(u, u)) * math.sqrt(numpy.dot(v, v)))
 
 
 
@@ -118,10 +128,10 @@ ConNames=["cnstitutionprty","constitutionmd","Constitutionus","cp_texas","Consti
 
 
 
-### Split into train & test groups
+### Split into train & test groups. This has been re-ordered to match the listnames order. 
 testNames = []
-testNames.append(RepNames.pop(randrange(0,len(RepNames))))
 testNames.append(DemNames.pop(randrange(0,len(DemNames))))
+testNames.append(RepNames.pop(randrange(0,len(RepNames))))
 testNames.append(LibNames.pop(randrange(0,len(LibNames))))
 testNames.append(GPNames.pop(randrange(0,len(GPNames))))
 testNames.append(ConNames.pop(randrange(0,len(ConNames))))
@@ -153,14 +163,30 @@ listnames.append("Const")
 
 
 # Input list of wordlists, return list of "score" dictionaries
+#TotalDist = FreqDist([word for sublist in wordlists for word in sublist])
+##wordRats = []
+    #for wordlist in wordlists:
+    #wordDist = FreqDist(wordlist)
+    #wordRat = {}
+    #for word in wordDist.keys():
+    #   wordRat[word] = wordDist.freq(word) / TotalDist.freq(word)
+#wordRats.append(wordRat)
+
 TotalDist = FreqDist([word for sublist in wordlists for word in sublist])
 wordRats = []
 for wordlist in wordlists:
     wordDist = FreqDist(wordlist)
-    wordRat = {}
-    for word in wordDist.keys():
-        wordRat[word] = wordDist.freq(word) / TotalDist.freq(word)
-    wordRats.append(wordRat)
+    
+    b=len(TotalDist.keys())*[0]
+    for i,word in enumerate(TotalDist.keys()):
+        #Create a series of vectors with the length of the unique set of all words (TotalDist.keys())
+        
+        b[i] = wordDist.freq(TotalDist.keys()[i]) / TotalDist.freq(word)
+    #in Here put alternate scoring algorithms then additionally vectors like wordRats1, 2, etc to append these to. 
+    wordRats.append(b)#This gives us vectors which will act as weights in the cosine similiarity measure used later
+
+#In this new program wordRats is not the end of the line- we still need to calculate cosine similarity- where should that go?
+
 
 
 
@@ -180,34 +206,63 @@ for user in testNames:
     tweetText = ""
     tweetWordCount = 0
     weTweetWordCount = 0
+    WeTweetSet=[] # This will be the vector that stores all tweets containing "we" words- it will be of length TotalDist for the dot product stuff.
+    WeTweetScore=[]
+    TweetScore=[]
+    
     for tweet in tweets:
         # clean tweet text & tokenize
-        tweetText = tweet["text"]
+        tweetText = tweet["text"].encode('utf8')
+        TweetSet=[] #This is the set of all tweets
+        
+        #Note: with the UTF8 encoding a lot of this reg-expression cleanup is not necessary. 
+        
         tweetText = re.sub('[^a-zA-Z ]', '', tweetText)
         tweetText = re.sub('(?P<endword>[a-z]+)(?P<begword>[A-Z])', '\g<endword> \g<begword>', tweetText)
         tweetText = tweetText.lower()
+        #Note I think we should preserve case sensitivity because things like "FED" vs "fed", "US" vs "us". However, this might get captured better when we use n-grams
+        
         tweet_wordlist = word_tokenize(tweetText)
-        tweetWordCount += len(tweet_wordlist)
-        weTweetWC = len(list(set(tweet_wordlist) & set(wewords)))
+        #tweetWordCount += len(tweet_wordlist) This is unneccessary
+        weTweetWC = len(list(set(tweet_wordlist) & set(wewords))) 
         # see if tweet has "we" word(s) in it
+        TweetSet.append(tweet_wordlist)
         has_we = False
         if weTweetWC>0:
             has_we = True
-            weTweetWordCount += len(tweet_wordlist)
-        # go through each word in tweet
-        for word in tweet_wordlist:
-            # for each category
-            for idx, wordRat in enumerate(wordRats):
-                # if word in tweet is in dictionary of category, add score
-                if word in wordRat:
-                    catScores[idx] += wordRat[word]
-                    # if word in tweet is in dictionary of category AND we word, add score
-                    if has_we:
-                        catScores[idx+len(listnames)] += wordRat[word]
+            WeTweetSet.append(tweet_wordlist) #put each tweet in the list of we_tweets
+    WeFreq=FreqDist([word for sublist in WeTweetSet for word in sublist]) #Make a term frequency distribution for we containing tweets
+    AllFreq=FreqDist([word for sublist in TweetSet for word in sublist]) # Freq dist for all tweets
 
-    catScores[:len(listnames)] = [str(x / tweetWordCount) for x in catScores[:len(listnames)]]
-    catScores[len(listnames):] = [str(x / weTweetWordCount) if weTweetWordCount > 0 else "0" for x in catScores[len(listnames):]]
-    print user, " ".join(catScores)
+    b=len(TotalDist.keys())*[0]
+    c=len(TotalDist.keys())*[0]
+
+    for i,word in enumerate(TotalDist.keys()):
+    
+        b[i] = WeFreq[word]
+        c[i] = AllFreq[word]
+    for i in range(len(listnames)):
+
+        we_temp=cosine_distance(b,wordRats[i]) # 2nd term will be: wordRats[i]
+        all_temp=cosine_distance(c,wordRats[i])
+    
+        TweetScore.append(all_temp)
+        WeTweetScore.append(we_temp)
+    
+     
+    TweetScore[:len(listnames)] = [str(x) for x in TweetScore[:len(listnames)]]
+    WeTweetScore[:len(listnames)] = [str(x) for x in WeTweetScore[:len(listnames)]]
+    
+    
+    
+    
+    
+    
+    print user, " ".join(TweetScore)
+    print user, " ".join(WeTweetScore)
+
+
+
 
 
 #for ID in IDs:
