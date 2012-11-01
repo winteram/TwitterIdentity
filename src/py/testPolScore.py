@@ -66,6 +66,7 @@ def parseTweets(nameList):
     # verify the input is a list
     assert type(nameList) == type(list())
     tweetText = ""
+    x = ""
     # get tweets for each twitter account in list
     for name in nameList:        
         tweets1= t.statuses.user_timeline(id = name, count = 200)
@@ -74,7 +75,7 @@ def parseTweets(nameList):
         tweets= tweets1 + tweets2 + tweets3
     
         # combine
-        x = ""
+        
         for i in range(len(tweets)):
             x = x + " " + tweets[i]['text'].encode('utf8')
         
@@ -92,7 +93,7 @@ def parseTweets(nameList):
         #clean_two = re.sub('n(?P<beg>[A-Z])', '\g<beg>', clean_two)
         clean_two = clean_two.lower()
 
-        return [w for w in word_tokenize(clean_two)]
+    return [w for w in word_tokenize(clean_two)]
 
 
 
@@ -120,21 +121,20 @@ ConURLs = ["http://www.constitutionparty.com/party_platform.php","http://www.ame
 
 # Twitter account names for party leaders
 # Could also score accounts by # of lists with party name as title
-RepNames=["MittRomney", "Senate_GOPs","CRNC","RepublicanGOP","yrnf","GOP","Reince","NRCC","WashingtonSRC"]
-DemNames=["TheDemocrats", "BarackObama","HouseDemocrats","SenateDems","youngdems","NancyPelosi","donnabrazile","DWStweets","dccc","dscc","CollegeDems"]
-LibNames=["RepRonPaul","RonPaul","LPNational","GovGaryJohnson","GrowTheLP","lpnevada","LPTexas","libertarianism","reason"]
-GPNames=["TheGreenParty","GPUS","GreenPartyWatch","GeorgesLaraque","marniemix"]
-ConNames=["cnstitutionprty","constitutionmd","Constitutionus","cp_texas","ConstitutionMO"]
+
+RepNames=["MittRomney", "Senate_GOPs","CRNC","RepublicanGOP","yrnf","GOP","Reince","NRCC","WashingtonSRC","SenRandPaul","SenatorCollins","SenJohnMcCain","johnboehner","ohiogop","newtgingrich"]
+DemNames=["TheDemocrats","BarackObama","HouseDemocrats","SenateDems","youngdems","NancyPelosi","donnabrazile","DWStweets","dccc","dscc","CollegeDems","SenatorReid","SenatorDurbin","RepJimMcDermott","PattyMurray","SenatorCardin","ChrisCoons","SenatorMenendez"]
+
+
 
 
 
 ### Split into train & test groups. This has been re-ordered to match the listnames order. 
 testNames = []
-testNames.append(DemNames.pop(randrange(0,len(DemNames))))
-testNames.append(RepNames.pop(randrange(0,len(RepNames))))
-testNames.append(LibNames.pop(randrange(0,len(LibNames))))
-testNames.append(GPNames.pop(randrange(0,len(GPNames))))
-testNames.append(ConNames.pop(randrange(0,len(ConNames))))
+
+for i in range(3):
+    testNames.append(DemNames.pop(randrange(0,len(DemNames))))
+    testNames.append(RepNames.pop(randrange(0,len(RepNames))))
 
 
 
@@ -150,14 +150,6 @@ listnames.append("Dem")
 wordlists.append(parseTweets(RepNames))
 listnames.append("Rep")
 #wordlists.append(parseURLs(lpURLs))
-wordlists.append(parseTweets(LibNames))
-listnames.append("LP")
-#wordlists.append(parseURLs(GreenURLs))
-wordlists.append(parseTweets(GPNames))
-listnames.append("Green")
-#wordlists.append(parseURLs(ConURLs))
-wordlists.append(parseTweets(ConNames))
-listnames.append("Const")
 
 
 
@@ -209,11 +201,12 @@ for user in testNames:
     WeTweetSet=[] # This will be the vector that stores all tweets containing "we" words- it will be of length TotalDist for the dot product stuff.
     WeTweetScore=[]
     TweetScore=[]
+    TweetSet=[] #This is the set of all tweets
     
     for tweet in tweets:
         # clean tweet text & tokenize
         tweetText = tweet["text"].encode('utf8')
-        TweetSet=[] #This is the set of all tweets
+        
         
         #Note: with the UTF8 encoding a lot of this reg-expression cleanup is not necessary. 
         
