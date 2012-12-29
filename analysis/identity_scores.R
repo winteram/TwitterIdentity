@@ -3,7 +3,7 @@
 #Note: I should source the file that gets the data frame "data"
 
 source("FirstRMySQL.R")
-
+library(psych) # This requires the psych package
 data$compNat=rep(NA,nrow(data)) # Vector for composite score for Nationality questions
 data$compPol=rep(NA,nrow(data))# Composite score for politics
 
@@ -123,16 +123,84 @@ for(i in 1:nrow(data))
     data$homogeneityNat[i]=sum(tempNathomo)
     
   }
-     
-
-     
-
-  
- 
-  
-  
-  
-  
+       
 }
+
+
+#show distribution of select scores. 
+
+
+#Fancier-using ggplot, graphs stored to file called "fig"
+
+# National Idenity Composite score distribution
+
+ggplot(data, aes(x=data$compNat,y=..density..)) + 
+  geom_histogram(binwidth=1,color="gray60",fill="white") + 
+  geom_density() + 
+  labs(x="Composite National Identity",y="Density") +
+  opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
+ggsave("/Users/asaf/Desktop/R/fig/Composite_Nationality.pdf",width=5,height=5)
+
+# Political Identity Composite Score distribution
+
+ggplot(data, aes(x=data$compPol,y=..density..)) + 
+  geom_histogram(binwidth=1,color="gray60",fill="white") + 
+  geom_density() + 
+  labs(x="Composite Political Identity",y="Density") +
+  opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
+ggsave("/Users/asaf/Desktop/R/fig/Composite_Political_Id.pdf",width=5,height=5)
+
+# Political Solidarity Factor Distribution
+
+ggplot(data, aes(x=data$solidarityPol,y=..density..)) + 
+  geom_histogram(binwidth=1,color="gray60",fill="white") + 
+  geom_density() + 
+  labs(x="Solidarity with Party",y="Density") +
+  opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
+ggsave("/Users/asaf/Desktop/R/fig/Solidarity_Political_Id.pdf",width=5,height=5)
+
+# Satisfaction factor for politics
+
+ggplot(data, aes(x=data$satisfactionPol,y=..density..)) + 
+  geom_histogram(binwidth=1,color="gray60",fill="white") + 
+  geom_density() + 
+  labs(x="Satisfaction with Political ID",y="Density") +
+  opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
+ggsave("/Users/asaf/Desktop/R/fig/Satisfaction_Political_Id.pdf",width=5,height=5)
+
+# Centrality Factor for Politics
+
+ggplot(data, aes(x=data$centralityPol,y=..density..)) + 
+  geom_histogram(binwidth=1,color="gray60",fill="white") + 
+  geom_density() + 
+  labs(x="Centrality of Political ID",y="Density") +
+  opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
+ggsave("/Users/asaf/Desktop/R/fig/Centrality_Political_Id.pdf",width=5,height=5)
+
+# Self Stereotyping for Politics
+
+ggplot(data, aes(x=data$selfstereotypePol,y=..density..)) + 
+  geom_histogram(binwidth=1,color="gray60",fill="white") + 
+  geom_density() + 
+  labs(x="Self-Stereotyping of Party",y="Density") +
+  opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
+ggsave("/Users/asaf/Desktop/R/fig/Self-Stereotyp_Political_Id.pdf",width=5,height=5)
+
+# ingroup homogeneity for politics
+
+ggplot(data, aes(x=data$homogeneityPol,y=..density..)) + 
+  geom_histogram(binwidth=1,color="gray60",fill="white") + 
+  geom_density() + 
+  labs(x="Perceived Homogeneity of Party",y="Density") +
+  opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
+ggsave("/Users/asaf/Desktop/R/fig/Homogeneity_Political_Id.pdf",width=5,height=5)
+
+
+# Subsetting to get a more fine-grained view of things:
+
+#IndianId=data[which(nationality=="Indian"),"compNat"]
+
+#RepubNatId=data[which(party=="republican"),"compNat"]
+
 
 
