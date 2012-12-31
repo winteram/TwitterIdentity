@@ -5,12 +5,14 @@ library(RMySQL)
 library(ggplot2)
 theme_set(theme_bw())
 
-con <- dbConnect(MySQL(),
-                 user="smalls7_groupid", password="letspublish",
-                 dbname="smalls7_identity", host="smallsocialsystems.com")
-on.exit(dbDisconnect(con))
+#con <- dbConnect(MySQL(),
+#                 user="smalls7_groupid", password="letspublish",
+#                 dbname="smalls7_identity", host="smallsocialsystems.com")
+#on.exit(dbDisconnect(con))
+#
+#demogs <- dbGetQuery(con, "select Id, gender, yob, country, ethnicity, income, edu, party, nationality from survey")
 
-demogs <- dbGetQuery(con, "select Id, gender, yob, country, ethnicity, income, edu, party, nationality from survey")
+demogs <- subset(data, select=c(Id, gender, yob, country, ethnicity, income, edu, party, nationality))
 
 # Percent male and female respondents
 cat("Percent male: ",100*round(nrow(subset(demogs, gender=="M"))/nrow(subset(demogs, gender=="M" | gender=="F")),4))
@@ -25,7 +27,7 @@ ggplot(age, aes(x=yob,y=..density..)) +
   geom_density() + 
   labs(x="Age",y="Density") +
   opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
-ggsave("../fig/survey_age.pdf",width=5,height=5)
+ggsave("fig/survey_age.pdf",width=5,height=5)
 
 # education distribution
 education <- subset(demogs, !is.na(edu) & edu!="", select=edu)
@@ -36,7 +38,7 @@ ggplot(education, aes(x=edu)) +
   labs(x="Education",y="Count") + 
   coord_flip() +
   opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
-ggsave("../fig/survey_edu.pdf",width=5,height=5)
+ggsave("fig/survey_edu.pdf",width=5,height=5)
 
 # Country distribution
 country <- within(demogs, country <- factor(country, levels=names(sort(table(country)))))
@@ -45,7 +47,7 @@ ggplot(country, aes(x=country)) +
   labs(x="Country",y="Count") + 
   coord_flip() +
   opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
-ggsave("../fig/survey_country.pdf",width=5,height=5)
+ggsave("fig/survey_country.pdf",width=5,height=10)
 
 # Nationality distribution
 nation <- subset(demogs, !is.na(nationality),select="nationality")
@@ -64,7 +66,7 @@ ggplot(nation, aes(x=nationality)) +
   labs(x="Nationality",y="Count") + 
   coord_flip() +
   opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
-ggsave("../fig/survey_nation.pdf",width=5,height=10)
+ggsave("fig/survey_nation.pdf",width=5,height=10)
 
 # party distribution
 party <- subset(demogs, !is.na(party) & party!="", select=party)
@@ -76,5 +78,5 @@ ggplot(party, aes(x=party,fill=party)) +
   labs(x="Party",y="Count") + 
   coord_flip() +
   opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
-ggsave("../fig/survey_party.pdf",width=5,height=5)
+ggsave("fig/survey_party.pdf",width=5,height=5)
 
