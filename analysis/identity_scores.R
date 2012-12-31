@@ -3,6 +3,7 @@
 #Note: I should source the file that gets the data frame "data"
 
 source("FirstRMySQL.R")
+library(ggplot2)
 library(psych) # This requires the psych package
 data$compNat=rep(NA,nrow(data)) # Vector for composite score for Nationality questions
 data$compPol=rep(NA,nrow(data))# Composite score for politics
@@ -62,7 +63,7 @@ for(i in 1:nrow(data))
   }
   # Note, there is a way more efficient way to do this where I could have assigned variables through a loop and computed them- 
   # Or had the variables pre-assigned in sets which I could loop through in parallel. but I'm just settling
-  # on this method for now. Next time...
+  # on this method for now. Next time..
   
   if(!(NA %in% tempPolsolid))
   {
@@ -139,7 +140,7 @@ ggplot(data, aes(x=data$compNat,y=..density..)) +
   geom_density() + 
   labs(x="Composite National Identity",y="Density") +
   opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
-ggsave("/Users/asaf/Desktop/R/fig/Composite_Nationality.pdf",width=5,height=5)
+ggsave("fig/Composite_Nationality.pdf",width=5,height=5)
 
 # Political Identity Composite Score distribution
 
@@ -148,7 +149,7 @@ ggplot(data, aes(x=data$compPol,y=..density..)) +
   geom_density() + 
   labs(x="Composite Political Identity",y="Density") +
   opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
-ggsave("/Users/asaf/Desktop/R/fig/Composite_Political_Id.pdf",width=5,height=5)
+ggsave("fig/Composite_Political_Id.pdf",width=5,height=5)
 
 # Political Solidarity Factor Distribution
 
@@ -157,7 +158,7 @@ ggplot(data, aes(x=data$solidarityPol,y=..density..)) +
   geom_density() + 
   labs(x="Solidarity with Party",y="Density") +
   opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
-ggsave("/Users/asaf/Desktop/R/fig/Solidarity_Political_Id.pdf",width=5,height=5)
+ggsave("fig/Solidarity_Political_Id.pdf",width=5,height=5)
 
 # Satisfaction factor for politics
 
@@ -166,7 +167,7 @@ ggplot(data, aes(x=data$satisfactionPol,y=..density..)) +
   geom_density() + 
   labs(x="Satisfaction with Political ID",y="Density") +
   opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
-ggsave("/Users/asaf/Desktop/R/fig/Satisfaction_Political_Id.pdf",width=5,height=5)
+ggsave("fig/Satisfaction_Political_Id.pdf",width=5,height=5)
 
 # Centrality Factor for Politics
 
@@ -175,7 +176,7 @@ ggplot(data, aes(x=data$centralityPol,y=..density..)) +
   geom_density() + 
   labs(x="Centrality of Political ID",y="Density") +
   opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
-ggsave("/Users/asaf/Desktop/R/fig/Centrality_Political_Id.pdf",width=5,height=5)
+ggsave("fig/Centrality_Political_Id.pdf",width=5,height=5)
 
 # Self Stereotyping for Politics
 
@@ -184,7 +185,7 @@ ggplot(data, aes(x=data$selfstereotypePol,y=..density..)) +
   geom_density() + 
   labs(x="Self-Stereotyping of Party",y="Density") +
   opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
-ggsave("/Users/asaf/Desktop/R/fig/Self-Stereotyp_Political_Id.pdf",width=5,height=5)
+ggsave("fig/Self-Stereotyp_Political_Id.pdf",width=5,height=5)
 
 # ingroup homogeneity for politics
 
@@ -193,14 +194,86 @@ ggplot(data, aes(x=data$homogeneityPol,y=..density..)) +
   geom_density() + 
   labs(x="Perceived Homogeneity of Party",y="Density") +
   opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
-ggsave("/Users/asaf/Desktop/R/fig/Homogeneity_Political_Id.pdf",width=5,height=5)
+ggsave("fig/Homogeneity_Political_Id.pdf",width=5,height=5)
 
 
 # Subsetting to get a more fine-grained view of things:
 
-#IndianId=data[which(nationality=="Indian"),"compNat"]
+RepubNatId<-subset(data, !is.na(compNat) & party=="republican")
 
-#RepubNatId=data[which(party=="republican"),"compNat"]
+ggplot(RepubNatId, aes(x=RepubNatId$compNat,y=..density..)) + 
+  geom_histogram(binwidth=1,color="gray60",fill="white") + 
+  geom_density() + 
+  labs(x="National Identity for Republicans",y="Density") +
+  opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
+ggsave("fig/Republican_National_Id.pdf",width=5,height=5)
 
+#Graph for Democrat National Identity
+DemNatId<-subset(data, !is.na(compNat) & party=="democrat")
+
+ggplot(DemNatId, aes(x=DemNatId$compNat,y=..density..)) + 
+  geom_histogram(binwidth=1,color="gray60",fill="white") + 
+  geom_density() + 
+  labs(x="National Identity for Democrats",y="Density") +
+  opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
+ggsave("fig/Democrat_National_Id.pdf",width=5,height=5)
+
+#Distribution for Indian National Identity
+
+IndianNatId<-subset(data, !is.na(compNat) & nationality=="Indian",select="compNat")
+
+ggplot(IndianNatId, aes(x=IndianNatId$compNat,y=..density..)) + 
+  geom_histogram(binwidth=1,color="gray60",fill="white") + 
+  geom_density() + 
+  labs(x="National Identity for Indians",y="Density") +
+  opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
+ggsave("fig/Indian_National_Id.pdf",width=5,height=5)
+
+#Distribution for American National Identity
+
+AmericanNatId<-subset(data, !is.na(compNat) & nationality=="American",select="compNat")
+
+ggplot(AmericanNatId, aes(x=AmericanNatId$compNat,y=..density..)) + 
+  geom_histogram(binwidth=1,color="gray60",fill="white") + 
+  geom_density() + 
+  labs(x="National Identity for Americans",y="Density") +
+  opts(axis.title.x=theme_text(vjust=-0.2,size=14),axis.title.y=theme_text(vjust=0.2,angle=90,size=14))
+ggsave("fig/American_National_Id.pdf",width=5,height=5)
+
+
+#Some quick histograms for distributions of national identity factors- not saved in the fig file, but just in some console windows.
+
+hist(data$solidarityNat)
+hist(data$satisfactionNat)
+hist(data$homogeneityNat)
+hist(data$selfstereotypeNat)
+hist(data$centralityNat)
+
+#Histograms for National identity for Democrats
+
+hist(DemNatId$solidarityNat)
+hist(DemNatId$satisfactionNat)
+hist(DemNatId$homogeneityNat)
+hist(DemNatId$selfstereotypeNat)
+hist(DemNatId$centralityNat)
+
+#Histograms for National Identity for Republicans
+
+hist(RepubNatId$solidarityNat)
+hist(RepubNatId$satisfactionNat)
+hist(RepubNatId$homogeneityNat)
+hist(RepubNatId$selfstereotypeNat)
+hist(RepubNatId$centralityNat)
+
+cat("Skewness for the composite political identity distribution is",skew(data$compPol, na.rm=TRUE))
+cat("kurtosis for the the composite political identity distribution is. ", kurtosi(data$compPol, na.rm=TRUE))
+cat("These scores are in range of normality")
+
+
+
+cat("There appear to be significant differences in National identity among Democrats and Republican. Here is the output from a T-test :")
+print(t.test(DemNatId$compNat,RepubNatId$compNat))
+cat("There also appear to be differences among Indian's National Identity and Americans. Here is the T-test: ")
+print(t.test(AmericanNatId,IndianNatId))
 
 
