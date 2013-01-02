@@ -1,0 +1,56 @@
+Ways to do classification:
+
+TEXT FEATURES
+=============
+(unigram / bigram / trigram)
+(own tweets, friends' tweets, followers' tweets)
+(strength of tie?)
+(we tweets)
+
+1. Raw Deal
+Feature vectors are counts or relative frequencies of words that have counts over 2 in entire corpus
+
+2. LIWC categories
+Calculate frequencies in LIWC categories (150) as features
+
+3. Hashtags
+Feature vectors are counts or relative frequencies of hashtags that have counts over 2 in entire corpus
+
+4. URLs
+Feature vectors are counts or relative frequencies of URLs / domain that have counts over 2 in entire corpus
+
+5. High Frequency Raw deal
+Feature vectors are counts or relative frequencies of words that have counts over 1000 (?) in entire corpus
+
+
+EXTERNAL CORPUS FEATURES
+========================
+6. Cosine frequencies with different parties
+Feature vector is cosine similarity with each party (length = 5)
+
+
+NETWORK FEATURES
+================
+(strength of tie?)
+* will have to crawl all users if verified using multiple keys
+
+7. Network ties to verified entities
+Feature vector is binary vector of length (all verified entities in database) representing direct connections to entities
+
+8. Network ties to verified entities
+Feature vector is vector of length (all verified entities in database) representing count of indirect connections to entities
+
+9. Network ties to known entities
+Feature vector is binary vector of length (pre-selected entities) representing direct connections to entities
+
+10. Network ties to known entities
+Feature vector is vector of length (pre-selected entities) representing count of indirect connections to entities
+
+
+
+TO DO:
+
+- Degree distributions
+- Go through own identities and identify people who didn't understand the question
+- Get tweets of users from database, do cosine similarity test
+- Start coding to generate feature vectors for 1-6 (above)

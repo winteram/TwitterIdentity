@@ -11,9 +11,9 @@ con <- dbConnect(m,
                  dbname="smalls7_identity", host="smallsocialsystems.com")
 
 profile <- dbGetQuery(con, "select * from profile")
-outdegrees.crawled <- dbGetQuery(con, "select survey.Id, count(*) from survey join relationship on survey.Id=relationship.TwitterAccountParentId group by survey.Id")
-indegrees.crawled <- dbGetQuery(con, "select survey.Id, count(*) from survey join relationship on survey.Id=relationship.TwitterAccountNodeId group by survey.Id")
-tweets.crawled <- dbGetQuery(con, "select survey.Id, count(*) from survey join tweet on survey.Id=tweet.UserId group by survey.Id")
+outdegrees.crawled <- dbGetQuery(con, "select survey.Id, count(tweet.Id) from survey join relationship on survey.Id=relationship.TwitterAccountParentId group by survey.Id")
+indegrees.crawled <- dbGetQuery(con, "select survey.Id, count(tweet.Id) from survey join relationship on survey.Id=relationship.TwitterAccountNodeId group by survey.Id")
+tweets.crawled <- dbGetQuery(con, "select survey.Id, count(tweet.Id) from survey join tweet on survey.Id=tweet.UserId group by survey.Id")
 names(outdegrees.crawled) <- c("Id","out.crawl")
 names(indegrees.crawled) <- c("Id","in.crawl")
 names(tweets.crawled) <- c("Id","tweets.crawl")
