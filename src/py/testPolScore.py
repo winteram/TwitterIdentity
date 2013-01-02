@@ -187,6 +187,8 @@ print "Id Party ", " ".join(listnames), " ".join([w + "-we" for w in listnames])
 
 
 ### Go through test user names & get scores for each party
+# SELECT DISTINCT(survey.Id) FROM survey JOIN tweet ON survey.Id=tweet.UserId;
+
 for user in testNames:
     catScores = [0] * 2*len(listnames)
     # get tweets of target user
@@ -194,7 +196,8 @@ for user in testNames:
     tweets2= t.statuses.user_timeline(id = user, count = 200, max_id = tweets1[len(tweets1)-1]['id'])
     tweets3= t.statuses.user_timeline(id = user, count = 200, max_id = tweets2[len(tweets2)-1]['id'])
     tweets= tweets1 + tweets2 + tweets3
-    
+	# SELECT TweetText FROM tweet WHERE UserId= [survey.Id];
+
     tweetText = ""
     tweetWordCount = 0
     weTweetWordCount = 0
