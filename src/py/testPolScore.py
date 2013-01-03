@@ -196,7 +196,7 @@ for user in testNames:
     tweets2= t.statuses.user_timeline(id = user, count = 200, max_id = tweets1[len(tweets1)-1]['id'])
     tweets3= t.statuses.user_timeline(id = user, count = 200, max_id = tweets2[len(tweets2)-1]['id'])
     tweets= tweets1 + tweets2 + tweets3
-	# SELECT TweetText FROM tweet WHERE UserId= [survey.Id];
+	# "SELECT TweetText FROM tweet WHERE UserId='"+user+"';"
 
     tweetText = ""
     tweetWordCount = 0
