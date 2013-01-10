@@ -122,7 +122,7 @@ ConURLs = ["http://www.constitutionparty.com/party_platform.php","http://www.ame
 # Twitter account names for party leaders
 # Could also score accounts by # of lists with party name as title
 
-RepNames=["MittRomney", "Senate_GOPs","CRNC","RepublicanGOP","yrnf","GOP","Reince","NRCC","WashingtonSRC","SenRandPaul","SenatorCollins","SenJohnMcCain","johnboehner","ohiogop","newtgingrich"]
+RepNames=["MittRomney", "Senate_GOPs","CRNC","RepublicanGOP","yrnf","GOP","Reince","NRCC","WashingtonSRC","SenRandPaul","SenatorCollins","SenJohnMcCain","johnboehner","ohiogop","newtgingrich","SenBobCorker", "RoyBlunt","SenatorKirk"]
 DemNames=["TheDemocrats","BarackObama","HouseDemocrats","SenateDems","youngdems","NancyPelosi","donnabrazile","DWStweets","dccc","dscc","CollegeDems","SenatorReid","SenatorDurbin","RepJimMcDermott","PattyMurray","SenatorCardin","ChrisCoons","SenatorMenendez"]
 
 
@@ -173,8 +173,14 @@ for wordlist in wordlists:
     for i,word in enumerate(TotalDist.keys()):
         #Create a series of vectors with the length of the unique set of all words (TotalDist.keys())
         
-        b[i] = wordDist.freq(TotalDist.keys()[i]) / TotalDist.freq(word)
-    #in Here put alternate scoring algorithms then additionally vectors like wordRats1, 2, etc to append these to. 
+        b[i] = wordDist.freq(TotalDist.keys()[i]) / TotalDist.freq(word) #This is taking the relative frequency words in the political corpi (each of the two) and dividing by the relative
+    #frequency in the entire corpus- kind of wonky- I'm going to add some other measures.
+    
+        w[i] = wordDist.freq(TotalDist.keys()[i]) #Thi is just relative frequency- within a party
+    
+    
+    
+    #in Here put alternate scoring algorithms then additionally vectors like wordRats1, 2, etc to append these to.
     wordRats.append(b)#This gives us vectors which will act as weights in the cosine similiarity measure used later
 
 #In this new program wordRats is not the end of the line- we still need to calculate cosine similarity- where should that go?
@@ -236,7 +242,7 @@ for user in testNames:
     for i,word in enumerate(TotalDist.keys()):
     
         b[i] = WeFreq[word]
-        c[i] = AllFreq[word]
+        c[i] = AllFreq.freq[word]  # Now this is relative frequency
     for i in range(len(listnames)):
 
         we_temp=cosine_distance(b,wordRats[i]) # 2nd term will be: wordRats[i]
