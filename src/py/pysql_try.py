@@ -16,7 +16,7 @@ cur = conn.cursor()
 
 # Count of survey respondents today
 cur.execute("SELECT COUNT(Id) FROM survey WHERE Date(ended) = Date(NOW())")
-num_today = cur.fetchall()
+
 
 # Comments on survey today
 cur.execute("SELECT Id, comments FROM survey WHERE Date(ended) = Date(NOW())")
