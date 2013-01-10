@@ -7,10 +7,10 @@ TEXT FEATURES
 (strength of tie?)
 (we tweets)
 
-1. Raw Deal
+(X)1. Raw Deal
 Feature vectors are counts or relative frequencies of words that have counts over 2 in entire corpus
 
-2. LIWC categories
+(?)2. LIWC categories
 Calculate frequencies in LIWC categories (150) as features
 
 3. Hashtags
@@ -34,23 +34,25 @@ NETWORK FEATURES
 (strength of tie?)
 * will have to crawl all users if verified using multiple keys
 
-7. Network ties to verified entities
+(?)7. Network ties to verified entities
 Feature vector is binary vector of length (all verified entities in database) representing direct connections to entities
 
-8. Network ties to verified entities
+(?)8. Network ties to verified entities
 Feature vector is vector of length (all verified entities in database) representing count of indirect connections to entities
 
-9. Network ties to known entities
+(?)9. Network ties to known entities
 Feature vector is binary vector of length (pre-selected entities) representing direct connections to entities
 
-10. Network ties to known entities
+(?)10. Network ties to known entities
 Feature vector is vector of length (pre-selected entities) representing count of indirect connections to entities
 
 
 
 TO DO:
 
-- Degree distributions
-- Go through own identities and identify people who didn't understand the question
+X Degree distributions
+\ Go through own identities and identify people who didn't understand the question
 - Get tweets of users from database, do cosine similarity test
+- See if LIWC is cheap
+- Look at frequencies of hashtags & URLs
 - Start coding to generate feature vectors for 1-6 (above)
