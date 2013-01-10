@@ -1,0 +1,16 @@
+to do:
+
+- Create csv with party, strength of identification, and (2 or 5) party cosine similarities
+- See if LIWC is cheap
+- Look at frequencies of hashtags & URLs
+- compile frequencies of own group identities
+
+
+
+Fast own-group study:
+
+Find articles of relevance to some popular identities; see if prob(retweet) of identity is higher for users that claim that identity.
+
+E.g., tweet about gaming and see the propensity of gamers to retweet it relative to people who don't identify as gamers.
+
+Can either rewteet content posted by accounts that clearly fit in the group identity (manually coded), use the content with own tweet (i.e., not identified with original user), or search for novel content.
