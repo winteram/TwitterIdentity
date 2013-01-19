@@ -33,9 +33,6 @@ crawled <- subset(profile, !is.na(tweets.crawl), select=c("Id",
                                                             "Statuses_count",
                                                             "tweets.crawl"))
 
-own.forms <- subset(survey, !is.na(own_form1), select=c("Id","own_form1","own_form2","own_form3","own_form4","own_form5","own_form6"))
-write.csv(own.forms, "own_forms.csv")
-
 ggplot(profile, aes(x=in.crawl)) + geom_histogram(color="black", fill="white") + scale_x_log10()
 ggsave("fig/degree_friends_crawl.png")
 ggplot(profile, aes(x=Friends_count)) + geom_histogram(color="black", fill="white") + scale_x_log10()
@@ -52,3 +49,25 @@ ggsave("fig/degree_tweets.png")
 ggplot(profile, aes(x=Followers_count,y=out.crawl)) + geom_point()
 ggplot(profile, aes(x=Friends_count,y=in.crawl)) + geom_point()
 ggplot(profile, aes(x=Statuses_count,y=tweets.crawl)) + geom_point()
+
+own.forms <- subset(survey, !is.na(own_form1), select=c("Id","own_form1","own_form2","own_form3","own_form4","own_form5","own_form6"))
+write.csv(own.forms, "own_forms.csv")
+own1 <- subset(survey, !is.na(own_form1), select=c("Id","own_form1"))
+names(own1) <- c("Id","own_form")
+own3 <- subset(survey, !is.na(own_form3), select=c("Id","own_form3"))
+names(own3) <- c("Id","own_form")
+own5 <- subset(survey, !is.na(own_form5), select=c("Id","own_form5"))
+names(own5) <- c("Id","own_form")
+all.own <- rbind(own1,own3,own5)
+rm(own1,own3,own5)
+
+own.names <- as.vector(all.own$own_form)
+own.names <- tolower(own.names)
+own.names <- sort(own.names)
+
+own.freq <- table(own.names)
+own.freq <- sort(own.freq, decreasing = TRUE)
+own.freq <- as.data.frame(own.freq)
+write.csv(own.freq, "own_freq.csv")
+
+ggplot(subset(own.freq, own.freq>1), aes(x=own.freq)) + geom_histogram(color="black", fill="white")

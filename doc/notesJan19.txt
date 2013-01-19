@@ -1,0 +1,30 @@
+to do:
+
+- See if LIWC is cheap
+- Look at frequencies of hashtags & URLs
+
+
+
+Fast own-group study:
+
+Find articles of relevance to some popular identities; see if prob(retweet) of identity is higher for users that claim that identity.
+
+E.g., tweet about gaming and see the propensity of gamers to retweet it relative to people who don't identify as gamers.
+
+Can either rewteet content posted by accounts that clearly fit in the group identity (manually coded), use the content with own tweet (i.e., not identified with original user), or search for novel content.
+
+
+==========
+DM followers with tweet containing identity-relevant or irrelevant URL & mention of our account
+Ask if they are willing to tweet content
+Keep track of retweets
+==========
+
+- Create graph of respondents
+1. Get frequencies of identities of followers
+
+2. Write script for DMing followers with URLs
+* get most popular own-groups and match to URLs
+* target only followers who endorsed one of those groups
+* randomize if identity-relevant or -irrelevant for each user (& which irrelevant group to tweet)
+* use Twitter API to DM
