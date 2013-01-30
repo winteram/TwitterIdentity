@@ -1,0 +1,13 @@
+Features from "wefollow" paper:
+
+Top k terms that maximize conditional probability that you are Republican / Democrat
+
+
+Also "twellow" for self-categorizations
+
+"Latent attribution inference"
+(no one has looked at users that don't go out of their way to self-identify as political parties)
+
+Other identities: (Starbucks aficionados?)
+
+Create balanced data set of category and not-category, find top-k predictive terms
