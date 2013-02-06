@@ -1,9 +1,19 @@
 import base64
 
-oauth_token = "563118238-aVS68vGHeiWuoLCHIOudAPa6hmhnwIBsSkUfeBXt"
-oauth_secret = "M6h51pETL8CWkowEeyh6cb7gNpNTyBpl7fLJk45J4Y"
-CONSUMER_KEY = "PCMmY6ERIWJM9tgjIiQRwA"
-CONSUMER_SECRET = "YWeRQPivyjc9ZUSLQbaFj8enJviPZ8cw55mu3qSuJdk"
+def get_tokens(username):
+	tokens = {}
+	if username == 'GroupID_Project':
+		tokens['oauth_token'] = "625200110-OAgXw6qs3GlYxs4RKJLKv0S6SIMp9GzSAOpRXhmg"
+		tokens['oauth_secret'] = "TOVaGhvptuQGl0TW0pXVwFmmW3QSsZvG4O4REaIBenc"
+		tokens['CONSUMER_KEY'] = "IXChI2BWjZM7ZnjSdL5maw"
+		tokens['CONSUMER_SECRET'] = "Jm3yFMEZ5XM1f8szrgGuzWRPfwiRHqINtlo0Eia88"
+#	elif username == 'GroupIdentity':
+	else:
+		tokens['oauth_token'] = "563118238-aVS68vGHeiWuoLCHIOudAPa6hmhnwIBsSkUfeBXt"
+		tokens['oauth_secret'] = "M6h51pETL8CWkowEeyh6cb7gNpNTyBpl7fLJk45J4Y"
+		tokens['CONSUMER_KEY'] = "PCMmY6ERIWJM9tgjIiQRwA"
+		tokens['CONSUMER_SECRET'] = "YWeRQPivyjc9ZUSLQbaFj8enJviPZ8cw55mu3qSuJdk"
+	return tokens
 
 def encode_salt(sData, sKey='xJp2BpRUSE'):
 	sResult = ''
