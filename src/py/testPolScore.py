@@ -22,7 +22,7 @@ t = Twitter(auth=OAuth(oauth_token, oauth_secret, CONSUMER_KEY, CONSUMER_SECRET)
 
 
 # parse corpus
-def parseCorpus(corpusdir):
+def parseCorpus(corpusdir):    
     # Load the corpus into nltk and store files as separate file ID, which can be accessed by name.
     # to see which files are in the corpus use the command: corpus.fileids()
     corpus = PlaintextCorpusReader(corpusdir, '.*')
