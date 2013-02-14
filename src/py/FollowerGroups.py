@@ -1,5 +1,5 @@
 # NOTE!  uses python-twitter, not sixohsix's twitter package
-# 
+# Also, I modified python-twitter to work
 import pymysql
 import twitter
 import operator
