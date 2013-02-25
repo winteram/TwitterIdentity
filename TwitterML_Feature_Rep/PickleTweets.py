@@ -66,7 +66,7 @@ def parseTweets(nameList):
         
         ## TODO: pull out URLs first and parse their text?
         # takes everything but alpha characters and hashtags from the string
-        clean_two = re.sub('[^.a-zA-Z #:/-]', '', x)
+        clean_two = re.sub('[^.a-zA-Z1-9 #:/-]', '', x)
 
         ## TODO:  This is actually the encoding of the string
         # this leaves u's at the beginning of things, so we need pull these out. 
@@ -76,7 +76,7 @@ def parseTweets(nameList):
         # there are still also n's, those should be removed.
         #clean_two = re.sub(' n ', '', clean_two)
         #clean_two = re.sub('n(?P<beg>[A-Z])', '\g<beg>', clean_two)
-        clean_two = clean_two.lower()
+        #clean_two = clean_two.lower()
 
 
     return clean_two.split() #This puts the words in the string in a list. 
