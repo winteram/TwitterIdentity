@@ -112,7 +112,8 @@ Party_list=[DemTweetSet,RepTweetSet]
     
 for party in Party_list:
 
-    All_Tweets=""
+    All_Tweets="" # This will get a raw string of all tweets for each party
+    PartyUserWordlist=[] #This will collect all the tweets by users in a given party
 
 
     for users in party:
@@ -128,7 +129,7 @@ for party in Party_list:
             
             Tweets_by_user=Tweets_by_user + " " + tweetText
 
-        UserWordList.append(Tweets_by_user.split()) # This separates the tweets for each user in list form- we can later use these to filter things
+        PartyUserWordlist.append(Tweets_by_user.split()) # This separates the tweets for each user in list form- we can later use these to filter things
 
 
         All_Tweets=All_Tweets + " " + Tweets_by_user
@@ -136,6 +137,7 @@ for party in Party_list:
     #   Complete_Tweets=Complete_Tweets + " " + All_Tweets # This is just a giant string with everything everyone has tweeted.
 
     full_Wordlist.append(All_Tweets.split()) #This is a list with a list of all the words in the class
+    UserWordList.append(PartyUserWordlist)
 
 
 

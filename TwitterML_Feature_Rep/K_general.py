@@ -20,13 +20,14 @@ import cPickle
 import pymysql
 import operator
 from stemming.porter2 import stem
+import copy
 
 
 
 #start by unpickling DemWord Lists and RepList
 
 
-
+ 
 
 
 
@@ -105,9 +106,9 @@ G2FullURL=[word for words in G2URL_temp for word in words]
 
 #Now, we want to separate the hashtags terms
 
-G1Hash=[word for word in wordlists[0] if word.startswith('#')] #This will pull hashtag terms for Democrats
+G1Hash=[word.lower() for word in wordlists[0] if word.startswith('#')] #This will pull hashtag terms for Democrats
 
-G2Hash=[word for word in wordlists[1] if word.startswith('#')]
+G2Hash=[word.lower() for word in wordlists[1] if word.startswith('#')]
 
 
 # Now we want to exclude all hash tag terms and urls from our set of unigrams
@@ -120,6 +121,18 @@ G2Words=[word for word in wordlists[1] if word not in G2Hash + G2FullURL and len
 
 
 
+
+
+#clean these up.
+
+G1Words=[re.sub('[^a-zA-Z ]','',word).lower() for word in G1Words]
+G1Words=[re.sub('[^a-zA-Z ]','',word).lower() for word in G1Words]
+
+
+
+
+
+
 #Now we want a list of stems
 
 G1stem=[stem(word) for word in G1Words]
@@ -127,14 +140,23 @@ G2stem=[stem(word) for word in G2Words]
 
 #Create a list of bigrams and trigrams
 
-bigram_measures = BigramAssocMeasures()
-trigram_measures = TrigramAssocMeasures()
+#bigram_measures = BigramAssocMeasures()
+#trigram_measures = TrigramAssocMeasures()
 
-G1_trigrams = BigramCollocationFinder._ngram_freqdist(G1Words, 3)
+#G1_bigrams = BigramCollocationFinder._ngram_freqdist(G1Words,3)
+#G2_bigrams = BigramCollocationFinder._ngram_freqdist(G1Words,3)
+
+G1_bigrams=bigrams(G1Words)
+G2_bigrams=bigrams(G2Words)
+
+G1_trigrams=trigrams(G1Words)
+G2_trigrams=trigrams(G2Words)
 
 
 
-def generate_K_most(G1Corp, G2Corp, n): # G1Corp= The words, hashtags, urls or whatever raw set we have extracted associated with a class (G1), G2 is the other class, n= #minimum frequency a potential feature must appear within the corpus
+def generate_K_most(G1Corp, G2Corp, n): # G1Corp= The words, hashtags, urls or whatever raw set we have extracted associated with a class (G1), G2 is the other class, n= #minimum frequency a potential feature must appear within the corpus.
+    
+    #This will eventually need six parameters- 3 more for the WordsByUser versions
 
     G1Freq=FreqDist(G1Corp) 
     
@@ -185,37 +207,13 @@ def generate_K_most(G1Corp, G2Corp, n): # G1Corp= The words, hashtags, urls or w
     K_final1=[]
     K_final2=[]
 
-#This part filters out words that appear among less than j users
+#This part filters out words that appear among less than j users- In the WordsByUser- It would probably be smarter to split it up before importing- this way it's not contingent on knowing how many
+#users are present. Maybe make 
 
-    j=3
-    
-    for word in sorted_G1:
-        count=0
-        if len(K_final1)==200:
-            break
-        for users in WordsByUser[0:40]:
-            if word[0] in users:
-                count=count+1
-                if count == j:
-                    K_final1.append(word)
-                    break
-
-    for word in sorted_G2:
-        count=0
-        if len(K_final2)==200:
-            break
-        for users in WordsByUser[40:80]:
-            if word[0] in users:
-                count=count+1
-                if count == j:
-                    K_final2.append(word)
-                    break
+   
 
 
-    K_final=[[K_final1]+[K_final2]]
-
-
-    return K_final
+    return K_vector
 
 
 k_most_words=generate_K_most(G1Words,G2Words,5)
@@ -223,6 +221,57 @@ k_most_words=generate_K_most(G1Words,G2Words,5)
 k_most_stems=generate_K_most(G1stem,G2stem,5)
 
 k_most_hash=generate_K_most(G1Hash,G2Hash,5)
+
+k_most_bigrams=generate_K_most(G1_bigrams,G2_bigrams,3)
+
+k_most_trigrams=generate_K_most(G1_trigrams,G2_trigrams,3)
+
+
+
+
+#generate user scores
+
+fileObject=open("k_words",'w+')
+cPickle.dump(k_most_words,fileObject)
+
+fileObject.close()
+
+
+fileObject=open("k_stems",'w+')
+cPickle.dump(k_most_stems,fileObject)
+
+fileObject.close()
+
+fileObject=open("k_hash",'w+')
+cPickle.dump(k_most_hash,fileObject)
+
+fileObject.close()
+
+fileObject=open("k_bigram",'w+')
+cPickle.dump(k_most_bigrams,fileObject)
+
+fileObject.close()
+
+fileObject=open("k_trigram",'w+')
+cPickle.dump(k_most_trigrams,fileObject)
+
+fileObject.close()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
