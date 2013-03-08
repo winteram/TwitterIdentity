@@ -20,7 +20,7 @@ import cPickle
 import pymysql
 import operator
 from stemming.porter2 import stem
-import copy
+# import copy
 
 
 
@@ -38,15 +38,16 @@ import copy
 def unshorten_url(url):
     parsed = urlparse.urlparse(url)
     h = httplib.HTTPConnection(parsed.netloc)
-    resource = parsed.path
-    if parsed.query != "":
-        resource += "?" + parsed.query
-    h.request('HEAD', resource )
+    h.request('HEAD', parsed.path)
     response = h.getresponse()
     if response.status/100 == 3 and response.getheader('Location'):
-        return unshorten_url(response.getheader('Location')) # changed to process chains of short urls
+        return response.getheader('Location')
     else:
         return url
+
+
+
+
 
 
 #unpickle stuff Here
@@ -63,16 +64,38 @@ WordsByUser=cPickle.load(object2)
 
 regex1=re.compile(r'(https?://\S+)') #This pulls the whole url.
 
-regex2=re.compile("(?P<url>https?://[^\s/]+)")# This specifically pulls stems
+regex2=re.compile("(?P<url>https?://[^\s/]+)")# This specifically pulls stems of URLs
 
 
-G1URL_temp=[regex1.findall(word) for word in wordlists[0]] # takes out all the full URLs, but puts them as a set of lists
 
-G1FullURL=[word for words in G1URL_temp for word in words] # makes the set of lists with strings within them a simple list of strings.
+
+
+G1URL_temp_users=[[regex1.findall(word) for word in users] for users in WordsByUser[0]]
+G1FullURL_users=[[word for user in users for word in user] for users in G1URL_temp_users]
+
+
+
+G2URL_temp_users=[[regex1.findall(word) for word in users] for users in WordsByUser[1]]
+G2FullURL_users=[[word for user in users for word in user] for users in G1URL_temp_users]
+
+
+
+
+#do the same for hash tags. Then create one for loop excluding words- user by user, to be efficient [user set of words[i]]
+#not in hash[i]+URL[i]
+
+#Eventual function just needs 4 parameters- minimum frequency, minimum 
+
+
+#G1URL_temp=[regex1.findall(word) for word in wordlists[0]] # takes out all the full URLs, but puts them as a set of lists
+
+#G1FullURL=[word for words in G1URL_temp for word in words] # makes the set of lists with strings within them a simple list of strings.
 
 #unshorten the URLs
 
-#G1FullURL_final=[unshorten_url(url) for url in G1FullURL]
+
+
+#G1FullURL_final=[[unshorten_url(url) for url in users] for users in G1FullURL_users]
 
 #take the stems of these unshortened URLs 
 
@@ -86,9 +109,9 @@ G1FullURL=[word for words in G1URL_temp for word in words] # makes the set of li
 #Doing the same for group 2
 
 
-G2URL_temp=[regex1.findall(word) for word in wordlists[1]]
+#G2URL_temp=[regex1.findall(word) for word in wordlists[1]]
 
-G2FullURL=[word for words in G2URL_temp for word in words]
+#G2FullURL=[word for words in G2URL_temp for word in words]
 
 
 
@@ -106,16 +129,83 @@ G2FullURL=[word for words in G2URL_temp for word in words]
 
 #Now, we want to separate the hashtags terms
 
-G1Hash=[word.lower() for word in wordlists[0] if word.startswith('#')] #This will pull hashtag terms for Democrats
+#G1URL_temp_users1=[[regex1.findall(word) for word in users] for users in WordsByUser[0]]
 
-G2Hash=[word.lower() for word in wordlists[1] if word.startswith('#')]
+#G1FullURL_users=[[word for user in users for word in user] for users in G1URL_temp_users1]
+
+
+G1Hash_users=[[word for word in users if word.startswith('#')] for users in WordsByUser[0]] #This will pull hashtag terms for Democrats
+
+
+G2Hash_users=[[word for word in users if word.startswith('#')] for users in WordsByUser[1]] 
+
+#Above sets are used for exclusion purposes in a later piece of code. The code below is a bit redundant but makes everytihng lowercase.
+
+
+G1HashFinalUser= [[re.sub('[^a-zA-Z ]','',word).lower() for word in users if word.startswith('#')] for users in WordsByUser[0]]
+G2HashFinalUser= [[re.sub('[^a-zA-Z ]','',word).lower() for word in users if word.startswith('#')] for users in WordsByUser[1]]
+
+
+
+
+
+
+#G1Hash=[word for word in wordlists[0] if word.startswith('#')] #This will pull hashtag terms for Democrats
+
+#G2Hash=[word for word in wordlists[1] if word.startswith('#')]
+
+G1Mentions =[[word for word in users if word.startswith('@')] for users in WordsByUser[0]]
+
+G2Mentions =[[word for word in users if word.startswith('@')] for users in WordsByUser[1]]
+
+
 
 
 # Now we want to exclude all hash tag terms and urls from our set of unigrams
 
-G1Words=[word for word in wordlists[0] if word not in G1Hash + G1FullURL and len(word)>2] #This gives us all nonhashtag and non-urls 3 or more characters long
+#G1Words=[word for word in wordlists[0] if word not in G1Hash + G1FullURL and len(word)>2] #This gives us all nonhashtag and non-urls 3 or more characters long
 
-G2Words=[word for word in wordlists[1] if word not in G2Hash + G2FullURL and len(word)>2]
+#G2Words=[word for word in wordlists[1] if word not in G2Hash + G2FullURL and len(word)>2]
+
+
+#Now I want to get the unigrams with hashtags and urls removed
+
+Unigrams_Group1_by_User=[]
+
+for i, user in enumerate(WordsByUser[0]):
+    k=[re.sub('[^a-zA-Z ]','',word).lower() for word in user if word not in G1Hash_users[i] + G1FullURL_users[i] + G1Mentions[i] and len(word) > 2]
+    Unigrams_Group1_by_User.append(k)
+
+
+Unigrams_Group2_by_User=[]
+
+for i, user in enumerate(WordsByUser[1]):
+    k=[re.sub('[^a-zA-Z ]','',word).lower() for word in user if word not in G2Hash_users[i] + G2FullURL_users[i] + G2Mentions[i] and len(word) > 2]
+    Unigrams_Group2_by_User.append(k)
+
+
+G1Stems_by_User= [[stem(word) for word in users] for users in Unigrams_Group1_by_User]
+
+G2Stems_by_User= [[stem(word) for word in users] for users in Unigrams_Group2_by_User]
+
+G1Bigram_by_User= [bigrams(users) for users in Unigrams_Group1_by_User]
+
+G2Bigram_by_User= [bigrams(users) for users in Unigrams_Group2_by_User]
+
+
+G1Trigram_by_User= [trigrams(users) for users in Unigrams_Group1_by_User]
+
+G2Trigram_by_User= [trigrams(users) for users in Unigrams_Group2_by_User]
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -125,8 +215,8 @@ G2Words=[word for word in wordlists[1] if word not in G2Hash + G2FullURL and len
 
 #clean these up.
 
-G1Words=[re.sub('[^a-zA-Z ]','',word).lower() for word in G1Words]
-G1Words=[re.sub('[^a-zA-Z ]','',word).lower() for word in G1Words]
+#G1Words=[re.sub('[^a-zA-Z ]','',word).lower() for word in G1Words]
+#G1Words=[re.sub('[^a-zA-Z ]','',word).lower() for word in G1Words]
 
 
 
@@ -135,8 +225,8 @@ G1Words=[re.sub('[^a-zA-Z ]','',word).lower() for word in G1Words]
 
 #Now we want a list of stems
 
-G1stem=[stem(word) for word in G1Words]
-G2stem=[stem(word) for word in G2Words]
+#G1stem=[stem(word) for word in G1Words]
+#G2stem=[stem(word) for word in G2Words]
 
 #Create a list of bigrams and trigrams
 
@@ -146,33 +236,38 @@ G2stem=[stem(word) for word in G2Words]
 #G1_bigrams = BigramCollocationFinder._ngram_freqdist(G1Words,3)
 #G2_bigrams = BigramCollocationFinder._ngram_freqdist(G1Words,3)
 
-G1_bigrams=bigrams(G1Words)
-G2_bigrams=bigrams(G2Words)
+#G1_bigrams=bigrams(G1Words)
+#G2_bigrams=bigrams(G2Words)
 
-G1_trigrams=trigrams(G1Words)
-G2_trigrams=trigrams(G2Words)
+#G1_trigrams=trigrams(G1Words)
+#G2_trigrams=trigrams(G2Words)
 
 
 
-def generate_K_most(G1Corp, G2Corp, n): # G1Corp= The words, hashtags, urls or whatever raw set we have extracted associated with a class (G1), G2 is the other class, n= #minimum frequency a potential feature must appear within the corpus.
+def generate_K_most(G1Corp, G2Corp, n, j): # G1Corp= The words, hashtags, urls or whatever raw set we have extracted associated with a class (G1), G2 is the other class, n= #minimum frequency a potential feature must appear within the corpus.
     
     #This will eventually need six parameters- 3 more for the WordsByUser versions
 
-    G1Freq=FreqDist(G1Corp) 
+    G1=[word for user in G1Corp for word in user]
+    G2=[word for user in G2Corp for word in user]
     
-    G2Freq=FreqDist(G2Corp)
 
 
-    GP1words=[word for word in G1Corp if G1Freq[word]>n]
+    G1Freq=FreqDist(G1) 
+    
+    G2Freq=FreqDist(G2)
 
-    GP2words=[word for word in G2Corp if G2Freq[word]>n]
+
+    GP1words=[word for word in G1 if G1Freq[word]>n]
+
+    GP2words=[word for word in G2 if G2Freq[word]>n]
     
   
     
     GP1_FinalFreq=FreqDist(GP1words)
     GP2_FinalFreq=FreqDist(GP2words)
 
-    FullWords=G1Corp+G2Corp
+    FullWords=G1+G2
 
 
     FullFreq=FreqDist(FullWords)
@@ -210,21 +305,48 @@ def generate_K_most(G1Corp, G2Corp, n): # G1Corp= The words, hashtags, urls or w
 #This part filters out words that appear among less than j users- In the WordsByUser- It would probably be smarter to split it up before importing- this way it's not contingent on knowing how many
 #users are present. Maybe make 
 
+    
+        
+    for word in sorted_G1:
+            count=0
+            if len(K_final1)==200:
+                break
+            for users in G1Corp:
+                if word[0] in users:
+                    count=count+1
+                    if count == j:
+                        K_final1.append(word)
+                        break
+        
+    for word in sorted_G2:
+            count=0
+            if len(K_final2)==200:
+                break
+            for users in G2Corp:
+                if word[0] in users:
+                    count=count+1
+                    if count == j:
+                        K_final2.append(word)
+                        break
+    
+    
+    K_final=[K_final1,K_final2]
+
    
 
 
-    return K_vector
+    return K_final
 
 
-k_most_words=generate_K_most(G1Words,G2Words,5)
+k_most_words=generate_K_most(Unigrams_Group1_by_User,Unigrams_Group2_by_User,7,5)
 
-k_most_stems=generate_K_most(G1stem,G2stem,5)
+k_most_stems=generate_K_most(G1Stems_by_User,G2Stems_by_User,7,5)
 
-k_most_hash=generate_K_most(G1Hash,G2Hash,5)
+k_most_hash=generate_K_most(G1HashFinalUser,G2HashFinalUser, 5,4)
 
-k_most_bigrams=generate_K_most(G1_bigrams,G2_bigrams,3)
+k_most_bigrams=generate_K_most(G1Bigram_by_User,G2Bigram_by_User,5,4)
 
-k_most_trigrams=generate_K_most(G1_trigrams,G2_trigrams,3)
+k_most_trigrams=generate_K_most(G1Trigram_by_User,G2Trigram_by_User,5,4)
 
 
 
