@@ -44,7 +44,7 @@ DemTweetSet=[]
 
 
 ### Go through test user names & get scores for each party
-for user in RepList[0:40]:
+for user in RepList[0:300]:
     
     # get tweets of target user
     
@@ -68,7 +68,7 @@ DemList=cur.fetchall()
 
 
 
-for user in DemList[0:40]:
+for user in DemList[0:300]:
     
     # get tweets of target user
     
