@@ -9,10 +9,9 @@ from random import randrange
 from urllib import urlopen
 from bs4 import BeautifulSoup
 from twitter import *
-from nltk import *
+import nltk
 from nltk.corpus import PlaintextCorpusReader
 from nltk.corpus import stopwords
-from nltk.collocations import *
 from numpy import*
 import httplib
 import urlparse
@@ -172,30 +171,122 @@ G2Mentions =[[word for word in users if word.startswith('@')] for users in Words
 
 Unigrams_Group1_by_User=[]
 
+words_for_ngrams1=[] #This will be the same as the unigram list EXCEPT it will include words of 2 or less characters for construction of bigrams and trigrams
+
+
 for i, user in enumerate(WordsByUser[0]):
     k=[re.sub('[^a-zA-Z ]','',word).lower() for word in user if word not in G1Hash_users[i] + G1FullURL_users[i] + G1Mentions[i] and len(word) > 2]
+    w=[re.sub('[^a-zA-Z ]','',word).lower() for word in user if word not in G1Hash_users[i] + G1FullURL_users[i] + G1Mentions[i]]
     Unigrams_Group1_by_User.append(k)
+    words_for_ngrams1.append(w)
+
 
 
 Unigrams_Group2_by_User=[]
 
+words_for_ngrams2=[] 
+
 for i, user in enumerate(WordsByUser[1]):
     k=[re.sub('[^a-zA-Z ]','',word).lower() for word in user if word not in G2Hash_users[i] + G2FullURL_users[i] + G2Mentions[i] and len(word) > 2]
+    w=[re.sub('[^a-zA-Z ]','',word).lower() for word in user if word not in G2Hash_users[i] + G2FullURL_users[i] + G2Mentions[i]] 
     Unigrams_Group2_by_User.append(k)
+    words_for_ngrams2.append(w) 
+
+
+#Use NLTK collocation functions to generate meaningful bigrams and trigrams. This is a bit tricky because the function returns n-best and we have to 
+#somewhat arbitrarily decide what n should be. 
+
+
+
+
+bigram_measures = nltk.collocations.BigramAssocMeasures()
+
+full_for_ngrams1=[word for user in words_for_ngrams1 for word in user]
+
+finder = BigramCollocationFinder.from_words(full_for_ngrams1)
+
+finder.apply_freq_filter(2)
+
+bigrams1=finder.nbest(bigram_measures.pmi, 1200)
+
+
+
+full_for_ngrams2=[word for user in words_for_ngrams2 for word in user]
+
+finder = BigramCollocationFinder.from_words(full_for_ngrams2)
+
+finder.apply_freq_filter(2)
+
+bigrams2=finder.nbest(bigram_measures.pmi, 1200)
+
+
+trigram_measures = nltk.collocations.TrigramAssocMeasures()
+
+finder = TrigramCollocationFinder.from_words(full_for_ngrams1)
+
+finder.apply_freq_filter(2)
+
+trigrams1=finder.nbest(trigram_measures.pmi, 1200)
+
+
+
+finder = TrigramCollocationFinder.from_words(full_for_ngrams2)
+
+finder.apply_freq_filter(2)
+
+trigrams2=finder.nbest(trigram_measures.pmi, 1200)
+
+
+
+
+#
+
+#G1Trigram_by_User= [trigrams(users) for users in words_for_ngrams1 if word in trigrams(users) in trigrams1]
+
+
+
+
+G1Bigram_by_User= [[word for word in bigrams(users) if word in bigrams1] for users in words_for_ngrams1]
+
+G2Bigram_by_User= [[word for word in bigrams(users) if word in bigrams2] for users in words_for_ngrams2]
+
+
+
+
+G1Trigram_by_User= [[word for word in trigrams(users) if word in trigrams1] for users in words_for_ngrams1]
+
+G2Trigram_by_User= [[word for word in trigrams(users) if word in trigrams2] for users in words_for_ngrams2]
+
+
 
 
 G1Stems_by_User= [[stem(word) for word in users] for users in Unigrams_Group1_by_User]
 
 G2Stems_by_User= [[stem(word) for word in users] for users in Unigrams_Group2_by_User]
 
-G1Bigram_by_User= [bigrams(users) for users in Unigrams_Group1_by_User]
 
-G2Bigram_by_User= [bigrams(users) for users in Unigrams_Group2_by_User]
+#Suffixes- note that since special characters were simply deleted and replaced with an empty string- some these things are actually full words
 
 
-G1Trigram_by_User= [trigrams(users) for users in Unigrams_Group1_by_User]
+G1ending_by_User= [[re.sub(stem(word),'',word) for word in users if re.sub(stem(word),'',word) !=''] for users in Unigrams_Group1_by_User]
 
-G2Trigram_by_User= [trigrams(users) for users in Unigrams_Group2_by_User]
+G2ending_by_User= [[re.sub(stem(word),'',word) for word in users if re.sub(stem(word),'',word) !=''] for users in Unigrams_Group2_by_User]
+
+
+
+
+
+
+#These are bigrams and trigrams not generated from collocations. We can see if these work for our purposes later, but it seems like a long shot. 
+
+#G1Bigram_by_User= [bigrams(users) for users in Unigrams_Group1_by_User]
+
+#G2Bigram_by_User= [bigrams(users) for users in Unigrams_Group2_by_User]
+
+
+#G1Trigram_by_User= [trigrams(users) for users in Unigrams_Group1_by_User]
+
+#G2Trigram_by_User= [trigrams(users) for users in Unigrams_Group2_by_User]
 
 
 
@@ -246,7 +337,7 @@ G2Trigram_by_User= [trigrams(users) for users in Unigrams_Group2_by_User]
 
 def generate_K_most(G1Corp, G2Corp, n, j): # G1Corp= The words, hashtags, urls or whatever raw set we have extracted associated with a class (G1), G2 is the other class, n= #minimum frequency a potential feature must appear within the corpus.
     
-    #This will eventually need six parameters- 3 more for the WordsByUser versions
+    # j is the minimum number of users to use the term. 
 
     G1=[word for user in G1Corp for word in user]
     G2=[word for user in G2Corp for word in user]
@@ -277,7 +368,7 @@ def generate_K_most(G1Corp, G2Corp, n, j): # G1Corp= The words, hashtags, urls o
     G2Dic={}
 
 
-#Now create a list with proportions for each word in the Democratic corpus 
+#Now create a list with proportions for each word in the Democratic corpus. 
 
     for i in GP1_FinalFreq.keys():
         rat= (GP1_FinalFreq[i]/FullFreq[i])
@@ -296,6 +387,7 @@ def generate_K_most(G1Corp, G2Corp, n, j): # G1Corp= The words, hashtags, urls o
 
 #K_vector= G1_set+G2_set
     K_vector=sorted_G1[0:200]+sorted_G2[0:200]
+
 
     
     
@@ -344,9 +436,13 @@ k_most_stems=generate_K_most(G1Stems_by_User,G2Stems_by_User,7,5)
 
 k_most_hash=generate_K_most(G1HashFinalUser,G2HashFinalUser, 5,4)
 
-k_most_bigrams=generate_K_most(G1Bigram_by_User,G2Bigram_by_User,5,4)
+k_most_bigrams=generate_K_most(G1Bigram_by_User,G2Bigram_by_User,4,2)
 
-k_most_trigrams=generate_K_most(G1Trigram_by_User,G2Trigram_by_User,5,4)
+k_most_trigrams=generate_K_most(G1Trigram_by_User,G2Trigram_by_User,4,1)
+
+k_most_ending=generate_K_most(G1ending_by_User,G2ending_by_User,5,2)
+
+#put in endings by user
 
 
 
@@ -378,6 +474,13 @@ fileObject=open("k_trigram",'w+')
 cPickle.dump(k_most_trigrams,fileObject)
 
 fileObject.close()
+
+fileObject=open("k_ending",'w+')
+cPickle.dump(k_most_ending,fileObject)
+
+fileObject.close()
+
+
 
 
 
