@@ -1,0 +1,45 @@
+Forensics on crawler:
+
+# 1392 survey respondents
+select count(Id) from survey;
+
+# 1314 survey respondents who completed some portion of the survey
+select count(*) from survey where ended!=started;
+
+# 27 completed some portion of survey but are not in twitteraccountnode
+select count(Id) from survey where started!=ended AND NOT EXISTS (SELECT 1 FROM twitteraccountnode WHERE survey.Id=twitteraccountnode.Id);
+
+
+# 1331 survey respondents in twitteraccountnode
+select count(survey.Id) from twitteraccountnode ta, survey where ta.Id=survey.Id;
+
+# 1287 survey respondents in twitteraccountnode completed some part of the survey
+select count(survey.Id) from twitteraccountnode ta, survey where ta.Id=survey.Id AND survey.started!=survey.ended;
+
+# 44 survey respondents in twitteraccountnode didn't complete any part of the survey
+select count(survey.Id) from twitteraccountnode ta, survey where ta.Id=survey.Id AND survey.started=survey.ended;
+
+
+# 1259 Seeds=1 in twitteraccountnode
+select count(*) from twitteraccountnode where Seed=1;
+
+# 1258 survey respondents in twitteraccountnode with Seed=1
+select count(survey.Id) from twitteraccountnode ta, survey where ta.Id=survey.Id and ta.Seed=1;
+
+# (Id in twitteraccountnode that is not in survey is 'gdlq2KSn1o93x6rkhKlrc6aDiYh9moip', 
+#  which decodes as '<a href="tel:99161458">9')
+
+
+# 981 survey respondents with at least one tweet crawled
+select count(distinct(survey.Id)) from survey, tweet where survey.Id=tweet.UserId;
+
+# 922 twitteraccountnode with Seed=1 and at least one tweet crawled
+select count(distinct(ta.Id)) from twitteraccountnode ta, tweet where ta.Seed=1 and ta.Id=tweet.UserId;
+
+# 411 survey respondents without 1 tweet crawled
+select count(Id) from survey where NOT EXISTS (SELECT 1 FROM tweet WHERE survey.Id=tweet.Id);
+
+# 371 that completed some part of the survey
+select count(Id) from survey where NOT EXISTS (SELECT 1 FROM tweet WHERE survey.Id=tweet.UserId) AND started!=ended;
+### SOLUTION
+# from a sample, it looks like these are folks who have protected their tweets.  We should be able to get them,though, as we have their keys.

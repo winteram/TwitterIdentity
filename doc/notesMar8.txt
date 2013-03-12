@@ -1,0 +1,25 @@
+Appears that training data is noisy and provides overfit signal (e.g., "pirate" predictive of Democrat).
+
+How to create a better signal:
+
+- Find tweets that explicitly mention group identity
+- do training / test at level of tweet instead of user (with assumption that highly-identified users would have more group-relevant tweets)
+- use only highly-identified or topically focused users as training set
+
+# times user is followed by Dems / # times followed by anyone
+
+In the same vein, how to cope with smaller data set?
+
+Again, supervised LDA with:
+ author <- multinomial distribution over topics; 
+ topic <- multinomial distribution over words;
+ tweet <- instance of draw from single topic; * partially observed
+ tweet-length <- normal distribution of # words / tweet
+
+1. Choose theta ~ Dir(•|alpha), distribution of topics for authors
+2. Draw an author a from the multinomial (•|theta)
+3. Draw topic from (•|a,theta)
+4. Choose N ~ Normal(•|mu,sigma) (?)
+5. For i in N:
+	Draw word from (•|phi)
+ 

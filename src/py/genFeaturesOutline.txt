@@ -1,0 +1,19 @@
+Steps in generating features:
+
+1. Get users & tweets for Republicans & Democrats
+2. Break tweets into word lists
+(save)
+
+3. Extract URLs from word lists
+4. Extract URL domains from word lists
+5. Extract hashtags from word lists
+6. Extract @-mentions from word lists
+7. Extract stems from word lists
+8. Extract bigrams form word lists
+(save)
+
+9. Create frequency distributions from word lists
+10. Remove words that appear fewer than $N$ times
+11. Remove words that are used by fewer than $J$ users
+12. Create sorted list of relative frequencies for each party
+(save)
