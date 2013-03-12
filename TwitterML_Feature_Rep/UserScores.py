@@ -37,7 +37,7 @@ k_stems=cPickle.load(fileObject)
 fileObject.close()
 
 fileObject=open("k_hash",'r')
-k_hash=cPickle.load()
+k_hash=cPickle.load(fileObject)
 
 fileObject.close()
 
@@ -74,6 +74,8 @@ regex2=re.compile("(?P<url>https?://[^\s/]+)")# This specifically pulls stems of
 
 UserFeatures={}
 
+AllUserTweets=[]
+
 
 #Simple function that calculates a users scores- takes in their tokenized and processed tweets and returns the score for a given feature.
 
@@ -89,7 +91,7 @@ def ScoreGenerate(UserSet,K_most_vector):
 
 
 TweetsByUsers=[] # This will eventually give us all the tweets in semi-tokenized form, for each user
-for user in all_user_id[610:625]:
+for user in all_user_id[200:250]:
     username=user[0]
     cur.execute("SELECT TweetText FROM tweet WHERE UserId='"+ username +"';")
     temptweets1=cur.fetchall()
@@ -102,6 +104,7 @@ for user in all_user_id[610:625]:
         TweetforUser=TweetforUser + " " + tweets[0]# This is just the tweets by user
 
     raw=TweetforUser.split()
+    AllUserTweets.append(raw)
     raw_URLforUser=[regex1.findall(word) for word in raw]
     #The findall function puts the output in brackets, so the next function is to take the brackets out- so it's no longer a nested list. 
     UserUrl=[word for words in raw_URLforUser for word in words]
@@ -116,7 +119,7 @@ for user in all_user_id[610:625]:
     bigrams_for_user=bigrams(unigram1)
     trigrams_for_user=trigrams(unigram1)
 
-    stems_for_user=[stem(word for word in unigram1)]
+    stems_for_user=[stem(word) for word in unigram1]
 
     endings_for_user=[re.sub(stem(word),'',word) for word in unigram1]
 

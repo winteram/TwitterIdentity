@@ -1,8 +1,3 @@
-
-
-
-# These makes general function for positive and negative sets
-
 from __future__ import division
 import re
 from random import randrange
@@ -19,6 +14,32 @@ import cPickle
 import pymysql
 import operator
 from stemming.porter2 import stem
+
+
+#Minimum Frequency Thresholds
+
+
+UNIGRAM_THRESHOLD= 7
+BIGRAM_THRESHOLD = 5
+TRIGRAM_THRESHOLD= 4
+STEM_THRESHOLD= 7
+ENDING_THRESHOLD=5
+HASH_THRESHOLD= 4
+
+
+#Minimum Number of Users Thresholds
+
+UNIGRAM_THRESHOLD_USER= 5
+BIGRAM_THRESHOLD_USER= 4
+TRIGRAM_THRESHOLD_USER= 2
+STEM_THRESHOLD_USER= 3
+ENDING_THRESHOLD_USER=2
+HASH_THRESHOLD_USER= 4
+
+
+
+
+
 # import copy
 
 
@@ -141,8 +162,8 @@ G2Hash_users=[[word for word in users if word.startswith('#')] for users in Word
 #Above sets are used for exclusion purposes in a later piece of code. The code below is a bit redundant but makes everytihng lowercase.
 
 
-G1HashFinalUser= [[re.sub('[^a-zA-Z ]','',word).lower() for word in users if word.startswith('#')] for users in WordsByUser[0]]
-G2HashFinalUser= [[re.sub('[^a-zA-Z ]','',word).lower() for word in users if word.startswith('#')] for users in WordsByUser[1]]
+G1HashFinalUser= [[re.sub('[^a-zA-Z# ]','',word).lower() for word in users if word.startswith('#')] for users in WordsByUser[0]]
+G2HashFinalUser= [[re.sub('[^a-zA-Z# ]','',word).lower() for word in users if word.startswith('#')] for users in WordsByUser[1]]
 
 
 
@@ -401,28 +422,31 @@ def generate_K_most(G1Corp, G2Corp, n, j): # G1Corp= The words, hashtags, urls o
         
     for word in sorted_G1:
             count=0
-            if len(K_final1)==200:
+            if len(K_final1)==200 or word[1] <.6:
                 break
             for users in G1Corp:
                 if word[0] in users:
                     count=count+1
                     if count == j:
-                        K_final1.append(word)
+                        K_final1.append(word[0])
                         break
         
     for word in sorted_G2:
             count=0
-            if len(K_final2)==200:
+            if len(K_final2)==200 or word[1] <.6:
                 break
             for users in G2Corp:
                 if word[0] in users:
                     count=count+1
                     if count == j:
-                        K_final2.append(word)
+                        K_final2.append(word[0])
                         break
     
     
     K_final=[K_final1,K_final2]
+
+
+
 
    
 
@@ -430,17 +454,19 @@ def generate_K_most(G1Corp, G2Corp, n, j): # G1Corp= The words, hashtags, urls o
     return K_final
 
 
-k_most_words=generate_K_most(Unigrams_Group1_by_User,Unigrams_Group2_by_User,7,5)
 
-k_most_stems=generate_K_most(G1Stems_by_User,G2Stems_by_User,7,5)
+k_most_words=generate_K_most(Unigrams_Group1_by_User,Unigrams_Group2_by_User,UNIGRAM_THRESHOLD,UNIGRAM_THRESHOLD_USER)
 
-k_most_hash=generate_K_most(G1HashFinalUser,G2HashFinalUser, 5,4)
+k_most_stems=generate_K_most(G1Stems_by_User,G2Stems_by_User,STEM_THRESHOLD,STEM_THRESHOLD_USER)
 
-k_most_bigrams=generate_K_most(G1Bigram_by_User,G2Bigram_by_User,4,2)
+k_most_hash=generate_K_most(G1HashFinalUser,G2HashFinalUser,HASH_THRESHOLD,HASH_THRESHOLD_USER)
 
-k_most_trigrams=generate_K_most(G1Trigram_by_User,G2Trigram_by_User,4,1)
+k_most_bigrams=generate_K_most(G1Bigram_by_User,G2Bigram_by_User,BIGRAM_THRESHOLD,BIGRAM_THRESHOLD_USER)
 
-k_most_ending=generate_K_most(G1ending_by_User,G2ending_by_User,5,2)
+k_most_trigrams=generate_K_most(G1Trigram_by_User,G2Trigram_by_User,TRIGRAM_THRESHOLD,TRIGRAM_THRESHOLD_USER)
+
+k_most_ending=generate_K_most(G1ending_by_User,G2ending_by_User,ENDING_THRESHOLD,ENDING_THRESHOLD_USER)
+
 
 #put in endings by user
 
