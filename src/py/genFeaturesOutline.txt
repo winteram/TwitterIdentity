@@ -9,7 +9,7 @@ Steps in generating features:
 5. Extract hashtags from word lists
 6. Extract @-mentions from word lists
 7. Extract stems from word lists
-8. Extract bigrams form word lists
+8. Extract bigrams from word lists
 (save)
 
 9. Create frequency distributions from word lists
