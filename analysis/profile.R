@@ -1,4 +1,4 @@
-#setwd("/Users/winteram/Documents/Research/TwitterIdentity/analysis")
+#setwd("/Users/winteram/Documents/Research/CurrentResearch/TwitterIdentity/analysis")
 
 source("reorder.levels.R")
 library(RMySQL)
@@ -7,8 +7,8 @@ theme_set(theme_bw())
 
 m<-dbDriver("MySQL")
 con <- dbConnect(m,
-                 user="smalls7_groupid", password="letspublish",
-                 dbname="smalls7_identity", host="smallsocialsystems.com")
+                 user="groupid", password="LetsPublish!",
+                 dbname="group_identity", host="wmason.mgnt.stevens-tech.edu")
 
 survey <- dbGetQuery(con, "select * from survey")
 profile <- dbGetQuery(con, "select * from profile")
@@ -50,6 +50,23 @@ ggplot(profile, aes(x=Followers_count,y=out.crawl)) + geom_point()
 ggplot(profile, aes(x=Friends_count,y=in.crawl)) + geom_point()
 ggplot(profile, aes(x=Statuses_count,y=tweets.crawl)) + geom_point()
 
+# gender
+allgender = nrow(subset(survey, gender=="M")) + nrow(subset(survey, gender=="F")) + nrow(subset(survey, gender=="decline"))
+paste("Males,",round(nrow(subset(survey, gender=="M"))/allgender,4),"(",nrow(subset(survey, gender=="M")),")")
+paste("Females,",round(nrow(subset(survey, gender=="F"))/allgender,4),"(",nrow(subset(survey, gender=="F")),")")
+paste("Declined,",round(nrow(subset(survey, gender=="decline"))/allgender,4),"(",nrow(subset(survey, gender=="decline")),")")
+
+# politics
+ndem = nrow(subset(survey, party=="democrat"))
+nrep = nrow(subset(survey, party=="republican"))
+nlib = nrow(subset(survey, party=="libertarian")) 
+ngre = nrow(subset(survey, party=="green"))
+ncon = nrow(subset(survey, party=="constitution"))
+allpol = ndem + nrep + nlib + ngre + ncon
+paste("Males,",round(nrow(subset(survey, gender=="M"))/allgender,4),"(",nrow(subset(survey, gender=="M")),")")
+
+
+# own groups
 own.forms <- subset(survey, !is.na(own_form1), select=c("Id","own_form1","own_form2","own_form3","own_form4","own_form5","own_form6"))
 write.csv(own.forms, "own_forms.csv")
 own1 <- subset(survey, !is.na(own_form1), select=c("Id","own_form1"))
