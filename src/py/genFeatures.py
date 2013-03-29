@@ -155,7 +155,7 @@ def generate_K_most(G1Corp, G2Corp, n, j):
     return K_final
 
 
-def extractTerms(wordlists,WordsByUser):
+def extractTerms(wordlists,WordsByUser,savefiles):
 
 	regex1=re.compile(r'(https?://\S+)') # This pulls the whole url.
 	regex2=re.compile("(?P<url>https?://[^\s/]+)") # This specifically pulls domains of URLs
@@ -242,12 +242,39 @@ def extractTerms(wordlists,WordsByUser):
 	G1ending_by_User= [[re.sub(stem(word),'',word) for word in users if re.sub(stem(word),'',word) !=''] for users in Unigrams_Group1_by_User]
 	G2ending_by_User= [[re.sub(stem(word),'',word) for word in users if re.sub(stem(word),'',word) !=''] for users in Unigrams_Group2_by_User]
 
-	k_most_words=generate_K_most(Unigrams_Group1_by_User,Unigrams_Group2_by_User,UNIGRAM_THRESHOLD,UNIGRAM_THRESHOLD_USER)
-	k_most_stems=generate_K_most(G1Stems_by_User,G2Stems_by_User,STEM_THRESHOLD,STEM_THRESHOLD_USER)
-	k_most_hash=generate_K_most(G1HashFinalUser,G2HashFinalUser,HASH_THRESHOLD,HASH_THRESHOLD_USER)
-	k_most_bigrams=generate_K_most(G1Bigram_by_User,G2Bigram_by_User,BIGRAM_THRESHOLD,BIGRAM_THRESHOLD_USER)
-	k_most_trigrams=generate_K_most(G1Trigram_by_User,G2Trigram_by_User,TRIGRAM_THRESHOLD,TRIGRAM_THRESHOLD_USER)
-	k_most_ending=generate_K_most(G1ending_by_User,G2ending_by_User,ENDING_THRESHOLD,ENDING_THRESHOLD_USER)
+	words=generate_K_most(Unigrams_Group1_by_User,Unigrams_Group2_by_User,UNIGRAM_THRESHOLD,UNIGRAM_THRESHOLD_USER)
+	stems=generate_K_most(G1Stems_by_User,G2Stems_by_User,STEM_THRESHOLD,STEM_THRESHOLD_USER)
+	hashes=generate_K_most(G1HashFinalUser,G2HashFinalUser,HASH_THRESHOLD,HASH_THRESHOLD_USER)
+	bigrams=generate_K_most(G1Bigram_by_User,G2Bigram_by_User,BIGRAM_THRESHOLD,BIGRAM_THRESHOLD_USER)
+	trigrams=generate_K_most(G1Trigram_by_User,G2Trigram_by_User,TRIGRAM_THRESHOLD,TRIGRAM_THRESHOLD_USER)
+	endings=generate_K_most(G1ending_by_User,G2ending_by_User,ENDING_THRESHOLD,ENDING_THRESHOLD_USER)
+	
+	if savefiles:
+		fileObject=open("k_words",'w+')
+		cPickle.dump(words,fileObject)
+		fileObject.close()
+
+		fileObject=open("k_stems",'w+')
+		cPickle.dump(stems,fileObject)
+		fileObject.close()
+
+		fileObject=open("k_hash",'w+')
+		cPickle.dump(hashes,fileObject)
+		fileObject.close()
+
+		fileObject=open("k_bigram",'w+')
+		cPickle.dump(bigrams,fileObject)
+		fileObject.close()
+
+		fileObject=open("k_trigram",'w+')
+		cPickle.dump(trigrams,fileObject)
+		fileObject.close()
+
+		fileObject=open("k_ending",'w+')
+		cPickle.dump(endings,fileObject)
+		fileObject.close()
+	
+	return (words,stems,hashes,bigrams,trigrams,endings)
 
 
 
@@ -330,7 +357,7 @@ if __name__ == "__main__":
 	
 	if loadfiles == 0:
 		wordlist1,wordlist2 = genPartyWordLists(savefiles)
-		words,stems,hashes = extractTerms(wordlist1,wordlist2)
+		words,stems,hashes,bigrams,trigrams,endings = extractTerms(wordlist1,wordlist2, savefiles)
 		UserScores(words,stems,hashes,bigrams,trigrams,endings)
 	elif loadfiles == 1:
 		fh1=open('WordLists.pkl','r')
@@ -340,7 +367,7 @@ if __name__ == "__main__":
 		fh2=open('WordsByUser.pkl','r')
 		wbu1,wbu2=cPickle.load(fh22)
 		fh2.close()
-		words,stems,hashes,bigrams,trigrams,endings = extractTerms(wordlist1,wordlist2)
+		words,stems,hashes,bigrams,trigrams,endings = extractTerms(wordlist1,wordlist2, savefiles)
 		UserScores(words,stems,hashes,bigrams,trigrams,endings)
 	elif loadfiles == 2:
 		object1=open('k_words','r')
