@@ -1,6 +1,23 @@
 import argparse
 import pymysql
 
+#Minimum Frequency Thresholds
+UNIGRAM_THRESHOLD= 7
+BIGRAM_THRESHOLD = 5
+TRIGRAM_THRESHOLD= 4
+STEM_THRESHOLD= 7
+ENDING_THRESHOLD=5
+HASH_THRESHOLD= 4
+
+#Minimum Number of Users Thresholds
+UNIGRAM_THRESHOLD_USER= 5
+BIGRAM_THRESHOLD_USER= 4
+TRIGRAM_THRESHOLD_USER= 2
+STEM_THRESHOLD_USER= 3
+ENDING_THRESHOLD_USER=2
+HASH_THRESHOLD_USER= 4
+
+
 
 def genPartyWordLists(savefiles):
     party1,party2 = "democrat","republican"
@@ -236,6 +253,16 @@ def extractTerms(wordlists,WordsByUser):
 
 
 
+def ScoreGenerate(UserSet,K_most_vector):
+    fullset=[word for word in UserSet if word in K_most_vector[0]+K_most_vector[1]]
+    setfreq=FreqDist(fullset)
+    v1=[setfreq.freq(word) for word in K_most_vector[0]]
+    v2=[setfreq.freq(word) for word in K_most_vector[1]]
+    finalscore=[v1,v2]
+
+    return finalscore
+
+
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser(description='Create tweet features for classifier')
 	parser.add_argument('-s','--save', dest='savefiles', action='store_true', default=False,
@@ -246,6 +273,7 @@ if __name__ == "__main__":
 	
 	if loadfiles == 0:
 		wordlist1,wordlist2 = genPartyWordLists(savefiles)
+		words,stems,hashes = extractTerms(wordlist1,wordlist2)
 	elif loadfiles == 1:
 		fh1=open('WordLists.pkl','r')
 		wordlist1,wordlist2=cPickle.load(fh1)
@@ -254,7 +282,31 @@ if __name__ == "__main__":
 		fh2=open('WordsByUser.pkl','r')
 		wbu1,wbu2=cPickle.load(fh22)
 		fh2.close()
-		words,stems,hashes = extractTerms(wordlist1,wordlist2)
+		words,stems,hashes,bigrams,trigrams,endings = extractTerms(wordlist1,wordlist2)
 	elif loadfiles == 2:
+		object1=open('k_words','r')
+		words=cPickle.load(object1)
+		object1.close()
+
+		fileObject=open('k_stems','r')
+		stems=cPickle.load(fileObject)
+		fileObject.close()
+
+		fileObject=open("k_hash",'r')
+		hashes=cPickle.load(fileObject)
+		fileObject.close()
+
+		fileObject=open("k_bigram",'r')
+		bigrams=cPickle.load(fileObject)
+		fileObject.close()
+
+		fileObject=open("k_trigram",'r')
+		trigrams=cPickle.load(fileObject)
+		fileObject.close()
+
+		fileObject=open("k_ending",'r')
+		endings=cPickle.load(fileObject)
+		fileObject.close()
+		
 		
     
