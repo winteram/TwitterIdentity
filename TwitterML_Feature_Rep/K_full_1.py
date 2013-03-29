@@ -3,6 +3,10 @@
 
 # These makes general function for positive and negative sets
 
+
+#sys.path.append('/Users/Asaf/Documents/TwitterIdentity/TwitterML_Feature_Rep')
+#os.chdir('/Users/Asaf/Documents/TwitterIdentity/TwitterML_Feature_Rep')
+
 from __future__ import division
 import re
 from random import randrange
@@ -21,6 +25,8 @@ import pymysql
 import operator
 from stemming.porter2 import stem
 
+import random
+
 
 
 
@@ -37,25 +43,25 @@ RepList=cur.fetchall()
 
 UserNames=[] #This is a list with all the usernames as strings, not as tuples which is how they seem to be coming out.
 
+RepNames=[]
+DemNames=[]
+
 
 RepTweetSet=[] #Set of all Republican Tweets
 
 DemTweetSet=[]
 
 
-### Go through test user names & get scores for each party
-for user in RepList[0:300]:
-    
-    # get tweets of target user
-    
-    username=user[0] #The username is the first element in a tuple
-    UserNames.append(username)
-    
+## Assign sets for seed, training, and testing.
+for user in RepList:
+    username=user[0]
     cur.execute("SELECT TweetText FROM tweet WHERE UserId='"+ username +"';")
-    
     tweets=cur.fetchall()
-    
-    RepTweetSet.append(tweets)
+
+    if len(tweets) > 0:
+        RepNames.append(username)
+        RepTweetSet.append(tweets)
+
 
 
 
@@ -68,18 +74,14 @@ DemList=cur.fetchall()
 
 
 
-for user in DemList[0:300]:
-    
-    # get tweets of target user
-    
+for user in DemList:
     username=user[0]
-    UserNames.append(username)
-    
     cur.execute("SELECT TweetText FROM tweet WHERE UserId='"+ username +"';")
-    
     tweets=cur.fetchall()
-    
-    DemTweetSet.append(tweets)
+
+    if len(tweets) > 0:
+        DemNames.append(username)
+        DemTweetSet.append(tweets)
 
 
 #Should do some cleaning here before pickling- Basically all I need are two- raw- lists. One with all the tweets for each user, encapsulated by user, the other just one long list for of words for all the users- I can use the split function, as I had previously. Importantly- before doing bigrams and trigrams- after stuff has has been
@@ -102,9 +104,15 @@ full_Wordlist=[]
 
 
     
-    
+   
     
 Party_list=[DemTweetSet,RepTweetSet]
+
+#random.shuffle(DemNames)
+
+#random.shuffle(RepNames)
+
+Id_list=[DemNames,RepNames]
     
     
     
@@ -152,6 +160,13 @@ fileObject=open("WordsByUser",'w+')
 cPickle.dump(UserWordList,fileObject)
 
 fileObject.close()
+
+fileObject=open("IdList",'w+')
+cPickle.dump(Id_list,fileObject)
+
+
+
+
 
 
 
