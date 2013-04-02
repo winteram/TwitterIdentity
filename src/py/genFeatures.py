@@ -1,5 +1,27 @@
+
+
+from __future__ import division
+
 import argparse
 import pymysql
+
+import re
+from random import randrange
+from urllib import urlopen
+from bs4 import BeautifulSoup
+from twitter import *
+from nltk import *
+#from nltk.corpus import PlaintextCorpusReader
+from nltk.corpus import stopwords
+from nltk.collocations import *
+from numpy import*
+import httplib
+import urlparse
+import cPickle
+import pymysql
+import operator
+from stemming.porter2 import stem
+import random
 
 #Minimum Frequency Thresholds
 UNIGRAM_THRESHOLD= 7
@@ -21,7 +43,7 @@ HASH_THRESHOLD_USER= 4
 
 def genPartyWordLists(savefiles):
     party1,party2 = "democrat","republican"
-    conn = pymysql.connect(host='', port=3306, user='groupid', passwd='LetsPublish!', db='group_identity')
+    conn = pymysql.connect(host='smallsocialsystems.com', port=3306, user='smalls7_groupid', passwd='LetsPublish!', db='smalls7_identity')
     cur = conn.cursor()
 
     cur.execute('SELECT survey.Id, TweetText FROM survey JOIN tweet WHERE survey.party = "'+party1+'" AND survey.Id=tweet.UserId ORDER BY survey.Id;')
@@ -277,27 +299,13 @@ def extractTerms(wordlists,WordsByUser,savefiles):
 	return (words,stems,hashes,bigrams,trigrams,endings)
 
 
-
-def ScoreGenerate(UserSet,K_most_vector):
-    fullset=[word for word in UserSet if word in K_most_vector[0]+K_most_vector[1]]
-    setfreq=FreqDist(fullset)
-    v1=[setfreq.freq(word) for word in K_most_vector[0]]
-    v2=[setfreq.freq(word) for word in K_most_vector[1]]
-    finalscore=[v1,v2]
-
-    return finalscore
-
-def UserScores(words,stems,hashes,bigrams,trigrams,endings):	
-    conn = pymysql.connect(host='', port=3306, user='groupid', passwd='LetsPublish!', db='group_identity')
+def UserScores(words,stems,hashes,bigrams,trigrams,endings):
+	conn = pymysql.connect(host='smallsocialsystems.com', port=3306, user='smalls7_groupid', passwd='LetsPublish!', db='smalls7_identity')
 	cur = conn.cursor()
-
-
 	cur.execute("SELECT DISTINCT(Id) FROM survey;")
 
-
-
 	all_user_id=cur.fetchall()
-	
+
 	regex1=re.compile(r'(https?://\S+)') # This pulls the whole url.
 	regex2=re.compile("(?P<url>https?://[^\s/]+)") # This specifically pulls stems of URLs
 
@@ -344,7 +352,37 @@ def UserScores(words,stems,hashes,bigrams,trigrams,endings):
 	    UserFeatures[username]['hash']=ScoreGenerate(hash_final,hashes)
 	    UserFeatures[username]['stem']=ScoreGenerate(stems_for_user,stems)
 	    UserFeatures[username]['ending']=ScoreGenerate(endings_for_user,endings)
-		TweetsByUsers.append(TweetforUser.split())
+	    TweetsByUsers.append(TweetforUser.split())
+
+	return UserFeatures
+
+
+   
+
+
+
+def ScoreGenerate(UserSet,K_most_vector):
+    fullset=[word for word in UserSet if word in K_most_vector[0]+K_most_vector[1]]
+    setfreq=FreqDist(fullset)
+    v1=[setfreq.freq(word) for word in K_most_vector[0]]
+    v2=[setfreq.freq(word) for word in K_most_vector[1]]
+    finalscore=[v1,v2]
+
+    return finalscore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 if __name__ == "__main__":
@@ -353,13 +391,13 @@ if __name__ == "__main__":
 						help='Save intermediate files')
 	parser.add_argument('-l','--load', dest='loadfiles', metavar='LLL', default=0,
 						help='Load from files. Value indicates start point: 0) Do not load from files; 1) Load word lists of tweets; 2) Load extracted term lists')
-	args = parser.parse_args()
-	
-	if loadfiles == 0:
-		wordlist1,wordlist2 = genPartyWordLists(savefiles)
-		words,stems,hashes,bigrams,trigrams,endings = extractTerms(wordlist1,wordlist2, savefiles)
-		UserScores(words,stems,hashes,bigrams,trigrams,endings)
-	elif loadfiles == 1:
+	args = vars(parser.parse_args())
+
+	if args['loadfiles'] == '0':
+		wordlist1,wordlist2 = genPartyWordLists(args['savefiles'])
+		words,stems,hashes,bigrams,trigrams,endings = extractTerms(wordlist1,wordlist2, args['savefiles'])
+		UserScores(words,stems,hashes,bigrams,trigrams,endings, args['savefiles'])
+	elif args['loadfiles'] == '1':
 		fh1=open('WordLists.pkl','r')
 		wordlist1,wordlist2=cPickle.load(fh1)
 		fh1.close()
@@ -367,9 +405,9 @@ if __name__ == "__main__":
 		fh2=open('WordsByUser.pkl','r')
 		wbu1,wbu2=cPickle.load(fh22)
 		fh2.close()
-		words,stems,hashes,bigrams,trigrams,endings = extractTerms(wordlist1,wordlist2, savefiles)
-		UserScores(words,stems,hashes,bigrams,trigrams,endings)
-	elif loadfiles == 2:
+		words,stems,hashes,bigrams,trigrams,endings = extractTerms(wordlist1,wordlist2, args['savefiles'])
+		UserScores(words,stems,hashes,bigrams,trigrams,endings, args['savefiles'])
+	elif args['loadfiles'] == '2':
 		object1=open('k_words','r')
 		words=cPickle.load(object1)
 		object1.close()
@@ -393,7 +431,8 @@ if __name__ == "__main__":
 		fileObject=open("k_ending",'r')
 		endings=cPickle.load(fileObject)
 		fileObject.close()
-		UserScores(words,stems,hashes,bigrams,trigrams,endings)
-		
+		UserScores(words,stems,hashes,bigrams,trigrams,endings, args['savefiles'])
+
+
 		
     

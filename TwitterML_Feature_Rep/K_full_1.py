@@ -112,7 +112,7 @@ Party_list=[DemTweetSet,RepTweetSet]
 
 #random.shuffle(RepNames)
 
-Id_list=[DemNames,RepNames]
+
     
     
     
@@ -161,8 +161,21 @@ cPickle.dump(UserWordList,fileObject)
 
 fileObject.close()
 
-fileObject=open("IdList",'w+')
-cPickle.dump(Id_list,fileObject)
+fileObject=open("DemNames",'w+')
+cPickle.dump(DemNames,fileObject)
+
+
+fileObject.close()
+
+
+fileObject=open("RepNames",'w+')
+cPickle.dump(RepNames,fileObject)
+
+
+fileObject.close()
+
+
+
 
 
 
