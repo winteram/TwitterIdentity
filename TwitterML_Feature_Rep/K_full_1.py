@@ -26,7 +26,15 @@ import operator
 from stemming.porter2 import stem
 
 import random
+import numpy
 
+
+
+SEED_SIZE=.5
+
+DEVELOPMENT_SIZE=.3
+
+TEST_SIZE=.2
 
 
 
@@ -38,6 +46,13 @@ cur.execute("SELECT DISTINCT(survey.Id) FROM survey WHERE party = 'republican';"
 #This is the list of republicans
 
 RepList=cur.fetchall()
+
+RepList=[user[0] for user in RepList]
+
+
+
+
+random.shuffle(RepList) # randomize these each time
 
 
 
@@ -54,12 +69,11 @@ DemTweetSet=[]
 
 ## Assign sets for seed, training, and testing.
 for user in RepList:
-    username=user[0]
-    cur.execute("SELECT TweetText FROM tweet WHERE UserId='"+ username +"';")
+    cur.execute("SELECT TweetText FROM tweet WHERE UserId='"+ user +"';")
     tweets=cur.fetchall()
 
     if len(tweets) > 0:
-        RepNames.append(username)
+        RepNames.append(user)
         RepTweetSet.append(tweets)
 
 
@@ -70,17 +84,21 @@ cur.execute("SELECT DISTINCT(survey.Id) FROM survey WHERE party = 'democrat';")
     
 DemList=cur.fetchall()
 
+DemList=[user[0] for user in DemList]
+
+random.shuffle(DemList)
+
 
 
 
 
 for user in DemList:
-    username=user[0]
-    cur.execute("SELECT TweetText FROM tweet WHERE UserId='"+ username +"';")
+    
+    cur.execute("SELECT TweetText FROM tweet WHERE UserId='"+ user +"';")
     tweets=cur.fetchall()
 
     if len(tweets) > 0:
-        DemNames.append(username)
+        DemNames.append(user)
         DemTweetSet.append(tweets)
 
 
@@ -103,17 +121,24 @@ UserWordList=[]
 full_Wordlist=[]
 
 
+Seed_List=[]
+
+Dev_List=[]
+
+Test_List=[]
+
+
     
    
     
 Party_list=[DemTweetSet,RepTweetSet]
 
-#random.shuffle(DemNames)
-
-#random.shuffle(RepNames)
 
 
-    
+
+Seed_split=int(len(RepNames)* SEED_SIZE)
+
+Dev_split= Seed_split + int(len(RepNames)*DEVELOPMENT_SIZE)    
     
     
     
@@ -144,32 +169,61 @@ for party in Party_list:
 
     #   Complete_Tweets=Complete_Tweets + " " + All_Tweets # This is just a giant string with everything everyone has tweeted.
 
-    full_Wordlist.append(All_Tweets.split()) #This is a list with a list of all the words in the class
-    UserWordList.append(PartyUserWordlist)
+    #full_Wordlist.append(All_Tweets.split()) #This is a list with a list of all the words in the class
 
 
 
-fileObject=open("WordLists",'w+')
-cPickle.dump(full_Wordlist,fileObject)
+    IdList=[DemNames,RepNames]
+
+    Seed_List.append(PartyUserWordlist[0:Seed_split])
+
+    Dev_List.append(PartyUserWordlist[Seed_split:Dev_split])
+
+    Test_List.append(PartyUserWordlist[Dev_split:])
+
+
+
+    
+
+
+    #UserWordList.append(PartyUserWordlist)
+
+
+
+
+
+
+
+
+
+
+
+
+
+#fileObject=open("WordLists",'w+')
+#cPickle.dump(full_Wordlist,fileObject)
+
+#fileObject.close()
+
+
+fileObject=open("Seed_List",'w+')
+cPickle.dump(Seed_List,fileObject)
+
+fileObject.close()
+
+fileObject=open("Dev_List",'w+')
+cPickle.dump(Dev_List,fileObject)
+
 
 fileObject.close()
 
 
+fileObject=open("Test_List",'w+')
+cPickle.dump(Test_List,fileObject)
 
-fileObject=open("WordsByUser",'w+')
-cPickle.dump(UserWordList,fileObject)
+fileObject=open("IdList",'w+')
+cPickle.dump(IdList,fileObject)
 
-fileObject.close()
-
-fileObject=open("DemNames",'w+')
-cPickle.dump(DemNames,fileObject)
-
-
-fileObject.close()
-
-
-fileObject=open("RepNames",'w+')
-cPickle.dump(RepNames,fileObject)
 
 
 fileObject.close()

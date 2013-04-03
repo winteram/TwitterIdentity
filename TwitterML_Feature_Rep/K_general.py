@@ -1,12 +1,15 @@
-from __future__ import division
+from __future__ import division 
 import re
 from random import randrange
 from urllib import urlopen
 from bs4 import BeautifulSoup
 from twitter import *
+
 import nltk
+from nltk import *
 from nltk.corpus import PlaintextCorpusReader
 from nltk.corpus import stopwords
+from nltk.collocations import *
 from numpy import*
 import httplib
 import urlparse
@@ -19,22 +22,22 @@ from stemming.porter2 import stem
 #Minimum Frequency Thresholds
 
 
-UNIGRAM_THRESHOLD= 7
-BIGRAM_THRESHOLD = 5
-TRIGRAM_THRESHOLD= 4
-STEM_THRESHOLD= 7
-ENDING_THRESHOLD=5
-HASH_THRESHOLD= 4
+UNIGRAM_THRESHOLD= 4
+BIGRAM_THRESHOLD = 2
+TRIGRAM_THRESHOLD= 1
+STEM_THRESHOLD= 1
+ENDING_THRESHOLD=1
+HASH_THRESHOLD= 1
 
 
 #Minimum Number of Users Thresholds
 
-UNIGRAM_THRESHOLD_USER= 5
-BIGRAM_THRESHOLD_USER= 4
-TRIGRAM_THRESHOLD_USER= 2
-STEM_THRESHOLD_USER= 3
-ENDING_THRESHOLD_USER=2
-HASH_THRESHOLD_USER= 4
+UNIGRAM_THRESHOLD_USER= 1
+BIGRAM_THRESHOLD_USER= 1
+TRIGRAM_THRESHOLD_USER= 1
+STEM_THRESHOLD_USER= 1
+ENDING_THRESHOLD_USER=1
+HASH_THRESHOLD_USER= 1
 
 
 
@@ -73,11 +76,17 @@ def unshorten_url(url):
 #unpickle stuff Here
 #at the end, we probably want to store the scores to the database. #note this program will not treat a series of hashtags lumped togehter #term1#term2#t3 as separte entities. might modify this in a bit to account for that.   
 
-object1=open('WordLists','r')
-wordlists=cPickle.load(object1)
 
-object2=open('WordsByUser','r')
+
+
+#object1=open('WordLists','r')
+#wordlists=cPickle.load(object1)
+
+object2=open('Seed_List','r')
 WordsByUser=cPickle.load(object2)
+
+object3=open('IdList','r')
+IdList=cPickle.load(object3)
 
 #Note: wordlists[0]=Democrat Corpus(we make it G1), wordlist[1]=Republican corpus(G2)
 
@@ -422,7 +431,8 @@ def generate_K_most(G1Corp, G2Corp, n, j): # G1Corp= The words, hashtags, urls o
         
     for word in sorted_G1:
             count=0
-            if len(K_final1)==200 or word[1] <.6:
+            #if len(K_final1)==200 or word[1] <.7:
+            if word[1] <.7:
                 break
             for users in G1Corp:
                 if word[0] in users:
@@ -433,7 +443,8 @@ def generate_K_most(G1Corp, G2Corp, n, j): # G1Corp= The words, hashtags, urls o
         
     for word in sorted_G2:
             count=0
-            if len(K_final2)==200 or word[1] <.6:
+            #if len(K_final2)==200 or word[1] <.7:
+            if word[1] <.7:
                 break
             for users in G2Corp:
                 if word[0] in users:
