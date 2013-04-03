@@ -47,10 +47,10 @@ def genPartyWordLists(savefiles):
     cur = conn.cursor()
 
     cur.execute('SELECT survey.Id, TweetText FROM survey JOIN tweet WHERE survey.party = "'+party1+'" AND survey.Id=tweet.UserId ORDER BY survey.Id;')
-
+	
     # This is the list of users & tweets in party1
     G1List=cur.fetchall()
-
+	
     cur.execute('SELECT survey.Id, TweetText FROM survey JOIN tweet WHERE survey.party = "'+party2+'" AND survey.Id=tweet.UserId ORDER BY survey.Id;')
 
     # This is the list of users & tweets in party1
@@ -62,13 +62,13 @@ def genPartyWordLists(savefiles):
     words_by_user={}
     for party in party_list:
         for tweet in party:
-		user = tweet[0]
-		words = tweet[1].split(' ')
-		if user in words_by_user:
-			words_by_user[user].extend(words)
-		else:
-			words_by_user[user] = words
-		all_words.extend(words)
+			user = tweet[0]
+			words = tweet[1].split(' ')
+			if user in words_by_user:
+				words_by_user[user].extend(words)
+			else:
+				words_by_user[user] = words
+			all_words.extend(words)
 
     if savefiles:
 	    fileObject=open("WordLists.pkl",'w+')
@@ -299,9 +299,26 @@ def extractTerms(wordlists,WordsByUser,savefiles):
 	return (words,stems,hashes,bigrams,trigrams,endings)
 
 
+<<<<<<< HEAD
 def UserScores(words,stems,hashes,bigrams,trigrams,endings):
 	conn = pymysql.connect(host='smallsocialsystems.com', port=3306, user='smalls7_groupid', passwd='LetsPublish!', db='smalls7_identity')
 	cur = conn.cursor()
+=======
+
+def ScoreGenerate(UserSet,K_most_vector):
+    fullset=[word for word in UserSet if word in K_most_vector[0]+K_most_vector[1]]
+    setfreq=FreqDist(fullset)
+    v1=[setfreq.freq(word) for word in K_most_vector[0]]
+    v2=[setfreq.freq(word) for word in K_most_vector[1]]
+    finalscore=[v1,v2]
+
+    return finalscore
+
+def UserScores(words,stems,hashes,bigrams,trigrams,endings,savefiles):
+	conn = pymysql.connect(host='', port=3306, user='groupid', passwd='LetsPublish!', db='group_identity')
+	cur = conn.cursor()
+
+>>>>>>> 09a6d43c1f54d842ad83090dc4c8e21a1ec0fa48
 	cur.execute("SELECT DISTINCT(Id) FROM survey;")
 
 	all_user_id=cur.fetchall()
@@ -312,39 +329,41 @@ def UserScores(words,stems,hashes,bigrams,trigrams,endings):
 	UserFeatures={}
 
 	AllUserTweets=[]
-	TweetsByUsers=[] # This will eventually give us all the tweets in semi-tokenized form, for each user
+	# This will eventually give us all the tweets in semi-tokenized form, for each user
+	TweetsByUsers=[] 
 	for user in all_user_id[200:250]:
-	    username=user[0]
-	    cur.execute("SELECT TweetText FROM tweet WHERE UserId='"+ username +"';")
-	    temptweets1=cur.fetchall()
+		username=user[0]
+		cur.execute("SELECT TweetText FROM tweet WHERE UserId='"+ username +"';")
+		temptweets1=cur.fetchall()
 	    # I am pretty sure I can assign scores and dictionary elements here. I need to import the K-vectors, though.
-	    TweetforUser=""
-	    raw=[]
+		TweetforUser=""
+		raw=[]
 
-	    for tweets in temptweets1:
+		for tweets in temptweets1:
+			TweetforUser=TweetforUser + " " + tweets[0]# This is just the tweets by user
 
-	        TweetforUser=TweetforUser + " " + tweets[0]# This is just the tweets by user
+		raw=TweetforUser.split()
+		AllUserTweets.append(raw)
+		raw_URLforUser=[regex1.findall(word) for word in raw]
 
-	    raw=TweetforUser.split()
-	    AllUserTweets.append(raw)
-	    raw_URLforUser=[regex1.findall(word) for word in raw]
-	    #The findall function puts the output in brackets, so the next function is to take the brackets out- so it's no longer a nested list. 
-	    UserUrl=[word for words in raw_URLforUser for word in words]
-	    raw_HashforUser=[word for word in raw if word.startswith('#')]
-	    raw_MentionforUser=[word for word in raw if word.startswith('@')]
+	    # The findall function puts the output in brackets, so the next
+	    # function is to take the brackets out- so it's no longer a nested
+	    # list.
 
+		UserUrl=[word for words in raw_URLforUser for word in words]
+		raw_HashforUser=[word for word in raw if word.startswith('#')]
+		raw_MentionforUser=[word for word in raw if word.startswith('@')]
 
-	    hash_final=[word.lower() for word in raw_HashforUser]
+		hash_final=[word.lower() for word in raw_HashforUser]
 
-	    unigram1=[re.sub('[^a-zA-Z ]','',word).lower() for word in raw if word not in UserUrl + raw_HashforUser+ raw_MentionforUser]
+		unigram1=[re.sub('[^a-zA-Z ]','',word).lower() for word in raw if word not in UserUrl + raw_HashforUser+ raw_MentionforUser]
 
-	    bigrams_for_user=bigrams(unigram1)
-	    trigrams_for_user=trigrams(unigram1)
+		bigrams_for_user=bigrams(unigram1)
+		trigrams_for_user=trigrams(unigram1)
+		
+		stems_for_user=[stem(word) for word in unigram1]
 
-	    stems_for_user=[stem(word) for word in unigram1]
-
-	    endings_for_user=[re.sub(stem(word),'',word) for word in unigram1]
-
+<<<<<<< HEAD
 	    UserFeatures[username]={}
 	    UserFeatures[username]['unigram']=ScoreGenerate(unigram1,words)
 	    UserFeatures[username]['bigram']=ScoreGenerate(bigrams_for_user,bigrams)
@@ -383,7 +402,26 @@ def ScoreGenerate(UserSet,K_most_vector):
 
 
 
+=======
+		endings_for_user=[re.sub(stem(word),'',word) for word in unigram1]
+		
+		UserFeatures[username]={}
+		UserFeatures[username]['unigram']=ScoreGenerate(unigram1,words)
+		UserFeatures[username]['bigram']=ScoreGenerate(bigrams_for_user,bigrams)
+		UserFeatures[username]['trigram']=ScoreGenerate(trigrams_for_user,trigrams)
+		UserFeatures[username]['hash']=ScoreGenerate(hash_final,hashes)
+		UserFeatures[username]['stem']=ScoreGenerate(stems_for_user,stems)
+		UserFeatures[username]['ending']=ScoreGenerate(endings_for_user,endings)
+		TweetsByUsers.append(TweetforUser.split())
+>>>>>>> 09a6d43c1f54d842ad83090dc4c8e21a1ec0fa48
 
+	if savefiles:
+		fileObject=open("userscores.pkl",'w+')
+		cPickle.dump(UserFeatures,fileObject)
+		fileObject.close()
+		fileObject=open("tweetforuser.pkl",'w+')
+		cPickle.dump(TweetsByUsers,fileObject)
+		fileObject.close()
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser(description='Create tweet features for classifier')
@@ -392,7 +430,11 @@ if __name__ == "__main__":
 	parser.add_argument('-l','--load', dest='loadfiles', metavar='LLL', default=0,
 						help='Load from files. Value indicates start point: 0) Do not load from files; 1) Load word lists of tweets; 2) Load extracted term lists')
 	args = vars(parser.parse_args())
+<<<<<<< HEAD
 
+=======
+	
+>>>>>>> 09a6d43c1f54d842ad83090dc4c8e21a1ec0fa48
 	if args['loadfiles'] == '0':
 		wordlist1,wordlist2 = genPartyWordLists(args['savefiles'])
 		words,stems,hashes,bigrams,trigrams,endings = extractTerms(wordlist1,wordlist2, args['savefiles'])
@@ -432,7 +474,11 @@ if __name__ == "__main__":
 		endings=cPickle.load(fileObject)
 		fileObject.close()
 		UserScores(words,stems,hashes,bigrams,trigrams,endings, args['savefiles'])
+<<<<<<< HEAD
 
 
+=======
+		
+>>>>>>> 09a6d43c1f54d842ad83090dc4c8e21a1ec0fa48
 		
     
