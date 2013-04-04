@@ -3,6 +3,10 @@
 
 # These makes general function for positive and negative sets
 
+
+#sys.path.append('/Users/Asaf/Documents/TwitterIdentity/TwitterML_Feature_Rep')
+#os.chdir('/Users/Asaf/Documents/TwitterIdentity/TwitterML_Feature_Rep')
+
 from __future__ import division
 import re
 from random import randrange
@@ -21,6 +25,16 @@ import pymysql
 import operator
 from stemming.porter2 import stem
 
+import random
+import numpy
+
+
+
+SEED_SIZE=.5
+
+DEVELOPMENT_SIZE=.3
+
+TEST_SIZE=.2
 
 
 
@@ -33,9 +47,19 @@ cur.execute("SELECT DISTINCT(survey.Id) FROM survey WHERE party = 'republican';"
 
 RepList=cur.fetchall()
 
+RepList=[user[0] for user in RepList]
+
+
+
+
+random.shuffle(RepList) # randomize these each time
+
 
 
 UserNames=[] #This is a list with all the usernames as strings, not as tuples which is how they seem to be coming out.
+
+RepNames=[]
+DemNames=[]
 
 
 RepTweetSet=[] #Set of all Republican Tweets
@@ -43,19 +67,15 @@ RepTweetSet=[] #Set of all Republican Tweets
 DemTweetSet=[]
 
 
-### Go through test user names & get scores for each party
-for user in RepList[0:300]:
-    
-    # get tweets of target user
-    
-    username=user[0] #The username is the first element in a tuple
-    UserNames.append(username)
-    
-    cur.execute("SELECT TweetText FROM tweet WHERE UserId='"+ username +"';")
-    
+## Assign sets for seed, training, and testing.
+for user in RepList:
+    cur.execute("SELECT TweetText FROM tweet WHERE UserId='"+ user +"';")
     tweets=cur.fetchall()
-    
-    RepTweetSet.append(tweets)
+
+    if len(tweets) > 0:
+        RepNames.append(user)
+        RepTweetSet.append(tweets)
+
 
 
 
@@ -64,22 +84,22 @@ cur.execute("SELECT DISTINCT(survey.Id) FROM survey WHERE party = 'democrat';")
     
 DemList=cur.fetchall()
 
+DemList=[user[0] for user in DemList]
+
+random.shuffle(DemList)
 
 
 
 
-for user in DemList[0:300]:
+
+for user in DemList:
     
-    # get tweets of target user
-    
-    username=user[0]
-    UserNames.append(username)
-    
-    cur.execute("SELECT TweetText FROM tweet WHERE UserId='"+ username +"';")
-    
+    cur.execute("SELECT TweetText FROM tweet WHERE UserId='"+ user +"';")
     tweets=cur.fetchall()
-    
-    DemTweetSet.append(tweets)
+
+    if len(tweets) > 0:
+        DemNames.append(user)
+        DemTweetSet.append(tweets)
 
 
 #Should do some cleaning here before pickling- Basically all I need are two- raw- lists. One with all the tweets for each user, encapsulated by user, the other just one long list for of words for all the users- I can use the split function, as I had previously. Importantly- before doing bigrams and trigrams- after stuff has has been
@@ -101,11 +121,24 @@ UserWordList=[]
 full_Wordlist=[]
 
 
+Seed_List=[]
+
+Dev_List=[]
+
+Test_List=[]
+
+
     
-    
+   
     
 Party_list=[DemTweetSet,RepTweetSet]
-    
+
+
+
+
+Seed_split=int(len(RepNames)* SEED_SIZE)
+
+Dev_split= Seed_split + int(len(RepNames)*DEVELOPMENT_SIZE)    
     
     
     
@@ -136,22 +169,71 @@ for party in Party_list:
 
     #   Complete_Tweets=Complete_Tweets + " " + All_Tweets # This is just a giant string with everything everyone has tweeted.
 
-    full_Wordlist.append(All_Tweets.split()) #This is a list with a list of all the words in the class
-    UserWordList.append(PartyUserWordlist)
+    #full_Wordlist.append(All_Tweets.split()) #This is a list with a list of all the words in the class
 
 
 
-fileObject=open("WordLists",'w+')
-cPickle.dump(full_Wordlist,fileObject)
+    IdList=[DemNames,RepNames]
+
+    Seed_List.append(PartyUserWordlist[0:Seed_split])
+
+    Dev_List.append(PartyUserWordlist[Seed_split:Dev_split])
+
+    Test_List.append(PartyUserWordlist[Dev_split:])
+
+
+
+    
+
+
+    #UserWordList.append(PartyUserWordlist)
+
+
+
+
+
+
+
+
+
+
+
+
+
+#fileObject=open("WordLists",'w+')
+#cPickle.dump(full_Wordlist,fileObject)
+
+#fileObject.close()
+
+
+fileObject=open("Seed_List",'w+')
+cPickle.dump(Seed_List,fileObject)
+
+fileObject.close()
+
+fileObject=open("Dev_List",'w+')
+cPickle.dump(Dev_List,fileObject)
+
+
+fileObject.close()
+
+
+fileObject=open("Test_List",'w+')
+cPickle.dump(Test_List,fileObject)
+
+fileObject=open("IdList",'w+')
+cPickle.dump(IdList,fileObject)
+
+
 
 fileObject.close()
 
 
 
-fileObject=open("WordsByUser",'w+')
-cPickle.dump(UserWordList,fileObject)
 
-fileObject.close()
+
+
+
 
 
 

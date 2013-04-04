@@ -6,6 +6,7 @@ from random import randrange
 from urllib import urlopen
 from bs4 import BeautifulSoup
 from twitter import *
+import nltk
 from nltk import *
 from nltk.corpus import PlaintextCorpusReader
 from nltk.corpus import stopwords
@@ -57,15 +58,29 @@ k_ending=cPickle.load(fileObject)
 fileObject.close()
 
 
-conn = pymysql.connect(host='smallsocialsystems.com', port=3306, user='smalls7_groupid', passwd='LetsPublish!', db='smalls7_identity')
-cur = conn.cursor()
+fileObject=open("Dev_List",'r')
+Dev_List=cPickle.load(fileObject)
+
+fileObject.close()
+
+fileObject=open("Test_List",'r')
+Test_List=cPickle.load(fileObject)
+
+fileObject.close()
 
 
-cur.execute("SELECT DISTINCT(survey.Id) FROM survey;")
 
 
 
-all_user_id=cur.fetchall()
+#conn = pymysql.connect(host='smallsocialsystems.com', port=3306, user='smalls7_groupid', passwd='LetsPublish!', db='smalls7_identity')
+#cur = conn.cursor()
+
+
+#cur.execute("SELECT DISTINCT(survey.Id) FROM survey;")
+
+
+
+#all_user_id=cur.fetchall()
 
 
 regex1=re.compile(r'(https?://\S+)') #This pulls the whole url.
@@ -91,45 +106,128 @@ def ScoreGenerate(UserSet,K_most_vector):
 
 
 TweetsByUsers=[] # This will eventually give us all the tweets in semi-tokenized form, for each user
-for user in all_user_id[200:250]:
-    username=user[0]
-    cur.execute("SELECT TweetText FROM tweet WHERE UserId='"+ username +"';")
-    temptweets1=cur.fetchall()
-    # I am pretty sure I can assign scores and dictionary elements here. I need to import the K-vectors, though.
-    TweetforUser=""
-    raw=[]
 
-    for tweets in temptweets1:
-        
-        TweetforUser=TweetforUser + " " + tweets[0]# This is just the tweets by user
 
-    raw=TweetforUser.split()
-    AllUserTweets.append(raw)
-    raw_URLforUser=[regex1.findall(word) for word in raw]
+count =-1
+
+
+UserLabels=[]
+
+
+UserScores=[]
+
+
+
+for party in Dev_List:
+    count += 1
+    for user in party:
+        raw_URLforUser=[regex1.findall(word) for word in user]
     #The findall function puts the output in brackets, so the next function is to take the brackets out- so it's no longer a nested list. 
-    UserUrl=[word for words in raw_URLforUser for word in words]
-    raw_HashforUser=[word for word in raw if word.startswith('#')]
-    raw_MentionforUser=[word for word in raw if word.startswith('@')]
+        UserUrl=[word for words in raw_URLforUser for word in words]
+        raw_HashforUser=[word for word in user if word.startswith('#')]
+        raw_MentionforUser=[word for word in user if word.startswith('@')]
 
 
-    hash_final=[word.lower() for word in raw_HashforUser]
+        hash_final=[word.lower() for word in raw_HashforUser]
 
-    unigram1=[re.sub('[^a-zA-Z ]','',word).lower() for word in raw if word not in UserUrl + raw_HashforUser+ raw_MentionforUser]
+        unigram1=[re.sub('[^a-zA-Z ]','',word).lower() for word in user if word not in UserUrl + raw_HashforUser+ raw_MentionforUser]
 
-    bigrams_for_user=bigrams(unigram1)
-    trigrams_for_user=trigrams(unigram1)
+        bigrams_for_user=bigrams(unigram1)
+        trigrams_for_user=trigrams(unigram1)
 
-    stems_for_user=[stem(word) for word in unigram1]
+        stems_for_user=[stem(word) for word in unigram1]
 
-    endings_for_user=[re.sub(stem(word),'',word) for word in unigram1]
+        
 
-    UserFeatures[username]={}
-    UserFeatures[username]['unigram']=ScoreGenerate(unigram1,k_words)
-    UserFeatures[username]['bigram']=ScoreGenerate(bigrams_for_user,k_bigram)
-    UserFeatures[username]['trigram']=ScoreGenerate(trigrams_for_user,k_trigram)
-    UserFeatures[username]['hash']=ScoreGenerate(hash_final,k_hash)
-    UserFeatures[username]['stem']=ScoreGenerate(stems_for_user,k_stems)
-    UserFeatures[username]['ending']=ScoreGenerate(endings_for_user,k_ending)
+        endings_for_user=[re.sub(stem(word),'',word) for word in unigram1]
+
+
+       
+        unigram=ScoreGenerate(unigram1,k_words)
+        bigram=ScoreGenerate(bigrams_for_user,k_bigram)
+        trigram=ScoreGenerate(trigrams_for_user,k_trigram)
+        hashtag=ScoreGenerate(hash_final,k_hash)
+        stem=ScoreGenerate(stems_for_user,k_stems)
+        ending=ScoreGenerate(endings_for_user,k_ending)
+
+        UserScores+=[[sum(unigram[0]),sum(unigram[1]),sum(bigram[0]),sum(bigram[1]), sum(trigram[0]), sum(hashtag[0]),sum(hashtag[1]),sum(stem[0]),sum(stem[1]), sum(ending[0]), sum(ending[1]), numpy.var(unigram[0]),numpy.var(unigram[1]),numpy.var(bigram[0]),numpy.var(bigram[1]), numpy.var(trigram[0]), numpy.var(hashtag[0]),numpy.var(hashtag[1]),numpy.var(stem[0]),numpy.var(stem[1]), numpy.var(ending[0]),numpy.var(ending[1])]]
+
+        UserLabels.append(count)
+
+
+
+
+
+
+TestScores=[]
+TestLabels=[]
+
+count=-1
+
+
+
+for party in Test_List:
+    count += 1
+    for user in party:
+        raw_URLforUser=[regex1.findall(word) for word in user]
+    #The findall function puts the output in brackets, so the next function is to take the brackets out- so it's no longer a nested list. 
+        UserUrl=[word for words in raw_URLforUser for word in words]
+        raw_HashforUser=[word for word in user if word.startswith('#')]
+        raw_MentionforUser=[word for word in user if word.startswith('@')]
+
+
+        hash_final=[word.lower() for word in raw_HashforUser]
+
+        unigram1=[re.sub('[^a-zA-Z ]','',word).lower() for word in user if word not in UserUrl + raw_HashforUser+ raw_MentionforUser]
+
+        bigrams_for_user=bigrams(unigram1)
+        trigrams_for_user=trigrams(unigram1)
+
+        stems_for_user=[stem(word) for word in unigram1]
+
+        
+
+        endings_for_user=[re.sub(stem(word),'',word) for word in unigram1]
+
+
+       
+        unigram=ScoreGenerate(unigram1,k_words)
+        bigram=ScoreGenerate(bigrams_for_user,k_bigram)
+        trigram=ScoreGenerate(trigrams_for_user,k_trigram)
+        hashtag=ScoreGenerate(hash_final,k_hash)
+        stem=ScoreGenerate(stems_for_user,k_stems)
+        ending=ScoreGenerate(endings_for_user,k_ending)
+
+        TestScores+=[[sum(unigram[0]),sum(unigram[1]),sum(bigram[0]),sum(bigram[1]), sum(trigram[0]), sum(hashtag[0]),sum(hashtag[1]),sum(stem[0]),sum(stem[1]), sum(ending[0]), sum(ending[1]), numpy.var(unigram[0]),numpy.var(unigram[1]),numpy.var(bigram[0]),numpy.var(bigram[1]), numpy.var(trigram[0]), numpy.var(hashtag[0]),numpy.var(hashtag[1]),numpy.var(stem[0]),numpy.var(stem[1]), numpy.var(ending[0]),numpy.var(ending[1])]]
+
+        TestLabels.append(count)
+
+
+
+
+        
+
+
+        #UserFeatures[username]={}
+        #UserFeatures[username]['unigram']=ScoreGenerate(unigram1,k_words)
+        #UserFeatures[username]['bigram']=ScoreGenerate(bigrams_for_user,k_bigram)
+        #UserFeatures[username]['trigram']=ScoreGenerate(trigrams_for_user,k_trigram)
+        #UserFeatures[username]['hash']=ScoreGenerate(hash_final,k_hash)
+        #UserFeatures[username]['stem']=ScoreGenerate(stems_for_user,k_stems)
+        #UserFeatures[username]['ending']=ScoreGenerate(endings_for_user,k_ending)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -206,7 +304,7 @@ for user in all_user_id[200:250]:
 #G1FullURL=[word for words in G1URL_temp for word in words]
 
     
-    TweetsByUsers.append(TweetforUser.split())
+   
 
 
 
