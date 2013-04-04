@@ -19,6 +19,9 @@ names(outdegrees.crawled) <- c("Id","out.crawl")
 names(indegrees.crawled) <- c("Id","in.crawl")
 names(tweets.crawled) <- c("Id","tweets.crawl")
 
+# number of distinct users crawled
+num.users <- dbGetQuery(con, "select count(a.Id) from (select TwitterAccountNodeId as Id from relationship UNION DISTINCT select TwitterAccountParentId as Id from relationship) a;")
+
 on.exit(dbDisconnect(con))
 
 profile <- merge(profile, outdegrees.crawled, by="Id", all.x=TRUE)
