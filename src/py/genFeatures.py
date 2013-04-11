@@ -6,8 +6,8 @@ import pymysql
 import re
 from random import randrange
 from urllib import urlopen
-from bs4 import BeautifulSoup
-#import BeautifulSoup
+#from bs4 import BeautifulSoup
+import BeautifulSoup
 from twitter import *
 from nltk import *
 #from nltk.corpus import PlaintextCorpusReader
