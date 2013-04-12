@@ -3,6 +3,7 @@
 source("reorder.levels.R")
 library(RMySQL)
 library(ggplot2)
+library(gdata)
 theme_set(theme_bw())
 
 m<-dbDriver("MySQL")
@@ -91,3 +92,12 @@ own.freq <- as.data.frame(own.freq)
 write.csv(own.freq, "own_freq.csv")
 
 ggplot(subset(own.freq, own.freq>1), aes(x=own.freq)) + geom_histogram(color="black", fill="white")
+
+own.freq <- read.csv("own_freq.csv")
+names(own.freq) <- c("own.group","freq")
+own.freq.30 <- subset(own.freq, freq>30 & own.group != '')
+own.freq.30$own.group <- drop.levels(own.freq.30$own.group)
+own.freq.30$own.group.2 <- reorder(own.freq.30$own.group, own.freq.30$freq)
+own.freq.30$own.group <- reorder.levels(own.freq.30$own.group, rev(own.freq.30$own.group.2))
+ggplot(own.freq.30, aes(x=own.group,y=freq)) + geom_bar() + coord_flip() + labs(y="Frequency",x="Self-nominated Group Identity")
+ggsave('own_group_freqs.png',width=6,height=5)
