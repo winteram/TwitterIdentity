@@ -125,7 +125,7 @@ for party in Dev_List:
     #The findall function puts the output in brackets, so the next function is to take the brackets out- so it's no longer a nested list. 
         UserUrl=[word for words in raw_URLforUser for word in words]
         raw_HashforUser=[word for word in user if word.startswith('#')]
-        raw_MentionforUser=[word for word in user if word.startswith('@')]
+        raw_MentionforUser=[word for word in user if word.startswith('@') or word.startswith('http')]
 
 
         hash_final=[word.lower() for word in raw_HashforUser]

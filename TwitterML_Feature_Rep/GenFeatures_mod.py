@@ -366,7 +366,7 @@ def UserScores(words,stems,hashes,bigrams,trigrams,endings):
 	    UserFeatures[username]['ending']=ScoreGenerate(endings_for_user,endings)
 		TweetsByUsers.append(TweetforUser.split())
 
-		return UserFeatures
+	return UserFeatures
 
 
 if __name__ == "__main__":

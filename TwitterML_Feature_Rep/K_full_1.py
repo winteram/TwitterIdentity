@@ -24,11 +24,20 @@ import cPickle
 import pymysql
 import operator
 from stemming.porter2 import stem
-
 import random
 import numpy
+from collections import defaultdict
 
 
+
+
+conn = pymysql.connect(host='smallsocialsystems.com', port=3306, user='smalls7_groupid', passwd='LetsPublish!', db='smalls7_identity')
+
+cur = conn.cursor()
+
+cur.execute("SELECT TwitterAccountNodeId, TwitterAccountParentId from relationship, survey where relationship.TwitterAccountNodeId = survey.Id;")
+
+biglist=cur.fetchall()
 
 SEED_SIZE=.5
 
@@ -38,8 +47,13 @@ TEST_SIZE=.2
 
 
 
-conn = pymysql.connect(host='smallsocialsystems.com', port=3306, user='smalls7_groupid', passwd='LetsPublish!', db='smalls7_identity')
-cur = conn.cursor()
+Ufollowers=defaultdict(list)
+
+
+
+for name,follower in biglist:
+    Ufollowers[name].append(follower)
+
 
 cur.execute("SELECT DISTINCT(survey.Id) FROM survey WHERE party = 'republican';")
 
@@ -48,6 +62,8 @@ cur.execute("SELECT DISTINCT(survey.Id) FROM survey WHERE party = 'republican';"
 RepList=cur.fetchall()
 
 RepList=[user[0] for user in RepList]
+
+RepList=[name for name in RepList if name in Ufollowers.keys()]
 
 
 
@@ -66,6 +82,10 @@ RepTweetSet=[] #Set of all Republican Tweets
 
 DemTweetSet=[]
 
+DemFollows=[] #Set of names the participant follows
+
+RepFollows=[] 
+
 
 ## Assign sets for seed, training, and testing.
 for user in RepList:
@@ -75,6 +95,7 @@ for user in RepList:
     if len(tweets) > 0:
         RepNames.append(user)
         RepTweetSet.append(tweets)
+        RepFollows.append(Ufollowers[user])
 
 
 
@@ -86,7 +107,14 @@ DemList=cur.fetchall()
 
 DemList=[user[0] for user in DemList]
 
+DemList=[name for name in DemList if name in Ufollowers.keys()]
+
 random.shuffle(DemList)
+
+
+
+
+
 
 
 
@@ -100,10 +128,15 @@ for user in DemList:
     if len(tweets) > 0:
         DemNames.append(user)
         DemTweetSet.append(tweets)
+        DemFollows.append(Ufollowers[user])
+
 
 
 #Should do some cleaning here before pickling- Basically all I need are two- raw- lists. One with all the tweets for each user, encapsulated by user, the other just one long list for of words for all the users- I can use the split function, as I had previously. Importantly- before doing bigrams and trigrams- after stuff has has been
 #lower-cased, remove everything but alpha numeric stuff (this is after hashtags and urls have been pulled out. I say this because when I was playing with the trigram- there were periods and stuff. We don't want that- actually I could probably just run word tokenize or something on the list- does it work for a list, lets check. 
+
+
+
 
 
 tweetText = ""
@@ -128,7 +161,7 @@ Dev_List=[]
 Test_List=[]
 
 
-    
+ #Note this assumes, as in our sample there are more Democrats than republicans. I can make this more general later...   
    
     
 Party_list=[DemTweetSet,RepTweetSet]
@@ -171,9 +204,10 @@ for party in Party_list:
 
     #full_Wordlist.append(All_Tweets.split()) #This is a list with a list of all the words in the class
 
-
+    
 
     IdList=[DemNames,RepNames]
+
 
     Seed_List.append(PartyUserWordlist[0:Seed_split])
 
@@ -190,6 +224,11 @@ for party in Party_list:
 
 
 
+Seed_Follow=[DemFollows[0:Seed_split],RepFollows[0:Seed_split]]
+
+Dev_Follow=[DemFollows[Seed_split:Dev_split],RepFollows[Seed_split:Dev_split]]
+
+Test_Follow=[DemFollows[Dev_split:],RepFollows[Dev_split:]]
 
 
 
@@ -214,9 +253,7 @@ fileObject.close()
 fileObject=open("Dev_List",'w+')
 cPickle.dump(Dev_List,fileObject)
 
-
 fileObject.close()
-
 
 fileObject=open("Test_List",'w+')
 cPickle.dump(Test_List,fileObject)
@@ -224,7 +261,20 @@ cPickle.dump(Test_List,fileObject)
 fileObject=open("IdList",'w+')
 cPickle.dump(IdList,fileObject)
 
+fileObject.close()
 
+fileObject=open("Seed_Follow",'w+')
+cPickle.dump(Seed_Follow,fileObject)
+
+fileObject.close()
+
+fileObject=open("Dev_Follow",'w+')
+cPickle.dump(Dev_Follow,fileObject)
+
+fileObject.close()
+
+fileObject=open("Test_Follow",'w+')
+cPickle.dump(Test_Follow,fileObject)
 
 fileObject.close()
 
