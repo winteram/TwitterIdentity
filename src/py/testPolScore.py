@@ -81,17 +81,17 @@ def parseTweets(nameList):
         
         ## TODO: pull out URLs first and parse their text?
         # takes everything but alpha characters and hashtags from the string
-        #clean_two = re.sub('[^a-zA-Z #]', '', x)
+        clean_two = re.sub('[^a-zA-Z #]', '', x)
 
         ## TODO:  This is actually the encoding of the string
         # this leaves u's at the beginning of things, so we need pull these out. 
-        #clean_two = re.sub('u(?P<beg>[A-Z])', '\g<beg>', clean_two)
+        clean_two = re.sub('u(?P<beg>[A-Z])', '\g<beg>', clean_two)
 
         ## TODO: Probably these are line endings?  
         # there are still also n's, those should be removed.
-        #clean_two = re.sub(' n ', '', clean_two)
-        #clean_two = re.sub('n(?P<beg>[A-Z])', '\g<beg>', clean_two)
-        #clean_two = clean_two.lower()
+        clean_two = re.sub(' n ', '', clean_two)
+        clean_two = re.sub('n(?P<beg>[A-Z])', '\g<beg>', clean_two)
+        clean_two = clean_two.lower()
 
     return [w for w in word_tokenize(clean_two)]
 

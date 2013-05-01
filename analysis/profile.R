@@ -8,8 +8,9 @@ theme_set(theme_bw())
 
 m<-dbDriver("MySQL")
 con <- dbConnect(m,
-                 user="groupid", password="LetsPublish!",
-                 dbname="group_identity", host="wmason.mgnt.stevens-tech.edu")
+                 user='smalls7_groupid', password="LetsPublish!",
+                 dbname='smalls7_identity', host='smallsocialsystems.com')
+
 
 survey <- dbGetQuery(con, "select * from survey")
 profile <- dbGetQuery(con, "select * from profile")

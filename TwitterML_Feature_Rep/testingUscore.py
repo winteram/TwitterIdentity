@@ -13,10 +13,13 @@ from numpy import*
 import httplib
 import urlparse
 import cPickle
+import pickle
 import pymysql
 import operator
 from stemming.porter2 import stem
 import copy
+
+
 
 
 
@@ -63,10 +66,33 @@ fileObject.close()
 
 
 fileObject=open("Test_List",'r')
-Test_List=cPickle.load(fileObject)
+Test_List=pickle.load(fileObject)
 
 
 fileObject.close()
+
+fileObject=open("k_follow",'r')
+k_follow=pickle.load(fileObject)
+
+
+fileObject.close()
+
+fileObject=open("Dev_Follow",'r')
+Dev_Follow=pickle.load(fileObject)
+
+
+fileObject.close()
+
+fileObject=open("Test_Follow",'r')
+Test_Follow=pickle.load(fileObject)
+
+fileObject.close()
+
+
+
+
+
+
 
 
 
@@ -99,7 +125,6 @@ def ScoreGenerate(UserSet,K_most_vector):
     v1=[setfreq.freq(word) for word in K_most_vector[0]]
     v2=[setfreq.freq(word) for word in K_most_vector[1]]
     finalscore=[v1,v2]
-
     return finalscore
 
 
@@ -113,14 +138,40 @@ UserLabels=[]
 
 
 UserScores=[]
+UserScores2=[]
 
 TestScores=[]
+TestScores2=[]
 
 TestLabels=[]
 
-for party in Dev_List:
+UnigramScores=[]
+BigramScores=[]
+TrigramScores=[]
+HashScores=[]
+StemScores=[]
+EndingScores=[]
+FollowScores=[]
+
+t_UnigramScores=[]
+t_BigramScores=[]
+t_TrigramScores=[]
+t_HashScores=[]
+t_StemScores=[]
+t_EndingScores=[]
+t_FollowScores=[]
+
+
+
+
+
+
+
+count =-1
+
+for i,party in enumerate(Dev_List):
     count += 1
-    for user in party:
+    for j,user in enumerate(party):
         raw_URLforUser=[regex1.findall(word) for word in user]
     #The findall function puts the output in brackets, so the next function is to take the brackets out- so it's no longer a nested list. 
         UserUrl=[word for words in raw_URLforUser for word in words]
@@ -144,18 +195,28 @@ for party in Dev_List:
         hashtag=ScoreGenerate(hash_final,k_hash)
         stem1=ScoreGenerate(stems_for_user,k_stems)
         ending=ScoreGenerate(endings_for_user,k_ending)
+        follows=ScoreGenerate(Dev_Follow[i][j],k_follow)
 
         UserScores+=[[sum(unigram[0]),sum(unigram[1]),sum(bigram[0]),sum(bigram[1]), sum(trigram[0]), sum(trigram[1]), sum(hashtag[0]),sum(hashtag[1]),sum(stem1[0]),sum(stem1[1]), sum(ending[0]), sum(ending[1]), numpy.var(unigram[0]),numpy.var(unigram[1]),numpy.var(bigram[0]),numpy.var(bigram[1]), numpy.var(trigram[0]),numpy.var(trigram[1]), numpy.var(hashtag[0]),numpy.var(hashtag[1]),numpy.var(stem1[0]),numpy.var(stem1[1]), numpy.var(ending[0]),numpy.var(ending[1])]]
+        UserScores2+=[[sum(unigram[0]),sum(unigram[1]),sum(bigram[0]),sum(bigram[1]), sum(trigram[0]), sum(trigram[1]), sum(hashtag[0]),sum(hashtag[1]),sum(stem1[0]),sum(stem1[1]), sum(ending[0]), sum(ending[1]),sum(follows[0]),sum(follows[1])]]
         #UserScores+=[[sum(unigram[0]),sum(unigram[1])]]
         UserLabels.append(count)
+
+        EndingScores+=[ending[0]+ending[1]]
+        HashScores+=[hashtag[0]+hashtag[1]]
+        TrigramScores+=[trigram[0]+trigram[1]]
+        UnigramScores+=[unigram[0]+unigram[1]]
+        BigramScores+=[bigram[0]+bigram[1]]
+        StemScores+=[stem1[0]+stem1[1]]
+        FollowScores+=[follows[0]+follows[1]]
 
 
 
 count = -1
 
-for party in Test_List:
+for i, party in enumerate(Test_List):
     count += 1
-    for user in party:
+    for j, user in enumerate(party):
         raw_URLforUser=[regex1.findall(word) for word in user]
     #The findall function puts the output in brackets, so the next function is to take the brackets out- so it's no longer a nested list. 
         UserUrl=[word for words in raw_URLforUser for word in words]
@@ -179,8 +240,53 @@ for party in Test_List:
         hashtag=ScoreGenerate(hash_final,k_hash)
         stem1=ScoreGenerate(stems_for_user,k_stems)
         ending=ScoreGenerate(endings_for_user,k_ending)
+        follows=ScoreGenerate(Test_Follow[i][j],k_follow)
 
         TestScores+=[[sum(unigram[0]),sum(unigram[1]),sum(bigram[0]),sum(bigram[1]), sum(trigram[0]), sum(trigram[1]), sum(hashtag[0]),sum(hashtag[1]),sum(stem1[0]),sum(stem1[1]), sum(ending[0]), sum(ending[1]), numpy.var(unigram[0]),numpy.var(unigram[1]),numpy.var(bigram[0]),numpy.var(bigram[1]), numpy.var(trigram[0]),numpy.var(trigram[1]), numpy.var(hashtag[0]),numpy.var(hashtag[1]),numpy.var(stem1[0]),numpy.var(stem1[1]), numpy.var(ending[0]),numpy.var(ending[1])]]
         #UserScores+=[[sum(unigram[0]),sum(unigram[1])]]
         TestLabels.append(count)
+        
+        TestScores2+=[[sum(unigram[0]),sum(unigram[1]),sum(bigram[0]),sum(bigram[1]), sum(trigram[0]), sum(trigram[1]), sum(hashtag[0]),sum(hashtag[1]),sum(stem1[0]),sum(stem1[1]), sum(ending[0]), sum(ending[1]),sum(follows[0]),sum(follows[1])]]
+        t_EndingScores+=[ending[0]+ending[1]]
+        t_HashScores+=[hashtag[0]+hashtag[1]]
+        t_TrigramScores+=[trigram[0]+trigram[1]]
+        t_UnigramScores+=[unigram[0]+unigram[1]]
+        t_BigramScores+=[bigram[0]+bigram[1]]
+        t_StemScores+=[stem1[0]+stem1[1]]
+        t_FollowScores+=[follows[0]+follows[1]]
+
+
+
+
+
+
+
+
+eval_labels=["Endings","Hash-Tags","Trigrams","Unigrams","Bigrams","Stems","Summed Scores with Variances","Summed Scores", "Following"]
+TestingScoreList=[t_EndingScores,t_HashScores,t_TrigramScores,t_UnigramScores,t_BigramScores,t_StemScores,TestScores,TestScores2,t_FollowScores]
+
+TrainingScoreList=[EndingScores,HashScores,TrigramScores,UnigramScores,BigramScores,StemScores,UserScores,UserScores2,FollowScores]
+
+
+
+
+fileObject=open("eval_labels",'w+')
+cPickle.dump(eval_labels,fileObject)
+fileObject.close()
+
+fileObject=open("TestingScoreList",'w+')
+cPickle.dump(TestingScoreList,fileObject)
+fileObject.close()
+
+fileObject=open("TrainingScoreList",'w+')
+cPickle.dump(TrainingScoreList,fileObject)
+fileObject.close()
+
+fileObject=open("TestLabels",'w+')
+cPickle.dump(TestLabels,fileObject)
+fileObject.close()
+
+fileObject=open("UserLabels",'w+')
+cPickle.dump(UserLabels,fileObject)
+fileObject.close()
 

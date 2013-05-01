@@ -22,12 +22,13 @@ from stemming.porter2 import stem
 #Minimum Frequency Thresholds
 
 
-UNIGRAM_THRESHOLD= 4
-BIGRAM_THRESHOLD = 4
-TRIGRAM_THRESHOLD= 3
-STEM_THRESHOLD= 3
-ENDING_THRESHOLD=3
-HASH_THRESHOLD= 3
+UNIGRAM_THRESHOLD= 6
+BIGRAM_THRESHOLD = 6
+TRIGRAM_THRESHOLD= 6
+STEM_THRESHOLD= 6
+ENDING_THRESHOLD=6
+HASH_THRESHOLD= 6
+FOLLOWER_THRESHOLD=3
 
 
 #Minimum Number of Users Thresholds
@@ -38,6 +39,7 @@ TRIGRAM_THRESHOLD_USER= 3
 STEM_THRESHOLD_USER= 3
 ENDING_THRESHOLD_USER= 3
 HASH_THRESHOLD_USER= 3
+FOLLOWER_THRESHOLD_USER=3
 
 
 
@@ -83,10 +85,15 @@ def unshorten_url(url):
 #wordlists=cPickle.load(object1)
 
 object2=open('Seed_List','r')
-WordsByUser=cPickle.load(object2)
+Seed_List=cPickle.load(object2)
+
 
 object3=open('IdList','r')
 IdList=cPickle.load(object3)
+
+
+object4=open('Seed_Follow', 'r')
+Seed_Follow=cPickle.load(object4)
 
 #Note: wordlists[0]=Democrat Corpus(we make it G1), wordlist[1]=Republican corpus(G2)
 
@@ -99,12 +106,12 @@ regex2=re.compile("(?P<url>https?://[^\s/]+)")# This specifically pulls stems of
 
 
 
-G1URL_temp_users=[[regex1.findall(word) for word in users] for users in WordsByUser[0]]
+G1URL_temp_users=[[regex1.findall(word) for word in users] for users in Seed_List[0]]
 G1FullURL_users=[[word for user in users for word in user] for users in G1URL_temp_users]
 
 
 
-G2URL_temp_users=[[regex1.findall(word) for word in users] for users in WordsByUser[1]]
+G2URL_temp_users=[[regex1.findall(word) for word in users] for users in Seed_List[1]]
 G2FullURL_users=[[word for user in users for word in user] for users in G1URL_temp_users]
 
 
@@ -158,21 +165,21 @@ G2FullURL_users=[[word for user in users for word in user] for users in G1URL_te
 
 #Now, we want to separate the hashtags terms
 
-#G1URL_temp_users1=[[regex1.findall(word) for word in users] for users in WordsByUser[0]]
+#G1URL_temp_users1=[[regex1.findall(word) for word in users] for users in Seed_List[0]]
 
 #G1FullURL_users=[[word for user in users for word in user] for users in G1URL_temp_users1]
 
 
-G1Hash_users=[[word for word in users if word.startswith('#')] for users in WordsByUser[0]] #This will pull hashtag terms for Democrats
+G1Hash_users=[[word for word in users if word.startswith('#')] for users in Seed_List[0]] #This will pull hashtag terms for Democrats
 
 
-G2Hash_users=[[word for word in users if word.startswith('#')] for users in WordsByUser[1]] 
+G2Hash_users=[[word for word in users if word.startswith('#')] for users in Seed_List[1]] 
 
 #Above sets are used for exclusion purposes in a later piece of code. The code below is a bit redundant but makes everytihng lowercase.
 
 
-G1HashFinalUser= [[re.sub('[^a-zA-Z# ]','',word).lower() for word in users if word.startswith('#')] for users in WordsByUser[0]]
-G2HashFinalUser= [[re.sub('[^a-zA-Z# ]','',word).lower() for word in users if word.startswith('#')] for users in WordsByUser[1]]
+G1HashFinalUser= [[re.sub('[^a-zA-Z# ]','',word).lower() for word in users if word.startswith('#')] for users in Seed_List[0]]
+G2HashFinalUser= [[re.sub('[^a-zA-Z# ]','',word).lower() for word in users if word.startswith('#')] for users in Seed_List[1]]
 
 
 
@@ -183,9 +190,9 @@ G2HashFinalUser= [[re.sub('[^a-zA-Z# ]','',word).lower() for word in users if wo
 
 #G2Hash=[word for word in wordlists[1] if word.startswith('#')]
 
-G1Mentions =[[word for word in users if word.startswith('@')] for users in WordsByUser[0]]
+G1Mentions =[[word for word in users if word.startswith('@') or word.startswith('http')] for users in Seed_List[0]]
 
-G2Mentions =[[word for word in users if word.startswith('@')] for users in WordsByUser[1]]
+G2Mentions =[[word for word in users if word.startswith('@') or word.startswith('http')] for users in Seed_List[1]]
 
 
 
@@ -204,7 +211,7 @@ Unigrams_Group1_by_User=[]
 words_for_ngrams1=[] #This will be the same as the unigram list EXCEPT it will include words of 2 or less characters for construction of bigrams and trigrams
 
 
-for i, user in enumerate(WordsByUser[0]):
+for i, user in enumerate(Seed_List[0]):
     k=[re.sub('[^a-zA-Z ]','',word).lower() for word in user if word not in G1Hash_users[i] + G1FullURL_users[i] + G1Mentions[i] and len(word) > 2]
     w=[re.sub('[^a-zA-Z ]','',word).lower() for word in user if word not in G1Hash_users[i] + G1FullURL_users[i] + G1Mentions[i]]
     Unigrams_Group1_by_User.append(k)
@@ -216,7 +223,7 @@ Unigrams_Group2_by_User=[]
 
 words_for_ngrams2=[] 
 
-for i, user in enumerate(WordsByUser[1]):
+for i, user in enumerate(Seed_List[1]):
     k=[re.sub('[^a-zA-Z ]','',word).lower() for word in user if word not in G2Hash_users[i] + G2FullURL_users[i] + G2Mentions[i] and len(word) > 2]
     w=[re.sub('[^a-zA-Z ]','',word).lower() for word in user if word not in G2Hash_users[i] + G2FullURL_users[i] + G2Mentions[i]] 
     Unigrams_Group2_by_User.append(k)
@@ -424,15 +431,15 @@ def generate_K_most(G1Corp, G2Corp, n, j): # G1Corp= The words, hashtags, urls o
     K_final1=[]
     K_final2=[]
 
-#This part filters out words that appear among less than j users- In the WordsByUser- It would probably be smarter to split it up before importing- this way it's not contingent on knowing how many
+#This part filters out words that appear among less than j users- In the Seed_List- It would probably be smarter to split it up before importing- this way it's not contingent on knowing how many
 #users are present. Maybe make 
 
     
         
     for word in sorted_G1:
             count=0
-            #if len(K_final1)==200 or word[1] <.7:
-            if word[1] <.7:
+            if len(K_final1)==200 or word[1] <.65:
+            
                 break
             for users in G1Corp:
                 if word[0] in users:
@@ -443,8 +450,8 @@ def generate_K_most(G1Corp, G2Corp, n, j): # G1Corp= The words, hashtags, urls o
         
     for word in sorted_G2:
             count=0
-            #if len(K_final2)==200 or word[1] <.7:
-            if word[1] <.7:
+            if len(K_final2)==200 or word[1] <.65:
+            
                 break
             for users in G2Corp:
                 if word[0] in users:
@@ -477,6 +484,8 @@ k_most_bigrams=generate_K_most(G1Bigram_by_User,G2Bigram_by_User,BIGRAM_THRESHOL
 k_most_trigrams=generate_K_most(G1Trigram_by_User,G2Trigram_by_User,TRIGRAM_THRESHOLD,TRIGRAM_THRESHOLD_USER)
 
 k_most_ending=generate_K_most(G1ending_by_User,G2ending_by_User,ENDING_THRESHOLD,ENDING_THRESHOLD_USER)
+
+k_most_follow=generate_K_most(Seed_Follow[0],Seed_Follow[1], FOLLOWER_THRESHOLD,FOLLOWER_THRESHOLD_USER )
 
 
 #put in endings by user
@@ -516,6 +525,12 @@ fileObject=open("k_ending",'w+')
 cPickle.dump(k_most_ending,fileObject)
 
 fileObject.close()
+
+fileObject=open("k_follow",'w+')
+cPickle.dump(k_most_follow,fileObject)
+
+fileObject.close()
+
 
 
 
