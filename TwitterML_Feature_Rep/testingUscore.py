@@ -195,11 +195,13 @@ for i,party in enumerate(Dev_List):
         hashtag=ScoreGenerate(hash_final,k_hash)
         stem1=ScoreGenerate(stems_for_user,k_stems)
         ending=ScoreGenerate(endings_for_user,k_ending)
-        follows=ScoreGenerate(Dev_Follow[i][j],k_follow)
+        #follows=ScoreGenerate(Dev_Follow[i][j],k_follow)
 
         UserScores+=[[sum(unigram[0]),sum(unigram[1]),sum(bigram[0]),sum(bigram[1]), sum(trigram[0]), sum(trigram[1]), sum(hashtag[0]),sum(hashtag[1]),sum(stem1[0]),sum(stem1[1]), sum(ending[0]), sum(ending[1]), numpy.var(unigram[0]),numpy.var(unigram[1]),numpy.var(bigram[0]),numpy.var(bigram[1]), numpy.var(trigram[0]),numpy.var(trigram[1]), numpy.var(hashtag[0]),numpy.var(hashtag[1]),numpy.var(stem1[0]),numpy.var(stem1[1]), numpy.var(ending[0]),numpy.var(ending[1])]]
-        UserScores2+=[[sum(unigram[0]),sum(unigram[1]),sum(bigram[0]),sum(bigram[1]), sum(trigram[0]), sum(trigram[1]), sum(hashtag[0]),sum(hashtag[1]),sum(stem1[0]),sum(stem1[1]), sum(ending[0]), sum(ending[1]),sum(follows[0]),sum(follows[1])]]
+        UserScores2+=[[sum(unigram[0]),sum(unigram[1]),sum(bigram[0]),sum(bigram[1]), sum(trigram[0]), sum(trigram[1]), sum(hashtag[0]),sum(hashtag[1]),sum(stem1[0]),sum(stem1[1]), sum(ending[0]), sum(ending[1])]]
         #UserScores+=[[sum(unigram[0]),sum(unigram[1])]]
+
+        # add this to the end of UserScores2- ,sum(follows[0]),sum(follows[1])
         UserLabels.append(count)
 
         EndingScores+=[ending[0]+ending[1]]
@@ -208,7 +210,7 @@ for i,party in enumerate(Dev_List):
         UnigramScores+=[unigram[0]+unigram[1]]
         BigramScores+=[bigram[0]+bigram[1]]
         StemScores+=[stem1[0]+stem1[1]]
-        FollowScores+=[follows[0]+follows[1]]
+        #FollowScores+=[follows[0]+follows[1]]
 
 
 
@@ -240,20 +242,23 @@ for i, party in enumerate(Test_List):
         hashtag=ScoreGenerate(hash_final,k_hash)
         stem1=ScoreGenerate(stems_for_user,k_stems)
         ending=ScoreGenerate(endings_for_user,k_ending)
-        follows=ScoreGenerate(Test_Follow[i][j],k_follow)
+        #follows=ScoreGenerate(Test_Follow[i][j],k_follow)
 
         TestScores+=[[sum(unigram[0]),sum(unigram[1]),sum(bigram[0]),sum(bigram[1]), sum(trigram[0]), sum(trigram[1]), sum(hashtag[0]),sum(hashtag[1]),sum(stem1[0]),sum(stem1[1]), sum(ending[0]), sum(ending[1]), numpy.var(unigram[0]),numpy.var(unigram[1]),numpy.var(bigram[0]),numpy.var(bigram[1]), numpy.var(trigram[0]),numpy.var(trigram[1]), numpy.var(hashtag[0]),numpy.var(hashtag[1]),numpy.var(stem1[0]),numpy.var(stem1[1]), numpy.var(ending[0]),numpy.var(ending[1])]]
         #UserScores+=[[sum(unigram[0]),sum(unigram[1])]]
         TestLabels.append(count)
+
+
+        # put this in at the end of one of the vectors to look at following ,sum(follows[0]),sum(follows[1])
         
-        TestScores2+=[[sum(unigram[0]),sum(unigram[1]),sum(bigram[0]),sum(bigram[1]), sum(trigram[0]), sum(trigram[1]), sum(hashtag[0]),sum(hashtag[1]),sum(stem1[0]),sum(stem1[1]), sum(ending[0]), sum(ending[1]),sum(follows[0]),sum(follows[1])]]
+        TestScores2+=[[sum(unigram[0]),sum(unigram[1]),sum(bigram[0]),sum(bigram[1]), sum(trigram[0]), sum(trigram[1]), sum(hashtag[0]),sum(hashtag[1]),sum(stem1[0]),sum(stem1[1]), sum(ending[0]), sum(ending[1])]]
         t_EndingScores+=[ending[0]+ending[1]]
         t_HashScores+=[hashtag[0]+hashtag[1]]
         t_TrigramScores+=[trigram[0]+trigram[1]]
         t_UnigramScores+=[unigram[0]+unigram[1]]
         t_BigramScores+=[bigram[0]+bigram[1]]
         t_StemScores+=[stem1[0]+stem1[1]]
-        t_FollowScores+=[follows[0]+follows[1]]
+        #t_FollowScores+=[follows[0]+follows[1]]
 
 
 

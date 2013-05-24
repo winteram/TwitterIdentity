@@ -62,6 +62,8 @@ FemaleTweetSet=[] #Set of all Femaleublican Tweets
 
 MaleTweetSet=[]
 
+FemaleTweetCount=[]
+
 
 ## Assign sets for seed, training, and testing.
 for user in FemaleList:
@@ -71,6 +73,7 @@ for user in FemaleList:
     if len(tweets) > 0:
         FemaleNames.append(user)
         FemaleTweetSet.append(tweets)
+        FemaleTweetCount.append(len(tweets))
 
 
 
@@ -85,6 +88,8 @@ MaleList=[user[0] for user in MaleList]
 random.shuffle(MaleList)
 
 
+MaleTweetCount=[]
+
 
 
 
@@ -96,6 +101,8 @@ for user in MaleList:
     if len(tweets) > 0:
         MaleNames.append(user)
         MaleTweetSet.append(tweets)
+        MaleTweetCount.append(len(tweets))
+
 
 
 #Should do some cleaning here before pickling- Basically all I need are two- raw- lists. One with all the tweets for each user, encapsulated by user, the other just one long list for of words for all the users- I can use the split function, as I had previously. Importantly- before doing bigrams and trigrams- after stuff has has been
@@ -170,12 +177,20 @@ for gender in gender_list:
 
 
     IdList=[FemaleNames,MaleNames]
+    
 
     Seed_List.append(genderUserWordlist[0:Seed_split])
 
     Dev_List.append(genderUserWordlist[Seed_split:Dev_split])
 
     Test_List.append(genderUserWordlist[Dev_split:])
+
+    
+
+
+
+
+TweetCount=[FemaleTweetCount[Dev_split:],MaleTweetCount[Dev_split:]]
 
 
 
@@ -210,9 +225,7 @@ fileObject.close()
 fileObject=open("Dev_List",'w+')
 cPickle.dump(Dev_List,fileObject)
 
-
 fileObject.close()
-
 
 fileObject=open("Test_List",'w+')
 cPickle.dump(Test_List,fileObject)
@@ -220,7 +233,10 @@ cPickle.dump(Test_List,fileObject)
 fileObject=open("IdList",'w+')
 cPickle.dump(IdList,fileObject)
 
+fileObject.close()
 
+fileObject=open("Test_Count",'w+')
+cPickle.dump(TweetCount,fileObject)
 
 fileObject.close()
 
