@@ -10,33 +10,45 @@
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 
--- Dumping database structure for twittergraph
-DROP DATABASE IF EXISTS `twittergraph`;
-CREATE DATABASE IF NOT EXISTS `twittergraph` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `twittergraph`;
+-- Dumping database structure for gidb
+DROP DATABASE IF EXISTS `gidb`;
+CREATE DATABASE IF NOT EXISTS `gidb` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `gidb`;
 
+DROP TABLE IF EXISTS `users`;
+CREATE TABLE IF NOT EXISTS `users` (
+  `Id` VARCHAR(32) NOT NULL, 
+  `Twitid` VARCHAR(32) NOT NULL, 
+  `FBid` VARCHAR(32) NOT NULL, 
+  `IUname` VARCHAR(32) DEFAULT NULL, 
+  `Agree` tinyint(4) NOT NULL DEFAULT '0',
+  `Referred_by` varchar(32) DEFAULT NULL,
+  PRIMARY KEY (`Id`),
+  KEY `Twitid` (`Twitid`),
+  KEY `FBid` (`FBid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
--- Dumping structure for table twittergraph.accounttype
-DROP TABLE IF EXISTS `accounttype`;
-CREATE TABLE IF NOT EXISTS `accounttype` (
+-- Dumping structure for table gidb.tw_accounttype
+DROP TABLE IF EXISTS `tw_accounttype`;
+CREATE TABLE IF NOT EXISTS `tw_accounttype` (
   `Id` int(4) NOT NULL AUTO_INCREMENT,
   `Value` mediumtext,
   PRIMARY KEY (`Id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;
 
--- Dumping data for table twittergraph.accounttype: ~4 rows (approximately)
-/*!40000 ALTER TABLE `accounttype` DISABLE KEYS */;
-INSERT INTO `accounttype` (`Id`, `Value`) VALUES
+-- Dumping data for table gidb.accounttype: ~4 rows (approximately)
+/*!40000 ALTER TABLE `tw_accounttype` DISABLE KEYS */;
+INSERT INTO `tw_accounttype` (`Id`, `Value`) VALUES
 	(1, 'Unknown'),
 	(2, 'Authorized'),
 	(3, 'Protected'),
 	(4, 'Non_Existent');
-/*!40000 ALTER TABLE `accounttype` ENABLE KEYS */;
+/*!40000 ALTER TABLE `tw_accounttype` ENABLE KEYS */;
 
 
--- Dumping structure for table twittergraph.mention
-DROP TABLE IF EXISTS `mention`;
-CREATE TABLE IF NOT EXISTS `mention` (
+-- Dumping structure for table gidb.tw_mention
+DROP TABLE IF EXISTS `tw_mention`;
+CREATE TABLE IF NOT EXISTS `tw_mention` (
   `Id` bigint(20) NOT NULL,
   `UserId` varchar(32) NOT NULL,
   `SenderId` varchar(32) NOT NULL,
@@ -48,14 +60,14 @@ CREATE TABLE IF NOT EXISTS `mention` (
   KEY `FK_MentionUserId_TwitterAccountNodeId` (`UserId`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
--- Dumping data for table twittergraph.mention: ~0 rows (approximately)
-/*!40000 ALTER TABLE `mention` DISABLE KEYS */;
-/*!40000 ALTER TABLE `mention` ENABLE KEYS */;
+-- Dumping data for table gidb.tw_mention: ~0 rows (approximately)
+/*!40000 ALTER TABLE `tw_mention` DISABLE KEYS */;
+/*!40000 ALTER TABLE `tw_mention` ENABLE KEYS */;
 
 
--- Dumping structure for table twittergraph.profile
-DROP TABLE IF EXISTS `profile`;
-CREATE TABLE IF NOT EXISTS `profile` (
+-- Dumping structure for table gidb.tw_profile
+DROP TABLE IF EXISTS `tw_profile`;
+CREATE TABLE IF NOT EXISTS `tw_profile` (
   `Id` varchar(32) NOT NULL,
   `Name` varchar(50) NOT NULL,
   `Screen_name` varchar(22) NOT NULL,
@@ -75,14 +87,14 @@ CREATE TABLE IF NOT EXISTS `profile` (
   PRIMARY KEY (`Id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
--- Dumping data for table twittergraph.profile: ~0 rows (approximately)
-/*!40000 ALTER TABLE `profile` DISABLE KEYS */;
-/*!40000 ALTER TABLE `profile` ENABLE KEYS */;
+-- Dumping data for table gidb.tw_profile: ~0 rows (approximately)
+/*!40000 ALTER TABLE `tw_profile` DISABLE KEYS */;
+/*!40000 ALTER TABLE `tw_profile` ENABLE KEYS */;
 
 
--- Dumping structure for table twittergraph.relationship
-DROP TABLE IF EXISTS `relationship`;
-CREATE TABLE IF NOT EXISTS `relationship` (
+-- Dumping structure for table gidb.tw_relationship
+DROP TABLE IF EXISTS `tw_relationship`;
+CREATE TABLE IF NOT EXISTS `tw_relationship` (
   `Id` int(11) NOT NULL AUTO_INCREMENT,
   `TwitterAccountNodeId` varchar(32) NOT NULL,
   `TwitterAccountParentId` varchar(32) NOT NULL,
@@ -92,16 +104,15 @@ CREATE TABLE IF NOT EXISTS `relationship` (
   KEY `FK_Relationships_TwitterAccountNode1` (`TwitterAccountParentId`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
--- Dumping data for table twittergraph.relationship: ~0 rows (approximately)
-/*!40000 ALTER TABLE `relationship` DISABLE KEYS */;
-/*!40000 ALTER TABLE `relationship` ENABLE KEYS */;
+-- Dumping data for table gidb.tw_relationship: ~0 rows (approximately)
+/*!40000 ALTER TABLE `tw_relationship` DISABLE KEYS */;
+/*!40000 ALTER TABLE `tw_relationship` ENABLE KEYS */;
 
 
--- Dumping structure for table twittergraph.survey
+-- Dumping structure for table gidb.survey
 DROP TABLE IF EXISTS `survey`;
 CREATE TABLE IF NOT EXISTS `survey` (
   `Id` varchar(32) NOT NULL,
-  `username` varchar(32) NOT NULL,
   `gender` enum('M','F','decline') DEFAULT NULL,
   `yob` year(4) DEFAULT NULL,
   `country` char(2) DEFAULT NULL,
@@ -158,16 +169,15 @@ CREATE TABLE IF NOT EXISTS `survey` (
   `comments` text NOT NULL,
   `started` datetime NOT NULL,
   `ended` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-  PRIMARY KEY (`Id`),
-  KEY `username` (`username`)
+  PRIMARY KEY (`Id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
--- Dumping data for table twittergraph.survey: ~0 rows (approximately)
+-- Dumping data for table gidb.survey: ~0 rows (approximately)
 /*!40000 ALTER TABLE `survey` DISABLE KEYS */;
 /*!40000 ALTER TABLE `survey` ENABLE KEYS */;
 
 
--- Dumping structure for table twittergraph.tweet
+-- Dumping structure for table gidb.tweet
 DROP TABLE IF EXISTS `tweet`;
 CREATE TABLE IF NOT EXISTS `tweet` (
   `Id` bigint(20) NOT NULL,
@@ -181,12 +191,12 @@ CREATE TABLE IF NOT EXISTS `tweet` (
   KEY `FK_Tweet_TwitterAccountNode` (`UserId`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
--- Dumping data for table twittergraph.tweet: ~0 rows (approximately)
+-- Dumping data for table gidb.tweet: ~0 rows (approximately)
 /*!40000 ALTER TABLE `tweet` DISABLE KEYS */;
 /*!40000 ALTER TABLE `tweet` ENABLE KEYS */;
 
 
--- Dumping structure for table twittergraph.twitteraccountnode
+-- Dumping structure for table gidb.twitteraccountnode
 DROP TABLE IF EXISTS `twitteraccountnode`;
 CREATE TABLE IF NOT EXISTS `twitteraccountnode` (
   `Id` varchar(32) NOT NULL,
@@ -201,7 +211,7 @@ CREATE TABLE IF NOT EXISTS `twitteraccountnode` (
   KEY `FK_TwitterAccountNode_TwitterAccountNode1` (`PrimaryParent`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
--- Dumping data for table twittergraph.twitteraccountnode: ~1 rows (approximately)
+-- Dumping data for table gidb.twitteraccountnode: ~1 rows (approximately)
 /*!40000 ALTER TABLE `twitteraccountnode` DISABLE KEYS */;
 /*User Stevens Dev: 579529593*/
 INSERT INTO `twitteraccountnode` (`Id`, `Marked`, `CreationDate`, `AccountTypeId`, `PrimaryParent`, `UpdatingDate`, `Seed`) VALUES
@@ -214,32 +224,38 @@ INSERT INTO `twitteraccountnode` (`Id`, `Marked`, `CreationDate`, `AccountTypeId
 	('rLWNipumqper', 0, '2012-07-05 22:37:32', 1, NULL, NULL, 1);*/
 /*!40000 ALTER TABLE `twitteraccountnode` ENABLE KEYS */;
 
-
--- Dumping structure for table twittergraph.twitterconnectionaccounts
+-- Dumping structure for table gidb.twitterconnectionaccounts
 DROP TABLE IF EXISTS `twitterconnectionaccounts`;
 CREATE TABLE IF NOT EXISTS `twitterconnectionaccounts` (
   `Id` varchar(32) NOT NULL,
-  `AccountName` longtext NOT NULL,
   `AccessToken` longtext NOT NULL,
   `AccessTokenSecret` longtext NOT NULL,
   `CreationDate` datetime NOT NULL,
   `UpdatingDate` datetime DEFAULT NULL,
   `ResetTime` datetime DEFAULT NULL,
-  `Agree1` tinyint(4) NOT NULL DEFAULT '0',
-  `Agree2` tinyint(4) NOT NULL DEFAULT '0',
-  `Referred_by` varchar(32) DEFAULT NULL,
   PRIMARY KEY (`Id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
--- Dumping data for table twittergraph.twitterconnectionaccounts: ~2 rows (approximately)
+-- Dumping data for table gidb.twitterconnectionaccounts: ~2 rows (approximately)
 /*!40000 ALTER TABLE `twitterconnectionaccounts` DISABLE KEYS */;
-INSERT INTO `twitterconnectionaccounts` (`Id`, `AccountName`, `AccessToken`, `AccessTokenSecret`, `CreationDate`, `UpdatingDate`, `ResetTime`) VALUES
-	('r7SNiaCfqJaq', 'salut67', '472271418-APfmKALKbmeRrnZiWwy5O79g5Ii8QJ126bMo6f4', 'nEuyamDpNhvE2DQkNExjBvdMuJpgUIpYNYpk6UiPPoc', '2012-07-05 00:00:00', NULL, NULL),
-	('sLSUjJunqZ6l', 'StevensDev', '579529593-wSDL0mNoIjrfdoB7Vie3fGqZQRYjbIckqziPONLR', 'G1Cc8rPO6qOngjQqXzIEqEuo6kzwO0e3lSpE5U8Db54', '2012-07-05 00:00:00', NULL, NULL);
+INSERT INTO `twitterconnectionaccounts` (`Id`, `AccessToken`, `AccessTokenSecret`, `CreationDate`, `UpdatingDate`, `ResetTime`) VALUES
+	('r7SNiaCfqJaq', '472271418-APfmKALKbmeRrnZiWwy5O79g5Ii8QJ126bMo6f4', 'nEuyamDpNhvE2DQkNExjBvdMuJpgUIpYNYpk6UiPPoc', '2012-07-05 00:00:00', NULL, NULL),
+	('sLSUjJunqZ6l', '579529593-wSDL0mNoIjrfdoB7Vie3fGqZQRYjbIckqziPONLR', 'G1Cc8rPO6qOngjQqXzIEqEuo6kzwO0e3lSpE5U8Db54', '2012-07-05 00:00:00', NULL, NULL);
 /*!40000 ALTER TABLE `twitterconnectionaccounts` ENABLE KEYS */;
 
+-- Dumping structure for table gidb.fbconnectionaccounts
+DROP TABLE IF EXISTS `fbconnectionaccounts`;
+CREATE TABLE IF NOT EXISTS `fbconnectionaccounts` (
+  `Id` VARCHAR(32) NOT NULL,
+  `AccessToken` VARCHAR( 120 ) NOT NULL ,
+  `AppAccessToken` VARCHAR( 120 ) NOT NULL ,
+  `CreationDate` datetime NOT NULL,
+  `UpdatingDate` datetime DEFAULT NULL,
+  `ResetTime` datetime DEFAULT NULL,
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
--- Dumping structure for table twittergraph.visitors
+-- Dumping structure for table gidb.visitors
 DROP TABLE IF EXISTS `visitors`;
 CREATE TABLE IF NOT EXISTS `visitors` (
   `visitid` int(11) NOT NULL AUTO_INCREMENT,
@@ -248,7 +264,7 @@ CREATE TABLE IF NOT EXISTS `visitors` (
   PRIMARY KEY (`visitid`)
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 
--- Dumping data for table twittergraph.visitors: ~0 rows (approximately)
+-- Dumping data for table gidb.visitors: ~0 rows (approximately)
 /*!40000 ALTER TABLE `visitors` DISABLE KEYS */;
 /*!40000 ALTER TABLE `visitors` ENABLE KEYS */;
 /*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;

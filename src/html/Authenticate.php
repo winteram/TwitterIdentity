@@ -4,16 +4,11 @@ session_start();
 require_once('core/twitteroauth/twitteroauth.php');
 require_once('../safe/config.inc');
 
-/* Get survey credentials */
-$_SESSION['agree'] = $_GET['agree'];
-$_SESSION['agree2'] = $_GET['agree2'];
-$_SESSION['IUname'] = $_GET['IUname'];
-
 /* Build TwitterOAuth object with client credentials. */
 $connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET);
 
 /* Get temporary credentials. */
-$request_token = $connection->getRequestToken();
+$request_token = $connection->getRequestToken(OAUTH_CALLBACK);
 
 /* Save temporary credentials to session. */
 $_SESSION['oauth_token'] = $token = $request_token['oauth_token'];

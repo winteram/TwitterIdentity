@@ -2,6 +2,31 @@
 session_start();
 require_once('core/locations.php');
 require_once('../safe/config.inc');
+global $dbh;
+
+/* Get survey credentials */
+$userid  = $_SESSION['userid'];
+$_SESSION['agree'] = $_GET['agree'];
+$_SESSION['IUname'] = isset($_GET['IUname']) ? $_GET['IUname'] : null;
+
+
+// put responses to consent form in dB
+$agree = isset($_SESSION['agree']) ? intval($_SESSION['agree']) : 0;
+$IUname = isset($_SESSION['IUname']) ? encode_salt($_SESSION['IUname']) : "NULL";
+$flag = isset($_SESSION['flag']) ? encode_salt(decode_salt($_SESSION['flag'])) : "NULL";
+    
+$query = "UPDATE users SET Agree=:agree, IUname=:IUname, Referred_by=:flag WHERE Id=:userid";
+$rqst2 = $dbh->prepare($query);
+$rqst2->bindParam(':agree',$agree, PDO::PARAM_INT);
+$rqst2->bindParam(':IUname',$IUname, PDO::PARAM_STR);
+$rqst2->bindParam(':flag',$flag, PDO::PARAM_STR);
+$rqst2->bindParam(':userid',$userid, PDO::PARAM_STR);
+$rqst2->execute();
+
+// Start survey
+$rqst1 = $dbh->prepare("INSERT INTO survey SET Id=:userid, started=NOW()");
+$rqst1->bindParam(':userid',$userid, PDO::PARAM_INT);
+$rqst1->execute();
 ?>
 
 <html>
@@ -12,7 +37,6 @@ require_once('../safe/config.inc');
 	<script src="core/IdentitySurvey.js" type="text/javascript"></script>
 	<script src="core/shuffle.js" type="text/javascript"></script>
 	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-	<script>var IUname = '<?php echo $_SESSION["IUname"]; ?>';</script>
 	<link rel="shortcut icon" href="core/images/idproj.ico" type="image/x-icon" />
 	<link rel='stylesheet' type='text/css'
 	href='core/jquery-ui-1.8.21.custom/css/pepper-grinder/jquery-ui-1.8.21.custom.css' />
@@ -26,11 +50,27 @@ require_once('../safe/config.inc');
 			Project"></span>
 		</div>
 
-		<div id="twitid" style="display:none"><?php echo $_SESSION['twitid']; ?></div>
+		<div id="userid" style="display:none"><?php echo $_SESSION['userid']; ?></div>
 		<div class="section-header" id="section-header-0">Instructions</div>
 		<div id="instructions-wrapper" class="wrapper">
-			<p> Welcome to the study! To start you will be asked a few demographic questions. You will then be presented a series of questions about what you identify with. The entire survey should take less than 15 minutes and could greatly help us understand how people express their identities in on-line social networks. Thanks in advance for your participation. </p>
-            <p> *Note: Though many questions will appear similar to each other, each question has unique features and is important for our analysis. We encourage you to answer them all. </p>
+
+			<p> 
+
+			Welcome to the study! To start you will be asked a few demographic
+			questions. You will then be presented a series of questions about
+			what you identify with. The entire survey should take less than 15
+			minutes and could greatly help us understand how people express
+			their identities in on-line social networks. Thanks in advance for
+			your participation.
+
+			</p>
+            <p> 
+
+            Note: Though many questions will appear similar to each other,
+            each question has unique features and is important for our
+            analysis. We encourage you to answer them all.
+
+            </p>
             
             
 			<div class="ctr"><input type="button" value="Continue" onClick="getDemographics()"/></div>
@@ -107,7 +147,11 @@ require_once('../safe/config.inc');
 				        
 				<li id ="incomeq">
 					<p> 
-						<label for="income" >Annual Income (in US dollars; click <a href="http://finance.yahoo.com/currency-converter/?u#from=GBP;to=USD;amt=1" target="_blank">here</a> for currency conversion)</label>        
+						<label for="income" >
+						Annual Income (in US dollars; click 
+						<a href="http://finance.yahoo.com/currency-converter/?u#from=GBP;to=USD;amt=1" target="_blank">here</a> 
+						for currency conversion)
+						</label>        
 					</p> 
 					<p>
                         <select id = "income" name ="income">
@@ -200,7 +244,18 @@ require_once('../safe/config.inc');
 	<div class="section-header" id="free_h"> Free Response Identity</div>
 	<div id="FreeForm-wrapper" class="wrapper">
 
-		<p>We all have groups we identify with. In a given moment we may see ourselves as Democrats, or Americans, Germans, Fathers, Mac People, Women, Teachers, Soccer Players, etc. For this part, we would like you to think about groups you feel committed to, one's that form an important part of your identity. You will be asked three questions about EACH identity. For each subsection, like "Identity 1", all three questions are asking about the SAME identity. </p>
+		<p>
+
+		We all have groups we identify with. In a given moment we may see
+		ourselves as Democrats, or Americans, Germans, Fathers, Mac People,
+		Women, Teachers, Soccer Players, etc. For this part, we would like you
+		to think about groups you feel committed to, one's that form an
+		important part of your identity. You will be asked three questions
+		about EACH identity. For each subsection, like "Identity 1", all three
+		questions are asking about the SAME identity.
+
+		</p>
+        
         <h3> Idenitity 1</h3>
         <ol>
 		<li id = "freeq1"> I see myself as a <input id="free1" name="freeform1" type="text"/> <span><i> e.g. Democrat </i> </span></li> 
@@ -249,13 +304,12 @@ require_once('../safe/config.inc');
     <div class="section-header" id="feedback_h">Feedback</div>
 	<div id="GetFeedback-wrapper" class="wrapper"> </br>
 
-		<center> <p> <font size ="5"> We value any feedback you would like to give us on this study. Please type comments below.</font></p> </center> </br> </br>
+		<center> <p> <font size ="5"> 
+		We value any feedback you would like to give us on this study. Please type comments below.
+		</font></p> </center> </br> </br>
        
         <center><textarea id="feedback" class= "LargerText" cols="60" rows="20" name="comment"></textarea> </br></center>
-       
-
-
-		
+       	
 		<center><input type="button" value="Submit Feedback" onClick="Thanks()"/></center>
 
 	</div>
@@ -274,16 +328,13 @@ require_once('../safe/config.inc');
 			<div class="center-section">
 			<div class="center-para">
 				You have finished the survey portion of the study. We appreciate you taking the time to participate. This research would not be possible without your help. 
-<?php
-			if($_SESSION['agree2'] == 1)
-				echo "<p>To participate in the experimental portion of the study, <u>remember to follow us on Twitter by clicking the link below.</u><br><br>";
-			else
-				echo "<p><u>We encourage you to follow us on Twitter</u><br><br>";
-?>
+				<p><u>We encourage you to follow us on Twitter</u><br><br>
 				<a href="https://twitter.com/GroupID_Project" class="twitter-follow-button" data-show-count="false" data-lang="en" data-size="large">Follow @GroupIdentity</a></p>
 
-<!--
-       You have been entered into the drawing. So that we can direct message you if you win, however, it is not necessary to follow us to be in the drawing. Should you win, we can always mention you and you can respond to our mention with the address to send the prize to. */
+<!--        You have been entered into the drawing. So that we can direct
+message you if you win, however, it is not necessary to follow us to be in the
+drawing. Should you win, we can always mention you and you can respond to our
+mention with the address to send the prize to. */
 
 <p>If you agreed to participate in the experimental portion of the
 study, we will be in contact on Twitter. If you would like to
@@ -296,7 +347,7 @@ following link:</p>
 				<span> We hope you share this study with your followers on Twitter!  Click the "Tweet" button to share!</span>
 				<span style="margin-left:10px;"><a href="https://twitter.com/share" class="twitter-share-button"
 					data-lang="en" data-count="none" data-size="large" 
-					data-url='http://smallsocialsystems.com/asaf/AboutUs.php?flag=<?php echo encode_salt($_SESSION["twitid"]);?>+'
+					data-url='http://smallsocialsystems.com/asaf/AboutUs.php?flag=<?php echo encode_salt($_SESSION["userid"]);?>+'
 					data-text='I just participated in the Group Identity Project! Check it out: '>Tweet</a></span>
 
 				<p> Thanks again, </br></br> Winter and Asaf. </p>

@@ -3,14 +3,17 @@
 // Access keys for Twitter oAuth
 define('CONSUMER_KEY', 'zhew9FPCoQGPRnR4PHPB3A');
 define('CONSUMER_SECRET', 'ToHQwjgWSX4v3NUsRxe7IthQ6TUmTT78bJKcDIey7LY');
-define('OAUTH_CALLBACK', 'http://smallsocialsystems.com/asaf/IdentitySurvey.php');
+define('OAUTH_CALLBACK', 'http://smallsocialsystems.com/asaf/Landing.php');
 
-/*
+// Access keys for Facebook oAuth
+define('APP_ID', '230481670452212');
+define('APP_SECRET', 'ba78c45a8092200ab63ef73fbd76d67e');
+
 // Database config
 $host = "localhost";
-$user = "smalls7_groupid";
+$user = "groupid";
 $pass = "letspublish";
-$db   = "smalls7_identity";
+$db   = "gidb";
 
 
 try {
@@ -19,7 +22,7 @@ try {
   print "Error!: " . $e->getMessage() . "<br/>";
   die();
 }
-*/
+
 
 function encode_salt($sData, $sKey='xJp2BpRUSE'){ 
   $sResult = ''; 

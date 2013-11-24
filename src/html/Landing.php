@@ -6,9 +6,18 @@ global $dbh;
  
 // If the oauth_token is old redirect to the connect page. 
 if (isset($_REQUEST['oauth_token']) && $_SESSION['oauth_token'] !== $_REQUEST['oauth_token']) {
-   $_SESSION['oauth_status'] = 'oldtoken';
-   session_destroy();
-   header('Location: ./Consent.php?error=1');
+  $_SESSION['oauth_status'] = 'oldtoken';
+  if(isset($_SESSION['IU'])) {
+    unset($_SESSION['tw_status']);
+    unset($_SESSION['oauth_token']);
+    unset($_SESSION['oauth_token_secret']);
+    header('Location: ./IUConsent.php?error=1');
+  } else {
+    unset($_SESSION['tw_status']);
+    unset($_SESSION['oauth_token']);
+    unset($_SESSION['oauth_token_secret']);
+    header('Location: ./Consent.php?error=1');
+  }
 }
 
 // Create TwitteroAuth object with app key/secret and token key/secret from default phase 
@@ -28,67 +37,57 @@ unset($_SESSION['oauth_token_secret']);
 // If successful
 if (200 == $connection->http_code) {
   // The user has been verified and the access tokens can be saved for future use 
-  $_SESSION['status'] = 'verified';
+  $_SESSION['tw_status'] = 'verified';
   $connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, $access_token['oauth_token'], $access_token['oauth_token_secret']);
   $user = $connection->get('account/verify_credentials');
 
-  // Keep twitter id in session variables
-  $_SESSION['twitid'] = $user->id;
+  // Create userid and store in session variable if not exists
+  $_SESSION['userid'] = $userid = isset($_SESSION['userid']) ? $_SESSION['userid'] : bin2hex(openssl_random_pseudo_bytes(16));
   $username = encode_salt($user->screen_name);
-  $twitid = encode_salt($_SESSION['twitid']);
+  $twitid = encode_salt($user->id);
   $oauth_token = encode_salt($access_token['oauth_token']);
   $oauth_secret = encode_salt($access_token['oauth_token_secret']);
 
-  // put responses to consent form in dB
-  $agree1 = isset($_SESSION['agree']) ? intval($_SESSION['agree']) : 0;
-  $agree2 = isset($_SESSION['agree2']) ? intval($_SESSION['agree2']) : 0;
-  $IUname = isset($_SESSION['IUname']) ? $_SESSION['IUname'] : "NULL";
-  $flag = isset($_SESSION['flag']) ? $_SESSION['flag'] : "NULL";
-
-
   // Check if survey exists for twitter id
-  $rqst = $dbh->prepare("SELECT Id FROM survey WHERE Id=:twitid");
-  $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+  $rqst = $dbh->prepare("SELECT Id FROM users WHERE Id=:userid");
+  $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
   $row = $rqst->execute();
   $result = $rqst->fetch(PDO::FETCH_ASSOC);
 
-  // if Twitter ID exists, it will match
-  if ($result['Id'] === $twitid) {
-    $query = "UPDATE twitterconnectionaccounts SET AccessToken=:token, AccessTokenSecret=:secret, CreationDate=NOW(), Agree1=:agree1, Agree2=:agree2, IUname=:IUname, Referred_by=:flag WHERE Id=:twitid";
+  // if User ID exists, it will match
+  if ($result['Id'] === $userid) {
+    $query = "UPDATE users SET Twitid=:twitid WHERE Id=:userid";
     $rqst2 = $dbh->prepare($query);
-    $rqst2->bindParam(':token',$oauth_token, PDO::PARAM_STR);
-    $rqst2->bindParam(':secret',$oauth_secret, PDO::PARAM_STR);
-    $rqst2->bindParam(':agree1',$agree1, PDO::PARAM_INT);
-    $rqst2->bindParam(':agree2',$agree2, PDO::PARAM_INT);
-    $rqst2->bindParam(':IUname',$IUname, PDO::PARAM_STR);
-    $rqst2->bindParam(':flag',$flag, PDO::PARAM_STR);
     $rqst2->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+    $rqst2->bindParam(':userid',$userid, PDO::PARAM_STR);
     $rqst2->execute();
   } 
   else {
     // Add connection info
-    $query = "INSERT INTO twitterconnectionaccounts SET Id=:twitid, AccountName=:uname, AccessToken=:token, AccessTokenSecret=:secret, CreationDate=NOW(), Agree1=:agree1, Agree2=:agree2, IUname=:IUname, Referred_by=:flag";
+    $query = "INSERT INTO users SET Id=:userid, Twitid=:twitid";
     $rqst2 = $dbh->prepare($query);
+    $rqst2->bindParam(':userid',$userid, PDO::PARAM_STR);
     $rqst2->bindParam(':twitid',$twitid, PDO::PARAM_STR);
-    $rqst2->bindParam(':uname',$username, PDO::PARAM_STR);
-    $rqst2->bindParam(':token',$oauth_token, PDO::PARAM_STR);
-    $rqst2->bindParam(':secret',$oauth_secret, PDO::PARAM_STR);
-    $rqst2->bindParam(':agree1',$agree1, PDO::PARAM_INT);
-    $rqst2->bindParam(':agree2',$agree2, PDO::PARAM_INT);
-    $rqst2->bindParam(':IUname',$IUname, PDO::PARAM_STR);
-    $rqst2->bindParam(':flag',$flag, PDO::PARAM_STR);
     $rqst2->execute();
-    //    $rqst2->debugDumpParams();
 
+  }
+
+  $query = "INSERT INTO twitterconnectionaccounts SET Id=:userid, AccessToken=:token, AccessTokenSecret=:secret, CreationDate=NOW()";
+  $rqst2 = $dbh->prepare($query);
+  $rqst2->bindParam(':userid',$userid, PDO::PARAM_STR);
+  $rqst2->bindParam(':token',$oauth_token, PDO::PARAM_STR);
+  $rqst2->bindParam(':secret',$oauth_secret, PDO::PARAM_STR);
+  $rqst2->execute();
+    /*
     $verified = $user->verified==1 ? 1 : 0;
     $geo = $user->geo_enabled==1 ? 1 : 0;
     $created_at = date("Y-m-d H:i:s",strtotime($user->created_at));
     //echo $created_at . ", " . strlen($username) . ", " . strlen(encode_salt($user->name));
 
     // Add profile information
-    $query = "INSERT INTO profile (Id, Name, Screen_name, Location, Created_at, Favourites_count, Url, Followers_count, Lang, Verified, Profile_bgd_color, Geo_enabled, Description, Time_zone, Friends_count, Statuses_count) VALUES (:twitid, :uname, :screenname, :location, :created_at, :fav_cnt, :url, :fol_cnt, :lang, :verified, :profile_bgd, :geo, :descrip, :tz, :frnd_cnt, :twt_cnt)";
+    $query = "INSERT INTO tw_profile (Id, Name, Screen_name, Location, Created_at, Favourites_count, Url, Followers_count, Lang, Verified, Profile_bgd_color, Geo_enabled, Description, Time_zone, Friends_count, Statuses_count) VALUES (:userid, :uname, :screenname, :location, :created_at, :fav_cnt, :url, :fol_cnt, :lang, :verified, :profile_bgd, :geo, :descrip, :tz, :frnd_cnt, :twt_cnt)";
     $rqst2 = $dbh->prepare($query);
-    $rqst2->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+    $rqst2->bindParam(':userid',$userid, PDO::PARAM_STR);
     $rqst2->bindParam(':uname',encode_salt($user->name), PDO::PARAM_STR);
     $rqst2->bindParam(':screenname',$username, PDO::PARAM_STR);
     $rqst2->bindParam(':location',$user->location, PDO::PARAM_STR);
@@ -106,20 +105,27 @@ if (200 == $connection->http_code) {
     $rqst2->bindParam(':twt_cnt',$user->statuses_count, PDO::PARAM_INT);
     $rqst2->execute();
     //  $rqst2->debugDumpParams();
-
-    // Start survey
-    $rqst1 = $dbh->prepare("INSERT INTO survey SET Id=:twitid, username=:uname, started=NOW()");
-    $rqst1->bindParam(':twitid',$twitid, PDO::PARAM_INT);
-    $rqst1->bindParam(':uname',$username, PDO::PARAM_STR);
-    $rqst1->execute();
-  }
+    */
 
   // Send them to the survey
-  header('Location: ./IdentitySurvey.php');
+  if(isset($_SESSION['IU'])) {
+    header('Location: ./IUConsent.php');
+  } else {
+    header('Location: ./Consent.php');
+  }
 } else {
   // Save HTTP status for error dialog on connnect page.
-  session_destroy();
-  header('Location: ./Consent.php?error=2');
+  if(isset($_SESSION['IU'])) {
+    unset($_SESSION['tw_status']);
+    unset($_SESSION['oauth_token']);
+    unset($_SESSION['oauth_token_secret']);
+    header('Location: ./IUConsent.php?error=2');
+  } else {
+    unset($_SESSION['tw_status']);
+    unset($_SESSION['oauth_token']);
+    unset($_SESSION['oauth_token_secret']);
+    header('Location: ./Consent.php?error=2');
+  }
 }
 
 ?>

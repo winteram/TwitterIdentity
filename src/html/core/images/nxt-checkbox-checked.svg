@@ -1,0 +1,11 @@
+<?xml version="1.0"?><svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <title>nxt_checkbox_checked</title>
+ <metadata id="metadata7">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer2">
+   <path fill="#ffffff" stroke="#000000" stroke-width="55" stroke-linejoin="round" stroke-miterlimit="4" d="m217.705261,46.025703l208.90509,0c50.562408,0 91.267944,37.07103 91.267944,83.118965l0,225.202957c0,46.047882 -40.705536,83.118927 -91.267944,83.118927l-208.90509,0c-50.562408,0 -91.267914,-37.071045 -91.267914,-83.118927l0,-225.202957c0,-46.047935 40.705505,-83.118965 91.267914,-83.118965z" id="rect2816"/>
+  </g>
+  <path id="svg_1" d="m196,214l-16,38l109,115l275,-279l-17,-18l-258,220l-93,-76z" stroke-width="5" stroke="#000000" fill="#00ff00"/>
+ </g>
+</svg>

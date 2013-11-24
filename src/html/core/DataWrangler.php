@@ -6,13 +6,13 @@ global $dbh;
 
 $errmsg = "Missing data";
 
-if (isset($_REQUEST['twitid']))
+if (isset($_REQUEST['userid']))
 {
-  $twitid = encode_salt($_REQUEST['twitid']);
+  $userid = encode_salt($_REQUEST['userid']);
 }
 else 
 {
-  echo "ERR: twitid not set";
+  echo "ERR: userid not set";
   exit(0);
 }
 
@@ -36,28 +36,28 @@ case 'demog':
   $edu = isset($demogs['edu']) ? $demogs['edu'] : "NULL";
 
   // prepare data to enter into db
-  $rqst = $dbh->prepare("UPDATE survey SET gender=:gender, yob=:yob, country=:country, ethnicity=:ethnic, income=:income, edu=:edu WHERE Id=:twitid");
+  $rqst = $dbh->prepare("UPDATE survey SET gender=:gender, yob=:yob, country=:country, ethnicity=:ethnic, income=:income, edu=:edu WHERE Id=:userid");
   $rqst->bindParam(':gender',$gender, PDO::PARAM_STR);
   $rqst->bindParam(':yob',$yob, PDO::PARAM_INT);
   $rqst->bindParam(':country',$country, PDO::PARAM_STR);
   $rqst->bindParam(':ethnic',$ethnicity, PDO::PARAM_STR);
   $rqst->bindParam(':income',$income, PDO::PARAM_INT);
   $rqst->bindParam(':edu',$edu, PDO::PARAM_STR);
-  $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+  $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
   $rqst->execute();
   break;
 case 'polform': // party affiliation
   $party = isset($_REQUEST['party']) ? $_REQUEST['party'] : "NULL";
-  $rqst = $dbh->prepare("UPDATE survey SET party=:party WHERE Id=:twitid");
+  $rqst = $dbh->prepare("UPDATE survey SET party=:party WHERE Id=:userid");
   $rqst->bindParam(':party',$party, PDO::PARAM_STR);
-  $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+  $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
   $rqst->execute();
   break;
 case 'natform':
   $nationality = isset($_REQUEST['nationality']) ? $_REQUEST['nationality'] : "NULL";
-  $rqst = $dbh->prepare("UPDATE survey SET nationality=:nationality WHERE Id=:twitid");
+  $rqst = $dbh->prepare("UPDATE survey SET nationality=:nationality WHERE Id=:userid");
   $rqst->bindParam(':nationality',$nationality, PDO::PARAM_STR);
-  $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+  $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
   $rqst->execute();
   break;
 case 'freeform':
@@ -73,7 +73,7 @@ case 'freeform':
   $ownform6 = isset($freeform['ownform6']) ? $freeform['ownform6'] : "NULL";
   $userURL3 = isset($freeform['ownURL3']) ? $freeform['ownURL3'] : "NULL";
 
-  $rqst = $dbh->prepare("UPDATE survey SET own_form1=:ownform1, own_form2=:ownform2, own_URL=:userURL, own_form3=:ownform3, own_form4=:ownform4, own_URL2=:userURL2, own_form5=:ownform5, own_form6=:ownform6, own_URL3=:userURL3 WHERE Id=:twitid");
+  $rqst = $dbh->prepare("UPDATE survey SET own_form1=:ownform1, own_form2=:ownform2, own_URL=:userURL, own_form3=:ownform3, own_form4=:ownform4, own_URL2=:userURL2, own_form5=:ownform5, own_form6=:ownform6, own_URL3=:userURL3 WHERE Id=:userid");
   $rqst->bindParam(':ownform1',$ownform1, PDO::PARAM_STR);
   $rqst->bindParam(':ownform2',$ownform2, PDO::PARAM_STR);
   $rqst->bindParam(':userURL',$userURL, PDO::PARAM_STR);
@@ -83,7 +83,7 @@ case 'freeform':
   $rqst->bindParam(':ownform5',$ownform5, PDO::PARAM_STR);
   $rqst->bindParam(':ownform6',$ownform6, PDO::PARAM_STR);
   $rqst->bindParam(':userURL3',$userURL3, PDO::PARAM_STR);
-  $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+  $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
   $rqst->execute();
   break;
 case 'party': // answers to survey for political id
@@ -97,7 +97,7 @@ case 'nation': // answers to survey for national id
       $query .= $page . $ctr . "_" . $varnames[$ctr-1] . "=:" . $page . $ctr . ", ";
       $ctr += 1;
     }
-  $query = substr($query, 0, -2) . " WHERE Id=:twitid";
+  $query = substr($query, 0, -2) . " WHERE Id=:userid";
   //echo $query . "\n";
   $dbh->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);  
   $rqst = $dbh->prepare($query);
@@ -108,7 +108,7 @@ case 'nation': // answers to survey for national id
       $rqst->bindParam(':' . $page . $ctr, intval($answers[$key]), PDO::PARAM_INT);
       $ctr += 1;
     }  
-  $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+  $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
   $rqst->execute();
   break;
 case 'comments': // comments on survey
@@ -116,34 +116,34 @@ case 'comments': // comments on survey
   $comments = $_REQUEST['comments'];
   $comments = isset($_REQUEST['comments']) ? $_REQUEST['comments'] : "NULL";
 
-  $rqst = $dbh->prepare("UPDATE survey SET comments=:comments WHERE Id=:twitid");
+  $rqst = $dbh->prepare("UPDATE survey SET comments=:comments WHERE Id=:userid");
   $rqst->bindParam(':comments',$comments, PDO::PARAM_STR);
-  $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+  $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
   $rqst->execute();
 
   // Check if accountnode exists for twitter id
-  $rqst = $dbh->prepare("SELECT Id, Marked, Seed FROM twitteraccountnode WHERE Id=:twitid");
-  $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+  $rqst = $dbh->prepare("SELECT Id, Marked, Seed FROM twitteraccountnode WHERE Id=:userid");
+  $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
   $row = $rqst->execute();
   $result = $rqst->fetch(PDO::FETCH_ASSOC);
 
   $mark = 0;
   $seed = 1;
-  if ($result['Id'] === $twitid) {
-    $rqst = $dbh->prepare("UPDATE twitteraccountnode SET Marked=:mark, Seed=:seed WHERE Id=:twitid");
+  if ($result['Id'] === $userid) {
+    $rqst = $dbh->prepare("UPDATE twitteraccountnode SET Marked=:mark, Seed=:seed WHERE Id=:userid");
     $rqst->bindParam(':mark',$mark, PDO::PARAM_INT);
     $rqst->bindParam(':seed',$seed, PDO::PARAM_INT);
-    $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+    $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
     $rqst->execute();    
-  } elseif ($twitid != ''){
+  } elseif ($userid != ''){
     // Add user to be crawled
-    $rqst = $dbh->prepare("INSERT INTO twitteraccountnode SET Id=:twitid, Marked=:mark, CreationDate=NOW(), Seed=:seed");
-    $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+    $rqst = $dbh->prepare("INSERT INTO twitteraccountnode SET Id=:userid, Marked=:mark, CreationDate=NOW(), Seed=:seed");
+    $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
     $rqst->bindParam(':mark',$mark, PDO::PARAM_INT);
     $rqst->bindParam(':seed',$seed, PDO::PARAM_INT);
     $rqst->execute();
   } else {
-    echo "ERR: bad id: " .$twitid;
+    echo "ERR: bad id: " .$userid;
   }
 
   break;

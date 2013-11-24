@@ -5,14 +5,15 @@ require_once('../safe/config.inc');
 global $dbh;
 
 // Get flag from input, write to db
-$flag = isset($_GET['flag']) ? $_GET['flag'] : "unknown";
+// store referrer in session variable
+$_SESSION['flag'] = $flag = isset($_GET['flag']) ? $_GET['flag'] : null;
 
 $rqst = $dbh->prepare("INSERT INTO visitors SET username=:uname");
 $rqst->bindParam(':uname',$flag, PDO::PARAM_STR);
 $rqst->execute();
 
-// store referrer in session variable
-$_SESSION['flag'] = $flag;
+$_SESSION['userid'] = $userid = isset($_SESSION['userid']) ? $_SESSION['userid'] : bin2hex(openssl_random_pseudo_bytes(16));
+
 
 ?>
 <html>
@@ -81,10 +82,7 @@ $_SESSION['flag'] = $flag;
     <div class="bio">
       <img src="core/images/winter.jpg" class="headshot">
       <div class="bio-text">
-	<b>Dr. Winter Mason</b> is an Assistant Professor in
-	the <a href="http://howe.stevens.edu/">Howe School of Technology
-	Management</a> at <a href="http://www.stevens.edu/sit/">Stevens
-	Institute of Technology</a> in Hoboken, NJ.  His research focuses
+	<b>Dr. Winter Mason</b> is a Data Scientist at Facebook.  His research focuses
 	on social networks, social media, and crowdsourcing.
       </div>
     </div>
@@ -102,7 +100,6 @@ $_SESSION['flag'] = $flag;
   </div>
   <div class="right column">
     <div class="uni-logos">
-      <a href="http://www.stevens.edu/sit/"><img src="core/images/stevens_logo.jpg" class="uni"></a>
       <a href="http://www.iub.edu"><img src="core/images/iu_logo.jpg" class="uni"></a>
     </div>
   </div>
