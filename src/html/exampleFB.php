@@ -43,7 +43,7 @@ $par['req_perms'] = "offline_access,
                     user_status,
                     friends_status,
                     read_stream";
-$par['next'] = 'http://smallsocialsystems.com/asaf/FBAuth.php'
+$par['next'] = 'http://smallsocialsystems.com/groupid/FBAuth.php'
 $loginUrl = $facebook->getLoginUrl($par);
 
 function get_check_session(){

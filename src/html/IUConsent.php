@@ -29,7 +29,7 @@ $par['scope'] = "offline_access,
                     user_status,
                     friends_status,
                     read_stream";
-$par['redirect_uri'] = 'http://smallsocialsystems.com/asaf/FBAuth.php';
+$par['redirect_uri'] = 'http://smallsocialsystems.com/groupid/FBAuth.php';
 $loginUrl = $facebook->getLoginUrl($par);
 ?>
 
