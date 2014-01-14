@@ -1,3 +1,5 @@
+
+
 // JavaScript Document
 
 
@@ -571,28 +573,14 @@ function FreeCheck()
 
 
  
-	$("#trait_buttons").show();
+	$("#left_self").show();
 
-	$('.trait_disp').show()
+	$('#finish_SA_but').show();
+	$('#right_side').show(); 
 	
 
 	console.log("and even here")
 
-}// End Display_Self List
-
-
-
-
-
-
-
-
-
-
-
-	//Display_Self_List();
-	
-	
 
 	$(".trait_buttons").click(function() {	
 
@@ -669,6 +657,9 @@ function FreeCheck()
 				edit=false // importantly once the trait has been added, it is no longer being edited, so the value of this variable much false. Otherwise people won't be able to create new
 				// groups after this. 							
 			}
+
+
+
 			
 			
 
@@ -812,6 +803,9 @@ function FreeCheck()
 				edit_piece();
 				
 			}
+
+
+
 			
 
 		}); // ends the edit button click function
@@ -819,8 +813,7 @@ function FreeCheck()
 		
 	}); // ends the add group click function
 
-
-  $("#finish_SA").click(function()
+	  $("#finish_SA").click(function()
      {
      	// make this a validation function
 
@@ -831,610 +824,34 @@ function FreeCheck()
 
      });
 
+ 
 
-function Disp_Self_Lab()// Function to initiate the self-labeling portion of the study. 
 
-{
-	var dropdown=
-['<p>',
-	'<select id="self_categories" name="edu">', 
-		'<option value="unselected" selected="selected"></option>',
-		'<option value="situations">Situations</option>',
-		'<option value="relationships">Relationships</option>',
-		'<option value="roles">Roles</option>',
-		'<option value="emotional">Emotional</option>',
-		'<option value="true_selves">True Selves</option>',
-		'<option value="goals">Goals</option>',
-		'<option value="time">Time Related</option>',
-		'<option value="public">Public</option>',
-		'<option value="alone">Alone</option>',
-		'<option value="other">Other</option>',
-	'</select>',
-'</p>' 
-].join('\n')
+}// End Display_Self List
 
-var Qsappend="";// these are questions that will be appended at that end
 
-var sent_base1='From the dropdown menu, choose the category, listed above, that best describes the following Self-Aspect: "';
+	function IsNumeric(input)
+	{
+		return (input - 0) == input && input.length > 0;
+	}
 
-$.each(dic_self, function(key, value) {
-	var item_temp='<p><label for = "part_label_'+key+'"><b>'+ sent_base1 + value + '".</b></label><br>' + dropdown + '</p>';
-	Qsappend += item_temp;
 
-    	
-    		});
 
-	Qsappend +='<p><input type=reset id ="finish_label" value= "Submit" /></p>'
 
-	$("#self_labeling").append(Qsappend)
-	$("#self_labeling").show()
 
-    $("#finish_label").click(function()
-     {
-     	// make this a validation function
 
-     console.log("click working")
-       
 
-     //Show_media_qs(); 
 
-     ShowGenaspect();
 
-     });
+	//Display_Self_List();
+	
+	
 
-}   
-
-   function ShowGenaspect()// This function just asks people about the clarity, importance and positivity of the self-aspects they listed
-	   {  	
-
-	   	$("#self_labeling").hide(); 
-	   	function createLikertS1(id_label,name_label)// I'm making three of these because the scales are all a little different. 
-		{
-			var likert = '<table class="likert"><tr><td><input id="' + id_label +
-			'" type="radio" name="' + name_label + 
-			'" value="1" /></td><td><input type="radio" name="' + name_label + 
-			'" value="2" /></td><td><input type="radio" name="' + name_label + 
-			'" value="3" /></td><td><input type="radio" name="' + name_label + 
-			'" value="4" /></td><td><input type="radio" name="' + name_label + 
-			'" value="5" /></td><td><input type="radio" name="' + name_label + 
-			'" value="6" /></td><td><input type="radio" name="' + name_label + 
-			'" value="7" /></td></tr>' +
-			'<tr><td>Negatively</td>' +
-			'<td></td>' +
-			'<td></td>' +
-			'<td>Neutral</td>' +
-			'<td></td>' +
-			'<td></td>' +
-			'<td>Positively</td></tr></table>';
-
-			return likert;
-		}
-
-
-		function createLikertS2(id_label,name_label)// I'm making three of these because the scales are all a little different. 
-		{
-			var likert = '<table class="likert"><tr><td><input id="' + id_label +
-			'" type="radio" name="' + name_label + 
-			'" value="1" /></td><td><input type="radio" name="' + name_label + 
-			'" value="2" /></td><td><input type="radio" name="' + name_label + 
-			'" value="3" /></td><td><input type="radio" name="' + name_label + 
-			'" value="4" /></td><td><input type="radio" name="' + name_label + 
-			'" value="5" /></td><td><input type="radio" name="' + name_label + 
-			'" value="6" /></td><td><input type="radio" name="' + name_label + 
-			'" value="7" /></td></tr>' +
-			'<tr><td>Not At All Important</td>' +
-			'<td></td>' +
-			'<td></td>' +
-			'<td></td>' +
-			'<td></td>' +
-			'<td></td>' +
-			'<td>Very Important</td></tr></table>';
-
-			return likert;
-		}
-
-		function createLikertS3(id_label,name_label)// I'm making three of these because the scales are all a little different. 
-		{
-			var likert = '<table class="likert"><tr><td><input id="' + id_label +
-			'" type="radio" name="' + name_label + 
-			'" value="1" /></td><td><input type="radio" name="' + name_label + 
-			'" value="2" /></td><td><input type="radio" name="' + name_label + 
-			'" value="3" /></td><td><input type="radio" name="' + name_label + 
-			'" value="4" /></td><td><input type="radio" name="' + name_label + 
-			'" value="5" /></td><td><input type="radio" name="' + name_label + 
-			'" value="6" /></td><td><input type="radio" name="' + name_label + 
-			'" value="7" /></td></tr>' +
-			'<tr><td>Not At All Clear</td>' +
-			'<td></td>' +
-			'<td></td>' +
-			'<td></td>' +
-			'<td></td>' +
-			'<td></td>' +
-			'<td>Very Clear</td></tr></table>';
-
-			return likert;
-		}
-
-		
-
-		//Get the self-aspects
-
-		var self_aspect=[]// initialize array that will contain self-aspects
-
-		$.each(dic_self, function(key, value) {
-		
-		
-		self_aspect.push(value)
-
-    	
-    		});
-
-		// There are 3 for loops when there only needs to be one- change later after flow is complete. It is clunky, but
-		// at least it works for now. 
-
-		var wrapper='#Self_Q1'
-
-		//First make the sentences that use scale 1 for all aspects
-
-			for(i=0; i<self_aspect.length; i++)
-			{
-			    likert = createLikertS1( 'Self_Q1_' + i, 'pos' + i);
-
-
-			    $('#Self_Q1').append('<div= "sen_pos'  + i + '">How positive do you feel about "' + self_aspect[i] + '"?<p>' + likert + '</p></div>');
-			    //$("#displayQ-wrapper").append('<li>'+ sent[i]  + '</li><p>' + likert + '</p>');
-			}
-
-			$(wrapper).shuffle(); 
-		    $(wrapper).show();
-
-
-
-		    var wrapper='#Self_Q2'
-
-		//Now make sentences that use scale 2
-
-			for(i=0; i<self_aspect.length; i++)
-			{
-			    likert = createLikertS2( 'Self_Q2_' + i, 'import' + i);
-
-			    $('#Self_Q2').append('<div= "sen_import'  + i + '">How important is "' + self_aspect[i] + '" to you?<p>' + likert + '</p></div>');
-			    
-			}
-
-			$(wrapper).shuffle(); 
-		    $(wrapper).show();
-
-
-		     var wrapper='#Self_Q3'
-
-		//Now make sentences that use scale 2
-
-			for(i=0; i<self_aspect.length; i++)
-			{
-			    likert = createLikertS3( 'Self_Q3_' + i, 'clear' + i);
-
-			    $('#Self_Q3').append('<div= "sen_clear'  + i + '">How clear is "' + self_aspect[i] + '" to you?<p>' + likert + '</p></div>');
-			    
-			}
-
-			$(wrapper).shuffle(); 
-		    $(wrapper).show();
-
-		    $("#all_genself").append('<p><input type=reset id ="finish_genself" value= "Submit" /></p>')
-
-
-		     $("#finish_genself").click(function()
-			     {
-			     	 
-			     	Show_media_qs(); 
-
-
-			     });
-		
-
-	   }// End show general questions function
-
-
-	function Show_media_qs() //asks specific questions about social media usage. 
-	{    $("#all_genself").hide();
-
-		function Likert_Social(id_label,name_label)
-			{
-				var likert = '<table class="likert"><tr><td><input id="' + id_label +
-				'" type="radio" name="' + name_label + 
-				'" value="1" /></td><td><input type="radio" name="' + name_label + 
-				'" value="2" /></td><td><input type="radio" name="' + name_label + 
-				'" value="3" /></td><td><input type="radio" name="' + name_label + 
-				'" value="4" /></td><td><input type="radio" name="' + name_label + 
-				'" value="5" /></td><td><input type="radio" name="' + name_label + 
-				'" value="6" /></td><td><input type="radio" name="' + name_label + 
-				'" value="7" /></td></tr>' +
-				'<tr><td>Never</td>' +
-				'<td></td>' +
-				'<td></td>' +
-				'<td></td>' +
-				'<td></td>' +
-				'<td></td>' +
-				'<td>Always</td></tr></table>';
-
-				return likert;
-			}
-
-
-		$.each(dic_self, function(key, value) // make facebook questions to put in facebook_saspect wrapper
-		{
-
-			likertFB = Likert_Social( 'Sfb_likert_' + key, 'Sfb_agree_' + key);
-			likertTW = Likert_Social( 'Stw_likert_' + key, 'Stw_agree_' + key);
-
-
-			var id1="self_fb"+i
-		    var name1="self_fbname"+i
-		    var id2="self_tw"+i
-		    var name2="self_twname"+i
-
-		    var comment1='<p> Add Comment <textarea id="'+id1+'"cols="50" rows="1" name="'+name1+'"></textarea></p>';
-
-		    var comment2='<p> Add Comment <textarea id="'+id2+'"cols="50" rows="1" name="'+name2+'"></textarea></p>';
 	
 
 
-	    senForpop="How often do you express "
 
-	    $('#PopFB').append('<div id = "fbfreq_'  + key + '">' + senForpop + '"' + value + '" on Facebook? <p>' + likertFB + '</p>'+comment1+'</div>');
-	    //Maybe I should mix all the facebook questions together- the ones populated and the ones not populated. Append and then
-	    // shuffle them at the end. 
-		
-		$('#PopTwitter').append('<div id = "twfreq_'  + key + '">' + senForpop + '"'+ value + '" on Twitter? <p>' + likertTW + '</p>'+comment2+'</div>');
 
-
-			});
-
-
-		var sen_FB = new Array();// Sentences for facebook questions
-		sen_FB.push("On Facebook how often do you express how you are feeling at the moment?")
-		sen_FB.push("On Facebook how frequently do you express what you are doing?")
-		sen_FB.push("On Facebook how often do you express where you are?")
-		sen_FB.push("On Facebook how often do you express things that are not about your own feelings\
-\n(or what you're doing or where you are), but that you expect to interest or entertain others?")
-		sen_FB.push("On Facebook how often do you express things of a political nature?")
-		sen_FB.push("On Facebook how often do you express things related to your relationship with family?")
-		sen_FB.push("On Facebook how often do you express things related to God?")
-		sen_FB.push("On Facebook how often do you express things related to your academic life?")
-		sen_FB.push("On Facebook how often do you express things related to your physical appearance?")
-
-
-
-
-		
-
-
-
-		var sen_Twitter = new Array();//sentences for twitter questions
-
-		sen_Twitter.push("On Twitter how often do you express how you are feeling at the moment?")
-		sen_Twitter.push("On Twitter how frequently do you express what you are doing?")
-		sen_Twitter.push("On Twitter how often do you express where you are?")
-		sen_Twitter.push("On Twitter how often do you express things that are not about your own feelings\
-\n(or what you're doing or where you are), but that you expect to interest or entertain others?")
-		sen_Twitter.push("On Twitter how often do you express things of a political nature?")
-		sen_Twitter.push("On Twitter how often do you express things related to your relationship with family?")
-		sen_Twitter.push("On Twitter how often do you express things related to God?")
-		sen_Twitter.push("On Twitter how often do you express things related to your academic life?")
-		sen_Twitter.push("On Twitter how often do you express things related to your physical appearance?")
-		for(i=0; i<sen_FB.length; i++)
-			{
-		    likert1 = Likert_Social( 'fb_likert_' + i, 'fb_agree_' + i);
-
-		    likert2 = Likert_Social( 'tw_likert_' + i, 'tw_agree_' + i);
-		
-		    		    //adding place where people can comment
-
-		    var id1="com_fb"+i
-		    var name1="com_fbname"+i
-		    var id2="com_tw"+i
-		    var name2="com_twname"+i
-
-		    var comment1='<p> Add Comment <textarea id="'+id1+'"cols="50" rows="1" name="'+name1+'"></textarea></p>';
-
-		    var comment2='<p> Add Comment <textarea id="'+id2+'"cols="50" rows="1" name="'+name2+'"></textarea></p>';
-
-		    $('#PopFB').append('<div = "err_fbfreq'  + i + '">' + sen_FB[i]  + '<p>' + likert1 + '</p>'+comment1+'</div>');
-		    $('#PopTwitter').append('<div= "err_twfreq' + i + '">' + sen_Twitter[i]  + '<p>' + likert2 + '</p>'+comment2+'</div>');
-		    
-			}
-
-		$('#PopFB').shuffle(); // Randomize the order of the FB questions
-		$('#PopTwitter').shuffle();
-
-		$('#facebookQs').append('<p><input type=reset id ="finish_fbQs" value= "Submit" /></p>')
-		$("#twitterQs").append('<p><input type=reset id ="finish_twQs" value= "Submit" /></p>')
-
-
-		$('#facebookQs').show(); 
-
-		//$("#facebookQs").show();
-		//$("#PopTwitter").show();
-
-		$("#finish_fbQs").click(function()
-			     {
-			     	$('#facebookQs').hide(500);
-			     	$("#twitterQs").show(500);
-			     
-			     	
-			     });
-
-
-
-
-		$("#finish_twQs").click(function()
-			     {
-			     	$('#twitterQs').hide();
-			     	Show_CSW();
-			     });
-
-	}// End of show social media function
-
-
-	function Show_CSW() // This function is particulary rough and dirty- It involves way more code than is necessary- but works
-	// I will change it later, though out of principle. 
-	{
-
-
-		 var sen_con = new Array();// Just start by creating an array with all the sentences.
-
-		 sen_con.push('When I think I look attractive, I feel good about myself.');
-		 sen_con.push("My self-worth is based on God's love.");
-		 sen_con.push("I feel worthwhile when I perform better than others on a task or skill.");
-		 sen_con.push("My self-esteem is unrelated to how I feel about the way my body looks.");
-		 sen_con.push('Doing something I know is wrong makes me lose my self-respect.');
-		 sen_con.push("I don't care if other people have a negative opinion of me.");
-		 sen_con.push("Knowing that my family members love me makes me feel good about myself.");
-		 sen_con.push("I feel worthwhile when I have God's love.");
-		 sen_con.push("I can't respect myself if other's don't respect me.");
-		 sen_con.push("My self-worth is not influenced by the quality of my relationship with my family members.");
-		 sen_con.push("Whenever I follow my moral principles, my sense of self-respect gets a boost.");
-		 sen_con.push("Knowing that I am better than others on a task raises my self-esteem.");
-		 sen_con.push("My opinion about myself isn't tied to how well I do in school.");
-		 sen_con.push("I couldn't respect myself if I didn't live up to a moral code.");
-		 sen_con.push("I don't care what other people think of me.");
-		 sen_con.push("When my family members are proud of me, my sense of self-worth increases.");
-		 sen_con.push("My self-esteem is influenced by how attractive I think my face or facial features are.");
-		 sen_con.push("My self-esteem would suffer if I didn't have God's love.");
-		 sen_con.push("Doing well in school gives me a sense of self-respect.");
-		 sen_con.push("Doing better than others gives me a sense of self-respect.");
-		 sen_con.push("My sense of self-worth suffers whenever I think I don't look good.");
-		 sen_con.push("I feel better about myself when I know I'm doing well academically.");
-		 sen_con.push("What others think of me has no effect on what I think about myself.");
-		 sen_con.push("When I don't feel loved by my family my self-esteem goes down.");
-		 sen_con.push("My self-worth is affected by how well I do when I am competing with others.");
-		 sen_con.push("My self-esteem goes up when I feel that God loves me.");
-		 sen_con.push("My self-esteem is influenced by my academic performance.");
-		 sen_con.push("My self-esteem would suffer if I did something unethical.");
-		 sen_con.push("It is important to my self-esteem that I have a family who cares about me.");
-		 sen_con.push("My self-esteem does not depend on whether or not I feel attractive.");
-		 sen_con.push("When I think that I'm disobeying God, I feel bad about myself.");
-		 sen_con.push("My self-worth is influenced by how well I do on competetive tasks.");
-		 sen_con.push("I feel bad about myself whenever my academic performance is lacking.");
-		 sen_con.push("My self-esteem depends on whether or not I follow my moral/ethical principles.");
-		 sen_con.push("My self-esteem depends on the opinions of others.");
-
-
- // Make some kind of wrapper called contingencies
-
-
-
-
-		function create_cont_Likert(sentence,name_label)
-		{    //console.log("it's getting here")
-			var likert = '<tr><td style="text-align: left; height: 40px"> <b>' + sentence + '</b></td>'+
-			'<td><input type="radio" name="' + name_label+ 
-			'" value="1" /></td><td><input type="radio" name="' + name_label + 
-			'" value="2" /></td><td><input type="radio" name="' + name_label + 
-			'" value="3" /></td><td><input type="radio" name="' + name_label + 
-			'" value="4" /></td><td><input type="radio" name="' + name_label + 
-			'" value="5" /></td><td><input type="radio" name="' + name_label + 
-			'" value="6" /></td><td><input type="radio" name="' + name_label + 
-			'" value="7" /></td></tr>';
-
-			return likert;
-		}
-
-
-
-
-	    function makeset1() //simple function that returns a string the contexts of which are appended to a wrapper
-	    // which show the the first 12 multiple choice items for contingencies of self-worth. 
-
-	    {	j=""// initiate a string that will be built up to represent the html that will be displayed. 
-
-
-			for(var i = 0; i < 12; i++) // go throug the first 12 sentences
-			{
-			
-				var temp=create_cont_Likert(sen_con[i],"con_agree_"+i); // this takes in our sentence and puts it with a corresponding
-				// name the radio buttons (each sentence has a unique associated name for its radio buttons)
-
-				j=j+temp;		
-
-			}
-
-			return j;
-
-		}
-
-
-		 function makeset2() // Next Set. Later will make all three of these one function, using an array and
-		    // and join technique. This will be less code and cleaner. But for now I'm going with this to get the flow. 
-
-	    	{	
-	    		j=""// initiate a string that will be built up to represent the html that will be displayed. 
-
-
-				for(var i = 12; i < 24 ; i++) // go throug the first 12 sentences
-				{
-				
-					var temp=create_cont_Likert(sen_con[i],"con_agree_"+i); // this takes in our sentence and puts it with a corresponding
-					// name the radio buttons (each sentence has a unique associated name for its radio buttons)
-
-					j=j+temp;		
-
-				}
-
-			return j;
-
-		}
-
-
-		function makeset3() // last set
-
-	    {	j=""// initiate a string that will be built up to represent the html that will be displayed. 
-
-
-			for(var i = 24; i < 35 ; i++) // go through the first 12 sentences
-			{
-			
-				var temp=create_cont_Likert(sen_con[i],"con_agree_"+i); // this takes in our sentence and puts it with a corresponding
-				// name the radio buttons (each sentence has a unique associated name for its radio buttons)
-
-				j=j+temp;		
-
-			}
-
-			return j;
-
-		}
-
-		var w=makeset1();
-		var x=makeset2();
-		var y=makeset3();
-
-
-
-		$('#con_table1').append(w);
-		$("#contingencies1").append('<p><input type=reset id ="finish_CSW1" value= "Submit" /></p>')
-
-		$('#con_table2').append(w);
-		$("#contingencies2").append('<p><input type=reset id ="finish_CSW2" value= "Submit" /></p>')
-
-		$('#con_table3').append(y);
-		$("#contingencies3").append('<p><input type=reset id ="finish_CSW3" value= "Submit" /></p>')
-	 
-		$('#contingencies1').show(); // start the flow for this set now that the other wrapper pieces have been created.
-
-		$("#finish_CSW1").click(function()
-		{
-	     	$("#contingencies1").hide(500);
-	     	
-	     	$("#contingencies2").show(500);
-		 });
-
-		$("#finish_CSW2").click(function()
-		{
-	     	$("#contingencies2").hide(500);
-	     	
-	     	$("#contingencies3").show(500);
-		 });
-
-		$("#finish_CSW3").click(function()
-		{
-	     	$("#contingencies3").hide(500);
-	     	
-	     	DoPANAS();
-		 });
-
-
-	}//End ShowCSW function
-
-	function DoPANAS()
-	{
-
-
-		var emotion=["interested","distressed","excited","upset","strong","guilty","scared","hostile","enthusiastic","proud",
-		"tired","irritable","alert","ashamed","inspired","nervous","determined","attentive","jittery","active","afraid"]
-		function PANAS_Likert(sentence,name_label)
-		{    console.log("it's getting here")
-			var likert = '<tr><td style="text-align: left; height: 40px"> <b>' + sentence + '</b></td>'+
-			'<td><input type="radio" name="' + name_label+ 
-			'" value="1" /></td><td><input type="radio" name="' + name_label + 
-			'" value="2" /></td><td><input type="radio" name="' + name_label + 
-			'" value="3" /></td><td><input type="radio" name="' + name_label + 
-			'" value="4" /></td><td><input type="radio" name="' + name_label + 
-			'" value="5" /></td></tr>';
-
-			return likert;
-		}
-
-
-	function makeset1() //just like in the previous functions for the CSWs- makes the first set 
-
-	    {	j=""// initiate a string that will be built up to represent the html that will be displayed. 
-
-
-			for(var i = 0; i < 11; i++) // go throug the first 11 emotions. 
-			{
-			
-				var temp= PANAS_Likert(emotion[i], emotion[i]); // this takes in our sentence and puts it with a corresponding
-				// name the radio buttons (each sentence has a unique associated name for its radio buttons)
-
-				j=j+temp;	
-
-			}
-
-			return j; 
-
-		}
-
-		function makeset2() //just like in the previous functions for the CSWs- makes the first set 
-
-	    {	j=""// initiate a string that will be built up to represent the html that will be displayed. 
-
-
-			for(var i = 11; i < 21; i++) // go throug the first 11 emotions. 
-			{
-			
-				var temp= PANAS_Likert(emotion[i], emotion[i]); // this takes in our sentence and puts it with a corresponding
-				// name the radio buttons (each sentence has a unique associated name for its radio buttons)
-
-				j=j+temp;	
-
-			}
-
-			return j; 
-
-		}
-
-		var w=makeset1();
-		var x=makeset2();
-
-
-		$("#PANAS_table1").append(w);
-		$("#PANAS_scale1").append('<p><input type=reset id ="finish_PANAS1" value= "Submit" /></p>')
-
-
-		$("#PANAS_table2").append(x);
-		$("#PANAS_scale2").append('<p><input type=reset id ="finish_PANAS2" value= "Submit" /></p>')
-
-		$("#PANAS_scale1").show();
-
-			$("#finish_PANAS1").click(function()
-			{
-		     	$("#PANAS_scale1").hide(500);
-		     	
-		     	$("#PANAS_scale2").show(500);
-			 });
-
-
-			$("#finish_PANAS2").click(function()
-			{
-		     	$("#PANAS_scale2").hide(500);
-		     	
-		     	// This is where the thank you will go. 
-			 });
-
-
-	}
 
 
 
