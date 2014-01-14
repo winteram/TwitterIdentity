@@ -31,11 +31,15 @@ from collections import defaultdict
 
 
 
-conn = pymysql.connect(host='smallsocialsystems.com', port=3306, user='smalls7_groupid', passwd='LetsPublish!', db='smalls7_identity')
+conn = pymysql.connect(host='smallsocialsystems.com', port=3306, user='groupid', passwd='letspublish', db='gidb')
+
+
+
+# Here are the old credentials host='smallsocialsystems.com', port=3306, user='smalls7_groupid', passwd='LetsPublish!', db='smalls7_identity'
 
 cur = conn.cursor()
 
-cur.execute("SELECT TwitterAccountNodeId, TwitterAccountParentId from relationship, survey where relationship.TwitterAccountNodeId = survey.Id;")
+cur.execute("SELECT TwitterAccountNodeId, TwitterAccountParentId from tw_relationship, survey where tw_relationship.TwitterAccountNodeId = survey.Id;")
 
 biglist=cur.fetchall()
 
