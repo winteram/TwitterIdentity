@@ -8,7 +8,7 @@
 	<script src="core/jquery-ui-1.8.21.custom/js/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
     
    
-    <script src="full_self_new.js" type="text/javascript"></script>
+    <script src="trial_newest.js" type="text/javascript"></script>
     
  
 	
@@ -16,6 +16,8 @@
    <link rel='stylesheet' type='text/css' href='core/self-aspects.css' />
   	<link rel='stylesheet' type='text/css'
 	href='core/jquery-ui-1.8.21.custom/css/pepper-grinder/jquery-ui-1.8.21.custom.css' />
+
+  <link rel='stylesheet' type='text/css' href='core/IdentitySurvey.css' />
 
     <link href="core_each/css/bootstrap.min.css" rel="stylesheet">
 
@@ -26,26 +28,26 @@
 </head>
 
 <body bgcolor="#F5F3EF">
+   <div id="twitid" style="display:none"><?php echo $_SESSION['twitid']; ?></div>
 
-  <div class="header"> 
+    <div class="header"> 
     <span id="idproj-hdr"><img src="core/images/idproj.jpg">
       <img src="core/images/idproj_title.jpg" alt="The Group Identity
       Project"></span>
   </div>
 
 
-
   <div class="section-header" id="section-header-0">Instructions</div>
-    <div id="instructions-wrapper" class="wrapper">
+
+
+
+   <div id="instructions" class="wrapper">
       <p> Welcome to the study! To start you will be asked a few demographic questions. You will then be presented a series of questions about what you identify with. The entire survey should take less than 15 minutes and could greatly help us understand how people express their identities in on-line social networks. Thanks in advance for your participation. </p>
       <p> *Note: Though many questions will appear similar to each other, each question has unique features and is important for our analysis. We encourage you to answer them all. </p>  
+    <input type=reset class="ctr" id="fin_intro" value="Continue" />   
       
-      
-     <input type="button" class="ctr" id="fin_intro" value="Continue">
-
-
-     
     </div>
+
 
 <div class="section-header" id="demographics_h">Demographics</div>
     <div class="section-header" id="section-header-1">About you</div>
@@ -71,21 +73,6 @@
               </select>
             </span> 
           </li>         
-          <li id = "locationq">
-            <p> 
-              <label for="loc">Location</label>        
-            </p> 
-            <p> 
-                            
-              <select name="country" id= "sel_country">
-                            <option value="unselected" selected="selected"></option>
-                <?php foreach($Countries as $abbr => $country)
-              echo "<option value=" . $abbr . ">" . $country . "</option>"; 
-              ?>
-            </select>
-          </p> 
-
-        </li>  
                
         <li id = "ethnicityq">
           <p>Ethnicity. Check all that apply</p>
@@ -162,7 +149,9 @@
 
   </div>
 
-  <div class="section-header" id="politics_h">Politics</div>
+
+
+    <div class="section-header" id="politics_h">Politics</div>
   <div id="GetPol-wrapper" class="wrapper">
 
     <p> Generally speaking, do you usually think of yourself as a Republican, a Democrat, an Indendepent, or what?
@@ -215,18 +204,10 @@
     <div id="error-2"></div>
     <input id="fin_politics" type="button" value="Submit Political Party"/>
 
-
-
-   
-
   </div>
 
 
-  <div>   
-   <ol id="displayQ-wrapper_party" class= "wrapper"></ol>
-  </div>
-
-
+  <ol id="displayQ-wrapper_party" class= "wrapper"></ol>
 
 
 
@@ -281,10 +262,11 @@
 
 
 
+ 
 
 
 <!-- I'm just putting in this little piece here next to test out a jQuery dialog option-->
-<div id= "full-saspect">
+<div id= "full-saspect" class="wrapper">
 <div id="dialog_box" style="display: none;">
     You have information in in the editor window that has not been saved. Editing this Self-Aspect will cause that information to be deleted. Would you like to continue?
 </div>
@@ -294,40 +276,40 @@ Oops. Looks like there is incomplete information to add a group. You must includ
 </div>
 
 
-<div id="left_self" class="left-col wrapper">
-    <div class="trait_but" id="trait_buttons"> 
-    </div>
+<div class="left-col">
+	<div class="trait_but" id="trait_buttons"> 
+	</div>
 </div>
 
-<div class="right-col wrapper" id="right_side">
+<div class="right-col" id="right_side">
 
-    <form >
-    Domain Name: <input type="text" name="GName" id= "Self-Name">
-    </form>
+	<form >
+	Domain Name: <input type="text" name="GName" id= "Self-Name">
+	</form>
 
-    <div class="trait_disp"> 
-        Traits 
-        <div id ="traits_show"></div>
+	<div class="trait_disp"> 
+		Traits 
+		<div id ="traits_show"></div>
 
-    </div>
+	</div>
   
 
-  <input type=reset id ="add_group" value= "Add Self-Aspect" />
+	<input type=reset id ="add_group" value= "Add Self-Aspect" />
   
 
 
 </div>
 
-<div id="finish_SA_but" class="right-col wrapper">
+<div class="right-col">
 
   <p>
 
-  <input type=reset id ="finish_SA" value= "Finish Task" />
+	<input type=reset id ="finish_SA" value= "Finish Task" />
 </p>
 
 </div>
 
-
+</div>
 
 <div class="wrapper" id="self_labeling">
 
@@ -344,13 +326,13 @@ Oops. Looks like there is incomplete information to add a group. You must includ
   <table class="table" table border=1>
 
  <tr>
-  <td><h4><b>Type</b><h4></td>
-  <td><b><h4><b>Examples</b><h4></b></td>
+	<td><h4><b>Type</b><h4></td>
+	<td><b><h4><b>Examples</b><h4></b></td>
   
 </tr>
 <tr>
-  <td> Situations</td>
-  <td> When in a crowded situation, when meeting new people</td>
+	<td> Situations</td>
+	<td> When in a crowded situation, when meeting new people</td>
 </tr>
 
 <tr>
@@ -537,6 +519,35 @@ Oops. Looks like there is incomplete information to add a group. You must includ
     </table>
 
 </div>
+
+    <div class="section-header" id="feedback_h">Feedback</div>
+  <div id="GetFeedback-wrapper" class="wrapper"> </br>
+
+    <center> <p> <font size ="5"> We value any feedback you would like to give us on this study. Please type comments below.</font></p> </center> </br> </br>
+       
+        <center><textarea id="feedback" class= "LargerText" cols="60" rows="20" name="comment"></textarea> </br></center>
+       
+
+
+    
+    <center><input id="fin_feedback" type=reset value="Submit Feedback"/></center>
+
+  </div>
+
+
+  <div id="thanks" class="wrapper">
+    <h2 class= "center-title1"> THANKS FOR YOUR SUPPORT!</h2>
+  </div>
+
+
+
+
+
+
+
+
+
+
 
 </body>
 </html>
