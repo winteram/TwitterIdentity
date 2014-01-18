@@ -192,15 +192,35 @@ function checkPolitics()
 	var wrapper = "#displayQ-wrapper_" + "party";
 	iden = "party";
 	
-	if(once == true)
+	if(once == true && party=="unselected")
+
+	{   // This the the case where someone has been warned they didn't input the politics field- and still chooses
+//to move on- instead of directing them to the subsequent politics questions, it takes them to the free-response identity portion. 
+		
+		$("#politics_h").hide();
+		$("#GetPol-wrapper").hide(500); 
+		once=false;
+
+
+		
+		
+		$("#free_h").show();
+	    $("#FreeForm-wrapper").show(500);
+	    // reset this variable for the next section
+	
+
+
+
+
+		
+
+		
+}
+
+
+	else
+
 	{
-	    $("#GetPol-wrapper").hide(500); 
-	    $.post("core/DataWrangler.php", {"page":"polform", "twitid":twitid, "party":party });
-
-		
-
-		
-	}
 	
 	
 
@@ -259,8 +279,10 @@ function checkPolitics()
 
 
 
-	}
-}
+	}// end if that this embedded in the else
+
+	}// End else
+} // End the checkPolitics function
 
 
 
@@ -396,12 +418,7 @@ function displayQ(form1, form2, iden) // added iden as the third input
 		$("#free_h").show();
 	    $("#FreeForm-wrapper").show(500);
 
-	    $("#fin_free").click(function() 
 
-	    {
-	    	FreeCheck();
-	    	
-	    });	
 		    
 		
 
@@ -422,6 +439,14 @@ function displayQ(form1, form2, iden) // added iden as the third input
 	
 
 }// end surveyValidate()
+
+
+	    $("#fin_free").click(function() 
+
+	    {
+	    	FreeCheck();
+	    	
+	    });	
 
 
 
