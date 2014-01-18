@@ -586,7 +586,6 @@ function createLikert(id_label,name_label)
 		{
 		 
 			console.log(traits_arr.push(this.id));
-
 			$('#traits_show').append('<div id= "disp_'+this.id+'" class="t_disp">'+this.id+'</div>');
 		
 		} 
@@ -637,6 +636,9 @@ function createLikert(id_label,name_label)
 				trait_group += '</div>';
 				$("#right_side").append(trait_group);
 				
+				var h= self_count;
+				
+				self_count += 1;
 
 				
 			}			
@@ -649,20 +651,23 @@ function createLikert(id_label,name_label)
 				trait_edit += ' <br><button  class="edit_button" value="'+current_count+'"> edit </button>';
 
 				$(id_tofill).html(trait_edit);
+				$(id_tofill).show();
 				
 				console.log("conditional in place")
 				
 				edit=false // importantly once the trait has been added, it is no longer being edited, so the value of this variable much false. Otherwise people won't be able to create new
-				// groups after this. 							
+				// groups after this. 	
+
+				var h= current_count;						
 			}
 			
 			
 
 		     //traits_arr=[]
 			//console.log(diff_variable);
-			$(traits_show).empty();//I don't think this is doing anything
+			//$(traits_show).empty();//I don't think this is doing anything
 			
-			var h= self_count;
+			
 
 			var curr_self_aspect= 'self_aspect'+h;
 			var traits_curr= 'Traits' + h;
@@ -674,7 +679,7 @@ function createLikert(id_label,name_label)
 			
 			$("#Self-Name").val("");
 			
-			self_count += 1;
+	
 			var traits_copy = traits_arr; // it's important to creat a full copy of traits_arr (the working set of traits that is being edited, because every click it will be adjusted
 			// so iterating through this is like iterating through a moving changing target. Items will get skipped. So, in the below code, I iterate through traits_copy, not traits_arr because
 			// the loop impacts it on the fly. 
@@ -718,6 +723,10 @@ function createLikert(id_label,name_label)
 
 					//$(j).hide()
 			
+
+			// hide the current piece that is being edited
+
+
 			
 			
 			console.log(current_count);
@@ -726,6 +735,10 @@ function createLikert(id_label,name_label)
 			var current_aspect='self_aspect'+current_count;
 			
 			console.log(current_aspect);
+
+			var id_tofill = "#self_display_"+current_count;
+
+			$(id_tofill).hide();
 			
 			
 			var cur_trait_arr=dic_trait[current_trait]; // Variable for the trait set
@@ -741,7 +754,7 @@ function createLikert(id_label,name_label)
 
 
 			}
-		
+		//|| $.trim(string_name).length > 2
 		
 		// Here is the click function for the edit button
 
@@ -753,9 +766,10 @@ function createLikert(id_label,name_label)
 			var string_name=$("#Self-Name").val(); // just breaking this up into a string, which I will trim and take the length of to see if a self-aspect name is long enough
 			
 			current_count= parseInt($(this).attr("value")); // 
+
 		  
 			
-			if(traits_arr.length>0 || $.trim(string_name).length > 2){ // If someone has 
+			if(traits_arr.length>0){ // If someone has 
 			$('#dialog_box').dialog({
 			
 				  title: 'Unsaved Self-Aspect',
