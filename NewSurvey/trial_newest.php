@@ -300,7 +300,7 @@ Oops. Looks like there is incomplete information to add a group. You must includ
 
 </div>
 
-<div class="right-col">
+<div id="right_col" class="right-col">
 
   <p>
 

@@ -849,12 +849,39 @@ function createLikert(id_label,name_label)
      {
      	// make this a validation function
 
+     	if(Object.keys(dic_self).length==0 && once==false)
+
+     	{	once=true;
+     		$("#right_col").append('<div id="error_sa_list" class= "error"> Oops, looks like you did not add a self-aspect. It would help us greatly if you include one.</div>')
+     	
+     		//$("#right-col").show();
+
+     	}
+
+
+     	else{
+
+
+
      	
        $("#full-saspect").hide(500);
+       once=false;
 
-      Disp_Self_Lab(); 
+       if(Object.keys(dic_self).length==0)// if someone didn't input a self aspect, skip the next section. 
+       {
+       Show_media_qs();
 
-     });
+
+       }
+       else
+       {
+
+            Disp_Self_Lab(); // only display the next section of labeling self-aspects if people have input a self aspect
+  		}
+      } // end super-ordinate else
+
+     });// end click function
+
 
 
 function Disp_Self_Lab()// Function to initiate the self-labeling portion of the study. 
@@ -898,7 +925,7 @@ $.each(dic_self, function(key, value) {
      {
      	// make this a validation function
 
-     console.log("click working")
+     //console.log("click working")
        
 
      //Show_media_qs(); 
