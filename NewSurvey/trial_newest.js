@@ -887,42 +887,78 @@ function createLikert(id_label,name_label)
 function Disp_Self_Lab()// Function to initiate the self-labeling portion of the study. 
 
 {
-	var dropdown=
-['<p>',
-	'<select id="self_categories" name="edu">', 
-		'<option value="unselected" selected="selected"></option>',
-		'<option value="situations">Situations</option>',
-		'<option value="relationships">Relationships</option>',
-		'<option value="roles">Roles</option>',
-		'<option value="emotional">Emotional</option>',
-		'<option value="true_selves">True Selves</option>',
-		'<option value="goals">Goals</option>',
-		'<option value="time">Time Related</option>',
-		'<option value="public">Public</option>',
-		'<option value="alone">Alone</option>',
-		'<option value="other">Other</option>',
-	'</select>',
-'</p>' 
-].join('\n')
+
 
 var Qsappend="";// these are questions that will be appended at that end
 
 var sent_base1='From the dropdown menu, choose the category, listed above, that best describes the following Self-Aspect: "';
 
 $.each(dic_self, function(key, value) {
-	var item_temp='<p><label for = "part_label_'+key+'"><b>'+ sent_base1 + value + '".</b></label><br>' + dropdown + '</p>';
+
+		var dropdown=
+['<p>',
+	'<select id="self_cat_'+key+'" name="self_cat">', 
+		'<option value= "unselected" selected="selected"></option>',
+		'<option value= "situations">Situations</option>',
+		'<option value= "relationships">Relationships</option>',
+		'<option value= "roles">Roles</option>',
+		'<option value= "emotional">Emotional</option>',
+		'<option value= "true_selves">True Selves</option>',
+		'<option value= "goals">Goals</option>',
+		'<option value= "time">Time Related</option>',
+		'<option value= "public">Public</option>',
+		'<option value= "alone">Alone</option>',
+		'<option value= "other">Other</option>',
+	'</select>',
+'</p>' 
+].join('\n')
+	var item_temp='<p id= "part_label_'+key+'"><label for = "part_label_'+key+'"><b>'+ sent_base1 + value + '".</b></label><br>' + dropdown + '</p>';
 	Qsappend += item_temp;
 
     	
     		});
 
+	Qsappend +='<div id="err_slabel" class="error"></div>'
 	Qsappend +='<p><input type=reset id ="finish_label" value= "Submit" /></p>'
 
-	$("#self_labeling").append(Qsappend)
-	$("#self_labeling").show()
+	$("#self_labeling").append(Qsappend);
+	$("#self_labeling").show();
 
     $("#finish_label").click(function()
      {
+
+     	$.each(dic_self, function(key, value) {
+		var item_temp= '#self_cat_'+key+' option:selected'
+		value_temp= $(item_temp).val();
+
+		//other_thing=$("#self_cat_self_aspect1").val();
+		//console.log(other_thing);
+		console.log(value_temp);
+
+		if(value_temp=="unselected")
+			$("#part_label_"+key).addClass("error")
+		{
+			error=true
+		}
+
+
+		
+
+    	
+    		});
+
+     	if(error==true && once==false)
+     	{
+     		errmsg="Oops, looks like you didn't label one or more self aspects, highlighted in red above."
+     		$("#err_slabel").html(errmsg); 
+     	}
+
+     	else
+     	{
+
+
+
+
      	// make this a validation function
 
      //console.log("click working")
@@ -930,7 +966,10 @@ $.each(dic_self, function(key, value) {
 
      //Show_media_qs(); 
 
-     ShowGenaspect();
+     			ShowGenaspect();
+ 		}
+
+ 		once=true; 
 
      });
 
