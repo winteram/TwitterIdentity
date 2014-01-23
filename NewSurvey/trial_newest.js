@@ -1,6 +1,7 @@
 // JavaScript Document
-
-
+function isNumber(n) {
+  return !isNaN(parseFloat(n)) && isFinite(n);
+}
 
 
 var traits_full = 
@@ -132,7 +133,7 @@ $(document).ready(function() {
 		$("#ethnicityq").addClass("error");
 	}
 	
-    if(income=="unselected" || $.trim(income) != income.replace(/[^0-9$.,]/g,'') || !IsNumeric(income.replace(/[^0-9.]/g,'')))
+    if(income=="unselected" || $.trim(income) != income.replace(/[^0-9$.,]/g,'') || !isNumber(income.replace(/[^0-9.]/g,'')))
 	{
 	    error=true;
 	    //errmsg += "<div class='error'>Please enter a valid number for income</div>";
