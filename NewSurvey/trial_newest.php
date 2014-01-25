@@ -42,7 +42,7 @@
 
 
    <div id="instructions" class="wrapper">
-      <p> Welcome to the study! To start you will be asked a few demographic questions. You will then be presented a series of questions about what you identify with. The entire survey should take less than 15 minutes and could greatly help us understand how people express their identities in on-line social networks. Thanks in advance for your participation. </p>
+      <p> Welcome to the study! To start you will be asked a few demographic questions. You will then be presented a series of questions about aspects of yourself and how you use Facebook and/or Twitter. The entire survey should take less than 50 minutes and could greatly help us understand how people express their identities in on-line social networks. Thanks in advance for your participation. </p>
       <p> *Note: Though many questions will appear similar to each other, each question has unique features and is important for our analysis. We encourage you to answer them all. </p>  
     <input type=reset class="ctr" id="fin_intro" value="Continue" />   
       
@@ -214,7 +214,10 @@
   <div class="section-header" id="free_h"> Free Response Identity</div>
   <div id="FreeForm-wrapper" class="wrapper">
 
-    <p>We all have groups we identify with. In a given moment we may see ourselves as Democrats, or Americans, Germans, Fathers, Mac People, Women, Teachers, Soccer Players, etc. For this part, we would like you to think about groups you feel committed to, one's that form an important part of your identity. You will be asked three questions about EACH identity. For each subsection, like "Identity 1", all three questions are asking about the SAME identity. </p>
+    <p>We all have groups we identify with.For this part, we would like you to think about groups you feel committed to, one's 
+      at form an important part of your identity. You will be asked three questions about EACH identity. For each subsection, like 
+      "Identity 1", all three questions are asking about the SAME identity. So for instance, if the identity you were thinking of was 
+      your political identity, your answers might be "Democrat", "Democrats" and "democrats.org"  </p>
         <h3> Idenitity 1</h3>
         <ol>
     <li id = "freeq1"> I see myself as a <input id="free1" name="freeform1" type="text"/> <span><i> e.g. Democrat </i> </span></li> 
@@ -267,6 +270,59 @@
 
 <!-- I'm just putting in this little piece here next to test out a jQuery dialog option-->
 <div id= "full-saspect" class="wrapper">
+<div id= "self_task_instructions">
+  <p>
+    In this task, you will be asked to describe aspects of your personal life. Please make sure to read all instructions 
+    carefully.  It is important that you read ALL instructions so that you’ll know what to do at all times. 
+  </p>
+
+
+
+ 
+  <p>
+      For this task, we are interested in how you describe yourself.  You will be presented with a series of terms 
+  presented in a list on the left side of a window, which are clickable buttons.  Each term is the name of a trait or 
+  characteristic.  Your task is to form groups of traits that go together, where each group of traits describes an aspect of you
+   or your life.  You may sort the traits into groups on any meaningful basis – but remember to think about yourself while doing 
+   this. Each group of traits might represent a different aspect of yourself.  Form as many or as few groups as you desire. 
+   Continue forming groups until you feel that you have formed the important ones.  We realize that this task could be endless, 
+   but we want only what you feel is meaningful to you.  When you feel that you are straining to form more groups, it is probably a 
+   good time to stop.
+
+  </p>
+
+   <p>
+     In order to form a group, you’ll use the mouse to click on traits (by pressing the left mouse button) in the left-hand column.
+    When you click on the traits, they will ‘bounce’ to the right-hand window.  If you wish to remove one or more of these traits, press
+    the trait button again (it will bounce back to the left side). 
+
+    
+  </p>
+
+   <p>
+    Each group may contain as few or as many traits as you wish.  You do not have to use every trait, only those that you feel are 
+    descriptive of you.  Also, each trait may be used in more than one group; so you may keep reusing traits as many times as you 
+    like.  For example, you may find that you want to use the trait ‘relaxed’ in several groups.
+    
+  </p>
+
+  <p>
+    Once you have the traits you want in listed on the right hand side, you should label what this collection of traits means to you.  
+    In other words, what is it about yourself that you are describing?  Type our description in the text box located on the right
+    side of the screen labeled- "Self-Aspect Name".  Once you’ve selected the traits and named the group, 
+    press the "Add Self Aspect" to record it. Once you record a group, you can edit it later, by hitting the edit button located
+    in a box with that group. Note: you cannot edit a previously recorded group if you are currently creating another group. 
+    The current trait window and Self-Aspect Name box must be empty to edit a group you've previously recorded.
+    
+  </p>
+
+
+
+</div>
+
+
+
+
 <div id="dialog_box" style="display: none;">
     You have information in in the editor window that has not been saved. Editing this Self-Aspect will cause that information to be deleted. Would you like to continue?
 </div>
@@ -284,7 +340,7 @@ Oops. Looks like there is incomplete information to add a group. You must includ
 <div class="right-col" id="right_side">
 
 	<form >
-	Domain Name: <input type="text" name="GName" id= "Self-Name">
+	Self-Aspect Name: <input type="text" name="GName" id= "Self-Name">
 	</form>
 
 	<div class="trait_disp"> 
@@ -319,7 +375,8 @@ Oops. Looks like there is incomplete information to add a group. You must includ
   <div class="panel-body">
     <p>Our self-aspects can often be described in terms of different general types. Below is a list of common types of self-aspects with examples. 
      In this next section we would like you to label the self-aspects you generated in the previous section with one of these types listed in the left
-     column below, such as 'Situations', 'Roles', etc. If none of the specific types seems to fit, please simply select the "Other" option. </p>
+     column below, such as 'Situations', 'Roles', etc. If none of the specific types seems to fit, please simply select the "Other" option. When you
+     are all done, press the Finish Task button to continue to the next section. </p>
   </div>
 
   <!-- Table -->
@@ -398,8 +455,9 @@ Oops. Looks like there is incomplete information to add a group. You must includ
 
 
 <div id="twitterQs" class="wrapper">
+  <h3> Twitter Usage </h3>
 
-   <p> <font size ="5"> What kinds of things do you usually express on Twitter? Please type comments below.</font></p> </br>
+   <p> What kinds of things do you usually express on Twitter? Please type comments below.</p> </br>
        
         <textarea id="tw_express" class= "LargerText" cols="60" rows="5" name="gen_tw_comment"></textarea> </br>
 
@@ -411,7 +469,9 @@ Oops. Looks like there is incomplete information to add a group. You must includ
 
 <div id = "facebookQs" class="wrapper">
 
-  <p> <font size ="5"> What kinds of things do you usually express on Facebook? Please type comments below.</font></p> </br>
+ <h3> Facebook Usage </h3>
+
+  <p> What kinds of things do you usually express on Facebook? Please type comments below </p> </br>
        
         <textarea id="fb_express" class= "LargerText" cols="60" rows="5" name="gen_fb_comment"></textarea> </br>
 
@@ -429,6 +489,8 @@ Oops. Looks like there is incomplete information to add a group. You must includ
 
 
 <div id="contingencies2" class="wrapper">
+
+
 
     <table class="likert" table border=1 id="con_table2">
       <tr class="likert2">
@@ -449,6 +511,11 @@ Oops. Looks like there is incomplete information to add a group. You must includ
 
 
 <div id="contingencies1" class="wrapper">
+    <div id="cont_instruct">
+    INSTRUCTIONS: Please respond to each of the following statements, on this and the next two pages, by circling your answer using 
+    the scale from "1 = Strongly disagree" to "7 = Strongly agree.”  If you haven't experienced the situation described in a 
+    particular statement, please answer how you think you would feel if that situation occurred.  
+  </div>
 
     <table class="likert" table border=1 id="con_table1">
       <tr class="likert2">
@@ -470,6 +537,7 @@ Oops. Looks like there is incomplete information to add a group. You must includ
 
 <div id="contingencies3" class="wrapper">
 
+
     <table class="likert" table border=1 id="con_table3">
       <tr class="likert2">
         <td style="width:320px"></td>
@@ -489,6 +557,28 @@ Oops. Looks like there is incomplete information to add a group. You must includ
 
 <div id="PANAS_scale1" class="wrapper">
 
+  <div id="PANAS_instruct">
+
+    <p>
+      You will now complete some questions about how you feel in general.  Please be as honest as possible.  
+      Remember, there is no right or wrong answer; answer in a way that is right for you.  Your answers will remain confidential.
+
+
+    </p>
+
+    <h3> Mood: Positive and Negative Affect Schedule </h3>
+
+      <p>
+        This scale consists of a number of words that describe different feelings and emotions. Read each item and then
+         mark the appropriate answer in the space next to that word. Indicate to what extent <b>you feel this way in general</b>. 
+         Use the following scale to record your answers.
+      </p>
+
+
+  </div>
+
+
+
     <table class="likert" table border=1 id="PANAS_table1">
       <tr class="likert2">
         <td style="width:40px"></td>
@@ -505,6 +595,8 @@ Oops. Looks like there is incomplete information to add a group. You must includ
 
 
 <div id="PANAS_scale2" class="wrapper">
+   <h3> Mood: Positive and Negative Affect Schedule </h3>
+
 
     <table class="likert" table border=1 id="PANAS_table2">
       <tr class="likert2">

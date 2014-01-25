@@ -1,0 +1,248 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+.right-col {
+  float: right;
+  width: 40%
+}
+.left-col {
+  float: left;
+  width: 30%;
+}
+
+.self_finished
+{
+width:300px;
+padding:10px;
+border:5px solid gray;
+margin:0px;
+
+}
+
+
+.trait_disp
+{
+width:300px;
+padding:10px;
+border:5px solid gray;
+margin:0px;
+
+font-family: Trebuchet MS, Tahoma, Verdana, Arial, sans-serif; font-size: 1em; 
+display:block;
+font-weight:bold;
+}
+
+
+.trait_but
+{
+width:300px;
+padding:10px;
+border:5px solid gray;
+margin:0px;
+}
+
+
+
+
+
+// Styling for AboutUs.html
+
+body {
+    min-width: 750px;
+}
+
+.header {
+    height: 100px;
+    background-color: #F5F3EF;
+    margin-bottom: 10px;
+    text-align: center;
+	
+}
+
+
+#idproj-hdr img {
+    height: 100px;
+}
+
+.container {
+    padding-left: 200px;
+    padding-right: 150px;
+}
+
+.container .column {
+    position: relative;
+    float: left;
+}
+
+.center {
+    width: 100%;
+    background-color: #F5F3EF;
+}
+
+.center-section {
+    padding: 15px;
+    font-family: serif;
+    text-align: left;
+}
+
+.center-title {
+    font-weight: bold;
+    font-variant: small-caps;
+    color: #371400;
+
+}
+
+.center-para {
+    margin-left: 5px;
+    color: #472400;
+}
+
+.left {
+    width: 200px;
+    right: 200px;
+    margin-left: -100%;
+    background-color: #E7E3E1;
+    font-family: serif;
+    font-style: oblique;
+    font-size: small;
+    color: #472400;
+}
+
+.bio {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 0px 5px 0px 5px;
+}
+
+.headshot {
+    height: 100px;
+    margin: 5px;
+    border: 2px double #472400;
+}
+
+.right {
+    width: 150px;
+    margin-right: -150px;
+    background-color: #F5F3EF;
+}
+
+#participate-button {
+    background: #FFCC00;
+}
+
+.uni-logos {
+    margin-top: 100%;
+    padding-left: 12px;
+}
+
+.uni {
+    width: 100px;
+    margin: 5px;
+    border: 2px double #472400;
+}
+
+.footer {
+    clear: both;
+    text-align: center;
+    background-color: #F0EBE6;
+    padding: 5px;
+}
+
+#contact-info {
+    color: #835930;
+    margin:10px;
+}
+
+/*** IE6 fix ***/
+* html .left {
+    left: 150px;
+}
+
+#consent-form {
+    max-width: 800px;
+    padding: 10px;
+}
+
+#consent-form div {
+    margin: 5px 0px 5px 0px;
+    padding: 5px;
+}
+
+.consent-contact {
+    text-align: center;
+    font-weight: bold;
+}
+
+#consent-form-box {
+    background-color: white;
+    border: solid black 2px;
+    margin: 15px;
+    padding: 10px;
+}
+
+#sign-in {
+    text-align: center;
+}
+
+.section-header 
+{
+    height: 40px; 
+    background-color: #F5F3EF;
+    color: #371400; 
+    font-family: Helvetica; 
+    font-size:2em; 
+    padding: 10px 20px; 
+    margin: 5px;
+	display:none;
+}
+
+
+.wrapper {
+    margin: 0px 20px; 
+    display: none;
+}
+
+.center {
+    text-align: center;
+}
+
+.error {
+    color: red;
+}
+
+.black {
+	color: black;
+}
+
+.likert { 
+    text-align: center; 
+}
+
+.likert td { 
+    width: 70px; 
+}
+
+.center-title1 {
+    font-weight: bold;
+    font-variant: small-caps;
+    color: #371400;
+	text-align:center
+
+}
+
+.LargerText
+
+{
+	font-size: 16px;
+	
+	
+}
+
+
+
+
+
+

@@ -1,7 +1,6 @@
 // JavaScript Document
-function isNumber(n) {
-  return !isNaN(parseFloat(n)) && isFinite(n);
-}
+
+
 
 
 var traits_full = 
@@ -10,7 +9,7 @@ var traits_full =
 	 'independent', 'intelligent', 'interested', 'lovable', 'mature', 'needed', 
 	 'optimistic', 'organized', 'outgoing', 'successful','disagreeing', 'disorganized', 'hopeless', 'immature', 'incompetent', 'indecisive', 'inferior', 'insecure', 'irresponsible', 'irritable', 
 	 'isolated', 'lazy', 'like a failure', 'sad and blue', 'self-centered', 
-	 'tense', 'uncomfortable', 'unloved', 'weary', 'worthless']
+	 'tense', 'unc omfortable', 'unloved', 'weary', 'worthless']
 
 
 
@@ -133,7 +132,7 @@ $(document).ready(function() {
 		$("#ethnicityq").addClass("error");
 	}
 	
-    if(income=="unselected" || $.trim(income) != income.replace(/[^0-9$.,]/g,'') || !isNumber(income.replace(/[^0-9.]/g,'')))
+    if(income=="unselected" || $.trim(income) != income.replace(/[^0-9$.,]/g,'') || !IsNumeric(income.replace(/[^0-9.]/g,'')))
 	{
 	    error=true;
 	    //errmsg += "<div class='error'>Please enter a valid number for income</div>";
@@ -635,6 +634,8 @@ function createLikert(id_label,name_label)
 			$(toremove).remove();
 			
 	 	}
+	 	console.log(traits_arr)
+	 	$(".edit_button").unbind("click")
 	
 	}); // ends trait_buttons click function
 
@@ -652,6 +653,8 @@ function createLikert(id_label,name_label)
 			var labelname = $("#Self-Name").val();
 			var traits_temp= traits_arr.join();
 			var diff_variable=traits_arr.join();
+
+			console.log(traits_arr)
 			
 			if(edit==false)
 			{
@@ -665,6 +668,8 @@ function createLikert(id_label,name_label)
 				var h= self_count;
 				
 				self_count += 1;
+
+				console.log(traits_arr)
 
 				
 			}			
@@ -684,7 +689,8 @@ function createLikert(id_label,name_label)
 				edit=false // importantly once the trait has been added, it is no longer being edited, so the value of this variable much false. Otherwise people won't be able to create new
 				// groups after this. 	
 
-				var h= current_count;						
+				var h= current_count;		
+				console.log(traits_arr)				
 			}
 			
 			
@@ -704,6 +710,8 @@ function createLikert(id_label,name_label)
 			console.log(dic_trait['Traits1']);
 			
 			$("#Self-Name").val("");
+
+			console.log(traits_arr)
 			
 	
 			var traits_copy = traits_arr; // it's important to creat a full copy of traits_arr (the working set of traits that is being edited, because every click it will be adjusted
@@ -716,6 +724,12 @@ function createLikert(id_label,name_label)
 				$("[id='"+traits_copy[i]+"']").click();	
 
 			}
+			console.log(traits_arr)
+
+			traits_arr=[]
+			edit=false
+			$(".edit_button").unbind("click")
+
 
 			
 			// I can put an else statement here that informs the participant that they must add Both traits and a
@@ -735,7 +749,7 @@ function createLikert(id_label,name_label)
 			})
 				  
 				 
-			
+			traits_arr=[]
 			
 		}
 		
@@ -743,6 +757,8 @@ function createLikert(id_label,name_label)
 		function edit_piece() // This is the code that should be run when nothing is stored in the current editor and the participant wants to edit an entry.
 			{
 				edit=true;
+			
+
 
 			//var j='#self_display_'+current_count;
 					//console.log(j);
@@ -753,12 +769,13 @@ function createLikert(id_label,name_label)
 			// hide the current piece that is being edited
 
 
+			console.log(traits_arr)
 			
-			
-			console.log(current_count);
+			//console.log(current_count);
 			
 			var current_trait='Traits'+current_count;
 			var current_aspect='self_aspect'+current_count;
+			console.log(current_trait)
 			
 			console.log(current_aspect);
 
@@ -777,6 +794,7 @@ function createLikert(id_label,name_label)
 				$("[id='"+cur_trait_arr[i]+"']").click();		
 			}
 			$("#Self-Name").val(cur_aspect_label);
+			$(".edit_button").unbind("click")
 
 
 			}
@@ -788,12 +806,26 @@ function createLikert(id_label,name_label)
 
 		{
 			console.log("The click is working");
+			$(".edit_button").unbind("click")
+
+			console.log(edit)
+
+			if(edit==false)
+			{
 			
 			var string_name=$("#Self-Name").val(); // just breaking this up into a string, which I will trim and take the length of to see if a self-aspect name is long enough
 			
 			current_count= parseInt($(this).attr("value")); // 
+			}
+				
+
 
 		  
+
+			console.log(traits_arr)
+
+
+
 			
 			if(traits_arr.length>0){ // If someone has 
 			$('#dialog_box').dialog({
@@ -808,11 +840,17 @@ function createLikert(id_label,name_label)
 				  text: 'Yes',
 				  click: function()
 				  {   $(this).dialog('close')
+
 					  var traits_copy = traits_arr;
+					  console.log(traits_copy)
+					  var string_name=$("#Self-Name").val(); // just breaking this up into a string, which I will trim and take the length of to see if a self-aspect name is long enough
+			
+					current_count= parseInt($(this).attr("value"))
 					  for(var i = 0; i < traits_copy.length; i++) 
 						{
 				
 							$("[id='"+traits_copy[i]+"']").click();	
+							console.log(traits_arr)
 
 						} 
 
@@ -834,7 +872,7 @@ function createLikert(id_label,name_label)
 			}
 			
 			else
-			 {
+			 {	console.log("it is editing the piece!")
 				edit_piece();
 				
 			}
@@ -919,7 +957,7 @@ $.each(dic_self, function(key, value) {
     	
     		});
 
-	Qsappend +='<div id="err_slabel" class="error"></div>'
+	Qsappend +='<div id="err_slabel" class="error"></div>' 
 	Qsappend +='<p><input type=reset id ="finish_label" value= "Submit" /></p>'
 
 	$("#self_labeling").append(Qsappend);
@@ -966,6 +1004,7 @@ $.each(dic_self, function(key, value) {
        
 
      //Show_media_qs(); 
+     			once=false
 
      			ShowGenaspect();
  		}
@@ -1118,6 +1157,34 @@ $.each(dic_self, function(key, value) {
 
 		     $("#finish_genself").click(function()
 			     {
+
+			     	//validation section
+
+			     	for(i=0; i<self_aspect.length; i++)
+			{
+				temp1 = $('input[name=clear'+i+']:checked').val()
+				temp2 = $('input[name=import'+i+']:checked').val()
+				temp3 = $('input[name=pos'+i+']:checked').val()
+
+				if(temp1==null||temp2==null||temp3==null)
+				{
+					error=true
+				}
+
+			
+
+			}
+			    	if(error==true||once==false)
+
+				{
+
+					
+					
+				}
+
+				once=true;
+
+
 			     	 
 			     	Show_media_qs(); 
 
