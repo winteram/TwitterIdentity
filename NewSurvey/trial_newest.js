@@ -1211,6 +1211,7 @@ $.each(dic_self, function(key, value) {
 				{
 					errmsg="Oops, looks like you didn't label one or more self aspects, highlighted in red above."
      		      	$("#err_gen_asp").html(errmsg); 
+     		      	once=true;
 					
 				}
 
@@ -1219,12 +1220,12 @@ $.each(dic_self, function(key, value) {
 				{
 
 
-			     	 
+			     	once=false; 
 			     	Show_media_qs();
-			     	once=false
+			     	
 			     } 
 
-			     once=true;
+			     
 
 
 			     });
@@ -1369,7 +1370,7 @@ $.each(dic_self, function(key, value) {
 
 		//$("#facebookQs").show();
 		//$("#PopTwitter").show();
-		once=false
+		
 
 		$("#finish_fbQs").click(function()
 			     {   error=false; // 
@@ -1420,7 +1421,7 @@ $.each(dic_self, function(key, value) {
 
 						    var genfb=$(qput1).val();
 
-							if(genfb=="null")
+							if(genfb==null)
 							{
 								error=true;
 
@@ -1455,10 +1456,10 @@ $.each(dic_self, function(key, value) {
 				{
 
 
-
-			   	   $('#facebookQs').hide(500);
+					once=false;
+			   	   	$('#facebookQs').hide(500);
 			     	$("#twitterQs").show(500);
-			     	once=false// reset it
+			     	// reset it
 			     } 
 
 			  
@@ -1476,10 +1477,95 @@ $.each(dic_self, function(key, value) {
 			     {
 
 
+			     	 error=false; // 
+			     	
 
 
-			     	$('#twitterQs').hide();
+			     	$.each(dic_self, function(key, value) // make facebook questions to put in facebook_saspect wrapper
+					{
+						//console.log(qput.val())
+
+
+			     	qput= 'input[name = Stw_agree_' + key +']:checked';
+			     	console.log(qput)
+
+			     	var popval=$(qput).val();
+			     	
+
+			     	if(popval==null)
+			     	{
+			     		error=true;
+			     		$('#twfreq_'  + key).addClass("error");
+			     	}
+			     	else
+			     	{
+			     		tw_asp[key]=popval;// put this value in the dictionary that will later be posted to data-wrangler
+
+			     	}
+
+			 
+
+
+
+
+
+			     }); 
+
+			     	    for(i=0; i<sen_FB.length; i++)
+						
+						{
+
+							var qput1= 'input[name = tw_agree_' + i +']:checked';
+							//qput2= 'input[id=fb_likert_' + i +']:checked';
+
+							console.log(qput1);
+
+							//console.log($(qput2).val());
+							console.log($(qput1).val());
+
+						    var genfb=$(qput1).val();
+
+							if(genfb==null)
+							{
+								error=true;
+
+							$('#err_twfreq' + i).addClass("error");
+
+							}
+		    			
+		    		
+		    				
+
+		    				console.log(genfb);
+
+						}
+
+							console.log(error);
+							console.log(once);
+
+
+
+
+			     if(error==true && once==false)
+
+				{
+					errmsg="Oops, looks like you didn't answer a few of the questions, highlighted in red above.";
+     		      	$("#err_tw_asp").html(errmsg); 
+     		      	   once=true;
+					
+				}
+
+				
+				else
+				{
+
+
+					once=false;
+			   	 	$('#twitterQs').hide();
 			     	Show_CSW();
+			     	// reset it
+			     } 
+
 			     });
 
 	}// End of show social media function
@@ -1617,19 +1703,21 @@ $.each(dic_self, function(key, value) {
 		var w=makeset1();
 		var x=makeset2();
 		var y=makeset3();
-		once=false;
-		error=false;
+	
 
 
 
 		$('#con_table1').append(w);
-		$("#contingencies1").append('<p><input type=reset id ="finish_CSW1" value= "Submit" /></p>')
+		$("#contingencies1").append('<div id="err_c1" class="error"></div>');
+		$("#contingencies1").append('<p><input type=reset id ="finish_CSW1" value= "Submit" /></p>');
 
-		$('#con_table2').append(w);
+		$('#con_table2').append(x);
+		$("#contingencies2").append('<div id="err_c2" class="error"></div>');
 		$("#contingencies2").append('<p><input type=reset id ="finish_CSW2" value= "Submit" /></p>')
 
 		$('#con_table3').append(y);
-		$("#contingencies3").append('<p><input type=reset id ="finish_CSW3" value= "Submit" /></p>')
+		$("#contingencies3").append('<div id="err_c3" class="error"></div>');
+		$("#contingencies3").append('<p><input type=reset id ="finish_CSW3" value= "Submit" /></p>');
 	 
 		$('#contingencies1').show(); // start the flow for this set now that the other wrapper pieces have been created.
 
@@ -1639,7 +1727,9 @@ $.each(dic_self, function(key, value) {
 
 			for(var i = 0; i < 12; i++) // go throug the first 12 sentences
 			{
-			
+				error=false;
+
+				
 				var temp_v= 'con_agree_'+i; 
 
 				qput= 'input[name = ' + temp_v + ']:checked';
@@ -1647,37 +1737,141 @@ $.each(dic_self, function(key, value) {
 
 				d=$(qput).val();
 
-				if(d=="null")
+				if(d==null)
 				{
 					error=true;
+					$("#c_ag_"+i).addClass("error");
 
 				}
 				console.log(d);
-	
 
+			}
+			console.log(error);
+			console.log(once);
+
+			if(error==true && once==false)
+			{
+				errmsg="Oops, looks like you didn't answer a few of the questions, highlighted in red above.";
+     		    $("#err_c1").html(errmsg); 
+     		    once=true;
+
+			}
+			else
+			{
+
+				once=false;
+				$("#contingencies1").hide(500);
+	     	
+	     		$("#contingencies2").show(500);
 			}
 
 
 
 
 
-	     	$("#contingencies1").hide(500);
 	     	
-	     	$("#contingencies2").show(500);
 		 });
 
 		$("#finish_CSW2").click(function()
 		{
-	     	$("#contingencies2").hide(500);
+
+
+				
+				for(var i = 12; i < 24 ; i++) // go throug the first 12 sentences
+			{
+				error=false;
+
+				
+				var temp_v= 'con_agree_'+i; 
+
+				qput= 'input[name = ' + temp_v + ']:checked';
+
+
+				d=$(qput).val();
+
+				if(d==null)
+				{
+					error=true;
+					$("#c_ag_"+i).addClass("error");
+
+				}
+				console.log(d);
+
+			}
+			console.log(error);
+			console.log(once);
+
+			if(error==true && once==false)
+			{
+				errmsg="Oops, looks like you didn't answer a few of the questions, highlighted in red above.";
+     		    $("#err_c2").html(errmsg); 
+     		    once=true;
+
+			}
+			else
+			{
+
+				once=false;
+		     	$("#contingencies2").hide(500);
 	     	
 	     	$("#contingencies3").show(500);
+			}
+
+
 		 });
 
 		$("#finish_CSW3").click(function()
 		{
+
+			for(var i = 24; i < 35 ; i++) // go throug the first 12 sentences
+			{
+				error=false;
+
+				
+				var temp_v= 'con_agree_'+i; 
+
+				qput= 'input[name = ' + temp_v + ']:checked';
+
+
+				d=$(qput).val();
+
+				if(d==null)
+				{
+					error=true;
+					$("#c_ag_"+i).addClass("error");
+
+				}
+				console.log(d);
+
+			}
+			console.log(error);
+			console.log(once);
+
+			if(error==true && once==false)
+			{
+				errmsg="Oops, looks like you didn't answer a few of the questions, highlighted in red above.";
+     		    $("#err_c3").html(errmsg); 
+     		    once=true;
+
+			}
+			else
+			{
+
+				once=false;
+
 	     	$("#contingencies3").hide(500);
 	     	
 	     	DoPANAS();
+	     }
+
+
+
+
+
+
+
+
+
 		 });
 
 
@@ -1689,9 +1883,9 @@ $.each(dic_self, function(key, value) {
 
 		var emotion=["interested","distressed","excited","upset","strong","guilty","scared","hostile","enthusiastic","proud",
 		"tired","irritable","alert","ashamed","inspired","nervous","determined","attentive","jittery","active","afraid"]
-		function PANAS_Likert(sentence,name_label)
+		function PANAS_Likert(sentence,name_label,id_lab)
 		{    console.log("it's getting here")
-			var likert = '<tr><td style="text-align: left; height: 40px"> <b>' + sentence + '</b></td>'+
+			var likert = '<tr id="' + id_lab + '"><td style="text-align: left; height: 40px"> <b>' + sentence + '</b></td>'+
 			'<td><input type="radio" name="' + name_label+ 
 			'" value="1" /></td><td><input type="radio" name="' + name_label + 
 			'" value="2" /></td><td><input type="radio" name="' + name_label + 
@@ -1711,7 +1905,7 @@ $.each(dic_self, function(key, value) {
 			for(var i = 0; i < 11; i++) // go throug the first 11 emotions. 
 			{
 			
-				var temp= PANAS_Likert(emotion[i], emotion[i]); // this takes in our sentence and puts it with a corresponding
+				var temp= PANAS_Likert(emotion[i], emotion[i],'em_id'+i); // this takes in our sentence and puts it with a corresponding
 				// name the radio buttons (each sentence has a unique associated name for its radio buttons)
 
 				j=j+temp;	
@@ -1730,7 +1924,7 @@ $.each(dic_self, function(key, value) {
 			for(var i = 11; i < 21; i++) // go throug the first 11 emotions. 
 			{
 			
-				var temp= PANAS_Likert(emotion[i], emotion[i]); // this takes in our sentence and puts it with a corresponding
+				var temp= PANAS_Likert(emotion[i], emotion[i],'em_id'+i); // this takes in our sentence and puts it with a corresponding
 				// name the radio buttons (each sentence has a unique associated name for its radio buttons)
 
 				j=j+temp;	
@@ -1746,26 +1940,111 @@ $.each(dic_self, function(key, value) {
 
 
 		$("#PANAS_table1").append(w);
-		$("#PANAS_scale1").append('<p><input type=reset id ="finish_PANAS1" value= "Submit" /></p>')
+		$("#PANAS_scale1").append('<div id="err_pan1" class="error"></div>');
+		$("#PANAS_scale1").append('<p><input type=reset id ="finish_PANAS1" value= "Submit" /></p>');
 
 
 		$("#PANAS_table2").append(x);
-		$("#PANAS_scale2").append('<p><input type=reset id ="finish_PANAS2" value= "Submit" /></p>')
+		$("#PANAS_scale2").append('<div id="err_pan2" class="error"></div>');
+		$("#PANAS_scale2").append('<p><input type=reset id ="finish_PANAS2" value= "Submit" /></p>');
 
 		$("#PANAS_scale1").show();
 
 			$("#finish_PANAS1").click(function()
 			{
-		     	$("#PANAS_scale1").hide(500);
+
+
+				for(var i = 0; i < 11 ; i++) // go throug the first 12 sentences
+			{
+				error=false;
+
+				
+
+				qput= 'input[name = ' + emotion[i] + ']:checked';
+
+
+				d=$(qput).val();
+
+				if(d==null)
+				{
+					error=true;
+					$("#em_id"+i).addClass("error");
+
+				}
+				console.log(d);
+
+			}
+			console.log(error);
+			console.log(once);
+
+			if(error==true && once==false)
+			{
+				errmsg="Oops, looks like you didn't answer a few of the questions, highlighted in red above.";
+     		    $("#err_pan1" ).html(errmsg); 
+     		    once=true;
+
+			}
+			else
+			{
+
+				once=false;
+				$("#PANAS_scale1").hide(500);
 		     	
 		     	$("#PANAS_scale2").show(500);
+		    
+			}
+
+
 			 });
 			$("#finish_PANAS2").click(function()
 			{
-		     	$("#PANAS_scale2").hide(500);
+		     	for(var i = 11; i < 21 ; i++) // go throug the first 12 sentences
+			{
+				error=false;
+
+				
+
+				qput= 'input[name = ' + emotion[i] + ']:checked';
+
+
+				d=$(qput).val();
+
+				if(d==null)
+				{
+					error=true;
+					$("#em_id"+i).addClass("error");
+
+				}
+				console.log(d);
+
+			}
+			console.log(error);
+			console.log(once);
+
+			if(error==true && once==false)
+			{
+				errmsg="Oops, looks like you didn't answer a few of the questions, highlighted in red above.";
+     		    $("#err_pan2" ).html(errmsg); 
+     		    once=true;
+
+			}
+			else
+			{
+
+				once=false;
+				$("#PANAS_scale2").hide(500);
 		     	
 				$("feedback_h").show()
 		     	$("#GetFeedback-wrapper").show()
+		    
+			}
+
+
+
+
+
+
+
 			 });
 
 				$("#fin_feedback").click(function()
