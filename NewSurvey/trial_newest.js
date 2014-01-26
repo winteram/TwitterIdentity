@@ -962,6 +962,7 @@ $.each(dic_self, function(key, value) {
 
 	$("#self_labeling").append(Qsappend);
 	$("#self_labeling").show();
+	error=false;
 
     $("#finish_label").click(function()
      {
@@ -975,8 +976,11 @@ $.each(dic_self, function(key, value) {
 		console.log(value_temp);
 
 		if(value_temp=="unselected")
+			
+		{	
 			$("#part_label_"+key).addClass("error")
-		{
+
+
 			error=true
 		}
 
@@ -990,6 +994,7 @@ $.each(dic_self, function(key, value) {
      	{
      		errmsg="Oops, looks like you didn't label one or more self aspects, highlighted in red above."
      		$("#err_slabel").html(errmsg); 
+     		once=true; 
      	}
 
      	else
@@ -1009,7 +1014,7 @@ $.each(dic_self, function(key, value) {
      			ShowGenaspect();
  		}
 
- 		once=true; 
+ 		
 
      });
 
@@ -1017,6 +1022,7 @@ $.each(dic_self, function(key, value) {
 
    function ShowGenaspect()// This function just asks people about the clarity, importance and positivity of the self-aspects they listed
 	   {  	
+	   	
 
 	   	$("#self_labeling").hide(); 
 	   	function createLikertS1(id_label,name_label)// I'm making three of these because the scales are all a little different. 
@@ -1112,7 +1118,7 @@ $.each(dic_self, function(key, value) {
 			    likert = createLikertS1( 'Self_Q1_' + i, 'pos' + i);
 
 
-			    $('#Self_Q1').append('<div= "sen_pos'  + i + '">How positive do you feel about "' + self_aspect[i] + '"?<p>' + likert + '</p></div>');
+			    $('#Self_Q1').append('<div id= "sen_pos'  + i + '">How positive do you feel about "' + self_aspect[i] + '"?<p>' + likert + '</p></div>');
 			    //$("#displayQ-wrapper").append('<li>'+ sent[i]  + '</li><p>' + likert + '</p>');
 			}
 
@@ -1129,7 +1135,7 @@ $.each(dic_self, function(key, value) {
 			{
 			    likert = createLikertS2( 'Self_Q2_' + i, 'import' + i);
 
-			    $('#Self_Q2').append('<div= "sen_import'  + i + '">How important is "' + self_aspect[i] + '" to you?<p>' + likert + '</p></div>');
+			    $('#Self_Q2').append('<div id= "sen_import'  + i + '">How important is "' + self_aspect[i] + '" to you?<p>' + likert + '</p></div>');
 			    
 			}
 
@@ -1137,7 +1143,7 @@ $.each(dic_self, function(key, value) {
 		    $(wrapper).show();
 
 
-		     var wrapper='#Self_Q3'
+		    /* var wrapper='#Self_Q3'
 
 		//Now make sentences that use scale 2
 
@@ -1151,42 +1157,74 @@ $.each(dic_self, function(key, value) {
 
 			$(wrapper).shuffle(); 
 		    $(wrapper).show();
-
+		    */
+     		$("#all_genself").append('<div id="err_gen_asp" class="error"></div>')
 		    $("#all_genself").append('<p><input type=reset id ="finish_genself" value= "Submit" /></p>')
 
 
 		     $("#finish_genself").click(function()
-			     {
+		{   asp_import={}// initialize a dictionary that will contain people's rating for how important listed self aspects are to them
+		//The key is the self-aspect number and the value is the rating of importance. 
+			asp_pos={}// This is the dictionary for positivity about self aspects. 
 
 			     	//validation section
+			     	error=false;
+
 
 			     	for(i=0; i<self_aspect.length; i++)
 			{
-				temp1 = $('input[name=clear'+i+']:checked').val()
+				//temp1 = $('input[name=clear'+i+']:checked').val()
 				temp2 = $('input[name=import'+i+']:checked').val()
 				temp3 = $('input[name=pos'+i+']:checked').val()
 
-				if(temp1==null||temp2==null||temp3==null)
+				if(temp2==null)
 				{
 					error=true
+					$('#sen_import'+i).addClass("error")
+
+				}
+				else 
+				{
+					asp_import[i]=temp2
+
 				}
 
-			
+
+				if(temp3==null)
+				{
+					error=true
+					$('#sen_pos'+i).addClass("error")
+
+				}
+				else 
+				{
+					asp_pos[i]=temp3
+
+				}
+
 
 			}
-			    	if(error==true||once==false)
+			
+			
+				 	if(error==true && once==false)
 
 				{
-
-					
+					errmsg="Oops, looks like you didn't label one or more self aspects, highlighted in red above."
+     		      	$("#err_gen_asp").html(errmsg); 
 					
 				}
 
-				once=true;
+				
+				else
+				{
 
 
 			     	 
-			     	Show_media_qs(); 
+			     	Show_media_qs();
+			     	once=false
+			     } 
+
+			     once=true;
 
 
 			     });
@@ -1196,7 +1234,18 @@ $.each(dic_self, function(key, value) {
 
 
 	function Show_media_qs() //asks specific questions about social media usage. 
-	{    $("#all_genself").hide();
+	{    
+		fb_asp={}//initialize a dictionary with answers to items about expression of self-aspects on facebook. 
+		tw_asp={}//questions about self-aspects of Twitter
+		tw_gen={}//multiple choice questions about twitter in general
+		fb_gen={}//multiple choice questions about facebook in general
+
+		//for the data-wrangler will also need entries for the free form, text entry questions about twitter and facebook
+
+		ff_tw='' 
+		ff_fb=''//free form facebook question
+
+		$("#all_genself").hide();
 
 		function Likert_Social(id_label,name_label)
 			{
@@ -1282,6 +1331,7 @@ $.each(dic_self, function(key, value) {
 		sen_Twitter.push("On Twitter how often do you express things related to God?")
 		sen_Twitter.push("On Twitter how often do you express things related to your academic life?")
 		sen_Twitter.push("On Twitter how often do you express things related to your physical appearance?")
+
 		for(i=0; i<sen_FB.length; i++)
 			{
 		    likert1 = Likert_Social( 'fb_likert_' + i, 'fb_agree_' + i);
@@ -1299,15 +1349,19 @@ $.each(dic_self, function(key, value) {
 
 		    var comment2='<p> Add Comment <textarea id="'+id2+'"cols="50" rows="1" name="'+name2+'"></textarea></p>';
 
-		    $('#PopFB').append('<div = "err_fbfreq'  + i + '">' + sen_FB[i]  + '<p>' + likert1 + '</p>'+comment1+'</div>');
-		    $('#PopTwitter').append('<div= "err_twfreq' + i + '">' + sen_Twitter[i]  + '<p>' + likert2 + '</p>'+comment2+'</div>');
+		    $('#PopFB').append('<div id = "err_fbfreq'  + i + '">' + sen_FB[i]  + '<p>' + likert1 + '</p>'+comment1+'</div>');
+		    $('#PopTwitter').append('<div id = "err_twfreq' + i + '">' + sen_Twitter[i]  + '<p>' + likert2 + '</p>'+comment2+'</div>');
 		    
 			}
 
 		$('#PopFB').shuffle(); // Randomize the order of the FB questions
 		$('#PopTwitter').shuffle();
 
+		$("#facebookQs").append('<div id="err_fb_asp" class="error"></div>')// error div
+
 		$('#facebookQs').append('<p><input type=reset id ="finish_fbQs" value= "Submit" /></p>')
+
+		$("#twitterQs").append('<div id="err_tw_asp" class="error"></div>')
 		$("#twitterQs").append('<p><input type=reset id ="finish_twQs" value= "Submit" /></p>')
 
 
@@ -1315,20 +1369,115 @@ $.each(dic_self, function(key, value) {
 
 		//$("#facebookQs").show();
 		//$("#PopTwitter").show();
+		once=false
 
 		$("#finish_fbQs").click(function()
-			     {
-			     	$('#facebookQs').hide(500);
+			     {   error=false; // 
+			     	
+
+
+			     	$.each(dic_self, function(key, value) // make facebook questions to put in facebook_saspect wrapper
+					{
+						//console.log(qput.val())
+
+
+			     	qput= 'input[name = Sfb_agree_' + key +']:checked';
+			     	console.log(qput)
+
+			     	var popval=$(qput).val();
+			     	
+
+			     	if(popval==null)
+			     	{
+			     		error=true;
+			     		$('#fbfreq_'  + key).addClass("error");
+			     	}
+			     	else
+			     	{
+			     		fb_asp[key]=popval;// put this value in the dictionary that will later be posted to data-wrangler
+
+			     	}
+
+			 
+
+
+
+
+
+			     }); 
+
+			     	    for(i=0; i<sen_FB.length; i++)
+						
+						{
+
+							var qput1= 'input[name = fb_agree_' + i +']:checked';
+							//qput2= 'input[id=fb_likert_' + i +']:checked';
+
+							console.log(qput1);
+
+							//console.log($(qput2).val());
+							console.log($(qput1).val());
+
+						    var genfb=$(qput1).val();
+
+							if(genfb=="null")
+							{
+								error=true;
+
+							$('#err_fbfreq' + i).addClass("error");
+
+							}
+		    			
+		    		
+		    				
+
+		    				console.log(genfb);
+
+						}
+
+							console.log(error);
+							console.log(once);
+
+
+
+
+			     if(error==true && once==false)
+
+				{
+					errmsg="Oops, looks like you didn't answer a few of the questions, highlighted in red above.";
+     		      	$("#err_fb_asp").html(errmsg); 
+     		      	   once=true;
+					
+				}
+
+				
+				else
+				{
+
+
+
+			   	   $('#facebookQs').hide(500);
 			     	$("#twitterQs").show(500);
+			     	once=false// reset it
+			     } 
+
+			  
+
+
+
 			     
 			     	
-			     });
+			     });// end FB onclick function
 
 
 
 
 		$("#finish_twQs").click(function()
 			     {
+
+
+
+
 			     	$('#twitterQs').hide();
 			     	Show_CSW();
 			     });
@@ -1385,9 +1534,9 @@ $.each(dic_self, function(key, value) {
 
 
 
-		function create_cont_Likert(sentence,name_label)
+		function create_cont_Likert(sentence,name_label,id_lab)
 		{    //console.log("it's getting here")
-			var likert = '<tr><td style="text-align: left; height: 40px"> <b>' + sentence + '</b></td>'+
+			var likert = '<tr id="'+id_lab+'"><td style="text-align: left; height: 40px"> <b>' + sentence + '</b></td>'+
 			'<td><input type="radio" name="' + name_label+ 
 			'" value="1" /></td><td><input type="radio" name="' + name_label + 
 			'" value="2" /></td><td><input type="radio" name="' + name_label + 
@@ -1412,7 +1561,7 @@ $.each(dic_self, function(key, value) {
 			for(var i = 0; i < 12; i++) // go throug the first 12 sentences
 			{
 			
-				var temp=create_cont_Likert(sen_con[i],"con_agree_"+i); // this takes in our sentence and puts it with a corresponding
+				var temp=create_cont_Likert(sen_con[i],"con_agree_"+i,"c_ag_"+i); // this takes in our sentence and puts it with a corresponding
 				// name the radio buttons (each sentence has a unique associated name for its radio buttons)
 
 				j=j+temp;		
@@ -1434,7 +1583,7 @@ $.each(dic_self, function(key, value) {
 				for(var i = 12; i < 24 ; i++) // go throug the first 12 sentences
 				{
 				
-					var temp=create_cont_Likert(sen_con[i],"con_agree_"+i); // this takes in our sentence and puts it with a corresponding
+					var temp=create_cont_Likert(sen_con[i],"con_agree_"+i,"c_ag_"+i); // this takes in our sentence and puts it with a corresponding
 					// name the radio buttons (each sentence has a unique associated name for its radio buttons)
 
 					j=j+temp;		
@@ -1454,7 +1603,7 @@ $.each(dic_self, function(key, value) {
 			for(var i = 24; i < 35 ; i++) // go through the first 12 sentences
 			{
 			
-				var temp=create_cont_Likert(sen_con[i],"con_agree_"+i); // this takes in our sentence and puts it with a corresponding
+				var temp=create_cont_Likert(sen_con[i],"con_agree_"+i,"c_ag_"+i); // this takes in our sentence and puts it with a corresponding
 				// name the radio buttons (each sentence has a unique associated name for its radio buttons)
 
 				j=j+temp;		
@@ -1468,6 +1617,8 @@ $.each(dic_self, function(key, value) {
 		var w=makeset1();
 		var x=makeset2();
 		var y=makeset3();
+		once=false;
+		error=false;
 
 
 
@@ -1483,7 +1634,33 @@ $.each(dic_self, function(key, value) {
 		$('#contingencies1').show(); // start the flow for this set now that the other wrapper pieces have been created.
 
 		$("#finish_CSW1").click(function()
+
 		{
+
+			for(var i = 0; i < 12; i++) // go throug the first 12 sentences
+			{
+			
+				var temp_v= 'con_agree_'+i; 
+
+				qput= 'input[name = ' + temp_v + ']:checked';
+
+
+				d=$(qput).val();
+
+				if(d=="null")
+				{
+					error=true;
+
+				}
+				console.log(d);
+	
+
+			}
+
+
+
+
+
 	     	$("#contingencies1").hide(500);
 	     	
 	     	$("#contingencies2").show(500);
