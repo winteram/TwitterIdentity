@@ -1,0 +1,49 @@
+Notes:
+
+X Year of birth needs padding below 
+
+Politics
+--------
+X likert has undefined values
+X items don't turn red?
+
+
+Self-Aspects
+------------
+X Right-align "add self-aspect"
+X Instructions and Finish task on right column
+X Edit doesn't remove from list, appears in labeling step
+X Inconsistencies when editing & adding back (indexing issue)
+
+Labeling Self-Aspects
+---------------------
+X Error even when no errer?
+
+
+Self-Questionnaire
+------------------
+X submit button flush on left
+missing entries don't turn red
+
+
+Introspection Questionnaire
+---------------------------
+X more padding in cells
+X margin around submit button
+
+Introspection part three always fails on test of completeness
+
+include paging comment (e.g., 1 of 3)
+
+PANAS
+-----
+X key words should be centered
+X submit button needs margin
+Missing entries turn red but doesn't stop to verify next step
+
+Feedback
+--------
+Feedback box is too tall
+Has a grabber that doesn't work
+Submit feedback button needs a margin
+

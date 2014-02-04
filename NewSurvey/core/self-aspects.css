@@ -2,53 +2,7 @@
 /* CSS Document */
 
 
-
-
-.right-col {
-  float: right;
-  width: 40%
-}
-.left-col {
-  float: left;
-  width: 30%;
-}
-
-.self_finished
-{
-width:300px;
-padding:10px;
-border:5px solid gray;
-margin:0px;
-
-}
-
-
-.trait_disp
-{
-width:300px;
-padding:10px;
-border:5px solid gray;
-margin:0px;
-
-font-family: Trebuchet MS, Tahoma, Verdana, Arial, sans-serif; font-size: 1em; 
-display:block;
-font-weight:bold;
-}
-
-
-.trait_but
-{
-width:300px;
-padding:10px;
-border:5px solid gray;
-margin:0px;
-}
-
-
-
-
-
-// Styling for AboutUs.html
+/* Styling for AboutUs.html */
 
 body {
     min-width: 750px;
@@ -59,9 +13,7 @@ body {
     background-color: #F5F3EF;
     margin-bottom: 10px;
     text-align: center;
-	
 }
-
 
 #idproj-hdr img {
     height: 100px;
@@ -194,9 +146,8 @@ body {
     color: #371400; 
     font-family: Helvetica; 
     font-size:2em; 
-    padding: 10px 20px; 
-    margin: 5px;
-	display:none;
+    padding: 0px 20px; 
+    margin: 10px;
 }
 
 
@@ -241,6 +192,64 @@ body {
 	
 }
 
+
+
+/* Aspects section */
+
+.submit-button {
+    margin: 5px 0px;
+}
+
+.left-col {
+  float: left;
+  width: 30%;
+}
+
+.outer-right-col {
+    float: right;
+    width: 70%;
+}
+
+.center-col {
+    float: left;
+    width: 45%;
+}
+
+.right-col {
+  float: right;
+  width: 45%;
+}
+
+.self_finished
+{
+width:300px;
+padding:10px;
+border:5px solid gray;
+margin:0px;
+
+}
+
+
+.trait_disp
+{
+width:300px;
+padding:10px;
+border:5px solid gray;
+margin:0px;
+
+font-family: Trebuchet MS, Tahoma, Verdana, Arial, sans-serif; font-size: 1em; 
+display:block;
+font-weight:bold;
+}
+
+
+.trait_but
+{
+width:300px;
+padding:10px;
+border:5px solid gray;
+margin:0px;
+}
 
 
 
