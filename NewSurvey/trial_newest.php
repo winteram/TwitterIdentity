@@ -488,6 +488,8 @@
 			INSTRUCTIONS: Please respond to each of the following statements, on this and the next two pages, by circling your answer using 
 			the scale from "1 = Strongly disagree" to "7 = Strongly agree.”  If you haven't experienced the situation described in a 
 			particular statement, please answer how you think you would feel if that situation occurred.  
+
+			<p> <h4>Page 1 of 3</h4> </p>
 		</div>
 
 			<table class="likert" table border=1 id="con_table1">
@@ -590,7 +592,7 @@
 				We value any feedback you would like to give us on this study. Please type comments below.
 			</div> 
 			<div style='margin:0 auto; width: 50%;'> 
-				<textarea id="feedback" class= "LargerText" cols="80" rows="12" name="comment"></textarea> 
+				<textarea id="feedback" class= "LargerText" cols="80" rows="8" name="comment"></textarea> 
 			</div>
 			<div style='margin:0 auto; width: 50%;'> 
 				<input style='margin:10px 40%;' class="submit-button" id="fin_feedback" type=button value="Submit Feedback"/>

@@ -70,6 +70,11 @@ $(document).ready(function() {
 
 	}
 
+	//Make the buttons appear in white initially consistent with the color they appear in after someone adds a group
+	//The below doesn't seem to work. 
+
+	//$('.trait_buttons').prop('checked', false);
+
 	/* I turned the validation error messages into a popup dialog */
 	/* This way we don't have to worry about how many times they went through it */
 	$( "#error_popup" ).dialog({
@@ -855,6 +860,7 @@ function edit_aspect(aspect_id) {
 		/* If starting from scratch, might suggest giving ids based on name */
 		/* Which would also force ppl to not have repeat names */
 		$('.self_finished').attr("id", function(i) {
+			console.log("self_display_"+(i+1)) 
 			return "self_display_"+(i+1);
 		});
 	}
@@ -1179,23 +1185,27 @@ function ShowGenaspect()// This function just asks people about the clarity, imp
 
 	$.each(self_aspects, function(key, aspect) {
 
+		console.log(key)
+		console.log(self_aspects)
+		console.log(self_aspects[1])
+
 		var wrapper='#Self_Q1';
 		var likert = createLikert( 'Self_Q1_' + key, 'pos' + key, "Negatively", "Neutral", "Positively");
-		$(wrapper).append('<div= "sen_pos'  + key + '">How positive do you feel about "' + aspect.name + '"?<p>' + likert + '</p></div>');
+		$(wrapper).append('<div id = "sen_pos'  + key + '">How positive do you feel about "' + aspect.name + '"?<p>' + likert + '</p></div>');
 		$(wrapper).shuffle(); 
 		$(wrapper).show();
 
 		wrapper='#Self_Q2';
 		likert = createLikert( 'Self_Q2_' + key, 'import' + key, "Not at all important","","Very important");
-		$(wrapper).append('<div= "sen_import'  + key + '">How important is "' + aspect.name + '" to you?<p>' + likert + '</p></div>');
+		$(wrapper).append('<div id = "sen_import'  + key + '">How important is "' + aspect.name + '" to you?<p>' + likert + '</p></div>');
 		$(wrapper).shuffle(); 
 		$(wrapper).show();
 
-		wrapper='#Self_Q3';
-		likert = createLikert( 'Self_Q3_' + key, 'clear' + key, "Not at all clear","","Very clear");
-		$(wrapper).append('<div= "sen_clear'  + key + '">How clear is "' + aspect.name + '" to you?<p>' + likert + '</p></div>');
-		$(wrapper).shuffle(); 
-		$(wrapper).show();
+		//wrapper='#Self_Q3';
+		//likert = createLikert( 'Self_Q3_' + key, 'clear' + key, "Not at all clear","","Very clear");
+		//$(wrapper).append('<div= "sen_clear'  + key + '">How clear is "' + aspect.name + '" to you?<p>' + likert + '</p></div>');
+		//$(wrapper).shuffle(); 
+		//$(wrapper).show();
 		//$("#displayQ-wrapper").append('<li>'+ sent[i]  + '</li><p>' + likert + '</p>');
 	});
 
@@ -1223,9 +1233,13 @@ function checkGenSelf(once)
 		temp2 = $('input[name=import'+i+']:checked').val();
 		temp3 = $('input[name=pos'+i+']:checked').val();
 
+		$('#sen_import0').addClass("error");
+
 		if(temp2==null)
 		{
 			error=true;
+
+
 			$('#sen_import'+i).addClass("error");
 		}
 		else 
@@ -1308,7 +1322,7 @@ function Show_media_qs() //asks specific questions about social media usage.
 		//Maybe I should mix all the facebook questions together- the ones populated and the ones not populated. Append and then
 		// shuffle them at the end. 
 		
-		$('#PopTwitter').append('<div id = "twfreq_'  + key + '">' + senForpop + '"'+ aspect.name + '" on Twitter? <p>' + likertTW + '</p>'+comment2+'</div>');
+		$('#PopTwitter').append('<div id = "twfreq_'  + key + '">' + senForpop + '"'+ aspect.name + '" on Twitter?<p>' + likertTW + '</p>'+comment2+'</div>');
 
 	});
 
@@ -1376,6 +1390,9 @@ function checkSocMedia(media, once)
 		if(popval==null)
 		{
 			error=true;
+			console.log("getting_here")
+
+			console.log('#'+media+'freq_' + key);
 			$('#'+media+'freq_' + key).addClass("error");
 		}
 		else
@@ -1538,7 +1555,9 @@ function Show_CSW() // This function is particulary rough and dirty- It involves
 		// and join technique. This will be less code and cleaner. But for now I'm going with this to get the flow. 
 
 		{	
-			j=""// initiate a string that will be built up to represent the html that will be displayed. 
+			j= ""// initiate a string that will be built up to represent the html that will be displayed. 
+
+
 
 
 			for(var i = 12; i < 24 ; i++) // go throug the first 12 sentences
@@ -1558,7 +1577,8 @@ function Show_CSW() // This function is particulary rough and dirty- It involves
 
 	function makeset3() // last set
 
-	{	j=""// initiate a string that will be built up to represent the html that will be displayed. 
+	{	j=""
+
 
 
 		for(var i = 24; i < 35 ; i++) // go through the first 12 sentences
@@ -1580,14 +1600,17 @@ function Show_CSW() // This function is particulary rough and dirty- It involves
 	var y=makeset3();
 
 	$('#con_table1').append(w);
+
 	$("#contingencies1").append('<div id="err_c1" class="error"></div>');
 	$("#contingencies1").append('<p><input class="submit-button" type=button id ="finish_CSW1" value= "Submit" onclick="checkCSW(1);" /></p>');
 
 	$('#con_table2').append(x);
+	$("#contingencies2").prepend('<p> <h4>Page 2 of 3</h4> </p>');
 	$("#contingencies2").append('<div id="err_c2" class="error"></div>');
-	$("#contingencies2").append('<p><input class="submit-button" type=button id ="finish_CSW2" value= "Submit" onclick="checkCSW(2);" /></p>')
+	$("#contingencies2").append('<p><input class="submit-button" type=button id ="finish_CSW2" value= "Submit" onclick="checkCSW(2);" /></p>');
 
 	$('#con_table3').append(y);
+	$("#contingencies3").prepend('<p> <h4>Page 3 of 3</h4> </p>');
 	$("#contingencies3").append('<div id="err_c3" class="error"></div>');
 	$("#contingencies3").append('<p><input class="submit-button" type=button id ="finish_CSW3" value= "Submit" onclick="checkCSW(3);"  /></p>');
  
@@ -1601,6 +1624,12 @@ function checkCSW(stage, once)
 
 	for(var i = 12*(stage-1); i < 12*(stage) ; i++) // go throug the first 12 sentences
 	{
+		
+
+		if (i==35)// This just exits out of the loop for the last iteration, because there are 35 questions- not 36. 
+		{
+			break;
+		}
 		error=false;
 
 		var temp_v= 'con_agree_'+i; 
@@ -1738,10 +1767,13 @@ function checkPANAS(stage, once)
 	var emotion=["interested","distressed","excited","upset","strong","guilty","scared","hostile","enthusiastic","proud",
 	"tired","irritable","alert","ashamed","inspired","nervous","determined","attentive","jittery","active","afraid"];
 
+	once = typeof once !== 'undefined' ? once : false;
+
 	var error = false;
 
-	for(var i = 1+10*(stage-1); i < 10+10*(stage-1) ; i++) // go throug the first 12 sentences
+	for(var i = 11*(stage-1); i < 11+10*(stage-1) ; i++) // go throug the first 12 sentences
 	{
+
 		qput = 'input[name = ' + emotion[i] + ']:checked';
 
 		d=$(qput).val();
