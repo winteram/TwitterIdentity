@@ -71,9 +71,9 @@ $(document).ready(function() {
 	}
 
 	//Make the buttons appear in white initially consistent with the color they appear in after someone adds a group
-	//The below doesn't seem to work. 
 
-	//$('.trait_buttons').prop('checked', false);
+	$('.trait_buttons').prop('checked', false);
+	$('.trait_buttons').each(function() {$(this).button("refresh");});
 
 	/* I turned the validation error messages into a popup dialog */
 	/* This way we don't have to worry about how many times they went through it */
@@ -728,7 +728,10 @@ function add_group_click() {
 		var trait_group = '<div class = "self_finished" id="self_display_'+self_count+'">';
 		trait_group += aspect_name;
 		trait_group += ' <br> Traits: '+traits_arr.join(', ');
-		trait_group += ' <br><button class="edit_button" value="'+self_count+'" onclick="edit_aspect('+self_count+')"> edit </button>';
+		trait_group += ' <br><button id="edit'+self_count+'" class="edit_button" value="'+self_count+'"> edit </button>';
+
+
+
 		trait_group += '</div>';
 		$("#right_side").append(trait_group);		
 
@@ -744,6 +747,22 @@ function add_group_click() {
 		$('.trait_buttons').prop('checked', false);
 		$('.trait_buttons').each(function() {$(this).button("refresh");});
 		traits_arr=[];
+
+		// Order all the divs 
+		$('.self_finished').attr("id", function(i) {
+			console.log("self_display_"+(i+1)) 
+			return "self_display_"+(i+1);
+		});
+
+		//order all edit buttons
+		$('.edit_button').attr("id", function(i) {
+			console.log("edit_"+(i+1)) 
+			return "edit_"+(i+1);
+		});
+
+		//console.log(self_aspects)
+
+
 
 		// console.log("add_group_click: ");
 		// console.log(self_aspects);
@@ -832,6 +851,24 @@ function add_group_click() {
 	}
 }
 
+
+
+
+
+// Make a click function for the edit button
+
+$( ".edit_button" ).click(function() {
+
+	var k=$(this).attr('id');
+	var temp =k.charAt(k.length-1);
+	edit_aspect(k);
+
+
+  
+});
+
+
+
 function edit_aspect(aspect_id) {
 
 	// if no other aspect is currently being edited
@@ -844,8 +881,8 @@ function edit_aspect(aspect_id) {
 		var cur_self_aspect = self_aspects[aspect_id-1];
 
 		self_aspects.splice(aspect_id-1,1);
-		// console.log("after splice: ");
-		// console.log(self_aspects);
+		console.log("after splice: ");
+		console.log(self_aspects);
 
 		traits_arr = cur_self_aspect['traits'];
 		$("#Self-Name").val(cur_self_aspect['name']);
@@ -859,10 +896,7 @@ function edit_aspect(aspect_id) {
 		/* have to relabel the created aspects so they stay in order */
 		/* If starting from scratch, might suggest giving ids based on name */
 		/* Which would also force ppl to not have repeat names */
-		$('.self_finished').attr("id", function(i) {
-			console.log("self_display_"+(i+1)) 
-			return "self_display_"+(i+1);
-		});
+	
 	}
 	else
 	{	
