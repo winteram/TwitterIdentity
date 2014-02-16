@@ -17,7 +17,7 @@ X Inconsistencies when editing & adding back (indexing issue)
 
 Labeling Self-Aspects
 ---------------------
-X Error even when no errer?
+X Error even when no error?
 
 
 Self-Questionnaire
@@ -43,7 +43,7 @@ Missing entries turn red but doesn't stop to verify next step
 
 Feedback
 --------
-Feedback box is too tall
+X Feedback box is too tall
 Has a grabber that doesn't work
-Submit feedback button needs a margin
+X Submit feedback button needs a margin
 

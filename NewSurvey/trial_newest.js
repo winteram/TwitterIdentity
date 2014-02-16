@@ -728,7 +728,7 @@ function add_group_click() {
 		var trait_group = '<div class = "self_finished" id="self_display_'+self_count+'">';
 		trait_group += aspect_name;
 		trait_group += ' <br> Traits: '+traits_arr.join(', ');
-		trait_group += ' <br><button class="edit_button" value="'+self_count+'" onclick="edit_aspect('+self_count+')"> edit </button>';
+		trait_group += ' <br><button class="edit_button" onclick="edit_aspect()"> edit </button>';
 		trait_group += '</div>';
 		$("#right_side").append(trait_group);		
 
@@ -832,7 +832,7 @@ function add_group_click() {
 	}
 }
 
-function edit_aspect(aspect_id) {
+function edit_aspect() {
 
 	// if no other aspect is currently being edited
 	if(traits_arr.length==0)
@@ -841,6 +841,9 @@ function edit_aspect(aspect_id) {
 		// console.log(self_aspects);
 		// console.log(aspect_id-1);
 		// console.log(self_aspects[aspect_id-1]);
+		console.log($(this).parent().attr("id").split('_'));
+		aspect_id = $(this).parent().attr("id").split('_')[3];
+		console.log(aspect_id);
 		var cur_self_aspect = self_aspects[aspect_id-1];
 
 		self_aspects.splice(aspect_id-1,1);
@@ -860,7 +863,7 @@ function edit_aspect(aspect_id) {
 		/* If starting from scratch, might suggest giving ids based on name */
 		/* Which would also force ppl to not have repeat names */
 		$('.self_finished').attr("id", function(i) {
-			console.log("self_display_"+(i+1)) 
+			// console.log("self_display_"+(i+1)); 
 			return "self_display_"+(i+1);
 		});
 	}
