@@ -71,9 +71,12 @@ $(document).ready(function() {
 	}
 
 	//Make the buttons appear in white initially consistent with the color they appear in after someone adds a group
-	//The below doesn't seem to work. 
+	 
 
-	//$('.trait_buttons').prop('checked', false);
+	$('.trait_buttons').prop('checked', false);
+	$('.trait_buttons').each(function() {$(this).button("refresh");});
+	
+
 
 	/* I turned the validation error messages into a popup dialog */
 	/* This way we don't have to worry about how many times they went through it */
@@ -316,7 +319,6 @@ function checkPolitics(once)
 		$("#FreeForm-wrapper").show(500);
 		// reset this variable for the next section
 	}
-
 	else
 
 	{
@@ -489,11 +491,9 @@ function checkPolSurvey(once) // added iden as an input
 			error = true;
 			$(errorid).css('color','#F00'); 
 		}
-		else
-		{
-			$(errorid).css('color','#000'); 
-			qdata[iden + i] = Q_input;
-		}
+	
+		qdata[iden + i] = Q_input;// Add an entry to qdata, regardless of whether someone checked an item or not (takes Null)
+		console.log(qdata);
 	}
 
 	/*

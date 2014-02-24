@@ -1,7 +1,7 @@
 <?php
 
 // Get data for accessing database
-require_once('../../safe/config.inc');
+require_once('safe/config.inc');
 global $dbh;
 
 $errmsg = "Missing data";
@@ -13,7 +13,7 @@ if (isset($_REQUEST['twitid']))
 else 
 {
   echo "ERR: twitid not set";
-  exit(0);
+  //exit(0);
 }
 
 // determine what data to be entered to db
@@ -24,7 +24,7 @@ switch($page)
 case 'new':
 case 'demog':
   // parse data into array
-  // print_r($_REQUEST['data']);
+  echo $_REQUEST['data'];
   $demogs = $_REQUEST['data'];
 
   // ensure valid values will be entered
@@ -62,7 +62,8 @@ case 'natform':
   break;
 case 'freeform':
   $freeform = $_REQUEST['data'];
-  //print_r($freeform);
+  print_r($freeform);
+  echo $freeform;
   $ownform1 = isset($freeform['ownform1']) ? $freeform['ownform1'] : "NULL";
   $ownform2 = isset($freeform['ownform2']) ? $freeform['ownform2'] : "NULL";
   $userURL = isset($freeform['ownURL']) ? $freeform['ownURL'] : "NULL";
@@ -104,7 +105,7 @@ case 'nation': // answers to survey for national id
   $ctr = 1;
   foreach($answers as $key => $response)
     {
-      //echo ':' . $page . $ctr . ' = ' . $response . '\n';
+      echo ':' . $page . $ctr . ' = ' . $response . '\n';
       $rqst->bindParam(':' . $page . $ctr, intval($answers[$key]), PDO::PARAM_INT);
       $ctr += 1;
     }  
