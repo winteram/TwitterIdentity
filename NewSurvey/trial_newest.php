@@ -41,32 +41,31 @@
 
 	
 	<div class="section-header" id="section-header-1">About you</div>
-		<div id="demo-wrapper" class="wrapper">
-			<form id="demographics">
-				<ol>
-					<li id ="genderq"><p>Gender</p>
-						<p> 
-							<input id="gender_male" name="gender" type="radio" value="M"/>
-							<label for="gender_male">Male</label>
-							<br>     
-							<input id="gender_female" name="gender" type="radio" value="F"/>
-							<label for="gender_female">Female</label>
-							<br>     
-							<input id="gender_none" name="gender" type="radio" value="decline"/>
-							<label for="gender_none">Decline to answer</label>
-						</p>
-					</li>            
-					<li id = "ageq"><p><label for="age">Year of Birth</label></p>
-						<p> 
-							<select id="age" name="age">
-								<option value="unselected" selected="selected"></option>
-							</select>
-						</p> 
-					</li>         
-							 
+	<div id="demo-wrapper" class="wrapper">
+		<form id="demographics">
+			<ol>
+				<li id ="genderq"><p>Gender</p>
+					<p> 
+						<input id="gender_male" name="gender" type="radio" value="M"/>
+						<label for="gender_male">Male</label>
+						<br>     
+						<input id="gender_female" name="gender" type="radio" value="F"/>
+						<label for="gender_female">Female</label>
+						<br>     
+						<input id="gender_none" name="gender" type="radio" value="decline"/>
+						<label for="gender_none">Decline to answer</label>
+					</p>
+				</li>         
+				<li id = "ageq"><p><label for="age">Year of Birth</label></p>
+					<p> 
+						<select id="age" name="age">
+							<option value="unselected" selected="selected"></option>
+						</select>
+					</p> 
+				</li>         
+						 
 				<li id = "ethnicityq">
 					<p>Ethnicity. Check all that apply</p>
-								</li> 
 					<p>      
 						<input id="race_white" name="race" type="checkbox" value="white"/> 
 						<label for="race_white">White</label>
@@ -91,26 +90,28 @@
 						<br> 
 						<input id="race_other" name="race" type="checkbox" value="other"/> 
 						<label for="race_other">Other</label>
-					</p>
-								
+					</p>			
+				</li> 
+
 				<li id ="incomeq">
 					<p> 
 						<label for="income" >Annual Income (in US dollars; click <a href="http://finance.yahoo.com/currency-converter/?u#from=GBP;to=USD;amt=1" target="_blank">here</a> for currency conversion)</label>        
 					</p> 
 					<p>
-												<select id = "income" name ="income">
-												<option value="unselected" selected="selected"></option>
-												<option value = "1">0-$20,000</option>
-												<option value = "2">$20,000-$40,000</option>
-												<option value = "3">$40,000-$60,000</option>
-												<option value = "4">$60,000-$80,000</option>
-												<option value = "5">$80,000-$100,000</option>
-												<option value = "6">$100,000-$200,000</option>
-												<option value = "7">More than $200,000</option>
-												<option value = "8">Would rather not say</option>
-												</select>
+						<select id = "income" name ="income">
+						<option value="unselected" selected="selected"></option>
+						<option value = "1">0-$20,000</option>
+						<option value = "2">$20,000-$40,000</option>
+						<option value = "3">$40,000-$60,000</option>
+						<option value = "4">$60,000-$80,000</option>
+						<option value = "5">$80,000-$100,000</option>
+						<option value = "6">$100,000-$200,000</option>
+						<option value = "7">More than $200,000</option>
+						<option value = "8">Would rather not say</option>
+						</select>
 					</p> 
 				</li>         
+
 				<li id ="educationq">
 					<p> 
 						<label for="edu">Highest education level attained</label>        
@@ -135,10 +136,7 @@
 			<input id="fin_demo" type="button" value="Submit Demographics" onclick="checkDemographics();"/>
 
 		</form>
-
 	</div>
-
-
 
 	<div class="section-header" id="politics_h">Politics</div>
 	<div id="GetPol-wrapper" class="wrapper">
@@ -235,7 +233,7 @@
 		
 			<li id = "freeq9">
 				<p> In the box below, please put a website that relates to this identity </p>
-				<input id ="user_url3" name = "user_url2" type="text"/>
+				<input id ="user_url3" name = "user_url3" type="text"/>
 				<!-- Moved the above input inside the list item -->
 			</li>
 		</ol>

@@ -1035,6 +1035,8 @@ function finish_SA_click(once) {
 	else
 	{
 
+		//TODO: Put function for DataWrangler here
+
 		$('#error_popup').dialog( "close" );
 		$("#full-saspect").hide(500);
 

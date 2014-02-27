@@ -60,37 +60,11 @@ case 'natform':
   $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
   $rqst->execute();
   break;
-case 'freeform':
-  $freeform = $_REQUEST['data'];
-  print_r($freeform);
-  echo $freeform;
-  $ownform1 = isset($freeform['ownform1']) ? $freeform['ownform1'] : "NULL";
-  $ownform2 = isset($freeform['ownform2']) ? $freeform['ownform2'] : "NULL";
-  $userURL = isset($freeform['ownURL']) ? $freeform['ownURL'] : "NULL";
-  $ownform3 = isset($freeform['ownform3']) ? $freeform['ownform3'] : "NULL";
-  $ownform4 = isset($freeform['ownform4']) ? $freeform['ownform4'] : "NULL";
-  $userURL2 = isset($freeform['ownURL2']) ? $freeform['ownURL2'] : "NULL";
-  $ownform5 = isset($freeform['ownform5']) ? $freeform['ownform5'] : "NULL";
-  $ownform6 = isset($freeform['ownform6']) ? $freeform['ownform6'] : "NULL";
-  $userURL3 = isset($freeform['ownURL3']) ? $freeform['ownURL3'] : "NULL";
-
-  $rqst = $dbh->prepare("UPDATE survey SET own_form1=:ownform1, own_form2=:ownform2, own_URL=:userURL, own_form3=:ownform3, own_form4=:ownform4, own_URL2=:userURL2, own_form5=:ownform5, own_form6=:ownform6, own_URL3=:userURL3 WHERE Id=:twitid");
-  $rqst->bindParam(':ownform1',$ownform1, PDO::PARAM_STR);
-  $rqst->bindParam(':ownform2',$ownform2, PDO::PARAM_STR);
-  $rqst->bindParam(':userURL',$userURL, PDO::PARAM_STR);
-  $rqst->bindParam(':ownform3',$ownform3, PDO::PARAM_STR);
-  $rqst->bindParam(':ownform4',$ownform4, PDO::PARAM_STR);
-  $rqst->bindParam(':userURL2',$userURL2, PDO::PARAM_STR);
-  $rqst->bindParam(':ownform5',$ownform5, PDO::PARAM_STR);
-  $rqst->bindParam(':ownform6',$ownform6, PDO::PARAM_STR);
-  $rqst->bindParam(':userURL3',$userURL3, PDO::PARAM_STR);
-  $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
-  $rqst->execute();
-  break;
 case 'party': // answers to survey for political id
 case 'nation': // answers to survey for national id
   $answers = $_REQUEST['data'];
-  $varnames = array('bond','solidarity','committed','glad','proud','pleasant','goodfeel','think','identity','seemyself','common_avg','similar_avg','common_oth','similar_oth');
+  $varnames = array('bond','solidarity','committed','glad','proud','pleasant','goodfeel','think','identity',
+    'seemyself','common_avg','similar_avg','common_oth','similar_oth');
   $query = 'UPDATE survey SET ';
   $ctr = 1;
   foreach($answers as $x)
@@ -109,6 +83,35 @@ case 'nation': // answers to survey for national id
       $rqst->bindParam(':' . $page . $ctr, intval($answers[$key]), PDO::PARAM_INT);
       $ctr += 1;
     }  
+  $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+  $rqst->execute();
+  break;
+case 'freeform':
+  $freeform = $_REQUEST['data'];
+  print_r($freeform);
+  echo $freeform;
+  $ownform1 = isset($freeform['ownform1']) ? $freeform['ownform1'] : "NULL";
+  $ownform2 = isset($freeform['ownform2']) ? $freeform['ownform2'] : "NULL";
+  $userURL = isset($freeform['ownURL']) ? $freeform['ownURL'] : "NULL";
+  $ownform3 = isset($freeform['ownform3']) ? $freeform['ownform3'] : "NULL";
+  $ownform4 = isset($freeform['ownform4']) ? $freeform['ownform4'] : "NULL";
+  $userURL2 = isset($freeform['ownURL2']) ? $freeform['ownURL2'] : "NULL";
+  $ownform5 = isset($freeform['ownform5']) ? $freeform['ownform5'] : "NULL";
+  $ownform6 = isset($freeform['ownform6']) ? $freeform['ownform6'] : "NULL";
+  $userURL3 = isset($freeform['ownURL3']) ? $freeform['ownURL3'] : "NULL";
+
+  $rqst = $dbh->prepare("UPDATE survey SET own_form1=:ownform1, own_form2=:ownform2, own_URL=:userURL, 
+    own_form3=:ownform3, own_form4=:ownform4, own_URL2=:userURL2, own_form5=:ownform5, own_form6=:ownform6, 
+    own_URL3=:userURL3 WHERE Id=:twitid");
+  $rqst->bindParam(':ownform1',$ownform1, PDO::PARAM_STR);
+  $rqst->bindParam(':ownform2',$ownform2, PDO::PARAM_STR);
+  $rqst->bindParam(':userURL',$userURL, PDO::PARAM_STR);
+  $rqst->bindParam(':ownform3',$ownform3, PDO::PARAM_STR);
+  $rqst->bindParam(':ownform4',$ownform4, PDO::PARAM_STR);
+  $rqst->bindParam(':userURL2',$userURL2, PDO::PARAM_STR);
+  $rqst->bindParam(':ownform5',$ownform5, PDO::PARAM_STR);
+  $rqst->bindParam(':ownform6',$ownform6, PDO::PARAM_STR);
+  $rqst->bindParam(':userURL3',$userURL3, PDO::PARAM_STR);
   $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
   $rqst->execute();
   break;
