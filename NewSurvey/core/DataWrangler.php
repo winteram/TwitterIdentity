@@ -88,8 +88,8 @@ case 'nation': // answers to survey for national id
   break;
 case 'freeform':
   $freeform = $_REQUEST['data'];
-  print_r($freeform);
-  echo $freeform;
+  // print_r($freeform);
+  // echo $freeform;
   $ownform1 = isset($freeform['ownform1']) ? $freeform['ownform1'] : "NULL";
   $ownform2 = isset($freeform['ownform2']) ? $freeform['ownform2'] : "NULL";
   $userURL = isset($freeform['ownURL']) ? $freeform['ownURL'] : "NULL";
@@ -114,6 +114,13 @@ case 'freeform':
   $rqst->bindParam(':userURL3',$userURL3, PDO::PARAM_STR);
   $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
   $rqst->execute();
+  break;
+case 'aspects': // 
+  $aspects = $_REQUEST['data'];
+  foreach($aspects as $key => $aspect)
+  {
+    
+  }
   break;
 case 'comments': // comments on survey
   // Insert comments

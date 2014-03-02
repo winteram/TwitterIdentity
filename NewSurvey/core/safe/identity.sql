@@ -176,6 +176,26 @@ CREATE TABLE IF NOT EXISTS `survey` (
 /*!40000 ALTER TABLE `survey` DISABLE KEYS */;
 /*!40000 ALTER TABLE `survey` ENABLE KEYS */;
 
+DROP TABLE IF EXISTS `aspects`;
+CREATE TABLE IF NOT EXISTS `aspects` (
+  `Id` bigint(20) NOT NULL,
+  `UserId` varchar(32) NOT NULL,
+  `Name` varchar(32) NOT NULL
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+DROP TABLE IF EXISTS `traits`;
+CREATE TABLE IF NOT EXISTS `traits` (
+  `Id` bigint(20) NOT NULL,
+  `Trait` varchar(32) NOT NULL
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+DROP TABLE IF EXISTS `aspect_traits`;
+CREATE TABLE IF NOT EXISTS `aspect_traits` (
+  `AspectId` bigint(20) NOT NULL,
+  `TraitId` varchar(32) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- Dumping structure for table gidb.tweet
 DROP TABLE IF EXISTS `tweet`;
