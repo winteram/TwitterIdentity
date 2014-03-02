@@ -3,8 +3,14 @@
 // Get data for accessing database
 require_once('safe/config.inc');
 global $dbh;
-
-$page="natform";
+global $traits_full = 
+  ['capable', 'comfortable', 'communicative', 'confident', 'energetic', 
+   'friendly', 'fun and entertaining', 'giving', 'happy', 'hardworking',
+   'independent', 'intelligent', 'interested', 'lovable', 'mature', 'needed', 
+   'optimistic', 'organized', 'outgoing', 'successful','disagreeing', 'disorganized', 
+   'hopeless', 'immature', 'incompetent', 'indecisive', 'inferior', 'insecure', 'irresponsible', 'irritable', 
+   'isolated', 'lazy', 'like a failure', 'sad and blue', 'self-centered', 
+   'tense', 'uncomfortable', 'unloved', 'weary', 'worthless'];
 
 $errmsg = "Missing data";
 
@@ -18,8 +24,6 @@ else
   //exit(0);
 }
 
-
-
 // determine what data to be entered to db
 $page = $_REQUEST['page'];
 
@@ -28,9 +32,8 @@ switch($page)
 case 'new':
 case 'demog':
   // parse data into array
+  echo $_REQUEST['data'];
   $demogs = $_REQUEST['data'];
-  error_log(print_r($demogs, TRUE));
-
 
   // ensure valid values will be entered
   $gender = isset($demogs['gender']) ? $demogs['gender'] : "NULL";
@@ -57,7 +60,6 @@ case 'polform': // party affiliation
   $rqst->bindParam(':party',$party, PDO::PARAM_STR);
   $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
   $rqst->execute();
-  error_log(print_r($party, TRUE));
   break;
 case 'natform':
   $nationality = isset($_REQUEST['nationality']) ? $_REQUEST['nationality'] : "NULL";
@@ -69,7 +71,6 @@ case 'natform':
 case 'party': // answers to survey for political id
 case 'nation': // answers to survey for national id
   $answers = $_REQUEST['data'];
-  error_log(print_r($answers,true));
   $varnames = array('bond','solidarity','committed','glad','proud','pleasant','goodfeel','think','identity',
     'seemyself','common_avg','similar_avg','common_oth','similar_oth');
   $query = 'UPDATE survey SET ';
@@ -85,10 +86,8 @@ case 'nation': // answers to survey for national id
   $rqst = $dbh->prepare($query);
   $ctr = 1;
   foreach($answers as $key => $response)
-
     {
-      $something=':' . $page . $ctr . ' = ' . $response . '\n';
-      error_log(print_r($something,true));// not sure if that is going to work
+      echo ':' . $page . $ctr . ' = ' . $response . '\n';
       $rqst->bindParam(':' . $page . $ctr, intval($answers[$key]), PDO::PARAM_INT);
       $ctr += 1;
     }  
@@ -101,7 +100,7 @@ case 'freeform':
   // echo $freeform;
   $ownform1 = isset($freeform['ownform1']) ? $freeform['ownform1'] : "NULL";
   $ownform2 = isset($freeform['ownform2']) ? $freeform['ownform2'] : "NULL";
-  $userURL  = isset($freeform['ownURL']) ? $freeform['ownURL'] : "NULL";
+  $userURL = isset($freeform['ownURL']) ? $freeform['ownURL'] : "NULL";
   $ownform3 = isset($freeform['ownform3']) ? $freeform['ownform3'] : "NULL";
   $ownform4 = isset($freeform['ownform4']) ? $freeform['ownform4'] : "NULL";
   $userURL2 = isset($freeform['ownURL2']) ? $freeform['ownURL2'] : "NULL";
@@ -128,7 +127,23 @@ case 'aspects': //
   $aspects = $_REQUEST['data'];
   foreach($aspects as $key => $aspect)
   {
-    
+    $name = isset($aspect["name"]) ? $aspect["name"] : "NULL";
+    $rqst = $dbh->prepare("INSERT INTO aspects SET UserId=:twitid, Name=:name");
+    $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+    $rqst->bindParam(':name',$name, PDO::PARAM_STR);
+    $rqst->execute();
+    $aspectid = $dbh->lastInsertId();
+    if(isset($aspect["traits"]))
+    {
+      foreach($aspect["traits"] as $key=>$trait)
+      {
+        $traitid = array_search($trait, $traits_full);
+        $rqst = $dbh->prepare("INSERT INTO aspects_traits SET AspectId=:aspectid, TraitId=:traitid");
+        $rqst->bindParam(':aspectid',$aspectid, PDO::PARAM_INT);
+        $rqst->bindParam(':traitid',$traitid, PDO::PARAM_INT);
+        $rqst->execute();
+      }
+    }
   }
   break;
 case 'comments': // comments on survey

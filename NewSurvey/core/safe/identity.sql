@@ -178,7 +178,7 @@ CREATE TABLE IF NOT EXISTS `survey` (
 
 DROP TABLE IF EXISTS `aspects`;
 CREATE TABLE IF NOT EXISTS `aspects` (
-  `Id` bigint(20) NOT NULL,
+  `Id` bigint(20) NOT NULL AUTO_INCREMENT,
   `UserId` varchar(32) NOT NULL,
   `Name` varchar(32) NOT NULL
   PRIMARY KEY (`Id`)
@@ -186,13 +186,13 @@ CREATE TABLE IF NOT EXISTS `aspects` (
 
 DROP TABLE IF EXISTS `traits`;
 CREATE TABLE IF NOT EXISTS `traits` (
-  `Id` bigint(20) NOT NULL,
+  `Id` bigint(20) NOT NULL AUTO_INCREMENT,
   `Trait` varchar(32) NOT NULL
   PRIMARY KEY (`Id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
-DROP TABLE IF EXISTS `aspect_traits`;
-CREATE TABLE IF NOT EXISTS `aspect_traits` (
+DROP TABLE IF EXISTS `aspects_traits`;
+CREATE TABLE IF NOT EXISTS `aspects_traits` (
   `AspectId` bigint(20) NOT NULL,
   `TraitId` varchar(32) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
