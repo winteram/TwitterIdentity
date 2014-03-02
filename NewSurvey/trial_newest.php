@@ -338,72 +338,68 @@
 
 	<div class="wrapper" id="self_labeling">
 
-	<div class="panel panel-default">
-		<!-- Default panel contents -->
-		<div class="panel-heading"><h3>Labeling Self Aspects<h3></div>
-		<div class="panel-body">
-			<p>Our self-aspects can often be described in terms of different general types. Below is a list of common types of self-aspects with examples. 
-			 In this next section we would like you to label the self-aspects you generated in the previous section with one of these types listed in the left
-			 column below, such as 'Situations', 'Roles', etc. If none of the specific types seems to fit, please simply select the "Other" option. When you
-			 are all done, press the Finish Task button to continue to the next section. </p>
+		<div class="panel panel-default">
+			<!-- Default panel contents -->
+			<div class="panel-heading"><h3>Labeling Self Aspects<h3></div>
+			<div class="panel-body">
+				<p>Our self-aspects can often be described in terms of different general types. Below is a list of common types of self-aspects with examples. 
+				 In this next section we would like you to label the self-aspects you generated in the previous section with one of these types listed in the left
+				 column below, such as 'Situations', 'Roles', etc. If none of the specific types seems to fit, please simply select the "Other" option. When you
+				 are all done, press the Finish Task button to continue to the next section. </p>
+			</div>
+
+			<!-- Table -->
+			<table class="table" table border=1>
+				<tr>
+					<td><h4><b>Type</b><h4></td>
+					<td><b><h4><b>Examples</b><h4></b></td>
+					
+				</tr>
+				<tr>
+					<td> Situations</td>
+					<td> When in a crowded situation, when meeting new people</td>
+				</tr>
+
+				<tr>
+					<td>Relationship</td>
+					<td>With my boyfriend, with my family</td>
+				</tr>
+
+				<tr>
+					<td>Roles</td>
+					<td>Daughter, as a student</td>
+				</tr>
+				<tr>
+					<td>Emotional</td>
+					<td>When I'm freaking out, my positive qualities</td>
+				</tr>
+				<tr>
+					<td>True Selves</td>
+					<td>The real me, who I really am</td>
+				</tr>
+				<tr>
+					<td>Goals</td>
+					<td>Who I ought to be, who I'm afraid I will be</td>
+				</tr>
+				<tr>
+					<td>Time Related</td>
+					<td>The old me, my future me</td>
+				</tr>
+				<tr>
+					<td>Public</td>
+					<td>How others see me, the public me</td>
+				</tr>
+				<tr>
+					<td>Alone</td>
+					<td>When I'm alone, by myself</td>
+				</tr>
+				<tr>
+					<td>Other</td>
+					<td></td>
+				</tr>
+			</table>
 		</div>
-
-		<!-- Table -->
-		<table class="table" table border=1>
-
-	 <tr>
-		<td><h4><b>Type</b><h4></td>
-		<td><b><h4><b>Examples</b><h4></b></td>
-		
-	</tr>
-	<tr>
-		<td> Situations</td>
-		<td> When in a crowded situation, when meeting new people</td>
-	</tr>
-
-	<tr>
-		<td>Relationship</td>
-		<td>With my boyfriend, with my family</td>
-	</tr>
-
-	<tr>
-		<td>Roles</td>
-		<td>Daughter, as a student</td>
-	</tr>
-	<tr>
-		<td>Emotional</td>
-		<td>When I'm freaking out, my positive qualities</td>
-	</tr>
-	<tr>
-		<td>True Selves</td>
-		<td>The real me, who I really am</td>
-	</tr>
-	<tr>
-		<td>Goals</td>
-		<td>Who I ought to be, who I'm afraid I will be</td>
-	</tr>
-	<tr>
-		<td>Time Related</td>
-		<td>The old me, my future me</td>
-	</tr>
-	<tr>
-		<td>Public</td>
-		<td>How others see me, the public me</td>
-	</tr>
-	<tr>
-		<td>Alone</td>
-		<td>When I'm alone, by myself</td>
-	</tr>
-	<tr>
-		<td>Other</td>
-		<td></td>
-	</tr>
-
-
-
-		
-		</table>
-	</div>
+		<form id="self_labeling_form"></form>
 	</div>
 
 

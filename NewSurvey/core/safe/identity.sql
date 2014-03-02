@@ -180,7 +180,8 @@ DROP TABLE IF EXISTS `aspects`;
 CREATE TABLE IF NOT EXISTS `aspects` (
   `Id` bigint(20) NOT NULL AUTO_INCREMENT,
   `UserId` varchar(32) NOT NULL,
-  `Name` varchar(32) NOT NULL
+  `Name` varchar(32) NOT NULL,
+  `Label` int(9)
   PRIMARY KEY (`Id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 

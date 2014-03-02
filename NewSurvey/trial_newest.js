@@ -1093,7 +1093,7 @@ function Disp_Self_Lab()// Function to initiate the self-labeling portion of the
 	Qsappend +='<div id="err_slabel" class="error"></div>';
 	Qsappend +='<p><input type=reset id ="finish_label" value= "Submit" onclick="selfLabCheck();" /></p>';
 
-	$("#self_labeling").append(Qsappend);
+	$("#self_labeling_form").append(Qsappend);
 	$("#self_labeling").show();
 }
 
@@ -1101,6 +1101,7 @@ function selfLabCheck(once)
 {
 	var error = false;
 	once = typeof once !== 'undefined' ? once : false; // This line sets once to false if not defined
+	self_labels = {}
 
 	$.each(self_aspects, function(key, aspect) {
 		var item_temp= '#self_cat_'+key;
@@ -1114,6 +1115,10 @@ function selfLabCheck(once)
 		{
 			$("#part_label_"+key).addClass("error");
 			error=true;
+		}
+		else
+		{
+			self_labels[aspect] = value_temp;
 		}
 	});
 
@@ -1141,6 +1146,10 @@ function selfLabCheck(once)
 	else
 	{
 		$('#error_popup').dialog( "close" );
+		$.post("core/DataWrangler.php", 
+		{"page":"aspect_labs", "twitid":twitid, 
+			"data": self_labels
+		});
 		ShowGenaspect();
 	}
 

@@ -123,7 +123,7 @@ case 'freeform':
   $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
   $rqst->execute();
   break;
-case 'aspects': // 
+case 'aspects': // self aspects
   $aspects = $_REQUEST['data'];
   foreach($aspects as $key => $aspect)
   {
@@ -143,6 +143,24 @@ case 'aspects': //
         $rqst->bindParam(':traitid',$traitid, PDO::PARAM_INT);
         $rqst->execute();
       }
+    }
+  }
+  break;
+case 'aspect_labs': // 
+  $aspect_labs = $_REQUEST['data'];
+  foreach($aspect_labs as $name => $aspect_label)
+  {
+    $rqst = $dbh->prepare("SELECT Id FROM aspects WHERE UserId=:twitid AND Name=:name");
+    $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+    $rqst->bindParam(':name',$name, PDO::PARAM_STR);
+    $row = $rqst->execute();
+    $result = $rqst->fetch(PDO::FETCH_ASSOC);
+    if(isset($result))
+    {
+      $rqst = $dbh->prepare("UPDATE aspects SET Label=:label WHERE Id=:aspectid");
+      $rqst->bindParam(':label',$aspect_label, PDO::PARAM_INT);
+      $rqst->bindParam(':aspectid',$aspectid, PDO::PARAM_INT);
+      $rqst->execute();
     }
   }
   break;
