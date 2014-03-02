@@ -4,6 +4,8 @@
 require_once('safe/config.inc');
 global $dbh;
 
+$page="natform";
+
 $errmsg = "Missing data";
 
 if (isset($_REQUEST['twitid']))
@@ -16,6 +18,8 @@ else
   //exit(0);
 }
 
+
+
 // determine what data to be entered to db
 $page = $_REQUEST['page'];
 
@@ -24,8 +28,9 @@ switch($page)
 case 'new':
 case 'demog':
   // parse data into array
-  echo $_REQUEST['data'];
   $demogs = $_REQUEST['data'];
+  error_log(print_r($demogs, TRUE));
+
 
   // ensure valid values will be entered
   $gender = isset($demogs['gender']) ? $demogs['gender'] : "NULL";
@@ -52,6 +57,7 @@ case 'polform': // party affiliation
   $rqst->bindParam(':party',$party, PDO::PARAM_STR);
   $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
   $rqst->execute();
+  error_log(print_r($party, TRUE));
   break;
 case 'natform':
   $nationality = isset($_REQUEST['nationality']) ? $_REQUEST['nationality'] : "NULL";
@@ -63,6 +69,7 @@ case 'natform':
 case 'party': // answers to survey for political id
 case 'nation': // answers to survey for national id
   $answers = $_REQUEST['data'];
+  error_log(print_r($answers,true));
   $varnames = array('bond','solidarity','committed','glad','proud','pleasant','goodfeel','think','identity',
     'seemyself','common_avg','similar_avg','common_oth','similar_oth');
   $query = 'UPDATE survey SET ';
@@ -78,8 +85,10 @@ case 'nation': // answers to survey for national id
   $rqst = $dbh->prepare($query);
   $ctr = 1;
   foreach($answers as $key => $response)
+
     {
-      echo ':' . $page . $ctr . ' = ' . $response . '\n';
+      $something=':' . $page . $ctr . ' = ' . $response . '\n';
+      error_log(print_r($something,true));// not sure if that is going to work
       $rqst->bindParam(':' . $page . $ctr, intval($answers[$key]), PDO::PARAM_INT);
       $ctr += 1;
     }  
@@ -92,7 +101,7 @@ case 'freeform':
   // echo $freeform;
   $ownform1 = isset($freeform['ownform1']) ? $freeform['ownform1'] : "NULL";
   $ownform2 = isset($freeform['ownform2']) ? $freeform['ownform2'] : "NULL";
-  $userURL = isset($freeform['ownURL']) ? $freeform['ownURL'] : "NULL";
+  $userURL  = isset($freeform['ownURL']) ? $freeform['ownURL'] : "NULL";
   $ownform3 = isset($freeform['ownform3']) ? $freeform['ownform3'] : "NULL";
   $ownform4 = isset($freeform['ownform4']) ? $freeform['ownform4'] : "NULL";
   $userURL2 = isset($freeform['ownURL2']) ? $freeform['ownURL2'] : "NULL";

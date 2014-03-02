@@ -255,6 +255,14 @@ function checkDemographics(once)
 				{"gender":gender,"age":age,"loc":loc,"races":races,"income":income,"edu":education} 
 			});
 
+		$.post("core/DataWrangler.php" , {"page":"demog", "twitid":twitid, "data":
+				{"gender":gender,"age":age,"loc":loc,"races":races,"income":income,"edu":education} 
+			})
+		.done(function(data){
+			console.log("Data Loaded: " + data);
+		});
+
+
 		$("#demo-wrapper").hide(500);
 		$('#error_popup').dialog( "close" );
 
@@ -490,10 +498,17 @@ function checkPolSurvey(once) // added iden as an input
 			var errorid = '#err' + iden + i; 
 			error = true;
 			$(errorid).css('color','#F00'); 
+			qdata[iden + i] = "Null";
+		}
+
+		else
+		{
+			qdata[iden + i] = Q_input;
+
 		}
 	
-		qdata[iden + i] = Q_input;// Add an entry to qdata, regardless of whether someone checked an item or not (takes Null)
-		console.log(qdata);
+		// Add an entry to qdata, regardless of whether someone checked an item or not (takes Null)
+		//console.log(qdata);
 	}
 
 	/*
