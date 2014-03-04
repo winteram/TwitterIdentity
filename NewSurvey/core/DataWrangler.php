@@ -164,6 +164,27 @@ case 'aspect_labs': //
     }
   }
   break;
+case 'selfqs': // self aspects questionnaire
+  $selfqs = $_REQUEST['data'];
+  foreach($selfqs as $name => $asp_gen)
+  {
+    $rqst = $dbh->prepare("SELECT Id FROM aspects WHERE UserId=:twitid AND Name=:name");
+    $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+    $rqst->bindParam(':name',$name, PDO::PARAM_STR);
+    $row = $rqst->execute();
+    $result = $rqst->fetch(PDO::FETCH_ASSOC);
+    if(isset($result))
+    {
+      $import = isset($asp_gen['import']) ? $asp_gen['import'] : -1;
+      $pos = isset($asp_gen['pos']) ? $asp_gen['pos'] : -1;
+      $rqst = $dbh->prepare("UPDATE aspects SET Positive=:pos, Important=:import WHERE Id=:aspectid");
+      $rqst->bindParam(':pos',$pos, PDO::PARAM_INT);
+      $rqst->bindParam(':import',$import, PDO::PARAM_INT);
+      $rqst->bindParam(':aspectid',$aspectid, PDO::PARAM_INT);
+      $rqst->execute();
+    }
+  }
+  break;
 case 'comments': // comments on survey
   // Insert comments
   $comments = $_REQUEST['comments'];

@@ -1236,40 +1236,39 @@ function checkGenSelf(once)
 	once = typeof once !== 'undefined' ? once : false; // This line sets once to false if not defined
 
 	//validation section
-	asp_import={}; 
+	asp_gen={}; 
 	// initialize a dictionary that will contain people's rating for how important listed self aspects are to them
-	//The key is the self-aspect number and the value is the rating of importance. 
-	asp_pos={}// This is the dictionary for positivity about self aspects. 
+	// The key is the self-aspect number and the value is the rating of importance. 
 
 
 	for(i=0; i<self_aspects.length; i++)
 	{
-		//temp1 = $('input[name=clear'+i+']:checked').val()
-		temp2 = $('input[name=import'+i+']:checked').val();
-		temp3 = $('input[name=pos'+i+']:checked').val();
+
+		asp_gen[self_aspects["name"]]={"import":"","pos":""};
+		import_val = $('input[name=import'+i+']:checked').val();
+		pos_val = $('input[name=pos'+i+']:checked').val();
 
 		$('#sen_import0').addClass("error");
 
-		if(temp2==null)
+		if(import_val==null)
 		{
 			error=true;
-
 
 			$('#sen_import'+i).addClass("error");
 		}
 		else 
 		{
-			asp_import[i]=temp2;
+			asp_gen[self_aspects["name"]]["import"] = import_val;
 		}
 
-		if(temp3==null)
+		if(pos_val==null)
 		{
 			error=true;
 			$('#sen_pos'+i).addClass("error");
 		}
 		else 
 		{
-			asp_pos[i]=temp3;
+			asp_gen[self_aspects["name"]]["pos"] = pos_val;
 		}
 	}
 
@@ -1297,7 +1296,12 @@ function checkGenSelf(once)
 	}
 	else
 	{
+
 		$('#error_popup').dialog( "close" );
+		$.post("core/DataWrangler.php", 
+		{"page":"selfqs", "twitid":twitid, 
+			"data": asp_gen
+		});
 		Show_media_qs();
 	} 
 }
