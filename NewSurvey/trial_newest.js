@@ -1296,7 +1296,6 @@ function checkGenSelf(once)
 	}
 	else
 	{
-
 		$('#error_popup').dialog( "close" );
 		$.post("core/DataWrangler.php", 
 		{"page":"selfqs", "twitid":twitid, 
@@ -1399,7 +1398,7 @@ function checkSocMedia(media, once)
 	error=false; //
 	once = typeof once !== 'undefined' ? once : false; // This line sets once to false if not defined 
 
-	$.each(self_aspects, function(key, value) // make facebook questions to put in facebook_saspect wrapper
+	$.each(self_aspects, function(key, aspect) // make facebook questions to put in facebook_saspect wrapper
 	{
 		//console.log(qput.val())
 		qput= 'input[name = S'+media+'_agree_' + key +']:checked';
@@ -1416,7 +1415,7 @@ function checkSocMedia(media, once)
 		}
 		else
 		{
-			fb_asp[key]=popval; // put this value in the dictionary that will later be posted to data-wrangler
+			fb_asp[aspect]=popval; // put this value in the dictionary that will later be posted to data-wrangler
 		}
 	}); 
 
@@ -1473,6 +1472,10 @@ function checkSocMedia(media, once)
 		if(media=='fb')
 		{
 			$('#facebookQs').hide(500);
+			$.post("core/DataWrangler.php", 
+			{"page":"selfqs", "twitid":twitid, 
+				"data": asp_gen
+			});
 			$("#twitterQs").show(500);
 		}
 		else 
