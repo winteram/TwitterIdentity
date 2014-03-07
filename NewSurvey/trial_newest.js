@@ -1643,6 +1643,7 @@ function Show_CSW() // This function is particulary rough and dirty- It involves
 function checkCSW(stage, once)
 {
 	once = typeof once !== 'undefined' ? once : false; // This line sets once to false if not defined 
+	csw_data={}//initialize associate array that will be passed to the data wrangler. 
 
 	for(var i = 12*(stage-1); i < 12*(stage) ; i++) // go throug the first 12 sentences
 	{
@@ -1664,8 +1665,18 @@ function checkCSW(stage, once)
 		{
 			error=true;
 			$("#c_ag_"+i).addClass("error");
+			csw_data[temp_v]="Null";// if the value is null, store it as a string called "Null"
 
 		}
+
+			else
+		{
+			csw_data[temp_v]=d; 
+
+		}
+
+
+		$.post("core/DataWrangler.php", {"page":"csw", "twitid":twitid, "data":csw_data});
 		// console.log(d);
 
 	}
