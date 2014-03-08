@@ -1665,7 +1665,7 @@ function checkCSW(stage, once)
 		{
 			error=true;
 			$("#c_ag_"+i).addClass("error");
-			csw_data[temp_v]="Null";// if the value is null, store it as a string called "Null"
+			csw_data[temp_v]=-1;// if the value is null, assign it a value of -1
 
 		}
 

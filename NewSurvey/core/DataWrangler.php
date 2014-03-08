@@ -3,7 +3,7 @@
 // Get data for accessing database
 require_once('safe/config.inc');
 global $dbh;
-global $traits_full = 
+/*global $traits_full = 
   ['capable', 'comfortable', 'communicative', 'confident', 'energetic', 
    'friendly', 'fun and entertaining', 'giving', 'happy', 'hardworking',
    'independent', 'intelligent', 'interested', 'lovable', 'mature', 'needed', 
@@ -11,6 +11,7 @@ global $traits_full =
    'hopeless', 'immature', 'incompetent', 'indecisive', 'inferior', 'insecure', 'irresponsible', 'irritable', 
    'isolated', 'lazy', 'like a failure', 'sad and blue', 'self-centered', 
    'tense', 'uncomfortable', 'unloved', 'weary', 'worthless'];
+   */
 
 $errmsg = "Missing data";
 
@@ -242,6 +243,19 @@ case 'comments': // comments on survey
   }
 
   break;
+
+
+case 'csw_data': // This will take the 35 entries from the contingencies of self worth questions. 
+ $sentnames=array(); /* debating whether I should use new meaningful names for each response, or just use the names
+ from trial_newest */
+
+ $cswq = $_REQUEST['data'];
+
+ error_log(print_r($cswq,true);
+
+
+
+  
 default:
   echo "ERR: invalid page";
 }
