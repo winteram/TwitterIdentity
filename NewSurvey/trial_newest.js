@@ -1474,13 +1474,14 @@ function checkSocMedia(media, once)
 			$('#facebookQs').hide(500);
 			$.post("core/DataWrangler.php", 
 			{"page":"selfqs", "twitid":twitid, 
-				"data": asp_gen
-			});
+				"data": fb_asp
+			}); 
 			$("#twitterQs").show(500);
 		}
 		else 
 		{
 			$('#twitterQs').hide(500);
+			once=false;
 			Show_CSW();
 		}
 		// reset it
@@ -1676,7 +1677,10 @@ function checkCSW(stage, once)
 		}
 
 
-		$.post("core/DataWrangler.php", {"page":"csw", "twitid":twitid, "data":csw_data});
+		//$.post("core/DataWrangler.php", {"page":"csw", "twitid":twitid, "data":csw_data});
+
+
+		
 		// console.log(d);
 
 	}
@@ -1712,10 +1716,13 @@ function checkCSW(stage, once)
 		{
 			$("#contingencies"+stage).hide(500);
 			$("#contingencies"+(stage+1)).show(500);
+
 		}
 		else
 		{
 			$("#contingencies"+stage).hide(500);
+			
+
 			DoPANAS();
 		}
 	}

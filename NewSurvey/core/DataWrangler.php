@@ -246,12 +246,12 @@ case 'comments': // comments on survey
 
 
 case 'csw_data': // This will take the 35 entries from the contingencies of self worth questions. 
- $sentnames=array(); /* debating whether I should use new meaningful names for each response, or just use the names
+  $sentnames=array(); /* debating whether I should use new meaningful names for each response, or just use the names
  from trial_newest */
 
- $cswq = $_REQUEST['data'];
+  $cswq = $_REQUEST['data'];
 
- error_log(print_r($cswq,true);
+  error_log(print_r($cswq,true));
 
 
 
