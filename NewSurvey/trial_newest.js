@@ -1677,7 +1677,7 @@ function checkCSW(stage, once)
 		}
 
 
-		//$.post("core/DataWrangler.php", {"page":"csw", "twitid":twitid, "data":csw_data});
+		
 
 
 		
@@ -1696,9 +1696,27 @@ function checkCSW(stage, once)
 			{
 				text: "Continue",
 				click: function() {
-					checkCSW(stage, true);
-				}
-			},
+					//checkCSW(stage, true);
+		$( this ).dialog( "close" );
+		$.post("core/DataWrangler.php", {"page":"csw_data", "twitid":twitid, "data":csw_data, "stage":stage});
+		if(stage<3)
+		{
+			$("#contingencies"+stage).hide(500);
+			$("#contingencies"+(stage+1)).show(500);
+
+		}
+		else
+		{
+			$("#contingencies"+stage).hide(500);
+			console.log("it's getting to the else in the button Continue button function")
+			
+
+			DoPANAS();
+		}
+
+
+		}
+			},// end first argument for popup dialog- condition where Continue button is clicked. 
 			{
 				text: "Cancel",
 				click: function() {
@@ -1711,16 +1729,22 @@ function checkCSW(stage, once)
 	}
 	else
 	{
+		$.post("core/DataWrangler.php", {"page":"csw_data", "twitid":twitid, "data":csw_data, "stage":stage});
 		$('#error_popup').dialog( "close" );
 		if(stage<3)
 		{
 			$("#contingencies"+stage).hide(500);
 			$("#contingencies"+(stage+1)).show(500);
 
+
 		}
 		else
 		{
+			$.post("core/DataWrangler.php", {"page":"csw_data", "twitid":twitid, "data":csw_data, "stage":stage});
+			// Am adding the parameter stage, so that I can make separate associative arrays for each page
+			//and combine them. 
 			$("#contingencies"+stage).hide(500);
+			console.log("it's getting to the else in the function outside the dialog box")
 			
 
 			DoPANAS();

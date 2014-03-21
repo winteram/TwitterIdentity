@@ -3,6 +3,14 @@
 // Get data for accessing database
 require_once('safe/config.inc');
 global $dbh;
+global $full_csw;
+/*if(empty($full_csw))
+{
+$full_csw=array();
+}
+*/
+
+
 /*global $traits_full = 
   ['capable', 'comfortable', 'communicative', 'confident', 'energetic', 
    'friendly', 'fun and entertaining', 'giving', 'happy', 'hardworking',
@@ -245,13 +253,45 @@ case 'comments': // comments on survey
   break;
 
 
+
+
 case 'csw_data': // This will take the 35 entries from the contingencies of self worth questions. 
   $sentnames=array(); /* debating whether I should use new meaningful names for each response, or just use the names
  from trial_newest */
 
   $cswq = $_REQUEST['data'];
 
-  error_log(print_r($cswq,true));
+  $stage = $_REQUEST['stage'];
+
+  error_log(print_r($stage,true));
+
+  if($stage==1)
+  {
+    //$cswq_1 = $cswq;
+    global $cswq_full;
+    $cswq_full=$cswq;
+
+  }
+  else
+  {
+    $cswq_full=$cswq_full+$cswq;
+    error_log(print_r($cswq_full))
+  }
+  
+
+  /*if($stage==2)
+  {
+    $cswq_2 = $cswq;
+  }
+  if($stage==3)
+  {
+    $cswq_full = $cswq_1 + $cswq_2 + $cswq;
+    error_log(print_r($cswq_full,true));
+  }
+
+  */
+
+
 
 
 
