@@ -1698,7 +1698,7 @@ function checkCSW(stage, once)
 				click: function() {
 					//checkCSW(stage, true);
 		$( this ).dialog( "close" );
-		$.post("core/DataWrangler.php", {"page":"csw_data", "twitid":twitid, "data":csw_data, "stage":stage});
+		$.post("core/DataWrangler.php", {"page":"csw_data", "twitid":twitid, "data":csw_data});
 		if(stage<3)
 		{
 			$("#contingencies"+stage).hide(500);
@@ -1729,7 +1729,7 @@ function checkCSW(stage, once)
 	}
 	else
 	{
-		$.post("core/DataWrangler.php", {"page":"csw_data", "twitid":twitid, "data":csw_data, "stage":stage});
+		$.post("core/DataWrangler.php", {"page":"csw_data", "twitid":twitid, "data":csw_data});
 		$('#error_popup').dialog( "close" );
 		if(stage<3)
 		{
@@ -1740,7 +1740,7 @@ function checkCSW(stage, once)
 		}
 		else
 		{
-			$.post("core/DataWrangler.php", {"page":"csw_data", "twitid":twitid, "data":csw_data, "stage":stage});
+			$.post("core/DataWrangler.php", {"page":"csw_data", "twitid":twitid, "data":csw_data});
 			// Am adding the parameter stage, so that I can make separate associative arrays for each page
 			//and combine them. 
 			$("#contingencies"+stage).hide(500);
