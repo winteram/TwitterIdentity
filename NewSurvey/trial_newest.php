@@ -423,26 +423,22 @@
 	<div id="twitterQs" class="wrapper">
 		<h3> Twitter Usage </h3>
 
-		 <p> What kinds of things do you usually express on Twitter? Please type comments below.</p> </br>
+		<p> What kinds of things do you usually express on Twitter? Please type comments below.</p> </br>
 				 
-					<textarea id="tw_express" class= "LargerText" cols="60" rows="5" name="gen_tw_comment"></textarea> </br>
+		<textarea id="tw_express" class= "LargerText" cols="60" rows="5" name="gen_tw_comment"></textarea> </br>
 
-		<div id="PopTwitter">
-
-		</div> 
+		<div id="PopTwitter"></div> 
 
 	</div>
 
 	<div id = "facebookQs" class="wrapper">
-
-	 <h3> Facebook Usage </h3>
+	 	<h3> Facebook Usage </h3>
 
 		<p> What kinds of things do you usually express on Facebook? Please type comments below </p> </br>
-				 
-					<textarea id="fb_express" class= "LargerText" cols="60" rows="5" name="gen_fb_comment"></textarea> </br>
+		
+		<textarea id="fb_express" class= "LargerText" cols="60" rows="5" name="gen_fb_comment"></textarea> </br>
 
-		<div id="PopFB">
-		</div>
+		<div id="PopFB"></div>
 
 	</div>
 

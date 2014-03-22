@@ -193,9 +193,12 @@ case 'selfqs': // self aspects questionnaire
     }
   }
   break;
-case 'fbqs': // self aspects questionnaire
-  $fbqs = $_REQUEST['data'];
-  foreach($fbqs as $name => $fbq)
+case 'smqs': // social media questionnaire
+  $smedia = $_REQUEST['media'];
+  if($smedia != 'fb' && $smedia != 'tw') break;
+
+  $smasps = $_REQUEST['sm_asp'];
+  foreach($smasps as $name => $smq)
   {
     $rqst = $dbh->prepare("SELECT Id FROM aspects WHERE UserId=:twitid AND Name=:name");
     $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
@@ -204,15 +207,48 @@ case 'fbqs': // self aspects questionnaire
     $result = $rqst->fetch(PDO::FETCH_ASSOC);
     if(isset($result))
     {
-      $import = isset($fbq['import']) ? $fbq['import'] : -1;
-      $pos = isset($fbq['pos']) ? $fbq['pos'] : -1;
-      $rqst = $dbh->prepare("UPDATE aspects SET Positive=:pos, Important=:import WHERE Id=:aspectid");
-      $rqst->bindParam(':pos',$pos, PDO::PARAM_INT);
-      $rqst->bindParam(':import',$import, PDO::PARAM_INT);
-      $rqst->bindParam(':aspectid',$aspectid, PDO::PARAM_INT);
-      $rqst->execute();
+      if($smedia=='fb')
+      {
+        $rqst = $dbh->prepare("UPDATE aspects SET Facebook=:smval WHERE Id=:aspectid");
+        $rqst->bindParam(':smval',$smq, PDO::PARAM_INT);
+        $rqst->bindParam(':aspectid',$aspectid['Id'], PDO::PARAM_INT);
+        $rqst->execute();
+      } 
+      else if($smedia=='tw')
+      {
+        $rqst = $dbh->prepare("UPDATE aspects SET Twitter=:smval WHERE Id=:aspectid");
+        $rqst->bindParam(':smval',$smq, PDO::PARAM_INT);
+        $rqst->bindParam(':aspectid',$aspectid['Id'], PDO::PARAM_INT);
+        $rqst->execute();
+      }
     }
   }
+  $smfbk = $_REQUEST['sm_fbk'];
+  $smqs = $_REQUEST['sm_gen'];
+  $smcomms = $_REQUEST['sm_com'];
+  $smqnames = array('feel','doing','where','entertain','political','family','god','academic','appearance');
+  $query = 'UPDATE survey SET ' . $smedia . '_comments=:sm_fbk, ';
+  $ctr = 0;
+  foreach($smqs as $i => $smq)
+    {
+      $query .= $smedia . "_" . $varnames[$i] . "=:" . $smedia . $ctr . ", ";
+      $query .= $smedia . "_" . $varnames[$i] . "_comments=:" . $smedia . $ctr . "_comm, ";
+      $ctr += 1;
+    }
+  $query = substr($query, 0, -2) . " WHERE Id=:twitid";
+  //echo $query . "\n";
+  $dbh->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);  
+  $rqst = $dbh->prepare($query);
+  $rqst->bindParam(':sm_fbk', $smfbk, PDO::PARAM_STR);
+  $ctr = 0;
+  foreach($smqs as $i => $smq)
+    {
+      $rqst->bindParam(':' . $smedia . $ctr, intval($smq), PDO::PARAM_INT);
+      $rqst->bindParam(':' . $smedia . $ctr."_comm", $smcomms[$i], PDO::PARAM_STR);
+      $ctr += 1;
+    }  
+  $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+  $rqst->execute();
   break;
 case 'comments': // comments on survey
   // Insert comments

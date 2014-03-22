@@ -1311,42 +1311,11 @@ function checkGenSelf(once)
 
 function Show_media_qs() //asks specific questions about social media usage. 
 {    
-	fb_asp={};//initialize a dictionary with answers to items about expression of self-aspects on facebook. 
-	tw_asp={};//questions about self-aspects of Twitter
-	fb_gen={};//multiple choice questions about facebook in general
-	tw_gen={};//multiple choice questions about twitter in general
-
-	//for the data-wrangler will also need entries for the free form, text entry questions about twitter and facebook
-
+	
 	ff_tw='';
 	ff_fb='';//free form facebook question
 
 	$("#all_genself").hide();
-
-	$.each(self_aspects, function(key, aspect) // make facebook questions to put in facebook_saspect wrapper
-	{
-
-		likertFB = createLikert( 'Sfb_likert_' + key, 'Sfb_agree_' + key, "Never", "", "Always");
-		likertTW = createLikert( 'Stw_likert_' + key, 'Stw_agree_' + key, "Never", "", "Always");
-
-		var id1="self_fb"+i;
-		var name1="self_fbname"+i;
-		var id2="self_tw"+i;
-		var name2="self_twname"+i;
-
-		var comment1='<p> Add Comment <textarea id="'+id1+'"cols="50" rows="1" name="'+name1+'"></textarea></p>';
-		var comment2='<p> Add Comment <textarea id="'+id2+'"cols="50" rows="1" name="'+name2+'"></textarea></p>';
-
-		senForpop="How often do you express ";
-
-		$('#PopFB').append('<div id = "fbfreq_'  + key + '">' + senForpop + '"' + aspect.name + '" on Facebook? <p>' + likertFB + '</p>'+comment1+'</div>');
-		//Maybe I should mix all the facebook questions together- the ones populated and the ones not populated. Append and then
-		// shuffle them at the end. 
-		
-		$('#PopTwitter').append('<div id = "twfreq_'  + key + '">' + senForpop + '"'+ aspect.name + '" on Twitter?<p>' + likertTW + '</p>'+comment2+'</div>');
-
-	});
-
 
 	var social_media_qs = new Array();// Sentences for facebook questions
 	social_media_qs.push("how often do you express how you are feeling at the moment?");
@@ -1379,8 +1348,35 @@ function Show_media_qs() //asks specific questions about social media usage.
 		
 	}
 
-	$('#PopFB').shuffle(); // Randomize the order of the FB questions
+	// Randomize the order of the FB & TW questions
+	$('#PopFB').shuffle(); 
 	$('#PopTwitter').shuffle();
+
+
+	// make facebook/twitter questions to put in facebook_saspect or twitter_saspect wrapper
+	$.each(self_aspects, function(key, aspect) 
+	{
+
+		likertFB = createLikert( 'Sfb_likert_' + key, 'Sfb_agree_' + key, "Never", "", "Always");
+		likertTW = createLikert( 'Stw_likert_' + key, 'Stw_agree_' + key, "Never", "", "Always");
+
+		var id1="self_fb"+i;
+		var name1="self_fbname"+i;
+		var id2="self_tw"+i;
+		var name2="self_twname"+i;
+
+		var comment1='<p> Add Comment <textarea id="'+id1+'"cols="50" rows="1" name="'+name1+'"></textarea></p>';
+		var comment2='<p> Add Comment <textarea id="'+id2+'"cols="50" rows="1" name="'+name2+'"></textarea></p>';
+
+		senForpop="How often do you express ";
+
+		$('#PopFB').append('<div id = "fbfreq_'  + key + '">' + senForpop + '"' + aspect.name + '" on Facebook? <p>' + likertFB + '</p>'+comment1+'</div>');
+		//Maybe I should mix all the facebook questions together- the ones populated and the ones not populated. Append and then
+		// shuffle them at the end. 
+		
+		$('#PopTwitter').append('<div id = "twfreq_'  + key + '">' + senForpop + '"'+ aspect.name + '" on Twitter?<p>' + likertTW + '</p>'+comment2+'</div>');
+
+	});
 
 	$("#facebookQs").append('<div id="err_fb_asp" class="error"></div>'); // error div
 	$('#facebookQs').append('<p><input type=reset id ="finish_fbQs" value= "Submit" onclick="checkSocMedia(\'fb\')" /></p>');
@@ -1388,7 +1384,7 @@ function Show_media_qs() //asks specific questions about social media usage.
 	$("#twitterQs").append('<div id="err_tw_asp" class="error"></div>');
 	$("#twitterQs").append('<p><input type=reset id ="finish_twQs" value= "Submit" onclick="checkSocMedia(\'tw\')"  /></p>');
 
-
+	// TODO: make this depend on whether they've logged into twitter, facebook, or both
 	$('#facebookQs').show(); 
 
 	//$("#facebookQs").show();
@@ -1398,56 +1394,72 @@ function Show_media_qs() //asks specific questions about social media usage.
 
 function checkSocMedia(media, once)
 {   
-	error=false; //
+	// for the data-wrangler will also need entries for the free form, text entry questions about twitter and facebook
+	sm_asp = {}; // initialize a dictionary with answers to items about expression of self-aspects on facebook or twitter. 
+	sm_gen = {}; // multiple choice questions about facebook or twitter in general
+	sm_com = {};
+
+	error = false; //
 	once = typeof once !== 'undefined' ? once : false; // This line sets once to false if not defined 
 
-	$.each(self_aspects, function(key, aspect) // make facebook questions to put in facebook_saspect wrapper
-	{
-		//console.log(qput.val())
-		qput= 'input[name = S'+media+'_agree_' + key +']:checked';
-		// console.log(qput);
+	// get comments about usage
+	sm_fbk_q = '#'+media+'_express';
+	sm_fbk = $(sm_fbk_q).val();
 
-		var popval=$(qput).val();
-		if(popval==null)
-		{
-			error=true;
-			console.log("getting_here")
-
-			console.log('#'+media+'freq_' + key);
-			$('#'+media+'freq_' + key).addClass("error");
-		}
-		else
-		{
-			fb_asp[aspect]=popval; // put this value in the dictionary that will later be posted to data-wrangler
-		}
-	}); 
-
+	// get answers to other questions
 	// we probably could assign a class and use jquery to iterate through each element in the DOM
 	for(i=0; i<9; i++)
 	{
 
-		var qput1= 'input[name = '+media+'_agree_' + i +']:checked';
-		//qput2= 'input[id=fb_likert_' + i +']:checked';
+		var qput1 = 'input[name = '+media+'_agree_' + i +']:checked';
+		var qput2 = '#com_'+media+i;
+		var smgen = $(qput1).val();
+		var comment = $(qput2).val();
 
-		// console.log(qput1);
-
-		//console.log($(qput2).val());
-		// console.log($(qput1).val());
-
-		var genfb=$(qput1).val();
-
-		if(genfb==null)
+		if(smgen==null)
 		{
 			error=true;
 			$('#err_'+media+'freq' + i).addClass("error");
+		}
+		else
+		{
+			// console.log(smgen);
+			// console.log(comment);
+			sm_gen[i]=smgen; // put this value in the dictionary that will later be posted to data-wrangler
+			sm_com[i]=comment;
 		}
 
 		// console.log(genfb);
 	}
 
+
+	// Get answers to FB questions about self-aspects
+	$.each(self_aspects, function(key, aspect) // make facebook questions to put in facebook_saspect wrapper
+	{
+		//console.log(qput.val())
+		qput = 'input[name = S'+media+'_agree_'+key+']:checked';
+		// console.log(qput);
+
+		var popval = $(qput).val();
+		if(popval==null)
+		{
+			error=true;
+			console.log("checkSocMedia: popval is null");
+
+			console.log('#'+media+'freq_'+key);
+			$('#'+media+'freq_'+key).addClass("error");
+		}
+		else
+		{
+			// console.log(aspect["name"]+": "+popval);
+			sm_asp[aspect["name"]]=popval; // put this value in the dictionary that will later be posted to data-wrangler
+		}
+	}); 
+
 	// console.log(error);
 	// console.log(once);
 
+	// TODO: need to make this logic work with authentication (fb, tw, or both)
 	if(error==true && once==false)
 	{
 		errmsg = "Oops, looks like you didn't answer a few of the questions, highlighted in red.";	
@@ -1474,16 +1486,30 @@ function checkSocMedia(media, once)
 		$('#error_popup').dialog( "close" );
 		if(media=='fb')
 		{
+			
 			$('#facebookQs').hide(500);
 			$.post("core/DataWrangler.php", 
-			{"page":"selfqs", "twitid":twitid, 
-				"data": fb_asp
+			{"page":"smqs", "twitid":twitid,
+				"media": media,
+				"sm_fbk": sm_fbk, 
+				"sm_asp": sm_asp, 
+				"sm_gen": sm_gen,
+				"sm_com": sm_com
 			}); 
 			$("#twitterQs").show(500);
 		}
 		else 
 		{
+			console.log(sm_asp);
 			$('#twitterQs').hide(500);
+			$.post("core/DataWrangler.php", 
+			{"page":"smqs", "twitid":twitid,
+				"media": media, 
+				"sm_fbk": sm_fbk, 
+				"sm_asp": sm_asp, 
+				"sm_gen": sm_gen,
+				"sm_com": sm_com
+			}); 
 			once=false;
 			Show_CSW();
 		}
