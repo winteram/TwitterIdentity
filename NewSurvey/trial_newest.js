@@ -573,43 +573,43 @@ function FreeCheck(once)
 	var error = false;
 	
 
-	if(nform1.length < 3)
+	if(nform11.length < 3)
 	{ 
 		error = true;
 		errmsg += '<p> Please provide an appropriate answer to item 1, shown in red above </p>';
 		
 		//$("#freeq1").addClass("error")
-		$("#freeq1").css('color','red');
+		$("#freeq11").css('color','red');
 		
 	}// add more to this later
 	else
 	{
-		$("#freeq1").css('color','black');
+		$("#freeq11").css('color','black');
 		
 	} 
 
-	if(nform2.length < 3)
+	if(nform12.length < 3)
 	{ 
 		error = true;
 		errmsg += '<p> Please provide an appropriate answer to item 2 </p>';
 		//$("#freeq2").addClass("error")
-		$("#freeq2").css('color','red');
+		$("#freeq12").css('color','red');
 	}
 	else
 	{
-		$("#freeq2").css('color','black');
+		$("#freeq12").css('color','black');
 		
 	} 
-	if(!validURL(userURL))
+	if(!validURL(userURL1))
 	{ 
 		error = true;
 		errmsg += '<p> Please provide a valid URL </p>';
 		//$("#freeq2").addClass("error")
-		$("#freeq3").css('color','red');
+		$("#freeq13").css('color','red');
 	}  
 	else
 	{
-		$("#freeq3").css('color','black');
+		$("#user_url1").css('color','black');
 		
 	} 
 	
