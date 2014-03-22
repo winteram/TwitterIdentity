@@ -1118,7 +1118,7 @@ function selfLabCheck(once)
 		}
 		else
 		{
-			self_labels[aspect] = value_temp;
+			self_labels[aspect["name"]] = value_temp;
 		}
 	});
 
@@ -1145,7 +1145,7 @@ function selfLabCheck(once)
 	}
 	else
 	{
-		console.log(self_labels);
+		// console.log(self_labels);
 		$('#error_popup').dialog( "close" );
 		$.post("core/DataWrangler.php", 
 		{"page":"aspect_labs", "twitid":twitid, 
@@ -1201,9 +1201,9 @@ function ShowGenaspect()// This function just asks people about the clarity, imp
 
 	$.each(self_aspects, function(key, aspect) {
 
-		console.log(key)
-		console.log(self_aspects)
-		console.log(self_aspects[1])
+		// console.log(key)
+		// console.log(self_aspects)
+		// console.log(self_aspects[1])
 
 		var wrapper='#Self_Q1';
 		var likert = createLikert( 'Self_Q1_' + key, 'pos' + key, "Negatively", "Neutral", "Positively");
@@ -1245,9 +1245,10 @@ function checkGenSelf(once)
 	for(i=0; i<self_aspects.length; i++)
 	{
 
-		asp_gen[self_aspects["name"]]={"import":"","pos":""};
+		asp_gen[self_aspects[i]["name"]]={"import":"","pos":""};
 		import_val = $('input[name=import'+i+']:checked').val();
 		pos_val = $('input[name=pos'+i+']:checked').val();
+
 
 		$('#sen_import0').addClass("error");
 
@@ -1259,7 +1260,7 @@ function checkGenSelf(once)
 		}
 		else 
 		{
-			asp_gen[self_aspects["name"]]["import"] = import_val;
+			asp_gen[self_aspects[i]["name"]]["import"] = import_val;
 		}
 
 		if(pos_val==null)
@@ -1269,7 +1270,7 @@ function checkGenSelf(once)
 		}
 		else 
 		{
-			asp_gen[self_aspects["name"]]["pos"] = pos_val;
+			asp_gen[self_aspects[i]["name"]]["pos"] = pos_val;
 		}
 	}
 
@@ -1297,6 +1298,7 @@ function checkGenSelf(once)
 	}
 	else
 	{
+		// console.log(asp_gen);
 		$('#error_popup').dialog( "close" );
 		$.post("core/DataWrangler.php", 
 		{"page":"selfqs", "twitid":twitid, 
@@ -1311,8 +1313,8 @@ function Show_media_qs() //asks specific questions about social media usage.
 {    
 	fb_asp={};//initialize a dictionary with answers to items about expression of self-aspects on facebook. 
 	tw_asp={};//questions about self-aspects of Twitter
-	tw_gen={};//multiple choice questions about twitter in general
 	fb_gen={};//multiple choice questions about facebook in general
+	tw_gen={};//multiple choice questions about twitter in general
 
 	//for the data-wrangler will also need entries for the free form, text entry questions about twitter and facebook
 

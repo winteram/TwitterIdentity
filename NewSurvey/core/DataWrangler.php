@@ -162,12 +162,12 @@ case 'aspect_labs': //
     $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
     $rqst->bindParam(':name',$name, PDO::PARAM_STR);
     $row = $rqst->execute();
-    $result = $rqst->fetch(PDO::FETCH_ASSOC);
-    if(isset($result))
+    $aspectid = $rqst->fetch(PDO::FETCH_ASSOC);
+    if(isset($aspectid))
     {
       $rqst = $dbh->prepare("UPDATE aspects SET Label=:label WHERE Id=:aspectid");
       $rqst->bindParam(':label',$aspect_label, PDO::PARAM_INT);
-      $rqst->bindParam(':aspectid',$aspectid, PDO::PARAM_INT);
+      $rqst->bindParam(':aspectid',$aspectid['Id'], PDO::PARAM_INT);
       $rqst->execute();
     }
   }
@@ -180,15 +180,15 @@ case 'selfqs': // self aspects questionnaire
     $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
     $rqst->bindParam(':name',$name, PDO::PARAM_STR);
     $row = $rqst->execute();
-    $result = $rqst->fetch(PDO::FETCH_ASSOC);
-    if(isset($result))
+    $aspectid = $rqst->fetch(PDO::FETCH_ASSOC);
+    if(isset($aspectid))
     {
       $import = isset($asp_gen['import']) ? $asp_gen['import'] : -1;
       $pos = isset($asp_gen['pos']) ? $asp_gen['pos'] : -1;
       $rqst = $dbh->prepare("UPDATE aspects SET Positive=:pos, Important=:import WHERE Id=:aspectid");
       $rqst->bindParam(':pos',$pos, PDO::PARAM_INT);
       $rqst->bindParam(':import',$import, PDO::PARAM_INT);
-      $rqst->bindParam(':aspectid',$aspectid, PDO::PARAM_INT);
+      $rqst->bindParam(':aspectid',$aspectid['Id'], PDO::PARAM_INT);
       $rqst->execute();
     }
   }
