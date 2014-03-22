@@ -259,12 +259,37 @@ case 'csw_data': // This will take the 35 entries from the contingencies of self
  from trial_newest */
 
   $cswq = $_REQUEST['data'];
+  $query = 'UPDATE survey SET ';
 
-  $stage = $_REQUEST['stage'];
+  foreach($cswq as $key => $response)
+  {
+    $query .= $key . "=:". $key . ", ";
+  }
 
-  error_log(print_r($stage,true));
+  $query = substr($query, 0, -2) . " WHERE Id=:twitid";
 
-  if($stage==1)
+  $dbh->setAttribute(PDO::ATTR_EMULATE_PREPARES, false); 
+  $rqst = $dbh->prepare($query);
+  foreach($cswq as $key => $response)
+  {
+    
+    $rqst->bindParam(':' . $key, intval($cswq[$key]), PDO::PARAM_INT);
+    
+  }  
+  $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+  $rqst->execute();
+
+
+
+
+
+
+
+  //$stage = $_REQUEST['stage'];
+
+  //error_log(print_r($stage,true));
+
+  /*if($stage==1)
   {
     //$cswq_1 = $cswq;
     global $cswq_full;
@@ -275,7 +300,7 @@ case 'csw_data': // This will take the 35 entries from the contingencies of self
   {
     $cswq_full=$cswq_full+$cswq;
     error_log(print_r($cswq_full))
-  }
+  } */
   
 
   /*if($stage==2)
