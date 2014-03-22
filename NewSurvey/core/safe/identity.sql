@@ -120,38 +120,29 @@ CREATE TABLE IF NOT EXISTS `survey` (
   `income` int(9) DEFAULT NULL,
   `edu` enum('none','elem','hs','hsgrad','college','as','bs','ms','md','phd') DEFAULT NULL,
   `party` enum('democrat','republican','constitution','green','libertarian') DEFAULT NULL,
-  `party1_bond` tinyint(4) DEFAULT NULL,
-  `party2_solidarity` tinyint(4) DEFAULT NULL,
-  `party3_committed` tinyint(4) DEFAULT NULL,
-  `party4_glad` tinyint(4) DEFAULT NULL,
-  `party5_proud` tinyint(4) DEFAULT NULL,
-  `party6_pleasant` tinyint(4) DEFAULT NULL,
-  `party7_goodfeel` tinyint(4) DEFAULT NULL,
-  `party8_think` tinyint(4) DEFAULT NULL,
-  `party9_identity` tinyint(4) DEFAULT NULL,
-  `party10_seemyself` tinyint(4) DEFAULT NULL,
-  `party11_common_avg` tinyint(4) DEFAULT NULL,
-  `party12_similar_avg` tinyint(4) DEFAULT NULL,
-  `party13_common_oth` tinyint(4) DEFAULT NULL,
-  `party14_similar_oth` tinyint(4) DEFAULT NULL,
-  `nationality` text,
-  `nation1_bond` tinyint(4) DEFAULT NULL,
-  `nation2_solidarity` tinyint(4) DEFAULT NULL,
-  `nation3_committed` tinyint(4) DEFAULT NULL,
-  `nation4_glad` tinyint(4) DEFAULT NULL,
-  `nation5_proud` tinyint(4) DEFAULT NULL,
-  `nation6_pleasant` tinyint(4) DEFAULT NULL,
-  `nation7_goodfeel` tinyint(4) DEFAULT NULL,
-  `nation8_think` tinyint(4) DEFAULT NULL,
-  `nation9_identity` tinyint(4) DEFAULT NULL,
-  `nation10_seemyself` tinyint(4) DEFAULT NULL,
-  `nation11_common_avg` tinyint(4) DEFAULT NULL,
-  `nation12_similar_avg` tinyint(4) DEFAULT NULL,
-  `nation13_common_oth` tinyint(4) DEFAULT NULL,
-  `nation14_similar_oth` tinyint(4) DEFAULT NULL,
-  `own_form1` varchar(32) DEFAULT NULL,
-  `own_form2` varchar(32) DEFAULT NULL,
-  `own_URL` text,
+  `party0_bond` tinyint(4) DEFAULT NULL,
+  `party1_solidarity` tinyint(4) DEFAULT NULL,
+  `party2_committed` tinyint(4) DEFAULT NULL,
+  `party3_glad` tinyint(4) DEFAULT NULL,
+  `party4_proud` tinyint(4) DEFAULT NULL,
+  `party5_pleasant` tinyint(4) DEFAULT NULL,
+  `party6_goodfeel` tinyint(4) DEFAULT NULL,
+  `party7_think` tinyint(4) DEFAULT NULL,
+  `party8_identity` tinyint(4) DEFAULT NULL,
+  `party9_seemyself` tinyint(4) DEFAULT NULL,
+  `party10_common_avg` tinyint(4) DEFAULT NULL,
+  `party11_similar_avg` tinyint(4) DEFAULT NULL,
+  `party12_common_oth` tinyint(4) DEFAULT NULL,
+  `party13_similar_oth` tinyint(4) DEFAULT NULL,
+  `own_form11` varchar(32) DEFAULT NULL,
+  `own_form12` varchar(32) DEFAULT NULL,
+  `own_URL1` text,
+  `own_form21` varchar(32) DEFAULT NULL,
+  `own_form22` varchar(32) DEFAULT NULL,
+  `own_URL2` text,
+  `own_form31` varchar(32) DEFAULT NULL,
+  `own_form32` varchar(32) DEFAULT NULL,
+  `own_URL3` text,
   `own1_bond` tinyint(4) DEFAULT NULL,
   `own2_solidarity` tinyint(4) DEFAULT NULL,
   `own3_committed` tinyint(4) DEFAULT NULL,
@@ -213,6 +204,46 @@ CREATE TABLE IF NOT EXISTS `traits` (
   `Trait` varchar(32) NOT NULL
   PRIMARY KEY (`Id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+INSERT INTO `traits` VALUES ('capable');
+INSERT INTO `traits` VALUES ('comfortable');
+INSERT INTO `traits` VALUES ('communicative');
+INSERT INTO `traits` VALUES ('confident');
+INSERT INTO `traits` VALUES ('disagreeing');
+INSERT INTO `traits` VALUES ('disorganized');
+INSERT INTO `traits` VALUES ('energetic');
+INSERT INTO `traits` VALUES ('friendly');
+INSERT INTO `traits` VALUES ('fun and entertaining');
+INSERT INTO `traits` VALUES ('giving');
+INSERT INTO `traits` VALUES ('happy');
+INSERT INTO `traits` VALUES ('hardworking');
+INSERT INTO `traits` VALUES ('hopeless');
+INSERT INTO `traits` VALUES ('immature');
+INSERT INTO `traits` VALUES ('incompetent');
+INSERT INTO `traits` VALUES ('indecisive');
+INSERT INTO `traits` VALUES ('independent');
+INSERT INTO `traits` VALUES ('inferior');
+INSERT INTO `traits` VALUES ('insecure');
+INSERT INTO `traits` VALUES ('intelligent');
+INSERT INTO `traits` VALUES ('interested');
+INSERT INTO `traits` VALUES ('irresponsible');
+INSERT INTO `traits` VALUES ('irritable');
+INSERT INTO `traits` VALUES ('isolated');
+INSERT INTO `traits` VALUES ('lazy');
+INSERT INTO `traits` VALUES ('like a failure');
+INSERT INTO `traits` VALUES ('lovable');
+INSERT INTO `traits` VALUES ('mature');
+INSERT INTO `traits` VALUES ('needed');
+INSERT INTO `traits` VALUES ('optimistic');
+INSERT INTO `traits` VALUES ('organized');
+INSERT INTO `traits` VALUES ('outgoing');
+INSERT INTO `traits` VALUES ('sad and blue');
+INSERT INTO `traits` VALUES ('self-centered');
+INSERT INTO `traits` VALUES ('successful');
+INSERT INTO `traits` VALUES ('tense');
+INSERT INTO `traits` VALUES ('uncomfortable');
+INSERT INTO `traits` VALUES ('unloved');
+INSERT INTO `traits` VALUES ('weary');
+INSERT INTO `traits` VALUES ('worthless');
 
 DROP TABLE IF EXISTS `aspects_traits`;
 CREATE TABLE IF NOT EXISTS `aspects_traits` (

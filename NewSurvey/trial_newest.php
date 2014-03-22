@@ -202,23 +202,23 @@
 			your political identity, your answers might be "Democrat", "Democrats" and "democrats.org"  </p>
 		<h3> Idenitity 1</h3>
 		<ol>
-			<li id = "freeq1"> I see myself as a <input id="free1" name="freeform1" type="text"/> <span><i> e.g. Democrat </i> </span></li> 
+			<li id = "freeq11"> I see myself as a <input id="free11" name="freeform11" type="text"/> <span><i> e.g. Democrat </i> </span></li> 
 			<br />
-			<li id = "freeq2"> I identify with other <input id ="free2" name = "freeform2" type="text"/> <span><i> e.g. Democrats</i> </span> </li> 
+			<li id = "freeq12"> I identify with other <input id ="free12" name = "freeform12" type="text"/> <span><i> e.g. Democrats</i> </span> </li> 
 		
-			<li id = "freeq3">
+			<li id = "freeq13">
 				<p> In the box below, please put a website that relates to this identity </p> 
 				
-				<input id ="user_url" name = "user_url" type="text"/> <span><i> e.g. democrats.org </i> </span>
+				<input id ="user_url" name = "user_url1" type="text"/> <span><i> e.g. democrats.org </i> </span>
 			</li> 
 		</ol>
 		<h3> Identity 2 </h3>
 		<ol>
-			<li id = "freeq4"> I see myself as a <input id="free3" name="freeform3" type="text"/> </li>
+			<li id = "freeq21"> I see myself as a <input id="free21" name="freeform21" type="text"/> </li>
 			<br />
-			<li id = "freeq5"> I identify with other <input id ="free4" name = "freeform4" type="text"/> </li>
+			<li id = "freeq22"> I identify with other <input id ="free22" name = "freeform22" type="text"/> </li>
 		
-			<li id = "freeq6">
+			<li id = "freeq23">
 				<p> In the box below, please put a website that relates to this identity </p> 
 				<input id ="user_url2" name = "user_url2" type="text"/>
 				<!-- Moved the above input inside the list item -->
@@ -227,11 +227,11 @@
 				
 		<h3> Identity 3</h3>
 		<ol>
-			<li id = "freeq7"> I see myself as a <input id="free5" name="freeform5" type="text"/> </li>
+			<li id = "freeq31"> I see myself as a <input id="free31" name="freeform31" type="text"/> </li>
 			<br />
-			<li id = "freeq8"> I identify with other <input id ="free6" name = "freeform6" type="text"/> </li>
+			<li id = "freeq32"> I identify with other <input id ="free32" name = "freeform32" type="text"/> </li>
 		
-			<li id = "freeq9">
+			<li id = "freeq33">
 				<p> In the box below, please put a website that relates to this identity </p>
 				<input id ="user_url3" name = "user_url3" type="text"/>
 				<!-- Moved the above input inside the list item -->

@@ -493,7 +493,7 @@ function checkPolSurvey(once) // added iden as an input
 		}
 	
 		qdata[iden + i] = Q_input;// Add an entry to qdata, regardless of whether someone checked an item or not (takes Null)
-		console.log(qdata);
+		// console.log(qdata);
 	}
 
 	/*
@@ -547,14 +547,14 @@ function FreeCheck(once)
 { 
 
 	// TODO: sanitize user input
-	nform1 = $("#free1").val();
-	nform2 = $("#free2").val();
-	userURL = $("#user_url").val();
-	nform3 = $("#free3").val();
-	nform4 = $("#free4").val();
+	nform11 = $("#free11").val();
+	nform12 = $("#free12").val();
+	userURL1 = $("#user_url1").val();
+	nform21 = $("#free21").val();
+	nform22 = $("#free22").val();
 	userURL2 = $("#user_url2").val();
-	nform5 = $("#free5").val();
-	nform6 = $("#free6").val();
+	nform31 = $("#free31").val();
+	nform32 = $("#free32").val();
 	userURL3 = $("#user_url3").val();
 	once = typeof once !== 'undefined' ? once : false; // This line sets once to false if not defined
 	
@@ -620,14 +620,14 @@ function FreeCheck(once)
 			{"page":"freeform", "twitid":twitid, 
 				"data":
 				{
-					"ownform1":nform1,
-					"ownform2":nform2, 
-					"ownURL":userURL, 
-					"ownform3":nform3, 
-					"ownform4":nform4, 
+					"ownform11":nform11,
+					"ownform12":nform12, 
+					"ownURL1":userURL1, 
+					"ownform21":nform21, 
+					"ownform22":nform22, 
 					"ownURL2":userURL2, 
-					"ownform5":nform5, 
-					"ownform6":nform6, 
+					"ownform31":nform31, 
+					"ownform32":nform32, 
 					"ownURL3":userURL3
 				} 
 			});
@@ -1046,7 +1046,7 @@ function finish_SA_click(once) {
 		}
 		else
 		{
-			//TODO: Put function for DataWrangler here
+
 			$.post("core/DataWrangler.php", 
 			{"page":"aspects", "twitid":twitid, 
 				"data": self_aspects
@@ -1101,7 +1101,7 @@ function selfLabCheck(once)
 {
 	var error = false;
 	once = typeof once !== 'undefined' ? once : false; // This line sets once to false if not defined
-	self_labels = {}
+	self_labels = {};
 
 	$.each(self_aspects, function(key, aspect) {
 		var item_temp= '#self_cat_'+key;
@@ -1109,7 +1109,7 @@ function selfLabCheck(once)
 
 		//other_thing=$("#self_cat_self_aspect1").val();
 		//console.log(other_thing);
-		console.log(value_temp);
+		// console.log(value_temp);
 
 		if(value_temp=="unselected")
 		{
@@ -1145,6 +1145,7 @@ function selfLabCheck(once)
 	}
 	else
 	{
+		console.log(self_labels);
 		$('#error_popup').dialog( "close" );
 		$.post("core/DataWrangler.php", 
 		{"page":"aspect_labs", "twitid":twitid, 

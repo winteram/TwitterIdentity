@@ -11,15 +11,14 @@ $full_csw=array();
 */
 
 
-/*global $traits_full = 
-  ['capable', 'comfortable', 'communicative', 'confident', 'energetic', 
-   'friendly', 'fun and entertaining', 'giving', 'happy', 'hardworking',
-   'independent', 'intelligent', 'interested', 'lovable', 'mature', 'needed', 
-   'optimistic', 'organized', 'outgoing', 'successful','disagreeing', 'disorganized', 
-   'hopeless', 'immature', 'incompetent', 'indecisive', 'inferior', 'insecure', 'irresponsible', 'irritable', 
-   'isolated', 'lazy', 'like a failure', 'sad and blue', 'self-centered', 
-   'tense', 'uncomfortable', 'unloved', 'weary', 'worthless'];
-   */
+global $traits_full = 
+  ['capable', 'comfortable', 'communicative', 'confident', 'disagreeing', 'disorganized', 
+  'energetic', 'friendly', 'fun and entertaining', 'giving', 'happy', 'hardworking', 'hopeless', 
+  'immature', 'incompetent', 'indecisive', 'independent', 'inferior', 'insecure', 'intelligent', 
+  'interested', 'irresponsible', 'irritable', 'isolated', 'lazy', 'like a failure', 'lovable', 
+  'mature', 'needed', 'optimistic', 'organized', 'outgoing', 'sad and blue', 'self-centered', 
+  'successful', 'tense', 'uncomfortable', 'unloved', 'weary', 'worthless'];
+
 
 $errmsg = "Missing data";
 
@@ -107,27 +106,27 @@ case 'freeform':
   $freeform = $_REQUEST['data'];
   // print_r($freeform);
   // echo $freeform;
-  $ownform1 = isset($freeform['ownform1']) ? $freeform['ownform1'] : "NULL";
-  $ownform2 = isset($freeform['ownform2']) ? $freeform['ownform2'] : "NULL";
-  $userURL = isset($freeform['ownURL']) ? $freeform['ownURL'] : "NULL";
-  $ownform3 = isset($freeform['ownform3']) ? $freeform['ownform3'] : "NULL";
-  $ownform4 = isset($freeform['ownform4']) ? $freeform['ownform4'] : "NULL";
+  $ownform11 = isset($freeform['ownform11']) ? $freeform['ownform11'] : "NULL";
+  $ownform12 = isset($freeform['ownform12']) ? $freeform['ownform12'] : "NULL";
+  $userURL1 = isset($freeform['ownURL1']) ? $freeform['ownURL1'] : "NULL";
+  $ownform21 = isset($freeform['ownform21']) ? $freeform['ownform21'] : "NULL";
+  $ownform22 = isset($freeform['ownform22']) ? $freeform['ownform22'] : "NULL";
   $userURL2 = isset($freeform['ownURL2']) ? $freeform['ownURL2'] : "NULL";
-  $ownform5 = isset($freeform['ownform5']) ? $freeform['ownform5'] : "NULL";
-  $ownform6 = isset($freeform['ownform6']) ? $freeform['ownform6'] : "NULL";
+  $ownform31 = isset($freeform['ownform31']) ? $freeform['ownform31'] : "NULL";
+  $ownform32 = isset($freeform['ownform32']) ? $freeform['ownform32'] : "NULL";
   $userURL3 = isset($freeform['ownURL3']) ? $freeform['ownURL3'] : "NULL";
 
-  $rqst = $dbh->prepare("UPDATE survey SET own_form1=:ownform1, own_form2=:ownform2, own_URL=:userURL, 
-    own_form3=:ownform3, own_form4=:ownform4, own_URL2=:userURL2, own_form5=:ownform5, own_form6=:ownform6, 
+  $rqst = $dbh->prepare("UPDATE survey SET own_form11=:ownform11, own_form12=:ownform12, own_URL1=:userURL1, 
+    own_form21=:ownform21, own_form22=:ownform22, own_URL2=:userURL2, own_form31=:ownform31, own_form32=:ownform32, 
     own_URL3=:userURL3 WHERE Id=:twitid");
-  $rqst->bindParam(':ownform1',$ownform1, PDO::PARAM_STR);
-  $rqst->bindParam(':ownform2',$ownform2, PDO::PARAM_STR);
-  $rqst->bindParam(':userURL',$userURL, PDO::PARAM_STR);
-  $rqst->bindParam(':ownform3',$ownform3, PDO::PARAM_STR);
-  $rqst->bindParam(':ownform4',$ownform4, PDO::PARAM_STR);
+  $rqst->bindParam(':ownform11',$ownform11, PDO::PARAM_STR);
+  $rqst->bindParam(':ownform12',$ownform12, PDO::PARAM_STR);
+  $rqst->bindParam(':userURL1',$userURL1, PDO::PARAM_STR);
+  $rqst->bindParam(':ownform21',$ownform21, PDO::PARAM_STR);
+  $rqst->bindParam(':ownform22',$ownform22, PDO::PARAM_STR);
   $rqst->bindParam(':userURL2',$userURL2, PDO::PARAM_STR);
-  $rqst->bindParam(':ownform5',$ownform5, PDO::PARAM_STR);
-  $rqst->bindParam(':ownform6',$ownform6, PDO::PARAM_STR);
+  $rqst->bindParam(':ownform31',$ownform31, PDO::PARAM_STR);
+  $rqst->bindParam(':ownform32',$ownform32, PDO::PARAM_STR);
   $rqst->bindParam(':userURL3',$userURL3, PDO::PARAM_STR);
   $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
   $rqst->execute();
