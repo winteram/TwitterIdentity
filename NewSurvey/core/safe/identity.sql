@@ -251,7 +251,6 @@ CREATE TABLE IF NOT EXISTS `survey` (
   `jittery`  tinyint(4) DEFAULT NULL,
   `active`  tinyint(4) DEFAULT NULL,
   `afraid`  tinyint(4) DEFAULT NULL,
-
   `comments` text NOT NULL,
   `started` datetime NOT NULL,
   `ended` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
@@ -278,49 +277,49 @@ CREATE TABLE IF NOT EXISTS `aspects` (
 DROP TABLE IF EXISTS `traits`;
 CREATE TABLE IF NOT EXISTS `traits` (
   `Id` bigint(20) NOT NULL AUTO_INCREMENT,
-  `Trait` varchar(32) NOT NULL
+  `Trait` varchar(32) NOT NULL,
   PRIMARY KEY (`Id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-INSERT INTO `traits` VALUES ('capable');
-INSERT INTO `traits` VALUES ('comfortable');
-INSERT INTO `traits` VALUES ('communicative');
-INSERT INTO `traits` VALUES ('confident');
-INSERT INTO `traits` VALUES ('disagreeing');
-INSERT INTO `traits` VALUES ('disorganized');
-INSERT INTO `traits` VALUES ('energetic');
-INSERT INTO `traits` VALUES ('friendly');
-INSERT INTO `traits` VALUES ('fun and entertaining');
-INSERT INTO `traits` VALUES ('giving');
-INSERT INTO `traits` VALUES ('happy');
-INSERT INTO `traits` VALUES ('hardworking');
-INSERT INTO `traits` VALUES ('hopeless');
-INSERT INTO `traits` VALUES ('immature');
-INSERT INTO `traits` VALUES ('incompetent');
-INSERT INTO `traits` VALUES ('indecisive');
-INSERT INTO `traits` VALUES ('independent');
-INSERT INTO `traits` VALUES ('inferior');
-INSERT INTO `traits` VALUES ('insecure');
-INSERT INTO `traits` VALUES ('intelligent');
-INSERT INTO `traits` VALUES ('interested');
-INSERT INTO `traits` VALUES ('irresponsible');
-INSERT INTO `traits` VALUES ('irritable');
-INSERT INTO `traits` VALUES ('isolated');
-INSERT INTO `traits` VALUES ('lazy');
-INSERT INTO `traits` VALUES ('like a failure');
-INSERT INTO `traits` VALUES ('lovable');
-INSERT INTO `traits` VALUES ('mature');
-INSERT INTO `traits` VALUES ('needed');
-INSERT INTO `traits` VALUES ('optimistic');
-INSERT INTO `traits` VALUES ('organized');
-INSERT INTO `traits` VALUES ('outgoing');
-INSERT INTO `traits` VALUES ('sad and blue');
-INSERT INTO `traits` VALUES ('self-centered');
-INSERT INTO `traits` VALUES ('successful');
-INSERT INTO `traits` VALUES ('tense');
-INSERT INTO `traits` VALUES ('uncomfortable');
-INSERT INTO `traits` VALUES ('unloved');
-INSERT INTO `traits` VALUES ('weary');
-INSERT INTO `traits` VALUES ('worthless');
+INSERT INTO `traits` (`Trait`) VALUES ('capable');
+INSERT INTO `traits` (`Trait`) VALUES ('comfortable');
+INSERT INTO `traits` (`Trait`) VALUES ('communicative');
+INSERT INTO `traits` (`Trait`) VALUES ('confident');
+INSERT INTO `traits` (`Trait`) VALUES ('disagreeing');
+INSERT INTO `traits` (`Trait`) VALUES ('disorganized');
+INSERT INTO `traits` (`Trait`) VALUES ('energetic');
+INSERT INTO `traits` (`Trait`) VALUES ('friendly');
+INSERT INTO `traits` (`Trait`) VALUES ('fun and entertaining');
+INSERT INTO `traits` (`Trait`) VALUES ('giving');
+INSERT INTO `traits` (`Trait`) VALUES ('happy');
+INSERT INTO `traits` (`Trait`) VALUES ('hardworking');
+INSERT INTO `traits` (`Trait`) VALUES ('hopeless');
+INSERT INTO `traits` (`Trait`) VALUES ('immature');
+INSERT INTO `traits` (`Trait`) VALUES ('incompetent');
+INSERT INTO `traits` (`Trait`) VALUES ('indecisive');
+INSERT INTO `traits` (`Trait`) VALUES ('independent');
+INSERT INTO `traits` (`Trait`) VALUES ('inferior');
+INSERT INTO `traits` (`Trait`) VALUES ('insecure');
+INSERT INTO `traits` (`Trait`) VALUES ('intelligent');
+INSERT INTO `traits` (`Trait`) VALUES ('interested');
+INSERT INTO `traits` (`Trait`) VALUES ('irresponsible');
+INSERT INTO `traits` (`Trait`) VALUES ('irritable');
+INSERT INTO `traits` (`Trait`) VALUES ('isolated');
+INSERT INTO `traits` (`Trait`) VALUES ('lazy');
+INSERT INTO `traits` (`Trait`) VALUES ('like a failure');
+INSERT INTO `traits` (`Trait`) VALUES ('lovable');
+INSERT INTO `traits` (`Trait`) VALUES ('mature');
+INSERT INTO `traits` (`Trait`) VALUES ('needed');
+INSERT INTO `traits` (`Trait`) VALUES ('optimistic');
+INSERT INTO `traits` (`Trait`) VALUES ('organized');
+INSERT INTO `traits` (`Trait`) VALUES ('outgoing');
+INSERT INTO `traits` (`Trait`) VALUES ('sad and blue');
+INSERT INTO `traits` (`Trait`) VALUES ('self-centered');
+INSERT INTO `traits` (`Trait`) VALUES ('successful');
+INSERT INTO `traits` (`Trait`) VALUES ('tense');
+INSERT INTO `traits` (`Trait`) VALUES ('uncomfortable');
+INSERT INTO `traits` (`Trait`) VALUES ('unloved');
+INSERT INTO `traits` (`Trait`) VALUES ('weary');
+INSERT INTO `traits` (`Trait`) VALUES ('worthless');
 
 DROP TABLE IF EXISTS `aspects_traits`;
 CREATE TABLE IF NOT EXISTS `aspects_traits` (

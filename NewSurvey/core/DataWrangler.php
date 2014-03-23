@@ -291,12 +291,11 @@ case 'comments': // comments on survey
 
 
 case 'csw_data': // This will take the 35 entries from the contingencies of self worth questions. 
-  $sentnames=array(); /* debating whether I should use new meaningful names for each response, or just use the names
+  /* debating whether I should use new meaningful names for each response, or just use the names
  from trial_newest */
-
+  $sentnames=array(); 
   $cswq = $_REQUEST['data'];
   $query = 'UPDATE survey SET ';
-
   foreach($cswq as $key => $response)
   {
     $query .= $key . "=:". $key . ", ";
