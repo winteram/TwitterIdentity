@@ -23,50 +23,51 @@ $_SESSION['userid'] = $userid = isset($_SESSION['userid']) ? $_SESSION['userid']
 <script src="core/jquery-ui-1.8.21.custom/js/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
 <script type="text/javascript"> $("button").button(); </script>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-<link rel="shortcut icon" href="core/images/idproj.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="core/img/idproj.ico" type="image/x-icon" />
 <link rel='stylesheet' type='text/css'
       href='core/jquery-ui-1.8.21.custom/css/pepper-grinder/jquery-ui-1.8.21.custom.css' />
-<link rel='stylesheet' type='text/css' href='core/IdentitySurvey.css' />
+<link rel='stylesheet' type='text/css' href='core/css/IdentitySurvey.css' />
 </head>
 <body bgcolor="#F5F3EF">
 
 <div class="header"> 
-  <span id="idproj-hdr"><img src="core/images/idproj.jpg">
-  <img src="core/images/idproj_title.jpg" alt="The Group Identity
-  Project"></span>
+  <span id="idproj-hdr"><img src="core/img/idproj.jpg">
+  <img src="core/img/Aspects3.png" alt="Self Aspects in Social Media"></span>
 </div>
 
 <div class="container">
   <div class="center column">
     <div class="center-section">
-      <div class="center-title">Group Identities</div>
+      <div class="center-title">Aspects of the Self</div>
       <div class="center-para">
-	Every human being, from every walk of life, belongs to multiple social groups. 
-    We belong to a family, to a city, to a country, to a culture. People join other 
-    groups, fraternities, social clubs, activity groups, sports teams. All of the groups 
-    we belong to in some way defines who we are, but not all groups are equally important
-    to our self-identity. The groups we identify most strongly with have a bigger sway on 
-    our behavior&mdash;and this is what we hope to detect through Twitter.
+	  Every human being, from every walk of life, has many aspects to their identity. 
+    Some of these aspects are only revealed in private.  Others emerge depending on the
+    social context.  Different aspects of our selves may be more obvious or more hidden
+    when we are with our family that when we are with our work colleagues, and these may
+    be different than when we are with our friends. Many of the groups we belong to in some 
+    way define who we are, but not all groups are equally important to our self-identity. 
+    Some of these aspects are revealed through online behavior, and we hope to identify 
+    them through Twitter!
       </div>
     </div>
     <div class="center-section">
       <div class="center-title">About the Project</div>
       <div class="center-para">
 	In this study, we plan to build a system that uses a person's
-	Twitter account to infer the groups with whom that person
-	identifies.  For example, using a person's tweets we will guess
-	whether the person identifies with a particular political party or
-	sports team and how strongly they identify with the group. We
-	hypothesize there is a direct relationship between the tweets a
-	person reads and shares&mdash;that is, how information flows from
-	person to person&mdash;and the groups with whom he or she
-	identifies.
+	Twitter account to infer the person's self-aspects.  For example, 
+  using a person's tweets we will guess whether the person identifies 
+  with a particular political party or sports team and how strongly 
+  they identify with the group. We hypothesize there is a direct relationship 
+  between the tweets a person reads and shares&mdash;that is, how information flows from
+	person to person&mdash;and the groups with whom he or she identifies.
       </div>
     </div>
     <div class="center-section">
       <div class="center-title">Who Can Participate</div>
       <div class="center-para">
-	 Anyone with a Twitter account can participate.  If you are an IU student and want to get credit for participating in an experiment, click the <span style="color:red">RED</span> participate button below.  Otherwise, click the <span style="color:#FC0">GOLD</span> participate button below.
+	 Anyone with a Twitter account can participate.  If you are an IU student and want to get credit 
+   for participating in an experiment, click the <span style="color:red">RED</span> participate button 
+   below.  Otherwise, click the <span style="color:#FC0">GOLD</span> participate button below.
       </div>
     </div>
     <button id="participate-button" class="ui-button ui-button-text-only ui-widget ui-state-default
@@ -80,14 +81,14 @@ $_SESSION['userid'] = $userid = isset($_SESSION['userid']) ? $_SESSION['userid']
   </div>
   <div class="left column">
     <div class="bio">
-      <img src="core/images/winter.jpg" class="headshot">
+      <img src="core/img/winter.jpg" class="headshot">
       <div class="bio-text">
 	<b>Dr. Winter Mason</b> is a Data Scientist at Facebook.  His research focuses
 	on social networks, social media, and crowdsourcing.
       </div>
     </div>
     <div class="bio">
-      <img src="core/images/asaf.jpg" class="headshot">
+      <img src="core/img/asaf.jpg" class="headshot">
       <div class="bio-text">
 	<b>Asaf Beasley</b> is a graduate student in Social Psychology and
 	Cognitive Science at <a href="http://www.iub.edu">Indiana
@@ -100,7 +101,7 @@ $_SESSION['userid'] = $userid = isset($_SESSION['userid']) ? $_SESSION['userid']
   </div>
   <div class="right column">
     <div class="uni-logos">
-      <a href="http://www.iub.edu"><img src="core/images/iu_logo.jpg" class="uni"></a>
+      <a href="http://www.iub.edu"><img src="core/img/iu_logo.jpg" class="uni"></a>
     </div>
   </div>
 </div>

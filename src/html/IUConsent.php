@@ -5,8 +5,8 @@ require_once('../safe/config.inc');
 
 $_SESSION['userid'] = $userid = isset($_SESSION['userid']) ? $_SESSION['userid'] : bin2hex(openssl_random_pseudo_bytes(16));
 $_SESSION['IU'] = 1;
-$fb_loggedin = isset($_SESSION['fb_status']) ? "core/images/checkbox_checked.png" : "core/images/checkbox_unchecked.png";
-$tw_loggedin = isset($_SESSION['tw_status']) ? "core/images/checkbox_checked.png" : "core/images/checkbox_unchecked.png";
+$fb_loggedin = isset($_SESSION['fb_status']) ? "core/img/checkbox_checked.png" : "core/img/checkbox_unchecked.png";
+$tw_loggedin = isset($_SESSION['tw_status']) ? "core/img/checkbox_checked.png" : "core/img/checkbox_unchecked.png";
 $verified = (isset($_SESSION['tw_status']) || isset($_SESSION['fb_status'])) ? 1 : 0;
 
 $config = array(
@@ -66,16 +66,15 @@ function verify_consent()
     }
 }
 </script>
-<link rel="shortcut icon" href="core/images/idproj.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="core/img/idproj.ico" type="image/x-icon" />
 <link rel='stylesheet' type='text/css'
       href='core/jquery-ui-1.8.21.custom/css/pepper-grinder/jquery-ui-1.8.21.custom.css' />
-<link rel='stylesheet' type='text/css' href='core/IdentitySurvey.css' />
+<link rel='stylesheet' type='text/css' href='core/css/IdentitySurvey.css' />
 </head>
 <body bgcolor="#F5F3EF">
 <div class="header"> 
-  <span id="idproj-hdr"><img src="core/images/idproj.jpg">
-  <img src="core/images/idproj_title.jpg" alt="The Group Identity
-  Project"></span>
+  <span id="idproj-hdr"><img src="core/img/idproj.jpg">
+  <img src="core/img/Aspects3.png" alt="Self Aspects in Social Media"></span>
 </div>
 
 <?php
@@ -300,6 +299,17 @@ this study.
 </p>
 <div id="consent-form-box">
   <form name="consent">
+    You will be asked to authenticate your account through Twitter and/or Facebook through the links below.
+    <div id="error_consent" class="error"></div>
+    <div class="sign-in">
+      <img id="tw-check" src=<?php echo $tw_loggedin; ?> width="40" height="40" />
+      <a href="Authenticate.php"> <img src="core/img/lighter.png" alt="Sign in with Twitter"/> </a>
+    </div>
+    <div class='sign-in'>
+      <img id="fb-check" src=<?php echo $fb_loggedin; ?> width="40" height="40" />
+      <a href=<?php echo $loginUrl;?> > <img src="core/img/fb-login-button.png" alt="Sign in with Facebook"/></a>
+    </div>
+
 
     <div><input type="checkbox" id="agree" name="agree"/>
 
@@ -323,29 +333,19 @@ this study.
       </p>
       <p>
 
-    By checking the box above and clicking a link below, you will be digitally
-    signing this document.  You will be asked to authenticate your account through
-    Twitter and Facebook through the links below.
-
+    By clicking a link and checking the above box, you will be digitally
+    signing this document.
       </p>
-    </div>
 
-    <div id="error_consent" class="error"></div>
-    <div class="sign-in">
-      <img id="tw-check" src=<?php echo $tw_loggedin; ?> width="40" height="40" />
-      <a href="Authenticate.php"> <img src="core/images/lighter.png" alt="Sign in with Twitter"/> </a>
-    </div>
-    <div class='sign-in'>
-      <img id="fb-check" src=<?php echo $fb_loggedin; ?> width="40" height="40" />
-      <a href=<?php echo $loginUrl;?> > <img src="core/images/fb-login-button.png" alt="Sign in with Facebook"/></a>
-    </div>
     <div class='sign-in'>
       <input type="button" value="Continue to survey" onClick="verify_consent();"/>
+    </div>
+
     </div>
   </form>
 </div>
 
-<div class="center"><img src="core/images/ICSstamp.png" alt="IRB approval stamp" style="max-width:250px;"/></div>
+<div class="center"><img src="core/img/ICSstamp.png" alt="IRB approval stamp" style="max-width:250px;"/></div>
 </div>
 </body>
 </html>
