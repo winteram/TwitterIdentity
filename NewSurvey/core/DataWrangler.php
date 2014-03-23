@@ -304,18 +304,58 @@ case 'csw_data': // This will take the 35 entries from the contingencies of self
 
   $query = substr($query, 0, -2) . " WHERE Id=:twitid";
 
+  error_log(print_r($query,true));
+
   $dbh->setAttribute(PDO::ATTR_EMULATE_PREPARES, false); 
   $rqst = $dbh->prepare($query);
   foreach($cswq as $key => $response)
   {
     
-    $rqst->bindParam(':' . $key, intval($cswq[$key]), PDO::PARAM_INT);
+    $rqst->bindParam(':' . $key, intval($response), PDO::PARAM_INT);
+
+  
+    error_log(print_r($cswq[$key],true));
+    //error_log(print_r($response,true));
     
   }  
   $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
   $rqst->execute();
 
+  break;
 
+
+case 'panas':
+  $panas = $_REQUEST['data'];
+  error_log(print_r($panas,true));
+
+  $query = 'UPDATE survey SET ';
+
+  foreach($panas as $key => $response)
+  {
+    $query .= $key . "=:". $key . ", ";
+  }
+
+  $query = substr($query, 0, -2) . " WHERE Id=:twitid";
+
+  error_log(print_r($query,true));
+
+  $dbh->setAttribute(PDO::ATTR_EMULATE_PREPARES, false); 
+  $rqst = $dbh->prepare($query);
+  foreach($panas as $key => $response)
+  {
+    
+    $rqst->bindParam(':' . $key, intval($response), PDO::PARAM_INT);
+
+  
+    error_log(print_r($panas[$key],true));
+    //error_log(print_r($response,true));
+    
+  } 
+  $rqst->bindParam(':twitid',$twitid, PDO::PARAM_STR);
+  $rqst->execute();
+
+
+  break;
 
 
 

@@ -490,10 +490,13 @@ function checkPolSurvey(once) // added iden as an input
 			var errorid = '#err' + iden + i; 
 			error = true;
 			$(errorid).css('color','#F00'); 
+			qdata[iden + i] = -1;
 		}
+		else{
 	
 		qdata[iden + i] = Q_input;// Add an entry to qdata, regardless of whether someone checked an item or not (takes Null)
 		// console.log(qdata);
+		}
 	}
 
 	/*
@@ -1860,6 +1863,8 @@ function checkPANAS(stage, once)
 	var emotion=["interested","distressed","excited","upset","strong","guilty","scared","hostile","enthusiastic","proud",
 	"tired","irritable","alert","ashamed","inspired","nervous","determined","attentive","jittery","active","afraid"];
 
+	panas_data={} // initialize associative array for PANAS data
+
 	once = typeof once !== 'undefined' ? once : false;
 
 	var error = false;
@@ -1875,7 +1880,14 @@ function checkPANAS(stage, once)
 		{
 			error=true;
 			$("#em_id"+i).addClass("error");
+			panas_data[emotion[i]]=-1
 
+
+		}
+
+		else
+		{
+			panas_data[emotion[i]]=d;
 		}
 		// console.log(d);
 
@@ -1890,7 +1902,23 @@ function checkPANAS(stage, once)
 			{
 				text: "Continue",
 				click: function() {
-					checkPANAS(stage, true);
+					//checkPANAS(stage, true);
+				$( this ).dialog( "close" );
+    			$.post("core/DataWrangler.php", {"page":"panas", "twitid":twitid, "data":panas_data});
+    			if(stage==1)
+    			{
+    				$("#PANAS_scale1").hide(500);
+					$("#PANAS_scale2").show(500);
+
+    			}
+    			else
+    			{
+    				$("#PANAS_scale2").hide(500);
+					$("feedback_h").show();
+					$("#GetFeedback-wrapper").show();
+
+    			}
+
 				}
 			},
 			{
@@ -1910,9 +1938,10 @@ function checkPANAS(stage, once)
 		{
 			$("#PANAS_scale1").hide(500);
 			$("#PANAS_scale2").show(500);
+			$.post("core/DataWrangler.php", {"page":"panas", "twitid":twitid, "data":panas_data});
 		}
 		else
-		{
+		{	$.post("core/DataWrangler.php", {"page":"panas", "twitid":twitid, "data":panas_data});
 			$("#PANAS_scale2").hide(500);
 			$("feedback_h").show();
 			$("#GetFeedback-wrapper").show();
