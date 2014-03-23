@@ -120,6 +120,8 @@ CREATE TABLE IF NOT EXISTS `survey` (
   `income` int(9) DEFAULT NULL,
   `edu` enum('none','elem','hs','hsgrad','college','as','bs','ms','md','phd') DEFAULT NULL,
   `party` enum('democrat','republican','constitution','green','libertarian') DEFAULT NULL,
+  `party_com` text DEFAULT NULL,
+  `pol_spec` tinyint(4) DEFAULT NULL,
   `party0_bond` tinyint(4) DEFAULT NULL,
   `party1_solidarity` tinyint(4) DEFAULT NULL,
   `party2_committed` tinyint(4) DEFAULT NULL,
