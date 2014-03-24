@@ -22,6 +22,8 @@ require_once('../safe/config.inc');
 
 <body bgcolor="#F5F3EF">
 	<div id="userid" style="display:none"><?php echo $_SESSION['userid']; ?></div>
+	<div id="fb_status" style="display:none"><?php echo $_SESSION['fb_status']; ?></div>
+	<div id="tw_status" style="display:none"><?php echo $_SESSION['tw_status']; ?></div>
 
 	<div class="header"> 
 		<span id="idproj-hdr"><img src="core/img/idproj.jpg">

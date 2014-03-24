@@ -1392,7 +1392,17 @@ function Show_media_qs() //asks specific questions about social media usage.
 	$("#twitterQs").append('<p><input type=reset id ="finish_twQs" value= "Submit" onclick="checkSocMedia(\'tw\')"  /></p>');
 
 	// TODO: make this depend on whether they've logged into twitter, facebook, or both
-	$('#facebookQs').show(); 
+	fb_status = $('#fb_status').html();
+	tw_status = $('#tw_status').html();
+
+	if(fb_status=='verified') 
+	{
+		$('#facebookQs').show(); 
+	}
+	else
+	{
+		$("#twitterQs").show();
+	}
 
 	//$("#facebookQs").show();
 	//$("#PopTwitter").show();
@@ -1503,12 +1513,20 @@ function checkSocMedia(media, once)
 				"sm_gen": sm_gen,
 				"sm_com": sm_com
 			}); 
-			$("#twitterQs").show(500);
-			window.scrollTo(0, 80);
+			tw_status = $('#tw_status').val();
+			if(tw_status=='verified')
+			{
+				$("#twitterQs").show(500);
+				window.scrollTo(0, 80);
+			}
+			else
+			{
+				Show_CSW();
+			}
 		}
 		else 
 		{
-			console.log(sm_asp);
+			// console.log(sm_asp);
 			$('#twitterQs').hide(500);
 			$.post("core/DataWrangler.php", 
 			{"page":"smqs", "userid":userid,

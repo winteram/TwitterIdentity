@@ -32,7 +32,7 @@ $_SESSION['userid'] = $userid = isset($_SESSION['userid']) ? $_SESSION['userid']
 
 <div class="header"> 
   <span id="idproj-hdr"><img src="core/img/idproj.jpg">
-  <img src="core/img/Aspects3.png" alt="Self Aspects in Social Media"></span>
+  <img src="core/img/Aspects_Cover.png" alt="Self Aspects in Social Media"></span>
 </div>
 
 <div class="container">

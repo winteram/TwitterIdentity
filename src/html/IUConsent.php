@@ -7,7 +7,8 @@ $_SESSION['userid'] = $userid = isset($_SESSION['userid']) ? $_SESSION['userid']
 $_SESSION['IU'] = 1;
 $fb_loggedin = isset($_SESSION['fb_status']) ? "core/img/checkbox_checked.png" : "core/img/checkbox_unchecked.png";
 $tw_loggedin = isset($_SESSION['tw_status']) ? "core/img/checkbox_checked.png" : "core/img/checkbox_unchecked.png";
-$verified = (isset($_SESSION['tw_status']) || isset($_SESSION['fb_status'])) ? 1 : 0;
+$fb_verified = isset($_SESSION['fb_status']) ? 1 : 0;
+$tw_verified = isset($_SESSION['tw_status']) ? 1 : 0;
 
 $config = array(
       'appId' => APP_ID,
@@ -38,31 +39,76 @@ $loginUrl = $facebook->getLoginUrl($par);
 <title>Self Aspects in Social Media</title>
 <script src="core/jquery-ui-1.8.21.custom/js/jquery-1.7.2.min.js" type="text/javascript"></script>
 <script src="core/jquery-ui-1.8.21.custom/js/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
+<script> $(document).ready(function() {
+    $( "#error_popup" ).dialog({
+      autoOpen: false,
+      resizable: false,
+      modal: true
+    });
+  });
+</script>
 <script type="text/javascript">
-function verify_consent() 
+function verify_consent(once) 
 {
+    once = typeof once !== 'undefined' ? once : false; // This line sets once to false if not defined
     var agree = false;
     var error = false;
     var errormsg = "";
-    var verified = <?php echo $verified; ?>;
+    var fb_verified = <?php echo $fb_verified; ?>;
+    var tw_verified = <?php echo $tw_verified; ?>;
+    var verified = fb_verified + tw_verified;
     var IUname = $("#IUName").val();
 
     if($("#agree").is(':checked')) { agree = true; }
 
-    if (!verified) {
+    if (verified==0) {
       errormsg += "<p>Please log in with a Twitter and/or Facebook account</p>";
       error=true;
-    } else if(!agree) {
+    } 
+    if(!agree) {
       errormsg += "<p>Please indicate you have read the information on this page and agree to participate in the study by checking the first box above</p>";
       error=true;
-    } else if( IUname.length < 3) {
+    } 
+    if( IUname.length < 3) {
       errormsg += "<p> Please indicate your IU username in the text box above <p>";
       error=true;
-    } 
-    if(error==true) {
-      $("#error_consent").html(errormsg)
-    } else {
-       window.top.location.href = "IdentitySurvey.php?agree=" + (agree ? 1 : 0) + "&IUname=" + IUname;
+    }
+
+    if(error==false && verified==2 || verified==1 && once==true) {
+      window.top.location.href = "IdentitySurvey.php?agree=" + (agree ? 1 : 0) + "&IUname=" + IUname;
+    } else if (error==true) {
+      $('#error_popup').html(errormsg);
+      $('#error_popup').dialog( "option", "buttons", [
+        {
+          text: "Cancel",
+          click: function() {
+            $( this ).dialog( "close" );
+          }
+        }
+      ]);
+      $('#error_popup').dialog("open");
+    } else if (verified==1) {
+      errormsg = "You are only logged in with ";
+      errormsg += fb_verified==1 ? "Facebook." : "Twitter.";
+      errormsg += " If you have a ";
+      errormsg += fb_verified==1 ? "Twitter " : "Facebook ";
+      errormsg += "account, please hit cancel and log in with that account as well.";
+      $('#error_popup').html(errormsg);
+      $('#error_popup').dialog( "option", "buttons", [
+        {
+          text: "Continue",
+          click: function() {
+            verify_consent(true);
+          }
+        },
+        {
+          text: "Cancel",
+          click: function() {
+            $( this ).dialog( "close" );
+          }
+        }
+      ]);
+      $('#error_popup').dialog("open");
     }
 }
 </script>
@@ -74,7 +120,7 @@ function verify_consent()
 <body bgcolor="#F5F3EF">
 <div class="header"> 
   <span id="idproj-hdr"><img src="core/img/idproj.jpg">
-  <img src="core/img/Aspects3.png" alt="Self Aspects in Social Media"></span>
+  <img src="core/img/Aspects_Cover.png" alt="Self Aspects in Social Media"></span>
 </div>
 
 <?php
@@ -300,14 +346,14 @@ this study.
 <div id="consent-form-box">
   <form name="consent">
     You will be asked to authenticate your account through Twitter and/or Facebook through the links below.
-    <div id="error_consent" class="error"></div>
-    <div class="sign-in">
-      <img id="tw-check" src=<?php echo $tw_loggedin; ?> width="40" height="40" />
-      <a href="Authenticate.php"> <img src="core/img/lighter.png" alt="Sign in with Twitter"/> </a>
-    </div>
+    <div class ="error" id="error_popup"></div>
     <div class='sign-in'>
       <img id="fb-check" src=<?php echo $fb_loggedin; ?> width="40" height="40" />
       <a href=<?php echo $loginUrl;?> > <img src="core/img/fb-login-button.png" alt="Sign in with Facebook"/></a>
+    </div>
+    <div class="sign-in">
+      <img id="tw-check" src=<?php echo $tw_loggedin; ?> width="40" height="40" />
+      <a href="Authenticate.php"> <img src="core/img/lighter.png" alt="Sign in with Twitter"/> </a>
     </div>
 
 
