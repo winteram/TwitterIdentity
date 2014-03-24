@@ -299,12 +299,16 @@ function checkDemographics(once)
 function checkPolitics(once)
 {
 	var party = $("#affiliation option:selected").val();
+	var pol_spec = $('input[name= pol_spec]:checked').val()
+	var party_com = $('#party_com').val()
+	
 
 	once = typeof once !== 'undefined' ? once : false; // This line sets once to false if not defined
 	var error = false;
 	var errmsg = "";
 	// next line no longer necessary
 	// var wrapper = "#displayQ-wrapper_party";
+
 	var iden = "party";
 	
 	if(once && party=="unselected")
@@ -388,8 +392,9 @@ function checkPolitics(once)
 
 			//$("#full-saspect").show();
 			displayQ(pform1, pform2);
-			$.post("core/DataWrangler.php", {"page":"polform", "twitid":twitid, "party":party });
-
+			$.post("core/DataWrangler.php", {"page":"polform", "twitid":twitid, "party":party, "pol_spec":pol_spec, "party_com":party_com});
+			//console.log(pol_spec);
+			//console.log(party_com);
 		}// end if that this embedded in the else
 	}// End else
 } // End the checkPolitics function
@@ -1500,6 +1505,7 @@ function checkSocMedia(media, once)
 				"sm_com": sm_com
 			}); 
 			$("#twitterQs").show(500);
+			window.scrollTo(0, 80);
 		}
 		else 
 		{
