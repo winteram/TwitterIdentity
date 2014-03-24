@@ -81,9 +81,7 @@ case 'polform': // party affiliation
   $party = isset($_REQUEST['party']) ? $_REQUEST['party'] : "NULL";
   $pol_spec = isset($_REQUEST['pol_spec']) ? $_REQUEST['pol_spec'] : "NULL";
   $party_com = isset($_REQUEST['party_com']) ? $_REQUEST['party_com'] : "NULL";
-  $rqst = $dbh->prepare("UPDATE survey SET party=:party WHERE Id=:userid");
-  $rqst = $dbh->prepare("UPDATE survey SET pol_spec=:pol_spec WHERE Id=:userid");
-  $rqst = $dbh->prepare("UPDATE survey SET party_com=:party_com WHERE Id=:userid");
+  $rqst = $dbh->prepare("UPDATE survey SET party=:party, pol_spec=:pol_spec, party_com=:party_com WHERE Id=:userid");
   $rqst->bindParam(':party',$party, PDO::PARAM_STR);
   $rqst->bindParam(':pol_spec',$pol_spec, PDO::PARAM_INT);
   $rqst->bindParam(':party_com',$party_com, PDO::PARAM_STR);
@@ -274,45 +272,6 @@ case 'smqs': // social media questionnaire
   $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
   $rqst->execute();
   break;
-case 'comments': // comments on survey
-  // Insert comments
-  $comments = $_REQUEST['comments'];
-  $comments = isset($_REQUEST['comments']) ? $_REQUEST['comments'] : "NULL";
-
-  $rqst = $dbh->prepare("UPDATE survey SET comments=:comments WHERE Id=:userid");
-  $rqst->bindParam(':comments',$comments, PDO::PARAM_STR);
-  $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
-  $rqst->execute();
-
-  // Check if accountnode exists for twitter id
-  $rqst = $dbh->prepare("SELECT Id, Marked, Seed FROM twitteraccountnode WHERE Id=:userid");
-  $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
-  $row = $rqst->execute();
-  $result = $rqst->fetch(PDO::FETCH_ASSOC);
-
-  $mark = 0;
-  $seed = 1;
-  if ($result['Id'] === $userid) {
-    $rqst = $dbh->prepare("UPDATE twitteraccountnode SET Marked=:mark, Seed=:seed WHERE Id=:userid");
-    $rqst->bindParam(':mark',$mark, PDO::PARAM_INT);
-    $rqst->bindParam(':seed',$seed, PDO::PARAM_INT);
-    $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
-    $rqst->execute();    
-  } elseif ($userid != ''){
-    // Add user to be crawled
-    $rqst = $dbh->prepare("INSERT INTO twitteraccountnode SET Id=:userid, Marked=:mark, CreationDate=NOW(), Seed=:seed");
-    $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
-    $rqst->bindParam(':mark',$mark, PDO::PARAM_INT);
-    $rqst->bindParam(':seed',$seed, PDO::PARAM_INT);
-    $rqst->execute();
-  } else {
-    echo "ERR: bad id: " .$userid;
-  }
-
-  break;
-
-
-
 
 case 'csw_data': // This will take the 35 entries from the contingencies of self worth questions. 
   /* debating whether I should use new meaningful names for each response, or just use the names
@@ -349,7 +308,6 @@ case 'csw_data': // This will take the 35 entries from the contingencies of self
 
 case 'panas':
   $panas = $_REQUEST['data'];
-  // error_log(print_r($panas,true));
 
   $query = 'UPDATE survey SET ';
 
@@ -360,15 +318,16 @@ case 'panas':
 
   $query = substr($query, 0, -2) . " WHERE Id=:userid";
 
-  error_log("PANAS");
-  error_log(print_r($query,true));
+  // error_log(print_r($query,true));
 
   // $dbh->setAttribute(PDO::ATTR_EMULATE_PREPARES, false); 
   $rqst = $dbh->prepare($query);
   foreach($panas as $key => $response)
   {
-    
-    $rqst->bindParam(':' . $key, intval($response), PDO::PARAM_INT);
+
+    $bindvar = ':' . $key;
+    // error_log($bindvar.': '.$response);
+    $rqst->bindParam($bindvar, intval($response), PDO::PARAM_INT);
 
   
     // error_log(print_r($panas[$key],true));
@@ -381,42 +340,42 @@ case 'panas':
 
   break;
 
+case 'comments': // comments on survey
+  // Insert comments
+  $comments = $_REQUEST['comments'];
+  $comments = isset($_REQUEST['comments']) ? $_REQUEST['comments'] : "NULL";
 
+  $rqst = $dbh->prepare("UPDATE survey SET comments=:comments WHERE Id=:userid");
+  $rqst->bindParam(':comments',$comments, PDO::PARAM_STR);
+  $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
+  $rqst->execute();
 
+  // Check if accountnode exists for twitter id
+  $rqst = $dbh->prepare("SELECT Id, Marked, Seed FROM twitteraccountnode WHERE Id=:userid");
+  $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
+  $row = $rqst->execute();
+  $result = $rqst->fetch(PDO::FETCH_ASSOC);
 
-
-  //$stage = $_REQUEST['stage'];
-
-  //error_log(print_r($stage,true));
-
-  /*if($stage==1)
-  {
-    //$cswq_1 = $cswq;
-    global $cswq_full;
-    $cswq_full=$cswq;
-
+  $mark = 0;
+  $seed = 1;
+  if ($result['Id'] === $userid) {
+    $rqst = $dbh->prepare("UPDATE twitteraccountnode SET Marked=:mark, Seed=:seed WHERE Id=:userid");
+    $rqst->bindParam(':mark',$mark, PDO::PARAM_INT);
+    $rqst->bindParam(':seed',$seed, PDO::PARAM_INT);
+    $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
+    $rqst->execute();    
+  } elseif ($userid != ''){
+    // Add user to be crawled
+    $rqst = $dbh->prepare("INSERT INTO twitteraccountnode SET Id=:userid, Marked=:mark, CreationDate=NOW(), Seed=:seed");
+    $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
+    $rqst->bindParam(':mark',$mark, PDO::PARAM_INT);
+    $rqst->bindParam(':seed',$seed, PDO::PARAM_INT);
+    $rqst->execute();
+  } else {
+    echo "ERR: bad id: " .$userid;
   }
-  else
-  {
-    $cswq_full=$cswq_full+$cswq;
-    error_log(print_r($cswq_full))
-  } */
-  
 
-  /*if($stage==2)
-  {
-    $cswq_2 = $cswq;
-  }
-  if($stage==3)
-  {
-    $cswq_full = $cswq_1 + $cswq_2 + $cswq;
-    error_log(print_r($cswq_full,true));
-  }
-
-  */
-
-
-
+  break;
 
 
   

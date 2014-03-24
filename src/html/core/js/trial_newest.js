@@ -1451,9 +1451,9 @@ function checkSocMedia(media, once)
 		if(popval==null)
 		{
 			error=true;
-			console.log("checkSocMedia: popval is null");
+			// console.log("checkSocMedia: popval is null");
 
-			console.log('#'+media+'freq_'+key);
+			// console.log('#'+media+'freq_'+key);
 			$('#'+media+'freq_'+key).addClass("error");
 		}
 		else
@@ -1745,7 +1745,7 @@ function checkCSW(stage, once)
 		else
 		{
 			$("#contingencies"+stage).hide(500);
-			console.log("it's getting to the else in the button Continue button function")
+			// console.log("it's getting to the else in the button Continue button function")
 			
 
 			DoPANAS();
@@ -1781,7 +1781,7 @@ function checkCSW(stage, once)
 			// Am adding the parameter stage, so that I can make separate associative arrays for each page
 			//and combine them. 
 			$("#contingencies"+stage).hide(500);
-			console.log("it's getting to the else in the function outside the dialog box")
+			// console.log("it's getting to the else in the function outside the dialog box")
 			
 
 			DoPANAS();
