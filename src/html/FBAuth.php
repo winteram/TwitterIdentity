@@ -21,13 +21,13 @@ if($fbid_raw) {
   // If not, we'll get an exception, which we handle below.
   try {
     $user = $facebook->api('/me ','GET');
-    error_log(print_r($user, true));
+    // error_log(print_r($user, true));
     // The user has been verified and the access tokens can be saved for future use 
     $_SESSION['fb_status'] = 'verified';
     $_SESSION['userid'] = $userid = isset($_SESSION['userid']) ? $_SESSION['userid'] : bin2hex(openssl_random_pseudo_bytes(16));
-    // error_log("userid: ".$userid);
+    error_log("userid: ".$userid);
 
-    error_log($user['username']);
+    // error_log($user['username']);
     $username = encode_salt($user['username']); 
     $fbid = encode_salt($fbid_raw); 
 
@@ -56,8 +56,8 @@ if($fbid_raw) {
 
     $access_token = $facebook->getAccessToken();
     $app_access_token = $facebook->getApplicationAccessToken();
-    error_log('AccessToken: '.$access_token);
-    error_log('AppAccessToken: '.$app_access_token);
+    // error_log('AccessToken: '.$access_token);
+    // error_log('AppAccessToken: '.$app_access_token);
     $query = $qp1."fbconnectionaccounts".$qp2; 
     $query .= "AccessToken=:token,
               AppAccessToken=:apptoken,

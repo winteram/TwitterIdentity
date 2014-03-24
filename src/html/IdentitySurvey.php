@@ -1,5 +1,9 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<?php
+session_start();
+require_once('core/fb-php/src/facebook.php');
+require_once('../safe/config.inc');
+?>
+<html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<link rel="shortcut icon" type="image/x-icon" href="core/img/idproj.ico" />
@@ -7,8 +11,8 @@
 
 	<script src="core/jquery-ui-1.8.21.custom/js/jquery-1.7.2.min.js" type="text/javascript"></script>
 	<script src="core/jquery-ui-1.8.21.custom/js/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
-	<script src="core/js/trial_newest.js" type="text/javascript"></script>
 	<script src="core/js/shuffle.js" type="text/javascript"></script>
+	<script src="core/js/trial_newest.js" type="text/javascript"></script>
 
 	<link rel='stylesheet' type='text/css' href='core/css/self-aspects.css' />
 	<link rel='stylesheet' type='text/css' href='core/jquery-ui-1.8.21.custom/css/pepper-grinder/jquery-ui-1.8.21.custom.css' />
@@ -209,7 +213,7 @@
 			<li id = "freeq13">
 				<p> In the box below, please put a website that relates to this identity </p> 
 				
-				<input id ="user_url" name = "user_url1" type="text"/> <span><i> e.g. democrats.org </i> </span>
+				<input id ="user_url1" name = "user_url1" type="text"/> <span><i> e.g. democrats.org </i> </span>
 			</li> 
 		</ol>
 		<h3> Identity 2 </h3>

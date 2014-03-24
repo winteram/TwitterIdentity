@@ -3,32 +3,32 @@
 // Get data for accessing database
 require_once('../../safe/config.inc');
 global $dbh;
+/*
 global $full_csw;
-/*if(empty($full_csw))
+if(empty($full_csw))
 {
-$full_csw=array();
+  $full_csw=array();
 }
 */
 
-
-global $traits_full = 
-  ['capable', 'comfortable', 'communicative', 'confident', 'disagreeing', 'disorganized', 
+$traits_full = array('capable', 'comfortable', 'communicative', 'confident', 'disagreeing', 'disorganized', 
   'energetic', 'friendly', 'fun and entertaining', 'giving', 'happy', 'hardworking', 'hopeless', 
   'immature', 'incompetent', 'indecisive', 'independent', 'inferior', 'insecure', 'intelligent', 
   'interested', 'irresponsible', 'irritable', 'isolated', 'lazy', 'like a failure', 'lovable', 
   'mature', 'needed', 'optimistic', 'organized', 'outgoing', 'sad and blue', 'self-centered', 
-  'successful', 'tense', 'uncomfortable', 'unloved', 'weary', 'worthless'];
+  'successful', 'tense', 'uncomfortable', 'unloved', 'weary', 'worthless');
 
 
 $errmsg = "Missing data";
 
 if (isset($_REQUEST['userid']))
 {
-  $userid = encode_salt($_REQUEST['userid']);
+  $userid = $_REQUEST['userid'];
+  error_log("datawrangler: ".$userid);
 }
 else 
 {
-  echo "ERR: userid not set";
+  error_log("ERR: userid not set");
   //exit(0);
 }
 
@@ -40,7 +40,7 @@ switch($page)
 case 'new':
 case 'demog':
   // parse data into array
-  echo $_REQUEST['data'];
+  // echo $_REQUEST['data'];
   $demogs = $_REQUEST['data'];
 
   // ensure valid values will be entered
@@ -50,9 +50,24 @@ case 'demog':
   $ethnicity = isset($demogs['races']) ? implode(",",$demogs['races']) : "NULL";
   $income = isset($demogs['income']) ? $demogs['income'] : "NULL";
   $edu = isset($demogs['edu']) ? $demogs['edu'] : "NULL";
+  // error_log($ethnicity);
+
+  // Check if survey exists for twitter id
+  $rqst = $dbh->prepare("SELECT Id FROM survey WHERE Id=:userid");
+  $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
+  $row = $rqst->execute();
+  $result = $rqst->fetch(PDO::FETCH_ASSOC);
+  if(isset($result['Id']))
+  {
+    $query = "UPDATE survey SET gender=:gender, yob=:yob, country=:country, ethnicity=:ethnic, income=:income, edu=:edu WHERE Id=:userid";
+  }
+  else
+  {
+    $query = "INSERT INTO survey SET Id=:userid, gender=:gender, yob=:yob, country=:country, ethnicity=:ethnic, income=:income, edu=:edu";
+  }
 
   // prepare data to enter into db
-  $rqst = $dbh->prepare("UPDATE survey SET gender=:gender, yob=:yob, country=:country, ethnicity=:ethnic, income=:income, edu=:edu WHERE Id=:userid");
+  $rqst = $dbh->prepare($query);
   $rqst->bindParam(':gender',$gender, PDO::PARAM_STR);
   $rqst->bindParam(':yob',$yob, PDO::PARAM_INT);
   $rqst->bindParam(':country',$country, PDO::PARAM_STR);
@@ -82,21 +97,21 @@ case 'nation': // answers to survey for national id
   $varnames = array('bond','solidarity','committed','glad','proud','pleasant','goodfeel','think','identity',
     'seemyself','common_avg','similar_avg','common_oth','similar_oth');
   $query = 'UPDATE survey SET ';
-  $ctr = 1;
+  $ctr = 0;
   foreach($answers as $x)
     {
-      $query .= $page . $ctr . "_" . $varnames[$ctr-1] . "=:" . $page . $ctr . ", ";
+      $query .= $page . $ctr . "_" . $varnames[$ctr] . "=:" . $page . $ctr . ", ";
       $ctr += 1;
     }
   $query = substr($query, 0, -2) . " WHERE Id=:userid";
-  //echo $query . "\n";
-  $dbh->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);  
+  // error_log($query);
+  // $dbh->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);  
   $rqst = $dbh->prepare($query);
-  $ctr = 1;
+  $ctr = 0;
   foreach($answers as $key => $response)
     {
-      echo ':' . $page . $ctr . ' = ' . $response . '\n';
-      $rqst->bindParam(':' . $page . $ctr, intval($answers[$key]), PDO::PARAM_INT);
+      $bindvar = ':' . $page . $ctr;
+      $rqst->bindParam($bindvar, intval($response), PDO::PARAM_INT);
       $ctr += 1;
     }  
   $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
@@ -146,6 +161,7 @@ case 'aspects': // self aspects
       foreach($aspect["traits"] as $key=>$trait)
       {
         $traitid = array_search($trait, $traits_full);
+        $traitid = intval($traitid) + 1;
         $rqst = $dbh->prepare("INSERT INTO aspects_traits SET AspectId=:aspectid, TraitId=:traitid");
         $rqst->bindParam(':aspectid',$aspectid, PDO::PARAM_INT);
         $rqst->bindParam(':traitid',$traitid, PDO::PARAM_INT);
@@ -163,6 +179,8 @@ case 'aspect_labs': //
     $rqst->bindParam(':name',$name, PDO::PARAM_STR);
     $row = $rqst->execute();
     $aspectid = $rqst->fetch(PDO::FETCH_ASSOC);
+    // error_log("name: ".$name);
+    // error_log("label: ".$aspect_label);
     if(isset($aspectid))
     {
       $rqst = $dbh->prepare("UPDATE aspects SET Label=:label WHERE Id=:aspectid");
@@ -231,13 +249,13 @@ case 'smqs': // social media questionnaire
   $ctr = 0;
   foreach($smqs as $i => $smq)
     {
-      $query .= $smedia . "_" . $varnames[$i] . "=:" . $smedia . $ctr . ", ";
-      $query .= $smedia . "_" . $varnames[$i] . "_comments=:" . $smedia . $ctr . "_comm, ";
+      $query .= $smedia . "_" . $smqnames[$i] . "=:" . $smedia . $ctr . ", ";
+      $query .= $smedia . "_" . $smqnames[$i] . "_comments=:" . $smedia . $ctr . "_comm, ";
       $ctr += 1;
     }
   $query = substr($query, 0, -2) . " WHERE Id=:userid";
   //echo $query . "\n";
-  $dbh->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);  
+  // $dbh->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);  
   $rqst = $dbh->prepare($query);
   $rqst->bindParam(':sm_fbk', $smfbk, PDO::PARAM_STR);
   $ctr = 0;
@@ -303,9 +321,9 @@ case 'csw_data': // This will take the 35 entries from the contingencies of self
 
   $query = substr($query, 0, -2) . " WHERE Id=:userid";
 
-  error_log(print_r($query,true));
+  // error_log(print_r($query,true));
 
-  $dbh->setAttribute(PDO::ATTR_EMULATE_PREPARES, false); 
+  // $dbh->setAttribute(PDO::ATTR_EMULATE_PREPARES, false); 
   $rqst = $dbh->prepare($query);
   foreach($cswq as $key => $response)
   {
@@ -313,7 +331,7 @@ case 'csw_data': // This will take the 35 entries from the contingencies of self
     $rqst->bindParam(':' . $key, intval($response), PDO::PARAM_INT);
 
   
-    error_log(print_r($cswq[$key],true));
+    // error_log(print_r($cswq[$key],true));
     //error_log(print_r($response,true));
     
   }  
@@ -325,7 +343,7 @@ case 'csw_data': // This will take the 35 entries from the contingencies of self
 
 case 'panas':
   $panas = $_REQUEST['data'];
-  error_log(print_r($panas,true));
+  // error_log(print_r($panas,true));
 
   $query = 'UPDATE survey SET ';
 
@@ -336,9 +354,10 @@ case 'panas':
 
   $query = substr($query, 0, -2) . " WHERE Id=:userid";
 
+  error_log("PANAS");
   error_log(print_r($query,true));
 
-  $dbh->setAttribute(PDO::ATTR_EMULATE_PREPARES, false); 
+  // $dbh->setAttribute(PDO::ATTR_EMULATE_PREPARES, false); 
   $rqst = $dbh->prepare($query);
   foreach($panas as $key => $response)
   {
@@ -346,8 +365,8 @@ case 'panas':
     $rqst->bindParam(':' . $key, intval($response), PDO::PARAM_INT);
 
   
-    error_log(print_r($panas[$key],true));
-    //error_log(print_r($response,true));
+    // error_log(print_r($panas[$key],true));
+    // error_log(print_r($response,true));
     
   } 
   $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);

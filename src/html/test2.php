@@ -8,18 +8,18 @@
 	<script src="core/jquery-ui-1.8.21.custom/js/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
     
    
-    <script src="self-aspects_2.js" type="text/javascript"></script>
+    <script src="core/js/self-aspects_2.js" type="text/javascript"></script>
     
  
 	
-	<script src="core/shuffle.js" type="text/javascript"></script>
-   <link rel='stylesheet' type='text/css' href='core/self-aspects.css' />
+	<script src="core/js/shuffle.js" type="text/javascript"></script>
+   <link rel='stylesheet' type='text/css' href='core/css/self-aspects.css' />
   	<link rel='stylesheet' type='text/css'
 	href='core/jquery-ui-1.8.21.custom/css/pepper-grinder/jquery-ui-1.8.21.custom.css' />
 
-    <link href="core_each/css/bootstrap.min.css" rel="stylesheet">
+    <link href="core/css/bootstrap.min.css" rel="stylesheet">
 
-  <link href="core_each/jumbotron-narrow.css" rel="stylesheet">
+  <link href="core/css/jumbotron-narrow.css" rel="stylesheet">
     
     
 
