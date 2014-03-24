@@ -79,8 +79,14 @@ case 'demog':
   break;
 case 'polform': // party affiliation
   $party = isset($_REQUEST['party']) ? $_REQUEST['party'] : "NULL";
+  $pol_spec = isset($_REQUEST['pol_spec']) ? $_REQUEST['pol_spec'] : "NULL";
+  $party_com = isset($_REQUEST['party_com']) ? $_REQUEST['party_com'] : "NULL";
   $rqst = $dbh->prepare("UPDATE survey SET party=:party WHERE Id=:userid");
+  $rqst = $dbh->prepare("UPDATE survey SET pol_spec=:pol_spec WHERE Id=:userid");
+  $rqst = $dbh->prepare("UPDATE survey SET party_com=:party_com WHERE Id=:userid");
   $rqst->bindParam(':party',$party, PDO::PARAM_STR);
+  $rqst->bindParam(':pol_spec',$pol_spec, PDO::PARAM_INT);
+  $rqst->bindParam(':party_com',$party_com, PDO::PARAM_STR);
   $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
   $rqst->execute();
   break;

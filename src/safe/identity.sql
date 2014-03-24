@@ -120,38 +120,31 @@ CREATE TABLE IF NOT EXISTS `survey` (
   `income` int(9) DEFAULT NULL,
   `edu` enum('none','elem','hs','hsgrad','college','as','bs','ms','md','phd') DEFAULT NULL,
   `party` enum('democrat','republican','constitution','green','libertarian') DEFAULT NULL,
-  `party1_bond` tinyint(4) DEFAULT NULL,
-  `party2_solidarity` tinyint(4) DEFAULT NULL,
-  `party3_committed` tinyint(4) DEFAULT NULL,
-  `party4_glad` tinyint(4) DEFAULT NULL,
-  `party5_proud` tinyint(4) DEFAULT NULL,
-  `party6_pleasant` tinyint(4) DEFAULT NULL,
-  `party7_goodfeel` tinyint(4) DEFAULT NULL,
-  `party8_think` tinyint(4) DEFAULT NULL,
-  `party9_identity` tinyint(4) DEFAULT NULL,
-  `party10_seemyself` tinyint(4) DEFAULT NULL,
-  `party11_common_avg` tinyint(4) DEFAULT NULL,
-  `party12_similar_avg` tinyint(4) DEFAULT NULL,
-  `party13_common_oth` tinyint(4) DEFAULT NULL,
-  `party14_similar_oth` tinyint(4) DEFAULT NULL,
-  `nationality` text,
-  `nation1_bond` tinyint(4) DEFAULT NULL,
-  `nation2_solidarity` tinyint(4) DEFAULT NULL,
-  `nation3_committed` tinyint(4) DEFAULT NULL,
-  `nation4_glad` tinyint(4) DEFAULT NULL,
-  `nation5_proud` tinyint(4) DEFAULT NULL,
-  `nation6_pleasant` tinyint(4) DEFAULT NULL,
-  `nation7_goodfeel` tinyint(4) DEFAULT NULL,
-  `nation8_think` tinyint(4) DEFAULT NULL,
-  `nation9_identity` tinyint(4) DEFAULT NULL,
-  `nation10_seemyself` tinyint(4) DEFAULT NULL,
-  `nation11_common_avg` tinyint(4) DEFAULT NULL,
-  `nation12_similar_avg` tinyint(4) DEFAULT NULL,
-  `nation13_common_oth` tinyint(4) DEFAULT NULL,
-  `nation14_similar_oth` tinyint(4) DEFAULT NULL,
-  `own_form1` varchar(32) DEFAULT NULL,
-  `own_form2` varchar(32) DEFAULT NULL,
-  `own_URL` text,
+  `party_com` text DEFAULT NULL,
+  `pol_spec` tinyint(4) DEFAULT NULL,
+  `party0_bond` tinyint(4) DEFAULT NULL,
+  `party1_solidarity` tinyint(4) DEFAULT NULL,
+  `party2_committed` tinyint(4) DEFAULT NULL,
+  `party3_glad` tinyint(4) DEFAULT NULL,
+  `party4_proud` tinyint(4) DEFAULT NULL,
+  `party5_pleasant` tinyint(4) DEFAULT NULL,
+  `party6_goodfeel` tinyint(4) DEFAULT NULL,
+  `party7_think` tinyint(4) DEFAULT NULL,
+  `party8_identity` tinyint(4) DEFAULT NULL,
+  `party9_seemyself` tinyint(4) DEFAULT NULL,
+  `party10_common_avg` tinyint(4) DEFAULT NULL,
+  `party11_similar_avg` tinyint(4) DEFAULT NULL,
+  `party12_common_oth` tinyint(4) DEFAULT NULL,
+  `party13_similar_oth` tinyint(4) DEFAULT NULL,
+  `own_form11` varchar(32) DEFAULT NULL,
+  `own_form12` varchar(32) DEFAULT NULL,
+  `own_URL1` text,
+  `own_form21` varchar(32) DEFAULT NULL,
+  `own_form22` varchar(32) DEFAULT NULL,
+  `own_URL2` text,
+  `own_form31` varchar(32) DEFAULT NULL,
+  `own_form32` varchar(32) DEFAULT NULL,
+  `own_URL3` text,
   `own1_bond` tinyint(4) DEFAULT NULL,
   `own2_solidarity` tinyint(4) DEFAULT NULL,
   `own3_committed` tinyint(4) DEFAULT NULL,
@@ -166,6 +159,100 @@ CREATE TABLE IF NOT EXISTS `survey` (
   `own12_similar_avg` tinyint(4) DEFAULT NULL,
   `own13_common_oth` tinyint(4) DEFAULT NULL,
   `own14_similar_oth` tinyint(4) DEFAULT NULL,
+  `fb_comments` text DEFAULT NULL,
+  `fb_feel` tinyint(4) DEFAULT NULL,
+  `fb_feel_comments` text DEFAULT NULL,
+  `fb_doing` tinyint(4) DEFAULT NULL,
+  `fb_doing_comments` text DEFAULT NULL,
+  `fb_where` tinyint(4) DEFAULT NULL,
+  `fb_where_comments` text DEFAULT NULL,
+  `fb_entertain` tinyint(4) DEFAULT NULL,
+  `fb_entertain_comments` text DEFAULT NULL,
+  `fb_political` tinyint(4) DEFAULT NULL,
+  `fb_political_comments` text DEFAULT NULL,
+  `fb_family` tinyint(4) DEFAULT NULL,
+  `fb_family_comments` text DEFAULT NULL,
+  `fb_god` tinyint(4) DEFAULT NULL,
+  `fb_god_comments` text DEFAULT NULL,
+  `fb_academic` tinyint(4) DEFAULT NULL,
+  `fb_academic_comments` text DEFAULT NULL,
+  `fb_appearance` tinyint(4) DEFAULT NULL,
+  `fb_appearance_comments` text DEFAULT NULL,
+  `tw_comments` text DEFAULT NULL,
+  `tw_feel` tinyint(4) DEFAULT NULL,
+  `tw_feel_comments` text DEFAULT NULL,
+  `tw_doing` tinyint(4) DEFAULT NULL,
+  `tw_doing_comments` text DEFAULT NULL,
+  `tw_where` tinyint(4) DEFAULT NULL,
+  `tw_where_comments` text DEFAULT NULL,
+  `tw_entertain` tinyint(4) DEFAULT NULL,
+  `tw_entertain_comments` text DEFAULT NULL,
+  `tw_political` tinyint(4) DEFAULT NULL,
+  `tw_political_comments` text DEFAULT NULL,
+  `tw_family` tinyint(4) DEFAULT NULL,
+  `tw_family_comments` text DEFAULT NULL,
+  `tw_god` tinyint(4) DEFAULT NULL,
+  `tw_god_comments` text DEFAULT NULL,
+  `tw_academic` tinyint(4) DEFAULT NULL,
+  `tw_academic_comments` text DEFAULT NULL,
+  `tw_appearance` tinyint(4) DEFAULT NULL,
+  `tw_appearance_comments` text DEFAULT NULL,
+  `con_agree_0` tinyint(4) DEFAULT NULL,
+  `con_agree_1` tinyint(4) DEFAULT NULL,
+  `con_agree_2` tinyint(4) DEFAULT NULL,
+  `con_agree_3` tinyint(4) DEFAULT NULL,
+  `con_agree_4` tinyint(4) DEFAULT NULL,
+  `con_agree_5` tinyint(4) DEFAULT NULL,
+  `con_agree_6` tinyint(4) DEFAULT NULL,
+  `con_agree_7` tinyint(4) DEFAULT NULL,
+  `con_agree_8` tinyint(4) DEFAULT NULL,
+  `con_agree_9` tinyint(4) DEFAULT NULL,
+  `con_agree_10` tinyint(4) DEFAULT NULL,
+  `con_agree_11` tinyint(4) DEFAULT NULL,
+  `con_agree_12` tinyint(4) DEFAULT NULL,
+  `con_agree_13` tinyint(4) DEFAULT NULL,
+  `con_agree_14` tinyint(4) DEFAULT NULL,
+  `con_agree_15` tinyint(4) DEFAULT NULL,
+  `con_agree_16` tinyint(4) DEFAULT NULL,
+  `con_agree_17` tinyint(4) DEFAULT NULL,
+  `con_agree_18` tinyint(4) DEFAULT NULL,
+  `con_agree_19` tinyint(4) DEFAULT NULL,
+  `con_agree_20` tinyint(4) DEFAULT NULL,
+  `con_agree_21` tinyint(4) DEFAULT NULL,
+  `con_agree_22` tinyint(4) DEFAULT NULL,
+  `con_agree_23` tinyint(4) DEFAULT NULL,
+  `con_agree_24` tinyint(4) DEFAULT NULL,
+  `con_agree_25` tinyint(4) DEFAULT NULL,
+  `con_agree_26` tinyint(4) DEFAULT NULL,
+  `con_agree_27` tinyint(4) DEFAULT NULL,
+  `con_agree_28` tinyint(4) DEFAULT NULL,
+  `con_agree_29` tinyint(4) DEFAULT NULL,
+  `con_agree_30` tinyint(4) DEFAULT NULL,
+  `con_agree_31` tinyint(4) DEFAULT NULL,
+  `con_agree_32` tinyint(4) DEFAULT NULL,
+  `con_agree_33` tinyint(4) DEFAULT NULL,
+  `con_agree_34` tinyint(4) DEFAULT NULL,
+  `interested`  tinyint(4) DEFAULT NULL,
+  `distressed`  tinyint(4) DEFAULT NULL,
+  `excited`  tinyint(4) DEFAULT NULL,
+  `upset`  tinyint(4) DEFAULT NULL,
+  `strong`  tinyint(4) DEFAULT NULL,
+  `guitly`  tinyint(4) DEFAULT NULL,
+  `scared`  tinyint(4) DEFAULT NULL,
+  `hostile`  tinyint(4) DEFAULT NULL,
+  `enthusiastic`  tinyint(4) DEFAULT NULL,
+  `proud`  tinyint(4) DEFAULT NULL,
+  `tired`  tinyint(4) DEFAULT NULL,
+  `irritable`  tinyint(4) DEFAULT NULL,
+  `alert`  tinyint(4) DEFAULT NULL,
+  `ashamed`  tinyint(4) DEFAULT NULL,
+  `inspired`  tinyint(4) DEFAULT NULL,
+  `nervous`  tinyint(4) DEFAULT NULL,
+  `determined`  tinyint(4) DEFAULT NULL,
+  `attentive`  tinyint(4) DEFAULT NULL,
+  `jittery`  tinyint(4) DEFAULT NULL,
+  `active`  tinyint(4) DEFAULT NULL,
+  `afraid`  tinyint(4) DEFAULT NULL,
   `comments` text NOT NULL,
   `started` datetime NOT NULL,
   `ended` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
@@ -176,6 +263,71 @@ CREATE TABLE IF NOT EXISTS `survey` (
 /*!40000 ALTER TABLE `survey` DISABLE KEYS */;
 /*!40000 ALTER TABLE `survey` ENABLE KEYS */;
 
+DROP TABLE IF EXISTS `aspects`;
+CREATE TABLE IF NOT EXISTS `aspects` (
+  `Id` bigint(20) NOT NULL AUTO_INCREMENT,
+  `UserId` varchar(32) NOT NULL,
+  `name` varchar(32) NOT NULL,
+  `Label` varchar(16),
+  `Positive` int(9),
+  `Important` int(9),
+  `Facebook` int(9),
+  `Twitter` int(9),
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+DROP TABLE IF EXISTS `traits`;
+CREATE TABLE IF NOT EXISTS `traits` (
+  `Id` bigint(20) NOT NULL AUTO_INCREMENT,
+  `Trait` varchar(32) NOT NULL,
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+INSERT INTO `traits` (`Trait`) VALUES ('capable');
+INSERT INTO `traits` (`Trait`) VALUES ('comfortable');
+INSERT INTO `traits` (`Trait`) VALUES ('communicative');
+INSERT INTO `traits` (`Trait`) VALUES ('confident');
+INSERT INTO `traits` (`Trait`) VALUES ('disagreeing');
+INSERT INTO `traits` (`Trait`) VALUES ('disorganized');
+INSERT INTO `traits` (`Trait`) VALUES ('energetic');
+INSERT INTO `traits` (`Trait`) VALUES ('friendly');
+INSERT INTO `traits` (`Trait`) VALUES ('fun and entertaining');
+INSERT INTO `traits` (`Trait`) VALUES ('giving');
+INSERT INTO `traits` (`Trait`) VALUES ('happy');
+INSERT INTO `traits` (`Trait`) VALUES ('hardworking');
+INSERT INTO `traits` (`Trait`) VALUES ('hopeless');
+INSERT INTO `traits` (`Trait`) VALUES ('immature');
+INSERT INTO `traits` (`Trait`) VALUES ('incompetent');
+INSERT INTO `traits` (`Trait`) VALUES ('indecisive');
+INSERT INTO `traits` (`Trait`) VALUES ('independent');
+INSERT INTO `traits` (`Trait`) VALUES ('inferior');
+INSERT INTO `traits` (`Trait`) VALUES ('insecure');
+INSERT INTO `traits` (`Trait`) VALUES ('intelligent');
+INSERT INTO `traits` (`Trait`) VALUES ('interested');
+INSERT INTO `traits` (`Trait`) VALUES ('irresponsible');
+INSERT INTO `traits` (`Trait`) VALUES ('irritable');
+INSERT INTO `traits` (`Trait`) VALUES ('isolated');
+INSERT INTO `traits` (`Trait`) VALUES ('lazy');
+INSERT INTO `traits` (`Trait`) VALUES ('like a failure');
+INSERT INTO `traits` (`Trait`) VALUES ('lovable');
+INSERT INTO `traits` (`Trait`) VALUES ('mature');
+INSERT INTO `traits` (`Trait`) VALUES ('needed');
+INSERT INTO `traits` (`Trait`) VALUES ('optimistic');
+INSERT INTO `traits` (`Trait`) VALUES ('organized');
+INSERT INTO `traits` (`Trait`) VALUES ('outgoing');
+INSERT INTO `traits` (`Trait`) VALUES ('sad and blue');
+INSERT INTO `traits` (`Trait`) VALUES ('self-centered');
+INSERT INTO `traits` (`Trait`) VALUES ('successful');
+INSERT INTO `traits` (`Trait`) VALUES ('tense');
+INSERT INTO `traits` (`Trait`) VALUES ('uncomfortable');
+INSERT INTO `traits` (`Trait`) VALUES ('unloved');
+INSERT INTO `traits` (`Trait`) VALUES ('weary');
+INSERT INTO `traits` (`Trait`) VALUES ('worthless');
+
+DROP TABLE IF EXISTS `aspects_traits`;
+CREATE TABLE IF NOT EXISTS `aspects_traits` (
+  `aspectId` bigint(20) NOT NULL,
+  `TraitId` varchar(32) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- Dumping structure for table gidb.tweet
 DROP TABLE IF EXISTS `tweet`;
