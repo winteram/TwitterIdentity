@@ -1,0 +1,21 @@
+
+facebook questions
+- standard questions (survey)
+- per-aspect questions (aspects)
+
+twitter questions
+- standard questions (survey)
+- per-aspect questions (aspects)
+
+contingincies page 1 (survey)
+
+contingincies page 2 (survey)
+
+contingincies page 3 (survey)
+
+PANAS (survey)
+
+Feedback (survey)
+
+
+Fix logic behind facebook & twitter questions by login data

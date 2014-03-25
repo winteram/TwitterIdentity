@@ -329,24 +329,19 @@ else
 		
 		</br>
 		<p>
-					<input class='btn btn-warning' type=button id ="aspect_instruct_button" value= " View Instructions" />
-				</p>
-			<h3> Trait Buttons </h3>
-				<p> Click the trait buttons below to include them in a Self-Aspect in the</br>
-					column to the right entitled, "Current Self-Aspect". To remove a trait </br>
-					that has been added, simply press the trait button again.
-				 </p>
-			<div class="trait_but" id="trait_buttons"> </div>
+			<input class='btn btn-warning' type=button id ="aspect_instruct_button" value= " View Instructions" />
+		</p>
+		<h3> Trait Buttons </h3>
+		<p class="trait_info"> 
+			Click the trait buttons below to include them in a Self-Aspect in the
+			column to the right entitled, "Current Self-Aspect". To remove a trait
+			that has been added, simply press the trait button again.
+		</p>
+		<div class="trait_but" id="trait_buttons"> </div>
 		</div>
 
 		<div class="outer-right-col">
 			<div class="center-col">
-			
-			</br>
-			</br>
-			</br>
-
-				
 			
 			<h3> Current Self-Aspect </h3>
 
@@ -369,17 +364,9 @@ else
 				
 			</div>
 			<div class="right-col" id="right_side">
-
-
-
-	
-		</br>
-
-			<p>
+				<p class="finish_aspects_button">
 					<input class="btn btn-success btn-large" type=button id ="finish_SA" value= "Finish Task" onclick="finish_SA_click();"/>
 				</p>
-
-			
 			</div>
 		</div>
 

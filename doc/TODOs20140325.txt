@@ -1,0 +1,8 @@
+TODOs
+
+X IUname, Agree (& Referred by?) are not being recorded
+X new buttons & text for self aspects needs to be properly formatted
+X images for buttons on last page are broken
+- SQL injection test
+X Follow @groupID button in index.php not working
+- Not recording country: default US or remove?

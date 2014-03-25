@@ -251,7 +251,18 @@ border:5px solid gray;
 margin:0px;
 }
 
+.trait_info
+{
+width:300px;
+padding:4px;
+margin:0px;
+}
 
-
+.finish_aspects_button
+{
+    width: 300px;
+    padding: 20px 0px 10px 0px;
+    margin: 0px;
+}
 
 

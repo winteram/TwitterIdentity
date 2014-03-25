@@ -738,7 +738,7 @@ function add_group_click() {
 		trait_group += ' <br><button class="edit_button" ';
 		trait_group += ' onclick="edit_aspect('+self_count+')"> edit </button>';
 		trait_group += '</div>';
-		$("#right_side").prepend(trait_group);		
+		$("#right_side").append(trait_group);		
 
 		// add the self-aspect to the array of self-aspects
 		var cur_self_aspect = {'name':aspect_name, 'traits':traits_arr};
