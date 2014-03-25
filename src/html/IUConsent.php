@@ -75,7 +75,7 @@ function verify_consent(once)
     }
 
     if(error==false && verified==2 || verified==1 && once==true) {
-      window.top.location.href = "IdentitySurvey.php?agree=" + (agree ? 1 : 0) + "&IUname=" + IUname;
+      $("#consent").submit();
     } else if (error==true) {
       $('#error_popup').html(errormsg);
       $('#error_popup').dialog( "option", "buttons", [
@@ -344,7 +344,7 @@ this study.
 
 </p>
 <div id="consent-form-box">
-  <form name="consent">
+  <form name="consent" action="IdentitySurvey.php" method="POST">
     You will be asked to authenticate your account through Twitter and/or Facebook through the links below.
     <div class ="error" id="error_popup"></div>
     <div class='sign-in'>
@@ -384,7 +384,7 @@ this study.
       </p>
 
     <div class='sign-in'>
-      <input type="button" value="Continue to survey" onClick="verify_consent();"/>
+      <input type="submit" value="Continue to survey" onClick="verify_consent();"/>
     </div>
 
     </div>

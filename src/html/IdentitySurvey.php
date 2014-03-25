@@ -2,6 +2,23 @@
 session_start();
 require_once('core/fb-php/src/facebook.php');
 require_once('../safe/config.inc');
+
+if (isset($_SESSION['userid']))
+{
+  $userid = $_SESSION['userid'];
+  error_log("IdentitySurvey: ".$userid);
+  $agree = isset($_REQUEST['agree']) ? 1 : 0;
+  $IUname = isset($_REQUEST['IUName']) ? $_REQUEST['IUName'] : 'none';
+  $rqst = $dbh->prepare("UPDATE users SET IUname=:iuname, Agree=:agree WHERE Id=:userid");
+  $rqst->bindParam(':iuname',$IUname, PDO::PARAM_STR);
+  $rqst->bindParam(':agree',$agree, PDO::PARAM_STR);
+  $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
+  $row = $rqst->execute();
+}
+else 
+{
+  error_log("ERR: userid not set at IdentitySurvey");
+}
 ?>
 <html>
 <head>
@@ -635,11 +652,11 @@ require_once('../safe/config.inc');
 
 				</br>
 
-				<a href="http://www.facebook.com/share.php?u=http://www.smallsocialsystems.com/groupid"><img src="core/images/facebook-share-button.png"></a>
+				<a href="http://www.facebook.com/share.php?u=http://www.smallsocialsystems.com/groupid"><img src="core/img/facebook-share-button.png"></a>
 
 				</br>
 				</br>
-				<a href="http://twitter.com/home?status= I just helped science by participating in a Psychology study: http://www.smallsocialsystems.com/groupid"><img src="core/images/twitter-share-button.png"></a>
+				<a href="http://twitter.com/home?status= I just helped science by participating in a Psychology study: http://www.smallsocialsystems.com/groupid"><img src="core/img/twitter-share-button.png"></a>
 
 			</div>
 
