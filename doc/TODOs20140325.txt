@@ -13,4 +13,4 @@ X comments on aspects for FB & Twitter not being stored
 X PANAS not updating
 X feedback at end not registering
 X SQL injection test
-- not-repeatable bug in error validation for CSW (probably race condition)
+O not-repeatable bug in error validation for CSW (probably race condition)

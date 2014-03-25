@@ -4,7 +4,6 @@ require_once('core/fb-php/src/facebook.php');
 require_once('../safe/config.inc');
 
 $_SESSION['userid'] = $userid = isset($_SESSION['userid']) ? $_SESSION['userid'] : bin2hex(openssl_random_pseudo_bytes(16));
-$_SESSION['IU'] = 1;
 $fb_loggedin = isset($_SESSION['fb_status']) ? "core/img/checkbox_checked.png" : "core/img/checkbox_unchecked.png";
 $tw_loggedin = isset($_SESSION['tw_status']) ? "core/img/checkbox_checked.png" : "core/img/checkbox_unchecked.png";
 $fb_verified = isset($_SESSION['fb_status']) ? 1 : 0;
@@ -57,7 +56,6 @@ function verify_consent(once)
     var fb_verified = <?php echo $fb_verified; ?>;
     var tw_verified = <?php echo $tw_verified; ?>;
     var verified = fb_verified + tw_verified;
-    var IUname = $("#IUName").val();
 
     if($("#agree").is(':checked')) { agree = true; }
 
@@ -69,10 +67,6 @@ function verify_consent(once)
       errormsg += "<p>Please indicate you have read the information on this page and agree to participate in the study by checking the first box above</p>";
       error=true;
     } 
-    if( IUname.length < 3) {
-      errormsg += "<p> Please indicate your IU username in the text box above <p>";
-      error=true;
-    }
 
     if((error==false && verified==2) || (verified==1 && once==true)) {
       $("#consent").submit();
