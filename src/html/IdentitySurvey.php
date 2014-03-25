@@ -40,8 +40,8 @@ require_once('../safe/config.inc');
 			You will then be presented a series of questions about aspects of yourself and how you use Facebook and/or Twitter. 
 			The entire survey should take less than 50 minutes and could greatly help us understand how people express their 
 			identities in on-line social networks. Thanks in advance for your participation. </p>
-		<p> *Note: Though many questions will appear similar to each other, each question has unique features and is 
-			important for our analysis. We encourage you to answer them all. </p>  
+		<p> *Note: DO NOT attempt to go back to a section by hitting the back button on your browser. Doing this will end the
+			survey.</p>  
 		<input type=reset class="ctr" id="fin_intro" value="Continue" />			
 	</div>
 
@@ -77,7 +77,7 @@ require_once('../safe/config.inc');
 						<label for="race_white">White</label>
 						<br>      
 						<input id="race_black" name="race" type="checkbox" value="black"/> 
-						<label for="race_black">Black, African-American, or Negro</label>
+						<label for="race_black">Black, African-American</label>
 						<br>    
 						<input id="race_latino" name="race" type="checkbox" value="latino"/> 
 						<label for="race_latino">Hispanic or Latino</label>
@@ -259,13 +259,14 @@ require_once('../safe/config.inc');
 	<div id= "full-saspect" class="wrapper">
 		<div id= "self_task_instructions" title="Self Aspects Instructions">
 			<p>
-				In this task, you will be asked to describe aspects of your personal life. Please make sure to read all instructions 
-				carefully.  It is important that you read ALL instructions so that you’ll know what to do at all times. 
+				In this task, you will be asked to describe aspects of your personal life. It is important that you read ALL instructions so that you’ll know what to do at all times. 
+				You can return to these instructions at any time by pressing the "View Instructions" button that will appear on the screen when
+				this window is closed.
 			</p>
 
 			<p>
-				For this task, we are interested in how you describe yourself.  You will be presented with a series of terms 
-				presented in a list on the left side of a window, which are clickable buttons.  Each term is the name of a trait or 
+				We are interested in how you describe yourself.  You will be presented with a series of terms 
+				in a list on the left side of a window, which are clickable buttons.  Each term is the name of a trait or 
 				characteristic.  Your task is to form groups of traits that go together, where each group of traits describes an aspect of you
 				or your life.  You may sort the traits into groups on any meaningful basis – but remember to think about yourself while doing 
 				this. Each group of traits might represent a different aspect of yourself.  Form as many or as few groups as you desire. 
@@ -275,7 +276,7 @@ require_once('../safe/config.inc');
 			</p>
 
 			<p>
-				In order to form a group, you’ll use the mouse to click on traits (by pressing the left mouse button) in the left-hand column.
+				In order to form a group, you’ll use the mouse to click on traits in the left-hand column.
 				When you click on the traits, they will ‘bounce’ to the right-hand window.  If you wish to remove one or more of these traits, press
 				the trait button again (it will bounce back to the left side). 
 			</p>
@@ -287,10 +288,10 @@ require_once('../safe/config.inc');
 			</p>
 
 			<p>
-				Once you have the traits you want in listed on the right hand side, you should label what this collection of traits means to you.  
-				In other words, what is it about yourself that you are describing?  Type our description in the text box located on the right
+				Once you have the traits you want listed on the right hand side, you should label what this collection of traits means to you.  
+				In other words, what is it about yourself that you are describing?  Type your description in the text box located on the right
 				side of the screen labeled- "Self-Aspect Name".  Once you’ve selected the traits and named the group, 
-				press the "Add Self Aspect" to record it. Once you record a group, you can edit it later, by hitting the edit button located
+				press the "Add Self Aspect" button to record it. Once you record a group, you can edit it later, by hitting the edit button located
 				in a box with that group. Note: you cannot edit a previously recorded group if you are currently creating another group. 
 				The current trait window and Self-Aspect Name box must be empty to edit a group you've previously recorded.	
 			</p>
@@ -308,33 +309,60 @@ require_once('../safe/config.inc');
 		</div>
 
 		<div class="left-col">
+		
+		</br>
+		<p>
+					<input class='btn btn-warning' type=button id ="aspect_instruct_button" value= " View Instructions" />
+				</p>
+			<h3> Trait Buttons </h3>
+				<p> Click the trait buttons below to include them in a Self-Aspect in the</br>
+					column to the right entitled, "Current Self-Aspect". To remove a trait </br>
+					that has been added, simply press the trait button again.
+				 </p>
 			<div class="trait_but" id="trait_buttons"> </div>
 		</div>
 
 		<div class="outer-right-col">
 			<div class="center-col">
-				<p>
-					<input class='submit-button' type=button id ="aspect_instruct_button" value= "Instructions" />
-				</p>
+			
+			</br>
+			</br>
+			</br>
+
+				
+			
+			<h3> Current Self-Aspect </h3>
+
 				<!-- removed the form here, changed to p and span -->
 				<p>
-					<span>Self-Aspect Name: </span>
+					<span><b>Self-Aspect Name: </b></span>
 					<input type="text" name="GName" id= "Self-Name">
 				</p>
 
 				<div class="trait_disp"> 
-					Traits 
+					<h4>Traits</h4> 
 					<div id ="traits_show"></div>
 				</div>
 			
 				<input class='submit-button' type=button id ="add_group" value= "Add Self-Aspect" onclick="add_group_click();"/>
 
 				<!-- Included the next bit into a single section with class right-col -->
-				<p>
-					<input class='submit-button' type=button id ="finish_SA" value= "Finish Task" onclick="finish_SA_click();"/>
-				</p>
+			</br>
+			</br>
+				
 			</div>
 			<div class="right-col" id="right_side">
+
+
+
+	
+		</br>
+
+			<p>
+					<input class="btn btn-success btn-large" type=button id ="finish_SA" value= "Finish Task" onclick="finish_SA_click();"/>
+				</p>
+
+			
 			</div>
 		</div>
 
@@ -598,6 +626,23 @@ require_once('../safe/config.inc');
 
 		<div id="thanks" class="wrapper">
 			<h2 class= "center-title1"> THANKS FOR YOUR SUPPORT!</h2>
+			</br>
+			</br>
+			<div align="center">
+				<h4> If you are an IU student, your experimental credit will be posted within the next 48 hours.
+				 Please share us on Facebook and/or Twitter by clicking the buttons below.
+				</h4>
+
+				</br>
+
+				<a href="http://www.facebook.com/share.php?u=http://www.smallsocialsystems.com/groupid"><img src="core/images/facebook-share-button.png"></a>
+
+				</br>
+				</br>
+				<a href="http://twitter.com/home?status= I just helped science by participating in a Psychology study: http://www.smallsocialsystems.com/groupid"><img src="core/images/twitter-share-button.png"></a>
+
+			</div>
+
 		</div>
 	</div>
 
