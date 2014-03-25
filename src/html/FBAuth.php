@@ -81,7 +81,7 @@ if($fbid_raw) {
     if (array_key_exists('religion', $user)) $query .=  ", religion=:religion";
     if (array_key_exists('gender', $user)) $query .=  ", sex=:sex";
     $query .= $qp3;
-    error_log($query);
+    // error_log($query);
 
     $rqst = $dbh->prepare($query);
     $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);

@@ -122,6 +122,9 @@ $(document).ready(function() {
 
 	$("#fin_feedback").click(function()
 	{
+    	comments = $("#feedback").val();
+   		userid = $("#userid").html();
+    	$.post("core/DataWrangler.php", { "page":"comments", "userid":userid, "comments":comments });
 		$("feedback_h").hide(500);
 		$("#GetFeedback-wrapper").hide();
 		$("#thanks").show(); 
@@ -323,9 +326,7 @@ function checkPolitics(once)
 		// reset this variable for the next section
 	}
 	else
-
 	{
-
 		if(party == "unselected")
 		{
 			errmsg += 'Oops. We noticed you did not indicate with which political party you most identify.<br>';
@@ -387,11 +388,11 @@ function checkPolitics(once)
 
 		
 			userid = $("#userid").html();
+			$.post("core/DataWrangler.php", {"page":"polform", "userid":userid, "party":party, "pol_spec":pol_spec, "party_com":party_com});
 			$("#GetPol-wrapper").hide(500); 
 
 			//$("#full-saspect").show();
 			displayQ(pform1, pform2);
-			$.post("core/DataWrangler.php", {"page":"polform", "userid":userid, "party":party, "pol_spec":pol_spec, "party_com":party_com});
 			//console.log(pol_spec);
 			//console.log(party_com);
 		}// end if that this embedded in the else
@@ -1454,22 +1455,24 @@ function checkSocMedia(media, once)
 	$.each(self_aspects, function(key, aspect) // make facebook questions to put in facebook_saspect wrapper
 	{
 		//console.log(qput.val())
-		qput = 'input[name = S'+media+'_agree_'+key+']:checked';
+		var qput1 = 'input[name = S'+media+'_agree_'+key+']:checked';
+		var qput2 = '#self_'+media+i;
 		// console.log(qput);
 
 		var popval = $(qput).val();
+		var popcom = $(qput2).val();
+
 		if(popval==null)
 		{
 			error=true;
 			// console.log("checkSocMedia: popval is null");
-
 			// console.log('#'+media+'freq_'+key);
 			$('#'+media+'freq_'+key).addClass("error");
 		}
 		else
 		{
 			// console.log(aspect["name"]+": "+popval);
-			sm_asp[aspect["name"]]=popval; // put this value in the dictionary that will later be posted to data-wrangler
+			sm_asp[aspect["name"]]={'val':popval,'com':popcom}; // put this value in the dictionary that will later be posted to data-wrangler
 		}
 	}); 
 
@@ -1699,43 +1702,33 @@ function Show_CSW() // This function is particulary rough and dirty- It involves
 function checkCSW(stage, once)
 {
 	once = typeof once !== 'undefined' ? once : false; // This line sets once to false if not defined 
-	csw_data={}//initialize associate array that will be passed to the data wrangler. 
+	csw_data = {};//initialize associate array that will be passed to the data wrangler. 
 
+	error=false;
 	for(var i = 12*(stage-1); i < 12*(stage) ; i++) // go throug the first 12 sentences
 	{
-		
-
 		if (i==35)// This just exits out of the loop for the last iteration, because there are 35 questions- not 36. 
 		{
 			break;
 		}
-		error=false;
 
-		var temp_v= 'con_agree_'+i; 
+		var temp_v = 'con_agree_'+i; 
 
-		qput= 'input[name = ' + temp_v + ']:checked';
+		qput = 'input[name = ' + temp_v + ']:checked';
 
-		d=$(qput).val();
+		d = $(qput).val();
 
 		if(d==null)
 		{
 			error=true;
 			$("#c_ag_"+i).addClass("error");
-			csw_data[temp_v]=-1;// if the value is null, assign it a value of -1
-
+			csw_data[temp_v] = -1;// if the value is null, assign it a value of -1
 		}
-
-			else
+		else
 		{
-			csw_data[temp_v]=d; 
-
+			csw_data[temp_v] = d; 
 		}
 
-
-		
-
-
-		
 		// console.log(d);
 
 	}
@@ -1751,26 +1744,23 @@ function checkCSW(stage, once)
 			{
 				text: "Continue",
 				click: function() {
-					//checkCSW(stage, true);
-		$( this ).dialog( "close" );
-		$.post("core/DataWrangler.php", {"page":"csw_data", "userid":userid, "data":csw_data});
-		if(stage<3)
-		{
-			$("#contingencies"+stage).hide(500);
-			$("#contingencies"+(stage+1)).show(500);
+					checkCSW(stage, true);
+					// $( this ).dialog( "close" );
+					// $.post("core/DataWrangler.php", {"page":"csw_data", "userid":userid, "data":csw_data});
+					// if(stage<3)
+					// {
+					// 	$("#contingencies"+stage).hide(500);
+					// 	$("#contingencies"+(stage+1)).show(500);
 
-		}
-		else
-		{
-			$("#contingencies"+stage).hide(500);
-			// console.log("it's getting to the else in the button Continue button function")
-			
-
-			DoPANAS();
-		}
-
-
-		}
+					// }
+					// else
+					// {
+					// 	$("#contingencies"+stage).hide(500);
+					// 	// console.log("it's getting to the else in the button Continue button function")
+						
+					// 	DoPANAS();
+					// }
+				}
 			},// end first argument for popup dialog- condition where Continue button is clicked. 
 			{
 				text: "Cancel",
@@ -1790,8 +1780,6 @@ function checkCSW(stage, once)
 		{
 			$("#contingencies"+stage).hide(500);
 			$("#contingencies"+(stage+1)).show(500);
-
-
 		}
 		else
 		{
@@ -1801,7 +1789,6 @@ function checkCSW(stage, once)
 			$("#contingencies"+stage).hide(500);
 			// console.log("it's getting to the else in the function outside the dialog box")
 			
-
 			DoPANAS();
 		}
 	}

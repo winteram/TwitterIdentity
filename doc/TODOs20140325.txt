@@ -3,6 +3,14 @@ TODOs
 X IUname, Agree (& Referred by?) are not being recorded
 X new buttons & text for self aspects needs to be properly formatted
 X images for buttons on last page are broken
-- SQL injection test
+X in aspects, Facebook & Twitter not being updated
 X Follow @groupID button in index.php not working
-- Not recording country: default US or remove?
+X skipping validation on IUConsent if only one account logged in
+X started not being logged
+O Not recording country: default US or remove?
+O No survey on own-form-identity
+X comments on aspects for FB & Twitter not being stored
+X PANAS not updating
+X feedback at end not registering
+- SQL injection test
+- not-repeatable bug in error validation for CSW (probably race condition)

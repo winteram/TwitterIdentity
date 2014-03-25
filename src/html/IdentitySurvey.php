@@ -39,8 +39,8 @@ else
 
 <body bgcolor="#F5F3EF">
 	<div id="userid" style="display:none"><?php echo $_SESSION['userid']; ?></div>
-	<div id="fb_status" style="display:none"><?php echo $_SESSION['fb_status']; ?></div>
-	<div id="tw_status" style="display:none"><?php echo $_SESSION['tw_status']; ?></div>
+	<div id="fb_status" style="display:none"><?php echo isset($_SESSION['fb_status']) ? 1 : 0; ?></div>
+	<div id="tw_status" style="display:none"><?php echo isset($_SESSION['tw_status']) ? 1 : 0; ?></div>
 
 	<div class="header"> 
 		<span id="idproj-hdr"><img src="core/img/idproj.jpg">

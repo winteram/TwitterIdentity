@@ -46,7 +46,6 @@ case 'demog':
   // ensure valid values will be entered
   $gender = isset($demogs['gender']) ? $demogs['gender'] : "NULL";
   $yob = isset($demogs['age']) ? intval($demogs['age']) : "NULL";
-  $country = isset($demogs['loc']) ? $demogs['loc'] : "NULL";
   $ethnicity = isset($demogs['races']) ? implode(",",$demogs['races']) : "NULL";
   $income = isset($demogs['income']) ? $demogs['income'] : "NULL";
   $edu = isset($demogs['edu']) ? $demogs['edu'] : "NULL";
@@ -59,18 +58,17 @@ case 'demog':
   $result = $rqst->fetch(PDO::FETCH_ASSOC);
   if(isset($result['Id']))
   {
-    $query = "UPDATE survey SET gender=:gender, yob=:yob, country=:country, ethnicity=:ethnic, income=:income, edu=:edu WHERE Id=:userid";
+    $query = "UPDATE survey SET gender=:gender, yob=:yob, ethnicity=:ethnic, income=:income, edu=:edu WHERE Id=:userid";
   }
   else
   {
-    $query = "INSERT INTO survey SET Id=:userid, gender=:gender, yob=:yob, country=:country, ethnicity=:ethnic, income=:income, edu=:edu";
+    $query = "INSERT INTO survey SET Id=:userid, gender=:gender, yob=:yob, ethnicity=:ethnic, income=:income, edu=:edu, started=NOW()";
   }
 
   // prepare data to enter into db
   $rqst = $dbh->prepare($query);
   $rqst->bindParam(':gender',$gender, PDO::PARAM_STR);
   $rqst->bindParam(':yob',$yob, PDO::PARAM_INT);
-  $rqst->bindParam(':country',$country, PDO::PARAM_STR);
   $rqst->bindParam(':ethnic',$ethnicity, PDO::PARAM_STR);
   $rqst->bindParam(':income',$income, PDO::PARAM_INT);
   $rqst->bindParam(':edu',$edu, PDO::PARAM_STR);
@@ -226,20 +224,26 @@ case 'smqs': // social media questionnaire
     $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
     $rqst->bindParam(':name',$name, PDO::PARAM_STR);
     $row = $rqst->execute();
-    $result = $rqst->fetch(PDO::FETCH_ASSOC);
-    if(isset($result))
+    $aspectid = $rqst->fetch(PDO::FETCH_ASSOC);
+    if(isset($aspectid))
     {
       if($smedia=='fb')
       {
-        $rqst = $dbh->prepare("UPDATE aspects SET Facebook=:smval WHERE Id=:aspectid");
-        $rqst->bindParam(':smval',$smq, PDO::PARAM_INT);
+        $smval = isset($smq['val']) ? $smq['val'] : -1;
+        $smcom = isset($smq['com']) ? $smq['com'] : "NULL";
+        $rqst = $dbh->prepare("UPDATE aspects SET Facebook=:smval, Facebook_comments=:smcom WHERE Id=:aspectid");
+        $rqst->bindParam(':smval',$smval, PDO::PARAM_INT);
+        $rqst->bindParam(':smcom',$smq, PDO::PARAM_STR);
         $rqst->bindParam(':aspectid',$aspectid['Id'], PDO::PARAM_INT);
         $rqst->execute();
       } 
       else if($smedia=='tw')
       {
-        $rqst = $dbh->prepare("UPDATE aspects SET Twitter=:smval WHERE Id=:aspectid");
-        $rqst->bindParam(':smval',$smq, PDO::PARAM_INT);
+        $smval = isset($smq['val']) ? $smq['val'] : -1;
+        $smcom = isset($smq['com']) ? $smq['com'] : "NULL";
+        $rqst = $dbh->prepare("UPDATE aspects SET Twitter=:smval, Twitter_comments=:smcom WHERE Id=:aspectid");
+        $rqst->bindParam(':smval',$smval, PDO::PARAM_INT);
+        $rqst->bindParam(':smcom',$smcom, PDO::PARAM_STR);
         $rqst->bindParam(':aspectid',$aspectid['Id'], PDO::PARAM_INT);
         $rqst->execute();
       }
@@ -350,6 +354,7 @@ case 'comments': // comments on survey
   $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
   $rqst->execute();
 
+  // TODO: do wen need to do this with FB?  Probably can do later.
   // Check if accountnode exists for twitter id
   $rqst = $dbh->prepare("SELECT Id, Marked, Seed FROM twitteraccountnode WHERE Id=:userid");
   $rqst->bindParam(':userid',$userid, PDO::PARAM_STR);
