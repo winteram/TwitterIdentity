@@ -12,5 +12,5 @@ O No survey on own-form-identity
 X comments on aspects for FB & Twitter not being stored
 X PANAS not updating
 X feedback at end not registering
-- SQL injection test
+X SQL injection test
 - not-repeatable bug in error validation for CSW (probably race condition)

@@ -131,13 +131,22 @@ function verify_consent(once)
 <?php
    if( isset($_GET['error']) ) {
      if( $_GET['error']==1) {
-       echo "<div class='error'> We're sorry, there was a problem with the oAuth
+       echo "<div class='error'> We're sorry, there was a problem with authentication
        in Twitter.  Please ensure you have cookies enabled for this site.
        Scroll to the bottom of the page to try again. </div>";
      }
-     else {
+     else if( $_GET['error']==2) {
        echo "<div class='error'> We're sorry, there was a problem with the
        authentication through Twitter.  Please try again. </div>";
+     } 
+     else if( $_GET['error']==3) {
+       echo "<div class='error'> We're sorry, there was a problem with authentication
+       in Facebook.  Please ensure you have cookies enabled for this site.
+       Scroll to the bottom of the page to try again. </div>";
+     }
+     else if( $_GET['error']==4) {
+       echo "<div class='error'> We're sorry, there was a problem with the
+       authentication through Facebook.  Please try again. </div>";
      }
    }
 ?>

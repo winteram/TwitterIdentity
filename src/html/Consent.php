@@ -4,9 +4,11 @@ require_once('core/fb-php/src/facebook.php');
 require_once('../safe/config.inc');
 
 $_SESSION['userid'] = $userid = isset($_SESSION['userid']) ? $_SESSION['userid'] : bin2hex(openssl_random_pseudo_bytes(16));
-$fb_loggedin = isset($_SESSION['fb_status']) ? "core/images/checkbox_checked.png" : "core/images/checkbox_unchecked.png";
-$tw_loggedin = isset($_SESSION['tw_status']) ? "core/images/checkbox_checked.png" : "core/images/checkbox_unchecked.png";
-$verified = (isset($_SESSION['tw_status']) || isset($_SESSION['fb_status'])) ? 1 : 0;
+$_SESSION['IU'] = 1;
+$fb_loggedin = isset($_SESSION['fb_status']) ? "core/img/checkbox_checked.png" : "core/img/checkbox_unchecked.png";
+$tw_loggedin = isset($_SESSION['tw_status']) ? "core/img/checkbox_checked.png" : "core/img/checkbox_unchecked.png";
+$fb_verified = isset($_SESSION['fb_status']) ? 1 : 0;
+$tw_verified = isset($_SESSION['tw_status']) ? 1 : 0;
 
 $config = array(
       'appId' => APP_ID,
@@ -30,7 +32,6 @@ $par['scope'] = "offline_access,
                     read_stream";
 $par['redirect_uri'] = 'http://smallsocialsystems.com/groupid/FBAuth.php';
 $loginUrl = $facebook->getLoginUrl($par);
-
 ?>
 
 <html>
@@ -38,38 +39,94 @@ $loginUrl = $facebook->getLoginUrl($par);
 <title>Self Aspects in Social Media</title>
 <script src="core/jquery-ui-1.8.21.custom/js/jquery-1.7.2.min.js" type="text/javascript"></script>
 <script src="core/jquery-ui-1.8.21.custom/js/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
+<script> $(document).ready(function() {
+    $( "#error_popup" ).dialog({
+      autoOpen: false,
+      resizable: false,
+      modal: true
+    });
+  });
+</script>
 <script type="text/javascript">
-function verify_consent() 
+function verify_consent(once) 
 {
-
+    once = typeof once !== 'undefined' ? once : false; // This line sets once to false if not defined
     var agree = false;
     var error = false;
     var errormsg = "";
-    var verified = <?php echo $verified; ?>;
+    var fb_verified = <?php echo $fb_verified; ?>;
+    var tw_verified = <?php echo $tw_verified; ?>;
+    var verified = fb_verified + tw_verified;
+    var IUname = $("#IUName").val();
 
     if($("#agree").is(':checked')) { agree = true; }
-    
-    if (!verified) {
+
+    if (verified==0) {
       errormsg += "<p>Please log in with a Twitter and/or Facebook account</p>";
       error=true;
-    } else if(!agree) {
+    } 
+    if(!agree) {
       errormsg += "<p>Please indicate you have read the information on this page and agree to participate in the study by checking the first box above</p>";
       error=true;
     } 
-    if(error==true) {
-      $("#error_consent").html(errormsg)
-    } else {
-       window.top.location.href = "IdentitySurvey.php?agree=" + (agree ? 1 : 0);
+    if( IUname.length < 3) {
+      errormsg += "<p> Please indicate your IU username in the text box above <p>";
+      error=true;
     }
-        
+
+    if((error==false && verified==2) || (verified==1 && once==true)) {
+      $("#consent").submit();
+      // console.log('ready for next step');
+    } 
+    else if (error==true) 
+    {
+      $('#error_popup').html(errormsg);
+      $('#error_popup').dialog( "option", "buttons", [
+        {
+          text: "Cancel",
+          click: function() {
+            $( this ).dialog( "close" );
+          }
+        }
+      ]);
+      $('#error_popup').dialog("open");
+    } 
+    else if (verified==1) 
+    {
+      errormsg = "You are only logged in with ";
+      errormsg += fb_verified==1 ? "Facebook." : "Twitter.";
+      errormsg += " If you have a ";
+      errormsg += fb_verified==1 ? "Twitter " : "Facebook ";
+      errormsg += "account, please hit cancel and log in with that account as well.";
+      $('#error_popup').html(errormsg);
+      $('#error_popup').dialog( "option", "buttons", [
+        {
+          text: "Continue",
+          click: function() {
+            verify_consent(true);
+          }
+        },
+        {
+          text: "Cancel",
+          click: function() {
+            $( this ).dialog( "close" );
+          }
+        }
+      ]);
+      $('#error_popup').dialog("open");
+    }
 }
 </script>
-<link rel="shortcut icon" href="core/images/idproj.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="core/img/idproj.ico" type="image/x-icon" />
 <link rel='stylesheet' type='text/css'
       href='core/jquery-ui-1.8.21.custom/css/pepper-grinder/jquery-ui-1.8.21.custom.css' />
-<link rel='stylesheet' type='text/css' href='core/IdentitySurvey.css' />
+<link rel='stylesheet' type='text/css' href='core/css/IdentitySurvey.css' />
 </head>
 <body bgcolor="#F5F3EF">
+<div class="header"> 
+  <span id="idproj-hdr"><img src="core/img/idproj.jpg">
+  <img src="core/img/Aspects_Cover.png" alt="Self Aspects in Social Media"></span>
+</div>
 
 <?php
    if( isset($_GET['error']) ) {
@@ -93,15 +150,11 @@ function verify_consent()
      }
    }
 ?>
-<div class="header"> 
-  <span id="idproj-hdr"><img src="core/images/idproj.jpg">
-  <img src="core/images/idproj_title.jpg" alt="The Group Identity Project"></span>
-</div>
-
 <div id="consent-form">
 <h2 style="text-align:right">Study #1208009352</h2>
 <h2 style="text-align:center">INDIANA UNIVERSITY INFORMED CONSENT STATEMENT FOR</h2>
 <h2 style="text-align:center">Self Aspects in Social Media</h2>
+
 <p>
 
 You are invited to participate in a research study of how people express
@@ -142,7 +195,7 @@ participating in this research.
 
 <h4>
 
-PROCEDURES FOR THE STUDY:
+PROCEDURE FOR THE STUDY:
 
 </h4>
 
@@ -302,46 +355,48 @@ research study.
 </p>
 <p>
 
-I will be emailed a copy of this consent for my records. I agree to take part in
+On request, I will be emailed a copy of this consent for my records. I agree to take part in
 this study.
 
 </p>
 <div id="consent-form-box">
-  <form name="consent">
-    <div>
-      <input type="checkbox" id="agree" name="agree"/>
-
-      By checking this box, I am indicating that I have read the above description of
-      a research project; I am older than 18 years of age; I have had all of my
-      questions answered to my satisfaction; and I agree to participate in this
-      research.
-
-    </div>
-    <div>
-      <p>
-
-      By checking the box above and clicking a link below, you will be digitally
-      signing this document.  You will be asked to authenticate your account through
-      Twitter and Facebook through the links below.
-
-      </p>
-    </div>
-    <div id="error_consent" class="error"></div>
-    <div class="sign-in">
-      <img id="tw-check" src=<?php echo $tw_loggedin; ?> width="40" height="40" />
-      <a href="Authenticate.php"> <img src="core/images/lighter.png" alt="Sign in with Twitter"/> </a>
-    </div>
+  <form id="consent" name="consent" action="IdentitySurvey.php" method="POST">
+    You will be asked to authenticate your account through Twitter and/or Facebook through the links below.
+    <div class ="error" id="error_popup"></div>
     <div class='sign-in'>
       <img id="fb-check" src=<?php echo $fb_loggedin; ?> width="40" height="40" />
-      <a href=<?php echo $loginUrl;?> > <img src="core/images/fb-login-button.png" alt="Sign in with Facebook"/></a>
+      <a href=<?php echo $loginUrl;?> > <img src="core/img/fb-login-button.png" alt="Sign in with Facebook"/></a>
     </div>
+    <div class="sign-in">
+      <img id="tw-check" src=<?php echo $tw_loggedin; ?> width="40" height="40" />
+      <a href="Authenticate.php"> <img src="core/img/lighter.png" alt="Sign in with Twitter"/> </a>
+    </div>
+
+
+    <div><input type="checkbox" id="agree" name="agree"/>
+
+    By checking this box, I am indicating that I have read the above description of
+    a research project; I am older than 18 years of age; I have had all of my
+    questions answered to my satisfaction; and I agree to participate in this
+    research.
+
+    </div>
+
+    <div>
+      <p>
+    By clicking a link and checking the above box, you will be digitally
+    signing this document.
+      </p>
+
     <div class='sign-in'>
       <input type="button" value="Continue to survey" onClick="verify_consent();"/>
+    </div>
+
     </div>
   </form>
 </div>
 
-<div class="center"><img src="core/images/ICSstamp.png" alt="IRB approval stamp" style="max-width:250px;"/></div>
+<div class="center"><img src="core/img/ICSstamp.png" alt="IRB approval stamp" style="max-width:250px;"/></div>
 </div>
 </body>
 </html>
