@@ -58,7 +58,9 @@ else
 			The entire survey should take less than 50 minutes and could greatly help us understand how people express their 
 			identities in on-line social networks. Thanks in advance for your participation. </p>
 		<p> *Note: DO NOT attempt to go back to a section by hitting the back button on your browser. Doing this will end the
-			survey.</p>  
+			survey. </p>  
+		<p> *Note: Though many questions will appear similar to each other, each question has unique features and is important 
+			for our analysis. We encourage you to answer them all. </p>
 		<input type=reset class="ctr" id="fin_intro" value="Continue" />			
 	</div>
 
@@ -118,7 +120,7 @@ else
 
 				<li id ="incomeq">
 					<p> 
-						<label for="income" >Annual Income (in US dollars; click <a href="http://finance.yahoo.com/currency-converter/?u#from=GBP;to=USD;amt=1" target="_blank">here</a> for currency conversion)</label>        
+						<label for="income" >Annual Household Income</label>        
 					</p> 
 					<p>
 						<select id = "income" name ="income">

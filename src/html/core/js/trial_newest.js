@@ -1395,8 +1395,10 @@ function Show_media_qs() //asks specific questions about social media usage.
 	// TODO: make this depend on whether they've logged into twitter, facebook, or both
 	fb_status = $('#fb_status').html();
 	tw_status = $('#tw_status').html();
+	// console.log(fb_status);
+	// console.log(tw_status);
 
-	if(fb_status=='verified') 
+	if(fb_status=='1') 
 	{
 		$('#facebookQs').show(); 
 	}

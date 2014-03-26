@@ -58,11 +58,11 @@ case 'demog':
   $result = $rqst->fetch(PDO::FETCH_ASSOC);
   if(isset($result['Id']))
   {
-    $query = "UPDATE survey SET gender=:gender, yob=:yob, ethnicity=:ethnic, income=:income, edu=:edu WHERE Id=:userid";
+    $query = "UPDATE survey SET gender=:gender, yob=:yob, ethnicity=:ethnic, fam_income=:income, edu=:edu WHERE Id=:userid";
   }
   else
   {
-    $query = "INSERT INTO survey SET Id=:userid, gender=:gender, yob=:yob, ethnicity=:ethnic, income=:income, edu=:edu, started=NOW()";
+    $query = "INSERT INTO survey SET Id=:userid, gender=:gender, yob=:yob, ethnicity=:ethnic, fam_income=:income, edu=:edu, started=NOW()";
   }
 
   // prepare data to enter into db
@@ -233,7 +233,7 @@ case 'smqs': // social media questionnaire
         $smcom = isset($smq['com']) ? $smq['com'] : "NULL";
         $rqst = $dbh->prepare("UPDATE aspects SET Facebook=:smval, Facebook_comments=:smcom WHERE Id=:aspectid");
         $rqst->bindParam(':smval',$smval, PDO::PARAM_INT);
-        $rqst->bindParam(':smcom',$smq, PDO::PARAM_STR);
+        $rqst->bindParam(':smcom',$smcom, PDO::PARAM_STR);
         $rqst->bindParam(':aspectid',$aspectid['Id'], PDO::PARAM_INT);
         $rqst->execute();
       } 
