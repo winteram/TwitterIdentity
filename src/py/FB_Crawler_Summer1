@@ -1,0 +1,25 @@
+
+import sys, os
+
+import collections
+
+sys.path.append('C:\Users\Asaf\Documents\GitHub\TwitterIdentity\src\py')
+import pymysql
+
+import pymysql
+import facebook
+from encrypt import *
+
+
+# Set up connection
+conn = pymysql.connect(host='smallsocialsystems.com', port=3306, user='groupid', passwd='letspublish', db='gidb')
+cur = conn.cursor()
+
+query="SELECT fbid,IUName FROM users JOIN survey ON users.Id=survey.Id WHERE (ended < '2014-04-12 13:26:03' AND fbid != '')" 
+
+graph = facebook.GraphAPI(oauth_access_token)
+
+profile = graph.get_object(userid)
+
+
+friends = graph.get_connections(userid, "friends")

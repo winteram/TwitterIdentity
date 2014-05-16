@@ -14,7 +14,9 @@ cur = conn.cursor()
 
 # <codecell>
 
-query = "SELECT * FROM fbconnectionaccounts c JOIN fb_profile p ON c.Id=p.Id WHERE username='%s'" % encode_salt('winteram')
+query = "SELECT * FROM fbconnectionaccounts c JOIN visitors p ON c.Id=Id WHERE username='%s'" % encode_salt('winteram')
+
+print query
 cur.execute(query)
 
 # <codecell>
