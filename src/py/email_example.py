@@ -5,7 +5,7 @@ toaddrs  = 'asaf12@gmail.com'
 msg = 'Testing this out'
 
 
-# Credentials (if needed)
+# Credentials (if needed6  
 username = 'asaf12'
 password = 'bepresent'
 
