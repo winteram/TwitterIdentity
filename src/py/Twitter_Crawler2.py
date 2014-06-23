@@ -42,9 +42,13 @@ cur.execute(query)
 
 raw=cur.fetchall()
 
-#clean_again=[(raw[i][0],decode_salt(raw[i][1]), decode_salt(raw[i][2])) for i in range(0,621)]
+#decoded
 
-clean_again=[(raw[i][0],raw[i][1], raw[i][2]) for i in range(0,621)]
+clean_again=[(raw[i][0],decode_salt(raw[i][1]), decode_salt(raw[i][2])) for i in range(0,621)]
+
+#undecoded
+
+#clean_again=[(raw[i][0],raw[i][1], raw[i][2]) for i in range(0,621)]
 
 #This is a little bizarre, I can't seem to decode the last 3. 
 
@@ -55,8 +59,8 @@ for i in clean_again[:1]:
 
     oauth_token=i[1]
     oauth_secret=i[2]
-    t = Twitter(auth=OAuth(oauth_token, oauth_secret, CONSUMER_KEY, CONSUMER_SECRET))
-    RPaul = t.statuses.user_timeline(count=200)
+    t = Twitter(auth=OAuth(oauth_token, oauth_secret, CONSUMER_KEY, CONSUMER_SECRET)) 
+    status = t.statuses.user_timeline(count=200)
     
 
 
