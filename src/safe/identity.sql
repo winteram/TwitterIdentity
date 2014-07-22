@@ -15,7 +15,7 @@ DROP DATABASE IF EXISTS `gidb`;
 CREATE DATABASE IF NOT EXISTS `gidb` /*!40100 DEFAULT CHARACTER SET utf8 */;
 USE `gidb`;
 
-DROP TABLE IF EXISTS `users`;
+DROP TABLE IF EXISTS `users`;  
 CREATE TABLE IF NOT EXISTS `users` (
   `Id` VARCHAR(32) NOT NULL, 
   `Twitid` VARCHAR(32) NOT NULL, 
@@ -41,7 +41,7 @@ CREATE TABLE IF NOT EXISTS `tw_accounttype` (
 INSERT INTO `tw_accounttype` (`Id`, `Value`) VALUES
 	(1, 'Unknown'),
 	(2, 'Authorized'),
-	(3, 'Protected'),
+	(3, 'Protected'), 
 	(4, 'Non_Existent');
 /*!40000 ALTER TABLE `tw_accounttype` ENABLE KEYS */;
 
