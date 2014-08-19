@@ -36,7 +36,7 @@ conn = pymysql.connect(host='smallsocialsystems.com', port=3306, user='groupid',
 cur = conn.cursor()
 
 
-query="Select t.Id,AccessTokenSecret,AccessToken,FBid,Twitid,IUname from twitterconnectionaccounts t join users u on t.Id=u.Id and IUname='wimason'"
+query="Select t.Id,AccessTokenSecret,AccessToken,FBid,Twitid,IUname from twitterconnectionaccounts t join users u on t.Id=u.Id"
 
 cur.execute(query)
 
