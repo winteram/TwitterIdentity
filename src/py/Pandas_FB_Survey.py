@@ -1,3 +1,8 @@
+'''
+The first ~ 300 lines just create the dataframes with new entries. These are then pickled. After that, there are analysis functions
+'''
+
+
 import numpy as np
 
 from pandas import DataFrame, Series, concat
@@ -41,13 +46,26 @@ def FrameMaker(tablename):
     return DataFrame(record)
 
 
-# For some reason Independents were labeled as '' in the database. So, I'm changing this in the dataframe.
 
 survey=FrameMaker('survey')
+
+aspects=FrameMaker('aspects')
+
+traits=FrameMaker('aspects_traits')
+
+
+# For some reason Independents were labeled as '' in the database. So, I'm changing this in the dataframe.
+
+
 
 party=survey['party']
 
 survey['party']=party.replace('','Independent')
+
+
+
+
+
 
 #Also, for some reason when people didn't answer the questions- they got input as -1. I need to change this- at least for political party right now
 #I could change it for the whole survey, but I need to be sure that negative values aren't somehow important in some way.
@@ -66,9 +84,9 @@ pol_list=all_cols[pol_start:pol_end]
 
 #checked length pol_list is 14, which is the number of items in the political identity survey. All are present.
 
+ 
 for i in pol_list:
-    survey[i]=survey[i].replace(-1,None)   
-
+    survey[i]=survey[i].replace(-1,None)  
  
 
 
@@ -146,9 +164,153 @@ AddFactor(composite,dframe)
 
 
 
+
 #Hm... I might have been able to put my factors in one big dictionary with the factor names as keys- as opposed to variables then I wouldn't have to go through this
 #process of pulling them out like this- I could also then just put it into the same function so that it automatically plots whatever I'm after in histogram- add another
 #variable for the name I want to give to the file with multiple factors. 
+
+
+
+
+#When writing an abstract function that plots these treat even and odd numbers to be plotted as different cases. This is the case of an odd number of factors. It's the n-1 row, I believe that should be
+#treated differently
+
+
+for factor in factor_set:
+    AddFactor(factor,dframe)
+    
+    
+
+#Step 1- map the trait numbers to positivity or negativity. 
+positive_traits=[(1,'capable'),(2,'comfortable'),(3,'comunicative'),(4,'confident'),(7,'energetic'),(8,'friendly'),(9,'fun and entertaining'),(10,'giving'),(11,'happy'),(12,'hardworking'),
+(17,'independent'),(20,'intelligent'),(21,'interested'),(27,'lovable'),(28,'mature'),(29,'needed'),(30,'optimistic'),(31,'organized'),(32,'outgoing'),(35,'successful')]
+negative_traits=[(5,'disagreeing'),(6,'disorganized'),(13,'hopeless'),(14,'immature'),(15,'incompetent'),(16,'indecisive'),(18,'inferior'),(19,'insecure'),(22,'irresponsible'),(23,'irritable'),(24,'isolated'),(25,'lazy'),
+(26,'like a failure'),(33,'sad and blue'),(34,'self-centered'),(36,'tense'),(37,'uncomfortable'),(38,'unloved'),(39,'weary'),(40,'worthless')]
+
+pos_traitId=[i[0] for i in positive_traits]
+neg_traitId=[i[0] for i in negative_traits]
+
+
+#Create a new column in the traits dataframe, that will indicate whether a trait is positive or negative. Positive=1, Negative=-1
+
+traits['Valence']=None #Initialize the column
+
+for i,j in enumerate(traits.TraitId):
+    if int(j) in pos_traitId:
+        traits['Valence'][i]=1
+    else:
+        traits['Valence'][i]=-1
+        
+#Later make a bar graph showing the frequency of expression of different traits in self-aspects. 
+
+#Now for some code that goes through each self-aspect and in the aspect table, then creates a new column that represents the average valence of the traits associated with it. 
+
+aspects['avg_val']=None # Initialize a column in aspects called avg_val, stands for average valence. 
+
+for i,j in enumerate(aspects.Id):
+    k=traits[traits.aspectId==j]
+    aspects['avg_val'][i]=mean(k.Valence)
+    
+
+#Now we can look at the average valence of self-aspects and how likely people are to express this on Twitter and Facebook.
+#What is the relationship between how positively someone feels about an aspect and the relative proportion of positive and negative traits.
+
+
+        
+            
+#Let's make a graph of the frequency of each each trait listed in self-aspects. First we make a new column in the dataframe for traits that represent the name of the trait.
+
+w=positive_traits+negative_traits
+ 
+traits_dic={}
+ 
+for i in w:
+    traits_dic[str(i[0])]=i[1]
+
+traits['names']=None
+
+for i,j in enumerate (traits.TraitId):
+    traits['names'][i]=traits_dic[j]
+    
+
+
+
+#Make a score of normative traits- more frequent = more normative.
+
+#Start by making a new column in the dataframe traits that gives the relative proportion of a given trait in the population of traits.
+traits['relative']=None
+
+#Make a new dictionary that maps the name of a trait to its relative frequency:
+
+traits_rel={}
+
+k=traits.names.value_counts() # Gives a data frame with the names and frequencies of each trait. 
+tot=float(sum(k)) # this gives the total number of counts
+for name in k.keys():
+    traits_rel[name]= k[name]/tot
+
+
+for i,j in enumerate(traits.names):
+    traits['relative'][i]=traits_rel[j]
+    
+#Going to recycle some code here:
+
+aspects['norm_avg']=None # Initialize a column in aspects that represents how normative the traits listed in an aspect are. 
+
+#In the aspects table assign this column a value that is the average normative score for the traits listed.
+for i,j in enumerate(aspects.Id):
+    k=traits[traits.aspectId==j]
+    aspects['norm_avg'][i]=mean(k.relative)
+
+
+
+
+
+#What is the relationship between the relative positivity of these aspects and positivity or negativity on the PANAS scale?
+
+#Must create PANAS scores first- one for positive affect. One for negative affect
+
+
+#I will just use my AddFactor function for this and get the input in the right format:
+
+#just make a quick function to get in the right format- since I have a list of the items.
+
+PN_Positive={"PANAS_Pos":[("interested",1),("excited",1),("strong",1),("enthusiastic",1),("proud",1),("alert",1),("inspired",1),("determined",1),("attentive",1),("active",1)]}
+
+PN_Negative={"PANAS_Neg":[("distressed",1),("upset",1),("guilty",1),("scared",1),("hostile",1),("tired",1),("irritable",1),("ashamed",1),("nervous",1),("jittery",1),("afraid",1)]}
+
+#PANAS_facts=[PN_Positive,PN_Negative]
+
+AddFactor(PN_Positive,survey)
+
+AddFactor(PN_Negative,survey)
+
+#Make another factor- Tot_Affect, that is a combination of both factors- (Positive Affect) - (Negative Affect)
+
+tot_affect={'tot_affect':[('PANAS_Pos',1),('PANAS_Neg',-1)]}
+
+AddFactor(tot_affect,survey)
+
+#Now create a new column in survey that represents avg valence for self-aspects someone generated- all self aspects. This can the be correlated with PANAS. 
+
+survey['aspect_val']=None
+
+for i,j in enumerate(survey.Id):
+    k=aspects[aspects.UserId==j]
+    survey['aspect_val'][i]=mean(k.avg_val)
+    
+survey.save('DataFrames/survey')
+
+traits.save('DataFrames/traits')
+
+aspects.save('DataFrames/aspects')
+
+
+'''
+
+Now Starts Analysis'''
+
+
 
 factor_names=['pol_composite', 'solidarity','satisfaction', 'centrality','self_stereo','ingroup_homo']
 
@@ -156,8 +318,6 @@ factor_names=['pol_composite', 'solidarity','satisfaction', 'centrality','self_s
 CSW_names=['appearance', 'family_support', 'competition', 'GodLove', 'academics', 'virtue', 'approval']
 
 
-#When writing an abstract function that plots these treat even and odd numbers to be plotted as different cases. This is the case of an odd number of factors. It's the n-1 row, I believe that should be
-#treated differently
 
 fig, axes= plt.subplots(2,3)
 
@@ -166,7 +326,7 @@ for j in range(2):
     for k in range(3):
 
         z= factor_names[count]
-        axes[j,k].set_title(z)
+        axes[j,k].set_title(z)  
         w=survey[z]
         w.hist(ax=axes[j,k])
         count += 1
@@ -229,17 +389,6 @@ w.hist(ax=ax1)
 #Must mend some of the data. How will null data be dealth with in general? Also, the We don't have a place for Independent in the data frame. If we see a duplicate. Go through the fields and see
 #which of the multiple has the most data- remove the ones that have less data. We know something is a duplicate because the facebook or twitter Id will appear 2 or more times.
 
-
-
-'''
-
-Now I'm just playing around
-
-'''
-
-# This is a nice function to get the lay of the land. 
-
-survey['fb_academic'].describe()
 
   
 #No make a function to create a correlation matrix of many of the things we are interested- correlation between Twitter and Facebook,
@@ -335,9 +484,11 @@ Pair_Cor(survey,pair_list_corr)
 #Now for self-aspects stuff- first I might need to join self-aspects with other survey data. 
 #Make a dataframe from the table aspects
 
-aspects=FrameMaker('aspects')
 
-traits=FrameMaker('aspects_traits')
+Pair_Cor(aspects,[('avg_val','Twitter'),('avg_val','Facebook'),('avg_val','Positive'),('avg_val','Important')])
+
+Pair_Cor(aspects,[('norm_avg','Twitter'),('norm_avg','Facebook'),('norm_avg','Positive'),('norm_avg','Important')])
+
 
 #Looks like this table stores the corresponding
 
@@ -385,124 +536,5 @@ Compare_GroupbyCat(aspects, 'Label',w,['Twitter','Facebook'])
 #positivity or negativity of an aspect (based on traits) and how much people report expressing these things on FB or Twitter.  
 
 
-#Step 1- map the trait numbers to positivity or negativity. 
-positive_traits=[(1,'capable'),(2,'comfortable'),(3,'comunicative'),(4,'confident'),(7,'energetic'),(8,'friendly'),(9,'fun and entertaining'),(10,'giving'),(11,'happy'),(12,'hardworking'),
-(17,'independent'),(20,'intelligent'),(21,'interested'),(27,'lovable'),(28,'mature'),(29,'needed'),(30,'optimistic'),(31,'organized'),(32,'outgoing'),(35,'successful')]
-negative_traits=[(5,'disagreeing'),(6,'disorganized'),(13,'hopeless'),(14,'immature'),(15,'incompetent'),(16,'indecisive'),(18,'inferior'),(19,'insecure'),(22,'irresponsible'),(23,'irritable'),(24,'isolated'),(25,'lazy'),
-(26,'like a failure'),(33,'sad and blue'),(34,'self-centered'),(36,'tense'),(37,'uncomfortable'),(38,'unloved'),(39,'weary'),(40,'worthless')]
-
-pos_traitId=[i[0] for i in positive_traits]
-neg_traitId=[i[0] for i in negative_traits]
-
-
-#Create a new column in the traits dataframe, that will indicate whether a trait is positive or negative. Positive=1, Negative=-1
-
-traits['Valence']=None #Initialize the column
-
-for i,j in enumerate(traits.TraitId):
-    if int(j) in pos_traitId:
-        traits['Valence'][i]=1
-    else:
-        traits['Valence'][i]=-1
-        
-#Later make a bar graph showing the frequency of expression of different traits in self-aspects. 
-
-#Now for some code that goes through each self-aspect and in the aspect table, then creates a new column that represents the average valence of the traits associated with it. 
-
-aspects['avg_val']=None # Initialize a column in aspects called avg_val, stands for average valence. 
-
-for i,j in enumerate(aspects.Id):
-    k=traits[traits.aspectId==j]
-    aspects['avg_val'][i]=mean(k.Valence)
-    
-
-#Now we can look at the average valence of self-aspects and how likely people are to express this on Twitter and Facebook.
-#What is the relationship between how positively someone feels about an aspect and the relative proportion of positive and negative traits.
-
-Pair_Cor(aspects,[('avg_val','Twitter'),('avg_val','Facebook'),('avg_val','Positive'),('avg_val','Important')])
-        
-            
-#Let's make a graph of the frequency of each each trait listed in self-aspects. First we make a new column in the dataframe for traits that represent the name of the trait.
-
-w=positive_traits+negative_traits
- 
-traits_dic={}
- 
-for i in w:
-    traits_dic[str(i[0])]=i[1]
-
-traits['names']=None
-
-for i,j in enumerate (traits.TraitId):
-    traits['names'][i]=traits_dic[j]
-    
-
-
-
-#Make a score of normative traits- more frequent = more normative.
-
-#Start by making a new column in the dataframe traits that gives the relative proportion of a given trait in the population of traits.
-traits['relative']=None
-
-#Make a new dictionary that maps the name of a trait to its relative frequency:
-
-traits_rel={}
-
-k=traits.names.value_counts() # Gives a data frame with the names and frequencies of each trait. 
-tot=float(sum(k)) # this gives the total number of counts
-for name in k.keys():
-    traits_rel[name]= k[name]/tot
-
-
-for i,j in enumerate(traits.names):
-    traits['relative'][i]=traits_rel[j]
-    
-#Going to recycle some code here:
-
-aspects['norm_avg']=None # Initialize a column in aspects that represents how normative the traits listed in an aspect are. 
-
-#In the aspects table assign this column a value that is the average normative score for the traits listed.
-for i,j in enumerate(aspects.Id):
-    k=traits[traits.aspectId==j]
-    aspects['norm_avg'][i]=mean(k.relative)
-
-
-Pair_Cor(aspects,[('norm_avg','Twitter'),('norm_avg','Facebook'),('norm_avg','Positive'),('norm_avg','Important')])
-
-
-#What is the relationship between the relative positivity of these aspects and positivity or negativity on the PANAS scale?
-
-#Must create PANAS scores first- one for positive affect. One for negative affect
-
-
-#I will just use my AddFactor function for this and get the input in the right format:
-
-#just make a quick function to get in the right format- since I have a list of the items.
-
-PN_Positive={"PANAS_Pos":[("interested",1),("excited",1),("strong",1),("enthusiastic",1),("proud",1),("alert",1),("inspired",1),("determined",1),("attentive",1),("active",1)]}
-
-PN_Negative={"PANAS_Neg":[("distressed",1),("upset",1),("guilty",1),("scared",1),("hostile",1),("tired",1),("irritable",1),("ashamed",1),("nervous",1),("jittery",1),("afraid",1)]}
-
-#PANAS_facts=[PN_Positive,PN_Negative]
-
-AddFactor(PN_Positive,survey)
-
-AddFactor(PN_Negative,survey)
-
-#Make another factor- Tot_Affect, that is a combination of both factors- (Positive Affect) - (Negative Affect)
-
-tot_affect={'tot_affect':[('PANAS_Pos',1),('PANAS_Neg',-1)]}
-
-AddFactor(tot_affect,survey)
-
-#Now create a new column in survey that represents avg valence for self-aspects someone generated- all self aspects. This can the be correlated with PANAS. 
-
-survey['aspect_val']=None
-
-for i,j in enumerate(survey.Id):
-    k=aspects[aspects.UserId==j]
-    survey['aspect_val'][i]=mean(k.avg_val)
-    
-    #Now, let's correlate this new value with PANAS
 
 Pair_Cor(survey,[('aspect_val','tot_affect'),('aspect_val','PANAS_Pos'),('aspect_val','PANAS_Neg')])
