@@ -1,0 +1,50 @@
+(dp1
+S'184962750'
+p2
+cexceptions
+ValueError
+p3
+(S'Unterminated string starting at: line 1 column 104882 (char 104881)'
+p4
+tp5
+Rp6
+sS'1059571374'
+p7
+cexceptions
+IndexError
+p8
+(S'list index out of range'
+p9
+tp10
+Rp11
+sS'1720596961'
+p12
+ctwitter.api
+TwitterHTTPError
+p13
+(S'Twitter sent status 401 for URL: 1.1/statuses/user_timeline.json using parameters: (count=200&oauth_consumer_key=zhew9FPCoQGPRnR4PHPB3A&oauth_nonce=249391841844247844&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409812974&oauth_token=1720596961-kWTLKs7tIH5L83ihPbC4pFo1n5dah4KKh042pxa&oauth_version=1.0&oauth_signature=KR7UELhmQv%2FH1MBPGnMNWoOMj%2BA%3D)\ndetails: {"errors":[{"message":"Invalid or expired token","code":89}]}'
+p14
+tp15
+Rp16
+(dp17
+S'uriparts'
+p18
+S'count=200&oauth_consumer_key=zhew9FPCoQGPRnR4PHPB3A&oauth_nonce=249391841844247844&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409812974&oauth_token=1720596961-kWTLKs7tIH5L83ihPbC4pFo1n5dah4KKh042pxa&oauth_version=1.0&oauth_signature=KR7UELhmQv%2FH1MBPGnMNWoOMj%2BA%3D'
+p19
+sS'response_data'
+p20
+S'{"errors":[{"message":"Invalid or expired token","code":89}]}'
+p21
+sS'e'
+curllib2
+HTTPError
+p22
+(tRp23
+(dp24
+S'fp'
+p25
+(iurllib
+addinfourl
+p26
+(dp27
+g25
