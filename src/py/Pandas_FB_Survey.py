@@ -471,12 +471,7 @@ pair_list_corr= [('fb_academic','academics'),('fb_appearance','appearance'),('fb
             ('fb_god','GodLove'),('tw_academic','academics'),('tw_appearance','appearance'),('tw_family','family_support'),
              ('tw_god','GodLove')]
 
-def Pair_Cor(DataFrame,pair_list):
-    for pair in pair_list:
-        one=DataFrame[pair[0]]
-        two=DataFrame[pair[1]]
-        stats=p_corr(one,two)
-        print 'The correlation between %s and %s is %s , the t statistic is %s and the p-value is %s' %(pair[0], pair[1],stats[0],stats[1],stats[2])
+ 
         
 Pair_Cor(survey,pair_list_corr)
 
