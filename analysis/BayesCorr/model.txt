@@ -1,0 +1,22 @@
+
+  model {
+    for(i in 1:n) {
+      x[i,1:2] ~ dmnorm(mu[], prec[ , ])
+    }
+
+    # Constructing the covariance matrix and the corresponding precision matrix.
+    prec[1:2,1:2] <- inverse(cov[,])
+    cov[1,1] <- sigma[1] * sigma[1]
+    cov[1,2] <- sigma[1] * sigma[2] * rho
+    cov[2,1] <- sigma[1] * sigma[2] * rho
+    cov[2,2] <- sigma[2] * sigma[2]
+    
+    # Flat priors on all parameters which could, of course, be made more informative.
+    sigma[1] ~ dunif(x1sd/100, x1sd*10) 
+    sigma[2] ~ dunif(x2sd/100, x2sd*10)
+    rho ~ dunif(-1, 1)
+    mu[1] ~ dnorm(x1Mean, 1/(x1sd*10)^2)
+    mu[2] ~ dnorm(x2Mean, 1/(x2sd*10)^2)
+
+  }
+
